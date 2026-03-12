@@ -1,3 +1,7 @@
+
+Quiz locaux commerciaux v2 · HTML
+Copier
+
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -19,7 +23,7 @@
   }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: 'Barlow', sans-serif; background: var(--black); color: var(--white); min-height: 100vh; }
-
+ 
   /* ── HEADER ── */
   .header {
     background: var(--red);
@@ -45,11 +49,11 @@
   .progress-bar-outer { width: 140px; height: 6px; background: rgba(255,255,255,.25); border-radius: 3px; overflow: hidden; }
   .progress-bar-inner { height: 100%; background: var(--white); border-radius: 3px; transition: width .5s ease; }
   .user-badge { font-size: .8rem; font-weight: 700; background: rgba(0,0,0,.2); padding: 6px 14px; border-radius: 20px; display: none; }
-
+ 
   /* ── SCREENS ── */
   .screen { display: none; }
   .screen.active { display: block; }
-
+ 
   /* ── IDENTITY SCREEN ── */
   .identity-wrap {
     max-width: 520px;
@@ -81,7 +85,7 @@
   }
   .field-group input:focus { outline: none; border-color: var(--red); }
   .field-group input::placeholder { color: #555; }
-
+ 
   /* ── WELCOME ── */
   .welcome { max-width: 780px; margin: 0 auto; padding: 60px 30px; text-align: center; }
   .welcome h1 { font-family: 'Barlow Condensed', sans-serif; font-size: clamp(2.4rem, 6vw, 4.2rem); font-weight: 900; text-transform: uppercase; line-height: 1; margin-bottom: 20px; }
@@ -93,7 +97,7 @@
   .module-card .num { font-family: 'Barlow Condensed', sans-serif; font-size: 2.5rem; font-weight: 900; color: var(--red); line-height: 1; }
   .module-card .label { font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--mid-gray); margin-top: 6px; }
   .module-card .title { font-size: .95rem; font-weight: 700; margin-top: 8px; color: var(--white); }
-
+ 
   /* ── BUTTONS ── */
   .btn { display: inline-block; font-family: 'Barlow', sans-serif; font-weight: 700; font-size: 1rem; text-transform: uppercase; letter-spacing: 1.5px; padding: 16px 40px; border: none; border-radius: 4px; cursor: pointer; transition: all .2s; }
   .btn-red { background: var(--red); color: var(--white); }
@@ -101,14 +105,14 @@
   .btn-outline { background: transparent; color: var(--white); border: 2px solid var(--white); margin-left: 12px; }
   .btn-outline:hover { background: var(--white); color: var(--black); }
   .btn-sm { padding: 10px 24px; font-size: .85rem; }
-
+ 
   /* ── SECTION INTRO ── */
   .section-intro { max-width: 720px; margin: 0 auto; padding: 70px 30px; text-align: center; }
   .section-intro-content { position: relative; }
   .section-tag { display: inline-block; background: var(--red); color: var(--white); font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; padding: 6px 16px; border-radius: 2px; margin-bottom: 20px; }
   .section-intro h2 { font-family: 'Barlow Condensed', sans-serif; font-size: clamp(1.8rem, 4vw, 3rem); font-weight: 900; text-transform: uppercase; margin-bottom: 16px; }
   .section-intro p { color: var(--mid-gray); font-size: 1rem; line-height: 1.6; margin-bottom: 36px; }
-
+ 
   /* ── QUIZ AREA ── */
   .quiz-area { max-width: 760px; margin: 0 auto; padding: 40px 30px; }
   .question-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 28px; }
@@ -143,7 +147,7 @@
   .nav-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
   .score-live { font-size: .85rem; color: var(--mid-gray); font-weight: 600; }
   .score-live span { color: var(--white); font-weight: 700; }
-
+ 
   /* ── RESULTS ── */
   .results { max-width: 720px; margin: 0 auto; padding: 60px 30px; text-align: center; }
   .score-ring { width: 180px; height: 180px; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 0 auto 36px; position: relative; }
@@ -160,40 +164,16 @@
   .rb-val { font-family: 'Barlow Condensed', sans-serif; font-size: 2.2rem; font-weight: 900; color: var(--red); }
   .rb-lbl { font-size: .78rem; color: var(--mid-gray); font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
   .save-status { font-size: .85rem; color: var(--green); margin-top: 16px; min-height: 20px; }
-
-  /* ── DASHBOARD ── */
-  .dashboard { max-width: 1000px; margin: 0 auto; padding: 40px 30px; }
-  .dashboard h2 { font-family: 'Barlow Condensed', sans-serif; font-size: 2rem; font-weight: 900; text-transform: uppercase; margin-bottom: 8px; }
-  .dashboard-sub { color: var(--mid-gray); font-size: .9rem; margin-bottom: 32px; }
-  .dash-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 32px; }
-  .dash-stat { background: #161616; border: 1px solid #2a2a2a; border-radius: 10px; padding: 20px; }
-  .dash-stat-val { font-family: 'Barlow Condensed', sans-serif; font-size: 2.2rem; font-weight: 900; color: var(--red); }
-  .dash-stat-lbl { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--mid-gray); margin-top: 4px; }
-  .dash-table-wrap { background: #161616; border: 1px solid #2a2a2a; border-radius: 12px; overflow: hidden; margin-bottom: 24px; }
-  .dash-table { width: 100%; border-collapse: collapse; }
-  .dash-table th { text-align: left; font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--mid-gray); padding: 14px 20px; border-bottom: 1px solid #2a2a2a; background: #111; }
-  .dash-table td { padding: 14px 20px; font-size: .9rem; border-bottom: 1px solid #1a1a1a; }
-  .dash-table tr:last-child td { border-bottom: none; }
-  .dash-table tr:hover td { background: #1a1a1a; }
-  .score-badge { display: inline-block; padding: 4px 12px; border-radius: 4px; font-size: .78rem; font-weight: 700; }
-  .score-high { background: #0d2d1a; color: var(--green); }
-  .score-mid { background: #2d1f0a; color: var(--orange); }
-  .score-low { background: #2d0d0d; color: #e74c3c; }
-  .dash-actions { display: flex; gap: 12px; margin-bottom: 16px; }
-  .btn-green { background: var(--green); color: #000; }
-  .btn-green:hover { background: #27ae60; }
-  .empty-state { text-align: center; padding: 48px; color: var(--mid-gray); font-size: .95rem; }
-  .refresh-note { font-size: .75rem; color: #555; display: flex; align-items: center; gap: 6px; }
-  .dot-live { width: 7px; height: 7px; border-radius: 50%; background: var(--green); display: inline-block; animation: blink 1.5s infinite; }
+ 
   @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.3} }
-
+ 
   /* ── ANIM ── */
   @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
   .fade-up { animation: fadeUp .4s ease both; }
 </style>
 </head>
 <body>
-
+ 
 <header class="header">
   <div class="header-title">Quiz – Locaux Commerciaux</div>
   <div style="display:flex;align-items:center;gap:16px;">
@@ -204,7 +184,7 @@
     </div>
   </div>
 </header>
-
+ 
 <!-- ════════ IDENTITY ════════ -->
 <div id="screenIdentity" class="screen active">
   <div class="identity-wrap fade-up">
@@ -215,11 +195,9 @@
       <input id="inputNom" type="text" placeholder="Votre nom de famille" maxlength="40" />
     </div>
     <button class="btn btn-red" onclick="confirmIdentity()">Commencer le quiz →</button>
-    <br><br>
-    <button class="btn btn-outline btn-sm" onclick="showDashboard()">🎛 Vue animateur</button>
   </div>
 </div>
-
+ 
 <!-- ════════ WELCOME ════════ -->
 <div id="screenWelcome" class="screen">
   <div class="welcome fade-up">
@@ -233,7 +211,7 @@
     <button class="btn btn-red" onclick="startQuiz()">Démarrer le quiz</button>
   </div>
 </div>
-
+ 
 <!-- ════════ SECTION INTRO ════════ -->
 <div id="screenSection" class="screen">
   <div class="section-intro fade-up">
@@ -245,7 +223,7 @@
     </div>
   </div>
 </div>
-
+ 
 <!-- ════════ QUIZ ════════ -->
 <div id="screenQuiz" class="screen">
   <div class="quiz-area fade-up">
@@ -275,7 +253,7 @@
     </div>
   </div>
 </div>
-
+ 
 <!-- ════════ RESULTS ════════ -->
 <div id="screenResults" class="screen">
   <div class="results fade-up">
@@ -297,44 +275,7 @@
     <div class="save-status" id="saveStatus"></div>
   </div>
 </div>
-
-<!-- ════════ DASHBOARD ANIMATEUR ════════ -->
-<div id="screenDashboard" class="screen">
-  <div class="dashboard fade-up">
-    <h2>📊 Résultats — Vue Animateur</h2>
-    <div class="dashboard-sub">Tous les participants ayant terminé le quiz apparaissent ici.</div>
-    <div class="dash-stats">
-      <div class="dash-stat"><div class="dash-stat-val" id="d-total">0</div><div class="dash-stat-lbl">Participants</div></div>
-      <div class="dash-stat"><div class="dash-stat-val" id="d-avg">—</div><div class="dash-stat-lbl">Score moyen QCM</div></div>
-      <div class="dash-stat"><div class="dash-stat-val" id="d-best">—</div><div class="dash-stat-lbl">Meilleur score</div></div>
-      <div class="dash-stat"><div class="dash-stat-val" id="d-pct">—</div><div class="dash-stat-lbl">Taux réussite global</div></div>
-    </div>
-    <div class="dash-actions">
-      <button class="btn btn-red btn-sm" onclick="loadDashboard()">🔄 Actualiser</button>
-      <button class="btn btn-green btn-sm" onclick="exportCSV()">⬇ Export CSV</button>
-      <button class="btn btn-outline btn-sm" onclick="resetScores()">🗑 Effacer tout</button>
-    </div>
-    <div class="refresh-note"><span class="dot-live"></span> Les résultats sont mis à jour à chaque clic sur Actualiser</div>
-    <br>
-    <div class="dash-table-wrap">
-      <table class="dash-table">
-        <thead>
-          <tr>
-            <th>#</th>
-            <th>Nom complet</th>
-            <th>Score QCM</th>
-            <th>% Réussite</th>
-            <th>Questions libres</th>
-            <th>Terminé le</th>
-          </tr>
-        </thead>
-        <tbody id="dashTableBody"></tbody>
-      </table>
-    </div>
-    <button class="btn btn-outline btn-sm" onclick="show('screenIdentity')">← Retour</button>
-  </div>
-</div>
-
+ 
 <script>
 /* ══════════════════════════════════════════════
    DATA
@@ -344,7 +285,7 @@ const sections = [
   { tag: "Partie 2 — 7 questions", title: "Le Produit & la Valorisation", desc: "Maîtrisez les critères d'un bon local commercial, les mécaniques de valorisation et les différences VEFA / achevé." },
   { tag: "Partie 3 — 6 questions", title: "Approches Commerciales", desc: "Qualifiez vos prospects exploitants et investisseurs, sourcez vos acquéreurs et adoptez les bons réflexes." }
 ];
-
+ 
 const questions = [
   { section:0, type:"qcm", text:"Quel est le taux de vacance commerciale actuel dans les centres-villes et zones rurales ?", options:["Environ 5%","Environ 8%","Presque 11%","Environ 15%"], answer:2, feedback:"Correct ! La formation cite un taux de vacance de presque 11%, dû à la concurrence des grandes surfaces, des zones périphériques et du e-commerce." },
   { section:0, type:"qcm", text:"Selon la Fevad, de combien le e-commerce a-t-il progressé en 2023 en France ?", options:["+5%","+9%","+13%","+20%"], answer:2, feedback:"Correct ! Le e-commerce a progressé de +13% en 2023, notamment sur les biens de consommation courante." },
@@ -367,13 +308,14 @@ const questions = [
   { section:2, type:"libre", text:"Listez les 5 questions clés pour qualifier un commerçant exploitant lors d'un premier entretien.", hints:["1. Quelle activité souhaitez-vous développer ?","2. Quelle surface vous faut-il ?","3. Quel budget avez-vous ?","4. Quel est votre calendrier d'ouverture ?","5. Quelles contraintes techniques (extraction, livraisons, PMR, etc.) ?"] },
   { section:2, type:"libre", text:"Quels sont les 3 profils d'acheteurs d'un local commercial et leur logique principale ?", hints:["Investisseur → rendement et valorisation patrimoniale","Franchisé → implantation stratégique (réseau, zone de chalandise)","Commerçant indépendant → outil de travail, maîtrise des charges vs loyer"] }
 ];
-
+ 
 /* ══════════════════════════════════════════════
    STATE
 ══════════════════════════════════════════════ */
 let currentQ = 0, currentSection = -1, score = 0, qcmTotal = 0, answered = false, selectedOption = null;
 let participantPrenom = '', participantNom = '';
-
+let participantAnswers = {};
+ 
 /* ══════════════════════════════════════════════
    IDENTITY
 ══════════════════════════════════════════════ */
@@ -388,7 +330,7 @@ function confirmIdentity() {
   document.getElementById('userBadge').style.display = 'inline-block';
   show('screenWelcome');
 }
-
+ 
 /* ══════════════════════════════════════════════
    HELPERS
 ══════════════════════════════════════════════ */
@@ -403,7 +345,7 @@ function updateProgress() {
   document.getElementById('progressBar').style.width = pct + '%';
 }
 function countQCM() { return questions.filter(q => q.type === 'qcm').length; }
-
+ 
 /* ══════════════════════════════════════════════
    QUIZ FLOW
 ══════════════════════════════════════════════ */
@@ -486,6 +428,7 @@ function submitAnswer() {
     });
     const correct = selectedOption === q.answer;
     if (correct) score++;
+    participantAnswers[currentQ] = { choix: selectedOption, texte: q.options[selectedOption] };
     const fb = document.getElementById('feedbackBox');
     fb.textContent = (correct ? '✅ ' : '❌ ') + q.feedback;
     fb.className = 'feedback-box show ' + (correct ? 'ok' : 'ko');
@@ -495,13 +438,14 @@ function submitAnswer() {
     list.innerHTML = '';
     q.hints.forEach(h => { const li = document.createElement('li'); li.textContent = h; list.appendChild(li); });
     document.getElementById('freeReveal').className = 'free-answer-reveal show';
+    participantAnswers[currentQ] = { texte: document.getElementById('freeAnswer').value.trim() || '(pas de réponse écrite)' };
   }
   document.getElementById('submitBtn').style.display = 'none';
   document.getElementById('nextBtn').style.display = 'inline-block';
   selectedOption = null;
 }
 function nextQuestion() { currentQ++; showNextSectionOrQuestion(); }
-
+ 
 /* ══════════════════════════════════════════════
    RESULTS + SAVE
 ══════════════════════════════════════════════ */
@@ -523,7 +467,33 @@ async function showResults() {
   document.getElementById('resultMsg').textContent = msg;
   updateProgress();
   show('screenResults');
-
+ 
+  // Build detailed answers
+  const LETTERS = ['A','B','C','D'];
+  const reponses = questions.map((q, i) => {
+    const ans = participantAnswers[i];
+    if (q.type === 'qcm') {
+      const choix = ans ? ans.choix : undefined;
+      return {
+        num: i + 1,
+        type: 'QCM',
+        question: q.text,
+        reponse: choix !== undefined ? LETTERS[choix] + ' – ' + q.options[choix] : '(sans réponse)',
+        bonneReponse: LETTERS[q.answer] + ' – ' + q.options[q.answer],
+        correct: choix === q.answer
+      };
+    } else {
+      return {
+        num: i + 1,
+        type: 'Libre',
+        question: q.text,
+        reponse: ans ? ans.texte : '(pas de réponse écrite)',
+        bonneReponse: q.hints.join(' | '),
+        correct: undefined
+      };
+    }
+  });
+ 
   // Save to Google Sheets
   const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbw219Z6GlNlEwcjxZszZ9-bG1VrUsyK5uNevc3ADdjSn68pmrukURbF7TzolGCV0Ca1/exec';
   document.getElementById('saveStatus').textContent = '⏳ Enregistrement de vos résultats…';
@@ -535,7 +505,8 @@ async function showResults() {
       qcmTotal: qcmCount,
       pct,
       libreCount,
-      date: new Date().toLocaleString('fr-FR')
+      date: new Date().toLocaleString('fr-FR'),
+      reponses
     };
     await fetch(WEBHOOK_URL, {
       method: 'POST',
@@ -548,96 +519,9 @@ async function showResults() {
     document.getElementById('saveStatus').textContent = '⚠️ Envoi impossible. Vérifiez votre connexion.';
   }
 }
-
-/* ══════════════════════════════════════════════
-   DASHBOARD
-══════════════════════════════════════════════ */
-async function showDashboard() {
-  show('screenDashboard');
-  await loadDashboard();
-}
-
-async function loadDashboard() {
-  const tbody = document.getElementById('dashTableBody');
-  tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:24px;color:var(--mid-gray);">Chargement…</td></tr>';
-  try {
-    const keys = await window.storage.list('result_', true);
-    const allKeys = keys.keys || [];
-    if (!allKeys.length) {
-      tbody.innerHTML = '<tr><td colspan="6"><div class="empty-state">Aucun résultat enregistré pour l\'instant.</div></td></tr>';
-      document.getElementById('d-total').textContent = '0';
-      document.getElementById('d-avg').textContent = '—';
-      document.getElementById('d-best').textContent = '—';
-      document.getElementById('d-pct').textContent = '—';
-      return;
-    }
-    const results = [];
-    for (const key of allKeys) {
-      try {
-        const r = await window.storage.get(key, true);
-        if (r) results.push(JSON.parse(r.value));
-      } catch(e) {}
-    }
-    // Sort by score desc
-    results.sort((a, b) => b.pct - a.pct);
-    // Stats
-    const avg = Math.round(results.reduce((s, r) => s + r.pct, 0) / results.length);
-    const best = results[0]?.pct ?? '—';
-    const globalCorrect = results.reduce((s, r) => s + r.score, 0);
-    const globalTotal = results.reduce((s, r) => s + r.qcmTotal, 0);
-    const globalPct = globalTotal ? Math.round(globalCorrect / globalTotal * 100) : '—';
-    document.getElementById('d-total').textContent = results.length;
-    document.getElementById('d-avg').textContent = avg + '%';
-    document.getElementById('d-best').textContent = best + '%';
-    document.getElementById('d-pct').textContent = globalPct + '%';
-    // Table
-    tbody.innerHTML = '';
-    results.forEach((r, i) => {
-      const badgeClass = r.pct >= 80 ? 'score-high' : r.pct >= 60 ? 'score-mid' : 'score-low';
-      const tr = document.createElement('tr');
-      tr.innerHTML = `
-        <td style="color:var(--mid-gray);font-size:.8rem;">${i + 1}</td>
-        <td><strong>${r.prenom} ${r.nom.toUpperCase()}</strong></td>
-        <td>${r.score} / ${r.qcmTotal}</td>
-        <td><span class="score-badge ${badgeClass}">${r.pct}%</span></td>
-        <td style="color:var(--mid-gray)">${r.libreCount} réalisées</td>
-        <td style="color:var(--mid-gray);font-size:.82rem;">${r.date}</td>`;
-      tbody.appendChild(tr);
-    });
-  } catch(e) {
-    tbody.innerHTML = '<tr><td colspan="6"><div class="empty-state">⚠️ Erreur de chargement. Le stockage est peut-être indisponible.</div></td></tr>';
-  }
-}
-
-async function exportCSV() {
-  try {
-    const keys = await window.storage.list('result_', true);
-    const allKeys = keys.keys || [];
-    const results = [];
-    for (const key of allKeys) {
-      try { const r = await window.storage.get(key, true); if (r) results.push(JSON.parse(r.value)); } catch(e) {}
-    }
-    results.sort((a,b) => b.pct - a.pct);
-    let csv = 'Prénom,Nom,Score QCM,Total QCM,% Réussite,Questions libres,Date\n';
-    results.forEach(r => {
-      csv += `"${r.prenom}","${r.nom}","${r.score}","${r.qcmTotal}","${r.pct}%","${r.libreCount}","${r.date}"\n`;
-    });
-    const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url; a.download = `quiz_resultats_${new Date().toISOString().slice(0,10)}.csv`;
-    a.click(); URL.revokeObjectURL(url);
-  } catch(e) { alert('Export impossible.'); }
-}
-
-async function resetScores() {
-  if (!confirm('Effacer tous les résultats ? Action irréversible.')) return;
-  try {
-    const keys = await window.storage.list('result_', true);
-    for (const key of (keys.keys || [])) { try { await window.storage.delete(key, true); } catch(e) {} }
-    loadDashboard();
-  } catch(e) {}
-}
+ 
+ 
 </script>
 </body>
 </html>
+ 
