@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz – Locaux Commerciaux</title>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700;900&family=Barlow+Condensed:wght@700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --red: #E30613;
+    --dark-red: #B0000A;
+    --black: #111111;
+    --white: #FFFFFF;
+    --gray: #F2F2F2;
+    --mid-gray: #CCCCCC;
+    --dark-gray: #444444;
+    --green: #2ECC71;
+    --orange: #E67E22;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Barlow', sans-serif; background: var(--black); color: var(--white); min-height: 100vh; }
+
+  /* ── HEADER ── */
+  .header {
+    background: var(--red);
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: 0 4px 20px rgba(227,6,19,.5);
+  }
+  .header-title {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--white);
+  }
+  .progress-wrap { display: flex; align-items: center; gap: 12px; }
+  .progress-text { font-size: .8rem; font-weight: 600; opacity: .8; }
+  .progress-bar-outer { width: 140px; height: 6px; background: rgba(255,255,255,.25); border-radius: 3px; overflow: hidden; }
+  .progress-bar-inner { height: 100%; background: var(--white); border-radius: 3px; transition: width .5s ease; }
+  .user-badge { font-size: .8rem; font-weight: 700; background: rgba(0,0,0,.2); padding: 6px 14px; border-radius: 20px; display: none; }
+
+  /* ── SCREENS ── */
+  .screen { display: none; }
+  .screen.active { display: block; }
+
+  /* ── IDENTITY SCREEN ── */
+  .identity-wrap {
+    max-width: 520px;
+    margin: 0 auto;
+    padding: 80px 30px;
+    text-align: center;
+  }
+  .identity-wrap h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: clamp(2rem, 5vw, 3.2rem);
+    font-weight: 900;
+    text-transform: uppercase;
+    line-height: 1.05;
+    margin-bottom: 12px;
+  }
+  .identity-wrap h1 span { color: var(--red); }
+  .identity-wrap p { color: var(--mid-gray); font-size: 1rem; margin-bottom: 40px; line-height: 1.6; }
+  .field-group { display: flex; flex-direction: column; gap: 14px; margin-bottom: 28px; }
+  .field-group input {
+    width: 100%;
+    background: #1a1a1a;
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 16px 20px;
+    color: var(--white);
+    font-family: 'Barlow', sans-serif;
+    font-size: 1rem;
+    transition: border-color .2s;
+  }
+  .field-group input:focus { outline: none; border-color: var(--red); }
+  .field-group input::placeholder { color: #555; }
+
+  /* ── WELCOME ── */
+  .welcome { max-width: 780px; margin: 0 auto; padding: 60px 30px; text-align: center; }
+  .welcome h1 { font-family: 'Barlow Condensed', sans-serif; font-size: clamp(2.4rem, 6vw, 4.2rem); font-weight: 900; text-transform: uppercase; line-height: 1; margin-bottom: 20px; }
+  .welcome h1 span { color: var(--red); }
+  .welcome p { font-size: 1.1rem; color: var(--mid-gray); line-height: 1.7; margin-bottom: 40px; }
+  .modules-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; margin-bottom: 48px; }
+  .module-card { background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 12px; padding: 24px 20px; text-align: left; transition: border-color .2s; }
+  .module-card:hover { border-color: var(--red); }
+  .module-card .num { font-family: 'Barlow Condensed', sans-serif; font-size: 2.5rem; font-weight: 900; color: var(--red); line-height: 1; }
+  .module-card .label { font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--mid-gray); margin-top: 6px; }
+  .module-card .title { font-size: .95rem; font-weight: 700; margin-top: 8px; color: var(--white); }
+
+  /* ── BUTTONS ── */
+  .btn { display: inline-block; font-family: 'Barlow', sans-serif; font-weight: 700; font-size: 1rem; text-transform: uppercase; letter-spacing: 1.5px; padding: 16px 40px; border: none; border-radius: 4px; cursor: pointer; transition: all .2s; }
+  .btn-red { background: var(--red); color: var(--white); }
+  .btn-red:hover { background: var(--dark-red); transform: translateY(-2px); box-shadow: 0 6px 20px rgba(227,6,19,.4); }
+  .btn-outline { background: transparent; color: var(--white); border: 2px solid var(--white); margin-left: 12px; }
+  .btn-outline:hover { background: var(--white); color: var(--black); }
+  .btn-sm { padding: 10px 24px; font-size: .85rem; }
+
+  /* ── SECTION INTRO ── */
+  .section-intro { max-width: 720px; margin: 0 auto; padding: 70px 30px; text-align: center; }
+  .section-intro-content { position: relative; }
+  .section-tag { display: inline-block; background: var(--red); color: var(--white); font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; padding: 6px 16px; border-radius: 2px; margin-bottom: 20px; }
+  .section-intro h2 { font-family: 'Barlow Condensed', sans-serif; font-size: clamp(1.8rem, 4vw, 3rem); font-weight: 900; text-transform: uppercase; margin-bottom: 16px; }
+  .section-intro p { color: var(--mid-gray); font-size: 1rem; line-height: 1.6; margin-bottom: 36px; }
+
+  /* ── QUIZ AREA ── */
+  .quiz-area { max-width: 760px; margin: 0 auto; padding: 40px 30px; }
+  .question-meta { display: flex; align-items: center; gap: 12px; margin-bottom: 28px; }
+  .q-type-badge { font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; padding: 5px 12px; border-radius: 2px; }
+  .badge-qcm { background: #1a1a1a; border: 1px solid var(--red); color: var(--red); }
+  .badge-libre { background: #1a1a1a; border: 1px solid #4a90d9; color: #4a90d9; }
+  .q-counter { font-size: .8rem; color: var(--mid-gray); font-weight: 600; }
+  .question-card { background: #161616; border: 1px solid #2a2a2a; border-radius: 12px; padding: 32px; margin-bottom: 24px; }
+  .question-card h3 { font-size: 1.2rem; font-weight: 700; line-height: 1.5; margin-bottom: 28px; color: var(--white); }
+  .options-list { display: flex; flex-direction: column; gap: 12px; }
+  .option-btn { background: #1e1e1e; border: 2px solid #333; border-radius: 8px; padding: 14px 20px; text-align: left; color: var(--white); font-family: 'Barlow', sans-serif; font-size: .95rem; cursor: pointer; transition: all .2s; display: flex; align-items: center; gap: 14px; }
+  .option-btn:hover:not(:disabled) { border-color: var(--red); background: #251010; }
+  .option-letter { width: 28px; height: 28px; border-radius: 50%; background: #333; display: flex; align-items: center; justify-content: center; font-size: .75rem; font-weight: 700; flex-shrink: 0; transition: all .2s; }
+  .option-btn.selected { border-color: var(--red); background: #251010; }
+  .option-btn.selected .option-letter { background: var(--red); }
+  .option-btn.correct { border-color: var(--green); background: #0d2d1a; }
+  .option-btn.correct .option-letter { background: var(--green); color: #000; }
+  .option-btn.wrong { border-color: #c0392b; background: #2d0d0d; }
+  .option-btn.wrong .option-letter { background: #c0392b; }
+  .option-btn:disabled { cursor: default; }
+  .free-area { width: 100%; background: #1e1e1e; border: 2px solid #333; border-radius: 8px; padding: 16px; color: var(--white); font-family: 'Barlow', sans-serif; font-size: .95rem; resize: vertical; min-height: 130px; transition: border-color .2s; }
+  .free-area:focus { outline: none; border-color: var(--red); }
+  .free-hint { font-size: .82rem; color: var(--mid-gray); margin-top: 10px; }
+  .free-answer-reveal { margin-top: 20px; background: #0d1f0d; border: 1px solid var(--green); border-radius: 8px; padding: 20px; display: none; }
+  .free-answer-reveal.show { display: block; }
+  .free-answer-reveal .reveal-title { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--green); margin-bottom: 10px; }
+  .free-answer-reveal ul { padding-left: 18px; color: #ccc; font-size: .9rem; line-height: 1.8; }
+  .feedback-box { border-radius: 8px; padding: 16px 20px; margin-top: 16px; display: none; font-size: .9rem; line-height: 1.6; }
+  .feedback-box.show { display: block; }
+  .feedback-box.ok { background: #0d2d1a; border: 1px solid var(--green); color: #7ddc9f; }
+  .feedback-box.ko { background: #2d0d0d; border: 1px solid #c0392b; color: #f1948a; }
+  .nav-row { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .score-live { font-size: .85rem; color: var(--mid-gray); font-weight: 600; }
+  .score-live span { color: var(--white); font-weight: 700; }
+
+  /* ── RESULTS ── */
+  .results { max-width: 720px; margin: 0 auto; padding: 60px 30px; text-align: center; }
+  .score-ring { width: 180px; height: 180px; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 0 auto 36px; position: relative; }
+  .score-ring svg { position: absolute; top: 0; left: 0; width: 100%; height: 100%; transform: rotate(-90deg); }
+  .score-ring circle { fill: none; stroke-width: 10; }
+  .score-ring .track { stroke: #222; }
+  .score-ring .fill { stroke: var(--red); stroke-linecap: round; transition: stroke-dashoffset 1.2s ease; }
+  .score-num { font-family: 'Barlow Condensed', sans-serif; font-size: 3rem; font-weight: 900; line-height: 1; position: relative; }
+  .score-label { font-size: .8rem; color: var(--mid-gray); font-weight: 600; margin-top: 4px; position: relative; }
+  .results h2 { font-family: 'Barlow Condensed', sans-serif; font-size: 2.5rem; font-weight: 900; text-transform: uppercase; margin-bottom: 12px; }
+  .results p { color: var(--mid-gray); font-size: 1rem; line-height: 1.7; margin-bottom: 36px; }
+  .result-breakdown { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin-bottom: 40px; }
+  .rb-card { background: #161616; border: 1px solid #2a2a2a; border-radius: 10px; padding: 22px 16px; }
+  .rb-val { font-family: 'Barlow Condensed', sans-serif; font-size: 2.2rem; font-weight: 900; color: var(--red); }
+  .rb-lbl { font-size: .78rem; color: var(--mid-gray); font-weight: 600; text-transform: uppercase; letter-spacing: 1px; margin-top: 4px; }
+  .save-status { font-size: .85rem; color: var(--green); margin-top: 16px; min-height: 20px; }
+
+  /* ── DASHBOARD ── */
+  .dashboard { max-width: 1000px; margin: 0 auto; padding: 40px 30px; }
+  .dashboard h2 { font-family: 'Barlow Condensed', sans-serif; font-size: 2rem; font-weight: 900; text-transform: uppercase; margin-bottom: 8px; }
+  .dashboard-sub { color: var(--mid-gray); font-size: .9rem; margin-bottom: 32px; }
+  .dash-stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 32px; }
+  .dash-stat { background: #161616; border: 1px solid #2a2a2a; border-radius: 10px; padding: 20px; }
+  .dash-stat-val { font-family: 'Barlow Condensed', sans-serif; font-size: 2.2rem; font-weight: 900; color: var(--red); }
+  .dash-stat-lbl { font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--mid-gray); margin-top: 4px; }
+  .dash-table-wrap { background: #161616; border: 1px solid #2a2a2a; border-radius: 12px; overflow: hidden; margin-bottom: 24px; }
+  .dash-table { width: 100%; border-collapse: collapse; }
+  .dash-table th { text-align: left; font-size: .72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; color: var(--mid-gray); padding: 14px 20px; border-bottom: 1px solid #2a2a2a; background: #111; }
+  .dash-table td { padding: 14px 20px; font-size: .9rem; border-bottom: 1px solid #1a1a1a; }
+  .dash-table tr:last-child td { border-bottom: none; }
+  .dash-table tr:hover td { background: #1a1a1a; }
+  .score-badge { display: inline-block; padding: 4px 12px; border-radius: 4px; font-size: .78rem; font-weight: 700; }
+  .score-high { background: #0d2d1a; color: var(--green); }
+  .score-mid { background: #2d1f0a; color: var(--orange); }
+  .score-low { background: #2d0d0d; color: #e74c3c; }
+  .dash-actions { display: flex; gap: 12px; margin-bottom: 16px; }
+  .btn-green { background: var(--green); color: #000; }
+  .btn-green:hover { background: #27ae60; }
+  .empty-state { text-align: center; padding: 48px; color: var(--mid-gray); font-size: .95rem; }
+  .refresh-note { font-size: .75rem; color: #555; display: flex; align-items: center; gap: 6px; }
+  .dot-live { width: 7px; height: 7px; border-radius: 50%; background: var(--green); display: inline-block; animation: blink 1.5s infinite; }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:.3} }
+
+  /* ── ANIM ── */
+  @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+  .fade-up { animation: fadeUp .4s ease both; }
+</style>
+</head>
+<body>
+
+<header class="header">
+  <div class="header-title">Quiz – Locaux Commerciaux</div>
+  <div style="display:flex;align-items:center;gap:16px;">
+    <span class="user-badge" id="userBadge"></span>
+    <div class="progress-wrap">
+      <span class="progress-text" id="progressText">0 / 0</span>
+      <div class="progress-bar-outer"><div class="progress-bar-inner" id="progressBar" style="width:0%"></div></div>
+    </div>
+  </div>
+</header>
+
+<!-- ════════ IDENTITY ════════ -->
+<div id="screenIdentity" class="screen active">
+  <div class="identity-wrap fade-up">
+    <h1>Quiz <span>Locaux</span><br>Commerciaux</h1>
+    <p>Avant de commencer, merci de renseigner vos informations.<br>Vos résultats seront transmis à l'animateur.</p>
+    <div class="field-group">
+      <input id="inputPrenom" type="text" placeholder="Votre prénom" maxlength="40" />
+      <input id="inputNom" type="text" placeholder="Votre nom de famille" maxlength="40" />
+    </div>
+    <button class="btn btn-red" onclick="confirmIdentity()">Commencer le quiz →</button>
+    <br><br>
+    <button class="btn btn-outline btn-sm" onclick="showDashboard()">🎛 Vue animateur</button>
+  </div>
+</div>
+
+<!-- ════════ WELCOME ════════ -->
+<div id="screenWelcome" class="screen">
+  <div class="welcome fade-up">
+    <h1>Quiz <span>Locaux</span><br>Commerciaux</h1>
+    <p>Testez vos connaissances sur la formation Vente de Locaux Commerciaux.<br>QCM + questions ouvertes, 3 grandes parties.</p>
+    <div class="modules-grid">
+      <div class="module-card"><div class="num">01</div><div class="label">Partie 1</div><div class="title">Le marché & les acteurs</div></div>
+      <div class="module-card"><div class="num">02</div><div class="label">Partie 2</div><div class="title">Le produit & la valorisation</div></div>
+      <div class="module-card"><div class="num">03</div><div class="label">Partie 3</div><div class="title">Approches commerciales</div></div>
+    </div>
+    <button class="btn btn-red" onclick="startQuiz()">Démarrer le quiz</button>
+  </div>
+</div>
+
+<!-- ════════ SECTION INTRO ════════ -->
+<div id="screenSection" class="screen">
+  <div class="section-intro fade-up">
+    <div class="section-intro-content">
+      <div class="section-tag" id="sectionTag"></div>
+      <h2 id="sectionTitle"></h2>
+      <p id="sectionDesc"></p>
+      <button class="btn btn-red" onclick="startSection()">C'est parti !</button>
+    </div>
+  </div>
+</div>
+
+<!-- ════════ QUIZ ════════ -->
+<div id="screenQuiz" class="screen">
+  <div class="quiz-area fade-up">
+    <div class="question-meta">
+      <span class="q-type-badge" id="qTypeBadge"></span>
+      <span class="q-counter" id="qCounter"></span>
+    </div>
+    <div class="question-card">
+      <h3 id="questionText"></h3>
+      <div id="qcmBlock" class="options-list"></div>
+      <div id="libreBlock" style="display:none">
+        <textarea class="free-area" id="freeAnswer" placeholder="Rédigez votre réponse ici…"></textarea>
+        <p class="free-hint">💡 Prenez le temps de réfléchir, puis comparez avec les éléments de réponse.</p>
+        <div class="free-answer-reveal" id="freeReveal">
+          <div class="reveal-title">✅ Éléments de réponse attendus</div>
+          <ul id="freeRevealList"></ul>
+        </div>
+      </div>
+      <div class="feedback-box" id="feedbackBox"></div>
+    </div>
+    <div class="nav-row">
+      <div class="score-live">Score QCM : <span id="scoreLive">0</span> / <span id="scoreMax">0</span></div>
+      <div>
+        <button class="btn btn-red btn-sm" id="nextBtn" onclick="nextQuestion()" style="display:none">Question suivante →</button>
+        <button class="btn btn-red btn-sm" id="submitBtn" onclick="submitAnswer()">Valider</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ════════ RESULTS ════════ -->
+<div id="screenResults" class="screen">
+  <div class="results fade-up">
+    <div class="score-ring">
+      <svg viewBox="0 0 180 180">
+        <circle class="track" cx="90" cy="90" r="80"/>
+        <circle class="fill" id="ringFill" cx="90" cy="90" r="80" stroke-dasharray="502" stroke-dashoffset="502"/>
+      </svg>
+      <div class="score-num" id="finalPct">0%</div>
+      <div class="score-label">Score QCM</div>
+    </div>
+    <h2 id="resultTitle"></h2>
+    <p id="resultMsg"></p>
+    <div class="result-breakdown">
+      <div class="rb-card"><div class="rb-val" id="rbQcm">0/0</div><div class="rb-lbl">QCM réussis</div></div>
+      <div class="rb-card"><div class="rb-val" id="rbLibre">0</div><div class="rb-lbl">Questions libres</div></div>
+      <div class="rb-card"><div class="rb-val" id="rbTotal">0</div><div class="rb-lbl">Questions totales</div></div>
+    </div>
+    <div class="save-status" id="saveStatus"></div>
+  </div>
+</div>
+
+<!-- ════════ DASHBOARD ANIMATEUR ════════ -->
+<div id="screenDashboard" class="screen">
+  <div class="dashboard fade-up">
+    <h2>📊 Résultats — Vue Animateur</h2>
+    <div class="dashboard-sub">Tous les participants ayant terminé le quiz apparaissent ici.</div>
+    <div class="dash-stats">
+      <div class="dash-stat"><div class="dash-stat-val" id="d-total">0</div><div class="dash-stat-lbl">Participants</div></div>
+      <div class="dash-stat"><div class="dash-stat-val" id="d-avg">—</div><div class="dash-stat-lbl">Score moyen QCM</div></div>
+      <div class="dash-stat"><div class="dash-stat-val" id="d-best">—</div><div class="dash-stat-lbl">Meilleur score</div></div>
+      <div class="dash-stat"><div class="dash-stat-val" id="d-pct">—</div><div class="dash-stat-lbl">Taux réussite global</div></div>
+    </div>
+    <div class="dash-actions">
+      <button class="btn btn-red btn-sm" onclick="loadDashboard()">🔄 Actualiser</button>
+      <button class="btn btn-green btn-sm" onclick="exportCSV()">⬇ Export CSV</button>
+      <button class="btn btn-outline btn-sm" onclick="resetScores()">🗑 Effacer tout</button>
+    </div>
+    <div class="refresh-note"><span class="dot-live"></span> Les résultats sont mis à jour à chaque clic sur Actualiser</div>
+    <br>
+    <div class="dash-table-wrap">
+      <table class="dash-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Nom complet</th>
+            <th>Score QCM</th>
+            <th>% Réussite</th>
+            <th>Questions libres</th>
+            <th>Terminé le</th>
+          </tr>
+        </thead>
+        <tbody id="dashTableBody"></tbody>
+      </table>
+    </div>
+    <button class="btn btn-outline btn-sm" onclick="show('screenIdentity')">← Retour</button>
+  </div>
+</div>
+
+<script>
+/* ══════════════════════════════════════════════
+   DATA
+══════════════════════════════════════════════ */
+const sections = [
+  { tag: "Partie 1 — 7 questions", title: "Le Marché & les Acteurs", desc: "Comprenez l'environnement du commerce en pied d'immeuble, les tendances de consommation et les grands acteurs du marché." },
+  { tag: "Partie 2 — 7 questions", title: "Le Produit & la Valorisation", desc: "Maîtrisez les critères d'un bon local commercial, les mécaniques de valorisation et les différences VEFA / achevé." },
+  { tag: "Partie 3 — 6 questions", title: "Approches Commerciales", desc: "Qualifiez vos prospects exploitants et investisseurs, sourcez vos acquéreurs et adoptez les bons réflexes." }
+];
+
+const questions = [
+  { section:0, type:"qcm", text:"Quel est le taux de vacance commerciale actuel dans les centres-villes et zones rurales ?", options:["Environ 5%","Environ 8%","Presque 11%","Environ 15%"], answer:2, feedback:"Correct ! La formation cite un taux de vacance de presque 11%, dû à la concurrence des grandes surfaces, des zones périphériques et du e-commerce." },
+  { section:0, type:"qcm", text:"Selon la Fevad, de combien le e-commerce a-t-il progressé en 2023 en France ?", options:["+5%","+9%","+13%","+20%"], answer:2, feedback:"Correct ! Le e-commerce a progressé de +13% en 2023, notamment sur les biens de consommation courante." },
+  { section:0, type:"qcm", text:"Quel secteur fait l'objet d'une mise en garde pour \"risque de bulle\" dans la formation ?", options:["Commerce alimentaire","Restauration","Santé / Médical","Micro-crèches"], answer:1, feedback:"Exact ! La formation mentionne un risque de bulle sur la restauration, qui connaît une forte densification." },
+  { section:0, type:"qcm", text:"Quel est le montant des investissements en immobilier de santé en France en 2024 ?", options:["120 M€","403 M€","850 M€","1,2 Md€"], answer:1, feedback:"Correct ! 403 M€ en 2024, soit 3 fois inférieur au niveau de 2022." },
+  { section:0, type:"libre", text:"Quels sont les 4 grands types d'acteurs de l'écosystème des locaux commerciaux ?", hints:["Exploitants (indépendants, franchisés, grandes enseignes)","Investisseurs (particuliers, SCI, foncières, fonds)","Gestionnaires (gestion locative, property managers, asset managers)","Brokers (institutionnels : CBRE, JLL, Knight Frank ; spécialisés commerce ou neuf)"] },
+  { section:0, type:"qcm", text:"La \"ville du quart d'heure\" illustre quel principe urbain ?", options:["La densification verticale","La mixité fonctionnelle et le développement de la proximité","La réduction des transports","La concentration des commerces en périphérie"], answer:1, feedback:"Exact ! La ville du quart d'heure incarne la mixité : commerces, services et habitat dans un rayon de 15 minutes." },
+  { section:0, type:"libre", text:"Citez au moins 4 grandes tendances de consommation impactant le marché du commerce en pied d'immeuble.", hints:["Déclin du commerce traditionnel (vacance ~11%)","Explosion du e-commerce (+13% en 2023, Fevad)","Revalorisation du pied d'immeuble dans l'urbanisme (ZAC, rénovations)","Retour en grâce du commerce de proximité post-Covid","Transformation des centres villes (loisir/restauration vs prêt-à-porter)"] },
+  { section:1, type:"qcm", text:"Quelle est la formule de valorisation d'un local commercial (murs) ?", options:["Prix = Surface × Loyer/m²","Valeur = Loyer annuel HT HC ÷ Taux de capitalisation","Valeur = Loyer mensuel × 12 × Durée du bail","Prix = Coût construction × Coefficient de localisation"], answer:1, feedback:"Exact ! Valeur vénale = Loyer annuel HT HC ÷ Taux de capitalisation. Un taux bas = actif sûr = valeur élevée." },
+  { section:1, type:"qcm", text:"Avec un loyer de 150 €/m² HT et un taux de capitalisation de 8,5%, quelle est la valeur vénale ?", options:["1 275 €/m²","1 650 €/m²","1 765 €/m²","2 100 €/m²"], answer:2, feedback:"Correct ! 150 ÷ 0,085 = 1 765 €/m² HT. C'est l'exemple exact de la formation." },
+  { section:1, type:"qcm", text:"Quel coefficient de pondération locative s'applique à un local en angle ?", options:["100%","40–60%","110–130%","10–40%"], answer:2, feedback:"Exact ! Un local en angle bénéficie de 110 à 130% pour sa visibilité accrue sur deux rues." },
+  { section:1, type:"qcm", text:"Quel est le principal avantage d'un local en VEFA par rapport à un local achevé ?", options:["Il est immédiatement exploitable","Il offre une forte personnalisation et un prix souvent plus attractif","Il ne nécessite aucun aménagement","Il bénéficie d'une TVA non applicable"], answer:1, feedback:"Correct ! En VEFA, forte personnalisation possible et prix plus attractif car le bien n'est pas encore exploité." },
+  { section:1, type:"libre", text:"Quels sont les 4 critères-clés pour identifier un bon local commercial selon la formation ?", hints:["Critère 1 : Un local bien placé (flux, visibilité, accessibilité, environnement)","Critère 2 : Un local bien conçu (surface, hauteur, fluides, extraction, ERP)","Critère 3 : Un local bien valorisé (loyer ÷ taux de capitalisation)","Critère 4 : Un local en adéquation avec sa zone et sa superficie"] },
+  { section:1, type:"qcm", text:"Quel est le stock dur de locaux commerciaux Nexity en 2024 ?", options:["10 M€ HT","25 M€ HT","30,9 M€ HT","50 M€ HT"], answer:1, feedback:"Correct ! Stock dur = 25 M€ HT. Un stock non vendu = perte de marge sur l'opération entière." },
+  { section:1, type:"libre", text:"Quelles surfaces typiques pour une boulangerie et un restaurant ? Pourquoi l'adéquation surface/activité est-elle importante ?", hints:["Boulangerie artisanale : 140 à 200 m²","Restaurant : 150 à 250 m²","Un local sous ou surdimensionné ne fonctionne pas économiquement → location difficile → valorisation incertaine","Micro-crèche : ~130–150 m² + extérieur 30 m²"] },
+  { section:2, type:"libre", text:"Quelles sont les 3 grandes sources d'acquéreurs pour un local commercial Nexity ?", hints:["1. Fichiers internes : investisseurs à relancer, campagne marketing prévue en avril","2. Intermédiaires : agents immobiliers, brokers, réseaux bancaires","3. Actions terrain : notaires, comptables, mairies, exploitants locaux, réseaux de franchise"] },
+  { section:2, type:"qcm", text:"Quelle est la principale erreur d'un vendeur logement face à un exploitant commerçant ?", options:["Parler trop vite du prix","Parler surface/prix/programme au lieu de flux/CA potentiel/visibilité","Ne pas proposer de financement","Oublier les garanties du neuf"], answer:1, feedback:"Exact ! La clé : vendre l'emplacement AVANT le local. Parler clientèle, CA potentiel, visibilité, concurrence." },
+  { section:2, type:"qcm", text:"Quel profil investisseur correspond à une cible de rendement de 6 à 8% ?", options:["Profil patrimonial sécurisé","Profil rendement","Profil diversification","Profil institutionnel"], answer:1, feedback:"Correct ! Profil rendement = 6–8%. Profil patrimonial sécurisé = 4–6%." },
+  { section:2, type:"qcm", text:"Quelle formule démontre la valeur d'un actif à un investisseur ?", options:["Surface × prix au m² de marché","Loyer annuel ÷ taux de rendement","Loyer mensuel × durée du bail restant","Prix d'acquisition + coût de travaux"], answer:1, feedback:"Exact ! Ex : loyer 60 000€ ÷ 6% = valeur ≈ 1 000 000€. Le calcul central face à un investisseur." },
+  { section:2, type:"libre", text:"Listez les 5 questions clés pour qualifier un commerçant exploitant lors d'un premier entretien.", hints:["1. Quelle activité souhaitez-vous développer ?","2. Quelle surface vous faut-il ?","3. Quel budget avez-vous ?","4. Quel est votre calendrier d'ouverture ?","5. Quelles contraintes techniques (extraction, livraisons, PMR, etc.) ?"] },
+  { section:2, type:"libre", text:"Quels sont les 3 profils d'acheteurs d'un local commercial et leur logique principale ?", hints:["Investisseur → rendement et valorisation patrimoniale","Franchisé → implantation stratégique (réseau, zone de chalandise)","Commerçant indépendant → outil de travail, maîtrise des charges vs loyer"] }
+];
+
+/* ══════════════════════════════════════════════
+   STATE
+══════════════════════════════════════════════ */
+let currentQ = 0, currentSection = -1, score = 0, qcmTotal = 0, answered = false, selectedOption = null;
+let participantPrenom = '', participantNom = '';
+
+/* ══════════════════════════════════════════════
+   IDENTITY
+══════════════════════════════════════════════ */
+function confirmIdentity() {
+  const p = document.getElementById('inputPrenom').value.trim();
+  const n = document.getElementById('inputNom').value.trim();
+  if (!p || !n) { alert('Merci de renseigner votre prénom et votre nom.'); return; }
+  participantPrenom = p;
+  participantNom = n;
+  const fullName = p + ' ' + n.toUpperCase();
+  document.getElementById('userBadge').textContent = fullName;
+  document.getElementById('userBadge').style.display = 'inline-block';
+  show('screenWelcome');
+}
+
+/* ══════════════════════════════════════════════
+   HELPERS
+══════════════════════════════════════════════ */
+function show(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+}
+function updateProgress() {
+  const total = questions.length;
+  const pct = total ? Math.round((currentQ / total) * 100) : 0;
+  document.getElementById('progressText').textContent = `${currentQ} / ${total}`;
+  document.getElementById('progressBar').style.width = pct + '%';
+}
+function countQCM() { return questions.filter(q => q.type === 'qcm').length; }
+
+/* ══════════════════════════════════════════════
+   QUIZ FLOW
+══════════════════════════════════════════════ */
+function startQuiz() {
+  currentQ = 0; currentSection = -1; score = 0;
+  qcmTotal = countQCM();
+  updateProgress();
+  showNextSectionOrQuestion();
+}
+function showNextSectionOrQuestion() {
+  if (currentQ >= questions.length) { showResults(); return; }
+  const q = questions[currentQ];
+  if (q.section !== currentSection) { currentSection = q.section; showSectionIntro(currentSection); }
+  else renderQuestion();
+}
+function showSectionIntro(idx) {
+  const s = sections[idx];
+  document.getElementById('sectionTag').textContent = s.tag;
+  document.getElementById('sectionTitle').textContent = s.title;
+  document.getElementById('sectionDesc').textContent = s.desc;
+  show('screenSection');
+}
+function startSection() { show('screenQuiz'); renderQuestion(); }
+function renderQuestion() {
+  answered = false; selectedOption = null;
+  const q = questions[currentQ];
+  updateProgress();
+  const badge = document.getElementById('qTypeBadge');
+  badge.textContent = q.type === 'qcm' ? 'QCM' : 'Question libre';
+  badge.className = 'q-type-badge ' + (q.type === 'qcm' ? 'badge-qcm' : 'badge-libre');
+  document.getElementById('qCounter').textContent = `Question ${currentQ + 1} sur ${questions.length}`;
+  document.getElementById('questionText').textContent = q.text;
+  document.getElementById('scoreLive').textContent = score;
+  document.getElementById('scoreMax').textContent = qcmTotal;
+  document.getElementById('feedbackBox').className = 'feedback-box';
+  document.getElementById('feedbackBox').textContent = '';
+  document.getElementById('freeReveal').className = 'free-answer-reveal';
+  document.getElementById('freeAnswer').value = '';
+  document.getElementById('nextBtn').style.display = 'none';
+  document.getElementById('submitBtn').style.display = 'inline-block';
+  if (q.type === 'qcm') {
+    document.getElementById('qcmBlock').style.display = 'flex';
+    document.getElementById('libreBlock').style.display = 'none';
+    document.getElementById('submitBtn').textContent = 'Valider';
+    renderQCM(q);
+  } else {
+    document.getElementById('qcmBlock').style.display = 'none';
+    document.getElementById('libreBlock').style.display = 'block';
+    document.getElementById('submitBtn').textContent = 'Voir la réponse';
+  }
+  show('screenQuiz');
+}
+function renderQCM(q) {
+  const block = document.getElementById('qcmBlock');
+  block.innerHTML = '';
+  ['A','B','C','D'].forEach((l, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'option-btn';
+    btn.innerHTML = `<span class="option-letter">${l}</span><span>${q.options[i]}</span>`;
+    btn.onclick = () => selectOpt(i, btn);
+    block.appendChild(btn);
+  });
+}
+function selectOpt(i, btn) {
+  if (answered) return;
+  selectedOption = i;
+  document.querySelectorAll('.option-btn').forEach(b => { b.classList.remove('selected'); b.querySelector('.option-letter').style.background = '#333'; });
+  btn.classList.add('selected');
+  btn.querySelector('.option-letter').style.background = 'var(--red)';
+}
+function submitAnswer() {
+  const q = questions[currentQ];
+  answered = true;
+  if (q.type === 'qcm') {
+    if (selectedOption === null) { answered = false; alert('Sélectionnez une réponse !'); return; }
+    document.querySelectorAll('.option-btn').forEach((btn, i) => {
+      btn.disabled = true;
+      if (i === q.answer) { btn.classList.add('correct'); btn.querySelector('.option-letter').style.background = 'var(--green)'; btn.querySelector('.option-letter').style.color = '#000'; }
+      else if (i === selectedOption && i !== q.answer) { btn.classList.add('wrong'); btn.querySelector('.option-letter').style.background = '#c0392b'; }
+    });
+    const correct = selectedOption === q.answer;
+    if (correct) score++;
+    const fb = document.getElementById('feedbackBox');
+    fb.textContent = (correct ? '✅ ' : '❌ ') + q.feedback;
+    fb.className = 'feedback-box show ' + (correct ? 'ok' : 'ko');
+    document.getElementById('scoreLive').textContent = score;
+  } else {
+    const list = document.getElementById('freeRevealList');
+    list.innerHTML = '';
+    q.hints.forEach(h => { const li = document.createElement('li'); li.textContent = h; list.appendChild(li); });
+    document.getElementById('freeReveal').className = 'free-answer-reveal show';
+  }
+  document.getElementById('submitBtn').style.display = 'none';
+  document.getElementById('nextBtn').style.display = 'inline-block';
+  selectedOption = null;
+}
+function nextQuestion() { currentQ++; showNextSectionOrQuestion(); }
+
+/* ══════════════════════════════════════════════
+   RESULTS + SAVE
+══════════════════════════════════════════════ */
+async function showResults() {
+  const qcmCount = questions.filter(q => q.type === 'qcm').length;
+  const libreCount = questions.filter(q => q.type === 'libre').length;
+  const pct = Math.round((score / qcmCount) * 100);
+  document.getElementById('rbQcm').textContent = `${score}/${qcmCount}`;
+  document.getElementById('rbLibre').textContent = libreCount;
+  document.getElementById('rbTotal').textContent = questions.length;
+  document.getElementById('finalPct').textContent = pct + '%';
+  const offset = 502 - (pct / 100) * 502;
+  setTimeout(() => { document.getElementById('ringFill').style.strokeDashoffset = offset; }, 200);
+  let title, msg;
+  if (pct >= 80) { title = "Excellent travail !"; msg = "Vous maîtrisez les fondamentaux. Vous êtes prêt(e) à accompagner vos clients sur ce segment !"; }
+  else if (pct >= 60) { title = "Bon résultat !"; msg = "Quelques points à consolider sur la valorisation et l'approche investisseur."; }
+  else { title = "À consolider"; msg = "Prenez le temps de revoir la formation, en particulier les critères de valorisation."; }
+  document.getElementById('resultTitle').textContent = title;
+  document.getElementById('resultMsg').textContent = msg;
+  updateProgress();
+  show('screenResults');
+
+  // Save to Google Sheets
+  const WEBHOOK_URL = 'https://script.google.com/macros/s/AKfycbw219Z6GlNlEwcjxZszZ9-bG1VrUsyK5uNevc3ADdjSn68pmrukURbF7TzolGCV0Ca1/exec';
+  document.getElementById('saveStatus').textContent = '⏳ Enregistrement de vos résultats…';
+  try {
+    const data = {
+      prenom: participantPrenom,
+      nom: participantNom,
+      score,
+      qcmTotal: qcmCount,
+      pct,
+      libreCount,
+      date: new Date().toLocaleString('fr-FR')
+    };
+    await fetch(WEBHOOK_URL, {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+    document.getElementById('saveStatus').textContent = '✅ Résultats envoyés — ils apparaissent dans le Google Sheets.';
+  } catch(e) {
+    document.getElementById('saveStatus').textContent = '⚠️ Envoi impossible. Vérifiez votre connexion.';
+  }
+}
+
+/* ══════════════════════════════════════════════
+   DASHBOARD
+══════════════════════════════════════════════ */
+async function showDashboard() {
+  show('screenDashboard');
+  await loadDashboard();
+}
+
+async function loadDashboard() {
+  const tbody = document.getElementById('dashTableBody');
+  tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;padding:24px;color:var(--mid-gray);">Chargement…</td></tr>';
+  try {
+    const keys = await window.storage.list('result_', true);
+    const allKeys = keys.keys || [];
+    if (!allKeys.length) {
+      tbody.innerHTML = '<tr><td colspan="6"><div class="empty-state">Aucun résultat enregistré pour l\'instant.</div></td></tr>';
+      document.getElementById('d-total').textContent = '0';
+      document.getElementById('d-avg').textContent = '—';
+      document.getElementById('d-best').textContent = '—';
+      document.getElementById('d-pct').textContent = '—';
+      return;
+    }
+    const results = [];
+    for (const key of allKeys) {
+      try {
+        const r = await window.storage.get(key, true);
+        if (r) results.push(JSON.parse(r.value));
+      } catch(e) {}
+    }
+    // Sort by score desc
+    results.sort((a, b) => b.pct - a.pct);
+    // Stats
+    const avg = Math.round(results.reduce((s, r) => s + r.pct, 0) / results.length);
+    const best = results[0]?.pct ?? '—';
+    const globalCorrect = results.reduce((s, r) => s + r.score, 0);
+    const globalTotal = results.reduce((s, r) => s + r.qcmTotal, 0);
+    const globalPct = globalTotal ? Math.round(globalCorrect / globalTotal * 100) : '—';
+    document.getElementById('d-total').textContent = results.length;
+    document.getElementById('d-avg').textContent = avg + '%';
+    document.getElementById('d-best').textContent = best + '%';
+    document.getElementById('d-pct').textContent = globalPct + '%';
+    // Table
+    tbody.innerHTML = '';
+    results.forEach((r, i) => {
+      const badgeClass = r.pct >= 80 ? 'score-high' : r.pct >= 60 ? 'score-mid' : 'score-low';
+      const tr = document.createElement('tr');
+      tr.innerHTML = `
+        <td style="color:var(--mid-gray);font-size:.8rem;">${i + 1}</td>
+        <td><strong>${r.prenom} ${r.nom.toUpperCase()}</strong></td>
+        <td>${r.score} / ${r.qcmTotal}</td>
+        <td><span class="score-badge ${badgeClass}">${r.pct}%</span></td>
+        <td style="color:var(--mid-gray)">${r.libreCount} réalisées</td>
+        <td style="color:var(--mid-gray);font-size:.82rem;">${r.date}</td>`;
+      tbody.appendChild(tr);
+    });
+  } catch(e) {
+    tbody.innerHTML = '<tr><td colspan="6"><div class="empty-state">⚠️ Erreur de chargement. Le stockage est peut-être indisponible.</div></td></tr>';
+  }
+}
+
+async function exportCSV() {
+  try {
+    const keys = await window.storage.list('result_', true);
+    const allKeys = keys.keys || [];
+    const results = [];
+    for (const key of allKeys) {
+      try { const r = await window.storage.get(key, true); if (r) results.push(JSON.parse(r.value)); } catch(e) {}
+    }
+    results.sort((a,b) => b.pct - a.pct);
+    let csv = 'Prénom,Nom,Score QCM,Total QCM,% Réussite,Questions libres,Date\n';
+    results.forEach(r => {
+      csv += `"${r.prenom}","${r.nom}","${r.score}","${r.qcmTotal}","${r.pct}%","${r.libreCount}","${r.date}"\n`;
+    });
+    const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = `quiz_resultats_${new Date().toISOString().slice(0,10)}.csv`;
+    a.click(); URL.revokeObjectURL(url);
+  } catch(e) { alert('Export impossible.'); }
+}
+
+async function resetScores() {
+  if (!confirm('Effacer tous les résultats ? Action irréversible.')) return;
+  try {
+    const keys = await window.storage.list('result_', true);
+    for (const key of (keys.keys || [])) { try { await window.storage.delete(key, true); } catch(e) {} }
+    loadDashboard();
+  } catch(e) {}
+}
+</script>
+</body>
+</html>
