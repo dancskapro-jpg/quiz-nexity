@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Brand Management Drill</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;600;700;800;900&family=Figtree:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/* Layout: the whole stage takes the current unit's colour; one white card sits on a fanned deck of ghost cards. */
+:root{
+  /* stage colours (page background per unit) */
+  --u3:#0F6A62; --u4:#2236AE; --u5:#C0420E; --u0:#1B1F2B;
+  /* accent colours used inside the card */
+  --u3a:#0F6A62; --u4a:#2236AE; --u5a:#C0420E; --u0a:#1B1F2B; --on-ua:#FFFFFF;
+  --stage-ink:#FFFFFF;
+  --card:#FFFFFF; --ink:#12141A; --muted:#626A7A; --line:#E3E6EC; --soft:#F3F4F7;
+  --ok:#11905A; --bad:#D8333C; --ok-hi:#6BEBAE; --bad-hi:#FF9AA0;
+  --f-display:"Unbounded","Arial Black",system-ui,sans-serif;
+  --f-body:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  --stage:var(--u4); --ua:var(--u4a);
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --u3:#093C38; --u4:#141C5C; --u5:#5E2108; --u0:#0E1016;
+  --u3a:#41C9BA; --u4a:#93A1FF; --u5a:#FF8E5E; --u0a:#E8EBF2; --on-ua:#0E1016;
+  --card:#171A22; --ink:#ECEEF4; --muted:#9BA3B3; --line:#2A2F3A; --soft:#1F232D;
+  --ok:#46CB88; --bad:#FF6B73; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --u3:#093C38; --u4:#141C5C; --u5:#5E2108; --u0:#0E1016;
+  --u3a:#41C9BA; --u4a:#93A1FF; --u5a:#FF8E5E; --u0a:#E8EBF2; --on-ua:#0E1016;
+  --card:#171A22; --ink:#ECEEF4; --muted:#9BA3B3; --line:#2A2F3A; --soft:#1F232D;
+  --ok:#46CB88; --bad:#FF6B73; color-scheme:dark}
+
+html[data-unit="3"]{--stage:var(--u3);--ua:var(--u3a)}
+html[data-unit="4"]{--stage:var(--u4);--ua:var(--u4a)}
+html[data-unit="5"]{--stage:var(--u5);--ua:var(--u5a)}
+html[data-unit="0"]{--stage:var(--u0);--ua:var(--u0a)}
+
+*{box-sizing:border-box}
+body{margin:0}
+[hidden]{display:none!important}
+html{background-color:var(--stage);transition:background-color .6s ease}
+body{min-height:100vh;color:var(--ink);font-family:var(--f-body);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased;
+  background-color:var(--stage);
+  background-image:radial-gradient(1000px 520px at 12% -8%,rgba(255,255,255,.20),transparent 62%),radial-gradient(900px 600px at 105% 105%,rgba(0,0,0,.30),transparent 60%);
+  background-repeat:no-repeat;transition:background-color .6s ease;position:relative}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.10;mix-blend-mode:overlay;z-index:0;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+.wrap{position:relative;z-index:1;max-width:780px;margin:0 auto;padding-inline:16px;padding-block:22px 56px;display:flex;flex-direction:column;gap:18px}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible{outline:3px solid var(--ua);outline-offset:2px}
+.top button:focus-visible,.controls button:focus-visible{outline-color:#fff}
+
+/* ---------- header (on the coloured stage) ---------- */
+.top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:14px;color:var(--stage-ink)}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.logo{width:46px;height:46px;border-radius:14px;background:#fff;color:var(--stage);display:grid;place-items:center;font-family:var(--f-display);font-weight:900;font-size:15px;letter-spacing:-.02em;transform:rotate(-6deg);box-shadow:0 8px 20px -8px rgba(0,0,0,.5);transition:color .6s}
+.brand h1{margin:0;font-family:var(--f-display);font-weight:800;font-size:clamp(20px,4.6vw,28px);line-height:1;letter-spacing:-.02em}
+.brand p{margin:5px 0 0;font-size:13px;opacity:.78}
+.stats{display:flex;align-items:center;gap:12px;margin-left:auto}
+.ring{width:54px;height:54px;transform:rotate(-90deg)}
+.ring circle{fill:none;stroke-width:5}
+.ring .bgc{stroke:rgba(255,255,255,.22)}
+.ring .fgc{stroke:#fff;stroke-linecap:round;transition:stroke-dashoffset .5s ease}
+.stxt{font-size:12.5px;line-height:1.35;opacity:.95}
+.stxt b{display:block;font-family:var(--f-display);font-size:22px;font-weight:800;font-variant-numeric:tabular-nums;line-height:1.05}
+.streak{display:inline-flex;align-items:center;gap:4px;font-weight:600}
+.streak svg{width:13px;height:13px;fill:#FFD27A}
+.streak.hot{animation:pop .4s ease}
+@keyframes pop{50%{transform:scale(1.18)}}
+
+.controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{border:1.5px solid rgba(255,255,255,.32);background:rgba(255,255,255,.10);color:#fff;border-radius:999px;padding:7px 13px;font-size:13px;font-weight:600;display:inline-flex;gap:7px;align-items:center;transition:background .2s,color .2s}
+.chip .dot{width:9px;height:9px;border-radius:50%;box-shadow:0 0 0 2px rgba(255,255,255,.7)}
+.chip[aria-pressed="true"]{background:#fff;color:#12141A;border-color:#fff}
+.chip[aria-pressed="false"]{opacity:.7}
+.chip[aria-pressed="false"] .dot{background:transparent!important}
+.spacer{flex:1}
+.ghost{border:1.5px solid rgba(255,255,255,.5);background:transparent;color:#fff;border-radius:999px;padding:7px 14px;font-family:var(--f-display);font-weight:600;font-size:12px;display:inline-flex;gap:7px;align-items:center}
+.ghost:hover{background:rgba(255,255,255,.12)}
+.ghost svg{width:14px;height:14px;stroke:currentColor;fill:none;stroke-width:2.2}
+.note{font-size:12.5px;color:#fff;opacity:.85}
+
+.strip{display:grid;grid-template-columns:repeat(var(--n,50),1fr);gap:3px}
+.strip i{height:7px;border-radius:4px;background:rgba(255,255,255,.22);transition:background .3s}
+.strip i.cur{background:#fff;box-shadow:0 0 0 2px rgba(255,255,255,.35)}
+.strip i.ok{background:var(--ok-hi)}
+.strip i.bad{background:var(--bad-hi)}
+
+/* ---------- deck + card ---------- */
+.deck{position:relative;margin-bottom:14px}
+.deck::before,.deck::after{content:"";position:absolute;inset:0;border-radius:30px;background:rgba(255,255,255,.13);border:1px solid rgba(255,255,255,.14)}
+.deck::before{transform:translateY(16px) scale(.94) rotate(1.6deg)}
+.deck::after{transform:translateY(8px) scale(.97) rotate(-1.2deg)}
+.card{position:relative;z-index:1;background:var(--card);border-radius:30px;padding:26px;display:flex;flex-direction:column;gap:20px;box-shadow:0 34px 70px -28px rgba(0,0,0,.6),0 2px 0 rgba(255,255,255,.4) inset;animation:deal .42s cubic-bezier(.2,.9,.25,1.15)}
+@keyframes deal{from{transform:translateY(26px) rotate(-1.5deg);opacity:.35}to{transform:none;opacity:1}}
+.chead{display:flex;justify-content:space-between;align-items:flex-start;gap:16px}
+.meta{display:flex;flex-direction:column;gap:8px;min-width:0}
+.pill{align-self:flex-start;display:inline-flex;align-items:center;gap:8px;background:color-mix(in oklab,var(--ua) 12%,var(--card));color:var(--ua);border-radius:999px;padding:6px 12px 6px 10px;font-family:var(--f-display);font-weight:700;font-size:11.5px;letter-spacing:.01em}
+.pill svg{width:15px;height:15px;stroke:currentColor;fill:none;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.ulab{font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.num{font-family:var(--f-display);font-weight:900;font-size:clamp(40px,9vw,58px);line-height:.8;color:transparent;-webkit-text-stroke:1.6px var(--ua);font-variant-numeric:tabular-nums;letter-spacing:-.03em;white-space:nowrap}
+.num small{font-size:13px;-webkit-text-stroke:0;color:var(--muted);font-weight:600;letter-spacing:0;margin-left:3px}
+.q{margin:0;font-size:clamp(18px,3.6vw,22px);line-height:1.38;font-weight:650;font-weight:700;letter-spacing:-.005em;text-wrap:pretty}
+.q .case{display:inline-block;font-family:var(--f-display);font-size:10.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--on-ua);background:var(--ua);border-radius:6px;padding:3px 7px;margin-right:8px;vertical-align:3px}
+.hint{margin:0 0 12px;color:var(--muted);font-size:13.5px}
+
+/* options */
+.opts{display:flex;flex-direction:column;gap:10px}
+.opt{display:grid;grid-template-columns:32px 1fr auto;gap:12px;align-items:center;text-align:left;border:2px solid var(--line);background:var(--card);border-radius:18px;padding:13px 14px;font-size:15.5px;line-height:1.4;font-weight:500;transition:transform .15s,border-color .15s,box-shadow .15s,background .15s}
+.opt:hover:not(:disabled){border-color:var(--ua);transform:translateY(-2px);box-shadow:0 10px 22px -14px var(--ua)}
+.opt .k{font-family:var(--f-display);font-size:12px;font-weight:800;width:32px;height:32px;border-radius:11px;display:grid;place-items:center;background:var(--soft);color:var(--muted);transition:background .15s,color .15s}
+.opt:hover:not(:disabled) .k{background:var(--ua);color:var(--on-ua)}
+.opt .mark{width:22px;height:22px;opacity:0}
+.opt .mark svg{width:22px;height:22px;fill:none;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
+.opt.sel{border-color:var(--ua);background:color-mix(in oklab,var(--ua) 9%,var(--card))}
+.opt.sel .k{background:var(--ua);color:var(--on-ua)}
+.opt.ok{border-color:var(--ok);background:color-mix(in oklab,var(--ok) 12%,var(--card))}
+.opt.ok .k{background:var(--ok);color:#fff}
+.opt.ok .mark{opacity:1;stroke:var(--ok)} .opt.ok .mark svg{stroke:var(--ok)}
+.opt.bad{border-color:var(--bad);background:color-mix(in oklab,var(--bad) 10%,var(--card));animation:shake .38s}
+.opt.bad .k{background:var(--bad);color:#fff}
+.opt.bad .mark{opacity:1} .opt.bad .mark svg{stroke:var(--bad)}
+.opt.miss{border-style:dashed;border-color:var(--ok)}
+.opt:disabled{cursor:default;transform:none}
+.opt:disabled:not(.ok):not(.bad):not(.miss){opacity:.55}
+@keyframes shake{20%{transform:translateX(-6px)}40%{transform:translateX(5px)}60%{transform:translateX(-3px)}80%{transform:translateX(2px)}}
+.tf{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.tf .opt{grid-template-columns:1fr;justify-items:center;text-align:center;font-family:var(--f-display);font-weight:800;font-size:20px;padding:26px 12px;border-radius:22px;gap:6px}
+.tf .opt .ic{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--soft)}
+.tf .opt .ic svg{width:18px;height:18px;fill:none;stroke:var(--ink);stroke-width:2.8;stroke-linecap:round;stroke-linejoin:round}
+.tf .opt.ok .ic{background:var(--ok)} .tf .opt.ok .ic svg{stroke:#fff}
+.tf .opt.bad .ic{background:var(--bad)} .tf .opt.bad .ic svg{stroke:#fff}
+
+/* match */
+.match{display:grid;grid-template-columns:minmax(0,.82fr) minmax(0,1.18fr);gap:10px 12px;align-items:start}
+.col{display:flex;flex-direction:column;gap:10px;min-width:0}
+.colh{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.tile{position:relative;text-align:left;border:2px solid var(--line);background:var(--card);border-radius:16px;padding:11px 13px;font-size:14px;line-height:1.35;min-height:50px;overflow-wrap:anywhere;transition:transform .15s,border-color .15s,background .15s}
+.tile.term{font-weight:700;background:var(--soft);border-color:transparent}
+.tile:hover:not(:disabled){border-color:var(--ua)}
+.tile.active{border-color:var(--ua);transform:scale(1.03);box-shadow:0 0 0 4px color-mix(in oklab,var(--ua) 22%,transparent)}
+.tile.paired{background:color-mix(in oklab,var(--ua) 10%,var(--card));border-color:color-mix(in oklab,var(--ua) 55%,var(--line))}
+.tile .tag{position:absolute;top:-9px;right:-7px;font-family:var(--f-display);font-size:11px;font-weight:800;background:var(--ua);color:var(--on-ua);border-radius:999px;min-width:22px;height:22px;display:grid;place-items:center;padding:0 6px;box-shadow:0 0 0 3px var(--card)}
+.tile.ok{border-color:var(--ok);background:color-mix(in oklab,var(--ok) 12%,var(--card))} .tile.ok .tag{background:var(--ok);color:#fff}
+.tile.bad{border-color:var(--bad);background:color-mix(in oklab,var(--bad) 10%,var(--card))} .tile.bad .tag{background:var(--bad);color:#fff}
+.tile:disabled{cursor:default}
+
+/* sort */
+.sort{display:flex;flex-direction:column;gap:10px}
+.srow{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;background:var(--soft);border:2px solid transparent;border-radius:16px;padding:11px 13px;transition:border-color .2s,background .2s}
+.srow .txt{flex:1 1 210px;min-width:0;font-size:15px;line-height:1.35;font-weight:500}
+.seg{display:flex;flex-wrap:wrap;gap:4px;background:var(--card);border-radius:12px;padding:3px}
+.seg button{border:none;background:transparent;border-radius:9px;padding:6px 10px;font-size:12px;font-weight:700;white-space:nowrap;color:var(--muted);transition:background .15s,color .15s}
+.seg button:hover:not(:disabled){color:var(--ink)}
+.seg button[aria-pressed="true"]{background:var(--ua);color:var(--on-ua)}
+.srow.ok{border-color:var(--ok);background:color-mix(in oklab,var(--ok) 10%,var(--card))}
+.srow.bad{border-color:var(--bad);background:color-mix(in oklab,var(--bad) 8%,var(--card))}
+.srow .fix{flex-basis:100%;font-size:12.5px;color:var(--bad);font-weight:700}
+
+/* order */
+.seq{display:flex;flex-direction:column;gap:8px;min-height:60px;border:2px dashed var(--line);border-radius:18px;padding:10px;margin-bottom:12px}
+.seq .empty{color:var(--muted);font-size:13.5px;padding:8px 6px}
+.step{display:grid;grid-template-columns:34px 1fr;gap:10px;align-items:center;text-align:left;border:none;background:color-mix(in oklab,var(--ua) 10%,var(--card));border-radius:13px;padding:9px 12px;font-size:14.5px;font-weight:600;animation:deal .25s ease-out}
+.step .n{font-family:var(--f-display);font-weight:900;font-size:18px;color:var(--ua);font-variant-numeric:tabular-nums;text-align:center}
+.step.ok{background:color-mix(in oklab,var(--ok) 14%,var(--card))} .step.ok .n{color:var(--ok)}
+.step.bad{background:color-mix(in oklab,var(--bad) 12%,var(--card))} .step.bad .n{color:var(--bad)}
+.pool,.bank{display:flex;flex-wrap:wrap;gap:8px}
+.pool button,.bank button{border:2px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px;font-size:14px;font-weight:600;transition:transform .15s,border-color .15s}
+.pool button:hover,.bank button:hover:not(:disabled){border-color:var(--ua);transform:translateY(-2px)}
+
+/* fill */
+.sentence{font-size:clamp(16px,3.2vw,18px);line-height:2.4;margin:0 0 14px;font-weight:500}
+.blank{display:inline-block;min-width:104px;border:none;border-bottom:3px solid var(--ua);background:color-mix(in oklab,var(--ua) 8%,var(--card));border-radius:9px 9px 3px 3px;padding:0 12px;margin:0 3px;font-weight:700;line-height:1.75;vertical-align:baseline;color:var(--ua)}
+.blank.focus{box-shadow:0 0 0 3px color-mix(in oklab,var(--ua) 35%,transparent)}
+.blank:empty::after{content:"\00a0"}
+.blank.ok{border-bottom-color:var(--ok);background:color-mix(in oklab,var(--ok) 14%,var(--card));color:var(--ok)}
+.blank.bad{border-bottom-color:var(--bad);background:color-mix(in oklab,var(--bad) 12%,var(--card));color:var(--bad);text-decoration:line-through}
+.bank button.used{visibility:hidden}
+
+/* feedback + actions */
+.fb{border-radius:20px;padding:16px 18px;display:grid;grid-template-columns:40px 1fr;gap:4px 14px;font-size:14.5px;animation:deal .3s ease-out}
+.fb.ok{background:color-mix(in oklab,var(--ok) 12%,var(--card))}
+.fb.bad{background:color-mix(in oklab,var(--bad) 10%,var(--card))}
+.fb .ico{grid-row:1/span 3;width:40px;height:40px;border-radius:50%;display:grid;place-items:center}
+.fb.ok .ico{background:var(--ok)} .fb.bad .ico{background:var(--bad)}
+.fb .ico svg{width:20px;height:20px;fill:none;stroke:#fff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.fb .v{font-family:var(--f-display);font-weight:800;font-size:17px;line-height:1.3;align-self:center}
+.fb .v small{font-family:var(--f-body);font-weight:600;font-size:13.5px;color:var(--muted);margin-left:6px}
+.fb.ok .v{color:var(--ok)} .fb.bad .v{color:var(--bad)}
+.fb .ans{font-weight:600}
+.fb ul{margin:2px 0 0;padding-left:18px}
+.fb .ex{color:var(--muted)}
+.actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between}
+.kbd{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
+.go{border:none;background:var(--ua);color:var(--on-ua);border-radius:999px;padding:14px 22px;font-family:var(--f-display);font-weight:700;font-size:13.5px;display:inline-flex;align-items:center;gap:10px;box-shadow:0 12px 24px -12px var(--ua);transition:transform .15s,opacity .15s}
+.go:hover:not(:disabled){transform:translateY(-2px)}
+.go:disabled{opacity:.3;cursor:not-allowed;box-shadow:none}
+.go svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2.6;stroke-linecap:round;stroke-linejoin:round}
+.go.alt{background:transparent;color:var(--ink);box-shadow:inset 0 0 0 2px var(--line)}
+
+/* results */
+.hero{display:grid;grid-template-columns:auto 1fr;gap:22px;align-items:center}
+.big{position:relative;width:150px;height:150px}
+.big svg{width:150px;height:150px;transform:rotate(-90deg)}
+.big circle{fill:none;stroke-width:12}
+.big .bgc{stroke:var(--soft)} .big .fgc{stroke:var(--ua);stroke-linecap:round;transition:stroke-dashoffset 1s cubic-bezier(.2,.8,.2,1)}
+.big .lbl{position:absolute;inset:0;display:grid;place-items:center;text-align:center;font-family:var(--f-display);font-weight:900;font-size:36px;line-height:1}
+.big .lbl small{display:block;font-size:12px;font-weight:600;color:var(--muted);margin-top:4px}
+.hero h2{margin:0 0 6px;font-family:var(--f-display);font-weight:800;font-size:clamp(22px,5vw,30px);line-height:1.1;letter-spacing:-.02em}
+.hero p{margin:0;color:var(--muted);font-size:15px}
+.sec{margin:0;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);font-weight:700}
+.bars{display:flex;flex-direction:column;gap:12px}
+.bar{display:grid;grid-template-columns:minmax(0,210px) 1fr 52px;gap:12px;align-items:center;font-size:14px;font-weight:600}
+.bar .lab{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.bar .track{height:12px;background:var(--soft);border-radius:6px;overflow:hidden}
+.bar .fill{display:block;height:100%;border-radius:6px}
+.bar .val{font-family:var(--f-mono);font-size:12px;text-align:right;font-variant-numeric:tabular-nums;color:var(--muted)}
+.missed{display:flex;flex-direction:column;gap:10px}
+.miss{background:var(--soft);border-radius:16px;padding:12px 14px 12px 16px;font-size:14px;display:flex;flex-direction:column;gap:5px;position:relative;overflow:hidden}
+.miss::before{content:"";position:absolute;left:0;top:0;bottom:0;width:5px;background:var(--mu)}
+.miss.u3{--mu:var(--u3a)} .miss.u4{--mu:var(--u4a)} .miss.u5{--mu:var(--u5a)}
+.miss .mq{font-weight:700}
+.miss .ma{color:var(--muted)}
+.miss .ma b{color:var(--ok);font-weight:700}
+footer{position:relative;z-index:1;color:#fff;opacity:.72;font-size:12.5px;text-align:center;max-width:560px;margin:0 auto;padding-inline:16px;padding-block:0 30px}
+
+#fx{position:fixed;inset:0;pointer-events:none;z-index:50;width:100%;height:100%}
+
+@media (max-width:520px){
+  .card{padding:20px;border-radius:26px;gap:18px}
+  .deck::before,.deck::after{border-radius:26px}
+  .match{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:8px}
+  .tile{font-size:13px;padding:9px 10px;border-radius:13px}
+  .hero{grid-template-columns:1fr;justify-items:start}
+  .bar{grid-template-columns:1fr 46px;gap:6px 12px}
+  .bar .lab{grid-column:1/-1;white-space:normal}
+  .stats{margin-left:0}
+  .opt{grid-template-columns:30px 1fr auto;padding:12px;font-size:15px}
+  .opt .k{width:30px;height:30px}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+
+<canvas id="fx" aria-hidden="true"></canvas>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="logo" aria-hidden="true">BM</div>
+      <div><h1>Brand Drill</h1><p>Brand Management · exam revision · Units III–V</p></div>
+    </div>
+    <div class="stats" aria-live="polite">
+      <svg class="ring" viewBox="0 0 54 54" aria-hidden="true"><circle class="bgc" cx="27" cy="27" r="22"/><circle class="fgc" id="ringFg" cx="27" cy="27" r="22" stroke-dasharray="138.23" stroke-dashoffset="138.23"/></svg>
+      <div class="stxt"><b id="scoreNum">0</b><span id="scoreSub">correct · 0 answered</span><br><span class="streak" id="streak"><svg viewBox="0 0 24 24"><path d="M12 2c1 4 5 6 5 11a5 5 0 0 1-10 0c0-2 1-3.5 2-4.5 0 2 1 3 2 3-1-3 0-6 1-9.5z"/></svg><span id="streakN">0</span>&nbsp;streak</span></div>
+    </div>
+  </header>
+
+  <div class="controls" role="group" aria-label="Units to revise">
+    <button class="chip" id="chip3" data-u="3" aria-pressed="true"><span class="dot" style="background:#2FB3A5"></span>III · Associations &amp; Architecture</button>
+    <button class="chip" id="chip4" data-u="4" aria-pressed="true"><span class="dot" style="background:#6E80FF"></span>IV · Positioning</button>
+    <button class="chip" id="chip5" data-u="5" aria-pressed="true"><span class="dot" style="background:#FF7A45"></span>V · Extensions &amp; Global</button>
+    <span class="spacer"></span>
+    <button class="ghost" id="newSet"><svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 0 1 15.5-6.2L21 8M21 3v5h-5M21 12a9 9 0 0 1-15.5 6.2L3 16M3 21v-5h5"/></svg>New set of 50</button>
+  </div>
+  <div class="note" id="filterNote" hidden>Unit filter changed. Press “New set of 50” to apply it.</div>
+
+  <div class="strip" id="strip" aria-hidden="true"></div>
+  <main id="stage"></main>
+</div>
+<footer>Bank of <span id="bankN">—</span>. Each new set puts unseen cards first, reshuffles the answers and samples different pairs in matching and sorting cards.</footer>
+
+<script>
+/* ============ QUESTION BANK ============ */
+const B=[];
+const M=(u,q,c,w,e)=>B.push({u,t:'mcq',q,o:[c,...w],e});
+const TF=(u,q,a,e)=>B.push({u,t:'tf',q,a,e});
+const MU=(u,q,c,w,e)=>B.push({u,t:'multi',q,c,w,e});
+const MA=(u,q,pairs,e,pick)=>B.push({u,t:'match',q,pairs,e,pick:pick||4});
+const SO=(u,q,buckets,items,e,pick)=>B.push({u,t:'sort',q,buckets,items,e,pick:pick||6});
+const OR=(u,q,items,e)=>B.push({u,t:'order',q,items,e});
+const FI=(u,q,text,blanks,extra,e)=>B.push({u,t:'fill',q,text,blanks,extra,e});
+
+/* ---------- UNIT III ---------- */
+M(3,"In brand management, what is a brand association?","A mental link or shortcut in the consumer's mind between a brand and a concept, image, emotion or person",["The legal registration that protects a brand name and logo","The list of retailers that agree to stock a brand","The price premium a brand charges over generic products"],"Associations are mental shortcuts: Nike → athleticism, performance, “Just Do It”.");
+M(3,"Case — For 15 years, a Swedish car maker has advertised crash tests, airbags and child seats. Consumers now instantly link it to “safety”. Which role of brand associations is mainly at work?","Differentiation",["Value & pricing power","Customer recall through mascots","Guidance in decision-making"],"Linking a car brand to safety sets it apart from competitors — the course's own example of differentiation.");
+M(3,"Sensodyne is strongly associated with “relief from tooth sensitivity”. What kind of brand association is this?","Benefit-based",["Attribute-based","Lifestyle-based","Celebrity/person-based"],"Benefit-based associations focus on what the customer gets out of the product.");
+M(3,"Tesla is associated with electric innovation. What kind of brand association is this?","Attribute-based",["Benefit-based","Emotional/attitude-based","Lifestyle-based"],"Attribute-based associations link the brand to physical features or price.");
+M(3,"Disney is associated with “magic” and “nostalgia”. Which kind of association?","Emotional/attitude-based",["Attribute-based","Benefit-based","Celebrity/person-based"],"Emotional associations focus on how the brand makes you feel rather than what it does.");
+M(3,"Case — An outdoor clothing brand fills its Instagram with people living in vans, surfing at dawn and working remotely from the mountains. Which kind of association is it building?","Lifestyle-based",["Attribute-based","Benefit-based","Celebrity/person-based"],"Lifestyle-based associations connect the brand to a specific way of living.");
+M(3,"Nike signing Michael Jordan to borrow his “greatness” is an example of which association?","Celebrity/person-based",["Attribute-based","Lifestyle-based","Benefit-based"],"Celebrity associations borrow the credibility or “vibe” of a famous figure.");
+M(3,"Which role of brand associations explains why customers accept paying more for a brand linked to high status or superior reliability?","Value & pricing power",["Customer recall & recognition","Guidance in decision-making","Differentiation"],"Positive associations raise brand equity, so customers accept a premium.");
+M(3,"Which definition best describes brand power?","A company's ability to influence consumer behaviour and command market share through reputation and emotional connection, not just product features",["The total advertising budget a company spends in a year","The number of product categories carrying the brand name","The legal protection given to a trademark in several countries"],"Brand power turns a simple logo into a trusted, preferred choice that buyers pay a premium for.");
+M(3,"Which of these is NOT one of the characteristics of a powerful brand listed in the course?","Always being the cheapest option in its category",["Emotional resonance & connection","High awareness & familiarity","Distinct value proposition"],"The six: emotional resonance, high awareness, quality & dependability, market influence, customer loyalty, distinct value proposition.");
+M(3,"Case — A smartphone brand ships a buggy software update. Fans complain online but keep buying the next model anyway. Which brand-power characteristic does this show?","Customer loyalty — a higher tolerance for occasional missteps",["Market influence (brand weight)","High awareness & familiarity","Quality & dependability"],"Loyal customers keep repurchasing and forgive occasional mistakes.");
+M(3,"Case — A sportswear brand launches a sneaker style and within a season every competitor copies it. Which characteristic of brand power is this?","Market influence (brand weight) — setting trends rather than following them",["Distinct value proposition","Customer loyalty","Emotional resonance"],"Brand weight = significant leverage within the industry, often setting trends.");
+M(3,"How does the course define customer loyalty?","An ongoing emotional and behavioural relationship where consumers repeatedly choose a brand over competitors",["A single purchase made during a promotion","A legal contract that ties customers to one supplier","The market share held by the category leader"],"Loyalty is driven by consistent positive experiences, trust and shared values.");
+M(3,"Case — A coffee chain's app has Silver, Gold and Platinum levels, plus a surprise free drink on your birthday. Which loyalty pillar is this?","Rewards & gamification",["Data-driven personalization","Transparent communication","Community & shared values"],"Tiered rewards and unexpected perks incentivize long-term engagement.");
+M(3,"Case — A streaming platform recommends shows based on your history and emails you when your favourite actor has a new film. Which loyalty pillar is this?","Data-driven personalization",["Rewards & gamification","Exceptional customer service","Community & shared values"],"Tailoring communications and recommendations to individual habits.");
+M(3,"Why does customer loyalty bring “cost efficiency”?","Acquiring new customers can cost much more than retaining existing ones",["Loyal customers always buy the cheapest version","Loyalty programmes cost nothing to run","Loyal customers never need customer service"],"The other two advantages: predictable revenue and organic advocacy.");
+M(3,"According to the course, what share of consumers have abandoned brands they no longer trust?","69%",["29%","49%","89%"],"Trust is a primary driver of purchase intent.");
+M(3,"Which of these is NOT one of Deloitte's four core pillars of brand trust?","Popularity",["Humanity","Capability","Reliability"],"The four pillars: Humanity, Capability, Transparency, Reliability.");
+M(3,"Case — A fashion brand publishes the name of every factory it uses and explains exactly how it uses customer data. Which trust pillar is it working on?","Transparency",["Humanity","Capability","Reliability"],"Transparency = openly sharing business practices, data policies and supply-chain origins.");
+M(3,"Case — A food brand trusted for decades has a product recall. Six months later, sales are back to normal. Which benefit of brand trust explains this?","Crisis resilience",["Pricing power","Organic advocacy","Capability"],"Established goodwill helps a company survive errors without permanent reputational damage.");
+M(3,"Which trust-building strategy highlights user-generated content, testimonials and product ratings?","Leverage social proof",["Clarify your mission","Be honest with AI","Prioritize care"],"Social proof shows authentic customer voices.");
+M(3,"In brand architecture, the master brand is…","The dominant brand at the apex of the hierarchy, generally the corporate brand",["Any brand used on a single product only","A brand licensed to another company","The most recent brand a company launched"],"The master brand sits at the top; it is usually the corporate brand bearing the company's name.");
+M(3,"When a parent brand is combined with a new brand name (e.g. Apple + Watch), the result is a…","Sub-brand",["Stand-alone brand","Endorsed brand","Co-brand"],"Parent brand + new brand = sub-brand.");
+M(3,"Case — FedEx operates FedEx Express, FedEx Ground and FedEx Freight. Which brand architecture is this?","Branded House (monolithic)",["House of Brands","Endorsed Brands","Hybrid"],"One master name used across every service.");
+M(3,"Case — Procter & Gamble sells Tide, Gillette and Pampers, and most shoppers never notice the P&G name. Which architecture?","House of Brands (pluralistic)",["Branded House","Sub-brands","Endorsed Brands"],"In a house of brands the parent company is practically invisible.");
+M(3,"What is the main DISADVANTAGE of a House of Brands?","It's expensive: every brand needs its own marketing and development",["A scandal in one brand hits all the others","Consumers can't tell the brands apart","It can't target different segments"],"Risk is contained, but costs multiply.");
+M(3,"What is the main RISK of a Branded House?","If the parent brand suffers a setback, every product is impacted",["Each product needs its own marketing budget","The parent company stays invisible","New products can't be launched"],"All the equity sits on one name: efficient, but risky.");
+M(3,"“Courtyard by Marriott” and “KitKat by Nestlé” are examples of…","Endorsed brands",["Sub-brands","A Branded House","Licensed extensions"],"The child brand has its own identity but carries the parent's stamp of approval.");
+M(3,"In an endorsed-brand strategy, what drives the purchase?","The sub-brand drives it; the endorsement adds credibility and quality assurance",["The parent brand alone","Price alone","The retailer's own brand"],"The endorser acts as a guarantee.");
+M(3,"Case — Microsoft markets Office, Surface and Xbox, each with its own positioning. What must marketing carefully avoid with sub-brands?","Diluting the master brand's message",["Ever mentioning the parent brand","Selling in more than one country","Using different product names"],"Sub-brands balance parent equity and tailored appeal, but can blur the master message.");
+M(3,"Case — Alphabet runs Google as a branded house (Maps, Cloud) but also owns independent brands like Waymo and DeepMind. Which architecture?","Hybrid (house blend)",["Branded House","House of Brands","Endorsed Brands"],"A hybrid mixes models.");
+M(3,"Hybrid brand architectures most often appear because of…","Mergers and acquisitions",["Penetration pricing","Line extensions","Sonic branding"],"Acquired brands keep their identity while others stay tied to the parent.");
+M(3,"What is the primary goal of a strategic brand portfolio?","Maximize market coverage across segments while minimizing overlap and cannibalization",["Use a single brand name for every product","Reduce the number of segments targeted","Raise the price of every brand"],"Coverage up, internal competition down.");
+M(3,"Cannibalization happens when…","A company's new product reduces the sales of its own existing products",["A competitor copies your logo","A brand enters a foreign market","Two companies co-brand a product"],"The new product eats into the existing line's sales.");
+M(3,"Case — A premium detergent maker launches a cheaper brand under a different name to fight discount rivals, without touching its flagship's image. What is this second brand?","A flanker brand",["A master brand","An endorsed brand","A sub-brand"],"Flankers block competitors or attract price-sensitive buyers while protecting the flagship's premium status.");
+M(3,"Which portfolio advantage means a PR crisis in one brand doesn't directly hit the others?","Risk insulation",["Cross-selling synergy","Resource optimization","Segmented market coverage"],"Spreading offerings across brands isolates liability.");
+M(3,"Apple selling iPhone, iPad and Mac all under one brand is, according to the revision poster, which portfolio type?","Single brand portfolio",["Multi-brand portfolio","Hybrid portfolio","Endorsed portfolio"],"One brand for all products. P&G = multi-brand; Unilever (Dove, Lux + Unilever master brand) = hybrid.");
+M(3,"Brand synergy is the idea that…","Two or more brands combined produce a greater effect than the sum of their parts",["A brand should always work alone","Every brand in a portfolio must share one price","Brands with similar logos cancel each other out"],"1 + 1 > 2.");
+M(3,"Case — GoPro partners with Red Bull on extreme-sports content. Which type of brand synergy is this?","Co-branding",["Omnichannel alignment","Brand portfolio synergy","Community/content synergy"],"Two established brands share audiences and expertise (also: Nike + Apple for Nike+).");
+M(3,"Case — A retailer makes sure its stores in Chennai, its app and its website look, sound and behave the same way. Which type of synergy?","Omnichannel alignment",["Co-branding","Brand portfolio synergy","Licensing"],"A consistent, fluid experience across physical and digital channels.");
+M(3,"Which synergy element is “the capacity of brand elements and equity to add value across categories, cultures and geographies”?","Transferability",["Adaptability","Visual identity","Brand voice & tone"],"Adaptability, by contrast, is evolving with trends without losing core identity.");
+M(3,"Which synergy element is “the flexibility to evolve with changing consumer values without losing core identity”?","Adaptability",["Transferability","Core values & purpose","Visual identity"],"Transferability is about carrying value across categories and countries.");
+
+TF(3,"In a House of Brands, a scandal in one brand usually spreads to all the others.",false,"A house of brands contains risk. It's the Branded House where a setback hits everything.");
+TF(3,"Building lasting customer loyalty relies mainly on transactional discounts.",false,"The course says loyalty goes beyond discounts: service, personalization, rewards, transparency, shared values.");
+TF(3,"Brand power is based mainly on the technical features of a company's products.",false,"Brand power comes from reputation and emotional connection, not just features.");
+TF(3,"In a hybrid architecture, some products stay tied to the parent while others keep fully independent identities.",true,"E.g. The Coca-Cola Company: Diet Coke and Coke Zero vs Minute Maid and Dasani.");
+TF(3,"Brand synergy means the combined effect of two brands equals the sum of their separate effects.",false,"Synergy means the combined effect is greater than the sum.");
+TF(3,"Customers are often willing to pay a premium for brands they perceive as highly trustworthy.",true,"Pricing power is one of the benefits of brand trust.");
+TF(3,"A parent brand is a brand that is extended to more than one product category.",true,"And parent brand + new brand name = sub-brand.");
+
+MU(3,"Select ALL the benefits of brand synergy listed in the course.",["Audience expansion","Enhanced credibility","Shared costs & resources","Market penetration"],["Higher production costs","No more need for a brand identity"],"The five: audience expansion, enhanced credibility, shared costs, increased engagement, market penetration.");
+MU(3,"Select ALL of Deloitte's four pillars of brand trust.",["Humanity","Capability","Transparency","Reliability"],["Scarcity","Popularity"],"Humanity, Capability, Transparency, Reliability.");
+MU(3,"Select ALL the reasons customer loyalty matters, according to the course.",["Cost efficiency","Predictable revenue","Organic advocacy"],["Lower product quality","Less need for customer service"],"Retention is cheaper, loyal buyers churn less and they recommend you.");
+
+MA(3,"Match each brand architecture with its example.",[["Branded House","Google (Maps, Drive, Workspace)"],["House of Brands","Unilever (Dove, Axe, Ben & Jerry's)"],["Sub-brands","Microsoft (Office, Surface, Xbox)"],["Endorsed Brands","Courtyard by Marriott"],["Hybrid","Coca-Cola Co. (Coke Zero + Minute Maid)"]],"From one master name to independent brands, with mixes in between.");
+MA(3,"Match each kind of brand association with its example.",[["Attribute-based","Tesla → electric innovation"],["Benefit-based","Sensodyne → relief from sensitivity"],["Celebrity-based","Nike → Michael Jordan"],["Emotional-based","Disney → magic and nostalgia"],["Lifestyle-based","Apple → modern, creative lifestyle"]],"Five kinds of associations, five classic examples.");
+MA(3,"Match each trust pillar with its meaning.",[["Humanity","Genuine care for society, environment and employees"],["Capability","Expertise to deliver high-quality products"],["Transparency","Openly sharing practices, data use and supply chains"],["Reliability","Meeting expectations at every touchpoint over time"]],"Deloitte's four drivers of brand trust.");
+MA(3,"Match each brand synergy element with its definition.",[["Visual identity","Logos, colours, typography for instant recognition"],["Brand voice & tone","Consistent communication style and catchphrases"],["Core values & purpose","Mission and vision telling one unified story"],["Transferability","Equity adds value across categories and countries"],["Adaptability","Evolves with trends without losing its core"]],"The five elements that make brand assets work together.");
+MA(3,"Match each loyalty pillar with its example.",[["Exceptional service","Issues solved in minutes on any channel"],["Personalization","Offers tailored to your purchase history"],["Rewards & gamification","Gold and Platinum tiers with surprise perks"],["Transparent communication","Honest updates during a delivery delay"],["Community & values","Brand backs a cause its customers care about"]],"The five pillars of lasting loyalty.");
+MA(3,"Match each role of brand associations with its description.",[["Differentiation","Sets the brand apart from competitors"],["Recall & recognition","Taglines and mascots trigger memory"],["Emotional connection","Turns transactions into emotional bonds"],["Pricing power","Customers accept paying a premium"],["Decision guidance","Helps quickly judge if a product fits"]],"The five strategic roles of brand associations.");
+
+SO(3,"Sort each feature: Branded House or House of Brands?",["Branded House","House of Brands"],[["One master name on every product",0],["All marketing builds one single equity",0],["A setback to the parent hits everything",0],["Highly cost-effective",0],["Example: FedEx",0],["Parent company practically invisible",1],["Every brand needs its own marketing",1],["A scandal stays contained",1],["Targets very different segments",1],["Example: Procter & Gamble",1]],"Branded House = efficient but risky. House of Brands = safe but expensive.");
+SO(3,"Brand trust: is each item a BENEFIT of trust or a STRATEGY to build it?",["Benefit","Strategy"],[["Pricing power",0],["Customer retention",0],["Organic advocacy",0],["Crisis resilience",0],["Leverage social proof",1],["Be honest with AI",1],["Clarify your mission",1],["Prioritize human-centric care",1]],"Benefits are what trust gives you; strategies are how you earn it.");
+
+OR(3,"Order these architectures from the MOST connected to the parent brand to the MOST independent.",["Branded House","Sub-brands","Endorsed Brands","House of Brands"],"The spectrum runs from one master name (Branded House) to fully independent brands (House of Brands).");
+
+FI(3,"Complete the definition.","Brand ___ is the concept that two or more brands, when combined, produce a ___ effect than the ___ of their individual parts.",["synergy","greater","sum"],["equity","smaller","average"],"Synergy: 1 + 1 > 2.");
+FI(3,"Complete the definition.","A brand ___ is the collection of all brands managed by one parent company. Its goal is to maximize market ___ while minimizing ___.",["portfolio","coverage","cannibalization"],["architecture","prices","awareness"],"Coverage up, internal competition down.");
+FI(3,"Complete the definition.","Brand ___ is a company's ability to influence consumer behaviour through its ___ and emotional connection, rather than just product ___.",["power","reputation","features"],["synergy","prices","logos"],"Brand power turns a logo into a preferred choice.");
+
+/* ---------- UNIT IV ---------- */
+M(4,"What is brand positioning?","The perception a brand creates in the mind of the target consumer",["The physical place of the product on the shelf","The brand's rank on the stock market","The number of stores that sell the brand"],"Positioning creates a unique, credible, sustainable and valued place in the consumer's mind.");
+M(4,"Good positioning creates a place in the consumer's mind that is…","Unique, credible, sustainable and valued",["Cheap, fast, temporary and loud","Global, legal, patented and free","Complex, technical, hidden and exclusive"],"These four words come straight from the course definition.");
+M(4,"What is the FIRST step in crafting a positioning strategy?","Define your target audience",["Craft your positioning statement","Align marketing and monitor","Establish your UVP"],"Audience → competitive landscape → UVP → positioning statement → align & monitor.");
+M(4,"Case — A marketing team draws a 2×2 chart with “Price” on one axis and “Quality” on the other, then places 6 rivals on it. Which positioning step are they in?","Map the competitive landscape",["Define the target audience","Craft the positioning statement","Align marketing and monitor"],"The 2×2 competitive matrix helps find gaps in the market.");
+M(4,"Which sentence follows the course's UVP template?","Because we offer 10-minute delivery, our busy students get dinner without planning ahead.",["We are the best brand in the world.","For everyone, everywhere, always.","Our company was founded in 1998 in Lyon."],"Template: “Because we offer [unique feature], our [target audience] gets [specific benefit].”");
+M(4,"Who is the positioning statement mainly written for?","The internal team — it's a foundational guide",["Consumers, as an advertising slogan","Shareholders, as a financial report","Retailers, as a price list"],"It translates the UVP into a concise narrative for the team.");
+M(4,"Which positioning principle says the best brands try to “own” a single word or concept in the consumer's mind?","Keep it simple",["Validate with proof","Maintain consistency","Focus on the consumer's mind"],"Simple, concise, repeatable. Volvo owns “safety”.");
+M(4,"Which principle asks you to find the “empty consequence space” — language and territory no competitor uses yet?","Differentiate from competitors",["Keep it simple","Maintain consistency","Validate with proof"],"Map competitors' claims, then narrow your focus to a niche.");
+M(4,"“What you say, you must prove and deliver.” Which principle is this?","Validate with proof",["Keep it simple","Differentiate from competitors","Focus on the consumer's mind"],"Every functional or emotional benefit needs proof points.");
+M(4,"Case — A skincare brand's positioning statement says its cream was “tested on 2,000 patients by dermatologists”. Which element of the statement is this?","Reason to believe",["Target audience","Category / market","Brand promise"],"The reason to believe is the evidence that makes the promise credible.");
+M(4,"Case — Nobody can name one difference between bottled water “Aqua+” and any other water on the shelf. Which positioning error?","Under-positioning",["Over-positioning","Doubtful positioning","Irrelevant positioning"],"No distinct, compelling reason to buy — it blends into the background.");
+M(4,"Case — A jeweller sells rings from €90, but consumers believe it only sells €5,000 pieces and never walk in. Which positioning error?","Over-positioning",["Under-positioning","Confused positioning","Irrelevant positioning"],"Positioned too narrowly: consumers overlook its broader offer.");
+M(4,"Case — A hotel chain advertises “the most luxurious stay in Europe” and “the cheapest beds in town” in the same campaign. Which error?","Confused positioning",["Over-positioning","Under-positioning","Irrelevant positioning"],"Contradictory claims (or changing positioning too often) confuse buyers.");
+M(4,"Case — A €15 face cream claims to “erase all wrinkles in 24 hours”. Consumers simply don't believe it. Which error?","Doubtful positioning",["Under-positioning","Over-positioning","Trying to be everything to everyone"],"Promises far exceed what the product, price or reputation can deliver.");
+M(4,"Case — A laptop brand builds its whole campaign around the colour of its internal cables, which buyers never see. Which error?","Irrelevant positioning",["Doubtful positioning","Confused positioning","Over-positioning"],"It focuses on features consumers don't care about.");
+M(4,"A “spray and pray” approach that avoids any clear stance in order to serve all audiences is called…","Trying to be everything to everyone",["Over-positioning","Repositioning","Selective distribution"],"The message gets watered down until it resonates with no one.");
+M(4,"Lifebuoy moved from “a masculine bath soap” to “the soap that protects the whole family's health”. This is…","Brand repositioning",["A line extension","Co-branding","Penetration pricing"],"Repositioning happens when a positioning no longer works or is no longer relevant.");
+M(4,"Case — A sports drink is relaunched as an everyday hydration drink for office workers. Which reason for repositioning?","New use cases",["Business expansion","Combating negative associations","Fierce competition"],"Redefining when or how the product is used opens new markets.");
+M(4,"Case — A 1980s fashion brand's buyers are now in their 60s, so it relaunches to attract 20-year-olds. Which reason for repositioning?","Shifting consumer demographics",["Service/product upgrades","Legal and regulatory issues","New use cases"],"The original audience aged; repositioning captures a younger one.");
+M(4,"Case — Old Spice moved from “grandpa's aftershave” to a fun, modern, youthful brand through a new ad campaign. Which reason for repositioning?","Updating the brand persona (reputation management)",["Business expansion","New use cases","Penetration pricing"],"Moving from old-fashioned or stale to modern and contemporary.");
+M(4,"Case — A regional French brand plans to sell in 20 countries and drops its very local image. Which reason?","Business expansion",["Shifting demographics","New use cases","Combating negative associations"],"Scaling internationally often means shedding an overly localized image.");
+M(4,"Maruti first positioned the Alto as “the hottest car in town”; it only worked with the middle-income group once it became “Let's go”. Which disadvantage of positioning is this?","Wrong positioning can kill the brand",["Confused positioning misleads the customer","If positioning isn't communicated, brand image suffers","Changing the target market"],"The target segment couldn't relate to the original positioning.");
+M(4,"Dettol launched a soap as a “beauty bar”, out of line with its core values, then relaunched it as a “germ-kill” soap. Which disadvantage?","Confused positioning can mislead the customer",["Wrong positioning can kill the brand","Positioning not communicated in the market","Carving a niche"],"The beauty claim clashed with what Dettol stands for.");
+M(4,"The Indian Express launched “Financial Express”, but readers couldn't understand what it stood for. Which disadvantage?","If positioning isn't communicated, brand image suffers",["Wrong positioning can kill the brand","Confused positioning","Over-positioning"],"Consumers couldn't differentiate it, so it didn't get the readership.");
+M(4,"Which advantage of positioning is about brands changing their target as they move through the PLC, often in the maturity stage?","Changing the target market",["Protecting market share","Carving a niche","Challenging competition"],"Brands often get a makeover at maturity.");
+M(4,"Premium / prestige pricing works best for brands that emphasize…","Craftsmanship, heritage or superior quality",["Rapid user acquisition","Being the best value for money","Mass-market availability"],"Prices set high to build exclusivity and luxury — e.g. Rolex.");
+M(4,"Case — A new food-delivery start-up charges almost nothing for its first 3 months to win users fast. Which pricing approach?","Penetration pricing",["Premium pricing","Value-based pricing","Competitor-based pricing"],"Low introductory prices: awareness and acquisition before profit.");
+M(4,"Case — A consulting firm sets fees according to the savings its clients will make, not its own costs. Which pricing approach?","Value-based pricing",["Competitor-based pricing","Penetration pricing","Prestige pricing"],"Based on perceived value to the customer, not production cost.");
+M(4,"Case — A challenger brand prices its sneakers exactly at the market rate and claims “best value for money”. Which pricing approach?","Competitor-based pricing",["Premium pricing","Penetration pricing","Value-based pricing"],"Aligned with the prevailing market rate.");
+M(4,"Why can frequent discounting hurt a premium brand?","It erodes trust and lowers perceived value",["It always increases loyalty","It boosts the brand's prestige","It has no effect on perception"],"Message consistency: if you claim high quality, your price must reflect it.");
+M(4,"Case — Rolex watches are sold only by a few authorised dealers per city. Which distribution model?","Exclusive distribution",["Intensive distribution","Selective distribution","Indirect mass distribution"],"Heightens luxury, scarcity and prestige; protects high prices.");
+M(4,"Case — Coca-Cola is in supermarkets, kiosks, vending machines and petrol stations. Which distribution model?","Intensive distribution",["Selective distribution","Exclusive distribution","Direct-to-consumer only"],"Every possible outlet, for mass-market goods.");
+M(4,"Case — A premium headphone brand sells only in chosen electronics stores that match its quality standards. Which distribution model?","Selective distribution",["Intensive distribution","Exclusive distribution","Penetration distribution"],"Balances coverage and brand control.");
+M(4,"What is the main brand risk of intensive distribution for a premium brand?","Dilution if the product shows up in discount chains",["Not enough awareness","Too much scarcity","Margins that are too high"],"Reach goes up, but premium image can suffer.");
+M(4,"According to the 3-7-27 rule, how many interactions does it take before a consumer TRUSTS a brand enough to be loyal?","27",["3","7","12"],"3 to notice you, 7 to remember you, 27 to trust you.");
+M(4,"Which distribution approach gives the highest margins and 100% control over the brand experience?","Direct-to-consumer (D2C)",["Indirect distribution via wholesalers","Intensive distribution","Online marketplaces"],"Indirect distribution trades margin and control for scale.");
+M(4,"Case — A luxury handbag brand starts selling its bags in clearance outlets. Which principle does this break?","Channel alignment",["The 3-7-27 rule","Penetration pricing","Line extension"],"A high-end promise sold through clearance channels breaks itself.");
+M(4,"How does the course describe the link between product strategy and branding?","Product strategy defines what you build and for whom; branding shapes how people perceive, feel about and remember it",["They are exactly the same thing","Branding only concerns the logo","Product strategy is only about price"],"Together they turn a commodity into an irreplaceable solution.");
+M(4,"Which part of product strategy outlines short-term and long-term feature rollouts?","Roadmapping",["Visual identity","Packaging and experience","Emotional connection"],"Driven by user research, feedback and data.");
+M(4,"Corporate branding speaks for the whole company. What does product branding do?","Gives an individual item or line its own distinct personality",["Manages shareholders' expectations","Sets the company's legal structure","Replaces the need for a product strategy"],"Visual identity, emotional connection, packaging & experience.");
+M(4,"Case — Starbucks moved from “a coffee shop” to a “premium lifestyle experience”. Which concept is this?","Brand repositioning",["Line extension","Exclusive distribution","Under-positioning"],"Changing how the brand is perceived and what it means to consumers.");
+
+TF(4,"A positioning statement is primarily a slogan shown to consumers in ads.",false,"It's an internal, foundational guide for the team.");
+TF(4,"Repositioning is usually done when the current positioning isn't working or is no longer relevant.",true,"E.g. Lifebuoy, Old Spice, Starbucks.");
+TF(4,"Penetration pricing prioritizes immediate profit over user acquisition.",false,"The reverse: acquisition and awareness first.");
+TF(4,"Exclusive distribution can mean only one distributor per geographic area.",true,"That's what protects scarcity and high prices.");
+TF(4,"Under-positioning means the brand is positioned too narrowly.",false,"That's over-positioning. Under-positioning = no distinct reason to buy.");
+TF(4,"Brands often get a makeover and change their target market in the maturity stage of the PLC.",true,"One of the advantages of positioning: changing the target market.");
+TF(4,"A premium price demands flawless packaging, strong customer service and a polished brand aesthetic.",true,"Customer expectations rise with price.");
+TF(4,"Indirect distribution gives a brand more control over its experience than D2C.",false,"D2C gives 100% control; indirect trades control for scale.");
+
+MU(4,"Select ALL the elements of the core positioning statement framework.",["Target audience","Category / market","Brand promise","Reason to believe"],["Production cost","Shareholder value"],"Who, where you compete, what you promise, why they should believe it.");
+MU(4,"Select ALL the advantages of positioning listed in the course.",["Differentiates the product","Protects market share","Carves a niche","Challenges competition"],["Removes the need for advertising","Guarantees the lowest price"],"The fifth one: changing the target market.");
+MU(4,"Select ALL the reasons that can push a brand to reposition.",["Shifting consumer demographics","Fierce new competition","Business expansion abroad","Combating negative associations"],["The brand is already perfectly relevant","The logo was just trademarked"],"Market changes, competition, business evolution, reputation.");
+
+MA(4,"Match each positioning error with its meaning.",[["Under-positioning","No distinct reason to buy; looks generic"],["Over-positioning","Too narrow; broader offer overlooked"],["Confused positioning","Contradictory claims or changes too often"],["Doubtful positioning","Promises consumers don't believe"],["Irrelevant positioning","Features consumers don't care about"],["Everything to everyone","No stance at all — “spray and pray”"]],"The six positioning errors from the course.");
+MA(4,"Match each pricing approach with its description.",[["Premium / prestige","Set high to signal exclusivity and luxury"],["Value-based","Based on perceived value to the customer"],["Competitor-based","Aligned with the market rate"],["Penetration","Low intro price to win share fast"]],"Price is the most tangible expression of brand identity.");
+MA(4,"Match each distribution model with its example.",[["Intensive","Coca-Cola, basic stationery"],["Selective","Premium electronics, mid-range fashion"],["Exclusive","Rolex, high-end luxury cars"]],"Where you sell shapes how people perceive you.",3);
+MA(4,"Match each brand with the positioning lesson it illustrates.",[["Lifebuoy","From masculine soap to family health"],["Maruti Alto","Wrong positioning, fixed with “Let's go”"],["Dettol soap","Confused “beauty bar”, relaunched as germ-kill"],["Financial Express","Readers didn't understand what it stood for"],["Volvo","Owns one simple idea: safety"]],"Classic case studies from Unit IV.");
+MA(4,"Match each positioning principle with its idea.",[["Focus on the consumer's mind","Understand emotions, fears and unmet needs"],["Differentiate","Find language no competitor uses"],["Keep it simple","Own a single word or concept"],["Validate with proof","Back every promise with proof points"],["Maintain consistency","Same message at every touchpoint"]],"Five principles for effective positioning.");
+
+SO(4,"Sort each item into the right distribution model.",["Intensive","Selective","Exclusive"],[["Every possible outlet",0],["Mass-market everyday goods",0],["Maximizes reach and awareness",0],["Chosen outlets in target locations",1],["Balances coverage with brand control",1],["Mid-range fashion",1],["Sometimes one distributor per area",2],["Heightens scarcity and prestige",2],["Rolex",2]],"Intensive = reach, Selective = control, Exclusive = prestige.");
+SO(4,"Advantage or disadvantage of positioning?",["Advantage","Disadvantage"],[["Differentiates the product",0],["Protects market share",0],["Carves a niche",0],["Challenges competition",0],["Changes the target market over the PLC",0],["Wrong positioning can kill the brand",1],["Confused positioning misleads customers",1],["Brand image suffers if positioning isn't communicated",1]],"Maruti Alto, Dettol and Financial Express illustrate the disadvantages.");
+SO(4,"Which pricing approach fits each case?",["Premium","Value","Competitor","Penetration"],[["Swiss watchmaker with 150 years of heritage",0],["Haute-couture handbag",0],["Software priced on the hours it saves clients",1],["Agency fee tied to client results",1],["Challenger brand: “best value for money”",2],["Price matched to the market average",2],["Start-up's first month nearly free",3],["New app priced low to win users fast",3]],"Premium = exclusivity, Value = perceived value, Competitor = market rate, Penetration = fast share.",6);
+SO(4,"Repositioning (revision poster): advantage or disadvantage?",["Advantage","Disadvantage"],[["Revives a declining brand",0],["Attracts new customer segments",0],["Improves brand image",0],["Helps adapt to changing trends",0],["High cost and high risk",1],["May confuse existing customers",1],["Possible loss of loyal customers",1],["No guaranteed success",1]],"Repositioning can revive a brand, but it's costly, risky and can lose loyal customers.");
+
+OR(4,"Put the 5 steps for crafting a positioning strategy in order.",["Define your target audience","Map the competitive landscape","Establish your UVP","Craft your positioning statement","Align marketing and monitor"],"Know who → know rivals → find your edge → write it down → roll it out.");
+OR(4,"Put the typical steps to develop your position in order.",["Analyze the current state","Analyze competitors","Define your UVP","Test and reinforce"],"Where you are → who you face → your gap → validate and reinforce.");
+OR(4,"Order the stages of the 3-7-27 rule.",["Notice the brand (awareness)","Remember the brand (familiarity)","Trust the brand (loyalty)"],"3 interactions → 7 → 27.");
+
+FI(4,"Complete the positioning statement framework.","For ___ who have a ___, our product is a ___ that provides a ___. Unlike our ___, we are a unique point of difference.",["target audience","pain point","category","key benefit","competitors"],["slogan","price list"],"For [audience] who [pain point], our product is a [category] that provides [benefit]. Unlike [competitor], we are [difference].");
+FI(4,"Complete the 3-7-27 rule.","It takes ___ interactions to notice a brand, ___ to remember it and ___ to trust it.",["3","7","27"],["5","12","50"],"Awareness → familiarity → trust.");
+FI(4,"Complete the UVP template.","Because we offer a unique ___, our target ___ gets a specific ___.",["feature","audience","benefit"],["price","logo","competitor"],"Authentic, clear and benefit-focused.");
+
+/* ---------- UNIT V ---------- */
+M(5,"What is a brand extension?","Using an established brand name to launch a new product in a different category",["Adding a new flavour in the same product line","Selling a brand to another company","Redesigning a brand's logo"],"Virgin → Airlines, Mobile, Active.");
+M(5,"Virgin launched Virgin Airlines, Virgin Mobile and Virgin Active. What does the brand mainly leverage?","Consumer trust, which reduces the risk of new products and speeds up market entry",["Lower production costs in each industry","Patents on airline technology","A different logo for each business"],"Extensions borrow the parent's reputation.");
+M(5,"What does a line extension add?","New variants within the same product category under the existing brand",["A new product in an unrelated category","A new brand name for a new market","A licensing deal with another company"],"E.g. Coca-Cola → Diet Coke, Coke Zero; Pond's variants.");
+M(5,"Besides satisfying variety seeking, what retail effect do line extensions have?","They push retailers to give more shelf space to the company's variants",["They reduce the shelf space the brand occupies","They remove the need for retailers","They lower the price of every variant"],"Even one unit per variant takes a lot of shelf space.");
+M(5,"Case — A shampoo brand launches 14 almost identical variants. Shoppers can't tell them apart and inventory costs explode. Which disadvantage of line extensions?","Customer confusion and increased costs",["Risk of over-extension","Brand revitalization","Permits consumer variety seeking"],"Too many similar products overwhelm consumers and raise costs.");
+M(5,"Case — A new “light” version of a soda sells well, but mostly because existing customers switch from the original. What is this?","Cannibalisation",["Brand revitalization","Global branding","Market penetration"],"The new product eats into existing sales instead of attracting new customers.");
+M(5,"What are the TWO main groups of benefits of brand extensions?","Facilitating new product acceptance & feedback benefits to the parent brand",["Lower taxes & faster shipping","More patents & fewer competitors","Higher prices & fewer customers"],"Acceptance on one side, benefits back to the parent on the other.");
+M(5,"Case — Because the extension carries a well-known name, the company only needs to advertise the new product, not the brand. Which benefit?","Increased efficiency of promotional expenditure",["Revitalize the brand","Clarify brand meaning","Avoid retailer resistance"],"The brand already exists in consumers' memory.");
+M(5,"Case — Retailers agree to stock a new product immediately because it carries a famous name. Which benefit?","Increased probability of gaining distribution and trial",["Packaging and labelling efficiencies","Permit subsequent extension","Clarify brand meaning"],"It's easier to convince retailers to stock and promote it.");
+M(5,"Case — An old, slightly forgotten brand launches a trendy extension and suddenly people talk about it again. Which feedback benefit?","Revitalize the brand",["Avoid the cost of a new brand","Reduce perceived risk","Permit variety seeking"],"Renews interest in and liking of the brand.");
+M(5,"Case — A new extension is just a “me-too” copy of products already on the shelf, so stores refuse to list it. Which demerit?","Retailer resistance",["Cannibalising the parent brand","Forgoing the chance to build a new brand","Diminished identification with one category"],"Me-too extensions shouldn't be stocked even if there were space.");
+M(5,"Case — A brand's name ends up on yoghurt, tyres, perfume and phones. Consumers no longer link it to any single category. Which demerit?","Diminished identification with any one category",["Retailer resistance","Packaging efficiencies","Enhanced parent image"],"Linking to too many products lowers brand awareness.");
+M(5,"Case — By launching as an extension, a company loses the opportunity to create a brand with its own unique image and equity. Which demerit?","Forgoing the chance to develop a new brand",["Revitalizing the brand","Cannibalisation","Retailer resistance"],"A lost opportunity to create a new brand franchise.");
+M(5,"Case — A problem with one product in a family brand tarnishes all its other products. Which demerit?","The extension can fail and hurt the parent image",["Permit subsequent extension","Consumer variety seeking","Category-related extension"],"One failure can stain the whole family.");
+M(5,"Kellogg's corn flakes launching banana-flavoured wheat flakes is a…","Category-related brand extension",["Image-related brand extension","Unrelated brand extension","Geographic extension"],"Same or very close category.");
+M(5,"Britannia (biscuits) moving into bread and cakes is classified in the course as a…","Image-related brand extension",["Unrelated brand extension","Licensed extension","Line extension"],"The extension leans on the brand's image.");
+M(5,"Lux (soap) launching TVs is an example of…","Unrelated brand extension",["Category-related brand extension","Image-related brand extension","Line extension"],"No logical link with the original category.");
+M(5,"Maruti offering the 800, Swift and Baleno (budget to premium) is which type of extension?","Vertical extension",["Geographic extension","Licensed extension","Category extension"],"Different quality and price levels.");
+M(5,"Disney's name on toys, clothing and home décor made by partner companies is a…","Licensed extension",["Vertical extension","Line extension","Geographic extension"],"The brand name is used through licensing.");
+M(5,"What is the FIRST step of the brand extension process?","Audit brand equity",["Execute and monitor","Conduct market research","Position and differentiate"],"Know your core values, strengths and associations before extending.");
+M(5,"Case — Before extending, a team checks whether consumers see a natural, logical link between its parent brand and the new product. Which step?","Evaluate brand fit",["Establish extension objectives","Audit brand equity","Execute and monitor"],"Consumers must see a natural link to accept the extension.");
+M(5,"What is e-branding?","Building, promoting and maintaining a brand's identity and reputation using the internet",["Printing logos on electronic devices","Registering a trademark online","Selling only through physical stores"],"Websites, social media, search engines, apps — e.g. Amazon.");
+M(5,"Which e-branding strategy makes sure customers easily find the brand when searching online?","Search Engine Optimization (SEO)",["Content marketing","Digital advertising (PPC)","Reputation management"],"Ranking well for relevant searches.");
+M(5,"Case — A cosmetics brand publishes weekly tutorials and a podcast to become a trusted authority. Which e-branding strategy?","Content marketing",["SEO","PPC advertising","Audience targeting"],"Valuable, relevant content builds authority.");
+M(5,"Which e-branding benefit means campaigns can be tracked and adjusted in real time with analytics?","Measurable ROI",["Wider reach","Direct connection","Cohesive identity"],"The other two benefits: wider reach and direct connection.");
+M(5,"Overall, how has digital transformation changed branding?","From static, one-way messaging to dynamic, interactive experiences",["From global to purely local messaging","From online to print-only campaigns","From customer-focused to product-focused communication"],"The focus moved from what a brand says to how consumers experience it.");
+M(5,"Case — An eyewear brand's app lets you try frames on your face with your phone camera. Which impact of digital transformation?","Interactive touchpoints (AR/VR)",["Measurable brand equity","Agile campaigns","Global branding"],"Consumers test products before deciding.");
+M(5,"In digital branding, “co-creation of value” means…","Customers shape the brand through reviews, UGC and communities",["Two companies merge their logos","The brand designs all content alone","Prices are set by competitors"],"Identity is shaped as much by users as by official marketing.");
+M(5,"What is global branding?","Building and marketing a brand consistently across multiple countries and cultures",["Selling only in the home country","Using a different brand name in every country","Exporting raw materials worldwide"],"A unified identity, adapted locally when needed.");
+M(5,"McDonald's sells the McAloo Tikki in India. What does this show about global branding?","A unified global identity with local adaptation",["Total standardization with no adaptation","Abandoning the global brand in India","An unrelated brand extension"],"Standardize the core, adapt the details.");
+M(5,"Which of these is an ADVANTAGE of global branding?","Economies of scale from standardized campaigns",["Cultural differences","Legal and regulatory issues","High management cost"],"Others: consistent image, competitive advantage, easier market entry, premium pricing.");
+M(5,"Case — A global ad uses a gesture that is friendly in Brazil but offensive in another market. Which disadvantage of global branding?","Cultural differences",["Economies of scale","Risk of brand dilution","Easier market entry"],"A message that works in one country may not in another.");
+M(5,"In a global brand strategy, what should usually be STANDARDIZED?","Name, logo and tagline",["The language of every ad","Packaging in every country","All local promotions"],"Language, packaging and promotion allow controlled local adaptation.");
+M(5,"Case — A clothing brand claims to be “100% eco-friendly” with no evidence and a large carbon footprint. What is this unethical practice?","Greenwashing",["Fair trade","Radical transparency","A give-back programme"],"Ethical branding eliminates empty buzzwords and misleading claims.");
+M(5,"Fair Trade, B-Corp, LEED and cruelty-free badges are examples of…","Third-party certifications",["Kinetic logos","Penetration pricing","Line extensions"],"They objectively validate ethical claims.");
+M(5,"The “inside-out approach” to ethical branding means…","Building an ethical culture inside the company first (HR, hiring, operations)",["Advertising ethics before changing anything","Outsourcing ethics to suppliers","Communicating only on social media"],"Part of structural corporate responsibility.");
+M(5,"Patagonia is used as an example of…","Ethical branding through sustainability, activism and transparency",["Penetration pricing","Unrelated brand extension","A house of brands"],"Purpose over pure profit.");
+M(5,"Case — A bank's AI assistant keeps the brand's warm, empathetic tone instead of giving robotic answers. Which emerging trend?","Humanized AI branding",["Anti-design","Sonic branding","Founder-led branding"],"AI with emotional intelligence that keeps the brand's tone.");
+M(5,"Case — A brand's logo morphs and moves in every TikTok and reel. Which trend?","Dynamic / kinetic logos",["Sonic branding","Radical transparency","Hyper-personalization"],"Fluid, moving marks designed for short-form video.");
+M(5,"Case — A 4-note audio signature you hear at the end of every ad and on smart speakers. Which trend?","Sonic branding",["Kinetic logos","Experiential branding","Metaverse branding"],"Unique audio signatures boost recall.");
+M(5,"Case — A start-up's CEO posts daily videos and hosts a podcast; people follow him more than the company. Which trend?","Founder-led personal branding",["Humanized AI","Anti-design","Licensed extension"],"People increasingly follow people, not corporations.");
+M(5,"Hyper-personalization uses…","Real-time data, AI and machine learning to tailor experiences to each individual",["One identical message for all customers","Only TV advertising","Random discounts"],"First-party data → individual experiences, custom packaging, tailored recommendations.");
+
+TF(5,"A line extension launches a product in a completely different category.",false,"That's a brand extension. Line extension = new variants in the same category.");
+TF(5,"A successful extension can still hurt the parent brand by cannibalizing its sales.",true,"“Can succeed but cannibalize sales of parent brand” is one of the 8 demerits.");
+TF(5,"Global branding requires using exactly the same product and packaging everywhere.",false,"Controlled local adaptation (language, packaging, promotion) is part of the strategy.");
+TF(5,"E-branding expands a business's market potential beyond geographical limits.",true,"Wider reach is a core benefit.");
+TF(5,"Ethical branding shifts the focus from mere profit to purpose-driven operations.",true,"Values aligned with moral, social and environmental responsibility.");
+TF(5,"Brand extensions can let a company avoid the cost of developing a brand-new brand.",true,"One of the “facilitate new product acceptance” benefits.");
+TF(5,"With digital transformation, brand identity is shaped only by official marketing material.",false,"Reviews, UGC and communities shape it as much.");
+
+MU(5,"Select ALL the disadvantages of global branding.",["Cultural differences","Legal and regulatory issues","High cost of management","Risk of brand dilution"],["Economies of scale","Easier market entry"],"The two distractors are advantages.");
+MU(5,"Select ALL the advantages of global branding.",["Economies of scale","Consistent brand image","Easier market entry","Premium pricing"],["Cultural differences","Legal issues"],"Plus: competitive advantage.");
+MU(5,"Select ALL the e-branding strategies from the course.",["SEO","Content marketing","Social media engagement","Digital advertising (PPC)"],["Exclusive distribution","Door-to-door sales"],"Four essential e-branding strategies.");
+MU(5,"Select ALL the demerits of brand extensions.",["Can confuse or frustrate consumers","Can encounter retailer resistance","Can dilute brand meaning","Can cannibalize parent sales"],["Reduces perceived risk","Permits variety seeking"],"The two distractors are benefits.");
+
+MA(5,"Match each type of brand extension with its example.",[["Line extension","Coca-Cola → Diet Coke, Coke Zero"],["Category extension","Nike → apparel, footwear, equipment"],["Vertical extension","Maruti 800 → Swift → Baleno"],["Geographic extension","McDonald's global expansion"],["Licensed extension","Disney toys and home décor"]],"Five types of extension from the revision poster.");
+MA(5,"Match each emerging trend with its example.",[["Humanized AI","Chatbot that keeps the brand's empathy"],["Immersive experiences","Try a sofa in your room with AR"],["Sonic branding","A 4-note audio signature"],["Kinetic logos","Logo that moves in reels"],["Founder-led branding","The CEO's podcast builds the brand"],["Radical transparency","Publishing data use and supply chain"]],"Branding is moving from static visuals to dynamic, tech-driven experiences.");
+MA(5,"Match each ethical branding pillar with a practice.",[["Transparent supply chains","Trace materials, fair wages, certifications"],["Honest marketing","No greenwashing, truthful pricing"],["Corporate responsibility","Inside-out culture, data privacy, audits"],["Community impact","Give-back programmes, recycling initiatives"]],"Four pillars of ethical branding.");
+MA(5,"Match each e-branding term with its meaning.",[["SEO","Ranking well when customers search"],["Content marketing","Blogs, videos, podcasts that build authority"],["PPC","Paid ads charged per click"],["Reputation management","Two-way dialogue to build loyalty"],["Audience targeting","Using behavioural data to reach segments"]],"E-branding objectives and strategies.");
+MA(5,"Match each brand with the Unit V concept it illustrates.",[["Virgin","Brand extension into new categories"],["Amazon","E-branding via website, apps and digital marketing"],["Apple","Seamless online and offline experience"],["McDonald's","Global brand with local menus"],["Patagonia","Ethical, sustainability-driven branding"]],"The examples on the Unit V revision poster.");
+
+SO(5,"Brand extension benefits: which group does each belong to?",["Product acceptance","Feedback to parent"],[["Reduce risk perceived by customers",0],["Increase chance of distribution and trial",0],["Avoid cost of developing a new brand",0],["Packaging and labelling efficiencies",0],["Permit consumer variety seeking",0],["Clarify brand meaning",1],["Enhance the parent brand image",1],["Bring new customers into the franchise",1],["Revitalize the brand",1],["Permit subsequent extension",1]],"Facilitate new product acceptance (8 benefits) vs feedback benefits to the parent (5).");
+SO(5,"Classify each extension (course classification).",["Category","Image","Unrelated"],[["Kellogg's → banana wheat flakes",0],["Samsonite suitcase → briefcases",0],["Britannia biscuits → bread & cakes",1],["Samsonite → laptop bags",1],["Maruti cars → motorcycles",1],["Maruti → computers",2],["Lux → TVs",2],["Samsonite → computers",2]],"Category-related, image-related, unrelated.");
+SO(5,"Global branding: advantage or disadvantage?",["Advantage","Disadvantage"],[["Economies of scale",0],["Consistent brand image",0],["Easier market entry",0],["Premium pricing",0],["Transfer of knowledge and expertise",0],["Cultural differences",1],["Different trademark and labelling laws",1],["High cost of management",1],["Dilution through over-localization",1]],"Scale and consistency vs culture, law, cost and dilution.");
+SO(5,"Global brand strategy: standardize or adapt locally?",["Standardize","Adapt locally"],[["Brand name",0],["Logo",0],["Tagline",0],["Core values and promise",0],["Language",1],["Packaging",1],["Promotions",1],["Menu items (e.g. McAloo Tikki)",1]],"Standardize the core; allow controlled local adaptation.");
+
+OR(5,"Put the 6 steps of the brand extension process in order.",["Audit brand equity","Establish extension objectives","Evaluate brand fit","Conduct market research","Position and differentiate","Execute and monitor"],"Course version (PDF). The poster version: assess strength → identify opportunity → analyse acceptance → develop & test → marketing strategy → launch & monitor.");
+OR(5,"Put the brand extension process (revision poster version) in order.",["Assess brand strength","Identify extension opportunity","Analyze consumer acceptance","Develop and test the product","Design marketing strategy","Launch and monitor"],"Same logic as the course version: audit, fit, test, position, launch.");
+
+FI(5,"Complete the definition.","A brand extension uses an ___ brand name to launch a new product in a ___ category, relying on consumer ___ to reduce risk.",["established","different","trust"],["unknown","same","debt"],"Virgin is the textbook example.");
+FI(5,"Complete the definition.","E-___ is the process of building and maintaining a brand's ___ and reputation using the ___.",["branding","identity","internet"],["pricing","factory","radio"],"Websites, social media, search engines, marketplaces.");
+FI(5,"Complete the sentence about line extensions.","A line extension adds new ___ within the ___ product category and satisfies the customer's ___-seeking tendency.",["variants","same","variety"],["brands","different","price"],"Coca-Cola → Diet Coke, Coke Zero.");
+
+
+/* ============ ENGINE ============ */
+const UNITS={3:{n:'III',name:'Associations & Architecture'},4:{n:'IV',name:'Positioning'},5:{n:'V',name:'Extensions, Digital & Global'}};
+const TLABEL={mcq:'Multiple choice',case:'Case study',tf:'True or false',multi:'Select all',match:'Match the pairs',sort:'Sort it',order:'Put in order',fill:'Fill the blanks'};
+const ICON={
+  mcq:'<path d="M4 6h16M4 12h10M4 18h7"/>',
+  case:'<rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2"/>',
+  tf:'<path d="M5 12l4 4 10-10"/>',
+  multi:'<rect x="3" y="3" width="7" height="7" rx="2"/><rect x="14" y="3" width="7" height="7" rx="2"/><rect x="3" y="14" width="7" height="7" rx="2"/><path d="M15 17l2 2 4-4"/>',
+  match:'<circle cx="6" cy="6" r="3"/><circle cx="18" cy="18" r="3"/><path d="M9 6h3a3 3 0 0 1 3 3v6"/>',
+  sort:'<path d="M4 4h6v6H4zM14 14h6v6h-6zM14 7h6M4 17h6"/>',
+  order:'<path d="M10 6h10M10 12h10M10 18h10M4 5l1-1v5M3.5 14.5a1.5 1.5 0 1 1 2.5 1L3.5 19H6"/>',
+  fill:'<path d="M4 18h16M7 14l8-8 3 3-8 8H7z"/>'
+};
+const CHECK='<svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+const CROSS='<svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>';
+const ARROW='<svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
+const SET_SIZE=50;
+const GROUP=t=>t==='tf'?'tf':(t==='mcq'||t==='multi')?'choice':'drill';
+const QUOTA={choice:27,tf:8,drill:15};
+
+function hash(s){let h=5381;for(let i=0;i<s.length;i++)h=((h<<5)+h+s.charCodeAt(i))|0;return 'q'+(h>>>0).toString(36)}
+B.forEach(b=>b.id=hash(b.t+'|'+b.q+'|'+JSON.stringify(b.o||b.c||b.pairs||b.items||b.text||'')));
+document.getElementById('bankN').textContent=B.length+' cards';
+
+const store={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+let units=new Set(store.get('bmd.units',[3,4,5]));if(!units.size)units=new Set([3,4,5]);
+let seen=store.get('bmd.seen',{});
+let S=null;
+
+function draw(){
+  const pool=B.filter(b=>units.has(b.u));
+  const byGroup={choice:[],tf:[],drill:[]};pool.forEach(b=>byGroup[GROUP(b.t)].push(b));
+  const rank=b=>(seen[b.id]||0)+Math.random()*1000;
+  const takeBalanced=(list,n)=>{const per={};list.forEach(b=>(per[b.u]=per[b.u]||[]).push(b));
+    Object.values(per).forEach(l=>l.sort((a,b)=>rank(a)-rank(b)));const keys=shuffle(Object.keys(per));const out=[];let prog=true;
+    while(out.length<n&&prog){prog=false;for(const k of keys){if(out.length>=n)break;const x=per[k].shift();if(x){out.push(x);prog=true}}}return out};
+  const total=Math.min(SET_SIZE,pool.length);let got=[];
+  for(const g of ['drill','tf','choice'])got=got.concat(takeBalanced(byGroup[g],QUOTA[g]));
+  if(got.length<total){const ids=new Set(got.map(b=>b.id));got=got.concat(pool.filter(b=>!ids.has(b.id)).sort((a,b)=>rank(a)-rank(b)).slice(0,total-got.length))}
+  return spread(shuffle(got.slice(0,total)));
+}
+function spread(list){for(let i=1;i<list.length;i++){if(GROUP(list[i].t)==='drill'&&GROUP(list[i-1].t)==='drill'){const j=list.findIndex((x,k)=>k>i&&GROUP(x.t)!=='drill');if(j>0)[list[i],list[j]]=[list[j],list[i]]}}return list}
+
+function instantiate(b){
+  const I={b,id:b.id,u:b.u,t:b.t};
+  if(b.t==='mcq'){const ord=shuffle(b.o.map((_,i)=>i));I.opts=ord.map(i=>b.o[i]);I.correct=ord.indexOf(0)}
+  if(b.t==='multi'){I.opts=shuffle(b.c.map(x=>[x,1]).concat(b.w.map(x=>[x,0])))}
+  if(b.t==='match'){I.pairs=shuffle(b.pairs).slice(0,Math.min(b.pick,b.pairs.length));I.left=shuffle(I.pairs.map((_,i)=>i));I.right=shuffle(I.pairs.map((_,i)=>i))}
+  if(b.t==='sort'){const n=Math.min(b.pick,b.items.length);const chosen=[];const rest=shuffle(b.items);
+    b.buckets.forEach((_,k)=>{const i=rest.findIndex(x=>x[1]===k);if(i>=0)chosen.push(rest.splice(i,1)[0])});
+    I.items=shuffle(chosen.concat(rest.slice(0,Math.max(0,n-chosen.length))))}
+  if(b.t==='order'){let s;do{s=shuffle(b.items)}while(s.join()==b.items.join()&&b.items.length>1);I.pool=s}
+  if(b.t==='fill'){I.chips=shuffle(b.blanks.concat(b.extra))}
+  return I;
+}
+function newSession(items){
+  S={list:(items||draw()).map(instantiate),i:0,res:[],streak:0,best:0};
+  renderStrip();render();document.getElementById('filterNote').hidden=true;
+  window.scrollTo({top:0,behavior:reduced?'auto':'smooth'});
+}
+
+function renderStrip(){
+  const st=document.getElementById('strip');st.style.setProperty('--n',S.list.length);
+  st.innerHTML=S.list.map((_,k)=>{const r=S.res[k];return `<i class="${r?(r.ok?'ok':'bad'):(k===S.i?'cur':'')}"></i>`}).join('');
+  const ok=S.res.filter(r=>r&&r.ok).length,done=S.res.filter(Boolean).length;
+  document.getElementById('scoreNum').textContent=ok;
+  document.getElementById('scoreSub').textContent=`correct · ${done}/${S.list.length} answered`;
+  document.getElementById('ringFg').style.strokeDashoffset=138.23*(1-done/S.list.length);
+  document.getElementById('streakN').textContent=S.streak;
+}
+
+let cur=null;
+function render(){
+  const stage=document.getElementById('stage');
+  if(S.i>=S.list.length){renderResults();return}
+  const I=S.list[S.i];const b=I.b;
+  document.documentElement.dataset.unit=I.u;
+  const isCase=b.t==='mcq'&&/^Case —/.test(b.q);
+  const key=isCase?'case':b.t;
+  const qtext=isCase?b.q.replace(/^Case —\s*/,''):b.q;
+  stage.innerHTML=`<div class="deck"><article class="card" aria-labelledby="qtext">
+    <header class="chead"><div class="meta"><span class="pill"><svg viewBox="0 0 24 24">${ICON[key]}</svg>${TLABEL[key]}</span><span class="ulab">Unit ${UNITS[I.u].n} — ${UNITS[I.u].name}</span></div>
+    <div class="num">${String(S.i+1).padStart(2,'0')}<small>/${S.list.length}</small></div></header>
+    <h2 class="q" id="qtext">${isCase?'<span class="case">Case</span>':''}${esc(qtext)}</h2>
+    <div id="ex"></div>
+    <div class="fb" id="fb" hidden></div>
+    <div class="actions"><span class="kbd" id="kbd"></span><button class="go" id="go" disabled>Check answer</button></div>
+  </article></div>`;
+  const ex=document.getElementById('ex');const go=document.getElementById('go');
+  cur={answered:false};
+  const ready=v=>{if(!cur.answered)go.disabled=!v};
+  const R={mcq:rMcq,tf:rTf,multi:rMulti,match:rMatch,sort:rSort,order:rOrder,fill:rFill}[b.t];
+  cur.api=R(I,ex,ready,()=>finish());
+  document.getElementById('kbd').textContent=cur.api.kbd||'Enter ↵ to check';
+  if(cur.api.instant)go.hidden=true;
+  go.onclick=()=>{if(cur.answered)next();else finish()};
+}
+function finish(){
+  if(cur.answered)return;
+  const I=S.list[S.i];const r=cur.api.check();cur.answered=true;
+  S.res[S.i]={ok:r.ok,I};
+  S.streak=r.ok?S.streak+1:0;S.best=Math.max(S.best,S.streak);
+  seen[I.id]=Date.now();store.set('bmd.seen',seen);
+  const fb=document.getElementById('fb');fb.hidden=false;fb.className='fb '+(r.ok?'ok':'bad');
+  const V=r.ok?['Correct!','Spot on.','Nailed it.','Exactly.','Clean answer.']:['Not quite.','Missed this one.','Close, but no.','Not this time.'];
+  let v=V[Math.floor(Math.random()*V.length)];
+  if(r.ok&&S.streak>=3)v=S.streak+' in a row!';
+  fb.innerHTML=`<span class="ico">${r.ok?CHECK:CROSS}</span><div class="v">${v}${r.detail?`<small>${esc(r.detail)}</small>`:''}</div>
+    ${!r.ok&&r.answer?`<div class="ans">${r.answer}</div>`:''}${I.b.e?`<div class="ex">${esc(I.b.e)}</div>`:''}`;
+  const go=document.getElementById('go');go.hidden=false;go.disabled=false;
+  go.innerHTML=(S.i===S.list.length-1?'See my results':'Next card')+ARROW;
+  document.getElementById('kbd').textContent='Enter ↵ to continue';
+  renderStrip();
+  const sk=document.getElementById('streak');sk.classList.remove('hot');void sk.offsetWidth;if(r.ok)sk.classList.add('hot');
+  if(r.ok)burst(go,S.streak>=5?70:38);
+  go.focus({preventScroll:true});
+  fb.scrollIntoView({block:'nearest',behavior:reduced?'auto':'smooth'});
+}
+function next(){S.i++;renderStrip();render();const d=document.querySelector('.deck');if(d&&d.getBoundingClientRect().top<0)d.scrollIntoView({behavior:reduced?'auto':'smooth'})}
+
+/* ---------- confetti ---------- */
+const fx=document.getElementById('fx');const ctx=fx.getContext('2d');let parts=[],raf=null;
+function burst(el,n){
+  if(reduced)return;
+  const dpr=devicePixelRatio||1;fx.width=innerWidth*dpr;fx.height=innerHeight*dpr;ctx.setTransform(dpr,0,0,dpr,0,0);
+  const r=el.getBoundingClientRect();const x=r.left+r.width/2,y=r.top+r.height/2;
+  const cols=['#6BEBAE','#FFD27A','#93A1FF','#FF8E5E','#41C9BA','#FFFFFF'];
+  for(let i=0;i<n;i++){const a=-Math.PI/2+(Math.random()-.5)*2.2,s=4+Math.random()*7;
+    parts.push({x,y,vx:Math.cos(a)*s,vy:Math.sin(a)*s,r:3+Math.random()*4,c:cols[i%cols.length],rot:Math.random()*6,vr:(Math.random()-.5)*.4,life:1})}
+  if(!raf)raf=requestAnimationFrame(tick);
+}
+function tick(){
+  ctx.clearRect(0,0,innerWidth,innerHeight);
+  parts.forEach(p=>{p.x+=p.vx;p.y+=p.vy;p.vy+=.22;p.vx*=.985;p.rot+=p.vr;p.life-=.016;
+    ctx.save();ctx.globalAlpha=Math.max(p.life,0);ctx.translate(p.x,p.y);ctx.rotate(p.rot);ctx.fillStyle=p.c;ctx.fillRect(-p.r,-p.r/2,p.r*2,p.r);ctx.restore()});
+  parts=parts.filter(p=>p.life>0&&p.y<innerHeight+20);
+  raf=parts.length?requestAnimationFrame(tick):(ctx.clearRect(0,0,innerWidth,innerHeight),null);
+}
+
+/* ---------- renderers ---------- */
+const optBtn=(k,label,txt)=>`<button class="opt" data-k="${k}"><span class="k">${label}</span><span>${esc(txt)}</span><span class="mark" aria-hidden="true"></span></button>`;
+function markOpt(b,cls){b.classList.add(cls);const m=b.querySelector('.mark');if(m)m.innerHTML=cls==='ok'?CHECK:cls==='bad'?CROSS:''}
+function rMcq(I,ex,ready,done){
+  ex.innerHTML=`<div class="opts">${I.opts.map((o,k)=>optBtn(k,'ABCD'[k],o)).join('')}</div>`;
+  let chosen=null;const btns=[...ex.querySelectorAll('.opt')];
+  btns.forEach(b=>b.onclick=()=>{chosen=+b.dataset.k;done()});
+  return {instant:true,kbd:'Keys A–D or 1–4',
+    key(k){const m={a:0,b:1,c:2,d:3,'1':0,'2':1,'3':2,'4':3}[k.toLowerCase()];if(m!=null&&m<btns.length){chosen=m;done()}},
+    check(){btns.forEach((b,k)=>{b.disabled=true;if(k===I.correct)markOpt(b,'ok');else if(k===chosen)markOpt(b,'bad')});
+      return {ok:chosen===I.correct,answer:'Answer: '+esc(I.opts[I.correct])}}};
+}
+function rTf(I,ex,ready,done){
+  ex.innerHTML=`<div class="tf"><button class="opt" data-v="1"><span class="ic">${CHECK}</span>True</button><button class="opt" data-v="0"><span class="ic">${CROSS}</span>False</button></div>`;
+  let chosen=null;const btns=[...ex.querySelectorAll('.opt')];
+  btns.forEach(b=>b.onclick=()=>{chosen=b.dataset.v==='1';done()});
+  return {instant:true,kbd:'Keys T / F',
+    key(k){k=k.toLowerCase();if(k==='t'){chosen=true;done()}if(k==='f'){chosen=false;done()}},
+    check(){btns.forEach(b=>{b.disabled=true;const v=b.dataset.v==='1';if(v===I.b.a)b.classList.add('ok');else if(v===chosen)b.classList.add('bad')});
+      return {ok:chosen===I.b.a,answer:'The statement is '+(I.b.a?'true':'false')+'.'}}};
+}
+function rMulti(I,ex,ready){
+  ex.innerHTML=`<p class="hint">Several answers are correct. Select them all, then check.</p><div class="opts">${I.opts.map((o,k)=>optBtn(k,k+1,o[0])).join('')}</div>`;
+  const sel=new Set();const btns=[...ex.querySelectorAll('.opt')];
+  const tog=k=>{sel.has(k)?sel.delete(k):sel.add(k);btns[k].classList.toggle('sel',sel.has(k));btns[k].setAttribute('aria-pressed',sel.has(k));ready(sel.size>0)};
+  btns.forEach(b=>{b.setAttribute('aria-pressed','false');b.onclick=()=>tog(+b.dataset.k)});
+  return {kbd:'Keys 1–6 to toggle · Enter ↵ to check',
+    key(k){const n=+k-1;if(n>=0&&n<btns.length&&!cur.answered)tog(n)},
+    check(){let ok=true,hit=0;const tot=I.opts.filter(o=>o[1]).length;
+      btns.forEach((b,k)=>{b.disabled=true;b.classList.remove('sel');const c=I.opts[k][1];
+        if(c&&sel.has(k)){markOpt(b,'ok');hit++}else if(!c&&sel.has(k)){markOpt(b,'bad');ok=false}else if(c){markOpt(b,'miss');ok=false}});
+      return {ok,detail:`${hit}/${tot} found`,answer:'Correct set: '+I.opts.filter(o=>o[1]).map(o=>esc(o[0])).join(' · ')}}};
+}
+function rMatch(I,ex,ready){
+  ex.innerHTML=`<p class="hint">Tap a term, then what it goes with. Tap a paired tile to undo.</p>
+   <div class="match"><div class="col"><div class="colh">Term</div>${I.left.map(p=>`<button class="tile term" data-l="${p}"></button>`).join('')}</div>
+   <div class="col"><div class="colh">Goes with</div>${I.right.map(p=>`<button class="tile" data-r="${p}"></button>`).join('')}</div></div>`;
+  const L=[...ex.querySelectorAll('[data-l]')],Rt=[...ex.querySelectorAll('[data-r]')];const link={};let act=null;
+  const owner=r=>{const k=Object.keys(link).find(k=>link[k]===r);return k==null?null:+k};
+  const paint=()=>{
+    L.forEach(t=>{const l=+t.dataset.l;t.classList.toggle('active',act===l);t.classList.toggle('paired',link[l]!=null);
+      t.innerHTML=esc(I.pairs[l][0])+(link[l]!=null?`<span class="tag">${I.left.indexOf(l)+1}</span>`:'')});
+    Rt.forEach(t=>{const r=+t.dataset.r;const o=owner(r);t.classList.toggle('paired',o!=null);
+      t.innerHTML=esc(I.pairs[r][1])+(o!=null?`<span class="tag">${I.left.indexOf(o)+1}</span>`:'')});
+    ready(Object.keys(link).length===I.pairs.length)};
+  L.forEach(t=>t.onclick=()=>{const l=+t.dataset.l;if(link[l]!=null&&act!==l){delete link[l];act=l}else act=(act===l?null:l);paint()});
+  Rt.forEach(t=>t.onclick=()=>{const r=+t.dataset.r;const o=owner(r);
+    if(act!=null){if(o!=null)delete link[o];link[act]=r;act=null}else if(o!=null){delete link[o];act=o}paint()});
+  paint();
+  return {check(){let n=0;L.forEach(t=>{const l=+t.dataset.l;t.disabled=true;const g=link[l]===l;if(g)n++;t.classList.add(g?'ok':'bad')});
+      Rt.forEach(t=>{const r=+t.dataset.r;t.disabled=true;t.classList.add(owner(r)===r?'ok':'bad')});
+      return {ok:n===I.pairs.length,detail:`${n}/${I.pairs.length} pairs right`,answer:'<ul>'+I.pairs.map(p=>`<li>${esc(p[0])} → ${esc(p[1])}</li>`).join('')+'</ul>'}}};
+}
+function rSort(I,ex,ready){
+  const bk=I.b.buckets;
+  ex.innerHTML=`<p class="hint">Pick a category for each item.</p><div class="sort">${I.items.map((it,k)=>`<div class="srow" data-k="${k}"><span class="txt">${esc(it[0])}</span><span class="seg" role="group">${bk.map((name,j)=>`<button data-j="${j}" aria-pressed="false">${esc(name)}</button>`).join('')}</span></div>`).join('')}</div>`;
+  const ans={};const rows=[...ex.querySelectorAll('.srow')];
+  rows.forEach(row=>row.querySelectorAll('button').forEach(btn=>btn.onclick=()=>{const k=+row.dataset.k;ans[k]=+btn.dataset.j;
+    row.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===btn));ready(Object.keys(ans).length===I.items.length)}));
+  return {check(){let n=0;rows.forEach(row=>{const k=+row.dataset.k;const c=I.items[k][1];row.querySelectorAll('button').forEach(x=>x.disabled=true);
+      if(ans[k]===c){n++;row.classList.add('ok')}else{row.classList.add('bad');row.insertAdjacentHTML('beforeend',`<span class="fix">→ ${esc(bk[c])}</span>`)}});
+      return {ok:n===I.items.length,detail:`${n}/${I.items.length} sorted right`,answer:''}}};
+}
+function rOrder(I,ex,ready){
+  ex.innerHTML=`<p class="hint">Tap the items in the right order. Tap a placed step to send it back.</p><div class="seq" id="seq"></div><div class="pool" id="pool"></div>`;
+  const seq=[];const pool=I.pool.slice();const seqEl=ex.querySelector('#seq'),poolEl=ex.querySelector('#pool');
+  const paint=()=>{
+    seqEl.innerHTML=seq.length?seq.map((s,k)=>`<button class="step" data-k="${k}"><span class="n">${k+1}</span><span>${esc(s)}</span></button>`).join(''):'<div class="empty">Your sequence builds here, step by step.</div>';
+    poolEl.innerHTML=pool.map((s,k)=>`<button data-k="${k}">${esc(s)}</button>`).join('');
+    seqEl.querySelectorAll('.step').forEach(b=>b.onclick=()=>{if(cur.answered)return;pool.push(seq.splice(+b.dataset.k,1)[0]);paint()});
+    poolEl.querySelectorAll('button').forEach(b=>b.onclick=()=>{seq.push(pool.splice(+b.dataset.k,1)[0]);paint()});
+    ready(pool.length===0)};
+  paint();
+  return {check(){let n=0;seqEl.querySelectorAll('.step').forEach((b,k)=>{b.disabled=true;const g=seq[k]===I.b.items[k];if(g)n++;b.classList.add(g?'ok':'bad')});
+      return {ok:n===I.b.items.length,detail:`${n}/${I.b.items.length} in place`,answer:'Right order: '+I.b.items.map((s,k)=>`<b>${k+1}.</b> ${esc(s)}`).join(' &nbsp;')}}};
+}
+function rFill(I,ex,ready){
+  const parts=I.b.text.split('___');
+  ex.innerHTML=`<p class="hint">Tap a word to drop it into the highlighted blank. Tap a filled blank to clear it.</p><p class="sentence">${parts.map((p,k)=>esc(p)+(k<parts.length-1?`<button class="blank" data-b="${k}"></button>`:'')).join('')}</p><div class="bank">${I.chips.map((c,k)=>`<button data-c="${k}">${esc(c)}</button>`).join('')}</div>`;
+  const blanks=[...ex.querySelectorAll('.blank')],chips=[...ex.querySelectorAll('[data-c]')];const val=blanks.map(()=>null);let focus=0;
+  const paint=()=>{blanks.forEach((b,k)=>{b.textContent=val[k]!=null?I.chips[val[k]]:'';b.classList.toggle('focus',k===focus&&!cur.answered)});
+    chips.forEach((c,k)=>c.classList.toggle('used',val.includes(k)));ready(val.every(v=>v!=null))};
+  blanks.forEach((b,k)=>b.onclick=()=>{if(val[k]!=null)val[k]=null;focus=k;paint()});
+  chips.forEach((c,k)=>c.onclick=()=>{if(val.includes(k))return;val[focus]=k;const nx=val.findIndex(v=>v==null);focus=nx<0?focus:nx;paint()});
+  paint();
+  return {check(){let n=0;blanks.forEach((b,k)=>{b.disabled=true;b.classList.remove('focus');const g=I.chips[val[k]]===I.b.blanks[k];if(g)n++;b.classList.add(g?'ok':'bad')});chips.forEach(c=>c.disabled=true);
+      return {ok:n===blanks.length,detail:`${n}/${blanks.length} blanks right`,answer:parts.map((p,k)=>esc(p)+(k<parts.length-1?`<b>${esc(I.b.blanks[k])}</b>`:'')).join('')}}};
+}
+
+/* ---------- results ---------- */
+function answerText(I){
+  const b=I.b;
+  if(b.t==='mcq')return esc(b.o[0]);
+  if(b.t==='tf')return b.a?'True':'False';
+  if(b.t==='multi')return b.c.map(esc).join(' · ');
+  if(b.t==='match')return I.pairs.map(p=>esc(p[0])+' → '+esc(p[1])).join(' · ');
+  if(b.t==='sort')return b.buckets.map((n,j)=>'<b>'+esc(n)+':</b> '+I.items.filter(x=>x[1]===j).map(x=>esc(x[0])).join(', ')).join(' &nbsp;|&nbsp; ');
+  if(b.t==='order')return b.items.map(esc).join(' → ');
+  if(b.t==='fill'){const p=b.text.split('___');return p.map((x,k)=>esc(x)+(k<p.length-1?'<b>'+esc(b.blanks[k])+'</b>':'')).join('')}
+  return '';
+}
+function renderResults(){
+  document.documentElement.dataset.unit='0';
+  const res=S.res.filter(Boolean);const ok=res.filter(r=>r.ok).length;const n=res.length;const pct=n?Math.round(ok/n*100):0;
+  const head=pct>=85?'Exam-ready on this set':pct>=65?'Solid base, keep going':'Worth another pass';
+  const msg=pct>=85?'Draw a new set to cover the cards you haven’t met yet.':pct>=65?'Retry the cards you missed, then draw a fresh set.':'Retry the missed cards first, then draw a fresh set.';
+  const unitRows=[3,4,5].map(u=>{const r=res.filter(x=>x.I.u===u);if(!r.length)return '';const k=r.filter(x=>x.ok).length;
+    return `<div class="bar"><span class="lab">Unit ${UNITS[u].n} · ${UNITS[u].name}</span><span class="track"><span class="fill" style="width:${k/r.length*100}%;background:var(--u${u}a)"></span></span><span class="val">${k}/${r.length}</span></div>`}).join('');
+  const groups=[['Choice & case studies',['mcq','multi']],['True or false',['tf']],['Interactive drills',['match','sort','order','fill']]];
+  const typeRows=groups.map(([lab,ts])=>{const r=res.filter(x=>ts.includes(x.I.t));if(!r.length)return '';const k=r.filter(x=>x.ok).length;
+    return `<div class="bar"><span class="lab">${lab}</span><span class="track"><span class="fill" style="width:${k/r.length*100}%;background:var(--ink)"></span></span><span class="val">${k}/${r.length}</span></div>`}).join('');
+  const missed=res.filter(r=>!r.ok);const C=2*Math.PI*62;
+  document.getElementById('stage').innerHTML=`<div class="deck"><article class="card">
+    <header class="chead"><div class="meta"><span class="pill"><svg viewBox="0 0 24 24"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0zM7 6H4a3 3 0 0 0 3 4M17 6h3a3 3 0 0 1-3 4"/></svg>Set complete</span><span class="ulab">Best streak: ${S.best}</span></div></header>
+    <div class="hero">
+      <div class="big"><svg viewBox="0 0 150 150"><circle class="bgc" cx="75" cy="75" r="62"/><circle class="fgc" id="bigFg" cx="75" cy="75" r="62" stroke-dasharray="${C}" stroke-dashoffset="${C}"/></svg><div class="lbl"><div>${pct}%<small>${ok} / ${n} correct</small></div></div></div>
+      <div><h2>${head}</h2><p>${msg}</p></div>
+    </div>
+    <h3 class="sec">By unit</h3><div class="bars">${unitRows}</div>
+    <h3 class="sec">By format</h3><div class="bars">${typeRows}</div>
+    <div class="actions" style="justify-content:flex-start">
+      <button class="go" id="again">New set of 50${ARROW}</button>
+      ${missed.length?`<button class="go alt" id="retry">Retry the ${missed.length} I missed</button>`:''}
+    </div>
+    ${missed.length?`<h3 class="sec">Cards to review</h3><div class="missed">${missed.map(r=>`<div class="miss u${r.I.u}"><span class="mq">${esc(r.I.b.q.replace(/^Case —\s*/,''))}</span><span class="ma"><b>Answer:</b> ${answerText(r.I)}</span></div>`).join('')}</div>`:''}
+  </article></div>`;
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{const f=document.getElementById('bigFg');if(f)f.style.strokeDashoffset=C*(1-pct/100)}));
+  document.getElementById('again').onclick=()=>newSession();
+  const rt=document.getElementById('retry');if(rt)rt.onclick=()=>newSession(shuffle(missed.map(r=>r.I.b)));
+  if(pct>=80)setTimeout(()=>burst(document.querySelector('.big'),90),500);
+  window.scrollTo({top:0,behavior:reduced?'auto':'smooth'});
+}
+
+/* ---------- controls ---------- */
+document.querySelectorAll('.chip').forEach(c=>{
+  c.setAttribute('aria-pressed',units.has(+c.dataset.u));
+  c.onclick=()=>{const u=+c.dataset.u;if(units.has(u)){if(units.size===1)return;units.delete(u)}else units.add(u);
+    c.setAttribute('aria-pressed',units.has(u));store.set('bmd.units',[...units]);
+    if(S&&S.res.filter(Boolean).length===0)newSession();else document.getElementById('filterNote').hidden=false}
+});
+document.getElementById('newSet').onclick=()=>newSession();
+document.addEventListener('keydown',e=>{
+  if(e.metaKey||e.ctrlKey||e.altKey||!cur||!S||S.i>=S.list.length)return;
+  if(e.key==='Enter'){const go=document.getElementById('go');if(go&&!go.disabled&&!go.hidden&&document.activeElement!==go){e.preventDefault();go.click()}return}
+  if(!cur.answered&&cur.api&&cur.api.key&&e.key.length===1)cur.api.key(e.key);
+});
+newSession();
+</script>
+
+</body>
+</html>
