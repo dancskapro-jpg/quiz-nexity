@@ -1,0 +1,634 @@
+classique-001|¿Cuántos minutos pasas en la ducha?|¿Cuántos minutos puedes esperar un autobús sin ponerte de los nervios?
+classique-002|¿Cuántos minutos tardas en arreglarte por la mañana?|¿Cuántos minutos pasas eligiendo qué ver por la noche?
+classique-004|¿A qué hora te acuestas un sábado por la noche?|¿A qué hora termina una buena fiesta, según tú?
+classique-005|¿Cuántas veces al día miras la hora?|¿Cuántas veces al día abres la nevera?
+classique-006|¿Cuántos pares de zapatos tienes?|¿Cuántas tazas hay en tu casa?
+classique-009|¿Cuántas horas duermes una noche normal?|¿Cuántas horas aguantarías en un avión sin volverte loco?
+classique-010|¿Cuántos minutos dura tu siesta ideal?|¿Cuántos minutos aguantas sin el móvil en una sala de espera?
+classique-011|¿Cuántos minutos tardas en comer al mediodía?|¿Cuántos minutos tardas en ir de tu casa a la panadería?
+classique-012|¿A qué hora sueles cenar?|¿A qué hora sueles terminar de trabajar?
+classique-013|¿Cuántas horas al día pasas con el móvil?|¿Cuántas horas a la semana pasas cocinando?
+classique-014|¿Cuántas veces a la semana comes pasta?|¿Cuántas veces a la semana haces deporte?
+classique-016|¿Cuántos vasos de agua bebes al día?|¿Cuántas veces al día te lavas las manos?
+classique-017|¿Qué objeto pierdes más a menudo?|¿Qué objeto compruebas siempre antes de salir?
+classique-018|¿Qué objeto te llevarías a una isla desierta?|¿Qué objeto no prestarías nunca?
+classique-019|¿Qué objeto está siempre en tu mesita de noche?|¿Qué objeto llevas siempre en el bolso o la mochila?
+classique-020|¿Qué objeto de tu casa podrías tirar sin pena?|¿Qué objeto embalarías primero en una mudanza?
+classique-021|¿Qué regalo te gustaría recibir?|¿Qué regalo haces más a menudo?
+classique-022|¿Qué medio de transporte prefieres?|¿Qué medio de transporte usas más?
+classique-024|¿Qué cosa compraste y nunca has usado?|¿Qué cosa compraste por impulso?
+classique-025|¿Qué color predomina en tu armario?|¿De qué color pintarías tu habitación?
+classique-027|¿De qué color sería el coche de tus sueños?|¿De qué color te vestirías para una boda?
+classique-030|¿Qué animal te parece el más mono?|¿Qué animal te daría miedo encontrarte en el bosque?
+classique-032|¿Cuál es tu plato favorito?|¿Qué plato sabes cocinar sin receta?
+classique-033|¿Qué fruta comes más a menudo?|¿Qué fruta pondrías en una macedonia perfecta?
+classique-034|¿Qué desayunas normalmente?|¿Qué comes cuando te entra hambre a media tarde?
+classique-035|¿Qué verdura odiabas de pequeño?|¿Qué verdura comes más hoy en día?
+classique-036|¿Qué sabor de helado eliges siempre?|¿Qué sabor de chuche prefieres?
+classique-037|¿Qué país tiene la mejor comida, según tú?|¿En qué país te gustaría pasar tu jubilación?
+classique-038|¿Qué país te gustaría ver ganar un Mundial?|¿Qué país tiene los mejores deportistas, según tú?
+classique-040|¿Qué app abres más a menudo?|¿Qué app podrías borrar sin pena?
+classique-042|¿Qué deporte te gustaría probar?|¿Qué deporte ves con gusto en la tele?
+classique-043|¿Qué haces los domingos por la tarde?|¿Qué haces cuando llueve todo el día?
+classique-046|¿Qué es lo primero que haces al llegar a casa?|¿Qué es lo primero que haces al despertarte?
+classique-048|¿A qué jugabas más en el recreo?|¿A qué juego de tu infancia te gustaría volver a jugar?
+classique-051|¿Qué serie terminaste más rápido?|¿Qué serie podrías volver a ver desde el principio?
+classique-053|¿Qué instrumento te gustaría saber tocar?|¿Qué instrumento te parece el más molesto?
+classique-057|¿Qué querías ser de mayor cuando eras pequeño?|¿Qué trabajo harías durante un año solo por probar?
+classique-058|¿Qué trabajo te parece el más difícil?|¿Qué trabajo admiras más?
+classique-061|¿Cuál es tu estación favorita?|¿Qué estación se pasa más rápido, según tú?
+classique-062|¿Qué marca de ropa llevas más?|¿Qué marca de zapatos te encantaría tener?
+classique-063|¿Qué marca de coche te hace soñar?|¿Qué marca de coche ves más en tu calle?
+classique-064|¿Qué nombre te habría gustado tener?|¿Qué nombre le pondrías a un gato?
+classique-065|¿Qué personaje de ficción te gustaría conocer?|¿Qué personaje de ficción se parece más a ti?
+classique-067|¿Qué habitación de la casa prefieres?|¿En qué habitación de la casa pasas más tiempo?
+classique-070|¿Qué dices cuando te das en el dedo pequeño del pie?|¿Qué dices cuando pierdes el autobús por los pelos?
+classique-071|¿A qué edad tuviste tu primer móvil?|¿A qué edad cogiste un avión por primera vez?
+classique-073|¿Cuánto cuesta una buena comida en un restaurante, según tú (en euros)?|¿Cuánto pagarías por un buen concierto (en euros)?
+classique-074|¿A partir de cuántos euros un café es demasiado caro?|¿A partir de cuántos euros una barra de pan es demasiado cara?
+classique-075|¿Cuántos euros te gastas en un regalo de cumpleaños?|¿Cuántos euros te gastas en una comida para llevar?
+classique-076|¿Cuántos países has visitado?|¿Cuántos idiomas te gustaría hablar?
+classique-077|¿A cuántas personas invitarías a tu cumpleaños ideal?|¿Cuántas personas caben en tu salón?
+classique-079|¿Cuántos libros lees al año?|¿Cuántas veces vas al cine al año?
+classique-080|¿Cuántos días aguantarías sin azúcar?|¿Cuántos días aguantarías sin redes sociales?
+classique-081|¿En cuántos grupos de chat estás en el móvil?|¿A cuántas personas llamas de verdad cada mes?
+classique-083|¿A cuántos grados tiene que estar el dormitorio para dormir bien?|¿Cuántos grados tiene que hacer fuera para salir en camiseta?
+classique-084|¿Cuántos minutos aguantas en la bañera?|¿Cuántos minutos puedes hacer cola por un buen restaurante?
+classique-085|¿Cuántos kilómetros podrías andar sin parar?|¿Cuántos kilómetros harías por un buen restaurante?
+classique-086|¿Cuántas horas seguidas puedes pasar viendo una serie?|¿Cuántas horas puedes pasar en un museo?
+classique-087|¿Cuántos capítulos ves seguidos una noche de finde?|¿Cuántos capítulos le das a una serie antes de dejarla?
+classique-088|¿Cuántos minutos tarda una peli en engancharte?|¿Cuántos minutos de anuncios aguantas antes de una peli?
+classique-089|Del 1 al 10, ¿cuánto eres de mañanas?|Del 1 al 10, ¿cuánto te gustan las sorpresas?
+classique-091|Del 1 al 10, ¿cuánto te gusta el frío?|Del 1 al 10, ¿cuánto te gusta la comida picante?
+classique-092|Del 1 al 10, ¿qué nota le pondrías a tu semana?|Del 1 al 10, ¿qué nota le pondrías a tu última comida?
+classique-094|Del 1 al 10, ¿cuánto te gustan las pelis de miedo?|Del 1 al 10, ¿cuánto te gustan las montañas rusas?
+classique-096|Del 1 al 10, ¿cuánto te gusta hacer la compra?|Del 1 al 10, ¿cuánto te gusta limpiar la casa?
+classique-097|Del 1 al 10, ¿qué tal llevas perder?|Del 1 al 10, ¿cómo de competitivo eres?
+classique-101|¿A qué hora suena tu despertador entre semana?|¿A qué hora te gustaría despertarte sin despertador?
+classique-102|¿Cuántos minutos te quedas en la cama después de que suene el despertador?|¿Cuántos minutos tardas en estar despierto del todo?
+classique-104|¿Qué aparato pones a cargar al llegar a casa?|¿Qué objeto dejas siempre en la entrada?
+classique-105|¿Cuántos minutos tardas en arreglarte un día entre semana?|¿Cuántos minutos tardas en arreglarte un día de fiesta?
+classique-106|¿Qué desayunas cuando vas con prisa?|¿Qué desayunas cuando tienes todo el tiempo del mundo?
+classique-109|¿Cuántas veces miras el móvil antes de salir de la cama?|¿Cuántas veces miras la hora mientras te arreglas?
+classique-110|¿A qué hora sales de casa por la mañana?|¿A qué hora llegas a tu destino por la mañana?
+classique-114|¿En qué habitación desayunas?|¿En qué habitación haces tu primera llamada del día?
+classique-115|¿A qué hora te levantas un día entre semana?|¿A qué hora te levantas en vacaciones?
+classique-116|¿Qué haces en el transporte por la mañana?|¿Qué haces en una sala de espera?
+classique-118|¿Qué bollo compras el domingo por la mañana?|¿Qué bollos llevarías a tus compañeros de trabajo para darles un capricho?
+classique-119|¿Cuántas veces has llegado tarde este mes?|¿Cuántas veces has perdido el autobús o el tren este mes?
+classique-122|¿Cuántos minutos tardas en dormirte?|¿Cuántos minutos pasas con el móvil una vez en la cama?
+classique-123|¿Qué cenas cuando no te apetece cocinar?|¿Qué comes mientras ves una buena peli?
+classique-126|¿Cuántas almohadas tienes en la cama?|¿Cuántos cojines tienes en el sofá?
+classique-129|¿Qué dices para irte de una fiesta sin que nadie se ofenda?|¿Qué dices para colgar una llamada que se alarga demasiado?
+classique-132|¿Cuántas horas de sueño necesitas para estar en forma?|¿Cuántas horas has dormido esta noche?
+classique-133|¿Dónde duermes mejor fuera de tu cama?|¿Dónde te echas tus mejores siestas?
+classique-135|¿Qué es lo primero que haces el sábado por la mañana?|¿Qué es lo primero que haces al llegar a tu destino de vacaciones?
+classique-140|¿Qué cenas cuando estás solo en casa?|¿Qué comes cuando llegas tarde y muerto de hambre?
+classique-141|¿Cuántas veces al mes te quedas en la cama hasta tarde?|¿Cuántas veces al mes haces limpieza a fondo?
+classique-142|¿Cuántos días debería durar un fin de semana ideal?|¿Cuántos días de vacaciones necesitas para desconectar de verdad?
+classique-146|¿Qué palabra resume tu fin de semana ideal?|¿Qué palabra resume tu último fin de semana?
+classique-148|¿Cuántas horas puedes pasar en un mercadillo?|¿Cuántas horas puedes pasar en un parque un día de sol?
+classique-150|¿Cuántas apps usas de verdad cada día?|¿Cuántas apps podrías borrar sin perder nada?
+classique-151|¿Con qué porcentaje de batería empiezas a agobiarte?|¿Con qué porcentaje de batería pones a cargar el móvil?
+classique-153|¿Cuántos minutos puedes esperar la respuesta a un mensaje antes de preocuparte?|¿Cuántos minutos sueles tardar en contestar un mensaje?
+classique-154|¿Qué emoji mandas más a menudo?|¿Qué emoji usas cuando no sabes qué contestar?
+classique-158|¿Cuántas horas aguantas sin mirar el móvil?|¿Cuántas horas aguantas sin hablar con nadie?
+classique-159|¿Cuántas veces al día miras el tiempo que va a hacer?|¿Cuántas veces al día miras el correo?
+classique-160|¿Qué app conservarías si solo pudieras quedarte con una?|¿Qué app te hace perder más tiempo?
+classique-165|¿En cuántas tiendas distintas haces la compra de la semana?|¿Cuántas panaderías conoces cerca de casa?
+classique-166|¿Qué producto compras cada vez que haces la compra?|¿Qué producto se te olvida siempre comprar?
+classique-167|¿Qué producto compras en cantidad cuando está de oferta?|¿Qué producto tienes siempre de reserva en la despensa?
+classique-168|¿Cuántos minutos sueles pasar en el súper?|¿Cuántos minutos estás dispuesto a hacer cola en la caja?
+classique-169|¿Cuántos euros te gastas en la compra de la semana?|¿Cuántos euros te gastas en llenar el depósito?
+classique-170|¿En qué pasillo del súper te entran ganas de comprarlo todo?|¿Qué pasillo del súper cruzas sin pararte?
+classique-173|¿A qué supermercado vas más?|¿Qué supermercado te parece el más barato?
+classique-176|¿Qué día de la semana está el súper más lleno?|¿Qué día de la semana va más lleno el transporte público?
+classique-177|¿Qué acaba en tu carro cuando vas a comprar con hambre?|¿Qué escondías en el fondo del carro cuando eras pequeño?
+classique-178|¿Cuánto cuesta un paquete de pasta, según tú (en euros)?|¿Cuánto cuesta una pastilla de mantequilla, según tú (en euros)?
+classique-180|¿Por debajo de cuántos grados enciendes la calefacción?|¿Por debajo de cuántos grados sacas el gorro?
+classique-181|¿Qué temperatura hay en tu salón en invierno (en grados)?|¿Qué temperatura tiene que hacer para cenar en una terraza (en grados)?
+classique-182|¿Qué objeto sacas en cuanto salen los primeros rayos de sol?|¿Qué objeto es lo primero que guardas al final del verano?
+classique-184|¿Qué haces una tarde de muchísimo calor?|¿Qué haces una tarde de chaparrón?
+classique-186|¿Qué mes del año es el mejor para irse de vacaciones?|¿Qué mes del año es el mejor para quedarse en casa?
+classique-190|¿Qué objeto siempre lamentas haber olvidado cuando te pilla un chaparrón?|¿Qué objeto pierdes más a menudo en el transporte público?
+classique-193|¿Cuántos días seguidos de lluvia aguantas?|¿Cuántos días seguidos de ola de calor aguantas?
+classique-194|¿Qué dices cuando sales y hace un frío que pela?|¿Qué dices cuando entras en una habitación con la calefacción a tope?
+classique-196|¿Cuántos minutos dura tu trayecto más habitual?|¿Cuántos minutos estás dispuesto a andar para no coger el autobús?
+classique-197|¿Dónde te sientas en el autobús?|¿Dónde te sientas en el cine?
+classique-198|¿Qué medio de transporte te pone de peor humor?|¿Qué medio de transporte te relaja más?
+classique-199|¿Con cuántos minutos de antelación llegas para coger un tren?|¿Cuántos minutos de retraso le toleras a un amigo?
+classique-200|¿Qué haces cuando tu tren va con retraso?|¿Qué haces cuando esperas a alguien que llega tarde?
+classique-201|¿Qué dices cuando alguien te empuja en el metro?|¿Qué dices cuando alguien se te cuela en una fila?
+classique-204|¿A qué hora pasa el último autobús o metro cerca de tu casa?|¿A qué hora vuelves como muy tarde cuando sales entre semana?
+classique-205|¿Qué objeto no sale nunca del bolsillo de tu abrigo?|¿Qué objeto encuentras siempre en el fondo de tu bolso o mochila?
+classique-206|¿Cuánto cuesta un billete de autobús, según tú (en euros)?|¿Cuánto cuesta una revista en el quiosco, según tú (en euros)?
+classique-207|¿Cuántos viajes en tren has hecho este año?|¿Cuántos fines de semana has pasado fuera de casa este año?
+classique-208|¿Cuántos minutos tardas en llegar a tu parada más cercana?|¿Cuántos minutos tardas en ir andando al súper?
+classique-210|¿Cuántas veces has cogido un taxi este año?|¿Cuántas veces has alquilado una bici o un patinete este año?
+classique-211|¿Cuántos llaveros tienes colgados de las llaves?|¿Cuántas tarjetas de fidelización tienes?
+classique-215|¿Cuántos espejos hay en tu casa?|¿Cuántos relojes de pared hay en tu casa?
+classique-216|¿Cuántos paraguas tienes en casa?|¿Cuántos gorros tienes en casa?
+classique-217|¿Qué aparato de casa hace más ruido?|¿Qué aparato de casa se estropea siempre en el peor momento?
+classique-221|¿Cuántos cables de cargador tienes en casa?|¿Cuántas gafas de sol tienes en casa?
+classique-222|¿A qué hora oyes más a tus vecinos?|¿A qué hora hay más ruido en tu calle?
+classique-223|¿Qué habitación de tu casa es la más fría?|¿Qué habitación de tu casa está más desordenada?
+classique-239|¿Qué merienda te devuelve a la infancia?|¿Qué postre pides sin dudarlo?
+classique-240|¿Qué haces para darte un gusto sin gastar ni un euro?|¿Qué plan gratis le propondrías a un amigo aburrido?
+classique-241|¿Cuántas velas tienes en casa?|¿Cuántas mantas de sofá tienes en casa?
+classique-242|¿Qué objeto buscas por todas partes cuando lo tienes en la mano?|¿Qué objeto te encuentras siempre en la lavadora?
+classique-243|¿Qué dices cuando se te derrama el café?|¿Qué dices cuando se te cae el móvil al suelo?
+classique-244|¿Cuántas veces te has quedado fuera de casa sin llaves?|¿Cuántas veces se te ha roto la pantalla del móvil?
+classique-245|¿Cuál es el peor sitio para quedarte sin batería?|¿Cuál es el peor sitio para que te dé un ataque de risa?
+classique-246|¿Qué objeto rompes más a menudo?|¿Qué objeto vuelves a comprar más a menudo?
+classique-248|¿Cuántos minutos aguantas en espera con un servicio de atención al cliente?|¿Cuántos minutos puedes esperar tu plato en un restaurante sin quejarte?
+classique-249|¿Cuál es el peor momento para recibir una llamada?|¿Cuál es el peor momento para que te llamen al timbre?
+classique-250|¿Qué prenda te manchas más a menudo?|¿Qué prenda pierdes más a menudo?
+classique-251|¿Cuántas veces al mes le das a «He olvidado mi contraseña»?|¿Cuántas veces al mes buscas las gafas o las llaves?
+classique-253|¿Qué le dices a alguien que te pisa?|¿Qué le dices a alguien que te sujeta la puerta?
+classique-254|¿Cuánto cuesta arreglar la pantalla de un móvil, según tú (en euros)?|¿Cuánto cuestan unas zapatillas decentes, según tú (en euros)?
+classique-255|¿A quién llamas primero para contarle una buena noticia?|¿A quién llamas cuando te aburres un domingo?
+classique-256|¿Cuántos amigos podrían ayudarte a mudarte mañana?|¿Cuántos amigos saben cuál es tu plato favorito?
+classique-258|¿Dónde quedas con tus amigos más a menudo?|¿Dónde quedarías con alguien a quien todavía no conoces?
+classique-259|¿Cuántas personas hacen falta para una buena noche de juegos?|¿A cuántas personas puedes invitar a cenar sin agobiarte?
+classique-260|¿A qué hora te vas de una cena en casa de amigos?|¿A qué hora te vas de una fiesta de cumpleaños?
+classique-261|¿Qué apodo cariñoso le dices a un bebé?|¿Qué apodo cariñoso le dices a un cachorro?
+classique-262|¿Qué llevas cuando te invitan a casa de unos amigos?|¿Qué ofreces cuando unos amigos se presentan sin avisar?
+classique-263|¿A quién llamarías para que te ayude a montar un mueble?|¿A quién llamarías para que te ayude a elegir un modelito?
+classique-265|¿Desde hace cuántos años conoces a tu mejor amigo?|¿Desde hace cuántos años vives en tu ciudad?
+classique-266|¿Qué día de la semana es ideal para ver a los amigos?|¿Qué día de la semana es ideal para no hacer nada?
+classique-271|¿Qué objeto tocas sin darte cuenta cuando estás pensando?|¿Qué objeto mordisqueas sin darte cuenta?
+classique-274|¿Qué haces con las manos cuando hablas por teléfono?|¿Qué haces con las manos cuando esperas a alguien?
+classique-275|¿Cuántos azucarillos le echas al café?|¿Cuántos cubitos de hielo le echas a tu vaso?
+classique-278|¿Qué prenda te pones cuando no sabes qué ponerte?|¿Qué prenda llevas hasta que se agujerea?
+classique-283|¿Qué ciudad de Europa te gustaría conocer primero?|¿Qué ciudad de Europa recomendarías para un fin de semana?
+classique-284|¿Qué trabajo te parece el más útil?|¿Qué trabajo te hacía soñar a los diez años?
+classique-286|¿A qué edad se vuelve uno adulto de verdad, según tú?|¿A qué edad hiciste la compra tú solo por primera vez?
+classique-294|¿Cuántos tarros vacíos guardas en casa?|¿Cuántas cajas de cartón guardas «por si acaso»?
+classique-295|¿A cuántos vecinos conoces por su nombre?|¿Cuántos tenderos te reconocen en tu barrio?
+classique-296|¿Cuántos juegos de mesa tienes en casa?|¿Cuántos puzles has terminado en tu vida?
+classique-297|¿Cuántos cumpleaños te sabes de memoria?|¿Cuántos códigos de portal te sabes de memoria?
+classique-298|¿Cuántos minutos tardas en hacer la cama?|¿Cuántos minutos tardas en fregar los platos?
+classique-299|¿Cuántos móviles has tenido en tu vida?|¿Cuántos ordenadores has tenido en tu vida?
+classique-300|¿Cuánto cuesta una entrada de cine, según tú (en euros)?|¿Cuánto cuesta un menú de comida rápida, según tú (en euros)?
+classique-301|¿Cuántos propósitos de Año Nuevo te pones?|¿Cuántos hábitos nuevos has conseguido mantener este año?
+classique-302|¿Cuántos libros sin leer te esperan en la estantería?|¿Cuántos libros has prestado sin volver a verlos nunca?
+classique-304|¿Cuántas veces a la semana cocinas una comida de verdad?|¿Cuántas veces a la semana comes fuera?
+classique-305|¿Cuántas horas a la semana pasas en el transporte?|¿Cuántas horas a la semana pasas limpiando la casa?
+classique-306|¿Cuántas ventanas de tu casa dan a la calle?|¿Cuántas puertas tienes que abrir para ir de tu cama a la cocina?
+classique-307|¿A qué hora pones el despertador los lunes?|¿A qué hora pones el despertador los sábados?
+classique-309|¿Qué es lo primero que dices cuando suena el despertador?|¿Qué es lo primero que dices cuando ves que está lloviendo?
+classique-310|¿Cuántos minutos antes de salir te levantas?|¿Cuántos minutos antes llegas a una cita?
+classique-312|¿Qué prenda es la primera que te pones por la mañana?|¿Qué prenda es la primera que te quitas al llegar a casa por la noche?
+classique-314|¿Cuántos minutos tardas en salir de la cama el domingo?|¿Cuántos minutos tardas en salir de la ducha en invierno?
+classique-317|¿Qué haces cuando te despiertas cinco minutos antes de que suene el despertador?|¿Qué haces cuando te despiertas en mitad de la noche?
+classique-323|¿Cuántos cafés o tés te tomas al día?|¿Cuántas veces al día rellenas tu botella de agua?
+classique-325|¿Cuánto cuesta un cruasán en tu panadería (en euros)?|¿Cuánto cuesta una barra de pan en tu panadería (en euros)?
+classique-329|¿Sobre qué hora te entra el primer hambre de la mañana?|¿Sobre qué hora te da el primer bajón de la tarde?
+classique-330|¿Qué objeto te metes en el bolsillo justo antes de salir?|¿Qué objeto te sacas del bolsillo nada más llegar?
+classique-333|¿A qué hora empiezas a bostezar por la noche?|¿A qué hora empiezas a tener hambre por la noche?
+classique-334|¿Qué hay debajo de tu cama?|¿Qué hay encima de tu armario?
+classique-335|¿Qué le dices a alguien que te despierta para nada?|¿Qué le dices a alguien que ronca a tu lado?
+classique-355|¿Qué te encuentras en los bolsillos al poner una lavadora?|¿Qué te encuentras en un abrigo viejo al invierno siguiente?
+classique-358|¿Cuánto cuesta un buen paraguas, según tú (en euros)?|¿Cuánto cuesta una buena mochila, según tú (en euros)?
+classique-360|¿Cuántas llaves hay en tu llavero?|¿Cuántos bolis hay en tu mochila o tu estuche?
+classique-365|¿Cuántos tiques de compra tienes por ahí en la cartera?|¿Cuántas monedas tienes por ahí en la cartera?
+classique-373|¿En cuántos minutos te lavas los dientes?|¿En cuántos minutos te secas el pelo?
+classique-394|¿Cuántos platos sabes cocinar sin receta?|¿Cuántas recetas de bizcocho te sabes de memoria?
+classique-407|¿Cuánto crees que cuesta un bote de crema de cacao?|¿Cuánto crees que cuesta un paquete de cereales?
+classique-414|¿A partir de qué descuento (en %) compras algo que no necesitas?|¿A partir de qué descuento (en %) dices que es una ganga?
+classique-416|¿Qué le dices al dependiente que te pregunta si buscas algo?|¿Qué dices cuando te preguntan si tienes la tarjeta de la tienda?
+classique-417|¿Cuánto es lo máximo que pagarías por un paraguas (en euros)?|¿Cuánto es lo máximo que pagarías por una taza (en euros)?
+classique-419|¿Cuántos paquetes recibes al mes?|¿Cuántas cartas recibes al mes?
+classique-422|¿Qué haces en el tren durante un viaje largo?|¿Qué haces en el coche cuando no conduces tú?
+classique-424|¿A cuántos kilómetros del mar vives?|¿A cuántos kilómetros de la montaña más cercana vives?
+classique-426|¿Qué dices cuando el metro se para entre dos estaciones?|¿Qué dices cuando el GPS te hace dar media vuelta?
+classique-427|¿Cuántas horas puedes conducir sin parar?|¿Cuántas horas de tren aguantas sin aburrirte?
+classique-428|¿Cuántas veces cogiste el tren el año pasado?|¿Cuántas veces cogiste el avión el año pasado?
+classique-435|¿Cuánto cuesta un bocadillo en una estación (en euros)?|¿Cuánto cuesta un café en una estación (en euros)?
+classique-445|¿Qué haces cuando se te acaba la batería del móvil?|¿Qué haces cuando te dejas el móvil en casa?
+classique-452|¿Con cuántas almohadas duermes?|¿Con cuántas mantas duermes en invierno?
+classique-458|¿Cuántas horas duermes una noche en la que te quedas en la cama hasta tarde?|¿Cuántas horas duermes la noche antes de madrugar muchísimo?
+classique-482|¿Cuánto crees que cuesta la entrada a un museo (en euros)?|¿Cuánto crees que cuesta la entrada a la piscina (en euros)?
+classique-493|¿Qué dices cuando llega un invitado y está todo sin recoger?|¿Qué dices cuando alguien abre tu armario de los trastos?
+classique-494|¿Cuántas horas te lleva una limpieza a fondo en casa?|¿Cuántas horas te lleva montar un mueble de los de montar tú?
+classique-495|¿Qué electrodoméstico usas más?|¿Qué electrodoméstico comprarías primero al mudarte?
+classique-505|¿Cuántos minutos pasas en un probador?|¿Cuántos minutos tardas en planchar una camisa?
+classique-517|¿Qué temperatura tiene que hacer para que salgas en pantalón corto (en grados)?|¿A qué temperatura tiene que estar el mar para que te bañes (en grados)?
+classique-520|¿Qué dices cuando se pone a llover justo cuando sales?|¿Qué dices cuando sale el sol justo cuando vuelves a casa?
+classique-534|¿Qué le dices a un vecino con el que coincides en el ascensor?|¿Qué le dices al cartero cuando te lo cruzas?
+classique-539|¿Cuántas plantas tiene tu edificio o tu casa?|¿Cuántas panaderías hay a menos de diez minutos de tu casa?
+classique-548|¿Qué serie estás viendo ahora?|¿Qué serie le recomiendas a todo el mundo?
+classique-551|¿Qué peli ves todos los años en la misma época?|¿Qué peli te sabes casi de memoria?
+classique-556|¿Cuántas pantallas hay en tu casa, móviles incluidos?|¿Cuántos mandos a distancia hay en tu casa?
+classique-569|¿Cuál es tu número de la suerte?|¿Qué número elegirías para una camiseta de deporte?
+classique-573|¿Cuánto pagarías por un buen cruasán (en euros)?|¿Cuánto pagarías por un buen café (en euros)?
+classique-579|¿Cuántas contraseñas distintas tienes, más o menos?|¿Cuántas cuentas en internet tienes, más o menos?
+classique-600|¿Cómo saludas a tus compañeros de trabajo por la mañana?|¿Cómo saludas a tus amigos al llegar a una fiesta?
+classique-606|¿A qué hora empiezas a tener hambre antes de comer?|¿A qué hora empiezas a mirar el reloj en el trabajo?
+classique-607|¿Qué es lo primero que haces al llegar al trabajo?|¿Qué es lo primero que haces al llegar a casa de unos amigos?
+bouffe-001|¿Qué plato pides más a domicilio?|¿Qué plato elegirías para tu última comida?
+bouffe-004|¿Qué salsa va mejor con las patatas fritas?|¿Qué salsa le pondrías absolutamente a todo?
+bouffe-005|¿Qué postre pides en un restaurante?|¿Qué postre sabes preparar?
+bouffe-006|¿Qué ingrediente tienes siempre en la nevera?|¿Qué ingrediente se te olvida siempre comprar?
+bouffe-009|¿Qué picoteo compras en el cine?|¿Qué picoteo te llevas de excursión al monte?
+bouffe-010|¿Qué le pones a un bocadillo perfecto?|¿Qué le pones a una tostada en el desayuno?
+bouffe-012|¿Qué bebida pides en una terraza?|¿Qué bebida tomas por la mañana?
+bouffe-018|¿Qué plato español le darías a probar a un turista?|¿Qué plato español está más sobrevalorado?
+bouffe-029|¿Qué ingrediente mejoraría cualquier plato?|¿Qué ingrediente añades a la pasta en el último momento?
+bouffe-031|¿Cuántas veces al mes vas a un restaurante?|¿Cuántas veces al mes pides comida a domicilio?
+bouffe-032|¿Cuántos minutos puedes esperar tu plato en un restaurante?|¿Cuántos minutos tardas en preparar la cena entre semana?
+bouffe-033|¿Cuántos euros pagarías por la mejor hamburguesa del mundo?|¿Cuántos euros pagarías por un trozo de tarta en una cafetería pija?
+bouffe-035|¿Cuántos gramos de pasta calculas por persona?|¿Cuántos gramos pesa una tableta de chocolate?
+bouffe-036|¿Cuántos terrones de azúcar le echas al café o al té?|¿Cuántas rebanadas de pan comes al día?
+bouffe-039|¿Cuántas crepes puedes comer seguidas?|¿Cuántas porciones de pizza puedes comer seguidas?
+bouffe-041|¿A qué hora desayunas entre semana?|¿A qué hora desayunas en vacaciones?
+bouffe-044|¿Qué untas en un biscote?|¿Qué untas en una crepe?
+bouffe-053|¿Qué compras en la panadería aparte del pan?|¿Qué dulce llevas para un domingo en familia?
+bouffe-055|¿Cuántas barras de pan compras a la semana?|¿Cuántos cruasanes compras para un desayuno de cuatro?
+bouffe-085|¿Qué alimento metes el último en el carro?|¿Qué alimento pones arriba en la bolsa para no aplastarlo?
+bouffe-086|¿Cuánto crees que cuesta un bote de crema de cacao?|¿Cuánto crees que cuesta un paquete de café molido?
+bouffe-088|¿Qué producto pruebas al volver de la compra, antes incluso de guardarla?|¿Qué producto desaparece primero después de hacer la compra?
+bouffe-092|¿Cuántas bolsas de la compra puedes cargar de una vez?|¿Cuántas bolsas llenas en la compra de la semana?
+bouffe-098|¿Qué entrante pides más a menudo en un restaurante?|¿Qué entrante compartes a gusto con toda la mesa?
+bouffe-099|¿Qué plato pides cuando no conoces el restaurante?|¿Qué plato pides en un restaurante elegante?
+bouffe-100|¿Cuántas veces relees la carta antes de elegir?|¿Entre cuántos platos dudas antes de pedir?
+bouffe-101|¿Cuántos minutos tardas en elegir tu plato en la carta?|¿Cuántos minutos hay que esperar la cuenta en un restaurante?
+bouffe-103|¿Qué plato nunca pides en un restaurante porque a ti te sale mejor?|¿Qué plato solo comes en restaurantes?
+bouffe-104|¿Cuántos euros te parece razonable pagar por un menú del día?|¿Cuántos euros crees que cuesta un plato del día?
+bouffe-105|¿Qué guarnición eliges con la carne?|¿Qué guarnición pides que te cambien en un menú?
+bouffe-107|¿Qué plato te decepciona siempre en los restaurantes?|¿Qué plato te parece demasiado caro en los restaurantes?
+bouffe-113|¿Qué plato eliges en una cervecería?|¿Qué plato eliges en un restaurante de carretera?
+bouffe-114|¿Qué pizza pides en la pizzería?|¿Qué pizza congelada compras?
+bouffe-118|¿Cuántos minutos puedes esperar tu pedido a domicilio?|¿Cuántos minutos tardas en elegir en la app de comida a domicilio?
+bouffe-122|¿Cuántos euros cuesta una ración de patatas fritas en un local de comida rápida?|¿Cuántos euros cuesta un kebab con patatas?
+bouffe-128|¿Qué país tiene la mejor cocina del mundo?|¿A qué país te irías de viaje solo para comer?
+bouffe-148|¿Cuál es tu tentempié salado favorito?|¿Qué tentempié salado sacas para el aperitivo?
+bouffe-156|¿En qué momento del día picas más?|¿En qué momento del día tienes más hambre?
+bouffe-177|¿Qué postre está más rico hecho en casa?|¿Qué postre es mejor comprar que hacer uno mismo?
+bouffe-187|¿Cuántos euros crees que cuesta un pastelito individual?|¿Cuántos euros crees que cuesta una tarta grande para seis?
+bouffe-195|¿Qué aperitivo sirves antes de comer?|¿Qué aperitivo comes primero en un bufé?
+bouffe-198|¿Qué es lo que más te gusta comer en una barbacoa?|¿Qué se te quema siempre en la barbacoa?
+bouffe-201|¿Cuántas lonchas de queso de raclette te comes?|¿Cuántas patatas te comes con una raclette?
+bouffe-210|¿Cuántos bocadillos preparas para un pícnic de cuatro?|¿Cuántas bolsas de patatas hacen falta para un pícnic de seis?
+bouffe-224|¿Cuántos botes de salsa empezados hay en tu nevera?|¿Cuántos tipos de queso hay en tu nevera?
+bouffe-225|¿Qué alimento nunca metes en la nevera?|¿Qué alimento mete la gente en la nevera cuando no debería?
+bouffe-226|¿Cuántos minutos calientas un plato en el microondas?|¿Cuántos minutos calientas un tazón de sopa en el microondas?
+bouffe-227|¿Qué refresco pides en un local de comida rápida?|¿Qué refresco bebes viendo una peli?
+bouffe-235|¿A qué hora te tomas un café en el trabajo?|¿A qué hora te tomas un chocolate caliente en invierno?
+bouffe-239|¿Cuántas veces repites cuando algo está bueno?|¿Cuántas servilletas usas para comer alitas de pollo?
+bouffe-241|¿Cuántos minutos tardas en terminarte el plato?|¿Cuántos minutos te quedas en la mesa después de terminar?
+bouffe-242|¿Qué alimento cubres de queso rallado?|¿Qué alimento ahogas en salsa?
+bouffe-254|¿Cuántos paquetes de pasta tienes en el armario?|¿Cuántas latas de conserva tienes en el armario?
+bouffe-256|¿Qué receta aprendiste en internet?|¿Qué receta te enseñó alguien de tu familia?
+bouffe-264|¿Cuánto crees que cuesta un kilo de tomates?|¿Cuánto crees que cuesta un kilo de cerezas?
+bouffe-280|¿Cuántos helados te comes en una semana de vacaciones?|¿A cuántos restaurantes vas en una semana de vacaciones?
+bouffe-282|¿Qué comes en la feria?|¿Qué comes en el estadio o en un concierto?
+bouffe-285|¿Cuánto crees que cuesta un algodón de azúcar?|¿Cuánto crees que cuesta una ración de churros en un puesto?
+bouffe-297|¿Cuántas pizzas hay que pedir para seis personas?|¿Cuántas barras de pan hay que comprar para diez personas?
+bouffe-300|¿A qué edad puede un niño hacer crepes solo?|¿A qué edad se puede dejar a un niño usar un cuchillo de cocina?
+bouffe-308|¿Qué trabajo de la hostelería es el más duro?|¿Qué trabajo de la hostelería probarías durante un día?
+bouffe-310|¿Qué cosa de cocina le regalarías a alguien que se acaba de mudar?|¿Qué cosa de cocina tienes repetida?
+bouffe-314|¿Qué pescado comes más a menudo?|¿Qué pescado pides en un chiringuito junto al mar?
+bouffe-319|¿Cuántas noches a la semana cocinas de verdad?|¿Cuántas noches a la semana cenas delante de una pantalla?
+bouffe-323|¿Cuánto crees que cuesta una cena casera para dos?|¿Cuánto crees que cuesta comida para llevar para dos?
+bouffe-325|¿Qué salsa haces tú mismo?|¿Qué salsa compras ya hecha?
+bouffe-328|¿Dónde cenas cuando estás solo?|¿Dónde cenas cuando tienes a un amigo en casa?
+bouffe-332|¿Por qué pasillo empiezas en el súper?|¿En qué pasillo te entretienes más en el súper?
+bouffe-333|¿Qué producto echas al carro sin mirar el precio?|¿Qué producto echas al carro sin que esté en la lista?
+bouffe-334|¿Cuánto calculas que vale un bote de crema de cacao?|¿Cuánto calculas que vale un paquete de café molido?
+bouffe-341|¿A qué hora crees que está más tranquilo el súper?|¿A qué hora crees que está más animado el mercado?
+bouffe-343|¿Qué frase dices al ver el total en la caja?|¿Qué frase dices al abrir una nevera vacía?
+bouffe-346|¿Cuánto dejas de propina después de una buena comida?|¿Cuánto crees que cuesta un postre en un restaurante?
+bouffe-349|¿Cuántos minutos esperas antes de volver a llamar al camarero?|¿Cuántos minutos esperas por una mesa sin reserva?
+bouffe-352|¿Qué postre compartes con varias cucharas?|¿Qué postre te niegas a compartir?
+bouffe-353|¿Cuántas personas hacen falta para una buena mesa en un restaurante?|¿A cuántas personas invitas para celebrar tu cumpleaños en un restaurante?
+bouffe-358|¿A partir de qué precio te parece cara una hamburguesa?|¿A partir de qué precio te parece cara una pizza?
+bouffe-360|¿A qué hora reservas mesa un sábado por la noche?|¿A qué hora crees que cierra la cocina de un restaurante?
+bouffe-380|¿Qué comida callejera comerías todos los días?|¿Qué comida callejera te decepcionó la primera vez?
+bouffe-384|¿Qué pides en lugar de patatas fritas en un menú?|¿Qué pides además de las patatas cuando tienes mucha hambre?
+bouffe-385|¿Qué ocasión justifica ir a un sitio de comida rápida?|¿Qué ocasión justifica pedir una pizza a domicilio?
+bouffe-392|¿Qué picoteo compras en una máquina expendedora?|¿Qué picoteo compras en una gasolinera?
+bouffe-393|¿Qué app abres para buscar una receta?|¿Qué app abres para pedir comida?
+bouffe-397|¿Cuántos tazones de cereales puedes comer seguidos?|¿Cuántos gofres puedes comer seguidos en la merienda?
+bouffe-398|¿En cuántos minutos te tragas el desayuno cuando llegas tarde?|¿En cuántos minutos te tomas el café de la mañana?
+bouffe-403|¿Qué es lo primero que bebes al levantarte?|¿Qué es lo primero que bebes al llegar al trabajo o a clase?
+bouffe-409|¿Cuánto crees que cuesta un brunch decente?|¿Cuánto crees que cuesta un desayuno de hotel?
+bouffe-416|¿Qué sabor de pepito o lionesa eliges?|¿Qué tarta eliges en porción individual?
+bouffe-417|¿Cuántas napolitanas de chocolate compras para ti solo?|¿Cuántas palmeritas te comes de camino a casa?
+bouffe-419|¿Cuánto crees que cuesta una palmera de chocolate?|¿Cuánto crees que cuesta una porción de tarta de queso?
+bouffe-425|¿Cuántos tipos de pan tiene tu panadería?|¿Cuántos pasteles distintos ves en el escaparate?
+bouffe-431|¿Dónde guardas el pan en casa?|¿Dónde guardas las galletas en casa?
+bouffe-434|¿Cuántas barras de pan compras para una comida de ocho?|¿Cuántas barras de pan compras para una barbacoa de ocho?
+bouffe-435|¿Qué frase le dices a la panadera?|¿Qué frase le dices al cajero del súper?
+bouffe-441|¿Cuántas pizcas de sal echas al agua de la pasta?|¿Cuántas cucharadas de azúcar echas a la masa de crepes?
+bouffe-455|¿Cuántas recetas tienes guardadas sin haberlas hecho nunca?|¿Cuántas recetas has probado este mes?
+bouffe-456|¿Qué echas primero en la cesta en el mercado?|¿Qué echas primero en el carro en el súper?
+bouffe-457|¿Cuántos puestos recorres en el mercado antes de comprar?|¿Cuántos pasillos recorres para encontrar un solo producto?
+bouffe-460|¿Cuántos minutos haces cola en la caja sin quejarte?|¿Cuántos minutos haces cola en el puesto de quesos?
+bouffe-473|¿Cuánto cuesta la compra de una semana para una persona?|¿Cuánto cuesta la compra de una semana para cuatro personas?
+bouffe-476|¿Qué contestas cuando el camarero pregunta si todo está bien?|¿Qué contestas cuando el camarero pregunta si ya has elegido?
+bouffe-477|¿Cuántos minutos esperas antes de llamar al camarero?|¿Cuántos minutos esperas el postre en un restaurante?
+bouffe-486|¿Qué comentas al ver la cuenta?|¿Qué comentas al ver el tamaño del plato?
+bouffe-489|¿Qué cosa de la mesa falta siempre en un restaurante?|¿Qué cosa de la mesa pides siempre de más?
+bouffe-519|¿Cuántos botes de mostaza tienes en casa?|¿Cuántas botellas de salsa picante tienes en casa?
+bouffe-520|¿Qué hierba fresca espolvoreas sobre unos tomates?|¿Qué hierba fresca espolvoreas sobre un pescado?
+bouffe-544|¿Cuánto crees que cuesta una caja de macarons?|¿Cuánto crees que cuesta una tarrina de helado artesano?
+bouffe-552|¿Cuántos quesos debe tener una buena tabla?|¿Cuántos quesos distintos sabes nombrar?
+bouffe-560|¿Cómo describirías el olor de un queso muy curado?|¿Cómo describirías el olor de un mercado por la mañana?
+bouffe-563|¿Qué producto típico de la tierra regalarías?|¿Qué producto típico de la tierra compras en un área de servicio?
+bouffe-572|¿Cuántos plátanos compras de una vez?|¿Cuántas manzanas compras de una vez?
+bouffe-612|¿Cuánto crees que cuesta una bolsa de patatas fritas?|¿Cuánto crees que cuesta una bolsa de cacahuetes?
+bouffe-618|¿Qué dices cuando alguien se acaba la bolsa de patatas?|¿Qué dices cuando alguien coge el último trozo?
+bouffe-620|¿Cuántas personas hacen falta para acabarse una pizza grande?|¿Cuántas personas hacen falta para acabarse un bol grande de patatas fritas?
+bouffe-623|¿Cuántas veces te vuelven a servir en una comida familiar?|¿Cuántos platos pruebas en una comida familiar?
+bouffe-624|¿Qué frase se oye siempre en una comida familiar?|¿Qué frase se oye siempre al final de la comida?
+bouffe-626|¿Cuántos minutos se tarda en sentarse a la mesa cuando la comida está lista?|¿Cuántos minutos se tarda en recoger después de una comida familiar?
+bouffe-629|¿Quién repite siempre el primero en la mesa?|¿Quién rebaña siempre las fuentes en la mesa?
+bouffe-633|¿Cuántas veces se oye «¡a comer!» antes de que venga todo el mundo?|¿Cuántas veces se ofrece repetir en la mesa?
+bouffe-638|¿Quién cuenta siempre la misma historia en la mesa?|¿Quién opina siempre sobre la comida en la mesa?
+bouffe-640|¿Cuántas generaciones se juntan alrededor de tu mesa?|¿Cuántas sillas se añaden para las grandes comidas?
+bouffe-647|¿Cuánto cuesta un zumo de naranja natural en una terraza?|¿Cuánto crees que cuesta un té en una terraza?
+bouffe-656|¿Qué bebida pega más con una crepe?|¿Qué bebida pega más con una porción de pizza?
+boulot-001|¿A qué hora empiezas tu jornada de trabajo o de clases?|¿A qué hora haces tu primera pausa?
+boulot-002|¿Cuántos minutos tardas en llegar al trabajo o a clase?|¿Cuántos minutos dura tu pausa para comer?
+boulot-004|¿A qué hora mandas el último correo del día?|¿A qué hora sales del trabajo un viernes?
+boulot-007|¿Cuántas horas necesitas dormir para rendir bien?|¿Cuántas horas de trabajo al día serían lo ideal?
+boulot-008|¿Con cuántos minutos de antelación llegas a una cita importante?|¿Cuántos minutos de retraso son aceptables en una reunión?
+boulot-009|¿Cuántos correos recibes al día?|¿Cuántos correos sin leer tienes ahora mismo?
+boulot-042|¿Cuántos kilómetros haces para ir al trabajo o a clase?|¿Cuántos kilómetros harías cada día por el trabajo de tus sueños?
+boulot-046|¿Cuántas personas debería haber como máximo en una buena reunión?|¿Cuántas personas hay de media en tus reuniones?
+boulot-047|¿Cuántos minutos debería durar una reunión ideal?|¿Cuántos minutos dura tu reunión más habitual?
+boulot-049|¿A qué hora pondrías la reunión ideal?|¿A qué hora caen siempre las reuniones de última hora?
+boulot-050|¿Qué llevas siempre a las reuniones?|¿Qué se olvida siempre alguien en la sala de reuniones?
+boulot-051|¿Qué frase dices para interrumpir con educación?|¿Qué frase dices para cerrar una reunión?
+boulot-052|¿Qué dices cuando te das cuenta de que tenías el micro silenciado desde el principio?|¿Qué dices cuando se te cae la conexión en plena videollamada?
+boulot-058|¿Cuántas personas hablan de verdad en una reunión?|¿Cuántas personas toman notas en una reunión?
+boulot-068|¿A cuántas personas pones en copia en un correo importante?|¿Cuántas veces relees un correo importante antes de enviarlo?
+boulot-069|¿Qué asunto de correo te hace abrir el mensaje al instante?|¿Qué asunto de correo hace que te den ganas de ignorarlo?
+boulot-073|¿En qué momento del día ordenas tus correos?|¿En qué momento del día mandas tus mensajes más importantes?
+boulot-081|¿Qué frase dices al llegar a la máquina de café?|¿Qué frase dices al cruzarte con un compañero en el ascensor?
+boulot-082|¿Cuántos minutos dura una pausa del café de verdad?|¿Cuántos minutos dura tu pausa del café cuando nadie te busca?
+boulot-083|¿Cuántos vasos de plástico usas en un día en la oficina?|¿Cuántos palitos para remover coges en la máquina?
+boulot-087|¿Dónde se cuentan los mejores cotilleos de la oficina?|¿Adónde vas para hacer una llamada tranquilo en la oficina?
+boulot-091|¿A qué hora te vas a comer?|¿A qué hora empiezas a tener hambre en el trabajo?
+boulot-092|¿Cuántos minutos tardas en calentar tu táper en el microondas?|¿Cuántos minutos haces cola delante del microondas?
+boulot-093|¿Cuántos compañeros comen contigo normalmente?|¿Cuántos compañeros hacen falta para una buena comida de equipo?
+boulot-094|¿Qué plato deja olor en toda la oficina?|¿Qué plato es el más práctico para calentar en la oficina?
+boulot-098|¿Cuánto te cuesta la comida un día normal?|¿Cuánto te cuesta la comida cuando te das un capricho?
+boulot-100|¿Qué haces en la pausa para comer cuando ya has terminado de comer?|¿Qué haces en la pausa para comer cuando no tienes hambre?
+boulot-101|¿Qué frase dices para proponer ir a comer?|¿Qué frase dices para rechazar una comida de equipo?
+boulot-104|¿Cuántas pantallas necesitas para trabajar bien?|¿Cuántas pantallas tienes en casa en total?
+boulot-117|¿Cuántas contraseñas tienes que recordar para el trabajo?|¿Cuántas tarjetas o acreditaciones tienes para el trabajo o los estudios?
+boulot-120|¿Qué prenda llevas cuando teletrabajas?|¿Qué prenda te pones para una videollamada importante?
+boulot-121|¿A qué hora te conectas los días de teletrabajo?|¿A qué hora te levantas los días de teletrabajo?
+boulot-129|¿Cuántos minutos antes de una videollamada te conectas?|¿Cuántos minutos esperas solo en una videollamada antes de salirte?
+boulot-131|¿Cuántos días de teletrabajo aguantas antes de echar de menos la oficina?|¿Cuántos días de oficina aguantas antes de echar de menos el teletrabajo?
+boulot-135|¿A cuántos compañeros conoces por su nombre?|¿A cuántos compañeros saludarías si te los cruzaras por la calle?
+boulot-138|¿A cuántos compañeros invitas a tu cumpleaños?|¿Cuántos compañeros te felicitan por tu cumpleaños?
+boulot-140|¿Qué frase dices al llegar el lunes por la mañana?|¿Qué frase dices al irte el viernes por la tarde?
+boulot-141|¿Cuántos nombres te aprendes la primera semana en una empresa nueva?|¿Cuántas caras nuevas ves la primera semana en una empresa nueva?
+boulot-142|¿Qué le regalarías a un compañero que se va?|¿Qué le regalarías a un compañero por su cumpleaños?
+boulot-144|¿Qué cumplido te gustaría recibir de un compañero?|¿Qué cumplido le haces más a menudo a un compañero?
+boulot-145|¿Cuántos compañeros te tratan de tú?|¿A cuántos compañeros tratas de usted?
+boulot-147|¿Qué deporte harías a gusto con tus compañeros?|¿Qué deporte te ves jugando en un torneo entre empresas?
+boulot-152|¿A qué hora sales de la oficina el día antes de una entrega?|¿A qué hora sales de la oficina un día tranquilo?
+boulot-163|¿Qué excusa oyes más cuando alguien entrega tarde?|¿Qué excusa has usado alguna vez para ganar un día más?
+boulot-168|¿Cuántos minutos dura una buena entrevista de trabajo?|¿Cuántos minutos necesita un reclutador para hacerse una idea?
+boulot-200|¿Qué asignatura te gustó más durante tus estudios?|¿Qué asignatura olvidaste más rápido después de tus estudios?
+boulot-201|¿Qué asignatura te habría gustado tener durante tus estudios?|¿Qué asignatura enseñarías si fueras profe?
+boulot-204|¿Cuántos minutos de retraso tolera un profe antes de cerrar la puerta?|¿Cuántos minutos antes de que acabe la clase empiezas a recoger tus cosas?
+boulot-224|¿Cuántas personas firman una tarjeta de despedida?|¿Cuántas personas van de verdad a la despedida?
+boulot-231|¿A los cuántos minutos se habla de trabajo en un aperitivo de equipo?|¿A los cuántos minutos se habla de trabajo en una cena con amigos?
+boulot-238|¿Cuántos minutos antes del final de un examen entregas?|¿Cuántos minutos antes del inicio de un examen llegas?
+boulot-241|¿Qué dices al salir de un examen difícil?|¿Qué dices al ver las preguntas de un examen?
+boulot-243|¿Cuántas veces repasas el examen antes de entregarlo?|¿Cuántas veces lees el enunciado antes de empezar?
+boulot-252|¿Cuánto costaba un menú en el comedor universitario?|¿Cuánto cuesta un bocadillo cerca de tu trabajo?
+boulot-270|¿En qué planta te gustaría trabajar?|¿Cuántos pisos estás dispuesto a subir andando?
+boulot-277|¿Qué día de la semana pones tus citas importantes?|¿Qué día de la semana evitas poner citas?
+boulot-278|¿A qué hora llega el primer compañero a la oficina?|¿A qué hora llegas los días que quieres estar tranquilo?
+boulot-290|¿En qué país te gustaría trabajar durante un año?|¿En qué país te gustaría abrir una tienda?
+boulot-308|¿En qué mes te coges las vacaciones más largas?|¿Qué mes del año es el más tranquilo en el trabajo?
+boulot-315|¿A cuántas personas saludas al llegar por la mañana?|¿A cuántas personas saludas al irte por la tarde?
+boulot-316|¿Qué respondes a «¿qué tal?» un lunes por la mañana?|¿Qué respondes a «¿qué tal?» un viernes por la tarde?
+boulot-320|¿Cuántas veces a la semana llegas justo a tu hora?|¿Cuántas veces a la semana te vas justo a tu hora?
+boulot-321|¿Qué excusa das cuando llegas tarde?|¿Qué excusa das cuando te vas antes de lo previsto?
+boulot-326|¿Qué haces mientras esperas a que arranque el ordenador?|¿Qué haces mientras esperas a que llegue el ascensor?
+boulot-327|¿Cuánto cuesta un cruasán cerca de tu trabajo?|¿Cuánto cuesta un café en una terraza cerca de tu trabajo?
+boulot-328|¿En qué mes del año te cuesta más levantarte para ir a trabajar?|¿En qué mes del año llegas tarde más a menudo?
+boulot-342|¿Cuántas reuniones has tenido para preparar otra reunión?|¿Cuántas reuniones has tenido para hacer balance de otra reunión?
+boulot-343|¿Qué frase se oye siempre al principio de una reunión?|¿Qué frase se oye siempre al final de una reunión?
+boulot-345|¿Cuántos minutos tarde empiezan tus reuniones de media?|¿Cuántos minutos se alargan tus reuniones de media?
+boulot-349|¿Qué momento de una reunión prefieres?|¿Qué momento de una reunión se te hace más largo?
+boulot-352|¿Cuántas diapositivas toleras en una presentación?|¿Cuántas diapositivas preparas para una presentación de diez minutos?
+boulot-353|¿A partir de qué hora se vuelve insoportable una reunión?|¿Sobre qué hora es más productiva una reunión?
+boulot-354|¿Qué dices cuando no has escuchado la pregunta en una reunión?|¿Qué dices cuando te piden tu opinión por sorpresa en una reunión?
+boulot-363|¿Cuántos minutos pasas escribiendo un correo delicado?|¿Cuántos minutos pasas releyendo un correo delicado?
+boulot-364|¿Cuántos archivos adjuntas en un solo correo?|¿Cuántos destinatarios pones en un solo correo?
+boulot-393|¿A qué hora terminas la jornada cuando teletrabajas?|¿A qué hora terminas la jornada en la oficina?
+boulot-401|¿Qué le dices a un compañero que habla demasiado alto por teléfono?|¿Qué le dices a un compañero que canta sin darse cuenta?
+boulot-408|¿Qué ruido de la oficina te molesta más?|¿Qué ruido de la oficina ya ni notas?
+boulot-430|¿A qué hora está más lleno el comedor?|¿A qué hora está más tranquilo el comedor?
+boulot-433|¿Cuánto cuesta una bandeja completa en el comedor?|¿Cuánto cuesta un menú de bocadillo, bebida y postre?
+boulot-445|¿Cuántos nombres de compañeros sigues confundiendo?|¿Cuántos compañeros te llaman por un mote?
+boulot-452|¿Qué le dices a un compañero que celebra su cumpleaños en la oficina?|¿Qué le dices a un compañero que celebra su jubilación?
+boulot-470|¿Qué palabra le dices a tu jefe para pedir un día libre?|¿Qué palabra le dices a tu jefe para avisar de que llegas tarde?
+boulot-472|¿Qué película resume mejor tu relación con tu jefe?|¿Qué película resume mejor tu semana de trabajo?
+boulot-487|¿Cuántos minutos puedes trabajar sin mirar las notificaciones?|¿Cuántos minutos puedes trabajar sin levantarte?
+boulot-506|¿Cuántas horas de clase tenías tu día más cargado?|¿Cuántas horas de clase tenías tu día más ligero?
+boulot-507|¿Qué objeto sacabas primero de la mochila en clase?|¿Qué objeto guardabas el último al acabar la clase?
+boulot-510|¿Qué frase dice un profe cuando suena el timbre?|¿Qué frase dice un profe antes de un examen sorpresa?
+boulot-511|¿Cuántos minutos de descanso había entre clase y clase?|¿Cuántos minutos hacían falta para cambiar de aula entre clase y clase?
+boulot-512|¿Cuántas páginas tenía tu trabajo de clase más largo?|¿Cuántas páginas tenía tu trabajo de fin de grado o tu memoria más larga?
+boulot-527|¿Cuántos minutos tardas en leerte todo el enunciado?|¿Cuántos minutos le dedicas a la primera pregunta?
+boulot-534|¿Cuántos minutos debe durar un oral para convencer a un tribunal?|¿Cuántos minutos pasa un tribunal haciendo preguntas después de un oral?
+boulot-557|¿Quién te revisa el currículum antes de enviarlo?|¿Quién te hace ensayar antes de una entrevista?
+boulot-561|¿Qué le dices al reclutador al irte?|¿Qué le dices al reclutador al llegar?
+boulot-562|¿Qué profesión exige más paciencia?|¿Qué profesión exige más precisión?
+boulot-564|¿Qué profesión tiene los horarios más raros?|¿Qué profesión tiene el uniforme más reconocible?
+boulot-578|¿Qué tarea odiabas en tu primer trabajo?|¿Qué tarea hacías mejor en tu primer trabajo?
+boulot-582|¿Qué personaje de película sería un camarero desastroso?|¿Qué personaje de película sería un vendedor implacable?
+boulot-583|¿Qué le dices a un cliente que llega justo antes de cerrar?|¿Qué le dices a un cliente que pide hablar con el encargado?
+boulot-605|¿En qué ciudad te encantaría tener una oficina con vistas?|¿En qué ciudad te gustaría pasar una semana teletrabajando?
+voyage-001|¿Qué país visitarías con un billete de avión gratis?|¿Qué país tienes más ganas de volver a ver?
+voyage-009|¿Qué capital te gustaría visitar?|¿Qué capital te parece la más sobrevalorada?
+voyage-013|¿Qué monumento te gustaría ver con tus propios ojos?|¿Qué monumento te decepcionó en persona?
+voyage-015|¿A qué parque de atracciones te gustaría ir?|¿Qué lugar turístico sueñas con visitar?
+voyage-018|¿Cuántas horas de vuelo estás dispuesto a hacer para unas vacaciones?|¿Cuántas horas de coche estás dispuesto a hacer para un fin de semana?
+voyage-019|¿Cuántas horas de diferencia horaria estás dispuesto a aguantar?|¿Cuántas horas de tren estás dispuesto a hacer del tirón?
+voyage-020|¿Qué objeto te olvidas siempre cuando viajas?|¿Qué objeto te llevas siempre cuando viajas?
+voyage-021|¿Qué es lo primero que metes en la maleta?|¿Qué es lo último que sacas de la maleta?
+voyage-022|¿Qué recuerdo te traes siempre de un viaje?|¿Qué recuerdo de viaje anda tirado por tu casa?
+voyage-024|¿Cuántas maletas te llevas para una semana?|¿Cuántos pares de zapatos te llevas para una semana?
+voyage-026|¿A qué hora llegas al aeropuerto para un vuelo a las diez?|¿A qué hora te levantas el primer día de vacaciones?
+voyage-027|¿Cuántos euros al día hay que calcular en vacaciones?|¿Cuántos euros te gastas en recuerdos?
+voyage-029|¿Qué actividad de riesgo te atreverías a hacer en vacaciones?|¿Qué actividad de vacaciones te da miedo?
+voyage-033|¿Cuántas fotos haces al día en vacaciones?|¿Cuántas fotos guardas de verdad después de un viaje?
+voyage-034|¿Cuántos minutos puedes hacer cola para una atracción?|¿Cuántos minutos de retraso de un vuelo aguantas sin quejarte?
+voyage-039|¿Cuántas veces has cogido un avión?|¿Cuántas veces has cogido el tren este año?
+voyage-044|¿Cuántos días antes de salir haces la maleta?|¿Cuántos días después de volver deshaces la maleta?
+voyage-061|¿Cuántos minutos pasas buscando el pasaporte antes de salir?|¿Cuántos minutos pasas comprobando que no te olvidas nada?
+voyage-063|¿Cuántas horas antes de un vuelo de largo recorrido llegas al aeropuerto?|¿Cuántas horas antes de un vuelo corto llegas al aeropuerto?
+voyage-068|¿Cuánto cuesta una botella de agua en el aeropuerto?|¿Cuánto cuesta un bocadillo en el aeropuerto?
+voyage-071|¿Qué objeto te confiscan en el control de seguridad?|¿Qué objeto hace pitar el arco de seguridad?
+voyage-077|¿Cuántas veces miras tu tarjeta de embarque antes del vuelo?|¿Cuántas veces miras el panel de salidas antes de embarcar?
+voyage-080|¿Qué aviso oyes siempre en el aeropuerto?|¿Qué aviso oyes siempre en el tren?
+voyage-093|¿Cuántos minutos de turbulencias aguantas sin entrar en pánico?|¿Cuántos minutos puedes estar sentado en el avión sin levantarte?
+voyage-115|¿Qué haces cuando alguien está sentado en tu asiento reservado?|¿Qué haces cuando tu vecino de tren habla muy alto por teléfono?
+voyage-122|¿Qué palabra dices cuando tu tren se va sin ti?|¿Qué palabra dices cuando ves tu habitación de hotel?
+voyage-132|¿Qué frase se oye siempre en el asiento de atrás del coche?|¿Qué frase dice el conductor cuando se pierde?
+voyage-136|¿Cuánto cuesta llenar el depósito de gasolina?|¿Cuánto cuestan los peajes para cruzar España?
+voyage-146|¿A qué hora bajas a desayunar en el hotel?|¿A qué hora suele cerrar el desayuno de un hotel?
+voyage-149|¿Cuánto estás dispuesto a pagar por una noche de hotel?|¿Cuánto estás dispuesto a pagar por una noche en una cabaña en un árbol?
+voyage-150|¿Cuántas noches puedes dormir en una tienda de campaña?|¿Cuántas noches puedes dormir en la habitación compartida de un albergue?
+voyage-153|¿Qué es lo primero que haces al entrar en una habitación de hotel?|¿Qué es lo primero que haces al llegar al camping?
+voyage-155|¿Qué objeto pides en recepción?|¿Qué objeto falta siempre en una habitación de hotel?
+voyage-156|¿A qué hora dejas la habitación el último día?|¿A qué hora te gustaría poder dejar la habitación?
+voyage-162|¿Qué nombre le pondrías a tu camping?|¿Qué nombre le pondrías a tu albergue juvenil?
+voyage-163|¿Qué sitio prefieres de un hotel aparte de tu habitación?|¿Qué sitio prefieres de un camping aparte de tu tienda?
+voyage-164|¿Cuánto cuesta una noche de camping?|¿Cuánto cuesta el desayuno de un hotel?
+voyage-165|¿Cuántos minutos tardas en instalarte en una habitación de hotel?|¿Cuántos minutos tardas en recogerlo todo antes de dejar el hotel?
+voyage-166|¿Cuántas reseñas lees antes de reservar un hotel?|¿Cuántas fotos miras antes de reservar un hotel?
+voyage-176|¿En qué país pasaste tus mejores vacaciones?|¿En qué país pasaste tus peores vacaciones?
+voyage-179|¿Cuántos países distintos te gustaría ver en tu vida?|¿Cuántos países distintos habías visto antes de los 18?
+voyage-182|¿A qué edad hiciste tu primer viaje al extranjero?|¿A qué edad te fuiste de vacaciones sin tus padres?
+voyage-186|¿En qué país te gustaría vivir seis meses?|¿En qué país te gustaría pasar solo tres días?
+voyage-200|¿Qué ciudad conoces sin haber ido nunca?|¿Qué ciudad sientes que conoces gracias a las películas?
+voyage-214|¿Cuántas veces comes en un restaurante durante una semana de vacaciones?|¿Cuántas veces cocinas durante una semana de vacaciones?
+voyage-216|¿Qué plato español echas más de menos cuando estás en el extranjero?|¿Qué plato español les encanta a los extranjeros?
+voyage-219|¿Qué plato pides en el restaurante del hotel?|¿Qué plato pides al servicio de habitaciones?
+voyage-222|¿Qué cadena de comida buscas en el extranjero cuando tienes hambre?|¿Qué cadena de comida encuentras en todos los aeropuertos?
+voyage-246|¿Cuántos viajes haces al año?|¿Cuántos viajes te gustaría hacer al año?
+voyage-263|¿Cuánto cuesta un fin de semana con amigos?|¿Cuánto cuesta una semana de vacaciones con amigos?
+voyage-270|¿Cómo te mueves por una ciudad extranjera?|¿Cómo te mueves por una isla?
+voyage-271|¿Qué vehículo alquilas en vacaciones?|¿Qué vehículo sueñas con conducir en vacaciones?
+voyage-272|¿Cuántos minutos andando aceptas para llegar a la playa?|¿Cuántos minutos de autobús aceptas para una excursión?
+voyage-275|¿Qué transporte típico te gustaría probar en el extranjero?|¿Qué transporte típico has probado ya en el extranjero?
+voyage-282|¿Qué haces cuando tu maleta no llega?|¿Qué haces cuando tu hotel no se parece a las fotos?
+voyage-296|¿A qué hora te levantas para ver amanecer en un viaje?|¿A qué hora sales de ruta de senderismo en un viaje?
+voyage-298|¿A qué país irías por la nieve?|¿A qué país irías a buscar el sol en invierno?
+voyage-306|¿Cómo llamarías al grupo de chat de un viaje con amigos?|¿Cómo llamarías al álbum de fotos de un viaje con amigos?
+voyage-350|¿Qué documento siempre te da miedo olvidar cuando viajas?|¿Qué documento fotografías antes de irte al extranjero?
+voyage-351|¿Cuántos euros llevas en efectivo cuando viajas?|¿Cuántos euros cambias antes de irte al extranjero?
+voyage-352|¿Qué frase repites antes de salir de casa para un viaje?|¿Qué frase repites al llegar al aeropuerto?
+voyage-355|¿A qué hora te levantas para un vuelo a las siete de la mañana?|¿A qué hora sales de casa para un vuelo a las siete de la mañana?
+voyage-367|¿Cuántas películas ves en un vuelo de largo recorrido?|¿Cuántas horas duermes en un vuelo de largo recorrido?
+voyage-371|¿Qué vecino de asiento temes más?|¿Qué vecino de asiento te encantaría tener?
+voyage-378|¿Qué dices cuando el tren se para en mitad de la vía?|¿Qué dices cuando anuncian un retraso en tu tren?
+soiree-001|¿A qué hora llegas a una fiesta que empieza a las ocho?|¿A qué hora empiezas a bostezar en una fiesta?
+soiree-002|¿Cuántas personas hacen falta para una buena fiesta?|¿A cuántas personas puedes recibir en tu casa?
+soiree-003|¿Qué llevas cuando te invitan a una casa?|¿Qué sacas para el aperitivo?
+soiree-004|¿Cuántos mensajes hacen falta para organizar un plan en grupo?|¿Cuántas personas contestan de verdad en el grupo de tus amigos?
+soiree-005|¿Cuántos minutos tardas en arreglarte antes de salir?|¿Cuántos minutos se tarda en elegir restaurante en grupo?
+soiree-006|¿Con cuántos días de antelación organizas un cumpleaños?|¿Con cuántos días de antelación reservas en un restaurante?
+soiree-007|¿Qué objeto no puede faltar nunca en una fiesta?|¿Qué objeto se olvida siempre en un pícnic?
+soiree-008|¿De qué te disfrazarías para una fiesta de disfraces?|¿De qué te has disfrazado alguna vez?
+soiree-009|¿Dónde celebrarías el cumpleaños perfecto?|¿Dónde pasarías la Nochevieja ideal?
+soiree-010|¿Qué tipo de sitio eliges para quedar con amigos?|¿Qué tipo de sitio eliges para celebrar una buena noticia?
+soiree-011|¿Qué día de la semana es ideal para salir de fiesta?|¿Qué día de la semana es ideal para un brunch?
+soiree-016|¿Qué juego propones en una fiesta?|¿Qué juego te hace reír más en una fiesta?
+soiree-026|¿Qué tarta de cumpleaños eliges?|¿Qué tarta sabes hacer?
+soiree-027|¿Qué peli verías con amigos?|¿Qué peli hace reír siempre a un grupo?
+soiree-028|¿Qué serie recomendarías a todo el grupo?|¿Qué serie ves a escondidas?
+soiree-029|¿Qué dices para irte discretamente de una fiesta?|¿Qué dices al llegar a una fiesta?
+soiree-030|¿Qué nombre le pondrías a tu grupo de amigos?|¿Qué nombre le pondrías a tu equipo en un concurso de preguntas?
+soiree-031|¿A qué hora vuelves a casa después de una buena fiesta?|¿A qué hora termina una buena cena con amigos?
+soiree-032|¿Cuántas horas dura un buen aperitivo?|¿Cuántas horas dura una buena partida de juego de mesa?
+soiree-033|¿A qué hora empieza un buen aperitivo?|¿A qué hora hay que encender la barbacoa?
+soiree-034|¿Cuántas veces sales de fiesta al mes?|¿Cuántas veces vas a un restaurante al mes?
+soiree-035|¿Cuántos juegos de mesa tienes?|¿De cuántos juegos de mesa te sabes las reglas de memoria?
+soiree-038|¿Cuántos invitados como máximo para una cena sentados?|¿Cuántas sillas tienes en casa?
+soiree-039|¿Cuántas fotos de grupo hay que hacer para que salga una buena?|¿Cuántas fotos haces en una fiesta?
+soiree-040|¿Cuántas veces al año tienes invitados en casa?|¿Cuántas veces al año vas a un concierto?
+soiree-041|¿Cuántos minutos pasas recogiendo antes de que lleguen los invitados?|¿Cuántos minutos pasas recogiendo después de que se vayan los invitados?
+soiree-044|¿Cuántas bolsas de basura preparas para una fiesta?|¿Cuántas bolsas de basura llenas después de una fiesta?
+soiree-053|¿Dónde escondes el desorden antes de que lleguen los invitados?|¿Dónde escondes los regalos en un cumpleaños sorpresa?
+soiree-054|¿Cuántos minutos esperas antes de escribir a un invitado que llega tarde?|¿Cuántos minutos de retraso son aceptables para una fiesta?
+soiree-060|¿Qué pones en una tabla de aperitivo?|¿Qué coges primero de una tabla de aperitivo?
+soiree-064|¿Qué pizza pides para todo un grupo?|¿Qué pizza evitas pedir para un grupo?
+soiree-066|¿Qué salsa sirves con los nuggets?|¿Qué salsa sirves con las patatas fritas?
+soiree-075|¿A qué hora sacas las patatas fritas?|¿A qué hora te sientas a la mesa?
+soiree-110|¿Quién hace siempre trampas en los juegos de tu grupo?|¿Quién pierde siempre en los juegos de tu grupo?
+soiree-116|¿Cuántos jugadores hacen falta para una buena partida de hombres lobo?|¿Cuántos jugadores hacen falta para una buena partida de cartas?
+soiree-127|¿Quién acapara siempre el altavoz en una fiesta?|¿Quién elige siempre el restaurante en tu grupo?
+soiree-154|¿Cuántos minutos pasas buscando aparcamiento antes de una fiesta?|¿Cuántos minutos tardas en dar con el botón correcto del telefonillo antes de una fiesta?
+soiree-155|¿Qué regalo le llevas a un anfitrión al que apenas conoces?|¿Qué regalo le llevas a un amigo para inaugurar su piso?
+soiree-156|¿Cuántos besos das para saludar?|¿A cuántas personas saludas antes de quitarte el abrigo?
+soiree-157|¿Qué dices cuando llegas y no conoces a nadie?|¿Qué dices cuando llegas el primero a una fiesta?
+soiree-166|¿Cuántas veces dices «me voy ya» antes de irte de verdad?|¿De cuántas personas te despides antes de irte de una fiesta?
+soiree-171|¿Qué es lo primero que haces al volver de fiesta?|¿Qué es lo primero que haces al despertarte después de una fiesta?
+soiree-175|¿En qué momento sabes que es hora de irse?|¿En qué momento sabes que una fiesta ha salido bien?
+soiree-176|¿Cuánto estás dispuesto a pagar por un taxi para volver de fiesta?|¿Cuánto estás dispuesto a pagar por una entrada de concierto?
+soiree-177|¿Qué excusa pones para irte pronto?|¿Qué excusa pones para no ir?
+soiree-178|¿A qué hora volviste de tu fiesta más larga?|¿A qué hora sale el sol en verano?
+soiree-183|¿Qué bollo vas a comprar para todos?|¿Qué bollo compras solo para ti?
+soiree-187|¿Cuántas horas duermes después de una fiesta?|¿Cuántas horas de siesta te echas al día siguiente de una fiesta?
+soiree-213|¿Qué plato haces cuando tienes invitados vegetarianos?|¿Qué plato te sale mal cada vez?
+soiree-217|¿Qué plato se comparte en el centro de la mesa?|¿Qué plato es imposible de compartir?
+soiree-222|¿Qué plato es demasiado arriesgado para intentarlo delante de invitados?|¿Qué plato siempre has querido aprender a cocinar?
+soiree-225|¿Cuántas personas hacen falta para guardar el secreto de una sorpresa?|¿Cuántas personas acaban yéndose de la lengua?
+soiree-227|¿Cuánto pones para un regalo conjunto entre colegas?|¿Cuánto cuesta una tarta de cumpleaños para veinte personas?
+soiree-229|¿Con cuántos minutos de antelación quedas para una fiesta sorpresa?|¿Cuántos minutos puedes aguantarte la risa?
+soiree-230|¿Cuántas velas pones de verdad en una tarta?|¿En cuántos trozos cortas una tarta de cumpleaños?
+soiree-231|¿Qué actividad regalarías por un cumpleaños?|¿Qué actividad harías para celebrar una buena noticia en el trabajo?
+soiree-233|¿Adónde dices que vais para llevar a alguien a su fiesta sorpresa?|¿Dónde quedas con un amigo para un simple café?
+soiree-234|¿Qué decoración sacas para un cumpleaños?|¿Qué decoración se queda puesta todo el año después de una fiesta?
+soiree-237|¿Qué dices para que todos sonrían en una foto?|¿Qué dices para empezar una cuenta atrás?
+soiree-240|¿Dónde se hace la foto de grupo en una fiesta?|¿Dónde guardas tus fotos antiguas?
+soiree-241|¿En qué momento de la noche se hace la foto de grupo?|¿En qué momento de la noche está todo el mundo con el móvil?
+soiree-251|¿Cuántos invitados cancelan el mismo día?|¿Cuántos invitados se presentan con alguien imprevisto?
+soiree-253|¿Cuánto le pides a cada uno para la compra de una fiesta?|¿Cuánto cuesta una pizza para llevar?
+soiree-259|¿Qué llevas para estar cómodo viendo una peli?|¿Qué llevas para estar cómodo en un pícnic?
+soiree-262|¿Qué dices cuando alguien habla durante la peli?|¿Qué dices cuando alguien te destripa el final de una serie?
+soiree-290|¿Qué dices al ver por primera vez el piso de un amigo?|¿Qué dices al probar un plato que le ha salido mal a un amigo?
+soiree-294|¿Cuántas veces miras el móvil durante una fiesta?|¿Cuántas veces vas a la cocina durante una fiesta?
+soiree-317|¿Qué excusa oyes más para rechazar una fiesta?|¿Qué excusa usas más para rechazar una fiesta?
+soiree-330|¿Cuánto te gastas en decoración para una fiesta en casa (en euros)?|¿Cuánto te gastas en un regalo de cumpleaños entre amigos (en euros)?
+soiree-420|¿Cuánto cuesta una caja de velas de cumpleaños (en euros)?|¿Cuánto cuesta una tarjeta de cumpleaños en una papelería (en euros)?
+soiree-427|¿Cuántas llamadas recibes el día de tu cumpleaños?|¿Cuántas llamadas haces al mes para felicitar cumpleaños?
+soiree-430|¿Qué frase dices al darle su regalo a un amigo?|¿Qué frase dices al sacar la tarta?
+soiree-431|¿Con cuántos días de antelación compras un regalo?|¿Cuántos días después de la fecha celebras un cumpleaños atrasado?
+soiree-433|¿Cuántos minutos tardas en decorar un local para un cumpleaños?|¿Cuántos minutos tardas en inflar todos los globos?
+soiree-455|¿Qué dices cuando el plato está demasiado salado?|¿Qué dices cuando te vuelven a servir y ya no tienes hambre?
+soiree-466|¿Qué dices para rechazar un plato con educación?|¿Qué dices para pedir una segunda ración?
+soiree-474|¿Qué tema de conversación sacas cuando se hace el silencio?|¿Qué tema de conversación evitas en una fiesta?
+soiree-496|¿Qué frase dices para convencer a un amigo de compartir un taxi?|¿Qué frase dices para convencer a un amigo de volver andando?
+soiree-498|¿Hasta qué hora te quedas en una fiesta la noche antes de un día de trabajo?|¿Hasta qué hora te quedas en una fiesta la noche antes de un festivo?
+soiree-513|¿Con cuántas personas compartes taxi al volver?|¿Con cuántas personas vuelves andando?
+soiree-542|¿Sobre qué hora les pides educadamente a los invitados que se vayan?|¿Sobre qué hora empiezas a recoger disimuladamente durante la fiesta?
+soiree-544|¿Cuántos vasos se quedan sin dueño al final de la fiesta?|¿Cuántos vasos llevan un nombre escrito con rotulador?
+soiree-554|¿Cuántos plenos haces en una partida de bolos?|¿Cuántos hoyos en uno haces en una partida de minigolf?
+soiree-555|¿Qué plan propones para un grupo de diez personas?|¿Qué plan propones para una salida de tres personas?
+soiree-557|¿Cuánto cuesta una partida de bolos (en euros)?|¿Cuánto cuesta una entrada de cine (en euros)?
+soiree-560|¿A qué hora reservas mesa para un grupo?|¿A qué hora reservas una sesión de cine con amigos?
+soiree-562|¿Cuántas personas hacen falta para un buen escape room?|¿Cuántas personas hacen falta para una partida de láser tag?
+soiree-564|¿Qué plan propones cuando llueve?|¿Qué plan propones cuando hace bueno?
+sport-001|¿Qué deporte practicabas en el instituto?|¿Qué deporte te daba más miedo en Educación Física?
+sport-002|¿Qué deporte podrías ver durante tres horas seguidas?|¿Qué deporte te gustaría ver en los Juegos Olímpicos?
+sport-003|¿Cuántas vueltas a la pista podrías correr sin parar?|¿Cuántos largos de piscina podrías hacer seguidos?
+sport-004|¿Cuántas flexiones puedes hacer seguidas?|¿Cuántos abdominales puedes hacer seguidos?
+sport-005|¿Cuántos minutos dura tu calentamiento ideal?|¿Cuántos minutos dura tu sesión de estiramientos?
+sport-006|¿Qué deportista te gustaría conocer?|¿Qué deportista sería un buen presentador de tele?
+sport-007|¿En qué ciudad te gustaría ver una final?|¿En qué ciudad te gustaría correr un maratón?
+sport-008|¿Qué deporte de equipo prefieres?|¿Qué deporte de equipo es el más difícil de arbitrar?
+sport-009|¿Qué material deportivo tienes en casa?|¿Qué material deportivo compraste y nunca has usado?
+sport-010|Del 1 al 10, ¿cómo de deportista eres?|Del 1 al 10, ¿cuánto te gusta sudar?
+sport-011|¿A qué hora es ideal salir a correr?|¿A qué hora vas al gimnasio?
+sport-012|¿Qué deporte de tabla o de nieve te gustaría dominar?|¿Qué deporte acuático te gustaría probar?
+sport-013|¿Qué país es el mejor en fútbol?|¿Qué país organizaría los mejores Juegos Olímpicos?
+sport-014|¿De qué color sería la camiseta de tu equipo?|¿De qué color son tus zapatillas favoritas?
+sport-015|¿Qué prueba olímpica podrías ganar con un año de entrenamiento?|¿Qué prueba olímpica es la más impresionante?
+sport-016|¿Cuántos goles meterías en diez tiros contra un portero profesional?|¿Cuántas canastas meterías en diez tiros libres?
+sport-017|¿A qué edad debería retirarse un deportista?|¿A qué edad empezaste tu primer deporte?
+sport-018|¿Cuántos segundos aguantas haciendo plancha?|¿Cuántos segundos aguantas en equilibrio sobre un pie?
+sport-019|¿Qué deporte solo ves durante las grandes competiciones?|¿Qué deporte no entiendes para nada?
+sport-020|¿Qué gritas cuando tu equipo marca?|¿Qué dices cuando el árbitro se equivoca?
+sport-021|¿Cuántas veces al año vas a ver un partido en directo?|¿Cuántos partidos ves por la tele al mes?
+sport-022|¿Qué llevas en tu bolsa de deporte?|¿Qué se te olvida siempre llevar al deporte?
+sport-023|¿Qué deporte inventarías si pudieras?|¿Qué deporte sería divertido practicar en pijama?
+sport-025|¿Cuántas horas de deporte a la semana serían lo ideal?|¿Cuántas horas de deporte haces de verdad a la semana?
+sport-026|¿Dónde prefieres hacer deporte?|¿Dónde sales a correr cerca de casa?
+sport-028|¿Cuánto cuestan unas buenas zapatillas (en euros)?|¿Cuánto pagarías por una entrada para una final (en euros)?
+sport-037|¿Qué le dices a alguien que lleva veinte minutos acaparando una máquina?|¿Qué le dices a alguien que te pregunta si puede alternar contigo?
+sport-039|¿Cuánto pagas al mes por el gimnasio (en euros)?|¿Cuánto debería costar al mes un gimnasio para ser justo (en euros)?
+sport-058|¿Cuántos corredores participan en un gran maratón (en miles)?|¿Cuántos espectadores caben en un gran estadio (en miles)?
+sport-070|¿Cuántos minutos te quedas en el agua en la piscina?|¿Cuántos minutos pasas en el vestuario de la piscina?
