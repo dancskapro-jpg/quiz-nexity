@@ -149,7 +149,7 @@ classique-254|How much does a phone screen repair cost, in your opinion (in poun
 classique-255|Who do you call first to share good news?|Who do you call when you're bored on a Sunday?
 classique-256|How many friends could help you move house tomorrow?|How many friends know your favourite dish?
 classique-258|Where do you meet up with your friends most often?|Where would you arrange to meet someone you don't know yet?
-classique-259|How many people do you need for a good game night?|How many people can you invite to dinner without stressing?
+classique-259|How many people do you need for a good games night?|How many people can you invite to dinner without stressing?
 classique-260|What time do you leave a dinner at friends'?|What time do you leave a birthday party?
 classique-261|What pet name do you give a baby?|What pet name do you give a puppy?
 classique-262|What do you bring when you're invited round to friends'?|What do you offer when friends drop round unannounced?
@@ -282,7 +282,7 @@ bouffe-254|How many packets of pasta are in your cupboard?|How many tins are in 
 bouffe-256|What recipe did you learn online?|What recipe did someone in your family teach you?
 bouffe-264|How much do you think a kilo of tomatoes costs?|How much do you think a kilo of cherries costs?
 bouffe-280|How many ice creams do you eat during a week's holiday?|How many times do you eat out during a week's holiday?
-bouffe-282|What do you eat at the fair?|What do you eat at a stadium or a concert?
+bouffe-282|What do you eat at the funfair?|What do you eat at a stadium or a concert?
 bouffe-285|How much do you think candyfloss costs?|How much do you think a sugar crêpe from a street stall costs?
 bouffe-297|How many pizzas should you order for six people?|How many loaves of bread should you buy for ten people?
 bouffe-300|At what age can a kid make pancakes alone?|At what age can you let a kid use a kitchen knife?
@@ -472,3 +472,163 @@ voyage-068|How much does a bottle of water cost at the airport?|How much does a 
 voyage-071|What item gets confiscated at security?|What item sets off the metal detector?
 voyage-077|How many times do you check your boarding pass before the flight?|How many times do you look at the departures board before boarding?
 voyage-080|What announcement do you always hear at the airport?|What announcement do you always hear on the train?
+voyage-093|How many minutes of turbulence can you take without panicking?|How many minutes can you stay seated on a plane without getting up?
+voyage-115|What do you do when someone is sitting in your reserved seat?|What do you do when the person next to you on the train is talking loudly on the phone?
+voyage-122|What word do you say when your train leaves without you?|What word do you say when you first see your hotel room?
+voyage-132|What do you always hear from the back seat of the car?|What does the driver say when they're lost?
+voyage-136|How much does a full tank of petrol cost?|How much do the tolls cost on a long drive across the country?
+voyage-146|What time do you go down to breakfast at a hotel?|What time does hotel breakfast usually end?
+voyage-149|How much would you pay for a night in a hotel?|How much would you pay for a night in a treehouse?
+voyage-150|How many nights can you sleep in a tent?|How many nights can you sleep in a hostel dorm?
+voyage-153|What's the first thing you do when you walk into a hotel room?|What's the first thing you do when you arrive at a campsite?
+voyage-155|What item do you ask for at reception?|What item is always missing from a hotel room?
+voyage-156|What time do you check out on the last day?|What time would you like to be able to check out?
+voyage-162|What would you name your campsite?|What would you name your youth hostel?
+voyage-163|What's your favourite place in a hotel apart from your room?|What's your favourite place at a campsite apart from your tent?
+voyage-164|How much does a night at a campsite cost?|How much does a hotel breakfast cost?
+voyage-165|How many minutes does it take you to settle into a hotel room?|How many minutes does it take you to pack everything up before leaving a hotel?
+voyage-166|How many reviews do you read before booking a hotel?|How many photos do you look at before booking a hotel?
+voyage-176|What country did you have your best holiday in?|What country did you have your worst holiday in?
+voyage-179|How many different countries would you like to see in your life?|How many different countries had you seen before you turned 18?
+voyage-182|How old were you on your first trip abroad?|How old were you when you went on holiday without your parents?
+voyage-186|What country would you like to live in for six months?|What country would you like to spend just three days in?
+voyage-200|What city do you know without ever having been there?|What city do you feel like you know thanks to films?
+voyage-214|How many times do you eat out during a week's holiday?|How many times do you cook during a week's holiday?
+voyage-216|What British dish do you miss most when you're abroad?|What British dish do foreigners love?
+voyage-219|What dish do you order at the hotel restaurant?|What dish do you order from room service?
+voyage-222|What fast-food chain do you look for abroad when you're hungry?|What fast-food chain do you find in every airport?
+voyage-246|How many trips do you take per year?|How many trips would you like to take per year?
+voyage-263|How much does a weekend away with friends cost?|How much does a week's holiday with friends cost?
+voyage-270|How do you get around in a foreign city?|How do you get around on an island?
+voyage-271|What vehicle do you hire on holiday?|What vehicle do you dream of driving on holiday?
+voyage-272|How many minutes of walking are you OK with to get to the beach?|How many minutes on a bus are you OK with for an excursion?
+voyage-275|What local form of transport would you like to try abroad?|What local form of transport have you tried abroad?
+voyage-282|What do you do when your suitcase doesn't show up?|What do you do when your hotel looks nothing like the photos?
+voyage-296|What time do you get up to see a sunrise while travelling?|What time do you set off on a hike while travelling?
+voyage-298|What country would you go to for snow?|What country would you go to for some winter sun?
+voyage-306|What would you name the group chat for a trip with friends?|What would you name the photo album for a trip with friends?
+voyage-350|What document are you always afraid of forgetting when travelling?|What document do you take a photo of before going abroad?
+voyage-351|How much cash (in pounds) do you keep on you when travelling?|How much money (in pounds) do you change before going abroad?
+voyage-352|What do you keep repeating before leaving the house for a trip?|What do you keep repeating when you get to the airport?
+voyage-355|What time do you get up for a 7am flight?|What time do you leave home for a 7am flight?
+voyage-367|How many films do you watch on a long-haul flight?|How many hours do you sleep on a long-haul flight?
+voyage-371|What kind of seatmate do you dread the most?|What kind of seatmate would you dream of having?
+voyage-378|What do you say when the train stops in the middle of nowhere?|What do you say when a delay is announced for your train?
+soiree-001|What time do you show up to a party that starts at 8pm?|What time do you start yawning at a party?
+soiree-002|How many people do you need for a good party?|How many people can you fit at your place?
+soiree-003|What do you bring when you're invited over?|What do you serve as snacks before dinner?
+soiree-004|How many messages does it take to plan a party in a group chat?|How many people actually reply in your friends' group chat?
+soiree-005|How many minutes do you need to get ready before going out?|How many minutes does it take a group to pick a restaurant?
+soiree-006|How many days in advance do you plan a birthday?|How many days in advance do you book a restaurant?
+soiree-007|What item should never be missing at a party?|What item does everyone always forget on a picnic?
+soiree-008|What costume would you wear to a fancy dress party?|What costume have you already worn?
+soiree-009|Where would you throw the perfect birthday party?|Where would you spend the perfect New Year's Eve?
+soiree-010|What kind of place do you pick to meet up with friends?|What kind of place do you pick to celebrate good news?
+soiree-011|What day of the week is perfect for a party?|What day of the week is perfect for brunch?
+soiree-016|What game do you suggest at a party?|What game makes you laugh the most at a party?
+soiree-026|What birthday cake do you pick?|What cake do you know how to bake?
+soiree-027|What film should you watch with friends?|What film always makes a group laugh?
+soiree-028|What show would you recommend to the whole group?|What show do you secretly watch?
+soiree-029|What do you say to sneak out of a party?|What do you say when you arrive at a party?
+soiree-030|What name would you give your friend group?|What name would you give your quiz team?
+soiree-031|What time do you get home from a good party?|What time does a good dinner with friends end?
+soiree-032|How many hours should pre-dinner drinks and snacks last?|How many hours should a good board game session last?
+soiree-033|What time should pre-dinner drinks and snacks start?|What time should you light the barbecue?
+soiree-034|How many parties do you go to a month?|How many times do you eat out a month?
+soiree-035|How many board games do you own?|How many board games do you know the rules to by heart?
+soiree-038|What's the most guests you can have for a sit-down dinner?|How many chairs do you have at home?
+soiree-039|How many group photos does it take to get one good one?|How many photos do you take at a party?
+soiree-040|How many times a year do you have people over?|How many times a year do you go to a concert?
+soiree-041|How many minutes do you spend tidying up before the guests arrive?|How many minutes do you spend tidying up after the guests leave?
+soiree-044|How many bin bags do you set aside for a party?|How many bin bags do you fill after a party?
+soiree-053|Where do you hide the mess before the guests arrive?|Where do you hide the gifts during a surprise party?
+soiree-054|How many minutes do you wait before texting a late guest?|How many minutes late is acceptable for a party?
+soiree-060|What do you put on a snack platter?|What do you grab first from a snack platter?
+soiree-064|What pizza do you order for a whole group?|What pizza do you avoid ordering for a group?
+soiree-066|What sauce do you serve with nuggets?|What sauce do you serve with chips?
+soiree-075|What time do you bring out the crisps?|What time do you sit down to eat?
+soiree-110|Who always cheats at games in your group?|Who always loses at games in your group?
+soiree-116|How many players do you need for a good game of Werewolf?|How many players do you need for a good card game?
+soiree-127|Who always hogs the speaker at parties?|Who always picks the restaurant in your group?
+soiree-154|How many minutes do you spend looking for a parking space before a party?|How many minutes does it take you to find the right buzzer before a party?
+soiree-155|What gift do you bring to a host you barely know?|What gift do you bring to a friend's housewarming?
+soiree-156|How many people do you hug when you say hello?|How many people do you greet before taking off your coat?
+soiree-157|What do you say when you arrive and don't know anyone?|What do you say when you're the first to arrive at a party?
+soiree-166|How many times do you say “I'm heading out” before actually leaving?|How many people do you say bye to before leaving a party?
+soiree-171|What's the first thing you do when you get home from a party?|What's the first thing you do when you wake up the day after a party?
+soiree-175|When do you know it's time to leave?|When do you know a party was a success?
+soiree-176|How much are you willing to pay for a taxi home from a party?|How much are you willing to pay for a concert ticket?
+soiree-177|What excuse do you give to leave early?|What excuse do you give to not show up?
+soiree-178|What time did you get home from your longest night out?|What time does the sun rise in summer?
+soiree-183|What pastry do you go pick up for everyone?|What pastry do you get just for yourself?
+soiree-187|How many hours do you sleep after a party?|How many hours do you nap the day after a party?
+soiree-213|What dish do you make when you have vegetarian guests?|What dish do you mess up every time?
+soiree-217|What dish gets shared in the middle of the table?|What dish is impossible to share?
+soiree-222|What dish is too risky to try in front of guests?|What dish have you always wanted to learn to cook?
+soiree-225|How many people does it take to keep a surprise secret?|How many people end up spilling the beans?
+soiree-227|How much do you chip in for a group gift with friends?|How much does a birthday cake for twenty people cost?
+soiree-229|How many minutes early do you plan to be for a surprise party?|How many minutes can you hold in your laughter?
+soiree-230|How many candles do you actually put on a cake?|How many slices do you cut from a birthday cake?
+soiree-231|What activity would you give as a birthday present?|What activity would you do to celebrate good news at work?
+soiree-233|Where do you pretend you're going to lure someone to their surprise party?|Where do you meet a friend for a simple coffee?
+soiree-234|What decoration do you bring out for a birthday?|What decoration do you leave up all year after a party?
+soiree-237|What do you say to make everyone smile in a photo?|What do you say to start a countdown?
+soiree-240|Where do you take the group photo at a party?|Where do you keep your old photos?
+soiree-241|At what point in the evening do you take the group photo?|At what point in the evening is everyone on their phone?
+soiree-251|How many guests cancel on the day itself?|How many guests show up with an unexpected plus-one?
+soiree-253|How much do you ask everyone to chip in for the party food shop?|How much does a takeaway pizza cost?
+soiree-259|What do you bring to get comfy for a film?|What do you bring to get comfy at a picnic?
+soiree-262|What do you say when someone talks during the film?|What do you say when someone spoils the end of a series?
+soiree-290|What do you say when you see a friend's flat for the first time?|What do you say when you taste a failed dish at a friend's place?
+soiree-294|How many times do you check your phone during a party?|How many times do you go to the kitchen during a party?
+soiree-317|What excuse do you hear most for turning down a party?|What excuse do you use most for turning down a party?
+soiree-330|How much do you spend on decorations for a party at your place (in pounds)?|How much do you spend on a birthday present for a friend (in pounds)?
+soiree-420|How much does a box of birthday candles cost (in pounds)?|How much does a birthday card cost at a stationery shop (in pounds)?
+soiree-427|How many calls do you get on your birthday?|How many birthday calls do you make in a month?
+soiree-430|What do you say when you hand a friend their gift?|What do you say when you bring out the cake?
+soiree-431|How many days in advance do you buy a gift?|How many days after the date do you celebrate a belated birthday?
+soiree-433|How many minutes does it take you to decorate a room for a birthday?|How many minutes does it take you to blow up all the balloons?
+soiree-455|What do you say when the food is too salty?|What do you say when they serve you seconds and you're already full?
+soiree-466|What do you say to politely turn down a dish?|What do you say to ask for a second helping?
+soiree-474|What topic do you bring up when there's an awkward silence?|What topic do you avoid at parties?
+soiree-496|What do you say to convince a friend to share a taxi?|What do you say to convince a friend to walk home?
+soiree-498|Until what time do you stay at a party the night before a workday?|Until what time do you stay at a party the night before a public holiday?
+soiree-513|How many people do you share a taxi home with?|How many people do you walk home with?
+soiree-542|Around what time do you politely ask your guests to leave?|Around what time do you start quietly tidying up during the party?
+soiree-544|How many glasses end up with no owner at the end of the night?|How many cups have a name written on them in marker?
+soiree-554|How many strikes do you get in a game of bowling?|How many holes in one do you get in a game of crazy golf?
+soiree-555|What activity do you suggest for a group of ten?|What activity do you suggest for an outing of three?
+soiree-557|How much does a game of bowling cost (in pounds)?|How much does a cinema ticket cost (in pounds)?
+soiree-560|What time do you book a table for a group?|What time do you book a cinema showing with friends?
+soiree-562|How many people do you need for a successful escape room?|How many people do you need for a game of laser tag?
+soiree-564|What outing do you suggest when it's raining?|What outing do you suggest when it's sunny?
+sport-001|What sport did you do at secondary school?|What sport scared you the most in PE?
+sport-002|What sport could you watch for three hours straight?|What sport would you like to see at the Olympics?
+sport-003|How many laps of a running track could you run without stopping?|How many lengths of a pool could you swim in a row?
+sport-004|How many push-ups can you do in a row?|How many sit-ups can you do in a row?
+sport-005|How many minutes does your ideal warm-up last?|How many minutes does your stretching session last?
+sport-006|Which athlete would you love to meet?|Which athlete would make a good TV host?
+sport-007|In which city would you love to watch a final?|In which city would you love to run a marathon?
+sport-008|What's your favourite team sport?|Which team sport is the hardest to referee?
+sport-009|What sports equipment do you have at home?|What sports equipment did you buy and never use?
+sport-010|On a scale of 1 to 10, how sporty are you?|On a scale of 1 to 10, how much do you enjoy sweating?
+sport-011|What's the ideal time to go for a run?|What time do you usually go to the gym?
+sport-012|What board sport would you love to master?|What water sport would you love to try?
+sport-013|Which country is the best at football?|Which country would host the best Olympics?
+sport-014|What colour would your team's shirt be?|What colour are your favourite trainers?
+sport-015|Which Olympic event could you win with a year of training?|Which Olympic event is the most impressive?
+sport-016|How many goals would you score in ten shots against a pro goalkeeper?|How many free throws would you make out of ten?
+sport-017|At what age should an athlete retire?|At what age did you start your first sport?
+sport-018|How many seconds can you hold a plank?|How many seconds can you balance on one foot?
+sport-019|What sport do you only watch during big tournaments?|What sport do you not understand at all?
+sport-020|What do you shout when your team scores?|What do you say when the referee gets it wrong?
+sport-021|How many times a year do you go and see a match live?|How many matches do you watch on TV each month?
+sport-022|What do you put in your gym bag?|What do you always forget to bring to training?
+sport-023|What sport would you invent if you could?|What sport would be funny to play in pyjamas?
+sport-025|How many hours of exercise a week would be ideal?|How many hours of exercise do you actually do a week?
+sport-026|Where do you prefer to work out?|Where do you go running near your home?
+sport-028|How much does a good pair of trainers cost (in pounds)?|How much would you pay for a ticket to a final (in pounds)?
+sport-037|What do you say to someone who's been hogging a machine for twenty minutes?|What do you say to someone who asks if they can work in with you?
+sport-039|How much do you pay for your gym membership each month (in pounds)?|How much should a gym membership fairly cost per month (in pounds)?
+sport-058|How many runners take part in a big marathon (in thousands)?|How many fans does a big stadium hold (in thousands)?
+sport-070|How many minutes do you stay in the water at the pool?|How many minutes do you spend in the changing rooms at the pool?

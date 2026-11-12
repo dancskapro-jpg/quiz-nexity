@@ -452,3 +452,184 @@ reflexe-229|Name a wind instrument.|Name an instrument you hear in an orchestra.
 reflexe-230|Name an instrument you hit.|Name a loud instrument.
 reflexe-231|Name a music genre.|Name a type of music people dance to.
 reflexe-232|Name a dance.|Name a dance you learn in class.
+reflexe-233|Name a device for listening to music.|Name a gadget people had in the 90s.
+reflexe-234|Name a kid's instrument.|Name an instrument you learn at school.
+reflexe-235|Name a board game.|Name a game with dice.
+reflexe-236|Name a creative hobby.|Name something you do on rainy days.
+reflexe-237|Name a beach activity.|Name something you do by a lake.
+reflexe-238|Name a grandparent's pastime.|Name a calm hobby.
+reflexe-239|Name a fairground activity.|Name a ride that makes you scream.
+reflexe-240|Name something you do on holiday.|Name something you do with friends.
+reflexe-241|Name a game you play in the car.|Name a game you can play with no equipment.
+reflexe-242|Name something people collect.|Name something kids trade at school.
+reflexe-243|Name a game you play in the park.|Name something you do with your dog.
+reflexe-244|Name a place to go out on Saturday night.|Name a place you go with friends.
+reflexe-245|Name a noise that wakes you up.|Name a noise that gets on your nerves.
+reflexe-246|Name a city sound.|Name a sound you hear at night.
+reflexe-247|Name a pleasant sound.|Name a sound of nature.
+reflexe-248|Name an appliance that whistles.|Name a piece of furniture that creaks.
+reflexe-249|Name a kitchen noise.|Name a morning noise.
+reflexe-250|Name a nice smell.|Name a cooking smell.
+reflexe-251|Name a smell that reminds you of holidays.|Name a summer smell.
+reflexe-252|Name a strong smell.|Name a smell you recognise instantly.
+reflexe-253|Name a candle scent.|Name a flower scent.
+reflexe-254|Name a morning smell.|Name a bakery smell.
+reflexe-255|Name something soft to the touch.|Name a fluffy food.
+reflexe-256|Name something that sticks to your fingers.|Name a food that melts in your hand.
+reflexe-257|Name something rough.|Name something scratchy.
+reflexe-258|Name something squishy.|Name something you can squash.
+reflexe-259|Name something prickly.|Name something dangerous for a baby.
+reflexe-260|Name a slippery surface.|Name a place where it's easy to fall.
+reflexe-261|Name an emotion.|Name something you feel at the cinema.
+reflexe-262|Name a word that makes you happy.|Name a comforting word.
+reflexe-263|Name something people say when surprised.|Name something people say when they get hurt.
+reflexe-264|Name a way to say hello.|Name a way to say goodbye.
+reflexe-265|Name a polite phrase.|Name something you say walking into a shop.
+reflexe-266|Name something you say when you win.|Name something you shout when you're happy.
+reflexe-267|Name a machine with wings.|Name something you send up into the air.
+reflexe-268|Name a piece of jewellery.|Name something made of gold.
+reflexe-269|Name something that melts in the sun.|Name something that dries in the sun.
+reflexe-270|Name a toy that bounces.|Name something you throw to play.
+reflexe-271|Name something that sinks in water.|Name something you throw into a lake.
+reflexe-272|Name a fruit you eat stewed.|Name a fruit you put in a pie.
+reflexe-273|Name a vegetable you put in a stew.|Name a vegetable you put in a curry.
+reflexe-274|Name a dish you eat in the school canteen.|Name a dish you eat at your grandparents' place.
+reflexe-275|Name something you find in a hotel room.|Name something you find in a camper van.
+reflexe-276|Name an animal you see in the countryside.|Name an animal you see by the side of the road.
+reflexe-277|Name an animal that's easy to draw.|Name an animal that's easy to imitate.
+reflexe-278|Name a quiet place.|Name a place where people read.
+reflexe-279|Name a sweet colour.|Name a balloon colour.
+reflexe-280|Name a sock colour.|Name a rucksack colour.
+reflexe-281|Name a job you see at the airport.|Name a job you see at a train station.
+reflexe-282|Name a job where you talk to strangers.|Name a job where you deal with the public.
+reflexe-283|Name something you put on the table for a meal.|Name something you bring out for guests.
+reflexe-284|Name something you do on Sunday mornings.|Name something you do on Saturday mornings.
+reflexe-285|Name a sport you watch with family.|Name a sport you watch at weekends.
+reflexe-286|Name something sold in bulk.|Name something kept in a jar.
+reflexe-287|Name a country you fly to.|Name a country you go to for the beaches.
+reflexe-288|Name a city you go to by train.|Name a city you go to for a concert.
+reflexe-289|Name a grandma's first name.|Name an old-fashioned first name.
+reflexe-290|Name a fairy-tale character's name.|Name a cartoon character's name.
+reflexe-291|Name something you wash by hand.|Name something you wash often.
+reflexe-292|Name a piece of clothing you take off when you arrive.|Name a piece of clothing you hang on a hook.
+reflexe-293|Name a dessert you make yourself.|Name a dessert you buy ready-made.
+reflexe-294|Name a room where you relax.|Name a room where you have friends over.
+reflexe-295|Name something you buy again and again.|Name something that wears out fast.
+reflexe-296|Name a shop.|Name a local neighbourhood shop.
+reflexe-297|Name a place you go on Saturdays.|Name a place you go with family.
+reflexe-298|Name a building in town.|Name a place that's closed on Sundays.
+reflexe-299|Name a piece of street furniture.|Name something you see from a bus window.
+reflexe-300|Name a place where you go food shopping.|Name a place where you buy clothes.
+reflexe-301|Name a place where you grab a coffee.|Name a place where you work on a laptop.
+reflexe-302|Name something typical of an airport.|Name something typical of a train station.
+reflexe-303|Name a DIY tool.|Name something noisy on a building site.
+reflexe-304|Name a seed you sow in the garden.|Name a plant you water often.
+reflexe-305|Name a vegetable from the vegetable garden.|Name a vegetable you eat in summer.
+reflexe-306|Name a mountain animal.|Name an animal that hibernates.
+reflexe-307|Name a place out in nature.|Name a place where you go camping.
+reflexe-308|Name a piece of camping gear.|Name something you put in a rucksack.
+reflexe-309|Name a yellow fruit.|Name a fruit you eat in winter.
+reflexe-310|Name a breakfast food.|Name something you dunk.
+reflexe-311|Name a salty food.|Name a snack you serve with drinks.
+reflexe-312|Name an omelette ingredient.|Name a quiche ingredient.
+reflexe-313|Name an after-school activity.|Name an activity for kids.
+reflexe-314|Name a baby toy.|Name a toy you take in the bath.
+reflexe-315|Name a swimsuit colour.|Name a beach towel colour.
+reflexe-316|Name a food you keep in the freezer.|Name a food you keep in a cupboard.
+reflexe-317|Name an appliance you find in a utility room.|Name an appliance you find in a living room.
+reflexe-318|Name something you take on a hike.|Name something you take on a picnic.
+reflexe-319|Name a place where you sleep away from home.|Name a place where you eat away from home.
+reflexe-320|Name a pastry you have for breakfast.|Name something you buy at the bakery.
+reflexe-321|Name a vegetable you eat raw.|Name a vegetable you put in a salad.
+reflexe-322|Name a British city.|Name a city on a big river.
+reflexe-323|Name a country where it snows a lot.|Name a country famous for its mountains.
+reflexe-324|Name an ocean or a sea.|Name a body of water you can sail on.
+reflexe-325|Name a job you do outdoors.|Name a job you do with a lorry.
+reflexe-326|Name a fairy-tale character.|Name a character from a children's book.
+reflexe-327|Name an accessory you wear on your head.|Name an accessory you wear when it's cold.
+reflexe-328|Name a number between 1 and 100.|Name an age between 1 and 100.
+reflexe-329|Name something round in a kitchen.|Name something round in a living room.
+reflexe-330|Name something used for cutting.|Name something with a blade.
+reflexe-331|Name an orange food.|Name a food you peel.
+reflexe-332|Name a food you spread.|Name a food you eat for breakfast.
+reflexe-333|Name an animal with a shell.|Name an animal that lives a long time.
+reflexe-334|Name a room with a mirror.|Name a place where you do your hair.
+reflexe-335|Name a piece of clothing you button up.|Name a piece of clothing with a zip.
+reflexe-336|Name a sport played with a racket.|Name a sport played in pairs.
+reflexe-337|Name something you hang on the wall.|Name something you frame.
+reflexe-338|Name a three-letter first name.|Name a short first name.
+reflexe-339|Name something you find in a toiletry bag.|Name something you bring for a sleepover.
+reflexe-340|Name a cake ingredient.|Name a pancake ingredient.
+reflexe-341|Name something you find in a car boot.|Name something you keep in a garage.
+reflexe-342|Name a shop where you buy a gift.|Name a shop you find in a shopping centre.
+reflexe-343|Name an animal you find in a pond.|Name an animal that loves water.
+reflexe-344|Name something you find in a beach bag.|Name something people forget at the beach.
+noel-001|What gift would you love to find under the tree?|What gift did you love giving?
+noel-002|Which dish should never be missing from Christmas dinner?|Which Christmas dish could you eat all year round?
+noel-005|Which film do you watch every year at Christmas?|Which Christmas film is the cheesiest?
+noel-006|How many presents do you give at Christmas?|How many people are around the table at Christmas?
+noel-009|What do you put on top of the tree?|What do you put on the table for Christmas Eve dinner?
+noel-011|Where would you dream of spending Christmas?|Where did you spend your best Christmas ever?
+noel-014|How many chocolates do you eat over Christmas?|How many chocolates are left in the box on the 26th?
+noel-028|What do you say when the day's door is empty?|What do you say when someone ate your chocolate for the day?
+noel-045|How many minutes does it take you to decorate the tree?|How many minutes does it take you to untangle the fairy lights?
+noel-063|What do you eat first at a Christmas market?|What do you bring home from a Christmas market?
+noel-066|How much does a waffle cost at a Christmas market?|How much does a pen cost?
+noel-070|Which country has the most beautiful Christmas markets?|In which country are the streets most lit up in December?
+noel-081|How many gifts did you ask for in your letter to Father Christmas?|How many lines long was your letter to Father Christmas?
+ete-001|Where would you love to spend the summer?|Where did you spend your best summer ever?
+ete-002|Which ice cream flavour do you order first?|Which ice cream flavour do you never pick?
+ete-003|What do you do when it's way too hot?|What do you do on a summer evening?
+ete-004|What do you always take to the beach?|What do you always forget to take to the beach?
+ete-006|How many ice creams do you eat a week in summer?|How many swims do you have a day on holiday?
+ete-017|How many minutes do you stay in the water at a time?|How many minutes do you wait before going back in the water?
+ete-028|How many minutes do you walk to find a spot on the beach?|How many minutes does it take you to set up your beach spot?
+ete-029|What do you yell when you get into cold water?|What do you say to someone who's hesitating to get in the water?
+ete-043|How much does it cost to get into the local swimming pool?|How much does an ice cream cost at the beach?
+ete-078|How many fans do you have at home?|How many bottles of water do you keep in the fridge in summer?
+ete-084|Which campsite activity do you do as a family?|Which campsite activity do you avoid at all costs?
+ete-089|How much does a mobile home cost for a week in August?|How much does a week in a good hotel in Cornwall cost in August?
+ete-101|Who drives the longest on the way to your holiday?|Who falls asleep first on the way to your holiday?
+ete-103|How many minutes does your break at the motorway services last?|How many minutes do you queue on the motorway on a big getaway day?
+ete-130|Which summer fruit do you eat the most?|Which summer fruit do you pay the most for?
+ete-131|Which fruit do you cut up for a summer snack?|Which fruit do you eat straight off the tree?
+ete-134|How much does a punnet of strawberries cost in June?|How much does a melon cost at the market in July?
+ete-204|What do you say to keep a summer party going?|What do you say to leave a summer party?
+ete-388|What do you put in your beach sandwich?|What do you put in your summer salad?
+ete-475|Which game do you always find in a holiday rental?|Which game piece is always missing in a holiday rental?
+ete-476|What do you say when you win a game on holiday?|What do you say when you lose for the third time in a row?
+ete-503|How much does a rental cost for a week in August?|How much does a rental cost for a weekend in July?
+ete-506|Which chore do you do before handing back the rental?|Which chore do you do when you arrive at the rental?
+ete-556|How long, in minutes, does a toilet stop on the road last?|How long, in minutes, does a meal stop on the road last?
+ete-561|How much does a full tank of petrol cost in summer?|How much does a Eurostar ticket cost in August?
+ete-591|How much do you pay for an old book at a car boot sale?|How much do you pay for a meal at a fast-food place?
+ete-593|What do you say to get the price down at a car boot sale?|What do you say when someone overtakes you on the motorway?
+ete-604|How many baguettes do you buy in the morning on holiday?|How many croissants do you buy in the morning on holiday?
+rentree-003|What do you say to your colleagues on your first day back?|What do you answer when someone asks if you had a good holiday?
+vacances-007|What game do you pack for your holiday?|What game do you bring out on rainy days on holiday?
+vacances-027|What do you shout at the top of a black run?|What do you shout at the bottom of a black run?
+vacances-031|How many minutes does it take you to put on your ski boots?|How many minutes does it take you to get dressed to go skiing?
+vacances-035|What do you say to a beginner who just fell right in front of you?|What do you say when people laugh at you after you've fallen over?
+vacances-036|How much is a hot chocolate at the top of the slopes?|How much is a hot chocolate at your local café?
+vacances-069|Which cheese do you choose for a raclette?|Which cheese do you choose at the supermarket?
+vacances-074|In which month do you start having raclette?|In which month do you stop having raclette?
+vacances-084|What's the first thing you do when you get back from a day of skiing?|What's the first thing you do on the morning of a ski day?
+vacances-094|What little treat do you give yourself after your last run?|What little treat do you give yourself on your last night in the mountains?
+vacances-097|What do you say when you finally take off your ski boots?|What do you say when you see the bill at the mountaintop restaurant?
+vacances-204|How many minutes do you stay in bed after waking up on holiday?|How many minutes do you stay in bed after waking up on a Monday?
+vacances-211|What do you say when someone wakes you up too early on holiday?|What do you say when you wake up at noon?
+vacances-323|How much does a full tank of petrol cost for a ski holiday?|How much does a return train ticket to the mountains cost?
+vacances-326|How many hours of driving will you put up with for a ski week?|How many hours of driving will you put up with for a short weekend away?
+vacances-332|What snack do you eat in the car on the way to your holiday?|What snack do you buy at the station before leaving?
+vacances-341|At what age did you put on skis for the first time?|At what age did you last go skiing?
+vacances-422|Who reads the rules of a new game?|Who makes up their own rules during the game?
+vacances-527|What do you eat at a theme park?|What did you eat in the school canteen as a kid?
+vacances-532|What do you say when you get off a thrill ride?|What do you say when a kid wants to go on the same ride again?
+vacances-559|What item do you bring to take nice photos?|What item do you protect from the cold on a ski holiday?
+vacances-577|How much does a high-end coat cost?|How much does a woolly hat cost?
+sport-248|How many days do your January fitness resolutions last?|How many days does it take to build a workout habit?
+bouffe-681|What dish do you like eating cold the next day?|What dish is better reheated?
+boulot-613|How many students were in your biggest lecture theatre?|How many students were in your whole year?
+boulot-614|How much does a good work bag cost?|How much does a good office chair cost?
+boulot-615|How many coffees can a waiter carry on a tray?|How many plates can a waiter carry on one arm?
+soiree-593|What celebrity always gets a reaction when mentioned at a party?|What celebrity do you impersonate to make your friends laugh?

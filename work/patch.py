@@ -43,10 +43,10 @@ sub(""":'<span class="icon-spacer"></span>'}
     <div class="topbar-mid">""")
 
 # 3. Sélecteur de langue en haut à droite de l'accueil
-sub("""<main class="page home">""", """<main class="page home">${hsLangPill()}""") if '<main class="page home">' in src else None
+sub("""<main class="page home-page">""", """<main class="page home-page">${hsLangPill()}""")
 
 helpers = r'''
-function hsPrune(){let has=p=>Ss.some(x=>x.pack===p);for(let i=Se.length-1;i>=0;i--)has(Se[i].id)||Se.splice(i,1);for(let i=qu.length-1;i>=0;i--)has(qu[i].id)||qu.splice(i,1);for(let i=su.length-1;i>=0;i--){let g=su[i].grants||[];g.length===1&&g[0].startsWith("pack:")&&!has(g[0].slice(5))&&su.splice(i,1)}}
+function hsPrune(){let has=p=>Ss.some(x=>x.pack===p);for(let i=Se.length-1;i>=0;i--)has(Se[i].id)||Se.splice(i,1);for(let i=qu.length-1;i>=0;i--)has(qu[i].id)||qu.splice(i,1);if(typeof su!="undefined"&&su)for(let i=su.length-1;i>=0;i--){let g=su[i].grants||[];g.length===1&&g[0].startsWith("pack:")&&!has(g[0].slice(5))&&su.splice(i,1)}}
 function hsCanReroll(){let g=_();return!!g&&g.config&&g.config.mode!=="survie"&&["DISTRIBUTION","REPONSES","DEBAT","VOTE"].includes(g.phase)}
 function hsLeft(e){return e.right&&String(e.right).includes('data-act="quit"')&&hsCanReroll()?`<button class="icon-btn hs-reroll" data-hs="reroll" aria-label="${t("Changer de question")}" title="${t("Changer de question")}"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.3-4.9L4 8"/><path d="M4 3.5V8h4.5"/><path d="M4 13a8 8 0 0 0 14.3 4.9L20 16"/><path d="M20 20.5V16h-4.5"/></svg></button>`:'<span class="icon-spacer"></span>'}
 function hsLangPill(){let cur=Q.data.settings.lang||"fr",L=pt.find(x=>x.id===cur)||pt[0];return`<details class="hs-lang"><summary aria-label="${t("Changer de langue")}"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.6 3.9 5.6 3.9 9s-1.3 6.4-3.9 9c-2.6-2.6-3.9-5.6-3.9-9S9.4 5.6 12 3z"/></svg><span class="hs-lang-code">${cur.toUpperCase()}</span><svg class="hs-chev" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="hs-lang-menu" role="menu">${pt.map(x=>`<button role="menuitemradio" aria-checked="${x.id===cur}" class="hs-lang-item ${x.id===cur?"on":""}" data-hs="lang" data-arg="${x.id}" lang="${x.id}"><span class="hs-lang-badge">${x.id.toUpperCase()}</span><span class="hs-lang-name">${x.name}</span>${x.id===cur?'<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>':""}</button>`).join("")}</div></details>`}
@@ -54,12 +54,13 @@ async function hsSetLang(s){let cur=Q.data.settings.lang||"fr";if(s===cur||!pt.s
 async function hsReroll(){if(!hsCanReroll())return;let g=_();if(!await te({title:t("Changer de question ?"),text:t("Tout le monde re\xE7oit une nouvelle question. M\xEAmes joueurs, m\xEAmes r\xE8gles : on repasse juste le t\xE9l\xE9phone."),ok:t("Nouvelle question")}))return;try{ut()}catch{}try{ie==null||ie.stop()}catch{}let cfg=JSON.parse(JSON.stringify(g.config));try{Q.data.game=null,Ku(cfg)}catch(err){Q.data.game=g,T(!0),P(err instanceof Error?err.message:String(err),"error");return}T(!0),ru(),x(lu,{replace:!0,anim:"fade"}),P(t("Nouvelle question ! Repassez le t\xE9l\xE9phone."),"success")}
 document.addEventListener("click",ev=>{let b=ev.target.closest&&ev.target.closest("[data-hs]");document.querySelectorAll("details.hs-lang[open]").forEach(d=>{d.contains(ev.target)||d.removeAttribute("open")});if(!b)return;ev.preventDefault(),ev.stopPropagation();b.dataset.hs==="reroll"?hsReroll():b.dataset.hs==="lang"&&(b.closest("details")&&b.closest("details").removeAttribute("open"),hsSetLang(b.dataset.arg))},!0);
 '''
+sub('function lr(){var s,a;let e=document.getElementById("app");', 'function lr(){var s,a;hsPrune();let e=document.getElementById("app");')
 sub('document.readyState==="loading"?document.addEventListener("DOMContentLoaded",lr):lr();})();',
     helpers + 'document.readyState==="loading"?document.addEventListener("DOMContentLoaded",lr):lr();})();')
 
 css = '''
 .hs-lang { position: absolute; top: calc(env(safe-area-inset-top, 0px) + 14px); right: 16px; z-index: 20; }
-.page.home { position: relative; }
+.page.home-page { position: relative; }
 .hs-lang > summary { list-style: none; display: inline-flex; align-items: center; gap: 7px; height: 38px; padding: 0 12px 0 11px; border-radius: 999px; cursor: pointer; color: var(--text); font: 800 .82rem/1 var(--f-display); letter-spacing: .06em; background: color-mix(in srgb, var(--card) 70%, transparent); border: 1px solid color-mix(in srgb, var(--text) 14%, transparent); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px); box-shadow: 0 6px 20px rgba(0,0,0,.18); -webkit-tap-highlight-color: transparent; }
 .hs-lang > summary::-webkit-details-marker { display: none; }
 .hs-lang > summary:active { transform: scale(.96); }
