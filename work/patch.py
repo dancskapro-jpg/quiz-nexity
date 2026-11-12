@@ -81,6 +81,10 @@ css = '''
 '''
 sub('\n</style>\n<div id="app"', css + '\n</style>\n<div id="app"')
 
+# Logo : le S de HORS (incliné) était coupé en haut -> marge du viewBox agrandie
+sub('viewBox="0 -100 ${a} 215"', 'viewBox="0 -132 ${a} 247"')
+sub('viewBox="0 -125 ${s} 135"', 'viewBox="0 -152 ${s} 162"')
+
 # 4. Version et textes chiffrés
 NCLASS = sum(1 for o in fr if o['pack'] == 'classique')
 sub('les 610 paires du pack Classique', f'les {NCLASS} paires du pack Classique')
