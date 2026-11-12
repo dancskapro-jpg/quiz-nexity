@@ -448,3 +448,187 @@ boulot-564|Welk beroep heeft de vreemdste werktijden?|Welk beroep heeft de herke
 boulot-578|Welke taak haatte je bij je eerste baantje?|Welke taak deed je het best bij je eerste baantje?
 boulot-582|Welk filmpersonage zou een rampzalige ober zijn?|Welk filmpersonage zou een geduchte verkoper zijn?
 boulot-583|Wat zeg je tegen een klant die vlak voor sluitingstijd binnenkomt?|Wat zeg je tegen een klant die de manager wil spreken?
+boulot-605|In welke stad zou je dolgraag een kantoor met uitzicht hebben?|In welke stad zou je graag een week thuiswerken?
+voyage-001|Welk land zou je bezoeken met een gratis vliegticket?|Welk land wil je het liefst nog eens terugzien?
+voyage-009|Welke hoofdstad zou je graag bezoeken?|Welke hoofdstad vind je het meest overschat?
+voyage-013|Welk monument zou je met eigen ogen willen zien?|Welk monument viel je in het echt tegen?
+voyage-015|Welk pretpark zou je graag eens doen?|Welke toeristische plek wil je dolgraag bezoeken?
+voyage-018|Hoeveel uur vliegen heb je over voor een vakantie?|Hoeveel uur rijden heb je over voor een weekendje weg?
+voyage-019|Hoeveel uur tijdsverschil vind je nog acceptabel?|Hoeveel uur achter elkaar wil je in de trein zitten?
+voyage-020|Wat vergeet je altijd op reis?|Wat neem je altijd mee op reis?
+voyage-021|Wat stop je als eerste in je koffer?|Wat haal je als laatste uit je koffer?
+voyage-022|Welk souvenir neem je altijd mee van reis?|Welk reissouvenir slingert bij jou thuis rond?
+voyage-024|Hoeveel koffers neem je mee voor een week?|Hoeveel paar schoenen neem je mee voor een week?
+voyage-026|Hoe laat ben je op het vliegveld voor een vlucht van 10.00 uur?|Hoe laat sta je op op de eerste vakantiedag?
+voyage-027|Hoeveel euro per dag moet je rekenen op vakantie?|Hoeveel euro geef je uit aan souvenirs?
+voyage-029|Welke spannende activiteit zou je op vakantie aandurven?|Welke vakantieactiviteit vind je eng?
+voyage-033|Hoeveel foto's maak je per dag op vakantie?|Hoeveel foto's hou je echt over na een reis?
+voyage-034|Hoeveel minuten wil je in de rij staan voor een attractie?|Hoeveel minuten vertraging van je vlucht accepteer je zonder te mopperen?
+voyage-039|Hoe vaak heb je al gevlogen?|Hoe vaak heb je dit jaar de trein genomen?
+voyage-044|Hoeveel dagen voor vertrek pak je je koffer in?|Hoeveel dagen na thuiskomst pak je je koffer uit?
+voyage-061|Hoeveel minuten zoek je naar je paspoort voor je vertrekt?|Hoeveel minuten controleer je of je niks vergeten bent?
+voyage-063|Hoeveel uur voor een lange vlucht ben je op het vliegveld?|Hoeveel uur voor een korte vlucht ben je op het vliegveld?
+voyage-068|Hoeveel kost een flesje water op het vliegveld?|Hoeveel kost een broodje op het vliegveld?
+voyage-071|Wat wordt er bij de security in beslag genomen?|Waarvan gaat de detectiepoort piepen?
+voyage-077|Hoe vaak check je je boardingpass voor de vlucht?|Hoe vaak kijk je op het vertrekbord voor het boarden?
+voyage-080|Welk omroepbericht hoor je altijd op het vliegveld?|Welk omroepbericht hoor je altijd in de trein?
+voyage-093|Hoeveel minuten turbulentie hou je vol zonder in paniek te raken?|Hoeveel minuten kun je in het vliegtuig blijven zitten zonder op te staan?
+voyage-115|Wat doe je als iemand op jouw gereserveerde plek zit?|Wat doe je als je buurman in de trein luid zit te bellen?
+voyage-122|Welk woord roep je als je trein zonder jou vertrekt?|Welk woord roep je als je je hotelkamer ziet?
+voyage-132|Welke zin hoor je altijd op de achterbank?|Welke zin zegt de bestuurder als hij verdwaald is?
+voyage-136|Hoeveel kost een volle tank benzine?|Hoeveel kost de tol als je dwars door Frankrijk rijdt?
+voyage-146|Hoe laat ga je in het hotel naar beneden voor het ontbijt?|Hoe laat stopt het ontbijt in een hotel meestal?
+voyage-149|Hoeveel wil je betalen voor een nacht in een hotel?|Hoeveel wil je betalen voor een nacht in een boomhut?
+voyage-150|Hoeveel nachten kun je in een tent slapen?|Hoeveel nachten kun je op een slaapzaal in een hostel slapen?
+voyage-153|Wat doe je als eerste als je een hotelkamer binnenkomt?|Wat doe je als eerste als je op de camping aankomt?
+voyage-155|Waar vraag je om bij de receptie?|Wat ontbreekt er altijd in een hotelkamer?
+voyage-156|Hoe laat check je uit op de laatste dag?|Hoe laat zou je het liefst willen uitchecken?
+voyage-162|Welke naam zou je je camping geven?|Welke naam zou je je hostel geven?
+voyage-163|Welke plek in een hotel vind je het fijnst, buiten je kamer?|Welke plek op een camping vind je het fijnst, buiten je tent?
+voyage-164|Hoeveel kost een nacht op de camping?|Hoeveel kost een hotelontbijt?
+voyage-165|Hoeveel minuten heb je nodig om je in een hotelkamer te installeren?|Hoeveel minuten heb je nodig om alles in te pakken voor je het hotel verlaat?
+voyage-166|Hoeveel reviews lees je voordat je een hotel boekt?|Hoeveel foto's bekijk je voordat je een hotel boekt?
+voyage-176|In welk land had je je beste vakantie?|In welk land had je je slechtste vakantie?
+voyage-179|Hoeveel verschillende landen wil je in je leven zien?|Hoeveel verschillende landen had je gezien voor je 18e?
+voyage-182|Hoe oud was je bij je eerste reis naar het buitenland?|Hoe oud was je toen je voor het eerst zonder je ouders op vakantie ging?
+voyage-186|In welk land zou je graag zes maanden wonen?|In welk land zou je maar drie dagen willen doorbrengen?
+voyage-200|Welke stad ken je zonder er ooit geweest te zijn?|Welke stad denk je te kennen dankzij films?
+voyage-214|Hoe vaak eet je in een restaurant tijdens een week vakantie?|Hoe vaak kook je zelf tijdens een week vakantie?
+voyage-216|Welk Nederlands gerecht mis je het meest als je in het buitenland bent?|Welk Nederlands gerecht vinden buitenlanders geweldig?
+voyage-219|Wat bestel je in het hotelrestaurant?|Wat bestel je via roomservice?
+voyage-222|Welke fastfoodketen zoek je op in het buitenland als je honger hebt?|Welke fastfoodketen vind je op elk vliegveld?
+voyage-246|Hoeveel reizen maak je per jaar?|Hoeveel reizen zou je per jaar willen maken?
+voyage-263|Hoeveel kost een weekendje weg met vrienden?|Hoeveel kost een week vakantie met vrienden?
+voyage-270|Hoe verplaats je je in een buitenlandse stad?|Hoe verplaats je je op een eiland?
+voyage-271|Welk voertuig huur je op vakantie?|In welk voertuig zou je dolgraag rijden op vakantie?
+voyage-272|Hoeveel minuten wil je lopen om bij het strand te komen?|Hoeveel minuten wil je in de bus zitten voor een excursie?
+voyage-275|Welk typisch vervoermiddel zou je in het buitenland willen uitproberen?|Welk typisch vervoermiddel heb je in het buitenland al eens geprobeerd?
+voyage-282|Wat doe je als je koffer niet aankomt?|Wat doe je als je hotel niet op de foto's lijkt?
+voyage-296|Hoe laat sta je op om op reis de zonsopgang te zien?|Hoe laat vertrek je op reis voor een wandeltocht?
+voyage-298|Naar welk land zou je gaan voor de sneeuw?|Naar welk land zou je gaan voor de zon in de winter?
+voyage-306|Hoe zou je de groepsapp van een reis met vrienden noemen?|Hoe zou je het fotoalbum van een reis met vrienden noemen?
+voyage-350|Welk document ben je altijd bang te vergeten op reis?|Van welk document maak je een foto voor je naar het buitenland gaat?
+voyage-351|Hoeveel euro contant hou je bij je op reis?|Hoeveel euro wissel je voor je naar het buitenland gaat?
+voyage-352|Welke zin herhaal je voordat je de deur uitgaat voor een reis?|Welke zin herhaal je als je op het vliegveld aankomt?
+voyage-355|Hoe laat sta je op voor een vlucht om 7.00 uur?|Hoe laat vertrek je van huis voor een vlucht om 7.00 uur?
+voyage-367|Hoeveel films kijk je tijdens een lange vlucht?|Hoeveel uur slaap je tijdens een lange vlucht?
+voyage-371|Voor welke stoelgenoot ben je het meest bang?|Welke stoelgenoot zou je dolgraag naast je hebben?
+voyage-378|Wat zeg je als de trein midden op het spoor stilvalt?|Wat zeg je als er vertraging wordt omgeroepen voor jouw trein?
+soiree-001|Hoe laat kom jij aan op een feestje dat om 20.00 uur begint?|Hoe laat begin jij te gapen op een feestje?
+soiree-002|Hoeveel mensen heb je nodig voor een goed feestje?|Hoeveel mensen kun je bij jou thuis ontvangen?
+soiree-003|Wat neem je mee als je ergens uitgenodigd bent?|Wat zet je op tafel bij de borrel?
+soiree-004|Hoeveel berichtjes zijn er nodig om in de groepsapp een feestje te regelen?|Hoeveel mensen reageren echt in je vriendengroep?
+soiree-005|Hoeveel minuten heb je nodig om je klaar te maken voor je uitgaat?|Hoeveel minuten duurt het om met een groep een restaurant te kiezen?
+soiree-006|Hoeveel dagen van tevoren plan je een verjaardag?|Hoeveel dagen van tevoren reserveer je een restaurant?
+soiree-007|Welk voorwerp mag nooit ontbreken op een feestje?|Welk voorwerp vergeet je altijd bij een picknick?
+soiree-008|Welke verkleedoutfit zou je dragen op een verkleedfeest?|Welke verkleedoutfit heb je ooit gedragen?
+soiree-009|Waar zou je het perfecte verjaardagsfeest houden?|Waar zou je de ideale oudejaarsavond vieren?
+soiree-010|Wat voor plek kies je om met vrienden af te spreken?|Wat voor plek kies je om goed nieuws te vieren?
+soiree-011|Welke dag van de week is ideaal voor een feestje?|Welke dag van de week is ideaal voor een brunch?
+soiree-016|Welk spel stel je voor op een feestje?|Van welk spel moet je het hardst lachen op een feestje?
+soiree-026|Welke verjaardagstaart kies je?|Welke taart kun jij bakken?
+soiree-027|Welke film kijk je met vrienden?|Welke film laat een groep altijd lachen?
+soiree-028|Welke serie zou je de hele groep aanraden?|Welke serie kijk je stiekem?
+soiree-029|Wat zeg je om stilletjes van een feestje te vertrekken?|Wat zeg je als je op een feestje binnenkomt?
+soiree-030|Welke naam zou je je vriendengroep geven?|Welke naam zou je je pubquizteam geven?
+soiree-031|Hoe laat kom je thuis van een goed feest?|Hoe laat is een goed etentje met vrienden afgelopen?
+soiree-032|Hoeveel uur duurt een goede borrel?|Hoeveel uur duurt een goed potje bordspel?
+soiree-033|Hoe laat begint een goede borrel?|Hoe laat moet de barbecue aan?
+soiree-034|Hoeveel keer per maand ga je naar een feestje?|Hoeveel keer per maand ga je uit eten?
+soiree-035|Hoeveel bordspellen heb je?|Van hoeveel bordspellen ken je de regels uit je hoofd?
+soiree-038|Hoeveel gasten kunnen er maximaal aan tafel bij een diner?|Hoeveel stoelen heb je thuis?
+soiree-039|Hoeveel groepsfoto's moet je maken voordat er één goed is?|Hoeveel foto's maak je op een feestje?
+soiree-040|Hoe vaak per jaar heb je mensen over de vloer?|Hoe vaak per jaar ga je naar een concert?
+soiree-041|Hoeveel minuten ben je aan het opruimen voordat de gasten komen?|Hoeveel minuten ben je aan het opruimen nadat de gasten weg zijn?
+soiree-044|Hoeveel vuilniszakken leg je klaar voor een feestje?|Hoeveel vuilniszakken vul je na een feestje?
+soiree-053|Waar verstop je de rommel voordat de gasten komen?|Waar verstop je de cadeaus tijdens een verrassingsfeest?
+soiree-054|Hoeveel minuten wacht je voordat je een gast die te laat is een berichtje stuurt?|Hoeveel minuten te laat komen is acceptabel voor een feestje?
+soiree-060|Wat leg je op een borrelplank?|Wat pak je als eerste van een borrelplank?
+soiree-064|Welke pizza bestel je voor een hele groep?|Welke pizza bestel je liever niet voor een groep?
+soiree-066|Welke saus geef je bij kipnuggets?|Welke saus geef je bij patat?
+soiree-075|Hoe laat zet je de chips op tafel?|Hoe laat ga je aan tafel?
+soiree-110|Wie speelt in je groep altijd vals bij spelletjes?|Wie verliest in je groep altijd bij spelletjes?
+soiree-116|Hoeveel spelers heb je nodig voor een goed potje Weerwolven?|Hoeveel spelers heb je nodig voor een goed potje kaarten?
+soiree-127|Wie kaapt altijd de speaker op een feestje?|Wie kiest in je groep altijd het restaurant?
+soiree-154|Hoeveel minuten zoek je een parkeerplek als je naar een feestje gaat?|Hoeveel minuten doe je erover om de juiste bel te vinden als je naar een feestje gaat?
+soiree-155|Welk cadeautje neem je mee voor een gastheer die je nauwelijks kent?|Welk cadeautje neem je mee voor de housewarming van een vriend?
+soiree-156|Hoeveel zoenen geef je als je iemand begroet?|Hoeveel mensen begroet je voordat je je jas uittrekt?
+soiree-157|Wat zeg je als je binnenkomt en niemand kent?|Wat zeg je als je als eerste op een feestje aankomt?
+soiree-166|Hoe vaak zeg je ‘ik ga ervandoor’ voordat je echt vertrekt?|Hoeveel mensen zeg je gedag voordat je van een feestje vertrekt?
+soiree-171|Wat doe je als eerste als je thuiskomt van een feestje?|Wat doe je als eerste als je wakker wordt na een feestje?
+soiree-175|Op welk moment weet je dat het tijd is om te gaan?|Op welk moment weet je dat een feestje geslaagd is?
+soiree-176|Hoeveel heb je over voor een taxi naar huis na een feestje?|Hoeveel heb je over voor een concertkaartje?
+soiree-177|Welk smoesje gebruik je om vroeg weg te gaan?|Welk smoesje gebruik je om niet te komen?
+soiree-178|Hoe laat was je thuis na je langste feestnacht ooit?|Hoe laat komt de zon op in de zomer?
+soiree-183|Welk zoet broodje haal je voor iedereen bij de bakker?|Welk zoet broodje haal je alleen voor jezelf?
+soiree-187|Hoeveel uur slaap je na een feestje?|Hoeveel uur doe je een dutje de dag na een feestje?
+soiree-213|Wat kook je als er vegetariërs komen eten?|Welk gerecht mislukt bij jou elke keer?
+soiree-217|Welk gerecht deel je midden op tafel?|Welk gerecht is onmogelijk om te delen?
+soiree-222|Welk gerecht is te riskant om voor gasten te proberen?|Welk gerecht heb je altijd al willen leren koken?
+soiree-225|Hoeveel mensen zijn er nodig om een verrassing geheim te houden?|Hoeveel mensen verklappen uiteindelijk de verrassing?
+soiree-227|Hoeveel leg je in voor een gezamenlijk cadeau met vrienden?|Hoeveel kost een verjaardagstaart voor twintig personen?
+soiree-229|Hoeveel minuten van tevoren ben je er bij een verrassingsfeest?|Hoeveel minuten kun je je lachen inhouden?
+soiree-230|Hoeveel kaarsjes zet je echt op een taart?|In hoeveel stukken snijd je een verjaardagstaart?
+soiree-231|Welke activiteit zou je cadeau geven voor een verjaardag?|Welke activiteit zou je doen om goed nieuws op het werk te vieren?
+soiree-233|Waar doe je alsof je heen gaat om iemand naar zijn verrassingsfeest te lokken?|Waar spreek je met een vriend af voor gewoon een kopje koffie?
+soiree-234|Welke versiering haal je tevoorschijn voor een verjaardag?|Welke versiering laat je na een feest het hele jaar hangen?
+soiree-237|Wat zeg je om iedereen te laten lachen op een foto?|Wat zeg je om af te tellen?
+soiree-240|Waar wordt op een feestje de groepsfoto gemaakt?|Waar bewaar je je oude foto's?
+soiree-241|Op welk moment van de avond wordt de groepsfoto gemaakt?|Op welk moment van de avond zit iedereen op zijn telefoon?
+soiree-251|Hoeveel gasten zeggen op de dag zelf af?|Hoeveel gasten nemen onverwacht iemand mee?
+soiree-253|Hoeveel vraag je iedereen voor de boodschappen van een feestje?|Hoeveel kost een afhaalpizza?
+soiree-259|Wat pak je om lekker te zitten tijdens een film?|Wat pak je om lekker te zitten bij een picknick?
+soiree-262|Wat zeg je als iemand door de film heen praat?|Wat zeg je als iemand het einde van een serie verklapt?
+soiree-290|Wat zeg je als je voor het eerst het huis van een vriend ziet?|Wat zeg je als je bij een vriend een mislukt gerecht proeft?
+soiree-294|Hoe vaak kijk je op je telefoon tijdens een feestje?|Hoe vaak loop je naar de keuken tijdens een feestje?
+soiree-317|Welk excuus hoor je het vaakst als iemand een feestje afslaat?|Welk excuus gebruik je zelf het vaakst om een feestje af te slaan?
+soiree-330|Hoeveel geef je uit aan versiering voor een feestje bij jou thuis (in euro)?|Hoeveel geef je uit aan een verjaardagscadeau voor een vriend (in euro)?
+soiree-420|Hoeveel kost een doosje verjaardagskaarsjes (in euro)?|Hoeveel kost een verjaardagskaart bij de Bruna (in euro)?
+soiree-427|Hoeveel telefoontjes krijg je op je verjaardag?|Hoeveel keer bel je in een maand iemand om te feliciteren?
+soiree-430|Welke zin zeg je als je een vriend zijn cadeau geeft?|Welke zin zeg je als je binnenkomt met de taart?
+soiree-431|Hoeveel dagen van tevoren koop je een cadeau?|Hoeveel dagen na de datum vier je een verjaardag die je gemist hebt?
+soiree-433|Hoeveel minuten doe je erover om een zaal te versieren voor een verjaardag?|Hoeveel minuten doe je erover om alle ballonnen op te blazen?
+soiree-455|Wat zeg je als het eten te zout is?|Wat zeg je als je nog een keer opgeschept krijgt terwijl je vol zit?
+soiree-466|Wat zeg je om beleefd een gerecht af te slaan?|Wat zeg je om om een tweede portie te vragen?
+soiree-474|Over welk onderwerp begin je als het stil valt?|Welk gespreksonderwerp vermijd je op een feestje?
+soiree-496|Welke zin zeg je om een vriend over te halen samen een taxi te nemen?|Welke zin zeg je om een vriend over te halen samen naar huis te lopen?
+soiree-498|Tot hoe laat blijf je op een feestje als je de volgende dag moet werken?|Tot hoe laat blijf je op een feestje als de volgende dag een feestdag is?
+soiree-513|Met hoeveel mensen deel je een taxi naar huis?|Met hoeveel mensen loop je naar huis?
+soiree-542|Rond hoe laat vraag je je gasten beleefd om te vertrekken?|Rond hoe laat begin je stiekem op te ruimen tijdens een feestje?
+soiree-544|Hoeveel glazen blijven er aan het eind van de avond zonder eigenaar achter?|Op hoeveel bekertjes staat een naam geschreven met stift?
+soiree-554|Hoeveel strikes gooi je in een potje bowlen?|Hoeveel holes-in-one sla je in een potje midgetgolf?
+soiree-555|Welke activiteit stel je voor aan een groep van tien mensen?|Welke activiteit stel je voor als je met z'n drieën uitgaat?
+soiree-557|Hoeveel kost een potje bowlen (in euro)?|Hoeveel kost een bioscoopkaartje (in euro)?
+soiree-560|Hoe laat reserveer je een tafel voor een groep?|Hoe laat reserveer je een filmvoorstelling met vrienden?
+soiree-562|Hoeveel mensen heb je nodig voor een geslaagde escaperoom?|Hoeveel mensen heb je nodig voor een potje lasergamen?
+soiree-564|Welk uitje stel je voor als het regent?|Welk uitje stel je voor als het mooi weer is?
+sport-001|Welke sport deed je op de middelbare school?|Voor welke sport was je het bangst tijdens gym?
+sport-002|Naar welke sport kun je drie uur lang kijken?|Welke sport zou je graag op de Olympische Spelen zien?
+sport-003|Hoeveel rondjes op de atletiekbaan kun je rennen zonder te stoppen?|Hoeveel baantjes kun je achter elkaar zwemmen?
+sport-004|Hoeveel push-ups kun je achter elkaar doen?|Hoeveel sit-ups kun je achter elkaar doen?
+sport-005|Hoeveel minuten duurt jouw ideale warming-up?|Hoeveel minuten duurt jouw stretchsessie?
+sport-006|Welke sporter zou je graag ontmoeten?|Welke sporter zou een goede tv-presentator zijn?
+sport-007|In welke stad zou je graag een finale zien?|In welke stad zou je graag een marathon lopen?
+sport-008|Welke teamsport vind je het leukst?|Welke teamsport is het moeilijkst om te fluiten?
+sport-009|Welke sportspullen heb je thuis?|Welke sportspullen heb je gekocht en nooit gebruikt?
+sport-010|Hoe sportief ben je, op een schaal van 1 tot 10?|Hoe graag zweet je, op een schaal van 1 tot 10?
+sport-011|Hoe laat kun je het best gaan hardlopen?|Hoe laat ga je naar de sportschool?
+sport-012|Welke boardsport zou je willen beheersen?|Welke watersport zou je willen proberen?
+sport-013|Welk land is het best in voetbal?|Welk land zou de beste Olympische Spelen organiseren?
+sport-014|Welke kleur zou het shirt van jouw team hebben?|Welke kleur hebben je favoriete sneakers?
+sport-015|Welk olympisch onderdeel zou je kunnen winnen na een jaar trainen?|Welk olympisch onderdeel vind je het indrukwekkendst?
+sport-016|Hoeveel van de tien penalty’s zou je scoren tegen een profkeeper?|Hoeveel van de tien vrije worpen zou je erin gooien?
+sport-017|Op welke leeftijd moet een sporter stoppen?|Op welke leeftijd begon je met je eerste sport?
+sport-018|Hoeveel seconden kun je een plank volhouden?|Hoeveel seconden kun je op één been staan?
+sport-019|Naar welke sport kijk je alleen tijdens grote toernooien?|Welke sport snap je helemaal niet?
+sport-020|Wat roep je als jouw team scoort?|Wat zeg je als de scheidsrechter een fout maakt?
+sport-021|Hoe vaak per jaar ga je naar een wedstrijd in het echt?|Hoeveel wedstrijden kijk je per maand op tv?
+sport-022|Wat stop je in je sporttas?|Wat vergeet je altijd mee te nemen naar het sporten?
+sport-023|Welke sport zou je verzinnen als je kon?|Welke sport zou grappig zijn om in pyjama te doen?
+sport-025|Hoeveel uur sport per week zou ideaal zijn?|Hoeveel uur sport je echt per week?
+sport-026|Waar sport je het liefst?|Waar ga je hardlopen bij jou in de buurt?
+sport-028|Hoeveel kost een goed paar sneakers (in euro)?|Hoeveel zou je betalen voor een kaartje voor een finale (in euro)?
+sport-037|Wat zeg je tegen iemand die al twintig minuten een apparaat bezet houdt?|Wat zeg je tegen iemand die vraagt of hij met je mag afwisselen?
+sport-039|Hoeveel betaal je per maand voor je sportschoolabonnement (in euro’s)?|Hoeveel zou een eerlijk sportschoolabonnement per maand kosten (in euro’s)?
+sport-058|Hoeveel lopers doen er mee aan een grote marathon (in duizenden)?|Hoeveel toeschouwers passen er in een groot stadion (in duizenden)?
+sport-070|Hoeveel minuten zit je in het water in het zwembad?|Hoeveel minuten sta je in de kleedkamer van het zwembad?

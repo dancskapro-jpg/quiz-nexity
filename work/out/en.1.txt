@@ -1,0 +1,474 @@
+classique-001|How many minutes do you spend in the shower?|How many minutes can you wait for a bus without getting annoyed?
+classique-002|How many minutes does it take you to get ready in the morning?|How many minutes do you spend picking what to watch in the evening?
+classique-004|What time do you go to bed on a Saturday night?|What time does a really good party end, in your opinion?
+classique-005|How many times a day do you check the time?|How many times a day do you open the fridge?
+classique-006|How many pairs of shoes do you own?|How many cups and mugs are there in your home?
+classique-009|How many hours do you sleep on a normal night?|How many hours could you spend on a plane without losing it?
+classique-010|How many minutes does your ideal nap last?|How many minutes can you sit in a waiting room without your phone?
+classique-011|How many minutes does it take you to eat lunch?|How many minutes does it take to walk from your place to the nearest bakery?
+classique-012|What time do you usually have dinner?|What time do you usually stop working?
+classique-013|How many hours a day do you spend on your phone?|How many hours a week do you spend cooking?
+classique-014|How many times a week do you eat pasta?|How many times a week do you work out?
+classique-016|How many glasses of water do you drink a day?|How many times a day do you wash your hands?
+classique-017|What object do you lose most often?|What object do you always check you have before leaving the house?
+classique-018|What object would you take to a desert island?|What object would you never lend to anyone?
+classique-019|What object is always lying on your bedside table?|What object do you always have in your bag?
+classique-020|What object in your home could you throw away without regret?|What object would you pack first when moving house?
+classique-021|What gift would you love to receive?|What gift do you give most often?
+classique-022|What's your favourite mode of transport?|Which mode of transport do you use the most?
+classique-024|What's something you bought and never used?|What's something you bought on impulse?
+classique-025|What colour dominates your wardrobe?|What colour would you choose to repaint your bedroom?
+classique-027|What colour would your dream car be?|What colour would you wear to a wedding?
+classique-030|What animal do you find the cutest?|What animal would you be scared to run into in the woods?
+classique-032|What's your favourite dish?|What dish can you cook without a recipe?
+classique-033|What fruit do you eat most often?|What fruit would you put in the perfect fruit salad?
+classique-034|What do you eat for breakfast?|What do you eat when you get the munchies at 4 pm?
+classique-035|What vegetable did you hate as a kid?|What vegetable do you eat the most these days?
+classique-036|What ice cream flavour do you always pick?|What's your favourite flavour of sweets?
+classique-037|Which country has the best food, in your opinion?|Which country would you like to retire in?
+classique-038|Which country would you like to see win a World Cup?|Which country has the best athletes, in your opinion?
+classique-040|Which app do you open most often?|Which app could you delete without regret?
+classique-042|What sport would you like to try?|What sport do you enjoy watching on TV?
+classique-043|What do you do on Sunday afternoons?|What do you do when it rains all day?
+classique-046|What's the first thing you do when you get home?|What's the first thing you do when you wake up?
+classique-048|What game did you play most in the school playground?|What childhood game would you like to play again?
+classique-051|Which TV series did you finish the fastest?|Which TV series could you rewatch from the beginning?
+classique-053|What instrument would you like to be able to play?|What instrument do you find the most annoying?
+classique-057|What job did you dream of doing as a kid?|What job could you do for a year just to try it out?
+classique-058|Which job seems the hardest to you?|Which job do you admire the most?
+classique-061|What's your favourite season?|Which season goes by the fastest, in your opinion?
+classique-062|Which clothing brand do you wear the most?|Which shoe brand do you have your eye on?
+classique-063|Which car brand do you dream of?|Which car brand do you see the most on your street?
+classique-064|What first name would you have liked to have?|What name would you give a cat?
+classique-065|Which fictional character would you like to meet?|Which fictional character is most like you?
+classique-067|What's your favourite room in the house?|Which room in the house do you spend the most time in?
+classique-070|What do you say when you stub your little toe?|What do you say when you just miss your bus?
+classique-071|How old were you when you got your first phone?|How old were you when you first flew on a plane?
+classique-073|How much does a good restaurant meal cost, in your opinion (in pounds)?|How much would you be willing to pay for a good concert (in pounds)?
+classique-074|At what price (in pounds) does a coffee become too expensive?|At what price (in pounds) does a loaf of bread become too expensive?
+classique-075|How much do you spend on a birthday present (in pounds)?|How much do you spend on a takeaway (in pounds)?
+classique-076|How many countries have you visited?|How many languages would you like to speak?
+classique-077|How many people would you invite to your ideal birthday party?|How many people can you fit in your living room?
+classique-079|How many books do you read a year?|How many times a year do you go to the cinema?
+classique-080|How many days could you last without sugar?|How many days could you last without social media?
+classique-081|How many group chats do you have on your phone?|How many people do you actually call each month?
+classique-083|What temperature (in °C) should a bedroom be for a good night's sleep?|What temperature (in °C) does it need to be outside for you to go out in a T-shirt?
+classique-084|How many minutes can you stay in a bath?|How many minutes would you queue for a good restaurant?
+classique-085|How many miles could you walk without stopping?|How many miles would you travel for a good restaurant?
+classique-086|How many hours can you binge a series in one go?|How many hours can you spend in a museum?
+classique-087|How many episodes do you watch in a row on a weekend night?|How many episodes do you give a series before giving up?
+classique-088|How many minutes does it take for a film to hook you?|How many minutes of adverts can you put up with before a film?
+classique-089|Out of 10, how much of a morning person are you?|Out of 10, how much do you like surprises?
+classique-091|Out of 10, how much do you like the cold?|Out of 10, how much do you like spicy food?
+classique-092|Out of 10, what score would you give your week?|Out of 10, what score would you give your last meal?
+classique-094|Out of 10, how much do you like horror films?|Out of 10, how much do you like roller coasters?
+classique-096|Out of 10, how much do you enjoy doing the food shopping?|Out of 10, how much do you enjoy cleaning?
+classique-097|Out of 10, how good a loser are you?|Out of 10, how competitive are you?
+classique-101|What time does your alarm go off on weekdays?|What time would you like to wake up without an alarm?
+classique-102|How many minutes do you stay in bed after your alarm goes off?|How many minutes does it take you to be properly awake?
+classique-104|What object do you plug in when you get home?|What object do you always leave by the front door?
+classique-105|How many minutes do you take to get ready on a weekday?|How many minutes do you take to get ready for a special occasion?
+classique-106|What do you eat in the morning when you're in a rush?|What do you eat in the morning when you have plenty of time?
+classique-109|How many times do you check your phone before getting out of bed?|How many times do you check the time while getting ready?
+classique-110|What time do you leave the house in the morning?|What time do you get where you're going in the morning?
+classique-114|Which room do you eat breakfast in?|Which room do you make your first phone call of the day in?
+classique-115|What time do you get up on a weekday?|What time do you get up when you're on holiday?
+classique-116|What do you do on your morning commute?|What do you do in a waiting room?
+classique-118|Which pastry do you buy on Sunday mornings?|Which pastry would you bring your colleagues to make them happy?
+classique-119|How many times have you been late this month?|How many times have you missed your bus or train this month?
+classique-122|How many minutes does it take you to fall asleep?|How many minutes do you spend on your phone once you're in bed?
+classique-123|What do you eat when you don't feel like cooking in the evening?|What do you eat while watching a good film?
+classique-126|How many pillows do you have on your bed?|How many cushions do you have on your sofa?
+classique-129|What do you say to leave a party without offending anyone?|What do you say to end a phone call that's dragging on?
+classique-132|How many hours of sleep do you need to feel good?|How many hours of sleep did you get last night?
+classique-133|Where do you sleep best, apart from your own bed?|Where do you take your best naps?
+classique-135|What's the first thing you do on Saturday morning?|What's the first thing you do when you arrive on holiday?
+classique-140|What do you eat when you're home alone in the evening?|What do you eat when you get home late and starving?
+classique-141|How many times a month do you sleep in?|How many times a month do you do a deep clean?
+classique-142|How many days should the ideal weekend last?|How many days of holiday do you need to really switch off?
+classique-146|What word sums up your ideal weekend?|What word sums up your last weekend?
+classique-148|How many hours can you spend at a flea market?|How many hours can you spend in a park on a sunny day?
+classique-150|How many apps do you really use every day?|How many apps could you delete without missing anything?
+classique-151|At what battery percentage do you start to panic?|At what battery percentage do you plug your phone in?
+classique-153|How many minutes can you wait for a reply to a text before you start worrying?|How many minutes do you usually take to reply to a text?
+classique-154|Which emoji do you send most often?|Which emoji do you use when you don't know what to reply?
+classique-158|How many hours can you go without looking at your phone?|How many hours can you go without talking to anyone?
+classique-159|How many times a day do you check the weather?|How many times a day do you check your email?
+classique-160|Which app would you keep if you could only keep one?|Which app wastes the most of your time?
+classique-165|How many different shops do you go to for your weekly food shop?|How many bakeries do you know near your place?
+classique-166|What do you buy every single time you go food shopping?|What do you always forget to buy?
+classique-167|What do you stock up on when it's on sale?|What do you always have in reserve in your cupboards?
+classique-168|How many minutes do you usually spend at the supermarket?|How many minutes are you willing to queue at the checkout?
+classique-169|How much do you spend on your weekly food shop (in pounds)?|How much do you spend on a full tank of petrol (in pounds)?
+classique-170|Which supermarket aisle makes you want to buy everything?|Which supermarket aisle do you walk through without stopping?
+classique-173|Which supermarket do you go to most?|Which supermarket do you think is the cheapest?
+classique-176|Which day of the week is the supermarket most crowded?|Which day of the week is public transport most crowded?
+classique-177|What food ends up in your trolley when you shop hungry?|What food did you hide at the bottom of the trolley as a kid?
+classique-178|How much does a packet of pasta cost, in your opinion (in pounds)?|How much does a block of butter cost, in your opinion (in pounds)?
+classique-180|At what temperature (in °C) do you turn the heating on?|At what temperature (in °C) do you get your woolly hat out?
+classique-181|What temperature is your living room in winter (in °C)?|What temperature does it need to be to eat dinner outside (in °C)?
+classique-182|What object do you bring out as soon as the sun shows up?|What object do you put away first at the end of summer?
+classique-184|What do you do on a really hot afternoon?|What do you do on a really rainy afternoon?
+classique-186|Which month is the best for going on holiday?|Which month is the best for staying at home?
+classique-190|What object do you always regret forgetting when it pours?|What object do you lose most often on public transport?
+classique-193|How many rainy days in a row can you handle?|How many scorching days in a row can you handle?
+classique-194|What do you say when you step outside and it's freezing?|What do you say when you walk into an overheated room?
+classique-196|How many minutes is your most frequent journey?|How many minutes are you willing to walk to avoid taking the bus?
+classique-197|Where do you sit on the bus?|Where do you sit in the cinema?
+classique-198|Which mode of transport puts you in the worst mood?|Which mode of transport makes you feel the most relaxed?
+classique-199|How many minutes early do you get there to catch a train?|How many minutes late will you put up with from a friend?
+classique-200|What do you do when your train is delayed?|What do you do while waiting for someone who's late?
+classique-201|What do you say when someone bumps into you on the Tube?|What do you say when someone pushes in front of you in a queue?
+classique-204|What time does the last bus or train leave near your place?|What's the latest you get home from a night out on a weeknight?
+classique-205|What object never leaves your coat pocket?|What object do you always find at the bottom of your bag?
+classique-206|How much does a bus ticket cost, in your opinion (in pounds)?|How much does a magazine cost at the newsagent's, in your opinion (in pounds)?
+classique-207|How many train journeys have you made this year?|How many weekends have you spent away from home this year?
+classique-208|How many minutes does it take to get to your nearest bus stop or station?|How many minutes does it take to walk to the supermarket?
+classique-210|How many times have you taken a taxi this year?|How many times have you rented a bike or scooter this year?
+classique-211|How many keyrings have you got on your keys?|How many loyalty cards have you got?
+classique-215|How many mirrors are there in your home?|How many clocks are there in your home?
+classique-216|How many umbrellas do you have at home?|How many woolly hats do you have at home?
+classique-217|Which appliance in your home makes the most noise?|Which appliance in your home always breaks down at the worst moment?
+classique-221|How many charger cables do you have at home?|How many pairs of sunglasses do you have at home?
+classique-222|What time do you hear your neighbours the most?|What time is your street the noisiest?
+classique-223|Which room in your home is the coldest?|Which room in your home is the messiest?
+classique-239|What after-school snack takes you right back to childhood?|What dessert do you order without hesitating?
+classique-240|What do you do to treat yourself without spending a single penny?|What free activity would you suggest to a bored friend?
+classique-241|How many candles do you have at home?|How many throws do you have at home?
+classique-242|What object do you look for everywhere while it's in your hand?|What object do you always find in the washing machine?
+classique-243|What do you say when you spill your coffee?|What do you say when your phone falls on the floor?
+classique-244|How many times have you been locked out without your keys?|How many times have you cracked your phone screen?
+classique-245|What's the worst place for your phone battery to die?|What's the worst place to get the giggles?
+classique-246|What object do you break most often?|What object do you rebuy most often?
+classique-248|How many minutes can you stay on hold with customer service?|How many minutes can you wait for your food at a restaurant without complaining?
+classique-249|What's the worst time to get a phone call?|What's the worst time for someone to ring your doorbell?
+classique-250|What item of clothing do you stain most often?|What item of clothing do you lose most often?
+classique-251|How many times a month do you click “forgot password”?|How many times a month do you hunt for your glasses or keys?
+classique-253|What do you say to someone who steps on your foot?|What do you say to someone who holds the door for you?
+classique-254|How much does a phone screen repair cost, in your opinion (in pounds)?|How much does a decent pair of trainers cost, in your opinion (in pounds)?
+classique-255|Who do you call first to share good news?|Who do you call when you're bored on a Sunday?
+classique-256|How many friends could help you move house tomorrow?|How many friends know your favourite dish?
+classique-258|Where do you meet up with your friends most often?|Where would you arrange to meet someone you don't know yet?
+classique-259|How many people do you need for a good game night?|How many people can you invite to dinner without stressing?
+classique-260|What time do you leave a dinner at friends'?|What time do you leave a birthday party?
+classique-261|What pet name do you give a baby?|What pet name do you give a puppy?
+classique-262|What do you bring when you're invited round to friends'?|What do you offer when friends drop round unannounced?
+classique-263|Who would you call to help you assemble furniture?|Who would you call to help you pick an outfit?
+classique-265|How many years have you known your best friend?|How many years have you lived in your town?
+classique-266|Which day of the week is ideal for seeing friends?|Which day of the week is ideal for doing nothing?
+classique-271|What object do you fiddle with when you're thinking?|What object do you chew on without realising?
+classique-274|What do you do with your hands when you're on the phone?|What do you do with your hands when you're waiting for someone?
+classique-275|How many sugars do you put in your coffee?|How many ice cubes do you put in your glass?
+classique-278|What item of clothing do you wear when you don't know what to wear?|What item of clothing do you wear until it's full of holes?
+classique-283|Which European city would you like to discover first?|Which European city would you recommend for a weekend?
+classique-284|Which job do you find the most useful?|Which job did you dream of at age ten?
+classique-286|At what age do you really become an adult, in your opinion?|How old were you when you first went shopping on your own?
+classique-294|How many empty jars do you keep at home?|How many cardboard boxes do you keep “just in case”?
+classique-295|How many neighbours do you know by their first name?|How many shopkeepers recognise you in your neighbourhood?
+classique-296|How many board games do you have at home?|How many puzzles have you ever finished?
+classique-297|How many birthdays do you know by heart?|How many door codes do you know by heart?
+classique-298|How many minutes does it take you to make your bed?|How many minutes does it take you to do the washing-up?
+classique-299|How many phones have you had in your life?|How many computers have you had in your life?
+classique-300|How much does a cinema ticket cost, in your opinion (in pounds)?|How much does a fast-food meal cost, in your opinion (in pounds)?
+classique-301|How many New Year's resolutions do you make?|How many new habits have you managed to keep this year?
+classique-302|How many unread books are waiting on your shelf?|How many books have you lent and never seen again?
+classique-304|How many times a week do you cook a proper meal?|How many times a week do you eat out?
+classique-305|How many hours a week do you spend commuting?|How many hours a week do you spend cleaning?
+classique-306|How many windows in your home face the street?|How many doors do you have to open to get from your bed to the kitchen?
+classique-307|What time do you set your alarm for on Mondays?|What time do you set your alarm for on Saturdays?
+classique-309|What's the first word that comes to mind when your alarm goes off?|What's the first word that comes to mind when you see it's raining?
+classique-310|How many minutes before leaving do you get up?|How many minutes early do you arrive for an appointment?
+classique-312|What item of clothing do you put on first in the morning?|What item of clothing do you take off first when you get home at night?
+classique-314|How many minutes does it take you to get out of bed on Sundays?|How many minutes does it take you to get out of the shower in winter?
+classique-317|What do you do when you wake up five minutes before your alarm?|What do you do when you wake up in the middle of the night?
+classique-323|How many coffees or teas do you drink in a day?|How many times a day do you refill your water bottle?
+classique-325|How much does a croissant cost at your bakery (in pounds)?|How much does a loaf of bread cost at your bakery (in pounds)?
+classique-329|Around what time do you get your first snack craving of the morning?|Around what time do you hit your first energy slump of the afternoon?
+classique-330|What object do you put in your pocket right before going out?|What object do you take out of your pocket as soon as you get home?
+classique-333|What time do you start yawning in the evening?|What time do you start getting hungry in the evening?
+classique-334|What's under your bed?|What's on top of your wardrobe?
+classique-335|What do you say to someone who wakes you up for nothing?|What do you say to someone snoring next to you?
+classique-355|What do you find in your pockets when you put a wash on?|What do you find at the bottom of an old coat the next winter?
+classique-358|How much does a good umbrella cost, in your opinion (in pounds)?|How much does a good rucksack cost, in your opinion (in pounds)?
+classique-360|How many keys are on your keyring?|How many pens are in your bag or pencil case?
+classique-365|How many receipts are lying around in your wallet?|How many coins are lying around in your wallet?
+classique-373|How many minutes do you spend brushing your teeth?|How many minutes do you spend drying your hair?
+classique-394|How many dishes can you cook without a recipe?|How many cake recipes do you know by heart?
+classique-407|How much do you think a jar of chocolate spread costs?|How much do you think a box of cereal costs?
+classique-414|At what discount (in %) do you buy something useless?|At what discount (in %) do you call it a good deal?
+classique-416|What do you say to a shop assistant who asks if you're looking for anything?|What do you say when you're asked if you have the shop's loyalty card?
+classique-417|What's the most you'd spend on an umbrella (in pounds)?|What's the most you'd spend on a mug (in pounds)?
+classique-419|How many parcels do you get a month?|How many letters do you get a month?
+classique-422|What do you do on a train during a long journey?|What do you do in the car when you're not driving?
+classique-424|How many miles do you live from the sea?|How many miles do you live from the nearest mountains?
+classique-426|What do you say when the Tube stops between two stations?|What do you say when your sat nav makes you turn round?
+classique-427|How many hours can you drive without a break?|How many hours can you spend on a train without getting bored?
+classique-428|How many times did you take the train last year?|How many times did you take a plane last year?
+classique-435|How much does a sandwich cost at a train station (in pounds)?|How much does a coffee cost at a train station (in pounds)?
+classique-445|What do you do when your phone battery dies?|What do you do when you forget your phone at home?
+classique-452|How many pillows do you sleep with?|How many blankets do you sleep with in winter?
+classique-458|When you have a lie-in, how many hours do you sleep?|The night before a very early alarm, how many hours do you sleep?
+classique-482|How much does a museum ticket cost, in your opinion (in pounds)?|How much does a swimming pool ticket cost, in your opinion (in pounds)?
+classique-493|What do you say when a guest arrives and nothing is tidy?|What do you say when someone opens your junk cupboard?
+classique-494|How many hours does a deep clean of your home take?|How many hours does it take you to assemble flat-pack furniture?
+classique-495|Which household appliance do you use the most?|Which household appliance would you buy first when moving in?
+classique-505|How many minutes do you spend in a fitting room?|How many minutes do you spend ironing a shirt?
+classique-517|What temperature does it have to be for you to go out in shorts (in degrees)?|What temperature does it have to be for you to swim in the sea (in degrees)?
+classique-520|What do you say when it starts raining just as you head out?|What do you say when the sun comes back just as you get home?
+classique-534|What do you say to a neighbour you run into in the lift?|What do you say to the postman when you run into him?
+classique-539|How many floors are there in your building or house?|How many bakeries are there within ten minutes of your home?
+classique-548|What TV show are you watching right now?|What TV show do you recommend to everyone?
+classique-551|What film do you watch every year at the same time?|What film do you know almost by heart?
+classique-556|How many screens are there in your home, phones included?|How many remote controls are there in your home?
+classique-569|What's your lucky number?|What number would you pick for a sports shirt?
+classique-573|How much would you pay for a good croissant (in pounds)?|How much would you pay for a good coffee (in pounds)?
+classique-579|Roughly how many different passwords do you have?|Roughly how many online accounts do you have?
+classique-600|How do you greet your colleagues in the morning?|How do you greet your friends when arriving at a party?
+classique-606|What time do you start getting hungry before lunch?|What time do you start watching the clock at work?
+classique-607|What's the first thing you do when you get to work?|What's the first thing you do when you get to a friend's place?
+bouffe-001|What dish do you order for delivery the most?|What dish would you choose for your last meal?
+bouffe-004|What sauce goes best with chips?|What sauce would you put on absolutely everything?
+bouffe-005|What dessert do you order at a restaurant?|What dessert do you know how to make?
+bouffe-006|What ingredient is always in your fridge?|What ingredient do you always forget to buy?
+bouffe-009|What snack do you get at the cinema?|What snack do you take on a hike?
+bouffe-010|What goes in the perfect sandwich?|What do you put on your toast at breakfast?
+bouffe-012|What drink do you order at an outdoor café?|What drink do you have in the morning?
+bouffe-018|What British dish would you get a tourist to try?|What British dish is the most overrated?
+bouffe-029|What ingredient would make any dish better?|What ingredient do you add to pasta at the last minute?
+bouffe-031|How many times a month do you eat out?|How many times a month do you order food delivery?
+bouffe-032|How many minutes can you wait for your food at a restaurant?|How many minutes do you spend making dinner on a weeknight?
+bouffe-033|How much (in pounds) would you pay for the best burger in the world?|How much (in pounds) would you pay for a slice of cake in a posh tea room?
+bouffe-035|How many grams of pasta do you plan per person?|How many grams does a chocolate bar weigh?
+bouffe-036|How many sugar cubes do you put in your coffee or tea?|How many slices of bread do you eat a day?
+bouffe-039|How many pancakes can you eat in a row?|How many slices of pizza can you eat in a row?
+bouffe-041|What time do you have breakfast on weekdays?|What time do you have breakfast when you're on holiday?
+bouffe-044|What do you spread on a cracker?|What do you spread on a pancake?
+bouffe-053|What do you get at the bakery besides bread?|What pastry do you bring for a Sunday with family?
+bouffe-055|How many loaves of bread do you buy a week?|How many croissants do you buy for breakfast for four?
+bouffe-085|What food goes in the trolley last?|What food do you put on top of the bag so it doesn't get squashed?
+bouffe-086|How much do you think a jar of chocolate spread costs?|How much do you think a bag of ground coffee costs?
+bouffe-088|What do you taste as soon as you get home from shopping, before putting anything away?|What disappears first after a big food shop?
+bouffe-092|How many shopping bags can you carry at once?|How many bags do you fill for the weekly food shop?
+bouffe-098|What starter do you order most often at a restaurant?|What starter do you happily share with the whole table?
+bouffe-099|What do you order when you don't know the restaurant?|What do you order at a fancy restaurant?
+bouffe-100|How many times do you read the menu before choosing?|How many dishes do you hesitate between before ordering?
+bouffe-101|How many minutes does it take you to choose from a menu?|How many minutes do you wait for the bill at a restaurant?
+bouffe-103|What dish do you never order at a restaurant because you make it better?|What dish do you only ever eat at a restaurant?
+bouffe-104|How much (in pounds) is reasonable for a set lunch menu?|How much (in pounds) do you think the dish of the day costs?
+bouffe-105|What side do you choose with meat?|What side do you ask to swap on a set menu?
+bouffe-107|What dish do you always find disappointing at restaurants?|What dish do you find too expensive at restaurants?
+bouffe-113|What dish do you choose at a pub?|What dish do you choose at a motorway service station?
+bouffe-114|What pizza do you order at a pizzeria?|What frozen pizza do you buy?
+bouffe-118|How many minutes can you wait for your delivery?|How many minutes do you spend choosing on the delivery app?
+bouffe-122|How much (in pounds) does a portion of chips cost at a fast-food place?|How much (in pounds) does a kebab and chips cost?
+bouffe-128|What country has the best food in the world?|What country would you travel to just to eat?
+bouffe-148|What's your favourite savoury snack?|What savoury snack do you bring out for pre-dinner drinks?
+bouffe-156|What time of day do you snack the most?|What time of day are you the hungriest?
+bouffe-177|What dessert is better homemade?|What dessert is better bought than made yourself?
+bouffe-187|How much (in pounds) do you think a single pastry costs?|How much (in pounds) do you think a big cake for six costs?
+bouffe-195|What appetiser do you serve with pre-dinner drinks?|What appetiser do you eat first at a buffet?
+bouffe-198|What do you like eating most at a barbecue?|What do you always mess up at a barbecue?
+bouffe-201|How many slices of raclette cheese do you eat?|How many potatoes do you eat with raclette?
+bouffe-210|How many sandwiches do you make for a picnic for four?|How many packets of crisps do you need for a picnic for six?
+bouffe-224|How many opened jars of sauce are in your fridge?|How many kinds of cheese are in your fridge?
+bouffe-225|What food do you never put in the fridge?|What food do people put in the fridge when they shouldn't?
+bouffe-226|How many minutes do you microwave a plate of food?|How many minutes do you microwave a bowl of soup?
+bouffe-227|What fizzy drink do you order at a fast-food place?|What fizzy drink do you have while watching a film?
+bouffe-235|What time do you have a coffee at work?|What time do you have a hot chocolate in winter?
+bouffe-239|How many times do you go back for seconds when it's good?|How many napkins do you use to eat chicken wings?
+bouffe-241|How many minutes does it take you to finish your plate?|How many minutes do you stay at the table after finishing?
+bouffe-242|What food do you cover in grated cheese?|What food do you drown in sauce?
+bouffe-254|How many packets of pasta are in your cupboard?|How many tins are in your cupboard?
+bouffe-256|What recipe did you learn online?|What recipe did someone in your family teach you?
+bouffe-264|How much do you think a kilo of tomatoes costs?|How much do you think a kilo of cherries costs?
+bouffe-280|How many ice creams do you eat during a week's holiday?|How many times do you eat out during a week's holiday?
+bouffe-282|What do you eat at the fair?|What do you eat at a stadium or a concert?
+bouffe-285|How much do you think candyfloss costs?|How much do you think a sugar crêpe from a street stall costs?
+bouffe-297|How many pizzas should you order for six people?|How many loaves of bread should you buy for ten people?
+bouffe-300|At what age can a kid make pancakes alone?|At what age can you let a kid use a kitchen knife?
+bouffe-308|What restaurant job is the hardest?|What restaurant job would you try for a day?
+bouffe-310|What kitchen item would you give someone moving into a new place?|What kitchen item do you have two of?
+bouffe-314|What fish do you eat most often?|What fish do you order at the seaside?
+bouffe-319|How many nights a week do you actually cook?|How many nights a week do you eat in front of a screen?
+bouffe-323|How much do you think a homemade dinner for two costs?|How much do you think a takeaway for two costs?
+bouffe-325|What sauce do you make yourself?|What sauce do you buy ready-made?
+bouffe-328|Where do you eat dinner when you're alone?|Where do you eat dinner when you have a friend over?
+bouffe-332|What aisle do you start with at the supermarket?|What aisle do you linger in the longest at the supermarket?
+bouffe-333|What do you put in the trolley without looking at the price?|What do you put in the trolley even though it's not on the list?
+bouffe-334|How much would you guess a jar of chocolate spread costs?|How much would you guess a bag of ground coffee costs?
+bouffe-341|What time do you think the supermarket is quietest?|What time do you think the market is busiest?
+bouffe-343|What do you say when you see the total at the checkout?|What do you say when you open an empty fridge?
+bouffe-346|How much do you tip after a good meal?|How much do you think a dessert costs at a restaurant?
+bouffe-349|How many minutes do you wait before calling the waiter back?|How many minutes would you wait for a table without a booking?
+bouffe-352|What dessert do you share with several spoons?|What dessert do you refuse to share?
+bouffe-353|How many people make a good group at a restaurant?|How many people do you invite to celebrate your birthday at a restaurant?
+bouffe-358|At what price does a burger seem expensive to you?|At what price does a pizza seem expensive to you?
+bouffe-360|What time do you book a table on a Saturday night?|What time do you think a restaurant kitchen closes?
+bouffe-380|What street food could you eat every day?|What street food disappointed you the first time?
+bouffe-384|What do you get instead of chips with a set meal?|What do you get on top of chips when you're really hungry?
+bouffe-385|What occasion calls for fast food?|What occasion calls for a delivered pizza?
+bouffe-392|What snack do you buy from a vending machine?|What snack do you buy at a petrol station?
+bouffe-393|What app do you open to find a recipe?|What app do you open to order food?
+bouffe-397|How many bowls of cereal can you eat back to back?|How many waffles can you eat back to back as a snack?
+bouffe-398|How many minutes does it take you to wolf down breakfast when you're late?|How many minutes does it take you to drink your morning coffee?
+bouffe-403|What do you drink first thing when you wake up?|What do you drink first when you get to work or class?
+bouffe-409|How much do you think a decent brunch costs?|How much do you think a hotel breakfast costs?
+bouffe-416|What éclair flavour do you choose?|What flavour of individual tart do you choose?
+bouffe-417|How many pains au chocolat do you buy just for yourself?|How many mini doughnuts do you eat on the way home from the bakery?
+bouffe-419|How much do you think a chocolate éclair costs?|How much do you think a slice of custard tart costs?
+bouffe-425|How many kinds of bread does your bakery sell?|How many different cakes do you see in the window?
+bouffe-431|Where do you keep the bread at home?|Where do you keep the biscuits at home?
+bouffe-434|How many loaves of bread do you buy for a meal for eight?|How many loaves of bread do you buy for a barbecue for eight?
+bouffe-435|What do you say to the person at the bakery counter?|What do you say to the supermarket cashier?
+bouffe-441|How many pinches of salt do you put in the pasta water?|How many spoonfuls of sugar do you put in pancake batter?
+bouffe-455|How many recipes have you saved without ever making them?|How many recipes have you tried this month?
+bouffe-456|What do you put in your basket first at the market?|What do you put in your trolley first at the supermarket?
+bouffe-457|How many stalls do you check at the market before buying?|How many aisles do you walk through to find a single product?
+bouffe-460|How many minutes can you queue at the checkout without moaning?|How many minutes do you queue at the cheese counter?
+bouffe-473|How much does a week's food shopping cost for one person?|How much does a week's food shopping cost for four people?
+bouffe-476|What do you answer when the waiter asks if everything is okay?|What do you answer when the waiter asks if you're ready to order?
+bouffe-477|How many minutes do you wait before calling the waiter?|How many minutes do you wait for your dessert at a restaurant?
+bouffe-486|What comment do you make when you see the bill?|What comment do you make when you see the size of the portion?
+bouffe-489|What table item is always missing at restaurants?|What table item do you always ask for extra of?
+bouffe-519|How many jars of mustard do you have at home?|How many bottles of hot sauce do you have at home?
+bouffe-520|What fresh herb do you sprinkle on tomatoes?|What fresh herb do you sprinkle on fish?
+bouffe-544|How much do you think a box of macarons costs?|How much do you think a tub of artisan ice cream costs?
+bouffe-552|How many cheeses make a good cheese board?|How many different cheeses can you name?
+bouffe-560|How would you describe the smell of an old cheese?|How would you describe the smell of a market in the morning?
+bouffe-563|What local product would you give as a gift?|What local product do you buy at the motorway services?
+bouffe-572|How many bananas do you buy at once?|How many apples do you buy at once?
+bouffe-612|How much do you think a packet of crisps costs?|How much do you think a bag of peanuts costs?
+bouffe-618|What do you say when someone finishes the packet of crisps?|What do you say when someone takes the last slice?
+bouffe-620|How many people does it take to finish a large pizza?|How many people does it take to finish a big bowl of crisps?
+bouffe-623|How many times do they serve you seconds at a family meal?|How many dishes do you try at a family meal?
+bouffe-624|What line do you always hear at a family meal?|What line do you always hear at the end of a meal?
+bouffe-626|How many minutes does it take everyone to sit down once the food is ready?|How many minutes does it take to clear up after a family meal?
+bouffe-629|Who always helps themselves first at the table?|Who always finishes off the dishes at the table?
+bouffe-633|How many times do you hear “dinner's ready” before everyone shows up?|How many times are seconds offered at the table?
+bouffe-638|Who always tells the same story at the table?|Who always gives their opinion on the cooking at the table?
+bouffe-640|How many generations gather around your table?|How many extra chairs get added for big meals?
+bouffe-647|How much does a fresh orange juice cost sitting outside at a café?|How much do you think a tea costs sitting outside at a café?
+bouffe-656|What drink goes best with a pancake?|What drink goes best with a slice of pizza?
+boulot-001|What time do you start your work or school day?|What time do you take your first break?
+boulot-002|How many minutes is your commute to work or school?|How many minutes is your lunch break?
+boulot-004|What time do you send your last email of the day?|What time do you leave work on a Friday?
+boulot-007|How many hours of sleep do you need to function well?|How many hours of work per day would be ideal?
+boulot-008|How many minutes early do you show up for an important appointment?|How many minutes late is acceptable for a meeting?
+boulot-009|How many emails do you get per day?|How many unread emails do you have right now?
+boulot-042|How many miles do you travel to get to work or school?|How many miles would you travel every day for a dream job?
+boulot-046|What's the maximum number of people for a good meeting?|How many people are in your meetings on average?
+boulot-047|How many minutes should the ideal meeting last?|How many minutes does your most frequent meeting last?
+boulot-049|What time would you schedule the ideal meeting?|What time do last-minute meetings always get scheduled?
+boulot-050|What do you always bring to a meeting?|What do people always leave behind in the meeting room?
+boulot-051|What do you say to politely interrupt someone?|What do you say to wrap up a meeting?
+boulot-052|What do you say when you realise you were on mute the whole time?|What do you say when your connection drops in the middle of a video call?
+boulot-058|How many people actually speak up in meetings?|How many people take notes in meetings?
+boulot-068|How many people do you cc on an important email?|How many times do you reread an important email before sending it?
+boulot-069|What email subject line makes you open it right away?|What email subject line makes you want to ignore it?
+boulot-073|What time of day do you sort through your emails?|What time of day do you send your most important messages?
+boulot-081|What do you say when you walk up to the coffee machine?|What do you say when you run into a colleague in the lift?
+boulot-082|How many minutes does a real coffee break last?|How many minutes does your coffee break last when nobody's looking for you?
+boulot-083|How many paper cups do you use in a day at the office?|How many stirrers do you take from the coffee machine?
+boulot-087|Where does the best office gossip get shared?|Where do you go to make a quiet phone call at the office?
+boulot-091|What time do you go to lunch?|What time do you start getting hungry at work?
+boulot-092|How many minutes does it take to heat up your lunch in the microwave?|How many minutes do you queue for the microwave?
+boulot-093|How many colleagues usually have lunch with you?|How many colleagues make for a good team lunch?
+boulot-094|What dish leaves a smell all over the open-plan office?|What dish is the easiest to heat up at the office?
+boulot-098|How much does your lunch cost on a normal day?|How much does your lunch cost when you treat yourself?
+boulot-100|What do you do on your lunch break once you've finished eating?|What do you do on your lunch break when you're not hungry?
+boulot-101|What do you say to suggest going to lunch?|What do you say to turn down a team lunch?
+boulot-104|How many screens do you need to work well?|How many screens do you have at home in total?
+boulot-117|How many passwords do you have to remember for work?|How many badges or cards do you have for work or school?
+boulot-120|What do you wear when you work from home?|What do you wear for an important video call?
+boulot-121|What time do you log on when you work from home?|What time do you get up when you work from home?
+boulot-129|How many minutes before a video call do you log on?|How many minutes do you wait alone on a video call before leaving?
+boulot-131|How many days of working from home can you do before you miss the office?|How many days at the office can you do before you miss working from home?
+boulot-135|How many colleagues do you know by their first name?|How many colleagues would you say hi to if you ran into them in the street?
+boulot-138|How many colleagues do you invite to your birthday party?|How many colleagues wish you a happy birthday?
+boulot-140|What do you say when you arrive on Monday morning?|What do you say when you leave on Friday evening?
+boulot-141|How many names do you remember in your first week at a new company?|How many new faces do you meet in your first week at a new company?
+boulot-142|What gift would you give a colleague who's leaving?|What gift would you give a colleague for their birthday?
+boulot-144|What compliment would you like to get from a colleague?|What compliment do you give colleagues most often?
+boulot-145|How many colleagues do you talk to casually?|How many colleagues do you keep things formal with?
+boulot-147|What sport would you happily play with your colleagues?|What sport could you see yourself playing in an inter-company tournament?
+boulot-152|What time do you leave the office the day before a deadline?|What time do you leave the office on a quiet day?
+boulot-163|What excuse do you hear the most for a late assignment?|What excuse have you used to get one more day?
+boulot-168|How many minutes does a good job interview last?|How many minutes does it take a recruiter to make up their mind?
+boulot-200|What subject did you love most during your studies?|What subject did you forget the fastest after your studies?
+boulot-201|What subject do you wish you'd had during your studies?|What subject would you teach if you became a teacher?
+boulot-204|How many minutes late will a teacher tolerate before closing the door?|How many minutes before the end of class do you start packing up?
+boulot-224|How many people sign a leaving card?|How many people actually turn up to the leaving drinks?
+boulot-231|After how many minutes does the talk turn to work at team drinks?|After how many minutes does the talk turn to work at a dinner with friends?
+boulot-238|How many minutes before the end of an exam do you hand in your paper?|How many minutes before the start of an exam do you show up?
+boulot-241|What do you say when you walk out of a tough exam?|What do you say when you first see the exam questions?
+boulot-243|How many times do you reread your answers before handing them in?|How many times do you reread the questions before you start?
+boulot-252|How much did a meal at the uni canteen cost?|How much does a sandwich cost near your workplace?
+boulot-270|What floor would you like to work on?|How many floors are you willing to walk up?
+boulot-277|Which day of the week do you schedule your important appointments?|Which day of the week do you avoid booking appointments?
+boulot-278|What time does the first colleague get to the office?|What time do you arrive on days you want some peace and quiet?
+boulot-290|What country would you like to work in for a year?|What country would you like to open a shop in?
+boulot-308|What month do you take your longest holiday?|What month of the year is the quietest at work?
+boulot-315|How many people do you say hi to when you arrive in the morning?|How many people do you say bye to when you leave in the evening?
+boulot-316|What do you reply to "How are you?" on a Monday morning?|What do you reply to "How are you?" on a Friday evening?
+boulot-320|How many times a week do you arrive right on time?|How many times a week do you leave right on time?
+boulot-321|What excuse do you give when you arrive late?|What excuse do you give when you leave earlier than planned?
+boulot-326|What do you do while waiting for your computer to start up?|What do you do while waiting for the lift?
+boulot-327|How much does a croissant cost near your work?|How much does a coffee at a café near your work cost?
+boulot-328|What month of the year is it hardest to get up for work?|What month of the year are you most often late?
+boulot-342|How many meetings have you had to prepare for another meeting?|How many meetings have you had to review another meeting?
+boulot-343|What do you always hear at the start of a meeting?|What do you always hear at the end of a meeting?
+boulot-345|How many minutes late do your meetings start on average?|How many minutes do your meetings run over on average?
+boulot-349|What part of a meeting do you like best?|What part of a meeting feels the longest?
+boulot-352|How many slides can you tolerate in a presentation?|How many slides do you prepare for a ten-minute presentation?
+boulot-353|After what time does a meeting become unbearable?|Around what time is a meeting most productive?
+boulot-354|What do you say when you didn't hear the question in a meeting?|What do you say when you're suddenly asked for your opinion in a meeting?
+boulot-363|How many minutes do you spend writing a tricky email?|How many minutes do you spend rereading a tricky email?
+boulot-364|How many attachments do you put in a single email?|How many recipients do you put on a single email?
+boulot-393|What time do you finish your day when working from home?|What time do you finish your day at the office?
+boulot-401|What do you say to a colleague who talks too loudly on the phone?|What do you say to a colleague who sings without realising it?
+boulot-408|What open-plan office noise annoys you the most?|What open-plan office noise do you not even notice anymore?
+boulot-430|What time is the canteen the most crowded?|What time is the canteen the quietest?
+boulot-433|How much does a full tray at the canteen cost?|How much does a sandwich, drink and dessert meal deal cost?
+boulot-445|How many colleagues' names do you still mix up?|How many colleagues call you by a nickname?
+boulot-452|What do you say to a colleague celebrating their birthday at the office?|What do you say to a colleague celebrating their retirement?
+boulot-470|What word do you use to ask your boss for a day off?|What word do you use to tell your boss you're running late?
+boulot-472|What film best sums up your relationship with your boss?|What film best sums up your working week?
+boulot-487|How many minutes can you work without checking your notifications?|How many minutes can you work without getting up?
+boulot-506|How many hours of class did you have on your busiest day?|How many hours of class did you have on your lightest day?
+boulot-507|What item did you take out of your bag first in class?|What item did you put away last at the end of class?
+boulot-510|What does a teacher say when the bell rings?|What does a teacher say before a surprise test?
+boulot-511|How many minutes of break were there between two classes?|How many minutes did it take to change rooms between two classes?
+boulot-512|How many pages was your longest homework assignment?|How many pages was your longest dissertation or report?
+boulot-527|How many minutes does it take you to read through the whole exam?|How many minutes do you spend on the first question?
+boulot-534|How many minutes should an oral exam last to win over the examiners?|How many minutes do examiners ask questions after an oral exam?
+boulot-557|Who proofreads your CV before you send it?|Who helps you rehearse before an interview?
+boulot-561|What do you say to the recruiter when you leave?|What do you say to the recruiter when you arrive?
+boulot-562|What job takes the most patience?|What job takes the most precision?
+boulot-564|What job has the strangest hours?|What job has the most recognisable outfit?
+boulot-578|What task did you hate at your first job?|What task were you best at in your first job?
+boulot-582|What film character would make a disastrous waiter?|What film character would make a formidable salesperson?
+boulot-583|What do you say to a customer who walks in right before closing?|What do you say to a customer who asks to speak to the manager?
+boulot-605|What city would you dream of having an office with a view in?|What city would you like to spend a week working remotely from?
+voyage-001|What country would you visit with a free plane ticket?|What country do you most want to go back to?
+voyage-009|What capital city would you like to visit?|What capital city seems the most overrated to you?
+voyage-013|What monument would you like to see with your own eyes?|What monument was a letdown in real life?
+voyage-015|What theme park would you like to go to?|What tourist spot do you dream of visiting?
+voyage-018|How many hours would you fly for a holiday?|How many hours would you drive for a weekend away?
+voyage-019|How many hours of jet lag are you willing to put up with?|How many hours in a row are you willing to spend on a train?
+voyage-020|What item do you always forget when travelling?|What item do you always take when travelling?
+voyage-021|What do you put in your suitcase first?|What do you take out of your suitcase last?
+voyage-022|What souvenir do you always bring back from a trip?|What travel souvenir is lying around your home?
+voyage-024|How many suitcases do you take for a week?|How many pairs of shoes do you take for a week?
+voyage-026|What time do you get to the airport for a 10am flight?|What time do you get up on the first day of your holiday?
+voyage-027|How much (in pounds) should you budget per day on holiday?|How much (in pounds) do you spend on souvenirs?
+voyage-029|What thrill-seeking activity would you dare to try on holiday?|What holiday activity scares you?
+voyage-033|How many photos do you take per day on holiday?|How many photos do you actually keep after a trip?
+voyage-034|How many minutes would you queue for a ride?|How many minutes of flight delay can you handle without complaining?
+voyage-039|How many times have you flown?|How many times have you taken the train this year?
+voyage-044|How many days before leaving do you pack your suitcase?|How many days after getting back do you unpack your suitcase?
+voyage-061|How many minutes do you spend looking for your passport before leaving?|How many minutes do you spend checking you haven't forgotten anything?
+voyage-063|How many hours before a long-haul flight do you get to the airport?|How many hours before a short flight do you get to the airport?
+voyage-068|How much does a bottle of water cost at the airport?|How much does a sandwich cost at the airport?
+voyage-071|What item gets confiscated at security?|What item sets off the metal detector?
+voyage-077|How many times do you check your boarding pass before the flight?|How many times do you look at the departures board before boarding?
+voyage-080|What announcement do you always hear at the airport?|What announcement do you always hear on the train?

@@ -245,3 +245,203 @@ reflexe-022|Diga uma cor de carro.|Diga uma cor de bicicleta.
 reflexe-023|Diga uma cor de bandeira.|Diga uma cor do arco-íris.
 reflexe-024|Diga uma coisa redonda.|Diga uma coisa que rola.
 reflexe-025|Diga uma coisa gelada.|Diga uma coisa branca.
+reflexe-026|Diga uma profissão que usa uniforme.|Diga uma profissão em que se trabalha à noite.
+reflexe-027|Diga uma profissão que salva vidas.|Diga uma profissão que você admira.
+reflexe-028|Diga um esporte com bola.|Diga um esporte que a gente assiste na TV.
+reflexe-029|Diga um passatempo que se faz sozinho.|Diga um passatempo de domingo.
+reflexe-030|Diga um jogo de cartas.|Diga um jogo para jogar em família.
+reflexe-031|Diga um instrumento musical.|Diga um instrumento que se ouve numa fanfarra.
+reflexe-032|Diga um super-herói.|Diga um herói de filme.
+reflexe-033|Diga um objeto que tem numa bolsa.|Diga um objeto que tem num estojo.
+reflexe-034|Diga um objeto de escritório.|Diga um objeto que tem numa sala de aula.
+reflexe-035|Diga um objeto que faz barulho.|Diga um objeto que toca.
+reflexe-036|Diga um objeto que a gente esquece muito.|Diga um objeto que a gente perde muito.
+reflexe-037|Diga uma coisa que vai na mala.|Diga uma coisa que vai na mochila da academia.
+reflexe-038|Diga um meio de transporte.|Diga um meio de transporte que se usa nas férias.
+reflexe-039|Diga uma roupa de inverno.|Diga uma roupa que se usa na serra.
+reflexe-040|Diga uma marca de carro alemã.|Diga uma marca de carro de luxo.
+reflexe-041|Diga um objeto que fica no criado-mudo.|Diga um objeto que fica numa escrivaninha.
+reflexe-042|Diga um móvel da sala.|Diga um móvel do quarto.
+reflexe-043|Diga uma coisa que se pendura na parede.|Diga uma coisa que se coloca numa prateleira.
+reflexe-044|Diga um objeto que se guarda na gaveta.|Diga um objeto que se guarda numa caixa de sapato.
+reflexe-045|Diga um aparelho que esquenta.|Diga um aparelho que faz barulho em casa.
+reflexe-046|Diga um objeto que tem no porão.|Diga um objeto que tem no sótão.
+reflexe-047|Diga um produto de limpeza.|Diga uma coisa que se compra no supermercado.
+reflexe-048|Diga um objeto que serve para limpar.|Diga um objeto que serve para organizar.
+reflexe-049|Diga um móvel que tem quatro pés.|Diga um objeto que anda sobre rodinhas.
+reflexe-050|Diga um objeto que tem alça.|Diga um objeto que tem tampa.
+reflexe-051|Diga um aparelho que você liga toda manhã.|Diga uma coisa que você abre quando acorda.
+reflexe-052|Diga um objeto que fica na entrada de casa.|Diga um objeto que você pega antes de sair.
+reflexe-053|Diga um utensílio de cozinha.|Diga um utensílio para fazer bolo.
+reflexe-054|Diga um eletrodoméstico.|Diga um aparelho que gira.
+reflexe-055|Diga um tempero.|Diga um ingrediente que vai num molho.
+reflexe-056|Diga uma coisa que se frita.|Diga uma coisa que se grelha.
+reflexe-057|Diga um alimento que se come cru.|Diga um alimento que se come cozido.
+reflexe-058|Diga um alimento que vai ao forno.|Diga um alimento que vai ao congelador.
+reflexe-059|Diga um tipo de massa.|Diga um prato italiano.
+reflexe-060|Diga um legume que cresce debaixo da terra.|Diga um legume que se descasca.
+reflexe-061|Diga uma carne.|Diga uma coisa que vai no churrasco.
+reflexe-062|Diga um peixe.|Diga uma coisa que se pesca.
+reflexe-063|Diga uma coisa que se passa no pão.|Diga uma coisa que se coloca na tapioca.
+reflexe-064|Diga um alimento amarelo.|Diga um alimento doce.
+reflexe-065|Diga uma fruta tropical.|Diga uma fruta que tem caroço.
+reflexe-066|Diga uma fruta que se descasca.|Diga uma fruta que se espreme.
+reflexe-067|Diga um molho.|Diga uma coisa que vai num sanduíche.
+reflexe-068|Diga uma bala ou doce.|Diga um doce de parque de diversões.
+reflexe-069|Diga um prato de inverno.|Diga um prato que se come na serra.
+reflexe-070|Diga uma bebida gelada.|Diga uma bebida que se toma de canudinho.
+reflexe-071|Diga um sabor de sorvete.|Diga um sabor de iogurte.
+reflexe-072|Diga uma coisa que se compra na padaria.|Diga uma coisa que se compra na feira.
+reflexe-073|Diga um alimento que dura muito tempo.|Diga um alimento que se compra enlatado.
+reflexe-074|Diga uma paisagem.|Diga um lugar para fazer trilha.
+reflexe-075|Diga uma árvore.|Diga uma árvore frutífera.
+reflexe-076|Diga uma flor.|Diga uma planta de dentro de casa.
+reflexe-077|Diga uma coisa que se encontra na praia.|Diga uma coisa que se encontra na beira de um rio.
+reflexe-078|Diga uma coisa que se recolhe na floresta.|Diga uma coisa que se colhe no verão.
+reflexe-079|Diga um lugar onde dá para nadar.|Diga um lugar onde se pesca.
+reflexe-080|Diga uma coisa que cai do céu.|Diga uma coisa que cai de uma árvore.
+reflexe-081|Diga uma coisa que se vê no céu à noite.|Diga uma coisa que brilha.
+reflexe-082|Diga um fenômeno do tempo.|Diga uma coisa que estraga um piquenique.
+reflexe-083|Diga um objeto que você leva quando chove.|Diga um objeto que você leva quando faz frio.
+reflexe-084|Diga uma atividade de inverno.|Diga uma atividade para fazer dentro de casa.
+reflexe-085|Diga uma palavra que lembra o outono.|Diga uma palavra que lembra a volta às aulas.
+reflexe-086|Diga uma coisa que se vê na primavera.|Diga uma coisa que se vê num jardim.
+reflexe-087|Diga um animal da savana.|Diga um animal da selva.
+reflexe-088|Diga um animal que nada.|Diga um animal que vive perto da água.
+reflexe-089|Diga um animal da floresta.|Diga um animal que aparece à noite.
+reflexe-090|Diga um pássaro.|Diga um animal que bota ovos.
+reflexe-091|Diga um animal com listras.|Diga um animal com manchas.
+reflexe-092|Diga um animal que pula.|Diga um animal que escala.
+reflexe-093|Diga um animal muito lento.|Diga um animal que dorme muito.
+reflexe-094|Diga um bicho protegido por uma carapaça.|Diga um bicho coberto de espinhos.
+reflexe-095|Diga um animal que dá medo.|Diga um animal que pica.
+reflexe-096|Diga um animal que anda em bando.|Diga um animal que migra todo ano.
+reflexe-097|Diga um animal que dá para montar.|Diga um animal que trabalha.
+reflexe-098|Diga um som de animal.|Diga um barulho de fazenda.
+reflexe-099|Diga um animal do deserto.|Diga um animal que aguenta o calor.
+reflexe-100|Diga um animal do Polo Norte.|Diga um animal branco.
+reflexe-101|Diga um animal que tem orelhas compridas.|Diga um animal que tem rabo comprido.
+reflexe-102|Diga um animal da Austrália.|Diga um animal que tem bolsa na barriga.
+reflexe-103|Diga um animal que vive num lago.|Diga um animal verde.
+reflexe-104|Diga uma profissão de hospital.|Diga uma profissão em que se usa jaleco.
+reflexe-105|Diga uma profissão manual.|Diga uma profissão da construção civil.
+reflexe-106|Diga uma profissão da escola.|Diga uma profissão em que se fala muito.
+reflexe-107|Diga uma profissão em que se trabalha ao ar livre.|Diga uma profissão em que se acorda cedo.
+reflexe-108|Diga uma profissão de restaurante.|Diga uma profissão em que se fica de pé.
+reflexe-109|Diga uma profissão que usa um veículo.|Diga uma profissão em que se viaja.
+reflexe-110|Diga uma profissão com uma ferramenta afiada.|Diga uma profissão em que se trabalha com as mãos.
+reflexe-111|Diga uma profissão artística.|Diga uma profissão que se exerce no palco.
+reflexe-112|Diga uma profissão que criança sonha ter.|Diga uma profissão que aparece nos filmes.
+reflexe-113|Diga uma profissão ligada ao mar.|Diga uma profissão exercida num barco.
+reflexe-114|Diga uma profissão em que se conserta.|Diga uma profissão em que se fabrica.
+reflexe-115|Diga um tipo de comerciante.|Diga uma profissão que você cruza na rua.
+reflexe-116|Diga uma profissão em que se usa capacete.|Diga uma profissão em que se usa luvas.
+reflexe-117|Diga uma profissão de escritório.|Diga uma profissão em que se passa o dia na frente de uma tela.
+reflexe-118|Diga uma profissão que trabalha com animais.|Diga uma profissão exercida no campo.
+reflexe-119|Diga um esporte coletivo.|Diga um esporte que se joga numa quadra.
+reflexe-120|Diga um esporte individual.|Diga um esporte olímpico.
+reflexe-121|Diga um esporte aquático.|Diga um esporte que se pratica no verão.
+reflexe-122|Diga um esporte de raquete.|Diga um esporte com rede.
+reflexe-123|Diga uma arte marcial.|Diga um esporte em que se usa quimono.
+reflexe-124|Diga um esporte com prancha.|Diga um esporte que se pratica na montanha.
+reflexe-125|Diga um esporte em que se corre.|Diga um esporte em que se sua muito.
+reflexe-126|Diga um esporte que se pratica descalço.|Diga um esporte que se pratica em ginásio.
+reflexe-127|Diga um objeto de esporte.|Diga um objeto que tem num vestiário.
+reflexe-128|Diga um lugar onde se pratica esporte.|Diga um lugar que tem arquibancada.
+reflexe-129|Diga um esporte em que se usa um veículo.|Diga um esporte em que se vai muito rápido.
+reflexe-130|Diga um esporte que dá para praticar a vida toda.|Diga um esporte que se pratica sem equipamento.
+reflexe-131|Diga uma palavra que se ouve durante uma partida.|Diga uma palavra que um técnico grita.
+reflexe-132|Diga um veículo de duas rodas.|Diga um veículo que se estaciona na calçada.
+reflexe-133|Diga um veículo que se vê na cidade.|Diga um jeito de ir para o trabalho.
+reflexe-134|Diga um veículo que leva muita gente.|Diga um veículo que faz viagens longas.
+reflexe-135|Diga uma coisa que voa.|Diga uma coisa que flutua.
+reflexe-136|Diga um veículo de emergência.|Diga um veículo grande.
+reflexe-137|Diga uma coisa que anda sobre trilhos.|Diga um transporte que anda debaixo da terra.
+reflexe-138|Diga um veículo que anda na água.|Diga um veículo que se aluga nas férias.
+reflexe-139|Diga um lugar onde se espera um transporte.|Diga um lugar onde se compra passagem.
+reflexe-140|Diga uma parte de um carro.|Diga uma parte de uma bicicleta.
+reflexe-141|Diga um objeto que tem dentro de um carro.|Diga um objeto que fica no porta-luvas.
+reflexe-142|Diga um veículo de obra.|Diga um veículo de fazenda.
+reflexe-143|Diga um veículo sem motor.|Diga um veículo de criança.
+reflexe-144|Diga uma cor clara.|Diga uma cor pastel.
+reflexe-145|Diga uma cor escura.|Diga uma cor que se usa no inverno.
+reflexe-146|Diga uma cor de fruta.|Diga uma cor de flor.
+reflexe-147|Diga uma cor do mar.|Diga uma cor do céu.
+reflexe-148|Diga uma cor viva.|Diga uma cor de fogos de artifício.
+reflexe-149|Diga uma cor de outono.|Diga uma cor da terra.
+reflexe-150|Diga um tom de azul.|Diga um tom de verde.
+reflexe-151|Diga uma cor de semáforo.|Diga uma cor de carta de baralho.
+reflexe-152|Diga uma forma geométrica.|Diga um formato de bolo.
+reflexe-153|Diga um objeto quadrado.|Diga um objeto bem achatado.
+reflexe-154|Diga um objeto pontudo.|Diga um objeto que corta.
+reflexe-155|Diga um objeto em forma de círculo.|Diga um objeto que tem um furo no meio.
+reflexe-156|Diga um material de construção.|Diga um material que resiste ao fogo.
+reflexe-157|Diga um tecido.|Diga um material de blusa de frio.
+reflexe-158|Diga um objeto de vidro.|Diga um objeto frágil.
+reflexe-159|Diga um objeto de metal.|Diga um objeto que enferruja.
+reflexe-160|Diga um objeto de plástico.|Diga um objeto que se joga fora com frequência.
+reflexe-161|Diga um objeto de papel.|Diga um objeto que se recicla.
+reflexe-162|Diga um objeto de couro.|Diga um objeto de tecido.
+reflexe-163|Diga um material macio.|Diga um material quentinho.
+reflexe-164|Diga um material que brilha.|Diga um material precioso.
+reflexe-165|Diga um objeto que funciona com pilha.|Diga um objeto que tem tela.
+reflexe-166|Diga um objeto que se recarrega.|Diga um objeto que você leva para todo lado.
+reflexe-167|Diga um objeto que serve para escrever.|Diga um objeto que tem numa mochila escolar.
+reflexe-168|Diga uma coisa para prender folhas.|Diga uma coisa para fechar um saco.
+reflexe-169|Diga um objeto que tem teclas.|Diga um objeto com botões.
+reflexe-170|Diga um objeto que se segura com as duas mãos.|Diga um objeto pesado.
+reflexe-171|Diga um objeto que se empresta fácil.|Diga um objeto que ninguém devolve.
+reflexe-172|Diga um objeto que se usa uma vez por ano.|Diga um objeto que se tira do armário no Natal.
+reflexe-173|Diga um objeto que tem cheiro bom.|Diga um objeto que se dá de presente.
+reflexe-174|Diga um objeto que tem num quarto de criança.|Diga um brinquedo.
+reflexe-175|Diga um objeto que tem luz.|Diga um objeto que pisca.
+reflexe-176|Diga um país da Ásia.|Diga um país onde se come arroz.
+reflexe-177|Diga um país da América do Sul.|Diga um país onde se fala espanhol.
+reflexe-178|Diga um país onde se fala português.|Diga um país da África.
+reflexe-179|Diga um país frio.|Diga um país do norte da Europa.
+reflexe-180|Diga um país famoso pela culinária.|Diga um país turístico.
+reflexe-181|Diga uma ilha.|Diga um país cercado de água.
+reflexe-182|Diga um país grande.|Diga um país muito populoso.
+reflexe-183|Diga um país com montanhas.|Diga um país onde se esquia.
+reflexe-184|Diga um país com deserto.|Diga um país onde quase não chove.
+reflexe-185|Diga um país que já ganhou uma Copa do Mundo.|Diga um país forte no futebol.
+reflexe-186|Diga um país com vermelho na bandeira.|Diga um país com estrela na bandeira.
+reflexe-187|Diga uma capital europeia.|Diga uma cidade boa para passar o fim de semana.
+reflexe-188|Diga uma cidade grande brasileira.|Diga uma cidade com metrô.
+reflexe-189|Diga uma cidade da Itália.|Diga uma cidade com muitos monumentos.
+reflexe-190|Diga uma cidade dos Estados Unidos.|Diga uma cidade que aparece nos filmes.
+reflexe-191|Diga uma cidade do Nordeste.|Diga uma cidade onde sempre faz sol.
+reflexe-192|Diga uma cidade com um time de futebol famoso.|Diga uma cidade universitária.
+reflexe-193|Diga uma cidade da Ásia.|Diga uma cidade com arranha-céus.
+reflexe-194|Diga uma cidade de serra.|Diga uma cidade para visitar no inverno.
+reflexe-195|Diga um monumento famoso.|Diga um ponto turístico do Rio de Janeiro.
+reflexe-196|Diga uma roupa de verão.|Diga uma roupa de praia.
+reflexe-197|Diga um acessório.|Diga uma coisa que se usa na cabeça.
+reflexe-198|Diga uma roupa de academia.|Diga uma roupa confortável.
+reflexe-199|Diga um tipo de calçado.|Diga uma coisa que se usa nos pés.
+reflexe-200|Diga uma roupa chique.|Diga uma roupa para entrevista de emprego.
+reflexe-201|Diga uma roupa de dormir.|Diga uma roupa de ficar em casa.
+reflexe-202|Diga uma roupa com mangas.|Diga uma roupa com botões.
+reflexe-203|Diga uma fantasia.|Diga uma fantasia de Halloween.
+reflexe-204|Diga uma parte de uma roupa.|Diga uma coisa que se costura.
+reflexe-205|Diga uma roupa de lã.|Diga uma roupa que se faz de tricô.
+reflexe-206|Diga uma peça de uniforme.|Diga uma roupa que se usa no trabalho.
+reflexe-207|Diga uma matéria da escola.|Diga uma matéria que passa lição de casa.
+reflexe-208|Diga um material escolar.|Diga um objeto que se empresta na sala de aula.
+reflexe-209|Diga um lugar da escola.|Diga um lugar onde se pega fila.
+reflexe-210|Diga uma palavra que se ouve na sala de aula.|Diga uma palavra que um professor fala.
+reflexe-211|Diga uma brincadeira de recreio.|Diga uma brincadeira em grupo.
+reflexe-212|Diga uma atividade de acampamento de férias.|Diga uma atividade de excursão da escola.
+reflexe-213|Diga uma coisa que tem numa biblioteca.|Diga uma coisa que se lê.
+reflexe-214|Diga uma coisa que tem numa sala de reunião.|Diga uma coisa que tem numa sala de espera.
+reflexe-215|Diga um acessório de computador.|Diga um objeto que se liga no USB.
+reflexe-216|Diga um lugar dentro de uma empresa.|Diga um lugar onde se faz uma pausa.
+reflexe-217|Diga uma tarefa de escritório.|Diga uma tarefa que a gente vive adiando.
+reflexe-218|Diga uma palavra que se escreve num e-mail.|Diga uma palavra que se escreve num cartão-postal.
+reflexe-219|Diga uma decoração de festa.|Diga uma coisa que se enche de ar.
+reflexe-220|Diga uma coisa que se come num aniversário.|Diga uma coisa que se serve no lanche da tarde.
+reflexe-221|Diga um enfeite de árvore de Natal.|Diga uma coisa que brilha no Natal.
+reflexe-222|Diga uma brincadeira de festa de aniversário.|Diga uma brincadeira ao ar livre.
+reflexe-223|Diga uma festa do ano.|Diga um feriado.
+reflexe-224|Diga um presente de aniversário.|Diga um presente para dar a uma criança.
+reflexe-225|Diga um prato de festa.|Diga um prato da ceia de Natal.

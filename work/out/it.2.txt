@@ -468,3 +468,168 @@ reflexe-245|Di' un rumore che ti sveglia.|Di' un rumore che ti dà fastidio.
 reflexe-246|Di' un suono della città.|Di' un suono che senti di notte.
 reflexe-247|Di' un suono piacevole.|Di' un suono della natura.
 reflexe-248|Di' un apparecchio che fischia.|Di' un mobile che scricchiola.
+reflexe-249|Di' un rumore della cucina.|Di' un rumore del mattino.
+reflexe-250|Di' un buon profumo.|Di' un odore di cucina.
+reflexe-251|Di' un profumo di vacanza.|Di' un profumo d'estate.
+reflexe-252|Di' un odore forte.|Di' un odore che riconosci subito.
+reflexe-253|Di' un profumo di candela.|Di' un profumo di fiore.
+reflexe-254|Di' un odore del mattino.|Di' un odore da panificio.
+reflexe-255|Di' una cosa morbida al tatto.|Di' un alimento soffice.
+reflexe-256|Di' una cosa che si appiccica alle dita.|Di' un alimento che si scioglie in mano.
+reflexe-257|Di' un oggetto ruvido.|Di' un oggetto che gratta.
+reflexe-258|Di' un oggetto molle.|Di' un oggetto che si può schiacciare.
+reflexe-259|Di' un oggetto che punge.|Di' un oggetto pericoloso per un neonato.
+reflexe-260|Di' una superficie scivolosa.|Di' un posto dove si cade facilmente.
+reflexe-261|Di' un'emozione.|Di' qualcosa che si prova al cinema.
+reflexe-262|Di' una parola che mette allegria.|Di' una parola che rassicura.
+reflexe-263|Di' un'esclamazione di sorpresa.|Di' una parola che dici quando ti fai male.
+reflexe-264|Di' una parola per salutare quando arrivi.|Di' una parola per salutare quando te ne vai.
+reflexe-265|Di' una formula di cortesia.|Di' una parola che dici entrando in un negozio.
+reflexe-266|Di' una parola che dici quando vinci.|Di' una parola che urli quando sei contento.
+reflexe-267|Di' un mezzo con le ali.|Di' un oggetto che si fa salire in aria.
+reflexe-268|Di' un gioiello.|Di' un oggetto d'oro.
+reflexe-269|Di' qualcosa che si scioglie al sole.|Di' qualcosa che si asciuga al sole.
+reflexe-270|Di' un giocattolo che rimbalza.|Di' un oggetto che si lancia per giocare.
+reflexe-271|Di' qualcosa che affonda nell'acqua.|Di' qualcosa che si butta in un lago.
+reflexe-272|Di' un frutto che si mangia in composta.|Di' un frutto che si mette in una crostata.
+reflexe-273|Di' una verdura che si mette nel bollito.|Di' una verdura che si mette nel cous cous.
+reflexe-274|Di' un piatto che si mangia in mensa.|Di' un piatto che si mangia dai nonni.
+reflexe-275|Di' un oggetto che trovi in una camera d'albergo.|Di' un oggetto che trovi in un camper.
+reflexe-276|Di' un animale che vedi in campagna.|Di' un animale che vedi a bordo strada.
+reflexe-277|Di' un animale facile da disegnare.|Di' un animale facile da imitare.
+reflexe-278|Di' un posto tranquillo.|Di' un posto dove si legge.
+reflexe-279|Di' un colore di caramella.|Di' un colore di palloncino.
+reflexe-280|Di' un colore di calzini.|Di' un colore di zaino.
+reflexe-281|Di' un mestiere che incroci in aeroporto.|Di' un mestiere che incroci in stazione.
+reflexe-282|Di' un mestiere in cui si parla con sconosciuti.|Di' un mestiere in cui si riceve il pubblico.
+reflexe-283|Di' un oggetto che si mette in tavola per un pasto.|Di' un oggetto che si tira fuori per gli ospiti.
+reflexe-284|Di' un'attività da fare la domenica mattina.|Di' un'attività da fare il sabato mattina.
+reflexe-285|Di' uno sport che si guarda in famiglia.|Di' uno sport che si guarda nel weekend.
+reflexe-286|Di' un prodotto venduto sfuso.|Di' un prodotto che si tiene in un barattolo.
+reflexe-287|Di' un paese dove si va in aereo.|Di' un paese dove si va per il mare.
+reflexe-288|Di' una città dove si va in treno.|Di' una città dove si va per un concerto.
+reflexe-289|Di' un nome da nonna.|Di' un nome di una volta.
+reflexe-290|Di' il nome di un personaggio delle fiabe.|Di' il nome di un personaggio dei cartoni.
+reflexe-291|Di' un oggetto che si lava a mano.|Di' un oggetto che si lava spesso.
+reflexe-292|Di' un capo che ti togli appena arrivi.|Di' un capo che si appende all'attaccapanni.
+reflexe-293|Di' un dolce che si fa in casa.|Di' un dolce che si compra già pronto.
+reflexe-294|Di' una stanza dove ci si rilassa.|Di' una stanza dove si ricevono gli amici.
+reflexe-295|Di' un oggetto che si ricompra spesso.|Di' un oggetto che si consuma in fretta.
+reflexe-296|Di' un negozio.|Di' un negozio di quartiere.
+reflexe-297|Di' un posto dove si va il sabato.|Di' un posto dove si va in famiglia.
+reflexe-298|Di' un edificio della città.|Di' un posto che chiude la domenica.
+reflexe-299|Di' un elemento dell'arredo urbano.|Di' un oggetto che vedi dal finestrino dell'autobus.
+reflexe-300|Di' un posto dove si fa la spesa.|Di' un posto dove si comprano vestiti.
+reflexe-301|Di' un posto dove si prende un caffè.|Di' un posto dove si lavora al computer.
+reflexe-302|Di' un oggetto tipico di un aeroporto.|Di' un oggetto tipico di una stazione.
+reflexe-303|Di' un attrezzo per il fai da te.|Di' un oggetto che fa rumore in un cantiere.
+reflexe-304|Di' un seme che si pianta in giardino.|Di' una pianta che si annaffia spesso.
+reflexe-305|Di' una verdura dell'orto.|Di' una verdura che si mangia d'estate.
+reflexe-306|Di' un animale di montagna.|Di' un animale che va in letargo.
+reflexe-307|Di' un posto nella natura.|Di' un posto dove si va in campeggio.
+reflexe-308|Di' un oggetto da campeggio.|Di' un oggetto che si mette nello zaino.
+reflexe-309|Di' un frutto giallo.|Di' un frutto che si mangia d'inverno.
+reflexe-310|Di' un alimento da colazione.|Di' qualcosa che si inzuppa.
+reflexe-311|Di' un alimento salato.|Di' uno stuzzichino da aperitivo.
+reflexe-312|Di' un ingrediente della frittata.|Di' un ingrediente della torta salata.
+reflexe-313|Di' un'attività da pomeriggio dopo la scuola.|Di' un'attività per bambini.
+reflexe-314|Di' un giocattolo da neonato.|Di' un giocattolo da portare nella vasca.
+reflexe-315|Di' un colore di costume da bagno.|Di' un colore di telo da mare.
+reflexe-316|Di' un alimento che si tiene in freezer.|Di' un alimento che si tiene in dispensa.
+reflexe-317|Di' un apparecchio che trovi in lavanderia.|Di' un apparecchio che trovi in soggiorno.
+reflexe-318|Di' un oggetto da portare in escursione.|Di' un oggetto da portare a un picnic.
+reflexe-319|Di' un posto dove si dorme fuori casa.|Di' un posto dove si mangia fuori casa.
+reflexe-320|Di' una brioche da colazione.|Di' qualcosa che compri dal fornaio.
+reflexe-321|Di' una verdura che si mangia cruda.|Di' una verdura che si mette in insalata.
+reflexe-322|Di' una città italiana.|Di' una città attraversata da un grande fiume.
+reflexe-323|Di' un paese dove nevica tanto.|Di' un paese famoso per le sue montagne.
+reflexe-324|Di' un oceano o un mare.|Di' una distesa d'acqua dove si può navigare.
+reflexe-325|Di' un mestiere che si fa fuori.|Di' un mestiere che si fa con un camion.
+reflexe-326|Di' un personaggio delle fiabe.|Di' un personaggio di un libro per bambini.
+reflexe-327|Di' un accessorio che si porta in testa.|Di' un accessorio che si porta quando fa freddo.
+reflexe-328|Di' un numero da 1 a 100.|Di' un'età da 1 a 100.
+reflexe-329|Di' un oggetto rotondo che trovi in cucina.|Di' un oggetto rotondo che trovi in soggiorno.
+reflexe-330|Di' un oggetto che serve a tagliare.|Di' un oggetto che ha una lama.
+reflexe-331|Di' un alimento arancione.|Di' un alimento che si sbuccia.
+reflexe-332|Di' un alimento che si spalma.|Di' un alimento che si mangia a colazione.
+reflexe-333|Di' un animale con il guscio.|Di' un animale che vive a lungo.
+reflexe-334|Di' una stanza dove c'è uno specchio.|Di' un posto dove ci si pettina.
+reflexe-335|Di' un capo che si abbottona.|Di' un capo con la cerniera.
+reflexe-336|Di' uno sport che si fa con la racchetta.|Di' uno sport che si fa in due.
+reflexe-337|Di' un oggetto che si appende al muro.|Di' un oggetto che si mette in cornice.
+reflexe-338|Di' un nome di tre lettere.|Di' un nome corto.
+reflexe-339|Di' un oggetto che trovi in un beauty case.|Di' un oggetto che porti per dormire da un amico.
+reflexe-340|Di' un ingrediente della torta.|Di' un ingrediente delle crêpe.
+reflexe-341|Di' un oggetto che trovi nel bagagliaio.|Di' un oggetto che tieni in garage.
+reflexe-342|Di' un negozio dove si compra un regalo.|Di' un negozio che trovi in un centro commerciale.
+reflexe-343|Di' un animale che trovi in uno stagno.|Di' un animale a cui piace l'acqua.
+reflexe-344|Di' un oggetto che trovi nella borsa da mare.|Di' un oggetto che si dimentica in spiaggia.
+noel-001|Quale regalo vorresti trovare sotto l'albero?|Quale regalo hai adorato fare a qualcuno?
+noel-002|Quale piatto non deve mai mancare a Natale?|Quale piatto di Natale mangeresti tutto l'anno?
+noel-005|Quale film guardi ogni anno a Natale?|Quale film di Natale è il più sdolcinato?
+noel-006|Quanti regali fai a Natale?|Quante persone ci sono a tavola a Natale?
+noel-009|Cosa metti in cima all'albero?|Cosa metti sulla tavola della Vigilia?
+noel-011|Dove sogneresti di passare il Natale?|Dove hai passato il tuo Natale più bello?
+noel-014|Quanti cioccolatini mangi durante le feste?|Quanti cioccolatini restano nella scatola il 26?
+noel-028|Cosa dici quando la finestrella del giorno è vuota?|Cosa dici quando qualcuno ha mangiato la tua finestrella del giorno?
+noel-045|Quanti minuti ci metti ad addobbare l'albero?|Quanti minuti ci metti a districare le lucine?
+noel-063|Cosa mangi per primo a un mercatino di Natale?|Cosa porti a casa da un mercatino di Natale?
+noel-066|Quanto costa un waffle al mercatino di Natale?|Quanto costa una penna?
+noel-070|In quale paese ci sono i mercatini di Natale più belli?|In quale paese le strade sono più illuminate a dicembre?
+noel-081|Quanti regali chiedevi nella letterina a Babbo Natale?|Quante righe era lunga la tua letterina a Babbo Natale?
+ete-001|Dove ti piacerebbe passare l'estate?|Dove hai passato la tua estate più bella?
+ete-002|Che gusto di gelato ordini per primo?|Che gusto di gelato non scegli mai?
+ete-003|Cosa fai quando fa troppo caldo?|Cosa fai in una sera d'estate?
+ete-004|Cosa porti sempre in spiaggia?|Cosa dimentichi sempre quando vai in spiaggia?
+ete-006|Quanti gelati mangi a settimana d'estate?|Quanti bagni fai al giorno in vacanza?
+ete-017|Quanti minuti resti in acqua di fila?|Quanti minuti aspetti prima di tornare in acqua?
+ete-028|Quanti minuti cammini per trovare posto in spiaggia?|Quanti minuti ci metti a sistemare il tuo angolo di spiaggia?
+ete-029|Cosa urli quando entri nell'acqua fredda?|Cosa dici a chi esita a entrare in acqua?
+ete-043|Quanto costa un ingresso alla piscina comunale?|Quanto costa un gelato in spiaggia?
+ete-078|Quanti ventilatori hai in casa?|Quante bottiglie d'acqua tieni in frigo d'estate?
+ete-084|A che animazione del campeggio partecipi in famiglia?|Che animazione del campeggio eviti a tutti i costi?
+ete-089|Quanto costa una casa mobile per una settimana ad agosto?|Quanto costa una settimana a Porto Cervo ad agosto in un buon hotel?
+ete-101|Chi guida più a lungo andando in vacanza?|Chi si addormenta per primo andando in vacanza?
+ete-103|Quanti minuti dura la tua sosta all'area di servizio?|Quanti minuti aspetti al casello in un giorno di esodo?
+ete-130|Che frutta estiva mangi di più?|Che frutta estiva paghi più cara?
+ete-131|Che frutto tagli a pezzi per una merenda estiva?|Che frutto mangi direttamente dall'albero?
+ete-134|Quanto costa una vaschetta di fragole a giugno?|Quanto costa un melone al mercato a luglio?
+ete-204|Cosa dici per allungare una serata d'estate?|Cosa dici per andartene da una serata d'estate?
+ete-388|Cosa metti nel tuo panino da spiaggia?|Cosa metti nella tua insalata estiva?
+ete-475|Quale gioco trovi sempre in una casa vacanze?|Quale pezzo di un gioco manca sempre in una casa vacanze?
+ete-476|Cosa dici quando vinci una partita in vacanza?|Cosa dici quando perdi per la terza volta di fila?
+ete-503|Quanto costa una casa vacanze per una settimana ad agosto?|Quanto costa una casa vacanze per un weekend a luglio?
+ete-506|Quale faccenda fai prima di lasciare la casa vacanze?|Quale faccenda fai appena arrivi nella casa vacanze?
+ete-556|Quanti minuti dura una sosta per la pipì in viaggio?|Quanti minuti dura una sosta per mangiare in viaggio?
+ete-561|Quanto costa un pieno di benzina d'estate?|Quanto costa un biglietto del Frecciarossa ad agosto?
+ete-591|Quanto paghi un vecchio libro al mercatino?|Quanto paghi un menu in un fast food?
+ete-593|Cosa dici per far abbassare un prezzo al mercatino?|Cosa rispondi quando qualcuno ti sorpassa in autostrada?
+ete-604|Quante pagnotte compri la mattina in vacanza?|Quanti cornetti compri la mattina in vacanza?
+rentree-003|Cosa dici ai colleghi il primo giorno dopo le ferie?|Cosa rispondi quando ti chiedono se hai passato belle vacanze?
+vacances-007|Quale gioco porti in vacanza?|Quale gioco tiri fuori nei giorni di pioggia in vacanza?
+vacances-027|Cosa urli in cima a una pista nera?|Cosa urli in fondo a una pista nera?
+vacances-031|Quanti minuti ci metti a infilarti gli scarponi da sci?|Quanti minuti ci metti a vestirti per andare a sciare?
+vacances-035|Cosa dici a un principiante caduto proprio davanti a te?|Cosa dici quando ti prendono in giro perché sei caduto?
+vacances-036|Quanto costa una cioccolata calda in cima alle piste?|Quanto costa una cioccolata calda al bar sotto casa?
+vacances-069|Quale formaggio scegli per una raclette?|Quale formaggio scegli al supermercato?
+vacances-074|In che mese inizi a fare le raclette?|In che mese smetti di fare le raclette?
+vacances-084|Qual è la prima cosa che fai tornando da una giornata di sci?|Qual è la prima cosa che fai la mattina di una giornata di sci?
+vacances-094|Quale piccolo piacere ti concedi dopo l'ultima discesa?|Quale piccolo piacere ti concedi l'ultima sera in montagna?
+vacances-097|Cosa dici quando finalmente ti togli gli scarponi da sci?|Cosa dici quando vedi il conto del rifugio in quota?
+vacances-204|Quanti minuti resti a letto dopo esserti svegliato in vacanza?|Quanti minuti resti a letto dopo esserti svegliato di lunedì?
+vacances-211|Cosa dici quando ti svegliano troppo presto in vacanza?|Cosa dici quando ti svegli a mezzogiorno?
+vacances-323|Quanto costa un pieno di benzina per andare in montagna?|Quanto costa un biglietto di andata e ritorno in treno per la montagna?
+vacances-326|Quante ore di viaggio accetti per una settimana bianca?|Quante ore di viaggio accetti per un weekend fuori porta?
+vacances-332|Quale snack mangi in macchina quando parti per le vacanze?|Quale snack compri in stazione prima di partire?
+vacances-341|A che età hai messo gli sci per la prima volta?|A che età hai sciato per l'ultima volta?
+vacances-422|Chi legge le regole di un gioco nuovo?|Chi si inventa le proprie regole durante la partita?
+vacances-527|Cosa mangi in un parco divertimenti?|Cosa mangiavi in mensa da piccolo?
+vacances-532|Cosa dici scendendo da un'attrazione adrenalinica?|Cosa dici quando un bambino vuole rifare la stessa attrazione?
+vacances-559|Quale oggetto porti per fare belle foto?|Quale oggetto proteggi dal freddo sulle piste?
+vacances-577|Quanto costa un cappotto di fascia alta?|Quanto costa un berretto di lana?
+sport-248|Quanti giorni durano i tuoi propositi sportivi di gennaio?|Quanti giorni servono per prendere un'abitudine sportiva?
+bouffe-681|Quale piatto ti piace mangiare freddo il giorno dopo?|Quale piatto è più buono riscaldato?
+boulot-613|Quanti studenti c'erano nell'aula più grande della tua università?|Quanti studenti c'erano in tutto il tuo anno di corso?
+boulot-614|Quanto costa una buona borsa per andare al lavoro?|Quanto costa una buona sedia da ufficio?
+boulot-615|Quanti caffè porta un cameriere su un vassoio?|Quanti piatti porta un cameriere su un braccio?
+soiree-593|Quale celebrità fa sempre reagire tutti quando la nomini a una festa?|Quale celebrità imiti per far ridere i tuoi amici?
