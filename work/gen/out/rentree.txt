@@ -1,0 +1,48 @@
+prix|2|fournitures et agendas|Combien coûte un paquet de copies doubles ?|Combien coûte un cahier grand format ?
+prix|2|fournitures et agendas|Combien coûte un bon stylo plume ?|Combien coûte une boîte de feutres ?
+prix|2|fournitures et agendas|Combien coûte un cahier de textes ?|Combien coûte un classeur ?
+prix|2|souvenirs d'école|Combien coûtait un pain au chocolat quand tu étais au collège ?|Combien coûtait une canette au distributeur quand tu étais au lycée ?
+prix|2|budget et courses de rentrée|Combien coûte une paire de baskets pour un ado ?|Combien coûte un jean pour un ado ?
+prix|2|inscriptions et activités|Combien coûte une licence de foot pour un enfant ?|Combien coûte une année de danse pour un enfant ?
+prix|1|cantine et déjeuner|Combien coûte un repas à la cantine de l'école ?|Combien coûte un sandwich à la boulangerie ?
+prix|2|machine à café|Combien coûte une barre chocolatée au distributeur ?|Combien coûte une bouteille d'eau au distributeur ?
+prix|2|goûters|Combien coûte un paquet de gâteaux au chocolat ?|Combien coûte une boîte de céréales ?
+prix|2|transports et bouchons|Combien coûte un ticket de bus ?|Combien coûte une heure de parking en centre-ville ?
+prix|2|reprise du sport|Combien coûte un abonnement à la piscine pour l'année ?|Combien coûte une licence dans un club de sport ?
+prix|2|mode d'automne|Combien coûte un pull en laine ?|Combien coûte un jean ?
+prix|2|mode d'automne|Combien coûte une paire de bottes ?|Combien coûte un imperméable ?
+prix|2|rentrée littéraire et séries|Combien coûte un livre de poche ?|Combien coûte un magazine ?
+prix|2|séries et télé de rentrée|Combien paies-tu un abonnement de streaming par mois ?|Combien paies-tu ton forfait de téléphone par mois ?
+prix|2|rentrée des étudiants|Combien coûte le loyer d'un studio étudiant ?|Combien coûte une chambre en colocation ?
+prix|2|rentrée des étudiants|Combien coûte un ordinateur portable pour étudier ?|Combien coûte un bon téléphone ?
+prix|2|cuisine d'automne|Combien coûte un potiron au marché ?|Combien coûte un kilo de pommes au marché ?
+prix|2|cueillettes et forêt|Combien coûte un kilo de châtaignes ?|Combien coûte un kilo de champignons de Paris ?
+prix|1|souvenirs ramenés|Combien coûte un magnet souvenir ?|Combien coûte une carte postale ?
+prix|2|souvenirs ramenés|Combien dépenses-tu en souvenirs pendant tes vacances ?|Combien dépenses-tu en glaces pendant tes vacances ?
+prix|2|sorties de septembre|Combien coûte une entrée au musée ?|Combien coûte une entrée au zoo ?
+prix|1|retour au bureau|Combien coûte un déjeuner près de ton travail ou de ton école ?|Combien coûte un brunch le dimanche ?
+prix|2|alternance et stages|Combien gagne un stagiaire par mois ?|Combien gagne un étudiant avec un petit boulot par mois ?
+prix|2|grand tri de septembre|Combien vends-tu un vêtement sur une appli de seconde main ?|Combien vends-tu un livre d'occasion ?
+prix|2|jardin de septembre|Combien coûte un sac de terreau ?|Combien coûte une plante en pot ?
+prix|2|soirées d'automne|Combien coûte une bougie parfumée ?|Combien coûte un plaid ?
+prix|2|repas préparés|Combien coûte un plat tout prêt au supermarché ?|Combien coûte une salade composée à emporter ?
+prix|2|souvenirs d'école|Combien d'argent de poche avais-tu par semaine au collège ?|Combien coûtait ton goûter à la boulangerie au collège ?
+prix*|3|fournitures et agendas|Combien coûte une gomme ?|Combien coûte un taille-crayon ?
+prix|2|fournitures et agendas|Combien coûte une trousse ?|Combien coûte une clé USB ?
+prix|2|parents et rentrée|Combien coûte une heure de baby-sitting ?|Combien coûte une heure de soutien scolaire ?
+prix|2|premier week-end de septembre|Combien dépenses-tu pour un samedi soir entre amis ?|Combien dépenses-tu pour un dimanche en famille ?
+prix|2|reprise des championnats|Combien coûte un maillot de foot officiel ?|Combien coûte une paire de crampons ?
+prix|2|nostalgie de l'été|Combien coûte une glace à deux boules ?|Combien coûte une crêpe sur la plage ?
+prix|2|à vélo ou à pied|Combien coûte un vélo correct pour aller travailler ?|Combien coûte une trottinette électrique ?
+prix*|3|à vélo ou à pied|Combien coûte un antivol de vélo ?|Combien coûte un casque de vélo ?
+prix|2|apprendre quelque chose|Combien coûte une heure de cours particulier ?|Combien coûte une heure de leçon de conduite ?
+prix|2|réveil et matins|Combien coûte un réveil ?|Combien coûte une cafetière ?
+prix*|3|premiers jours d'automne|Combien coûte une paire de gants ?|Combien coûte un bonnet ?
+prix|2|retrouvailles|Combien dépenses-tu pour un dîner de retrouvailles au restaurant ?|Combien dépenses-tu pour un cadeau d'anniversaire à un ami ?
+prix|2|organisation numérique|Combien coûte un abonnement de stockage en ligne par mois ?|Combien coûte un abonnement de musique par mois ?
+prix|2|sac de travail|Combien coûte une gourde ?|Combien coûte une boîte à déjeuner ?
+prix|2|cour de récré|Combien coûtait un paquet de billes quand tu étais petit ?|Combien coûtait un paquet de cartes à collectionner quand tu étais petit ?
+prix|2|calendrier de septembre|Combien coûte un calendrier mural ?|Combien coûte un agenda papier ?
+prix|2|envies de changement|Combien coûte une nouvelle paire de lunettes ?|Combien coûte une nouvelle paire de chaussures de ville ?
+prix|2|budget et courses de rentrée|Combien coûte une liste de fournitures complète pour un collégien ?|Combien coûte un sac de courses bien rempli ?
+prix|2|machine à café|Combien coûte un café en terrasse ?|Combien coûte un chocolat chaud en terrasse ?

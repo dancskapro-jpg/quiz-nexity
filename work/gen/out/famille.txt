@@ -1,0 +1,55 @@
+prix|2|l'heure du goûter|Combien coûte un pain au chocolat à la boulangerie ?|Combien coûte un éclair au chocolat à la boulangerie ?
+prix|2|sorties en famille|Combien coûte une place de cinéma pour un enfant ?|Combien coûte un grand pot de pop-corn au cinéma ?
+prix|2|en vacances|Combien coûte une boule de glace chez le glacier ?|Combien coûte une crêpe au sucre au bord de la plage ?
+prix|1|jouets et jeux|Combien coûte une petite voiture miniature ?|Combien coûte un circuit de petites voitures ?
+prix*|3|à l'école|Combien coûte une gomme ?|Combien coûte un taille-crayon ?
+prix|1|à l'école|Combien coûte un cartable neuf ?|Combien coûte une trousse neuve ?
+prix|2|sorties en famille|Combien coûte un tour de manège à la fête foraine ?|Combien coûte une barbe à papa à la fête foraine ?
+prix|2|jouets et jeux|Combien coûte une boîte de Lego de taille moyenne ?|Combien coûte un jeu de société ?
+prix|2|jouets et jeux|Combien coûte une pochette de cartes Pokémon ?|Combien coûte un paquet de bonbons au supermarché ?
+prix|2|dehors et sport|Combien coûte un ballon de foot pour jouer au parc ?|Combien coûte une corde à sauter ?
+prix|1|dehors et sport|Combien coûte une trottinette ?|Combien coûte un casque de vélo ?
+prix|2|en vacances|Combien coûte un seau avec une pelle pour la plage ?|Combien coûte une bouée pour la piscine ?
+prix|2|vacances et sorties|Combien coûte l’entrée à la piscine pour un enfant ?|Combien coûte une partie de mini-golf pour un enfant ?
+prix|1|sorties en famille|Combien coûte l’entrée au zoo pour un enfant ?|Combien coûte l’entrée d’un parc d’attractions pour un enfant ?
+prix|3|petits bonheurs|Combien coûte un sachet de bonbons à la boulangerie ?|Combien coûte un paquet de chewing-gums ?
+prix|2|fêtes de l'année|Combien coûte un œuf en chocolat à Pâques ?|Combien coûte un calendrier de l’Avent en chocolat ?
+prix|2|fêtes de l'année|Combien coûte une galette des rois ?|Combien coûte une bûche glacée ?
+prix|2|musique et fête|Combien coûte un paquet de ballons de baudruche ?|Combien coûte un paquet de bougies d’anniversaire ?
+prix|2|musique et fête|Combien coûte un gâteau d’anniversaire à la pâtisserie ?|Combien coûte un déguisement pour une fête ?
+prix|1|super-héros|Combien coûte un déguisement complet de super-héros ?|Combien coûte un masque de super-héros ?
+prix|2|super-héros|Combien coûte une figurine de super-héros ?|Combien coûte une BD de super-héros ?
+prix|2|contes et histoires|Combien coûte un livre d’histoires pour enfants ?|Combien coûte un magazine pour enfants ?
+prix*|3|dessin et bricolage|Combien coûte une boîte de crayons de couleur ?|Combien coûte une boîte de feutres ?
+prix|2|dessin et bricolage|Combien coûte un pot de pâte à modeler ?|Combien coûte un tube de colle ?
+prix|2|à table|Combien coûte un menu enfant au fast-food ?|Combien coûte une pizza à partager en famille ?
+prix|2|à table|Combien coûte une baguette de pain ?|Combien coûte une bouteille de jus d’orange ?
+prix|2|à table|Combien coûte une pastèque entière ?|Combien coûte un melon ?
+prix|2|les animaux|Combien coûte un poisson rouge à l’animalerie ?|Combien coûte un sac de graines pour les oiseaux ?
+prix|1|les animaux|Combien coûte un hamster à l’animalerie ?|Combien coûte une cage pour hamster ?
+prix|2|animaux rigolos|Combien coûte un tour à dos de poney ?|Combien coûte un cornet de nourriture pour les chèvres d’une ferme ?
+prix|2|vacances et sorties|Combien coûte une place au cirque pour un enfant ?|Combien coûte une place pour un spectacle de marionnettes ?
+prix*|3|dehors et sport|Combien coûte un cerf-volant ?|Combien coûte un frisbee ?
+prix|2|nature et météo|Combien coûte un parapluie pour enfant ?|Combien coûte une paire de bottes de pluie ?
+prix|3|l'heure du dodo|Combien coûte un pyjama ?|Combien coûte une veilleuse ?
+prix|2|jouets et jeux|Combien coûte une peluche dans un magasin de jouets ?|Combien dépenses-tu pour essayer d’attraper une peluche à la pince ?
+prix|2|espace et robots|Combien coûte un robot jouet ?|Combien coûte une voiture télécommandée ?
+prix*|3|espace et robots|Combien coûte l’entrée d’un planétarium ?|Combien coûte l’entrée d’un musée des sciences ?
+prix|2|dinosaures et monstres gentils|Combien coûte une figurine de dinosaure ?|Combien coûte un livre sur les dinosaures ?
+prix|2|véhicules|Combien coûte un vélo pour enfant ?|Combien coûte une draisienne ?
+prix|2|véhicules|Combien coûte un tour de petit train touristique ?|Combien coûte une balade en barque sur un lac ?
+prix*|3|petits bonheurs|Combien coûte un chocolat chaud dans un café ?|Combien coûte un jus de fruits dans un café ?
+prix|2|l'heure du goûter|Combien coûte un paquet de biscuits au supermarché ?|Combien coûte une boîte de céréales au supermarché ?
+prix|2|l'heure du goûter|Combien coûte une gaufre à la fête foraine ?|Combien coûte une pomme d’amour à la fête foraine ?
+prix|2|jouets et jeux|Combien coûte une poupée ?|Combien coûte un puzzle de 100 pièces ?
+prix|3|jouets et jeux|Combien coûte un jeu vidéo neuf ?|Combien coûte une manette de console ?
+prix*|3|à la maison|Combien coûte une brosse à dents ?|Combien coûte un tube de dentifrice ?
+prix|2|en vacances|Combien coûte une carte postale ?|Combien coûte un porte-clés souvenir ?
+prix|2|en vacances|Combien coûte une paire de lunettes de soleil pour enfant ?|Combien coûte un chapeau de plage ?
+prix|2|sorties en famille|Combien coûte une partie de bowling pour un enfant ?|Combien coûte une partie de laser game ?
+prix|2|magie et fées|Combien coûte une baguette magique en plastique ?|Combien coûte un coffret de tours de magie ?
+prix*|3|au pays imaginaire|Combien coûte une robe de princesse pour se déguiser ?|Combien coûte un costume de pirate pour se déguiser ?
+prix|2|tous âges|Combien coûte un timbre pour envoyer une lettre ?|Combien coûte une carte d’anniversaire ?
+prix|2|couleurs partout|Combien coûte une boîte de peinture pour enfant ?|Combien coûte un paquet de craies de trottoir ?
+prix|2|musique et fête|Combien coûte une flûte à bec ?|Combien coûte un petit tambourin ?
+prix|3|sorties en famille|Combien coûte un tour de grande roue ?|Combien coûte un tour d’auto-tamponneuses ?

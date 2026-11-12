@@ -1,0 +1,45 @@
+prix|2|internet et wifi|Combien paies-tu ta box internet par mois (en euros) ?|Combien paies-tu ton forfait téléphone par mois (en euros) ?
+prix|3|mon téléphone|Combien coûte le remplacement d’un écran de téléphone cassé ?|Combien coûte le remplacement d’une batterie de téléphone ?
+prix|2|gadgets|Combien coûte une tablette pour un enfant ?|Combien coûte une console de jeux portable ?
+prix*|3|streaming et séries|Combien coûte un abonnement à une plateforme de séries par mois ?|Combien coûte un abonnement à une appli de musique par mois ?
+prix|2|ordinateur|Combien coûte une souris d’ordinateur ?|Combien coûte une clé USB ?
+prix|2|visio et appels vidéo|Combien coûte une webcam ?|Combien coûte un casque avec micro pour les visios ?
+prix*|3|maison connectée|Combien coûte une ampoule connectée ?|Combien coûte une prise connectée ?
+prix|2|maison connectée|Combien coûte un robot aspirateur ?|Combien coûte un aspirateur sans fil ?
+prix|2|maison connectée|Combien coûte une sonnette avec caméra ?|Combien coûte une caméra de surveillance pour la maison ?
+prix|2|téléphone|Combien coûtait une carte prépayée de téléphone quand tu étais ado ?|Combien coûtait un forfait mobile quand tu étais ado ?
+prix*|3|mon téléphone|Combien coûte un téléphone reconditionné correct ?|Combien coûte un téléphone neuf d’entrée de gamme ?
+prix|2|stockage et sauvegarde|Combien coûte un disque dur externe ?|Combien coûte une carte mémoire pour appareil photo ?
+prix|2|achats en ligne|Combien coûte la livraison express d’un colis ?|Combien coûte l’envoi d’un colis à la poste ?
+prix|2|achats en ligne|Combien d’euros dépenses-tu en commandes en ligne par mois ?|Combien d’euros dépenses-tu en repas livrés par mois ?
+prix*|3|batterie et chargeurs|Combien coûte un chargeur dans une boutique de gare ?|Combien coûte un câble de charge dans une boutique de gare ?
+prix|2|streaming et séries|Combien coûte une télé grand écran ?|Combien coûte un vidéoprojecteur ?
+prix|3|gadgets|Combien coûte une liseuse électronique ?|Combien coûte une tablette d’entrée de gamme ?
+prix|2|gadgets|Combien coûte un drone pour débutant ?|Combien coûte une petite caméra de sport ?
+prix|3|tech au travail|Combien coûte une imprimante pour la maison ?|Combien coûte un lot de cartouches d’encre ?
+prix|2|tech au travail|Combien coûte une chaise de bureau confortable ?|Combien coûte un écran d’ordinateur ?
+prix|2|écouteurs et gadgets|Combien coûte une trottinette électrique ?|Combien coûte un hoverboard ?
+prix|2|téléphone|Combien coûtait un téléphone à clapet à l’époque ?|Combien coûtait un baladeur MP3 à l’époque ?
+prix|2|internet et wifi|Combien coûtait une heure dans un cybercafé ?|Combien coûtait la location d’un DVD au vidéoclub ?
+prix*|3|stockage et sauvegarde|Combien paierais-tu pour récupérer toutes tes photos perdues (en euros) ?|Combien paierais-tu pour récupérer tous tes messages perdus (en euros) ?
+prix*|3|gps et trajets|Combien coûte un trajet de dix minutes en trottinette de location ?|Combien coûte un trajet de dix minutes en vélo de location ?
+prix*|3|applis du quotidien|Combien coûte une course de quinze minutes en VTC ?|Combien coûte une course de quinze minutes en taxi ?
+prix|2|applis du quotidien|Combien coûtent les frais de livraison d’un repas commandé par appli ?|Combien laisses-tu de pourboire au livreur de repas ?
+prix*|3|applis du quotidien|Combien coûte un burger livré par une appli ?|Combien coûte un burger mangé sur place ?
+prix*|3|gps et trajets|Combien coûte un support de téléphone pour la voiture ?|Combien coûte un chargeur de téléphone pour la voiture ?
+prix*|3|photos|Combien coûte une perche à selfie ?|Combien coûte un petit trépied pour téléphone ?
+prix|2|photos|Combien coûte un album photo imprimé en ligne ?|Combien coûte un cadre photo numérique ?
+prix|3|photos|Combien coûte un appareil photo instantané ?|Combien coûte une petite imprimante photo pour téléphone ?
+prix|2|vidéos et podcasts|Combien coûte un micro pour enregistrer des podcasts ?|Combien coûte un anneau lumineux pour se filmer ?
+prix|2|tech et parents|Combien coûte une montre GPS pour enfant ?|Combien coûte un premier téléphone pour enfant ?
+prix*|3|assistants et ia|Combien coûte une petite enceinte avec assistant vocal ?|Combien coûte une petite enceinte Bluetooth ?
+prix*|3|intelligence artificielle|Combien paierais-tu par mois pour une IA qui fait tes papiers administratifs ?|Combien paierais-tu par mois pour une IA qui trie tes mails ?
+prix|3|ordinateur|Combien coûte le remplacement d’un écran d’ordinateur portable ?|Combien coûte le remplacement d’un clavier d’ordinateur portable ?
+prix*|3|ordinateur|Combien coûte une housse pour ordinateur portable ?|Combien coûte un sac à dos pour ordinateur portable ?
+prix|2|gadgets|Combien coûte un jeu vidéo neuf ?|Combien coûte une manette de console ?
+prix|2|achats en ligne|Combien coûte un abonnement annuel pour être livré gratuitement ?|Combien coûte un abonnement annuel à une plateforme de vidéos ?
+prix|2|écouteurs et gadgets|Combien coûte une paire d’écouteurs avec fil ?|Combien coûte un adaptateur pour brancher des écouteurs ?
+prix|2|réseaux sociaux|Combien gagne un influenceur pour une publication sponsorisée selon toi ?|Combien gagne un youtubeur pour un million de vues selon toi ?
+prix|2|connecté|Combien coûte un thermostat connecté ?|Combien coûte une serrure connectée ?
+prix|2|temps d'écran|Combien paierais-tu pour un week-end de détox sans écrans (en euros) ?|Combien paierais-tu pour un week-end au spa (en euros) ?
+prix|2|wifi et réseau|Combien coûte un répéteur wifi ?|Combien coûte un câble Ethernet de dix mètres ?

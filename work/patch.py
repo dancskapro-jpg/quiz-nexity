@@ -19,6 +19,43 @@ new = [dict(id=o['id'], a=o['a'], b=o['b'], pack=o['pack'], difficulty=2, theme=
             answerType=o['type'], mirror=False, tags=[o['type'], NEW_THEME[o['id']]], compat=4)
        for o in fr if o['status'] == 'new']
 
+# Banque du 12/11/2026 : les 9 000 nouvelles paires (les anciennes sont déjà dans fr)
+TYPE_MAP = [
+    (('montant', 'budget', 'euros', 'prix'), 'prix'),
+    (('minutes',), 'minutes'),
+    (('jours', 'heure', 'heures', 'durée'), 'heures'),
+    (('fréquence', 'nombre'), 'nombre'),
+    (('moment', 'mois'), 'moment'),
+    (('personne', 'surnom'), 'personne'),
+    (('ville',), 'ville'),
+    (('mot / objet / lieu', 'mot / adjectif', 'réplique', 'réaction', 'conseil', 'excuse', 'phrase', 'question',
+      'compliment', 'message', 'secret', 'vérité', 'mot'), 'expression'),
+    (('lieu', 'enseigne', 'site', 'pièce'), 'lieu'),
+    (('plat', 'boisson'), 'aliment'),
+    (('chanson', 'danse'), 'musique'),
+    (('vêtement', 'accessoire'), 'vetement'),
+    (('objet', 'outil', 'cadeau', 'photo', 'emoji'), 'objet'),
+    (('activité',), 'activite'),
+]
+
+
+def map_type(t):
+    t = (t or '').strip().lower()
+    for keys, v in TYPE_MAP:
+        words = set(re.findall(r'\w+', t))
+        if any(k == t or (' ' in k and k in t) or k in words for k in keys):
+            return v
+    return 'reponse'
+
+
+bank = json.load(open(f'{W}/banque.json', encoding='utf8'))
+bank_new = [r for r in bank if r[5] == 'Création nouvelle']
+BANK = {}
+for r in bank_new:
+    pk = r[0].rsplit('-', 1)[0]
+    BANK.setdefault(pk, []).append([r[0], map_type(r[4]), r[2].strip(), r[3].strip()])
+NEW_PACKS = json.load(open(f'{W}/new_packs.json', encoding='utf8'))
+
 src = open(f'{W}/v64/index.html', encoding='utf8').read()
 
 
@@ -32,10 +69,18 @@ def sub(old, new_, count=1):
 
 # 1. Données : liste blanche + corrections + nouvelles paires, packs vides retirés
 data = ('var HS_KEEP=new Set(' + json.dumps(keep, ensure_ascii=False) + '),HS_FR=' + json.dumps(fr_over, ensure_ascii=False)
-        + ',HS_NEW=' + json.dumps(new, ensure_ascii=False) + ';')
+        + ',HS_NEW=' + json.dumps(new, ensure_ascii=False)
+        + ',HS_BANK=' + json.dumps(BANK, ensure_ascii=False, separators=(',', ':'))
+        + ',HS_PACKS=' + json.dumps([{k: o[k] for k in ('id', 'accent', 'title', 'description')} for o in NEW_PACKS], ensure_ascii=False, separators=(',', ':')) + ';')
 sub('"use strict";(()=>{', '"use strict";(()=>{' + data)
 sub('return u?{...e,answersA:u[0],answersB:u[1]}:e});function nu(',
-    'return u?{...e,answersA:u[0],answersB:u[1]}:e}).filter(e=>HS_KEEP.has(e.id)).map(e=>{let o=HS_FR[e.id];return o?{...e,a:Ga(o[0]),b:Ga(o[1])}:e}).concat(HS_NEW.map(e=>({...e,a:Ga(e.a),b:Ga(e.b)})));hsPrune();function nu(')
+    'return u?{...e,answersA:u[0],answersB:u[1]}:e}).filter(e=>HS_KEEP.has(e.id)).map(e=>{let o=HS_FR[e.id];return o?{...e,a:Ga(o[0]),b:Ga(o[1])}:e}).concat(HS_NEW.map(e=>({...e,a:Ga(e.a),b:Ga(e.b)}))).concat(hsBank());hsAddPacks();hsPrune();function nu(')
+# Nouveau type de réponse générique (« une réponse courte »)
+sub('moment:r("Moment")});var Ua=', 'moment:r("Moment"),reponse:r("R\\xE9ponse")});var Ua=')
+# Hors français : une paire pas encore traduite est retirée (au lieu d'être montrée en français)
+sub('if(s&&s.length===e.length)return s;', 'if(s&&s.__n===e.length)return s;')
+sub('if(!l)return d;let m=i.get(d.id)', 'if(!l)return d.pack==="perso"?d:null;let m=i.get(d.id)')
+sub('{}}});return bn.set(u,o),o}', '{}}}).filter(Boolean);o.__n=e.length;return bn.set(u,o),o}')
 
 # 2. Icône « changer de question » à gauche de la barre du jeu (à la place de l'espace vide)
 sub(""":'<span class="icon-spacer"></span>'}
@@ -46,6 +91,8 @@ sub(""":'<span class="icon-spacer"></span>'}
 sub("""<main class="page home-page">""", """<main class="page home-page">${hsLangPill()}""")
 
 helpers = r'''
+function hsBank(){let out=[];for(let[pk,rows]of Object.entries(HS_BANK))for(let[id,ty,a,b]of rows){let m=pk==="miroir";out.push({id,a:Ga(a),b:Ga(b),pack:pk,difficulty:m?3:2,theme:pk,answerType:ty,mirror:m,tags:[ty,pk,...m?["miroir"]:[]],compat:4})}return out}
+function hsAddPacks(){for(let p of HS_PACKS){Se.some(x=>x.id===p.id)||Se.push({id:p.id,title:r(p.title),description:r(p.description),free:!1,productId:"pack:"+p.id,accent:p.accent,category:"thematiques"});if(typeof su!="undefined"&&su&&!su.some(x=>x.id==="pack:"+p.id)){let i=su.findIndex(x=>x.id==="tout");su.splice(i<0?su.length:i,0,{id:"pack:"+p.id,title:r(p.title),description:"",referencePrice:"2,99 \u20AC",grants:["pack:"+p.id]})}}}
 function hsPrune(){let has=p=>Ss.some(x=>x.pack===p);for(let i=Se.length-1;i>=0;i--)has(Se[i].id)||Se.splice(i,1);for(let i=qu.length-1;i>=0;i--)has(qu[i].id)||qu.splice(i,1);if(typeof su!="undefined"&&su)for(let i=su.length-1;i>=0;i--){let g=su[i].grants||[];if(g.length===1&&g[0].startsWith("pack:")){if(!has(g[0].slice(5)))su.splice(i,1);else su[i].description=""}}}
 function hsCanReroll(){let g=_();return!!g&&g.config&&g.config.mode!=="survie"&&["DISTRIBUTION","REPONSES","DEBAT","VOTE"].includes(g.phase)}
 function hsLeft(e){return e.right&&String(e.right).includes('data-act="quit"')&&hsCanReroll()?`<button class="icon-btn hs-reroll" data-hs="reroll" aria-label="${t("Changer de question")}" title="${t("Changer de question")}"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.3-4.9L4 8"/><path d="M4 3.5V8h4.5"/><path d="M4 13a8 8 0 0 0 14.3 4.9L20 16"/><path d="M20 20.5V16h-4.5"/></svg></button>`:'<span class="icon-spacer"></span>'}
@@ -54,7 +101,7 @@ async function hsSetLang(s){let cur=Q.data.settings.lang||"fr";if(s===cur||!pt.s
 async function hsReroll(){if(!hsCanReroll())return;let g=_();if(!await te({title:t("Changer de question ?"),text:t("Tout le monde re\xE7oit une nouvelle question. M\xEAmes joueurs, m\xEAmes r\xE8gles : on repasse juste le t\xE9l\xE9phone."),ok:t("Nouvelle question")}))return;try{ut()}catch{}try{ie==null||ie.stop()}catch{}let cfg=JSON.parse(JSON.stringify(g.config));try{Q.data.game=null,Ku(cfg)}catch(err){Q.data.game=g,T(!0),P(err instanceof Error?err.message:String(err),"error");return}T(!0),ru(),x(lu,{replace:!0,anim:"fade"}),P(t("Nouvelle question ! Repassez le t\xE9l\xE9phone."),"success")}
 document.addEventListener("click",ev=>{let b=ev.target.closest&&ev.target.closest("[data-hs]");document.querySelectorAll("details.hs-lang[open]").forEach(d=>{d.contains(ev.target)||d.removeAttribute("open")});if(!b)return;ev.preventDefault(),ev.stopPropagation();b.dataset.hs==="reroll"?hsReroll():b.dataset.hs==="lang"&&(b.closest("details")&&b.closest("details").removeAttribute("open"),hsSetLang(b.dataset.arg))},!0);
 '''
-sub('function lr(){var s,a;let e=document.getElementById("app");', 'function lr(){var s,a;hsPrune();let e=document.getElementById("app");')
+sub('function lr(){var s,a;let e=document.getElementById("app");', 'function lr(){var s,a;hsAddPacks();hsPrune();let e=document.getElementById("app");')
 sub('document.readyState==="loading"?document.addEventListener("DOMContentLoaded",lr):lr();})();',
     helpers + 'document.readyState==="loading"?document.addEventListener("DOMContentLoaded",lr):lr();})();')
 
@@ -86,9 +133,9 @@ sub('viewBox="0 -100 ${a} 215"', 'viewBox="0 -132 ${a} 247"')
 sub('viewBox="0 -125 ${s} 135"', 'viewBox="0 -152 ${s} 162"')
 
 # 4. Version et textes chiffrés
-NCLASS = sum(1 for o in fr if o['pack'] == 'classique')
+NCLASS = sum(1 for o in fr if o['pack'] == 'classique') + len(BANK.get('classique', []))
 sub('les 610 paires du pack Classique', f'les {NCLASS} paires du pack Classique')
-sub('sl="6.3"', 'sl="6.5"')
+sub('sl="6.3"', 'sl="6.6"')
 src = src.replace("version {v} (web, test)", "version {v} (web, test)")
 os.makedirs(f'{OUT}/lang', exist_ok=True)
 open(f'{OUT}/index.html', 'w', encoding='utf8').write(src)
@@ -106,6 +153,7 @@ UI = {
    'nl': 'Iedereen krijgt een nieuwe vraag. Dezelfde spelers, dezelfde regels: geef de telefoon gewoon nog een keer door.'},
  'Nouvelle question': {'en': 'New question', 'es': 'Nueva pregunta', 'it': 'Nuova domanda', 'de': 'Neue Frage', 'pt': 'Nova pergunta', 'nl': 'Nieuwe vraag'},
  'Nouvelle question ! Repassez le téléphone.': {'en': 'New question! Pass the phone around again.', 'es': '¡Nueva pregunta! Volved a pasar el móvil.', 'it': 'Nuova domanda! Ripassate il telefono.', 'de': 'Neue Frage! Gebt das Handy wieder herum.', 'pt': 'Nova pergunta! Passem o celular de novo.', 'nl': 'Nieuwe vraag! Geef de telefoon weer door.'},
+ 'Réponse': {'en': 'Answer', 'es': 'Respuesta', 'it': 'Risposta', 'de': 'Antwort', 'pt': 'Resposta', 'nl': 'Antwoord'},
  'Changer de langue': {'en': 'Change language', 'es': 'Cambiar de idioma', 'it': 'Cambia lingua', 'de': 'Sprache ändern', 'pt': 'Mudar de idioma', 'nl': 'Taal wijzigen'},
 }
 order = [o['id'] for o in fr]
@@ -145,9 +193,11 @@ for l in LANGS:
     j['pairs']['answers'] = '\n'.join(ans)
     for k, v in UI.items():
         j['ui'][k] = v[l]
+    for o in NEW_PACKS:
+        j['ui'][o['title']], j['ui'][o['description']] = o[l]
     for k in list(j['ui']):
         if '610 paires du pack Classique' in k:
             j['ui'][k.replace('610', str(NCLASS))] = j['ui'].pop(k).replace('610', str(NCLASS))
     open(f'{OUT}/lang/{l}.js', 'w', encoding='utf8').write(f'window.__hsLang&&window.__hsLang("{l}",' + json.dumps(j, ensure_ascii=False, separators=(',', ':')) + ');')
     print(l, 'revues:', sum(1 for i in order if os.path.exists(f'{W}/out/{l}.1.txt')), 'paires:', sum(len(v) for v in packs.values()), 'sans traduction revue:', len(missing), 'sans aucune:', still)
-print('index', len(src), 'paires FR', len(keep) + len(new))
+print('index', len(src), 'paires FR', len(keep) + len(new) + len(bank_new), 'classique', NCLASS)
