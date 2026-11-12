@@ -46,7 +46,7 @@ sub(""":'<span class="icon-spacer"></span>'}
 sub("""<main class="page home-page">""", """<main class="page home-page">${hsLangPill()}""")
 
 helpers = r'''
-function hsPrune(){let has=p=>Ss.some(x=>x.pack===p);for(let i=Se.length-1;i>=0;i--)has(Se[i].id)||Se.splice(i,1);for(let i=qu.length-1;i>=0;i--)has(qu[i].id)||qu.splice(i,1);if(typeof su!="undefined"&&su)for(let i=su.length-1;i>=0;i--){let g=su[i].grants||[];g.length===1&&g[0].startsWith("pack:")&&!has(g[0].slice(5))&&su.splice(i,1)}}
+function hsPrune(){let has=p=>Ss.some(x=>x.pack===p);for(let i=Se.length-1;i>=0;i--)has(Se[i].id)||Se.splice(i,1);for(let i=qu.length-1;i>=0;i--)has(qu[i].id)||qu.splice(i,1);if(typeof su!="undefined"&&su)for(let i=su.length-1;i>=0;i--){let g=su[i].grants||[];if(g.length===1&&g[0].startsWith("pack:")){if(!has(g[0].slice(5)))su.splice(i,1);else su[i].description=""}}}
 function hsCanReroll(){let g=_();return!!g&&g.config&&g.config.mode!=="survie"&&["DISTRIBUTION","REPONSES","DEBAT","VOTE"].includes(g.phase)}
 function hsLeft(e){return e.right&&String(e.right).includes('data-act="quit"')&&hsCanReroll()?`<button class="icon-btn hs-reroll" data-hs="reroll" aria-label="${t("Changer de question")}" title="${t("Changer de question")}"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.3-4.9L4 8"/><path d="M4 3.5V8h4.5"/><path d="M4 13a8 8 0 0 0 14.3 4.9L20 16"/><path d="M20 20.5V16h-4.5"/></svg></button>`:'<span class="icon-spacer"></span>'}
 function hsLangPill(){let cur=Q.data.settings.lang||"fr",L=pt.find(x=>x.id===cur)||pt[0];return`<details class="hs-lang"><summary aria-label="${t("Changer de langue")}"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.6 2.6 3.9 5.6 3.9 9s-1.3 6.4-3.9 9c-2.6-2.6-3.9-5.6-3.9-9S9.4 5.6 12 3z"/></svg><span class="hs-lang-code">${cur.toUpperCase()}</span><svg class="hs-chev" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="hs-lang-menu" role="menu">${pt.map(x=>`<button role="menuitemradio" aria-checked="${x.id===cur}" class="hs-lang-item ${x.id===cur?"on":""}" data-hs="lang" data-arg="${x.id}" lang="${x.id}"><span class="hs-lang-badge">${x.id.toUpperCase()}</span><span class="hs-lang-name">${x.name}</span>${x.id===cur?'<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>':""}</button>`).join("")}</div></details>`}
@@ -81,7 +81,10 @@ css = '''
 '''
 sub('\n</style>\n<div id="app"', css + '\n</style>\n<div id="app"')
 
-# 4. Version
+# 4. Version et textes chiffrés
+NCLASS = sum(1 for o in fr if o['pack'] == 'classique')
+sub('les 610 paires du pack Classique', f'les {NCLASS} paires du pack Classique')
+sub('sl="6.3"', 'sl="6.5"')
 src = src.replace("version {v} (web, test)", "version {v} (web, test)")
 os.makedirs(f'{OUT}/lang', exist_ok=True)
 open(f'{OUT}/index.html', 'w', encoding='utf8').write(src)
@@ -138,6 +141,9 @@ for l in LANGS:
     j['pairs']['answers'] = '\n'.join(ans)
     for k, v in UI.items():
         j['ui'][k] = v[l]
+    for k in list(j['ui']):
+        if '610 paires du pack Classique' in k:
+            j['ui'][k.replace('610', str(NCLASS))] = j['ui'].pop(k).replace('610', str(NCLASS))
     open(f'{OUT}/lang/{l}.js', 'w', encoding='utf8').write(f'window.__hsLang&&window.__hsLang("{l}",' + json.dumps(j, ensure_ascii=False, separators=(',', ':')) + ');')
     print(l, 'revues:', sum(1 for i in order if os.path.exists(f'{W}/out/{l}.1.txt')), 'paires:', sum(len(v) for v in packs.values()), 'sans traduction revue:', len(missing), 'sans aucune:', still)
 print('index', len(src), 'paires FR', len(keep) + len(new))
