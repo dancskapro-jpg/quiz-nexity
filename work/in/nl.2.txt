@@ -1,0 +1,635 @@
+sport-076|Que dis-tu en entrant dans une eau trop froide ?|Que dis-tu quand quelqu’un t’éclabousse au bord du bassin ?|Wat zeg je als je in veel te koud water stapt?|Wat zeg je als iemand je natspat aan de rand van het bad?|inchange
+sport-077|Combien de fois par an vas-tu à la piscine ?|Combien de fois par an vas-tu à la plage ?|Hoe vaak per jaar ga je naar het zwembad?|Hoe vaak per jaar ga je naar het strand?|inchange
+sport-078|Combien coûte une entrée à la piscine (en euros) ?|Combien coûte une séance d’aquagym (en euros) ?|Hoeveel kost een kaartje voor het zwembad (in euro’s)?|Hoeveel kost een les aquagym (in euro’s)?|inchange
+sport-083|Combien de vélos as-tu eus dans ta vie ?|Combien de paires de baskets as-tu usées dans ta vie ?|Hoeveel fietsen heb je in je leven gehad?|Hoeveel paar sneakers heb je in je leven versleten?|inchange
+sport-096|Que cries-tu pour demander le ballon ?|Que cries-tu quand un coéquipier rate une occasion immanquable ?|Wat roep je om de bal te vragen?|Wat roep je als een teamgenoot een open kans mist?|inchange
+sport-111|Que manges-tu quand tu vas au stade ?|Que manges-tu devant un match à la maison ?|Wat eet je als je naar het stadion gaat?|Wat eet je als je thuis een wedstrijd kijkt?|inchange
+sport-112|Combien paies-tu un sandwich au stade (en euros) ?|Combien paies-tu une écharpe de supporter (en euros) ?|Hoeveel betaal je voor een broodje in het stadion (in euro’s)?|Hoeveel betaal je voor een supporterssjaal (in euro’s)?|inchange
+sport-113|Combien d’heures avant le coup d’envoi arrives-tu au stade ?|Combien d’heures restes-tu au stade après le coup de sifflet final ?|Hoeveel uur voor de aftrap ben je bij het stadion?|Hoeveel uur blijf je na het laatste fluitsignaal nog in het stadion?|inchange
+sport-114|Combien de places compte le plus grand stade que tu connais (en milliers) ?|Combien de supporters faut-il pour une vraie ambiance (en milliers) ?|Hoeveel plaatsen heeft het grootste stadion dat je kent (in duizenden)?|Hoeveel supporters heb je nodig voor een echte sfeer (in duizenden)?|inchange
+sport-119|Combien de matchs as-tu vus dans un stade dans ta vie ?|Combien de concerts as-tu vus dans un stade dans ta vie ?|Hoeveel wedstrijden heb je in je leven in een stadion gezien?|Hoeveel concerten heb je in je leven in een stadion gezien?|inchange
+sport-125|Que cries-tu quand l’arbitre siffle la fin du match ?|Que cries-tu quand un joueur fait un geste incroyable ?|Wat roep je als de scheidsrechter affluit?|Wat roep je als een speler iets ongelooflijks doet?|inchange
+sport-129|Combien de personnes faut-il pour regarder un match à la maison ?|Combien de personnes tiennent sur ton canapé ?|Met hoeveel mensen kijk je het liefst thuis een wedstrijd?|Hoeveel mensen passen er op jouw bank?|inchange
+sport-133|Combien de matchs peux-tu regarder dans la même journée ?|Combien de matchs regardes-tu pendant une Coupe du monde ?|Hoeveel wedstrijden kun je op één dag kijken?|Hoeveel wedstrijden kijk je tijdens een WK?|inchange
+sport-136|À quel moment d’un match commences-tu à stresser ?|À quel moment d’un match sais-tu que c’est perdu ?|Op welk moment van een wedstrijd begin je te stressen?|Op welk moment van een wedstrijd weet je dat het verloren is?|inchange
+sport-138|Que dis-tu à quelqu’un qui pose des questions pendant le match ?|Que dis-tu à quelqu’un qui change de chaîne pendant le match ?|Wat zeg je tegen iemand die vragen stelt tijdens de wedstrijd?|Wat zeg je tegen iemand die tijdens de wedstrijd van zender wisselt?|inchange
+sport-143|Quelle phrase de commentateur sportif répètes-tu ?|Quelle phrase de commentateur sportif t’agace ?|Welke uitspraak van een sportcommentator herhaal je vaak?|Welke uitspraak van een sportcommentator irriteert je?|inchange
+sport-144|Quel sport mériterait plus de place à la télé ?|Quel sport passe trop souvent à la télé ?|Welke sport verdient meer tijd op tv?|Welke sport is te vaak op tv?|inchange
+sport-147|Quel ami ferait le meilleur commentateur sportif ?|Quel ami ferait le meilleur arbitre ?|Welke vriend zou de beste sportcommentator zijn?|Welke vriend zou de beste scheidsrechter zijn?|inchange
+sport-160|Combien coûte une raquette de tennis correcte (en euros) ?|Combien coûte un ballon de foot correct (en euros) ?|Hoeveel kost een fatsoenlijk tennisracket (in euro’s)?|Hoeveel kost een fatsoenlijke voetbal (in euro’s)?|inchange
+sport-161|Quelle marque de sport portes-tu le plus ?|Quelle marque de sport portais-tu au collège ?|Welk sportmerk draag je het vaakst?|Welk sportmerk droeg je op de middelbare school?|inchange
+sport-169|Combien serais-tu prêt à payer un maillot officiel signé (en euros) ?|Combien vaut vraiment un maillot officiel (en euros) ?|Hoeveel zou je willen betalen voor een officieel shirt (in euro’s)?|Hoeveel is een officieel shirt echt waard (in euro’s)?|fr-modifie
+sport-172|Quelle épreuve olympique regardes-tu en premier ?|Quelle épreuve olympique zappes-tu toujours ?|Naar welk olympisch onderdeel kijk je als eerste?|Welk olympisch onderdeel zap je altijd weg?|inchange
+sport-176|Quelle épreuve olympique pourrais-tu tenter demain sans entraînement ?|Quelle épreuve olympique devrait être supprimée ?|Welk olympisch onderdeel zou je morgen zonder training kunnen proberen?|Welk olympisch onderdeel zou geschrapt moeten worden?|inchange
+sport-185|Combien de mètres sautes-tu en longueur ?|Combien de mètres saute un champion en longueur ?|Hoeveel meter spring jij ver?|Hoeveel meter springt een kampioen ver?|inchange
+sport-189|Quel sport d’hiver préfères-tu ?|Quel sport d’hiver aimerais-tu essayer une fois ?|Welke wintersport vind je het leukst?|Welke wintersport zou je één keer willen proberen?|inchange
+sport-192|Combien de jours dure ton séjour au ski idéal ?|Combien de jours faut-il pour apprendre à skier ?|Hoeveel dagen duurt jouw ideale skivakantie?|Hoeveel dagen heb je nodig om te leren skiën?|inchange
+sport-194|Que manges-tu à midi sur les pistes ?|Que manges-tu le soir au chalet ?|Wat eet je ’s middags op de piste?|Wat eet je ’s avonds in het chalet?|inchange
+sport-197|Combien de fois tombes-tu dans une journée de ski ?|Combien de pauses fais-tu dans une journée de ski ?|Hoe vaak val je op een skidag?|Hoe vaak pauzeer je op een skidag?|inchange
+sport-199|Que fais-tu à la montagne quand tu ne skies pas ?|Que fais-tu le dernier jour d’un séjour au ski ?|Wat doe je in de bergen als je niet skiet?|Wat doe je op de laatste dag van een skivakantie?|inchange
+sport-200|Que cries-tu en dévalant une piste ?|Que dis-tu en haut d’une piste trop raide ?|Wat roep je terwijl je een piste afraast?|Wat zeg je boven aan een veel te steile piste?|inchange
+sport-203|Quel sport sur glace aimerais-tu essayer ?|Quel sport sur glace est le plus beau à regarder ?|Welke sport op het ijs zou je willen proberen?|Welke sport op het ijs is het mooist om naar te kijken?|inchange
+sport-221|Quel sport de raquette préfères-tu ?|Quel sport de raquette n’as-tu jamais essayé ?|Welke racketsport vind je het leukst?|Welke racketsport heb je nog nooit geprobeerd?|inchange
+sport-225|Sur 10, quel est ton niveau au ping-pong ?|Sur 10, quel est ton niveau au tennis ?|Hoe goed ben je in tafeltennis, op een schaal van 1 tot 10?|Hoe goed ben je in tennis, op een schaal van 1 tot 10?|inchange
+sport-228|Que dis-tu quand tu rates une balle facile ?|Que dis-tu quand ton adversaire réussit un coup incroyable ?|Wat zeg je als je een makkelijke bal mist?|Wat zeg je als je tegenstander een ongelooflijke slag maakt?|inchange
+sport-237|Quel sport fais-tu les pieds dans le sable ?|Quel sport regardes-tu les autres faire sur la plage ?|Welke sport doe je met je voeten in het zand?|Naar welke sport kijk je terwijl anderen hem op het strand doen?|inchange
+sport-283|Combien d’étages montes-tu à pied par jour ?|Combien de marches compte ton escalier ?|Hoeveel verdiepingen loop je per dag met de trap?|Hoeveel treden heeft jouw trap?|inchange
+sport-289|Combien d’heures par semaine passes-tu à regarder du sport ?|Combien d’heures par semaine passes-tu à faire du sport ?|Hoeveel uur per week kijk je naar sport?|Hoeveel uur per week sport je zelf?|inchange
+sport-302|À quelle heure t’installes-tu devant la télé un soir de finale ?|À quelle heure vas-tu te coucher un soir de finale ?|Hoe laat zit je voor de tv op een finaleavond?|Hoe laat ga je naar bed op een finaleavond?|inchange
+sport-304|Quel vêtement de supporter portes-tu les jours de match ?|Quel vêtement de supporter as-tu acheté sans jamais le porter ?|Welk supporterskledingstuk draag je op wedstrijddagen?|Welk supporterskledingstuk heb je gekocht en nooit gedragen?|inchange
+sport-314|Combien coûte la location d’un terrain de five pour une heure (en euros) ?|Combien coûte une paire de crampons correcte (en euros) ?|Hoeveel kost het om een uur een zaalvoetbalveld te huren (in euro’s)?|Hoeveel kost een fatsoenlijk paar voetbalschoenen (in euro’s)?|inchange
+ecrans-007|Combien de films regardes-tu par mois ?|Combien de séries suis-tu en même temps ?|Hoeveel films kijk je per maand?|Hoeveel series volg je tegelijk?|inchange
+ecrans-035|Combien coûte une place de cinéma, selon toi ?|Combien paierais-tu pour une place d’avant-première ?|Hoeveel kost een bioscoopkaartje volgens jou?|Hoeveel zou je betalen voor een kaartje voor een première?|inchange
+ecrans-037|Qu’apportes-tu toujours dans une salle de cinéma ?|Qu’est-ce que tu oublies souvent sur ton siège au cinéma ?|Wat neem je altijd mee de bioscoopzaal in?|Wat laat je vaak liggen op je stoel in de bioscoop?|inchange
+ecrans-038|Que fais-tu pendant les pubs avant le film ?|Que fais-tu quand un film traîne en longueur ?|Wat doe je tijdens de reclame voor de film?|Wat doe je als een film blijft hangen?|inchange
+ecrans-039|Que chuchotes-tu à ton voisin pendant un film ?|Que dis-tu en sortant de la salle ?|Wat fluister je tijdens een film tegen je buurman?|Wat zeg je als je de zaal uitloopt?|inchange
+ecrans-041|Quel jour de la semaine préfères-tu aller au cinéma ?|Quel jour de la semaine préfères-tu commencer une nouvelle série ?|Op welke dag van de week ga je het liefst naar de bioscoop?|Op welke dag van de week begin je het liefst aan een nieuwe serie?|inchange
+ecrans-042|Quel film es-tu allé voir plusieurs fois au cinéma ?|Quel film aurais-tu aimé découvrir sur grand écran ?|Naar welke film ben je meerdere keren in de bioscoop geweest?|Welke film had je graag op het grote doek gezien?|inchange
+ecrans-043|Au bout de combien de minutes sais-tu si un film va te plaire ?|Au bout de combien de minutes regardes-tu l’heure pendant un film ennuyeux ?|Na hoeveel minuten weet je of een film je gaat bevallen?|Na hoeveel minuten kijk je hoe laat het is bij een saaie film?|inchange
+ecrans-046|Que fais-tu quand quelqu’un parle fort pendant la séance ?|Que fais-tu quand un téléphone sonne pendant la séance ?|Wat doe je als iemand hard praat tijdens de film?|Wat doe je als er een telefoon afgaat tijdens de film?|inchange
+ecrans-048|Que grignotes-tu au cinéma ?|Que grignotes-tu devant un film à la maison ?|Wat snoep je in de bioscoop?|Wat snoep je thuis bij een film?|inchange
+ecrans-049|Quel goût de pop-corn préfères-tu ?|Quel goût de pop-corn aimerais-tu inventer ?|Welke popcornsmaak vind je het lekkerst?|Welke popcornsmaak zou je willen uitvinden?|inchange
+ecrans-051|Combien es-tu prêt à payer un pot de pop-corn ?|Combien payes-tu ta boisson au cinéma ?|Hoeveel wil je betalen voor een bak popcorn?|Hoeveel betaal je voor je drankje in de bioscoop?|inchange
+ecrans-052|Quel plat commandes-tu pour une soirée film entre amis ?|Quel plat manges-tu devant un film quand tu es seul ?|Wat bestel je voor een filmavond met vrienden?|Wat eet je bij een film als je alleen bent?|inchange
+ecrans-053|En combien de minutes finis-tu ton pop-corn au cinéma ?|Au bout de combien de minutes de film ouvres-tu ton paquet de bonbons ?|In hoeveel minuten is je popcorn op in de bioscoop?|Na hoeveel minuten film maak je je zak snoep open?|inchange
+ecrans-054|Quel aliment est le plus bruyant à manger au cinéma ?|Quel aliment est le plus salissant à manger sur un canapé ?|Welk eten maakt het meeste lawaai in de bioscoop?|Welk eten maakt de meeste troep op de bank?|inchange
+ecrans-060|Quel dessert manges-tu devant un film ?|Quel dessert manges-tu devant la télé le dimanche soir ?|Welk toetje eet je bij een film?|Welk toetje eet je op zondagavond voor de tv?|inchange
+ecrans-063|Combien de minutes passes-tu à choisir quoi regarder ?|Combien de minutes passes-tu à choisir quoi manger le soir ?|Hoeveel minuten ben je bezig met kiezen wat je gaat kijken?|Hoeveel minuten ben je 's avonds bezig met kiezen wat je gaat eten?|inchange
+ecrans-070|Combien paierais-tu par mois pour une plateforme parfaite ?|Combien paies-tu par mois pour écouter de la musique ?|Hoeveel zou je per maand betalen voor een perfect platform?|Hoeveel betaal je per maand om muziek te luisteren?|inchange
+ecrans-082|Que fais-tu entre deux épisodes ?|Que fais-tu pendant le générique de fin ?|Wat doe je tussen twee afleveringen door?|Wat doe je tijdens de aftiteling?|inchange
+ecrans-085|Combien d’épisodes faut-il pour que tu deviennes accro à une série ?|Combien d’épisodes faut-il pour que tu retiennes le prénom des personnages ?|Na hoeveel afleveringen ben je verslaafd aan een serie?|Na hoeveel afleveringen onthoud je de namen van de personages?|inchange
+ecrans-091|Combien de saisons as-tu enchaînées en une semaine, au maximum ?|Combien de saisons compte la plus longue série que tu as finie ?|Hoeveel seizoenen heb je maximaal in één week weggekeken?|Hoeveel seizoenen heeft de langste serie die je hebt uitgekeken?|inchange
+ecrans-092|Combien de bandes-annonces passent avant un film au cinéma ?|Combien de bandes-annonces regardes-tu avant de choisir un film ?|Hoeveel trailers zie je voor een film in de bioscoop?|Hoeveel trailers kijk je voordat je een film kiest?|inchange
+ecrans-100|Quel titre donnerais-tu au film de ta vie ?|Quel titre donnerais-tu à la série de ta famille ?|Welke titel zou je de film van je leven geven?|Welke titel zou je de serie over je familie geven?|inchange
+ecrans-102|Combien coûtait un DVD, selon toi ?|Combien coûte un abonnement de streaming par mois ?|Hoeveel kostte een dvd volgens jou?|Hoeveel kost een streamingabonnement per maand?|inchange
+ecrans-103|À quel moment de la bande-annonce sais-tu que tu iras voir le film ?|À quel moment d’un film sais-tu que tu vas l’adorer ?|Op welk moment in de trailer weet je dat je de film gaat zien?|Op welk moment in een film weet je dat je hem geweldig gaat vinden?|inchange
+ecrans-137|Quelle série t’a laissé sans voix à la fin d’une saison ?|Quelle série a eu une dernière saison décevante ?|Welke serie liet je sprakeloos achter aan het eind van een seizoen?|Welke serie had een teleurstellend laatste seizoen?|inchange
+ecrans-139|Que cries-tu devant un rebondissement incroyable ?|Que cries-tu quand un épisode s’arrête au pire moment ?|Wat roep je bij een ongelooflijke plotwending?|Wat roep je als een aflevering op het slechtste moment stopt?|inchange
+ecrans-164|Jusqu’à quel âge as-tu regardé des dessins animés ?|À quel âge as-tu vu ton premier dessin animé au cinéma ?|Tot welke leeftijd keek je tekenfilms?|Hoe oud was je bij je eerste tekenfilm in de bioscoop?|inchange
+ecrans-176|Sur quel sujet regardes-tu des documentaires ?|Sur quel sujet aimerais-tu tourner un documentaire ?|Over welk onderwerp kijk je documentaires?|Over welk onderwerp zou je een documentaire willen maken?|inchange
+ecrans-200|Quel jeu télé aimerais-tu gagner ?|Quel jeu télé serait le pire pour toi ?|Welke tv-quiz zou je willen winnen?|Welke tv-quiz zou voor jou de ergste zijn?|inchange
+ecrans-209|Combien coûte une bonne télé, selon toi ?|Combien coûte un bon canapé, selon toi ?|Hoeveel kost een goede tv volgens jou?|Hoeveel kost een goede bank volgens jou?|inchange
+ecrans-217|Que dis-tu quand quelqu’un met pause sans prévenir ?|Que dis-tu quand quelqu’un parle pendant la scène clé ?|Wat zeg je als iemand zonder waarschuwing op pauze drukt?|Wat zeg je als iemand praat tijdens de belangrijkste scène?|inchange
+ecrans-226|Combien de fois reviens-tu en arrière pendant un film à la maison ?|Combien de fois te lèves-tu pendant un film à la maison ?|Hoe vaak spoel je terug tijdens een film thuis?|Hoe vaak sta je op tijdens een film thuis?|inchange
+ecrans-236|Que crie-t-on sur un plateau avant de tourner ?|Que crie-t-on à la fin d’une prise ?|Wat roep je op een set voordat er gefilmd wordt?|Wat roep je aan het eind van een take?|inchange
+ecrans-273|Quel film d’été te rappelle tes vacances d’enfance ?|Quel film d’hiver te rappelle les fêtes en famille ?|Welke zomerfilm doet je denken aan je vakanties als kind?|Welke winterfilm doet je denken aan de feestdagen met familie?|inchange
+ecrans-280|Combien de films peux-tu regarder dans une journée ?|Combien de films peux-tu regarder dans un week-end ?|Hoeveel films kun je op één dag kijken?|Hoeveel films kun je in één weekend kijken?|inchange
+ecrans-286|Quel lieu est le décor idéal d’un film d’horreur ?|Quel lieu est le décor idéal d’une comédie ?|Welke plek is het ideale decor voor een horrorfilm?|Welke plek is het ideale decor voor een komedie?|inchange
+ecrans-319|Que chuchotes-tu à ton voisin quand le film commence ?|Que chuchotes-tu à ton voisin quand le film devient ennuyeux ?|Wat fluister je tegen je buurman als de film begint?|Wat fluister je tegen je buurman als de film saai wordt?|inchange
+ecrans-324|Que fais-tu quand ton voisin de siège parle pendant le film ?|Que fais-tu quand un téléphone s’allume devant toi au cinéma ?|Wat doe je als je stoelbuurman praat tijdens de film?|Wat doe je als er voor je een telefoonscherm oplicht in de bioscoop?|inchange
+ecrans-325|Quel objet trouve-t-on toujours par terre dans une salle après la séance ?|Quel objet as-tu déjà perdu dans une salle de cinéma ?|Welk voorwerp ligt na de voorstelling altijd op de grond in de zaal?|Wat ben je ooit kwijtgeraakt in een bioscoopzaal?|inchange
+ecrans-335|Quel snack rêverais-tu de trouver au comptoir du cinéma ?|Quel snack ne devrait jamais être vendu au cinéma ?|Welke snack zou je dolgraag bij de bioscoopbalie zien?|Welke snack zou nooit in de bioscoop verkocht mogen worden?|inchange
+ecrans-339|Que dis-tu au vendeur quand il te propose la taille au-dessus ?|Que dis-tu quand quelqu’un pioche dans ton popcorn sans demander ?|Wat zeg je tegen de verkoper als hij je een grotere maat aanbiedt?|Wat zeg je als iemand zonder te vragen uit je popcorn graait?|inchange
+ecrans-342|Combien dépenses-tu au total pour une sortie cinéma (en euros) ?|Combien dépenses-tu en snacks pour une soirée film chez toi (en euros) ?|Hoeveel geef je in totaal uit aan een avondje bioscoop (in euro)?|Hoeveel geef je uit aan snacks voor een filmavond thuis (in euro)?|inchange
+ecrans-359|Que réponds-tu quand on te demande ce qu’on regarde ce soir ?|Que réponds-tu quand on te propose un film que tu as déjà vu ?|Wat antwoord je als iemand vraagt wat jullie vanavond gaan kijken?|Wat antwoord je als iemand een film voorstelt die je al hebt gezien?|inchange
+ecrans-437|Quel mot dis-tu quand une plateforme augmente son prix ?|Quel mot dis-tu quand une série disparaît du catalogue ?|Welk woord zeg je als een platform de prijs verhoogt?|Welk woord zeg je als een serie uit het aanbod verdwijnt?|inchange
+ecrans-465|Quelle phrase entend-on toujours dans un film de braquage ?|Quelle phrase entend-on toujours dans un film de sport ?|Welke zin hoor je altijd in een overvalfilm?|Welke zin hoor je altijd in een sportfilm?|inchange
+ecrans-468|À quel moment du film le héros doute-t-il toujours ?|À quel moment du film le méchant révèle-t-il son plan ?|Op welk moment in de film twijfelt de held altijd?|Op welk moment in de film onthult de schurk zijn plan?|inchange
+ecrans-475|Dans quel lieu se cache toujours un indice dans un film d’enquête ?|Dans quel lieu trouve-t-on toujours un passage secret dans un film ?|Op welke plek ligt in een detectivefilm altijd een aanwijzing?|Op welke plek zit in films altijd een geheime gang?|inchange
+ecrans-584|En quelle année est sorti le plus vieux film que tu adores ?|En quelle année est sorti le film de ton enfance que tu revois le plus ?|In welk jaar kwam de oudste film uit waar je dol op bent?|In welk jaar kwam de film uit je jeugd uit die je het vaakst opnieuw kijkt?|inchange
+ecrans-613|Quel prix maximum mettrais-tu dans un coffret collector de saga ?|Quel prix maximum mettrais-tu dans une affiche de film originale ?|Hoeveel zou je maximaal uitgeven aan een verzamelbox van een filmreeks?|Hoeveel zou je maximaal uitgeven aan een originele filmposter?|inchange
+musique-025|Combien paierais-tu pour voir ton artiste préféré (en euros) ?|Combien coûte une place de concert normale (en euros) ?|Hoeveel zou je betalen om je favoriete artiest te zien (in euro)?|Hoeveel kost een normaal concertkaartje (in euro)?|inchange
+musique-057|À quel volume, sur 10, écoutes-tu la musique en voiture ?|À quel volume, sur 10, écoutes-tu la musique au casque ?|Hoe hard, op een schaal van 10, luister je muziek in de auto?|Hoe hard, op een schaal van 10, luister je muziek met een koptelefoon?|inchange
+musique-063|Combien de fois peux-tu écouter la même chanson sur un trajet ?|Combien de chansons passes-tu avant d’en trouver une bonne en voiture ?|Hoe vaak kun je hetzelfde nummer draaien tijdens één rit?|Hoeveel nummers skip je voordat je in de auto een goede vindt?|inchange
+musique-097|Combien d’artistes différents écoutes-tu dans une semaine ?|Combien de genres différents écoutes-tu dans une semaine ?|Naar hoeveel verschillende artiesten luister je in een week?|Naar hoeveel verschillende genres luister je in een week?|inchange
+musique-099|Qui fait les meilleures playlists autour de toi ?|Qui te recommande toujours des chansons autour de toi ?|Wie maakt de beste playlists in jouw omgeving?|Wie raadt je in jouw omgeving altijd nummers aan?|inchange
+musique-101|Combien de fois appuies-tu sur « répéter » quand ton réveil sonne ?|Combien de réveils mets-tu le matin ?|Hoe vaak druk je op ‘snooze’ als je wekker gaat?|Hoeveel wekkers zet je 's ochtends?|inchange
+musique-158|Combien d’heures par jour gardes-tu ton casque au travail ?|Combien d’heures par jour écoutes-tu de la musique dans les transports ?|Hoeveel uur per dag zit je koptelefoon op tijdens het werk?|Hoeveel uur per dag luister je muziek in het openbaar vervoer?|inchange
+musique-165|Combien de minutes mets-tu à choisir quoi écouter en partant le matin ?|Combien de minutes peux-tu travailler sans musique ?|Hoeveel minuten doe je erover om 's ochtends te kiezen wat je gaat luisteren?|Hoeveel minuten kun je werken zonder muziek?|inchange
+musique-223|Quel objet connecté utilises-tu pour mettre de la musique ?|Quel objet utilisais-tu pour mettre de la musique il y a dix ans ?|Welk slim apparaat gebruik je om muziek op te zetten?|Welk apparaat gebruikte je tien jaar geleden om muziek op te zetten?|inchange
+musique-249|Jusqu’à quelle heure peut-on mettre de la musique fort chez soi ?|À partir de quelle heure peut-on mettre de la musique le week-end ?|Tot hoe laat mag je thuis harde muziek draaien?|Vanaf hoe laat mag je in het weekend muziek draaien?|inchange
+musique-294|Combien paierais-tu pour un bon casque (en euros) ?|Combien paierais-tu pour une bonne enceinte (en euros) ?|Hoeveel zou je betalen voor een goede koptelefoon (in euro)?|Hoeveel zou je betalen voor een goede speaker (in euro)?|inchange
+enfance-001|Quelle matière préférais-tu à l’école ?|Quelle matière aurais-tu aimé avoir à l’école ?|Welk vak vond je het leukst op school?|Welk vak had je graag op school gehad?|inchange
+enfance-002|Quelle matière te faisait le plus peur ?|Quelle matière te serait utile aujourd’hui ?|Voor welk vak was je het bangst?|Welk schoolvak zou je nu goed van pas komen?|inchange
+enfance-003|Quel jouet as-tu gardé ?|Quel jouet voulais-tu absolument pour Noël ?|Welk speelgoed heb je bewaard?|Welk speelgoed wilde je per se van Sinterklaas?|inchange
+enfance-004|Quel goûter mangeais-tu après l’école ?|Quel plat de cantine préférais-tu ?|Wat at je na school als tussendoortje?|Wat zat er het liefst in je broodtrommel?|inchange
+enfance-010|Combien d’élèves y avait-il dans ta classe de CM2 ?|Combien d’amis invitais-tu à tes anniversaires d’enfant ?|Hoeveel kinderen zaten er bij jou in groep 8?|Hoeveel vriendjes nodigde je uit voor je kinderfeestje?|inchange
+enfance-015|À quelle heure te couchais-tu à dix ans ?|À quelle heure commençait l’école ?|Hoe laat ging je naar bed toen je tien was?|Hoe laat begon school?|inchange
+enfance-026|Quel cadeau d’anniversaire t’a le plus marqué enfant ?|Quel cadeau d’enfance as-tu toujours ?|Welk verjaardagscadeau is je als kind het meest bijgebleven?|Welk cadeau uit je jeugd heb je nog steeds?|inchange
+enfance-030|À quel âge as-tu arrêté de croire au père Noël ?|À quel âge as-tu eu ton premier argent de poche ?|Hoe oud was je toen je niet meer in Sinterklaas geloofde?|Hoe oud was je toen je je eerste zakgeld kreeg?|inchange
+enfance-037|Combien de minutes durait ton repas à la cantine ?|Combien de minutes attendais-tu dans la file de la cantine ?|Hoeveel minuten duurde de lunchpauze op school?|Hoeveel minuten stond je in de rij bij de schoolkantine?|inchange
+enfance-040|Que criait-on quand quelqu’un faisait tomber son plateau ?|Que disait la dame de la cantine pour te faire finir ton assiette ?|Wat riep iedereen als iemand zijn drinken omgooide bij het overblijven?|Wat zei de overblijfmoeder om je je brood te laten opeten?|inchange
+tech-337|Quelle phrase dis-tu quand ton téléphone affiche 1 % ?|Quelle phrase dis-tu quand ton téléphone se rallume enfin ?|Welke zin zeg je als je telefoon 1% aangeeft?|Welke zin zeg je als je telefoon eindelijk weer aangaat?|inchange
+tech-383|Que fais-tu quand un ami t’envoie un très long message ?|Que fais-tu quand un ami t’envoie dix messages d’affilée ?|Wat doe je als een vriend je een heel lang bericht stuurt?|Wat doe je als een vriend je tien berichten achter elkaar stuurt?|inchange
+tech-403|Que fais-tu quand quelqu’un te montre 200 photos de vacances ?|Que fais-tu quand quelqu’un te montre une vidéo de 10 minutes ?|Wat doe je als iemand je 200 vakantiefoto's laat zien?|Wat doe je als iemand je een video van 10 minuten laat zien?|inchange
+tech-428|Combien de cartes de fidélité as-tu dans ton téléphone ?|Combien de billets ou tickets as-tu dans ton téléphone ?|Hoeveel klantenkaarten heb je op je telefoon?|Hoeveel tickets of kaartjes heb je op je telefoon?|inchange
+tech-444|Combien coûte un bon ordinateur portable ?|Combien coûte un bon téléphone ?|Hoeveel kost een goede laptop?|Hoeveel kost een goede telefoon?|inchange
+tech-462|Combien coûte une paire d’écouteurs sans fil ?|Combien coûte une montre connectée ?|Hoeveel kosten draadloze oortjes?|Hoeveel kost een smartwatch?|inchange
+tech-477|Quelle langue as-tu essayé d’apprendre avec une appli ?|Quelle langue aimerais-tu apprendre avec une appli ?|Welke taal heb je geprobeerd te leren met een app?|Welke taal zou je graag leren met een app?|inchange
+tech-478|Combien de minutes passes-tu à chercher le code wifi chez quelqu’un ?|Combien de minutes passes-tu à redémarrer ta box en cas de panne ?|Hoeveel minuten zoek je naar de wifi-code bij iemand thuis?|Hoeveel minuten ben je bezig met je modem herstarten bij een storing?|inchange
+tech-502|Dans combien d’années aura-t-on tous un robot à la maison ?|Dans combien d’années les voitures rouleront-elles seules partout ?|Over hoeveel jaar heeft iedereen een robot thuis?|Over hoeveel jaar rijden auto's overal vanzelf?|inchange
+nature-058|Combien de minutes restes-tu dans une mer à 10 degrés ?|Combien de minutes restes-tu dans une mer à 25 degrés ?|Hoeveel minuten blijf je in zee als het water 18 graden is?|Hoeveel minuten blijf je in zee als het water 25 graden is?|fr-modifie
+nature-059|Que fais-tu en premier en arrivant sur une plage ?|Que fais-tu en premier en arrivant à la piscine ?|Wat doe je als eerste als je op het strand aankomt?|Wat doe je als laatste voordat je het strand verlaat?|fr-modifie
+nature-066|Combien de secondes mets-tu à entrer dans une mer froide ?|Combien de secondes peux-tu tenir la tête sous l’eau ?|Hoeveel seconden doe je erover om een koude zee in te gaan?|Hoeveel seconden kun je je hoofd onder water houden?|inchange
+nature-287|Combien d’étoiles filantes as-tu vues dans ta vie ?|Combien de fois as-tu vu des dauphins dans ta vie ?|Hoeveel vallende sterren heb je in je leven gezien?|Hoeveel wensen heb je gedaan bij een vallende ster?|fr-modifie
+nature-291|Où irais-tu pour voir le plus beau ciel étoilé ?|Où irais-tu pour voir une aurore boréale ?|Waar zou je heen gaan voor de mooiste sterrenhemel?|Waar zou je heen gaan om het noorderlicht te zien?|inchange
+famille-153|Que construis-tu avec de la neige ?|Que construis-tu avec du sable mouillé ?|Wat bouw je met sneeuw?|Wat bouw je met nat zand?|inchange
+famille-162|Que fais-tu quand tu vois un arc-en-ciel ?|Que fais-tu quand tu vois de la neige tomber ?|Wat doe je als je een regenboog ziet?|Wat doe je als je sneeuw ziet vallen?|inchange
+fetes-003|Combien de cadeaux mets-tu sous le sapin en moyenne ?|Combien de personnes fêtent Noël avec toi en moyenne ?|Hoeveel cadeaus leg jij onder de kerstboom?|Met hoeveel mensen vier jij kerst?|fr-modifie
+fetes-005|À quelle heure ouvres-tu les cadeaux à Noël ?|À quelle heure commence le repas de Noël ?|Hoe laat maak jij met kerst de cadeaus open?|Hoe laat begint bij jou het kerstdiner?|inchange
+fetes-009|Où aimerais-tu voir un feu d’artifice ?|Où aimerais-tu visiter un marché de Noël ?|Waar zou jij graag vuurwerk zien?|Waar zou jij graag een kerstmarkt bezoeken?|inchange
+fetes-011|Combien de jours avant Noël installes-tu le sapin ?|Combien de jours après Noël enlèves-tu le sapin ?|Hoeveel dagen voor kerst zet jij de kerstboom op?|Hoeveel dagen na kerst haal jij de kerstboom weg?|inchange
+fetes-014|Combien de bougies faut-il sur un gâteau pour qu’il soit beau ?|En combien de parts coupes-tu une galette des rois ?|Hoeveel kaarsjes moeten er op een taart staan om mooi te zijn?|In hoeveel stukken snijd jij een vlaai?|inchange
+fetes-019|Que dis-tu pour souhaiter une bonne année ?|Que dis-tu pour souhaiter un joyeux anniversaire en retard ?|Wat zeg je om iemand een gelukkig nieuwjaar te wensen?|Wat zeg je als je iemand te laat feliciteert met zijn verjaardag?|inchange
+fetes-026|Combien de jours à l’avance achètes-tu tes cadeaux de Noël ?|Combien de jours avant les vacances fais-tu ta valise ?|Hoeveel dagen van tevoren koop jij je kerstcadeaus?|Hoeveel dagen voor de vakantie pak jij je koffer in?|inchange
+fetes-040|Combien de parts de gâteau d’anniversaire manges-tu ?|Combien de parts de gâteau restent à la fin de la fête ?|Hoeveel stukken verjaardagstaart eet jij?|Hoeveel stukken taart blijven er over aan het eind van het feest?|inchange
+fetes-042|Combien de minutes dure le moment des cadeaux à un anniversaire ?|Combien de minutes restes-tu caché pour une fête surprise ?|Hoeveel minuten duurt het cadeaumoment op een verjaardag?|Hoeveel minuten zit jij verstopt bij een verrassingsfeest?|inchange
+fetes-043|Combien de dates d’anniversaire connais-tu par cœur ?|Combien de rappels d’anniversaire as-tu dans ton téléphone ?|Hoeveel verjaardagen ken jij uit je hoofd?|Hoeveel verjaardagsherinneringen staan er in je telefoon?|inchange
+fetes-048|Combien de bougies mets-tu vraiment sur un gâteau d’adulte ?|Combien de cadeaux reçois-tu dans une année ?|Hoeveel kaarsjes zet jij echt op de taart van een volwassene?|Hoeveel kaarsjes zijn er nodig om het brandalarm te laten afgaan?|fr-modifie
+fetes-050|Quel est le meilleur cadeau que tu aies reçu enfant ?|Quel objet t'es-tu acheté pour te faire plaisir pour ton anniversaire ?|Wat is het beste cadeau dat je als kind kreeg?|Om welk cadeau zeurde je als kind het meest?|fr-modifie
+fetes-052|Combien de minutes mets-tu à emballer un cadeau ?|Combien de minutes mets-tu à écrire une carte d’anniversaire ?|Hoeveel minuten doe jij over het inpakken van een cadeau?|Hoeveel minuten doe jij over het kiezen van een verjaardagskaart?|fr-modifie
+fetes-055|Que dis-tu quand un cadeau ne te plaît pas du tout ?|Que dis-tu quand tu reçois un cadeau beaucoup trop généreux ?|Wat zeg je als je een cadeau helemaal niet mooi vindt?|Wat zeg je als je een veel te duur cadeau krijgt?|inchange
+fetes-057|Combien de cadeaux offres-tu dans une année ?|Combien de cadeaux reçois-tu dans une année ?|Hoeveel cadeaus geef jij in een jaar?|Hoeveel cadeaus krijg jij in een jaar?|inchange
+fetes-063|Que trouve-t-on à coup sûr dans une pochette surprise ?|Quel jouet trouve-t-on à coup sûr dans un œuf en chocolat ?|Wat zit er altijd in een uitdeelzakje?|Welk speeltje zit er altijd in een chocolade-ei?|fr-modifie
+fetes-064|Quel mot écris-tu sur une carte de félicitations ?|Quel mot écris-tu sur une carte de remerciement ?|Welk woord schrijf jij op een felicitatiekaart?|Welk woord schrijf jij op een bedankkaartje?|inchange
+fetes-065|Combien de jours mets-tu à remercier pour un cadeau ?|Combien de jours gardes-tu un bouquet reçu en cadeau ?|Hoeveel dagen wacht jij met bedanken voor een cadeau?|Hoeveel dagen bewaar jij een bos bloemen die je kreeg?|inchange
+fetes-066|Où caches-tu les cadeaux avant de les offrir ?|Où ranges-tu les cadeaux que tu n’utilises pas ?|Waar verstop jij cadeaus voordat je ze geeft?|Waar bewaar jij cadeaus die je niet gebruikt?|inchange
+fetes-137|Combien dépenses-tu pour un bouquet de fleurs ?|Combien dépenses-tu pour une boîte de chocolats à offrir ?|Hoeveel geef jij uit aan een bos bloemen?|Hoeveel geef jij uit aan een doos bonbons als cadeau?|inchange
+fetes-164|Combien d’invités faut-il pour un beau mariage ?|Combien de tables compte une belle salle de réception ?|Hoeveel gasten heb je nodig voor een mooie bruiloft?|Hoeveel tafels staan er in een mooie feestzaal?|inchange
+fetes-171|À combien de mariages es-tu allé dans ta vie ?|À combien d'anniversaires es-tu allé dans ta vie ?|Op hoeveel bruiloften ben jij in je leven geweest?|Op hoeveel doopfeesten ben jij in je leven geweest?|fr-modifie
+fetes-196|Combien de fois dis-tu bonne année le 1er janvier ?|Combien de fois dis-tu joyeux anniversaire dans une année ?|Hoe vaak zeg jij gelukkig nieuwjaar op 1 januari?|Hoe vaak zeg jij gefeliciteerd in een jaar?|inchange
+fetes-198|À quelle heure arrives-tu quand on t’invite à 20 heures ?|À quelle heure pars-tu d’une soirée qui t’ennuie ?|Hoe laat kom jij aan als je om acht uur bent uitgenodigd?|Hoe laat vertrek jij van een feest waar je je verveelt?|inchange
+fetes-222|Combien coûte un billet pour un parc d'attractions ?|Combien coûte une console de jeu ?|Hoeveel kost een ritje in een attractie?|Hoeveel kost een suikerspin?|fr-modifie
+fetes-223|Combien de minutes maximum attends-tu pour un grand huit ?|Combien de minutes attends-tu pour une grande roue ?|Hoeveel minuten wacht jij voor een achtbaan?|Hoeveel minuten wacht jij voor een reuzenrad?|fr-modifie
+fetes-227|Combien de lancers te faut-il pour gagner une peluche ?|Combien d’essais te faut-il pour attraper un canard à la pêche ?|Hoeveel worpen heb jij nodig om een knuffel te winnen?|Hoeveel pogingen heb jij nodig om een eendje te vangen bij eendjes vissen?|inchange
+fetes-243|Que dis-tu quand il fait nuit à 17 heures ?|Que dis-tu quand il fait encore jour à 22 heures ?|Wat zeg jij als het om vijf uur 's middags al donker is?|Wat zeg jij als het om tien uur 's avonds nog licht is?|inchange
+fetes-263|Que fais-tu le 26 décembre ?|Que fais-tu le 2 janvier ?|Wat doe jij op 26 december?|Wat doe jij op 2 januari?|inchange
+fetes-275|Combien de photos prends-tu pendant une fête ?|Combien de photos de fête gardes-tu vraiment ?|Hoeveel foto's maak jij tijdens een feest?|Hoeveel feestfoto's bewaar jij echt?|inchange
+fetes-279|Quel moment d’une fête aimes-tu prendre en photo ?|Quel moment d’une fête préfères-tu vivre sans téléphone ?|Welk moment van een feest fotografeer jij graag?|Welk moment van een feest beleef jij liever zonder telefoon?|inchange
+fetes-280|Qui prend toujours les photos dans ton groupe d’amis ?|Qui organise toujours la photo de groupe dans ta famille ?|Wie maakt in jouw vriendengroep altijd de foto's?|Wie regelt in jouw familie altijd de groepsfoto?|inchange
+fetes-289|Combien de ballons gonfles-tu pour une fête ?|Combien de paquets de chips achètes-tu pour une fête ?|Hoeveel ballonnen blaas jij op voor een feest?|Hoeveel zakken chips koop jij voor een feest?|inchange
+fetes-290|Combien de minutes mets-tu à gonfler dix ballons ?|Combien de minutes mets-tu à dresser la table pour dix ?|Hoeveel minuten doe jij over het opblazen van tien ballonnen?|Hoeveel minuten doe jij over het dekken van de tafel voor tien?|inchange
+fetes-300|Que dis-tu en accueillant tes invités ?|Que dis-tu en arrivant chez quelqu’un qui fait une fête ?|Wat zeg jij als je je gasten verwelkomt?|Wat zeg jij als je binnenkomt bij iemand die een feest geeft?|inchange
+fetes-302|Quel fromage mets-tu sur un plateau de fête ?|Quel fromage mets-tu dans une raclette ?|Welke kaas leg jij op een feestplank?|Welke kaas gebruik jij voor een kaasfondue?|inchange
+fetes-303|Quel objet empruntes-tu toujours pour organiser une fête ?|Quel objet prêtes-tu toujours pour une fête ?|Welk voorwerp leen jij altijd om een feest te organiseren?|Welk voorwerp leen jij altijd uit voor een feest?|inchange
+fetes-305|À quelle heure sers-tu le gâteau à un anniversaire du soir ?|À quelle heure sers-tu le dessert à un dîner entre amis ?|Hoe laat serveer jij de taart op een verjaardag 's avonds?|Hoe laat serveer jij het toetje bij een etentje met vrienden?|inchange
+fetes-308|À partir de quel âge offre-t-on de l’argent plutôt qu’un cadeau ?|À partir de quel âge arrête-t-on les pochettes surprises ?|Vanaf welke leeftijd geef je geld in plaats van een cadeau?|Vanaf welke leeftijd stop je met uitdeelzakjes?|inchange
+fetes-309|Combien dépenses-tu pour une fête chez toi ?|Combien dépenses-tu pour un week-end entre amis ?|Hoeveel geef jij uit aan een feest bij jou thuis?|Hoeveel geef jij uit aan een weekendje weg met vrienden?|inchange
+fetes-311|Quel objet trouves-tu toujours sous le canapé après une fête ?|Quel objet trouves-tu toujours dans le jardin après une fête ?|Welk voorwerp vind jij na een feest altijd onder de bank?|Welk voorwerp vind jij na een feest altijd in de tuin?|inchange
+fetes-313|Quel invité arrive toujours le premier ?|Quel invité reste toujours pour aider ?|Welke gast komt altijd als eerste?|Welke gast blijft altijd om te helpen?|inchange
+fetes-316|Combien de jours tiennent tes résolutions de janvier ?|Combien de résolutions notes-tu le 1er janvier ?|Hoeveel dagen houden jouw goede voornemens stand?|Hoeveel goede voornemens schrijf jij op 1 januari op?|inchange
+fetes-332|Combien de fois écris-tu encore l’ancienne année en janvier ?|Combien de fois te trompes-tu de date en janvier ?|Hoe vaak schrijf jij in januari nog het oude jaartal op?|Hoe vaak vergis jij je in januari in de datum?|inchange
+fetes-333|Combien coûte un agenda pour la nouvelle année ?|Combien coûte un calendrier de l'avent de chocolat ?|Hoeveel kost een agenda voor het nieuwe jaar?|Hoeveel kost een kalender voor aan de muur?|fr-modifie
+fetes-335|Quel objet sert de fève quand on n’en a pas ?|Quel objet remplace la couronne quand on l’a oubliée ?|Wat gebruik jij als boon in de driekoningentaart als je er geen hebt?|Wat gebruik jij als kroon als je die vergeten bent?|inchange
+fetes-341|Combien coûte une galette pour six ?|Combien coûte une tarte aux pommes pour six ?|Hoeveel kost een hele vlaai?|Hoeveel kost een hele appeltaart?|inchange
+fetes-345|Combien de crêpes manges-tu au goûter ?|Combien de crêpes prépares-tu pour quatre personnes ?|Hoeveel pannenkoeken eet jij als avondeten?|Hoeveel pannenkoeken bak jij voor vier personen?|inchange
+fetes-346|Quelle crêpe salée préfères-tu ?|Quelle crêpe sucrée préfères-tu ?|Welke hartige pannenkoek vind jij het lekkerst?|Welke zoete pannenkoek vind jij het lekkerst?|inchange
+fetes-347|Qui fait sauter les crêpes chez toi ?|Qui mange les crêpes ratées chez toi ?|Wie gooit bij jou thuis de pannenkoeken om?|Wie eet bij jou thuis de mislukte pannenkoeken op?|inchange
+fetes-353|Quelle garniture de crêpe mets-tu pour les enfants ?|Quelle garniture de crêpe gardes-tu pour les adultes ?|Welk pannenkoekbeleg kies jij voor kinderen?|Welk pannenkoekbeleg bewaar jij voor volwassenen?|inchange
+fetes-354|Combien coûte une crêpe au sucre dans une crêperie ?|Combien coûte une galette complète dans une crêperie ?|Hoeveel kost een pannenkoek met suiker in een pannenkoekenhuis?|Hoeveel kost een pannenkoek met spek en kaas in een pannenkoekenhuis?|inchange
+fetes-365|Quel personnage imites-tu avec seulement une moustache ?|Quel personnage imites-tu avec seulement un chapeau ?|Welk personage doe jij na met alleen een snor?|Welk personage doe jij na met alleen een hoed?|inchange
+fetes-371|Quel objet utilises-tu pour une blague du 1er avril ?|Quel objet utilises-tu pour un tour de magie ?|Welk voorwerp gebruik jij voor een 1 aprilgrap?|Welk voorwerp gebruik jij voor een goocheltruc?|inchange
+fetes-390|Quel jeu organises-tu pour les enfants à Pâques ?|Quel jeu organises-tu pour les enfants à la plage ?|Welk spel organiseer jij voor kinderen met Pasen?|Welk spel organiseer jij voor kinderen op het strand?|inchange
+fetes-399|Combien coûte une tablette de chocolat ?|Combien coûte une rose chez le fleuriste ?|Hoeveel kost een bos tulpen?|Hoeveel kost een roos bij de bloemist?|fr-modifie
+fetes-410|Que dis-tu pour inviter un voisin que tu ne connais pas ?|Que dis-tu pour te présenter à un nouveau voisin ?|Wat zeg jij om een buur die je niet kent uit te nodigen?|Wat zeg jij om je voor te stellen aan een nieuwe buur?|inchange
+fetes-431|Quel bruit fais-tu pour imiter un feu d’artifice ?|Quel bruit fais-tu pour imiter une voiture de course ?|Welk geluid maak jij om vuurwerk na te doen?|Welk geluid maak jij om een raceauto na te doen?|inchange
+ville-228|Combien de jours faut-il pour visiter une grande ville ?|Combien de jours pars-tu en vacances par an ?|Hoeveel dagen heb je nodig om een grote stad te bezoeken?|Hoeveel dagen heb jij nodig om je thuis te voelen in een stad?|fr-modifie
+ville-231|Que dis-tu à un touriste perdu devant toi ?|Que dis-tu quand un touriste te demande de le prendre en photo ?|Wat zeg jij tegen een verdwaalde toerist voor je neus?|Wat zeg jij als een toerist vraagt of je een foto van hem wilt maken?|inchange
+ville-232|Combien de photos prends-tu en une journée de visite ?|Combien de photos de monuments gardes-tu vraiment ?|Hoeveel foto's maak jij op een dag sightseeing?|Hoeveel foto's van monumenten bewaar jij echt?|inchange
+ville-243|Combien coûte un ticket de métro dans ta ville ?|Combien coûte une amende quand tu fraudes dans les transports ?|Hoeveel kost een metrokaartje in jouw stad?|Hoeveel kost een buskaartje in jouw stad?|fr-modifie
+ville-259|Combien de minutes de transport acceptes-tu au maximum pour aller au travail ?|Combien de minutes de transport acceptes-tu au maximum pour voir tes amis ?|Hoeveel minuten reistijd naar je werk accepteer jij maximaal?|Hoeveel minuten reistijd naar je vrienden accepteer jij maximaal?|inchange
+ville-313|Combien de lignes de bus prends-tu dans un mois ?|Combien de stations de métro connais-tu par cœur ?|Hoeveel buslijnen neem jij in een maand?|Hoeveel metrostations ken jij uit je hoofd?|inchange
+ville-315|Combien coûte un ticket de métro selon toi ?|Combien coûte une heure de parking en centre-ville selon toi ?|Hoeveel kost een metrokaartje volgens jou?|Hoeveel kost een uur parkeren in het centrum volgens jou?|inchange
+ville-327|Combien de minutes cherches-tu une place pour te garer ?|Combien de minutes attends-tu à un feu rouge dans ta journée ?|Hoeveel minuten zoek jij naar een parkeerplek?|Hoeveel minuten sta jij per dag voor een rood stoplicht?|inchange
+ville-331|Que dis-tu quand une trottinette te frôle ?|Que dis-tu quand un vélo te sonne derrière toi ?|Wat zeg jij als een step rakelings langs je schiet?|Wat zeg jij als een fietser achter je belt?|inchange
+imaginaire-029|Combien d’heures de plus voudrais-tu dans une journée ?|Combien d’heures a duré ton plus long trajet en avion ?|Hoeveel uur extra zou je per dag willen?|Hoeveel uur slaap zou je nodig hebben als je een robot was?|fr-modifie
+popculture-004|Quel film d’animation plaît autant aux adultes qu’aux enfants ?|Quel film d’animation t’a fait pleurer ?|Welke animatiefilm vinden volwassenen net zo leuk als kinderen?|Bij welke animatiefilm moest je huilen?|inchange
+popculture-008|Quelle série a la meilleure fin ?|Quelle série aurait dû s’arrêter plus tôt ?|Welke serie heeft het beste einde?|Welke serie had eerder moeten stoppen?|inchange
+popculture-012|Quel personnage de jeu vidéo tout le monde connaît ?|Quel personnage de jeu vidéo mériterait son propre film ?|Welk gamepersonage kent iedereen?|Welk gamepersonage verdient een eigen film?|inchange
+popculture-017|Quel tube de l’été restera dans les mémoires ?|Quel tube de l’été t’a le plus agacé ?|Welke zomerhit blijft iedereen bij?|Van welke zomerhit raakte je het meest geïrriteerd?|inchange
+popculture-110|Quel jour sort l’épisode que tu attends le plus ?|Quel jour de la semaine réserves-tu à ta série préférée ?|Op welke dag komt de aflevering uit waar je het meest naar uitkijkt?|Welke dag van de week reserveer je voor je favoriete serie?|inchange
+popculture-114|Quelle série regardes-tu en fond pendant que tu fais autre chose ?|Quelle série exige toute ton attention ?|Welke serie heb je op de achtergrond aan terwijl je iets anders doet?|Bij welke serie moet je er helemaal met je aandacht bij zijn?|inchange
+popculture-128|Qui remercierais-tu en premier dans ton discours de remerciement à ton mariage ?|Qui oublierais-tu forcément de remercier dans ton discours à ton mariage ?|Wie zou je als eerste bedanken in je dankwoord?|Wie zou je gegarandeerd vergeten te bedanken in je dankwoord?|fr-modifie
+popculture-240|Quel film d’animation regardes-tu sans enfants ?|Quel film d’animation regardes-tu avec des enfants ?|Welke animatiefilm kijk je zonder kinderen?|Welke animatiefilm kijk je met kinderen?|inchange
+nostalgie-022|Combien coûtait une baguette quand tu étais petit ?|Combien coûtait un paquet de bonbons quand tu étais petit ?|Hoeveel kostte een brood toen je klein was?|Hoeveel kostte een zak snoep toen je klein was?|inchange
+nostalgie-026|Que faisais-tu le mercredi après-midi ?|Quelle activité extra-scolaire as-tu abandonnée ?|Wat deed je op woensdagmiddag?|Met welke hobby naast school ben je gestopt?|inchange
+nostalgie-029|Quel moment de l’année attendais-tu le plus enfant ?|Quel moment de l’année redoutais-tu enfant ?|Naar welk moment van het jaar keek je als kind het meest uit?|Tegen welk moment van het jaar zag je als kind op?|inchange
+nostalgie-049|À quel âge as-tu arrêté de regarder les dessins animés ?|À quel âge as-tu eu le droit de veiller pour un film ?|Hoe oud was je toen je stopte met tekenfilms kijken?|Hoe oud was je toen je voor een film lang op mocht blijven?|inchange
+nostalgie-083|Quelles céréales mangeais-tu le matin enfant ?|Quelles céréales mangeais-tu directement dans la boîte ?|Welke ontbijtgranen at je als kind 's ochtends?|Welke ontbijtgranen at je zo uit het pak?|inchange
+nostalgie-084|Quel gâteau sec trempais-tu dans ton lait ?|Quel gâteau sec mangeais-tu en cachette dans le placard ?|Welk koekje doopte je in je melk?|Welk koekje at je stiekem uit de kast?|inchange
+nostalgie-087|Quel bonbon collait aux dents ?|Quel bonbon piquait la langue ?|Welk snoepje plakte aan je tanden?|Welk snoepje prikte op je tong?|inchange
+nostalgie-090|Combien d’argent de poche avais-tu par semaine ?|Combien dépensais-tu en bonbons par semaine ?|Hoeveel zakgeld kreeg je per week?|Hoeveel gaf je per week uit aan snoep?|inchange
+nostalgie-175|Que faisait-on en famille le dimanche après-midi ?|Que faisait-on en famille les soirs d’été ?|Wat deden jullie met het gezin op zondagmiddag?|Wat deden jullie met het gezin op zomeravonden?|inchange
+nostalgie-181|Quel gâteau faisait toujours la même personne de ta famille ?|Quel gâteau achetait-on toujours chez le même pâtissier ?|Welke taart werd altijd door hetzelfde familielid gebakken?|Welke taart werd altijd bij dezelfde banketbakker gehaald?|inchange
+nostalgie-225|Combien coûtait une place de cinéma quand tu étais ado ?|Combien coûtait un CD neuf quand tu étais ado ?|Hoeveel kostte een bioscoopkaartje toen je tiener was?|Hoeveel kostte een nieuwe cd toen je tiener was?|inchange
+nostalgie-226|Combien coûtait une glace à la plage quand tu étais petit ?|Combien coûtait un tour de manège quand tu étais petit ?|Hoeveel kostte een ijsje op het strand toen je klein was?|Hoeveel kostte een ritje in de draaimolen toen je klein was?|inchange
+nostalgie-227|Combien coûtait ton magazine préféré enfant ?|Combien coûtait une pochette d’images à coller enfant ?|Hoeveel kostte je favoriete tijdschrift toen je klein was?|Hoeveel kostte een zakje voetbalplaatjes toen je klein was?|inchange
+nostalgie-228|Combien coûtait un menu au fast-food quand tu étais ado ?|Combien coûtait une pizza à partager quand tu étais ado ?|Hoeveel kostte een menu bij de fastfood toen je tiener was?|Hoeveel kostte een pizza om te delen toen je tiener was?|inchange
+nostalgie-229|Combien coûtait une heure de cybercafé ?|Combien coûtait la location d’une cassette vidéo ?|Hoeveel kostte een uur in het internetcafé?|Hoeveel kostte het huren van een videoband?|inchange
+nostalgie-230|Combien coûtait un ticket de bus quand tu étais ado ?|Combien coûtait un timbre quand tu étais ado ?|Hoeveel kostte een buskaartje toen je tiener was?|Hoeveel kostte een postzegel toen je tiener was?|inchange
+nostalgie-231|Combien coûtait un croissant quand tu étais petit ?|Combien coûtait une sucette à la boulangerie quand tu étais petit ?|Hoeveel kostte een krentenbol toen je klein was?|Hoeveel kostte een lolly bij de bakker toen je klein was?|inchange
+nostalgie-232|Combien coûtait une console de jeux quand tu étais petit ?|Combien coûtait un vélo neuf quand tu étais petit ?|Hoeveel kostte een spelcomputer toen je klein was?|Hoeveel kostte een nieuwe fiets toen je klein was?|inchange
+nostalgie-277|Quelle console avais-tu enfant ?|Sur quelle console as-tu joué pour la dernière fois ?|Welke spelcomputer had je als kind?|Welke spelcomputer had je beste vriend als kind?|fr-modifie
+reflexe-001|Cite un objet toujours présent dans une cuisine.|Cite un objet toujours présent dans une salle de bain.|Noem iets wat altijd in een keuken staat.|Noem iets wat altijd in een badkamer staat.|inchange
+reflexe-002|Cite une pièce de la maison.|Cite un endroit où l’on range des affaires.|Noem een kamer in huis.|Noem een plek waar je spullen opbergt.|inchange
+reflexe-003|Cite un objet électrique.|Cite un objet qu’on branche le soir.|Noem een elektrisch apparaat.|Noem iets wat je ’s avonds aan de lader legt.|inchange
+reflexe-004|Cite un objet en bois.|Cite un objet qu’on trouve dans un chalet.|Noem iets van hout.|Noem iets wat je in een berghut vindt.|inchange
+reflexe-005|Cite un outil de jardinage.|Cite un outil qu’on trouve dans un garage.|Noem een stuk tuingereedschap.|Noem gereedschap dat je in een garage vindt.|inchange
+reflexe-006|Cite un animal de la ferme.|Cite un animal du zoo.|Noem een boerderijdier.|Noem een dierentuindier.|inchange
+reflexe-007|Cite un animal qui vole.|Cite un animal qui vit dans les arbres.|Noem een dier dat vliegt.|Noem een dier dat in bomen leeft.|inchange
+reflexe-008|Cite un animal marin.|Cite un animal qu’on voit à l’aquarium.|Noem een zeedier.|Noem een dier dat je in een aquarium ziet.|inchange
+reflexe-009|Cite un animal de compagnie.|Cite un petit animal.|Noem een huisdier.|Noem een klein dier.|inchange
+reflexe-010|Cite un prénom de chien.|Cite un prénom de chat.|Noem een hondennaam.|Noem een kattennaam.|inchange
+reflexe-011|Cite un fruit rouge.|Cite un fruit d’été.|Noem een rode vrucht.|Noem een zomerfruit.|inchange
+reflexe-012|Cite un légume vert.|Cite un légume qu’on met dans la soupe.|Noem een groene groente.|Noem een groente die je in soep doet.|inchange
+reflexe-013|Cite un plat qu’on mange avec les doigts.|Cite un plat qu’on partage à plusieurs.|Noem een gerecht dat je met je handen eet.|Noem een gerecht dat je met z’n allen deelt.|inchange
+reflexe-014|Cite une boisson chaude.|Cite une boisson du petit-déjeuner.|Noem een warm drankje.|Noem een ontbijtdrankje.|inchange
+reflexe-015|Cite un fromage.|Cite un fromage qui fond bien.|Noem een kaas.|Noem een kaas die goed smelt.|inchange
+reflexe-016|Cite un dessert.|Cite un dessert de restaurant.|Noem een toetje.|Noem een toetje dat je in een restaurant bestelt.|inchange
+reflexe-017|Cite un ingrédient de pizza.|Cite un ingrédient de salade.|Noem iets wat op een pizza gaat.|Noem iets wat in een salade gaat.|inchange
+reflexe-018|Cite un pays où il fait chaud.|Cite un pays où tu aimerais aller.|Noem een warm land.|Noem een land waar je graag naartoe wilt.|inchange
+reflexe-019|Cite un pays d’Europe.|Cite un pays voisin de la France.|Noem een Europees land.|Noem een buurland van Nederland.|inchange
+reflexe-020|Cite une ville au bord de la mer.|Cite une ville avec un grand port.|Noem een stad aan zee.|Noem een stad met een grote haven.|inchange
+reflexe-021|Cite un endroit où l’on chuchote.|Cite un endroit où l’on attend longtemps.|Noem een plek waar je fluistert.|Noem een plek waar je lang moet wachten.|inchange
+reflexe-022|Cite une couleur de voiture.|Cite une couleur de vélo.|Noem een autokleur.|Noem een fietskleur.|inchange
+reflexe-023|Cite une couleur de drapeau.|Cite une couleur de l’arc-en-ciel.|Noem een kleur van een vlag.|Noem een kleur van de regenboog.|inchange
+reflexe-024|Cite quelque chose de rond.|Cite quelque chose qui roule.|Noem iets wat rond is.|Noem iets wat rolt.|inchange
+reflexe-025|Cite quelque chose de froid.|Cite quelque chose de blanc.|Noem iets wat koud is.|Noem iets wat wit is.|inchange
+reflexe-026|Cite un métier en uniforme.|Cite un métier où l’on travaille la nuit.|Noem een beroep met een uniform.|Noem een beroep waarbij je ’s nachts werkt.|inchange
+reflexe-027|Cite un métier qui sauve des vies.|Cite un métier qu’on admire.|Noem een beroep dat levens redt.|Noem een beroep dat je bewondert.|inchange
+reflexe-028|Cite un sport avec un ballon.|Cite un sport qu’on regarde à la télé.|Noem een balsport.|Noem een sport die je op tv kijkt.|inchange
+reflexe-029|Cite un loisir qu’on fait seul.|Cite un loisir qu’on fait le dimanche.|Noem een hobby die je alleen doet.|Noem een hobby voor op zondag.|inchange
+reflexe-030|Cite un jeu de cartes.|Cite un jeu qu’on fait en famille.|Noem een kaartspel.|Noem een spel dat je met familie speelt.|inchange
+reflexe-031|Cite un instrument de musique.|Cite un instrument qu’on entend dans une fanfare.|Noem een muziekinstrument.|Noem een instrument dat je in een fanfare hoort.|inchange
+reflexe-032|Cite un super-héros.|Cite un héros de film.|Noem een superheld.|Noem een filmheld.|inchange
+reflexe-033|Cite un objet qu’on trouve dans un sac à main.|Cite un objet qu’on trouve dans une trousse.|Noem iets wat in een handtas zit.|Noem iets wat in een etui zit.|inchange
+reflexe-034|Cite un objet de bureau.|Cite un objet qu’on trouve dans une salle de classe.|Noem iets wat op een bureau ligt.|Noem iets wat je in een klaslokaal vindt.|inchange
+reflexe-035|Cite un objet qui fait du bruit.|Cite un objet qui sonne.|Noem iets wat lawaai maakt.|Noem iets wat rinkelt.|inchange
+reflexe-036|Cite un objet qu’on oublie souvent.|Cite un objet qu’on perd souvent.|Noem iets wat je vaak vergeet.|Noem iets wat je vaak kwijtraakt.|inchange
+reflexe-037|Cite quelque chose qu’on met dans une valise.|Cite quelque chose qu’on met dans un sac de sport.|Noem iets wat je in een koffer stopt.|Noem iets wat je in een sporttas stopt.|inchange
+reflexe-038|Cite un moyen de transport.|Cite un moyen de transport qu’on prend en vacances.|Noem een vervoermiddel.|Noem een vervoermiddel dat je op vakantie neemt.|inchange
+reflexe-039|Cite un vêtement d’hiver.|Cite un vêtement qu’on porte à la montagne.|Noem een winterkledingstuk.|Noem een kledingstuk dat je in de bergen draagt.|inchange
+reflexe-040|Cite une marque de voiture allemande.|Cite une marque de voiture de luxe.|Noem een Duits automerk.|Noem een luxe automerk.|inchange
+reflexe-041|Cite un objet qu’on trouve sur une table de chevet.|Cite un objet qu’on trouve sur un bureau.|Noem iets wat op een nachtkastje ligt.|Noem iets wat op een bureau ligt.|inchange
+reflexe-042|Cite un meuble du salon.|Cite un meuble de la chambre.|Noem een meubel in de woonkamer.|Noem een meubel in de slaapkamer.|inchange
+reflexe-043|Cite quelque chose qu’on accroche au mur.|Cite quelque chose qu’on pose sur une étagère.|Noem iets wat je aan de muur hangt.|Noem iets wat je op een plank zet.|inchange
+reflexe-044|Cite un objet qu’on range dans un tiroir.|Cite un objet qu’on range dans une boîte à chaussures.|Noem iets wat je in een la bewaart.|Noem iets wat je in een schoenendoos bewaart.|inchange
+reflexe-045|Cite un appareil qui chauffe.|Cite un appareil qui fait du bruit dans la maison.|Noem een apparaat dat warm wordt.|Noem een apparaat dat lawaai maakt in huis.|inchange
+reflexe-046|Cite un objet qu’on trouve dans une cave.|Cite un objet qu’on trouve dans un grenier.|Noem iets wat je in een kelder vindt.|Noem iets wat je op een zolder vindt.|inchange
+reflexe-047|Cite un produit ménager.|Cite quelque chose qu’on achète au supermarché.|Noem een schoonmaakmiddel.|Noem iets wat je in de supermarkt koopt.|inchange
+reflexe-048|Cite un objet qui sert à nettoyer.|Cite un objet qui sert à ranger.|Noem iets om mee schoon te maken.|Noem iets om mee op te ruimen.|inchange
+reflexe-049|Cite un meuble qui a quatre pieds.|Cite un objet qui se déplace sur roulettes.|Noem een meubel met vier poten.|Noem iets wat op wieltjes rijdt.|inchange
+reflexe-050|Cite un objet qui a une poignée.|Cite un objet qui a un couvercle.|Noem iets met een handvat.|Noem iets met een deksel.|inchange
+reflexe-051|Cite un appareil qu’on allume chaque matin.|Cite quelque chose qu’on ouvre en se levant.|Noem een apparaat dat je elke ochtend aanzet.|Noem iets wat je opendoet als je opstaat.|inchange
+reflexe-052|Cite un objet qu’on trouve dans l’entrée.|Cite un objet qu’on prend avant de sortir.|Noem iets wat in de gang ligt.|Noem iets wat je pakt voordat je de deur uitgaat.|inchange
+reflexe-053|Cite un ustensile de cuisine.|Cite un ustensile pour faire un gâteau.|Noem een stuk keukengerei.|Noem keukengerei om een taart te bakken.|inchange
+reflexe-054|Cite un appareil électroménager.|Cite un appareil qui tourne.|Noem een huishoudelijk apparaat.|Noem een apparaat dat ronddraait.|inchange
+reflexe-055|Cite une épice.|Cite un ingrédient qu’on met dans une sauce.|Noem een kruid of specerij.|Noem iets wat je in een saus doet.|inchange
+reflexe-056|Cite quelque chose qu’on fait frire.|Cite quelque chose qu’on fait griller.|Noem iets wat je frituurt.|Noem iets wat je grilt.|inchange
+reflexe-057|Cite un aliment qu’on mange cru.|Cite un aliment qu’on mange cuit.|Noem iets wat je rauw eet.|Noem iets wat je gekookt eet.|inchange
+reflexe-058|Cite un aliment qu’on met au four.|Cite un aliment qu’on met au congélateur.|Noem iets wat je in de oven doet.|Noem iets wat je in de vriezer doet.|inchange
+reflexe-059|Cite une sorte de pâtes.|Cite un plat italien.|Noem een soort pasta.|Noem een Italiaans gerecht.|inchange
+reflexe-060|Cite un légume qui pousse sous terre.|Cite un légume qu’on épluche.|Noem een groente die onder de grond groeit.|Noem een groente die je schilt.|inchange
+reflexe-061|Cite une viande.|Cite quelque chose qu’on met au barbecue.|Noem een soort vlees.|Noem iets wat je op de barbecue legt.|inchange
+reflexe-062|Cite un poisson.|Cite quelque chose qu’on pêche.|Noem een vis.|Noem iets wat je kunt vangen met een hengel.|inchange
+reflexe-063|Cite quelque chose qu’on tartine.|Cite quelque chose qu’on met sur une crêpe.|Noem iets wat je op brood smeert.|Noem iets wat je op een pannenkoek doet.|inchange
+reflexe-064|Cite un aliment jaune.|Cite un aliment sucré.|Noem iets geels om te eten.|Noem iets zoets om te eten.|inchange
+reflexe-065|Cite un fruit exotique.|Cite un fruit qui a un noyau.|Noem een tropische vrucht.|Noem een vrucht met een pit.|inchange
+reflexe-066|Cite un fruit qu’on épluche.|Cite un fruit qu’on presse.|Noem een vrucht die je schilt.|Noem een vrucht die je uitperst.|inchange
+reflexe-067|Cite une sauce.|Cite quelque chose qu’on met dans un sandwich.|Noem een saus.|Noem iets wat je op een broodje doet.|inchange
+reflexe-068|Cite un bonbon.|Cite une friandise de fête foraine.|Noem een snoepje.|Noem iets lekkers van de kermis.|inchange
+reflexe-069|Cite un plat d’hiver.|Cite un plat qu’on mange à la montagne.|Noem een wintergerecht.|Noem een gerecht dat je op wintersport eet.|inchange
+reflexe-070|Cite une boisson fraîche.|Cite une boisson qu’on boit avec une paille.|Noem een koud drankje.|Noem een drankje dat je met een rietje drinkt.|inchange
+reflexe-071|Cite un parfum de glace.|Cite un parfum de yaourt.|Noem een ijssmaak.|Noem een yoghurtsmaak.|inchange
+reflexe-072|Cite un aliment qu’on achète à la boulangerie.|Cite un aliment qu’on achète au marché.|Noem iets wat je bij de bakker koopt.|Noem iets wat je op de markt koopt.|inchange
+reflexe-073|Cite un aliment qu’on garde longtemps.|Cite un aliment qu’on achète en conserve.|Noem iets eetbaars wat lang goed blijft.|Noem iets wat je in blik koopt.|inchange
+reflexe-074|Cite un paysage.|Cite un endroit où l’on fait une randonnée.|Noem een landschap.|Noem een plek om te wandelen in de natuur.|inchange
+reflexe-075|Cite un arbre.|Cite un arbre fruitier.|Noem een boom.|Noem een fruitboom.|inchange
+reflexe-076|Cite une fleur.|Cite une plante d’intérieur.|Noem een bloem.|Noem een kamerplant.|inchange
+reflexe-077|Cite quelque chose qu’on trouve sur une plage.|Cite quelque chose qu’on trouve au bord d’une rivière.|Noem iets wat je op het strand vindt.|Noem iets wat je aan de waterkant van een rivier vindt.|inchange
+reflexe-078|Cite quelque chose qu’on ramasse en forêt.|Cite quelque chose qu’on cueille en été.|Noem iets wat je in het bos raapt.|Noem iets wat je in de zomer plukt.|inchange
+reflexe-079|Cite un endroit où l’on se baigne.|Cite un endroit où l’on pêche.|Noem een plek waar je kunt zwemmen.|Noem een plek waar je kunt vissen.|inchange
+reflexe-080|Cite quelque chose qui tombe du ciel.|Cite quelque chose qui tombe d’un arbre.|Noem iets wat uit de lucht valt.|Noem iets wat uit een boom valt.|inchange
+reflexe-081|Cite quelque chose qu’on voit dans le ciel la nuit.|Cite quelque chose qui brille.|Noem iets wat je ’s nachts aan de hemel ziet.|Noem iets wat glimt.|inchange
+reflexe-082|Cite un phénomène météo.|Cite quelque chose qui gâche un pique-nique.|Noem een weersverschijnsel.|Noem iets wat een picknick verpest.|inchange
+reflexe-083|Cite un objet qu’on prend quand il pleut.|Cite un objet qu’on prend quand il fait froid.|Noem iets wat je meeneemt als het regent.|Noem iets wat je meeneemt als het koud is.|inchange
+reflexe-084|Cite une activité d’hiver.|Cite une activité qu’on fait à l’intérieur.|Noem een winteractiviteit.|Noem een activiteit die je binnen doet.|inchange
+reflexe-085|Cite un mot qui fait penser à l’automne.|Cite un mot qui fait penser à la rentrée.|Noem een woord dat je aan de herfst doet denken.|Noem een woord dat je aan het nieuwe schooljaar doet denken.|inchange
+reflexe-086|Cite quelque chose qu’on voit au printemps.|Cite quelque chose qu’on voit dans un jardin.|Noem iets wat je in de lente ziet.|Noem iets wat je in een tuin ziet.|inchange
+reflexe-087|Cite un animal de la savane.|Cite un animal de la jungle.|Noem een dier van de savanne.|Noem een dier van de jungle.|inchange
+reflexe-088|Cite un animal qui nage.|Cite un animal qui vit près de l’eau.|Noem een dier dat zwemt.|Noem een dier dat bij het water leeft.|inchange
+reflexe-089|Cite un animal de la forêt.|Cite un animal qu’on voit la nuit.|Noem een bosdier.|Noem een dier dat je ’s nachts ziet.|inchange
+reflexe-090|Cite un oiseau.|Cite un animal qui pond des œufs.|Noem een vogel.|Noem een dier dat eieren legt.|inchange
+reflexe-091|Cite un animal avec des rayures.|Cite un animal avec des taches.|Noem een dier met strepen.|Noem een dier met vlekken.|inchange
+reflexe-092|Cite un animal qui saute.|Cite un animal qui grimpe.|Noem een dier dat springt.|Noem een dier dat klimt.|inchange
+reflexe-093|Cite un animal très lent.|Cite un animal qui dort beaucoup.|Noem een heel traag dier.|Noem een dier dat veel slaapt.|inchange
+reflexe-094|Cite une bête protégée par une carapace.|Cite une bête couverte de piquants.|Noem een beest met een schild.|Noem een beest vol stekels.|inchange
+reflexe-095|Cite un animal qui fait peur.|Cite un animal qui pique.|Noem een eng dier.|Noem een dier dat steekt.|inchange
+reflexe-096|Cite un animal qui se déplace en troupeau.|Cite un animal qui part loin chaque année.|Noem een dier dat in een kudde leeft.|Noem een dier dat elk jaar ver wegtrekt.|inchange
+reflexe-097|Cite un animal qu’on peut monter.|Cite un animal qui travaille.|Noem een dier waarop je kunt rijden.|Noem een dier dat werkt.|inchange
+reflexe-098|Cite un cri d’animal.|Cite un bruit de la ferme.|Noem een dierengeluid.|Noem een geluid op de boerderij.|inchange
+reflexe-099|Cite un animal du désert.|Cite un animal qui supporte la chaleur.|Noem een woestijndier.|Noem een dier dat goed tegen hitte kan.|inchange
+reflexe-100|Cite un animal de la banquise.|Cite un animal blanc.|Noem een dier van het poolijs.|Noem een wit dier.|inchange
+reflexe-101|Cite un animal qui a de longues oreilles.|Cite un animal qui a une longue queue.|Noem een dier met lange oren.|Noem een dier met een lange staart.|inchange
+reflexe-102|Cite un animal d’Australie.|Cite un animal qui a une poche.|Noem een Australisch dier.|Noem een dier met een buidel.|inchange
+reflexe-103|Cite un animal qui vit dans une mare.|Cite un animal vert.|Noem een dier dat in een vijver leeft.|Noem een groen dier.|inchange
+reflexe-104|Cite un métier de l’hôpital.|Cite un métier où l’on porte une blouse.|Noem een beroep in het ziekenhuis.|Noem een beroep waarbij je een witte jas draagt.|inchange
+reflexe-105|Cite un métier manuel.|Cite un métier du bâtiment.|Noem een handwerkberoep.|Noem een beroep in de bouw.|inchange
+reflexe-106|Cite un métier de l’école.|Cite un métier où l’on parle beaucoup.|Noem een beroep op school.|Noem een beroep waarbij je veel praat.|inchange
+reflexe-107|Cite un métier où l’on travaille dehors.|Cite un métier où l’on se lève tôt.|Noem een beroep waarbij je buiten werkt.|Noem een beroep waarbij je vroeg opstaat.|inchange
+reflexe-108|Cite un métier de la restauration.|Cite un métier où l’on reste debout.|Noem een beroep in de horeca.|Noem een beroep waarbij je de hele dag staat.|inchange
+reflexe-109|Cite un métier qui utilise un véhicule.|Cite un métier où l’on voyage.|Noem een beroep met een voertuig.|Noem een beroep waarbij je veel reist.|inchange
+reflexe-110|Cite un métier avec un outil tranchant.|Cite un métier où l’on travaille avec ses mains.|Noem een beroep met een scherp stuk gereedschap.|Noem een beroep waarbij je met je handen werkt.|inchange
+reflexe-111|Cite un métier d’artiste.|Cite un métier qu’on fait sur scène.|Noem een artistiek beroep.|Noem een beroep dat je op het podium doet.|inchange
+reflexe-112|Cite un métier qu’on rêve de faire enfant.|Cite un métier qu’on voit dans les films.|Noem een beroep waarvan je als kind droomt.|Noem een beroep dat je in films ziet.|inchange
+reflexe-113|Cite un métier lié à la mer.|Cite un métier qu’on exerce sur un bateau.|Noem een beroep dat met de zee te maken heeft.|Noem een beroep op een boot.|inchange
+reflexe-114|Cite un métier où l’on répare.|Cite un métier où l’on fabrique.|Noem een beroep waarbij je dingen repareert.|Noem een beroep waarbij je dingen maakt.|inchange
+reflexe-115|Cite un commerçant.|Cite un métier qu’on croise dans la rue.|Noem een winkelier.|Noem een beroep dat je op straat tegenkomt.|inchange
+reflexe-116|Cite un métier où l’on porte un casque.|Cite un métier où l’on porte des gants.|Noem een beroep waarbij je een helm draagt.|Noem een beroep waarbij je handschoenen draagt.|inchange
+reflexe-117|Cite un métier de bureau.|Cite un métier où l’on passe la journée devant un écran.|Noem een kantoorbaan.|Noem een beroep waarbij je de hele dag achter een scherm zit.|inchange
+reflexe-118|Cite un métier qui travaille avec les animaux.|Cite un métier qu’on exerce à la campagne.|Noem een beroep met dieren.|Noem een beroep op het platteland.|inchange
+reflexe-119|Cite un sport d’équipe.|Cite un sport qu’on joue sur un terrain.|Noem een teamsport.|Noem een sport die je op een veld speelt.|inchange
+reflexe-120|Cite un sport qu’on fait seul.|Cite un sport des Jeux olympiques.|Noem een sport die je alleen doet.|Noem een olympische sport.|inchange
+reflexe-121|Cite un sport nautique.|Cite un sport qu’on pratique en été.|Noem een watersport.|Noem een sport die je in de zomer doet.|inchange
+reflexe-122|Cite un sport de raquette.|Cite un sport avec un filet.|Noem een racketsport.|Noem een sport met een net.|inchange
+reflexe-123|Cite un art martial.|Cite un sport où l’on porte un kimono.|Noem een vechtsport.|Noem een sport waarbij je een judopak draagt.|inchange
+reflexe-124|Cite un sport de glisse.|Cite un sport qu’on fait à la montagne.|Noem een glijsport.|Noem een sport die je in de bergen doet.|inchange
+reflexe-125|Cite un sport où l’on court.|Cite un sport où l’on transpire beaucoup.|Noem een sport waarbij je rent.|Noem een sport waarbij je veel zweet.|inchange
+reflexe-126|Cite un sport qu’on pratique pieds nus.|Cite un sport qu’on pratique en salle.|Noem een sport die je op blote voeten doet.|Noem een zaalsport.|inchange
+reflexe-127|Cite un objet de sport.|Cite un objet qu’on trouve dans un vestiaire.|Noem een sportattribuut.|Noem iets wat je in een kleedkamer vindt.|inchange
+reflexe-128|Cite un lieu où l’on fait du sport.|Cite un endroit où il y a des gradins.|Noem een plek waar je sport.|Noem een plek met een tribune.|inchange
+reflexe-129|Cite un sport où l’on utilise un véhicule.|Cite un sport où l’on va très vite.|Noem een sport met een voertuig.|Noem een sport waarbij je heel hard gaat.|inchange
+reflexe-130|Cite un sport qu’on peut pratiquer toute sa vie.|Cite un sport qu’on pratique sans équipement.|Noem een sport die je je hele leven kunt doen.|Noem een sport waarvoor je geen spullen nodig hebt.|inchange
+reflexe-131|Cite un mot qu’on entend pendant un match.|Cite un mot que crie un entraîneur.|Noem een woord dat je tijdens een wedstrijd hoort.|Noem een woord dat een trainer roept.|inchange
+reflexe-132|Cite un véhicule à deux roues.|Cite un véhicule qu’on gare sur un trottoir.|Noem een voertuig met twee wielen.|Noem een voertuig dat je op de stoep parkeert.|inchange
+reflexe-133|Cite un véhicule qu’on voit en ville.|Cite une façon d’aller au travail.|Noem een voertuig dat je in de stad ziet.|Noem een manier om naar je werk te gaan.|inchange
+reflexe-134|Cite un véhicule qui transporte beaucoup de gens.|Cite un véhicule qui fait un long trajet.|Noem een voertuig dat veel mensen vervoert.|Noem een voertuig voor lange afstanden.|inchange
+reflexe-135|Cite quelque chose qui vole.|Cite quelque chose qui flotte.|Noem iets wat vliegt.|Noem iets wat drijft.|inchange
+reflexe-136|Cite un véhicule d’urgence.|Cite un gros véhicule.|Noem een hulpverleningsvoertuig.|Noem een groot voertuig.|inchange
+reflexe-137|Cite quelque chose qui roule sur des rails.|Cite un transport qu’on prend sous terre.|Noem iets wat over rails rijdt.|Noem een vervoermiddel onder de grond.|inchange
+reflexe-138|Cite un véhicule qui va sur l’eau.|Cite un véhicule qu’on loue en vacances.|Noem een vaartuig.|Noem een voertuig dat je op vakantie huurt.|inchange
+reflexe-139|Cite un endroit où l’on attend un transport.|Cite un endroit où l’on achète un billet.|Noem een plek waar je op vervoer wacht.|Noem een plek waar je een kaartje koopt.|inchange
+reflexe-140|Cite une partie d’une voiture.|Cite une partie d’un vélo.|Noem een onderdeel van een auto.|Noem een onderdeel van een fiets.|inchange
+reflexe-141|Cite un objet qu’on trouve dans une voiture.|Cite un objet qu’on garde dans la boîte à gants.|Noem iets wat je in een auto vindt.|Noem iets wat je in het dashboardkastje bewaart.|inchange
+reflexe-142|Cite un véhicule de chantier.|Cite un véhicule de la ferme.|Noem een bouwvoertuig.|Noem een boerderijvoertuig.|inchange
+reflexe-143|Cite un véhicule sans moteur.|Cite un véhicule pour enfants.|Noem een voertuig zonder motor.|Noem een voertuig voor kinderen.|inchange
+reflexe-144|Cite une couleur claire.|Cite une couleur pastel.|Noem een lichte kleur.|Noem een pastelkleur.|inchange
+reflexe-145|Cite une couleur foncée.|Cite une couleur qu’on porte en hiver.|Noem een donkere kleur.|Noem een kleur die je in de winter draagt.|inchange
+reflexe-146|Cite une couleur de fruit.|Cite une couleur de fleur.|Noem een kleur van fruit.|Noem een kleur van bloemen.|inchange
+reflexe-147|Cite une couleur de la mer.|Cite une couleur du ciel.|Noem een kleur van de zee.|Noem een kleur van de lucht.|inchange
+reflexe-148|Cite une couleur vive.|Cite une couleur de feu d’artifice.|Noem een felle kleur.|Noem een kleur van vuurwerk.|inchange
+reflexe-149|Cite une couleur d’automne.|Cite une couleur de la terre.|Noem een herfstkleur.|Noem een aardetint.|inchange
+reflexe-150|Cite une nuance de bleu.|Cite une nuance de vert.|Noem een tint blauw.|Noem een tint groen.|inchange
+reflexe-151|Cite une couleur de feu tricolore.|Cite une couleur de carte à jouer.|Noem een kleur van een stoplicht.|Noem een kleur van speelkaarten.|inchange
+reflexe-152|Cite une forme géométrique.|Cite une forme de gâteau.|Noem een geometrische vorm.|Noem een taartvorm.|inchange
+reflexe-153|Cite un objet de forme carrée.|Cite un objet tout plat.|Noem iets vierkants.|Noem iets heel plats.|inchange
+reflexe-154|Cite un objet pointu.|Cite un objet qui coupe.|Noem iets puntigs.|Noem iets wat snijdt.|inchange
+reflexe-155|Cite un objet en forme de cercle.|Cite un objet qui a un trou au milieu.|Noem iets in de vorm van een cirkel.|Noem iets met een gat in het midden.|inchange
+reflexe-156|Cite un matériau de construction.|Cite une matière qui résiste au feu.|Noem een bouwmateriaal.|Noem een materiaal dat tegen vuur kan.|inchange
+reflexe-157|Cite un tissu.|Cite une matière de pull.|Noem een stof.|Noem een materiaal voor een trui.|inchange
+reflexe-158|Cite un objet en verre.|Cite un objet fragile.|Noem iets van glas.|Noem iets breekbaars.|inchange
+reflexe-159|Cite un objet en métal.|Cite un objet qui rouille.|Noem iets van metaal.|Noem iets wat roest.|inchange
+reflexe-160|Cite un objet en plastique.|Cite un objet qu’on jette souvent.|Noem iets van plastic.|Noem iets wat je vaak weggooit.|inchange
+reflexe-161|Cite un objet en papier.|Cite un objet qu’on recycle.|Noem iets van papier.|Noem iets wat je recyclet.|inchange
+reflexe-162|Cite un objet en cuir.|Cite un objet en tissu.|Noem iets van leer.|Noem iets van stof.|inchange
+reflexe-163|Cite une matière douce.|Cite une matière chaude.|Noem een zacht materiaal.|Noem een warm materiaal.|inchange
+reflexe-164|Cite une matière qui brille.|Cite une matière précieuse.|Noem een glanzend materiaal.|Noem een kostbaar materiaal.|inchange
+reflexe-165|Cite un objet qui fonctionne avec des piles.|Cite un objet qui a un écran.|Noem iets wat op batterijen werkt.|Noem iets met een scherm.|inchange
+reflexe-166|Cite un objet qu’on recharge.|Cite un objet qu’on emporte partout.|Noem iets wat je oplaadt.|Noem iets wat je overal mee naartoe neemt.|inchange
+reflexe-167|Cite un objet qui sert à écrire.|Cite un objet qu’on trouve dans un cartable.|Noem iets om mee te schrijven.|Noem iets wat in een schooltas zit.|inchange
+reflexe-168|Cite quelque chose pour attacher des feuilles.|Cite quelque chose pour fermer un sac.|Noem iets om papieren aan elkaar vast te maken.|Noem iets om een tas mee dicht te doen.|inchange
+reflexe-169|Cite un objet qui a des touches.|Cite un objet avec des boutons.|Noem iets met toetsen.|Noem iets met knopjes.|inchange
+reflexe-170|Cite un objet qu’on tient à deux mains.|Cite un objet lourd.|Noem iets wat je met twee handen vasthoudt.|Noem iets zwaars.|inchange
+reflexe-171|Cite un objet qu’on prête facilement.|Cite un objet qu’on ne rend jamais.|Noem iets wat je makkelijk uitleent.|Noem iets wat je nooit terugkrijgt.|inchange
+reflexe-172|Cite un objet qu’on utilise une fois par an.|Cite un objet qu’on sort à Noël.|Noem iets wat je één keer per jaar gebruikt.|Noem iets wat je met kerst tevoorschijn haalt.|inchange
+reflexe-173|Cite un objet qui sent bon.|Cite un objet qu’on offre en cadeau.|Noem iets wat lekker ruikt.|Noem iets wat je cadeau geeft.|inchange
+reflexe-174|Cite un objet qu’on trouve dans une chambre d’enfant.|Cite un jouet.|Noem iets wat je in een kinderkamer vindt.|Noem een stuk speelgoed.|inchange
+reflexe-175|Cite un objet avec une lumière.|Cite un objet qui clignote.|Noem iets met een lampje.|Noem iets wat knippert.|inchange
+reflexe-176|Cite un pays d’Asie.|Cite un pays où l’on mange du riz.|Noem een Aziatisch land.|Noem een land waar ze veel rijst eten.|inchange
+reflexe-177|Cite un pays d’Amérique du Sud.|Cite un pays où l’on parle espagnol.|Noem een Zuid-Amerikaans land.|Noem een land waar ze Spaans spreken.|inchange
+reflexe-178|Cite un pays où l’on parle français.|Cite un pays d’Afrique.|Noem een land waar ze Frans spreken.|Noem een Afrikaans land.|inchange
+reflexe-179|Cite un pays froid.|Cite un pays du Nord.|Noem een koud land.|Noem een Noord-Europees land.|inchange
+reflexe-180|Cite un pays connu pour sa cuisine.|Cite un pays touristique.|Noem een land dat bekend is om zijn eten.|Noem een toeristisch land.|inchange
+reflexe-181|Cite une île.|Cite un pays entouré d’eau.|Noem een eiland.|Noem een land dat helemaal omringd is door water.|inchange
+reflexe-182|Cite un grand pays.|Cite un pays très peuplé.|Noem een groot land.|Noem een land met heel veel inwoners.|inchange
+reflexe-183|Cite un pays avec des montagnes.|Cite un pays où l’on fait du ski.|Noem een land met bergen.|Noem een land waar je kunt skiën.|inchange
+reflexe-184|Cite un pays avec un désert.|Cite un pays où il ne pleut presque pas.|Noem een land met een woestijn.|Noem een land waar het bijna nooit regent.|inchange
+reflexe-185|Cite un pays qui a gagné une Coupe du monde de foot.|Cite un pays fort au foot.|Noem een land dat het WK voetbal heeft gewonnen.|Noem een land dat goed is in voetbal.|inchange
+reflexe-186|Cite un pays dont le drapeau a du rouge.|Cite un pays dont le drapeau a une étoile.|Noem een land met rood in de vlag.|Noem een land met een ster in de vlag.|inchange
+reflexe-187|Cite une capitale européenne.|Cite une ville où l’on va en week-end.|Noem een Europese hoofdstad.|Noem een stad voor een stedentripje.|inchange
+reflexe-188|Cite une grande ville française.|Cite une ville avec un métro.|Noem een grote Nederlandse stad.|Noem een stad met een metro.|inchange
+reflexe-189|Cite une ville d’Italie.|Cite une ville avec beaucoup de monuments.|Noem een Italiaanse stad.|Noem een stad met veel monumenten.|inchange
+reflexe-190|Cite une ville des États-Unis.|Cite une ville qu’on voit dans les films.|Noem een Amerikaanse stad.|Noem een stad die je in films ziet.|inchange
+reflexe-191|Cite une ville du sud de la France.|Cite une ville où il fait beau.|Noem een stad in Zuid-Europa.|Noem een stad waar het vaak mooi weer is.|inchange
+reflexe-192|Cite une ville avec un club de foot connu.|Cite une ville universitaire.|Noem een stad met een bekende voetbalclub.|Noem een studentenstad.|inchange
+reflexe-193|Cite une ville d’Asie.|Cite une ville avec des gratte-ciel.|Noem een Aziatische stad.|Noem een stad met wolkenkrabbers.|inchange
+reflexe-194|Cite une ville de montagne.|Cite une ville où l’on va en hiver.|Noem een plaats in de bergen.|Noem een plaats waar je in de winter heen gaat.|inchange
+reflexe-195|Cite un monument célèbre.|Cite un monument de Paris.|Noem een beroemd monument.|Noem een monument in Parijs.|inchange
+reflexe-196|Cite un vêtement d’été.|Cite un vêtement de plage.|Noem een zomerkledingstuk.|Noem iets wat je op het strand draagt.|inchange
+reflexe-197|Cite un accessoire.|Cite quelque chose qu’on porte sur la tête.|Noem een accessoire.|Noem iets wat je op je hoofd draagt.|inchange
+reflexe-198|Cite un vêtement de sport.|Cite un vêtement confortable.|Noem sportkleding.|Noem een comfortabel kledingstuk.|inchange
+reflexe-199|Cite un type de chaussure.|Cite quelque chose qu’on met aux pieds.|Noem een soort schoen.|Noem iets wat je aan je voeten draagt.|inchange
+reflexe-200|Cite un vêtement chic.|Cite un vêtement qu’on met pour un entretien.|Noem een chic kledingstuk.|Noem iets wat je aantrekt voor een sollicitatiegesprek.|inchange
+reflexe-201|Cite un vêtement qu’on porte la nuit.|Cite un vêtement qu’on porte à la maison.|Noem iets wat je ’s nachts draagt.|Noem iets wat je thuis draagt.|inchange
+reflexe-202|Cite un vêtement à manches.|Cite un vêtement à boutons.|Noem een kledingstuk met mouwen.|Noem een kledingstuk met knopen.|inchange
+reflexe-203|Cite un déguisement.|Cite un costume d’Halloween.|Noem een verkleedkostuum.|Noem een halloweenkostuum.|inchange
+reflexe-204|Cite une partie d’un vêtement.|Cite quelque chose qu’on coud.|Noem een onderdeel van een kledingstuk.|Noem iets wat je naait.|inchange
+reflexe-205|Cite un vêtement en laine.|Cite un vêtement qu’on tricote.|Noem een wollen kledingstuk.|Noem iets wat je breit.|inchange
+reflexe-206|Cite un vêtement d’uniforme.|Cite un vêtement qu’on porte au travail.|Noem een onderdeel van een uniform.|Noem iets wat je naar je werk draagt.|inchange
+reflexe-207|Cite une matière à l’école.|Cite une matière qui donne des devoirs.|Noem een schoolvak.|Noem een vak waarvoor je huiswerk krijgt.|inchange
+reflexe-208|Cite une fourniture scolaire.|Cite un objet qu’on prête en classe.|Noem iets wat je voor school nodig hebt.|Noem iets wat je in de klas uitleent.|inchange
+reflexe-209|Cite un lieu dans une école.|Cite un lieu où l’on fait la queue.|Noem een plek in een school.|Noem een plek waar je in de rij staat.|inchange
+reflexe-210|Cite un mot qu’on entend en classe.|Cite un mot que dit un professeur.|Noem een woord dat je in de klas hoort.|Noem een woord dat een leraar zegt.|inchange
+reflexe-211|Cite un jeu de cour de récré.|Cite un jeu qu’on joue à plusieurs.|Noem een spelletje op het schoolplein.|Noem een spel dat je met een groep speelt.|inchange
+reflexe-212|Cite une activité de colonie de vacances.|Cite une activité de classe verte.|Noem een activiteit op zomerkamp.|Noem een activiteit op schoolkamp.|inchange
+reflexe-213|Cite quelque chose qu’on trouve dans une bibliothèque.|Cite quelque chose qu’on lit.|Noem iets wat je in een bibliotheek vindt.|Noem iets wat je leest.|inchange
+reflexe-214|Cite quelque chose qu’on trouve dans une salle de réunion.|Cite quelque chose qu’on trouve dans une salle d’attente.|Noem iets wat je in een vergaderzaal vindt.|Noem iets wat je in een wachtkamer vindt.|inchange
+reflexe-215|Cite un accessoire d’ordinateur.|Cite un objet qu’on branche en USB.|Noem een computeraccessoire.|Noem iets wat je via usb aansluit.|inchange
+reflexe-216|Cite un endroit dans une entreprise.|Cite un endroit où l’on fait une pause.|Noem een plek in een bedrijf.|Noem een plek waar je pauze houdt.|inchange
+reflexe-217|Cite une tâche de bureau.|Cite une tâche qu’on repousse.|Noem een kantoortaak.|Noem een taak die je uitstelt.|inchange
+reflexe-218|Cite un mot qu’on écrit dans un mail.|Cite un mot qu’on écrit sur une carte postale.|Noem een woord dat je in een mail schrijft.|Noem een woord dat je op een ansichtkaart schrijft.|inchange
+reflexe-219|Cite une décoration de fête.|Cite quelque chose qu’on gonfle.|Noem een feestversiering.|Noem iets wat je opblaast.|inchange
+reflexe-220|Cite quelque chose qu’on mange à un anniversaire.|Cite quelque chose qu’on sert à un goûter.|Noem iets wat je op een verjaardag eet.|Noem iets wat je bij de thee serveert.|inchange
+reflexe-221|Cite un objet qu’on trouve sur un sapin.|Cite un objet qui brille à Noël.|Noem iets wat in een kerstboom hangt.|Noem iets wat met kerst glinstert.|inchange
+reflexe-222|Cite un jeu d’anniversaire.|Cite un jeu de plein air.|Noem een kinderfeestjesspel.|Noem een buitenspel.|inchange
+reflexe-223|Cite une fête de l’année.|Cite un jour férié.|Noem een feestdag van het jaar.|Noem een vrije dag.|inchange
+reflexe-224|Cite un cadeau d’anniversaire.|Cite un cadeau qu’on offre à un enfant.|Noem een verjaardagscadeau.|Noem een cadeau voor een kind.|inchange
+reflexe-225|Cite un plat de fête.|Cite un plat de Noël.|Noem een feestelijk gerecht.|Noem een kerstgerecht.|inchange
+reflexe-226|Cite un objet qu’on trouve sur un gâteau d’anniversaire.|Cite quelque chose qu’on souffle.|Noem iets wat op een verjaardagstaart staat.|Noem iets wat je uitblaast.|inchange
+reflexe-227|Cite un endroit où l’on fait la fête.|Cite un endroit où il y a de la musique.|Noem een plek waar je feestviert.|Noem een plek waar muziek is.|inchange
+reflexe-228|Cite un instrument à cordes.|Cite un instrument qu’on gratte.|Noem een snaarinstrument.|Noem een instrument waarop je tokkelt.|inchange
+reflexe-229|Cite un instrument à vent.|Cite un instrument qu’on entend dans un orchestre.|Noem een blaasinstrument.|Noem een instrument dat je in een orkest hoort.|inchange
+reflexe-230|Cite un instrument qu’on frappe.|Cite un instrument bruyant.|Noem een slaginstrument.|Noem een luid instrument.|inchange
+reflexe-231|Cite un style de musique.|Cite une musique sur laquelle on danse.|Noem een muziekstijl.|Noem muziek waarop je danst.|inchange
+reflexe-232|Cite une danse.|Cite une danse qu’on apprend en cours.|Noem een dans.|Noem een dans die je op les leert.|inchange
+reflexe-233|Cite un appareil pour écouter de la musique.|Cite un appareil qu’on avait dans les années 90.|Noem een apparaat om muziek te luisteren.|Noem een apparaat dat je in de jaren 90 had.|inchange
+reflexe-234|Cite un instrument d’enfant.|Cite un instrument qu’on apprend à l’école.|Noem een kinderinstrument.|Noem een instrument dat je op school leert spelen.|inchange
+reflexe-235|Cite un jeu de société.|Cite un jeu avec des dés.|Noem een bordspel.|Noem een spel met dobbelstenen.|inchange
+reflexe-236|Cite un loisir créatif.|Cite une activité qu’on fait les jours de pluie.|Noem een creatieve hobby.|Noem iets wat je doet als het regent.|inchange
+reflexe-237|Cite une activité de plage.|Cite une activité qu’on fait au bord d’un lac.|Noem een strandactiviteit.|Noem iets wat je bij een meer doet.|inchange
+reflexe-238|Cite un passe-temps de grand-parent.|Cite un loisir calme.|Noem een hobby van opa’s en oma’s.|Noem een rustige hobby.|inchange
+reflexe-239|Cite une activité de fête foraine.|Cite une attraction qui fait crier.|Noem een kermisattractie.|Noem een attractie waarbij je gilt.|inchange
+reflexe-240|Cite une activité qu’on fait en vacances.|Cite une activité qu’on fait avec des amis.|Noem iets wat je op vakantie doet.|Noem iets wat je met vrienden doet.|inchange
+reflexe-241|Cite un jeu qu’on fait en voiture.|Cite un jeu qu’on fait sans matériel.|Noem een spelletje voor in de auto.|Noem een spel zonder spullen.|inchange
+reflexe-242|Cite quelque chose qu’on collectionne.|Cite quelque chose qu’on échange à l’école.|Noem iets wat je verzamelt.|Noem iets wat je op school ruilt.|inchange
+reflexe-243|Cite un jeu de jardin public.|Cite une chose qu’on fait avec son chien.|Noem iets wat je in een speeltuin doet.|Noem iets wat je met je hond doet.|inchange
+reflexe-244|Cite un lieu de sortie le samedi soir.|Cite un lieu où l’on va entre amis.|Noem een plek om op zaterdagavond uit te gaan.|Noem een plek waar je met vrienden heen gaat.|inchange
+reflexe-245|Cite un bruit qui réveille.|Cite un bruit qui énerve.|Noem een geluid waar je wakker van wordt.|Noem een geluid dat je irriteert.|inchange
+reflexe-246|Cite un son de la ville.|Cite un son qu’on entend la nuit.|Noem een stadsgeluid.|Noem een geluid dat je ’s nachts hoort.|inchange
+reflexe-247|Cite un son agréable.|Cite un son de la nature.|Noem een fijn geluid.|Noem een natuurgeluid.|inchange
+reflexe-248|Cite un appareil qui siffle.|Cite un meuble qui grince.|Noem een apparaat dat fluit.|Noem een meubel dat kraakt.|inchange
+reflexe-249|Cite un bruit de cuisine.|Cite un bruit du matin.|Noem een keukengeluid.|Noem een ochtendgeluid.|inchange
+reflexe-250|Cite une bonne odeur.|Cite une odeur de cuisine.|Noem een lekkere geur.|Noem een kookgeur.|inchange
+reflexe-251|Cite une odeur de vacances.|Cite une odeur d’été.|Noem een vakantiegeur.|Noem een zomergeur.|inchange
+reflexe-252|Cite une odeur forte.|Cite une odeur qu’on reconnaît tout de suite.|Noem een sterke geur.|Noem een geur die je meteen herkent.|inchange
+reflexe-253|Cite un parfum de bougie.|Cite une odeur de fleur.|Noem een geur van een kaars.|Noem een bloemengeur.|inchange
+reflexe-254|Cite une odeur du matin.|Cite une odeur de boulangerie.|Noem een ochtendgeur.|Noem een geur bij de bakker.|inchange
+reflexe-255|Cite une chose douce au toucher.|Cite un aliment moelleux.|Noem iets wat zacht aanvoelt.|Noem iets luchtigs om te eten.|inchange
+reflexe-256|Cite un truc qui colle aux doigts.|Cite un aliment qui fond dans la main.|Noem iets wat aan je vingers plakt.|Noem iets eetbaars wat in je hand smelt.|inchange
+reflexe-257|Cite un objet rugueux.|Cite un objet qui gratte.|Noem iets ruws.|Noem iets wat kriebelt.|inchange
+reflexe-258|Cite un objet mou.|Cite un objet qu’on peut écraser.|Noem iets zachts en slaps.|Noem iets wat je kunt platdrukken.|inchange
+reflexe-259|Cite un objet qui pique.|Cite un objet dangereux pour un bébé.|Noem iets wat prikt.|Noem iets wat gevaarlijk is voor een baby.|inchange
+reflexe-260|Cite une surface glissante.|Cite un endroit où l’on tombe facilement.|Noem een glad oppervlak.|Noem een plek waar je makkelijk valt.|inchange
+reflexe-261|Cite une émotion.|Cite quelque chose qu’on ressent au cinéma.|Noem een emotie.|Noem iets wat je voelt in de bioscoop.|inchange
+reflexe-262|Cite un mot qui rend joyeux.|Cite un mot qui rassure.|Noem een woord waar je blij van wordt.|Noem een geruststellend woord.|inchange
+reflexe-263|Cite une expression de surprise.|Cite un mot qu’on dit quand on se fait mal.|Noem iets wat je zegt als je verrast bent.|Noem iets wat je zegt als je je pijn doet.|inchange
+reflexe-264|Cite un mot pour dire bonjour.|Cite un mot pour dire au revoir.|Noem een woord om hallo te zeggen.|Noem een woord om doei te zeggen.|inchange
+reflexe-265|Cite une formule de politesse.|Cite un mot qu’on dit en entrant dans un magasin.|Noem een beleefdheidsformule.|Noem iets wat je zegt als je een winkel binnenkomt.|inchange
+reflexe-266|Cite un mot qu’on dit quand on gagne.|Cite un mot qu’on crie quand on est content.|Noem iets wat je zegt als je wint.|Noem iets wat je roept als je blij bent.|inchange
+reflexe-267|Cite un engin avec des ailes.|Cite un objet qu’on fait monter dans les airs.|Noem iets met vleugels.|Noem iets wat je de lucht in laat gaan.|inchange
+reflexe-268|Cite un bijou.|Cite un objet en or.|Noem een sieraad.|Noem iets van goud.|inchange
+reflexe-269|Cite quelque chose qui fond au soleil.|Cite quelque chose qui sèche au soleil.|Noem iets wat smelt in de zon.|Noem iets wat droogt in de zon.|inchange
+reflexe-270|Cite un jouet qui rebondit.|Cite un objet qu’on lance pour jouer.|Noem speelgoed dat stuitert.|Noem iets wat je gooit om mee te spelen.|inchange
+reflexe-271|Cite quelque chose qui coule dans l’eau.|Cite quelque chose qu’on jette dans un lac.|Noem iets wat zinkt in water.|Noem iets wat je in een meer gooit.|inchange
+reflexe-272|Cite un fruit qu’on mange en compote.|Cite un fruit qu’on met dans une tarte.|Noem fruit waar je moes van maakt.|Noem fruit dat je in een taart doet.|inchange
+reflexe-273|Cite un légume qu’on met dans un pot-au-feu.|Cite un légume qu’on met dans un couscous.|Noem een groente die je in stamppot doet.|Noem een groente die je in soep doet.|inchange
+reflexe-274|Cite un plat qu’on mange à la cantine.|Cite un plat qu’on mange chez ses grands-parents.|Noem iets wat je bij de lunch op school eet.|Noem een gerecht dat je bij opa en oma eet.|inchange
+reflexe-275|Cite un objet qu’on trouve dans une chambre d’hôtel.|Cite un objet qu’on trouve dans un camping-car.|Noem iets wat je in een hotelkamer vindt.|Noem iets wat je in een camper vindt.|inchange
+reflexe-276|Cite un animal qu’on voit à la campagne.|Cite un animal qu’on voit au bord de la route.|Noem een dier dat je op het platteland ziet.|Noem een dier dat je langs de weg ziet.|inchange
+reflexe-277|Cite un animal qu’on dessine facilement.|Cite un animal qu’on imite facilement.|Noem een dier dat je makkelijk tekent.|Noem een dier dat je makkelijk nadoet.|inchange
+reflexe-278|Cite un endroit calme.|Cite un endroit où l’on lit.|Noem een rustige plek.|Noem een plek waar je leest.|inchange
+reflexe-279|Cite une couleur de bonbon.|Cite une couleur de ballon de baudruche.|Noem een snoepkleur.|Noem een ballonkleur.|inchange
+reflexe-280|Cite une couleur de chaussettes.|Cite une couleur de sac à dos.|Noem een sokkenkleur.|Noem een rugzakkleur.|inchange
+reflexe-281|Cite un métier qu’on croise à l’aéroport.|Cite un métier qu’on croise dans une gare.|Noem een beroep dat je op het vliegveld tegenkomt.|Noem een beroep dat je op het station tegenkomt.|inchange
+reflexe-282|Cite un métier où l’on parle à des inconnus.|Cite un métier où l’on reçoit du public.|Noem een beroep waarbij je met onbekenden praat.|Noem een beroep waarbij je klanten ontvangt.|inchange
+reflexe-283|Cite un objet qu’on met sur une table pour un repas.|Cite un objet qu’on sort pour des invités.|Noem iets wat je op tafel zet voor het eten.|Noem iets wat je tevoorschijn haalt voor gasten.|inchange
+reflexe-284|Cite une activité qu’on fait le dimanche matin.|Cite une activité qu’on fait le samedi matin.|Noem iets wat je op zondagochtend doet.|Noem iets wat je op zaterdagochtend doet.|inchange
+reflexe-285|Cite un sport qu’on regarde en famille.|Cite un sport qu’on regarde le week-end.|Noem een sport die je met je familie kijkt.|Noem een sport die je in het weekend kijkt.|inchange
+reflexe-286|Cite un produit vendu en vrac.|Cite un produit rangé dans un bocal.|Noem iets wat je los per gewicht koopt.|Noem iets wat je in een pot bewaart.|inchange
+reflexe-287|Cite un pays où l’on va en avion.|Cite un pays où l’on va pour la plage.|Noem een land waar je met het vliegtuig heen gaat.|Noem een land waar je heen gaat voor het strand.|inchange
+reflexe-288|Cite une ville où l’on va en train.|Cite une ville où l’on va pour un concert.|Noem een stad waar je met de trein heen gaat.|Noem een stad waar je heen gaat voor een concert.|inchange
+reflexe-289|Cite un prénom de grand-mère.|Cite un prénom d’autrefois.|Noem een omanaam.|Noem een ouderwetse voornaam.|inchange
+reflexe-290|Cite un prénom de personnage de conte.|Cite un prénom de dessin animé.|Noem de naam van een sprookjesfiguur.|Noem de naam van een tekenfilmfiguur.|inchange
+reflexe-291|Cite un objet qu’on lave à la main.|Cite un objet qu’on lave souvent.|Noem iets wat je met de hand wast.|Noem iets wat je vaak wast.|inchange
+reflexe-292|Cite un vêtement qu’on enlève en arrivant.|Cite un vêtement qu’on accroche à une patère.|Noem iets wat je uittrekt als je binnenkomt.|Noem iets wat je aan de kapstok hangt.|inchange
+reflexe-293|Cite un dessert qu’on fait soi-même.|Cite un dessert qu’on achète tout fait.|Noem een toetje dat je zelf maakt.|Noem een toetje dat je kant-en-klaar koopt.|inchange
+reflexe-294|Cite une pièce où l’on se détend.|Cite une pièce où l’on reçoit des amis.|Noem een kamer waar je ontspant.|Noem een kamer waar je vrienden ontvangt.|inchange
+reflexe-295|Cite un objet qu’on rachète souvent.|Cite un objet qui s’use vite.|Noem iets wat je vaak opnieuw koopt.|Noem iets wat snel verslijt.|inchange
+reflexe-296|Cite un magasin.|Cite un commerce de quartier.|Noem een winkel.|Noem een buurtwinkel.|inchange
+reflexe-297|Cite un endroit où l’on va le samedi.|Cite un endroit où l’on va en famille.|Noem een plek waar je op zaterdag heen gaat.|Noem een plek waar je met familie heen gaat.|inchange
+reflexe-298|Cite un bâtiment de la ville.|Cite un endroit qui ferme le dimanche.|Noem een gebouw in de stad.|Noem een plek die op zondag dicht is.|inchange
+reflexe-299|Cite un élément du mobilier urbain.|Cite un objet visible depuis la fenêtre d’un bus.|Noem iets van straatmeubilair.|Noem iets wat je ziet vanuit het raam van de bus.|inchange
+reflexe-300|Cite un endroit où l’on fait les courses.|Cite un endroit où l’on achète des vêtements.|Noem een plek waar je boodschappen doet.|Noem een plek waar je kleren koopt.|inchange
+reflexe-301|Cite un endroit où l’on prend un café.|Cite un endroit où l’on travaille sur un ordinateur.|Noem een plek waar je koffie drinkt.|Noem een plek waar je op je laptop werkt.|inchange
+reflexe-302|Cite un objet typique d’un aéroport.|Cite un objet typique d’une gare.|Noem iets wat typisch is voor een vliegveld.|Noem iets wat typisch is voor een station.|inchange
+reflexe-303|Cite un outil de bricolage.|Cite un objet qui fait du bruit sur un chantier.|Noem een stuk klusgereedschap.|Noem iets wat lawaai maakt op een bouwplaats.|inchange
+reflexe-304|Cite une graine qu’on sème au jardin.|Cite une plante qu’on arrose souvent.|Noem een zaadje dat je in de tuin zaait.|Noem een plant die je vaak water geeft.|inchange
+reflexe-305|Cite un légume du potager.|Cite un légume qu’on mange en été.|Noem een groente uit de moestuin.|Noem een groente die je in de zomer eet.|inchange
+reflexe-306|Cite un animal de la montagne.|Cite un animal qui hiberne.|Noem een bergdier.|Noem een dier dat een winterslaap houdt.|inchange
+reflexe-307|Cite un endroit dans la nature.|Cite un endroit où l’on campe.|Noem een plek in de natuur.|Noem een plek waar je kampeert.|inchange
+reflexe-308|Cite un objet de camping.|Cite un objet qu’on met dans un sac à dos.|Noem iets wat je meeneemt naar de camping.|Noem iets wat je in een rugzak stopt.|inchange
+reflexe-309|Cite un fruit jaune.|Cite un fruit qu’on mange en hiver.|Noem een gele vrucht.|Noem fruit dat je in de winter eet.|inchange
+reflexe-310|Cite un aliment du petit-déjeuner.|Cite quelque chose qu’on trempe.|Noem iets wat je bij het ontbijt eet.|Noem iets wat je ergens in dipt.|inchange
+reflexe-311|Cite un aliment salé.|Cite un aliment de l’apéro.|Noem iets hartigs om te eten.|Noem een borrelhapje.|inchange
+reflexe-312|Cite un ingrédient d’omelette.|Cite un ingrédient de quiche.|Noem iets wat in een omelet gaat.|Noem iets wat in een quiche gaat.|inchange
+reflexe-313|Cite une activité du mercredi après-midi.|Cite une activité pour enfants.|Noem iets wat je op woensdagmiddag doet.|Noem een activiteit voor kinderen.|inchange
+reflexe-314|Cite un jouet de bébé.|Cite un jouet qu’on emporte dans le bain.|Noem babyspeelgoed.|Noem speelgoed dat je mee in bad neemt.|inchange
+reflexe-315|Cite une couleur de maillot de bain.|Cite une couleur de serviette de plage.|Noem een kleur van een badpak.|Noem een kleur van een strandlaken.|inchange
+reflexe-316|Cite un aliment qu’on garde au congélateur.|Cite un aliment qu’on garde dans un placard.|Noem iets wat je in de vriezer bewaart.|Noem iets wat je in een keukenkastje bewaart.|inchange
+reflexe-317|Cite un appareil qu’on trouve dans une buanderie.|Cite un appareil qu’on trouve dans un salon.|Noem een apparaat in de bijkeuken.|Noem een apparaat in de woonkamer.|inchange
+reflexe-318|Cite un objet qu’on emporte en randonnée.|Cite un objet qu’on emporte en pique-nique.|Noem iets wat je meeneemt op een wandeltocht.|Noem iets wat je meeneemt naar een picknick.|inchange
+reflexe-319|Cite un endroit où l’on dort ailleurs que chez soi.|Cite un endroit où l’on mange ailleurs que chez soi.|Noem een plek waar je slaapt als je niet thuis bent.|Noem een plek waar je eet als je niet thuis bent.|inchange
+reflexe-320|Cite une viennoiserie.|Cite quelque chose qu’on achète à la boulangerie.|Noem een zoet broodje van de bakker.|Noem iets wat je bij de bakker koopt.|inchange
+reflexe-321|Cite un légume qu’on mange cru.|Cite un légume qu’on met en salade.|Noem een groente die je rauw eet.|Noem een groente die je in een salade doet.|inchange
+reflexe-322|Cite une ville française.|Cite une ville où passe un grand fleuve.|Noem een Nederlandse stad.|Noem een stad aan een grote rivier.|inchange
+reflexe-323|Cite un pays où il neige beaucoup.|Cite un pays connu pour ses montagnes.|Noem een land waar het veel sneeuwt.|Noem een land dat bekend is om zijn bergen.|inchange
+reflexe-324|Cite un océan ou une mer.|Cite une étendue d’eau où l’on peut naviguer.|Noem een oceaan of zee.|Noem een water waarop je kunt varen.|inchange
+reflexe-325|Cite un métier qu’on exerce dehors.|Cite un métier qu’on exerce avec un camion.|Noem een beroep dat je buiten uitoefent.|Noem een beroep waarbij je in een vrachtwagen rijdt.|inchange
+reflexe-326|Cite un personnage de conte.|Cite un personnage qu’on retrouve dans un livre pour enfants.|Noem een sprookjesfiguur.|Noem een figuur uit een kinderboek.|inchange
+reflexe-327|Cite un accessoire qu’on porte sur la tête.|Cite un accessoire qu’on porte quand il fait froid.|Noem een accessoire dat je op je hoofd draagt.|Noem een accessoire dat je draagt als het koud is.|inchange
+reflexe-328|Cite un nombre entre 1 et 100.|Cite un âge entre 1 et 100.|Noem een getal tussen 1 en 100.|Noem een leeftijd tussen 1 en 100.|inchange
+reflexe-329|Cite un objet rond qu’on trouve dans une cuisine.|Cite un objet rond qu’on trouve dans un salon.|Noem iets ronds in de keuken.|Noem iets ronds in de woonkamer.|inchange
+reflexe-330|Cite un objet qui sert à couper.|Cite un objet qui a une lame.|Noem iets om mee te snijden.|Noem iets met een lemmet.|inchange
+reflexe-331|Cite un aliment orange.|Cite un aliment qu’on épluche.|Noem iets oranjes om te eten.|Noem iets wat je schilt voor je het eet.|inchange
+reflexe-332|Cite un aliment qu’on tartine.|Cite un aliment qu’on mange au petit-déjeuner.|Noem iets wat je op brood smeert.|Noem iets wat je bij het ontbijt eet.|inchange
+reflexe-333|Cite un animal avec une carapace.|Cite un animal qui vit longtemps.|Noem een dier met een schild.|Noem een dier dat heel oud wordt.|inchange
+reflexe-334|Cite une pièce où l’on trouve un miroir.|Cite un endroit où l’on se coiffe.|Noem een kamer waar een spiegel hangt.|Noem een plek waar je je haar kamt.|inchange
+reflexe-335|Cite un vêtement qu’on boutonne.|Cite un vêtement avec une fermeture éclair.|Noem een kledingstuk dat je dichtknoopt.|Noem een kledingstuk met een rits.|inchange
+reflexe-336|Cite un sport qu’on pratique avec une raquette.|Cite un sport qu’on pratique à deux.|Noem een sport met een racket.|Noem een sport die je met z’n tweeën doet.|inchange
+reflexe-337|Cite un objet qu’on accroche au mur.|Cite un objet qu’on encadre.|Noem iets wat je aan de muur hangt.|Noem iets wat je inlijst.|inchange
+reflexe-338|Cite un prénom de trois lettres.|Cite un prénom court.|Noem een voornaam van drie letters.|Noem een korte voornaam.|inchange
+reflexe-339|Cite un objet qu’on trouve dans une trousse de toilette.|Cite un objet qu’on emporte pour une nuit chez un ami.|Noem iets wat in een toilettas zit.|Noem iets wat je meeneemt als je bij een vriend logeert.|inchange
+reflexe-340|Cite un ingrédient de gâteau.|Cite un ingrédient de crêpe.|Noem iets wat in taartbeslag gaat.|Noem iets wat in pannenkoekbeslag gaat.|inchange
+reflexe-341|Cite un objet qu’on trouve dans un coffre de voiture.|Cite un objet qu’on range dans un garage.|Noem iets wat in de kofferbak van een auto ligt.|Noem iets wat je in een garage bewaart.|inchange
+reflexe-342|Cite un magasin où l’on achète un cadeau.|Cite un magasin qu’on trouve dans un centre commercial.|Noem een winkel waar je een cadeau koopt.|Noem een winkel in een winkelcentrum.|inchange
+reflexe-343|Cite un animal qu’on trouve dans une mare.|Cite un animal qui aime l’eau.|Noem een dier dat je in een sloot vindt.|Noem een dier dat van water houdt.|inchange
+reflexe-344|Cite un objet qu’on trouve dans un sac de plage.|Cite un objet qu’on oublie à la plage.|Noem iets wat in een strandtas zit.|Noem iets wat je op het strand vergeet.|inchange
+noel-001|Quel cadeau aimerais-tu trouver sous le sapin ?|Quel cadeau as-tu adoré offrir ?|Welk cadeau zou je graag onder de kerstboom vinden?|Welk cadeau vond je heerlijk om te geven?|inchange
+noel-002|Quel plat ne doit jamais manquer au repas de Noël ?|Quel plat de Noël pourrais-tu manger toute l’année ?|Welk gerecht mag nooit ontbreken bij het kerstdiner?|Welk kerstgerecht zou je het hele jaar kunnen eten?|inchange
+noel-005|Quel film regardes-tu chaque année à Noël ?|Quel film de Noël est le plus ringard ?|Welke film kijk je elk jaar met kerst?|Welke kerstfilm is het meest tenenkrommend?|inchange
+noel-006|Combien de cadeaux offres-tu à Noël ?|Combien de personnes sont autour de la table à Noël ?|Hoeveel cadeaus geef je met kerst?|Met hoeveel mensen zit je aan tafel met kerst?|inchange
+noel-009|Que mets-tu en haut du sapin ?|Que poses-tu sur la table du réveillon ?|Wat zet je bovenin de kerstboom?|Wat zet je op tafel bij het kerstdiner?|inchange
+noel-011|Où rêverais-tu de passer Noël ?|Où as-tu passé ton plus beau Noël ?|Waar zou je dolgraag kerst willen vieren?|Waar heb je je mooiste kerst gevierd?|inchange
+noel-014|Combien de chocolats manges-tu pendant les fêtes ?|Combien de chocolats reste-t-il dans la boîte le 26 ?|Hoeveel chocolaatjes eet je tijdens de feestdagen?|Hoeveel chocolaatjes zitten er op 27 december nog in de doos?|inchange
+noel-028|Que dis-tu quand la case du jour est vide ?|Que dis-tu quand quelqu’un a mangé ta case du jour ?|Wat zeg je als het luikje van de dag leeg is?|Wat zeg je als iemand jouw luikje van de dag heeft opgegeten?|inchange
+noel-045|Combien de minutes mets-tu à décorer le sapin ?|Combien de minutes mets-tu à démêler les guirlandes ?|Hoeveel minuten ben je bezig met de kerstboom versieren?|Hoeveel minuten ben je bezig met de lampjes ontwarren?|inchange
+noel-063|Que manges-tu en premier sur un marché de Noël ?|Que rapportes-tu à la maison d’un marché de Noël ?|Wat eet je als eerste op een kerstmarkt?|Wat neem je mee naar huis van een kerstmarkt?|inchange
+noel-066|Combien coûte une gaufre sur un marché de Noël ?|Combien coûte un stylo ?|Hoeveel kost een portie poffertjes op een kerstmarkt?|Hoeveel kost een oliebol op een kerstmarkt?|fr-modifie
+noel-070|Dans quel pays trouve-t-on les plus beaux marchés de Noël ?|Dans quel pays les rues sont-elles les plus illuminées en décembre ?|In welk land vind je de mooiste kerstmarkten?|In welk land zijn de straten in december het mooist verlicht?|inchange
+noel-081|Combien de cadeaux demandais-tu dans ta lettre au Père Noël ?|Combien de lignes faisait ta lettre au Père Noël ?|Hoeveel cadeaus vroeg je in je brief aan de Kerstman?|Hoeveel regels was je brief aan de Kerstman?|inchange
+ete-001|Où aimerais-tu passer l’été ?|Où as-tu passé ton meilleur été ?|Waar zou je graag de zomer doorbrengen?|Waar heb je je beste zomer doorgebracht?|inchange
+ete-002|Quel parfum de glace commandes-tu en premier ?|Quel parfum de glace ne choisis-tu jamais ?|Welke ijssmaak bestel je als eerste?|Welke ijssmaak kies je nooit?|inchange
+ete-003|Que fais-tu quand il fait trop chaud ?|Que fais-tu un soir d’été ?|Wat doe je als het veel te warm is?|Wat doe je op een zomeravond?|inchange
+ete-004|Qu’emportes-tu toujours à la plage ?|Qu’oublies-tu toujours à la plage ?|Wat neem je altijd mee naar het strand?|Wat vergeet je altijd mee te nemen naar het strand?|inchange
+ete-006|Combien de glaces manges-tu par semaine en été ?|Combien de baignades fais-tu par jour en vacances ?|Hoeveel ijsjes eet je per week in de zomer?|Hoe vaak per dag ga je zwemmen op vakantie?|inchange
+ete-017|Combien de minutes restes-tu dans l’eau d’une traite ?|Combien de minutes attends-tu avant de retourner à l’eau ?|Hoeveel minuten blijf je in één keer in het water?|Hoeveel minuten wacht je voordat je weer het water in gaat?|inchange
+ete-028|Combien de minutes marches-tu pour trouver une place sur la plage ?|Combien de minutes mets-tu à installer ton coin de plage ?|Hoeveel minuten loop je om een plekje op het strand te vinden?|Hoeveel minuten ben je bezig om je plekje op het strand in te richten?|inchange
+ete-029|Que cries-tu en entrant dans l’eau froide ?|Que dis-tu à quelqu’un qui hésite à entrer dans l’eau ?|Wat roep je als je het koude water in loopt?|Wat zeg je tegen iemand die twijfelt om het water in te gaan?|inchange
+ete-043|Combien coûte une entrée à la piscine municipale ?|Combien coûte une glace à la plage ?|Hoeveel kost een kaartje voor het buitenbad?|Hoeveel kost een ijsje in de kiosk van het zwembad?|fr-modifie
+ete-078|Combien de ventilateurs as-tu chez toi ?|Combien de bouteilles d’eau gardes-tu au frigo l’été ?|Hoeveel ventilatoren heb je in huis?|Hoeveel flessen water heb je in de zomer in de koelkast staan?|inchange
+ete-084|Quelle animation du camping fais-tu en famille ?|Quelle animation du camping évites-tu à tout prix ?|Aan welke campingactiviteit doe je mee met je gezin?|Welke campingactiviteit ontloop je koste wat kost?|inchange
+ete-089|Combien coûte un mobil-home pour une semaine en août ?|Combien coûte une semaine à Saint-Tropez en août dans un bon hôtel ?|Hoeveel kost een stacaravan voor een week in augustus?|Hoeveel kost een tentplaats voor een week in augustus?|fr-modifie
+ete-101|Qui conduit le plus longtemps sur la route des vacances ?|Qui s’endort en premier sur la route des vacances ?|Wie rijdt het langst op weg naar je vakantie?|Wie valt als eerste in slaap op weg naar je vakantie?|inchange
+ete-103|Combien de minutes dure ta pause sur l’aire d’autoroute ?|Combien de minutes attends-tu au péage un jour de grand départ ?|Hoeveel minuten duurt je stop bij het tankstation langs de snelweg?|Hoeveel minuten sta je bij het tolpoortje op een drukke vertrekdag?|inchange
+ete-130|Quel fruit d’été manges-tu le plus ?|Quel fruit d’été achètes-tu le plus cher ?|Welke zomervrucht eet je het meest?|Welke zomervrucht is het duurst als je hem koopt?|inchange
+ete-131|Quel fruit coupes-tu en morceaux pour un goûter d’été ?|Quel fruit manges-tu directement sur l’arbre ?|Welk fruit snijd je in stukjes voor een zomers tussendoortje?|Welk fruit eet je zo van de boom?|inchange
+ete-134|Combien coûte une barquette de fraises en juin ?|Combien coûte un melon au marché en juillet ?|Hoeveel kost een bakje aardbeien in juni?|Hoeveel kost een meloen op de markt in juli?|inchange
+ete-204|Que dis-tu pour prolonger une soirée d’été ?|Que dis-tu pour quitter une soirée d’été ?|Wat zeg je om een zomeravond te rekken?|Wat zeg je om weg te gaan van een zomerfeest?|inchange
+ete-388|Que mets-tu dans ton sandwich de plage ?|Que mets-tu dans ta salade d'été ?|Wat doe je op je broodje voor het strand?|Wat doe je op je broodje voor een wandeling?|fr-modifie
+ete-475|Quel jeu trouves-tu toujours dans une location de vacances ?|Quel objet de jeu manque toujours dans une location de vacances ?|Welk spel ligt er altijd in een vakantiehuisje?|Welk spel ontbreekt er altijd in een vakantiehuisje?|fr-modifie
+ete-476|Que dis-tu quand tu gagnes une partie en vacances ?|Que dis-tu quand tu perds pour la troisième fois de suite ?|Wat zeg je als je op vakantie een potje wint?|Wat zeg je als je voor de derde keer op rij verliest?|inchange
+ete-503|Combien coûte une location pour une semaine en août ?|Combien coûte une location pour un week-end en juillet ?|Hoeveel kost een vakantiehuis voor een week in augustus?|Hoeveel kost een vakantiehuis voor een weekend in juli?|inchange
+ete-506|Quelle corvée fais-tu avant de rendre la location ?|Quelle corvée fais-tu en arrivant dans la location ?|Welk klusje doe je voordat je het vakantiehuis verlaat?|Welk klusje doe je als je in het vakantiehuis aankomt?|inchange
+ete-556|Combien de temps, en minutes, dure une pause pipi sur la route ?|Combien de temps, en minutes, dure une pause repas sur la route ?|Hoeveel minuten duurt een plaspauze onderweg?|Hoeveel minuten duurt een fotostop onderweg?|fr-modifie
+ete-561|Combien coûte le plein d’essence en été ?|Combien coûte un billet Eurostar en août ?|Hoeveel kost een volle tank benzine in de zomer?|Hoeveel tol betaal je op weg naar Zuid-Frankrijk?|fr-modifie
+ete-591|Combien paies-tu un vieux livre à la brocante ?|Combien paies-tu un menu dans un fastfood ?|Hoeveel betaal je voor een oud boek op de vlooienmarkt?|Hoeveel betaal je voor een oude lp op de vlooienmarkt?|fr-modifie
+ete-593|Que dis-tu pour faire baisser un prix à la brocante ?|Que réponds-tu quand on te double sur l'autoroute ?|Wat zeg je om de prijs omlaag te krijgen op de vlooienmarkt?|Wat antwoord je als iemand afdingt op jouw spullen op de vlooienmarkt?|fr-modifie
+ete-604|Combien de baguettes achètes-tu le matin en vacances ?|Combien de croissants achètes-tu le matin en vacances ?|Hoeveel stokbroden koop je ’s ochtends op vakantie?|Hoeveel croissants koop je ’s ochtends op vakantie?|inchange
+rentree-003|Que dis-tu à tes collègues le jour de la rentrée ?|Que réponds-tu quand on te demande si tes vacances étaient bonnes ?|Wat zeg jij tegen je collega's op je eerste werkdag na de zomer?|Wat antwoord jij als iemand vraagt of je een fijne vakantie had?|inchange
+vacances-007|Quel jeu emportes-tu en vacances ?|Quel jeu sors-tu les jours de pluie en vacances ?|Welk spel neem je mee op vakantie?|Welk spel haal je tevoorschijn op een regendag op vakantie?|inchange
+vacances-027|Que cries-tu en haut d’une piste noire ?|Que cries-tu en bas d’une piste noire ?|Wat roep je bovenaan een zwarte piste?|Wat roep je onderaan een zwarte piste?|inchange
+vacances-031|Combien de minutes mets-tu à enfiler tes chaussures de ski ?|Combien de minutes mets-tu à t’habiller pour aller skier ?|Hoeveel minuten doe je over het aantrekken van je skischoenen?|Hoeveel minuten doe je over het aankleden om te gaan skiën?|inchange
+vacances-035|Que dis-tu à un débutant tombé juste devant toi ?|Que dis-tu quand on se moque de toi quand t'es tombé ?|Wat zeg je tegen een beginner die vlak voor je valt?|Wat zeg je tegen de skileraar als je voor de hele groep valt?|fr-modifie
+vacances-036|Combien coûte un chocolat chaud au sommet des pistes ?|Combien coûte un chocolat chaud au café de ton quartier ?|Hoeveel kost een warme chocomel boven op de berg?|Hoeveel kost een warme chocomel in het café bij jou om de hoek?|inchange
+vacances-069|Quel fromage choisis-tu pour une raclette ?|Quel fromage choisis-tu au supermarché ?|Welke kaas kies je voor raclette?|Welke kaas kies je voor kaasfondue?|fr-modifie
+vacances-074|En quel mois commences-tu les raclettes ?|En quel mois arrêtes-tu les raclettes ?|In welke maand begin jij met gourmetten?|In welke maand stop jij met gourmetten?|inchange
+vacances-084|Que fais-tu en premier en rentrant d’une journée de ski ?|Que fais-tu en premier le matin d’une journée de ski ?|Wat doe je als eerste als je terugkomt van een dag skiën?|Wat doe je als eerste op de ochtend van een skidag?|inchange
+vacances-094|Quel petit plaisir t’offres-tu après la dernière descente ?|Quel petit plaisir t’offres-tu le dernier soir à la montagne ?|Welk klein pleziertje gun je jezelf na de laatste afdaling?|Welk klein pleziertje gun je jezelf op de laatste avond in de bergen?|inchange
+vacances-097|Que dis-tu en enlevant enfin tes chaussures de ski ?|Que dis-tu en voyant l’addition du restaurant d’altitude ?|Wat zeg je als je eindelijk je skischoenen uittrekt?|Wat zeg je als je de rekening van het bergrestaurant ziet?|inchange
+vacances-204|Combien de minutes restes-tu au lit après ton réveil en vacances ?|Combien de minutes restes-tu au lit après ton réveil un lundi ?|Hoeveel minuten blijf je in de vakantie nog liggen na het wakker worden?|Hoeveel minuten blijf je op maandag nog liggen na het wakker worden?|inchange
+vacances-211|Que dis-tu quand on te réveille trop tôt en vacances ?|Que dis-tu quand tu te réveilles à midi ?|Wat zeg je als iemand je in de vakantie te vroeg wakker maakt?|Wat zeg je als je om twaalf uur 's middags wakker wordt?|inchange
+vacances-323|Combien coûte un plein d’essence pour aller au ski ?|Combien coûte un aller-retour en train pour la montagne ?|Hoeveel kost een volle tank benzine om naar de wintersport te rijden?|Hoeveel kost een retourtje met de trein naar de bergen?|inchange
+vacances-326|Combien d’heures de route acceptes-tu pour une semaine de ski ?|Combien d’heures de route acceptes-tu pour un petit week-end ?|Hoeveel uur rijden heb je over voor een week skiën?|Hoeveel uur rijden heb je over voor een lang weekend?|fr-modifie
+vacances-332|Quel en-cas manges-tu dans la voiture des vacances ?|Quel en-cas achètes-tu à la gare avant de partir ?|Welke snack eet je in de auto op weg naar je vakantie?|Welke snack koop je op het station voor vertrek?|inchange
+vacances-341|À quel âge as-tu chaussé des skis pour la première fois ?|À quel âge as-tu skié pour la dernière fois ?|Hoe oud was je toen je voor het eerst op ski's stond?|Hoe oud was je bij je eerste skiles?|fr-modifie
+vacances-422|Qui lit les règles d’un nouveau jeu ?|Qui invente ses propres règles pendant la partie ?|Wie leest de regels van een nieuw spel voor?|Wie verzint tijdens het spel zijn eigen regels?|inchange
+vacances-527|Que manges-tu dans un parc d’attractions ?|Que mangeais-tu à la cantine étant petit ?|Wat eet je in een pretpark?|Wat eet je in het café van een museum?|fr-modifie
+vacances-532|Que dis-tu en sortant d’une attraction à sensations ?|Que dis-tu quand un enfant veut refaire la même attraction ?|Wat zeg je als je uit een spannende attractie komt?|Wat zeg je als een kind nog een keer in dezelfde attractie wil?|inchange
+vacances-559|Quel objet emportes-tu pour faire de belles photos ?|Quel objet protèges-tu du froid au ski ?|Welk ding neem je mee om mooie foto's te maken?|Welk ding bescherm je op wintersport tegen de kou?|inchange
+vacances-577|Combien coûte un manteau haut de gamme ?|Combien coûte un bonnet en laine ?|Hoeveel kost een paar wanten?|Hoeveel kost een wollen muts?|fr-modifie
+sport-248|Combien de jours tiennent tes résolutions sportives de janvier ?|Combien de jours faut-il pour prendre une habitude sportive ?|Hoeveel dagen houd je je sportvoornemens van januari vol?|Hoeveel dagen duurt het om een sportgewoonte op te bouwen?|inchange
+bouffe-681|Quel plat aimes-tu manger froid le lendemain ?|Quel plat est meilleur réchauffé ?|||nouvelle
+boulot-613|Combien d’étudiants y avait-il dans ton plus grand amphi ?|Combien d’étudiants comptait toute ta promo ?|||nouvelle
+boulot-614|Combien coûte un bon sac pour aller travailler ?|Combien coûte une bonne chaise de bureau ?|||nouvelle
+boulot-615|Combien de cafés un serveur porte-t-il sur un plateau ?|Combien d’assiettes un serveur porte-t-il sur un bras ?|||nouvelle
+soiree-593|Quelle célébrité fait toujours réagir quand on la cite en soirée ?|Quelle célébrité imites-tu pour faire rire tes amis ?|||nouvelle

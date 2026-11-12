@@ -1,0 +1,635 @@
+sport-076|Que dis-tu en entrant dans une eau trop froide ?|Que dis-tu quand quelqu’un t’éclabousse au bord du bassin ?|Cosa dici quando entri in un'acqua troppo fredda?|Cosa dici quando qualcuno ti schizza a bordo vasca?|inchange
+sport-077|Combien de fois par an vas-tu à la piscine ?|Combien de fois par an vas-tu à la plage ?|Quante volte all'anno vai in piscina?|Quante volte all'anno vai al mare?|inchange
+sport-078|Combien coûte une entrée à la piscine (en euros) ?|Combien coûte une séance d’aquagym (en euros) ?|Quanto costa un ingresso in piscina (in euro)?|Quanto costa una lezione di acquagym (in euro)?|inchange
+sport-083|Combien de vélos as-tu eus dans ta vie ?|Combien de paires de baskets as-tu usées dans ta vie ?|Quante bici hai avuto nella tua vita?|Quante paia di scarpe da ginnastica hai consumato nella tua vita?|inchange
+sport-096|Que cries-tu pour demander le ballon ?|Que cries-tu quand un coéquipier rate une occasion immanquable ?|Cosa urli per chiedere la palla?|Cosa urli quando un compagno sbaglia un gol fatto?|inchange
+sport-111|Que manges-tu quand tu vas au stade ?|Que manges-tu devant un match à la maison ?|Cosa mangi quando vai allo stadio?|Cosa mangi davanti a una partita a casa?|inchange
+sport-112|Combien paies-tu un sandwich au stade (en euros) ?|Combien paies-tu une écharpe de supporter (en euros) ?|Quanto paghi un panino allo stadio (in euro)?|Quanto paghi una sciarpa da tifoso (in euro)?|inchange
+sport-113|Combien d’heures avant le coup d’envoi arrives-tu au stade ?|Combien d’heures restes-tu au stade après le coup de sifflet final ?|Quante ore prima del calcio d'inizio arrivi allo stadio?|Quante ore resti allo stadio dopo il fischio finale?|inchange
+sport-114|Combien de places compte le plus grand stade que tu connais (en milliers) ?|Combien de supporters faut-il pour une vraie ambiance (en milliers) ?|Quanti posti ha lo stadio più grande che conosci (in migliaia)?|Quanti tifosi servono per un vero tifo da stadio (in migliaia)?|inchange
+sport-119|Combien de matchs as-tu vus dans un stade dans ta vie ?|Combien de concerts as-tu vus dans un stade dans ta vie ?|Quante partite hai visto in uno stadio in vita tua?|Quanti concerti hai visto in uno stadio in vita tua?|inchange
+sport-125|Que cries-tu quand l’arbitre siffle la fin du match ?|Que cries-tu quand un joueur fait un geste incroyable ?|Cosa urli quando l'arbitro fischia la fine della partita?|Cosa urli quando un giocatore fa una giocata incredibile?|inchange
+sport-129|Combien de personnes faut-il pour regarder un match à la maison ?|Combien de personnes tiennent sur ton canapé ?|Quante persone servono per guardare una partita a casa?|Quante persone ci stanno sul tuo divano?|inchange
+sport-133|Combien de matchs peux-tu regarder dans la même journée ?|Combien de matchs regardes-tu pendant une Coupe du monde ?|Quante partite riesci a guardare nello stesso giorno?|Quante partite guardi durante un Mondiale?|inchange
+sport-136|À quel moment d’un match commences-tu à stresser ?|À quel moment d’un match sais-tu que c’est perdu ?|In quale momento di una partita inizi ad agitarti?|In quale momento di una partita capisci che è persa?|inchange
+sport-138|Que dis-tu à quelqu’un qui pose des questions pendant le match ?|Que dis-tu à quelqu’un qui change de chaîne pendant le match ?|Cosa dici a chi fa domande durante la partita?|Cosa dici a chi cambia canale durante la partita?|inchange
+sport-143|Quelle phrase de commentateur sportif répètes-tu ?|Quelle phrase de commentateur sportif t’agace ?|Quale frase da telecronista ripeti?|Quale frase da telecronista ti irrita?|inchange
+sport-144|Quel sport mériterait plus de place à la télé ?|Quel sport passe trop souvent à la télé ?|Quale sport meriterebbe più spazio in TV?|Quale sport passa troppo spesso in TV?|inchange
+sport-147|Quel ami ferait le meilleur commentateur sportif ?|Quel ami ferait le meilleur arbitre ?|Quale amico sarebbe il miglior telecronista?|Quale amico sarebbe il miglior arbitro?|inchange
+sport-160|Combien coûte une raquette de tennis correcte (en euros) ?|Combien coûte un ballon de foot correct (en euros) ?|Quanto costa una racchetta da tennis decente (in euro)?|Quanto costa un pallone da calcio decente (in euro)?|inchange
+sport-161|Quelle marque de sport portes-tu le plus ?|Quelle marque de sport portais-tu au collège ?|Quale marca sportiva indossi di più?|Quale marca sportiva indossavi alle medie?|inchange
+sport-169|Combien serais-tu prêt à payer un maillot officiel signé (en euros) ?|Combien vaut vraiment un maillot officiel (en euros) ?|Quanto saresti disposto a pagare una maglia ufficiale (in euro)?|Quanto vale davvero una maglia ufficiale (in euro)?|fr-modifie
+sport-172|Quelle épreuve olympique regardes-tu en premier ?|Quelle épreuve olympique zappes-tu toujours ?|Quale gara olimpica guardi per prima?|Quale gara olimpica salti sempre?|inchange
+sport-176|Quelle épreuve olympique pourrais-tu tenter demain sans entraînement ?|Quelle épreuve olympique devrait être supprimée ?|Quale gara olimpica potresti tentare domani senza allenamento?|Quale gara olimpica andrebbe eliminata?|inchange
+sport-185|Combien de mètres sautes-tu en longueur ?|Combien de mètres saute un champion en longueur ?|Quanti metri salti nel salto in lungo?|Quanti metri salta un campione nel salto in lungo?|inchange
+sport-189|Quel sport d’hiver préfères-tu ?|Quel sport d’hiver aimerais-tu essayer une fois ?|Qual è il tuo sport invernale preferito?|Quale sport invernale vorresti provare almeno una volta?|inchange
+sport-192|Combien de jours dure ton séjour au ski idéal ?|Combien de jours faut-il pour apprendre à skier ?|Quanti giorni dura la tua settimana bianca ideale?|Quanti giorni servono per imparare a sciare?|inchange
+sport-194|Que manges-tu à midi sur les pistes ?|Que manges-tu le soir au chalet ?|Cosa mangi a pranzo sulle piste?|Cosa mangi la sera in baita?|inchange
+sport-197|Combien de fois tombes-tu dans une journée de ski ?|Combien de pauses fais-tu dans une journée de ski ?|Quante volte cadi in una giornata sugli sci?|Quante pause fai in una giornata sugli sci?|inchange
+sport-199|Que fais-tu à la montagne quand tu ne skies pas ?|Que fais-tu le dernier jour d’un séjour au ski ?|Cosa fai in montagna quando non scii?|Cosa fai l'ultimo giorno della settimana bianca?|inchange
+sport-200|Que cries-tu en dévalant une piste ?|Que dis-tu en haut d’une piste trop raide ?|Cosa urli mentre sfrecci giù da una pista?|Cosa dici in cima a una pista troppo ripida?|inchange
+sport-203|Quel sport sur glace aimerais-tu essayer ?|Quel sport sur glace est le plus beau à regarder ?|Quale sport sul ghiaccio vorresti provare?|Quale sport sul ghiaccio è il più bello da guardare?|inchange
+sport-221|Quel sport de raquette préfères-tu ?|Quel sport de raquette n’as-tu jamais essayé ?|Qual è il tuo sport con la racchetta preferito?|Quale sport con la racchetta non hai mai provato?|inchange
+sport-225|Sur 10, quel est ton niveau au ping-pong ?|Sur 10, quel est ton niveau au tennis ?|Da 1 a 10, qual è il tuo livello a ping-pong?|Da 1 a 10, qual è il tuo livello a tennis?|inchange
+sport-228|Que dis-tu quand tu rates une balle facile ?|Que dis-tu quand ton adversaire réussit un coup incroyable ?|Cosa dici quando sbagli una palla facile?|Cosa dici quando il tuo avversario fa un colpo incredibile?|inchange
+sport-237|Quel sport fais-tu les pieds dans le sable ?|Quel sport regardes-tu les autres faire sur la plage ?|Quale sport fai con i piedi nella sabbia?|Quale sport guardi fare agli altri in spiaggia?|inchange
+sport-283|Combien d’étages montes-tu à pied par jour ?|Combien de marches compte ton escalier ?|Quanti piani fai a piedi al giorno?|Quanti gradini ha la tua scala di casa?|inchange
+sport-289|Combien d’heures par semaine passes-tu à regarder du sport ?|Combien d’heures par semaine passes-tu à faire du sport ?|Quante ore a settimana passi a guardare sport?|Quante ore a settimana passi a fare sport?|inchange
+sport-302|À quelle heure t’installes-tu devant la télé un soir de finale ?|À quelle heure vas-tu te coucher un soir de finale ?|A che ora ti piazzi davanti alla TV una sera di finale?|A che ora vai a dormire una sera di finale?|inchange
+sport-304|Quel vêtement de supporter portes-tu les jours de match ?|Quel vêtement de supporter as-tu acheté sans jamais le porter ?|Quale capo da tifoso indossi nei giorni di partita?|Quale capo da tifoso hai comprato senza mai indossarlo?|inchange
+sport-314|Combien coûte la location d’un terrain de five pour une heure (en euros) ?|Combien coûte une paire de crampons correcte (en euros) ?|Quanto costa affittare un campo da calcetto per un'ora (in euro)?|Quanto costa un paio di scarpe da calcio decenti (in euro)?|inchange
+ecrans-007|Combien de films regardes-tu par mois ?|Combien de séries suis-tu en même temps ?|Quanti film guardi al mese?|Quante serie segui contemporaneamente?|inchange
+ecrans-035|Combien coûte une place de cinéma, selon toi ?|Combien paierais-tu pour une place d’avant-première ?|Quanto costa un biglietto del cinema, secondo te?|Quanto pagheresti per un biglietto di un’anteprima?|inchange
+ecrans-037|Qu’apportes-tu toujours dans une salle de cinéma ?|Qu’est-ce que tu oublies souvent sur ton siège au cinéma ?|Cosa porti sempre con te in sala al cinema?|Cosa dimentichi spesso sul sedile al cinema?|inchange
+ecrans-038|Que fais-tu pendant les pubs avant le film ?|Que fais-tu quand un film traîne en longueur ?|Cosa fai durante la pubblicità prima del film?|Cosa fai quando un film va troppo per le lunghe?|inchange
+ecrans-039|Que chuchotes-tu à ton voisin pendant un film ?|Que dis-tu en sortant de la salle ?|Cosa sussurri al tuo vicino durante un film?|Cosa dici uscendo dalla sala?|inchange
+ecrans-041|Quel jour de la semaine préfères-tu aller au cinéma ?|Quel jour de la semaine préfères-tu commencer une nouvelle série ?|In quale giorno della settimana preferisci andare al cinema?|In quale giorno della settimana preferisci iniziare una nuova serie?|inchange
+ecrans-042|Quel film es-tu allé voir plusieurs fois au cinéma ?|Quel film aurais-tu aimé découvrir sur grand écran ?|Quale film sei andato a vedere più volte al cinema?|Quale film avresti voluto scoprire sul grande schermo?|inchange
+ecrans-043|Au bout de combien de minutes sais-tu si un film va te plaire ?|Au bout de combien de minutes regardes-tu l’heure pendant un film ennuyeux ?|Dopo quanti minuti capisci se un film ti piacerà?|Dopo quanti minuti guardi l’ora durante un film noioso?|inchange
+ecrans-046|Que fais-tu quand quelqu’un parle fort pendant la séance ?|Que fais-tu quand un téléphone sonne pendant la séance ?|Cosa fai quando qualcuno parla ad alta voce durante il film?|Cosa fai quando squilla un telefono durante il film?|inchange
+ecrans-048|Que grignotes-tu au cinéma ?|Que grignotes-tu devant un film à la maison ?|Cosa sgranocchi al cinema?|Cosa sgranocchi davanti a un film a casa?|inchange
+ecrans-049|Quel goût de pop-corn préfères-tu ?|Quel goût de pop-corn aimerais-tu inventer ?|Quale gusto di popcorn preferisci?|Quale gusto di popcorn vorresti inventare?|inchange
+ecrans-051|Combien es-tu prêt à payer un pot de pop-corn ?|Combien payes-tu ta boisson au cinéma ?|Quanto sei disposto a pagare un secchiello di popcorn?|Quanto paghi la tua bibita al cinema?|inchange
+ecrans-052|Quel plat commandes-tu pour une soirée film entre amis ?|Quel plat manges-tu devant un film quand tu es seul ?|Che piatto ordini per una serata film con gli amici?|Che piatto mangi davanti a un film quando sei da solo?|inchange
+ecrans-053|En combien de minutes finis-tu ton pop-corn au cinéma ?|Au bout de combien de minutes de film ouvres-tu ton paquet de bonbons ?|In quanti minuti finisci il tuo popcorn al cinema?|Dopo quanti minuti di film apri il tuo pacchetto di caramelle?|inchange
+ecrans-054|Quel aliment est le plus bruyant à manger au cinéma ?|Quel aliment est le plus salissant à manger sur un canapé ?|Quale cibo è il più rumoroso da mangiare al cinema?|Quale cibo sporca di più se lo mangi sul divano?|inchange
+ecrans-060|Quel dessert manges-tu devant un film ?|Quel dessert manges-tu devant la télé le dimanche soir ?|Che dolce mangi davanti a un film?|Che dolce mangi davanti alla TV la domenica sera?|inchange
+ecrans-063|Combien de minutes passes-tu à choisir quoi regarder ?|Combien de minutes passes-tu à choisir quoi manger le soir ?|Quanti minuti passi a scegliere cosa guardare?|Quanti minuti passi a scegliere cosa mangiare la sera?|inchange
+ecrans-070|Combien paierais-tu par mois pour une plateforme parfaite ?|Combien paies-tu par mois pour écouter de la musique ?|Quanto pagheresti al mese per una piattaforma perfetta?|Quanto paghi al mese per ascoltare musica?|inchange
+ecrans-082|Que fais-tu entre deux épisodes ?|Que fais-tu pendant le générique de fin ?|Cosa fai tra un episodio e l’altro?|Cosa fai durante i titoli di coda?|inchange
+ecrans-085|Combien d’épisodes faut-il pour que tu deviennes accro à une série ?|Combien d’épisodes faut-il pour que tu retiennes le prénom des personnages ?|Quanti episodi servono perché tu diventi dipendente da una serie?|Quanti episodi servono perché tu ricordi i nomi dei personaggi?|inchange
+ecrans-091|Combien de saisons as-tu enchaînées en une semaine, au maximum ?|Combien de saisons compte la plus longue série que tu as finie ?|Quante stagioni hai guardato di fila in una settimana, al massimo?|Quante stagioni ha la serie più lunga che hai finito?|inchange
+ecrans-092|Combien de bandes-annonces passent avant un film au cinéma ?|Combien de bandes-annonces regardes-tu avant de choisir un film ?|Quanti trailer passano prima di un film al cinema?|Quanti trailer guardi prima di scegliere un film?|inchange
+ecrans-100|Quel titre donnerais-tu au film de ta vie ?|Quel titre donnerais-tu à la série de ta famille ?|Che titolo daresti al film della tua vita?|Che titolo daresti alla serie sulla tua famiglia?|inchange
+ecrans-102|Combien coûtait un DVD, selon toi ?|Combien coûte un abonnement de streaming par mois ?|Quanto costava un DVD, secondo te?|Quanto costa al mese un abbonamento a una piattaforma di streaming?|inchange
+ecrans-103|À quel moment de la bande-annonce sais-tu que tu iras voir le film ?|À quel moment d’un film sais-tu que tu vas l’adorer ?|In quale momento del trailer capisci che andrai a vedere il film?|In quale momento di un film capisci che lo adorerai?|inchange
+ecrans-137|Quelle série t’a laissé sans voix à la fin d’une saison ?|Quelle série a eu une dernière saison décevante ?|Quale serie ti ha lasciato senza parole alla fine di una stagione?|Quale serie ha avuto un’ultima stagione deludente?|inchange
+ecrans-139|Que cries-tu devant un rebondissement incroyable ?|Que cries-tu quand un épisode s’arrête au pire moment ?|Cosa urli davanti a un colpo di scena incredibile?|Cosa urli quando un episodio finisce nel momento peggiore?|inchange
+ecrans-164|Jusqu’à quel âge as-tu regardé des dessins animés ?|À quel âge as-tu vu ton premier dessin animé au cinéma ?|Fino a che età hai guardato i cartoni animati?|A che età hai visto il tuo primo cartone animato al cinema?|inchange
+ecrans-176|Sur quel sujet regardes-tu des documentaires ?|Sur quel sujet aimerais-tu tourner un documentaire ?|Su quale argomento guardi i documentari?|Su quale argomento vorresti girare un documentario?|inchange
+ecrans-200|Quel jeu télé aimerais-tu gagner ?|Quel jeu télé serait le pire pour toi ?|Quale quiz televisivo vorresti vincere?|Quale quiz televisivo sarebbe il peggiore per te?|inchange
+ecrans-209|Combien coûte une bonne télé, selon toi ?|Combien coûte un bon canapé, selon toi ?|Quanto costa una buona TV, secondo te?|Quanto costa un buon divano, secondo te?|inchange
+ecrans-217|Que dis-tu quand quelqu’un met pause sans prévenir ?|Que dis-tu quand quelqu’un parle pendant la scène clé ?|Cosa dici quando qualcuno mette in pausa senza avvisare?|Cosa dici quando qualcuno parla durante la scena clou?|inchange
+ecrans-226|Combien de fois reviens-tu en arrière pendant un film à la maison ?|Combien de fois te lèves-tu pendant un film à la maison ?|Quante volte torni indietro durante un film a casa?|Quante volte ti alzi durante un film a casa?|inchange
+ecrans-236|Que crie-t-on sur un plateau avant de tourner ?|Que crie-t-on à la fin d’une prise ?|Cosa si urla sul set prima di girare?|Cosa si urla alla fine di una ripresa?|inchange
+ecrans-273|Quel film d’été te rappelle tes vacances d’enfance ?|Quel film d’hiver te rappelle les fêtes en famille ?|Quale film estivo ti ricorda le vacanze da bambino?|Quale film invernale ti ricorda le feste in famiglia?|inchange
+ecrans-280|Combien de films peux-tu regarder dans une journée ?|Combien de films peux-tu regarder dans un week-end ?|Quanti film riesci a guardare in un giorno?|Quanti film riesci a guardare in un weekend?|inchange
+ecrans-286|Quel lieu est le décor idéal d’un film d’horreur ?|Quel lieu est le décor idéal d’une comédie ?|Qual è l’ambientazione ideale per un film horror?|Qual è l’ambientazione ideale per una commedia?|inchange
+ecrans-319|Que chuchotes-tu à ton voisin quand le film commence ?|Que chuchotes-tu à ton voisin quand le film devient ennuyeux ?|Cosa sussurri al tuo vicino quando il film comincia?|Cosa sussurri al tuo vicino quando il film diventa noioso?|inchange
+ecrans-324|Que fais-tu quand ton voisin de siège parle pendant le film ?|Que fais-tu quand un téléphone s’allume devant toi au cinéma ?|Cosa fai quando il tuo vicino di poltrona parla durante il film?|Cosa fai quando un telefono si accende davanti a te al cinema?|inchange
+ecrans-325|Quel objet trouve-t-on toujours par terre dans une salle après la séance ?|Quel objet as-tu déjà perdu dans une salle de cinéma ?|Quale oggetto si trova sempre per terra in sala dopo lo spettacolo?|Quale oggetto hai già perso in una sala del cinema?|inchange
+ecrans-335|Quel snack rêverais-tu de trouver au comptoir du cinéma ?|Quel snack ne devrait jamais être vendu au cinéma ?|Quale snack sogneresti di trovare al bancone del cinema?|Quale snack non dovrebbe mai essere venduto al cinema?|inchange
+ecrans-339|Que dis-tu au vendeur quand il te propose la taille au-dessus ?|Que dis-tu quand quelqu’un pioche dans ton popcorn sans demander ?|Cosa dici al commesso quando ti propone la taglia più grande?|Cosa dici quando qualcuno pesca dai tuoi popcorn senza chiedere?|inchange
+ecrans-342|Combien dépenses-tu au total pour une sortie cinéma (en euros) ?|Combien dépenses-tu en snacks pour une soirée film chez toi (en euros) ?|Quanto spendi in tutto per un’uscita al cinema (in euro)?|Quanto spendi in snack per una serata film a casa (in euro)?|inchange
+ecrans-359|Que réponds-tu quand on te demande ce qu’on regarde ce soir ?|Que réponds-tu quand on te propose un film que tu as déjà vu ?|Cosa rispondi quando ti chiedono cosa guardiamo stasera?|Cosa rispondi quando ti propongono un film che hai già visto?|inchange
+ecrans-437|Quel mot dis-tu quand une plateforme augmente son prix ?|Quel mot dis-tu quand une série disparaît du catalogue ?|Che parola dici quando una piattaforma aumenta il prezzo?|Che parola dici quando una serie sparisce dal catalogo?|inchange
+ecrans-465|Quelle phrase entend-on toujours dans un film de braquage ?|Quelle phrase entend-on toujours dans un film de sport ?|Quale frase si sente sempre in un film di rapine?|Quale frase si sente sempre in un film sportivo?|inchange
+ecrans-468|À quel moment du film le héros doute-t-il toujours ?|À quel moment du film le méchant révèle-t-il son plan ?|In che momento del film l’eroe ha sempre dei dubbi?|In che momento del film il cattivo rivela il suo piano?|inchange
+ecrans-475|Dans quel lieu se cache toujours un indice dans un film d’enquête ?|Dans quel lieu trouve-t-on toujours un passage secret dans un film ?|In quale posto c’è sempre un indizio in un film giallo?|In quale posto c’è sempre un passaggio segreto in un film?|inchange
+ecrans-584|En quelle année est sorti le plus vieux film que tu adores ?|En quelle année est sorti le film de ton enfance que tu revois le plus ?|In che anno è uscito il film più vecchio che adori?|In che anno è uscito il film della tua infanzia che riguardi di più?|inchange
+ecrans-613|Quel prix maximum mettrais-tu dans un coffret collector de saga ?|Quel prix maximum mettrais-tu dans une affiche de film originale ?|Quanto spenderesti al massimo per un cofanetto da collezione di una saga?|Quanto spenderesti al massimo per una locandina originale di un film?|inchange
+musique-025|Combien paierais-tu pour voir ton artiste préféré (en euros) ?|Combien coûte une place de concert normale (en euros) ?|Quanto pagheresti per vedere il tuo artista preferito (in euro)?|Quanto costa un normale biglietto per un concerto (in euro)?|inchange
+musique-057|À quel volume, sur 10, écoutes-tu la musique en voiture ?|À quel volume, sur 10, écoutes-tu la musique au casque ?|A che volume, da 1 a 10, ascolti la musica in macchina?|A che volume, da 1 a 10, ascolti la musica in cuffia?|inchange
+musique-063|Combien de fois peux-tu écouter la même chanson sur un trajet ?|Combien de chansons passes-tu avant d’en trouver une bonne en voiture ?|Quante volte riesci ad ascoltare la stessa canzone durante un viaggio?|Quante canzoni salti prima di trovarne una buona in macchina?|inchange
+musique-097|Combien d’artistes différents écoutes-tu dans une semaine ?|Combien de genres différents écoutes-tu dans une semaine ?|Quanti artisti diversi ascolti in una settimana?|Quanti generi diversi ascolti in una settimana?|inchange
+musique-099|Qui fait les meilleures playlists autour de toi ?|Qui te recommande toujours des chansons autour de toi ?|Chi fa le playlist migliori tra le persone che conosci?|Chi ti consiglia sempre canzoni tra le persone che conosci?|inchange
+musique-101|Combien de fois appuies-tu sur « répéter » quand ton réveil sonne ?|Combien de réveils mets-tu le matin ?|Quante volte premi «posticipa» quando suona la sveglia?|Quante sveglie imposti la mattina?|inchange
+musique-158|Combien d’heures par jour gardes-tu ton casque au travail ?|Combien d’heures par jour écoutes-tu de la musique dans les transports ?|Quante ore al giorno tieni le cuffie al lavoro?|Quante ore al giorno ascolti musica sui mezzi pubblici?|inchange
+musique-165|Combien de minutes mets-tu à choisir quoi écouter en partant le matin ?|Combien de minutes peux-tu travailler sans musique ?|Quanti minuti ci metti a scegliere cosa ascoltare quando esci la mattina?|Quanti minuti riesci a lavorare senza musica?|inchange
+musique-223|Quel objet connecté utilises-tu pour mettre de la musique ?|Quel objet utilisais-tu pour mettre de la musique il y a dix ans ?|Quale dispositivo smart usi per mettere la musica?|Quale oggetto usavi per mettere la musica dieci anni fa?|inchange
+musique-249|Jusqu’à quelle heure peut-on mettre de la musique fort chez soi ?|À partir de quelle heure peut-on mettre de la musique le week-end ?|Fino a che ora si può mettere la musica alta in casa?|Da che ora si può mettere la musica nel weekend?|inchange
+musique-294|Combien paierais-tu pour un bon casque (en euros) ?|Combien paierais-tu pour une bonne enceinte (en euros) ?|Quanto pagheresti per delle buone cuffie (in euro)?|Quanto pagheresti per una buona cassa (in euro)?|inchange
+enfance-001|Quelle matière préférais-tu à l’école ?|Quelle matière aurais-tu aimé avoir à l’école ?|Qual era la tua materia preferita a scuola?|Quale materia ti sarebbe piaciuto avere a scuola?|inchange
+enfance-002|Quelle matière te faisait le plus peur ?|Quelle matière te serait utile aujourd’hui ?|Quale materia ti faceva più paura?|Quale materia ti sarebbe utile oggi?|inchange
+enfance-003|Quel jouet as-tu gardé ?|Quel jouet voulais-tu absolument pour Noël ?|Quale giocattolo hai conservato?|Quale giocattolo volevi assolutamente per Natale?|inchange
+enfance-004|Quel goûter mangeais-tu après l’école ?|Quel plat de cantine préférais-tu ?|Cosa mangiavi a merenda dopo la scuola?|Qual era il tuo piatto preferito della mensa?|inchange
+enfance-010|Combien d’élèves y avait-il dans ta classe de CM2 ?|Combien d’amis invitais-tu à tes anniversaires d’enfant ?|Quanti alunni c'erano nella tua classe di quinta elementare?|Quanti amici invitavi ai tuoi compleanni da bambino?|inchange
+enfance-015|À quelle heure te couchais-tu à dix ans ?|À quelle heure commençait l’école ?|A che ora andavi a letto a dieci anni?|A che ora iniziava la scuola?|inchange
+enfance-026|Quel cadeau d’anniversaire t’a le plus marqué enfant ?|Quel cadeau d’enfance as-tu toujours ?|Quale regalo di compleanno ti è rimasto più impresso da bambino?|Quale regalo d'infanzia hai ancora?|inchange
+enfance-030|À quel âge as-tu arrêté de croire au père Noël ?|À quel âge as-tu eu ton premier argent de poche ?|A che età hai smesso di credere a Babbo Natale?|A che età hai avuto la tua prima paghetta?|inchange
+enfance-037|Combien de minutes durait ton repas à la cantine ?|Combien de minutes attendais-tu dans la file de la cantine ?|Quanti minuti durava il tuo pranzo in mensa?|Quanti minuti aspettavi in fila in mensa?|inchange
+enfance-040|Que criait-on quand quelqu’un faisait tomber son plateau ?|Que disait la dame de la cantine pour te faire finir ton assiette ?|Cosa si urlava quando qualcuno faceva cadere il vassoio?|Cosa diceva la signora della mensa per farti finire il piatto?|inchange
+tech-337|Quelle phrase dis-tu quand ton téléphone affiche 1 % ?|Quelle phrase dis-tu quand ton téléphone se rallume enfin ?|Che frase dici quando il telefono segna l'1 %?|Che frase dici quando il telefono finalmente si riaccende?|inchange
+tech-383|Que fais-tu quand un ami t’envoie un très long message ?|Que fais-tu quand un ami t’envoie dix messages d’affilée ?|Cosa fai quando un amico ti manda un messaggio lunghissimo?|Cosa fai quando un amico ti manda dieci messaggi di fila?|inchange
+tech-403|Que fais-tu quand quelqu’un te montre 200 photos de vacances ?|Que fais-tu quand quelqu’un te montre une vidéo de 10 minutes ?|Cosa fai quando qualcuno ti mostra 200 foto delle vacanze?|Cosa fai quando qualcuno ti mostra un video di 10 minuti?|inchange
+tech-428|Combien de cartes de fidélité as-tu dans ton téléphone ?|Combien de billets ou tickets as-tu dans ton téléphone ?|Quante carte fedeltà hai nel telefono?|Quanti biglietti hai salvati nel telefono?|inchange
+tech-444|Combien coûte un bon ordinateur portable ?|Combien coûte un bon téléphone ?|Quanto costa un buon portatile?|Quanto costa un buon telefono?|inchange
+tech-462|Combien coûte une paire d’écouteurs sans fil ?|Combien coûte une montre connectée ?|Quanto costa un paio di auricolari wireless?|Quanto costa uno smartwatch?|inchange
+tech-477|Quelle langue as-tu essayé d’apprendre avec une appli ?|Quelle langue aimerais-tu apprendre avec une appli ?|Quale lingua hai provato a imparare con un'app?|Quale lingua vorresti imparare con un'app?|inchange
+tech-478|Combien de minutes passes-tu à chercher le code wifi chez quelqu’un ?|Combien de minutes passes-tu à redémarrer ta box en cas de panne ?|Quanti minuti passi a cercare la password del wifi a casa di qualcuno?|Quanti minuti passi a riavviare il modem quando non va?|inchange
+tech-502|Dans combien d’années aura-t-on tous un robot à la maison ?|Dans combien d’années les voitures rouleront-elles seules partout ?|Tra quanti anni avremo tutti un robot in casa?|Tra quanti anni le auto andranno da sole ovunque?|inchange
+nature-058|Combien de minutes restes-tu dans une mer à 10 degrés ?|Combien de minutes restes-tu dans une mer à 25 degrés ?|Quanti minuti resti in un mare a 18 gradi?|Quanti minuti resti in un mare a 25 gradi?|fr-modifie
+nature-059|Que fais-tu en premier en arrivant sur une plage ?|Que fais-tu en premier en arrivant à la piscine ?|Cosa fai per prima cosa quando arrivi in spiaggia?|Cosa fai per ultima cosa prima di lasciare la spiaggia?|fr-modifie
+nature-066|Combien de secondes mets-tu à entrer dans une mer froide ?|Combien de secondes peux-tu tenir la tête sous l’eau ?|Quanti secondi ci metti a entrare in un mare freddo?|Quanti secondi riesci a tenere la testa sott'acqua?|inchange
+nature-287|Combien d’étoiles filantes as-tu vues dans ta vie ?|Combien de fois as-tu vu des dauphins dans ta vie ?|Quante stelle cadenti hai visto in vita tua?|Quanti desideri hai espresso su una stella cadente?|fr-modifie
+nature-291|Où irais-tu pour voir le plus beau ciel étoilé ?|Où irais-tu pour voir une aurore boréale ?|Dove andresti per vedere il cielo stellato più bello?|Dove andresti per vedere l'aurora boreale?|inchange
+famille-153|Que construis-tu avec de la neige ?|Que construis-tu avec du sable mouillé ?|Cosa costruisci con la neve?|Cosa costruisci con la sabbia bagnata?|inchange
+famille-162|Que fais-tu quand tu vois un arc-en-ciel ?|Que fais-tu quand tu vois de la neige tomber ?|Cosa fai quando vedi un arcobaleno?|Cosa fai quando vedi cadere la neve?|inchange
+fetes-003|Combien de cadeaux mets-tu sous le sapin en moyenne ?|Combien de personnes fêtent Noël avec toi en moyenne ?|Quanti regali metti sotto l'albero?|Quante persone festeggiano il Natale con te?|fr-modifie
+fetes-005|À quelle heure ouvres-tu les cadeaux à Noël ?|À quelle heure commence le repas de Noël ?|A che ora apri i regali a Natale?|A che ora inizia il pranzo di Natale?|inchange
+fetes-009|Où aimerais-tu voir un feu d’artifice ?|Où aimerais-tu visiter un marché de Noël ?|Dove ti piacerebbe vedere dei fuochi d'artificio?|Dove ti piacerebbe visitare un mercatino di Natale?|inchange
+fetes-011|Combien de jours avant Noël installes-tu le sapin ?|Combien de jours après Noël enlèves-tu le sapin ?|Quanti giorni prima di Natale fai l'albero?|Quanti giorni dopo Natale smonti l'albero?|inchange
+fetes-014|Combien de bougies faut-il sur un gâteau pour qu’il soit beau ?|En combien de parts coupes-tu une galette des rois ?|Quante candeline servono su una torta perché sia bella?|In quante fette tagli un panettone?|inchange
+fetes-019|Que dis-tu pour souhaiter une bonne année ?|Que dis-tu pour souhaiter un joyeux anniversaire en retard ?|Cosa dici per augurare buon anno?|Cosa dici per fare gli auguri di compleanno in ritardo?|inchange
+fetes-026|Combien de jours à l’avance achètes-tu tes cadeaux de Noël ?|Combien de jours avant les vacances fais-tu ta valise ?|Quanti giorni prima compri i regali di Natale?|Quanti giorni prima delle vacanze prepari la valigia?|inchange
+fetes-040|Combien de parts de gâteau d’anniversaire manges-tu ?|Combien de parts de gâteau restent à la fin de la fête ?|Quante fette di torta di compleanno mangi?|Quante fette di torta avanzano alla fine della festa?|inchange
+fetes-042|Combien de minutes dure le moment des cadeaux à un anniversaire ?|Combien de minutes restes-tu caché pour une fête surprise ?|Quanti minuti dura il momento dei regali a un compleanno?|Quanti minuti resti nascosto per una festa a sorpresa?|inchange
+fetes-043|Combien de dates d’anniversaire connais-tu par cœur ?|Combien de rappels d’anniversaire as-tu dans ton téléphone ?|Quante date di compleanno conosci a memoria?|Quanti promemoria di compleanno hai nel telefono?|inchange
+fetes-048|Combien de bougies mets-tu vraiment sur un gâteau d’adulte ?|Combien de cadeaux reçois-tu dans une année ?|Quante candeline metti davvero sulla torta di un adulto?|Quante candeline servono per far scattare l'allarme antincendio?|fr-modifie
+fetes-050|Quel est le meilleur cadeau que tu aies reçu enfant ?|Quel objet t'es-tu acheté pour te faire plaisir pour ton anniversaire ?|Qual è il regalo più bello che hai ricevuto da bambino?|Quale regalo hai chiesto con più insistenza da bambino?|fr-modifie
+fetes-052|Combien de minutes mets-tu à emballer un cadeau ?|Combien de minutes mets-tu à écrire une carte d’anniversaire ?|Quanti minuti ci metti a incartare un regalo?|Quanti minuti ci metti a scegliere un biglietto di compleanno?|fr-modifie
+fetes-055|Que dis-tu quand un cadeau ne te plaît pas du tout ?|Que dis-tu quand tu reçois un cadeau beaucoup trop généreux ?|Cosa dici quando un regalo non ti piace per niente?|Cosa dici quando ricevi un regalo fin troppo generoso?|inchange
+fetes-057|Combien de cadeaux offres-tu dans une année ?|Combien de cadeaux reçois-tu dans une année ?|Quanti regali fai in un anno?|Quanti regali ricevi in un anno?|inchange
+fetes-063|Que trouve-t-on à coup sûr dans une pochette surprise ?|Quel jouet trouve-t-on à coup sûr dans un œuf en chocolat ?|Quale oggetto trovi di sicuro nel sacchetto della festa?|Quale giocattolo trovi di sicuro in un ovetto di cioccolato?|fr-modifie
+fetes-064|Quel mot écris-tu sur une carte de félicitations ?|Quel mot écris-tu sur une carte de remerciement ?|Quale parola scrivi su un biglietto di congratulazioni?|Quale parola scrivi su un biglietto di ringraziamento?|inchange
+fetes-065|Combien de jours mets-tu à remercier pour un cadeau ?|Combien de jours gardes-tu un bouquet reçu en cadeau ?|Quanti giorni ci metti a ringraziare per un regalo?|Quanti giorni tieni un mazzo di fiori ricevuto in regalo?|inchange
+fetes-066|Où caches-tu les cadeaux avant de les offrir ?|Où ranges-tu les cadeaux que tu n’utilises pas ?|Dove nascondi i regali prima di darli?|Dove metti i regali che non usi?|inchange
+fetes-137|Combien dépenses-tu pour un bouquet de fleurs ?|Combien dépenses-tu pour une boîte de chocolats à offrir ?|Quanto spendi per un mazzo di fiori?|Quanto spendi per una scatola di cioccolatini da regalare?|inchange
+fetes-164|Combien d’invités faut-il pour un beau mariage ?|Combien de tables compte une belle salle de réception ?|Quanti invitati servono per un bel matrimonio?|Quanti tavoli ci sono in una bella sala ricevimenti?|inchange
+fetes-171|À combien de mariages es-tu allé dans ta vie ?|À combien d'anniversaires es-tu allé dans ta vie ?|A quanti matrimoni sei stato nella tua vita?|A quanti battesimi sei stato nella tua vita?|fr-modifie
+fetes-196|Combien de fois dis-tu bonne année le 1er janvier ?|Combien de fois dis-tu joyeux anniversaire dans une année ?|Quante volte dici buon anno il primo gennaio?|Quante volte dici buon compleanno in un anno?|inchange
+fetes-198|À quelle heure arrives-tu quand on t’invite à 20 heures ?|À quelle heure pars-tu d’une soirée qui t’ennuie ?|A che ora arrivi quando ti invitano per le 20?|A che ora te ne vai da una festa che ti annoia?|inchange
+fetes-222|Combien coûte un billet pour un parc d'attractions ?|Combien coûte une console de jeu ?|Quanto costa un giro di giostra?|Quanto costa uno zucchero filato?|fr-modifie
+fetes-223|Combien de minutes maximum attends-tu pour un grand huit ?|Combien de minutes attends-tu pour une grande roue ?|Quanti minuti aspetti per le montagne russe?|Quanti minuti aspetti per la ruota panoramica?|fr-modifie
+fetes-227|Combien de lancers te faut-il pour gagner une peluche ?|Combien d’essais te faut-il pour attraper un canard à la pêche ?|Quanti tiri ti servono per vincere un peluche?|Quanti tentativi ti servono per pescare una paperella?|inchange
+fetes-243|Que dis-tu quand il fait nuit à 17 heures ?|Que dis-tu quand il fait encore jour à 22 heures ?|Cosa dici quando è buio alle 17?|Cosa dici quando c'è ancora luce alle 22?|inchange
+fetes-263|Que fais-tu le 26 décembre ?|Que fais-tu le 2 janvier ?|Cosa fai il 26 dicembre?|Cosa fai il 2 gennaio?|inchange
+fetes-275|Combien de photos prends-tu pendant une fête ?|Combien de photos de fête gardes-tu vraiment ?|Quante foto scatti durante una festa?|Quante foto di una festa tieni davvero?|inchange
+fetes-279|Quel moment d’une fête aimes-tu prendre en photo ?|Quel moment d’une fête préfères-tu vivre sans téléphone ?|Quale momento di una festa ti piace fotografare?|Quale momento di una festa preferisci vivere senza telefono?|inchange
+fetes-280|Qui prend toujours les photos dans ton groupe d’amis ?|Qui organise toujours la photo de groupe dans ta famille ?|Chi fa sempre le foto nel tuo gruppo di amici?|Chi organizza sempre la foto di gruppo nella tua famiglia?|inchange
+fetes-289|Combien de ballons gonfles-tu pour une fête ?|Combien de paquets de chips achètes-tu pour une fête ?|Quanti palloncini gonfi per una festa?|Quanti sacchetti di patatine compri per una festa?|inchange
+fetes-290|Combien de minutes mets-tu à gonfler dix ballons ?|Combien de minutes mets-tu à dresser la table pour dix ?|Quanti minuti ci metti a gonfiare dieci palloncini?|Quanti minuti ci metti ad apparecchiare per dieci?|inchange
+fetes-300|Que dis-tu en accueillant tes invités ?|Que dis-tu en arrivant chez quelqu’un qui fait une fête ?|Cosa dici accogliendo i tuoi invitati?|Cosa dici arrivando a casa di qualcuno che fa una festa?|inchange
+fetes-302|Quel fromage mets-tu sur un plateau de fête ?|Quel fromage mets-tu dans une raclette ?|Quale formaggio metti su un tagliere delle feste?|Quale formaggio metti in una fonduta?|inchange
+fetes-303|Quel objet empruntes-tu toujours pour organiser une fête ?|Quel objet prêtes-tu toujours pour une fête ?|Quale oggetto prendi sempre in prestito per organizzare una festa?|Quale oggetto presti sempre per una festa?|inchange
+fetes-305|À quelle heure sers-tu le gâteau à un anniversaire du soir ?|À quelle heure sers-tu le dessert à un dîner entre amis ?|A che ora servi la torta a un compleanno serale?|A che ora servi il dolce a una cena tra amici?|inchange
+fetes-308|À partir de quel âge offre-t-on de l’argent plutôt qu’un cadeau ?|À partir de quel âge arrête-t-on les pochettes surprises ?|Da che età si regalano soldi invece di un regalo?|Da che età si smette di dare il sacchetto della festa?|inchange
+fetes-309|Combien dépenses-tu pour une fête chez toi ?|Combien dépenses-tu pour un week-end entre amis ?|Quanto spendi per una festa a casa tua?|Quanto spendi per un weekend tra amici?|inchange
+fetes-311|Quel objet trouves-tu toujours sous le canapé après une fête ?|Quel objet trouves-tu toujours dans le jardin après une fête ?|Quale oggetto trovi sempre sotto il divano dopo una festa?|Quale oggetto trovi sempre in giardino dopo una festa?|inchange
+fetes-313|Quel invité arrive toujours le premier ?|Quel invité reste toujours pour aider ?|Quale invitato arriva sempre per primo?|Quale invitato resta sempre ad aiutare?|inchange
+fetes-316|Combien de jours tiennent tes résolutions de janvier ?|Combien de résolutions notes-tu le 1er janvier ?|Quanti giorni durano i tuoi buoni propositi di gennaio?|Quanti buoni propositi scrivi il primo gennaio?|inchange
+fetes-332|Combien de fois écris-tu encore l’ancienne année en janvier ?|Combien de fois te trompes-tu de date en janvier ?|Quante volte scrivi ancora l'anno vecchio a gennaio?|Quante volte sbagli la data a gennaio?|inchange
+fetes-333|Combien coûte un agenda pour la nouvelle année ?|Combien coûte un calendrier de l'avent de chocolat ?|Quanto costa un'agenda per il nuovo anno?|Quanto costa un calendario da parete?|fr-modifie
+fetes-335|Quel objet sert de fève quand on n’en a pas ?|Quel objet remplace la couronne quand on l’a oubliée ?|Cosa usi per segnare i numeri a tombola quando mancano i fagioli?|Cosa usi al posto della calza della Befana quando non ce l'hai?|inchange
+fetes-341|Combien coûte une galette pour six ?|Combien coûte une tarte aux pommes pour six ?|Quanto costa un panettone artigianale?|Quanto costa una crostata per sei?|inchange
+fetes-345|Combien de crêpes manges-tu au goûter ?|Combien de crêpes prépares-tu pour quatre personnes ?|Quante crêpes mangi a merenda?|Quante crêpes prepari per quattro persone?|inchange
+fetes-346|Quelle crêpe salée préfères-tu ?|Quelle crêpe sucrée préfères-tu ?|Qual è la tua crêpe salata preferita?|Qual è la tua crêpe dolce preferita?|inchange
+fetes-347|Qui fait sauter les crêpes chez toi ?|Qui mange les crêpes ratées chez toi ?|Chi fa saltare le crêpes a casa tua?|Chi mangia le crêpes venute male a casa tua?|inchange
+fetes-353|Quelle garniture de crêpe mets-tu pour les enfants ?|Quelle garniture de crêpe gardes-tu pour les adultes ?|Quale farcitura di crêpe prepari per i bambini?|Quale farcitura di crêpe tieni per gli adulti?|inchange
+fetes-354|Combien coûte une crêpe au sucre dans une crêperie ?|Combien coûte une galette complète dans une crêperie ?|Quanto costa una crêpe con lo zucchero in creperia?|Quanto costa una crêpe prosciutto e formaggio in creperia?|inchange
+fetes-365|Quel personnage imites-tu avec seulement une moustache ?|Quel personnage imites-tu avec seulement un chapeau ?|Quale personaggio imiti solo con dei baffi?|Quale personaggio imiti solo con un cappello?|inchange
+fetes-371|Quel objet utilises-tu pour une blague du 1er avril ?|Quel objet utilises-tu pour un tour de magie ?|Quale oggetto usi per uno scherzo del primo aprile?|Quale oggetto usi per un trucco di magia?|inchange
+fetes-390|Quel jeu organises-tu pour les enfants à Pâques ?|Quel jeu organises-tu pour les enfants à la plage ?|Quale gioco organizzi per i bambini a Pasqua?|Quale gioco organizzi per i bambini in spiaggia?|inchange
+fetes-399|Combien coûte une tablette de chocolat ?|Combien coûte une rose chez le fleuriste ?|Quanto costa un rametto di mimosa?|Quanto costa una rosa dal fioraio?|fr-modifie
+fetes-410|Que dis-tu pour inviter un voisin que tu ne connais pas ?|Que dis-tu pour te présenter à un nouveau voisin ?|Cosa dici per invitare un vicino che non conosci?|Cosa dici per presentarti a un nuovo vicino?|inchange
+fetes-431|Quel bruit fais-tu pour imiter un feu d’artifice ?|Quel bruit fais-tu pour imiter une voiture de course ?|Che rumore fai per imitare i fuochi d'artificio?|Che rumore fai per imitare una macchina da corsa?|inchange
+ville-228|Combien de jours faut-il pour visiter une grande ville ?|Combien de jours pars-tu en vacances par an ?|Quanti giorni servono per visitare una grande città?|Quanti giorni ti servono per sentirti a casa in una città?|fr-modifie
+ville-231|Que dis-tu à un touriste perdu devant toi ?|Que dis-tu quand un touriste te demande de le prendre en photo ?|Cosa dici a un turista sperduto davanti a te?|Cosa dici quando un turista ti chiede di fargli una foto?|inchange
+ville-232|Combien de photos prends-tu en une journée de visite ?|Combien de photos de monuments gardes-tu vraiment ?|Quante foto scatti in una giornata di visita?|Quante foto di monumenti tieni davvero?|inchange
+ville-243|Combien coûte un ticket de métro dans ta ville ?|Combien coûte une amende quand tu fraudes dans les transports ?|Quanto costa un biglietto della metro nella tua città?|Quanto costa un biglietto dell'autobus nella tua città?|fr-modifie
+ville-259|Combien de minutes de transport acceptes-tu au maximum pour aller au travail ?|Combien de minutes de transport acceptes-tu au maximum pour voir tes amis ?|Quanti minuti di tragitto accetti al massimo per andare al lavoro?|Quanti minuti di tragitto accetti al massimo per vedere gli amici?|inchange
+ville-313|Combien de lignes de bus prends-tu dans un mois ?|Combien de stations de métro connais-tu par cœur ?|Quante linee di autobus prendi in un mese?|Quante fermate della metro conosci a memoria?|inchange
+ville-315|Combien coûte un ticket de métro selon toi ?|Combien coûte une heure de parking en centre-ville selon toi ?|Quanto costa un biglietto della metro secondo te?|Quanto costa un'ora di parcheggio in centro secondo te?|inchange
+ville-327|Combien de minutes cherches-tu une place pour te garer ?|Combien de minutes attends-tu à un feu rouge dans ta journée ?|Quanti minuti cerchi parcheggio?|Quanti minuti aspetti ai semafori rossi in una giornata?|inchange
+ville-331|Que dis-tu quand une trottinette te frôle ?|Que dis-tu quand un vélo te sonne derrière toi ?|Cosa dici quando un monopattino ti sfiora?|Cosa dici quando una bici ti suona il campanello dietro?|inchange
+imaginaire-029|Combien d’heures de plus voudrais-tu dans une journée ?|Combien d’heures a duré ton plus long trajet en avion ?|Quante ore in più vorresti in una giornata?|Quante ore di sonno ti basterebbero se fossi un robot?|fr-modifie
+popculture-004|Quel film d’animation plaît autant aux adultes qu’aux enfants ?|Quel film d’animation t’a fait pleurer ?|Quale film d’animazione piace agli adulti quanto ai bambini?|Quale film d’animazione ti ha fatto piangere?|inchange
+popculture-008|Quelle série a la meilleure fin ?|Quelle série aurait dû s’arrêter plus tôt ?|Quale serie ha il finale migliore?|Quale serie avrebbe dovuto finire prima?|inchange
+popculture-012|Quel personnage de jeu vidéo tout le monde connaît ?|Quel personnage de jeu vidéo mériterait son propre film ?|Quale personaggio dei videogiochi conoscono tutti?|Quale personaggio dei videogiochi meriterebbe un film tutto suo?|inchange
+popculture-017|Quel tube de l’été restera dans les mémoires ?|Quel tube de l’été t’a le plus agacé ?|Quale tormentone estivo resterà nella memoria?|Quale tormentone estivo ti ha dato più fastidio?|inchange
+popculture-110|Quel jour sort l’épisode que tu attends le plus ?|Quel jour de la semaine réserves-tu à ta série préférée ?|In che giorno esce l’episodio che aspetti di più?|Quale giorno della settimana dedichi alla tua serie preferita?|inchange
+popculture-114|Quelle série regardes-tu en fond pendant que tu fais autre chose ?|Quelle série exige toute ton attention ?|Quale serie tieni in sottofondo mentre fai altro?|Quale serie richiede tutta la tua attenzione?|inchange
+popculture-128|Qui remercierais-tu en premier dans ton discours de remerciement à ton mariage ?|Qui oublierais-tu forcément de remercier dans ton discours à ton mariage ?|Chi ringrazieresti per primo nel tuo discorso di ringraziamento?|Chi ti dimenticheresti sicuramente di ringraziare nel tuo discorso?|fr-modifie
+popculture-240|Quel film d’animation regardes-tu sans enfants ?|Quel film d’animation regardes-tu avec des enfants ?|Quale film d’animazione guardi senza bambini?|Quale film d’animazione guardi con i bambini?|inchange
+nostalgie-022|Combien coûtait une baguette quand tu étais petit ?|Combien coûtait un paquet de bonbons quand tu étais petit ?|Quanto costava una pagnotta di pane quando eri piccolo?|Quanto costava un pacchetto di caramelle quando eri piccolo?|inchange
+nostalgie-026|Que faisais-tu le mercredi après-midi ?|Quelle activité extra-scolaire as-tu abandonnée ?|Cosa facevi il sabato pomeriggio da bambino?|Quale attività extrascolastica hai abbandonato?|inchange
+nostalgie-029|Quel moment de l’année attendais-tu le plus enfant ?|Quel moment de l’année redoutais-tu enfant ?|Quale momento dell'anno aspettavi di più da bambino?|Quale momento dell'anno temevi da bambino?|inchange
+nostalgie-049|À quel âge as-tu arrêté de regarder les dessins animés ?|À quel âge as-tu eu le droit de veiller pour un film ?|A che età hai smesso di guardare i cartoni animati?|A che età hai potuto stare sveglio per vedere un film?|inchange
+nostalgie-083|Quelles céréales mangeais-tu le matin enfant ?|Quelles céréales mangeais-tu directement dans la boîte ?|Quali cereali mangiavi la mattina da bambino?|Quali cereali mangiavi direttamente dalla scatola?|inchange
+nostalgie-084|Quel gâteau sec trempais-tu dans ton lait ?|Quel gâteau sec mangeais-tu en cachette dans le placard ?|Quale biscotto inzuppavi nel latte?|Quale biscotto mangiavi di nascosto dalla dispensa?|inchange
+nostalgie-087|Quel bonbon collait aux dents ?|Quel bonbon piquait la langue ?|Quale caramella si attaccava ai denti?|Quale caramella pizzicava la lingua?|inchange
+nostalgie-090|Combien d’argent de poche avais-tu par semaine ?|Combien dépensais-tu en bonbons par semaine ?|Quanta paghetta ricevevi a settimana?|Quanto spendevi in caramelle a settimana?|inchange
+nostalgie-175|Que faisait-on en famille le dimanche après-midi ?|Que faisait-on en famille les soirs d’été ?|Cosa si faceva in famiglia la domenica pomeriggio?|Cosa si faceva in famiglia le sere d'estate?|inchange
+nostalgie-181|Quel gâteau faisait toujours la même personne de ta famille ?|Quel gâteau achetait-on toujours chez le même pâtissier ?|Quale dolce faceva sempre la stessa persona della tua famiglia?|Quale dolce si comprava sempre nella stessa pasticceria?|inchange
+nostalgie-225|Combien coûtait une place de cinéma quand tu étais ado ?|Combien coûtait un CD neuf quand tu étais ado ?|Quanto costava un biglietto del cinema quando eri ragazzo?|Quanto costava un CD nuovo quando eri ragazzo?|inchange
+nostalgie-226|Combien coûtait une glace à la plage quand tu étais petit ?|Combien coûtait un tour de manège quand tu étais petit ?|Quanto costava un gelato in spiaggia quando eri piccolo?|Quanto costava un giro di giostra quando eri piccolo?|inchange
+nostalgie-227|Combien coûtait ton magazine préféré enfant ?|Combien coûtait une pochette d’images à coller enfant ?|Quanto costava il tuo giornalino preferito da bambino?|Quanto costava una bustina di figurine da bambino?|inchange
+nostalgie-228|Combien coûtait un menu au fast-food quand tu étais ado ?|Combien coûtait une pizza à partager quand tu étais ado ?|Quanto costava un menu al fast food quando eri ragazzo?|Quanto costava una pizza in pizzeria quando eri ragazzo?|inchange
+nostalgie-229|Combien coûtait une heure de cybercafé ?|Combien coûtait la location d’une cassette vidéo ?|Quanto costava un'ora all'internet point?|Quanto costava noleggiare una videocassetta?|inchange
+nostalgie-230|Combien coûtait un ticket de bus quand tu étais ado ?|Combien coûtait un timbre quand tu étais ado ?|Quanto costava un biglietto dell'autobus quando eri ragazzo?|Quanto costava un francobollo quando eri ragazzo?|inchange
+nostalgie-231|Combien coûtait un croissant quand tu étais petit ?|Combien coûtait une sucette à la boulangerie quand tu étais petit ?|Quanto costava un cornetto al bar quando eri piccolo?|Quanto costava un lecca-lecca dal tabaccaio quando eri piccolo?|inchange
+nostalgie-232|Combien coûtait une console de jeux quand tu étais petit ?|Combien coûtait un vélo neuf quand tu étais petit ?|Quanto costava una console quando eri piccolo?|Quanto costava una bici nuova quando eri piccolo?|inchange
+nostalgie-277|Quelle console avais-tu enfant ?|Sur quelle console as-tu joué pour la dernière fois ?|Quale console avevi da bambino?|Quale console aveva il tuo migliore amico da bambino?|fr-modifie
+reflexe-001|Cite un objet toujours présent dans une cuisine.|Cite un objet toujours présent dans une salle de bain.|Di' un oggetto che c'è sempre in cucina.|Di' un oggetto che c'è sempre in bagno.|inchange
+reflexe-002|Cite une pièce de la maison.|Cite un endroit où l’on range des affaires.|Di' una stanza della casa.|Di' un posto dove si mettono via le cose.|inchange
+reflexe-003|Cite un objet électrique.|Cite un objet qu’on branche le soir.|Di' un oggetto elettrico.|Di' un oggetto che si mette in carica la sera.|inchange
+reflexe-004|Cite un objet en bois.|Cite un objet qu’on trouve dans un chalet.|Di' un oggetto di legno.|Di' un oggetto che trovi in una baita.|inchange
+reflexe-005|Cite un outil de jardinage.|Cite un outil qu’on trouve dans un garage.|Di' un attrezzo da giardino.|Di' un attrezzo che trovi in garage.|inchange
+reflexe-006|Cite un animal de la ferme.|Cite un animal du zoo.|Di' un animale della fattoria.|Di' un animale dello zoo.|inchange
+reflexe-007|Cite un animal qui vole.|Cite un animal qui vit dans les arbres.|Di' un animale che vola.|Di' un animale che vive sugli alberi.|inchange
+reflexe-008|Cite un animal marin.|Cite un animal qu’on voit à l’aquarium.|Di' un animale marino.|Di' un animale che vedi all'acquario.|inchange
+reflexe-009|Cite un animal de compagnie.|Cite un petit animal.|Di' un animale domestico.|Di' un animale piccolo.|inchange
+reflexe-010|Cite un prénom de chien.|Cite un prénom de chat.|Di' un nome da cane.|Di' un nome da gatto.|inchange
+reflexe-011|Cite un fruit rouge.|Cite un fruit d’été.|Di' un frutto rosso.|Di' un frutto estivo.|inchange
+reflexe-012|Cite un légume vert.|Cite un légume qu’on met dans la soupe.|Di' una verdura verde.|Di' una verdura che si mette nella minestra.|inchange
+reflexe-013|Cite un plat qu’on mange avec les doigts.|Cite un plat qu’on partage à plusieurs.|Di' un piatto che si mangia con le mani.|Di' un piatto che si divide in tanti.|inchange
+reflexe-014|Cite une boisson chaude.|Cite une boisson du petit-déjeuner.|Di' una bevanda calda.|Di' una bevanda da colazione.|inchange
+reflexe-015|Cite un fromage.|Cite un fromage qui fond bien.|Di' un formaggio.|Di' un formaggio che si scioglie bene.|inchange
+reflexe-016|Cite un dessert.|Cite un dessert de restaurant.|Di' un dolce.|Di' un dolce da ristorante.|inchange
+reflexe-017|Cite un ingrédient de pizza.|Cite un ingrédient de salade.|Di' un ingrediente della pizza.|Di' un ingrediente dell'insalata.|inchange
+reflexe-018|Cite un pays où il fait chaud.|Cite un pays où tu aimerais aller.|Di' un paese dove fa caldo.|Di' un paese dove ti piacerebbe andare.|inchange
+reflexe-019|Cite un pays d’Europe.|Cite un pays voisin de la France.|Di' un paese europeo.|Di' un paese confinante con l'Italia.|inchange
+reflexe-020|Cite une ville au bord de la mer.|Cite une ville avec un grand port.|Di' una città sul mare.|Di' una città con un grande porto.|inchange
+reflexe-021|Cite un endroit où l’on chuchote.|Cite un endroit où l’on attend longtemps.|Di' un posto dove si parla sottovoce.|Di' un posto dove si aspetta tanto.|inchange
+reflexe-022|Cite une couleur de voiture.|Cite une couleur de vélo.|Di' un colore da macchina.|Di' un colore da bicicletta.|inchange
+reflexe-023|Cite une couleur de drapeau.|Cite une couleur de l’arc-en-ciel.|Di' un colore di una bandiera.|Di' un colore dell'arcobaleno.|inchange
+reflexe-024|Cite quelque chose de rond.|Cite quelque chose qui roule.|Di' qualcosa di rotondo.|Di' qualcosa che rotola.|inchange
+reflexe-025|Cite quelque chose de froid.|Cite quelque chose de blanc.|Di' qualcosa di freddo.|Di' qualcosa di bianco.|inchange
+reflexe-026|Cite un métier en uniforme.|Cite un métier où l’on travaille la nuit.|Di' un mestiere con la divisa.|Di' un mestiere in cui si lavora di notte.|inchange
+reflexe-027|Cite un métier qui sauve des vies.|Cite un métier qu’on admire.|Di' un mestiere che salva vite.|Di' un mestiere che ammiri.|inchange
+reflexe-028|Cite un sport avec un ballon.|Cite un sport qu’on regarde à la télé.|Di' uno sport con la palla.|Di' uno sport che si guarda in TV.|inchange
+reflexe-029|Cite un loisir qu’on fait seul.|Cite un loisir qu’on fait le dimanche.|Di' un passatempo da fare da soli.|Di' un passatempo da fare la domenica.|inchange
+reflexe-030|Cite un jeu de cartes.|Cite un jeu qu’on fait en famille.|Di' un gioco di carte.|Di' un gioco da fare in famiglia.|inchange
+reflexe-031|Cite un instrument de musique.|Cite un instrument qu’on entend dans une fanfare.|Di' uno strumento musicale.|Di' uno strumento che senti in una banda.|inchange
+reflexe-032|Cite un super-héros.|Cite un héros de film.|Di' un supereroe.|Di' un eroe del cinema.|inchange
+reflexe-033|Cite un objet qu’on trouve dans un sac à main.|Cite un objet qu’on trouve dans une trousse.|Di' un oggetto che trovi in una borsa.|Di' un oggetto che trovi in un astuccio.|inchange
+reflexe-034|Cite un objet de bureau.|Cite un objet qu’on trouve dans une salle de classe.|Di' un oggetto da ufficio.|Di' un oggetto che trovi in un'aula.|inchange
+reflexe-035|Cite un objet qui fait du bruit.|Cite un objet qui sonne.|Di' un oggetto che fa rumore.|Di' un oggetto che suona.|inchange
+reflexe-036|Cite un objet qu’on oublie souvent.|Cite un objet qu’on perd souvent.|Di' un oggetto che si dimentica spesso.|Di' un oggetto che si perde spesso.|inchange
+reflexe-037|Cite quelque chose qu’on met dans une valise.|Cite quelque chose qu’on met dans un sac de sport.|Di' qualcosa che metti in valigia.|Di' qualcosa che metti nella borsa della palestra.|inchange
+reflexe-038|Cite un moyen de transport.|Cite un moyen de transport qu’on prend en vacances.|Di' un mezzo di trasporto.|Di' un mezzo di trasporto che prendi in vacanza.|inchange
+reflexe-039|Cite un vêtement d’hiver.|Cite un vêtement qu’on porte à la montagne.|Di' un capo invernale.|Di' un capo che si porta in montagna.|inchange
+reflexe-040|Cite une marque de voiture allemande.|Cite une marque de voiture de luxe.|Di' una marca di auto tedesca.|Di' una marca di auto di lusso.|inchange
+reflexe-041|Cite un objet qu’on trouve sur une table de chevet.|Cite un objet qu’on trouve sur un bureau.|Di' un oggetto che trovi sul comodino.|Di' un oggetto che trovi su una scrivania.|inchange
+reflexe-042|Cite un meuble du salon.|Cite un meuble de la chambre.|Di' un mobile del soggiorno.|Di' un mobile della camera da letto.|inchange
+reflexe-043|Cite quelque chose qu’on accroche au mur.|Cite quelque chose qu’on pose sur une étagère.|Di' qualcosa che si appende al muro.|Di' qualcosa che si mette su una mensola.|inchange
+reflexe-044|Cite un objet qu’on range dans un tiroir.|Cite un objet qu’on range dans une boîte à chaussures.|Di' un oggetto che si tiene in un cassetto.|Di' un oggetto che si tiene in una scatola da scarpe.|inchange
+reflexe-045|Cite un appareil qui chauffe.|Cite un appareil qui fait du bruit dans la maison.|Di' un apparecchio che scalda.|Di' un apparecchio che fa rumore in casa.|inchange
+reflexe-046|Cite un objet qu’on trouve dans une cave.|Cite un objet qu’on trouve dans un grenier.|Di' un oggetto che trovi in cantina.|Di' un oggetto che trovi in soffitta.|inchange
+reflexe-047|Cite un produit ménager.|Cite quelque chose qu’on achète au supermarché.|Di' un prodotto per le pulizie.|Di' qualcosa che compri al supermercato.|inchange
+reflexe-048|Cite un objet qui sert à nettoyer.|Cite un objet qui sert à ranger.|Di' un oggetto che serve a pulire.|Di' un oggetto che serve a mettere in ordine.|inchange
+reflexe-049|Cite un meuble qui a quatre pieds.|Cite un objet qui se déplace sur roulettes.|Di' un mobile con quattro gambe.|Di' un oggetto che si sposta sulle rotelle.|inchange
+reflexe-050|Cite un objet qui a une poignée.|Cite un objet qui a un couvercle.|Di' un oggetto che ha un manico.|Di' un oggetto che ha un coperchio.|inchange
+reflexe-051|Cite un appareil qu’on allume chaque matin.|Cite quelque chose qu’on ouvre en se levant.|Di' un apparecchio che accendi ogni mattina.|Di' qualcosa che apri appena ti alzi.|inchange
+reflexe-052|Cite un objet qu’on trouve dans l’entrée.|Cite un objet qu’on prend avant de sortir.|Di' un oggetto che trovi all'ingresso.|Di' un oggetto che prendi prima di uscire.|inchange
+reflexe-053|Cite un ustensile de cuisine.|Cite un ustensile pour faire un gâteau.|Di' un utensile da cucina.|Di' un utensile per fare una torta.|inchange
+reflexe-054|Cite un appareil électroménager.|Cite un appareil qui tourne.|Di' un elettrodomestico.|Di' un apparecchio che gira.|inchange
+reflexe-055|Cite une épice.|Cite un ingrédient qu’on met dans une sauce.|Di' una spezia.|Di' un ingrediente che si mette in un sugo.|inchange
+reflexe-056|Cite quelque chose qu’on fait frire.|Cite quelque chose qu’on fait griller.|Di' qualcosa che si frigge.|Di' qualcosa che si fa alla griglia.|inchange
+reflexe-057|Cite un aliment qu’on mange cru.|Cite un aliment qu’on mange cuit.|Di' un alimento che si mangia crudo.|Di' un alimento che si mangia cotto.|inchange
+reflexe-058|Cite un aliment qu’on met au four.|Cite un aliment qu’on met au congélateur.|Di' un alimento che si mette in forno.|Di' un alimento che si mette in freezer.|inchange
+reflexe-059|Cite une sorte de pâtes.|Cite un plat italien.|Di' un tipo di pasta.|Di' un piatto italiano.|inchange
+reflexe-060|Cite un légume qui pousse sous terre.|Cite un légume qu’on épluche.|Di' una verdura che cresce sottoterra.|Di' una verdura che si sbuccia.|inchange
+reflexe-061|Cite une viande.|Cite quelque chose qu’on met au barbecue.|Di' un tipo di carne.|Di' qualcosa che si mette sul barbecue.|inchange
+reflexe-062|Cite un poisson.|Cite quelque chose qu’on pêche.|Di' un pesce.|Di' qualcosa che si pesca.|inchange
+reflexe-063|Cite quelque chose qu’on tartine.|Cite quelque chose qu’on met sur une crêpe.|Di' qualcosa che si spalma.|Di' qualcosa che si mette su una crêpe.|inchange
+reflexe-064|Cite un aliment jaune.|Cite un aliment sucré.|Di' un alimento giallo.|Di' un alimento dolce.|inchange
+reflexe-065|Cite un fruit exotique.|Cite un fruit qui a un noyau.|Di' un frutto esotico.|Di' un frutto con il nocciolo.|inchange
+reflexe-066|Cite un fruit qu’on épluche.|Cite un fruit qu’on presse.|Di' un frutto che si sbuccia.|Di' un frutto che si spreme.|inchange
+reflexe-067|Cite une sauce.|Cite quelque chose qu’on met dans un sandwich.|Di' una salsa.|Di' qualcosa che si mette in un panino.|inchange
+reflexe-068|Cite un bonbon.|Cite une friandise de fête foraine.|Di' una caramella.|Di' un dolcetto da luna park.|inchange
+reflexe-069|Cite un plat d’hiver.|Cite un plat qu’on mange à la montagne.|Di' un piatto invernale.|Di' un piatto che si mangia in montagna.|inchange
+reflexe-070|Cite une boisson fraîche.|Cite une boisson qu’on boit avec une paille.|Di' una bibita fresca.|Di' una bibita che si beve con la cannuccia.|inchange
+reflexe-071|Cite un parfum de glace.|Cite un parfum de yaourt.|Di' un gusto di gelato.|Di' un gusto di yogurt.|inchange
+reflexe-072|Cite un aliment qu’on achète à la boulangerie.|Cite un aliment qu’on achète au marché.|Di' qualcosa che compri dal fornaio.|Di' qualcosa che compri al mercato.|inchange
+reflexe-073|Cite un aliment qu’on garde longtemps.|Cite un aliment qu’on achète en conserve.|Di' un alimento che si conserva a lungo.|Di' un alimento che si compra in scatola.|inchange
+reflexe-074|Cite un paysage.|Cite un endroit où l’on fait une randonnée.|Di' un paesaggio.|Di' un posto dove si fa un'escursione.|inchange
+reflexe-075|Cite un arbre.|Cite un arbre fruitier.|Di' un albero.|Di' un albero da frutto.|inchange
+reflexe-076|Cite une fleur.|Cite une plante d’intérieur.|Di' un fiore.|Di' una pianta da appartamento.|inchange
+reflexe-077|Cite quelque chose qu’on trouve sur une plage.|Cite quelque chose qu’on trouve au bord d’une rivière.|Di' qualcosa che trovi in spiaggia.|Di' qualcosa che trovi sulla riva di un fiume.|inchange
+reflexe-078|Cite quelque chose qu’on ramasse en forêt.|Cite quelque chose qu’on cueille en été.|Di' qualcosa che si raccoglie nel bosco.|Di' qualcosa che si raccoglie d'estate.|inchange
+reflexe-079|Cite un endroit où l’on se baigne.|Cite un endroit où l’on pêche.|Di' un posto dove si fa il bagno.|Di' un posto dove si va a pescare.|inchange
+reflexe-080|Cite quelque chose qui tombe du ciel.|Cite quelque chose qui tombe d’un arbre.|Di' qualcosa che cade dal cielo.|Di' qualcosa che cade da un albero.|inchange
+reflexe-081|Cite quelque chose qu’on voit dans le ciel la nuit.|Cite quelque chose qui brille.|Di' qualcosa che vedi in cielo di notte.|Di' qualcosa che brilla.|inchange
+reflexe-082|Cite un phénomène météo.|Cite quelque chose qui gâche un pique-nique.|Di' un fenomeno meteorologico.|Di' qualcosa che rovina un picnic.|inchange
+reflexe-083|Cite un objet qu’on prend quand il pleut.|Cite un objet qu’on prend quand il fait froid.|Di' un oggetto che prendi quando piove.|Di' un oggetto che prendi quando fa freddo.|inchange
+reflexe-084|Cite une activité d’hiver.|Cite une activité qu’on fait à l’intérieur.|Di' un'attività invernale.|Di' un'attività da fare al chiuso.|inchange
+reflexe-085|Cite un mot qui fait penser à l’automne.|Cite un mot qui fait penser à la rentrée.|Di' una parola che fa pensare all'autunno.|Di' una parola che fa pensare al ritorno a scuola.|inchange
+reflexe-086|Cite quelque chose qu’on voit au printemps.|Cite quelque chose qu’on voit dans un jardin.|Di' qualcosa che vedi in primavera.|Di' qualcosa che vedi in un giardino.|inchange
+reflexe-087|Cite un animal de la savane.|Cite un animal de la jungle.|Di' un animale della savana.|Di' un animale della giungla.|inchange
+reflexe-088|Cite un animal qui nage.|Cite un animal qui vit près de l’eau.|Di' un animale che nuota.|Di' un animale che vive vicino all'acqua.|inchange
+reflexe-089|Cite un animal de la forêt.|Cite un animal qu’on voit la nuit.|Di' un animale del bosco.|Di' un animale che vedi di notte.|inchange
+reflexe-090|Cite un oiseau.|Cite un animal qui pond des œufs.|Di' un uccello.|Di' un animale che depone le uova.|inchange
+reflexe-091|Cite un animal avec des rayures.|Cite un animal avec des taches.|Di' un animale a strisce.|Di' un animale a macchie.|inchange
+reflexe-092|Cite un animal qui saute.|Cite un animal qui grimpe.|Di' un animale che salta.|Di' un animale che si arrampica.|inchange
+reflexe-093|Cite un animal très lent.|Cite un animal qui dort beaucoup.|Di' un animale lentissimo.|Di' un animale che dorme tanto.|inchange
+reflexe-094|Cite une bête protégée par une carapace.|Cite une bête couverte de piquants.|Di' una bestia protetta da un guscio.|Di' una bestia coperta di aculei.|inchange
+reflexe-095|Cite un animal qui fait peur.|Cite un animal qui pique.|Di' un animale che fa paura.|Di' un animale che punge.|inchange
+reflexe-096|Cite un animal qui se déplace en troupeau.|Cite un animal qui part loin chaque année.|Di' un animale che si sposta in branco.|Di' un animale che migra lontano ogni anno.|inchange
+reflexe-097|Cite un animal qu’on peut monter.|Cite un animal qui travaille.|Di' un animale che si può cavalcare.|Di' un animale che lavora.|inchange
+reflexe-098|Cite un cri d’animal.|Cite un bruit de la ferme.|Di' un verso di animale.|Di' un rumore della fattoria.|inchange
+reflexe-099|Cite un animal du désert.|Cite un animal qui supporte la chaleur.|Di' un animale del deserto.|Di' un animale che sopporta il caldo.|inchange
+reflexe-100|Cite un animal de la banquise.|Cite un animal blanc.|Di' un animale dei ghiacci polari.|Di' un animale bianco.|inchange
+reflexe-101|Cite un animal qui a de longues oreilles.|Cite un animal qui a une longue queue.|Di' un animale con le orecchie lunghe.|Di' un animale con la coda lunga.|inchange
+reflexe-102|Cite un animal d’Australie.|Cite un animal qui a une poche.|Di' un animale australiano.|Di' un animale con il marsupio.|inchange
+reflexe-103|Cite un animal qui vit dans une mare.|Cite un animal vert.|Di' un animale che vive in uno stagno.|Di' un animale verde.|inchange
+reflexe-104|Cite un métier de l’hôpital.|Cite un métier où l’on porte une blouse.|Di' un mestiere dell'ospedale.|Di' un mestiere in cui si porta il camice.|inchange
+reflexe-105|Cite un métier manuel.|Cite un métier du bâtiment.|Di' un mestiere manuale.|Di' un mestiere dell'edilizia.|inchange
+reflexe-106|Cite un métier de l’école.|Cite un métier où l’on parle beaucoup.|Di' un mestiere della scuola.|Di' un mestiere in cui si parla tanto.|inchange
+reflexe-107|Cite un métier où l’on travaille dehors.|Cite un métier où l’on se lève tôt.|Di' un mestiere che si fa all'aperto.|Di' un mestiere in cui ci si alza presto.|inchange
+reflexe-108|Cite un métier de la restauration.|Cite un métier où l’on reste debout.|Di' un mestiere della ristorazione.|Di' un mestiere in cui si sta in piedi.|inchange
+reflexe-109|Cite un métier qui utilise un véhicule.|Cite un métier où l’on voyage.|Di' un mestiere che usa un veicolo.|Di' un mestiere in cui si viaggia.|inchange
+reflexe-110|Cite un métier avec un outil tranchant.|Cite un métier où l’on travaille avec ses mains.|Di' un mestiere con un attrezzo tagliente.|Di' un mestiere in cui si lavora con le mani.|inchange
+reflexe-111|Cite un métier d’artiste.|Cite un métier qu’on fait sur scène.|Di' un mestiere artistico.|Di' un mestiere che si fa sul palco.|inchange
+reflexe-112|Cite un métier qu’on rêve de faire enfant.|Cite un métier qu’on voit dans les films.|Di' un mestiere che sogni di fare da bambino.|Di' un mestiere che si vede nei film.|inchange
+reflexe-113|Cite un métier lié à la mer.|Cite un métier qu’on exerce sur un bateau.|Di' un mestiere legato al mare.|Di' un mestiere che si fa su una nave.|inchange
+reflexe-114|Cite un métier où l’on répare.|Cite un métier où l’on fabrique.|Di' un mestiere in cui si ripara.|Di' un mestiere in cui si costruisce.|inchange
+reflexe-115|Cite un commerçant.|Cite un métier qu’on croise dans la rue.|Di' un negoziante.|Di' un mestiere che incroci per strada.|inchange
+reflexe-116|Cite un métier où l’on porte un casque.|Cite un métier où l’on porte des gants.|Di' un mestiere in cui si porta il casco.|Di' un mestiere in cui si portano i guanti.|inchange
+reflexe-117|Cite un métier de bureau.|Cite un métier où l’on passe la journée devant un écran.|Di' un mestiere d'ufficio.|Di' un mestiere in cui si passa la giornata al computer.|inchange
+reflexe-118|Cite un métier qui travaille avec les animaux.|Cite un métier qu’on exerce à la campagne.|Di' un mestiere a contatto con gli animali.|Di' un mestiere che si fa in campagna.|inchange
+reflexe-119|Cite un sport d’équipe.|Cite un sport qu’on joue sur un terrain.|Di' uno sport di squadra.|Di' uno sport che si gioca su un campo.|inchange
+reflexe-120|Cite un sport qu’on fait seul.|Cite un sport des Jeux olympiques.|Di' uno sport che si fa da soli.|Di' uno sport delle Olimpiadi.|inchange
+reflexe-121|Cite un sport nautique.|Cite un sport qu’on pratique en été.|Di' uno sport acquatico.|Di' uno sport che si fa d'estate.|inchange
+reflexe-122|Cite un sport de raquette.|Cite un sport avec un filet.|Di' uno sport con la racchetta.|Di' uno sport con la rete.|inchange
+reflexe-123|Cite un art martial.|Cite un sport où l’on porte un kimono.|Di' un'arte marziale.|Di' uno sport in cui si indossa il kimono.|inchange
+reflexe-124|Cite un sport de glisse.|Cite un sport qu’on fait à la montagne.|Di' uno sport di scivolamento.|Di' uno sport che si fa in montagna.|inchange
+reflexe-125|Cite un sport où l’on court.|Cite un sport où l’on transpire beaucoup.|Di' uno sport in cui si corre.|Di' uno sport in cui si suda tanto.|inchange
+reflexe-126|Cite un sport qu’on pratique pieds nus.|Cite un sport qu’on pratique en salle.|Di' uno sport che si fa a piedi nudi.|Di' uno sport che si fa al coperto.|inchange
+reflexe-127|Cite un objet de sport.|Cite un objet qu’on trouve dans un vestiaire.|Di' un oggetto sportivo.|Di' un oggetto che trovi in uno spogliatoio.|inchange
+reflexe-128|Cite un lieu où l’on fait du sport.|Cite un endroit où il y a des gradins.|Di' un posto dove si fa sport.|Di' un posto dove ci sono le tribune.|inchange
+reflexe-129|Cite un sport où l’on utilise un véhicule.|Cite un sport où l’on va très vite.|Di' uno sport in cui si usa un veicolo.|Di' uno sport in cui si va velocissimi.|inchange
+reflexe-130|Cite un sport qu’on peut pratiquer toute sa vie.|Cite un sport qu’on pratique sans équipement.|Di' uno sport che puoi fare per tutta la vita.|Di' uno sport che si fa senza attrezzatura.|inchange
+reflexe-131|Cite un mot qu’on entend pendant un match.|Cite un mot que crie un entraîneur.|Di' una parola che senti durante una partita.|Di' una parola che urla un allenatore.|inchange
+reflexe-132|Cite un véhicule à deux roues.|Cite un véhicule qu’on gare sur un trottoir.|Di' un veicolo a due ruote.|Di' un veicolo che si parcheggia sul marciapiede.|inchange
+reflexe-133|Cite un véhicule qu’on voit en ville.|Cite une façon d’aller au travail.|Di' un veicolo che vedi in città.|Di' un modo per andare al lavoro.|inchange
+reflexe-134|Cite un véhicule qui transporte beaucoup de gens.|Cite un véhicule qui fait un long trajet.|Di' un veicolo che trasporta tanta gente.|Di' un veicolo che fa un lungo viaggio.|inchange
+reflexe-135|Cite quelque chose qui vole.|Cite quelque chose qui flotte.|Di' qualcosa che vola.|Di' qualcosa che galleggia.|inchange
+reflexe-136|Cite un véhicule d’urgence.|Cite un gros véhicule.|Di' un mezzo di soccorso.|Di' un veicolo enorme.|inchange
+reflexe-137|Cite quelque chose qui roule sur des rails.|Cite un transport qu’on prend sous terre.|Di' qualcosa che viaggia sui binari.|Di' un mezzo che si prende sottoterra.|inchange
+reflexe-138|Cite un véhicule qui va sur l’eau.|Cite un véhicule qu’on loue en vacances.|Di' un mezzo che va sull'acqua.|Di' un mezzo che si noleggia in vacanza.|inchange
+reflexe-139|Cite un endroit où l’on attend un transport.|Cite un endroit où l’on achète un billet.|Di' un posto dove si aspetta un mezzo.|Di' un posto dove si compra un biglietto.|inchange
+reflexe-140|Cite une partie d’une voiture.|Cite une partie d’un vélo.|Di' una parte di una macchina.|Di' una parte di una bicicletta.|inchange
+reflexe-141|Cite un objet qu’on trouve dans une voiture.|Cite un objet qu’on garde dans la boîte à gants.|Di' un oggetto che trovi in macchina.|Di' un oggetto che tieni nel cruscotto.|inchange
+reflexe-142|Cite un véhicule de chantier.|Cite un véhicule de la ferme.|Di' un mezzo da cantiere.|Di' un mezzo da fattoria.|inchange
+reflexe-143|Cite un véhicule sans moteur.|Cite un véhicule pour enfants.|Di' un mezzo senza motore.|Di' un mezzo per bambini.|inchange
+reflexe-144|Cite une couleur claire.|Cite une couleur pastel.|Di' un colore chiaro.|Di' un colore pastello.|inchange
+reflexe-145|Cite une couleur foncée.|Cite une couleur qu’on porte en hiver.|Di' un colore scuro.|Di' un colore che si porta d'inverno.|inchange
+reflexe-146|Cite une couleur de fruit.|Cite une couleur de fleur.|Di' il colore di un frutto.|Di' il colore di un fiore.|inchange
+reflexe-147|Cite une couleur de la mer.|Cite une couleur du ciel.|Di' un colore del mare.|Di' un colore del cielo.|inchange
+reflexe-148|Cite une couleur vive.|Cite une couleur de feu d’artifice.|Di' un colore acceso.|Di' un colore dei fuochi d'artificio.|inchange
+reflexe-149|Cite une couleur d’automne.|Cite une couleur de la terre.|Di' un colore autunnale.|Di' un colore della terra.|inchange
+reflexe-150|Cite une nuance de bleu.|Cite une nuance de vert.|Di' una sfumatura di blu.|Di' una sfumatura di verde.|inchange
+reflexe-151|Cite une couleur de feu tricolore.|Cite une couleur de carte à jouer.|Di' un colore del semaforo.|Di' un colore delle carte da gioco.|inchange
+reflexe-152|Cite une forme géométrique.|Cite une forme de gâteau.|Di' una forma geometrica.|Di' una forma di torta.|inchange
+reflexe-153|Cite un objet de forme carrée.|Cite un objet tout plat.|Di' un oggetto quadrato.|Di' un oggetto piattissimo.|inchange
+reflexe-154|Cite un objet pointu.|Cite un objet qui coupe.|Di' un oggetto appuntito.|Di' un oggetto che taglia.|inchange
+reflexe-155|Cite un objet en forme de cercle.|Cite un objet qui a un trou au milieu.|Di' un oggetto a forma di cerchio.|Di' un oggetto con un buco in mezzo.|inchange
+reflexe-156|Cite un matériau de construction.|Cite une matière qui résiste au feu.|Di' un materiale da costruzione.|Di' un materiale che resiste al fuoco.|inchange
+reflexe-157|Cite un tissu.|Cite une matière de pull.|Di' un tessuto.|Di' un materiale per maglioni.|inchange
+reflexe-158|Cite un objet en verre.|Cite un objet fragile.|Di' un oggetto di vetro.|Di' un oggetto fragile.|inchange
+reflexe-159|Cite un objet en métal.|Cite un objet qui rouille.|Di' un oggetto di metallo.|Di' un oggetto che arrugginisce.|inchange
+reflexe-160|Cite un objet en plastique.|Cite un objet qu’on jette souvent.|Di' un oggetto di plastica.|Di' un oggetto che si butta spesso.|inchange
+reflexe-161|Cite un objet en papier.|Cite un objet qu’on recycle.|Di' un oggetto di carta.|Di' un oggetto che si ricicla.|inchange
+reflexe-162|Cite un objet en cuir.|Cite un objet en tissu.|Di' un oggetto di pelle.|Di' un oggetto di stoffa.|inchange
+reflexe-163|Cite une matière douce.|Cite une matière chaude.|Di' un materiale morbido.|Di' un materiale caldo.|inchange
+reflexe-164|Cite une matière qui brille.|Cite une matière précieuse.|Di' un materiale che luccica.|Di' un materiale prezioso.|inchange
+reflexe-165|Cite un objet qui fonctionne avec des piles.|Cite un objet qui a un écran.|Di' un oggetto che va a pile.|Di' un oggetto che ha uno schermo.|inchange
+reflexe-166|Cite un objet qu’on recharge.|Cite un objet qu’on emporte partout.|Di' un oggetto che si ricarica.|Di' un oggetto che porti sempre con te.|inchange
+reflexe-167|Cite un objet qui sert à écrire.|Cite un objet qu’on trouve dans un cartable.|Di' un oggetto per scrivere.|Di' un oggetto che trovi in uno zaino di scuola.|inchange
+reflexe-168|Cite quelque chose pour attacher des feuilles.|Cite quelque chose pour fermer un sac.|Di' qualcosa per tenere insieme dei fogli.|Di' qualcosa per chiudere un sacchetto.|inchange
+reflexe-169|Cite un objet qui a des touches.|Cite un objet avec des boutons.|Di' un oggetto con dei tasti.|Di' un oggetto con dei pulsanti.|inchange
+reflexe-170|Cite un objet qu’on tient à deux mains.|Cite un objet lourd.|Di' un oggetto che si tiene con due mani.|Di' un oggetto pesante.|inchange
+reflexe-171|Cite un objet qu’on prête facilement.|Cite un objet qu’on ne rend jamais.|Di' un oggetto che presti volentieri.|Di' un oggetto che non viene mai restituito.|inchange
+reflexe-172|Cite un objet qu’on utilise une fois par an.|Cite un objet qu’on sort à Noël.|Di' un oggetto che usi una volta all'anno.|Di' un oggetto che tiri fuori a Natale.|inchange
+reflexe-173|Cite un objet qui sent bon.|Cite un objet qu’on offre en cadeau.|Di' un oggetto che profuma.|Di' un oggetto che si regala.|inchange
+reflexe-174|Cite un objet qu’on trouve dans une chambre d’enfant.|Cite un jouet.|Di' un oggetto che trovi nella cameretta di un bambino.|Di' un giocattolo.|inchange
+reflexe-175|Cite un objet avec une lumière.|Cite un objet qui clignote.|Di' un oggetto con una luce.|Di' un oggetto che lampeggia.|inchange
+reflexe-176|Cite un pays d’Asie.|Cite un pays où l’on mange du riz.|Di' un paese asiatico.|Di' un paese dove si mangia riso.|inchange
+reflexe-177|Cite un pays d’Amérique du Sud.|Cite un pays où l’on parle espagnol.|Di' un paese del Sud America.|Di' un paese dove si parla spagnolo.|inchange
+reflexe-178|Cite un pays où l’on parle français.|Cite un pays d’Afrique.|Di' un paese dove si parla francese.|Di' un paese africano.|inchange
+reflexe-179|Cite un pays froid.|Cite un pays du Nord.|Di' un paese freddo.|Di' un paese del Nord.|inchange
+reflexe-180|Cite un pays connu pour sa cuisine.|Cite un pays touristique.|Di' un paese famoso per la sua cucina.|Di' un paese turistico.|inchange
+reflexe-181|Cite une île.|Cite un pays entouré d’eau.|Di' un'isola.|Di' un paese circondato dall'acqua.|inchange
+reflexe-182|Cite un grand pays.|Cite un pays très peuplé.|Di' un paese grande.|Di' un paese molto popolato.|inchange
+reflexe-183|Cite un pays avec des montagnes.|Cite un pays où l’on fait du ski.|Di' un paese con le montagne.|Di' un paese dove si scia.|inchange
+reflexe-184|Cite un pays avec un désert.|Cite un pays où il ne pleut presque pas.|Di' un paese con un deserto.|Di' un paese dove non piove quasi mai.|inchange
+reflexe-185|Cite un pays qui a gagné une Coupe du monde de foot.|Cite un pays fort au foot.|Di' un paese che ha vinto un Mondiale di calcio.|Di' un paese forte nel calcio.|inchange
+reflexe-186|Cite un pays dont le drapeau a du rouge.|Cite un pays dont le drapeau a une étoile.|Di' un paese con il rosso nella bandiera.|Di' un paese con una stella nella bandiera.|inchange
+reflexe-187|Cite une capitale européenne.|Cite une ville où l’on va en week-end.|Di' una capitale europea.|Di' una città dove si va nel weekend.|inchange
+reflexe-188|Cite une grande ville française.|Cite une ville avec un métro.|Di' una grande città italiana.|Di' una città con la metropolitana.|inchange
+reflexe-189|Cite une ville d’Italie.|Cite une ville avec beaucoup de monuments.|Di' una città spagnola.|Di' una città piena di monumenti.|inchange
+reflexe-190|Cite une ville des États-Unis.|Cite une ville qu’on voit dans les films.|Di' una città degli Stati Uniti.|Di' una città che si vede nei film.|inchange
+reflexe-191|Cite une ville du sud de la France.|Cite une ville où il fait beau.|Di' una città del Sud Italia.|Di' una città dove fa bel tempo.|inchange
+reflexe-192|Cite une ville avec un club de foot connu.|Cite une ville universitaire.|Di' una città con una squadra di calcio famosa.|Di' una città universitaria.|inchange
+reflexe-193|Cite une ville d’Asie.|Cite une ville avec des gratte-ciel.|Di' una città asiatica.|Di' una città con i grattacieli.|inchange
+reflexe-194|Cite une ville de montagne.|Cite une ville où l’on va en hiver.|Di' una località di montagna.|Di' una località dove si va d'inverno.|inchange
+reflexe-195|Cite un monument célèbre.|Cite un monument de Paris.|Di' un monumento famoso.|Di' un monumento di Roma.|inchange
+reflexe-196|Cite un vêtement d’été.|Cite un vêtement de plage.|Di' un capo estivo.|Di' un capo da spiaggia.|inchange
+reflexe-197|Cite un accessoire.|Cite quelque chose qu’on porte sur la tête.|Di' un accessorio.|Di' qualcosa che si porta in testa.|inchange
+reflexe-198|Cite un vêtement de sport.|Cite un vêtement confortable.|Di' un capo sportivo.|Di' un capo comodo.|inchange
+reflexe-199|Cite un type de chaussure.|Cite quelque chose qu’on met aux pieds.|Di' un tipo di scarpa.|Di' qualcosa che si mette ai piedi.|inchange
+reflexe-200|Cite un vêtement chic.|Cite un vêtement qu’on met pour un entretien.|Di' un capo elegante.|Di' un capo da mettere per un colloquio.|inchange
+reflexe-201|Cite un vêtement qu’on porte la nuit.|Cite un vêtement qu’on porte à la maison.|Di' un capo che si porta di notte.|Di' un capo che si porta in casa.|inchange
+reflexe-202|Cite un vêtement à manches.|Cite un vêtement à boutons.|Di' un capo con le maniche.|Di' un capo con i bottoni.|inchange
+reflexe-203|Cite un déguisement.|Cite un costume d’Halloween.|Di' un travestimento.|Di' un costume di Halloween.|inchange
+reflexe-204|Cite une partie d’un vêtement.|Cite quelque chose qu’on coud.|Di' una parte di un vestito.|Di' qualcosa che si cuce.|inchange
+reflexe-205|Cite un vêtement en laine.|Cite un vêtement qu’on tricote.|Di' un capo di lana.|Di' un capo fatto a maglia.|inchange
+reflexe-206|Cite un vêtement d’uniforme.|Cite un vêtement qu’on porte au travail.|Di' un capo da divisa.|Di' un capo che si porta al lavoro.|inchange
+reflexe-207|Cite une matière à l’école.|Cite une matière qui donne des devoirs.|Di' una materia scolastica.|Di' una materia che dà tanti compiti.|inchange
+reflexe-208|Cite une fourniture scolaire.|Cite un objet qu’on prête en classe.|Di' un oggetto di cancelleria per la scuola.|Di' un oggetto che si presta in classe.|inchange
+reflexe-209|Cite un lieu dans une école.|Cite un lieu où l’on fait la queue.|Di' un posto in una scuola.|Di' un posto dove si fa la fila.|inchange
+reflexe-210|Cite un mot qu’on entend en classe.|Cite un mot que dit un professeur.|Di' una parola che senti in classe.|Di' una parola che dice un prof.|inchange
+reflexe-211|Cite un jeu de cour de récré.|Cite un jeu qu’on joue à plusieurs.|Di' un gioco da fare in cortile a ricreazione.|Di' un gioco da fare in tanti.|inchange
+reflexe-212|Cite une activité de colonie de vacances.|Cite une activité de classe verte.|Di' un'attività da campo estivo.|Di' un'attività da gita scolastica.|inchange
+reflexe-213|Cite quelque chose qu’on trouve dans une bibliothèque.|Cite quelque chose qu’on lit.|Di' qualcosa che trovi in biblioteca.|Di' qualcosa che si legge.|inchange
+reflexe-214|Cite quelque chose qu’on trouve dans une salle de réunion.|Cite quelque chose qu’on trouve dans une salle d’attente.|Di' qualcosa che trovi in una sala riunioni.|Di' qualcosa che trovi in una sala d'attesa.|inchange
+reflexe-215|Cite un accessoire d’ordinateur.|Cite un objet qu’on branche en USB.|Di' un accessorio per il computer.|Di' un oggetto che si collega con l'USB.|inchange
+reflexe-216|Cite un endroit dans une entreprise.|Cite un endroit où l’on fait une pause.|Di' un posto in un'azienda.|Di' un posto dove si fa una pausa.|inchange
+reflexe-217|Cite une tâche de bureau.|Cite une tâche qu’on repousse.|Di' un compito da ufficio.|Di' un compito che si rimanda.|inchange
+reflexe-218|Cite un mot qu’on écrit dans un mail.|Cite un mot qu’on écrit sur une carte postale.|Di' una parola che si scrive in una mail.|Di' una parola che si scrive su una cartolina.|inchange
+reflexe-219|Cite une décoration de fête.|Cite quelque chose qu’on gonfle.|Di' una decorazione per una festa.|Di' qualcosa che si gonfia.|inchange
+reflexe-220|Cite quelque chose qu’on mange à un anniversaire.|Cite quelque chose qu’on sert à un goûter.|Di' qualcosa che si mangia a un compleanno.|Di' qualcosa che si serve a merenda.|inchange
+reflexe-221|Cite un objet qu’on trouve sur un sapin.|Cite un objet qui brille à Noël.|Di' un oggetto che trovi sull'albero di Natale.|Di' un oggetto che brilla a Natale.|inchange
+reflexe-222|Cite un jeu d’anniversaire.|Cite un jeu de plein air.|Di' un gioco da festa di compleanno.|Di' un gioco all'aria aperta.|inchange
+reflexe-223|Cite une fête de l’année.|Cite un jour férié.|Di' una festa dell'anno.|Di' un giorno festivo.|inchange
+reflexe-224|Cite un cadeau d’anniversaire.|Cite un cadeau qu’on offre à un enfant.|Di' un regalo di compleanno.|Di' un regalo per un bambino.|inchange
+reflexe-225|Cite un plat de fête.|Cite un plat de Noël.|Di' un piatto delle feste.|Di' un piatto di Natale.|inchange
+reflexe-226|Cite un objet qu’on trouve sur un gâteau d’anniversaire.|Cite quelque chose qu’on souffle.|Di' un oggetto che trovi su una torta di compleanno.|Di' qualcosa su cui si soffia.|inchange
+reflexe-227|Cite un endroit où l’on fait la fête.|Cite un endroit où il y a de la musique.|Di' un posto dove si fa festa.|Di' un posto dove c'è musica.|inchange
+reflexe-228|Cite un instrument à cordes.|Cite un instrument qu’on gratte.|Di' uno strumento a corde.|Di' uno strumento che si pizzica.|inchange
+reflexe-229|Cite un instrument à vent.|Cite un instrument qu’on entend dans un orchestre.|Di' uno strumento a fiato.|Di' uno strumento che senti in un'orchestra.|inchange
+reflexe-230|Cite un instrument qu’on frappe.|Cite un instrument bruyant.|Di' uno strumento a percussione.|Di' uno strumento rumoroso.|inchange
+reflexe-231|Cite un style de musique.|Cite une musique sur laquelle on danse.|Di' un genere musicale.|Di' una musica su cui si balla.|inchange
+reflexe-232|Cite une danse.|Cite une danse qu’on apprend en cours.|Di' un ballo.|Di' un ballo che si impara a lezione.|inchange
+reflexe-233|Cite un appareil pour écouter de la musique.|Cite un appareil qu’on avait dans les années 90.|Di' un apparecchio per ascoltare musica.|Di' un apparecchio che si aveva negli anni '90.|inchange
+reflexe-234|Cite un instrument d’enfant.|Cite un instrument qu’on apprend à l’école.|Di' uno strumento per bambini.|Di' uno strumento che si impara a scuola.|inchange
+reflexe-235|Cite un jeu de société.|Cite un jeu avec des dés.|Di' un gioco da tavolo.|Di' un gioco con i dadi.|inchange
+reflexe-236|Cite un loisir créatif.|Cite une activité qu’on fait les jours de pluie.|Di' un hobby creativo.|Di' un'attività da fare nei giorni di pioggia.|inchange
+reflexe-237|Cite une activité de plage.|Cite une activité qu’on fait au bord d’un lac.|Di' un'attività da spiaggia.|Di' un'attività da fare sulla riva di un lago.|inchange
+reflexe-238|Cite un passe-temps de grand-parent.|Cite un loisir calme.|Di' un passatempo da nonni.|Di' un passatempo tranquillo.|inchange
+reflexe-239|Cite une activité de fête foraine.|Cite une attraction qui fait crier.|Di' un'attrazione del luna park.|Di' un'attrazione che fa urlare.|inchange
+reflexe-240|Cite une activité qu’on fait en vacances.|Cite une activité qu’on fait avec des amis.|Di' un'attività da fare in vacanza.|Di' un'attività da fare con gli amici.|inchange
+reflexe-241|Cite un jeu qu’on fait en voiture.|Cite un jeu qu’on fait sans matériel.|Di' un gioco da fare in macchina.|Di' un gioco da fare senza niente.|inchange
+reflexe-242|Cite quelque chose qu’on collectionne.|Cite quelque chose qu’on échange à l’école.|Di' qualcosa che si colleziona.|Di' qualcosa che si scambia a scuola.|inchange
+reflexe-243|Cite un jeu de jardin public.|Cite une chose qu’on fait avec son chien.|Di' un gioco da fare al parco.|Di' una cosa da fare con il cane.|inchange
+reflexe-244|Cite un lieu de sortie le samedi soir.|Cite un lieu où l’on va entre amis.|Di' un posto dove uscire il sabato sera.|Di' un posto dove si va tra amici.|inchange
+reflexe-245|Cite un bruit qui réveille.|Cite un bruit qui énerve.|Di' un rumore che ti sveglia.|Di' un rumore che ti dà fastidio.|inchange
+reflexe-246|Cite un son de la ville.|Cite un son qu’on entend la nuit.|Di' un suono della città.|Di' un suono che senti di notte.|inchange
+reflexe-247|Cite un son agréable.|Cite un son de la nature.|Di' un suono piacevole.|Di' un suono della natura.|inchange
+reflexe-248|Cite un appareil qui siffle.|Cite un meuble qui grince.|Di' un apparecchio che fischia.|Di' un mobile che scricchiola.|inchange
+reflexe-249|Cite un bruit de cuisine.|Cite un bruit du matin.|Di' un rumore della cucina.|Di' un rumore del mattino.|inchange
+reflexe-250|Cite une bonne odeur.|Cite une odeur de cuisine.|Di' un buon profumo.|Di' un odore di cucina.|inchange
+reflexe-251|Cite une odeur de vacances.|Cite une odeur d’été.|Di' un profumo di vacanza.|Di' un profumo d'estate.|inchange
+reflexe-252|Cite une odeur forte.|Cite une odeur qu’on reconnaît tout de suite.|Di' un odore forte.|Di' un odore che riconosci subito.|inchange
+reflexe-253|Cite un parfum de bougie.|Cite une odeur de fleur.|Di' un profumo di candela.|Di' un profumo di fiore.|inchange
+reflexe-254|Cite une odeur du matin.|Cite une odeur de boulangerie.|Di' un odore del mattino.|Di' un odore da panificio.|inchange
+reflexe-255|Cite une chose douce au toucher.|Cite un aliment moelleux.|Di' una cosa morbida al tatto.|Di' un alimento soffice.|inchange
+reflexe-256|Cite un truc qui colle aux doigts.|Cite un aliment qui fond dans la main.|Di' una cosa che si appiccica alle dita.|Di' un alimento che si scioglie in mano.|inchange
+reflexe-257|Cite un objet rugueux.|Cite un objet qui gratte.|Di' un oggetto ruvido.|Di' un oggetto che gratta.|inchange
+reflexe-258|Cite un objet mou.|Cite un objet qu’on peut écraser.|Di' un oggetto molle.|Di' un oggetto che si può schiacciare.|inchange
+reflexe-259|Cite un objet qui pique.|Cite un objet dangereux pour un bébé.|Di' un oggetto che punge.|Di' un oggetto pericoloso per un neonato.|inchange
+reflexe-260|Cite une surface glissante.|Cite un endroit où l’on tombe facilement.|Di' una superficie scivolosa.|Di' un posto dove si cade facilmente.|inchange
+reflexe-261|Cite une émotion.|Cite quelque chose qu’on ressent au cinéma.|Di' un'emozione.|Di' qualcosa che si prova al cinema.|inchange
+reflexe-262|Cite un mot qui rend joyeux.|Cite un mot qui rassure.|Di' una parola che mette allegria.|Di' una parola che rassicura.|inchange
+reflexe-263|Cite une expression de surprise.|Cite un mot qu’on dit quand on se fait mal.|Di' un'esclamazione di sorpresa.|Di' una parola che dici quando ti fai male.|inchange
+reflexe-264|Cite un mot pour dire bonjour.|Cite un mot pour dire au revoir.|Di' una parola per salutare quando arrivi.|Di' una parola per salutare quando te ne vai.|inchange
+reflexe-265|Cite une formule de politesse.|Cite un mot qu’on dit en entrant dans un magasin.|Di' una formula di cortesia.|Di' una parola che dici entrando in un negozio.|inchange
+reflexe-266|Cite un mot qu’on dit quand on gagne.|Cite un mot qu’on crie quand on est content.|Di' una parola che dici quando vinci.|Di' una parola che urli quando sei contento.|inchange
+reflexe-267|Cite un engin avec des ailes.|Cite un objet qu’on fait monter dans les airs.|Di' un mezzo con le ali.|Di' un oggetto che si fa salire in aria.|inchange
+reflexe-268|Cite un bijou.|Cite un objet en or.|Di' un gioiello.|Di' un oggetto d'oro.|inchange
+reflexe-269|Cite quelque chose qui fond au soleil.|Cite quelque chose qui sèche au soleil.|Di' qualcosa che si scioglie al sole.|Di' qualcosa che si asciuga al sole.|inchange
+reflexe-270|Cite un jouet qui rebondit.|Cite un objet qu’on lance pour jouer.|Di' un giocattolo che rimbalza.|Di' un oggetto che si lancia per giocare.|inchange
+reflexe-271|Cite quelque chose qui coule dans l’eau.|Cite quelque chose qu’on jette dans un lac.|Di' qualcosa che affonda nell'acqua.|Di' qualcosa che si butta in un lago.|inchange
+reflexe-272|Cite un fruit qu’on mange en compote.|Cite un fruit qu’on met dans une tarte.|Di' un frutto che si mangia in composta.|Di' un frutto che si mette in una crostata.|inchange
+reflexe-273|Cite un légume qu’on met dans un pot-au-feu.|Cite un légume qu’on met dans un couscous.|Di' una verdura che si mette nel bollito.|Di' una verdura che si mette nel minestrone.|inchange
+reflexe-274|Cite un plat qu’on mange à la cantine.|Cite un plat qu’on mange chez ses grands-parents.|Di' un piatto che si mangia in mensa.|Di' un piatto che si mangia dai nonni.|inchange
+reflexe-275|Cite un objet qu’on trouve dans une chambre d’hôtel.|Cite un objet qu’on trouve dans un camping-car.|Di' un oggetto che trovi in una camera d'albergo.|Di' un oggetto che trovi in un camper.|inchange
+reflexe-276|Cite un animal qu’on voit à la campagne.|Cite un animal qu’on voit au bord de la route.|Di' un animale che vedi in campagna.|Di' un animale che vedi a bordo strada.|inchange
+reflexe-277|Cite un animal qu’on dessine facilement.|Cite un animal qu’on imite facilement.|Di' un animale facile da disegnare.|Di' un animale facile da imitare.|inchange
+reflexe-278|Cite un endroit calme.|Cite un endroit où l’on lit.|Di' un posto tranquillo.|Di' un posto dove si legge.|inchange
+reflexe-279|Cite une couleur de bonbon.|Cite une couleur de ballon de baudruche.|Di' un colore di caramella.|Di' un colore di palloncino.|inchange
+reflexe-280|Cite une couleur de chaussettes.|Cite une couleur de sac à dos.|Di' un colore di calzini.|Di' un colore di zaino.|inchange
+reflexe-281|Cite un métier qu’on croise à l’aéroport.|Cite un métier qu’on croise dans une gare.|Di' un mestiere che incroci in aeroporto.|Di' un mestiere che incroci in stazione.|inchange
+reflexe-282|Cite un métier où l’on parle à des inconnus.|Cite un métier où l’on reçoit du public.|Di' un mestiere in cui si parla con sconosciuti.|Di' un mestiere in cui si riceve il pubblico.|inchange
+reflexe-283|Cite un objet qu’on met sur une table pour un repas.|Cite un objet qu’on sort pour des invités.|Di' un oggetto che si mette in tavola per un pasto.|Di' un oggetto che si tira fuori per gli ospiti.|inchange
+reflexe-284|Cite une activité qu’on fait le dimanche matin.|Cite une activité qu’on fait le samedi matin.|Di' un'attività da fare la domenica mattina.|Di' un'attività da fare il sabato mattina.|inchange
+reflexe-285|Cite un sport qu’on regarde en famille.|Cite un sport qu’on regarde le week-end.|Di' uno sport che si guarda in famiglia.|Di' uno sport che si guarda nel weekend.|inchange
+reflexe-286|Cite un produit vendu en vrac.|Cite un produit rangé dans un bocal.|Di' un prodotto venduto sfuso.|Di' un prodotto che si tiene in un barattolo.|inchange
+reflexe-287|Cite un pays où l’on va en avion.|Cite un pays où l’on va pour la plage.|Di' un paese dove si va in aereo.|Di' un paese dove si va per il mare.|inchange
+reflexe-288|Cite une ville où l’on va en train.|Cite une ville où l’on va pour un concert.|Di' una città dove si va in treno.|Di' una città dove si va per un concerto.|inchange
+reflexe-289|Cite un prénom de grand-mère.|Cite un prénom d’autrefois.|Di' un nome da nonna.|Di' un nome di una volta.|inchange
+reflexe-290|Cite un prénom de personnage de conte.|Cite un prénom de dessin animé.|Di' il nome di un personaggio delle fiabe.|Di' il nome di un personaggio dei cartoni.|inchange
+reflexe-291|Cite un objet qu’on lave à la main.|Cite un objet qu’on lave souvent.|Di' un oggetto che si lava a mano.|Di' un oggetto che si lava spesso.|inchange
+reflexe-292|Cite un vêtement qu’on enlève en arrivant.|Cite un vêtement qu’on accroche à une patère.|Di' un capo che ti togli appena arrivi.|Di' un capo che si appende all'attaccapanni.|inchange
+reflexe-293|Cite un dessert qu’on fait soi-même.|Cite un dessert qu’on achète tout fait.|Di' un dolce che si fa in casa.|Di' un dolce che si compra già pronto.|inchange
+reflexe-294|Cite une pièce où l’on se détend.|Cite une pièce où l’on reçoit des amis.|Di' una stanza dove ci si rilassa.|Di' una stanza dove si ricevono gli amici.|inchange
+reflexe-295|Cite un objet qu’on rachète souvent.|Cite un objet qui s’use vite.|Di' un oggetto che si ricompra spesso.|Di' un oggetto che si consuma in fretta.|inchange
+reflexe-296|Cite un magasin.|Cite un commerce de quartier.|Di' un negozio.|Di' un negozio di quartiere.|inchange
+reflexe-297|Cite un endroit où l’on va le samedi.|Cite un endroit où l’on va en famille.|Di' un posto dove si va il sabato.|Di' un posto dove si va in famiglia.|inchange
+reflexe-298|Cite un bâtiment de la ville.|Cite un endroit qui ferme le dimanche.|Di' un edificio della città.|Di' un posto che chiude la domenica.|inchange
+reflexe-299|Cite un élément du mobilier urbain.|Cite un objet visible depuis la fenêtre d’un bus.|Di' un elemento dell'arredo urbano.|Di' un oggetto che vedi dal finestrino dell'autobus.|inchange
+reflexe-300|Cite un endroit où l’on fait les courses.|Cite un endroit où l’on achète des vêtements.|Di' un posto dove si fa la spesa.|Di' un posto dove si comprano vestiti.|inchange
+reflexe-301|Cite un endroit où l’on prend un café.|Cite un endroit où l’on travaille sur un ordinateur.|Di' un posto dove si prende un caffè.|Di' un posto dove si lavora al computer.|inchange
+reflexe-302|Cite un objet typique d’un aéroport.|Cite un objet typique d’une gare.|Di' un oggetto tipico di un aeroporto.|Di' un oggetto tipico di una stazione.|inchange
+reflexe-303|Cite un outil de bricolage.|Cite un objet qui fait du bruit sur un chantier.|Di' un attrezzo per il fai da te.|Di' un oggetto che fa rumore in un cantiere.|inchange
+reflexe-304|Cite une graine qu’on sème au jardin.|Cite une plante qu’on arrose souvent.|Di' un seme che si pianta in giardino.|Di' una pianta che si annaffia spesso.|inchange
+reflexe-305|Cite un légume du potager.|Cite un légume qu’on mange en été.|Di' una verdura dell'orto.|Di' una verdura che si mangia d'estate.|inchange
+reflexe-306|Cite un animal de la montagne.|Cite un animal qui hiberne.|Di' un animale di montagna.|Di' un animale che va in letargo.|inchange
+reflexe-307|Cite un endroit dans la nature.|Cite un endroit où l’on campe.|Di' un posto nella natura.|Di' un posto dove si va in campeggio.|inchange
+reflexe-308|Cite un objet de camping.|Cite un objet qu’on met dans un sac à dos.|Di' un oggetto da campeggio.|Di' un oggetto che si mette nello zaino.|inchange
+reflexe-309|Cite un fruit jaune.|Cite un fruit qu’on mange en hiver.|Di' un frutto giallo.|Di' un frutto che si mangia d'inverno.|inchange
+reflexe-310|Cite un aliment du petit-déjeuner.|Cite quelque chose qu’on trempe.|Di' un alimento da colazione.|Di' qualcosa che si inzuppa.|inchange
+reflexe-311|Cite un aliment salé.|Cite un aliment de l’apéro.|Di' un alimento salato.|Di' uno stuzzichino da aperitivo.|inchange
+reflexe-312|Cite un ingrédient d’omelette.|Cite un ingrédient de quiche.|Di' un ingrediente della frittata.|Di' un ingrediente della torta salata.|inchange
+reflexe-313|Cite une activité du mercredi après-midi.|Cite une activité pour enfants.|Di' un'attività da pomeriggio dopo la scuola.|Di' un'attività per bambini.|inchange
+reflexe-314|Cite un jouet de bébé.|Cite un jouet qu’on emporte dans le bain.|Di' un giocattolo da neonato.|Di' un giocattolo da portare nella vasca.|inchange
+reflexe-315|Cite une couleur de maillot de bain.|Cite une couleur de serviette de plage.|Di' un colore di costume da bagno.|Di' un colore di telo da mare.|inchange
+reflexe-316|Cite un aliment qu’on garde au congélateur.|Cite un aliment qu’on garde dans un placard.|Di' un alimento che si tiene in freezer.|Di' un alimento che si tiene in dispensa.|inchange
+reflexe-317|Cite un appareil qu’on trouve dans une buanderie.|Cite un appareil qu’on trouve dans un salon.|Di' un apparecchio che trovi in lavanderia.|Di' un apparecchio che trovi in soggiorno.|inchange
+reflexe-318|Cite un objet qu’on emporte en randonnée.|Cite un objet qu’on emporte en pique-nique.|Di' un oggetto da portare in escursione.|Di' un oggetto da portare a un picnic.|inchange
+reflexe-319|Cite un endroit où l’on dort ailleurs que chez soi.|Cite un endroit où l’on mange ailleurs que chez soi.|Di' un posto dove si dorme fuori casa.|Di' un posto dove si mangia fuori casa.|inchange
+reflexe-320|Cite une viennoiserie.|Cite quelque chose qu’on achète à la boulangerie.|Di' una brioche da colazione.|Di' qualcosa che compri dal fornaio.|inchange
+reflexe-321|Cite un légume qu’on mange cru.|Cite un légume qu’on met en salade.|Di' una verdura che si mangia cruda.|Di' una verdura che si mette in insalata.|inchange
+reflexe-322|Cite une ville française.|Cite une ville où passe un grand fleuve.|Di' una città italiana.|Di' una città attraversata da un grande fiume.|inchange
+reflexe-323|Cite un pays où il neige beaucoup.|Cite un pays connu pour ses montagnes.|Di' un paese dove nevica tanto.|Di' un paese famoso per le sue montagne.|inchange
+reflexe-324|Cite un océan ou une mer.|Cite une étendue d’eau où l’on peut naviguer.|Di' un oceano o un mare.|Di' una distesa d'acqua dove si può navigare.|inchange
+reflexe-325|Cite un métier qu’on exerce dehors.|Cite un métier qu’on exerce avec un camion.|Di' un mestiere che si fa fuori.|Di' un mestiere che si fa con un camion.|inchange
+reflexe-326|Cite un personnage de conte.|Cite un personnage qu’on retrouve dans un livre pour enfants.|Di' un personaggio delle fiabe.|Di' un personaggio di un libro per bambini.|inchange
+reflexe-327|Cite un accessoire qu’on porte sur la tête.|Cite un accessoire qu’on porte quand il fait froid.|Di' un accessorio che si porta in testa.|Di' un accessorio che si porta quando fa freddo.|inchange
+reflexe-328|Cite un nombre entre 1 et 100.|Cite un âge entre 1 et 100.|Di' un numero da 1 a 100.|Di' un'età da 1 a 100.|inchange
+reflexe-329|Cite un objet rond qu’on trouve dans une cuisine.|Cite un objet rond qu’on trouve dans un salon.|Di' un oggetto rotondo che trovi in cucina.|Di' un oggetto rotondo che trovi in soggiorno.|inchange
+reflexe-330|Cite un objet qui sert à couper.|Cite un objet qui a une lame.|Di' un oggetto che serve a tagliare.|Di' un oggetto che ha una lama.|inchange
+reflexe-331|Cite un aliment orange.|Cite un aliment qu’on épluche.|Di' un alimento arancione.|Di' un alimento che si sbuccia.|inchange
+reflexe-332|Cite un aliment qu’on tartine.|Cite un aliment qu’on mange au petit-déjeuner.|Di' un alimento che si spalma.|Di' un alimento che si mangia a colazione.|inchange
+reflexe-333|Cite un animal avec une carapace.|Cite un animal qui vit longtemps.|Di' un animale con il guscio.|Di' un animale che vive a lungo.|inchange
+reflexe-334|Cite une pièce où l’on trouve un miroir.|Cite un endroit où l’on se coiffe.|Di' una stanza dove c'è uno specchio.|Di' un posto dove ci si pettina.|inchange
+reflexe-335|Cite un vêtement qu’on boutonne.|Cite un vêtement avec une fermeture éclair.|Di' un capo che si abbottona.|Di' un capo con la cerniera.|inchange
+reflexe-336|Cite un sport qu’on pratique avec une raquette.|Cite un sport qu’on pratique à deux.|Di' uno sport che si fa con la racchetta.|Di' uno sport che si fa in due.|inchange
+reflexe-337|Cite un objet qu’on accroche au mur.|Cite un objet qu’on encadre.|Di' un oggetto che si appende al muro.|Di' un oggetto che si mette in cornice.|inchange
+reflexe-338|Cite un prénom de trois lettres.|Cite un prénom court.|Di' un nome di tre lettere.|Di' un nome corto.|inchange
+reflexe-339|Cite un objet qu’on trouve dans une trousse de toilette.|Cite un objet qu’on emporte pour une nuit chez un ami.|Di' un oggetto che trovi in un beauty case.|Di' un oggetto che porti per dormire da un amico.|inchange
+reflexe-340|Cite un ingrédient de gâteau.|Cite un ingrédient de crêpe.|Di' un ingrediente della torta.|Di' un ingrediente delle crêpe.|inchange
+reflexe-341|Cite un objet qu’on trouve dans un coffre de voiture.|Cite un objet qu’on range dans un garage.|Di' un oggetto che trovi nel bagagliaio.|Di' un oggetto che tieni in garage.|inchange
+reflexe-342|Cite un magasin où l’on achète un cadeau.|Cite un magasin qu’on trouve dans un centre commercial.|Di' un negozio dove si compra un regalo.|Di' un negozio che trovi in un centro commerciale.|inchange
+reflexe-343|Cite un animal qu’on trouve dans une mare.|Cite un animal qui aime l’eau.|Di' un animale che trovi in uno stagno.|Di' un animale a cui piace l'acqua.|inchange
+reflexe-344|Cite un objet qu’on trouve dans un sac de plage.|Cite un objet qu’on oublie à la plage.|Di' un oggetto che trovi nella borsa da mare.|Di' un oggetto che si dimentica in spiaggia.|inchange
+noel-001|Quel cadeau aimerais-tu trouver sous le sapin ?|Quel cadeau as-tu adoré offrir ?|Quale regalo vorresti trovare sotto l'albero?|Quale regalo hai adorato fare a qualcuno?|inchange
+noel-002|Quel plat ne doit jamais manquer au repas de Noël ?|Quel plat de Noël pourrais-tu manger toute l’année ?|Quale piatto non deve mai mancare a Natale?|Quale piatto di Natale mangeresti tutto l'anno?|inchange
+noel-005|Quel film regardes-tu chaque année à Noël ?|Quel film de Noël est le plus ringard ?|Quale film guardi ogni anno a Natale?|Quale film di Natale è il più sdolcinato?|inchange
+noel-006|Combien de cadeaux offres-tu à Noël ?|Combien de personnes sont autour de la table à Noël ?|Quanti regali fai a Natale?|Quante persone ci sono a tavola a Natale?|inchange
+noel-009|Que mets-tu en haut du sapin ?|Que poses-tu sur la table du réveillon ?|Cosa metti in cima all'albero?|Cosa metti al centro della tavola della Vigilia?|inchange
+noel-011|Où rêverais-tu de passer Noël ?|Où as-tu passé ton plus beau Noël ?|Dove sogneresti di passare il Natale?|Dove hai passato il tuo Natale più bello?|inchange
+noel-014|Combien de chocolats manges-tu pendant les fêtes ?|Combien de chocolats reste-t-il dans la boîte le 26 ?|Quanti cioccolatini mangi durante le feste?|Quanti cioccolatini restano nella scatola il 26?|inchange
+noel-028|Que dis-tu quand la case du jour est vide ?|Que dis-tu quand quelqu’un a mangé ta case du jour ?|Cosa dici quando la finestrella del giorno è vuota?|Cosa dici quando qualcuno ha mangiato la tua finestrella del giorno?|inchange
+noel-045|Combien de minutes mets-tu à décorer le sapin ?|Combien de minutes mets-tu à démêler les guirlandes ?|Quanti minuti ci metti ad addobbare l'albero?|Quanti minuti ci metti a districare le lucine?|inchange
+noel-063|Que manges-tu en premier sur un marché de Noël ?|Que rapportes-tu à la maison d’un marché de Noël ?|Cosa mangi per primo a un mercatino di Natale?|Cosa porti a casa da un mercatino di Natale?|inchange
+noel-066|Combien coûte une gaufre sur un marché de Noël ?|Combien coûte un stylo ?|Quanto costa un cartoccio di caldarroste al mercatino di Natale?|Quanto costa una cioccolata calda al mercatino di Natale?|fr-modifie
+noel-070|Dans quel pays trouve-t-on les plus beaux marchés de Noël ?|Dans quel pays les rues sont-elles les plus illuminées en décembre ?|In quale paese ci sono i mercatini di Natale più belli?|In quale paese le strade sono più illuminate a dicembre?|inchange
+noel-081|Combien de cadeaux demandais-tu dans ta lettre au Père Noël ?|Combien de lignes faisait ta lettre au Père Noël ?|Quanti regali chiedevi nella letterina a Babbo Natale?|Quante righe era lunga la tua letterina a Babbo Natale?|inchange
+ete-001|Où aimerais-tu passer l’été ?|Où as-tu passé ton meilleur été ?|Dove ti piacerebbe passare l'estate?|Dove hai passato la tua estate più bella?|inchange
+ete-002|Quel parfum de glace commandes-tu en premier ?|Quel parfum de glace ne choisis-tu jamais ?|Che gusto di gelato ordini per primo?|Che gusto di gelato non scegli mai?|inchange
+ete-003|Que fais-tu quand il fait trop chaud ?|Que fais-tu un soir d’été ?|Cosa fai quando fa troppo caldo?|Cosa fai in una sera d'estate?|inchange
+ete-004|Qu’emportes-tu toujours à la plage ?|Qu’oublies-tu toujours à la plage ?|Cosa porti sempre in spiaggia?|Cosa dimentichi sempre quando vai in spiaggia?|inchange
+ete-006|Combien de glaces manges-tu par semaine en été ?|Combien de baignades fais-tu par jour en vacances ?|Quanti gelati mangi a settimana d'estate?|Quanti bagni fai al giorno in vacanza?|inchange
+ete-017|Combien de minutes restes-tu dans l’eau d’une traite ?|Combien de minutes attends-tu avant de retourner à l’eau ?|Quanti minuti resti in acqua di fila?|Quanti minuti aspetti prima di tornare in acqua?|inchange
+ete-028|Combien de minutes marches-tu pour trouver une place sur la plage ?|Combien de minutes mets-tu à installer ton coin de plage ?|Quanti minuti cammini per trovare posto in spiaggia?|Quanti minuti ci metti a sistemare il tuo angolo di spiaggia?|inchange
+ete-029|Que cries-tu en entrant dans l’eau froide ?|Que dis-tu à quelqu’un qui hésite à entrer dans l’eau ?|Cosa urli quando entri nell'acqua fredda?|Cosa dici a chi esita a entrare in acqua?|inchange
+ete-043|Combien coûte une entrée à la piscine municipale ?|Combien coûte une glace à la plage ?|Quanto costa un ingresso alla piscina comunale?|Quanto costa un gelato al bar della piscina?|fr-modifie
+ete-078|Combien de ventilateurs as-tu chez toi ?|Combien de bouteilles d’eau gardes-tu au frigo l’été ?|Quanti ventilatori hai in casa?|Quante bottiglie d'acqua tieni in frigo d'estate?|inchange
+ete-084|Quelle animation du camping fais-tu en famille ?|Quelle animation du camping évites-tu à tout prix ?|A che animazione del campeggio partecipi in famiglia?|Che animazione del campeggio eviti a tutti i costi?|inchange
+ete-089|Combien coûte un mobil-home pour une semaine en août ?|Combien coûte une semaine à Saint-Tropez en août dans un bon hôtel ?|Quanto costa un bungalow per una settimana ad agosto?|Quanto costa una settimana di piazzola per la tenda ad agosto?|fr-modifie
+ete-101|Qui conduit le plus longtemps sur la route des vacances ?|Qui s’endort en premier sur la route des vacances ?|Chi guida più a lungo andando in vacanza?|Chi si addormenta per primo andando in vacanza?|inchange
+ete-103|Combien de minutes dure ta pause sur l’aire d’autoroute ?|Combien de minutes attends-tu au péage un jour de grand départ ?|Quanti minuti dura la tua sosta all'area di servizio?|Quanti minuti aspetti al casello in un giorno di esodo?|inchange
+ete-130|Quel fruit d’été manges-tu le plus ?|Quel fruit d’été achètes-tu le plus cher ?|Che frutta estiva mangi di più?|Che frutta estiva paghi più cara?|inchange
+ete-131|Quel fruit coupes-tu en morceaux pour un goûter d’été ?|Quel fruit manges-tu directement sur l’arbre ?|Che frutto tagli a pezzi per una merenda estiva?|Che frutto mangi direttamente dall'albero?|inchange
+ete-134|Combien coûte une barquette de fraises en juin ?|Combien coûte un melon au marché en juillet ?|Quanto costa una vaschetta di fragole a giugno?|Quanto costa un melone al mercato a luglio?|inchange
+ete-204|Que dis-tu pour prolonger une soirée d’été ?|Que dis-tu pour quitter une soirée d’été ?|Cosa dici per allungare una serata d'estate?|Cosa dici per andartene da una serata d'estate?|inchange
+ete-388|Que mets-tu dans ton sandwich de plage ?|Que mets-tu dans ta salade d'été ?|Cosa metti nel panino da spiaggia?|Cosa metti nel panino da escursione?|fr-modifie
+ete-475|Quel jeu trouves-tu toujours dans une location de vacances ?|Quel objet de jeu manque toujours dans une location de vacances ?|Quale gioco trovi sempre in una casa delle vacanze?|Quale gioco manca sempre in una casa delle vacanze?|fr-modifie
+ete-476|Que dis-tu quand tu gagnes une partie en vacances ?|Que dis-tu quand tu perds pour la troisième fois de suite ?|Cosa dici quando vinci una partita in vacanza?|Cosa dici quando perdi per la terza volta di fila?|inchange
+ete-503|Combien coûte une location pour une semaine en août ?|Combien coûte une location pour un week-end en juillet ?|Quanto costa una casa vacanze per una settimana ad agosto?|Quanto costa una casa vacanze per un weekend a luglio?|inchange
+ete-506|Quelle corvée fais-tu avant de rendre la location ?|Quelle corvée fais-tu en arrivant dans la location ?|Quale faccenda fai prima di lasciare la casa vacanze?|Quale faccenda fai appena arrivi nella casa vacanze?|inchange
+ete-556|Combien de temps, en minutes, dure une pause pipi sur la route ?|Combien de temps, en minutes, dure une pause repas sur la route ?|Quanti minuti dura una sosta per la pipì in viaggio?|Quanti minuti dura una sosta per le foto in viaggio?|fr-modifie
+ete-561|Combien coûte le plein d’essence en été ?|Combien coûte un billet Eurostar en août ?|Quanto costa un pieno di benzina d'estate?|Quanto costa il pedaggio autostradale per scendere al Sud?|fr-modifie
+ete-591|Combien paies-tu un vieux livre à la brocante ?|Combien paies-tu un menu dans un fastfood ?|Quanto paghi un vecchio libro al mercatino?|Quanto paghi un vecchio vinile al mercatino?|fr-modifie
+ete-593|Que dis-tu pour faire baisser un prix à la brocante ?|Que réponds-tu quand on te double sur l'autoroute ?|Cosa dici per far abbassare un prezzo al mercatino?|Cosa rispondi quando qualcuno contratta un tuo oggetto al mercatino?|fr-modifie
+ete-604|Combien de baguettes achètes-tu le matin en vacances ?|Combien de croissants achètes-tu le matin en vacances ?|Quante pagnotte compri la mattina in vacanza?|Quanti cornetti compri la mattina in vacanza?|inchange
+rentree-003|Que dis-tu à tes collègues le jour de la rentrée ?|Que réponds-tu quand on te demande si tes vacances étaient bonnes ?|Cosa dici ai colleghi il primo giorno dopo le ferie?|Cosa rispondi quando ti chiedono se hai passato belle vacanze?|inchange
+vacances-007|Quel jeu emportes-tu en vacances ?|Quel jeu sors-tu les jours de pluie en vacances ?|Quale gioco porti in vacanza?|Quale gioco tiri fuori nei giorni di pioggia in vacanza?|inchange
+vacances-027|Que cries-tu en haut d’une piste noire ?|Que cries-tu en bas d’une piste noire ?|Cosa urli in cima a una pista nera?|Cosa urli in fondo a una pista nera?|inchange
+vacances-031|Combien de minutes mets-tu à enfiler tes chaussures de ski ?|Combien de minutes mets-tu à t’habiller pour aller skier ?|Quanti minuti ci metti a infilarti gli scarponi da sci?|Quanti minuti ci metti a vestirti per andare a sciare?|inchange
+vacances-035|Que dis-tu à un débutant tombé juste devant toi ?|Que dis-tu quand on se moque de toi quand t'es tombé ?|Cosa dici a un principiante caduto proprio davanti a te?|Cosa dici al maestro quando cadi davanti a tutto il corso?|fr-modifie
+vacances-036|Combien coûte un chocolat chaud au sommet des pistes ?|Combien coûte un chocolat chaud au café de ton quartier ?|Quanto costa una cioccolata calda in cima alle piste?|Quanto costa una cioccolata calda al bar sotto casa?|inchange
+vacances-069|Quel fromage choisis-tu pour une raclette ?|Quel fromage choisis-tu au supermarché ?|Quale formaggio scegli per una raclette?|Quale formaggio scegli per una polenta concia?|fr-modifie
+vacances-074|En quel mois commences-tu les raclettes ?|En quel mois arrêtes-tu les raclettes ?|In che mese inizi a fare le raclette?|In che mese smetti di fare le raclette?|inchange
+vacances-084|Que fais-tu en premier en rentrant d’une journée de ski ?|Que fais-tu en premier le matin d’une journée de ski ?|Qual è la prima cosa che fai tornando da una giornata di sci?|Qual è la prima cosa che fai la mattina di una giornata di sci?|inchange
+vacances-094|Quel petit plaisir t’offres-tu après la dernière descente ?|Quel petit plaisir t’offres-tu le dernier soir à la montagne ?|Quale piccolo piacere ti concedi dopo l'ultima discesa?|Quale piccolo piacere ti concedi l'ultima sera in montagna?|inchange
+vacances-097|Que dis-tu en enlevant enfin tes chaussures de ski ?|Que dis-tu en voyant l’addition du restaurant d’altitude ?|Cosa dici quando finalmente ti togli gli scarponi da sci?|Cosa dici quando vedi il conto del rifugio in quota?|inchange
+vacances-204|Combien de minutes restes-tu au lit après ton réveil en vacances ?|Combien de minutes restes-tu au lit après ton réveil un lundi ?|Quanti minuti resti a letto dopo esserti svegliato in vacanza?|Quanti minuti resti a letto dopo esserti svegliato di lunedì?|inchange
+vacances-211|Que dis-tu quand on te réveille trop tôt en vacances ?|Que dis-tu quand tu te réveilles à midi ?|Cosa dici quando ti svegliano troppo presto in vacanza?|Cosa dici quando ti svegli a mezzogiorno?|inchange
+vacances-323|Combien coûte un plein d’essence pour aller au ski ?|Combien coûte un aller-retour en train pour la montagne ?|Quanto costa un pieno di benzina per andare in montagna?|Quanto costa un biglietto di andata e ritorno in treno per la montagna?|inchange
+vacances-326|Combien d’heures de route acceptes-tu pour une semaine de ski ?|Combien d’heures de route acceptes-tu pour un petit week-end ?|Quante ore di viaggio accetti per una settimana bianca?|Quante ore di viaggio accetti per un weekend lungo?|fr-modifie
+vacances-332|Quel en-cas manges-tu dans la voiture des vacances ?|Quel en-cas achètes-tu à la gare avant de partir ?|Quale snack mangi in macchina quando parti per le vacanze?|Quale snack compri in stazione prima di partire?|inchange
+vacances-341|À quel âge as-tu chaussé des skis pour la première fois ?|À quel âge as-tu skié pour la dernière fois ?|A che età hai messo gli sci per la prima volta?|A che età hai fatto la tua prima lezione di sci?|fr-modifie
+vacances-422|Qui lit les règles d’un nouveau jeu ?|Qui invente ses propres règles pendant la partie ?|Chi legge le regole di un gioco nuovo?|Chi si inventa le proprie regole durante la partita?|inchange
+vacances-527|Que manges-tu dans un parc d’attractions ?|Que mangeais-tu à la cantine étant petit ?|Cosa mangi in un parco divertimenti?|Cosa mangi alla caffetteria di un museo?|fr-modifie
+vacances-532|Que dis-tu en sortant d’une attraction à sensations ?|Que dis-tu quand un enfant veut refaire la même attraction ?|Cosa dici scendendo da un'attrazione adrenalinica?|Cosa dici quando un bambino vuole rifare la stessa attrazione?|inchange
+vacances-559|Quel objet emportes-tu pour faire de belles photos ?|Quel objet protèges-tu du froid au ski ?|Quale oggetto porti per fare belle foto?|Quale oggetto proteggi dal freddo sulle piste?|inchange
+vacances-577|Combien coûte un manteau haut de gamme ?|Combien coûte un bonnet en laine ?|Quanto costa un paio di muffole?|Quanto costa un berretto di lana?|fr-modifie
+sport-248|Combien de jours tiennent tes résolutions sportives de janvier ?|Combien de jours faut-il pour prendre une habitude sportive ?|Quanti giorni durano i tuoi propositi sportivi di gennaio?|Quanti giorni servono per prendere un'abitudine sportiva?|inchange
+bouffe-681|Quel plat aimes-tu manger froid le lendemain ?|Quel plat est meilleur réchauffé ?|||nouvelle
+boulot-613|Combien d’étudiants y avait-il dans ton plus grand amphi ?|Combien d’étudiants comptait toute ta promo ?|||nouvelle
+boulot-614|Combien coûte un bon sac pour aller travailler ?|Combien coûte une bonne chaise de bureau ?|||nouvelle
+boulot-615|Combien de cafés un serveur porte-t-il sur un plateau ?|Combien d’assiettes un serveur porte-t-il sur un bras ?|||nouvelle
+soiree-593|Quelle célébrité fait toujours réagir quand on la cite en soirée ?|Quelle célébrité imites-tu pour faire rire tes amis ?|||nouvelle

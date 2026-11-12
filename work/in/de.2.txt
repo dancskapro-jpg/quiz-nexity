@@ -1,0 +1,635 @@
+sport-076|Que dis-tu en entrant dans une eau trop froide ?|Que dis-tu quand quelqu’un t’éclabousse au bord du bassin ?|Was sagst du, wenn du in zu kaltes Wasser steigst?|Was sagst du, wenn dich jemand am Beckenrand nass spritzt?|inchange
+sport-077|Combien de fois par an vas-tu à la piscine ?|Combien de fois par an vas-tu à la plage ?|Wie oft im Jahr gehst du ins Schwimmbad?|Wie oft im Jahr gehst du an den Strand?|inchange
+sport-078|Combien coûte une entrée à la piscine (en euros) ?|Combien coûte une séance d’aquagym (en euros) ?|Wie viel kostet der Eintritt ins Schwimmbad (in Euro)?|Wie viel kostet eine Stunde Aquagymnastik (in Euro)?|inchange
+sport-083|Combien de vélos as-tu eus dans ta vie ?|Combien de paires de baskets as-tu usées dans ta vie ?|Wie viele Fahrräder hattest du in deinem Leben?|Wie viele Paar Sneaker hast du in deinem Leben durchgelaufen?|inchange
+sport-096|Que cries-tu pour demander le ballon ?|Que cries-tu quand un coéquipier rate une occasion immanquable ?|Was rufst du, wenn du den Ball haben willst?|Was rufst du, wenn ein Mitspieler eine hundertprozentige Chance vergibt?|inchange
+sport-111|Que manges-tu quand tu vas au stade ?|Que manges-tu devant un match à la maison ?|Was isst du, wenn du ins Stadion gehst?|Was isst du, wenn du zu Hause ein Spiel schaust?|inchange
+sport-112|Combien paies-tu un sandwich au stade (en euros) ?|Combien paies-tu une écharpe de supporter (en euros) ?|Wie viel zahlst du im Stadion für eine Bratwurst (in Euro)?|Wie viel zahlst du für einen Fanschal (in Euro)?|inchange
+sport-113|Combien d’heures avant le coup d’envoi arrives-tu au stade ?|Combien d’heures restes-tu au stade après le coup de sifflet final ?|Wie viele Stunden vor dem Anpfiff bist du im Stadion?|Wie viele Stunden bleibst du nach dem Schlusspfiff im Stadion?|inchange
+sport-114|Combien de places compte le plus grand stade que tu connais (en milliers) ?|Combien de supporters faut-il pour une vraie ambiance (en milliers) ?|Wie viele Plätze hat das größte Stadion, das du kennst (in Tausend)?|Wie viele Fans braucht es für eine richtige Stimmung (in Tausend)?|inchange
+sport-119|Combien de matchs as-tu vus dans un stade dans ta vie ?|Combien de concerts as-tu vus dans un stade dans ta vie ?|Wie viele Spiele hast du in deinem Leben im Stadion gesehen?|Wie viele Konzerte hast du in deinem Leben im Stadion gesehen?|inchange
+sport-125|Que cries-tu quand l’arbitre siffle la fin du match ?|Que cries-tu quand un joueur fait un geste incroyable ?|Was rufst du, wenn der Schiri das Spiel abpfeift?|Was rufst du, wenn ein Spieler eine unglaubliche Aktion zeigt?|inchange
+sport-129|Combien de personnes faut-il pour regarder un match à la maison ?|Combien de personnes tiennent sur ton canapé ?|Wie viele Leute braucht man, um zu Hause ein Spiel zu schauen?|Wie viele Leute passen auf dein Sofa?|inchange
+sport-133|Combien de matchs peux-tu regarder dans la même journée ?|Combien de matchs regardes-tu pendant une Coupe du monde ?|Wie viele Spiele kannst du an einem Tag schauen?|Wie viele Spiele schaust du während einer WM?|inchange
+sport-136|À quel moment d’un match commences-tu à stresser ?|À quel moment d’un match sais-tu que c’est perdu ?|In welchem Moment eines Spiels fängst du an, nervös zu werden?|In welchem Moment eines Spiels weißt du, dass es verloren ist?|inchange
+sport-138|Que dis-tu à quelqu’un qui pose des questions pendant le match ?|Que dis-tu à quelqu’un qui change de chaîne pendant le match ?|Was sagst du zu jemandem, der während des Spiels Fragen stellt?|Was sagst du zu jemandem, der während des Spiels umschaltet?|inchange
+sport-143|Quelle phrase de commentateur sportif répètes-tu ?|Quelle phrase de commentateur sportif t’agace ?|Welchen Spruch eines Sportkommentators wiederholst du?|Welcher Spruch eines Sportkommentators nervt dich?|inchange
+sport-144|Quel sport mériterait plus de place à la télé ?|Quel sport passe trop souvent à la télé ?|Welcher Sport hätte mehr Sendezeit im Fernsehen verdient?|Welcher Sport läuft zu oft im Fernsehen?|inchange
+sport-147|Quel ami ferait le meilleur commentateur sportif ?|Quel ami ferait le meilleur arbitre ?|Welcher Freund wäre der beste Sportkommentator?|Welcher Freund wäre der beste Schiedsrichter?|inchange
+sport-160|Combien coûte une raquette de tennis correcte (en euros) ?|Combien coûte un ballon de foot correct (en euros) ?|Wie viel kostet ein ordentlicher Tennisschläger (in Euro)?|Wie viel kostet ein ordentlicher Fußball (in Euro)?|inchange
+sport-161|Quelle marque de sport portes-tu le plus ?|Quelle marque de sport portais-tu au collège ?|Welche Sportmarke trägst du am häufigsten?|Welche Sportmarke hast du in deiner Schulzeit getragen?|inchange
+sport-169|Combien serais-tu prêt à payer un maillot officiel signé (en euros) ?|Combien vaut vraiment un maillot officiel (en euros) ?|Wie viel wärst du bereit, für ein offizielles Trikot zu zahlen (in Euro)?|Wie viel ist ein offizielles Trikot wirklich wert (in Euro)?|fr-modifie
+sport-172|Quelle épreuve olympique regardes-tu en premier ?|Quelle épreuve olympique zappes-tu toujours ?|Welche olympische Disziplin schaust du als Erstes?|Bei welcher olympischen Disziplin schaltest du immer weg?|inchange
+sport-176|Quelle épreuve olympique pourrais-tu tenter demain sans entraînement ?|Quelle épreuve olympique devrait être supprimée ?|Welche olympische Disziplin könntest du morgen ohne Training versuchen?|Welche olympische Disziplin sollte abgeschafft werden?|inchange
+sport-185|Combien de mètres sautes-tu en longueur ?|Combien de mètres saute un champion en longueur ?|Wie viele Meter springst du im Weitsprung?|Wie viele Meter springt ein Champion im Weitsprung?|inchange
+sport-189|Quel sport d’hiver préfères-tu ?|Quel sport d’hiver aimerais-tu essayer une fois ?|Welchen Wintersport magst du am liebsten?|Welchen Wintersport würdest du gern einmal ausprobieren?|inchange
+sport-192|Combien de jours dure ton séjour au ski idéal ?|Combien de jours faut-il pour apprendre à skier ?|Wie viele Tage dauert dein idealer Skiurlaub?|Wie viele Tage braucht man, um Skifahren zu lernen?|inchange
+sport-194|Que manges-tu à midi sur les pistes ?|Que manges-tu le soir au chalet ?|Was isst du mittags auf der Piste?|Was isst du abends in der Hütte?|inchange
+sport-197|Combien de fois tombes-tu dans une journée de ski ?|Combien de pauses fais-tu dans une journée de ski ?|Wie oft fällst du an einem Skitag hin?|Wie viele Pausen machst du an einem Skitag?|inchange
+sport-199|Que fais-tu à la montagne quand tu ne skies pas ?|Que fais-tu le dernier jour d’un séjour au ski ?|Was machst du in den Bergen, wenn du nicht Ski fährst?|Was machst du am letzten Tag eines Skiurlaubs?|inchange
+sport-200|Que cries-tu en dévalant une piste ?|Que dis-tu en haut d’une piste trop raide ?|Was rufst du, wenn du eine Piste runterrast?|Was sagst du oben an einer viel zu steilen Piste?|inchange
+sport-203|Quel sport sur glace aimerais-tu essayer ?|Quel sport sur glace est le plus beau à regarder ?|Welchen Sport auf dem Eis würdest du gern ausprobieren?|Welcher Sport auf dem Eis ist am schönsten anzuschauen?|inchange
+sport-221|Quel sport de raquette préfères-tu ?|Quel sport de raquette n’as-tu jamais essayé ?|Welchen Schlägersport magst du am liebsten?|Welchen Schlägersport hast du noch nie ausprobiert?|inchange
+sport-225|Sur 10, quel est ton niveau au ping-pong ?|Sur 10, quel est ton niveau au tennis ?|Wie gut bist du im Tischtennis, auf einer Skala von 1 bis 10?|Wie gut bist du im Tennis, auf einer Skala von 1 bis 10?|inchange
+sport-228|Que dis-tu quand tu rates une balle facile ?|Que dis-tu quand ton adversaire réussit un coup incroyable ?|Was sagst du, wenn du einen leichten Ball verpasst?|Was sagst du, wenn dein Gegner einen unglaublichen Schlag macht?|inchange
+sport-237|Quel sport fais-tu les pieds dans le sable ?|Quel sport regardes-tu les autres faire sur la plage ?|Welchen Sport machst du mit den Füßen im Sand?|Bei welchem Sport schaust du anderen am Strand zu?|inchange
+sport-283|Combien d’étages montes-tu à pied par jour ?|Combien de marches compte ton escalier ?|Wie viele Stockwerke gehst du am Tag zu Fuß hoch?|Wie viele Stufen hat deine Treppe?|inchange
+sport-289|Combien d’heures par semaine passes-tu à regarder du sport ?|Combien d’heures par semaine passes-tu à faire du sport ?|Wie viele Stunden pro Woche schaust du Sport?|Wie viele Stunden pro Woche machst du Sport?|inchange
+sport-302|À quelle heure t’installes-tu devant la télé un soir de finale ?|À quelle heure vas-tu te coucher un soir de finale ?|Um wie viel Uhr setzt du dich an einem Finalabend vor den Fernseher?|Um wie viel Uhr gehst du an einem Finalabend ins Bett?|inchange
+sport-304|Quel vêtement de supporter portes-tu les jours de match ?|Quel vêtement de supporter as-tu acheté sans jamais le porter ?|Welches Fan-Kleidungsstück trägst du an Spieltagen?|Welches Fan-Kleidungsstück hast du gekauft und nie getragen?|inchange
+sport-314|Combien coûte la location d’un terrain de five pour une heure (en euros) ?|Combien coûte une paire de crampons correcte (en euros) ?|Wie viel kostet es, eine Soccerhalle für eine Stunde zu mieten (in Euro)?|Wie viel kostet ein ordentliches Paar Fußballschuhe (in Euro)?|inchange
+ecrans-007|Combien de films regardes-tu par mois ?|Combien de séries suis-tu en même temps ?|Wie viele Filme schaust du pro Monat?|Wie viele Serien verfolgst du gleichzeitig?|inchange
+ecrans-035|Combien coûte une place de cinéma, selon toi ?|Combien paierais-tu pour une place d’avant-première ?|Was kostet deiner Meinung nach eine Kinokarte?|Wie viel würdest du für eine Karte zu einer Vorpremiere zahlen?|inchange
+ecrans-037|Qu’apportes-tu toujours dans une salle de cinéma ?|Qu’est-ce que tu oublies souvent sur ton siège au cinéma ?|Was nimmst du immer mit ins Kino?|Was vergisst du oft auf deinem Kinosessel?|inchange
+ecrans-038|Que fais-tu pendant les pubs avant le film ?|Que fais-tu quand un film traîne en longueur ?|Was machst du während der Werbung vor dem Film?|Was machst du, wenn sich ein Film in die Länge zieht?|inchange
+ecrans-039|Que chuchotes-tu à ton voisin pendant un film ?|Que dis-tu en sortant de la salle ?|Was flüsterst du deinem Nachbarn während eines Films zu?|Was sagst du, wenn du aus dem Kinosaal kommst?|inchange
+ecrans-041|Quel jour de la semaine préfères-tu aller au cinéma ?|Quel jour de la semaine préfères-tu commencer une nouvelle série ?|An welchem Wochentag gehst du am liebsten ins Kino?|An welchem Wochentag fängst du am liebsten eine neue Serie an?|inchange
+ecrans-042|Quel film es-tu allé voir plusieurs fois au cinéma ?|Quel film aurais-tu aimé découvrir sur grand écran ?|Welchen Film hast du mehrmals im Kino gesehen?|Welchen Film hättest du gern auf der großen Leinwand entdeckt?|inchange
+ecrans-043|Au bout de combien de minutes sais-tu si un film va te plaire ?|Au bout de combien de minutes regardes-tu l’heure pendant un film ennuyeux ?|Nach wie vielen Minuten weißt du, ob dir ein Film gefällt?|Nach wie vielen Minuten schaust du bei einem langweiligen Film auf die Uhr?|inchange
+ecrans-046|Que fais-tu quand quelqu’un parle fort pendant la séance ?|Que fais-tu quand un téléphone sonne pendant la séance ?|Was machst du, wenn jemand während der Vorstellung laut redet?|Was machst du, wenn während der Vorstellung ein Handy klingelt?|inchange
+ecrans-048|Que grignotes-tu au cinéma ?|Que grignotes-tu devant un film à la maison ?|Was knabberst du im Kino?|Was knabberst du zu Hause bei einem Film?|inchange
+ecrans-049|Quel goût de pop-corn préfères-tu ?|Quel goût de pop-corn aimerais-tu inventer ?|Welche Popcorn-Sorte magst du am liebsten?|Welche Popcorn-Sorte würdest du gern erfinden?|inchange
+ecrans-051|Combien es-tu prêt à payer un pot de pop-corn ?|Combien payes-tu ta boisson au cinéma ?|Wie viel würdest du für eine Tüte Popcorn zahlen?|Wie viel zahlst du im Kino für dein Getränk?|inchange
+ecrans-052|Quel plat commandes-tu pour une soirée film entre amis ?|Quel plat manges-tu devant un film quand tu es seul ?|Welches Essen bestellst du für einen Filmabend mit Freunden?|Was isst du, wenn du allein einen Film schaust?|inchange
+ecrans-053|En combien de minutes finis-tu ton pop-corn au cinéma ?|Au bout de combien de minutes de film ouvres-tu ton paquet de bonbons ?|In wie vielen Minuten ist dein Popcorn im Kino leer?|Nach wie vielen Filmminuten machst du deine Tüte Süßigkeiten auf?|inchange
+ecrans-054|Quel aliment est le plus bruyant à manger au cinéma ?|Quel aliment est le plus salissant à manger sur un canapé ?|Welches Essen ist im Kino am lautesten?|Welches Essen macht auf dem Sofa die größte Sauerei?|inchange
+ecrans-060|Quel dessert manges-tu devant un film ?|Quel dessert manges-tu devant la télé le dimanche soir ?|Welchen Nachtisch isst du bei einem Film?|Welchen Nachtisch isst du sonntagabends vor dem Fernseher?|inchange
+ecrans-063|Combien de minutes passes-tu à choisir quoi regarder ?|Combien de minutes passes-tu à choisir quoi manger le soir ?|Wie viele Minuten brauchst du, um auszusuchen, was du schaust?|Wie viele Minuten brauchst du abends, um auszusuchen, was du isst?|inchange
+ecrans-070|Combien paierais-tu par mois pour une plateforme parfaite ?|Combien paies-tu par mois pour écouter de la musique ?|Wie viel würdest du im Monat für einen perfekten Streamingdienst zahlen?|Wie viel zahlst du im Monat fürs Musikhören?|inchange
+ecrans-082|Que fais-tu entre deux épisodes ?|Que fais-tu pendant le générique de fin ?|Was machst du zwischen zwei Folgen?|Was machst du während des Abspanns?|inchange
+ecrans-085|Combien d’épisodes faut-il pour que tu deviennes accro à une série ?|Combien d’épisodes faut-il pour que tu retiennes le prénom des personnages ?|Wie viele Folgen braucht es, bis du süchtig nach einer Serie bist?|Wie viele Folgen braucht es, bis du dir die Namen der Figuren merkst?|inchange
+ecrans-091|Combien de saisons as-tu enchaînées en une semaine, au maximum ?|Combien de saisons compte la plus longue série que tu as finie ?|Wie viele Staffeln hast du maximal in einer Woche durchgeschaut?|Wie viele Staffeln hat die längste Serie, die du beendet hast?|inchange
+ecrans-092|Combien de bandes-annonces passent avant un film au cinéma ?|Combien de bandes-annonces regardes-tu avant de choisir un film ?|Wie viele Trailer laufen im Kino vor einem Film?|Wie viele Trailer schaust du dir an, bevor du einen Film aussuchst?|inchange
+ecrans-100|Quel titre donnerais-tu au film de ta vie ?|Quel titre donnerais-tu à la série de ta famille ?|Welchen Titel würdest du dem Film deines Lebens geben?|Welchen Titel würdest du der Serie über deine Familie geben?|inchange
+ecrans-102|Combien coûtait un DVD, selon toi ?|Combien coûte un abonnement de streaming par mois ?|Was hat deiner Meinung nach früher eine DVD gekostet?|Was kostet ein Streaming-Abo im Monat?|inchange
+ecrans-103|À quel moment de la bande-annonce sais-tu que tu iras voir le film ?|À quel moment d’un film sais-tu que tu vas l’adorer ?|An welcher Stelle im Trailer weißt du, dass du dir den Film anschauen wirst?|An welcher Stelle in einem Film weißt du, dass du ihn lieben wirst?|inchange
+ecrans-137|Quelle série t’a laissé sans voix à la fin d’une saison ?|Quelle série a eu une dernière saison décevante ?|Welche Serie hat dich am Ende einer Staffel sprachlos gemacht?|Welche Serie hatte eine enttäuschende letzte Staffel?|inchange
+ecrans-139|Que cries-tu devant un rebondissement incroyable ?|Que cries-tu quand un épisode s’arrête au pire moment ?|Was rufst du bei einer unglaublichen Wendung?|Was rufst du, wenn eine Folge im schlimmsten Moment aufhört?|inchange
+ecrans-164|Jusqu’à quel âge as-tu regardé des dessins animés ?|À quel âge as-tu vu ton premier dessin animé au cinéma ?|Bis zu welchem Alter hast du Zeichentrickserien geschaut?|Mit wie vielen Jahren hast du deinen ersten Zeichentrickfilm im Kino gesehen?|inchange
+ecrans-176|Sur quel sujet regardes-tu des documentaires ?|Sur quel sujet aimerais-tu tourner un documentaire ?|Zu welchem Thema schaust du Dokus?|Zu welchem Thema würdest du gern eine Doku drehen?|inchange
+ecrans-200|Quel jeu télé aimerais-tu gagner ?|Quel jeu télé serait le pire pour toi ?|Welche Spielshow würdest du gern gewinnen?|Welche Spielshow wäre für dich die schlimmste?|inchange
+ecrans-209|Combien coûte une bonne télé, selon toi ?|Combien coûte un bon canapé, selon toi ?|Was kostet deiner Meinung nach ein guter Fernseher?|Was kostet deiner Meinung nach ein gutes Sofa?|inchange
+ecrans-217|Que dis-tu quand quelqu’un met pause sans prévenir ?|Que dis-tu quand quelqu’un parle pendant la scène clé ?|Was sagst du, wenn jemand ohne Vorwarnung auf Pause drückt?|Was sagst du, wenn jemand während der wichtigsten Szene redet?|inchange
+ecrans-226|Combien de fois reviens-tu en arrière pendant un film à la maison ?|Combien de fois te lèves-tu pendant un film à la maison ?|Wie oft spulst du bei einem Film zu Hause zurück?|Wie oft stehst du bei einem Film zu Hause auf?|inchange
+ecrans-236|Que crie-t-on sur un plateau avant de tourner ?|Que crie-t-on à la fin d’une prise ?|Was ruft man am Set, bevor gedreht wird?|Was ruft man am Ende eines Takes?|inchange
+ecrans-273|Quel film d’été te rappelle tes vacances d’enfance ?|Quel film d’hiver te rappelle les fêtes en famille ?|Welcher Sommerfilm erinnert dich an die Ferien in deiner Kindheit?|Welcher Winterfilm erinnert dich an die Feiertage mit der Familie?|inchange
+ecrans-280|Combien de films peux-tu regarder dans une journée ?|Combien de films peux-tu regarder dans un week-end ?|Wie viele Filme kannst du an einem Tag schauen?|Wie viele Filme kannst du an einem Wochenende schauen?|inchange
+ecrans-286|Quel lieu est le décor idéal d’un film d’horreur ?|Quel lieu est le décor idéal d’une comédie ?|Welcher Ort ist die ideale Kulisse für einen Horrorfilm?|Welcher Ort ist die ideale Kulisse für eine Komödie?|inchange
+ecrans-319|Que chuchotes-tu à ton voisin quand le film commence ?|Que chuchotes-tu à ton voisin quand le film devient ennuyeux ?|Was flüsterst du deinem Nachbarn zu, wenn der Film anfängt?|Was flüsterst du deinem Nachbarn zu, wenn der Film langweilig wird?|inchange
+ecrans-324|Que fais-tu quand ton voisin de siège parle pendant le film ?|Que fais-tu quand un téléphone s’allume devant toi au cinéma ?|Was machst du, wenn dein Sitznachbar während des Films redet?|Was machst du, wenn vor dir im Kino ein Handy aufleuchtet?|inchange
+ecrans-325|Quel objet trouve-t-on toujours par terre dans une salle après la séance ?|Quel objet as-tu déjà perdu dans une salle de cinéma ?|Welchen Gegenstand findet man nach der Vorstellung immer auf dem Boden des Kinosaals?|Welchen Gegenstand hast du schon mal in einem Kinosaal verloren?|inchange
+ecrans-335|Quel snack rêverais-tu de trouver au comptoir du cinéma ?|Quel snack ne devrait jamais être vendu au cinéma ?|Welchen Snack hättest du gern an der Kinotheke?|Welcher Snack sollte nie im Kino verkauft werden?|inchange
+ecrans-339|Que dis-tu au vendeur quand il te propose la taille au-dessus ?|Que dis-tu quand quelqu’un pioche dans ton popcorn sans demander ?|Was sagst du zum Verkäufer, wenn er dir die nächste Größe anbietet?|Was sagst du, wenn sich jemand ungefragt an deinem Popcorn bedient?|inchange
+ecrans-342|Combien dépenses-tu au total pour une sortie cinéma (en euros) ?|Combien dépenses-tu en snacks pour une soirée film chez toi (en euros) ?|Wie viel gibst du insgesamt für einen Kinobesuch aus (in Euro)?|Wie viel gibst du für Snacks bei einem Filmabend zu Hause aus (in Euro)?|inchange
+ecrans-359|Que réponds-tu quand on te demande ce qu’on regarde ce soir ?|Que réponds-tu quand on te propose un film que tu as déjà vu ?|Was antwortest du, wenn jemand fragt, was ihr heute Abend schaut?|Was antwortest du, wenn dir jemand einen Film vorschlägt, den du schon gesehen hast?|inchange
+ecrans-437|Quel mot dis-tu quand une plateforme augmente son prix ?|Quel mot dis-tu quand une série disparaît du catalogue ?|Welches Wort sagst du, wenn ein Streamingdienst die Preise erhöht?|Welches Wort sagst du, wenn eine Serie aus dem Katalog verschwindet?|inchange
+ecrans-465|Quelle phrase entend-on toujours dans un film de braquage ?|Quelle phrase entend-on toujours dans un film de sport ?|Welchen Satz hört man immer in einem Heist-Film?|Welchen Satz hört man immer in einem Sportfilm?|inchange
+ecrans-468|À quel moment du film le héros doute-t-il toujours ?|À quel moment du film le méchant révèle-t-il son plan ?|An welcher Stelle im Film zweifelt der Held immer?|An welcher Stelle im Film verrät der Bösewicht seinen Plan?|inchange
+ecrans-475|Dans quel lieu se cache toujours un indice dans un film d’enquête ?|Dans quel lieu trouve-t-on toujours un passage secret dans un film ?|An welchem Ort ist in einem Krimi immer ein Hinweis versteckt?|An welchem Ort findet man im Film immer einen Geheimgang?|inchange
+ecrans-584|En quelle année est sorti le plus vieux film que tu adores ?|En quelle année est sorti le film de ton enfance que tu revois le plus ?|In welchem Jahr kam der älteste Film raus, den du liebst?|In welchem Jahr kam der Kindheitsfilm raus, den du am öftesten schaust?|inchange
+ecrans-613|Quel prix maximum mettrais-tu dans un coffret collector de saga ?|Quel prix maximum mettrais-tu dans une affiche de film originale ?|Wie viel würdest du höchstens für eine Sammlerbox einer Filmreihe ausgeben?|Wie viel würdest du höchstens für ein originales Filmplakat ausgeben?|inchange
+musique-025|Combien paierais-tu pour voir ton artiste préféré (en euros) ?|Combien coûte une place de concert normale (en euros) ?|Wie viel würdest du zahlen, um deinen Lieblingskünstler live zu sehen (in Euro)?|Wie viel kostet ein normales Konzertticket (in Euro)?|inchange
+musique-057|À quel volume, sur 10, écoutes-tu la musique en voiture ?|À quel volume, sur 10, écoutes-tu la musique au casque ?|Auf welcher Lautstärke von 1 bis 10 hörst du Musik im Auto?|Auf welcher Lautstärke von 1 bis 10 hörst du Musik mit Kopfhörern?|inchange
+musique-063|Combien de fois peux-tu écouter la même chanson sur un trajet ?|Combien de chansons passes-tu avant d’en trouver une bonne en voiture ?|Wie oft kannst du auf einer Fahrt denselben Song hören?|Wie viele Songs skippst du im Auto, bevor du einen guten findest?|inchange
+musique-097|Combien d’artistes différents écoutes-tu dans une semaine ?|Combien de genres différents écoutes-tu dans une semaine ?|Wie viele verschiedene Künstler hörst du in einer Woche?|Wie viele verschiedene Genres hörst du in einer Woche?|inchange
+musique-099|Qui fait les meilleures playlists autour de toi ?|Qui te recommande toujours des chansons autour de toi ?|Wer in deinem Umfeld macht die besten Playlists?|Wer in deinem Umfeld empfiehlt dir immer Songs?|inchange
+musique-101|Combien de fois appuies-tu sur « répéter » quand ton réveil sonne ?|Combien de réveils mets-tu le matin ?|Wie oft drückst du auf „Schlummern“, wenn dein Wecker klingelt?|Wie viele Wecker stellst du dir morgens?|inchange
+musique-158|Combien d’heures par jour gardes-tu ton casque au travail ?|Combien d’heures par jour écoutes-tu de la musique dans les transports ?|Wie viele Stunden am Tag trägst du bei der Arbeit Kopfhörer?|Wie viele Stunden am Tag hörst du in Bus und Bahn Musik?|inchange
+musique-165|Combien de minutes mets-tu à choisir quoi écouter en partant le matin ?|Combien de minutes peux-tu travailler sans musique ?|Wie viele Minuten brauchst du morgens, um auszusuchen, was du hörst?|Wie viele Minuten kannst du ohne Musik arbeiten?|inchange
+musique-223|Quel objet connecté utilises-tu pour mettre de la musique ?|Quel objet utilisais-tu pour mettre de la musique il y a dix ans ?|Welches smarte Gerät benutzt du, um Musik anzumachen?|Welches Gerät hast du vor zehn Jahren benutzt, um Musik anzumachen?|inchange
+musique-249|Jusqu’à quelle heure peut-on mettre de la musique fort chez soi ?|À partir de quelle heure peut-on mettre de la musique le week-end ?|Bis wie viel Uhr darf man zu Hause laut Musik hören?|Ab wie viel Uhr darf man am Wochenende Musik anmachen?|inchange
+musique-294|Combien paierais-tu pour un bon casque (en euros) ?|Combien paierais-tu pour une bonne enceinte (en euros) ?|Wie viel würdest du für gute Kopfhörer zahlen (in Euro)?|Wie viel würdest du für eine gute Box zahlen (in Euro)?|inchange
+enfance-001|Quelle matière préférais-tu à l’école ?|Quelle matière aurais-tu aimé avoir à l’école ?|Welches Fach mochtest du in der Schule am liebsten?|Welches Fach hättest du in der Schule gern gehabt?|inchange
+enfance-002|Quelle matière te faisait le plus peur ?|Quelle matière te serait utile aujourd’hui ?|Vor welchem Fach hattest du am meisten Angst?|Welches Schulfach wäre dir heute am nützlichsten?|inchange
+enfance-003|Quel jouet as-tu gardé ?|Quel jouet voulais-tu absolument pour Noël ?|Welches Spielzeug hast du aufgehoben?|Welches Spielzeug wolltest du unbedingt zu Weihnachten?|inchange
+enfance-004|Quel goûter mangeais-tu après l’école ?|Quel plat de cantine préférais-tu ?|Was hast du nach der Schule als Snack gegessen?|Welches Mensaessen mochtest du am liebsten?|inchange
+enfance-010|Combien d’élèves y avait-il dans ta classe de CM2 ?|Combien d’amis invitais-tu à tes anniversaires d’enfant ?|Wie viele Kinder waren in deiner vierten Klasse?|Wie viele Freunde hast du als Kind zu deinem Geburtstag eingeladen?|inchange
+enfance-015|À quelle heure te couchais-tu à dix ans ?|À quelle heure commençait l’école ?|Um wie viel Uhr bist du mit zehn ins Bett gegangen?|Um wie viel Uhr hat die Schule angefangen?|inchange
+enfance-026|Quel cadeau d’anniversaire t’a le plus marqué enfant ?|Quel cadeau d’enfance as-tu toujours ?|Welches Geburtstagsgeschenk aus deiner Kindheit ist dir am meisten in Erinnerung?|Welches Geschenk aus deiner Kindheit hast du heute noch?|inchange
+enfance-030|À quel âge as-tu arrêté de croire au père Noël ?|À quel âge as-tu eu ton premier argent de poche ?|Mit wie vielen Jahren hast du aufgehört, an den Weihnachtsmann zu glauben?|Mit wie vielen Jahren hast du dein erstes Taschengeld bekommen?|inchange
+enfance-037|Combien de minutes durait ton repas à la cantine ?|Combien de minutes attendais-tu dans la file de la cantine ?|Wie viele Minuten hat dein Essen in der Mensa gedauert?|Wie viele Minuten hast du in der Schlange der Mensa gewartet?|inchange
+enfance-040|Que criait-on quand quelqu’un faisait tomber son plateau ?|Que disait la dame de la cantine pour te faire finir ton assiette ?|Was hat man gerufen, wenn jemandem das Tablett runtergefallen ist?|Was hat die Küchenfrau gesagt, damit du deinen Teller leer isst?|inchange
+tech-337|Quelle phrase dis-tu quand ton téléphone affiche 1 % ?|Quelle phrase dis-tu quand ton téléphone se rallume enfin ?|Was sagst du, wenn dein Handy 1 % anzeigt?|Was sagst du, wenn dein Handy endlich wieder angeht?|inchange
+tech-383|Que fais-tu quand un ami t’envoie un très long message ?|Que fais-tu quand un ami t’envoie dix messages d’affilée ?|Was machst du, wenn dir ein Freund eine sehr lange Nachricht schickt?|Was machst du, wenn dir ein Freund zehn Nachrichten hintereinander schickt?|inchange
+tech-403|Que fais-tu quand quelqu’un te montre 200 photos de vacances ?|Que fais-tu quand quelqu’un te montre une vidéo de 10 minutes ?|Was machst du, wenn dir jemand 200 Urlaubsfotos zeigt?|Was machst du, wenn dir jemand ein zehnminütiges Video zeigt?|inchange
+tech-428|Combien de cartes de fidélité as-tu dans ton téléphone ?|Combien de billets ou tickets as-tu dans ton téléphone ?|Wie viele Kundenkarten hast du auf deinem Handy?|Wie viele Tickets oder Fahrkarten hast du auf deinem Handy?|inchange
+tech-444|Combien coûte un bon ordinateur portable ?|Combien coûte un bon téléphone ?|Wie viel kostet ein guter Laptop?|Wie viel kostet ein gutes Handy?|inchange
+tech-462|Combien coûte une paire d’écouteurs sans fil ?|Combien coûte une montre connectée ?|Wie viel kosten kabellose Kopfhörer?|Wie viel kostet eine Smartwatch?|inchange
+tech-477|Quelle langue as-tu essayé d’apprendre avec une appli ?|Quelle langue aimerais-tu apprendre avec une appli ?|Welche Sprache hast du versucht, mit einer App zu lernen?|Welche Sprache würdest du gern mit einer App lernen?|inchange
+tech-478|Combien de minutes passes-tu à chercher le code wifi chez quelqu’un ?|Combien de minutes passes-tu à redémarrer ta box en cas de panne ?|Wie viele Minuten suchst du bei anderen nach dem WLAN-Passwort?|Wie viele Minuten verbringst du bei einer Störung damit, den Router neu zu starten?|inchange
+tech-502|Dans combien d’années aura-t-on tous un robot à la maison ?|Dans combien d’années les voitures rouleront-elles seules partout ?|In wie vielen Jahren haben wir alle einen Roboter zu Hause?|In wie vielen Jahren fahren Autos überall von selbst?|inchange
+nature-058|Combien de minutes restes-tu dans une mer à 10 degrés ?|Combien de minutes restes-tu dans une mer à 25 degrés ?|Wie viele Minuten bleibst du in 18 Grad kaltem Meerwasser?|Wie viele Minuten bleibst du in 25 Grad warmem Meerwasser?|fr-modifie
+nature-059|Que fais-tu en premier en arrivant sur une plage ?|Que fais-tu en premier en arrivant à la piscine ?|Was machst du als Erstes, wenn du an einen Strand kommst?|Was machst du als Letztes, bevor du den Strand verlässt?|fr-modifie
+nature-066|Combien de secondes mets-tu à entrer dans une mer froide ?|Combien de secondes peux-tu tenir la tête sous l’eau ?|Wie viele Sekunden brauchst du, um in kaltes Meerwasser zu gehen?|Wie viele Sekunden kannst du den Kopf unter Wasser halten?|inchange
+nature-287|Combien d’étoiles filantes as-tu vues dans ta vie ?|Combien de fois as-tu vu des dauphins dans ta vie ?|Wie viele Sternschnuppen hast du in deinem Leben gesehen?|Wie viele Wünsche hast du dir bei einer Sternschnuppe gewünscht?|fr-modifie
+nature-291|Où irais-tu pour voir le plus beau ciel étoilé ?|Où irais-tu pour voir une aurore boréale ?|Wo würdest du hinfahren, um den schönsten Sternenhimmel zu sehen?|Wo würdest du hinfahren, um Polarlichter zu sehen?|inchange
+famille-153|Que construis-tu avec de la neige ?|Que construis-tu avec du sable mouillé ?|Was baust du aus Schnee?|Was baust du aus nassem Sand?|inchange
+famille-162|Que fais-tu quand tu vois un arc-en-ciel ?|Que fais-tu quand tu vois de la neige tomber ?|Was machst du, wenn du einen Regenbogen siehst?|Was machst du, wenn du Schnee fallen siehst?|inchange
+fetes-003|Combien de cadeaux mets-tu sous le sapin en moyenne ?|Combien de personnes fêtent Noël avec toi en moyenne ?|Wie viele Geschenke legst du unter den Weihnachtsbaum?|Wie viele Leute feiern mit dir Weihnachten?|fr-modifie
+fetes-005|À quelle heure ouvres-tu les cadeaux à Noël ?|À quelle heure commence le repas de Noël ?|Um wie viel Uhr packst du an Weihnachten die Geschenke aus?|Um wie viel Uhr fängt bei dir das Weihnachtsessen an?|inchange
+fetes-009|Où aimerais-tu voir un feu d’artifice ?|Où aimerais-tu visiter un marché de Noël ?|Wo würdest du gern ein Feuerwerk sehen?|Wo würdest du gern einen Weihnachtsmarkt besuchen?|inchange
+fetes-011|Combien de jours avant Noël installes-tu le sapin ?|Combien de jours après Noël enlèves-tu le sapin ?|Wie viele Tage vor Weihnachten stellst du den Baum auf?|Wie viele Tage nach Weihnachten räumst du den Baum ab?|inchange
+fetes-014|Combien de bougies faut-il sur un gâteau pour qu’il soit beau ?|En combien de parts coupes-tu une galette des rois ?|Wie viele Kerzen braucht ein Kuchen, damit er schön aussieht?|In wie viele Stücke schneidest du einen Kuchen für Gäste?|inchange
+fetes-019|Que dis-tu pour souhaiter une bonne année ?|Que dis-tu pour souhaiter un joyeux anniversaire en retard ?|Was sagst du, um ein frohes neues Jahr zu wünschen?|Was sagst du, wenn du zu spät zum Geburtstag gratulierst?|inchange
+fetes-026|Combien de jours à l’avance achètes-tu tes cadeaux de Noël ?|Combien de jours avant les vacances fais-tu ta valise ?|Wie viele Tage im Voraus kaufst du deine Weihnachtsgeschenke?|Wie viele Tage vor dem Urlaub packst du deinen Koffer?|inchange
+fetes-040|Combien de parts de gâteau d’anniversaire manges-tu ?|Combien de parts de gâteau restent à la fin de la fête ?|Wie viele Stück Geburtstagskuchen isst du?|Wie viele Stück Kuchen bleiben am Ende der Party übrig?|inchange
+fetes-042|Combien de minutes dure le moment des cadeaux à un anniversaire ?|Combien de minutes restes-tu caché pour une fête surprise ?|Wie viele Minuten dauert das Geschenkeauspacken auf einem Geburtstag?|Wie viele Minuten bleibst du für eine Überraschungsparty versteckt?|inchange
+fetes-043|Combien de dates d’anniversaire connais-tu par cœur ?|Combien de rappels d’anniversaire as-tu dans ton téléphone ?|Wie viele Geburtstage kennst du auswendig?|Wie viele Geburtstagserinnerungen hast du im Handy?|inchange
+fetes-048|Combien de bougies mets-tu vraiment sur un gâteau d’adulte ?|Combien de cadeaux reçois-tu dans une année ?|Wie viele Kerzen steckst du wirklich auf einen Erwachsenenkuchen?|Wie viele Kerzen braucht es, um den Rauchmelder auszulösen?|fr-modifie
+fetes-050|Quel est le meilleur cadeau que tu aies reçu enfant ?|Quel objet t'es-tu acheté pour te faire plaisir pour ton anniversaire ?|Was war das beste Geschenk, das du als Kind bekommen hast?|Welches Geschenk hast du dir als Kind am meisten gewünscht?|fr-modifie
+fetes-052|Combien de minutes mets-tu à emballer un cadeau ?|Combien de minutes mets-tu à écrire une carte d’anniversaire ?|Wie viele Minuten brauchst du, um ein Geschenk einzupacken?|Wie viele Minuten brauchst du, um eine Geburtstagskarte auszusuchen?|fr-modifie
+fetes-055|Que dis-tu quand un cadeau ne te plaît pas du tout ?|Que dis-tu quand tu reçois un cadeau beaucoup trop généreux ?|Was sagst du, wenn dir ein Geschenk gar nicht gefällt?|Was sagst du, wenn du ein viel zu großzügiges Geschenk bekommst?|inchange
+fetes-057|Combien de cadeaux offres-tu dans une année ?|Combien de cadeaux reçois-tu dans une année ?|Wie viele Geschenke machst du im Jahr?|Wie viele Geschenke bekommst du im Jahr?|inchange
+fetes-063|Que trouve-t-on à coup sûr dans une pochette surprise ?|Quel jouet trouve-t-on à coup sûr dans un œuf en chocolat ?|Was findet man garantiert in einer Mitgebseltüte?|Welches Spielzeug findet man garantiert in einem Überraschungsei?|fr-modifie
+fetes-064|Quel mot écris-tu sur une carte de félicitations ?|Quel mot écris-tu sur une carte de remerciement ?|Welches Wort schreibst du auf eine Glückwunschkarte?|Welches Wort schreibst du auf eine Dankeskarte?|inchange
+fetes-065|Combien de jours mets-tu à remercier pour un cadeau ?|Combien de jours gardes-tu un bouquet reçu en cadeau ?|Wie viele Tage brauchst du, um dich für ein Geschenk zu bedanken?|Wie viele Tage behältst du einen geschenkten Blumenstrauß?|inchange
+fetes-066|Où caches-tu les cadeaux avant de les offrir ?|Où ranges-tu les cadeaux que tu n’utilises pas ?|Wo versteckst du Geschenke, bevor du sie verschenkst?|Wo verstaust du Geschenke, die du nicht benutzt?|inchange
+fetes-137|Combien dépenses-tu pour un bouquet de fleurs ?|Combien dépenses-tu pour une boîte de chocolats à offrir ?|Wie viel gibst du für einen Blumenstrauß aus?|Wie viel gibst du für eine Pralinenschachtel als Geschenk aus?|inchange
+fetes-164|Combien d’invités faut-il pour un beau mariage ?|Combien de tables compte une belle salle de réception ?|Wie viele Gäste braucht eine schöne Hochzeit?|Wie viele Tische hat ein schöner Festsaal?|inchange
+fetes-171|À combien de mariages es-tu allé dans ta vie ?|À combien d'anniversaires es-tu allé dans ta vie ?|Auf wie vielen Hochzeiten warst du schon in deinem Leben?|Auf wie vielen Taufen warst du schon in deinem Leben?|fr-modifie
+fetes-196|Combien de fois dis-tu bonne année le 1er janvier ?|Combien de fois dis-tu joyeux anniversaire dans une année ?|Wie oft sagst du am 1. Januar „Frohes neues Jahr“?|Wie oft sagst du im Jahr „Alles Gute zum Geburtstag“?|inchange
+fetes-198|À quelle heure arrives-tu quand on t’invite à 20 heures ?|À quelle heure pars-tu d’une soirée qui t’ennuie ?|Um wie viel Uhr kommst du, wenn du für 20 Uhr eingeladen bist?|Um wie viel Uhr gehst du von einer Party, die dich langweilt?|inchange
+fetes-222|Combien coûte un billet pour un parc d'attractions ?|Combien coûte une console de jeu ?|Wie viel kostet eine Fahrt mit dem Karussell?|Wie viel kostet eine Zuckerwatte?|fr-modifie
+fetes-223|Combien de minutes maximum attends-tu pour un grand huit ?|Combien de minutes attends-tu pour une grande roue ?|Wie viele Minuten wartest du für eine Achterbahn?|Wie viele Minuten wartest du für ein Riesenrad?|fr-modifie
+fetes-227|Combien de lancers te faut-il pour gagner une peluche ?|Combien d’essais te faut-il pour attraper un canard à la pêche ?|Wie viele Würfe brauchst du, um ein Kuscheltier zu gewinnen?|Wie viele Versuche brauchst du, um beim Entenangeln eine Ente zu fangen?|inchange
+fetes-243|Que dis-tu quand il fait nuit à 17 heures ?|Que dis-tu quand il fait encore jour à 22 heures ?|Was sagst du, wenn es um 17 Uhr schon dunkel ist?|Was sagst du, wenn es um 22 Uhr noch hell ist?|inchange
+fetes-263|Que fais-tu le 26 décembre ?|Que fais-tu le 2 janvier ?|Was machst du am 26. Dezember?|Was machst du am 2. Januar?|inchange
+fetes-275|Combien de photos prends-tu pendant une fête ?|Combien de photos de fête gardes-tu vraiment ?|Wie viele Fotos machst du auf einer Party?|Wie viele Partyfotos behältst du wirklich?|inchange
+fetes-279|Quel moment d’une fête aimes-tu prendre en photo ?|Quel moment d’une fête préfères-tu vivre sans téléphone ?|Welchen Moment einer Party fotografierst du gern?|Welchen Moment einer Party erlebst du lieber ohne Handy?|inchange
+fetes-280|Qui prend toujours les photos dans ton groupe d’amis ?|Qui organise toujours la photo de groupe dans ta famille ?|Wer macht in deinem Freundeskreis immer die Fotos?|Wer organisiert in deiner Familie immer das Gruppenfoto?|inchange
+fetes-289|Combien de ballons gonfles-tu pour une fête ?|Combien de paquets de chips achètes-tu pour une fête ?|Wie viele Luftballons bläst du für eine Party auf?|Wie viele Tüten Chips kaufst du für eine Party?|inchange
+fetes-290|Combien de minutes mets-tu à gonfler dix ballons ?|Combien de minutes mets-tu à dresser la table pour dix ?|Wie viele Minuten brauchst du, um zehn Luftballons aufzublasen?|Wie viele Minuten brauchst du, um den Tisch für zehn zu decken?|inchange
+fetes-300|Que dis-tu en accueillant tes invités ?|Que dis-tu en arrivant chez quelqu’un qui fait une fête ?|Was sagst du, wenn du deine Gäste begrüßt?|Was sagst du, wenn du bei jemandem zu einer Party ankommst?|inchange
+fetes-302|Quel fromage mets-tu sur un plateau de fête ?|Quel fromage mets-tu dans une raclette ?|Welchen Käse legst du auf eine festliche Käseplatte?|Welchen Käse nimmst du für ein Raclette?|inchange
+fetes-303|Quel objet empruntes-tu toujours pour organiser une fête ?|Quel objet prêtes-tu toujours pour une fête ?|Was leihst du dir immer, um eine Party zu organisieren?|Was verleihst du immer für eine Party?|inchange
+fetes-305|À quelle heure sers-tu le gâteau à un anniversaire du soir ?|À quelle heure sers-tu le dessert à un dîner entre amis ?|Um wie viel Uhr gibt es auf einem Geburtstag am Abend den Kuchen?|Um wie viel Uhr gibt es beim Abendessen mit Freunden den Nachtisch?|inchange
+fetes-308|À partir de quel âge offre-t-on de l’argent plutôt qu’un cadeau ?|À partir de quel âge arrête-t-on les pochettes surprises ?|Ab welchem Alter schenkt man lieber Geld als ein Geschenk?|Ab welchem Alter hört man mit Mitgebseltüten auf?|inchange
+fetes-309|Combien dépenses-tu pour une fête chez toi ?|Combien dépenses-tu pour un week-end entre amis ?|Wie viel gibst du für eine Party bei dir zu Hause aus?|Wie viel gibst du für ein Wochenende mit Freunden aus?|inchange
+fetes-311|Quel objet trouves-tu toujours sous le canapé après une fête ?|Quel objet trouves-tu toujours dans le jardin après une fête ?|Was findest du nach einer Party immer unter dem Sofa?|Was findest du nach einer Party immer im Garten?|inchange
+fetes-313|Quel invité arrive toujours le premier ?|Quel invité reste toujours pour aider ?|Welcher Gast kommt immer als Erster?|Welcher Gast bleibt immer zum Helfen da?|inchange
+fetes-316|Combien de jours tiennent tes résolutions de janvier ?|Combien de résolutions notes-tu le 1er janvier ?|Wie viele Tage halten deine Vorsätze im Januar?|Wie viele Vorsätze schreibst du am 1. Januar auf?|inchange
+fetes-332|Combien de fois écris-tu encore l’ancienne année en janvier ?|Combien de fois te trompes-tu de date en janvier ?|Wie oft schreibst du im Januar noch die alte Jahreszahl?|Wie oft vertust du dich im Januar beim Datum?|inchange
+fetes-333|Combien coûte un agenda pour la nouvelle année ?|Combien coûte un calendrier de l'avent de chocolat ?|Wie viel kostet ein Terminkalender für das neue Jahr?|Wie viel kostet ein Wandkalender?|fr-modifie
+fetes-335|Quel objet sert de fève quand on n’en a pas ?|Quel objet remplace la couronne quand on l’a oubliée ?|Was nimmt man als Bohne für den Dreikönigskuchen, wenn man keine hat?|Was ersetzt die Krone, wenn man sie vergessen hat?|inchange
+fetes-341|Combien coûte une galette pour six ?|Combien coûte une tarte aux pommes pour six ?|Wie viel kostet ein Dreikönigskuchen für sechs?|Wie viel kostet ein Apfelkuchen für sechs?|inchange
+fetes-345|Combien de crêpes manges-tu au goûter ?|Combien de crêpes prépares-tu pour quatre personnes ?|Wie viele Pfannkuchen isst du am Nachmittag?|Wie viele Pfannkuchen machst du für vier Personen?|inchange
+fetes-346|Quelle crêpe salée préfères-tu ?|Quelle crêpe sucrée préfères-tu ?|Welchen herzhaften Pfannkuchen magst du am liebsten?|Welchen süßen Pfannkuchen magst du am liebsten?|inchange
+fetes-347|Qui fait sauter les crêpes chez toi ?|Qui mange les crêpes ratées chez toi ?|Wer wendet bei dir die Pfannkuchen?|Wer isst bei dir die missglückten Pfannkuchen?|inchange
+fetes-353|Quelle garniture de crêpe mets-tu pour les enfants ?|Quelle garniture de crêpe gardes-tu pour les adultes ?|Welchen Belag nimmst du für die Pfannkuchen der Kinder?|Welchen Belag hebst du für die Pfannkuchen der Erwachsenen auf?|inchange
+fetes-354|Combien coûte une crêpe au sucre dans une crêperie ?|Combien coûte une galette complète dans une crêperie ?|Wie viel kostet ein Crêpe mit Zucker an einem Stand?|Wie viel kostet ein herzhafter Crêpe mit Schinken und Käse an einem Stand?|inchange
+fetes-365|Quel personnage imites-tu avec seulement une moustache ?|Quel personnage imites-tu avec seulement un chapeau ?|Welche Figur stellst du nur mit einem Schnurrbart dar?|Welche Figur stellst du nur mit einem Hut dar?|inchange
+fetes-371|Quel objet utilises-tu pour une blague du 1er avril ?|Quel objet utilises-tu pour un tour de magie ?|Welchen Gegenstand benutzt du für einen Aprilscherz?|Welchen Gegenstand benutzt du für einen Zaubertrick?|inchange
+fetes-390|Quel jeu organises-tu pour les enfants à Pâques ?|Quel jeu organises-tu pour les enfants à la plage ?|Welches Spiel organisierst du an Ostern für die Kinder?|Welches Spiel organisierst du am Strand für die Kinder?|inchange
+fetes-399|Combien coûte une tablette de chocolat ?|Combien coûte une rose chez le fleuriste ?|Wie viel kostet ein Strauß Maiglöckchen?|Wie viel kostet eine Rose beim Floristen?|fr-modifie
+fetes-410|Que dis-tu pour inviter un voisin que tu ne connais pas ?|Que dis-tu pour te présenter à un nouveau voisin ?|Was sagst du, um einen Nachbarn einzuladen, den du nicht kennst?|Was sagst du, um dich einem neuen Nachbarn vorzustellen?|inchange
+fetes-431|Quel bruit fais-tu pour imiter un feu d’artifice ?|Quel bruit fais-tu pour imiter une voiture de course ?|Welches Geräusch machst du, um ein Feuerwerk nachzuahmen?|Welches Geräusch machst du, um ein Rennauto nachzuahmen?|inchange
+ville-228|Combien de jours faut-il pour visiter une grande ville ?|Combien de jours pars-tu en vacances par an ?|Wie viele Tage braucht man, um eine Großstadt zu besichtigen?|Wie viele Tage brauchst du, um dich in einer Stadt zu Hause zu fühlen?|fr-modifie
+ville-231|Que dis-tu à un touriste perdu devant toi ?|Que dis-tu quand un touriste te demande de le prendre en photo ?|Was sagst du zu einem Touristen, der sich vor dir verlaufen hat?|Was sagst du, wenn dich ein Tourist bittet, ein Foto von ihm zu machen?|inchange
+ville-232|Combien de photos prends-tu en une journée de visite ?|Combien de photos de monuments gardes-tu vraiment ?|Wie viele Fotos machst du an einem Besichtigungstag?|Wie viele Fotos von Sehenswürdigkeiten behältst du wirklich?|inchange
+ville-243|Combien coûte un ticket de métro dans ta ville ?|Combien coûte une amende quand tu fraudes dans les transports ?|Was kostet ein U-Bahn-Ticket in deiner Stadt?|Was kostet ein Busticket in deiner Stadt?|fr-modifie
+ville-259|Combien de minutes de transport acceptes-tu au maximum pour aller au travail ?|Combien de minutes de transport acceptes-tu au maximum pour voir tes amis ?|Wie viele Minuten Fahrt nimmst du höchstens in Kauf, um zur Arbeit zu kommen?|Wie viele Minuten Fahrt nimmst du höchstens in Kauf, um deine Freunde zu sehen?|inchange
+ville-313|Combien de lignes de bus prends-tu dans un mois ?|Combien de stations de métro connais-tu par cœur ?|Wie viele Buslinien nimmst du in einem Monat?|Wie viele U-Bahn-Stationen kennst du auswendig?|inchange
+ville-315|Combien coûte un ticket de métro selon toi ?|Combien coûte une heure de parking en centre-ville selon toi ?|Was kostet deiner Meinung nach ein U-Bahn-Ticket?|Was kostet deiner Meinung nach eine Stunde Parken in der Innenstadt?|inchange
+ville-327|Combien de minutes cherches-tu une place pour te garer ?|Combien de minutes attends-tu à un feu rouge dans ta journée ?|Wie viele Minuten suchst du nach einem Parkplatz?|Wie viele Minuten wartest du am Tag an roten Ampeln?|inchange
+ville-331|Que dis-tu quand une trottinette te frôle ?|Que dis-tu quand un vélo te sonne derrière toi ?|Was sagst du, wenn ein E-Scooter knapp an dir vorbeifährt?|Was sagst du, wenn hinter dir ein Fahrrad klingelt?|inchange
+imaginaire-029|Combien d’heures de plus voudrais-tu dans une journée ?|Combien d’heures a duré ton plus long trajet en avion ?|Wie viele Stunden mehr hättest du gern an einem Tag?|Wie viele Stunden Schlaf würden dir reichen, wenn du ein Roboter wärst?|fr-modifie
+popculture-004|Quel film d’animation plaît autant aux adultes qu’aux enfants ?|Quel film d’animation t’a fait pleurer ?|Welcher Animationsfilm gefällt Erwachsenen genauso wie Kindern?|Bei welchem Animationsfilm hast du geweint?|inchange
+popculture-008|Quelle série a la meilleure fin ?|Quelle série aurait dû s’arrêter plus tôt ?|Welche Serie hat das beste Ende?|Welche Serie hätte früher aufhören sollen?|inchange
+popculture-012|Quel personnage de jeu vidéo tout le monde connaît ?|Quel personnage de jeu vidéo mériterait son propre film ?|Welche Videospielfigur kennt jeder?|Welche Videospielfigur hätte einen eigenen Film verdient?|inchange
+popculture-017|Quel tube de l’été restera dans les mémoires ?|Quel tube de l’été t’a le plus agacé ?|Welcher Sommerhit wird in Erinnerung bleiben?|Welcher Sommerhit hat dich am meisten genervt?|inchange
+popculture-110|Quel jour sort l’épisode que tu attends le plus ?|Quel jour de la semaine réserves-tu à ta série préférée ?|An welchem Tag erscheint die Folge, auf die du am meisten wartest?|Welchen Wochentag reservierst du für deine Lieblingsserie?|inchange
+popculture-114|Quelle série regardes-tu en fond pendant que tu fais autre chose ?|Quelle série exige toute ton attention ?|Welche Serie läuft bei dir nebenbei, während du was anderes machst?|Welche Serie verlangt deine volle Aufmerksamkeit?|inchange
+popculture-128|Qui remercierais-tu en premier dans ton discours de remerciement à ton mariage ?|Qui oublierais-tu forcément de remercier dans ton discours à ton mariage ?|Wem würdest du in deiner Dankesrede als Erstes danken?|Wen würdest du in deiner Dankesrede garantiert vergessen?|fr-modifie
+popculture-240|Quel film d’animation regardes-tu sans enfants ?|Quel film d’animation regardes-tu avec des enfants ?|Welchen Animationsfilm schaust du ohne Kinder?|Welchen Animationsfilm schaust du mit Kindern?|inchange
+nostalgie-022|Combien coûtait une baguette quand tu étais petit ?|Combien coûtait un paquet de bonbons quand tu étais petit ?|Was hat ein Brötchen gekostet, als du klein warst?|Was hat eine Tüte Gummibärchen gekostet, als du klein warst?|inchange
+nostalgie-026|Que faisais-tu le mercredi après-midi ?|Quelle activité extra-scolaire as-tu abandonnée ?|Was hast du nachmittags nach der Schule gemacht?|Welches Hobby außerhalb der Schule hast du aufgegeben?|inchange
+nostalgie-029|Quel moment de l’année attendais-tu le plus enfant ?|Quel moment de l’année redoutais-tu enfant ?|Auf welche Zeit im Jahr hast du dich als Kind am meisten gefreut?|Vor welcher Zeit im Jahr hattest du als Kind Bammel?|inchange
+nostalgie-049|À quel âge as-tu arrêté de regarder les dessins animés ?|À quel âge as-tu eu le droit de veiller pour un film ?|Mit wie vielen Jahren hast du aufgehört, Zeichentrick zu schauen?|Mit wie vielen Jahren durftest du für einen Film länger aufbleiben?|inchange
+nostalgie-083|Quelles céréales mangeais-tu le matin enfant ?|Quelles céréales mangeais-tu directement dans la boîte ?|Welche Cornflakes hast du als Kind morgens gegessen?|Welche Cornflakes hast du direkt aus der Packung gegessen?|inchange
+nostalgie-084|Quel gâteau sec trempais-tu dans ton lait ?|Quel gâteau sec mangeais-tu en cachette dans le placard ?|Welchen Keks hast du in deine Milch getunkt?|Welchen Keks hast du heimlich aus dem Schrank stibitzt?|inchange
+nostalgie-087|Quel bonbon collait aux dents ?|Quel bonbon piquait la langue ?|Welche Süßigkeit hat an den Zähnen geklebt?|Welche Süßigkeit hat auf der Zunge gekribbelt?|inchange
+nostalgie-090|Combien d’argent de poche avais-tu par semaine ?|Combien dépensais-tu en bonbons par semaine ?|Wie viel Taschengeld hast du pro Woche bekommen?|Wie viel hast du pro Woche für Süßigkeiten ausgegeben?|inchange
+nostalgie-175|Que faisait-on en famille le dimanche après-midi ?|Que faisait-on en famille les soirs d’été ?|Was habt ihr sonntagnachmittags als Familie gemacht?|Was habt ihr an Sommerabenden als Familie gemacht?|inchange
+nostalgie-181|Quel gâteau faisait toujours la même personne de ta famille ?|Quel gâteau achetait-on toujours chez le même pâtissier ?|Welchen Kuchen hat immer dieselbe Person in deiner Familie gebacken?|Welchen Kuchen habt ihr immer beim selben Konditor gekauft?|inchange
+nostalgie-225|Combien coûtait une place de cinéma quand tu étais ado ?|Combien coûtait un CD neuf quand tu étais ado ?|Was hat eine Kinokarte gekostet, als du ein Teenager warst?|Was hat eine neue CD gekostet, als du ein Teenager warst?|inchange
+nostalgie-226|Combien coûtait une glace à la plage quand tu étais petit ?|Combien coûtait un tour de manège quand tu étais petit ?|Was hat ein Eis am Strand gekostet, als du klein warst?|Was hat eine Karussellfahrt gekostet, als du klein warst?|inchange
+nostalgie-227|Combien coûtait ton magazine préféré enfant ?|Combien coûtait une pochette d’images à coller enfant ?|Was hat dein Lieblingsheft als Kind gekostet?|Was hat eine Tüte Sammelsticker gekostet, als du Kind warst?|inchange
+nostalgie-228|Combien coûtait un menu au fast-food quand tu étais ado ?|Combien coûtait une pizza à partager quand tu étais ado ?|Was hat ein Menü im Fast-Food-Laden gekostet, als du ein Teenager warst?|Was hat eine Pizza zum Teilen gekostet, als du ein Teenager warst?|inchange
+nostalgie-229|Combien coûtait une heure de cybercafé ?|Combien coûtait la location d’une cassette vidéo ?|Was hat eine Stunde im Internetcafé gekostet?|Was hat das Ausleihen einer Videokassette gekostet?|inchange
+nostalgie-230|Combien coûtait un ticket de bus quand tu étais ado ?|Combien coûtait un timbre quand tu étais ado ?|Was hat ein Busticket gekostet, als du ein Teenager warst?|Was hat eine Briefmarke gekostet, als du ein Teenager warst?|inchange
+nostalgie-231|Combien coûtait un croissant quand tu étais petit ?|Combien coûtait une sucette à la boulangerie quand tu étais petit ?|Was hat eine Brezel gekostet, als du klein warst?|Was hat ein Lutscher am Kiosk gekostet, als du klein warst?|inchange
+nostalgie-232|Combien coûtait une console de jeux quand tu étais petit ?|Combien coûtait un vélo neuf quand tu étais petit ?|Was hat eine Spielkonsole gekostet, als du klein warst?|Was hat ein neues Fahrrad gekostet, als du klein warst?|inchange
+nostalgie-277|Quelle console avais-tu enfant ?|Sur quelle console as-tu joué pour la dernière fois ?|Welche Konsole hattest du als Kind?|Welche Konsole hatte dein bester Freund als Kind?|fr-modifie
+reflexe-001|Cite un objet toujours présent dans une cuisine.|Cite un objet toujours présent dans une salle de bain.|Nenne einen Gegenstand, den es in jeder Küche gibt.|Nenne einen Gegenstand, den es in jedem Badezimmer gibt.|inchange
+reflexe-002|Cite une pièce de la maison.|Cite un endroit où l’on range des affaires.|Nenne einen Raum in der Wohnung.|Nenne einen Ort, an dem man Sachen verstaut.|inchange
+reflexe-003|Cite un objet électrique.|Cite un objet qu’on branche le soir.|Nenne ein elektrisches Gerät.|Nenne etwas, das man abends einsteckt.|inchange
+reflexe-004|Cite un objet en bois.|Cite un objet qu’on trouve dans un chalet.|Nenne einen Gegenstand aus Holz.|Nenne einen Gegenstand, den man in einer Berghütte findet.|inchange
+reflexe-005|Cite un outil de jardinage.|Cite un outil qu’on trouve dans un garage.|Nenne ein Gartenwerkzeug.|Nenne ein Werkzeug, das man in einer Garage findet.|inchange
+reflexe-006|Cite un animal de la ferme.|Cite un animal du zoo.|Nenne ein Tier vom Bauernhof.|Nenne ein Tier aus dem Zoo.|inchange
+reflexe-007|Cite un animal qui vole.|Cite un animal qui vit dans les arbres.|Nenne ein Tier, das fliegt.|Nenne ein Tier, das auf Bäumen lebt.|inchange
+reflexe-008|Cite un animal marin.|Cite un animal qu’on voit à l’aquarium.|Nenne ein Meerestier.|Nenne ein Tier, das man im Aquarium sieht.|inchange
+reflexe-009|Cite un animal de compagnie.|Cite un petit animal.|Nenne ein Haustier.|Nenne ein kleines Tier.|inchange
+reflexe-010|Cite un prénom de chien.|Cite un prénom de chat.|Nenne einen Hundenamen.|Nenne einen Katzennamen.|inchange
+reflexe-011|Cite un fruit rouge.|Cite un fruit d’été.|Nenne eine rote Frucht.|Nenne eine Sommerfrucht.|inchange
+reflexe-012|Cite un légume vert.|Cite un légume qu’on met dans la soupe.|Nenne ein grünes Gemüse.|Nenne ein Gemüse, das man in die Suppe tut.|inchange
+reflexe-013|Cite un plat qu’on mange avec les doigts.|Cite un plat qu’on partage à plusieurs.|Nenne ein Gericht, das man mit den Fingern isst.|Nenne ein Gericht, das man mit mehreren teilt.|inchange
+reflexe-014|Cite une boisson chaude.|Cite une boisson du petit-déjeuner.|Nenne ein heißes Getränk.|Nenne ein Getränk zum Frühstück.|inchange
+reflexe-015|Cite un fromage.|Cite un fromage qui fond bien.|Nenne eine Käsesorte.|Nenne einen Käse, der gut schmilzt.|inchange
+reflexe-016|Cite un dessert.|Cite un dessert de restaurant.|Nenne einen Nachtisch.|Nenne einen Nachtisch, den man im Restaurant bestellt.|inchange
+reflexe-017|Cite un ingrédient de pizza.|Cite un ingrédient de salade.|Nenne eine Pizzazutat.|Nenne eine Salatzutat.|inchange
+reflexe-018|Cite un pays où il fait chaud.|Cite un pays où tu aimerais aller.|Nenne ein Land, in dem es heiß ist.|Nenne ein Land, in das du gern reisen würdest.|inchange
+reflexe-019|Cite un pays d’Europe.|Cite un pays voisin de la France.|Nenne ein Land in Europa.|Nenne ein Nachbarland von Deutschland.|inchange
+reflexe-020|Cite une ville au bord de la mer.|Cite une ville avec un grand port.|Nenne eine Stadt am Meer.|Nenne eine Stadt mit einem großen Hafen.|inchange
+reflexe-021|Cite un endroit où l’on chuchote.|Cite un endroit où l’on attend longtemps.|Nenne einen Ort, an dem man flüstert.|Nenne einen Ort, an dem man lange wartet.|inchange
+reflexe-022|Cite une couleur de voiture.|Cite une couleur de vélo.|Nenne eine Autofarbe.|Nenne eine Fahrradfarbe.|inchange
+reflexe-023|Cite une couleur de drapeau.|Cite une couleur de l’arc-en-ciel.|Nenne eine Farbe, die auf einer Flagge vorkommt.|Nenne eine Farbe des Regenbogens.|inchange
+reflexe-024|Cite quelque chose de rond.|Cite quelque chose qui roule.|Nenne etwas Rundes.|Nenne etwas, das rollt.|inchange
+reflexe-025|Cite quelque chose de froid.|Cite quelque chose de blanc.|Nenne etwas Kaltes.|Nenne etwas Weißes.|inchange
+reflexe-026|Cite un métier en uniforme.|Cite un métier où l’on travaille la nuit.|Nenne einen Beruf mit Uniform.|Nenne einen Beruf, in dem man nachts arbeitet.|inchange
+reflexe-027|Cite un métier qui sauve des vies.|Cite un métier qu’on admire.|Nenne einen Beruf, der Leben rettet.|Nenne einen Beruf, den man bewundert.|inchange
+reflexe-028|Cite un sport avec un ballon.|Cite un sport qu’on regarde à la télé.|Nenne eine Ballsportart.|Nenne eine Sportart, die man im Fernsehen schaut.|inchange
+reflexe-029|Cite un loisir qu’on fait seul.|Cite un loisir qu’on fait le dimanche.|Nenne ein Hobby, das man allein macht.|Nenne ein Hobby, das man sonntags macht.|inchange
+reflexe-030|Cite un jeu de cartes.|Cite un jeu qu’on fait en famille.|Nenne ein Kartenspiel.|Nenne ein Spiel, das man mit der Familie spielt.|inchange
+reflexe-031|Cite un instrument de musique.|Cite un instrument qu’on entend dans une fanfare.|Nenne ein Musikinstrument.|Nenne ein Instrument, das man in einer Blaskapelle hört.|inchange
+reflexe-032|Cite un super-héros.|Cite un héros de film.|Nenne einen Superhelden.|Nenne einen Filmhelden.|inchange
+reflexe-033|Cite un objet qu’on trouve dans un sac à main.|Cite un objet qu’on trouve dans une trousse.|Nenne etwas, das man in einer Handtasche findet.|Nenne etwas, das man in einem Federmäppchen findet.|inchange
+reflexe-034|Cite un objet de bureau.|Cite un objet qu’on trouve dans une salle de classe.|Nenne einen Bürogegenstand.|Nenne einen Gegenstand, den man in einem Klassenzimmer findet.|inchange
+reflexe-035|Cite un objet qui fait du bruit.|Cite un objet qui sonne.|Nenne einen Gegenstand, der Lärm macht.|Nenne einen Gegenstand, der klingelt.|inchange
+reflexe-036|Cite un objet qu’on oublie souvent.|Cite un objet qu’on perd souvent.|Nenne einen Gegenstand, den man oft vergisst.|Nenne einen Gegenstand, den man oft verliert.|inchange
+reflexe-037|Cite quelque chose qu’on met dans une valise.|Cite quelque chose qu’on met dans un sac de sport.|Nenne etwas, das man in einen Koffer packt.|Nenne etwas, das man in eine Sporttasche packt.|inchange
+reflexe-038|Cite un moyen de transport.|Cite un moyen de transport qu’on prend en vacances.|Nenne ein Verkehrsmittel.|Nenne ein Verkehrsmittel, das man im Urlaub nimmt.|inchange
+reflexe-039|Cite un vêtement d’hiver.|Cite un vêtement qu’on porte à la montagne.|Nenne ein Kleidungsstück für den Winter.|Nenne ein Kleidungsstück, das man in den Bergen trägt.|inchange
+reflexe-040|Cite une marque de voiture allemande.|Cite une marque de voiture de luxe.|Nenne eine deutsche Automarke.|Nenne eine Luxusautomarke.|inchange
+reflexe-041|Cite un objet qu’on trouve sur une table de chevet.|Cite un objet qu’on trouve sur un bureau.|Nenne etwas, das man auf einem Nachttisch findet.|Nenne etwas, das man auf einem Schreibtisch findet.|inchange
+reflexe-042|Cite un meuble du salon.|Cite un meuble de la chambre.|Nenne ein Möbelstück im Wohnzimmer.|Nenne ein Möbelstück im Schlafzimmer.|inchange
+reflexe-043|Cite quelque chose qu’on accroche au mur.|Cite quelque chose qu’on pose sur une étagère.|Nenne etwas, das man an die Wand hängt.|Nenne etwas, das man ins Regal stellt.|inchange
+reflexe-044|Cite un objet qu’on range dans un tiroir.|Cite un objet qu’on range dans une boîte à chaussures.|Nenne etwas, das man in einer Schublade aufbewahrt.|Nenne etwas, das man in einem Schuhkarton aufbewahrt.|inchange
+reflexe-045|Cite un appareil qui chauffe.|Cite un appareil qui fait du bruit dans la maison.|Nenne ein Gerät, das heiß wird.|Nenne ein Gerät, das im Haus Lärm macht.|inchange
+reflexe-046|Cite un objet qu’on trouve dans une cave.|Cite un objet qu’on trouve dans un grenier.|Nenne etwas, das man im Keller findet.|Nenne etwas, das man auf dem Dachboden findet.|inchange
+reflexe-047|Cite un produit ménager.|Cite quelque chose qu’on achète au supermarché.|Nenne ein Putzmittel.|Nenne etwas, das man im Supermarkt kauft.|inchange
+reflexe-048|Cite un objet qui sert à nettoyer.|Cite un objet qui sert à ranger.|Nenne einen Gegenstand zum Putzen.|Nenne einen Gegenstand zum Aufräumen.|inchange
+reflexe-049|Cite un meuble qui a quatre pieds.|Cite un objet qui se déplace sur roulettes.|Nenne ein Möbelstück mit vier Beinen.|Nenne einen Gegenstand auf Rollen.|inchange
+reflexe-050|Cite un objet qui a une poignée.|Cite un objet qui a un couvercle.|Nenne einen Gegenstand mit Griff.|Nenne einen Gegenstand mit Deckel.|inchange
+reflexe-051|Cite un appareil qu’on allume chaque matin.|Cite quelque chose qu’on ouvre en se levant.|Nenne ein Gerät, das man jeden Morgen einschaltet.|Nenne etwas, das man nach dem Aufstehen öffnet.|inchange
+reflexe-052|Cite un objet qu’on trouve dans l’entrée.|Cite un objet qu’on prend avant de sortir.|Nenne etwas, das man im Flur findet.|Nenne etwas, das man mitnimmt, bevor man rausgeht.|inchange
+reflexe-053|Cite un ustensile de cuisine.|Cite un ustensile pour faire un gâteau.|Nenne ein Küchenutensil.|Nenne ein Utensil zum Kuchenbacken.|inchange
+reflexe-054|Cite un appareil électroménager.|Cite un appareil qui tourne.|Nenne ein Haushaltsgerät.|Nenne ein Gerät, das sich dreht.|inchange
+reflexe-055|Cite une épice.|Cite un ingrédient qu’on met dans une sauce.|Nenne ein Gewürz.|Nenne eine Zutat, die man in eine Soße gibt.|inchange
+reflexe-056|Cite quelque chose qu’on fait frire.|Cite quelque chose qu’on fait griller.|Nenne etwas, das man frittiert.|Nenne etwas, das man grillt.|inchange
+reflexe-057|Cite un aliment qu’on mange cru.|Cite un aliment qu’on mange cuit.|Nenne ein Lebensmittel, das man roh isst.|Nenne ein Lebensmittel, das man gekocht isst.|inchange
+reflexe-058|Cite un aliment qu’on met au four.|Cite un aliment qu’on met au congélateur.|Nenne ein Lebensmittel, das man in den Ofen schiebt.|Nenne ein Lebensmittel, das man einfriert.|inchange
+reflexe-059|Cite une sorte de pâtes.|Cite un plat italien.|Nenne eine Nudelsorte.|Nenne ein italienisches Gericht.|inchange
+reflexe-060|Cite un légume qui pousse sous terre.|Cite un légume qu’on épluche.|Nenne ein Gemüse, das unter der Erde wächst.|Nenne ein Gemüse, das man schält.|inchange
+reflexe-061|Cite une viande.|Cite quelque chose qu’on met au barbecue.|Nenne eine Fleischsorte.|Nenne etwas, das man auf den Grill legt.|inchange
+reflexe-062|Cite un poisson.|Cite quelque chose qu’on pêche.|Nenne einen Fisch.|Nenne etwas, das man angelt.|inchange
+reflexe-063|Cite quelque chose qu’on tartine.|Cite quelque chose qu’on met sur une crêpe.|Nenne einen Brotaufstrich.|Nenne etwas, das man auf einen Pfannkuchen tut.|inchange
+reflexe-064|Cite un aliment jaune.|Cite un aliment sucré.|Nenne ein gelbes Lebensmittel.|Nenne ein süßes Lebensmittel.|inchange
+reflexe-065|Cite un fruit exotique.|Cite un fruit qui a un noyau.|Nenne eine exotische Frucht.|Nenne eine Frucht mit Kern.|inchange
+reflexe-066|Cite un fruit qu’on épluche.|Cite un fruit qu’on presse.|Nenne eine Frucht, die man schält.|Nenne eine Frucht, die man auspresst.|inchange
+reflexe-067|Cite une sauce.|Cite quelque chose qu’on met dans un sandwich.|Nenne eine Soße.|Nenne etwas, das man in ein Sandwich tut.|inchange
+reflexe-068|Cite un bonbon.|Cite une friandise de fête foraine.|Nenne eine Süßigkeit.|Nenne eine Leckerei vom Jahrmarkt.|inchange
+reflexe-069|Cite un plat d’hiver.|Cite un plat qu’on mange à la montagne.|Nenne ein Wintergericht.|Nenne ein Gericht, das man in den Bergen isst.|inchange
+reflexe-070|Cite une boisson fraîche.|Cite une boisson qu’on boit avec une paille.|Nenne ein kaltes Getränk.|Nenne ein Getränk, das man mit Strohhalm trinkt.|inchange
+reflexe-071|Cite un parfum de glace.|Cite un parfum de yaourt.|Nenne eine Eissorte.|Nenne eine Joghurtsorte.|inchange
+reflexe-072|Cite un aliment qu’on achète à la boulangerie.|Cite un aliment qu’on achète au marché.|Nenne etwas, das man beim Bäcker kauft.|Nenne etwas, das man auf dem Markt kauft.|inchange
+reflexe-073|Cite un aliment qu’on garde longtemps.|Cite un aliment qu’on achète en conserve.|Nenne ein Lebensmittel, das lange haltbar ist.|Nenne ein Lebensmittel, das man in der Dose kauft.|inchange
+reflexe-074|Cite un paysage.|Cite un endroit où l’on fait une randonnée.|Nenne eine Landschaft.|Nenne einen Ort, an dem man wandern geht.|inchange
+reflexe-075|Cite un arbre.|Cite un arbre fruitier.|Nenne einen Baum.|Nenne einen Obstbaum.|inchange
+reflexe-076|Cite une fleur.|Cite une plante d’intérieur.|Nenne eine Blume.|Nenne eine Zimmerpflanze.|inchange
+reflexe-077|Cite quelque chose qu’on trouve sur une plage.|Cite quelque chose qu’on trouve au bord d’une rivière.|Nenne etwas, das man am Strand findet.|Nenne etwas, das man am Flussufer findet.|inchange
+reflexe-078|Cite quelque chose qu’on ramasse en forêt.|Cite quelque chose qu’on cueille en été.|Nenne etwas, das man im Wald sammelt.|Nenne etwas, das man im Sommer pflückt.|inchange
+reflexe-079|Cite un endroit où l’on se baigne.|Cite un endroit où l’on pêche.|Nenne einen Ort, an dem man baden geht.|Nenne einen Ort, an dem man angelt.|inchange
+reflexe-080|Cite quelque chose qui tombe du ciel.|Cite quelque chose qui tombe d’un arbre.|Nenne etwas, das vom Himmel fällt.|Nenne etwas, das von einem Baum fällt.|inchange
+reflexe-081|Cite quelque chose qu’on voit dans le ciel la nuit.|Cite quelque chose qui brille.|Nenne etwas, das man nachts am Himmel sieht.|Nenne etwas, das glänzt.|inchange
+reflexe-082|Cite un phénomène météo.|Cite quelque chose qui gâche un pique-nique.|Nenne ein Wetterphänomen.|Nenne etwas, das ein Picknick verdirbt.|inchange
+reflexe-083|Cite un objet qu’on prend quand il pleut.|Cite un objet qu’on prend quand il fait froid.|Nenne etwas, das man mitnimmt, wenn es regnet.|Nenne etwas, das man mitnimmt, wenn es kalt ist.|inchange
+reflexe-084|Cite une activité d’hiver.|Cite une activité qu’on fait à l’intérieur.|Nenne eine Winteraktivität.|Nenne eine Aktivität, die man drinnen macht.|inchange
+reflexe-085|Cite un mot qui fait penser à l’automne.|Cite un mot qui fait penser à la rentrée.|Nenne ein Wort, das an den Herbst erinnert.|Nenne ein Wort, das an den Schulanfang erinnert.|inchange
+reflexe-086|Cite quelque chose qu’on voit au printemps.|Cite quelque chose qu’on voit dans un jardin.|Nenne etwas, das man im Frühling sieht.|Nenne etwas, das man in einem Garten sieht.|inchange
+reflexe-087|Cite un animal de la savane.|Cite un animal de la jungle.|Nenne ein Tier aus der Savanne.|Nenne ein Tier aus dem Dschungel.|inchange
+reflexe-088|Cite un animal qui nage.|Cite un animal qui vit près de l’eau.|Nenne ein Tier, das schwimmt.|Nenne ein Tier, das in der Nähe von Wasser lebt.|inchange
+reflexe-089|Cite un animal de la forêt.|Cite un animal qu’on voit la nuit.|Nenne ein Waldtier.|Nenne ein Tier, das man nachts sieht.|inchange
+reflexe-090|Cite un oiseau.|Cite un animal qui pond des œufs.|Nenne einen Vogel.|Nenne ein Tier, das Eier legt.|inchange
+reflexe-091|Cite un animal avec des rayures.|Cite un animal avec des taches.|Nenne ein Tier mit Streifen.|Nenne ein Tier mit Flecken.|inchange
+reflexe-092|Cite un animal qui saute.|Cite un animal qui grimpe.|Nenne ein Tier, das springt.|Nenne ein Tier, das klettert.|inchange
+reflexe-093|Cite un animal très lent.|Cite un animal qui dort beaucoup.|Nenne ein sehr langsames Tier.|Nenne ein Tier, das viel schläft.|inchange
+reflexe-094|Cite une bête protégée par une carapace.|Cite une bête couverte de piquants.|Nenne ein Tier mit einem Panzer.|Nenne ein Tier mit Stacheln.|inchange
+reflexe-095|Cite un animal qui fait peur.|Cite un animal qui pique.|Nenne ein Tier, das Angst macht.|Nenne ein Tier, das sticht.|inchange
+reflexe-096|Cite un animal qui se déplace en troupeau.|Cite un animal qui part loin chaque année.|Nenne ein Tier, das in Herden lebt.|Nenne ein Tier, das jedes Jahr weit wegzieht.|inchange
+reflexe-097|Cite un animal qu’on peut monter.|Cite un animal qui travaille.|Nenne ein Tier, auf dem man reiten kann.|Nenne ein Tier, das arbeitet.|inchange
+reflexe-098|Cite un cri d’animal.|Cite un bruit de la ferme.|Nenne einen Tierlaut.|Nenne ein Geräusch vom Bauernhof.|inchange
+reflexe-099|Cite un animal du désert.|Cite un animal qui supporte la chaleur.|Nenne ein Wüstentier.|Nenne ein Tier, das Hitze gut verträgt.|inchange
+reflexe-100|Cite un animal de la banquise.|Cite un animal blanc.|Nenne ein Tier aus dem ewigen Eis.|Nenne ein weißes Tier.|inchange
+reflexe-101|Cite un animal qui a de longues oreilles.|Cite un animal qui a une longue queue.|Nenne ein Tier mit langen Ohren.|Nenne ein Tier mit langem Schwanz.|inchange
+reflexe-102|Cite un animal d’Australie.|Cite un animal qui a une poche.|Nenne ein Tier aus Australien.|Nenne ein Tier mit einem Beutel.|inchange
+reflexe-103|Cite un animal qui vit dans une mare.|Cite un animal vert.|Nenne ein Tier, das in einem Teich lebt.|Nenne ein grünes Tier.|inchange
+reflexe-104|Cite un métier de l’hôpital.|Cite un métier où l’on porte une blouse.|Nenne einen Beruf im Krankenhaus.|Nenne einen Beruf, in dem man einen Kittel trägt.|inchange
+reflexe-105|Cite un métier manuel.|Cite un métier du bâtiment.|Nenne einen handwerklichen Beruf.|Nenne einen Beruf auf dem Bau.|inchange
+reflexe-106|Cite un métier de l’école.|Cite un métier où l’on parle beaucoup.|Nenne einen Beruf an der Schule.|Nenne einen Beruf, in dem man viel redet.|inchange
+reflexe-107|Cite un métier où l’on travaille dehors.|Cite un métier où l’on se lève tôt.|Nenne einen Beruf, in dem man draußen arbeitet.|Nenne einen Beruf, in dem man früh aufsteht.|inchange
+reflexe-108|Cite un métier de la restauration.|Cite un métier où l’on reste debout.|Nenne einen Beruf in der Gastronomie.|Nenne einen Beruf, in dem man viel steht.|inchange
+reflexe-109|Cite un métier qui utilise un véhicule.|Cite un métier où l’on voyage.|Nenne einen Beruf, für den man ein Fahrzeug braucht.|Nenne einen Beruf, in dem man viel reist.|inchange
+reflexe-110|Cite un métier avec un outil tranchant.|Cite un métier où l’on travaille avec ses mains.|Nenne einen Beruf mit einem scharfen Werkzeug.|Nenne einen Beruf, in dem man mit den Händen arbeitet.|inchange
+reflexe-111|Cite un métier d’artiste.|Cite un métier qu’on fait sur scène.|Nenne einen künstlerischen Beruf.|Nenne einen Beruf, den man auf der Bühne ausübt.|inchange
+reflexe-112|Cite un métier qu’on rêve de faire enfant.|Cite un métier qu’on voit dans les films.|Nenne einen Beruf, von dem man als Kind träumt.|Nenne einen Beruf, den man oft in Filmen sieht.|inchange
+reflexe-113|Cite un métier lié à la mer.|Cite un métier qu’on exerce sur un bateau.|Nenne einen Beruf, der mit dem Meer zu tun hat.|Nenne einen Beruf, den man auf einem Schiff ausübt.|inchange
+reflexe-114|Cite un métier où l’on répare.|Cite un métier où l’on fabrique.|Nenne einen Beruf, in dem man repariert.|Nenne einen Beruf, in dem man etwas herstellt.|inchange
+reflexe-115|Cite un commerçant.|Cite un métier qu’on croise dans la rue.|Nenne einen Ladenbesitzer.|Nenne einen Beruf, dem man auf der Straße begegnet.|inchange
+reflexe-116|Cite un métier où l’on porte un casque.|Cite un métier où l’on porte des gants.|Nenne einen Beruf, in dem man einen Helm trägt.|Nenne einen Beruf, in dem man Handschuhe trägt.|inchange
+reflexe-117|Cite un métier de bureau.|Cite un métier où l’on passe la journée devant un écran.|Nenne einen Bürojob.|Nenne einen Beruf, in dem man den ganzen Tag vor einem Bildschirm sitzt.|inchange
+reflexe-118|Cite un métier qui travaille avec les animaux.|Cite un métier qu’on exerce à la campagne.|Nenne einen Beruf, in dem man mit Tieren arbeitet.|Nenne einen Beruf, den man auf dem Land ausübt.|inchange
+reflexe-119|Cite un sport d’équipe.|Cite un sport qu’on joue sur un terrain.|Nenne eine Mannschaftssportart.|Nenne eine Sportart, die man auf einem Spielfeld spielt.|inchange
+reflexe-120|Cite un sport qu’on fait seul.|Cite un sport des Jeux olympiques.|Nenne eine Einzelsportart.|Nenne eine olympische Sportart.|inchange
+reflexe-121|Cite un sport nautique.|Cite un sport qu’on pratique en été.|Nenne eine Wassersportart.|Nenne eine Sportart, die man im Sommer macht.|inchange
+reflexe-122|Cite un sport de raquette.|Cite un sport avec un filet.|Nenne eine Schlägersportart.|Nenne eine Sportart mit einem Netz.|inchange
+reflexe-123|Cite un art martial.|Cite un sport où l’on porte un kimono.|Nenne eine Kampfkunst.|Nenne eine Sportart, bei der man einen Kimono trägt.|inchange
+reflexe-124|Cite un sport de glisse.|Cite un sport qu’on fait à la montagne.|Nenne eine Gleitsportart wie Ski oder Surfen.|Nenne eine Sportart, die man in den Bergen macht.|inchange
+reflexe-125|Cite un sport où l’on court.|Cite un sport où l’on transpire beaucoup.|Nenne eine Sportart, bei der man rennt.|Nenne eine Sportart, bei der man viel schwitzt.|inchange
+reflexe-126|Cite un sport qu’on pratique pieds nus.|Cite un sport qu’on pratique en salle.|Nenne eine Sportart, die man barfuß macht.|Nenne eine Sportart, die man in der Halle macht.|inchange
+reflexe-127|Cite un objet de sport.|Cite un objet qu’on trouve dans un vestiaire.|Nenne ein Sportgerät.|Nenne etwas, das man in einer Umkleide findet.|inchange
+reflexe-128|Cite un lieu où l’on fait du sport.|Cite un endroit où il y a des gradins.|Nenne einen Ort, an dem man Sport macht.|Nenne einen Ort mit Zuschauertribünen.|inchange
+reflexe-129|Cite un sport où l’on utilise un véhicule.|Cite un sport où l’on va très vite.|Nenne eine Sportart mit einem Fahrzeug.|Nenne eine Sportart, bei der man sehr schnell ist.|inchange
+reflexe-130|Cite un sport qu’on peut pratiquer toute sa vie.|Cite un sport qu’on pratique sans équipement.|Nenne eine Sportart, die man ein Leben lang machen kann.|Nenne eine Sportart, für die man keine Ausrüstung braucht.|inchange
+reflexe-131|Cite un mot qu’on entend pendant un match.|Cite un mot que crie un entraîneur.|Nenne ein Wort, das man während eines Spiels hört.|Nenne ein Wort, das ein Trainer ruft.|inchange
+reflexe-132|Cite un véhicule à deux roues.|Cite un véhicule qu’on gare sur un trottoir.|Nenne ein Fahrzeug mit zwei Rädern.|Nenne ein Fahrzeug, das man auf dem Gehweg abstellt.|inchange
+reflexe-133|Cite un véhicule qu’on voit en ville.|Cite une façon d’aller au travail.|Nenne ein Fahrzeug, das man in der Stadt sieht.|Nenne eine Art, zur Arbeit zu kommen.|inchange
+reflexe-134|Cite un véhicule qui transporte beaucoup de gens.|Cite un véhicule qui fait un long trajet.|Nenne ein Fahrzeug, das viele Leute befördert.|Nenne ein Fahrzeug für lange Strecken.|inchange
+reflexe-135|Cite quelque chose qui vole.|Cite quelque chose qui flotte.|Nenne etwas, das fliegt.|Nenne etwas, das schwimmt.|inchange
+reflexe-136|Cite un véhicule d’urgence.|Cite un gros véhicule.|Nenne ein Einsatzfahrzeug.|Nenne ein großes Fahrzeug.|inchange
+reflexe-137|Cite quelque chose qui roule sur des rails.|Cite un transport qu’on prend sous terre.|Nenne etwas, das auf Schienen fährt.|Nenne ein Verkehrsmittel, das unter der Erde fährt.|inchange
+reflexe-138|Cite un véhicule qui va sur l’eau.|Cite un véhicule qu’on loue en vacances.|Nenne ein Wasserfahrzeug.|Nenne ein Fahrzeug, das man im Urlaub mietet.|inchange
+reflexe-139|Cite un endroit où l’on attend un transport.|Cite un endroit où l’on achète un billet.|Nenne einen Ort, an dem man auf ein Verkehrsmittel wartet.|Nenne einen Ort, an dem man ein Ticket kauft.|inchange
+reflexe-140|Cite une partie d’une voiture.|Cite une partie d’un vélo.|Nenne ein Teil von einem Auto.|Nenne ein Teil von einem Fahrrad.|inchange
+reflexe-141|Cite un objet qu’on trouve dans une voiture.|Cite un objet qu’on garde dans la boîte à gants.|Nenne etwas, das man in einem Auto findet.|Nenne etwas, das man im Handschuhfach aufbewahrt.|inchange
+reflexe-142|Cite un véhicule de chantier.|Cite un véhicule de la ferme.|Nenne ein Baustellenfahrzeug.|Nenne ein Fahrzeug vom Bauernhof.|inchange
+reflexe-143|Cite un véhicule sans moteur.|Cite un véhicule pour enfants.|Nenne ein Fahrzeug ohne Motor.|Nenne ein Fahrzeug für Kinder.|inchange
+reflexe-144|Cite une couleur claire.|Cite une couleur pastel.|Nenne eine helle Farbe.|Nenne eine Pastellfarbe.|inchange
+reflexe-145|Cite une couleur foncée.|Cite une couleur qu’on porte en hiver.|Nenne eine dunkle Farbe.|Nenne eine Farbe, die man im Winter trägt.|inchange
+reflexe-146|Cite une couleur de fruit.|Cite une couleur de fleur.|Nenne eine Farbe, die eine Frucht haben kann.|Nenne eine Farbe, die eine Blume haben kann.|inchange
+reflexe-147|Cite une couleur de la mer.|Cite une couleur du ciel.|Nenne eine Farbe des Meeres.|Nenne eine Farbe des Himmels.|inchange
+reflexe-148|Cite une couleur vive.|Cite une couleur de feu d’artifice.|Nenne eine knallige Farbe.|Nenne eine Farbe, die man bei einem Feuerwerk sieht.|inchange
+reflexe-149|Cite une couleur d’automne.|Cite une couleur de la terre.|Nenne eine Herbstfarbe.|Nenne eine erdige Farbe.|inchange
+reflexe-150|Cite une nuance de bleu.|Cite une nuance de vert.|Nenne einen Blauton.|Nenne einen Grünton.|inchange
+reflexe-151|Cite une couleur de feu tricolore.|Cite une couleur de carte à jouer.|Nenne eine Ampelfarbe.|Nenne eine Farbe von Spielkarten.|inchange
+reflexe-152|Cite une forme géométrique.|Cite une forme de gâteau.|Nenne eine geometrische Form.|Nenne eine Kuchenform.|inchange
+reflexe-153|Cite un objet de forme carrée.|Cite un objet tout plat.|Nenne einen quadratischen Gegenstand.|Nenne einen ganz flachen Gegenstand.|inchange
+reflexe-154|Cite un objet pointu.|Cite un objet qui coupe.|Nenne einen spitzen Gegenstand.|Nenne einen Gegenstand, der schneidet.|inchange
+reflexe-155|Cite un objet en forme de cercle.|Cite un objet qui a un trou au milieu.|Nenne einen kreisförmigen Gegenstand.|Nenne einen Gegenstand mit einem Loch in der Mitte.|inchange
+reflexe-156|Cite un matériau de construction.|Cite une matière qui résiste au feu.|Nenne einen Baustoff.|Nenne ein Material, das feuerfest ist.|inchange
+reflexe-157|Cite un tissu.|Cite une matière de pull.|Nenne einen Stoff.|Nenne ein Material, aus dem ein Pullover sein kann.|inchange
+reflexe-158|Cite un objet en verre.|Cite un objet fragile.|Nenne einen Gegenstand aus Glas.|Nenne einen zerbrechlichen Gegenstand.|inchange
+reflexe-159|Cite un objet en métal.|Cite un objet qui rouille.|Nenne einen Gegenstand aus Metall.|Nenne einen Gegenstand, der rostet.|inchange
+reflexe-160|Cite un objet en plastique.|Cite un objet qu’on jette souvent.|Nenne einen Gegenstand aus Plastik.|Nenne einen Gegenstand, den man oft wegwirft.|inchange
+reflexe-161|Cite un objet en papier.|Cite un objet qu’on recycle.|Nenne einen Gegenstand aus Papier.|Nenne einen Gegenstand, den man recycelt.|inchange
+reflexe-162|Cite un objet en cuir.|Cite un objet en tissu.|Nenne einen Gegenstand aus Leder.|Nenne einen Gegenstand aus Stoff.|inchange
+reflexe-163|Cite une matière douce.|Cite une matière chaude.|Nenne ein weiches Material.|Nenne ein Material, das warm hält.|inchange
+reflexe-164|Cite une matière qui brille.|Cite une matière précieuse.|Nenne ein glänzendes Material.|Nenne ein wertvolles Material.|inchange
+reflexe-165|Cite un objet qui fonctionne avec des piles.|Cite un objet qui a un écran.|Nenne einen Gegenstand, der mit Batterien läuft.|Nenne einen Gegenstand mit Bildschirm.|inchange
+reflexe-166|Cite un objet qu’on recharge.|Cite un objet qu’on emporte partout.|Nenne einen Gegenstand, den man auflädt.|Nenne einen Gegenstand, den man überallhin mitnimmt.|inchange
+reflexe-167|Cite un objet qui sert à écrire.|Cite un objet qu’on trouve dans un cartable.|Nenne etwas zum Schreiben.|Nenne etwas, das man in einem Schulranzen findet.|inchange
+reflexe-168|Cite quelque chose pour attacher des feuilles.|Cite quelque chose pour fermer un sac.|Nenne etwas, um Blätter zusammenzuhalten.|Nenne etwas, um eine Tüte zu verschließen.|inchange
+reflexe-169|Cite un objet qui a des touches.|Cite un objet avec des boutons.|Nenne einen Gegenstand mit Tasten.|Nenne einen Gegenstand mit Knöpfen.|inchange
+reflexe-170|Cite un objet qu’on tient à deux mains.|Cite un objet lourd.|Nenne einen Gegenstand, den man mit beiden Händen hält.|Nenne einen schweren Gegenstand.|inchange
+reflexe-171|Cite un objet qu’on prête facilement.|Cite un objet qu’on ne rend jamais.|Nenne etwas, das man gern verleiht.|Nenne etwas, das man nie zurückgibt.|inchange
+reflexe-172|Cite un objet qu’on utilise une fois par an.|Cite un objet qu’on sort à Noël.|Nenne etwas, das man einmal im Jahr benutzt.|Nenne etwas, das man an Weihnachten rausholt.|inchange
+reflexe-173|Cite un objet qui sent bon.|Cite un objet qu’on offre en cadeau.|Nenne etwas, das gut riecht.|Nenne etwas, das man verschenkt.|inchange
+reflexe-174|Cite un objet qu’on trouve dans une chambre d’enfant.|Cite un jouet.|Nenne etwas, das man in einem Kinderzimmer findet.|Nenne ein Spielzeug.|inchange
+reflexe-175|Cite un objet avec une lumière.|Cite un objet qui clignote.|Nenne einen Gegenstand mit einem Licht.|Nenne einen Gegenstand, der blinkt.|inchange
+reflexe-176|Cite un pays d’Asie.|Cite un pays où l’on mange du riz.|Nenne ein Land in Asien.|Nenne ein Land, in dem man viel Reis isst.|inchange
+reflexe-177|Cite un pays d’Amérique du Sud.|Cite un pays où l’on parle espagnol.|Nenne ein Land in Südamerika.|Nenne ein Land, in dem man Spanisch spricht.|inchange
+reflexe-178|Cite un pays où l’on parle français.|Cite un pays d’Afrique.|Nenne ein Land, in dem man Französisch spricht.|Nenne ein Land in Afrika.|inchange
+reflexe-179|Cite un pays froid.|Cite un pays du Nord.|Nenne ein kaltes Land.|Nenne ein Land im Norden.|inchange
+reflexe-180|Cite un pays connu pour sa cuisine.|Cite un pays touristique.|Nenne ein Land, das für seine Küche bekannt ist.|Nenne ein beliebtes Reiseland.|inchange
+reflexe-181|Cite une île.|Cite un pays entouré d’eau.|Nenne eine Insel.|Nenne ein Land, das von Wasser umgeben ist.|inchange
+reflexe-182|Cite un grand pays.|Cite un pays très peuplé.|Nenne ein großes Land.|Nenne ein Land mit sehr vielen Einwohnern.|inchange
+reflexe-183|Cite un pays avec des montagnes.|Cite un pays où l’on fait du ski.|Nenne ein Land mit Bergen.|Nenne ein Land, in dem man Ski fährt.|inchange
+reflexe-184|Cite un pays avec un désert.|Cite un pays où il ne pleut presque pas.|Nenne ein Land mit einer Wüste.|Nenne ein Land, in dem es fast nie regnet.|inchange
+reflexe-185|Cite un pays qui a gagné une Coupe du monde de foot.|Cite un pays fort au foot.|Nenne ein Land, das schon mal Fußballweltmeister war.|Nenne ein Land, das stark im Fußball ist.|inchange
+reflexe-186|Cite un pays dont le drapeau a du rouge.|Cite un pays dont le drapeau a une étoile.|Nenne ein Land mit Rot in der Flagge.|Nenne ein Land mit einem Stern in der Flagge.|inchange
+reflexe-187|Cite une capitale européenne.|Cite une ville où l’on va en week-end.|Nenne eine europäische Hauptstadt.|Nenne eine Stadt für einen Wochenendtrip.|inchange
+reflexe-188|Cite une grande ville française.|Cite une ville avec un métro.|Nenne eine deutsche Großstadt.|Nenne eine Stadt mit U-Bahn.|inchange
+reflexe-189|Cite une ville d’Italie.|Cite une ville avec beaucoup de monuments.|Nenne eine Stadt in Italien.|Nenne eine Stadt mit vielen Sehenswürdigkeiten.|inchange
+reflexe-190|Cite une ville des États-Unis.|Cite une ville qu’on voit dans les films.|Nenne eine Stadt in den USA.|Nenne eine Stadt, die man aus Filmen kennt.|inchange
+reflexe-191|Cite une ville du sud de la France.|Cite une ville où il fait beau.|Nenne eine Stadt in Süddeutschland.|Nenne eine Stadt, in der oft schönes Wetter ist.|inchange
+reflexe-192|Cite une ville avec un club de foot connu.|Cite une ville universitaire.|Nenne eine Stadt mit einem bekannten Fußballverein.|Nenne eine Universitätsstadt.|inchange
+reflexe-193|Cite une ville d’Asie.|Cite une ville avec des gratte-ciel.|Nenne eine Stadt in Asien.|Nenne eine Stadt mit Wolkenkratzern.|inchange
+reflexe-194|Cite une ville de montagne.|Cite une ville où l’on va en hiver.|Nenne eine Stadt in den Bergen.|Nenne eine Stadt, in die man im Winter fährt.|inchange
+reflexe-195|Cite un monument célèbre.|Cite un monument de Paris.|Nenne ein berühmtes Bauwerk.|Nenne eine Sehenswürdigkeit in Berlin.|inchange
+reflexe-196|Cite un vêtement d’été.|Cite un vêtement de plage.|Nenne ein Kleidungsstück für den Sommer.|Nenne ein Kleidungsstück für den Strand.|inchange
+reflexe-197|Cite un accessoire.|Cite quelque chose qu’on porte sur la tête.|Nenne ein Accessoire.|Nenne etwas, das man auf dem Kopf trägt.|inchange
+reflexe-198|Cite un vêtement de sport.|Cite un vêtement confortable.|Nenne ein Sportkleidungsstück.|Nenne ein bequemes Kleidungsstück.|inchange
+reflexe-199|Cite un type de chaussure.|Cite quelque chose qu’on met aux pieds.|Nenne eine Schuhart.|Nenne etwas, das man an den Füßen trägt.|inchange
+reflexe-200|Cite un vêtement chic.|Cite un vêtement qu’on met pour un entretien.|Nenne ein schickes Kleidungsstück.|Nenne ein Kleidungsstück für ein Vorstellungsgespräch.|inchange
+reflexe-201|Cite un vêtement qu’on porte la nuit.|Cite un vêtement qu’on porte à la maison.|Nenne ein Kleidungsstück, das man nachts trägt.|Nenne ein Kleidungsstück, das man zu Hause trägt.|inchange
+reflexe-202|Cite un vêtement à manches.|Cite un vêtement à boutons.|Nenne ein Kleidungsstück mit Ärmeln.|Nenne ein Kleidungsstück mit Knöpfen.|inchange
+reflexe-203|Cite un déguisement.|Cite un costume d’Halloween.|Nenne eine Verkleidung.|Nenne ein Halloweenkostüm.|inchange
+reflexe-204|Cite une partie d’un vêtement.|Cite quelque chose qu’on coud.|Nenne ein Teil von einem Kleidungsstück.|Nenne etwas, das man annäht.|inchange
+reflexe-205|Cite un vêtement en laine.|Cite un vêtement qu’on tricote.|Nenne ein Kleidungsstück aus Wolle.|Nenne ein Kleidungsstück, das man strickt.|inchange
+reflexe-206|Cite un vêtement d’uniforme.|Cite un vêtement qu’on porte au travail.|Nenne ein Kleidungsstück einer Uniform.|Nenne ein Kleidungsstück, das man bei der Arbeit trägt.|inchange
+reflexe-207|Cite une matière à l’école.|Cite une matière qui donne des devoirs.|Nenne ein Schulfach.|Nenne ein Schulfach, in dem man Hausaufgaben bekommt.|inchange
+reflexe-208|Cite une fourniture scolaire.|Cite un objet qu’on prête en classe.|Nenne einen Schulbedarfsartikel.|Nenne etwas, das man im Unterricht verleiht.|inchange
+reflexe-209|Cite un lieu dans une école.|Cite un lieu où l’on fait la queue.|Nenne einen Ort in einer Schule.|Nenne einen Ort, an dem man Schlange steht.|inchange
+reflexe-210|Cite un mot qu’on entend en classe.|Cite un mot que dit un professeur.|Nenne ein Wort, das man im Unterricht hört.|Nenne ein Wort, das ein Lehrer sagt.|inchange
+reflexe-211|Cite un jeu de cour de récré.|Cite un jeu qu’on joue à plusieurs.|Nenne ein Pausenhofspiel.|Nenne ein Spiel, das man zu mehreren spielt.|inchange
+reflexe-212|Cite une activité de colonie de vacances.|Cite une activité de classe verte.|Nenne eine Aktivität im Ferienlager.|Nenne eine Aktivität auf Klassenfahrt.|inchange
+reflexe-213|Cite quelque chose qu’on trouve dans une bibliothèque.|Cite quelque chose qu’on lit.|Nenne etwas, das man in einer Bibliothek findet.|Nenne etwas, das man liest.|inchange
+reflexe-214|Cite quelque chose qu’on trouve dans une salle de réunion.|Cite quelque chose qu’on trouve dans une salle d’attente.|Nenne etwas, das man in einem Besprechungsraum findet.|Nenne etwas, das man in einem Wartezimmer findet.|inchange
+reflexe-215|Cite un accessoire d’ordinateur.|Cite un objet qu’on branche en USB.|Nenne ein Computerzubehör.|Nenne etwas, das man per USB anschließt.|inchange
+reflexe-216|Cite un endroit dans une entreprise.|Cite un endroit où l’on fait une pause.|Nenne einen Ort in einer Firma.|Nenne einen Ort, an dem man Pause macht.|inchange
+reflexe-217|Cite une tâche de bureau.|Cite une tâche qu’on repousse.|Nenne eine Büroaufgabe.|Nenne eine Aufgabe, die man gern aufschiebt.|inchange
+reflexe-218|Cite un mot qu’on écrit dans un mail.|Cite un mot qu’on écrit sur une carte postale.|Nenne ein Wort, das man in eine E-Mail schreibt.|Nenne ein Wort, das man auf eine Postkarte schreibt.|inchange
+reflexe-219|Cite une décoration de fête.|Cite quelque chose qu’on gonfle.|Nenne eine Partydeko.|Nenne etwas, das man aufbläst.|inchange
+reflexe-220|Cite quelque chose qu’on mange à un anniversaire.|Cite quelque chose qu’on sert à un goûter.|Nenne etwas, das man auf einem Geburtstag isst.|Nenne etwas, das man zu Kaffee und Kuchen serviert.|inchange
+reflexe-221|Cite un objet qu’on trouve sur un sapin.|Cite un objet qui brille à Noël.|Nenne etwas, das am Weihnachtsbaum hängt.|Nenne etwas, das an Weihnachten leuchtet.|inchange
+reflexe-222|Cite un jeu d’anniversaire.|Cite un jeu de plein air.|Nenne ein Geburtstagsspiel.|Nenne ein Spiel für draußen.|inchange
+reflexe-223|Cite une fête de l’année.|Cite un jour férié.|Nenne ein Fest im Jahr.|Nenne einen Feiertag.|inchange
+reflexe-224|Cite un cadeau d’anniversaire.|Cite un cadeau qu’on offre à un enfant.|Nenne ein Geburtstagsgeschenk.|Nenne ein Geschenk für ein Kind.|inchange
+reflexe-225|Cite un plat de fête.|Cite un plat de Noël.|Nenne ein Festessen.|Nenne ein Weihnachtsessen.|inchange
+reflexe-226|Cite un objet qu’on trouve sur un gâteau d’anniversaire.|Cite quelque chose qu’on souffle.|Nenne etwas, das man auf einer Geburtstagstorte findet.|Nenne etwas, das man auspustet.|inchange
+reflexe-227|Cite un endroit où l’on fait la fête.|Cite un endroit où il y a de la musique.|Nenne einen Ort, an dem man feiert.|Nenne einen Ort, an dem Musik läuft.|inchange
+reflexe-228|Cite un instrument à cordes.|Cite un instrument qu’on gratte.|Nenne ein Saiteninstrument.|Nenne ein Instrument, das man zupft.|inchange
+reflexe-229|Cite un instrument à vent.|Cite un instrument qu’on entend dans un orchestre.|Nenne ein Blasinstrument.|Nenne ein Instrument, das man in einem Orchester hört.|inchange
+reflexe-230|Cite un instrument qu’on frappe.|Cite un instrument bruyant.|Nenne ein Schlaginstrument.|Nenne ein lautes Instrument.|inchange
+reflexe-231|Cite un style de musique.|Cite une musique sur laquelle on danse.|Nenne eine Musikrichtung.|Nenne eine Musik, zu der man tanzt.|inchange
+reflexe-232|Cite une danse.|Cite une danse qu’on apprend en cours.|Nenne einen Tanz.|Nenne einen Tanz, den man in einem Kurs lernt.|inchange
+reflexe-233|Cite un appareil pour écouter de la musique.|Cite un appareil qu’on avait dans les années 90.|Nenne ein Gerät zum Musikhören.|Nenne ein Gerät, das man in den 90ern hatte.|inchange
+reflexe-234|Cite un instrument d’enfant.|Cite un instrument qu’on apprend à l’école.|Nenne ein Kinderinstrument.|Nenne ein Instrument, das man in der Schule lernt.|inchange
+reflexe-235|Cite un jeu de société.|Cite un jeu avec des dés.|Nenne ein Brettspiel.|Nenne ein Spiel mit Würfeln.|inchange
+reflexe-236|Cite un loisir créatif.|Cite une activité qu’on fait les jours de pluie.|Nenne ein kreatives Hobby.|Nenne eine Beschäftigung für Regentage.|inchange
+reflexe-237|Cite une activité de plage.|Cite une activité qu’on fait au bord d’un lac.|Nenne eine Aktivität am Strand.|Nenne eine Aktivität an einem See.|inchange
+reflexe-238|Cite un passe-temps de grand-parent.|Cite un loisir calme.|Nenne ein Hobby von Großeltern.|Nenne ein ruhiges Hobby.|inchange
+reflexe-239|Cite une activité de fête foraine.|Cite une attraction qui fait crier.|Nenne etwas, das man auf dem Jahrmarkt macht.|Nenne ein Fahrgeschäft, bei dem man schreit.|inchange
+reflexe-240|Cite une activité qu’on fait en vacances.|Cite une activité qu’on fait avec des amis.|Nenne etwas, das man im Urlaub macht.|Nenne etwas, das man mit Freunden macht.|inchange
+reflexe-241|Cite un jeu qu’on fait en voiture.|Cite un jeu qu’on fait sans matériel.|Nenne ein Spiel für lange Autofahrten.|Nenne ein Spiel, für das man nichts braucht.|inchange
+reflexe-242|Cite quelque chose qu’on collectionne.|Cite quelque chose qu’on échange à l’école.|Nenne etwas, das man sammelt.|Nenne etwas, das man in der Schule tauscht.|inchange
+reflexe-243|Cite un jeu de jardin public.|Cite une chose qu’on fait avec son chien.|Nenne ein Spiel, das man im Park spielt.|Nenne etwas, das man mit seinem Hund macht.|inchange
+reflexe-244|Cite un lieu de sortie le samedi soir.|Cite un lieu où l’on va entre amis.|Nenne einen Ort zum Ausgehen am Samstagabend.|Nenne einen Ort, an den man mit Freunden geht.|inchange
+reflexe-245|Cite un bruit qui réveille.|Cite un bruit qui énerve.|Nenne ein Geräusch, das einen weckt.|Nenne ein Geräusch, das nervt.|inchange
+reflexe-246|Cite un son de la ville.|Cite un son qu’on entend la nuit.|Nenne ein Geräusch der Stadt.|Nenne ein Geräusch, das man nachts hört.|inchange
+reflexe-247|Cite un son agréable.|Cite un son de la nature.|Nenne ein angenehmes Geräusch.|Nenne ein Geräusch aus der Natur.|inchange
+reflexe-248|Cite un appareil qui siffle.|Cite un meuble qui grince.|Nenne ein Gerät, das pfeift.|Nenne ein Möbelstück, das quietscht.|inchange
+reflexe-249|Cite un bruit de cuisine.|Cite un bruit du matin.|Nenne ein Küchengeräusch.|Nenne ein Geräusch am Morgen.|inchange
+reflexe-250|Cite une bonne odeur.|Cite une odeur de cuisine.|Nenne einen guten Duft.|Nenne einen Geruch aus der Küche.|inchange
+reflexe-251|Cite une odeur de vacances.|Cite une odeur d’été.|Nenne einen Urlaubsduft.|Nenne einen Sommerduft.|inchange
+reflexe-252|Cite une odeur forte.|Cite une odeur qu’on reconnaît tout de suite.|Nenne einen starken Geruch.|Nenne einen Geruch, den man sofort erkennt.|inchange
+reflexe-253|Cite un parfum de bougie.|Cite une odeur de fleur.|Nenne einen Kerzenduft.|Nenne einen Blumenduft.|inchange
+reflexe-254|Cite une odeur du matin.|Cite une odeur de boulangerie.|Nenne einen Geruch am Morgen.|Nenne einen Geruch aus der Bäckerei.|inchange
+reflexe-255|Cite une chose douce au toucher.|Cite un aliment moelleux.|Nenne etwas, das sich weich anfühlt.|Nenne ein fluffiges Lebensmittel.|inchange
+reflexe-256|Cite un truc qui colle aux doigts.|Cite un aliment qui fond dans la main.|Nenne etwas, das an den Fingern klebt.|Nenne ein Lebensmittel, das in der Hand schmilzt.|inchange
+reflexe-257|Cite un objet rugueux.|Cite un objet qui gratte.|Nenne einen rauen Gegenstand.|Nenne einen Gegenstand, der kratzt.|inchange
+reflexe-258|Cite un objet mou.|Cite un objet qu’on peut écraser.|Nenne einen weichen Gegenstand.|Nenne einen Gegenstand, den man zerdrücken kann.|inchange
+reflexe-259|Cite un objet qui pique.|Cite un objet dangereux pour un bébé.|Nenne einen Gegenstand, der piekst.|Nenne einen Gegenstand, der für ein Baby gefährlich ist.|inchange
+reflexe-260|Cite une surface glissante.|Cite un endroit où l’on tombe facilement.|Nenne eine rutschige Oberfläche.|Nenne einen Ort, an dem man leicht hinfällt.|inchange
+reflexe-261|Cite une émotion.|Cite quelque chose qu’on ressent au cinéma.|Nenne ein Gefühl.|Nenne etwas, das man im Kino fühlt.|inchange
+reflexe-262|Cite un mot qui rend joyeux.|Cite un mot qui rassure.|Nenne ein Wort, das fröhlich macht.|Nenne ein Wort, das beruhigt.|inchange
+reflexe-263|Cite une expression de surprise.|Cite un mot qu’on dit quand on se fait mal.|Nenne einen Ausruf der Überraschung.|Nenne ein Wort, das man sagt, wenn man sich wehtut.|inchange
+reflexe-264|Cite un mot pour dire bonjour.|Cite un mot pour dire au revoir.|Nenne ein Wort zur Begrüßung.|Nenne ein Wort zum Abschied.|inchange
+reflexe-265|Cite une formule de politesse.|Cite un mot qu’on dit en entrant dans un magasin.|Nenne eine Höflichkeitsfloskel.|Nenne etwas, das man sagt, wenn man einen Laden betritt.|inchange
+reflexe-266|Cite un mot qu’on dit quand on gagne.|Cite un mot qu’on crie quand on est content.|Nenne ein Wort, das man sagt, wenn man gewinnt.|Nenne ein Wort, das man ruft, wenn man sich freut.|inchange
+reflexe-267|Cite un engin avec des ailes.|Cite un objet qu’on fait monter dans les airs.|Nenne ein Fluggerät mit Flügeln.|Nenne etwas, das man in die Luft steigen lässt.|inchange
+reflexe-268|Cite un bijou.|Cite un objet en or.|Nenne ein Schmuckstück.|Nenne einen Gegenstand aus Gold.|inchange
+reflexe-269|Cite quelque chose qui fond au soleil.|Cite quelque chose qui sèche au soleil.|Nenne etwas, das in der Sonne schmilzt.|Nenne etwas, das in der Sonne trocknet.|inchange
+reflexe-270|Cite un jouet qui rebondit.|Cite un objet qu’on lance pour jouer.|Nenne ein Spielzeug, das hüpft.|Nenne etwas, das man zum Spielen wirft.|inchange
+reflexe-271|Cite quelque chose qui coule dans l’eau.|Cite quelque chose qu’on jette dans un lac.|Nenne etwas, das im Wasser untergeht.|Nenne etwas, das man in einen See wirft.|inchange
+reflexe-272|Cite un fruit qu’on mange en compote.|Cite un fruit qu’on met dans une tarte.|Nenne eine Frucht, die man als Kompott isst.|Nenne eine Frucht, die man in einen Kuchen tut.|inchange
+reflexe-273|Cite un légume qu’on met dans un pot-au-feu.|Cite un légume qu’on met dans un couscous.|Nenne ein Gemüse, das in einen Eintopf kommt.|Nenne ein Gemüse, das in ein Curry kommt.|inchange
+reflexe-274|Cite un plat qu’on mange à la cantine.|Cite un plat qu’on mange chez ses grands-parents.|Nenne ein Gericht aus der Schulmensa.|Nenne ein Gericht, das man bei den Großeltern isst.|inchange
+reflexe-275|Cite un objet qu’on trouve dans une chambre d’hôtel.|Cite un objet qu’on trouve dans un camping-car.|Nenne etwas, das man in einem Hotelzimmer findet.|Nenne etwas, das man in einem Wohnmobil findet.|inchange
+reflexe-276|Cite un animal qu’on voit à la campagne.|Cite un animal qu’on voit au bord de la route.|Nenne ein Tier, das man auf dem Land sieht.|Nenne ein Tier, das man am Straßenrand sieht.|inchange
+reflexe-277|Cite un animal qu’on dessine facilement.|Cite un animal qu’on imite facilement.|Nenne ein Tier, das man leicht zeichnen kann.|Nenne ein Tier, das man leicht nachmachen kann.|inchange
+reflexe-278|Cite un endroit calme.|Cite un endroit où l’on lit.|Nenne einen ruhigen Ort.|Nenne einen Ort, an dem man liest.|inchange
+reflexe-279|Cite une couleur de bonbon.|Cite une couleur de ballon de baudruche.|Nenne eine Bonbonfarbe.|Nenne eine Luftballonfarbe.|inchange
+reflexe-280|Cite une couleur de chaussettes.|Cite une couleur de sac à dos.|Nenne eine Sockenfarbe.|Nenne eine Rucksackfarbe.|inchange
+reflexe-281|Cite un métier qu’on croise à l’aéroport.|Cite un métier qu’on croise dans une gare.|Nenne einen Beruf, dem man am Flughafen begegnet.|Nenne einen Beruf, dem man am Bahnhof begegnet.|inchange
+reflexe-282|Cite un métier où l’on parle à des inconnus.|Cite un métier où l’on reçoit du public.|Nenne einen Beruf, in dem man mit Fremden spricht.|Nenne einen Beruf mit Publikumsverkehr.|inchange
+reflexe-283|Cite un objet qu’on met sur une table pour un repas.|Cite un objet qu’on sort pour des invités.|Nenne etwas, das man zum Essen auf den Tisch stellt.|Nenne etwas, das man für Gäste rausholt.|inchange
+reflexe-284|Cite une activité qu’on fait le dimanche matin.|Cite une activité qu’on fait le samedi matin.|Nenne etwas, das man am Sonntagmorgen macht.|Nenne etwas, das man am Samstagmorgen macht.|inchange
+reflexe-285|Cite un sport qu’on regarde en famille.|Cite un sport qu’on regarde le week-end.|Nenne eine Sportart, die man mit der Familie schaut.|Nenne eine Sportart, die man am Wochenende schaut.|inchange
+reflexe-286|Cite un produit vendu en vrac.|Cite un produit rangé dans un bocal.|Nenne ein Produkt, das man lose kauft.|Nenne ein Produkt, das man in einem Glas aufbewahrt.|inchange
+reflexe-287|Cite un pays où l’on va en avion.|Cite un pays où l’on va pour la plage.|Nenne ein Land, in das man fliegt.|Nenne ein Land, in das man zum Baden fährt.|inchange
+reflexe-288|Cite une ville où l’on va en train.|Cite une ville où l’on va pour un concert.|Nenne eine Stadt, in die man mit dem Zug fährt.|Nenne eine Stadt, in die man für ein Konzert fährt.|inchange
+reflexe-289|Cite un prénom de grand-mère.|Cite un prénom d’autrefois.|Nenne einen Omavornamen.|Nenne einen altmodischen Vornamen.|inchange
+reflexe-290|Cite un prénom de personnage de conte.|Cite un prénom de dessin animé.|Nenne den Namen einer Märchenfigur.|Nenne den Namen einer Zeichentrickfigur.|inchange
+reflexe-291|Cite un objet qu’on lave à la main.|Cite un objet qu’on lave souvent.|Nenne etwas, das man von Hand wäscht.|Nenne etwas, das man oft wäscht.|inchange
+reflexe-292|Cite un vêtement qu’on enlève en arrivant.|Cite un vêtement qu’on accroche à une patère.|Nenne ein Kleidungsstück, das man beim Ankommen auszieht.|Nenne ein Kleidungsstück, das man an einen Haken hängt.|inchange
+reflexe-293|Cite un dessert qu’on fait soi-même.|Cite un dessert qu’on achète tout fait.|Nenne einen Nachtisch, den man selbst macht.|Nenne einen Nachtisch, den man fertig kauft.|inchange
+reflexe-294|Cite une pièce où l’on se détend.|Cite une pièce où l’on reçoit des amis.|Nenne einen Raum, in dem man sich entspannt.|Nenne einen Raum, in dem man Freunde empfängt.|inchange
+reflexe-295|Cite un objet qu’on rachète souvent.|Cite un objet qui s’use vite.|Nenne etwas, das man oft nachkauft.|Nenne etwas, das sich schnell abnutzt.|inchange
+reflexe-296|Cite un magasin.|Cite un commerce de quartier.|Nenne ein Geschäft.|Nenne einen Laden in der Nachbarschaft.|inchange
+reflexe-297|Cite un endroit où l’on va le samedi.|Cite un endroit où l’on va en famille.|Nenne einen Ort, an den man samstags geht.|Nenne einen Ort, an den man mit der Familie geht.|inchange
+reflexe-298|Cite un bâtiment de la ville.|Cite un endroit qui ferme le dimanche.|Nenne ein Gebäude in der Stadt.|Nenne einen Ort, der sonntags geschlossen hat.|inchange
+reflexe-299|Cite un élément du mobilier urbain.|Cite un objet visible depuis la fenêtre d’un bus.|Nenne etwas, das auf der Straße steht, wie eine Bank oder Laterne.|Nenne etwas, das man vom Busfenster aus sieht.|inchange
+reflexe-300|Cite un endroit où l’on fait les courses.|Cite un endroit où l’on achète des vêtements.|Nenne einen Ort zum Einkaufen.|Nenne einen Ort, an dem man Kleidung kauft.|inchange
+reflexe-301|Cite un endroit où l’on prend un café.|Cite un endroit où l’on travaille sur un ordinateur.|Nenne einen Ort, an dem man Kaffee trinkt.|Nenne einen Ort, an dem man am Laptop arbeitet.|inchange
+reflexe-302|Cite un objet typique d’un aéroport.|Cite un objet typique d’une gare.|Nenne etwas Typisches an einem Flughafen.|Nenne etwas Typisches an einem Bahnhof.|inchange
+reflexe-303|Cite un outil de bricolage.|Cite un objet qui fait du bruit sur un chantier.|Nenne ein Heimwerkerwerkzeug.|Nenne etwas, das auf einer Baustelle Lärm macht.|inchange
+reflexe-304|Cite une graine qu’on sème au jardin.|Cite une plante qu’on arrose souvent.|Nenne einen Samen, den man im Garten aussät.|Nenne eine Pflanze, die man oft gießt.|inchange
+reflexe-305|Cite un légume du potager.|Cite un légume qu’on mange en été.|Nenne ein Gemüse aus dem Gemüsegarten.|Nenne ein Gemüse, das man im Sommer isst.|inchange
+reflexe-306|Cite un animal de la montagne.|Cite un animal qui hiberne.|Nenne ein Tier aus den Bergen.|Nenne ein Tier, das Winterschlaf hält.|inchange
+reflexe-307|Cite un endroit dans la nature.|Cite un endroit où l’on campe.|Nenne einen Ort in der Natur.|Nenne einen Ort, an dem man zeltet.|inchange
+reflexe-308|Cite un objet de camping.|Cite un objet qu’on met dans un sac à dos.|Nenne etwas zum Campen.|Nenne etwas, das man in einen Rucksack packt.|inchange
+reflexe-309|Cite un fruit jaune.|Cite un fruit qu’on mange en hiver.|Nenne eine gelbe Frucht.|Nenne eine Frucht, die man im Winter isst.|inchange
+reflexe-310|Cite un aliment du petit-déjeuner.|Cite quelque chose qu’on trempe.|Nenne etwas zum Frühstück.|Nenne etwas, das man eintunkt.|inchange
+reflexe-311|Cite un aliment salé.|Cite un aliment de l’apéro.|Nenne etwas Salziges.|Nenne etwas zum Knabbern.|inchange
+reflexe-312|Cite un ingrédient d’omelette.|Cite un ingrédient de quiche.|Nenne eine Zutat für ein Omelett.|Nenne eine Zutat für eine Quiche.|inchange
+reflexe-313|Cite une activité du mercredi après-midi.|Cite une activité pour enfants.|Nenne eine Nachmittagsbeschäftigung nach der Schule.|Nenne eine Aktivität für Kinder.|inchange
+reflexe-314|Cite un jouet de bébé.|Cite un jouet qu’on emporte dans le bain.|Nenne ein Babyspielzeug.|Nenne ein Spielzeug für die Badewanne.|inchange
+reflexe-315|Cite une couleur de maillot de bain.|Cite une couleur de serviette de plage.|Nenne eine Badeanzugfarbe.|Nenne eine Strandtuchfarbe.|inchange
+reflexe-316|Cite un aliment qu’on garde au congélateur.|Cite un aliment qu’on garde dans un placard.|Nenne etwas, das man im Gefrierschrank aufbewahrt.|Nenne etwas, das man im Vorratsschrank aufbewahrt.|inchange
+reflexe-317|Cite un appareil qu’on trouve dans une buanderie.|Cite un appareil qu’on trouve dans un salon.|Nenne ein Gerät aus dem Hauswirtschaftsraum.|Nenne ein Gerät aus dem Wohnzimmer.|inchange
+reflexe-318|Cite un objet qu’on emporte en randonnée.|Cite un objet qu’on emporte en pique-nique.|Nenne etwas, das man zum Wandern mitnimmt.|Nenne etwas, das man zum Picknick mitnimmt.|inchange
+reflexe-319|Cite un endroit où l’on dort ailleurs que chez soi.|Cite un endroit où l’on mange ailleurs que chez soi.|Nenne einen Ort, an dem man auswärts schläft.|Nenne einen Ort, an dem man auswärts isst.|inchange
+reflexe-320|Cite une viennoiserie.|Cite quelque chose qu’on achète à la boulangerie.|Nenne ein süßes Gebäckstück.|Nenne etwas, das man beim Bäcker kauft.|inchange
+reflexe-321|Cite un légume qu’on mange cru.|Cite un légume qu’on met en salade.|Nenne ein Gemüse, das man roh isst.|Nenne ein Gemüse, das man in einen Salat tut.|inchange
+reflexe-322|Cite une ville française.|Cite une ville où passe un grand fleuve.|Nenne eine deutsche Stadt.|Nenne eine Stadt an einem großen Fluss.|inchange
+reflexe-323|Cite un pays où il neige beaucoup.|Cite un pays connu pour ses montagnes.|Nenne ein Land, in dem es viel schneit.|Nenne ein Land, das für seine Berge bekannt ist.|inchange
+reflexe-324|Cite un océan ou une mer.|Cite une étendue d’eau où l’on peut naviguer.|Nenne einen Ozean oder ein Meer.|Nenne ein Gewässer, auf dem man segeln kann.|inchange
+reflexe-325|Cite un métier qu’on exerce dehors.|Cite un métier qu’on exerce avec un camion.|Nenne einen Beruf, den man draußen ausübt.|Nenne einen Beruf, in dem man Lkw fährt.|inchange
+reflexe-326|Cite un personnage de conte.|Cite un personnage qu’on retrouve dans un livre pour enfants.|Nenne eine Märchenfigur.|Nenne eine Figur aus einem Kinderbuch.|inchange
+reflexe-327|Cite un accessoire qu’on porte sur la tête.|Cite un accessoire qu’on porte quand il fait froid.|Nenne ein Accessoire für den Kopf.|Nenne ein Accessoire, das man bei Kälte trägt.|inchange
+reflexe-328|Cite un nombre entre 1 et 100.|Cite un âge entre 1 et 100.|Nenne eine Zahl zwischen 1 und 100.|Nenne ein Alter zwischen 1 und 100.|inchange
+reflexe-329|Cite un objet rond qu’on trouve dans une cuisine.|Cite un objet rond qu’on trouve dans un salon.|Nenne einen runden Gegenstand in der Küche.|Nenne einen runden Gegenstand im Wohnzimmer.|inchange
+reflexe-330|Cite un objet qui sert à couper.|Cite un objet qui a une lame.|Nenne einen Gegenstand zum Schneiden.|Nenne einen Gegenstand mit einer Klinge.|inchange
+reflexe-331|Cite un aliment orange.|Cite un aliment qu’on épluche.|Nenne ein orangefarbenes Lebensmittel.|Nenne ein Lebensmittel, das man schält.|inchange
+reflexe-332|Cite un aliment qu’on tartine.|Cite un aliment qu’on mange au petit-déjeuner.|Nenne etwas, das man aufs Brot streicht.|Nenne etwas, das man zum Frühstück isst.|inchange
+reflexe-333|Cite un animal avec une carapace.|Cite un animal qui vit longtemps.|Nenne ein Tier mit Panzer.|Nenne ein Tier, das sehr alt wird.|inchange
+reflexe-334|Cite une pièce où l’on trouve un miroir.|Cite un endroit où l’on se coiffe.|Nenne einen Raum, in dem es einen Spiegel gibt.|Nenne einen Ort, an dem man sich die Haare macht.|inchange
+reflexe-335|Cite un vêtement qu’on boutonne.|Cite un vêtement avec une fermeture éclair.|Nenne ein Kleidungsstück, das man zuknöpft.|Nenne ein Kleidungsstück mit Reißverschluss.|inchange
+reflexe-336|Cite un sport qu’on pratique avec une raquette.|Cite un sport qu’on pratique à deux.|Nenne eine Sportart mit Schläger.|Nenne eine Sportart, die man zu zweit macht.|inchange
+reflexe-337|Cite un objet qu’on accroche au mur.|Cite un objet qu’on encadre.|Nenne etwas, das man an die Wand hängt.|Nenne etwas, das man einrahmt.|inchange
+reflexe-338|Cite un prénom de trois lettres.|Cite un prénom court.|Nenne einen Vornamen mit drei Buchstaben.|Nenne einen kurzen Vornamen.|inchange
+reflexe-339|Cite un objet qu’on trouve dans une trousse de toilette.|Cite un objet qu’on emporte pour une nuit chez un ami.|Nenne etwas aus dem Kulturbeutel.|Nenne etwas, das man mitnimmt, wenn man bei Freunden übernachtet.|inchange
+reflexe-340|Cite un ingrédient de gâteau.|Cite un ingrédient de crêpe.|Nenne eine Kuchenzutat.|Nenne eine Zutat für Pfannkuchen.|inchange
+reflexe-341|Cite un objet qu’on trouve dans un coffre de voiture.|Cite un objet qu’on range dans un garage.|Nenne etwas, das man im Kofferraum findet.|Nenne etwas, das man in der Garage aufbewahrt.|inchange
+reflexe-342|Cite un magasin où l’on achète un cadeau.|Cite un magasin qu’on trouve dans un centre commercial.|Nenne einen Laden, in dem man ein Geschenk kauft.|Nenne einen Laden, den es in jedem Einkaufszentrum gibt.|inchange
+reflexe-343|Cite un animal qu’on trouve dans une mare.|Cite un animal qui aime l’eau.|Nenne ein Tier, das man in einem Teich findet.|Nenne ein Tier, das Wasser liebt.|inchange
+reflexe-344|Cite un objet qu’on trouve dans un sac de plage.|Cite un objet qu’on oublie à la plage.|Nenne etwas aus der Strandtasche.|Nenne etwas, das man am Strand vergisst.|inchange
+noel-001|Quel cadeau aimerais-tu trouver sous le sapin ?|Quel cadeau as-tu adoré offrir ?|Welches Geschenk würdest du gern unter dem Weihnachtsbaum finden?|Welches Geschenk hast du am liebsten verschenkt?|inchange
+noel-002|Quel plat ne doit jamais manquer au repas de Noël ?|Quel plat de Noël pourrais-tu manger toute l’année ?|Welches Gericht darf beim Weihnachtsessen nie fehlen?|Welches Weihnachtsgericht könntest du das ganze Jahr essen?|inchange
+noel-005|Quel film regardes-tu chaque année à Noël ?|Quel film de Noël est le plus ringard ?|Welchen Film schaust du jedes Jahr an Weihnachten?|Welcher Weihnachtsfilm ist am kitschigsten?|inchange
+noel-006|Combien de cadeaux offres-tu à Noël ?|Combien de personnes sont autour de la table à Noël ?|Wie viele Geschenke verschenkst du an Weihnachten?|Wie viele Leute sitzen an Weihnachten mit am Tisch?|inchange
+noel-009|Que mets-tu en haut du sapin ?|Que poses-tu sur la table du réveillon ?|Was steckst du auf die Spitze des Weihnachtsbaums?|Was stellst du an Heiligabend auf den Tisch?|inchange
+noel-011|Où rêverais-tu de passer Noël ?|Où as-tu passé ton plus beau Noël ?|Wo würdest du gern mal Weihnachten verbringen?|Wo hast du dein schönstes Weihnachten verbracht?|inchange
+noel-014|Combien de chocolats manges-tu pendant les fêtes ?|Combien de chocolats reste-t-il dans la boîte le 26 ?|Wie viele Pralinen isst du über die Feiertage?|Wie viele Pralinen sind am 26. noch in der Schachtel?|inchange
+noel-028|Que dis-tu quand la case du jour est vide ?|Que dis-tu quand quelqu’un a mangé ta case du jour ?|Was sagst du, wenn das Türchen des Tages leer ist?|Was sagst du, wenn jemand die Schokolade aus deinem Türchen gegessen hat?|inchange
+noel-045|Combien de minutes mets-tu à décorer le sapin ?|Combien de minutes mets-tu à démêler les guirlandes ?|Wie viele Minuten brauchst du, um den Baum zu schmücken?|Wie viele Minuten brauchst du, um die Lichterketten zu entwirren?|inchange
+noel-063|Que manges-tu en premier sur un marché de Noël ?|Que rapportes-tu à la maison d’un marché de Noël ?|Was isst du auf dem Weihnachtsmarkt als Erstes?|Was nimmst du vom Weihnachtsmarkt mit nach Hause?|inchange
+noel-066|Combien coûte une gaufre sur un marché de Noël ?|Combien coûte un stylo ?|Wie viel kostet eine Waffel auf dem Weihnachtsmarkt?|Wie viel kostet ein Crêpe auf dem Weihnachtsmarkt?|fr-modifie
+noel-070|Dans quel pays trouve-t-on les plus beaux marchés de Noël ?|Dans quel pays les rues sont-elles les plus illuminées en décembre ?|In welchem Land gibt es die schönsten Weihnachtsmärkte?|In welchem Land sind die Straßen im Dezember am hellsten beleuchtet?|inchange
+noel-081|Combien de cadeaux demandais-tu dans ta lettre au Père Noël ?|Combien de lignes faisait ta lettre au Père Noël ?|Wie viele Geschenke hast du dir in deinem Brief an den Weihnachtsmann gewünscht?|Wie viele Zeilen hatte dein Brief an den Weihnachtsmann?|inchange
+ete-001|Où aimerais-tu passer l’été ?|Où as-tu passé ton meilleur été ?|Wo würdest du gern den Sommer verbringen?|Wo hast du deinen besten Sommer verbracht?|inchange
+ete-002|Quel parfum de glace commandes-tu en premier ?|Quel parfum de glace ne choisis-tu jamais ?|Welche Eissorte bestellst du als Erstes?|Welche Eissorte nimmst du nie?|inchange
+ete-003|Que fais-tu quand il fait trop chaud ?|Que fais-tu un soir d’été ?|Was machst du, wenn es zu heiß ist?|Was machst du an einem Sommerabend?|inchange
+ete-004|Qu’emportes-tu toujours à la plage ?|Qu’oublies-tu toujours à la plage ?|Was nimmst du immer mit an den Strand?|Was vergisst du immer, wenn du an den Strand gehst?|inchange
+ete-006|Combien de glaces manges-tu par semaine en été ?|Combien de baignades fais-tu par jour en vacances ?|Wie viele Eis isst du im Sommer pro Woche?|Wie oft gehst du im Urlaub am Tag baden?|inchange
+ete-017|Combien de minutes restes-tu dans l’eau d’une traite ?|Combien de minutes attends-tu avant de retourner à l’eau ?|Wie viele Minuten bleibst du am Stück im Wasser?|Wie viele Minuten wartest du, bevor du wieder ins Wasser gehst?|inchange
+ete-028|Combien de minutes marches-tu pour trouver une place sur la plage ?|Combien de minutes mets-tu à installer ton coin de plage ?|Wie viele Minuten läufst du, um einen Platz am Strand zu finden?|Wie viele Minuten brauchst du, um deinen Platz am Strand einzurichten?|inchange
+ete-029|Que cries-tu en entrant dans l’eau froide ?|Que dis-tu à quelqu’un qui hésite à entrer dans l’eau ?|Was schreist du, wenn du ins kalte Wasser gehst?|Was sagst du zu jemandem, der sich nicht ins Wasser traut?|inchange
+ete-043|Combien coûte une entrée à la piscine municipale ?|Combien coûte une glace à la plage ?|Was kostet der Eintritt ins Freibad?|Was kostet ein Eis am Kiosk im Freibad?|fr-modifie
+ete-078|Combien de ventilateurs as-tu chez toi ?|Combien de bouteilles d’eau gardes-tu au frigo l’été ?|Wie viele Ventilatoren hast du zu Hause?|Wie viele Wasserflaschen hast du im Sommer im Kühlschrank?|inchange
+ete-084|Quelle animation du camping fais-tu en famille ?|Quelle animation du camping évites-tu à tout prix ?|Bei welchem Animationsprogramm auf dem Campingplatz machst du mit der Familie mit?|Welches Animationsprogramm auf dem Campingplatz meidest du um jeden Preis?|inchange
+ete-089|Combien coûte un mobil-home pour une semaine en août ?|Combien coûte une semaine à Saint-Tropez en août dans un bon hôtel ?|Was kostet ein Mobilheim für eine Woche im August?|Was kostet ein Zeltplatz für eine Woche im August?|fr-modifie
+ete-101|Qui conduit le plus longtemps sur la route des vacances ?|Qui s’endort en premier sur la route des vacances ?|Wer fährt auf dem Weg in den Urlaub am längsten?|Wer schläft auf dem Weg in den Urlaub als Erstes ein?|inchange
+ete-103|Combien de minutes dure ta pause sur l’aire d’autoroute ?|Combien de minutes attends-tu au péage un jour de grand départ ?|Wie viele Minuten dauert deine Pause auf der Raststätte?|Wie viele Minuten wartest du an einem Hauptreisetag an der Mautstelle?|inchange
+ete-130|Quel fruit d’été manges-tu le plus ?|Quel fruit d’été achètes-tu le plus cher ?|Welches Sommerobst isst du am meisten?|Für welches Sommerobst gibst du am meisten Geld aus?|inchange
+ete-131|Quel fruit coupes-tu en morceaux pour un goûter d’été ?|Quel fruit manges-tu directement sur l’arbre ?|Welches Obst schneidest du für einen Sommersnack in Stücke?|Welches Obst isst du direkt vom Baum?|inchange
+ete-134|Combien coûte une barquette de fraises en juin ?|Combien coûte un melon au marché en juillet ?|Was kostet eine Schale Erdbeeren im Juni?|Was kostet eine Melone im Juli auf dem Markt?|inchange
+ete-204|Que dis-tu pour prolonger une soirée d’été ?|Que dis-tu pour quitter une soirée d’été ?|Was sagst du, um einen Sommerabend zu verlängern?|Was sagst du, um dich von einem Sommerabend zu verabschieden?|inchange
+ete-388|Que mets-tu dans ton sandwich de plage ?|Que mets-tu dans ta salade d'été ?|Was kommt auf dein Strandbrot?|Was kommt auf dein Wanderbrot?|fr-modifie
+ete-475|Quel jeu trouves-tu toujours dans une location de vacances ?|Quel objet de jeu manque toujours dans une location de vacances ?|Welches Spiel findest du immer in einer Ferienwohnung?|Welches Spiel fehlt immer in einer Ferienwohnung?|fr-modifie
+ete-476|Que dis-tu quand tu gagnes une partie en vacances ?|Que dis-tu quand tu perds pour la troisième fois de suite ?|Was sagst du, wenn du im Urlaub eine Runde gewinnst?|Was sagst du, wenn du zum dritten Mal hintereinander verlierst?|inchange
+ete-503|Combien coûte une location pour une semaine en août ?|Combien coûte une location pour un week-end en juillet ?|Was kostet eine Ferienwohnung für eine Woche im August?|Was kostet eine Ferienwohnung für ein Wochenende im Juli?|inchange
+ete-506|Quelle corvée fais-tu avant de rendre la location ?|Quelle corvée fais-tu en arrivant dans la location ?|Welche lästige Aufgabe erledigst du, bevor du die Ferienwohnung abgibst?|Welche lästige Aufgabe erledigst du, wenn du in der Ferienwohnung ankommst?|inchange
+ete-556|Combien de temps, en minutes, dure une pause pipi sur la route ?|Combien de temps, en minutes, dure une pause repas sur la route ?|Wie viele Minuten dauert eine Pinkelpause unterwegs?|Wie viele Minuten dauert eine Fotopause unterwegs?|fr-modifie
+ete-561|Combien coûte le plein d’essence en été ?|Combien coûte un billet Eurostar en août ?|Was kostet im Sommer einmal volltanken?|Was kostet die Maut auf dem Weg nach Italien?|fr-modifie
+ete-591|Combien paies-tu un vieux livre à la brocante ?|Combien paies-tu un menu dans un fastfood ?|Wie viel zahlst du auf dem Flohmarkt für ein altes Buch?|Wie viel zahlst du auf dem Flohmarkt für eine alte Schallplatte?|fr-modifie
+ete-593|Que dis-tu pour faire baisser un prix à la brocante ?|Que réponds-tu quand on te double sur l'autoroute ?|Was sagst du auf dem Flohmarkt, um den Preis zu drücken?|Was antwortest du, wenn jemand auf dem Flohmarkt mit dir feilscht?|fr-modifie
+ete-604|Combien de baguettes achètes-tu le matin en vacances ?|Combien de croissants achètes-tu le matin en vacances ?|Wie viele Brötchen kaufst du im Urlaub morgens?|Wie viele Croissants kaufst du im Urlaub morgens?|inchange
+rentree-003|Que dis-tu à tes collègues le jour de la rentrée ?|Que réponds-tu quand on te demande si tes vacances étaient bonnes ?|Was sagst du deinen Kollegen am ersten Tag nach dem Urlaub?|Was antwortest du, wenn dich jemand fragt, ob dein Urlaub schön war?|inchange
+vacances-007|Quel jeu emportes-tu en vacances ?|Quel jeu sors-tu les jours de pluie en vacances ?|Welches Spiel nimmst du mit in den Urlaub?|Welches Spiel holst du an Regentagen im Urlaub raus?|inchange
+vacances-027|Que cries-tu en haut d’une piste noire ?|Que cries-tu en bas d’une piste noire ?|Was rufst du oben an einer schwarzen Piste?|Was rufst du unten an einer schwarzen Piste?|inchange
+vacances-031|Combien de minutes mets-tu à enfiler tes chaussures de ski ?|Combien de minutes mets-tu à t’habiller pour aller skier ?|Wie viele Minuten brauchst du, um deine Skischuhe anzuziehen?|Wie viele Minuten brauchst du, um dich fürs Skifahren anzuziehen?|inchange
+vacances-035|Que dis-tu à un débutant tombé juste devant toi ?|Que dis-tu quand on se moque de toi quand t'es tombé ?|Was sagst du zu einem Anfänger, der direkt vor dir hingefallen ist?|Was sagst du zum Skilehrer, wenn du vor dem ganzen Kurs hinfällst?|fr-modifie
+vacances-036|Combien coûte un chocolat chaud au sommet des pistes ?|Combien coûte un chocolat chaud au café de ton quartier ?|Wie viel kostet ein heißer Kakao oben auf dem Berg?|Wie viel kostet ein heißer Kakao im Café bei dir um die Ecke?|inchange
+vacances-069|Quel fromage choisis-tu pour une raclette ?|Quel fromage choisis-tu au supermarché ?|Welchen Käse nimmst du für ein Raclette?|Welchen Käse nimmst du für Käsespätzle?|fr-modifie
+vacances-074|En quel mois commences-tu les raclettes ?|En quel mois arrêtes-tu les raclettes ?|In welchem Monat fängst du mit Raclette an?|In welchem Monat hörst du mit Raclette auf?|inchange
+vacances-084|Que fais-tu en premier en rentrant d’une journée de ski ?|Que fais-tu en premier le matin d’une journée de ski ?|Was machst du als Erstes, wenn du von einem Skitag zurückkommst?|Was machst du als Erstes am Morgen eines Skitags?|inchange
+vacances-094|Quel petit plaisir t’offres-tu après la dernière descente ?|Quel petit plaisir t’offres-tu le dernier soir à la montagne ?|Welches kleine Vergnügen gönnst du dir nach der letzten Abfahrt?|Welches kleine Vergnügen gönnst du dir am letzten Abend in den Bergen?|inchange
+vacances-097|Que dis-tu en enlevant enfin tes chaussures de ski ?|Que dis-tu en voyant l’addition du restaurant d’altitude ?|Was sagst du, wenn du endlich deine Skischuhe ausziehst?|Was sagst du, wenn du die Rechnung im Bergrestaurant siehst?|inchange
+vacances-204|Combien de minutes restes-tu au lit après ton réveil en vacances ?|Combien de minutes restes-tu au lit après ton réveil un lundi ?|Wie viele Minuten bleibst du im Urlaub nach dem Aufwachen im Bett?|Wie viele Minuten bleibst du an einem Montag nach dem Aufwachen im Bett?|inchange
+vacances-211|Que dis-tu quand on te réveille trop tôt en vacances ?|Que dis-tu quand tu te réveilles à midi ?|Was sagst du, wenn man dich im Urlaub zu früh weckt?|Was sagst du, wenn du mittags aufwachst?|inchange
+vacances-323|Combien coûte un plein d’essence pour aller au ski ?|Combien coûte un aller-retour en train pour la montagne ?|Wie viel kostet eine Tankfüllung für die Fahrt in den Skiurlaub?|Wie viel kostet eine Zugfahrt hin und zurück in die Berge?|inchange
+vacances-326|Combien d’heures de route acceptes-tu pour une semaine de ski ?|Combien d’heures de route acceptes-tu pour un petit week-end ?|Wie viele Stunden Fahrt nimmst du für eine Woche Skiurlaub in Kauf?|Wie viele Stunden Fahrt nimmst du für ein langes Wochenende in Kauf?|fr-modifie
+vacances-332|Quel en-cas manges-tu dans la voiture des vacances ?|Quel en-cas achètes-tu à la gare avant de partir ?|Welchen Snack isst du im Auto auf dem Weg in den Urlaub?|Welchen Snack kaufst du vor der Abfahrt am Bahnhof?|inchange
+vacances-341|À quel âge as-tu chaussé des skis pour la première fois ?|À quel âge as-tu skié pour la dernière fois ?|Wie alt warst du, als du zum ersten Mal auf Skiern standest?|Wie alt warst du bei deiner ersten Skistunde?|fr-modifie
+vacances-422|Qui lit les règles d’un nouveau jeu ?|Qui invente ses propres règles pendant la partie ?|Wer liest die Regeln eines neuen Spiels vor?|Wer erfindet während des Spiels eigene Regeln?|inchange
+vacances-527|Que manges-tu dans un parc d’attractions ?|Que mangeais-tu à la cantine étant petit ?|Was isst du in einem Freizeitpark?|Was isst du in einem Museumscafé?|fr-modifie
+vacances-532|Que dis-tu en sortant d’une attraction à sensations ?|Que dis-tu quand un enfant veut refaire la même attraction ?|Was sagst du, wenn du aus einer Achterbahn aussteigst?|Was sagst du, wenn ein Kind dasselbe Fahrgeschäft nochmal fahren will?|inchange
+vacances-559|Quel objet emportes-tu pour faire de belles photos ?|Quel objet protèges-tu du froid au ski ?|Welchen Gegenstand nimmst du mit, um schöne Fotos zu machen?|Welchen Gegenstand schützt du beim Skifahren vor der Kälte?|inchange
+vacances-577|Combien coûte un manteau haut de gamme ?|Combien coûte un bonnet en laine ?|Wie viel kostet ein Paar Fäustlinge?|Wie viel kostet eine Wollmütze?|fr-modifie
+sport-248|Combien de jours tiennent tes résolutions sportives de janvier ?|Combien de jours faut-il pour prendre une habitude sportive ?|Wie viele Tage halten deine sportlichen Neujahrsvorsätze?|Wie viele Tage braucht man, bis Sport zur Gewohnheit wird?|inchange
+bouffe-681|Quel plat aimes-tu manger froid le lendemain ?|Quel plat est meilleur réchauffé ?|||nouvelle
+boulot-613|Combien d’étudiants y avait-il dans ton plus grand amphi ?|Combien d’étudiants comptait toute ta promo ?|||nouvelle
+boulot-614|Combien coûte un bon sac pour aller travailler ?|Combien coûte une bonne chaise de bureau ?|||nouvelle
+boulot-615|Combien de cafés un serveur porte-t-il sur un plateau ?|Combien d’assiettes un serveur porte-t-il sur un bras ?|||nouvelle
+soiree-593|Quelle célébrité fait toujours réagir quand on la cite en soirée ?|Quelle célébrité imites-tu pour faire rire tes amis ?|||nouvelle

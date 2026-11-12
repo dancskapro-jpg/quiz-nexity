@@ -1,0 +1,635 @@
+sport-076|Que dis-tu en entrant dans une eau trop froide ?|Que dis-tu quand quelqu’un t’éclabousse au bord du bassin ?|What do you say when you get into water that's way too cold?|What do you say when someone splashes you by the pool?|inchange
+sport-077|Combien de fois par an vas-tu à la piscine ?|Combien de fois par an vas-tu à la plage ?|How many times a year do you go to the pool?|How many times a year do you go to the beach?|inchange
+sport-078|Combien coûte une entrée à la piscine (en euros) ?|Combien coûte une séance d’aquagym (en euros) ?|How much does a swimming pool entry cost?|How much does an aqua aerobics class cost?|inchange
+sport-083|Combien de vélos as-tu eus dans ta vie ?|Combien de paires de baskets as-tu usées dans ta vie ?|How many bikes have you owned in your life?|How many pairs of sneakers have you worn out in your life?|inchange
+sport-096|Que cries-tu pour demander le ballon ?|Que cries-tu quand un coéquipier rate une occasion immanquable ?|What do you shout to call for the ball?|What do you shout when a teammate misses an open goal?|inchange
+sport-111|Que manges-tu quand tu vas au stade ?|Que manges-tu devant un match à la maison ?|What do you eat when you go to the stadium?|What do you eat when watching a game at home?|inchange
+sport-112|Combien paies-tu un sandwich au stade (en euros) ?|Combien paies-tu une écharpe de supporter (en euros) ?|How much do you pay for a sandwich at the stadium?|How much do you pay for a team scarf?|inchange
+sport-113|Combien d’heures avant le coup d’envoi arrives-tu au stade ?|Combien d’heures restes-tu au stade après le coup de sifflet final ?|How many hours before kickoff do you get to the stadium?|How many hours do you stay at the stadium after the final whistle?|inchange
+sport-114|Combien de places compte le plus grand stade que tu connais (en milliers) ?|Combien de supporters faut-il pour une vraie ambiance (en milliers) ?|How many seats does the biggest stadium you know have (in thousands)?|How many fans does it take to create a real atmosphere (in thousands)?|inchange
+sport-119|Combien de matchs as-tu vus dans un stade dans ta vie ?|Combien de concerts as-tu vus dans un stade dans ta vie ?|How many games have you seen in a stadium in your life?|How many concerts have you seen in a stadium in your life?|inchange
+sport-125|Que cries-tu quand l’arbitre siffle la fin du match ?|Que cries-tu quand un joueur fait un geste incroyable ?|What do you shout when the referee blows the final whistle?|What do you shout when a player pulls off an amazing move?|inchange
+sport-129|Combien de personnes faut-il pour regarder un match à la maison ?|Combien de personnes tiennent sur ton canapé ?|How many people do you need to watch a game at home?|How many people fit on your couch?|inchange
+sport-133|Combien de matchs peux-tu regarder dans la même journée ?|Combien de matchs regardes-tu pendant une Coupe du monde ?|How many games can you watch in a single day?|How many games do you watch during a World Cup?|inchange
+sport-136|À quel moment d’un match commences-tu à stresser ?|À quel moment d’un match sais-tu que c’est perdu ?|At what point in a game do you start stressing?|At what point in a game do you know it's lost?|inchange
+sport-138|Que dis-tu à quelqu’un qui pose des questions pendant le match ?|Que dis-tu à quelqu’un qui change de chaîne pendant le match ?|What do you say to someone who asks questions during the game?|What do you say to someone who changes the channel during the game?|inchange
+sport-143|Quelle phrase de commentateur sportif répètes-tu ?|Quelle phrase de commentateur sportif t’agace ?|What sports commentator line do you repeat?|What sports commentator line gets on your nerves?|inchange
+sport-144|Quel sport mériterait plus de place à la télé ?|Quel sport passe trop souvent à la télé ?|What sport deserves more airtime on TV?|What sport is on TV way too often?|inchange
+sport-147|Quel ami ferait le meilleur commentateur sportif ?|Quel ami ferait le meilleur arbitre ?|Which friend would make the best sports commentator?|Which friend would make the best referee?|inchange
+sport-160|Combien coûte une raquette de tennis correcte (en euros) ?|Combien coûte un ballon de foot correct (en euros) ?|How much does a decent tennis racket cost?|How much does a decent soccer ball cost?|inchange
+sport-161|Quelle marque de sport portes-tu le plus ?|Quelle marque de sport portais-tu au collège ?|What sports brand do you wear the most?|What sports brand did you wear in middle school?|inchange
+sport-169|Combien serais-tu prêt à payer un maillot officiel signé (en euros) ?|Combien vaut vraiment un maillot officiel (en euros) ?|How much would you be willing to pay for an official jersey?|How much is an official jersey really worth?|fr-modifie
+sport-172|Quelle épreuve olympique regardes-tu en premier ?|Quelle épreuve olympique zappes-tu toujours ?|Which Olympic event do you watch first?|Which Olympic event do you always skip?|inchange
+sport-176|Quelle épreuve olympique pourrais-tu tenter demain sans entraînement ?|Quelle épreuve olympique devrait être supprimée ?|Which Olympic event could you attempt tomorrow without training?|Which Olympic event should be scrapped?|inchange
+sport-185|Combien de mètres sautes-tu en longueur ?|Combien de mètres saute un champion en longueur ?|How many meters can you do in the long jump?|How many meters does a champion jump in the long jump?|inchange
+sport-189|Quel sport d’hiver préfères-tu ?|Quel sport d’hiver aimerais-tu essayer une fois ?|What's your favorite winter sport?|What winter sport would you like to try once?|inchange
+sport-192|Combien de jours dure ton séjour au ski idéal ?|Combien de jours faut-il pour apprendre à skier ?|How many days does your ideal ski trip last?|How many days does it take to learn to ski?|inchange
+sport-194|Que manges-tu à midi sur les pistes ?|Que manges-tu le soir au chalet ?|What do you eat for lunch on the slopes?|What do you eat for dinner at the chalet?|inchange
+sport-197|Combien de fois tombes-tu dans une journée de ski ?|Combien de pauses fais-tu dans une journée de ski ?|How many times do you fall in a day of skiing?|How many breaks do you take in a day of skiing?|inchange
+sport-199|Que fais-tu à la montagne quand tu ne skies pas ?|Que fais-tu le dernier jour d’un séjour au ski ?|What do you do in the mountains when you're not skiing?|What do you do on the last day of a ski trip?|inchange
+sport-200|Que cries-tu en dévalant une piste ?|Que dis-tu en haut d’une piste trop raide ?|What do you shout while flying down a slope?|What do you say at the top of a slope that's too steep?|inchange
+sport-203|Quel sport sur glace aimerais-tu essayer ?|Quel sport sur glace est le plus beau à regarder ?|What ice sport would you like to try?|What ice sport is the most beautiful to watch?|inchange
+sport-221|Quel sport de raquette préfères-tu ?|Quel sport de raquette n’as-tu jamais essayé ?|What's your favorite racket sport?|What racket sport have you never tried?|inchange
+sport-225|Sur 10, quel est ton niveau au ping-pong ?|Sur 10, quel est ton niveau au tennis ?|On a scale of 1 to 10, how good are you at ping-pong?|On a scale of 1 to 10, how good are you at tennis?|inchange
+sport-228|Que dis-tu quand tu rates une balle facile ?|Que dis-tu quand ton adversaire réussit un coup incroyable ?|What do you say when you miss an easy shot?|What do you say when your opponent pulls off an amazing shot?|inchange
+sport-237|Quel sport fais-tu les pieds dans le sable ?|Quel sport regardes-tu les autres faire sur la plage ?|What sport do you play with your feet in the sand?|What sport do you watch other people play on the beach?|inchange
+sport-283|Combien d’étages montes-tu à pied par jour ?|Combien de marches compte ton escalier ?|How many flights of stairs do you climb a day?|How many steps are on your staircase?|inchange
+sport-289|Combien d’heures par semaine passes-tu à regarder du sport ?|Combien d’heures par semaine passes-tu à faire du sport ?|How many hours a week do you spend watching sports?|How many hours a week do you spend playing sports?|inchange
+sport-302|À quelle heure t’installes-tu devant la télé un soir de finale ?|À quelle heure vas-tu te coucher un soir de finale ?|What time do you settle in front of the TV on the night of a final?|What time do you go to bed on the night of a final?|inchange
+sport-304|Quel vêtement de supporter portes-tu les jours de match ?|Quel vêtement de supporter as-tu acheté sans jamais le porter ?|What fan gear do you wear on game days?|What fan gear did you buy and never wear?|inchange
+sport-314|Combien coûte la location d’un terrain de five pour une heure (en euros) ?|Combien coûte une paire de crampons correcte (en euros) ?|How much does it cost to rent a five-a-side pitch for an hour?|How much does a decent pair of soccer cleats cost?|inchange
+ecrans-007|Combien de films regardes-tu par mois ?|Combien de séries suis-tu en même temps ?|How many movies do you watch a month?|How many shows are you following at the same time?|inchange
+ecrans-035|Combien coûte une place de cinéma, selon toi ?|Combien paierais-tu pour une place d’avant-première ?|How much do you think a movie ticket costs?|How much would you pay for a ticket to a premiere?|inchange
+ecrans-037|Qu’apportes-tu toujours dans une salle de cinéma ?|Qu’est-ce que tu oublies souvent sur ton siège au cinéma ?|What do you always bring into a movie theater?|What do you often leave behind on your seat at the movies?|inchange
+ecrans-038|Que fais-tu pendant les pubs avant le film ?|Que fais-tu quand un film traîne en longueur ?|What do you do during the ads before the movie?|What do you do when a movie drags on?|inchange
+ecrans-039|Que chuchotes-tu à ton voisin pendant un film ?|Que dis-tu en sortant de la salle ?|What do you whisper to the person next to you during a movie?|What do you say as you walk out of the theater?|inchange
+ecrans-041|Quel jour de la semaine préfères-tu aller au cinéma ?|Quel jour de la semaine préfères-tu commencer une nouvelle série ?|What day of the week do you prefer to go to the movies?|What day of the week do you prefer to start a new show?|inchange
+ecrans-042|Quel film es-tu allé voir plusieurs fois au cinéma ?|Quel film aurais-tu aimé découvrir sur grand écran ?|What movie did you go see several times at the theater?|What movie do you wish you had first seen on the big screen?|inchange
+ecrans-043|Au bout de combien de minutes sais-tu si un film va te plaire ?|Au bout de combien de minutes regardes-tu l’heure pendant un film ennuyeux ?|After how many minutes do you know if you're going to like a movie?|After how many minutes do you check the time during a boring movie?|inchange
+ecrans-046|Que fais-tu quand quelqu’un parle fort pendant la séance ?|Que fais-tu quand un téléphone sonne pendant la séance ?|What do you do when someone talks loudly during the movie?|What do you do when a phone rings during the movie?|inchange
+ecrans-048|Que grignotes-tu au cinéma ?|Que grignotes-tu devant un film à la maison ?|What do you snack on at the movies?|What do you snack on while watching a movie at home?|inchange
+ecrans-049|Quel goût de pop-corn préfères-tu ?|Quel goût de pop-corn aimerais-tu inventer ?|What's your favorite popcorn flavor?|What popcorn flavor would you like to invent?|inchange
+ecrans-051|Combien es-tu prêt à payer un pot de pop-corn ?|Combien payes-tu ta boisson au cinéma ?|How much are you willing to pay for a tub of popcorn?|How much do you pay for a drink at the movies?|inchange
+ecrans-052|Quel plat commandes-tu pour une soirée film entre amis ?|Quel plat manges-tu devant un film quand tu es seul ?|What food do you order for a movie night with friends?|What food do you eat in front of a movie when you're alone?|inchange
+ecrans-053|En combien de minutes finis-tu ton pop-corn au cinéma ?|Au bout de combien de minutes de film ouvres-tu ton paquet de bonbons ?|In how many minutes do you finish your popcorn at the movies?|After how many minutes of the movie do you open your bag of candy?|inchange
+ecrans-054|Quel aliment est le plus bruyant à manger au cinéma ?|Quel aliment est le plus salissant à manger sur un canapé ?|What food is the noisiest to eat at the movies?|What food is the messiest to eat on a couch?|inchange
+ecrans-060|Quel dessert manges-tu devant un film ?|Quel dessert manges-tu devant la télé le dimanche soir ?|What dessert do you eat while watching a movie?|What dessert do you eat in front of the TV on Sunday night?|inchange
+ecrans-063|Combien de minutes passes-tu à choisir quoi regarder ?|Combien de minutes passes-tu à choisir quoi manger le soir ?|How many minutes do you spend choosing what to watch?|How many minutes do you spend choosing what to eat for dinner?|inchange
+ecrans-070|Combien paierais-tu par mois pour une plateforme parfaite ?|Combien paies-tu par mois pour écouter de la musique ?|How much would you pay per month for the perfect streaming service?|How much do you pay per month to listen to music?|inchange
+ecrans-082|Que fais-tu entre deux épisodes ?|Que fais-tu pendant le générique de fin ?|What do you do between two episodes?|What do you do during the end credits?|inchange
+ecrans-085|Combien d’épisodes faut-il pour que tu deviennes accro à une série ?|Combien d’épisodes faut-il pour que tu retiennes le prénom des personnages ?|How many episodes does it take for you to get hooked on a show?|How many episodes does it take for you to remember the characters' names?|inchange
+ecrans-091|Combien de saisons as-tu enchaînées en une semaine, au maximum ?|Combien de saisons compte la plus longue série que tu as finie ?|What's the most seasons you've watched in one week?|How many seasons does the longest show you've finished have?|inchange
+ecrans-092|Combien de bandes-annonces passent avant un film au cinéma ?|Combien de bandes-annonces regardes-tu avant de choisir un film ?|How many trailers play before a movie at the theater?|How many trailers do you watch before choosing a movie?|inchange
+ecrans-100|Quel titre donnerais-tu au film de ta vie ?|Quel titre donnerais-tu à la série de ta famille ?|What title would you give the movie of your life?|What title would you give the TV series about your family?|inchange
+ecrans-102|Combien coûtait un DVD, selon toi ?|Combien coûte un abonnement de streaming par mois ?|How much do you think a DVD used to cost?|How much does a streaming subscription cost per month?|inchange
+ecrans-103|À quel moment de la bande-annonce sais-tu que tu iras voir le film ?|À quel moment d’un film sais-tu que tu vas l’adorer ?|At what point in a trailer do you know you'll go see the movie?|At what point in a movie do you know you're going to love it?|inchange
+ecrans-137|Quelle série t’a laissé sans voix à la fin d’une saison ?|Quelle série a eu une dernière saison décevante ?|What show left you speechless at the end of a season?|What show had a disappointing final season?|inchange
+ecrans-139|Que cries-tu devant un rebondissement incroyable ?|Que cries-tu quand un épisode s’arrête au pire moment ?|What do you shout at an incredible plot twist?|What do you shout when an episode ends at the worst possible moment?|inchange
+ecrans-164|Jusqu’à quel âge as-tu regardé des dessins animés ?|À quel âge as-tu vu ton premier dessin animé au cinéma ?|Until what age did you watch cartoons?|At what age did you see your first animated movie at the theater?|inchange
+ecrans-176|Sur quel sujet regardes-tu des documentaires ?|Sur quel sujet aimerais-tu tourner un documentaire ?|What topic do you watch documentaries about?|What topic would you like to make a documentary about?|inchange
+ecrans-200|Quel jeu télé aimerais-tu gagner ?|Quel jeu télé serait le pire pour toi ?|What game show would you like to win?|What game show would be the worst for you?|inchange
+ecrans-209|Combien coûte une bonne télé, selon toi ?|Combien coûte un bon canapé, selon toi ?|How much do you think a good TV costs?|How much do you think a good couch costs?|inchange
+ecrans-217|Que dis-tu quand quelqu’un met pause sans prévenir ?|Que dis-tu quand quelqu’un parle pendant la scène clé ?|What do you say when someone hits pause without warning?|What do you say when someone talks during the key scene?|inchange
+ecrans-226|Combien de fois reviens-tu en arrière pendant un film à la maison ?|Combien de fois te lèves-tu pendant un film à la maison ?|How many times do you rewind during a movie at home?|How many times do you get up during a movie at home?|inchange
+ecrans-236|Que crie-t-on sur un plateau avant de tourner ?|Que crie-t-on à la fin d’une prise ?|What do they shout on set before filming?|What do they shout at the end of a take?|inchange
+ecrans-273|Quel film d’été te rappelle tes vacances d’enfance ?|Quel film d’hiver te rappelle les fêtes en famille ?|What summer movie reminds you of your childhood vacations?|What winter movie reminds you of the holidays with your family?|inchange
+ecrans-280|Combien de films peux-tu regarder dans une journée ?|Combien de films peux-tu regarder dans un week-end ?|How many movies can you watch in one day?|How many movies can you watch in one weekend?|inchange
+ecrans-286|Quel lieu est le décor idéal d’un film d’horreur ?|Quel lieu est le décor idéal d’une comédie ?|What place is the perfect setting for a horror movie?|What place is the perfect setting for a comedy?|inchange
+ecrans-319|Que chuchotes-tu à ton voisin quand le film commence ?|Que chuchotes-tu à ton voisin quand le film devient ennuyeux ?|What do you whisper to the person next to you when the movie starts?|What do you whisper to the person next to you when the movie gets boring?|inchange
+ecrans-324|Que fais-tu quand ton voisin de siège parle pendant le film ?|Que fais-tu quand un téléphone s’allume devant toi au cinéma ?|What do you do when the person next to you talks during the movie?|What do you do when a phone lights up in front of you at the movies?|inchange
+ecrans-325|Quel objet trouve-t-on toujours par terre dans une salle après la séance ?|Quel objet as-tu déjà perdu dans une salle de cinéma ?|What item do you always find on the floor of a theater after the movie?|What item have you lost in a movie theater?|inchange
+ecrans-335|Quel snack rêverais-tu de trouver au comptoir du cinéma ?|Quel snack ne devrait jamais être vendu au cinéma ?|What snack would you love to find at the movie theater snack bar?|What snack should never be sold at the movies?|inchange
+ecrans-339|Que dis-tu au vendeur quand il te propose la taille au-dessus ?|Que dis-tu quand quelqu’un pioche dans ton popcorn sans demander ?|What do you say when the cashier offers you the next size up?|What do you say when someone grabs your popcorn without asking?|inchange
+ecrans-342|Combien dépenses-tu au total pour une sortie cinéma (en euros) ?|Combien dépenses-tu en snacks pour une soirée film chez toi (en euros) ?|How much do you spend in total on a trip to the movies?|How much do you spend on snacks for a movie night at home?|inchange
+ecrans-359|Que réponds-tu quand on te demande ce qu’on regarde ce soir ?|Que réponds-tu quand on te propose un film que tu as déjà vu ?|What do you answer when someone asks what you're watching tonight?|What do you answer when someone suggests a movie you've already seen?|inchange
+ecrans-437|Quel mot dis-tu quand une plateforme augmente son prix ?|Quel mot dis-tu quand une série disparaît du catalogue ?|What word do you say when a streaming service raises its price?|What word do you say when a show disappears from the catalog?|inchange
+ecrans-465|Quelle phrase entend-on toujours dans un film de braquage ?|Quelle phrase entend-on toujours dans un film de sport ?|What line do you always hear in a heist movie?|What line do you always hear in a sports movie?|inchange
+ecrans-468|À quel moment du film le héros doute-t-il toujours ?|À quel moment du film le méchant révèle-t-il son plan ?|At what point in the movie does the hero always have doubts?|At what point in the movie does the villain reveal their plan?|inchange
+ecrans-475|Dans quel lieu se cache toujours un indice dans un film d’enquête ?|Dans quel lieu trouve-t-on toujours un passage secret dans un film ?|Where is a clue always hidden in a detective movie?|Where is there always a secret passage in a movie?|inchange
+ecrans-584|En quelle année est sorti le plus vieux film que tu adores ?|En quelle année est sorti le film de ton enfance que tu revois le plus ?|What year did the oldest movie you love come out?|What year did the childhood movie you rewatch the most come out?|inchange
+ecrans-613|Quel prix maximum mettrais-tu dans un coffret collector de saga ?|Quel prix maximum mettrais-tu dans une affiche de film originale ?|What's the most you'd pay for a collector's edition box set of a saga?|What's the most you'd pay for an original movie poster?|inchange
+musique-025|Combien paierais-tu pour voir ton artiste préféré (en euros) ?|Combien coûte une place de concert normale (en euros) ?|How much would you pay to see your favorite artist (in euros)?|How much does a regular concert ticket cost (in euros)?|inchange
+musique-057|À quel volume, sur 10, écoutes-tu la musique en voiture ?|À quel volume, sur 10, écoutes-tu la musique au casque ?|On a scale of 1 to 10, how loud do you play music in the car?|On a scale of 1 to 10, how loud do you play music on headphones?|inchange
+musique-063|Combien de fois peux-tu écouter la même chanson sur un trajet ?|Combien de chansons passes-tu avant d’en trouver une bonne en voiture ?|How many times can you listen to the same song on one trip?|How many songs do you skip before finding a good one in the car?|inchange
+musique-097|Combien d’artistes différents écoutes-tu dans une semaine ?|Combien de genres différents écoutes-tu dans une semaine ?|How many different artists do you listen to in a week?|How many different genres do you listen to in a week?|inchange
+musique-099|Qui fait les meilleures playlists autour de toi ?|Qui te recommande toujours des chansons autour de toi ?|Who makes the best playlists among the people you know?|Who always recommends songs to you among the people you know?|inchange
+musique-101|Combien de fois appuies-tu sur « répéter » quand ton réveil sonne ?|Combien de réveils mets-tu le matin ?|How many times do you hit snooze when your alarm goes off?|How many alarms do you set in the morning?|inchange
+musique-158|Combien d’heures par jour gardes-tu ton casque au travail ?|Combien d’heures par jour écoutes-tu de la musique dans les transports ?|How many hours a day do you keep your headphones on at work?|How many hours a day do you listen to music on your commute?|inchange
+musique-165|Combien de minutes mets-tu à choisir quoi écouter en partant le matin ?|Combien de minutes peux-tu travailler sans musique ?|How many minutes do you spend picking what to listen to when leaving in the morning?|How many minutes can you work without music?|inchange
+musique-223|Quel objet connecté utilises-tu pour mettre de la musique ?|Quel objet utilisais-tu pour mettre de la musique il y a dix ans ?|What smart device do you use to play music?|What device did you use to play music ten years ago?|inchange
+musique-249|Jusqu’à quelle heure peut-on mettre de la musique fort chez soi ?|À partir de quelle heure peut-on mettre de la musique le week-end ?|Until what time is it okay to play loud music at home?|From what time is it okay to play music on weekends?|inchange
+musique-294|Combien paierais-tu pour un bon casque (en euros) ?|Combien paierais-tu pour une bonne enceinte (en euros) ?|How much would you pay for good headphones (in euros)?|How much would you pay for a good speaker (in euros)?|inchange
+enfance-001|Quelle matière préférais-tu à l’école ?|Quelle matière aurais-tu aimé avoir à l’école ?|What was your favorite subject at school?|What subject do you wish you'd had at school?|inchange
+enfance-002|Quelle matière te faisait le plus peur ?|Quelle matière te serait utile aujourd’hui ?|Which subject scared you the most?|Which school subject would be useful to you today?|inchange
+enfance-003|Quel jouet as-tu gardé ?|Quel jouet voulais-tu absolument pour Noël ?|Which toy have you kept?|Which toy did you desperately want for Christmas?|inchange
+enfance-004|Quel goûter mangeais-tu après l’école ?|Quel plat de cantine préférais-tu ?|What snack did you eat after school?|What was your favorite school lunch?|inchange
+enfance-010|Combien d’élèves y avait-il dans ta classe de CM2 ?|Combien d’amis invitais-tu à tes anniversaires d’enfant ?|How many kids were in your fifth-grade class?|How many friends did you invite to your birthday parties as a kid?|inchange
+enfance-015|À quelle heure te couchais-tu à dix ans ?|À quelle heure commençait l’école ?|What time did you go to bed when you were ten?|What time did school start?|inchange
+enfance-026|Quel cadeau d’anniversaire t’a le plus marqué enfant ?|Quel cadeau d’enfance as-tu toujours ?|Which birthday present made the biggest impression on you as a kid?|Which childhood present do you still have?|inchange
+enfance-030|À quel âge as-tu arrêté de croire au père Noël ?|À quel âge as-tu eu ton premier argent de poche ?|How old were you when you stopped believing in Santa?|How old were you when you got your first allowance?|inchange
+enfance-037|Combien de minutes durait ton repas à la cantine ?|Combien de minutes attendais-tu dans la file de la cantine ?|How many minutes did your school lunch last?|How many minutes did you wait in the cafeteria line?|inchange
+enfance-040|Que criait-on quand quelqu’un faisait tomber son plateau ?|Que disait la dame de la cantine pour te faire finir ton assiette ?|What did everyone shout when someone dropped their tray?|What did the lunch lady say to make you finish your plate?|inchange
+tech-337|Quelle phrase dis-tu quand ton téléphone affiche 1 % ?|Quelle phrase dis-tu quand ton téléphone se rallume enfin ?|What do you say when your phone shows 1%?|What do you say when your phone finally turns back on?|inchange
+tech-383|Que fais-tu quand un ami t’envoie un très long message ?|Que fais-tu quand un ami t’envoie dix messages d’affilée ?|What do you do when a friend sends you a really long message?|What do you do when a friend sends you ten messages in a row?|inchange
+tech-403|Que fais-tu quand quelqu’un te montre 200 photos de vacances ?|Que fais-tu quand quelqu’un te montre une vidéo de 10 minutes ?|What do you do when someone shows you 200 vacation photos?|What do you do when someone shows you a 10-minute video?|inchange
+tech-428|Combien de cartes de fidélité as-tu dans ton téléphone ?|Combien de billets ou tickets as-tu dans ton téléphone ?|How many loyalty cards do you have on your phone?|How many tickets do you have on your phone?|inchange
+tech-444|Combien coûte un bon ordinateur portable ?|Combien coûte un bon téléphone ?|How much does a good laptop cost?|How much does a good phone cost?|inchange
+tech-462|Combien coûte une paire d’écouteurs sans fil ?|Combien coûte une montre connectée ?|How much does a pair of wireless earbuds cost?|How much does a smartwatch cost?|inchange
+tech-477|Quelle langue as-tu essayé d’apprendre avec une appli ?|Quelle langue aimerais-tu apprendre avec une appli ?|Which language have you tried to learn with an app?|Which language would you like to learn with an app?|inchange
+tech-478|Combien de minutes passes-tu à chercher le code wifi chez quelqu’un ?|Combien de minutes passes-tu à redémarrer ta box en cas de panne ?|How many minutes do you spend looking for the wifi password at someone's place?|How many minutes do you spend restarting your router when the internet is down?|inchange
+tech-502|Dans combien d’années aura-t-on tous un robot à la maison ?|Dans combien d’années les voitures rouleront-elles seules partout ?|In how many years will we all have a robot at home?|In how many years will cars drive themselves everywhere?|inchange
+nature-058|Combien de minutes restes-tu dans une mer à 10 degrés ?|Combien de minutes restes-tu dans une mer à 25 degrés ?|How many minutes do you stay in the sea when it's 18 degrees?|How many minutes do you stay in the sea when it's 25 degrees?|fr-modifie
+nature-059|Que fais-tu en premier en arrivant sur une plage ?|Que fais-tu en premier en arrivant à la piscine ?|What's the first thing you do when you get to the beach?|What's the last thing you do before leaving the beach?|fr-modifie
+nature-066|Combien de secondes mets-tu à entrer dans une mer froide ?|Combien de secondes peux-tu tenir la tête sous l’eau ?|How many seconds does it take you to get into a cold sea?|How many seconds can you keep your head underwater?|inchange
+nature-287|Combien d’étoiles filantes as-tu vues dans ta vie ?|Combien de fois as-tu vu des dauphins dans ta vie ?|How many shooting stars have you seen in your life?|How many wishes have you made on a shooting star?|fr-modifie
+nature-291|Où irais-tu pour voir le plus beau ciel étoilé ?|Où irais-tu pour voir une aurore boréale ?|Where would you go to see the most beautiful starry sky?|Where would you go to see the northern lights?|inchange
+famille-153|Que construis-tu avec de la neige ?|Que construis-tu avec du sable mouillé ?|What do you build with snow?|What do you build with wet sand?|inchange
+famille-162|Que fais-tu quand tu vois un arc-en-ciel ?|Que fais-tu quand tu vois de la neige tomber ?|What do you do when you see a rainbow?|What do you do when you see snow falling?|inchange
+fetes-003|Combien de cadeaux mets-tu sous le sapin en moyenne ?|Combien de personnes fêtent Noël avec toi en moyenne ?|How many presents do you put under the tree?|How many people celebrate Christmas with you?|fr-modifie
+fetes-005|À quelle heure ouvres-tu les cadeaux à Noël ?|À quelle heure commence le repas de Noël ?|What time do you open presents at Christmas?|What time does Christmas dinner start?|inchange
+fetes-009|Où aimerais-tu voir un feu d’artifice ?|Où aimerais-tu visiter un marché de Noël ?|Where would you like to see a fireworks show?|Where would you like to visit a Christmas market?|inchange
+fetes-011|Combien de jours avant Noël installes-tu le sapin ?|Combien de jours après Noël enlèves-tu le sapin ?|How many days before Christmas do you put up the tree?|How many days after Christmas do you take down the tree?|inchange
+fetes-014|Combien de bougies faut-il sur un gâteau pour qu’il soit beau ?|En combien de parts coupes-tu une galette des rois ?|How many candles does a cake need to look nice?|How many slices do you cut a king cake into?|inchange
+fetes-019|Que dis-tu pour souhaiter une bonne année ?|Que dis-tu pour souhaiter un joyeux anniversaire en retard ?|What do you say to wish someone a happy new year?|What do you say to wish someone a belated happy birthday?|inchange
+fetes-026|Combien de jours à l’avance achètes-tu tes cadeaux de Noël ?|Combien de jours avant les vacances fais-tu ta valise ?|How many days ahead do you buy your Christmas presents?|How many days before vacation do you pack your suitcase?|inchange
+fetes-040|Combien de parts de gâteau d’anniversaire manges-tu ?|Combien de parts de gâteau restent à la fin de la fête ?|How many slices of birthday cake do you eat?|How many slices of cake are left at the end of the party?|inchange
+fetes-042|Combien de minutes dure le moment des cadeaux à un anniversaire ?|Combien de minutes restes-tu caché pour une fête surprise ?|How many minutes does present-opening last at a birthday party?|How many minutes do you stay hidden for a surprise party?|inchange
+fetes-043|Combien de dates d’anniversaire connais-tu par cœur ?|Combien de rappels d’anniversaire as-tu dans ton téléphone ?|How many birthdays do you know by heart?|How many birthday reminders do you have in your phone?|inchange
+fetes-048|Combien de bougies mets-tu vraiment sur un gâteau d’adulte ?|Combien de cadeaux reçois-tu dans une année ?|How many candles do you actually put on a grown-up's cake?|How many candles would it take to set off the smoke alarm?|fr-modifie
+fetes-050|Quel est le meilleur cadeau que tu aies reçu enfant ?|Quel objet t'es-tu acheté pour te faire plaisir pour ton anniversaire ?|What's the best present you got as a child?|What childhood present did you beg for the most?|fr-modifie
+fetes-052|Combien de minutes mets-tu à emballer un cadeau ?|Combien de minutes mets-tu à écrire une carte d’anniversaire ?|How many minutes does it take you to wrap a present?|How many minutes does it take you to choose a birthday card?|fr-modifie
+fetes-055|Que dis-tu quand un cadeau ne te plaît pas du tout ?|Que dis-tu quand tu reçois un cadeau beaucoup trop généreux ?|What do you say when you really don't like a present?|What do you say when you get a way-too-generous present?|inchange
+fetes-057|Combien de cadeaux offres-tu dans une année ?|Combien de cadeaux reçois-tu dans une année ?|How many presents do you give in a year?|How many presents do you receive in a year?|inchange
+fetes-063|Que trouve-t-on à coup sûr dans une pochette surprise ?|Quel jouet trouve-t-on à coup sûr dans un œuf en chocolat ?|What can you always find in a party bag?|What toy can you always find in a chocolate egg?|fr-modifie
+fetes-064|Quel mot écris-tu sur une carte de félicitations ?|Quel mot écris-tu sur une carte de remerciement ?|What word do you write on a congratulations card?|What word do you write on a thank-you card?|inchange
+fetes-065|Combien de jours mets-tu à remercier pour un cadeau ?|Combien de jours gardes-tu un bouquet reçu en cadeau ?|How many days does it take you to say thanks for a present?|How many days do you keep a bouquet you got as a present?|inchange
+fetes-066|Où caches-tu les cadeaux avant de les offrir ?|Où ranges-tu les cadeaux que tu n’utilises pas ?|Where do you hide presents before giving them?|Where do you keep the presents you never use?|inchange
+fetes-137|Combien dépenses-tu pour un bouquet de fleurs ?|Combien dépenses-tu pour une boîte de chocolats à offrir ?|How much do you spend on a bouquet of flowers?|How much do you spend on a box of chocolates as a gift?|inchange
+fetes-164|Combien d’invités faut-il pour un beau mariage ?|Combien de tables compte une belle salle de réception ?|How many guests does it take for a great wedding?|How many tables are there in a nice reception hall?|inchange
+fetes-171|À combien de mariages es-tu allé dans ta vie ?|À combien d'anniversaires es-tu allé dans ta vie ?|How many weddings have you been to in your life?|How many christenings have you been to in your life?|fr-modifie
+fetes-196|Combien de fois dis-tu bonne année le 1er janvier ?|Combien de fois dis-tu joyeux anniversaire dans une année ?|How many times do you say happy new year on January 1st?|How many times do you say happy birthday in a year?|inchange
+fetes-198|À quelle heure arrives-tu quand on t’invite à 20 heures ?|À quelle heure pars-tu d’une soirée qui t’ennuie ?|What time do you show up when you're invited for 8 p.m.?|What time do you leave a party that bores you?|inchange
+fetes-222|Combien coûte un billet pour un parc d'attractions ?|Combien coûte une console de jeu ?|How much does a ride cost?|How much does cotton candy cost?|fr-modifie
+fetes-223|Combien de minutes maximum attends-tu pour un grand huit ?|Combien de minutes attends-tu pour une grande roue ?|How many minutes do you wait in line for a roller coaster?|How many minutes do you wait in line for a Ferris wheel?|fr-modifie
+fetes-227|Combien de lancers te faut-il pour gagner une peluche ?|Combien d’essais te faut-il pour attraper un canard à la pêche ?|How many throws does it take you to win a stuffed animal?|How many tries does it take you to hook a duck?|inchange
+fetes-243|Que dis-tu quand il fait nuit à 17 heures ?|Que dis-tu quand il fait encore jour à 22 heures ?|What do you say when it's dark at 5 p.m.?|What do you say when it's still light at 10 p.m.?|inchange
+fetes-263|Que fais-tu le 26 décembre ?|Que fais-tu le 2 janvier ?|What do you do on December 26th?|What do you do on January 2nd?|inchange
+fetes-275|Combien de photos prends-tu pendant une fête ?|Combien de photos de fête gardes-tu vraiment ?|How many photos do you take at a party?|How many party photos do you actually keep?|inchange
+fetes-279|Quel moment d’une fête aimes-tu prendre en photo ?|Quel moment d’une fête préfères-tu vivre sans téléphone ?|What moment of a party do you like to take pictures of?|What moment of a party do you prefer to enjoy without your phone?|inchange
+fetes-280|Qui prend toujours les photos dans ton groupe d’amis ?|Qui organise toujours la photo de groupe dans ta famille ?|Who always takes the photos in your group of friends?|Who always organizes the group photo in your family?|inchange
+fetes-289|Combien de ballons gonfles-tu pour une fête ?|Combien de paquets de chips achètes-tu pour une fête ?|How many balloons do you blow up for a party?|How many bags of chips do you buy for a party?|inchange
+fetes-290|Combien de minutes mets-tu à gonfler dix ballons ?|Combien de minutes mets-tu à dresser la table pour dix ?|How many minutes does it take you to blow up ten balloons?|How many minutes does it take you to set the table for ten?|inchange
+fetes-300|Que dis-tu en accueillant tes invités ?|Que dis-tu en arrivant chez quelqu’un qui fait une fête ?|What do you say when you welcome your guests?|What do you say when you arrive at someone's party?|inchange
+fetes-302|Quel fromage mets-tu sur un plateau de fête ?|Quel fromage mets-tu dans une raclette ?|What cheese do you put on a party platter?|What cheese do you put in a grilled cheese?|inchange
+fetes-303|Quel objet empruntes-tu toujours pour organiser une fête ?|Quel objet prêtes-tu toujours pour une fête ?|What do you always borrow to throw a party?|What do you always lend out for a party?|inchange
+fetes-305|À quelle heure sers-tu le gâteau à un anniversaire du soir ?|À quelle heure sers-tu le dessert à un dîner entre amis ?|What time do you serve the cake at an evening birthday party?|What time do you serve dessert at a dinner with friends?|inchange
+fetes-308|À partir de quel âge offre-t-on de l’argent plutôt qu’un cadeau ?|À partir de quel âge arrête-t-on les pochettes surprises ?|At what age do people start giving money instead of a present?|At what age do people stop giving out party bags?|inchange
+fetes-309|Combien dépenses-tu pour une fête chez toi ?|Combien dépenses-tu pour un week-end entre amis ?|How much do you spend on a party at your place?|How much do you spend on a weekend away with friends?|inchange
+fetes-311|Quel objet trouves-tu toujours sous le canapé après une fête ?|Quel objet trouves-tu toujours dans le jardin après une fête ?|What do you always find under the couch after a party?|What do you always find in the yard after a party?|inchange
+fetes-313|Quel invité arrive toujours le premier ?|Quel invité reste toujours pour aider ?|Which guest always arrives first?|Which guest always stays to help?|inchange
+fetes-316|Combien de jours tiennent tes résolutions de janvier ?|Combien de résolutions notes-tu le 1er janvier ?|How many days do your January resolutions last?|How many resolutions do you write down on January 1st?|inchange
+fetes-332|Combien de fois écris-tu encore l’ancienne année en janvier ?|Combien de fois te trompes-tu de date en janvier ?|How many times do you still write last year's date in January?|How many times do you get the date wrong in January?|inchange
+fetes-333|Combien coûte un agenda pour la nouvelle année ?|Combien coûte un calendrier de l'avent de chocolat ?|How much does a planner for the new year cost?|How much does a wall calendar cost?|fr-modifie
+fetes-335|Quel objet sert de fève quand on n’en a pas ?|Quel objet remplace la couronne quand on l’a oubliée ?|What do you use as the trinket when you don't have one?|What do you use as a crown when you've forgotten it?|inchange
+fetes-341|Combien coûte une galette pour six ?|Combien coûte une tarte aux pommes pour six ?|How much does a king cake for six cost?|How much does an apple pie for six cost?|inchange
+fetes-345|Combien de crêpes manges-tu au goûter ?|Combien de crêpes prépares-tu pour quatre personnes ?|How many pancakes do you eat for an afternoon snack?|How many pancakes do you make for four people?|inchange
+fetes-346|Quelle crêpe salée préfères-tu ?|Quelle crêpe sucrée préfères-tu ?|What's your favorite savory pancake?|What's your favorite sweet pancake?|inchange
+fetes-347|Qui fait sauter les crêpes chez toi ?|Qui mange les crêpes ratées chez toi ?|Who flips the pancakes in your family?|Who eats the failed pancakes in your family?|inchange
+fetes-353|Quelle garniture de crêpe mets-tu pour les enfants ?|Quelle garniture de crêpe gardes-tu pour les adultes ?|What pancake topping do you use for the kids?|What pancake topping do you save for the grown-ups?|inchange
+fetes-354|Combien coûte une crêpe au sucre dans une crêperie ?|Combien coûte une galette complète dans une crêperie ?|How much does a sugar crêpe cost at a crêpe stand?|How much does a ham-and-cheese crêpe cost at a crêpe stand?|inchange
+fetes-365|Quel personnage imites-tu avec seulement une moustache ?|Quel personnage imites-tu avec seulement un chapeau ?|Which character can you imitate with just a mustache?|Which character can you imitate with just a hat?|inchange
+fetes-371|Quel objet utilises-tu pour une blague du 1er avril ?|Quel objet utilises-tu pour un tour de magie ?|What do you use for an April Fools' prank?|What do you use for a magic trick?|inchange
+fetes-390|Quel jeu organises-tu pour les enfants à Pâques ?|Quel jeu organises-tu pour les enfants à la plage ?|What game do you organize for kids at Easter?|What game do you organize for kids at the beach?|inchange
+fetes-399|Combien coûte une tablette de chocolat ?|Combien coûte une rose chez le fleuriste ?|How much does a bunch of tulips cost?|How much does a single rose cost at the florist?|fr-modifie
+fetes-410|Que dis-tu pour inviter un voisin que tu ne connais pas ?|Que dis-tu pour te présenter à un nouveau voisin ?|What do you say to invite a neighbor you don't know?|What do you say to introduce yourself to a new neighbor?|inchange
+fetes-431|Quel bruit fais-tu pour imiter un feu d’artifice ?|Quel bruit fais-tu pour imiter une voiture de course ?|What sound do you make to imitate fireworks?|What sound do you make to imitate a race car?|inchange
+ville-228|Combien de jours faut-il pour visiter une grande ville ?|Combien de jours pars-tu en vacances par an ?|How many days does it take to visit a big city?|How many days does it take you to feel at home in a city?|fr-modifie
+ville-231|Que dis-tu à un touriste perdu devant toi ?|Que dis-tu quand un touriste te demande de le prendre en photo ?|What do you say to a lost tourist in front of you?|What do you say when a tourist asks you to take their picture?|inchange
+ville-232|Combien de photos prends-tu en une journée de visite ?|Combien de photos de monuments gardes-tu vraiment ?|How many photos do you take in a day of sightseeing?|How many photos of landmarks do you actually keep?|inchange
+ville-243|Combien coûte un ticket de métro dans ta ville ?|Combien coûte une amende quand tu fraudes dans les transports ?|How much is a subway ticket in your city?|How much is a bus ticket in your city?|fr-modifie
+ville-259|Combien de minutes de transport acceptes-tu au maximum pour aller au travail ?|Combien de minutes de transport acceptes-tu au maximum pour voir tes amis ?|How many minutes of commuting will you put up with, max, to get to work?|How many minutes of travel will you put up with, max, to see your friends?|inchange
+ville-313|Combien de lignes de bus prends-tu dans un mois ?|Combien de stations de métro connais-tu par cœur ?|How many bus routes do you take in a month?|How many subway stations do you know by heart?|inchange
+ville-315|Combien coûte un ticket de métro selon toi ?|Combien coûte une heure de parking en centre-ville selon toi ?|How much do you think a subway ticket costs?|How much do you think an hour of parking downtown costs?|inchange
+ville-327|Combien de minutes cherches-tu une place pour te garer ?|Combien de minutes attends-tu à un feu rouge dans ta journée ?|How many minutes do you spend looking for a parking spot?|How many minutes a day do you spend waiting at red lights?|inchange
+ville-331|Que dis-tu quand une trottinette te frôle ?|Que dis-tu quand un vélo te sonne derrière toi ?|What do you say when a scooter whizzes right past you?|What do you say when a bike rings its bell behind you?|inchange
+imaginaire-029|Combien d’heures de plus voudrais-tu dans une journée ?|Combien d’heures a duré ton plus long trajet en avion ?|How many extra hours would you want in a day?|How many hours of sleep would be enough if you were a robot?|fr-modifie
+popculture-004|Quel film d’animation plaît autant aux adultes qu’aux enfants ?|Quel film d’animation t’a fait pleurer ?|Which animated movie do adults love as much as kids?|Which animated movie made you cry?|inchange
+popculture-008|Quelle série a la meilleure fin ?|Quelle série aurait dû s’arrêter plus tôt ?|Which show has the best ending?|Which show should have stopped sooner?|inchange
+popculture-012|Quel personnage de jeu vidéo tout le monde connaît ?|Quel personnage de jeu vidéo mériterait son propre film ?|Which video game character does everyone know?|Which video game character deserves their own movie?|inchange
+popculture-017|Quel tube de l’été restera dans les mémoires ?|Quel tube de l’été t’a le plus agacé ?|Which summer hit will people remember forever?|Which summer hit annoyed you the most?|inchange
+popculture-110|Quel jour sort l’épisode que tu attends le plus ?|Quel jour de la semaine réserves-tu à ta série préférée ?|What day does the episode you're most excited about come out?|What day of the week do you save for your favorite show?|inchange
+popculture-114|Quelle série regardes-tu en fond pendant que tu fais autre chose ?|Quelle série exige toute ton attention ?|Which show do you put on in the background while doing something else?|Which show needs your full attention?|inchange
+popculture-128|Qui remercierais-tu en premier dans ton discours de remerciement à ton mariage ?|Qui oublierais-tu forcément de remercier dans ton discours à ton mariage ?|Who would you thank first in your acceptance speech?|Who would you definitely forget to thank in your speech?|fr-modifie
+popculture-240|Quel film d’animation regardes-tu sans enfants ?|Quel film d’animation regardes-tu avec des enfants ?|Which animated movie do you watch without kids?|Which animated movie do you watch with kids?|inchange
+nostalgie-022|Combien coûtait une baguette quand tu étais petit ?|Combien coûtait un paquet de bonbons quand tu étais petit ?|How much did a loaf of bread cost when you were little?|How much did a bag of candy cost when you were little?|inchange
+nostalgie-026|Que faisais-tu le mercredi après-midi ?|Quelle activité extra-scolaire as-tu abandonnée ?|What did you do on weekend afternoons as a kid?|What after-school activity did you give up?|inchange
+nostalgie-029|Quel moment de l’année attendais-tu le plus enfant ?|Quel moment de l’année redoutais-tu enfant ?|What time of year did you look forward to most as a kid?|What time of year did you dread as a kid?|inchange
+nostalgie-049|À quel âge as-tu arrêté de regarder les dessins animés ?|À quel âge as-tu eu le droit de veiller pour un film ?|How old were you when you stopped watching cartoons?|How old were you when you were allowed to stay up for a movie?|inchange
+nostalgie-083|Quelles céréales mangeais-tu le matin enfant ?|Quelles céréales mangeais-tu directement dans la boîte ?|What cereal did you eat in the morning as a kid?|What cereal did you eat straight out of the box?|inchange
+nostalgie-084|Quel gâteau sec trempais-tu dans ton lait ?|Quel gâteau sec mangeais-tu en cachette dans le placard ?|What cookie did you dunk in your milk?|What cookie did you sneak from the cupboard?|inchange
+nostalgie-087|Quel bonbon collait aux dents ?|Quel bonbon piquait la langue ?|What candy stuck to your teeth?|What candy made your tongue tingle?|inchange
+nostalgie-090|Combien d’argent de poche avais-tu par semaine ?|Combien dépensais-tu en bonbons par semaine ?|How much pocket money did you get a week?|How much did you spend on candy a week?|inchange
+nostalgie-175|Que faisait-on en famille le dimanche après-midi ?|Que faisait-on en famille les soirs d’été ?|What did your family do on Sunday afternoons?|What did your family do on summer evenings?|inchange
+nostalgie-181|Quel gâteau faisait toujours la même personne de ta famille ?|Quel gâteau achetait-on toujours chez le même pâtissier ?|What cake did the same family member always make?|What cake was always bought from the same bakery?|inchange
+nostalgie-225|Combien coûtait une place de cinéma quand tu étais ado ?|Combien coûtait un CD neuf quand tu étais ado ?|How much did a movie ticket cost when you were a teen?|How much did a new CD cost when you were a teen?|inchange
+nostalgie-226|Combien coûtait une glace à la plage quand tu étais petit ?|Combien coûtait un tour de manège quand tu étais petit ?|How much did an ice cream at the beach cost when you were little?|How much did a fairground ride cost when you were little?|inchange
+nostalgie-227|Combien coûtait ton magazine préféré enfant ?|Combien coûtait une pochette d’images à coller enfant ?|How much did your favorite magazine cost as a kid?|How much did a pack of album stickers cost as a kid?|inchange
+nostalgie-228|Combien coûtait un menu au fast-food quand tu étais ado ?|Combien coûtait une pizza à partager quand tu étais ado ?|How much did a fast-food meal cost when you were a teen?|How much did a pizza to share cost when you were a teen?|inchange
+nostalgie-229|Combien coûtait une heure de cybercafé ?|Combien coûtait la location d’une cassette vidéo ?|How much did an hour at an internet café cost?|How much did it cost to rent a video tape?|inchange
+nostalgie-230|Combien coûtait un ticket de bus quand tu étais ado ?|Combien coûtait un timbre quand tu étais ado ?|How much did a bus ticket cost when you were a teen?|How much did a stamp cost when you were a teen?|inchange
+nostalgie-231|Combien coûtait un croissant quand tu étais petit ?|Combien coûtait une sucette à la boulangerie quand tu étais petit ?|How much did a donut cost when you were little?|How much did a lollipop at the corner shop cost when you were little?|inchange
+nostalgie-232|Combien coûtait une console de jeux quand tu étais petit ?|Combien coûtait un vélo neuf quand tu étais petit ?|How much did a game console cost when you were little?|How much did a new bike cost when you were little?|inchange
+nostalgie-277|Quelle console avais-tu enfant ?|Sur quelle console as-tu joué pour la dernière fois ?|What console did you have as a kid?|What console did your best friend have as a kid?|fr-modifie
+reflexe-001|Cite un objet toujours présent dans une cuisine.|Cite un objet toujours présent dans une salle de bain.|Name something you always find in a kitchen.|Name something you always find in a bathroom.|inchange
+reflexe-002|Cite une pièce de la maison.|Cite un endroit où l’on range des affaires.|Name a room in the house.|Name a place where you store stuff.|inchange
+reflexe-003|Cite un objet électrique.|Cite un objet qu’on branche le soir.|Name an electrical appliance.|Name something you plug in at night.|inchange
+reflexe-004|Cite un objet en bois.|Cite un objet qu’on trouve dans un chalet.|Name something made of wood.|Name something you'd find in a log cabin.|inchange
+reflexe-005|Cite un outil de jardinage.|Cite un outil qu’on trouve dans un garage.|Name a gardening tool.|Name a tool you'd find in a garage.|inchange
+reflexe-006|Cite un animal de la ferme.|Cite un animal du zoo.|Name a farm animal.|Name a zoo animal.|inchange
+reflexe-007|Cite un animal qui vole.|Cite un animal qui vit dans les arbres.|Name an animal that flies.|Name an animal that lives in trees.|inchange
+reflexe-008|Cite un animal marin.|Cite un animal qu’on voit à l’aquarium.|Name a sea animal.|Name an animal you see at an aquarium.|inchange
+reflexe-009|Cite un animal de compagnie.|Cite un petit animal.|Name a pet.|Name a small animal.|inchange
+reflexe-010|Cite un prénom de chien.|Cite un prénom de chat.|Name a dog's name.|Name a cat's name.|inchange
+reflexe-011|Cite un fruit rouge.|Cite un fruit d’été.|Name a red fruit.|Name a summer fruit.|inchange
+reflexe-012|Cite un légume vert.|Cite un légume qu’on met dans la soupe.|Name a green vegetable.|Name a vegetable you put in soup.|inchange
+reflexe-013|Cite un plat qu’on mange avec les doigts.|Cite un plat qu’on partage à plusieurs.|Name a food you eat with your fingers.|Name a dish you share with a group.|inchange
+reflexe-014|Cite une boisson chaude.|Cite une boisson du petit-déjeuner.|Name a hot drink.|Name a breakfast drink.|inchange
+reflexe-015|Cite un fromage.|Cite un fromage qui fond bien.|Name a cheese.|Name a cheese that melts well.|inchange
+reflexe-016|Cite un dessert.|Cite un dessert de restaurant.|Name a dessert.|Name a dessert you'd order at a restaurant.|inchange
+reflexe-017|Cite un ingrédient de pizza.|Cite un ingrédient de salade.|Name a pizza topping.|Name a salad ingredient.|inchange
+reflexe-018|Cite un pays où il fait chaud.|Cite un pays où tu aimerais aller.|Name a hot country.|Name a country you'd love to visit.|inchange
+reflexe-019|Cite un pays d’Europe.|Cite un pays voisin de la France.|Name a European country.|Name a country that borders France.|inchange
+reflexe-020|Cite une ville au bord de la mer.|Cite une ville avec un grand port.|Name a seaside city.|Name a city with a big port.|inchange
+reflexe-021|Cite un endroit où l’on chuchote.|Cite un endroit où l’on attend longtemps.|Name a place where people whisper.|Name a place where you wait a long time.|inchange
+reflexe-022|Cite une couleur de voiture.|Cite une couleur de vélo.|Name a car color.|Name a bike color.|inchange
+reflexe-023|Cite une couleur de drapeau.|Cite une couleur de l’arc-en-ciel.|Name a color on a flag.|Name a color of the rainbow.|inchange
+reflexe-024|Cite quelque chose de rond.|Cite quelque chose qui roule.|Name something round.|Name something that rolls.|inchange
+reflexe-025|Cite quelque chose de froid.|Cite quelque chose de blanc.|Name something cold.|Name something white.|inchange
+reflexe-026|Cite un métier en uniforme.|Cite un métier où l’on travaille la nuit.|Name a job with a uniform.|Name a job where you work nights.|inchange
+reflexe-027|Cite un métier qui sauve des vies.|Cite un métier qu’on admire.|Name a job that saves lives.|Name a job people admire.|inchange
+reflexe-028|Cite un sport avec un ballon.|Cite un sport qu’on regarde à la télé.|Name a sport played with a ball.|Name a sport you watch on TV.|inchange
+reflexe-029|Cite un loisir qu’on fait seul.|Cite un loisir qu’on fait le dimanche.|Name a hobby you do alone.|Name a hobby you do on Sundays.|inchange
+reflexe-030|Cite un jeu de cartes.|Cite un jeu qu’on fait en famille.|Name a card game.|Name a game you play with family.|inchange
+reflexe-031|Cite un instrument de musique.|Cite un instrument qu’on entend dans une fanfare.|Name a musical instrument.|Name an instrument you hear in a marching band.|inchange
+reflexe-032|Cite un super-héros.|Cite un héros de film.|Name a superhero.|Name a movie hero.|inchange
+reflexe-033|Cite un objet qu’on trouve dans un sac à main.|Cite un objet qu’on trouve dans une trousse.|Name something you find in a handbag.|Name something you find in a pencil case.|inchange
+reflexe-034|Cite un objet de bureau.|Cite un objet qu’on trouve dans une salle de classe.|Name an office item.|Name something you find in a classroom.|inchange
+reflexe-035|Cite un objet qui fait du bruit.|Cite un objet qui sonne.|Name something that makes noise.|Name something that rings.|inchange
+reflexe-036|Cite un objet qu’on oublie souvent.|Cite un objet qu’on perd souvent.|Name something people often forget.|Name something people often lose.|inchange
+reflexe-037|Cite quelque chose qu’on met dans une valise.|Cite quelque chose qu’on met dans un sac de sport.|Name something you pack in a suitcase.|Name something you pack in a gym bag.|inchange
+reflexe-038|Cite un moyen de transport.|Cite un moyen de transport qu’on prend en vacances.|Name a means of transport.|Name a means of transport you take on vacation.|inchange
+reflexe-039|Cite un vêtement d’hiver.|Cite un vêtement qu’on porte à la montagne.|Name a piece of winter clothing.|Name something you wear in the mountains.|inchange
+reflexe-040|Cite une marque de voiture allemande.|Cite une marque de voiture de luxe.|Name a German car brand.|Name a luxury car brand.|inchange
+reflexe-041|Cite un objet qu’on trouve sur une table de chevet.|Cite un objet qu’on trouve sur un bureau.|Name something you find on a nightstand.|Name something you find on a desk.|inchange
+reflexe-042|Cite un meuble du salon.|Cite un meuble de la chambre.|Name a piece of living room furniture.|Name a piece of bedroom furniture.|inchange
+reflexe-043|Cite quelque chose qu’on accroche au mur.|Cite quelque chose qu’on pose sur une étagère.|Name something you hang on a wall.|Name something you put on a shelf.|inchange
+reflexe-044|Cite un objet qu’on range dans un tiroir.|Cite un objet qu’on range dans une boîte à chaussures.|Name something you keep in a drawer.|Name something you keep in a shoebox.|inchange
+reflexe-045|Cite un appareil qui chauffe.|Cite un appareil qui fait du bruit dans la maison.|Name an appliance that heats up.|Name an appliance that makes noise at home.|inchange
+reflexe-046|Cite un objet qu’on trouve dans une cave.|Cite un objet qu’on trouve dans un grenier.|Name something you find in a basement.|Name something you find in an attic.|inchange
+reflexe-047|Cite un produit ménager.|Cite quelque chose qu’on achète au supermarché.|Name a cleaning product.|Name something you buy at the supermarket.|inchange
+reflexe-048|Cite un objet qui sert à nettoyer.|Cite un objet qui sert à ranger.|Name something used for cleaning.|Name something used for storing things.|inchange
+reflexe-049|Cite un meuble qui a quatre pieds.|Cite un objet qui se déplace sur roulettes.|Name a piece of furniture with four legs.|Name something that moves on wheels.|inchange
+reflexe-050|Cite un objet qui a une poignée.|Cite un objet qui a un couvercle.|Name something with a handle.|Name something with a lid.|inchange
+reflexe-051|Cite un appareil qu’on allume chaque matin.|Cite quelque chose qu’on ouvre en se levant.|Name a device you switch on every morning.|Name something you open when you get up.|inchange
+reflexe-052|Cite un objet qu’on trouve dans l’entrée.|Cite un objet qu’on prend avant de sortir.|Name something you find in the hallway.|Name something you grab before going out.|inchange
+reflexe-053|Cite un ustensile de cuisine.|Cite un ustensile pour faire un gâteau.|Name a kitchen utensil.|Name a utensil for baking a cake.|inchange
+reflexe-054|Cite un appareil électroménager.|Cite un appareil qui tourne.|Name a kitchen appliance.|Name an appliance that spins.|inchange
+reflexe-055|Cite une épice.|Cite un ingrédient qu’on met dans une sauce.|Name a spice.|Name an ingredient you put in a sauce.|inchange
+reflexe-056|Cite quelque chose qu’on fait frire.|Cite quelque chose qu’on fait griller.|Name something you deep-fry.|Name something you grill.|inchange
+reflexe-057|Cite un aliment qu’on mange cru.|Cite un aliment qu’on mange cuit.|Name a food you eat raw.|Name a food you eat cooked.|inchange
+reflexe-058|Cite un aliment qu’on met au four.|Cite un aliment qu’on met au congélateur.|Name a food you put in the oven.|Name a food you put in the freezer.|inchange
+reflexe-059|Cite une sorte de pâtes.|Cite un plat italien.|Name a type of pasta.|Name an Italian dish.|inchange
+reflexe-060|Cite un légume qui pousse sous terre.|Cite un légume qu’on épluche.|Name a vegetable that grows underground.|Name a vegetable you peel.|inchange
+reflexe-061|Cite une viande.|Cite quelque chose qu’on met au barbecue.|Name a type of meat.|Name something you put on the barbecue.|inchange
+reflexe-062|Cite un poisson.|Cite quelque chose qu’on pêche.|Name a fish.|Name something people go fishing for.|inchange
+reflexe-063|Cite quelque chose qu’on tartine.|Cite quelque chose qu’on met sur une crêpe.|Name something you spread on bread.|Name something you put on a pancake.|inchange
+reflexe-064|Cite un aliment jaune.|Cite un aliment sucré.|Name a yellow food.|Name a sweet food.|inchange
+reflexe-065|Cite un fruit exotique.|Cite un fruit qui a un noyau.|Name an exotic fruit.|Name a fruit with a pit.|inchange
+reflexe-066|Cite un fruit qu’on épluche.|Cite un fruit qu’on presse.|Name a fruit you peel.|Name a fruit you squeeze.|inchange
+reflexe-067|Cite une sauce.|Cite quelque chose qu’on met dans un sandwich.|Name a sauce.|Name something you put in a sandwich.|inchange
+reflexe-068|Cite un bonbon.|Cite une friandise de fête foraine.|Name a candy.|Name a treat you get at a fair.|inchange
+reflexe-069|Cite un plat d’hiver.|Cite un plat qu’on mange à la montagne.|Name a winter dish.|Name a dish you eat at a ski resort.|inchange
+reflexe-070|Cite une boisson fraîche.|Cite une boisson qu’on boit avec une paille.|Name a cold drink.|Name a drink you have with a straw.|inchange
+reflexe-071|Cite un parfum de glace.|Cite un parfum de yaourt.|Name an ice cream flavor.|Name a yogurt flavor.|inchange
+reflexe-072|Cite un aliment qu’on achète à la boulangerie.|Cite un aliment qu’on achète au marché.|Name something you buy at the bakery.|Name something you buy at the market.|inchange
+reflexe-073|Cite un aliment qu’on garde longtemps.|Cite un aliment qu’on achète en conserve.|Name a food that keeps for a long time.|Name a food you buy canned.|inchange
+reflexe-074|Cite un paysage.|Cite un endroit où l’on fait une randonnée.|Name a type of landscape.|Name a place where you go hiking.|inchange
+reflexe-075|Cite un arbre.|Cite un arbre fruitier.|Name a tree.|Name a fruit tree.|inchange
+reflexe-076|Cite une fleur.|Cite une plante d’intérieur.|Name a flower.|Name a houseplant.|inchange
+reflexe-077|Cite quelque chose qu’on trouve sur une plage.|Cite quelque chose qu’on trouve au bord d’une rivière.|Name something you find on a beach.|Name something you find by a river.|inchange
+reflexe-078|Cite quelque chose qu’on ramasse en forêt.|Cite quelque chose qu’on cueille en été.|Name something you gather in the woods.|Name something you pick in summer.|inchange
+reflexe-079|Cite un endroit où l’on se baigne.|Cite un endroit où l’on pêche.|Name a place where you go swimming.|Name a place where you go fishing.|inchange
+reflexe-080|Cite quelque chose qui tombe du ciel.|Cite quelque chose qui tombe d’un arbre.|Name something that falls from the sky.|Name something that falls from a tree.|inchange
+reflexe-081|Cite quelque chose qu’on voit dans le ciel la nuit.|Cite quelque chose qui brille.|Name something you see in the night sky.|Name something that shines.|inchange
+reflexe-082|Cite un phénomène météo.|Cite quelque chose qui gâche un pique-nique.|Name a weather phenomenon.|Name something that ruins a picnic.|inchange
+reflexe-083|Cite un objet qu’on prend quand il pleut.|Cite un objet qu’on prend quand il fait froid.|Name something you take when it rains.|Name something you take when it's cold.|inchange
+reflexe-084|Cite une activité d’hiver.|Cite une activité qu’on fait à l’intérieur.|Name a winter activity.|Name an indoor activity.|inchange
+reflexe-085|Cite un mot qui fait penser à l’automne.|Cite un mot qui fait penser à la rentrée.|Name a word that makes you think of fall.|Name a word that makes you think of back to school.|inchange
+reflexe-086|Cite quelque chose qu’on voit au printemps.|Cite quelque chose qu’on voit dans un jardin.|Name something you see in spring.|Name something you see in a garden.|inchange
+reflexe-087|Cite un animal de la savane.|Cite un animal de la jungle.|Name a savanna animal.|Name a jungle animal.|inchange
+reflexe-088|Cite un animal qui nage.|Cite un animal qui vit près de l’eau.|Name an animal that swims.|Name an animal that lives near water.|inchange
+reflexe-089|Cite un animal de la forêt.|Cite un animal qu’on voit la nuit.|Name a forest animal.|Name an animal you see at night.|inchange
+reflexe-090|Cite un oiseau.|Cite un animal qui pond des œufs.|Name a bird.|Name an animal that lays eggs.|inchange
+reflexe-091|Cite un animal avec des rayures.|Cite un animal avec des taches.|Name an animal with stripes.|Name an animal with spots.|inchange
+reflexe-092|Cite un animal qui saute.|Cite un animal qui grimpe.|Name an animal that jumps.|Name an animal that climbs.|inchange
+reflexe-093|Cite un animal très lent.|Cite un animal qui dort beaucoup.|Name a very slow animal.|Name an animal that sleeps a lot.|inchange
+reflexe-094|Cite une bête protégée par une carapace.|Cite une bête couverte de piquants.|Name a creature protected by a shell.|Name a creature covered in spikes.|inchange
+reflexe-095|Cite un animal qui fait peur.|Cite un animal qui pique.|Name a scary animal.|Name an animal that stings.|inchange
+reflexe-096|Cite un animal qui se déplace en troupeau.|Cite un animal qui part loin chaque année.|Name an animal that moves in herds.|Name an animal that travels far every year.|inchange
+reflexe-097|Cite un animal qu’on peut monter.|Cite un animal qui travaille.|Name an animal you can ride.|Name a working animal.|inchange
+reflexe-098|Cite un cri d’animal.|Cite un bruit de la ferme.|Name an animal sound.|Name a farm noise.|inchange
+reflexe-099|Cite un animal du désert.|Cite un animal qui supporte la chaleur.|Name a desert animal.|Name an animal that can handle the heat.|inchange
+reflexe-100|Cite un animal de la banquise.|Cite un animal blanc.|Name an animal that lives on the ice floe.|Name a white animal.|inchange
+reflexe-101|Cite un animal qui a de longues oreilles.|Cite un animal qui a une longue queue.|Name an animal with long ears.|Name an animal with a long tail.|inchange
+reflexe-102|Cite un animal d’Australie.|Cite un animal qui a une poche.|Name an Australian animal.|Name an animal with a pouch.|inchange
+reflexe-103|Cite un animal qui vit dans une mare.|Cite un animal vert.|Name an animal that lives in a pond.|Name a green animal.|inchange
+reflexe-104|Cite un métier de l’hôpital.|Cite un métier où l’on porte une blouse.|Name a hospital job.|Name a job where you wear a lab coat.|inchange
+reflexe-105|Cite un métier manuel.|Cite un métier du bâtiment.|Name a manual job.|Name a construction job.|inchange
+reflexe-106|Cite un métier de l’école.|Cite un métier où l’on parle beaucoup.|Name a job at a school.|Name a job where you talk a lot.|inchange
+reflexe-107|Cite un métier où l’on travaille dehors.|Cite un métier où l’on se lève tôt.|Name a job where you work outdoors.|Name a job where you get up early.|inchange
+reflexe-108|Cite un métier de la restauration.|Cite un métier où l’on reste debout.|Name a job in a restaurant.|Name a job where you're on your feet all day.|inchange
+reflexe-109|Cite un métier qui utilise un véhicule.|Cite un métier où l’on voyage.|Name a job that uses a vehicle.|Name a job where you travel.|inchange
+reflexe-110|Cite un métier avec un outil tranchant.|Cite un métier où l’on travaille avec ses mains.|Name a job that uses a sharp tool.|Name a job where you work with your hands.|inchange
+reflexe-111|Cite un métier d’artiste.|Cite un métier qu’on fait sur scène.|Name an artistic job.|Name a job you do on stage.|inchange
+reflexe-112|Cite un métier qu’on rêve de faire enfant.|Cite un métier qu’on voit dans les films.|Name a job kids dream of doing.|Name a job you see in movies.|inchange
+reflexe-113|Cite un métier lié à la mer.|Cite un métier qu’on exerce sur un bateau.|Name a job connected to the sea.|Name a job you do on a boat.|inchange
+reflexe-114|Cite un métier où l’on répare.|Cite un métier où l’on fabrique.|Name a job where you fix things.|Name a job where you make things.|inchange
+reflexe-115|Cite un commerçant.|Cite un métier qu’on croise dans la rue.|Name a type of shopkeeper.|Name a job you see out on the street.|inchange
+reflexe-116|Cite un métier où l’on porte un casque.|Cite un métier où l’on porte des gants.|Name a job where you wear a helmet.|Name a job where you wear gloves.|inchange
+reflexe-117|Cite un métier de bureau.|Cite un métier où l’on passe la journée devant un écran.|Name an office job.|Name a job where you spend all day at a screen.|inchange
+reflexe-118|Cite un métier qui travaille avec les animaux.|Cite un métier qu’on exerce à la campagne.|Name a job working with animals.|Name a job you do in the countryside.|inchange
+reflexe-119|Cite un sport d’équipe.|Cite un sport qu’on joue sur un terrain.|Name a team sport.|Name a sport played on a field.|inchange
+reflexe-120|Cite un sport qu’on fait seul.|Cite un sport des Jeux olympiques.|Name a sport you do alone.|Name an Olympic sport.|inchange
+reflexe-121|Cite un sport nautique.|Cite un sport qu’on pratique en été.|Name a water sport.|Name a sport you do in summer.|inchange
+reflexe-122|Cite un sport de raquette.|Cite un sport avec un filet.|Name a racket sport.|Name a sport with a net.|inchange
+reflexe-123|Cite un art martial.|Cite un sport où l’on porte un kimono.|Name a martial art.|Name a sport where you wear a gi.|inchange
+reflexe-124|Cite un sport de glisse.|Cite un sport qu’on fait à la montagne.|Name a board sport.|Name a sport you do in the mountains.|inchange
+reflexe-125|Cite un sport où l’on court.|Cite un sport où l’on transpire beaucoup.|Name a sport where you run.|Name a sport where you sweat a lot.|inchange
+reflexe-126|Cite un sport qu’on pratique pieds nus.|Cite un sport qu’on pratique en salle.|Name a sport you do barefoot.|Name an indoor sport.|inchange
+reflexe-127|Cite un objet de sport.|Cite un objet qu’on trouve dans un vestiaire.|Name a piece of sports gear.|Name something you find in a locker room.|inchange
+reflexe-128|Cite un lieu où l’on fait du sport.|Cite un endroit où il y a des gradins.|Name a place where people play sports.|Name a place with bleachers.|inchange
+reflexe-129|Cite un sport où l’on utilise un véhicule.|Cite un sport où l’on va très vite.|Name a sport that uses a vehicle.|Name a sport where you go really fast.|inchange
+reflexe-130|Cite un sport qu’on peut pratiquer toute sa vie.|Cite un sport qu’on pratique sans équipement.|Name a sport you can do your whole life.|Name a sport you can do with no equipment.|inchange
+reflexe-131|Cite un mot qu’on entend pendant un match.|Cite un mot que crie un entraîneur.|Name a word you hear during a match.|Name a word a coach shouts.|inchange
+reflexe-132|Cite un véhicule à deux roues.|Cite un véhicule qu’on gare sur un trottoir.|Name a two-wheeled vehicle.|Name a vehicle you park on the sidewalk.|inchange
+reflexe-133|Cite un véhicule qu’on voit en ville.|Cite une façon d’aller au travail.|Name a vehicle you see in town.|Name a way to get to work.|inchange
+reflexe-134|Cite un véhicule qui transporte beaucoup de gens.|Cite un véhicule qui fait un long trajet.|Name a vehicle that carries lots of people.|Name a vehicle that makes long trips.|inchange
+reflexe-135|Cite quelque chose qui vole.|Cite quelque chose qui flotte.|Name something that flies.|Name something that floats.|inchange
+reflexe-136|Cite un véhicule d’urgence.|Cite un gros véhicule.|Name an emergency vehicle.|Name a big vehicle.|inchange
+reflexe-137|Cite quelque chose qui roule sur des rails.|Cite un transport qu’on prend sous terre.|Name something that runs on rails.|Name a way to travel underground.|inchange
+reflexe-138|Cite un véhicule qui va sur l’eau.|Cite un véhicule qu’on loue en vacances.|Name a vehicle that goes on water.|Name a vehicle you rent on vacation.|inchange
+reflexe-139|Cite un endroit où l’on attend un transport.|Cite un endroit où l’on achète un billet.|Name a place where you wait for a ride.|Name a place where you buy a ticket.|inchange
+reflexe-140|Cite une partie d’une voiture.|Cite une partie d’un vélo.|Name a part of a car.|Name a part of a bike.|inchange
+reflexe-141|Cite un objet qu’on trouve dans une voiture.|Cite un objet qu’on garde dans la boîte à gants.|Name something you find in a car.|Name something you keep in the glove compartment.|inchange
+reflexe-142|Cite un véhicule de chantier.|Cite un véhicule de la ferme.|Name a construction vehicle.|Name a farm vehicle.|inchange
+reflexe-143|Cite un véhicule sans moteur.|Cite un véhicule pour enfants.|Name a vehicle with no engine.|Name a vehicle for kids.|inchange
+reflexe-144|Cite une couleur claire.|Cite une couleur pastel.|Name a light color.|Name a pastel color.|inchange
+reflexe-145|Cite une couleur foncée.|Cite une couleur qu’on porte en hiver.|Name a dark color.|Name a color people wear in winter.|inchange
+reflexe-146|Cite une couleur de fruit.|Cite une couleur de fleur.|Name the color of a fruit.|Name the color of a flower.|inchange
+reflexe-147|Cite une couleur de la mer.|Cite une couleur du ciel.|Name a color of the sea.|Name a color of the sky.|inchange
+reflexe-148|Cite une couleur vive.|Cite une couleur de feu d’artifice.|Name a bright color.|Name a firework color.|inchange
+reflexe-149|Cite une couleur d’automne.|Cite une couleur de la terre.|Name a fall color.|Name an earthy color.|inchange
+reflexe-150|Cite une nuance de bleu.|Cite une nuance de vert.|Name a shade of blue.|Name a shade of green.|inchange
+reflexe-151|Cite une couleur de feu tricolore.|Cite une couleur de carte à jouer.|Name a traffic light color.|Name a playing card color.|inchange
+reflexe-152|Cite une forme géométrique.|Cite une forme de gâteau.|Name a geometric shape.|Name a cake shape.|inchange
+reflexe-153|Cite un objet de forme carrée.|Cite un objet tout plat.|Name something square.|Name something completely flat.|inchange
+reflexe-154|Cite un objet pointu.|Cite un objet qui coupe.|Name something pointy.|Name something that cuts.|inchange
+reflexe-155|Cite un objet en forme de cercle.|Cite un objet qui a un trou au milieu.|Name something shaped like a circle.|Name something with a hole in the middle.|inchange
+reflexe-156|Cite un matériau de construction.|Cite une matière qui résiste au feu.|Name a building material.|Name a fireproof material.|inchange
+reflexe-157|Cite un tissu.|Cite une matière de pull.|Name a fabric.|Name a sweater material.|inchange
+reflexe-158|Cite un objet en verre.|Cite un objet fragile.|Name something made of glass.|Name something fragile.|inchange
+reflexe-159|Cite un objet en métal.|Cite un objet qui rouille.|Name something made of metal.|Name something that rusts.|inchange
+reflexe-160|Cite un objet en plastique.|Cite un objet qu’on jette souvent.|Name something made of plastic.|Name something people often throw away.|inchange
+reflexe-161|Cite un objet en papier.|Cite un objet qu’on recycle.|Name something made of paper.|Name something you recycle.|inchange
+reflexe-162|Cite un objet en cuir.|Cite un objet en tissu.|Name something made of leather.|Name something made of fabric.|inchange
+reflexe-163|Cite une matière douce.|Cite une matière chaude.|Name a soft material.|Name a warm material.|inchange
+reflexe-164|Cite une matière qui brille.|Cite une matière précieuse.|Name a shiny material.|Name a precious material.|inchange
+reflexe-165|Cite un objet qui fonctionne avec des piles.|Cite un objet qui a un écran.|Name something that runs on batteries.|Name something with a screen.|inchange
+reflexe-166|Cite un objet qu’on recharge.|Cite un objet qu’on emporte partout.|Name something you recharge.|Name something you take everywhere.|inchange
+reflexe-167|Cite un objet qui sert à écrire.|Cite un objet qu’on trouve dans un cartable.|Name something you write with.|Name something you find in a school bag.|inchange
+reflexe-168|Cite quelque chose pour attacher des feuilles.|Cite quelque chose pour fermer un sac.|Name something for holding sheets of paper together.|Name something for closing a bag.|inchange
+reflexe-169|Cite un objet qui a des touches.|Cite un objet avec des boutons.|Name something with keys.|Name something with buttons.|inchange
+reflexe-170|Cite un objet qu’on tient à deux mains.|Cite un objet lourd.|Name something you hold with both hands.|Name something heavy.|inchange
+reflexe-171|Cite un objet qu’on prête facilement.|Cite un objet qu’on ne rend jamais.|Name something you happily lend.|Name something people never give back.|inchange
+reflexe-172|Cite un objet qu’on utilise une fois par an.|Cite un objet qu’on sort à Noël.|Name something you use once a year.|Name something you bring out at Christmas.|inchange
+reflexe-173|Cite un objet qui sent bon.|Cite un objet qu’on offre en cadeau.|Name something that smells nice.|Name something you give as a gift.|inchange
+reflexe-174|Cite un objet qu’on trouve dans une chambre d’enfant.|Cite un jouet.|Name something you find in a kid's bedroom.|Name a toy.|inchange
+reflexe-175|Cite un objet avec une lumière.|Cite un objet qui clignote.|Name something with a light.|Name something that blinks.|inchange
+reflexe-176|Cite un pays d’Asie.|Cite un pays où l’on mange du riz.|Name an Asian country.|Name a country where people eat rice.|inchange
+reflexe-177|Cite un pays d’Amérique du Sud.|Cite un pays où l’on parle espagnol.|Name a South American country.|Name a Spanish-speaking country.|inchange
+reflexe-178|Cite un pays où l’on parle français.|Cite un pays d’Afrique.|Name a French-speaking country.|Name an African country.|inchange
+reflexe-179|Cite un pays froid.|Cite un pays du Nord.|Name a cold country.|Name a northern country.|inchange
+reflexe-180|Cite un pays connu pour sa cuisine.|Cite un pays touristique.|Name a country famous for its food.|Name a touristy country.|inchange
+reflexe-181|Cite une île.|Cite un pays entouré d’eau.|Name an island.|Name a country surrounded by water.|inchange
+reflexe-182|Cite un grand pays.|Cite un pays très peuplé.|Name a big country.|Name a very populated country.|inchange
+reflexe-183|Cite un pays avec des montagnes.|Cite un pays où l’on fait du ski.|Name a country with mountains.|Name a country where people go skiing.|inchange
+reflexe-184|Cite un pays avec un désert.|Cite un pays où il ne pleut presque pas.|Name a country with a desert.|Name a country where it hardly ever rains.|inchange
+reflexe-185|Cite un pays qui a gagné une Coupe du monde de foot.|Cite un pays fort au foot.|Name a country that has won a soccer World Cup.|Name a country that's good at soccer.|inchange
+reflexe-186|Cite un pays dont le drapeau a du rouge.|Cite un pays dont le drapeau a une étoile.|Name a country with red on its flag.|Name a country with a star on its flag.|inchange
+reflexe-187|Cite une capitale européenne.|Cite une ville où l’on va en week-end.|Name a European capital.|Name a city for a weekend getaway.|inchange
+reflexe-188|Cite une grande ville française.|Cite une ville avec un métro.|Name a big city in your country.|Name a city with a subway.|inchange
+reflexe-189|Cite une ville d’Italie.|Cite une ville avec beaucoup de monuments.|Name an Italian city.|Name a city with lots of monuments.|inchange
+reflexe-190|Cite une ville des États-Unis.|Cite une ville qu’on voit dans les films.|Name a US city.|Name a city you see in movies.|inchange
+reflexe-191|Cite une ville du sud de la France.|Cite une ville où il fait beau.|Name a city in southern Europe.|Name a city with great weather.|inchange
+reflexe-192|Cite une ville avec un club de foot connu.|Cite une ville universitaire.|Name a city with a famous soccer team.|Name a college town.|inchange
+reflexe-193|Cite une ville d’Asie.|Cite une ville avec des gratte-ciel.|Name an Asian city.|Name a city with skyscrapers.|inchange
+reflexe-194|Cite une ville de montagne.|Cite une ville où l’on va en hiver.|Name a mountain town.|Name a town people visit in winter.|inchange
+reflexe-195|Cite un monument célèbre.|Cite un monument de Paris.|Name a famous monument.|Name a monument in Paris.|inchange
+reflexe-196|Cite un vêtement d’été.|Cite un vêtement de plage.|Name a piece of summer clothing.|Name something you wear at the beach.|inchange
+reflexe-197|Cite un accessoire.|Cite quelque chose qu’on porte sur la tête.|Name an accessory.|Name something you wear on your head.|inchange
+reflexe-198|Cite un vêtement de sport.|Cite un vêtement confortable.|Name a piece of sportswear.|Name a comfy piece of clothing.|inchange
+reflexe-199|Cite un type de chaussure.|Cite quelque chose qu’on met aux pieds.|Name a type of shoe.|Name something you wear on your feet.|inchange
+reflexe-200|Cite un vêtement chic.|Cite un vêtement qu’on met pour un entretien.|Name a smart piece of clothing.|Name something you wear to a job interview.|inchange
+reflexe-201|Cite un vêtement qu’on porte la nuit.|Cite un vêtement qu’on porte à la maison.|Name something you wear at night.|Name something you wear around the house.|inchange
+reflexe-202|Cite un vêtement à manches.|Cite un vêtement à boutons.|Name a piece of clothing with sleeves.|Name a piece of clothing with buttons.|inchange
+reflexe-203|Cite un déguisement.|Cite un costume d’Halloween.|Name a costume.|Name a Halloween costume.|inchange
+reflexe-204|Cite une partie d’un vêtement.|Cite quelque chose qu’on coud.|Name a part of a piece of clothing.|Name something you sew.|inchange
+reflexe-205|Cite un vêtement en laine.|Cite un vêtement qu’on tricote.|Name a piece of wool clothing.|Name something people knit.|inchange
+reflexe-206|Cite un vêtement d’uniforme.|Cite un vêtement qu’on porte au travail.|Name a uniform item.|Name something you wear to work.|inchange
+reflexe-207|Cite une matière à l’école.|Cite une matière qui donne des devoirs.|Name a school subject.|Name a subject that gives lots of homework.|inchange
+reflexe-208|Cite une fourniture scolaire.|Cite un objet qu’on prête en classe.|Name a school supply.|Name something you lend in class.|inchange
+reflexe-209|Cite un lieu dans une école.|Cite un lieu où l’on fait la queue.|Name a place in a school.|Name a place where you stand in line.|inchange
+reflexe-210|Cite un mot qu’on entend en classe.|Cite un mot que dit un professeur.|Name a word you hear in class.|Name a word a teacher says.|inchange
+reflexe-211|Cite un jeu de cour de récré.|Cite un jeu qu’on joue à plusieurs.|Name a playground game.|Name a game for a group.|inchange
+reflexe-212|Cite une activité de colonie de vacances.|Cite une activité de classe verte.|Name a summer camp activity.|Name a school field trip activity.|inchange
+reflexe-213|Cite quelque chose qu’on trouve dans une bibliothèque.|Cite quelque chose qu’on lit.|Name something you find in a library.|Name something you read.|inchange
+reflexe-214|Cite quelque chose qu’on trouve dans une salle de réunion.|Cite quelque chose qu’on trouve dans une salle d’attente.|Name something you find in a meeting room.|Name something you find in a waiting room.|inchange
+reflexe-215|Cite un accessoire d’ordinateur.|Cite un objet qu’on branche en USB.|Name a computer accessory.|Name something you plug in by USB.|inchange
+reflexe-216|Cite un endroit dans une entreprise.|Cite un endroit où l’on fait une pause.|Name a place in an office building.|Name a place where you take a break.|inchange
+reflexe-217|Cite une tâche de bureau.|Cite une tâche qu’on repousse.|Name an office task.|Name a task people put off.|inchange
+reflexe-218|Cite un mot qu’on écrit dans un mail.|Cite un mot qu’on écrit sur une carte postale.|Name a word you write in an email.|Name a word you write on a postcard.|inchange
+reflexe-219|Cite une décoration de fête.|Cite quelque chose qu’on gonfle.|Name a party decoration.|Name something you blow up.|inchange
+reflexe-220|Cite quelque chose qu’on mange à un anniversaire.|Cite quelque chose qu’on sert à un goûter.|Name something you eat at a birthday party.|Name something you serve as an afternoon snack.|inchange
+reflexe-221|Cite un objet qu’on trouve sur un sapin.|Cite un objet qui brille à Noël.|Name something you find on a Christmas tree.|Name something that sparkles at Christmas.|inchange
+reflexe-222|Cite un jeu d’anniversaire.|Cite un jeu de plein air.|Name a birthday party game.|Name an outdoor game.|inchange
+reflexe-223|Cite une fête de l’année.|Cite un jour férié.|Name a holiday of the year.|Name a public holiday.|inchange
+reflexe-224|Cite un cadeau d’anniversaire.|Cite un cadeau qu’on offre à un enfant.|Name a birthday present.|Name a present you give a child.|inchange
+reflexe-225|Cite un plat de fête.|Cite un plat de Noël.|Name a party dish.|Name a Christmas dish.|inchange
+reflexe-226|Cite un objet qu’on trouve sur un gâteau d’anniversaire.|Cite quelque chose qu’on souffle.|Name something you find on a birthday cake.|Name something you blow out.|inchange
+reflexe-227|Cite un endroit où l’on fait la fête.|Cite un endroit où il y a de la musique.|Name a place where people party.|Name a place with music.|inchange
+reflexe-228|Cite un instrument à cordes.|Cite un instrument qu’on gratte.|Name a string instrument.|Name an instrument you strum.|inchange
+reflexe-229|Cite un instrument à vent.|Cite un instrument qu’on entend dans un orchestre.|Name a wind instrument.|Name an instrument you hear in an orchestra.|inchange
+reflexe-230|Cite un instrument qu’on frappe.|Cite un instrument bruyant.|Name an instrument you hit.|Name a loud instrument.|inchange
+reflexe-231|Cite un style de musique.|Cite une musique sur laquelle on danse.|Name a music genre.|Name a type of music people dance to.|inchange
+reflexe-232|Cite une danse.|Cite une danse qu’on apprend en cours.|Name a dance.|Name a dance you learn in class.|inchange
+reflexe-233|Cite un appareil pour écouter de la musique.|Cite un appareil qu’on avait dans les années 90.|Name a device for listening to music.|Name a gadget people had in the 90s.|inchange
+reflexe-234|Cite un instrument d’enfant.|Cite un instrument qu’on apprend à l’école.|Name a kid's instrument.|Name an instrument you learn at school.|inchange
+reflexe-235|Cite un jeu de société.|Cite un jeu avec des dés.|Name a board game.|Name a game with dice.|inchange
+reflexe-236|Cite un loisir créatif.|Cite une activité qu’on fait les jours de pluie.|Name a creative hobby.|Name something you do on rainy days.|inchange
+reflexe-237|Cite une activité de plage.|Cite une activité qu’on fait au bord d’un lac.|Name a beach activity.|Name something you do by a lake.|inchange
+reflexe-238|Cite un passe-temps de grand-parent.|Cite un loisir calme.|Name a grandparent's pastime.|Name a calm hobby.|inchange
+reflexe-239|Cite une activité de fête foraine.|Cite une attraction qui fait crier.|Name a fairground activity.|Name a ride that makes you scream.|inchange
+reflexe-240|Cite une activité qu’on fait en vacances.|Cite une activité qu’on fait avec des amis.|Name something you do on vacation.|Name something you do with friends.|inchange
+reflexe-241|Cite un jeu qu’on fait en voiture.|Cite un jeu qu’on fait sans matériel.|Name a game you play in the car.|Name a game you can play with no equipment.|inchange
+reflexe-242|Cite quelque chose qu’on collectionne.|Cite quelque chose qu’on échange à l’école.|Name something people collect.|Name something kids trade at school.|inchange
+reflexe-243|Cite un jeu de jardin public.|Cite une chose qu’on fait avec son chien.|Name a game you play in the park.|Name something you do with your dog.|inchange
+reflexe-244|Cite un lieu de sortie le samedi soir.|Cite un lieu où l’on va entre amis.|Name a place to go out on Saturday night.|Name a place you go with friends.|inchange
+reflexe-245|Cite un bruit qui réveille.|Cite un bruit qui énerve.|Name a noise that wakes you up.|Name a noise that gets on your nerves.|inchange
+reflexe-246|Cite un son de la ville.|Cite un son qu’on entend la nuit.|Name a city sound.|Name a sound you hear at night.|inchange
+reflexe-247|Cite un son agréable.|Cite un son de la nature.|Name a pleasant sound.|Name a sound of nature.|inchange
+reflexe-248|Cite un appareil qui siffle.|Cite un meuble qui grince.|Name an appliance that whistles.|Name a piece of furniture that creaks.|inchange
+reflexe-249|Cite un bruit de cuisine.|Cite un bruit du matin.|Name a kitchen noise.|Name a morning noise.|inchange
+reflexe-250|Cite une bonne odeur.|Cite une odeur de cuisine.|Name a nice smell.|Name a cooking smell.|inchange
+reflexe-251|Cite une odeur de vacances.|Cite une odeur d’été.|Name a smell that reminds you of vacation.|Name a summer smell.|inchange
+reflexe-252|Cite une odeur forte.|Cite une odeur qu’on reconnaît tout de suite.|Name a strong smell.|Name a smell you recognize instantly.|inchange
+reflexe-253|Cite un parfum de bougie.|Cite une odeur de fleur.|Name a candle scent.|Name a flower scent.|inchange
+reflexe-254|Cite une odeur du matin.|Cite une odeur de boulangerie.|Name a morning smell.|Name a bakery smell.|inchange
+reflexe-255|Cite une chose douce au toucher.|Cite un aliment moelleux.|Name something soft to the touch.|Name a fluffy food.|inchange
+reflexe-256|Cite un truc qui colle aux doigts.|Cite un aliment qui fond dans la main.|Name something that sticks to your fingers.|Name a food that melts in your hand.|inchange
+reflexe-257|Cite un objet rugueux.|Cite un objet qui gratte.|Name something rough.|Name something scratchy.|inchange
+reflexe-258|Cite un objet mou.|Cite un objet qu’on peut écraser.|Name something squishy.|Name something you can squash.|inchange
+reflexe-259|Cite un objet qui pique.|Cite un objet dangereux pour un bébé.|Name something prickly.|Name something dangerous for a baby.|inchange
+reflexe-260|Cite une surface glissante.|Cite un endroit où l’on tombe facilement.|Name a slippery surface.|Name a place where it's easy to fall.|inchange
+reflexe-261|Cite une émotion.|Cite quelque chose qu’on ressent au cinéma.|Name an emotion.|Name something you feel at the movies.|inchange
+reflexe-262|Cite un mot qui rend joyeux.|Cite un mot qui rassure.|Name a word that makes you happy.|Name a comforting word.|inchange
+reflexe-263|Cite une expression de surprise.|Cite un mot qu’on dit quand on se fait mal.|Name something people say when surprised.|Name something people say when they get hurt.|inchange
+reflexe-264|Cite un mot pour dire bonjour.|Cite un mot pour dire au revoir.|Name a way to say hello.|Name a way to say goodbye.|inchange
+reflexe-265|Cite une formule de politesse.|Cite un mot qu’on dit en entrant dans un magasin.|Name a polite phrase.|Name something you say walking into a shop.|inchange
+reflexe-266|Cite un mot qu’on dit quand on gagne.|Cite un mot qu’on crie quand on est content.|Name something you say when you win.|Name something you shout when you're happy.|inchange
+reflexe-267|Cite un engin avec des ailes.|Cite un objet qu’on fait monter dans les airs.|Name a machine with wings.|Name something you send up into the air.|inchange
+reflexe-268|Cite un bijou.|Cite un objet en or.|Name a piece of jewelry.|Name something made of gold.|inchange
+reflexe-269|Cite quelque chose qui fond au soleil.|Cite quelque chose qui sèche au soleil.|Name something that melts in the sun.|Name something that dries in the sun.|inchange
+reflexe-270|Cite un jouet qui rebondit.|Cite un objet qu’on lance pour jouer.|Name a toy that bounces.|Name something you throw to play.|inchange
+reflexe-271|Cite quelque chose qui coule dans l’eau.|Cite quelque chose qu’on jette dans un lac.|Name something that sinks in water.|Name something you throw into a lake.|inchange
+reflexe-272|Cite un fruit qu’on mange en compote.|Cite un fruit qu’on met dans une tarte.|Name a fruit you eat stewed.|Name a fruit you put in a pie.|inchange
+reflexe-273|Cite un légume qu’on met dans un pot-au-feu.|Cite un légume qu’on met dans un couscous.|Name a vegetable you put in a stew.|Name a vegetable you put in a curry.|inchange
+reflexe-274|Cite un plat qu’on mange à la cantine.|Cite un plat qu’on mange chez ses grands-parents.|Name a dish you eat in the school cafeteria.|Name a dish you eat at your grandparents' place.|inchange
+reflexe-275|Cite un objet qu’on trouve dans une chambre d’hôtel.|Cite un objet qu’on trouve dans un camping-car.|Name something you find in a hotel room.|Name something you find in an RV.|inchange
+reflexe-276|Cite un animal qu’on voit à la campagne.|Cite un animal qu’on voit au bord de la route.|Name an animal you see in the countryside.|Name an animal you see by the side of the road.|inchange
+reflexe-277|Cite un animal qu’on dessine facilement.|Cite un animal qu’on imite facilement.|Name an animal that's easy to draw.|Name an animal that's easy to imitate.|inchange
+reflexe-278|Cite un endroit calme.|Cite un endroit où l’on lit.|Name a quiet place.|Name a place where people read.|inchange
+reflexe-279|Cite une couleur de bonbon.|Cite une couleur de ballon de baudruche.|Name a candy color.|Name a balloon color.|inchange
+reflexe-280|Cite une couleur de chaussettes.|Cite une couleur de sac à dos.|Name a sock color.|Name a backpack color.|inchange
+reflexe-281|Cite un métier qu’on croise à l’aéroport.|Cite un métier qu’on croise dans une gare.|Name a job you see at the airport.|Name a job you see at a train station.|inchange
+reflexe-282|Cite un métier où l’on parle à des inconnus.|Cite un métier où l’on reçoit du public.|Name a job where you talk to strangers.|Name a job where you deal with the public.|inchange
+reflexe-283|Cite un objet qu’on met sur une table pour un repas.|Cite un objet qu’on sort pour des invités.|Name something you put on the table for a meal.|Name something you bring out for guests.|inchange
+reflexe-284|Cite une activité qu’on fait le dimanche matin.|Cite une activité qu’on fait le samedi matin.|Name something you do on Sunday mornings.|Name something you do on Saturday mornings.|inchange
+reflexe-285|Cite un sport qu’on regarde en famille.|Cite un sport qu’on regarde le week-end.|Name a sport you watch with family.|Name a sport you watch on weekends.|inchange
+reflexe-286|Cite un produit vendu en vrac.|Cite un produit rangé dans un bocal.|Name something sold in bulk.|Name something kept in a jar.|inchange
+reflexe-287|Cite un pays où l’on va en avion.|Cite un pays où l’on va pour la plage.|Name a country you fly to.|Name a country you go to for the beaches.|inchange
+reflexe-288|Cite une ville où l’on va en train.|Cite une ville où l’on va pour un concert.|Name a city you go to by train.|Name a city you go to for a concert.|inchange
+reflexe-289|Cite un prénom de grand-mère.|Cite un prénom d’autrefois.|Name a grandma's first name.|Name an old-fashioned first name.|inchange
+reflexe-290|Cite un prénom de personnage de conte.|Cite un prénom de dessin animé.|Name a fairy-tale character's name.|Name a cartoon character's name.|inchange
+reflexe-291|Cite un objet qu’on lave à la main.|Cite un objet qu’on lave souvent.|Name something you wash by hand.|Name something you wash often.|inchange
+reflexe-292|Cite un vêtement qu’on enlève en arrivant.|Cite un vêtement qu’on accroche à une patère.|Name a piece of clothing you take off when you arrive.|Name a piece of clothing you hang on a hook.|inchange
+reflexe-293|Cite un dessert qu’on fait soi-même.|Cite un dessert qu’on achète tout fait.|Name a dessert you make yourself.|Name a dessert you buy ready-made.|inchange
+reflexe-294|Cite une pièce où l’on se détend.|Cite une pièce où l’on reçoit des amis.|Name a room where you relax.|Name a room where you have friends over.|inchange
+reflexe-295|Cite un objet qu’on rachète souvent.|Cite un objet qui s’use vite.|Name something you buy again and again.|Name something that wears out fast.|inchange
+reflexe-296|Cite un magasin.|Cite un commerce de quartier.|Name a store.|Name a local neighborhood shop.|inchange
+reflexe-297|Cite un endroit où l’on va le samedi.|Cite un endroit où l’on va en famille.|Name a place you go on Saturdays.|Name a place you go with family.|inchange
+reflexe-298|Cite un bâtiment de la ville.|Cite un endroit qui ferme le dimanche.|Name a building in town.|Name a place that's closed on Sundays.|inchange
+reflexe-299|Cite un élément du mobilier urbain.|Cite un objet visible depuis la fenêtre d’un bus.|Name a piece of street furniture.|Name something you see from a bus window.|inchange
+reflexe-300|Cite un endroit où l’on fait les courses.|Cite un endroit où l’on achète des vêtements.|Name a place where you go grocery shopping.|Name a place where you buy clothes.|inchange
+reflexe-301|Cite un endroit où l’on prend un café.|Cite un endroit où l’on travaille sur un ordinateur.|Name a place where you grab a coffee.|Name a place where you work on a laptop.|inchange
+reflexe-302|Cite un objet typique d’un aéroport.|Cite un objet typique d’une gare.|Name something typical of an airport.|Name something typical of a train station.|inchange
+reflexe-303|Cite un outil de bricolage.|Cite un objet qui fait du bruit sur un chantier.|Name a DIY tool.|Name something noisy on a building site.|inchange
+reflexe-304|Cite une graine qu’on sème au jardin.|Cite une plante qu’on arrose souvent.|Name a seed you sow in the garden.|Name a plant you water often.|inchange
+reflexe-305|Cite un légume du potager.|Cite un légume qu’on mange en été.|Name a vegetable from the vegetable garden.|Name a vegetable you eat in summer.|inchange
+reflexe-306|Cite un animal de la montagne.|Cite un animal qui hiberne.|Name a mountain animal.|Name an animal that hibernates.|inchange
+reflexe-307|Cite un endroit dans la nature.|Cite un endroit où l’on campe.|Name a place out in nature.|Name a place where you go camping.|inchange
+reflexe-308|Cite un objet de camping.|Cite un objet qu’on met dans un sac à dos.|Name a piece of camping gear.|Name something you put in a backpack.|inchange
+reflexe-309|Cite un fruit jaune.|Cite un fruit qu’on mange en hiver.|Name a yellow fruit.|Name a fruit you eat in winter.|inchange
+reflexe-310|Cite un aliment du petit-déjeuner.|Cite quelque chose qu’on trempe.|Name a breakfast food.|Name something you dunk.|inchange
+reflexe-311|Cite un aliment salé.|Cite un aliment de l’apéro.|Name a salty food.|Name a snack you serve with drinks.|inchange
+reflexe-312|Cite un ingrédient d’omelette.|Cite un ingrédient de quiche.|Name an omelet ingredient.|Name a quiche ingredient.|inchange
+reflexe-313|Cite une activité du mercredi après-midi.|Cite une activité pour enfants.|Name an after-school activity.|Name an activity for kids.|inchange
+reflexe-314|Cite un jouet de bébé.|Cite un jouet qu’on emporte dans le bain.|Name a baby toy.|Name a toy you take in the bath.|inchange
+reflexe-315|Cite une couleur de maillot de bain.|Cite une couleur de serviette de plage.|Name a swimsuit color.|Name a beach towel color.|inchange
+reflexe-316|Cite un aliment qu’on garde au congélateur.|Cite un aliment qu’on garde dans un placard.|Name a food you keep in the freezer.|Name a food you keep in a cupboard.|inchange
+reflexe-317|Cite un appareil qu’on trouve dans une buanderie.|Cite un appareil qu’on trouve dans un salon.|Name an appliance you find in a laundry room.|Name an appliance you find in a living room.|inchange
+reflexe-318|Cite un objet qu’on emporte en randonnée.|Cite un objet qu’on emporte en pique-nique.|Name something you take on a hike.|Name something you take on a picnic.|inchange
+reflexe-319|Cite un endroit où l’on dort ailleurs que chez soi.|Cite un endroit où l’on mange ailleurs que chez soi.|Name a place where you sleep away from home.|Name a place where you eat away from home.|inchange
+reflexe-320|Cite une viennoiserie.|Cite quelque chose qu’on achète à la boulangerie.|Name a pastry you have for breakfast.|Name something you buy at the bakery.|inchange
+reflexe-321|Cite un légume qu’on mange cru.|Cite un légume qu’on met en salade.|Name a vegetable you eat raw.|Name a vegetable you put in a salad.|inchange
+reflexe-322|Cite une ville française.|Cite une ville où passe un grand fleuve.|Name a European city.|Name a city on a big river.|inchange
+reflexe-323|Cite un pays où il neige beaucoup.|Cite un pays connu pour ses montagnes.|Name a country where it snows a lot.|Name a country famous for its mountains.|inchange
+reflexe-324|Cite un océan ou une mer.|Cite une étendue d’eau où l’on peut naviguer.|Name an ocean or a sea.|Name a body of water you can sail on.|inchange
+reflexe-325|Cite un métier qu’on exerce dehors.|Cite un métier qu’on exerce avec un camion.|Name a job you do outdoors.|Name a job you do with a truck.|inchange
+reflexe-326|Cite un personnage de conte.|Cite un personnage qu’on retrouve dans un livre pour enfants.|Name a fairy-tale character.|Name a character from a children's book.|inchange
+reflexe-327|Cite un accessoire qu’on porte sur la tête.|Cite un accessoire qu’on porte quand il fait froid.|Name an accessory you wear on your head.|Name an accessory you wear when it's cold.|inchange
+reflexe-328|Cite un nombre entre 1 et 100.|Cite un âge entre 1 et 100.|Name a number between 1 and 100.|Name an age between 1 and 100.|inchange
+reflexe-329|Cite un objet rond qu’on trouve dans une cuisine.|Cite un objet rond qu’on trouve dans un salon.|Name something round in a kitchen.|Name something round in a living room.|inchange
+reflexe-330|Cite un objet qui sert à couper.|Cite un objet qui a une lame.|Name something used for cutting.|Name something with a blade.|inchange
+reflexe-331|Cite un aliment orange.|Cite un aliment qu’on épluche.|Name an orange food.|Name a food you peel.|inchange
+reflexe-332|Cite un aliment qu’on tartine.|Cite un aliment qu’on mange au petit-déjeuner.|Name a food you spread.|Name a food you eat for breakfast.|inchange
+reflexe-333|Cite un animal avec une carapace.|Cite un animal qui vit longtemps.|Name an animal with a shell.|Name an animal that lives a long time.|inchange
+reflexe-334|Cite une pièce où l’on trouve un miroir.|Cite un endroit où l’on se coiffe.|Name a room with a mirror.|Name a place where you do your hair.|inchange
+reflexe-335|Cite un vêtement qu’on boutonne.|Cite un vêtement avec une fermeture éclair.|Name a piece of clothing you button up.|Name a piece of clothing with a zipper.|inchange
+reflexe-336|Cite un sport qu’on pratique avec une raquette.|Cite un sport qu’on pratique à deux.|Name a sport played with a racket.|Name a sport played in pairs.|inchange
+reflexe-337|Cite un objet qu’on accroche au mur.|Cite un objet qu’on encadre.|Name something you hang on the wall.|Name something you frame.|inchange
+reflexe-338|Cite un prénom de trois lettres.|Cite un prénom court.|Name a three-letter first name.|Name a short first name.|inchange
+reflexe-339|Cite un objet qu’on trouve dans une trousse de toilette.|Cite un objet qu’on emporte pour une nuit chez un ami.|Name something you find in a toiletry bag.|Name something you bring for a sleepover.|inchange
+reflexe-340|Cite un ingrédient de gâteau.|Cite un ingrédient de crêpe.|Name a cake ingredient.|Name a pancake ingredient.|inchange
+reflexe-341|Cite un objet qu’on trouve dans un coffre de voiture.|Cite un objet qu’on range dans un garage.|Name something you find in a car trunk.|Name something you keep in a garage.|inchange
+reflexe-342|Cite un magasin où l’on achète un cadeau.|Cite un magasin qu’on trouve dans un centre commercial.|Name a store where you buy a gift.|Name a store you find in a mall.|inchange
+reflexe-343|Cite un animal qu’on trouve dans une mare.|Cite un animal qui aime l’eau.|Name an animal you find in a pond.|Name an animal that loves water.|inchange
+reflexe-344|Cite un objet qu’on trouve dans un sac de plage.|Cite un objet qu’on oublie à la plage.|Name something you find in a beach bag.|Name something people forget at the beach.|inchange
+noel-001|Quel cadeau aimerais-tu trouver sous le sapin ?|Quel cadeau as-tu adoré offrir ?|What gift would you love to find under the tree?|What gift did you love giving?|inchange
+noel-002|Quel plat ne doit jamais manquer au repas de Noël ?|Quel plat de Noël pourrais-tu manger toute l’année ?|Which dish should never be missing from Christmas dinner?|Which Christmas dish could you eat all year round?|inchange
+noel-005|Quel film regardes-tu chaque année à Noël ?|Quel film de Noël est le plus ringard ?|Which movie do you watch every year at Christmas?|Which Christmas movie is the cheesiest?|inchange
+noel-006|Combien de cadeaux offres-tu à Noël ?|Combien de personnes sont autour de la table à Noël ?|How many presents do you give at Christmas?|How many people are around the table at Christmas?|inchange
+noel-009|Que mets-tu en haut du sapin ?|Que poses-tu sur la table du réveillon ?|What do you put on top of the tree?|What do you put on the table for Christmas Eve dinner?|inchange
+noel-011|Où rêverais-tu de passer Noël ?|Où as-tu passé ton plus beau Noël ?|Where would you dream of spending Christmas?|Where did you spend your best Christmas ever?|inchange
+noel-014|Combien de chocolats manges-tu pendant les fêtes ?|Combien de chocolats reste-t-il dans la boîte le 26 ?|How many chocolates do you eat over the holidays?|How many chocolates are left in the box on the 26th?|inchange
+noel-028|Que dis-tu quand la case du jour est vide ?|Que dis-tu quand quelqu’un a mangé ta case du jour ?|What do you say when the day's door is empty?|What do you say when someone ate your chocolate for the day?|inchange
+noel-045|Combien de minutes mets-tu à décorer le sapin ?|Combien de minutes mets-tu à démêler les guirlandes ?|How many minutes does it take you to decorate the tree?|How many minutes does it take you to untangle the string lights?|inchange
+noel-063|Que manges-tu en premier sur un marché de Noël ?|Que rapportes-tu à la maison d’un marché de Noël ?|What do you eat first at a Christmas market?|What do you bring home from a Christmas market?|inchange
+noel-066|Combien coûte une gaufre sur un marché de Noël ?|Combien coûte un stylo ?|How much does a waffle cost at a Christmas market?|How much does a crêpe cost at a Christmas market?|fr-modifie
+noel-070|Dans quel pays trouve-t-on les plus beaux marchés de Noël ?|Dans quel pays les rues sont-elles les plus illuminées en décembre ?|Which country has the most beautiful Christmas markets?|In which country are the streets most lit up in December?|inchange
+noel-081|Combien de cadeaux demandais-tu dans ta lettre au Père Noël ?|Combien de lignes faisait ta lettre au Père Noël ?|How many gifts did you ask for in your letter to Santa?|How many lines long was your letter to Santa?|inchange
+ete-001|Où aimerais-tu passer l’été ?|Où as-tu passé ton meilleur été ?|Where would you love to spend the summer?|Where did you spend your best summer ever?|inchange
+ete-002|Quel parfum de glace commandes-tu en premier ?|Quel parfum de glace ne choisis-tu jamais ?|Which ice cream flavor do you order first?|Which ice cream flavor do you never pick?|inchange
+ete-003|Que fais-tu quand il fait trop chaud ?|Que fais-tu un soir d’été ?|What do you do when it's way too hot?|What do you do on a summer evening?|inchange
+ete-004|Qu’emportes-tu toujours à la plage ?|Qu’oublies-tu toujours à la plage ?|What do you always take to the beach?|What do you always forget to take to the beach?|inchange
+ete-006|Combien de glaces manges-tu par semaine en été ?|Combien de baignades fais-tu par jour en vacances ?|How many ice creams do you eat a week in summer?|How many swims do you take a day on vacation?|inchange
+ete-017|Combien de minutes restes-tu dans l’eau d’une traite ?|Combien de minutes attends-tu avant de retourner à l’eau ?|How many minutes do you stay in the water at a time?|How many minutes do you wait before going back in the water?|inchange
+ete-028|Combien de minutes marches-tu pour trouver une place sur la plage ?|Combien de minutes mets-tu à installer ton coin de plage ?|How many minutes do you walk to find a spot on the beach?|How many minutes does it take you to set up your beach spot?|inchange
+ete-029|Que cries-tu en entrant dans l’eau froide ?|Que dis-tu à quelqu’un qui hésite à entrer dans l’eau ?|What do you yell when you get into cold water?|What do you say to someone who's hesitating to get in the water?|inchange
+ete-043|Combien coûte une entrée à la piscine municipale ?|Combien coûte une glace à la plage ?|How much does a ticket to the public pool cost?|How much does an ice cream cost at the pool snack bar?|fr-modifie
+ete-078|Combien de ventilateurs as-tu chez toi ?|Combien de bouteilles d’eau gardes-tu au frigo l’été ?|How many fans do you have at home?|How many bottles of water do you keep in the fridge in summer?|inchange
+ete-084|Quelle animation du camping fais-tu en famille ?|Quelle animation du camping évites-tu à tout prix ?|Which campsite activity do you do as a family?|Which campsite activity do you avoid at all costs?|inchange
+ete-089|Combien coûte un mobil-home pour une semaine en août ?|Combien coûte une semaine à Saint-Tropez en août dans un bon hôtel ?|How much does a mobile home cost for a week in August?|How much does a tent pitch cost for a week in August?|fr-modifie
+ete-101|Qui conduit le plus longtemps sur la route des vacances ?|Qui s’endort en premier sur la route des vacances ?|Who drives the longest on the drive to your vacation?|Who falls asleep first on the drive to your vacation?|inchange
+ete-103|Combien de minutes dure ta pause sur l’aire d’autoroute ?|Combien de minutes attends-tu au péage un jour de grand départ ?|How many minutes does your highway rest stop break last?|How many minutes do you wait at the toll booth on a big getaway day?|inchange
+ete-130|Quel fruit d’été manges-tu le plus ?|Quel fruit d’été achètes-tu le plus cher ?|Which summer fruit do you eat the most?|Which summer fruit do you pay the most for?|inchange
+ete-131|Quel fruit coupes-tu en morceaux pour un goûter d’été ?|Quel fruit manges-tu directement sur l’arbre ?|Which fruit do you cut up for a summer snack?|Which fruit do you eat straight off the tree?|inchange
+ete-134|Combien coûte une barquette de fraises en juin ?|Combien coûte un melon au marché en juillet ?|How much does a punnet of strawberries cost in June?|How much does a melon cost at the market in July?|inchange
+ete-204|Que dis-tu pour prolonger une soirée d’été ?|Que dis-tu pour quitter une soirée d’été ?|What do you say to keep a summer party going?|What do you say to leave a summer party?|inchange
+ete-388|Que mets-tu dans ton sandwich de plage ?|Que mets-tu dans ta salade d'été ?|What do you put in your beach sandwich?|What do you put in your hiking sandwich?|fr-modifie
+ete-475|Quel jeu trouves-tu toujours dans une location de vacances ?|Quel objet de jeu manque toujours dans une location de vacances ?|Which game do you always find in a vacation rental?|Which game is always missing from a vacation rental?|fr-modifie
+ete-476|Que dis-tu quand tu gagnes une partie en vacances ?|Que dis-tu quand tu perds pour la troisième fois de suite ?|What do you say when you win a game on vacation?|What do you say when you lose for the third time in a row?|inchange
+ete-503|Combien coûte une location pour une semaine en août ?|Combien coûte une location pour un week-end en juillet ?|How much does a rental cost for a week in August?|How much does a rental cost for a weekend in July?|inchange
+ete-506|Quelle corvée fais-tu avant de rendre la location ?|Quelle corvée fais-tu en arrivant dans la location ?|Which chore do you do before handing back the rental?|Which chore do you do when you arrive at the rental?|inchange
+ete-556|Combien de temps, en minutes, dure une pause pipi sur la route ?|Combien de temps, en minutes, dure une pause repas sur la route ?|How long, in minutes, does a bathroom stop on the road last?|How long, in minutes, does a photo stop on the road last?|fr-modifie
+ete-561|Combien coûte le plein d’essence en été ?|Combien coûte un billet Eurostar en août ?|How much does a full tank of gas cost in summer?|How much do the highway tolls cost for a long drive south?|fr-modifie
+ete-591|Combien paies-tu un vieux livre à la brocante ?|Combien paies-tu un menu dans un fastfood ?|How much do you pay for an old book at a flea market?|How much do you pay for an old vinyl record at a flea market?|fr-modifie
+ete-593|Que dis-tu pour faire baisser un prix à la brocante ?|Que réponds-tu quand on te double sur l'autoroute ?|What do you say to get the price down at a flea market?|What do you say when someone haggles over your item at a flea market?|fr-modifie
+ete-604|Combien de baguettes achètes-tu le matin en vacances ?|Combien de croissants achètes-tu le matin en vacances ?|How many baguettes do you buy in the morning on vacation?|How many croissants do you buy in the morning on vacation?|inchange
+rentree-003|Que dis-tu à tes collègues le jour de la rentrée ?|Que réponds-tu quand on te demande si tes vacances étaient bonnes ?|What do you say to your coworkers on your first day back?|What do you answer when someone asks if you had a good vacation?|inchange
+vacances-007|Quel jeu emportes-tu en vacances ?|Quel jeu sors-tu les jours de pluie en vacances ?|What game do you pack for vacation?|What game do you bring out on rainy vacation days?|inchange
+vacances-027|Que cries-tu en haut d’une piste noire ?|Que cries-tu en bas d’une piste noire ?|What do you shout at the top of a black run?|What do you shout at the bottom of a black run?|inchange
+vacances-031|Combien de minutes mets-tu à enfiler tes chaussures de ski ?|Combien de minutes mets-tu à t’habiller pour aller skier ?|How many minutes does it take you to put on your ski boots?|How many minutes does it take you to get dressed to go skiing?|inchange
+vacances-035|Que dis-tu à un débutant tombé juste devant toi ?|Que dis-tu quand on se moque de toi quand t'es tombé ?|What do you say to a beginner who just fell right in front of you?|What do you say to the instructor when you fall in front of the whole class?|fr-modifie
+vacances-036|Combien coûte un chocolat chaud au sommet des pistes ?|Combien coûte un chocolat chaud au café de ton quartier ?|How much is a hot chocolate at the top of the slopes?|How much is a hot chocolate at your local café?|inchange
+vacances-069|Quel fromage choisis-tu pour une raclette ?|Quel fromage choisis-tu au supermarché ?|Which cheese do you choose for a raclette?|Which cheese do you choose for a mac and cheese?|fr-modifie
+vacances-074|En quel mois commences-tu les raclettes ?|En quel mois arrêtes-tu les raclettes ?|In which month do you start having raclette?|In which month do you stop having raclette?|inchange
+vacances-084|Que fais-tu en premier en rentrant d’une journée de ski ?|Que fais-tu en premier le matin d’une journée de ski ?|What's the first thing you do when you get back from a day of skiing?|What's the first thing you do on the morning of a ski day?|inchange
+vacances-094|Quel petit plaisir t’offres-tu après la dernière descente ?|Quel petit plaisir t’offres-tu le dernier soir à la montagne ?|What little treat do you give yourself after your last run?|What little treat do you give yourself on your last night in the mountains?|inchange
+vacances-097|Que dis-tu en enlevant enfin tes chaussures de ski ?|Que dis-tu en voyant l’addition du restaurant d’altitude ?|What do you say when you finally take off your ski boots?|What do you say when you see the bill at the mountaintop restaurant?|inchange
+vacances-204|Combien de minutes restes-tu au lit après ton réveil en vacances ?|Combien de minutes restes-tu au lit après ton réveil un lundi ?|How many minutes do you stay in bed after waking up on vacation?|How many minutes do you stay in bed after waking up on a Monday?|inchange
+vacances-211|Que dis-tu quand on te réveille trop tôt en vacances ?|Que dis-tu quand tu te réveilles à midi ?|What do you say when someone wakes you up too early on vacation?|What do you say when you wake up at noon?|inchange
+vacances-323|Combien coûte un plein d’essence pour aller au ski ?|Combien coûte un aller-retour en train pour la montagne ?|How much does a full tank of gas cost for a ski trip?|How much does a round-trip train ticket to the mountains cost?|inchange
+vacances-326|Combien d’heures de route acceptes-tu pour une semaine de ski ?|Combien d’heures de route acceptes-tu pour un petit week-end ?|How many hours of driving will you accept for a ski week?|How many hours of driving will you accept for a long weekend?|fr-modifie
+vacances-332|Quel en-cas manges-tu dans la voiture des vacances ?|Quel en-cas achètes-tu à la gare avant de partir ?|What snack do you eat in the car on the way to vacation?|What snack do you buy at the station before leaving?|inchange
+vacances-341|À quel âge as-tu chaussé des skis pour la première fois ?|À quel âge as-tu skié pour la dernière fois ?|At what age did you put on skis for the first time?|At what age did you take your first ski lesson?|fr-modifie
+vacances-422|Qui lit les règles d’un nouveau jeu ?|Qui invente ses propres règles pendant la partie ?|Who reads the rules of a new game?|Who makes up their own rules during the game?|inchange
+vacances-527|Que manges-tu dans un parc d’attractions ?|Que mangeais-tu à la cantine étant petit ?|What do you eat at a theme park?|What do you eat at a museum café?|fr-modifie
+vacances-532|Que dis-tu en sortant d’une attraction à sensations ?|Que dis-tu quand un enfant veut refaire la même attraction ?|What do you say when you get off a thrill ride?|What do you say when a kid wants to go on the same ride again?|inchange
+vacances-559|Quel objet emportes-tu pour faire de belles photos ?|Quel objet protèges-tu du froid au ski ?|What item do you bring to take nice photos?|What item do you protect from the cold on a ski trip?|inchange
+vacances-577|Combien coûte un manteau haut de gamme ?|Combien coûte un bonnet en laine ?|How much does a pair of mittens cost?|How much does a wool hat cost?|fr-modifie
+sport-248|Combien de jours tiennent tes résolutions sportives de janvier ?|Combien de jours faut-il pour prendre une habitude sportive ?|How many days do your January fitness resolutions last?|How many days does it take to build a workout habit?|inchange
+bouffe-681|Quel plat aimes-tu manger froid le lendemain ?|Quel plat est meilleur réchauffé ?|What dish do you like eating cold the next day?|What dish is better reheated?|nouvelle
+boulot-613|Combien d’étudiants y avait-il dans ton plus grand amphi ?|Combien d’étudiants comptait toute ta promo ?|How many students were in your biggest lecture hall?|How many students were in your whole year?|nouvelle
+boulot-614|Combien coûte un bon sac pour aller travailler ?|Combien coûte une bonne chaise de bureau ?|How much does a good work bag cost?|How much does a good office chair cost?|nouvelle
+boulot-615|Combien de cafés un serveur porte-t-il sur un plateau ?|Combien d’assiettes un serveur porte-t-il sur un bras ?|How many coffees can a waiter carry on a tray?|How many plates can a waiter carry on one arm?|nouvelle
+soiree-593|Quelle célébrité fait toujours réagir quand on la cite en soirée ?|Quelle célébrité imites-tu pour faire rire tes amis ?|What celebrity always gets a reaction when mentioned at a party?|What celebrity do you impersonate to make your friends laugh?|nouvelle
