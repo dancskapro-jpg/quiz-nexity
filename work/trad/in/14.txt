@@ -1,0 +1,600 @@
+voisins-societe-001|Quel prix maximum paierais-tu pour un service de ménage des parties communes pendant un mois ?|Quel prix te semblerait raisonnable pour un système d'éclairage pour l'entrée de l'immeuble ?
+voisins-societe-002|Combien serais-tu prêt à dépenser pour un double de badge d'entrée pour un immeuble ?|En euros, quel serait ton plafond pour un petit cadeau pour remercier un voisin serviable ?
+voisins-societe-003|Quel budget prévoirais-tu pour une serrure renforcée pour ta porte d'appartement ?|À partir de quel prix trouverais-tu un tapis isolant sous une machine à laver bruyante trop cher ?
+voisins-societe-004|Quel prix maximum paierais-tu pour un détecteur de fumée connecté pour le logement ?|Quel prix te semblerait raisonnable pour la location d'une place de stationnement pendant une semaine ?
+voisins-societe-005|Combien serais-tu prêt à dépenser pour une aide ponctuelle pour monter un meuble lourd ?|En euros, quel serait ton plafond pour un dépannage de serrure en soirée ?
+voisins-societe-006|Quel budget prévoirais-tu pour une livraison de courses au quatrième étage sans ascenseur ?|À partir de quel prix trouverais-tu une réparation de sonnette d'appartement trop cher ?
+voisins-societe-007|Quel prix maximum paierais-tu pour une soirée de garde d'enfants par un voisin de confiance ?|Quel prix te semblerait raisonnable pour une serrure connectée sans abonnement ?
+voisins-societe-008|Combien serais-tu prêt à dépenser pour le nettoyage d'un petit balcon après des travaux ?|En euros, quel serait ton plafond pour un porte-vélos sécurisé dans une cour commune ?
+voisins-societe-009|Quel budget prévoirais-tu pour un emplacement de parking réservé pour un week-end ?|À partir de quel prix trouverais-tu un déménagement de quelques meubles entre deux étages trop cher ?
+voisins-societe-010|Quel prix maximum paierais-tu pour un système d'éclairage pour l'entrée de l'immeuble ?|Quel prix te semblerait raisonnable pour une séance de médiation de voisinage ?
+voisins-societe-011|Combien serais-tu prêt à dépenser pour un petit cadeau pour remercier un voisin serviable ?|En euros, quel serait ton plafond pour un service de réception de colis pendant une semaine ?
+voisins-societe-012|Quel budget prévoirais-tu pour un tapis isolant sous une machine à laver bruyante ?|À partir de quel prix trouverais-tu un service de ménage des parties communes pendant un mois trop cher ?
+voisins-societe-013|Quel prix maximum paierais-tu pour la location d'une place de stationnement pendant une semaine ?|Quel prix te semblerait raisonnable pour un double de badge d'entrée pour un immeuble ?
+voisins-societe-014|Combien serais-tu prêt à dépenser pour un dépannage de serrure en soirée ?|En euros, quel serait ton plafond pour une serrure renforcée pour ta porte d'appartement ?
+voisins-societe-015|Quel budget prévoirais-tu pour une réparation de sonnette d'appartement ?|À partir de quel prix trouverais-tu un détecteur de fumée connecté pour le logement trop cher ?
+voisins-societe-016|Quel prix maximum paierais-tu pour une serrure connectée sans abonnement ?|Quel prix te semblerait raisonnable pour une aide ponctuelle pour monter un meuble lourd ?
+voisins-societe-017|Combien serais-tu prêt à dépenser pour un porte-vélos sécurisé dans une cour commune ?|En euros, quel serait ton plafond pour une livraison de courses au quatrième étage sans ascenseur ?
+voisins-societe-018|Quel budget prévoirais-tu pour un déménagement de quelques meubles entre deux étages ?|À partir de quel prix trouverais-tu une soirée de garde d'enfants par un voisin de confiance trop cher ?
+voisins-societe-019|Quel prix maximum paierais-tu pour une séance de médiation de voisinage ?|Quel prix te semblerait raisonnable pour le nettoyage d'un petit balcon après des travaux ?
+voisins-societe-020|Combien serais-tu prêt à dépenser pour un service de réception de colis pendant une semaine ?|En euros, quel serait ton plafond pour un emplacement de parking réservé pour un week-end ?
+voisins-societe-021|Combien serais-tu prêt à dépenser pour un service de ménage des parties communes pendant un mois ?|En euros, quel serait ton plafond pour un système d'éclairage pour l'entrée de l'immeuble ?
+voisins-societe-022|Quel budget prévoirais-tu pour un double de badge d'entrée pour un immeuble ?|À partir de quel prix trouverais-tu un petit cadeau pour remercier un voisin serviable trop cher ?
+voisins-societe-023|Quel prix maximum paierais-tu pour une serrure renforcée pour ta porte d'appartement ?|Quel prix te semblerait raisonnable pour un tapis isolant sous une machine à laver bruyante ?
+voisins-societe-024|Combien serais-tu prêt à dépenser pour un détecteur de fumée connecté pour le logement ?|En euros, quel serait ton plafond pour la location d'une place de stationnement pendant une semaine ?
+voisins-societe-025|Quel budget prévoirais-tu pour une aide ponctuelle pour monter un meuble lourd ?|À partir de quel prix trouverais-tu un dépannage de serrure en soirée trop cher ?
+voisins-societe-026|Que répondrais-tu si un voisin lançait sa perceuse à huit heures un dimanche ?|Comment répondrais-tu si une personne te demandait de surveiller son appartement dix jours ?
+voisins-societe-027|Quelle serait ta première phrase si le voisin du dessus te reprochait de marcher trop fort ?|Qu’est-ce que tu dirais si ton voisin disait qu'il entend ton téléviseur chaque soir ?
+voisins-societe-028|Que dirais-tu si un voisin te demandait de baisser la musique à vingt et une heures ?|Quels mots utiliserais-tu si un habitant installait un vélo dans le passage de l'escalier ?
+voisins-societe-029|Que répondrais-tu si quelqu'un garait sa voiture devant ton garage ?|Comment répondrais-tu si un voisin te demandait de lui prêter une perceuse ?
+voisins-societe-030|Quelle serait ta première phrase si ton voisin refusait de récupérer un colis livré chez lui ?|Qu’est-ce que tu dirais si quelqu'un proposait de changer les horaires d'ouverture du portail ?
+voisins-societe-031|Que dirais-tu si une voisine proposait une fête dans la cour commune ?|Quels mots utiliserais-tu si un voisin organisait un barbecue sous ta fenêtre ?
+voisins-societe-032|Que répondrais-tu si un voisin disait que tes invités font trop de bruit ?|Comment répondrais-tu si une voisine t'accusait d'avoir pris son colis par erreur ?
+voisins-societe-033|Quelle serait ta première phrase si quelqu'un te demandait de porter ses courses au cinquième étage ?|Qu’est-ce que tu dirais si le gardien te demandait d'enlever ton paillasson ?
+voisins-societe-034|Que dirais-tu si un voisin laissait ses poubelles devant ta porte ?|Quels mots utiliserais-tu si un voisin t'invitait à une réunion d'immeuble improvisée ?
+voisins-societe-035|Que répondrais-tu si une personne te demandait de surveiller son appartement dix jours ?|Comment répondrais-tu si quelqu'un utilisait ta place de parking sans prévenir ?
+voisins-societe-036|Quelle serait ta première phrase si ton voisin disait qu'il entend ton téléviseur chaque soir ?|Qu’est-ce que tu dirais si un voisin te remerciait pour un service rendu l'hiver dernier ?
+voisins-societe-037|Que dirais-tu si un habitant installait un vélo dans le passage de l'escalier ?|Quels mots utiliserais-tu si un voisin lançait sa perceuse à huit heures un dimanche ?
+voisins-societe-038|Que répondrais-tu si un voisin te demandait de lui prêter une perceuse ?|Comment répondrais-tu si le voisin du dessus te reprochait de marcher trop fort ?
+voisins-societe-039|Quelle serait ta première phrase si quelqu'un proposait de changer les horaires d'ouverture du portail ?|Qu’est-ce que tu dirais si un voisin te demandait de baisser la musique à vingt et une heures ?
+voisins-societe-040|Que dirais-tu si un voisin organisait un barbecue sous ta fenêtre ?|Quels mots utiliserais-tu si quelqu'un garait sa voiture devant ton garage ?
+voisins-societe-041|Que répondrais-tu si une voisine t'accusait d'avoir pris son colis par erreur ?|Comment répondrais-tu si ton voisin refusait de récupérer un colis livré chez lui ?
+voisins-societe-042|Quelle serait ta première phrase si le gardien te demandait d'enlever ton paillasson ?|Qu’est-ce que tu dirais si une voisine proposait une fête dans la cour commune ?
+voisins-societe-043|Que dirais-tu si un voisin t'invitait à une réunion d'immeuble improvisée ?|Quels mots utiliserais-tu si un voisin disait que tes invités font trop de bruit ?
+voisins-societe-044|Que répondrais-tu si quelqu'un utilisait ta place de parking sans prévenir ?|Comment répondrais-tu si quelqu'un te demandait de porter ses courses au cinquième étage ?
+voisins-societe-045|Quelle serait ta première phrase si un voisin te remerciait pour un service rendu l'hiver dernier ?|Qu’est-ce que tu dirais si un voisin laissait ses poubelles devant ta porte ?
+voisins-societe-046|Quelle serait ta première phrase si un voisin lançait sa perceuse à huit heures un dimanche ?|Qu’est-ce que tu dirais si une personne te demandait de surveiller son appartement dix jours ?
+voisins-societe-047|Que dirais-tu si le voisin du dessus te reprochait de marcher trop fort ?|Quels mots utiliserais-tu si ton voisin disait qu'il entend ton téléviseur chaque soir ?
+voisins-societe-048|Que répondrais-tu si un voisin te demandait de baisser la musique à vingt et une heures ?|Comment répondrais-tu si un habitant installait un vélo dans le passage de l'escalier ?
+voisins-societe-049|Quelle serait ta première phrase si quelqu'un garait sa voiture devant ton garage ?|Qu’est-ce que tu dirais si un voisin te demandait de lui prêter une perceuse ?
+voisins-societe-050|Que dirais-tu si ton voisin refusait de récupérer un colis livré chez lui ?|Quels mots utiliserais-tu si quelqu'un proposait de changer les horaires d'ouverture du portail ?
+voisins-societe-051|Que ferais-tu en premier si tu trouvais de l'eau qui coulait du plafond un samedi soir ?|Que déciderais-tu de faire d’abord si le portail de l'immeuble restait ouvert toute la nuit ?
+voisins-societe-052|Quel serait ton premier réflexe si une alarme de voiture sonnait depuis une heure dans la rue ?|Comment agirais-tu en premier si un voisin tombait dans l'escalier et demandait de l'aide ?
+voisins-societe-053|Par quoi commencerais-tu si le voisin du dessus mettait de la musique forte à minuit ?|Quelle serait ta première action si tu entendais un chien aboyer seul depuis plusieurs heures ?
+voisins-societe-054|Que ferais-tu en premier si un colis à ton nom arrivait chez le mauvais voisin ?|Que déciderais-tu de faire d’abord si une odeur de brûlé venait d'un appartement voisin ?
+voisins-societe-055|Quel serait ton premier réflexe si tu trouvais une clé sur le palier de ton immeuble ?|Comment agirais-tu en premier si une personne déposait des cartons devant les poubelles ?
+voisins-societe-056|Par quoi commencerais-tu si une poussette bloquait la sortie de secours ?|Quelle serait ta première action si ton voisin frappait à ta porte pendant une réunion vidéo ?
+voisins-societe-057|Que ferais-tu en premier si une personne âgée n'avait plus d'électricité dans ton immeuble ?|Que déciderais-tu de faire d’abord si une fuite d'eau apparaissait dans les parties communes ?
+voisins-societe-058|Quel serait ton premier réflexe si un vélo semblait abandonné devant l'entrée commune ?|Comment agirais-tu en premier si des invités occupaient toutes les places visiteurs ?
+voisins-societe-059|Par quoi commencerais-tu si tu découvrais un mot agressif collé sur ta porte ?|Quelle serait ta première action si un éclairage de couloir ne fonctionnait plus depuis une semaine ?
+voisins-societe-060|Que ferais-tu en premier si le portail de l'immeuble restait ouvert toute la nuit ?|Que déciderais-tu de faire d’abord si tu voyais un colis fragile laissé sous la pluie ?
+voisins-societe-061|Quel serait ton premier réflexe si un voisin tombait dans l'escalier et demandait de l'aide ?|Comment agirais-tu en premier si un inconnu insistait pour entrer derrière toi dans l'immeuble ?
+voisins-societe-062|Par quoi commencerais-tu si tu entendais un chien aboyer seul depuis plusieurs heures ?|Quelle serait ta première action si tu trouvais de l'eau qui coulait du plafond un samedi soir ?
+voisins-societe-063|Que ferais-tu en premier si une odeur de brûlé venait d'un appartement voisin ?|Que déciderais-tu de faire d’abord si une alarme de voiture sonnait depuis une heure dans la rue ?
+voisins-societe-064|Quel serait ton premier réflexe si une personne déposait des cartons devant les poubelles ?|Comment agirais-tu en premier si le voisin du dessus mettait de la musique forte à minuit ?
+voisins-societe-065|Par quoi commencerais-tu si ton voisin frappait à ta porte pendant une réunion vidéo ?|Quelle serait ta première action si un colis à ton nom arrivait chez le mauvais voisin ?
+voisins-societe-066|Que ferais-tu en premier si une fuite d'eau apparaissait dans les parties communes ?|Que déciderais-tu de faire d’abord si tu trouvais une clé sur le palier de ton immeuble ?
+voisins-societe-067|Quel serait ton premier réflexe si des invités occupaient toutes les places visiteurs ?|Comment agirais-tu en premier si une poussette bloquait la sortie de secours ?
+voisins-societe-068|Par quoi commencerais-tu si un éclairage de couloir ne fonctionnait plus depuis une semaine ?|Quelle serait ta première action si une personne âgée n'avait plus d'électricité dans ton immeuble ?
+voisins-societe-069|Que ferais-tu en premier si tu voyais un colis fragile laissé sous la pluie ?|Que déciderais-tu de faire d’abord si un vélo semblait abandonné devant l'entrée commune ?
+voisins-societe-070|Quel serait ton premier réflexe si un inconnu insistait pour entrer derrière toi dans l'immeuble ?|Comment agirais-tu en premier si tu découvrais un mot agressif collé sur ta porte ?
+voisins-societe-071|Quel serait ton premier réflexe si tu trouvais de l'eau qui coulait du plafond un samedi soir ?|Comment agirais-tu en premier si le portail de l'immeuble restait ouvert toute la nuit ?
+voisins-societe-072|Par quoi commencerais-tu si une alarme de voiture sonnait depuis une heure dans la rue ?|Quelle serait ta première action si un voisin tombait dans l'escalier et demandait de l'aide ?
+voisins-societe-073|Que ferais-tu en premier si le voisin du dessus mettait de la musique forte à minuit ?|Que déciderais-tu de faire d’abord si tu entendais un chien aboyer seul depuis plusieurs heures ?
+voisins-societe-074|Quel serait ton premier réflexe si un colis à ton nom arrivait chez le mauvais voisin ?|Comment agirais-tu en premier si une odeur de brûlé venait d'un appartement voisin ?
+voisins-societe-075|Par quoi commencerais-tu si tu trouvais une clé sur le palier de ton immeuble ?|Quelle serait ta première action si une personne déposait des cartons devant les poubelles ?
+voisins-societe-076|Tu choisirais plutôt un immeuble très calme mais éloigné ou un immeuble animé près du métro ?|Si tu n’avais droit qu’à une option, tu prendrais un immeuble avec ascenseur ou un immeuble avec local à vélos ?
+voisins-societe-077|Entre connaître tous tes voisins et rester discret avec chacun, que préférerais-tu ?|Lequel des deux te tente le plus : une entrée avec digicode ou une entrée avec gardien ?
+voisins-societe-078|Si tu devais trancher, ce serait une cour intérieure partagée ou un jardin privatif plus petit ?|Tu privilégierais être proche d'une rue commerçante ou être près d'un grand parc ?
+voisins-societe-079|Tu choisirais plutôt une fête de voisins annuelle ou de petites rencontres régulières ?|Si tu n’avais droit qu’à une option, tu prendrais des voisins très sociables ou des voisins très discrets ?
+voisins-societe-080|Entre régler un souci en face à face et écrire un message poli, que préférerais-tu ?|Lequel des deux te tente le plus : organiser des repas de quartier ou faire seulement connaissance sur le palier ?
+voisins-societe-081|Si tu devais trancher, ce serait un appartement au dernier étage ou un appartement au rez-de-chaussée ?|Tu privilégierais garer sa voiture en sous-sol ou dans une rue résidentielle ?
+voisins-societe-082|Tu choisirais plutôt avoir un balcon ou disposer d'une grande cave ?|Si tu n’avais droit qu’à une option, tu prendrais un appartement lumineux mais bruyant ou un appartement sombre mais calme ?
+voisins-societe-083|Entre vivre en copropriété et louer une petite maison, que préférerais-tu ?|Lequel des deux te tente le plus : une cuisine ouverte ou une cuisine séparée ?
+voisins-societe-084|Si tu devais trancher, ce serait recevoir les colis chez le gardien ou utiliser un point relais ?|Tu privilégierais des parties communes très décorées ou des parties communes faciles à entretenir ?
+voisins-societe-085|Tu choisirais plutôt un immeuble avec ascenseur ou un immeuble avec local à vélos ?|Si tu n’avais droit qu’à une option, tu prendrais vivre au centre d'une grande ville ou dans une petite ville calme ?
+voisins-societe-086|Entre une entrée avec digicode et une entrée avec gardien, que préférerais-tu ?|Lequel des deux te tente le plus : discuter des problèmes collectivement ou faire appel au syndic ?
+voisins-societe-087|Si tu devais trancher, ce serait être proche d'une rue commerçante ou être près d'un grand parc ?|Tu privilégierais un immeuble très calme mais éloigné ou un immeuble animé près du métro ?
+voisins-societe-088|Tu choisirais plutôt des voisins très sociables ou des voisins très discrets ?|Si tu n’avais droit qu’à une option, tu prendrais connaître tous tes voisins ou rester discret avec chacun ?
+voisins-societe-089|Entre organiser des repas de quartier et faire seulement connaissance sur le palier, que préférerais-tu ?|Lequel des deux te tente le plus : une cour intérieure partagée ou un jardin privatif plus petit ?
+voisins-societe-090|Si tu devais trancher, ce serait garer sa voiture en sous-sol ou dans une rue résidentielle ?|Tu privilégierais une fête de voisins annuelle ou de petites rencontres régulières ?
+voisins-societe-091|Tu choisirais plutôt un appartement lumineux mais bruyant ou un appartement sombre mais calme ?|Si tu n’avais droit qu’à une option, tu prendrais régler un souci en face à face ou écrire un message poli ?
+voisins-societe-092|Entre une cuisine ouverte et une cuisine séparée, que préférerais-tu ?|Lequel des deux te tente le plus : un appartement au dernier étage ou un appartement au rez-de-chaussée ?
+voisins-societe-093|Si tu devais trancher, ce serait des parties communes très décorées ou des parties communes faciles à entretenir ?|Tu privilégierais avoir un balcon ou disposer d'une grande cave ?
+voisins-societe-094|Tu choisirais plutôt vivre au centre d'une grande ville ou dans une petite ville calme ?|Si tu n’avais droit qu’à une option, tu prendrais vivre en copropriété ou louer une petite maison ?
+voisins-societe-095|Entre discuter des problèmes collectivement et faire appel au syndic, que préférerais-tu ?|Lequel des deux te tente le plus : recevoir les colis chez le gardien ou utiliser un point relais ?
+voisins-societe-096|Entre un immeuble très calme mais éloigné et un immeuble animé près du métro, que préférerais-tu ?|Lequel des deux te tente le plus : un immeuble avec ascenseur ou un immeuble avec local à vélos ?
+voisins-societe-097|Si tu devais trancher, ce serait connaître tous tes voisins ou rester discret avec chacun ?|Tu privilégierais une entrée avec digicode ou une entrée avec gardien ?
+voisins-societe-098|Tu choisirais plutôt une cour intérieure partagée ou un jardin privatif plus petit ?|Si tu n’avais droit qu’à une option, tu prendrais être proche d'une rue commerçante ou être près d'un grand parc ?
+voisins-societe-099|Entre une fête de voisins annuelle et de petites rencontres régulières, que préférerais-tu ?|Lequel des deux te tente le plus : des voisins très sociables ou des voisins très discrets ?
+voisins-societe-100|Si tu devais trancher, ce serait régler un souci en face à face ou écrire un message poli ?|Tu privilégierais organiser des repas de quartier ou faire seulement connaissance sur le palier ?
+voisins-societe-101|Combien de minutes te faudrait-il pour expliquer calmement une plainte de bruit à un voisin ?|Quel temps, en minutes, prévoirais-tu pour nettoyer une trace dans l'escalier commun ?
+voisins-societe-102|Tu passerais combien de minutes à remplir un formulaire de signalement au syndic ?|Tu mettrais combien de minutes à saluer les voisins lors d'une fête de l'immeuble ?
+voisins-societe-103|Combien de minutes consacrerais-tu à ranger les cartons avant le passage des éboueurs ?|En général, combien de minutes prendrais-tu pour préparer les sujets d'une réunion de copropriété ?
+voisins-societe-104|Combien de minutes te faudrait-il pour accueillir un nouveau voisin autour d'un café ?|Quel temps, en minutes, prévoirais-tu pour nettoyer ton balcon après un orage ?
+voisins-societe-105|Tu passerais combien de minutes à aider un voisin à porter un meuble léger ?|Tu mettrais combien de minutes à monter un petit colis au dernier étage ?
+voisins-societe-106|Combien de minutes consacrerais-tu à récupérer un colis dans l'immeuble voisin ?|En général, combien de minutes prendrais-tu pour trouver le numéro d'un plombier de garde ?
+voisins-societe-107|Combien de minutes te faudrait-il pour préparer un mot pour prévenir de travaux ?|Quel temps, en minutes, prévoirais-tu pour chercher des informations sur le tri des déchets ?
+voisins-societe-108|Tu passerais combien de minutes à vérifier une fuite sous un évier avant d'appeler ?|Tu mettrais combien de minutes à discuter d'une place de parking occupée ?
+voisins-societe-109|Combien de minutes consacrerais-tu à installer un tapis antibruit sous un meuble ?|En général, combien de minutes prendrais-tu pour accueillir un livreur quand l'interphone ne marche pas ?
+voisins-societe-110|Combien de minutes te faudrait-il pour nettoyer une trace dans l'escalier commun ?|Quel temps, en minutes, prévoirais-tu pour préparer une affiche pour une fête des voisins ?
+voisins-societe-111|Tu passerais combien de minutes à saluer les voisins lors d'une fête de l'immeuble ?|Tu mettrais combien de minutes à rédiger un message clair à ton propriétaire ?
+voisins-societe-112|Combien de minutes consacrerais-tu à préparer les sujets d'une réunion de copropriété ?|En général, combien de minutes prendrais-tu pour expliquer calmement une plainte de bruit à un voisin ?
+voisins-societe-113|Combien de minutes te faudrait-il pour nettoyer ton balcon après un orage ?|Quel temps, en minutes, prévoirais-tu pour remplir un formulaire de signalement au syndic ?
+voisins-societe-114|Tu passerais combien de minutes à monter un petit colis au dernier étage ?|Tu mettrais combien de minutes à ranger les cartons avant le passage des éboueurs ?
+voisins-societe-115|Combien de minutes consacrerais-tu à trouver le numéro d'un plombier de garde ?|En général, combien de minutes prendrais-tu pour accueillir un nouveau voisin autour d'un café ?
+voisins-societe-116|Combien de minutes te faudrait-il pour chercher des informations sur le tri des déchets ?|Quel temps, en minutes, prévoirais-tu pour aider un voisin à porter un meuble léger ?
+voisins-societe-117|Tu passerais combien de minutes à discuter d'une place de parking occupée ?|Tu mettrais combien de minutes à récupérer un colis dans l'immeuble voisin ?
+voisins-societe-118|Combien de minutes consacrerais-tu à accueillir un livreur quand l'interphone ne marche pas ?|En général, combien de minutes prendrais-tu pour préparer un mot pour prévenir de travaux ?
+voisins-societe-119|Combien de minutes te faudrait-il pour préparer une affiche pour une fête des voisins ?|Quel temps, en minutes, prévoirais-tu pour vérifier une fuite sous un évier avant d'appeler ?
+voisins-societe-120|Tu passerais combien de minutes à rédiger un message clair à ton propriétaire ?|Tu mettrais combien de minutes à installer un tapis antibruit sous un meuble ?
+voisins-societe-121|Tu passerais combien de minutes à expliquer calmement une plainte de bruit à un voisin ?|Tu mettrais combien de minutes à nettoyer une trace dans l'escalier commun ?
+voisins-societe-122|Combien de minutes consacrerais-tu à remplir un formulaire de signalement au syndic ?|En général, combien de minutes prendrais-tu pour saluer les voisins lors d'une fête de l'immeuble ?
+voisins-societe-123|Combien de minutes te faudrait-il pour ranger les cartons avant le passage des éboueurs ?|Quel temps, en minutes, prévoirais-tu pour préparer les sujets d'une réunion de copropriété ?
+voisins-societe-124|Tu passerais combien de minutes à accueillir un nouveau voisin autour d'un café ?|Tu mettrais combien de minutes à nettoyer ton balcon après un orage ?
+voisins-societe-125|Combien de minutes consacrerais-tu à aider un voisin à porter un meuble léger ?|En général, combien de minutes prendrais-tu pour monter un petit colis au dernier étage ?
+voisins-societe-126|À qui demanderais-tu conseil pour régler un différend au sujet du bruit le dimanche ?|Qui appellerais-tu pour demander l'autorisation de poser un porte-vélos ?
+voisins-societe-127|Qui contacterais-tu en priorité pour signaler une fuite d'eau dans les parties communes ?|À qui demanderais-tu un avis pour comprendre une facture de charges collectives ?
+voisins-societe-128|Vers qui te tournerais-tu pour organiser une fête des voisins ?|À quelle personne parlerais-tu d’abord pour réparer l'interphone de ton appartement ?
+voisins-societe-129|À qui demanderais-tu conseil pour comprendre les horaires autorisés pour des travaux ?|Qui appellerais-tu pour obtenir des conseils sur une isolation phonique ?
+voisins-societe-130|Qui contacterais-tu en priorité pour obtenir un deuxième badge d'immeuble ?|À qui demanderais-tu un avis pour signaler un problème de propreté du local poubelles ?
+voisins-societe-131|Vers qui te tournerais-tu pour demander la réparation d'un éclairage collectif ?|À quelle personne parlerais-tu d’abord pour organiser l'arrosage des plantes d'un voisin absent ?
+voisins-societe-132|À qui demanderais-tu conseil pour résoudre un problème de stationnement partagé ?|Qui appellerais-tu pour demander une aide ponctuelle pour porter un meuble ?
+voisins-societe-133|Qui contacterais-tu en priorité pour retrouver le destinataire d'un colis mal livré ?|À qui demanderais-tu un avis pour traiter un conflit concernant un animal bruyant ?
+voisins-societe-134|Vers qui te tournerais-tu pour proposer une amélioration de la sécurité de l'entrée ?|À quelle personne parlerais-tu d’abord pour connaître les règles d'utilisation de la cour ?
+voisins-societe-135|À qui demanderais-tu conseil pour demander l'autorisation de poser un porte-vélos ?|Qui appellerais-tu pour proposer des travaux dans un hall d'immeuble ?
+voisins-societe-136|Qui contacterais-tu en priorité pour comprendre une facture de charges collectives ?|À qui demanderais-tu un avis pour connaître les horaires de collecte des encombrants ?
+voisins-societe-137|Vers qui te tournerais-tu pour réparer l'interphone de ton appartement ?|À quelle personne parlerais-tu d’abord pour régler un différend au sujet du bruit le dimanche ?
+voisins-societe-138|À qui demanderais-tu conseil pour obtenir des conseils sur une isolation phonique ?|Qui appellerais-tu pour signaler une fuite d'eau dans les parties communes ?
+voisins-societe-139|Qui contacterais-tu en priorité pour signaler un problème de propreté du local poubelles ?|À qui demanderais-tu un avis pour organiser une fête des voisins ?
+voisins-societe-140|Vers qui te tournerais-tu pour organiser l'arrosage des plantes d'un voisin absent ?|À quelle personne parlerais-tu d’abord pour comprendre les horaires autorisés pour des travaux ?
+voisins-societe-141|À qui demanderais-tu conseil pour demander une aide ponctuelle pour porter un meuble ?|Qui appellerais-tu pour obtenir un deuxième badge d'immeuble ?
+voisins-societe-142|Qui contacterais-tu en priorité pour traiter un conflit concernant un animal bruyant ?|À qui demanderais-tu un avis pour demander la réparation d'un éclairage collectif ?
+voisins-societe-143|Vers qui te tournerais-tu pour connaître les règles d'utilisation de la cour ?|À quelle personne parlerais-tu d’abord pour résoudre un problème de stationnement partagé ?
+voisins-societe-144|À qui demanderais-tu conseil pour proposer des travaux dans un hall d'immeuble ?|Qui appellerais-tu pour retrouver le destinataire d'un colis mal livré ?
+voisins-societe-145|Qui contacterais-tu en priorité pour connaître les horaires de collecte des encombrants ?|À qui demanderais-tu un avis pour proposer une amélioration de la sécurité de l'entrée ?
+voisins-societe-146|Qui contacterais-tu en priorité pour régler un différend au sujet du bruit le dimanche ?|À qui demanderais-tu un avis pour demander l'autorisation de poser un porte-vélos ?
+voisins-societe-147|Vers qui te tournerais-tu pour signaler une fuite d'eau dans les parties communes ?|À quelle personne parlerais-tu d’abord pour comprendre une facture de charges collectives ?
+voisins-societe-148|À qui demanderais-tu conseil pour organiser une fête des voisins ?|Qui appellerais-tu pour réparer l'interphone de ton appartement ?
+voisins-societe-149|Qui contacterais-tu en priorité pour comprendre les horaires autorisés pour des travaux ?|À qui demanderais-tu un avis pour obtenir des conseils sur une isolation phonique ?
+voisins-societe-150|Vers qui te tournerais-tu pour obtenir un deuxième badge d'immeuble ?|À quelle personne parlerais-tu d’abord pour signaler un problème de propreté du local poubelles ?
+voisins-societe-151|Où irais-tu pour échanger tranquillement avec un voisin que tu connais peu ?|Dans quel lieu voudrais-tu installer un composteur collectif avec autorisation ?
+voisins-societe-152|Dans quel endroit préférerais-tu organiser une fête des voisins de vingt personnes ?|À quel endroit déciderais-tu d’attendre un ami sans bloquer l'entrée de l'immeuble ?
+voisins-societe-153|Dans quel lieu aimerais-tu afficher une information utile aux résidents ?|Où choisirais-tu de nettoyer une paire de chaussures boueuses ?
+voisins-societe-154|Où irais-tu pour ranger un vélo sans gêner le passage ?|Dans quel lieu voudrais-tu faire sécher une couverture sans déranger ?
+voisins-societe-155|Dans quel endroit préférerais-tu déposer un colis destiné à un voisin absent ?|À quel endroit déciderais-tu de se réunir après un incident dans la copropriété ?
+voisins-societe-156|Dans quel lieu aimerais-tu discuter d'un problème de bruit sans scène publique ?|Où choisirais-tu d’installer une boîte à livres de quartier ?
+voisins-societe-157|Où irais-tu pour accueillir une réunion de résidents ?|Dans quel lieu voudrais-tu poser une affiche pour un chat perdu ?
+voisins-societe-158|Dans quel endroit préférerais-tu stocker temporairement un objet encombrant ?|À quel endroit déciderais-tu d’organiser un café entre nouveaux voisins ?
+voisins-societe-159|Dans quel lieu aimerais-tu recevoir un livreur pendant une absence ?|Où choisirais-tu de signaler un défaut de sécurité dans l'immeuble ?
+voisins-societe-160|Où irais-tu pour installer un composteur collectif avec autorisation ?|Dans quel lieu voudrais-tu préparer un troc de vêtements entre habitants ?
+voisins-societe-161|Dans quel endroit préférerais-tu attendre un ami sans bloquer l'entrée de l'immeuble ?|À quel endroit déciderais-tu de discuter d'un projet de plantation dans la cour ?
+voisins-societe-162|Dans quel lieu aimerais-tu nettoyer une paire de chaussures boueuses ?|Où choisirais-tu d’échanger tranquillement avec un voisin que tu connais peu ?
+voisins-societe-163|Où irais-tu pour faire sécher une couverture sans déranger ?|Dans quel lieu voudrais-tu organiser une fête des voisins de vingt personnes ?
+voisins-societe-164|Dans quel endroit préférerais-tu se réunir après un incident dans la copropriété ?|À quel endroit déciderais-tu d’afficher une information utile aux résidents ?
+voisins-societe-165|Dans quel lieu aimerais-tu installer une boîte à livres de quartier ?|Où choisirais-tu de ranger un vélo sans gêner le passage ?
+voisins-societe-166|Où irais-tu pour poser une affiche pour un chat perdu ?|Dans quel lieu voudrais-tu déposer un colis destiné à un voisin absent ?
+voisins-societe-167|Dans quel endroit préférerais-tu organiser un café entre nouveaux voisins ?|À quel endroit déciderais-tu de discuter d'un problème de bruit sans scène publique ?
+voisins-societe-168|Dans quel lieu aimerais-tu signaler un défaut de sécurité dans l'immeuble ?|Où choisirais-tu d’accueillir une réunion de résidents ?
+voisins-societe-169|Où irais-tu pour préparer un troc de vêtements entre habitants ?|Dans quel lieu voudrais-tu stocker temporairement un objet encombrant ?
+voisins-societe-170|Dans quel endroit préférerais-tu discuter d'un projet de plantation dans la cour ?|À quel endroit déciderais-tu de recevoir un livreur pendant une absence ?
+voisins-societe-171|Dans quel endroit préférerais-tu échanger tranquillement avec un voisin que tu connais peu ?|À quel endroit déciderais-tu d’installer un composteur collectif avec autorisation ?
+voisins-societe-172|Dans quel lieu aimerais-tu organiser une fête des voisins de vingt personnes ?|Où choisirais-tu d’attendre un ami sans bloquer l'entrée de l'immeuble ?
+voisins-societe-173|Où irais-tu pour afficher une information utile aux résidents ?|Dans quel lieu voudrais-tu nettoyer une paire de chaussures boueuses ?
+voisins-societe-174|Dans quel endroit préférerais-tu ranger un vélo sans gêner le passage ?|À quel endroit déciderais-tu de faire sécher une couverture sans déranger ?
+voisins-societe-175|Dans quel lieu aimerais-tu déposer un colis destiné à un voisin absent ?|Où choisirais-tu de se réunir après un incident dans la copropriété ?
+voisins-societe-176|Quel critère compterait le plus pour toi pour choisir un appartement dans une copropriété ancienne ?|Sur quoi serais-tu le plus exigeant pour installer une boîte à colis dans le hall ?
+voisins-societe-177|Quel élément regarderais-tu en premier pour installer une caméra à l'entrée commune avec autorisation ?|Quelle serait ta priorité pour déménager dans une rue commerçante ?
+voisins-societe-178|Qu’est-ce qui serait non négociable pour acheter une place de parking en sous-sol ?|Quel détail vérifierais-tu avant de chercher un logement près d'une école ?
+voisins-societe-179|Quel critère compterait le plus pour toi pour louer un appartement au-dessus d'un commerce ?|Sur quoi serais-tu le plus exigeant pour améliorer l'éclairage d'une cage d'escalier ?
+voisins-societe-180|Quel élément regarderais-tu en premier pour sélectionner une entreprise pour nettoyer l'immeuble ?|Quelle serait ta priorité pour acheter un détecteur de fumée pour ton logement ?
+voisins-societe-181|Qu’est-ce qui serait non négociable pour organiser une fête de voisins au printemps ?|Quel détail vérifierais-tu avant de louer un garage dans le quartier ?
+voisins-societe-182|Quel critère compterait le plus pour toi pour créer un espace à vélos dans la cour ?|Sur quoi serais-tu le plus exigeant pour proposer une règle pour l'usage de la cour ?
+voisins-societe-183|Quel élément regarderais-tu en premier pour préparer des travaux bruyants dans un appartement ?|Quelle serait ta priorité pour créer un groupe de discussion entre voisins ?
+voisins-societe-184|Qu’est-ce qui serait non négociable pour choisir une résidence avec gardien ?|Quel détail vérifierais-tu avant de choisir un logement au rez-de-chaussée ?
+voisins-societe-185|Quel critère compterait le plus pour toi pour installer une boîte à colis dans le hall ?|Sur quoi serais-tu le plus exigeant pour installer une borne de recharge collective ?
+voisins-societe-186|Quel élément regarderais-tu en premier pour déménager dans une rue commerçante ?|Quelle serait ta priorité pour réfléchir à une meilleure gestion des déchets ?
+voisins-societe-187|Qu’est-ce qui serait non négociable pour chercher un logement près d'une école ?|Quel détail vérifierais-tu avant de choisir un appartement dans une copropriété ancienne ?
+voisins-societe-188|Quel critère compterait le plus pour toi pour améliorer l'éclairage d'une cage d'escalier ?|Sur quoi serais-tu le plus exigeant pour installer une caméra à l'entrée commune avec autorisation ?
+voisins-societe-189|Quel élément regarderais-tu en premier pour acheter un détecteur de fumée pour ton logement ?|Quelle serait ta priorité pour acheter une place de parking en sous-sol ?
+voisins-societe-190|Qu’est-ce qui serait non négociable pour louer un garage dans le quartier ?|Quel détail vérifierais-tu avant de louer un appartement au-dessus d'un commerce ?
+voisins-societe-191|Quel critère compterait le plus pour toi pour proposer une règle pour l'usage de la cour ?|Sur quoi serais-tu le plus exigeant pour sélectionner une entreprise pour nettoyer l'immeuble ?
+voisins-societe-192|Quel élément regarderais-tu en premier pour créer un groupe de discussion entre voisins ?|Quelle serait ta priorité pour organiser une fête de voisins au printemps ?
+voisins-societe-193|Qu’est-ce qui serait non négociable pour choisir un logement au rez-de-chaussée ?|Quel détail vérifierais-tu avant de créer un espace à vélos dans la cour ?
+voisins-societe-194|Quel critère compterait le plus pour toi pour installer une borne de recharge collective ?|Sur quoi serais-tu le plus exigeant pour préparer des travaux bruyants dans un appartement ?
+voisins-societe-195|Quel élément regarderais-tu en premier pour réfléchir à une meilleure gestion des déchets ?|Quelle serait ta priorité pour choisir une résidence avec gardien ?
+voisins-societe-196|Quel élément regarderais-tu en premier pour choisir un appartement dans une copropriété ancienne ?|Quelle serait ta priorité pour installer une boîte à colis dans le hall ?
+voisins-societe-197|Qu’est-ce qui serait non négociable pour installer une caméra à l'entrée commune avec autorisation ?|Quel détail vérifierais-tu avant de déménager dans une rue commerçante ?
+voisins-societe-198|Quel critère compterait le plus pour toi pour acheter une place de parking en sous-sol ?|Sur quoi serais-tu le plus exigeant pour chercher un logement près d'une école ?
+voisins-societe-199|Quel élément regarderais-tu en premier pour louer un appartement au-dessus d'un commerce ?|Quelle serait ta priorité pour améliorer l'éclairage d'une cage d'escalier ?
+voisins-societe-200|Qu’est-ce qui serait non négociable pour sélectionner une entreprise pour nettoyer l'immeuble ?|Quel détail vérifierais-tu avant d’acheter un détecteur de fumée pour ton logement ?
+mariages-occasions-001|Quel prix maximum paierais-tu pour une tenue complète d'invité pour un mariage d'été ?|Quel prix te semblerait raisonnable pour la location d'une voiture pour une cérémonie ?
+mariages-occasions-002|Combien serais-tu prêt à dépenser pour un cadeau de mariage pour des amis proches ?|En euros, quel serait ton plafond pour un costume sur mesure pour une cérémonie ?
+mariages-occasions-003|Quel budget prévoirais-tu pour une nuit d'hôtel après une réception à la campagne ?|À partir de quel prix trouverais-tu une robe de soirée de bonne qualité trop cher ?
+mariages-occasions-004|Quel prix maximum paierais-tu pour une coiffure professionnelle pour une cérémonie ?|Quel prix te semblerait raisonnable pour un vidéaste pour filmer une journée de mariage ?
+mariages-occasions-005|Combien serais-tu prêt à dépenser pour un repas de mariage par invité dans une belle salle ?|En euros, quel serait ton plafond pour l'impression de cent faire-part personnalisés ?
+mariages-occasions-006|Quel budget prévoirais-tu pour une décoration florale simple pour dix tables ?|À partir de quel prix trouverais-tu un DJ pour animer six heures de réception trop cher ?
+mariages-occasions-007|Quel prix maximum paierais-tu pour la location d'une salle pour cinquante personnes ?|Quel prix te semblerait raisonnable pour une séance de maquillage le jour d'un mariage ?
+mariages-occasions-008|Combien serais-tu prêt à dépenser pour un photographe pour six heures de mariage ?|En euros, quel serait ton plafond pour un brunch du lendemain pour trente invités ?
+mariages-occasions-009|Quel budget prévoirais-tu pour une pièce montée pour quatre-vingts invités ?|À partir de quel prix trouverais-tu un bouquet de mariée chez un fleuriste professionnel trop cher ?
+mariages-occasions-010|Quel prix maximum paierais-tu pour la location d'une voiture pour une cérémonie ?|Quel prix te semblerait raisonnable pour une séance photo avant une remise de diplôme ?
+mariages-occasions-011|Combien serais-tu prêt à dépenser pour un costume sur mesure pour une cérémonie ?|En euros, quel serait ton plafond pour une bague de fiançailles en or simple ?
+mariages-occasions-012|Quel budget prévoirais-tu pour une robe de soirée de bonne qualité ?|À partir de quel prix trouverais-tu une tenue complète d'invité pour un mariage d'été trop cher ?
+mariages-occasions-013|Quel prix maximum paierais-tu pour un vidéaste pour filmer une journée de mariage ?|Quel prix te semblerait raisonnable pour un cadeau de mariage pour des amis proches ?
+mariages-occasions-014|Combien serais-tu prêt à dépenser pour l'impression de cent faire-part personnalisés ?|En euros, quel serait ton plafond pour une nuit d'hôtel après une réception à la campagne ?
+mariages-occasions-015|Quel budget prévoirais-tu pour un DJ pour animer six heures de réception ?|À partir de quel prix trouverais-tu une coiffure professionnelle pour une cérémonie trop cher ?
+mariages-occasions-016|Quel prix maximum paierais-tu pour une séance de maquillage le jour d'un mariage ?|Quel prix te semblerait raisonnable pour un repas de mariage par invité dans une belle salle ?
+mariages-occasions-017|Combien serais-tu prêt à dépenser pour un brunch du lendemain pour trente invités ?|En euros, quel serait ton plafond pour une décoration florale simple pour dix tables ?
+mariages-occasions-018|Quel budget prévoirais-tu pour un bouquet de mariée chez un fleuriste professionnel ?|À partir de quel prix trouverais-tu la location d'une salle pour cinquante personnes trop cher ?
+mariages-occasions-019|Quel prix maximum paierais-tu pour une séance photo avant une remise de diplôme ?|Quel prix te semblerait raisonnable pour un photographe pour six heures de mariage ?
+mariages-occasions-020|Combien serais-tu prêt à dépenser pour une bague de fiançailles en or simple ?|En euros, quel serait ton plafond pour une pièce montée pour quatre-vingts invités ?
+mariages-occasions-021|Combien serais-tu prêt à dépenser pour une tenue complète d'invité pour un mariage d'été ?|En euros, quel serait ton plafond pour la location d'une voiture pour une cérémonie ?
+mariages-occasions-022|Quel budget prévoirais-tu pour un cadeau de mariage pour des amis proches ?|À partir de quel prix trouverais-tu un costume sur mesure pour une cérémonie trop cher ?
+mariages-occasions-023|Quel prix maximum paierais-tu pour une nuit d'hôtel après une réception à la campagne ?|Quel prix te semblerait raisonnable pour une robe de soirée de bonne qualité ?
+mariages-occasions-024|Combien serais-tu prêt à dépenser pour une coiffure professionnelle pour une cérémonie ?|En euros, quel serait ton plafond pour un vidéaste pour filmer une journée de mariage ?
+mariages-occasions-025|Quel budget prévoirais-tu pour un repas de mariage par invité dans une belle salle ?|À partir de quel prix trouverais-tu l'impression de cent faire-part personnalisés trop cher ?
+mariages-occasions-026|Que répondrais-tu si un invité annonçait venir accompagné sans avoir demandé ?|Comment répondrais-tu si on te demandait de changer de table juste avant le repas ?
+mariages-occasions-027|Quelle serait ta première phrase si les mariés te demandaient de faire un discours au dernier moment ?|Qu’est-ce que tu dirais si le DJ te demandait de proposer une chanson pour l'ouverture ?
+mariages-occasions-028|Que dirais-tu si quelqu'un te proposait de porter du blanc à un mariage ?|Quels mots utiliserais-tu si un ami voulait faire une annonce personnelle pendant un mariage ?
+mariages-occasions-029|Que répondrais-tu si un ami annulait sa présence la veille de la cérémonie ?|Comment répondrais-tu si un témoin te demandait de garder secrète une surprise ?
+mariages-occasions-030|Quelle serait ta première phrase si un invité se plaignait de ne pas connaître les autres convives ?|Qu’est-ce que tu dirais si une personne t'offrait un cadeau de remise de diplôme inattendu ?
+mariages-occasions-031|Que dirais-tu si la personne qui se marie te demandait ton avis sur sa tenue ?|Quels mots utiliserais-tu si un proche te demandait de participer à une danse surprise ?
+mariages-occasions-032|Que répondrais-tu si un proche disait que la réception est trop coûteuse ?|Comment répondrais-tu si on t'annonçait que les enfants ne sont pas invités ?
+mariages-occasions-033|Quelle serait ta première phrase si quelqu'un te reprochait d'être arrivé après le début de la cérémonie ?|Qu’est-ce que tu dirais si un invité voulait emprunter ta tenue pour une autre cérémonie ?
+mariages-occasions-034|Que dirais-tu si un invité critiquait le menu devant les mariés ?|Quels mots utiliserais-tu si un organisateur te demandait de raccourcir ton discours ?
+mariages-occasions-035|Que répondrais-tu si on te demandait de changer de table juste avant le repas ?|Comment répondrais-tu si un ami voulait partir avant le dessert ?
+mariages-occasions-036|Quelle serait ta première phrase si le DJ te demandait de proposer une chanson pour l'ouverture ?|Qu’est-ce que tu dirais si les mariés demandaient à tout le monde de ranger les téléphones ?
+mariages-occasions-037|Que dirais-tu si un ami voulait faire une annonce personnelle pendant un mariage ?|Quels mots utiliserais-tu si un invité annonçait venir accompagné sans avoir demandé ?
+mariages-occasions-038|Que répondrais-tu si un témoin te demandait de garder secrète une surprise ?|Comment répondrais-tu si les mariés te demandaient de faire un discours au dernier moment ?
+mariages-occasions-039|Quelle serait ta première phrase si une personne t'offrait un cadeau de remise de diplôme inattendu ?|Qu’est-ce que tu dirais si quelqu'un te proposait de porter du blanc à un mariage ?
+mariages-occasions-040|Que dirais-tu si un proche te demandait de participer à une danse surprise ?|Quels mots utiliserais-tu si un ami annulait sa présence la veille de la cérémonie ?
+mariages-occasions-041|Que répondrais-tu si on t'annonçait que les enfants ne sont pas invités ?|Comment répondrais-tu si un invité se plaignait de ne pas connaître les autres convives ?
+mariages-occasions-042|Quelle serait ta première phrase si un invité voulait emprunter ta tenue pour une autre cérémonie ?|Qu’est-ce que tu dirais si la personne qui se marie te demandait ton avis sur sa tenue ?
+mariages-occasions-043|Que dirais-tu si un organisateur te demandait de raccourcir ton discours ?|Quels mots utiliserais-tu si un proche disait que la réception est trop coûteuse ?
+mariages-occasions-044|Que répondrais-tu si un ami voulait partir avant le dessert ?|Comment répondrais-tu si quelqu'un te reprochait d'être arrivé après le début de la cérémonie ?
+mariages-occasions-045|Quelle serait ta première phrase si les mariés demandaient à tout le monde de ranger les téléphones ?|Qu’est-ce que tu dirais si un invité critiquait le menu devant les mariés ?
+mariages-occasions-046|Quelle serait ta première phrase si un invité annonçait venir accompagné sans avoir demandé ?|Qu’est-ce que tu dirais si on te demandait de changer de table juste avant le repas ?
+mariages-occasions-047|Que dirais-tu si les mariés te demandaient de faire un discours au dernier moment ?|Quels mots utiliserais-tu si le DJ te demandait de proposer une chanson pour l'ouverture ?
+mariages-occasions-048|Que répondrais-tu si quelqu'un te proposait de porter du blanc à un mariage ?|Comment répondrais-tu si un ami voulait faire une annonce personnelle pendant un mariage ?
+mariages-occasions-049|Quelle serait ta première phrase si un ami annulait sa présence la veille de la cérémonie ?|Qu’est-ce que tu dirais si un témoin te demandait de garder secrète une surprise ?
+mariages-occasions-050|Que dirais-tu si un invité se plaignait de ne pas connaître les autres convives ?|Quels mots utiliserais-tu si une personne t'offrait un cadeau de remise de diplôme inattendu ?
+mariages-occasions-051|Que ferais-tu en premier si la pluie commençait juste avant une cérémonie en extérieur ?|Que déciderais-tu de faire d’abord si ton train était supprimé le matin d'un mariage ?
+mariages-occasions-052|Quel serait ton premier réflexe si tu oubliais ton discours de témoin dans un taxi ?|Comment agirais-tu en premier si le bouquet réservé n'était pas prêt chez le fleuriste ?
+mariages-occasions-053|Par quoi commencerais-tu si le photographe avait une heure de retard à la réception ?|Quelle serait ta première action si une panne de son empêchait le début des discours ?
+mariages-occasions-054|Que ferais-tu en premier si le traiteur annonçait un changement de menu le matin même ?|Que déciderais-tu de faire d’abord si les alliances étaient introuvables cinq minutes avant la cérémonie ?
+mariages-occasions-055|Quel serait ton premier réflexe si ton costume se tachait avant l'entrée à la mairie ?|Comment agirais-tu en premier si un invité se sentait mal pendant la réception ?
+mariages-occasions-056|Par quoi commencerais-tu si un invité faisait tomber le gâteau de la réception ?|Quelle serait ta première action si la salle annonçait une limite d'horaire plus stricte ?
+mariages-occasions-057|Que ferais-tu en premier si tu perdais l'enveloppe contenant ton cadeau de mariage ?|Que déciderais-tu de faire d’abord si le discours préparé dépassait largement le temps prévu ?
+mariages-occasions-058|Quel serait ton premier réflexe si le DJ tombait malade le jour de la fête ?|Comment agirais-tu en premier si les décorations commandées arrivaient dans la mauvaise couleur ?
+mariages-occasions-059|Par quoi commencerais-tu si tu trouvais deux invités installés à la même place ?|Quelle serait ta première action si un enfant renversait un verre sur la nappe principale ?
+mariages-occasions-060|Que ferais-tu en premier si ton train était supprimé le matin d'un mariage ?|Que déciderais-tu de faire d’abord si la personne chargée des photos avait oublié sa batterie ?
+mariages-occasions-061|Quel serait ton premier réflexe si le bouquet réservé n'était pas prêt chez le fleuriste ?|Comment agirais-tu en premier si la réservation du brunch du lendemain était introuvable ?
+mariages-occasions-062|Par quoi commencerais-tu si une panne de son empêchait le début des discours ?|Quelle serait ta première action si la pluie commençait juste avant une cérémonie en extérieur ?
+mariages-occasions-063|Que ferais-tu en premier si les alliances étaient introuvables cinq minutes avant la cérémonie ?|Que déciderais-tu de faire d’abord si tu oubliais ton discours de témoin dans un taxi ?
+mariages-occasions-064|Quel serait ton premier réflexe si un invité se sentait mal pendant la réception ?|Comment agirais-tu en premier si le photographe avait une heure de retard à la réception ?
+mariages-occasions-065|Par quoi commencerais-tu si la salle annonçait une limite d'horaire plus stricte ?|Quelle serait ta première action si le traiteur annonçait un changement de menu le matin même ?
+mariages-occasions-066|Que ferais-tu en premier si le discours préparé dépassait largement le temps prévu ?|Que déciderais-tu de faire d’abord si ton costume se tachait avant l'entrée à la mairie ?
+mariages-occasions-067|Quel serait ton premier réflexe si les décorations commandées arrivaient dans la mauvaise couleur ?|Comment agirais-tu en premier si un invité faisait tomber le gâteau de la réception ?
+mariages-occasions-068|Par quoi commencerais-tu si un enfant renversait un verre sur la nappe principale ?|Quelle serait ta première action si tu perdais l'enveloppe contenant ton cadeau de mariage ?
+mariages-occasions-069|Que ferais-tu en premier si la personne chargée des photos avait oublié sa batterie ?|Que déciderais-tu de faire d’abord si le DJ tombait malade le jour de la fête ?
+mariages-occasions-070|Quel serait ton premier réflexe si la réservation du brunch du lendemain était introuvable ?|Comment agirais-tu en premier si tu trouvais deux invités installés à la même place ?
+mariages-occasions-071|Quel serait ton premier réflexe si la pluie commençait juste avant une cérémonie en extérieur ?|Comment agirais-tu en premier si ton train était supprimé le matin d'un mariage ?
+mariages-occasions-072|Par quoi commencerais-tu si tu oubliais ton discours de témoin dans un taxi ?|Quelle serait ta première action si le bouquet réservé n'était pas prêt chez le fleuriste ?
+mariages-occasions-073|Que ferais-tu en premier si le photographe avait une heure de retard à la réception ?|Que déciderais-tu de faire d’abord si une panne de son empêchait le début des discours ?
+mariages-occasions-074|Quel serait ton premier réflexe si le traiteur annonçait un changement de menu le matin même ?|Comment agirais-tu en premier si les alliances étaient introuvables cinq minutes avant la cérémonie ?
+mariages-occasions-075|Par quoi commencerais-tu si ton costume se tachait avant l'entrée à la mairie ?|Quelle serait ta première action si un invité se sentait mal pendant la réception ?
+mariages-occasions-076|Tu choisirais plutôt une cérémonie intime de vingt personnes ou une grande fête de cent invités ?|Si tu n’avais droit qu’à une option, tu prendrais un cadeau sur liste ou une enveloppe avec de l'argent ?
+mariages-occasions-077|Entre un mariage en été et un mariage en hiver, que préférerais-tu ?|Lequel des deux te tente le plus : un photographe discret ou une équipe photo-vidéo complète ?
+mariages-occasions-078|Si tu devais trancher, ce serait une réception à la campagne ou une réception en centre-ville ?|Tu privilégierais une décoration très sobre ou une décoration riche en fleurs ?
+mariages-occasions-079|Tu choisirais plutôt un buffet convivial ou un repas servi à table ?|Si tu n’avais droit qu’à une option, tu prendrais un mariage le samedi ou un mariage un vendredi ?
+mariages-occasions-080|Entre une tenue traditionnelle et une tenue très moderne, que préférerais-tu ?|Lequel des deux te tente le plus : une réception avec enfants ou une réception réservée aux adultes ?
+mariages-occasions-081|Si tu devais trancher, ce serait un groupe de musique live ou un DJ toute la soirée ?|Tu privilégierais un brunch le lendemain ou une soirée prolongée le jour même ?
+mariages-occasions-082|Tu choisirais plutôt un faire-part papier ou une invitation numérique ?|Si tu n’avais droit qu’à une option, tu prendrais une pièce montée ou un assortiment de desserts individuels ?
+mariages-occasions-083|Entre une cérémonie en extérieur et une cérémonie dans une belle salle, que préférerais-tu ?|Lequel des deux te tente le plus : un discours émouvant ou un discours plein d'humour ?
+mariages-occasions-084|Si tu devais trancher, ce serait une ouverture de bal préparée ou une danse improvisée ?|Tu privilégierais offrir une expérience aux mariés ou offrir un objet pour leur maison ?
+mariages-occasions-085|Tu choisirais plutôt un cadeau sur liste ou une enveloppe avec de l'argent ?|Si tu n’avais droit qu’à une option, tu prendrais un plan de table imposé ou un placement libre ?
+mariages-occasions-086|Entre un photographe discret et une équipe photo-vidéo complète, que préférerais-tu ?|Lequel des deux te tente le plus : une fête dans une salle historique ou une fête dans un jardin privé ?
+mariages-occasions-087|Si tu devais trancher, ce serait une décoration très sobre ou une décoration riche en fleurs ?|Tu privilégierais une cérémonie intime de vingt personnes ou une grande fête de cent invités ?
+mariages-occasions-088|Tu choisirais plutôt un mariage le samedi ou un mariage un vendredi ?|Si tu n’avais droit qu’à une option, tu prendrais un mariage en été ou un mariage en hiver ?
+mariages-occasions-089|Entre une réception avec enfants et une réception réservée aux adultes, que préférerais-tu ?|Lequel des deux te tente le plus : une réception à la campagne ou une réception en centre-ville ?
+mariages-occasions-090|Si tu devais trancher, ce serait un brunch le lendemain ou une soirée prolongée le jour même ?|Tu privilégierais un buffet convivial ou un repas servi à table ?
+mariages-occasions-091|Tu choisirais plutôt une pièce montée ou un assortiment de desserts individuels ?|Si tu n’avais droit qu’à une option, tu prendrais une tenue traditionnelle ou une tenue très moderne ?
+mariages-occasions-092|Entre un discours émouvant et un discours plein d'humour, que préférerais-tu ?|Lequel des deux te tente le plus : un groupe de musique live ou un DJ toute la soirée ?
+mariages-occasions-093|Si tu devais trancher, ce serait offrir une expérience aux mariés ou offrir un objet pour leur maison ?|Tu privilégierais un faire-part papier ou une invitation numérique ?
+mariages-occasions-094|Tu choisirais plutôt un plan de table imposé ou un placement libre ?|Si tu n’avais droit qu’à une option, tu prendrais une cérémonie en extérieur ou une cérémonie dans une belle salle ?
+mariages-occasions-095|Entre une fête dans une salle historique et une fête dans un jardin privé, que préférerais-tu ?|Lequel des deux te tente le plus : une ouverture de bal préparée ou une danse improvisée ?
+mariages-occasions-096|Entre une cérémonie intime de vingt personnes et une grande fête de cent invités, que préférerais-tu ?|Lequel des deux te tente le plus : un cadeau sur liste ou une enveloppe avec de l'argent ?
+mariages-occasions-097|Si tu devais trancher, ce serait un mariage en été ou un mariage en hiver ?|Tu privilégierais un photographe discret ou une équipe photo-vidéo complète ?
+mariages-occasions-098|Tu choisirais plutôt une réception à la campagne ou une réception en centre-ville ?|Si tu n’avais droit qu’à une option, tu prendrais une décoration très sobre ou une décoration riche en fleurs ?
+mariages-occasions-099|Entre un buffet convivial et un repas servi à table, que préférerais-tu ?|Lequel des deux te tente le plus : un mariage le samedi ou un mariage un vendredi ?
+mariages-occasions-100|Si tu devais trancher, ce serait une tenue traditionnelle ou une tenue très moderne ?|Tu privilégierais une réception avec enfants ou une réception réservée aux adultes ?
+mariages-occasions-101|Combien de minutes te faudrait-il pour préparer un discours de témoin de trois minutes ?|Quel temps, en minutes, prévoirais-tu pour trouver un itinéraire vers une salle de mariage ?
+mariages-occasions-102|Tu passerais combien de minutes à choisir une tenue pour un mariage champêtre ?|Tu mettrais combien de minutes à préparer un sac pour une cérémonie qui dure toute la journée ?
+mariages-occasions-103|Combien de minutes consacrerais-tu à écrire un mot dans un livre d'or ?|En général, combien de minutes prendrais-tu pour se faire coiffer avant une réception ?
+mariages-occasions-104|Combien de minutes te faudrait-il pour choisir un cadeau sur une liste de mariage ?|Quel temps, en minutes, prévoirais-tu pour choisir des fleurs pour un petit centre de table ?
+mariages-occasions-105|Tu passerais combien de minutes à se préparer avant une cérémonie en début d'après-midi ?|Tu mettrais combien de minutes à installer des décorations dans une salle ?
+mariages-occasions-106|Combien de minutes consacrerais-tu à faire un plan de table pour vingt invités ?|En général, combien de minutes prendrais-tu pour accueillir les invités d'une cérémonie de diplôme ?
+mariages-occasions-107|Combien de minutes te faudrait-il pour choisir les chansons d'entrée d'une réception ?|Quel temps, en minutes, prévoirais-tu pour écrire une invitation à une fête de fiançailles ?
+mariages-occasions-108|Tu passerais combien de minutes à organiser une séance photo de famille ?|Tu mettrais combien de minutes à choisir la formule d'un menu de fête ?
+mariages-occasions-109|Combien de minutes consacrerais-tu à rédiger un message de félicitations à des mariés ?|En général, combien de minutes prendrais-tu pour décorer une voiture de cérémonie ?
+mariages-occasions-110|Combien de minutes te faudrait-il pour trouver un itinéraire vers une salle de mariage ?|Quel temps, en minutes, prévoirais-tu pour mettre en place un coin photo pour les invités ?
+mariages-occasions-111|Tu passerais combien de minutes à préparer un sac pour une cérémonie qui dure toute la journée ?|Tu mettrais combien de minutes à répéter une courte intervention au micro ?
+mariages-occasions-112|Combien de minutes consacrerais-tu à se faire coiffer avant une réception ?|En général, combien de minutes prendrais-tu pour préparer un discours de témoin de trois minutes ?
+mariages-occasions-113|Combien de minutes te faudrait-il pour choisir des fleurs pour un petit centre de table ?|Quel temps, en minutes, prévoirais-tu pour choisir une tenue pour un mariage champêtre ?
+mariages-occasions-114|Tu passerais combien de minutes à installer des décorations dans une salle ?|Tu mettrais combien de minutes à écrire un mot dans un livre d'or ?
+mariages-occasions-115|Combien de minutes consacrerais-tu à accueillir les invités d'une cérémonie de diplôme ?|En général, combien de minutes prendrais-tu pour choisir un cadeau sur une liste de mariage ?
+mariages-occasions-116|Combien de minutes te faudrait-il pour écrire une invitation à une fête de fiançailles ?|Quel temps, en minutes, prévoirais-tu pour se préparer avant une cérémonie en début d'après-midi ?
+mariages-occasions-117|Tu passerais combien de minutes à choisir la formule d'un menu de fête ?|Tu mettrais combien de minutes à faire un plan de table pour vingt invités ?
+mariages-occasions-118|Combien de minutes consacrerais-tu à décorer une voiture de cérémonie ?|En général, combien de minutes prendrais-tu pour choisir les chansons d'entrée d'une réception ?
+mariages-occasions-119|Combien de minutes te faudrait-il pour mettre en place un coin photo pour les invités ?|Quel temps, en minutes, prévoirais-tu pour organiser une séance photo de famille ?
+mariages-occasions-120|Tu passerais combien de minutes à répéter une courte intervention au micro ?|Tu mettrais combien de minutes à rédiger un message de félicitations à des mariés ?
+mariages-occasions-121|Tu passerais combien de minutes à préparer un discours de témoin de trois minutes ?|Tu mettrais combien de minutes à trouver un itinéraire vers une salle de mariage ?
+mariages-occasions-122|Combien de minutes consacrerais-tu à choisir une tenue pour un mariage champêtre ?|En général, combien de minutes prendrais-tu pour préparer un sac pour une cérémonie qui dure toute la journée ?
+mariages-occasions-123|Combien de minutes te faudrait-il pour écrire un mot dans un livre d'or ?|Quel temps, en minutes, prévoirais-tu pour se faire coiffer avant une réception ?
+mariages-occasions-124|Tu passerais combien de minutes à choisir un cadeau sur une liste de mariage ?|Tu mettrais combien de minutes à choisir des fleurs pour un petit centre de table ?
+mariages-occasions-125|Combien de minutes consacrerais-tu à se préparer avant une cérémonie en début d'après-midi ?|En général, combien de minutes prendrais-tu pour installer des décorations dans une salle ?
+mariages-occasions-126|À qui demanderais-tu conseil pour préparer un discours de témoin original ?|Qui appellerais-tu pour trouver un bon DJ pour une fête familiale ?
+mariages-occasions-127|Qui contacterais-tu en priorité pour connaître la tenue attendue pour une cérémonie ?|À qui demanderais-tu un avis pour garder les enfants pendant les discours ?
+mariages-occasions-128|Vers qui te tournerais-tu pour trouver un photographe fiable pour un mariage ?|À quelle personne parlerais-tu d’abord pour vérifier les horaires d'une cérémonie religieuse ?
+mariages-occasions-129|À qui demanderais-tu conseil pour organiser le transport des invités sans voiture ?|Qui appellerais-tu pour choisir une musique pour l'entrée des mariés ?
+mariages-occasions-130|Qui contacterais-tu en priorité pour choisir le bon vin pour un repas de fête ?|À qui demanderais-tu un avis pour demander des conseils pour un plan de table délicat ?
+mariages-occasions-131|Vers qui te tournerais-tu pour réserver un fleuriste spécialisé dans les mariages ?|À quelle personne parlerais-tu d’abord pour trouver une solution de repli en cas de pluie ?
+mariages-occasions-132|À qui demanderais-tu conseil pour trouver une salle pour une remise de diplôme ?|Qui appellerais-tu pour choisir un costume adapté à une cérémonie estivale ?
+mariages-occasions-133|Qui contacterais-tu en priorité pour organiser une décoration florale avec un petit budget ?|À qui demanderais-tu un avis pour gérer l'arrivée d'invités venant de loin ?
+mariages-occasions-134|Vers qui te tournerais-tu pour connaître les allergies des invités avant la réception ?|À quelle personne parlerais-tu d’abord pour préparer une surprise aux futurs mariés ?
+mariages-occasions-135|À qui demanderais-tu conseil pour trouver un bon DJ pour une fête familiale ?|Qui appellerais-tu pour coordonner le repas pour une fête de famille ?
+mariages-occasions-136|Qui contacterais-tu en priorité pour garder les enfants pendant les discours ?|À qui demanderais-tu un avis pour préparer un brunch le lendemain d'un mariage ?
+mariages-occasions-137|Vers qui te tournerais-tu pour vérifier les horaires d'une cérémonie religieuse ?|À quelle personne parlerais-tu d’abord pour préparer un discours de témoin original ?
+mariages-occasions-138|À qui demanderais-tu conseil pour choisir une musique pour l'entrée des mariés ?|Qui appellerais-tu pour connaître la tenue attendue pour une cérémonie ?
+mariages-occasions-139|Qui contacterais-tu en priorité pour demander des conseils pour un plan de table délicat ?|À qui demanderais-tu un avis pour trouver un photographe fiable pour un mariage ?
+mariages-occasions-140|Vers qui te tournerais-tu pour trouver une solution de repli en cas de pluie ?|À quelle personne parlerais-tu d’abord pour organiser le transport des invités sans voiture ?
+mariages-occasions-141|À qui demanderais-tu conseil pour choisir un costume adapté à une cérémonie estivale ?|Qui appellerais-tu pour choisir le bon vin pour un repas de fête ?
+mariages-occasions-142|Qui contacterais-tu en priorité pour gérer l'arrivée d'invités venant de loin ?|À qui demanderais-tu un avis pour réserver un fleuriste spécialisé dans les mariages ?
+mariages-occasions-143|Vers qui te tournerais-tu pour préparer une surprise aux futurs mariés ?|À quelle personne parlerais-tu d’abord pour trouver une salle pour une remise de diplôme ?
+mariages-occasions-144|À qui demanderais-tu conseil pour coordonner le repas pour une fête de famille ?|Qui appellerais-tu pour organiser une décoration florale avec un petit budget ?
+mariages-occasions-145|Qui contacterais-tu en priorité pour préparer un brunch le lendemain d'un mariage ?|À qui demanderais-tu un avis pour connaître les allergies des invités avant la réception ?
+mariages-occasions-146|Qui contacterais-tu en priorité pour préparer un discours de témoin original ?|À qui demanderais-tu un avis pour trouver un bon DJ pour une fête familiale ?
+mariages-occasions-147|Vers qui te tournerais-tu pour connaître la tenue attendue pour une cérémonie ?|À quelle personne parlerais-tu d’abord pour garder les enfants pendant les discours ?
+mariages-occasions-148|À qui demanderais-tu conseil pour trouver un photographe fiable pour un mariage ?|Qui appellerais-tu pour vérifier les horaires d'une cérémonie religieuse ?
+mariages-occasions-149|Qui contacterais-tu en priorité pour organiser le transport des invités sans voiture ?|À qui demanderais-tu un avis pour choisir une musique pour l'entrée des mariés ?
+mariages-occasions-150|Vers qui te tournerais-tu pour choisir le bon vin pour un repas de fête ?|À quelle personne parlerais-tu d’abord pour demander des conseils pour un plan de table délicat ?
+mariages-occasions-151|Où irais-tu pour organiser une réception familiale de trente personnes ?|Dans quel lieu voudrais-tu acheter des fleurs fraîches pour une réception ?
+mariages-occasions-152|Dans quel endroit préférerais-tu célébrer un mariage civil en petit comité ?|À quel endroit déciderais-tu de héberger des invités venus de province ?
+mariages-occasions-153|Dans quel lieu aimerais-tu prendre des photos de cérémonie en cas de pluie ?|Où choisirais-tu de prononcer un discours sans déranger les autres ?
+mariages-occasions-154|Où irais-tu pour accueillir un brunch pour des invités le lendemain ?|Dans quel lieu voudrais-tu faire danser un groupe de soixante personnes ?
+mariages-occasions-155|Dans quel endroit préférerais-tu trouver une robe de soirée avec retouches ?|À quel endroit déciderais-tu de célébrer une remise de diplôme avec ses proches ?
+mariages-occasions-156|Dans quel lieu aimerais-tu faire un essai de coiffure avant le mariage ?|Où choisirais-tu d’organiser une cérémonie symbolique en plein air ?
+mariages-occasions-157|Où irais-tu pour organiser une séance photo de fiançailles ?|Dans quel lieu voudrais-tu préparer une réception de mariage en hiver ?
+mariages-occasions-158|Dans quel endroit préférerais-tu réunir des amis pour un enterrement de vie de célibataire ?|À quel endroit déciderais-tu d’installer un coin photo pour les invités ?
+mariages-occasions-159|Dans quel lieu aimerais-tu commander un gâteau pour cinquante invités ?|Où choisirais-tu de goûter plusieurs menus avant une réservation ?
+mariages-occasions-160|Où irais-tu pour acheter des fleurs fraîches pour une réception ?|Dans quel lieu voudrais-tu faire retoucher un costume acheté en ligne ?
+mariages-occasions-161|Dans quel endroit préférerais-tu héberger des invités venus de province ?|À quel endroit déciderais-tu de célébrer un anniversaire de mariage important ?
+mariages-occasions-162|Dans quel lieu aimerais-tu prononcer un discours sans déranger les autres ?|Où choisirais-tu d’organiser une réception familiale de trente personnes ?
+mariages-occasions-163|Où irais-tu pour faire danser un groupe de soixante personnes ?|Dans quel lieu voudrais-tu célébrer un mariage civil en petit comité ?
+mariages-occasions-164|Dans quel endroit préférerais-tu célébrer une remise de diplôme avec ses proches ?|À quel endroit déciderais-tu de prendre des photos de cérémonie en cas de pluie ?
+mariages-occasions-165|Dans quel lieu aimerais-tu organiser une cérémonie symbolique en plein air ?|Où choisirais-tu d’accueillir un brunch pour des invités le lendemain ?
+mariages-occasions-166|Où irais-tu pour préparer une réception de mariage en hiver ?|Dans quel lieu voudrais-tu trouver une robe de soirée avec retouches ?
+mariages-occasions-167|Dans quel endroit préférerais-tu installer un coin photo pour les invités ?|À quel endroit déciderais-tu de faire un essai de coiffure avant le mariage ?
+mariages-occasions-168|Dans quel lieu aimerais-tu goûter plusieurs menus avant une réservation ?|Où choisirais-tu d’organiser une séance photo de fiançailles ?
+mariages-occasions-169|Où irais-tu pour faire retoucher un costume acheté en ligne ?|Dans quel lieu voudrais-tu réunir des amis pour un enterrement de vie de célibataire ?
+mariages-occasions-170|Dans quel endroit préférerais-tu célébrer un anniversaire de mariage important ?|À quel endroit déciderais-tu de commander un gâteau pour cinquante invités ?
+mariages-occasions-171|Dans quel endroit préférerais-tu organiser une réception familiale de trente personnes ?|À quel endroit déciderais-tu d’acheter des fleurs fraîches pour une réception ?
+mariages-occasions-172|Dans quel lieu aimerais-tu célébrer un mariage civil en petit comité ?|Où choisirais-tu de héberger des invités venus de province ?
+mariages-occasions-173|Où irais-tu pour prendre des photos de cérémonie en cas de pluie ?|Dans quel lieu voudrais-tu prononcer un discours sans déranger les autres ?
+mariages-occasions-174|Dans quel endroit préférerais-tu accueillir un brunch pour des invités le lendemain ?|À quel endroit déciderais-tu de faire danser un groupe de soixante personnes ?
+mariages-occasions-175|Dans quel lieu aimerais-tu trouver une robe de soirée avec retouches ?|Où choisirais-tu de célébrer une remise de diplôme avec ses proches ?
+mariages-occasions-176|Quel objet emporterais-tu pour tenir un discours sans perdre le fil ?|Quel accessoire utiliserais-tu pour faire une surprise pendant un dîner de fête ?
+mariages-occasions-177|Quel accessoire choisirais-tu pour conserver les souvenirs d'une réception ?|Avec quel objet voudrais-tu décorer des tables sans gêner les convives ?
+mariages-occasions-178|Quel objet te semblerait indispensable pour organiser les places lors d'un repas de mariage ?|Quel objet prendrais-tu en priorité pour diffuser des photos souvenirs sur un écran ?
+mariages-occasions-179|Quel objet emporterais-tu pour occuper de jeunes enfants pendant les discours ?|Quel accessoire utiliserais-tu pour transporter plusieurs bouquets de fleurs ?
+mariages-occasions-180|Quel accessoire choisirais-tu pour réparer une petite déchirure de tenue avant une cérémonie ?|Avec quel objet voudrais-tu remettre un cadeau de groupe pendant une fête ?
+mariages-occasions-181|Quel objet te semblerait indispensable pour afficher le menu à l'entrée d'une salle ?|Quel objet prendrais-tu en priorité pour enregistrer un discours important ?
+mariages-occasions-182|Quel objet emporterais-tu pour recueillir les messages des invités ?|Quel accessoire utiliserais-tu pour guider les invités vers une salle de réception ?
+mariages-occasions-183|Quel accessoire choisirais-tu pour transporter un gâteau fragile en voiture ?|Avec quel objet voudrais-tu préparer un coin photo pour les invités ?
+mariages-occasions-184|Quel objet te semblerait indispensable pour protéger une tenue de cérémonie de la pluie ?|Quel objet prendrais-tu en priorité pour ranger les alliances en lieu sûr avant la cérémonie ?
+mariages-occasions-185|Quel objet emporterais-tu pour faire une surprise pendant un dîner de fête ?|Quel accessoire utiliserais-tu pour identifier les places à table ?
+mariages-occasions-186|Quel accessoire choisirais-tu pour décorer des tables sans gêner les convives ?|Avec quel objet voudrais-tu garder une paire de chaussures de rechange pendant la soirée ?
+mariages-occasions-187|Quel objet te semblerait indispensable pour diffuser des photos souvenirs sur un écran ?|Quel objet prendrais-tu en priorité pour tenir un discours sans perdre le fil ?
+mariages-occasions-188|Quel objet emporterais-tu pour transporter plusieurs bouquets de fleurs ?|Quel accessoire utiliserais-tu pour conserver les souvenirs d'une réception ?
+mariages-occasions-189|Quel accessoire choisirais-tu pour remettre un cadeau de groupe pendant une fête ?|Avec quel objet voudrais-tu organiser les places lors d'un repas de mariage ?
+mariages-occasions-190|Quel objet te semblerait indispensable pour enregistrer un discours important ?|Quel objet prendrais-tu en priorité pour occuper de jeunes enfants pendant les discours ?
+mariages-occasions-191|Quel objet emporterais-tu pour guider les invités vers une salle de réception ?|Quel accessoire utiliserais-tu pour réparer une petite déchirure de tenue avant une cérémonie ?
+mariages-occasions-192|Quel accessoire choisirais-tu pour préparer un coin photo pour les invités ?|Avec quel objet voudrais-tu afficher le menu à l'entrée d'une salle ?
+mariages-occasions-193|Quel objet te semblerait indispensable pour ranger les alliances en lieu sûr avant la cérémonie ?|Quel objet prendrais-tu en priorité pour recueillir les messages des invités ?
+mariages-occasions-194|Quel objet emporterais-tu pour identifier les places à table ?|Quel accessoire utiliserais-tu pour transporter un gâteau fragile en voiture ?
+mariages-occasions-195|Quel accessoire choisirais-tu pour garder une paire de chaussures de rechange pendant la soirée ?|Avec quel objet voudrais-tu protéger une tenue de cérémonie de la pluie ?
+mariages-occasions-196|Quel accessoire choisirais-tu pour tenir un discours sans perdre le fil ?|Avec quel objet voudrais-tu faire une surprise pendant un dîner de fête ?
+mariages-occasions-197|Quel objet te semblerait indispensable pour conserver les souvenirs d'une réception ?|Quel objet prendrais-tu en priorité pour décorer des tables sans gêner les convives ?
+mariages-occasions-198|Quel objet emporterais-tu pour organiser les places lors d'un repas de mariage ?|Quel accessoire utiliserais-tu pour diffuser des photos souvenirs sur un écran ?
+mariages-occasions-199|Quel accessoire choisirais-tu pour occuper de jeunes enfants pendant les discours ?|Avec quel objet voudrais-tu transporter plusieurs bouquets de fleurs ?
+mariages-occasions-200|Quel objet te semblerait indispensable pour réparer une petite déchirure de tenue avant une cérémonie ?|Quel objet prendrais-tu en priorité pour remettre un cadeau de groupe pendant une fête ?
+restaurants-service-001|Quel prix maximum paierais-tu pour un menu déjeuner entrée-plat dans une brasserie parisienne ?|Quel prix te semblerait raisonnable pour une grande salade composée pour un déjeuner ?
+restaurants-service-002|Combien serais-tu prêt à dépenser pour une pizza margherita dans un restaurant italien ?|En euros, quel serait ton plafond pour un plat de pâtes fraîches dans une trattoria ?
+restaurants-service-003|Quel budget prévoirais-tu pour un burger avec frites dans un restaurant de quartier ?|À partir de quel prix trouverais-tu un dîner à deux avec plat et dessert sans alcool trop cher ?
+restaurants-service-004|Quel prix maximum paierais-tu pour un café allongé servi en terrasse dans le centre de Paris ?|Quel prix te semblerait raisonnable pour un plateau de sushis de vingt pièces ?
+restaurants-service-005|Combien serais-tu prêt à dépenser pour une formule brunch complète pour une personne ?|En euros, quel serait ton plafond pour une soupe et un sandwich dans un café ?
+restaurants-service-006|Quel budget prévoirais-tu pour un menu dégustation de cinq plats sans boissons ?|À partir de quel prix trouverais-tu une coupe de glace avec trois parfums en terrasse trop cher ?
+restaurants-service-007|Quel prix maximum paierais-tu pour la livraison à domicile de deux plats chauds ?|Quel prix te semblerait raisonnable pour une portion de frites maison à partager ?
+restaurants-service-008|Combien serais-tu prêt à dépenser pour une bouteille d'eau pétillante d'un litre au restaurant ?|En euros, quel serait ton plafond pour un steak végétal avec accompagnement au restaurant ?
+restaurants-service-009|Quel budget prévoirais-tu pour un dessert maison dans une brasserie ?|À partir de quel prix trouverais-tu une formule petit-déjeuner avec boisson chaude et viennoiserie trop cher ?
+restaurants-service-010|Quel prix maximum paierais-tu pour une grande salade composée pour un déjeuner ?|Quel prix te semblerait raisonnable pour une assiette de poisson du jour avec légumes ?
+restaurants-service-011|Combien serais-tu prêt à dépenser pour un plat de pâtes fraîches dans une trattoria ?|En euros, quel serait ton plafond pour un repas à emporter pour deux personnes ?
+restaurants-service-012|Quel budget prévoirais-tu pour un dîner à deux avec plat et dessert sans alcool ?|À partir de quel prix trouverais-tu un menu déjeuner entrée-plat dans une brasserie parisienne trop cher ?
+restaurants-service-013|Quel prix maximum paierais-tu pour un plateau de sushis de vingt pièces ?|Quel prix te semblerait raisonnable pour une pizza margherita dans un restaurant italien ?
+restaurants-service-014|Combien serais-tu prêt à dépenser pour une soupe et un sandwich dans un café ?|En euros, quel serait ton plafond pour un burger avec frites dans un restaurant de quartier ?
+restaurants-service-015|Quel budget prévoirais-tu pour une coupe de glace avec trois parfums en terrasse ?|À partir de quel prix trouverais-tu un café allongé servi en terrasse dans le centre de Paris trop cher ?
+restaurants-service-016|Quel prix maximum paierais-tu pour une portion de frites maison à partager ?|Quel prix te semblerait raisonnable pour une formule brunch complète pour une personne ?
+restaurants-service-017|Combien serais-tu prêt à dépenser pour un steak végétal avec accompagnement au restaurant ?|En euros, quel serait ton plafond pour un menu dégustation de cinq plats sans boissons ?
+restaurants-service-018|Quel budget prévoirais-tu pour une formule petit-déjeuner avec boisson chaude et viennoiserie ?|À partir de quel prix trouverais-tu la livraison à domicile de deux plats chauds trop cher ?
+restaurants-service-019|Quel prix maximum paierais-tu pour une assiette de poisson du jour avec légumes ?|Quel prix te semblerait raisonnable pour une bouteille d'eau pétillante d'un litre au restaurant ?
+restaurants-service-020|Combien serais-tu prêt à dépenser pour un repas à emporter pour deux personnes ?|En euros, quel serait ton plafond pour un dessert maison dans une brasserie ?
+restaurants-service-021|Combien serais-tu prêt à dépenser pour un menu déjeuner entrée-plat dans une brasserie parisienne ?|En euros, quel serait ton plafond pour une grande salade composée pour un déjeuner ?
+restaurants-service-022|Quel budget prévoirais-tu pour une pizza margherita dans un restaurant italien ?|À partir de quel prix trouverais-tu un plat de pâtes fraîches dans une trattoria trop cher ?
+restaurants-service-023|Quel prix maximum paierais-tu pour un burger avec frites dans un restaurant de quartier ?|Quel prix te semblerait raisonnable pour un dîner à deux avec plat et dessert sans alcool ?
+restaurants-service-024|Combien serais-tu prêt à dépenser pour un café allongé servi en terrasse dans le centre de Paris ?|En euros, quel serait ton plafond pour un plateau de sushis de vingt pièces ?
+restaurants-service-025|Quel budget prévoirais-tu pour une formule brunch complète pour une personne ?|À partir de quel prix trouverais-tu une soupe et un sandwich dans un café trop cher ?
+restaurants-service-026|Que répondrais-tu si le serveur apportait un plat différent de ta commande ?|Comment répondrais-tu si un vendeur te demandait de payer deux fois le même article ?
+restaurants-service-027|Quelle serait ta première phrase si un restaurateur t'annonçait une attente d'une heure sans prévenir ?|Qu’est-ce que tu dirais si le livreur déposait une commande devant la mauvaise porte ?
+restaurants-service-028|Que dirais-tu si le serveur te facturait un dessert que tu n'as pas pris ?|Quels mots utiliserais-tu si un commerçant refusait d'appliquer un prix affiché ?
+restaurants-service-029|Que répondrais-tu si le café servi était complètement froid ?|Comment répondrais-tu si un serveur te disait que la terrasse ferme dans dix minutes ?
+restaurants-service-030|Quelle serait ta première phrase si un employé te demandait de libérer la table avant le dessert ?|Qu’est-ce que tu dirais si le personnel annonçait que ta réservation n'existe pas ?
+restaurants-service-031|Que dirais-tu si le serveur t'annonçait la rupture du plat que tu avais choisi ?|Quels mots utiliserais-tu si un employé te demandait de refaire une longue file malgré ton ticket ?
+restaurants-service-032|Que répondrais-tu si un restaurateur refusait un remboursement après une erreur manifeste ?|Comment répondrais-tu si le restaurant t'offrait un dessert pour s'excuser d'un retard ?
+restaurants-service-033|Quelle serait ta première phrase si le personnel oubliait l'allergie signalée avant la commande ?|Qu’est-ce que tu dirais si un serveur renversait un peu d'eau sur ton manteau ?
+restaurants-service-034|Que dirais-tu si un serveur te proposait un supplément non demandé ?|Quels mots utiliserais-tu si le restaurateur t'annonçait un menu différent de celui publié en ligne ?
+restaurants-service-035|Que répondrais-tu si un vendeur te demandait de payer deux fois le même article ?|Comment répondrais-tu si un vendeur affirmait qu'un produit défectueux est « normal » ?
+restaurants-service-036|Quelle serait ta première phrase si le livreur déposait une commande devant la mauvaise porte ?|Qu’est-ce que tu dirais si un serveur te demandait un avis alors que tu n'as pas aimé le plat ?
+restaurants-service-037|Que dirais-tu si un commerçant refusait d'appliquer un prix affiché ?|Quels mots utiliserais-tu si le serveur apportait un plat différent de ta commande ?
+restaurants-service-038|Que répondrais-tu si un serveur te disait que la terrasse ferme dans dix minutes ?|Comment répondrais-tu si un restaurateur t'annonçait une attente d'une heure sans prévenir ?
+restaurants-service-039|Quelle serait ta première phrase si le personnel annonçait que ta réservation n'existe pas ?|Qu’est-ce que tu dirais si le serveur te facturait un dessert que tu n'as pas pris ?
+restaurants-service-040|Que dirais-tu si un employé te demandait de refaire une longue file malgré ton ticket ?|Quels mots utiliserais-tu si le café servi était complètement froid ?
+restaurants-service-041|Que répondrais-tu si le restaurant t'offrait un dessert pour s'excuser d'un retard ?|Comment répondrais-tu si un employé te demandait de libérer la table avant le dessert ?
+restaurants-service-042|Quelle serait ta première phrase si un serveur renversait un peu d'eau sur ton manteau ?|Qu’est-ce que tu dirais si le serveur t'annonçait la rupture du plat que tu avais choisi ?
+restaurants-service-043|Que dirais-tu si le restaurateur t'annonçait un menu différent de celui publié en ligne ?|Quels mots utiliserais-tu si un restaurateur refusait un remboursement après une erreur manifeste ?
+restaurants-service-044|Que répondrais-tu si un vendeur affirmait qu'un produit défectueux est « normal » ?|Comment répondrais-tu si le personnel oubliait l'allergie signalée avant la commande ?
+restaurants-service-045|Quelle serait ta première phrase si un serveur te demandait un avis alors que tu n'as pas aimé le plat ?|Qu’est-ce que tu dirais si un serveur te proposait un supplément non demandé ?
+restaurants-service-046|Quelle serait ta première phrase si le serveur apportait un plat différent de ta commande ?|Qu’est-ce que tu dirais si un vendeur te demandait de payer deux fois le même article ?
+restaurants-service-047|Que dirais-tu si un restaurateur t'annonçait une attente d'une heure sans prévenir ?|Quels mots utiliserais-tu si le livreur déposait une commande devant la mauvaise porte ?
+restaurants-service-048|Que répondrais-tu si le serveur te facturait un dessert que tu n'as pas pris ?|Comment répondrais-tu si un commerçant refusait d'appliquer un prix affiché ?
+restaurants-service-049|Quelle serait ta première phrase si le café servi était complètement froid ?|Qu’est-ce que tu dirais si un serveur te disait que la terrasse ferme dans dix minutes ?
+restaurants-service-050|Que dirais-tu si un employé te demandait de libérer la table avant le dessert ?|Quels mots utiliserais-tu si le personnel annonçait que ta réservation n'existe pas ?
+restaurants-service-051|Que ferais-tu en premier si tu découvrais un cheveu dans ton plat au restaurant ?|Que déciderais-tu de faire d’abord si tu remarquais une erreur de prix à la caisse du supermarché ?
+restaurants-service-052|Quel serait ton premier réflexe si ta commande livrée ne contenait pas le dessert payé ?|Comment agirais-tu en premier si ton repas commandé sans un ingrédient en contenait finalement ?
+restaurants-service-053|Par quoi commencerais-tu si tu arrivais et le restaurant avait perdu ta réservation ?|Quelle serait ta première action si le restaurant était complet malgré une confirmation par e-mail ?
+restaurants-service-054|Que ferais-tu en premier si l'addition comprenait quatre boissons au lieu de deux ?|Que déciderais-tu de faire d’abord si un serveur apportait le plat principal avant l'entrée ?
+restaurants-service-055|Quel serait ton premier réflexe si ton plat arrivait froid après quarante minutes d'attente ?|Comment agirais-tu en premier si ton café à emporter se renversait à cause d'un couvercle mal fermé ?
+restaurants-service-056|Par quoi commencerais-tu si un restaurant annonçait n'accepter que les espèces après le repas ?|Quelle serait ta première action si ton ticket de caisse révélait une réduction oubliée ?
+restaurants-service-057|Que ferais-tu en premier si tu recevais un produit cassé dans un colis neuf ?|Que déciderais-tu de faire d’abord si une livraison arrivait avec une heure de retard ?
+restaurants-service-058|Quel serait ton premier réflexe si ton colis était indiqué livré alors que tu n'as rien reçu ?|Comment agirais-tu en premier si tu constatais que la date limite d'un produit acheté est dépassée ?
+restaurants-service-059|Par quoi commencerais-tu si le terminal de paiement affichait deux fois la transaction ?|Quelle serait ta première action si le serveur t'annonçait une mauvaise note de table sur l'addition ?
+restaurants-service-060|Que ferais-tu en premier si tu remarquais une erreur de prix à la caisse du supermarché ?|Que déciderais-tu de faire d’abord si un commerçant retrouvait ton portefeuille oublié la veille ?
+restaurants-service-061|Quel serait ton premier réflexe si ton repas commandé sans un ingrédient en contenait finalement ?|Comment agirais-tu en premier si la carte annonçait un plat qui n'est finalement plus disponible ?
+restaurants-service-062|Par quoi commencerais-tu si le restaurant était complet malgré une confirmation par e-mail ?|Quelle serait ta première action si tu découvrais un cheveu dans ton plat au restaurant ?
+restaurants-service-063|Que ferais-tu en premier si un serveur apportait le plat principal avant l'entrée ?|Que déciderais-tu de faire d’abord si ta commande livrée ne contenait pas le dessert payé ?
+restaurants-service-064|Quel serait ton premier réflexe si ton café à emporter se renversait à cause d'un couvercle mal fermé ?|Comment agirais-tu en premier si tu arrivais et le restaurant avait perdu ta réservation ?
+restaurants-service-065|Par quoi commencerais-tu si ton ticket de caisse révélait une réduction oubliée ?|Quelle serait ta première action si l'addition comprenait quatre boissons au lieu de deux ?
+restaurants-service-066|Que ferais-tu en premier si une livraison arrivait avec une heure de retard ?|Que déciderais-tu de faire d’abord si ton plat arrivait froid après quarante minutes d'attente ?
+restaurants-service-067|Quel serait ton premier réflexe si tu constatais que la date limite d'un produit acheté est dépassée ?|Comment agirais-tu en premier si un restaurant annonçait n'accepter que les espèces après le repas ?
+restaurants-service-068|Par quoi commencerais-tu si le serveur t'annonçait une mauvaise note de table sur l'addition ?|Quelle serait ta première action si tu recevais un produit cassé dans un colis neuf ?
+restaurants-service-069|Que ferais-tu en premier si un commerçant retrouvait ton portefeuille oublié la veille ?|Que déciderais-tu de faire d’abord si ton colis était indiqué livré alors que tu n'as rien reçu ?
+restaurants-service-070|Quel serait ton premier réflexe si la carte annonçait un plat qui n'est finalement plus disponible ?|Comment agirais-tu en premier si le terminal de paiement affichait deux fois la transaction ?
+restaurants-service-071|Quel serait ton premier réflexe si tu découvrais un cheveu dans ton plat au restaurant ?|Comment agirais-tu en premier si tu remarquais une erreur de prix à la caisse du supermarché ?
+restaurants-service-072|Par quoi commencerais-tu si ta commande livrée ne contenait pas le dessert payé ?|Quelle serait ta première action si ton repas commandé sans un ingrédient en contenait finalement ?
+restaurants-service-073|Que ferais-tu en premier si tu arrivais et le restaurant avait perdu ta réservation ?|Que déciderais-tu de faire d’abord si le restaurant était complet malgré une confirmation par e-mail ?
+restaurants-service-074|Quel serait ton premier réflexe si l'addition comprenait quatre boissons au lieu de deux ?|Comment agirais-tu en premier si un serveur apportait le plat principal avant l'entrée ?
+restaurants-service-075|Par quoi commencerais-tu si ton plat arrivait froid après quarante minutes d'attente ?|Quelle serait ta première action si ton café à emporter se renversait à cause d'un couvercle mal fermé ?
+restaurants-service-076|Tu choisirais plutôt un très bon petit restaurant bruyant ou un restaurant calme mais ordinaire ?|Si tu n’avais droit qu’à une option, tu prendrais un restaurant connu ou une petite adresse peu fréquentée ?
+restaurants-service-077|Entre une terrasse ensoleillée et une salle confortable climatisée, que préférerais-tu ?|Lequel des deux te tente le plus : un menu court qui change souvent ou une grande carte permanente ?
+restaurants-service-078|Si tu devais trancher, ce serait un menu du jour ou choisir à la carte ?|Tu privilégierais un serveur qui conseille beaucoup ou un serveur qui laisse choisir tranquillement ?
+restaurants-service-079|Tu choisirais plutôt un service très rapide ou un service plus attentionné ?|Si tu n’avais droit qu’à une option, tu prendrais une pizzeria traditionnelle ou un restaurant de pâtes fraîches ?
+restaurants-service-080|Entre manger sur place et prendre à emporter, que préférerais-tu ?|Lequel des deux te tente le plus : payer en caisse ou régler directement à table ?
+restaurants-service-081|Si tu devais trancher, ce serait une cuisine ouverte ou une cuisine cachée ?|Tu privilégierais une table près de la fenêtre ou une table au fond de la salle ?
+restaurants-service-082|Tu choisirais plutôt un brunch sucré ou un brunch salé ?|Si tu n’avais droit qu’à une option, tu prendrais une entrée et un plat ou un plat et un dessert ?
+restaurants-service-083|Entre des plats à partager et chacun son assiette, que préférerais-tu ?|Lequel des deux te tente le plus : une livraison rapide mais chère ou un retrait à pied gratuit ?
+restaurants-service-084|Si tu devais trancher, ce serait réserver plusieurs jours à l'avance ou décider du restaurant le soir même ?|Tu privilégierais un repas simple avec produits locaux ou un menu très élaboré ?
+restaurants-service-085|Tu choisirais plutôt un restaurant connu ou une petite adresse peu fréquentée ?|Si tu n’avais droit qu’à une option, tu prendrais un déjeuner tôt ou un dîner tard ?
+restaurants-service-086|Entre un menu court qui change souvent et une grande carte permanente, que préférerais-tu ?|Lequel des deux te tente le plus : un restaurant où l'on connaît le personnel ou une nouvelle adresse à découvrir ?
+restaurants-service-087|Si tu devais trancher, ce serait un serveur qui conseille beaucoup ou un serveur qui laisse choisir tranquillement ?|Tu privilégierais un très bon petit restaurant bruyant ou un restaurant calme mais ordinaire ?
+restaurants-service-088|Tu choisirais plutôt une pizzeria traditionnelle ou un restaurant de pâtes fraîches ?|Si tu n’avais droit qu’à une option, tu prendrais une terrasse ensoleillée ou une salle confortable climatisée ?
+restaurants-service-089|Entre payer en caisse et régler directement à table, que préférerais-tu ?|Lequel des deux te tente le plus : un menu du jour ou choisir à la carte ?
+restaurants-service-090|Si tu devais trancher, ce serait une table près de la fenêtre ou une table au fond de la salle ?|Tu privilégierais un service très rapide ou un service plus attentionné ?
+restaurants-service-091|Tu choisirais plutôt une entrée et un plat ou un plat et un dessert ?|Si tu n’avais droit qu’à une option, tu prendrais manger sur place ou prendre à emporter ?
+restaurants-service-092|Entre une livraison rapide mais chère et un retrait à pied gratuit, que préférerais-tu ?|Lequel des deux te tente le plus : une cuisine ouverte ou une cuisine cachée ?
+restaurants-service-093|Si tu devais trancher, ce serait un repas simple avec produits locaux ou un menu très élaboré ?|Tu privilégierais un brunch sucré ou un brunch salé ?
+restaurants-service-094|Tu choisirais plutôt un déjeuner tôt ou un dîner tard ?|Si tu n’avais droit qu’à une option, tu prendrais des plats à partager ou chacun son assiette ?
+restaurants-service-095|Entre un restaurant où l'on connaît le personnel et une nouvelle adresse à découvrir, que préférerais-tu ?|Lequel des deux te tente le plus : réserver plusieurs jours à l'avance ou décider du restaurant le soir même ?
+restaurants-service-096|Entre un très bon petit restaurant bruyant et un restaurant calme mais ordinaire, que préférerais-tu ?|Lequel des deux te tente le plus : un restaurant connu ou une petite adresse peu fréquentée ?
+restaurants-service-097|Si tu devais trancher, ce serait une terrasse ensoleillée ou une salle confortable climatisée ?|Tu privilégierais un menu court qui change souvent ou une grande carte permanente ?
+restaurants-service-098|Tu choisirais plutôt un menu du jour ou choisir à la carte ?|Si tu n’avais droit qu’à une option, tu prendrais un serveur qui conseille beaucoup ou un serveur qui laisse choisir tranquillement ?
+restaurants-service-099|Entre un service très rapide et un service plus attentionné, que préférerais-tu ?|Lequel des deux te tente le plus : une pizzeria traditionnelle ou un restaurant de pâtes fraîches ?
+restaurants-service-100|Si tu devais trancher, ce serait manger sur place ou prendre à emporter ?|Tu privilégierais payer en caisse ou régler directement à table ?
+restaurants-service-101|Combien de minutes te faudrait-il pour choisir un plat sur une carte de trente propositions ?|Quel temps, en minutes, prévoirais-tu pour décider d'une formule de déjeuner avant le travail ?
+restaurants-service-102|Tu passerais combien de minutes à décider d'un restaurant pour dîner à quatre ?|Tu mettrais combien de minutes à choisir un plat adapté à une allergie déclarée ?
+restaurants-service-103|Combien de minutes consacrerais-tu à patienter avant de relancer un serveur pour l'addition ?|En général, combien de minutes prendrais-tu pour attendre un plat qui aurait dû arriver depuis trente minutes ?
+restaurants-service-104|Combien de minutes te faudrait-il pour vérifier l'addition d'un groupe de six personnes ?|Quel temps, en minutes, prévoirais-tu pour expliquer une erreur de livraison au service client ?
+restaurants-service-105|Tu passerais combien de minutes à comparer deux cartes de restaurant sur Internet ?|Tu mettrais combien de minutes à vérifier un remboursement sur une application ?
+restaurants-service-106|Combien de minutes consacrerais-tu à choisir un dessert après un repas copieux ?|En général, combien de minutes prendrais-tu pour comparer les prix des plats à emporter autour de toi ?
+restaurants-service-107|Combien de minutes te faudrait-il pour faire une réclamation polie pour une commande incomplète ?|Quel temps, en minutes, prévoirais-tu pour préparer une commande de repas pour cinq personnes ?
+restaurants-service-108|Tu passerais combien de minutes à passer commande dans un café avec beaucoup de monde ?|Tu mettrais combien de minutes à trouver le numéro d'une réservation perdue ?
+restaurants-service-109|Combien de minutes consacrerais-tu à consulter les avis avant de réserver un restaurant ?|En général, combien de minutes prendrais-tu pour rédiger un avis constructif après un mauvais service ?
+restaurants-service-110|Combien de minutes te faudrait-il pour décider d'une formule de déjeuner avant le travail ?|Quel temps, en minutes, prévoirais-tu pour attendre à l'entrée d'une brasserie sans réservation ?
+restaurants-service-111|Tu passerais combien de minutes à choisir un plat adapté à une allergie déclarée ?|Tu mettrais combien de minutes à sélectionner une boisson pour accompagner un plat épicé ?
+restaurants-service-112|Combien de minutes consacrerais-tu à attendre un plat qui aurait dû arriver depuis trente minutes ?|En général, combien de minutes prendrais-tu pour choisir un plat sur une carte de trente propositions ?
+restaurants-service-113|Combien de minutes te faudrait-il pour expliquer une erreur de livraison au service client ?|Quel temps, en minutes, prévoirais-tu pour décider d'un restaurant pour dîner à quatre ?
+restaurants-service-114|Tu passerais combien de minutes à vérifier un remboursement sur une application ?|Tu mettrais combien de minutes à patienter avant de relancer un serveur pour l'addition ?
+restaurants-service-115|Combien de minutes consacrerais-tu à comparer les prix des plats à emporter autour de toi ?|En général, combien de minutes prendrais-tu pour vérifier l'addition d'un groupe de six personnes ?
+restaurants-service-116|Combien de minutes te faudrait-il pour préparer une commande de repas pour cinq personnes ?|Quel temps, en minutes, prévoirais-tu pour comparer deux cartes de restaurant sur Internet ?
+restaurants-service-117|Tu passerais combien de minutes à trouver le numéro d'une réservation perdue ?|Tu mettrais combien de minutes à choisir un dessert après un repas copieux ?
+restaurants-service-118|Combien de minutes consacrerais-tu à rédiger un avis constructif après un mauvais service ?|En général, combien de minutes prendrais-tu pour faire une réclamation polie pour une commande incomplète ?
+restaurants-service-119|Combien de minutes te faudrait-il pour attendre à l'entrée d'une brasserie sans réservation ?|Quel temps, en minutes, prévoirais-tu pour passer commande dans un café avec beaucoup de monde ?
+restaurants-service-120|Tu passerais combien de minutes à sélectionner une boisson pour accompagner un plat épicé ?|Tu mettrais combien de minutes à consulter les avis avant de réserver un restaurant ?
+restaurants-service-121|Tu passerais combien de minutes à choisir un plat sur une carte de trente propositions ?|Tu mettrais combien de minutes à décider d'une formule de déjeuner avant le travail ?
+restaurants-service-122|Combien de minutes consacrerais-tu à décider d'un restaurant pour dîner à quatre ?|En général, combien de minutes prendrais-tu pour choisir un plat adapté à une allergie déclarée ?
+restaurants-service-123|Combien de minutes te faudrait-il pour patienter avant de relancer un serveur pour l'addition ?|Quel temps, en minutes, prévoirais-tu pour attendre un plat qui aurait dû arriver depuis trente minutes ?
+restaurants-service-124|Tu passerais combien de minutes à vérifier l'addition d'un groupe de six personnes ?|Tu mettrais combien de minutes à expliquer une erreur de livraison au service client ?
+restaurants-service-125|Combien de minutes consacrerais-tu à comparer deux cartes de restaurant sur Internet ?|En général, combien de minutes prendrais-tu pour vérifier un remboursement sur une application ?
+restaurants-service-126|À qui demanderais-tu conseil pour signaler une erreur sur l'addition au restaurant ?|Qui appellerais-tu pour savoir si un plat contient des noix ?
+restaurants-service-127|Qui contacterais-tu en priorité pour demander un plat sans un allergène précis ?|À qui demanderais-tu un avis pour obtenir une facture pour un repas professionnel ?
+restaurants-service-128|Vers qui te tournerais-tu pour obtenir un remboursement après une livraison incomplète ?|À quelle personne parlerais-tu d’abord pour faire réparer un appareil encore sous garantie ?
+restaurants-service-129|À qui demanderais-tu conseil pour trouver une bonne adresse pour un dîner de famille ?|Qui appellerais-tu pour organiser une table de douze personnes ?
+restaurants-service-130|Qui contacterais-tu en priorité pour connaître la composition exacte d'un dessert ?|À qui demanderais-tu un avis pour signaler un service particulièrement attentionné ?
+restaurants-service-131|Vers qui te tournerais-tu pour résoudre un souci de réservation en ligne ?|À quelle personne parlerais-tu d’abord pour retrouver un objet oublié dans un café ?
+restaurants-service-132|À qui demanderais-tu conseil pour demander un remplacement pour un produit abîmé ?|Qui appellerais-tu pour demander une modification de commande avant l'envoi ?
+restaurants-service-133|Qui contacterais-tu en priorité pour comprendre un supplément ajouté sans explication ?|À qui demanderais-tu un avis pour choisir un menu végétarien pour un invité ?
+restaurants-service-134|Vers qui te tournerais-tu pour choisir un restaurant accessible en fauteuil roulant ?|À quelle personne parlerais-tu d’abord pour réclamer une réduction affichée mais non appliquée ?
+restaurants-service-135|À qui demanderais-tu conseil pour savoir si un plat contient des noix ?|Qui appellerais-tu pour signaler qu'un plat est froid ?
+restaurants-service-136|Qui contacterais-tu en priorité pour obtenir une facture pour un repas professionnel ?|À qui demanderais-tu un avis pour réserver un gâteau d'anniversaire au restaurant ?
+restaurants-service-137|Vers qui te tournerais-tu pour faire réparer un appareil encore sous garantie ?|À quelle personne parlerais-tu d’abord pour signaler une erreur sur l'addition au restaurant ?
+restaurants-service-138|À qui demanderais-tu conseil pour organiser une table de douze personnes ?|Qui appellerais-tu pour demander un plat sans un allergène précis ?
+restaurants-service-139|Qui contacterais-tu en priorité pour signaler un service particulièrement attentionné ?|À qui demanderais-tu un avis pour obtenir un remboursement après une livraison incomplète ?
+restaurants-service-140|Vers qui te tournerais-tu pour retrouver un objet oublié dans un café ?|À quelle personne parlerais-tu d’abord pour trouver une bonne adresse pour un dîner de famille ?
+restaurants-service-141|À qui demanderais-tu conseil pour demander une modification de commande avant l'envoi ?|Qui appellerais-tu pour connaître la composition exacte d'un dessert ?
+restaurants-service-142|Qui contacterais-tu en priorité pour choisir un menu végétarien pour un invité ?|À qui demanderais-tu un avis pour résoudre un souci de réservation en ligne ?
+restaurants-service-143|Vers qui te tournerais-tu pour réclamer une réduction affichée mais non appliquée ?|À quelle personne parlerais-tu d’abord pour demander un remplacement pour un produit abîmé ?
+restaurants-service-144|À qui demanderais-tu conseil pour signaler qu'un plat est froid ?|Qui appellerais-tu pour comprendre un supplément ajouté sans explication ?
+restaurants-service-145|Qui contacterais-tu en priorité pour réserver un gâteau d'anniversaire au restaurant ?|À qui demanderais-tu un avis pour choisir un restaurant accessible en fauteuil roulant ?
+restaurants-service-146|Qui contacterais-tu en priorité pour signaler une erreur sur l'addition au restaurant ?|À qui demanderais-tu un avis pour savoir si un plat contient des noix ?
+restaurants-service-147|Vers qui te tournerais-tu pour demander un plat sans un allergène précis ?|À quelle personne parlerais-tu d’abord pour obtenir une facture pour un repas professionnel ?
+restaurants-service-148|À qui demanderais-tu conseil pour obtenir un remboursement après une livraison incomplète ?|Qui appellerais-tu pour faire réparer un appareil encore sous garantie ?
+restaurants-service-149|Qui contacterais-tu en priorité pour trouver une bonne adresse pour un dîner de famille ?|À qui demanderais-tu un avis pour organiser une table de douze personnes ?
+restaurants-service-150|Vers qui te tournerais-tu pour connaître la composition exacte d'un dessert ?|À quelle personne parlerais-tu d’abord pour signaler un service particulièrement attentionné ?
+restaurants-service-151|Où irais-tu pour prendre un déjeuner rapide avant une réunion ?|Dans quel lieu voudrais-tu trouver un restaurant ouvert après vingt-trois heures ?
+restaurants-service-152|Dans quel endroit préférerais-tu manger des pâtes fraîches un samedi soir ?|À quel endroit déciderais-tu de prendre un repas familial avec une poussette ?
+restaurants-service-153|Dans quel lieu aimerais-tu inviter des amis dans un restaurant calme ?|Où choisirais-tu de manger dehors sans réservation un soir d'été ?
+restaurants-service-154|Où irais-tu pour déjeuner végétarien près d'une gare ?|Dans quel lieu voudrais-tu retrouver un ami autour d'un chocolat chaud ?
+restaurants-service-155|Dans quel endroit préférerais-tu acheter un bon café à emporter le matin ?|À quel endroit déciderais-tu de prendre un repas adapté à une allergie alimentaire ?
+restaurants-service-156|Dans quel lieu aimerais-tu déguster un dessert artisanal en fin d'après-midi ?|Où choisirais-tu de célébrer une promotion avec un dîner ?
+restaurants-service-157|Où irais-tu pour commander un plateau de sushis à partager ?|Dans quel lieu voudrais-tu trouver une boulangerie proposant un déjeuner sur place ?
+restaurants-service-158|Dans quel endroit préférerais-tu prendre un brunch à deux le dimanche ?|À quel endroit déciderais-tu de commander un plat chaud avant de prendre le train ?
+restaurants-service-159|Dans quel lieu aimerais-tu manger un poisson du jour dans un quartier touristique ?|Où choisirais-tu de boire un thé dans un endroit calme ?
+restaurants-service-160|Où irais-tu pour trouver un restaurant ouvert après vingt-trois heures ?|Dans quel lieu voudrais-tu dîner avec une personne qui ne mange pas de viande ?
+restaurants-service-161|Dans quel endroit préférerais-tu prendre un repas familial avec une poussette ?|À quel endroit déciderais-tu de manger près d'un cinéma avant une séance ?
+restaurants-service-162|Dans quel lieu aimerais-tu manger dehors sans réservation un soir d'été ?|Où choisirais-tu de prendre un déjeuner rapide avant une réunion ?
+restaurants-service-163|Où irais-tu pour retrouver un ami autour d'un chocolat chaud ?|Dans quel lieu voudrais-tu manger des pâtes fraîches un samedi soir ?
+restaurants-service-164|Dans quel endroit préférerais-tu prendre un repas adapté à une allergie alimentaire ?|À quel endroit déciderais-tu d’inviter des amis dans un restaurant calme ?
+restaurants-service-165|Dans quel lieu aimerais-tu célébrer une promotion avec un dîner ?|Où choisirais-tu de déjeuner végétarien près d'une gare ?
+restaurants-service-166|Où irais-tu pour trouver une boulangerie proposant un déjeuner sur place ?|Dans quel lieu voudrais-tu acheter un bon café à emporter le matin ?
+restaurants-service-167|Dans quel endroit préférerais-tu commander un plat chaud avant de prendre le train ?|À quel endroit déciderais-tu de déguster un dessert artisanal en fin d'après-midi ?
+restaurants-service-168|Dans quel lieu aimerais-tu boire un thé dans un endroit calme ?|Où choisirais-tu de commander un plateau de sushis à partager ?
+restaurants-service-169|Où irais-tu pour dîner avec une personne qui ne mange pas de viande ?|Dans quel lieu voudrais-tu prendre un brunch à deux le dimanche ?
+restaurants-service-170|Dans quel endroit préférerais-tu manger près d'un cinéma avant une séance ?|À quel endroit déciderais-tu de manger un poisson du jour dans un quartier touristique ?
+restaurants-service-171|Dans quel endroit préférerais-tu prendre un déjeuner rapide avant une réunion ?|À quel endroit déciderais-tu de trouver un restaurant ouvert après vingt-trois heures ?
+restaurants-service-172|Dans quel lieu aimerais-tu manger des pâtes fraîches un samedi soir ?|Où choisirais-tu de prendre un repas familial avec une poussette ?
+restaurants-service-173|Où irais-tu pour inviter des amis dans un restaurant calme ?|Dans quel lieu voudrais-tu manger dehors sans réservation un soir d'été ?
+restaurants-service-174|Dans quel endroit préférerais-tu déjeuner végétarien près d'une gare ?|À quel endroit déciderais-tu de retrouver un ami autour d'un chocolat chaud ?
+restaurants-service-175|Dans quel lieu aimerais-tu acheter un bon café à emporter le matin ?|Où choisirais-tu de prendre un repas adapté à une allergie alimentaire ?
+restaurants-service-176|Quel plat commanderais-tu si tu allais dans une brasserie un dimanche midi ?|Sur la carte, quel plat choisirais-tu si tu entrais dans un restaurant mexicain ?
+restaurants-service-177|Que choisirais-tu comme plat si tu déjeunais dans un restaurant italien traditionnel ?|Qu’est-ce que tu mangerais si tu allais dans une pizzeria au feu de bois ?
+restaurants-service-178|Quel plat te ferait plaisir si tu mangeais dans un bistrot de poissons ?|Quel plat privilégierais-tu si tu mangeais dans un restaurant thaïlandais ?
+restaurants-service-179|Quel plat commanderais-tu si tu dînais dans un restaurant japonais ?|Sur la carte, quel plat choisirais-tu si tu commandais dans un restaurant vietnamien ?
+restaurants-service-180|Que choisirais-tu comme plat si tu découvrais un restaurant végétarien ?|Qu’est-ce que tu mangerais si tu déjeunais dans un restaurant grec ?
+restaurants-service-181|Quel plat te ferait plaisir si tu déjeunais au bord de la mer ?|Quel plat privilégierais-tu si tu allais dans une auberge de montagne ?
+restaurants-service-182|Quel plat commanderais-tu si tu choisissais dans une cantine de bureau ?|Sur la carte, quel plat choisirais-tu si tu passais dans une sandwicherie artisanale ?
+restaurants-service-183|Que choisirais-tu comme plat si tu allais dans un restaurant libanais ?|Qu’est-ce que tu mangerais si tu choisissais un plat dans une cuisine coréenne ?
+restaurants-service-184|Quel plat te ferait plaisir si tu prenais un repas dans une crêperie bretonne ?|Quel plat privilégierais-tu si tu entrais dans un restaurant indien ?
+restaurants-service-185|Quel plat commanderais-tu si tu entrais dans un restaurant mexicain ?|Sur la carte, quel plat choisirais-tu si tu allais dans une petite adresse de quartier ?
+restaurants-service-186|Que choisirais-tu comme plat si tu allais dans une pizzeria au feu de bois ?|Qu’est-ce que tu mangerais si tu dînais dans un restaurant méditerranéen ?
+restaurants-service-187|Quel plat te ferait plaisir si tu mangeais dans un restaurant thaïlandais ?|Quel plat privilégierais-tu si tu allais dans une brasserie un dimanche midi ?
+restaurants-service-188|Quel plat commanderais-tu si tu commandais dans un restaurant vietnamien ?|Sur la carte, quel plat choisirais-tu si tu déjeunais dans un restaurant italien traditionnel ?
+restaurants-service-189|Que choisirais-tu comme plat si tu déjeunais dans un restaurant grec ?|Qu’est-ce que tu mangerais si tu mangeais dans un bistrot de poissons ?
+restaurants-service-190|Quel plat te ferait plaisir si tu allais dans une auberge de montagne ?|Quel plat privilégierais-tu si tu dînais dans un restaurant japonais ?
+restaurants-service-191|Quel plat commanderais-tu si tu passais dans une sandwicherie artisanale ?|Sur la carte, quel plat choisirais-tu si tu découvrais un restaurant végétarien ?
+restaurants-service-192|Que choisirais-tu comme plat si tu choisissais un plat dans une cuisine coréenne ?|Qu’est-ce que tu mangerais si tu déjeunais au bord de la mer ?
+restaurants-service-193|Quel plat te ferait plaisir si tu entrais dans un restaurant indien ?|Quel plat privilégierais-tu si tu choisissais dans une cantine de bureau ?
+restaurants-service-194|Quel plat commanderais-tu si tu allais dans une petite adresse de quartier ?|Sur la carte, quel plat choisirais-tu si tu allais dans un restaurant libanais ?
+restaurants-service-195|Que choisirais-tu comme plat si tu dînais dans un restaurant méditerranéen ?|Qu’est-ce que tu mangerais si tu prenais un repas dans une crêperie bretonne ?
+restaurants-service-196|Que choisirais-tu comme plat si tu allais dans une brasserie un dimanche midi ?|Qu’est-ce que tu mangerais si tu entrais dans un restaurant mexicain ?
+restaurants-service-197|Quel plat te ferait plaisir si tu déjeunais dans un restaurant italien traditionnel ?|Quel plat privilégierais-tu si tu allais dans une pizzeria au feu de bois ?
+restaurants-service-198|Quel plat commanderais-tu si tu mangeais dans un bistrot de poissons ?|Sur la carte, quel plat choisirais-tu si tu mangeais dans un restaurant thaïlandais ?
+restaurants-service-199|Que choisirais-tu comme plat si tu dînais dans un restaurant japonais ?|Qu’est-ce que tu mangerais si tu commandais dans un restaurant vietnamien ?
+restaurants-service-200|Quel plat te ferait plaisir si tu découvrais un restaurant végétarien ?|Quel plat privilégierais-tu si tu déjeunais dans un restaurant grec ?

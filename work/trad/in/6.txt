@@ -1,0 +1,600 @@
+ville-333|Au-delà de quel prix hésiterais-tu à réserver une nuit pour deux personnes dans un hôtel en centre-ville ?|Au-delà de quel prix hésiterais-tu à acheter un pass touristique de deux jours ?
+ville-334|Combien serais-tu prêt à dépenser pour un pass touristique de deux jours ?|Combien serais-tu prêt à dépenser pour un aller simple en TER pour un trajet de 50 km ?
+ville-335|Quel serait le meilleur moment pour retrouver un ami dans la gare de Lyon à Paris ?|Quel serait le meilleur moment pour faire une course dans le centre-ville ?
+ville-336|Où irais-tu pour acheter un abonnement mensuel aux transports en commun à Paris ?|Où irais-tu pour acheter un trajet de cinq kilomètres en taxi dans Paris ?
+ville-337|Sur quel site ou dans quel magasin chercherais-tu un aller simple en TER pour un trajet de 50 km ?|Sur quel site ou dans quel magasin chercherais-tu un ticket de métro à l’unité à Paris ?
+ville-338|Où irais-tu pour acheter une carte de transport rechargeable ?|Où irais-tu pour acheter une séance de cinéma de quartier ?
+ville-339|Quelle phrase sortirait de ta bouche si la machine à tickets est hors service ?|Quelle phrase sortirait de ta bouche si tu te retrouves dans le mauvais bus ?
+ville-340|Sur quel site ou dans quel magasin chercherais-tu un ticket pour un bateau-bus ?|Sur quel site ou dans quel magasin chercherais-tu une entrée à une exposition locale ?
+ville-341|Qui contacterais-tu pour t’aider à choisir un café pour travailler ?|Qui contacterais-tu pour t’aider à retrouver un ami dans la gare de Lyon à Paris ?
+ville-342|Où chercherais-tu un trajet de cinq kilomètres en taxi dans Paris en premier ?|Où chercherais-tu un billet adulte pour un bus touristique à Paris en premier ?
+ville-343|Quelle personne de ton entourage pourrait t’aider à trouver une adresse sans GPS ?|Quelle personne de ton entourage pourrait t’aider à préparer un trajet de nuit ?
+ville-344|Si tu devais trouver une place de stationnement payante pendant deux heures dans le centre-ville, quelle serait ta priorité ?|Si tu devais repérer un restaurant près d’une gare, quelle serait ta priorité ?
+ville-345|À quel endroit irais-tu pour trouver un abonnement de vélos partagés ?|À quel endroit irais-tu pour trouver une carte de transport rechargeable ?
+ville-346|En combien de temps pourrais-tu trouver une adresse sans GPS ?|En combien de temps pourrais-tu préparer un trajet de nuit ?
+ville-347|Quelle serait ta première réaction si ton train change de quai au dernier moment ?|Quelle serait ta première réaction si un inconnu te demande de prendre une photo ?
+ville-348|Quel détail vérifierais-tu avant de préparer un trajet de nuit ?|Quel détail vérifierais-tu avant de choisir un café pour travailler ?
+ville-349|Quel moment de la journée choisirais-tu pour repérer un restaurant près d’une gare ?|Quel moment de la journée choisirais-tu pour organiser une visite de quartier ?
+ville-350|Quel budget maximal prévoirais-tu pour un repas dans une brasserie de quartier ?|Quel budget maximal prévoirais-tu pour un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-351|Quel créneau de la journée serait le plus pratique pour choisir un musée proche ?|Quel créneau de la journée serait le plus pratique pour trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-352|Combien de temps prévoirais-tu pour visiter un marché de quartier ?|Combien de temps prévoirais-tu pour préparer un trajet à vélo en ville ?
+ville-353|Si tu devais préparer un changement de ligne, quelle serait ta priorité ?|Si tu devais chercher un commerce ouvert le dimanche, quelle serait ta priorité ?
+ville-354|Comment répondrais-tu si la rue que tu connais est barrée ?|Comment répondrais-tu si un taxi refuse une petite course ?
+ville-355|Combien de temps te faudrait-il pour trouver un parcours de promenade accessible en fauteuil roulant ?|Combien de temps te faudrait-il pour préparer un changement de ligne ?
+ville-356|À quel endroit irais-tu pour trouver un ticket de métro à l’unité à Paris ?|À quel endroit irais-tu pour trouver un abonnement mensuel aux transports en commun à Paris ?
+ville-357|À qui demanderais-tu de l’aide pour découvrir un quartier inconnu ?|À qui demanderais-tu de l’aide pour préparer un trajet en transports ?
+ville-358|Quel serait ton premier réflexe si la rue que tu connais est barrée ?|Quel serait ton premier réflexe si un taxi refuse une petite course ?
+ville-359|Que dirais-tu si tu arrives devant un commerce fermé ?|Que dirais-tu si une manifestation bloque ton itinéraire ?
+ville-360|Quel prix imagines-tu pour un aller simple en TER pour un trajet de 50 km ?|Quel prix imagines-tu pour un ticket de métro à l’unité à Paris ?
+ville-361|À quel endroit irais-tu pour trouver un repas dans une brasserie de quartier ?|À quel endroit irais-tu pour trouver un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-362|Quelle serait ta principale difficulté pour préparer un trajet en transports ?|Quelle serait ta principale difficulté pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-363|Quel serait le meilleur moment pour préparer un changement de ligne ?|Quel serait le meilleur moment pour chercher un commerce ouvert le dimanche ?
+ville-364|Combien penses-tu que vaut une séance de cinéma de quartier ?|Combien penses-tu que vaut un ticket pour un bateau-bus ?
+ville-365|Au-delà de quel prix hésiterais-tu à acheter un abonnement mensuel aux transports en commun à Paris ?|Au-delà de quel prix hésiterais-tu à acheter un trajet de cinq kilomètres en taxi dans Paris ?
+ville-366|Quel prix imagines-tu pour un billet adulte pour un bus touristique à Paris ?|Quel prix imagines-tu pour une entrée adulte dans un musée municipal payant ?
+ville-367|Dans quelle situation déciderais-tu d’acheter une séance de cinéma de quartier ?|Dans quelle situation déciderais-tu d’acheter un ticket pour un bateau-bus ?
+ville-368|Qu’est-ce que tu dirais sur le moment si un taxi refuse une petite course ?|Qu’est-ce que tu dirais sur le moment si tu arrives devant un commerce fermé ?
+ville-369|Quelle serait ta première réaction si un passant t’indique un raccourci inattendu ?|Quelle serait ta première réaction si le métro s’arrête entre deux stations ?
+ville-370|Quelle personne de ton entourage pourrait t’aider à chercher un commerce ouvert le dimanche ?|Quelle personne de ton entourage pourrait t’aider à découvrir un quartier inconnu ?
+ville-371|En combien de temps pourrais-tu repérer un restaurant près d’une gare ?|En combien de temps pourrais-tu organiser une visite de quartier ?
+ville-372|Combien serais-tu prêt à dépenser pour une heure de stationnement dans un parking du centre de Paris ?|Combien serais-tu prêt à dépenser pour un café en terrasse ?
+ville-373|À ton avis, combien coûte un repas dans une brasserie de quartier ?|À ton avis, combien coûte un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-374|Quelle serait ta principale difficulté pour comparer deux itinéraires de métro ?|Quelle serait ta principale difficulté pour acheter un billet de train régional au distributeur en gare ?
+ville-375|Que dirais-tu si un automobiliste te laisse passer ?|Que dirais-tu si la machine à tickets est hors service ?
+ville-376|Quel prix imagines-tu pour un ticket de navette entre un aéroport et le centre-ville ?|Quel prix imagines-tu pour un abonnement de vélos partagés ?
+ville-377|À ton avis, combien de temps faut-il pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?|À ton avis, combien de temps faut-il pour repérer un restaurant près d’une gare ?
+ville-378|Combien de temps prévoirais-tu pour choisir un musée proche ?|Combien de temps prévoirais-tu pour trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-379|Quelle phrase sortirait de ta bouche si un touriste te demande sa direction ?|Quelle phrase sortirait de ta bouche si un chauffeur manque ton arrêt ?
+ville-380|Quelle serait ta première réaction si un taxi refuse une petite course ?|Quelle serait ta première réaction si tu arrives devant un commerce fermé ?
+ville-381|Qu’est-ce qui te pousserait à réserver un repas dans une brasserie de quartier ?|Qu’est-ce qui te pousserait à acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-382|Quelle phrase sortirait de ta bouche si un cycliste sonne derrière toi ?|Quelle phrase sortirait de ta bouche si un piéton te demande l’heure ?
+ville-383|Selon toi, quel est le prix d’une nuit pour deux personnes dans un hôtel en centre-ville ?|Selon toi, quel est le prix d’un pass touristique de deux jours ?
+ville-384|Quel prix imagines-tu pour un ticket pour un bateau-bus ?|Quel prix imagines-tu pour une entrée à une exposition locale ?
+ville-385|Qu’est-ce que tu ferais en premier si tu arrives devant un commerce fermé ?|Qu’est-ce que tu ferais en premier si une manifestation bloque ton itinéraire ?
+ville-386|Comment répondrais-tu si tu te retrouves dans le mauvais bus ?|Comment répondrais-tu si un passant t’indique un raccourci inattendu ?
+ville-387|Quel serait ton premier réflexe si un chauffeur manque ton arrêt ?|Quel serait ton premier réflexe si tu te trompes de sortie de métro ?
+ville-388|Qui pourrait te donner le meilleur conseil pour trouver une terrasse de café calme à moins de dix minutes à pied ?|Qui pourrait te donner le meilleur conseil pour organiser une journée de visites à Rome sans voiture ?
+ville-389|À ton avis, combien de temps faut-il pour acheter un billet de train régional au distributeur en gare ?|À ton avis, combien de temps faut-il pour trouver une adresse sans GPS ?
+ville-390|Que dirais-tu si le métro s’arrête entre deux stations ?|Que dirais-tu si un touriste te demande sa direction ?
+ville-391|Où irais-tu pour acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Où irais-tu pour réserver une visite guidée de quartier ?
+ville-392|En combien de temps pourrais-tu faire une course dans le centre-ville ?|En combien de temps pourrais-tu visiter un marché de quartier ?
+ville-393|Combien de temps prévoirais-tu pour découvrir un quartier inconnu ?|Combien de temps prévoirais-tu pour préparer un trajet en transports ?
+ville-394|Quelle serait ta principale difficulté pour préparer un trajet à vélo en ville ?|Quelle serait ta principale difficulté pour trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-395|Quel moment de la journée choisirais-tu pour faire une course dans le centre-ville ?|Quel moment de la journée choisirais-tu pour visiter un marché de quartier ?
+ville-396|Quel moment de la journée choisirais-tu pour organiser une journée de visites à Rome sans voiture ?|Quel moment de la journée choisirais-tu pour choisir un musée proche ?
+ville-397|Quel serait le meilleur moment pour acheter un billet de train régional au distributeur en gare ?|Quel serait le meilleur moment pour trouver une adresse sans GPS ?
+ville-398|Où irais-tu pour réserver une nuit pour deux personnes dans un hôtel en centre-ville ?|Où irais-tu pour acheter un pass touristique de deux jours ?
+ville-399|Pour quelle occasion voudrais-tu acheter une carte de transport rechargeable ?|Pour quelle occasion voudrais-tu acheter une séance de cinéma de quartier ?
+ville-400|Qui contacterais-tu pour t’aider à trouver un parcours de promenade accessible en fauteuil roulant ?|Qui contacterais-tu pour t’aider à préparer un changement de ligne ?
+ville-401|Qui contacterais-tu pour t’aider à comparer deux itinéraires de métro ?|Qui contacterais-tu pour t’aider à acheter un billet de train régional au distributeur en gare ?
+ville-402|Quel moment de la journée choisirais-tu pour chercher un commerce ouvert le dimanche ?|Quel moment de la journée choisirais-tu pour découvrir un quartier inconnu ?
+ville-403|Quel serait le point le plus important pour organiser une journée de visites à Rome sans voiture ?|Quel serait le point le plus important pour choisir un musée proche ?
+ville-404|Quel détail vérifierais-tu avant de choisir un musée proche ?|Quel détail vérifierais-tu avant de trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-405|Combien serais-tu prêt à dépenser pour une visite guidée de quartier ?|Combien serais-tu prêt à dépenser pour un ticket de navette entre un aéroport et le centre-ville ?
+ville-406|Quel serait le point le plus important pour chercher un commerce ouvert le dimanche ?|Quel serait le point le plus important pour découvrir un quartier inconnu ?
+ville-407|Qu’est-ce qui te pousserait à acheter une entrée à une exposition locale ?|Qu’est-ce qui te pousserait à réserver une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-408|Combien serais-tu prêt à dépenser pour un trajet de cinq kilomètres en taxi dans Paris ?|Combien serais-tu prêt à dépenser pour un billet adulte pour un bus touristique à Paris ?
+ville-409|À qui demanderais-tu de l’aide pour choisir un musée proche ?|À qui demanderais-tu de l’aide pour trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-410|Combien penses-tu que vaut un pass touristique de deux jours ?|Combien penses-tu que vaut un aller simple en TER pour un trajet de 50 km ?
+ville-411|Quel créneau de la journée serait le plus pratique pour découvrir un quartier inconnu ?|Quel créneau de la journée serait le plus pratique pour préparer un trajet en transports ?
+ville-412|Selon toi, quel est le prix d’un abonnement mensuel aux transports en commun à Paris ?|Selon toi, quel est le prix d’un trajet de cinq kilomètres en taxi dans Paris ?
+ville-413|Quelle phrase sortirait de ta bouche si une manifestation bloque ton itinéraire ?|Quelle phrase sortirait de ta bouche si le panneau d’arrêt n’affiche plus les horaires ?
+ville-414|Quel créneau de la journée serait le plus pratique pour organiser une visite de quartier ?|Quel créneau de la journée serait le plus pratique pour comparer deux itinéraires de métro ?
+ville-415|Combien penses-tu que vaut une visite guidée de quartier ?|Combien penses-tu que vaut un ticket de navette entre un aéroport et le centre-ville ?
+ville-416|Combien serais-tu prêt à dépenser pour une séance de cinéma de quartier ?|Combien serais-tu prêt à dépenser pour un ticket pour un bateau-bus ?
+ville-417|À quel moment de la semaine préférerais-tu comparer deux itinéraires de métro ?|À quel moment de la semaine préférerais-tu acheter un billet de train régional au distributeur en gare ?
+ville-418|À qui demanderais-tu de l’aide pour organiser une visite de quartier ?|À qui demanderais-tu de l’aide pour comparer deux itinéraires de métro ?
+ville-419|Quelle serait ta première réaction si tu te trompes de sortie de métro ?|Quelle serait ta première réaction si un bus passe devant toi sans s’arrêter ?
+ville-420|Si tu devais trouver une terrasse de café calme à moins de dix minutes à pied, quelle serait ta priorité ?|Si tu devais organiser une journée de visites à Rome sans voiture, quelle serait ta priorité ?
+ville-421|Qu’est-ce que tu dirais sur le moment si un passant t’indique un raccourci inattendu ?|Qu’est-ce que tu dirais sur le moment si le métro s’arrête entre deux stations ?
+ville-422|Combien de temps prévoirais-tu pour organiser une visite de quartier ?|Combien de temps prévoirais-tu pour comparer deux itinéraires de métro ?
+ville-423|À quel moment de la semaine préférerais-tu trouver un parcours de promenade accessible en fauteuil roulant ?|À quel moment de la semaine préférerais-tu préparer un changement de ligne ?
+ville-424|Comment réagirais-tu si une manifestation bloque ton itinéraire ?|Comment réagirais-tu si le panneau d’arrêt n’affiche plus les horaires ?
+ville-425|Au-delà de quel prix hésiterais-tu à acheter un ticket de tramway à l’unité en France ?|Au-delà de quel prix hésiterais-tu à acheter une heure de stationnement dans un parking du centre de Paris ?
+ville-426|Quel créneau de la journée serait le plus pratique pour préparer un trajet de nuit ?|Quel créneau de la journée serait le plus pratique pour choisir un café pour travailler ?
+ville-427|Si tu devais retrouver un ami dans la gare de Lyon à Paris, quelle serait ta priorité ?|Si tu devais faire une course dans le centre-ville, quelle serait ta priorité ?
+ville-428|À quel moment aurais-tu envie d’acheter un ticket pour un bateau-bus ?|À quel moment aurais-tu envie d’acheter une entrée à une exposition locale ?
+ville-429|À ton avis, combien de temps faut-il pour retrouver un ami dans la gare de Lyon à Paris ?|À ton avis, combien de temps faut-il pour faire une course dans le centre-ville ?
+ville-430|Au-delà de quel prix hésiterais-tu à acheter une carte de transport rechargeable ?|Au-delà de quel prix hésiterais-tu à acheter une séance de cinéma de quartier ?
+ville-431|Sur quel site ou dans quel magasin chercherais-tu un billet adulte pour un bus touristique à Paris ?|Sur quel site ou dans quel magasin chercherais-tu une entrée adulte dans un musée municipal payant ?
+ville-432|Qu’est-ce que tu ferais en premier si le métro s’arrête entre deux stations ?|Qu’est-ce que tu ferais en premier si un touriste te demande sa direction ?
+ville-433|Dans quelle situation déciderais-tu de réserver une visite guidée de quartier ?|Dans quelle situation déciderais-tu d’acheter un ticket de navette entre un aéroport et le centre-ville ?
+ville-434|Qui pourrait te donner le meilleur conseil pour retrouver un ami dans la gare de Lyon à Paris ?|Qui pourrait te donner le meilleur conseil pour faire une course dans le centre-ville ?
+ville-435|À quel moment aurais-tu envie d’acheter un billet adulte pour un bus touristique à Paris ?|À quel moment aurais-tu envie d’acheter une entrée adulte dans un musée municipal payant ?
+ville-436|Pour quelle occasion voudrais-tu réserver une nuit pour deux personnes dans un hôtel en centre-ville ?|Pour quelle occasion voudrais-tu acheter un pass touristique de deux jours ?
+ville-437|Comment réagirais-tu si tu trouves un portefeuille sur le trottoir ?|Comment réagirais-tu si la rue que tu connais est barrée ?
+ville-438|Où chercherais-tu un pass touristique de deux jours en premier ?|Où chercherais-tu un aller simple en TER pour un trajet de 50 km en premier ?
+ville-439|Où chercherais-tu une séance de cinéma de quartier en premier ?|Où chercherais-tu un ticket pour un bateau-bus en premier ?
+ville-440|À ton avis, combien coûte une entrée adulte dans un musée municipal payant ?|À ton avis, combien coûte un ticket de tramway à l’unité en France ?
+ville-441|À ton avis, combien coûte un ticket de métro à l’unité à Paris ?|À ton avis, combien coûte un abonnement mensuel aux transports en commun à Paris ?
+ville-442|À quel moment de la semaine préférerais-tu choisir un café pour travailler ?|À quel moment de la semaine préférerais-tu retrouver un ami dans la gare de Lyon à Paris ?
+ville-443|Si tu devais acheter un billet de train régional au distributeur en gare, quelle serait ta priorité ?|Si tu devais trouver une adresse sans GPS, quelle serait ta priorité ?
+ville-444|Quel créneau de la journée serait le plus pratique pour visiter un marché de quartier ?|Quel créneau de la journée serait le plus pratique pour préparer un trajet à vélo en ville ?
+ville-445|Quel budget maximal prévoirais-tu pour une entrée à une exposition locale ?|Quel budget maximal prévoirais-tu pour une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-446|Jusqu’à combien paierais-tu pour un aller simple en TER pour un trajet de 50 km ?|Jusqu’à combien paierais-tu pour un ticket de métro à l’unité à Paris ?
+ville-447|Qui contacterais-tu pour t’aider à préparer un trajet en transports ?|Qui contacterais-tu pour t’aider à trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-448|Combien de temps te faudrait-il pour choisir un café pour travailler ?|Combien de temps te faudrait-il pour retrouver un ami dans la gare de Lyon à Paris ?
+ville-449|Qu’est-ce que tu ferais en premier si un bus passe devant toi sans s’arrêter ?|Qu’est-ce que tu ferais en premier si un cycliste sonne derrière toi ?
+ville-450|Qu’est-ce que tu ferais en premier si un automobiliste te laisse passer ?|Qu’est-ce que tu ferais en premier si la machine à tickets est hors service ?
+ville-451|Combien penses-tu que vaut une heure de stationnement dans un parking du centre de Paris ?|Combien penses-tu que vaut un café en terrasse ?
+ville-452|En combien de temps pourrais-tu chercher un commerce ouvert le dimanche ?|En combien de temps pourrais-tu découvrir un quartier inconnu ?
+ville-453|Jusqu’à combien paierais-tu pour un ticket pour un bateau-bus ?|Jusqu’à combien paierais-tu pour une entrée à une exposition locale ?
+ville-454|Pour quelle occasion voudrais-tu acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Pour quelle occasion voudrais-tu réserver une visite guidée de quartier ?
+ville-455|À qui demanderais-tu de l’aide pour visiter un marché de quartier ?|À qui demanderais-tu de l’aide pour préparer un trajet à vélo en ville ?
+ville-456|Qui pourrait te donner le meilleur conseil pour acheter un billet de train régional au distributeur en gare ?|Qui pourrait te donner le meilleur conseil pour trouver une adresse sans GPS ?
+ville-457|À ton avis, combien de temps faut-il pour préparer un changement de ligne ?|À ton avis, combien de temps faut-il pour chercher un commerce ouvert le dimanche ?
+ville-458|Quel serait ton premier réflexe si tu te retrouves dans le mauvais bus ?|Quel serait ton premier réflexe si un passant t’indique un raccourci inattendu ?
+ville-459|Quelle personne de ton entourage pourrait t’aider à faire une course dans le centre-ville ?|Quelle personne de ton entourage pourrait t’aider à visiter un marché de quartier ?
+ville-460|Quel serait le meilleur moment pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?|Quel serait le meilleur moment pour repérer un restaurant près d’une gare ?
+ville-461|Quel détail vérifierais-tu avant de visiter un marché de quartier ?|Quel détail vérifierais-tu avant de préparer un trajet à vélo en ville ?
+ville-462|Quel détail vérifierais-tu avant d’organiser une visite de quartier ?|Quel détail vérifierais-tu avant de comparer deux itinéraires de métro ?
+ville-463|Sur quel site ou dans quel magasin chercherais-tu un ticket de navette entre un aéroport et le centre-ville ?|Sur quel site ou dans quel magasin chercherais-tu un abonnement de vélos partagés ?
+ville-464|Combien penses-tu que vaut un trajet de cinq kilomètres en taxi dans Paris ?|Combien penses-tu que vaut un billet adulte pour un bus touristique à Paris ?
+ville-465|Jusqu’à combien paierais-tu pour un billet adulte pour un bus touristique à Paris ?|Jusqu’à combien paierais-tu pour une entrée adulte dans un musée municipal payant ?
+ville-466|Selon toi, quel est le prix d’un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Selon toi, quel est le prix d’une visite guidée de quartier ?
+ville-467|Quel détail vérifierais-tu avant de découvrir un quartier inconnu ?|Quel détail vérifierais-tu avant de préparer un trajet en transports ?
+ville-468|À ton avis, combien coûte un abonnement de vélos partagés ?|À ton avis, combien coûte une carte de transport rechargeable ?
+ville-469|Jusqu’à combien paierais-tu pour un café en terrasse ?|Jusqu’à combien paierais-tu pour un repas dans une brasserie de quartier ?
+ville-470|À quel endroit irais-tu pour trouver une entrée adulte dans un musée municipal payant ?|À quel endroit irais-tu pour trouver un ticket de tramway à l’unité en France ?
+ville-471|À quel moment de la semaine préférerais-tu préparer un trajet en transports ?|À quel moment de la semaine préférerais-tu trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-472|Dans quelle situation déciderais-tu d’acheter une heure de stationnement dans un parking du centre de Paris ?|Dans quelle situation déciderais-tu d’acheter un café en terrasse ?
+ville-473|À qui demanderais-tu de l’aide pour préparer un trajet de nuit ?|À qui demanderais-tu de l’aide pour choisir un café pour travailler ?
+ville-474|Où chercherais-tu une heure de stationnement dans un parking du centre de Paris en premier ?|Où chercherais-tu un café en terrasse en premier ?
+ville-475|En combien de temps pourrais-tu organiser une journée de visites à Rome sans voiture ?|En combien de temps pourrais-tu choisir un musée proche ?
+ville-476|Combien de temps te faudrait-il pour préparer un trajet à vélo en ville ?|Combien de temps te faudrait-il pour trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-477|Selon toi, quel est le prix d’une carte de transport rechargeable ?|Selon toi, quel est le prix d’une séance de cinéma de quartier ?
+ville-478|Selon toi, quel est le prix d’un ticket de tramway à l’unité en France ?|Selon toi, quel est le prix d’une heure de stationnement dans un parking du centre de Paris ?
+ville-479|Combien de temps te faudrait-il pour comparer deux itinéraires de métro ?|Combien de temps te faudrait-il pour acheter un billet de train régional au distributeur en gare ?
+ville-480|Qui pourrait te donner le meilleur conseil pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?|Qui pourrait te donner le meilleur conseil pour repérer un restaurant près d’une gare ?
+ville-481|Qu’est-ce qui te pousserait à acheter une entrée adulte dans un musée municipal payant ?|Qu’est-ce qui te pousserait à acheter un ticket de tramway à l’unité en France ?
+ville-482|À ton avis, combien coûte une entrée à une exposition locale ?|À ton avis, combien coûte une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-483|À quel moment aurais-tu envie d’acheter un café en terrasse ?|À quel moment aurais-tu envie de réserver un repas dans une brasserie de quartier ?
+ville-484|Qui contacterais-tu pour t’aider à préparer un trajet à vélo en ville ?|Qui contacterais-tu pour t’aider à trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-485|Qu’est-ce qui te pousserait à acheter un ticket de métro à l’unité à Paris ?|Qu’est-ce qui te pousserait à acheter un abonnement mensuel aux transports en commun à Paris ?
+ville-486|Quelle serait ta première réaction si un ami te donne le mauvais lieu de rendez-vous ?|Quelle serait ta première réaction si un automobiliste te laisse passer ?
+ville-487|À quel endroit irais-tu pour trouver une entrée à une exposition locale ?|À quel endroit irais-tu pour trouver une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-488|Quel prix imagines-tu pour un café en terrasse ?|Quel prix imagines-tu pour un repas dans une brasserie de quartier ?
+ville-489|À quel moment de la semaine préférerais-tu préparer un trajet à vélo en ville ?|À quel moment de la semaine préférerais-tu trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-490|Au-delà de quel prix hésiterais-tu à acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Au-delà de quel prix hésiterais-tu à réserver une visite guidée de quartier ?
+ville-491|Quelle personne de ton entourage pourrait t’aider à organiser une journée de visites à Rome sans voiture ?|Quelle personne de ton entourage pourrait t’aider à choisir un musée proche ?
+ville-492|Dans quelle situation déciderais-tu d’acheter un pass touristique de deux jours ?|Dans quelle situation déciderais-tu d’acheter un aller simple en TER pour un trajet de 50 km ?
+ville-493|À quel moment aurais-tu envie d’acheter un aller simple en TER pour un trajet de 50 km ?|À quel moment aurais-tu envie d’acheter un ticket de métro à l’unité à Paris ?
+ville-494|Qu’est-ce que tu dirais sur le moment si tu te trompes de sortie de métro ?|Qu’est-ce que tu dirais sur le moment si un bus passe devant toi sans s’arrêter ?
+ville-495|Quel budget maximal prévoirais-tu pour un abonnement de vélos partagés ?|Quel budget maximal prévoirais-tu pour une carte de transport rechargeable ?
+ville-496|Quelle serait ta principale difficulté pour choisir un café pour travailler ?|Quelle serait ta principale difficulté pour retrouver un ami dans la gare de Lyon à Paris ?
+ville-497|Quel budget maximal prévoirais-tu pour un ticket de métro à l’unité à Paris ?|Quel budget maximal prévoirais-tu pour un abonnement mensuel aux transports en commun à Paris ?
+ville-498|Comment réagirais-tu si la machine à tickets est hors service ?|Comment réagirais-tu si tu te retrouves dans le mauvais bus ?
+ville-499|Qu’est-ce qui te pousserait à acheter un abonnement de vélos partagés ?|Qu’est-ce qui te pousserait à acheter une carte de transport rechargeable ?
+ville-500|Comment réagirais-tu si un touriste te demande sa direction ?|Comment réagirais-tu si un chauffeur manque ton arrêt ?
+ville-501|Quel serait le point le plus important pour repérer un restaurant près d’une gare ?|Quel serait le point le plus important pour organiser une visite de quartier ?
+ville-502|Quelle serait ta principale difficulté pour trouver un parcours de promenade accessible en fauteuil roulant ?|Quelle serait ta principale difficulté pour préparer un changement de ligne ?
+ville-503|Comment réagirais-tu si un cycliste sonne derrière toi ?|Comment réagirais-tu si un piéton te demande l’heure ?
+ville-504|Combien de temps prévoirais-tu pour préparer un trajet de nuit ?|Combien de temps prévoirais-tu pour choisir un café pour travailler ?
+ville-505|À quel moment aurais-tu envie d’acheter un ticket de navette entre un aéroport et le centre-ville ?|À quel moment aurais-tu envie d’acheter un abonnement de vélos partagés ?
+ville-506|Pour quelle occasion voudrais-tu acheter un abonnement mensuel aux transports en commun à Paris ?|Pour quelle occasion voudrais-tu acheter un trajet de cinq kilomètres en taxi dans Paris ?
+ville-507|Qui pourrait te donner le meilleur conseil pour préparer un changement de ligne ?|Qui pourrait te donner le meilleur conseil pour chercher un commerce ouvert le dimanche ?
+ville-508|Jusqu’à combien paierais-tu pour un ticket de navette entre un aéroport et le centre-ville ?|Jusqu’à combien paierais-tu pour un abonnement de vélos partagés ?
+ville-509|Qu’est-ce que tu dirais sur le moment si ton train change de quai au dernier moment ?|Qu’est-ce que tu dirais sur le moment si un inconnu te demande de prendre une photo ?
+ville-510|Qu’est-ce que tu dirais sur le moment si un ami te donne le mauvais lieu de rendez-vous ?|Qu’est-ce que tu dirais sur le moment si un automobiliste te laisse passer ?
+ville-511|Combien de temps te faudrait-il pour préparer un trajet en transports ?|Combien de temps te faudrait-il pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-512|Où irais-tu pour acheter un ticket de tramway à l’unité en France ?|Où irais-tu pour acheter une heure de stationnement dans un parking du centre de Paris ?
+ville-513|À ton avis, combien de temps faut-il pour trouver une terrasse de café calme à moins de dix minutes à pied ?|À ton avis, combien de temps faut-il pour organiser une journée de visites à Rome sans voiture ?
+ville-514|Dans quelle situation déciderais-tu d’acheter un trajet de cinq kilomètres en taxi dans Paris ?|Dans quelle situation déciderais-tu d’acheter un billet adulte pour un bus touristique à Paris ?
+ville-515|Comment répondrais-tu si un chauffeur manque ton arrêt ?|Comment répondrais-tu si tu te trompes de sortie de métro ?
+ville-516|Pour quelle occasion voudrais-tu acheter un ticket de tramway à l’unité en France ?|Pour quelle occasion voudrais-tu acheter une heure de stationnement dans un parking du centre de Paris ?
+ville-517|Quel serait le meilleur moment pour trouver une terrasse de café calme à moins de dix minutes à pied ?|Quel serait le meilleur moment pour organiser une journée de visites à Rome sans voiture ?
+ville-518|Où chercherais-tu une visite guidée de quartier en premier ?|Où chercherais-tu un ticket de navette entre un aéroport et le centre-ville en premier ?
+ville-519|Quel serait ton premier réflexe si le panneau d’arrêt n’affiche plus les horaires ?|Quel serait ton premier réflexe si un ami te donne le mauvais lieu de rendez-vous ?
+ville-520|Que dirais-tu si un inconnu te demande de prendre une photo ?|Que dirais-tu si tu trouves un portefeuille sur le trottoir ?
+ville-521|Quel serait le point le plus important pour faire une course dans le centre-ville ?|Quel serait le point le plus important pour visiter un marché de quartier ?
+ville-522|Comment répondrais-tu si le panneau d’arrêt n’affiche plus les horaires ?|Comment répondrais-tu si un ami te donne le mauvais lieu de rendez-vous ?
+ville-523|Quel serait le point le plus important pour trouver une adresse sans GPS ?|Quel serait le point le plus important pour préparer un trajet de nuit ?
+ville-524|Quel moment de la journée choisirais-tu pour trouver une adresse sans GPS ?|Quel moment de la journée choisirais-tu pour préparer un trajet de nuit ?
+ville-525|Quel serait ton premier réflexe si un piéton te demande l’heure ?|Quel serait ton premier réflexe si ton train change de quai au dernier moment ?
+ville-526|Sur quel site ou dans quel magasin chercherais-tu un café en terrasse ?|Sur quel site ou dans quel magasin chercherais-tu un repas dans une brasserie de quartier ?
+ville-527|Qu’est-ce que tu ferais en premier si un inconnu te demande de prendre une photo ?|Qu’est-ce que tu ferais en premier si tu trouves un portefeuille sur le trottoir ?
+ville-528|Quelle personne de ton entourage pourrait t’aider à repérer un restaurant près d’une gare ?|Quelle personne de ton entourage pourrait t’aider à organiser une visite de quartier ?
+ville-529|Quel budget maximal prévoirais-tu pour une entrée adulte dans un musée municipal payant ?|Quel budget maximal prévoirais-tu pour un ticket de tramway à l’unité en France ?
+ville-530|Quelle phrase sortirait de ta bouche si tu trouves un portefeuille sur le trottoir ?|Quelle phrase sortirait de ta bouche si la rue que tu connais est barrée ?
+ville-531|Que dirais-tu si un bus passe devant toi sans s’arrêter ?|Que dirais-tu si un cycliste sonne derrière toi ?
+ville-532|Comment répondrais-tu si un piéton te demande l’heure ?|Comment répondrais-tu si ton train change de quai au dernier moment ?
+imaginaire-332|Combien de temps te faudrait-il pour organiser une journée totalement libre ?|Combien de temps te faudrait-il pour imaginer ta maison idéale ?
+imaginaire-333|Selon toi, quel est le prix d’une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?|Selon toi, quel est le prix d’un séjour surprise de trois jours pour deux personnes à Rome, transport inclus ?
+imaginaire-334|À qui demanderais-tu de l’aide pour préparer une surprise à tout ton entourage ?|À qui demanderais-tu de l’aide pour organiser une journée totalement libre ?
+imaginaire-335|Quelle personne de ton entourage pourrait t’aider à préparer un défi personnel pour l’année ?|Quelle personne de ton entourage pourrait t’aider à choisir une destination où retourner souvent ?
+imaginaire-336|Au-delà de quel prix hésiterais-tu à réserver la location d’une cabane au bord d’un lac pour un week-end ?|Au-delà de quel prix hésiterais-tu à acheter un grand atelier pour tes loisirs ?
+imaginaire-337|Combien penses-tu que vaut un grand atelier pour tes loisirs ?|Combien penses-tu que vaut une bibliothèque personnelle sur mesure ?
+imaginaire-338|Comment réagirais-tu si on te donne une heure de plus chaque matin ?|Comment réagirais-tu si tu peux poser une question à ton toi du futur ?
+imaginaire-339|Quel serait le point le plus important pour préparer une grande fête sans contrainte ?|Quel serait le point le plus important pour choisir une activité à tester gratuitement ?
+imaginaire-340|Combien de temps te faudrait-il pour faire une liste de voyages rêvés ?|Combien de temps te faudrait-il pour choisir un talent à apprendre rapidement ?
+imaginaire-341|Dans quelle situation déciderais-tu d’acheter un abonnement illimité au cinéma ?|Dans quelle situation déciderais-tu de réserver un séjour dans une ville étrangère ?
+imaginaire-342|Combien serais-tu prêt à dépenser pour un séjour surprise de trois jours pour deux personnes à Rome, transport inclus ?|Combien serais-tu prêt à dépenser pour une semaine dans un hôtel de rêve ?
+imaginaire-343|Combien penses-tu que vaut un abonnement illimité au cinéma ?|Combien penses-tu que vaut un séjour dans une ville étrangère ?
+imaginaire-344|Combien penses-tu que vaut la location d’un petit bateau pour une journée ?|Combien penses-tu que vaut une salle de sport à domicile ?
+imaginaire-345|Qu’est-ce qui te pousserait à acheter un billet d’avion aller-retour pour l’Europe à dates flexibles ?|Qu’est-ce qui te pousserait à réserver la location d’une cabane au bord d’un lac pour un week-end ?
+imaginaire-346|Quel prix imagines-tu pour une semaine dans un hôtel de rêve ?|Quel prix imagines-tu pour un cours particulier avec un expert ?
+imaginaire-347|Combien de temps prévoirais-tu pour choisir une activité à tester gratuitement ?|Combien de temps prévoirais-tu pour organiser un voyage avec ton meilleur ami ?
+imaginaire-348|Dans quelle situation déciderais-tu d’acheter un grand atelier pour tes loisirs ?|Dans quelle situation déciderais-tu d’acheter une bibliothèque personnelle sur mesure ?
+imaginaire-349|Quelle serait ta principale difficulté pour organiser un voyage avec ton meilleur ami ?|Quelle serait ta principale difficulté pour imaginer une semaine sans téléphone ?
+imaginaire-350|À quel endroit irais-tu pour trouver un jardin aménagé pour lire ?|À quel endroit irais-tu pour trouver la location d’une voiture de collection pour une journée ?
+imaginaire-351|Qu’est-ce qui te pousserait à réserver un voyage de trois mois en train à travers plusieurs pays ?|Qu’est-ce qui te pousserait à acheter une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?
+imaginaire-352|Selon toi, quel est le prix de la location d’une cabane au bord d’un lac pour un week-end ?|Selon toi, quel est le prix d’un grand atelier pour tes loisirs ?
+imaginaire-353|Si tu devais choisir un talent à apprendre rapidement, quelle serait ta priorité ?|Si tu devais réorganiser ton emploi du temps idéal, quelle serait ta priorité ?
+imaginaire-354|Quel serait le point le plus important pour choisir un métier à essayer une journée ?|Quel serait le point le plus important pour organiser un dîner avec des personnes célèbres ?
+imaginaire-355|Combien de temps te faudrait-il pour organiser un voyage avec ton meilleur ami ?|Combien de temps te faudrait-il pour imaginer une semaine sans téléphone ?
+imaginaire-356|Quel budget maximal prévoirais-tu pour un jardin aménagé pour lire ?|Quel budget maximal prévoirais-tu pour la location d’une voiture de collection pour une journée ?
+imaginaire-357|Quelle serait ta première réaction si tu peux inviter cinq personnes à un grand dîner ?|Quelle serait ta première réaction si tu as une bibliothèque avec tous les livres du monde ?
+imaginaire-358|Comment répondrais-tu si tu peux essayer n’importe quel métier une journée ?|Comment répondrais-tu si tu découvres une lettre écrite par toi dans dix ans ?
+imaginaire-359|Quel budget maximal prévoirais-tu pour un week-end dans un château ?|Quel budget maximal prévoirais-tu pour un concert privé en petit comité ?
+imaginaire-360|À quel moment aurais-tu envie de réserver un séjour dans une ville étrangère ?|À quel moment aurais-tu envie de réserver un week-end dans un château ?
+imaginaire-361|Où chercherais-tu la location d’un petit bateau pour une journée en premier ?|Où chercherais-tu une salle de sport à domicile en premier ?
+imaginaire-362|Si tu devais imaginer une semaine sans téléphone, quelle serait ta priorité ?|Si tu devais préparer un défi personnel pour l’année, quelle serait ta priorité ?
+imaginaire-363|Quel serait le meilleur moment pour choisir une nouvelle ville où habiter ?|Quel serait le meilleur moment pour préparer un voyage sans limite de budget ?
+imaginaire-364|Combien de temps prévoirais-tu pour préparer une surprise à tout ton entourage ?|Combien de temps prévoirais-tu pour organiser une journée totalement libre ?
+imaginaire-365|Quelle serait ta première réaction si tu découvres une lettre écrite par toi dans dix ans ?|Quelle serait ta première réaction si on t’offre une maison dans la ville de ton choix ?
+imaginaire-366|Quel serait le point le plus important pour réorganiser ton emploi du temps idéal ?|Quel serait le point le plus important pour préparer une surprise à tout ton entourage ?
+imaginaire-367|À quel endroit irais-tu pour trouver un cours particulier avec un expert ?|À quel endroit irais-tu pour trouver un dîner pour deux préparé à domicile par un chef ?
+imaginaire-368|Selon toi, quel est le prix d’un dîner pour deux préparé à domicile par un chef ?|Selon toi, quel est le prix d’un abonnement illimité au cinéma ?
+imaginaire-369|Quel prix imagines-tu pour une salle de sport à domicile ?|Quel prix imagines-tu pour un jardin aménagé pour lire ?
+imaginaire-370|Qu’est-ce que tu ferais en premier si tu gagnes un voyage sans connaître la destination ?|Qu’est-ce que tu ferais en premier si on te propose une année entière de congé ?
+imaginaire-371|Qu’est-ce que tu dirais sur le moment si un inconnu t’offre un billet pour n’importe quel pays ?|Qu’est-ce que tu dirais sur le moment si tu as accès à tous les musées gratuitement ?
+imaginaire-372|Dans quelle situation déciderais-tu d’acheter une expérience de pilotage accompagnée ?|Dans quelle situation déciderais-tu de réserver une retraite de création artistique ?
+imaginaire-373|Quel créneau de la journée serait le plus pratique pour choisir une activité à tester gratuitement ?|Quel créneau de la journée serait le plus pratique pour organiser un voyage avec ton meilleur ami ?
+imaginaire-374|Qu’est-ce qui te pousserait à acheter un jardin aménagé pour lire ?|Qu’est-ce qui te pousserait à réserver la location d’une voiture de collection pour une journée ?
+imaginaire-375|En combien de temps pourrais-tu préparer un défi personnel pour l’année ?|En combien de temps pourrais-tu choisir une destination où retourner souvent ?
+imaginaire-376|Quel prix imagines-tu pour un séjour dans une ville étrangère ?|Quel prix imagines-tu pour un week-end dans un château ?
+imaginaire-377|Jusqu’à combien paierais-tu pour une retraite de création artistique ?|Jusqu’à combien paierais-tu pour un billet d’avion aller-retour pour l’Europe à dates flexibles ?
+imaginaire-378|Comment réagirais-tu si on te propose un voyage en train de trois mois ?|Comment réagirais-tu si tu peux refaire une journée qui s’est mal passée ?
+imaginaire-379|Pour quelle occasion voudrais-tu acheter un dîner pour deux préparé à domicile par un chef ?|Pour quelle occasion voudrais-tu acheter un abonnement illimité au cinéma ?
+imaginaire-380|À ton avis, combien de temps faut-il pour choisir un talent à apprendre rapidement ?|À ton avis, combien de temps faut-il pour réorganiser ton emploi du temps idéal ?
+imaginaire-381|Quel serait le meilleur moment pour préparer une année sabbatique ?|Quel serait le meilleur moment pour choisir un métier à essayer une journée ?
+imaginaire-382|À ton avis, combien coûte un cours particulier avec un expert ?|À ton avis, combien coûte un dîner pour deux préparé à domicile par un chef ?
+imaginaire-383|Quel créneau de la journée serait le plus pratique pour préparer une surprise à tout ton entourage ?|Quel créneau de la journée serait le plus pratique pour organiser une journée totalement libre ?
+imaginaire-384|Quel détail vérifierais-tu avant d’organiser un dîner avec des personnes célèbres ?|Quel détail vérifierais-tu avant de faire une liste de voyages rêvés ?
+imaginaire-385|Quel moment de la journée choisirais-tu pour préparer une grande fête sans contrainte ?|Quel moment de la journée choisirais-tu pour choisir une activité à tester gratuitement ?
+imaginaire-386|Qui pourrait te donner le meilleur conseil pour imaginer une semaine sans téléphone ?|Qui pourrait te donner le meilleur conseil pour préparer un défi personnel pour l’année ?
+imaginaire-387|Jusqu’à combien paierais-tu pour une semaine dans un hôtel de rêve ?|Jusqu’à combien paierais-tu pour un cours particulier avec un expert ?
+imaginaire-388|Qu’est-ce qui te pousserait à acheter un cours particulier avec un expert ?|Qu’est-ce qui te pousserait à acheter un dîner pour deux préparé à domicile par un chef ?
+imaginaire-389|Qu’est-ce que tu ferais en premier si tu as accès à tous les musées gratuitement ?|Qu’est-ce que tu ferais en premier si on te donne une heure de plus chaque matin ?
+imaginaire-390|Quel moment de la journée choisirais-tu pour réorganiser ton emploi du temps idéal ?|Quel moment de la journée choisirais-tu pour préparer une surprise à tout ton entourage ?
+imaginaire-391|Combien penses-tu que vaut un séjour surprise de trois jours pour deux personnes à Rome, transport inclus ?|Combien penses-tu que vaut une semaine dans un hôtel de rêve ?
+imaginaire-392|Selon toi, quel est le prix d’un concert privé en petit comité ?|Selon toi, quel est le prix de la location d’un petit bateau pour une journée ?
+imaginaire-393|Quel serait le point le plus important pour préparer un défi personnel pour l’année ?|Quel serait le point le plus important pour choisir une destination où retourner souvent ?
+imaginaire-394|Que dirais-tu si tu gagnes un voyage sans connaître la destination ?|Que dirais-tu si on te propose une année entière de congé ?
+imaginaire-395|Qu’est-ce qui te pousserait à réserver un week-end dans un château ?|Qu’est-ce qui te pousserait à acheter un concert privé en petit comité ?
+imaginaire-396|Qui contacterais-tu pour t’aider à organiser un mois de vacances libres ?|Qui contacterais-tu pour t’aider à choisir une nouvelle ville où habiter ?
+imaginaire-397|Jusqu’à combien paierais-tu pour un séjour dans une ville étrangère ?|Jusqu’à combien paierais-tu pour un week-end dans un château ?
+imaginaire-398|Au-delà de quel prix hésiterais-tu à acheter un concert privé en petit comité ?|Au-delà de quel prix hésiterais-tu à réserver la location d’un petit bateau pour une journée ?
+imaginaire-399|Qu’est-ce que tu dirais sur le moment si tu reçois un budget pour réaliser un rêve ?|Qu’est-ce que tu dirais sur le moment si tu peux choisir une nouvelle compétence instantanément ?
+imaginaire-400|Combien de temps prévoirais-tu pour organiser un dîner avec des personnes célèbres ?|Combien de temps prévoirais-tu pour faire une liste de voyages rêvés ?
+imaginaire-401|Quelle serait ta principale difficulté pour organiser une journée totalement libre ?|Quelle serait ta principale difficulté pour imaginer ta maison idéale ?
+imaginaire-402|Quelle phrase sortirait de ta bouche si tu peux revivre un seul jour heureux ?|Quelle phrase sortirait de ta bouche si tu peux passer une soirée avec ton artiste préféré ?
+imaginaire-403|Où chercherais-tu un grand atelier pour tes loisirs en premier ?|Où chercherais-tu une bibliothèque personnelle sur mesure en premier ?
+imaginaire-404|Sur quel site ou dans quel magasin chercherais-tu une bibliothèque personnelle sur mesure ?|Sur quel site ou dans quel magasin chercherais-tu un voyage de trois mois en train à travers plusieurs pays ?
+imaginaire-405|Quel serait ton premier réflexe si tu peux essayer n’importe quel métier une journée ?|Quel serait ton premier réflexe si tu découvres une lettre écrite par toi dans dix ans ?
+imaginaire-406|Quel détail vérifierais-tu avant de choisir une destination où retourner souvent ?|Quel détail vérifierais-tu avant d’organiser un mois de vacances libres ?
+imaginaire-407|Combien serais-tu prêt à dépenser pour une expérience de pilotage accompagnée ?|Combien serais-tu prêt à dépenser pour une retraite de création artistique ?
+imaginaire-408|Comment répondrais-tu si tu peux refaire une journée qui s’est mal passée ?|Comment répondrais-tu si tu peux inviter cinq personnes à un grand dîner ?
+imaginaire-409|Quel serait ton premier réflexe si tu peux passer une soirée avec ton artiste préféré ?|Quel serait ton premier réflexe si un inconnu t’offre un billet pour n’importe quel pays ?
+imaginaire-410|Jusqu’à combien paierais-tu pour une salle de sport à domicile ?|Jusqu’à combien paierais-tu pour un jardin aménagé pour lire ?
+imaginaire-411|À quel moment aurais-tu envie d’acheter une bibliothèque personnelle sur mesure ?|À quel moment aurais-tu envie de réserver un voyage de trois mois en train à travers plusieurs pays ?
+imaginaire-412|Combien penses-tu que vaut une expérience de pilotage accompagnée ?|Combien penses-tu que vaut une retraite de création artistique ?
+imaginaire-413|En combien de temps pourrais-tu réorganiser ton emploi du temps idéal ?|En combien de temps pourrais-tu préparer une surprise à tout ton entourage ?
+imaginaire-414|Pour quelle occasion voudrais-tu acheter un concert privé en petit comité ?|Pour quelle occasion voudrais-tu réserver la location d’un petit bateau pour une journée ?
+imaginaire-415|Comment répondrais-tu si tu peux changer un détail de ton quotidien ?|Comment répondrais-tu si tu peux passer une semaine à réaliser un vieux projet ?
+imaginaire-416|Qu’est-ce que tu dirais sur le moment si tu peux passer une semaine à réaliser un vieux projet ?|Qu’est-ce que tu dirais sur le moment si tu gagnes un voyage sans connaître la destination ?
+imaginaire-417|À quel moment aurais-tu envie de réserver une retraite de création artistique ?|À quel moment aurais-tu envie d’acheter un billet d’avion aller-retour pour l’Europe à dates flexibles ?
+imaginaire-418|Quelle personne de ton entourage pourrait t’aider à préparer une grande fête sans contrainte ?|Quelle personne de ton entourage pourrait t’aider à choisir une activité à tester gratuitement ?
+imaginaire-419|Où irais-tu pour acheter une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?|Où irais-tu pour réserver un séjour surprise de trois jours pour deux personnes à Rome, transport inclus ?
+imaginaire-420|Qui pourrait te donner le meilleur conseil pour choisir une nouvelle ville où habiter ?|Qui pourrait te donner le meilleur conseil pour préparer un voyage sans limite de budget ?
+imaginaire-421|En combien de temps pourrais-tu choisir un métier à essayer une journée ?|En combien de temps pourrais-tu organiser un dîner avec des personnes célèbres ?
+imaginaire-422|Où irais-tu pour acheter un concert privé en petit comité ?|Où irais-tu pour réserver la location d’un petit bateau pour une journée ?
+imaginaire-423|Sur quel site ou dans quel magasin chercherais-tu une semaine dans un hôtel de rêve ?|Sur quel site ou dans quel magasin chercherais-tu un cours particulier avec un expert ?
+imaginaire-424|Combien serais-tu prêt à dépenser pour la location d’un petit bateau pour une journée ?|Combien serais-tu prêt à dépenser pour une salle de sport à domicile ?
+imaginaire-425|Si tu devais préparer une année sabbatique, quelle serait ta priorité ?|Si tu devais choisir un métier à essayer une journée, quelle serait ta priorité ?
+imaginaire-426|Qui pourrait te donner le meilleur conseil pour préparer une année sabbatique ?|Qui pourrait te donner le meilleur conseil pour choisir un métier à essayer une journée ?
+imaginaire-427|À quel moment de la semaine préférerais-tu faire une liste de voyages rêvés ?|À quel moment de la semaine préférerais-tu choisir un talent à apprendre rapidement ?
+imaginaire-428|Comment répondrais-tu si tu peux passer une soirée avec ton artiste préféré ?|Comment répondrais-tu si un inconnu t’offre un billet pour n’importe quel pays ?
+imaginaire-429|Quel détail vérifierais-tu avant d’apprendre une nouvelle langue ?|Quel détail vérifierais-tu avant de monter un projet personnel de rêve ?
+imaginaire-430|Pour quelle occasion voudrais-tu réserver la location d’une voiture de collection pour une journée ?|Pour quelle occasion voudrais-tu acheter une expérience de pilotage accompagnée ?
+imaginaire-431|Quel créneau de la journée serait le plus pratique pour apprendre une nouvelle langue ?|Quel créneau de la journée serait le plus pratique pour monter un projet personnel de rêve ?
+imaginaire-432|Quelle phrase sortirait de ta bouche si on te propose un voyage en train de trois mois ?|Quelle phrase sortirait de ta bouche si tu peux refaire une journée qui s’est mal passée ?
+imaginaire-433|Selon toi, quel est le prix de la location d’une voiture de collection pour une journée ?|Selon toi, quel est le prix d’une expérience de pilotage accompagnée ?
+imaginaire-434|Qu’est-ce que tu ferais en premier si on t’offre une maison dans la ville de ton choix ?|Qu’est-ce que tu ferais en premier si tu peux revivre un seul jour heureux ?
+imaginaire-435|À ton avis, combien de temps faut-il pour préparer une année sabbatique ?|À ton avis, combien de temps faut-il pour choisir un métier à essayer une journée ?
+imaginaire-436|Quel serait le meilleur moment pour choisir un talent à apprendre rapidement ?|Quel serait le meilleur moment pour réorganiser ton emploi du temps idéal ?
+imaginaire-437|Comment réagirais-tu si on te propose une année entière de congé ?|Comment réagirais-tu si tu peux essayer n’importe quel métier une journée ?
+imaginaire-438|Qu’est-ce que tu dirais sur le moment si tu peux inviter cinq personnes à un grand dîner ?|Qu’est-ce que tu dirais sur le moment si tu as une bibliothèque avec tous les livres du monde ?
+imaginaire-439|Quelle serait ta première réaction si tu peux passer une semaine à réaliser un vieux projet ?|Quelle serait ta première réaction si tu gagnes un voyage sans connaître la destination ?
+imaginaire-440|Comment répondrais-tu si tu peux poser une question à ton toi du futur ?|Comment répondrais-tu si tu reçois un budget pour réaliser un rêve ?
+imaginaire-441|Quel détail vérifierais-tu avant de choisir une activité à tester gratuitement ?|Quel détail vérifierais-tu avant d’organiser un voyage avec ton meilleur ami ?
+imaginaire-442|Qu’est-ce que tu ferais en premier si tu peux choisir une nouvelle compétence instantanément ?|Qu’est-ce que tu ferais en premier si on te propose un voyage en train de trois mois ?
+imaginaire-443|Quel créneau de la journée serait le plus pratique pour organiser un dîner avec des personnes célèbres ?|Quel créneau de la journée serait le plus pratique pour faire une liste de voyages rêvés ?
+imaginaire-444|Qui contacterais-tu pour t’aider à faire une liste de voyages rêvés ?|Qui contacterais-tu pour t’aider à choisir un talent à apprendre rapidement ?
+imaginaire-445|À ton avis, combien de temps faut-il pour imaginer une semaine sans téléphone ?|À ton avis, combien de temps faut-il pour préparer un défi personnel pour l’année ?
+imaginaire-446|Au-delà de quel prix hésiterais-tu à réserver la location d’une voiture de collection pour une journée ?|Au-delà de quel prix hésiterais-tu à acheter une expérience de pilotage accompagnée ?
+imaginaire-447|À ton avis, combien coûte un week-end dans un château ?|À ton avis, combien coûte un concert privé en petit comité ?
+imaginaire-448|Que dirais-tu si on t’offre une maison dans la ville de ton choix ?|Que dirais-tu si tu peux revivre un seul jour heureux ?
+imaginaire-449|Au-delà de quel prix hésiterais-tu à acheter une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?|Au-delà de quel prix hésiterais-tu à réserver un séjour surprise de trois jours pour deux personnes à Rome, transport inclus ?
+imaginaire-450|Combien de temps te faudrait-il pour monter un projet personnel de rêve ?|Combien de temps te faudrait-il pour préparer une année sabbatique ?
+imaginaire-451|Pour quelle occasion voudrais-tu acheter une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?|Pour quelle occasion voudrais-tu réserver un séjour surprise de trois jours pour deux personnes à Rome, transport inclus ?
+imaginaire-452|À quel moment de la semaine préférerais-tu organiser un voyage avec ton meilleur ami ?|À quel moment de la semaine préférerais-tu imaginer une semaine sans téléphone ?
+imaginaire-453|À quel moment de la semaine préférerais-tu organiser une journée totalement libre ?|À quel moment de la semaine préférerais-tu imaginer ta maison idéale ?
+imaginaire-454|Quel prix imagines-tu pour une retraite de création artistique ?|Quel prix imagines-tu pour un billet d’avion aller-retour pour l’Europe à dates flexibles ?
+imaginaire-455|Quelle personne de ton entourage pourrait t’aider à choisir un métier à essayer une journée ?|Quelle personne de ton entourage pourrait t’aider à organiser un dîner avec des personnes célèbres ?
+imaginaire-456|Où irais-tu pour réserver la location d’une voiture de collection pour une journée ?|Où irais-tu pour acheter une expérience de pilotage accompagnée ?
+imaginaire-457|Quelle serait ta principale difficulté pour faire une liste de voyages rêvés ?|Quelle serait ta principale difficulté pour choisir un talent à apprendre rapidement ?
+imaginaire-458|Sur quel site ou dans quel magasin chercherais-tu une salle de sport à domicile ?|Sur quel site ou dans quel magasin chercherais-tu un jardin aménagé pour lire ?
+imaginaire-459|Qu’est-ce que tu ferais en premier si tu as une bibliothèque avec tous les livres du monde ?|Qu’est-ce que tu ferais en premier si tu peux tester une autre ville pendant un an ?
+imaginaire-460|Combien de temps prévoirais-tu pour apprendre une nouvelle langue ?|Combien de temps prévoirais-tu pour monter un projet personnel de rêve ?
+imaginaire-461|À qui demanderais-tu de l’aide pour choisir une activité à tester gratuitement ?|À qui demanderais-tu de l’aide pour organiser un voyage avec ton meilleur ami ?
+imaginaire-462|Quelle serait ta première réaction si un inconnu t’offre un billet pour n’importe quel pays ?|Quelle serait ta première réaction si tu as accès à tous les musées gratuitement ?
+imaginaire-463|En combien de temps pourrais-tu préparer un voyage sans limite de budget ?|En combien de temps pourrais-tu apprendre une nouvelle langue ?
+imaginaire-464|Comment réagirais-tu si tu peux tester une autre ville pendant un an ?|Comment réagirais-tu si tu peux changer un détail de ton quotidien ?
+imaginaire-465|Quel serait ton premier réflexe si tu peux poser une question à ton toi du futur ?|Quel serait ton premier réflexe si tu reçois un budget pour réaliser un rêve ?
+imaginaire-466|Quel moment de la journée choisirais-tu pour préparer un voyage sans limite de budget ?|Quel moment de la journée choisirais-tu pour apprendre une nouvelle langue ?
+imaginaire-467|Quel serait ton premier réflexe si tu peux changer un détail de ton quotidien ?|Quel serait ton premier réflexe si tu peux passer une semaine à réaliser un vieux projet ?
+imaginaire-468|À qui demanderais-tu de l’aide pour organiser un dîner avec des personnes célèbres ?|À qui demanderais-tu de l’aide pour faire une liste de voyages rêvés ?
+imaginaire-469|Pour quelle occasion voudrais-tu réserver la location d’une cabane au bord d’un lac pour un week-end ?|Pour quelle occasion voudrais-tu acheter un grand atelier pour tes loisirs ?
+imaginaire-470|À ton avis, combien de temps faut-il pour choisir une nouvelle ville où habiter ?|À ton avis, combien de temps faut-il pour préparer un voyage sans limite de budget ?
+imaginaire-471|À quel endroit irais-tu pour trouver un week-end dans un château ?|À quel endroit irais-tu pour trouver un concert privé en petit comité ?
+imaginaire-472|Quel budget maximal prévoirais-tu pour un billet d’avion aller-retour pour l’Europe à dates flexibles ?|Quel budget maximal prévoirais-tu pour la location d’une cabane au bord d’un lac pour un week-end ?
+imaginaire-473|À quel moment aurais-tu envie de réserver une semaine dans un hôtel de rêve ?|À quel moment aurais-tu envie d’acheter un cours particulier avec un expert ?
+imaginaire-474|Quelle phrase sortirait de ta bouche si on te donne une heure de plus chaque matin ?|Quelle phrase sortirait de ta bouche si tu peux poser une question à ton toi du futur ?
+imaginaire-475|Quel moment de la journée choisirais-tu pour choisir un métier à essayer une journée ?|Quel moment de la journée choisirais-tu pour organiser un dîner avec des personnes célèbres ?
+imaginaire-476|À ton avis, combien de temps faut-il pour imaginer ta maison idéale ?|À ton avis, combien de temps faut-il pour préparer une grande fête sans contrainte ?
+imaginaire-477|Où chercherais-tu un abonnement illimité au cinéma en premier ?|Où chercherais-tu un séjour dans une ville étrangère en premier ?
+imaginaire-478|Quelle serait ta principale difficulté pour monter un projet personnel de rêve ?|Quelle serait ta principale difficulté pour préparer une année sabbatique ?
+imaginaire-479|Quelle serait ta première réaction si tu reçois un budget pour réaliser un rêve ?|Quelle serait ta première réaction si tu peux choisir une nouvelle compétence instantanément ?
+imaginaire-480|Sur quel site ou dans quel magasin chercherais-tu un séjour dans une ville étrangère ?|Sur quel site ou dans quel magasin chercherais-tu un week-end dans un château ?
+imaginaire-481|Quel détail vérifierais-tu avant de préparer une surprise à tout ton entourage ?|Quel détail vérifierais-tu avant d’organiser une journée totalement libre ?
+imaginaire-482|Quelle phrase sortirait de ta bouche si on te propose une année entière de congé ?|Quelle phrase sortirait de ta bouche si tu peux essayer n’importe quel métier une journée ?
+imaginaire-483|À quel endroit irais-tu pour trouver un voyage de trois mois en train à travers plusieurs pays ?|À quel endroit irais-tu pour trouver une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?
+imaginaire-484|Qu’est-ce que tu dirais sur le moment si tu découvres une lettre écrite par toi dans dix ans ?|Qu’est-ce que tu dirais sur le moment si on t’offre une maison dans la ville de ton choix ?
+imaginaire-485|Qui contacterais-tu pour t’aider à organiser un voyage avec ton meilleur ami ?|Qui contacterais-tu pour t’aider à imaginer une semaine sans téléphone ?
+imaginaire-486|À ton avis, combien coûte un jardin aménagé pour lire ?|À ton avis, combien coûte la location d’une voiture de collection pour une journée ?
+imaginaire-487|Combien serais-tu prêt à dépenser pour un abonnement illimité au cinéma ?|Combien serais-tu prêt à dépenser pour un séjour dans une ville étrangère ?
+imaginaire-488|Quel serait ton premier réflexe si tu peux refaire une journée qui s’est mal passée ?|Quel serait ton premier réflexe si tu peux inviter cinq personnes à un grand dîner ?
+imaginaire-489|À quel moment de la semaine préférerais-tu organiser un mois de vacances libres ?|À quel moment de la semaine préférerais-tu choisir une nouvelle ville où habiter ?
+imaginaire-490|Qui contacterais-tu pour t’aider à organiser une journée totalement libre ?|Qui contacterais-tu pour t’aider à imaginer ta maison idéale ?
+imaginaire-491|Si tu devais choisir une nouvelle ville où habiter, quelle serait ta priorité ?|Si tu devais préparer un voyage sans limite de budget, quelle serait ta priorité ?
+imaginaire-492|À quel moment aurais-tu envie d’acheter une salle de sport à domicile ?|À quel moment aurais-tu envie d’acheter un jardin aménagé pour lire ?
+imaginaire-493|Combien serais-tu prêt à dépenser pour un grand atelier pour tes loisirs ?|Combien serais-tu prêt à dépenser pour une bibliothèque personnelle sur mesure ?
+imaginaire-494|Que dirais-tu si tu as accès à tous les musées gratuitement ?|Que dirais-tu si on te donne une heure de plus chaque matin ?
+imaginaire-495|Quel serait le point le plus important pour préparer un voyage sans limite de budget ?|Quel serait le point le plus important pour apprendre une nouvelle langue ?
+imaginaire-496|Sur quel site ou dans quel magasin chercherais-tu une retraite de création artistique ?|Sur quel site ou dans quel magasin chercherais-tu un billet d’avion aller-retour pour l’Europe à dates flexibles ?
+imaginaire-497|Quel budget maximal prévoirais-tu pour un voyage de trois mois en train à travers plusieurs pays ?|Quel budget maximal prévoirais-tu pour une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?
+imaginaire-498|À ton avis, combien coûte un billet d’avion aller-retour pour l’Europe à dates flexibles ?|À ton avis, combien coûte la location d’une cabane au bord d’un lac pour un week-end ?
+imaginaire-499|Au-delà de quel prix hésiterais-tu à acheter un dîner pour deux préparé à domicile par un chef ?|Au-delà de quel prix hésiterais-tu à acheter un abonnement illimité au cinéma ?
+imaginaire-500|Que dirais-tu si tu as une bibliothèque avec tous les livres du monde ?|Que dirais-tu si tu peux tester une autre ville pendant un an ?
+imaginaire-501|Qui contacterais-tu pour t’aider à monter un projet personnel de rêve ?|Qui contacterais-tu pour t’aider à préparer une année sabbatique ?
+imaginaire-502|Quel serait le meilleur moment pour imaginer une semaine sans téléphone ?|Quel serait le meilleur moment pour préparer un défi personnel pour l’année ?
+imaginaire-503|Quelle personne de ton entourage pourrait t’aider à préparer un voyage sans limite de budget ?|Quelle personne de ton entourage pourrait t’aider à apprendre une nouvelle langue ?
+imaginaire-504|Où chercherais-tu une expérience de pilotage accompagnée en premier ?|Où chercherais-tu une retraite de création artistique en premier ?
+imaginaire-505|Si tu devais imaginer ta maison idéale, quelle serait ta priorité ?|Si tu devais préparer une grande fête sans contrainte, quelle serait ta priorité ?
+imaginaire-506|Qui pourrait te donner le meilleur conseil pour imaginer ta maison idéale ?|Qui pourrait te donner le meilleur conseil pour préparer une grande fête sans contrainte ?
+imaginaire-507|Dans quelle situation déciderais-tu de réserver un séjour surprise de trois jours pour deux personnes à Rome, transport inclus ?|Dans quelle situation déciderais-tu de réserver une semaine dans un hôtel de rêve ?
+imaginaire-508|Quel prix imagines-tu pour une bibliothèque personnelle sur mesure ?|Quel prix imagines-tu pour un voyage de trois mois en train à travers plusieurs pays ?
+imaginaire-509|Quel moment de la journée choisirais-tu pour préparer un défi personnel pour l’année ?|Quel moment de la journée choisirais-tu pour choisir une destination où retourner souvent ?
+imaginaire-510|Quel créneau de la journée serait le plus pratique pour choisir une destination où retourner souvent ?|Quel créneau de la journée serait le plus pratique pour organiser un mois de vacances libres ?
+imaginaire-511|À quel endroit irais-tu pour trouver un billet d’avion aller-retour pour l’Europe à dates flexibles ?|À quel endroit irais-tu pour trouver la location d’une cabane au bord d’un lac pour un week-end ?
+imaginaire-512|Jusqu’à combien paierais-tu pour une bibliothèque personnelle sur mesure ?|Jusqu’à combien paierais-tu pour un voyage de trois mois en train à travers plusieurs pays ?
+imaginaire-513|Combien de temps te faudrait-il pour organiser un mois de vacances libres ?|Combien de temps te faudrait-il pour choisir une nouvelle ville où habiter ?
+imaginaire-514|Dans quelle situation déciderais-tu de réserver la location d’un petit bateau pour une journée ?|Dans quelle situation déciderais-tu d’acheter une salle de sport à domicile ?
+imaginaire-515|À quel moment de la semaine préférerais-tu monter un projet personnel de rêve ?|À quel moment de la semaine préférerais-tu préparer une année sabbatique ?
+imaginaire-516|Où chercherais-tu un séjour surprise de trois jours pour deux personnes à Rome, transport inclus en premier ?|Où chercherais-tu une semaine dans un hôtel de rêve en premier ?
+imaginaire-517|Combien de temps prévoirais-tu pour choisir une destination où retourner souvent ?|Combien de temps prévoirais-tu pour organiser un mois de vacances libres ?
+imaginaire-518|Quelle serait ta principale difficulté pour organiser un mois de vacances libres ?|Quelle serait ta principale difficulté pour choisir une nouvelle ville où habiter ?
+imaginaire-519|Comment réagirais-tu si tu peux revivre un seul jour heureux ?|Comment réagirais-tu si tu peux passer une soirée avec ton artiste préféré ?
+imaginaire-520|Où irais-tu pour réserver la location d’une cabane au bord d’un lac pour un week-end ?|Où irais-tu pour acheter un grand atelier pour tes loisirs ?
+imaginaire-521|À qui demanderais-tu de l’aide pour choisir une destination où retourner souvent ?|À qui demanderais-tu de l’aide pour organiser un mois de vacances libres ?
+imaginaire-522|À ton avis, combien coûte un voyage de trois mois en train à travers plusieurs pays ?|À ton avis, combien coûte une maison de 60 m² à moins de 500 mètres de la plage en Bretagne ?
+imaginaire-523|Quel budget maximal prévoirais-tu pour un cours particulier avec un expert ?|Quel budget maximal prévoirais-tu pour un dîner pour deux préparé à domicile par un chef ?
+imaginaire-524|Où irais-tu pour acheter un dîner pour deux préparé à domicile par un chef ?|Où irais-tu pour acheter un abonnement illimité au cinéma ?
+imaginaire-525|Quelle phrase sortirait de ta bouche si tu peux tester une autre ville pendant un an ?|Quelle phrase sortirait de ta bouche si tu peux changer un détail de ton quotidien ?
+imaginaire-526|Que dirais-tu si tu peux choisir une nouvelle compétence instantanément ?|Que dirais-tu si on te propose un voyage en train de trois mois ?
+imaginaire-527|En combien de temps pourrais-tu préparer une grande fête sans contrainte ?|En combien de temps pourrais-tu choisir une activité à tester gratuitement ?
+imaginaire-528|Qui pourrait te donner le meilleur conseil pour choisir un talent à apprendre rapidement ?|Qui pourrait te donner le meilleur conseil pour réorganiser ton emploi du temps idéal ?
+imaginaire-529|Quel serait le meilleur moment pour imaginer ta maison idéale ?|Quel serait le meilleur moment pour préparer une grande fête sans contrainte ?
+imaginaire-530|À qui demanderais-tu de l’aide pour apprendre une nouvelle langue ?|À qui demanderais-tu de l’aide pour monter un projet personnel de rêve ?
+imaginaire-531|Quelle personne de ton entourage pourrait t’aider à réorganiser ton emploi du temps idéal ?|Quelle personne de ton entourage pourrait t’aider à préparer une surprise à tout ton entourage ?
+popculture-333|Comment réagirais-tu si un personnage secondaire devient le héros ?|Comment réagirais-tu si ton ami n’a jamais vu un film que tout le monde connaît ?
+popculture-334|Quel détail vérifierais-tu avant d’organiser un quiz de culture populaire ?|Quel détail vérifierais-tu avant de découvrir un manga connu ?
+popculture-335|Combien penses-tu que vaut un coffret de série télévisée ?|Combien penses-tu que vaut un billet pour une exposition de cinéma ?
+popculture-336|Quel serait le point le plus important pour raconter une scène culte ?|Quel serait le point le plus important pour préparer une recommandation de jeu vidéo ?
+popculture-337|Quelle serait ta première réaction si on t’invite à un quiz sur une série que tu ne connais pas ?|Quelle serait ta première réaction si tu croises un acteur connu dans la rue ?
+popculture-338|Si tu devais préparer une soirée films cultes, quelle serait ta priorité ?|Si tu devais expliquer une référence populaire, quelle serait ta priorité ?
+popculture-339|Quelle personne de ton entourage pourrait t’aider à préparer une liste de films d’animation ?|Quelle personne de ton entourage pourrait t’aider à organiser un quiz de culture populaire ?
+popculture-340|En combien de temps pourrais-tu raconter une scène culte ?|En combien de temps pourrais-tu préparer une recommandation de jeu vidéo ?
+popculture-341|Combien serais-tu prêt à dépenser pour une édition spéciale d’un album ?|Combien serais-tu prêt à dépenser pour une place pour une avant-première de cinéma à Paris ?
+popculture-342|Que dirais-tu si tu croises un acteur connu dans la rue ?|Que dirais-tu si un ami critique ton film culte préféré ?
+popculture-343|Dans quelle situation déciderais-tu d’acheter une édition spéciale d’un album ?|Dans quelle situation déciderais-tu d’acheter une place pour une avant-première de cinéma à Paris ?
+popculture-344|Qui contacterais-tu pour t’aider à choisir ton personnage de fiction préféré ?|Qui contacterais-tu pour t’aider à préparer une soirée films cultes ?
+popculture-345|Quel serait le meilleur moment pour choisir un film à voir en groupe ?|Quel serait le meilleur moment pour raconter une scène culte ?
+popculture-346|Quel moment de la journée choisirais-tu pour préparer une liste de films d’animation ?|Quel moment de la journée choisirais-tu pour organiser un quiz de culture populaire ?
+popculture-347|Où irais-tu pour acheter un billet d’une journée pour une convention pop culture ?|Où irais-tu pour acheter une affiche d’un film culte ?
+popculture-348|À qui demanderais-tu de l’aide pour retrouver l’origine d’un mème ?|À qui demanderais-tu de l’aide pour découvrir une nouvelle franchise ?
+popculture-349|Dans quelle situation déciderais-tu d’acheter une reproduction d’affiche vintage ?|Dans quelle situation déciderais-tu d’acheter une place pour une rencontre avec un auteur ?
+popculture-350|À qui demanderais-tu de l’aide pour recommander une série tendance ?|À qui demanderais-tu de l’aide pour retrouver une citation de film ?
+popculture-351|À ton avis, combien coûte une casquette de franchise célèbre ?|À ton avis, combien coûte un livre d’illustrations consacré à un jeu vidéo ?
+popculture-352|Quelle serait ta première réaction si tu découvres un spoiler sur les réseaux ?|Quelle serait ta première réaction si on te demande ton top trois des séries ?
+popculture-353|Selon toi, quel est le prix d’une peluche de personnage connu ?|Selon toi, quel est le prix d’un carnet illustré de film ?
+popculture-354|Combien penses-tu que vaut un carnet illustré de film ?|Combien penses-tu que vaut une entrée pour un salon de mangas ?
+popculture-355|À ton avis, combien de temps faut-il pour comparer deux adaptations ?|À ton avis, combien de temps faut-il pour choisir une bande originale de film ?
+popculture-356|Pour quelle occasion voudrais-tu acheter un abonnement à un service de streaming ?|Pour quelle occasion voudrais-tu acheter une édition spéciale d’un album ?
+popculture-357|Quel détail vérifierais-tu avant de faire découvrir un classique à un ami ?|Quel détail vérifierais-tu avant de trouver le nom d’un acteur connu ?
+popculture-358|Comment réagirais-tu si un ami critique ton film culte préféré ?|Comment réagirais-tu si un mème que tu ne comprends pas devient viral ?
+popculture-359|À ton avis, combien coûte une édition collector d’une bande dessinée connue ?|À ton avis, combien coûte un abonnement à un service de streaming ?
+popculture-360|Qui contacterais-tu pour t’aider à trouver le nom d’un acteur connu ?|Qui contacterais-tu pour t’aider à préparer une soirée déguisée de cinéma ?
+popculture-361|Combien penses-tu que vaut une reproduction d’affiche vintage ?|Combien penses-tu que vaut une place pour une rencontre avec un auteur ?
+popculture-362|Qui contacterais-tu pour t’aider à retrouver une citation de film ?|Qui contacterais-tu pour t’aider à choisir une tenue pour une convention ?
+popculture-363|Combien de temps te faudrait-il pour choisir ton personnage de fiction préféré ?|Combien de temps te faudrait-il pour préparer une soirée films cultes ?
+popculture-364|À ton avis, combien coûte un vinyle de bande originale ?|À ton avis, combien coûte une peluche de personnage connu ?
+popculture-365|Quelle serait ta principale difficulté pour retrouver une citation de film ?|Quelle serait ta principale difficulté pour choisir une tenue pour une convention ?
+popculture-366|Sur quel site ou dans quel magasin chercherais-tu un tee-shirt de série populaire ?|Sur quel site ou dans quel magasin chercherais-tu une édition collector d’une bande dessinée connue ?
+popculture-367|Si tu devais préparer une soirée déguisée de cinéma, quelle serait ta priorité ?|Si tu devais classer tes personnages préférés, quelle serait ta priorité ?
+popculture-368|Quelle personne de ton entourage pourrait t’aider à raconter une scène culte ?|Quelle personne de ton entourage pourrait t’aider à préparer une recommandation de jeu vidéo ?
+popculture-369|Quelle serait ta principale difficulté pour choisir ton personnage de fiction préféré ?|Quelle serait ta principale difficulté pour préparer une soirée films cultes ?
+popculture-370|Quelle serait ta première réaction si tu gagnes deux places pour une avant-première ?|Quelle serait ta première réaction si un créateur populaire passe près de chez toi ?
+popculture-371|Quel moment de la journée choisirais-tu pour classer tes personnages préférés ?|Quel moment de la journée choisirais-tu pour retrouver l’origine d’un mème ?
+popculture-372|Quel serait le point le plus important pour choisir une bande originale de film ?|Quel serait le point le plus important pour faire découvrir un classique à un ami ?
+popculture-373|Quel prix imagines-tu pour un billet pour une exposition de cinéma ?|Quel prix imagines-tu pour une casquette de franchise célèbre ?
+popculture-374|Quel serait le meilleur moment pour choisir une tenue pour une convention ?|Quel serait le meilleur moment pour préparer une liste de films d’animation ?
+popculture-375|Qu’est-ce que tu dirais sur le moment si une série populaire annonce sa dernière saison ?|Qu’est-ce que tu dirais sur le moment si un acteur est remplacé dans une franchise ?
+popculture-376|Où irais-tu pour acheter un jeu de société sous licence ?|Où irais-tu pour acheter un coffret de série télévisée ?
+popculture-377|Quelle serait ta principale difficulté pour découvrir un manga connu ?|Quelle serait ta principale difficulté pour comparer deux adaptations ?
+popculture-378|Combien de temps prévoirais-tu pour recommander une série tendance ?|Combien de temps prévoirais-tu pour retrouver une citation de film ?
+popculture-379|Combien penses-tu que vaut une affiche d’un film culte ?|Combien penses-tu que vaut un tee-shirt de série populaire ?
+popculture-380|Quelle serait ta première réaction si un épisode très attendu est repoussé ?|Quelle serait ta première réaction si un ami se déguise en personnage que tu reconnais ?
+popculture-381|Quel serait le point le plus important pour classer tes personnages préférés ?|Quel serait le point le plus important pour retrouver l’origine d’un mème ?
+popculture-382|À quel endroit irais-tu pour trouver un livre signé par un auteur connu ?|À quel endroit irais-tu pour trouver un jeu de société sous licence ?
+popculture-383|Quel moment de la journée choisirais-tu pour expliquer une référence populaire ?|Quel moment de la journée choisirais-tu pour recommander une série tendance ?
+popculture-384|Qu’est-ce que tu ferais en premier si un ami se déguise en personnage que tu reconnais ?|Qu’est-ce que tu ferais en premier si un chanteur célèbre te répond sur les réseaux ?
+popculture-385|Combien serais-tu prêt à dépenser pour un carnet illustré de film ?|Combien serais-tu prêt à dépenser pour une entrée pour un salon de mangas ?
+popculture-386|Que dirais-tu si un acteur est remplacé dans une franchise ?|Que dirais-tu si un personnage secondaire devient le héros ?
+popculture-387|Quel détail vérifierais-tu avant de préparer une recommandation de jeu vidéo ?|Quel détail vérifierais-tu avant de choisir ton personnage de fiction préféré ?
+popculture-388|Comment réagirais-tu si un chanteur célèbre te répond sur les réseaux ?|Comment réagirais-tu si une franchise annonce un nouveau remake ?
+popculture-389|Quelle personne de ton entourage pourrait t’aider à expliquer une référence populaire ?|Quelle personne de ton entourage pourrait t’aider à recommander une série tendance ?
+popculture-390|Dans quelle situation déciderais-tu d’acheter un coffret de série télévisée ?|Dans quelle situation déciderais-tu d’acheter un billet pour une exposition de cinéma ?
+popculture-391|Combien serais-tu prêt à dépenser pour une reproduction d’affiche vintage ?|Combien serais-tu prêt à dépenser pour une place pour une rencontre avec un auteur ?
+popculture-392|Quel budget maximal prévoirais-tu pour un vinyle de bande originale ?|Quel budget maximal prévoirais-tu pour une peluche de personnage connu ?
+popculture-393|Où chercherais-tu une affiche d’un film culte en premier ?|Où chercherais-tu un tee-shirt de série populaire en premier ?
+popculture-394|Quel serait ton premier réflexe si une franchise annonce un nouveau remake ?|Quel serait ton premier réflexe si tu découvres un spoiler sur les réseaux ?
+popculture-395|Qu’est-ce que tu ferais en premier si un acteur est remplacé dans une franchise ?|Qu’est-ce que tu ferais en premier si un personnage secondaire devient le héros ?
+popculture-396|Où chercherais-tu un carnet illustré de film en premier ?|Où chercherais-tu une entrée pour un salon de mangas en premier ?
+popculture-397|Quel serait ton premier réflexe si un mème que tu ne comprends pas devient viral ?|Quel serait ton premier réflexe si une série populaire annonce sa dernière saison ?
+popculture-398|Où irais-tu pour acheter une peluche de personnage connu ?|Où irais-tu pour acheter un carnet illustré de film ?
+popculture-399|Qu’est-ce que tu ferais en premier si un créateur populaire passe près de chez toi ?|Qu’est-ce que tu ferais en premier si une chanson de film devient un tube ?
+popculture-400|Quel serait ton premier réflexe si ton ami n’a jamais vu un film que tout le monde connaît ?|Quel serait ton premier réflexe si un épisode très attendu est repoussé ?
+popculture-401|Quel serait ton premier réflexe si un personnage culte revient après des années ?|Quel serait ton premier réflexe si tu gagnes deux places pour une avant-première ?
+popculture-402|En combien de temps pourrais-tu préparer une liste de films d’animation ?|En combien de temps pourrais-tu organiser un quiz de culture populaire ?
+popculture-403|Comment répondrais-tu si un mème que tu ne comprends pas devient viral ?|Comment répondrais-tu si une série populaire annonce sa dernière saison ?
+popculture-404|À ton avis, combien de temps faut-il pour choisir un film à voir en groupe ?|À ton avis, combien de temps faut-il pour raconter une scène culte ?
+popculture-405|À ton avis, combien de temps faut-il pour préparer une soirée films cultes ?|À ton avis, combien de temps faut-il pour expliquer une référence populaire ?
+popculture-406|Si tu devais choisir un film à voir en groupe, quelle serait ta priorité ?|Si tu devais raconter une scène culte, quelle serait ta priorité ?
+popculture-407|Quel créneau de la journée serait le plus pratique pour préparer une recommandation de jeu vidéo ?|Quel créneau de la journée serait le plus pratique pour choisir ton personnage de fiction préféré ?
+popculture-408|Quel créneau de la journée serait le plus pratique pour recommander une série tendance ?|Quel créneau de la journée serait le plus pratique pour retrouver une citation de film ?
+popculture-409|Où chercherais-tu une édition spéciale d’un album en premier ?|Où chercherais-tu une place pour une avant-première de cinéma à Paris en premier ?
+popculture-410|Comment répondrais-tu si un personnage culte revient après des années ?|Comment répondrais-tu si tu gagnes deux places pour une avant-première ?
+popculture-411|Qu’est-ce que tu dirais sur le moment si tu découvres un spoiler sur les réseaux ?|Qu’est-ce que tu dirais sur le moment si on te demande ton top trois des séries ?
+popculture-412|Qu’est-ce que tu dirais sur le moment si on t’invite à un quiz sur une série que tu ne connais pas ?|Qu’est-ce que tu dirais sur le moment si tu croises un acteur connu dans la rue ?
+popculture-413|Quelle phrase sortirait de ta bouche si un ami déteste une adaptation que tu adores ?|Quelle phrase sortirait de ta bouche si un personnage culte revient après des années ?
+popculture-414|Quel prix imagines-tu pour une entrée pour un salon de mangas ?|Quel prix imagines-tu pour une figurine de collection de 15 cm représentant un héros de cinéma ?
+popculture-415|Où chercherais-tu une reproduction d’affiche vintage en premier ?|Où chercherais-tu une place pour une rencontre avec un auteur en premier ?
+popculture-416|À ton avis, combien de temps faut-il pour préparer une soirée déguisée de cinéma ?|À ton avis, combien de temps faut-il pour classer tes personnages préférés ?
+popculture-417|Qu’est-ce qui te pousserait à acheter une édition collector d’une bande dessinée connue ?|Qu’est-ce qui te pousserait à acheter un abonnement à un service de streaming ?
+popculture-418|Comment réagirais-tu si un ami déteste une adaptation que tu adores ?|Comment réagirais-tu si un personnage culte revient après des années ?
+popculture-419|Combien de temps te faudrait-il pour découvrir un manga connu ?|Combien de temps te faudrait-il pour comparer deux adaptations ?
+popculture-420|Qui contacterais-tu pour t’aider à découvrir un manga connu ?|Qui contacterais-tu pour t’aider à comparer deux adaptations ?
+popculture-421|À ton avis, combien de temps faut-il pour choisir une tenue pour une convention ?|À ton avis, combien de temps faut-il pour préparer une liste de films d’animation ?
+popculture-422|Quel serait le meilleur moment pour comparer deux adaptations ?|Quel serait le meilleur moment pour choisir une bande originale de film ?
+popculture-423|Que dirais-tu si un créateur populaire passe près de chez toi ?|Que dirais-tu si une chanson de film devient un tube ?
+popculture-424|Que dirais-tu si un ami se déguise en personnage que tu reconnais ?|Que dirais-tu si un chanteur célèbre te répond sur les réseaux ?
+popculture-425|À quel moment aurais-tu envie d’acheter une entrée pour un salon de mangas ?|À quel moment aurais-tu envie d’acheter une figurine de collection de 15 cm représentant un héros de cinéma ?
+popculture-426|Selon toi, quel est le prix d’un livre d’illustrations consacré à un jeu vidéo ?|Selon toi, quel est le prix d’une reproduction d’affiche vintage ?
+popculture-427|Qu’est-ce qui te pousserait à acheter un livre signé par un auteur connu ?|Qu’est-ce qui te pousserait à acheter un jeu de société sous licence ?
+popculture-428|Jusqu’à combien paierais-tu pour une place pour une avant-première de cinéma à Paris ?|Jusqu’à combien paierais-tu pour un livre signé par un auteur connu ?
+popculture-429|Sur quel site ou dans quel magasin chercherais-tu une entrée pour un salon de mangas ?|Sur quel site ou dans quel magasin chercherais-tu une figurine de collection de 15 cm représentant un héros de cinéma ?
+popculture-430|Qui contacterais-tu pour t’aider à découvrir une nouvelle franchise ?|Qui contacterais-tu pour t’aider à choisir un film à voir en groupe ?
+popculture-431|Qui pourrait te donner le meilleur conseil pour choisir un film à voir en groupe ?|Qui pourrait te donner le meilleur conseil pour raconter une scène culte ?
+popculture-432|Combien serais-tu prêt à dépenser pour un coffret de série télévisée ?|Combien serais-tu prêt à dépenser pour un billet pour une exposition de cinéma ?
+popculture-433|Combien de temps prévoirais-tu pour préparer une recommandation de jeu vidéo ?|Combien de temps prévoirais-tu pour choisir ton personnage de fiction préféré ?
+popculture-434|Quel prix imagines-tu pour une place pour une avant-première de cinéma à Paris ?|Quel prix imagines-tu pour un livre signé par un auteur connu ?
+popculture-435|Pour quelle occasion voudrais-tu acheter un jeu de société sous licence ?|Pour quelle occasion voudrais-tu acheter un coffret de série télévisée ?
+popculture-436|À quel moment aurais-tu envie d’acheter une place pour une avant-première de cinéma à Paris ?|À quel moment aurais-tu envie d’acheter un livre signé par un auteur connu ?
+popculture-437|Quel budget maximal prévoirais-tu pour une édition collector d’une bande dessinée connue ?|Quel budget maximal prévoirais-tu pour un abonnement à un service de streaming ?
+popculture-438|Sur quel site ou dans quel magasin chercherais-tu une place pour une rencontre avec un auteur ?|Sur quel site ou dans quel magasin chercherais-tu un vinyle de bande originale ?
+popculture-439|Quelle phrase sortirait de ta bouche si un personnage secondaire devient le héros ?|Quelle phrase sortirait de ta bouche si ton ami n’a jamais vu un film que tout le monde connaît ?
+popculture-440|Quel budget maximal prévoirais-tu pour une casquette de franchise célèbre ?|Quel budget maximal prévoirais-tu pour un livre d’illustrations consacré à un jeu vidéo ?
+popculture-441|Quel budget maximal prévoirais-tu pour une figurine de collection de 15 cm représentant un héros de cinéma ?|Quel budget maximal prévoirais-tu pour un billet d’une journée pour une convention pop culture ?
+popculture-442|Qu’est-ce que tu dirais sur le moment si un épisode très attendu est repoussé ?|Qu’est-ce que tu dirais sur le moment si un ami se déguise en personnage que tu reconnais ?
+popculture-443|Dans quelle situation déciderais-tu d’acheter une affiche d’un film culte ?|Dans quelle situation déciderais-tu d’acheter un tee-shirt de série populaire ?
+popculture-444|Qui pourrait te donner le meilleur conseil pour choisir une tenue pour une convention ?|Qui pourrait te donner le meilleur conseil pour préparer une liste de films d’animation ?
+popculture-445|Quelle phrase sortirait de ta bouche si un chanteur célèbre te répond sur les réseaux ?|Quelle phrase sortirait de ta bouche si une franchise annonce un nouveau remake ?
+popculture-446|En combien de temps pourrais-tu classer tes personnages préférés ?|En combien de temps pourrais-tu retrouver l’origine d’un mème ?
+popculture-447|Combien serais-tu prêt à dépenser pour une affiche d’un film culte ?|Combien serais-tu prêt à dépenser pour un tee-shirt de série populaire ?
+popculture-448|Quel serait ton premier réflexe si un ami confond deux célébrités ?|Quel serait ton premier réflexe si on t’invite à un quiz sur une série que tu ne connais pas ?
+popculture-449|En combien de temps pourrais-tu expliquer une référence populaire ?|En combien de temps pourrais-tu recommander une série tendance ?
+popculture-450|À quel moment aurais-tu envie d’acheter un tee-shirt de série populaire ?|À quel moment aurais-tu envie d’acheter une édition collector d’une bande dessinée connue ?
+popculture-451|Combien de temps prévoirais-tu pour organiser un quiz de culture populaire ?|Combien de temps prévoirais-tu pour découvrir un manga connu ?
+popculture-452|Quelle personne de ton entourage pourrait t’aider à classer tes personnages préférés ?|Quelle personne de ton entourage pourrait t’aider à retrouver l’origine d’un mème ?
+popculture-453|À quel moment de la semaine préférerais-tu choisir ton personnage de fiction préféré ?|À quel moment de la semaine préférerais-tu préparer une soirée films cultes ?
+popculture-454|Selon toi, quel est le prix d’un jeu de société sous licence ?|Selon toi, quel est le prix d’un coffret de série télévisée ?
+popculture-455|Quel prix imagines-tu pour une place pour une rencontre avec un auteur ?|Quel prix imagines-tu pour un vinyle de bande originale ?
+popculture-456|Jusqu’à combien paierais-tu pour une place pour une rencontre avec un auteur ?|Jusqu’à combien paierais-tu pour un vinyle de bande originale ?
+popculture-457|En combien de temps pourrais-tu choisir une bande originale de film ?|En combien de temps pourrais-tu faire découvrir un classique à un ami ?
+popculture-458|Quel serait le meilleur moment pour préparer une soirée films cultes ?|Quel serait le meilleur moment pour expliquer une référence populaire ?
+popculture-459|À quel moment aurais-tu envie d’acheter un billet pour une exposition de cinéma ?|À quel moment aurais-tu envie d’acheter une casquette de franchise célèbre ?
+popculture-460|Comment répondrais-tu si ton ami n’a jamais vu un film que tout le monde connaît ?|Comment répondrais-tu si un épisode très attendu est repoussé ?
+popculture-461|Combien penses-tu que vaut une édition spéciale d’un album ?|Combien penses-tu que vaut une place pour une avant-première de cinéma à Paris ?
+popculture-462|Que dirais-tu si on te demande ton top trois des séries ?|Que dirais-tu si un ami déteste une adaptation que tu adores ?
+popculture-463|À quel moment de la semaine préférerais-tu découvrir un manga connu ?|À quel moment de la semaine préférerais-tu comparer deux adaptations ?
+popculture-464|À quel moment de la semaine préférerais-tu découvrir une nouvelle franchise ?|À quel moment de la semaine préférerais-tu choisir un film à voir en groupe ?
+popculture-465|Au-delà de quel prix hésiterais-tu à acheter un abonnement à un service de streaming ?|Au-delà de quel prix hésiterais-tu à acheter une édition spéciale d’un album ?
+popculture-466|Quel moment de la journée choisirais-tu pour raconter une scène culte ?|Quel moment de la journée choisirais-tu pour préparer une recommandation de jeu vidéo ?
+popculture-467|Sur quel site ou dans quel magasin chercherais-tu un billet pour une exposition de cinéma ?|Sur quel site ou dans quel magasin chercherais-tu une casquette de franchise célèbre ?
+popculture-468|Si tu devais comparer deux adaptations, quelle serait ta priorité ?|Si tu devais choisir une bande originale de film, quelle serait ta priorité ?
+popculture-469|Au-delà de quel prix hésiterais-tu à acheter un billet d’une journée pour une convention pop culture ?|Au-delà de quel prix hésiterais-tu à acheter une affiche d’un film culte ?
+popculture-470|Sur quel site ou dans quel magasin chercherais-tu une place pour une avant-première de cinéma à Paris ?|Sur quel site ou dans quel magasin chercherais-tu un livre signé par un auteur connu ?
+popculture-471|À quel endroit irais-tu pour trouver une casquette de franchise célèbre ?|À quel endroit irais-tu pour trouver un livre d’illustrations consacré à un jeu vidéo ?
+popculture-472|À quel endroit irais-tu pour trouver une édition collector d’une bande dessinée connue ?|À quel endroit irais-tu pour trouver un abonnement à un service de streaming ?
+popculture-473|Quel créneau de la journée serait le plus pratique pour retrouver l’origine d’un mème ?|Quel créneau de la journée serait le plus pratique pour découvrir une nouvelle franchise ?
+popculture-474|Quel créneau de la journée serait le plus pratique pour organiser un quiz de culture populaire ?|Quel créneau de la journée serait le plus pratique pour découvrir un manga connu ?
+popculture-475|Quel prix imagines-tu pour un tee-shirt de série populaire ?|Quel prix imagines-tu pour une édition collector d’une bande dessinée connue ?
+popculture-476|Où irais-tu pour acheter un abonnement à un service de streaming ?|Où irais-tu pour acheter une édition spéciale d’un album ?
+popculture-477|À qui demanderais-tu de l’aide pour préparer une recommandation de jeu vidéo ?|À qui demanderais-tu de l’aide pour choisir ton personnage de fiction préféré ?
+popculture-478|Où irais-tu pour acheter un livre d’illustrations consacré à un jeu vidéo ?|Où irais-tu pour acheter une reproduction d’affiche vintage ?
+popculture-479|Au-delà de quel prix hésiterais-tu à acheter une peluche de personnage connu ?|Au-delà de quel prix hésiterais-tu à acheter un carnet illustré de film ?
+popculture-480|Combien de temps prévoirais-tu pour retrouver l’origine d’un mème ?|Combien de temps prévoirais-tu pour découvrir une nouvelle franchise ?
+popculture-481|Qui pourrait te donner le meilleur conseil pour préparer une soirée films cultes ?|Qui pourrait te donner le meilleur conseil pour expliquer une référence populaire ?
+popculture-482|Au-delà de quel prix hésiterais-tu à acheter un livre d’illustrations consacré à un jeu vidéo ?|Au-delà de quel prix hésiterais-tu à acheter une reproduction d’affiche vintage ?
+popculture-483|À qui demanderais-tu de l’aide pour organiser un quiz de culture populaire ?|À qui demanderais-tu de l’aide pour découvrir un manga connu ?
+popculture-484|Si tu devais choisir une tenue pour une convention, quelle serait ta priorité ?|Si tu devais préparer une liste de films d’animation, quelle serait ta priorité ?
+popculture-485|Selon toi, quel est le prix d’un abonnement à un service de streaming ?|Selon toi, quel est le prix d’une édition spéciale d’un album ?
+popculture-486|Quel serait le meilleur moment pour préparer une soirée déguisée de cinéma ?|Quel serait le meilleur moment pour classer tes personnages préférés ?
+popculture-487|Quel créneau de la journée serait le plus pratique pour faire découvrir un classique à un ami ?|Quel créneau de la journée serait le plus pratique pour trouver le nom d’un acteur connu ?
+popculture-488|Combien de temps te faudrait-il pour retrouver une citation de film ?|Combien de temps te faudrait-il pour choisir une tenue pour une convention ?
+popculture-489|Comment réagirais-tu si une chanson de film devient un tube ?|Comment réagirais-tu si un ami confond deux célébrités ?
+popculture-490|À quel moment aurais-tu envie d’acheter une place pour une rencontre avec un auteur ?|À quel moment aurais-tu envie d’acheter un vinyle de bande originale ?
+popculture-491|Jusqu’à combien paierais-tu pour un billet pour une exposition de cinéma ?|Jusqu’à combien paierais-tu pour une casquette de franchise célèbre ?
+popculture-492|Quel serait le point le plus important pour expliquer une référence populaire ?|Quel serait le point le plus important pour recommander une série tendance ?
+popculture-493|Comment répondrais-tu si un ami confond deux célébrités ?|Comment répondrais-tu si on t’invite à un quiz sur une série que tu ne connais pas ?
+popculture-494|À ton avis, combien coûte une figurine de collection de 15 cm représentant un héros de cinéma ?|À ton avis, combien coûte un billet d’une journée pour une convention pop culture ?
+popculture-495|Où chercherais-tu un coffret de série télévisée en premier ?|Où chercherais-tu un billet pour une exposition de cinéma en premier ?
+popculture-496|Jusqu’à combien paierais-tu pour une entrée pour un salon de mangas ?|Jusqu’à combien paierais-tu pour une figurine de collection de 15 cm représentant un héros de cinéma ?
+popculture-497|Selon toi, quel est le prix d’un billet d’une journée pour une convention pop culture ?|Selon toi, quel est le prix d’une affiche d’un film culte ?
+popculture-498|Au-delà de quel prix hésiterais-tu à acheter un jeu de société sous licence ?|Au-delà de quel prix hésiterais-tu à acheter un coffret de série télévisée ?
+popculture-499|Qu’est-ce que tu dirais sur le moment si tu gagnes deux places pour une avant-première ?|Qu’est-ce que tu dirais sur le moment si un créateur populaire passe près de chez toi ?
+popculture-500|À quel endroit irais-tu pour trouver une figurine de collection de 15 cm représentant un héros de cinéma ?|À quel endroit irais-tu pour trouver un billet d’une journée pour une convention pop culture ?
+popculture-501|Dans quelle situation déciderais-tu d’acheter un carnet illustré de film ?|Dans quelle situation déciderais-tu d’acheter une entrée pour un salon de mangas ?
+popculture-502|Qu’est-ce qui te pousserait à acheter un vinyle de bande originale ?|Qu’est-ce qui te pousserait à acheter une peluche de personnage connu ?
+popculture-503|Quel budget maximal prévoirais-tu pour un livre signé par un auteur connu ?|Quel budget maximal prévoirais-tu pour un jeu de société sous licence ?
+popculture-504|Pour quelle occasion voudrais-tu acheter un billet d’une journée pour une convention pop culture ?|Pour quelle occasion voudrais-tu acheter une affiche d’un film culte ?
+popculture-505|À quel moment de la semaine préférerais-tu retrouver une citation de film ?|À quel moment de la semaine préférerais-tu choisir une tenue pour une convention ?
+popculture-506|Quel moment de la journée choisirais-tu pour choisir une bande originale de film ?|Quel moment de la journée choisirais-tu pour faire découvrir un classique à un ami ?
+popculture-507|Quel détail vérifierais-tu avant de retrouver l’origine d’un mème ?|Quel détail vérifierais-tu avant de découvrir une nouvelle franchise ?
+popculture-508|Qu’est-ce que tu ferais en premier si tu croises un acteur connu dans la rue ?|Qu’est-ce que tu ferais en premier si un ami critique ton film culte préféré ?
+popculture-509|Qu’est-ce qui te pousserait à acheter une figurine de collection de 15 cm représentant un héros de cinéma ?|Qu’est-ce qui te pousserait à acheter un billet d’une journée pour une convention pop culture ?
+popculture-510|Quelle phrase sortirait de ta bouche si un ami critique ton film culte préféré ?|Quelle phrase sortirait de ta bouche si un mème que tu ne comprends pas devient viral ?
+popculture-511|Pour quelle occasion voudrais-tu acheter une peluche de personnage connu ?|Pour quelle occasion voudrais-tu acheter un carnet illustré de film ?
+popculture-512|Qui pourrait te donner le meilleur conseil pour comparer deux adaptations ?|Qui pourrait te donner le meilleur conseil pour choisir une bande originale de film ?
+popculture-513|Qu’est-ce que tu ferais en premier si on te demande ton top trois des séries ?|Qu’est-ce que tu ferais en premier si un ami déteste une adaptation que tu adores ?
+popculture-514|Quel détail vérifierais-tu avant de recommander une série tendance ?|Quel détail vérifierais-tu avant de retrouver une citation de film ?
+popculture-515|Quelle personne de ton entourage pourrait t’aider à choisir une bande originale de film ?|Quelle personne de ton entourage pourrait t’aider à faire découvrir un classique à un ami ?
+popculture-516|Pour quelle occasion voudrais-tu acheter un livre d’illustrations consacré à un jeu vidéo ?|Pour quelle occasion voudrais-tu acheter une reproduction d’affiche vintage ?
+popculture-517|À qui demanderais-tu de l’aide pour faire découvrir un classique à un ami ?|À qui demanderais-tu de l’aide pour trouver le nom d’un acteur connu ?
+popculture-518|Quelle phrase sortirait de ta bouche si une chanson de film devient un tube ?|Quelle phrase sortirait de ta bouche si un ami confond deux célébrités ?
+popculture-519|Quelle serait ta principale difficulté pour trouver le nom d’un acteur connu ?|Quelle serait ta principale difficulté pour préparer une soirée déguisée de cinéma ?
+popculture-520|Qui pourrait te donner le meilleur conseil pour préparer une soirée déguisée de cinéma ?|Qui pourrait te donner le meilleur conseil pour classer tes personnages préférés ?
+popculture-521|Jusqu’à combien paierais-tu pour un tee-shirt de série populaire ?|Jusqu’à combien paierais-tu pour une édition collector d’une bande dessinée connue ?
+popculture-522|Combien de temps te faudrait-il pour trouver le nom d’un acteur connu ?|Combien de temps te faudrait-il pour préparer une soirée déguisée de cinéma ?
+popculture-523|À quel moment de la semaine préférerais-tu trouver le nom d’un acteur connu ?|À quel moment de la semaine préférerais-tu préparer une soirée déguisée de cinéma ?
+popculture-524|À quel endroit irais-tu pour trouver un vinyle de bande originale ?|À quel endroit irais-tu pour trouver une peluche de personnage connu ?
+popculture-525|Combien de temps prévoirais-tu pour faire découvrir un classique à un ami ?|Combien de temps prévoirais-tu pour trouver le nom d’un acteur connu ?
+popculture-526|Qu’est-ce qui te pousserait à acheter une casquette de franchise célèbre ?|Qu’est-ce qui te pousserait à acheter un livre d’illustrations consacré à un jeu vidéo ?
+popculture-527|À ton avis, combien coûte un livre signé par un auteur connu ?|À ton avis, combien coûte un jeu de société sous licence ?
+popculture-528|Comment répondrais-tu si une franchise annonce un nouveau remake ?|Comment répondrais-tu si tu découvres un spoiler sur les réseaux ?
+popculture-529|Combien de temps te faudrait-il pour découvrir une nouvelle franchise ?|Combien de temps te faudrait-il pour choisir un film à voir en groupe ?
+popculture-530|Quel serait le point le plus important pour préparer une liste de films d’animation ?|Quel serait le point le plus important pour organiser un quiz de culture populaire ?
+popculture-531|Quelle serait ta principale difficulté pour découvrir une nouvelle franchise ?|Quelle serait ta principale difficulté pour choisir un film à voir en groupe ?
+popculture-532|Quelle serait ta première réaction si une série populaire annonce sa dernière saison ?|Quelle serait ta première réaction si un acteur est remplacé dans une franchise ?
