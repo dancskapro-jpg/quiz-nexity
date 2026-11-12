@@ -1,0 +1,9 @@
+expression|batterie|Quelle phrase dis-tu quand ton téléphone affiche 1 % ?|Quelle phrase dis-tu quand ton téléphone se rallume enfin ?
+activite|messageries|Que fais-tu quand un ami t’envoie un très long message ?|Que fais-tu quand un ami t’envoie dix messages d’affilée ?
+activite|photos|Que fais-tu quand quelqu’un te montre 200 photos de vacances ?|Que fais-tu quand quelqu’un te montre une vidéo de 10 minutes ?
+nombre|comptes et sécurité|Combien de cartes de fidélité as-tu dans ton téléphone ?|Combien de billets ou tickets as-tu dans ton téléphone ?
+prix|ordinateur|Combien coûte un bon ordinateur portable ?|Combien coûte un bon téléphone ?
+prix|gadgets|Combien coûte une paire d’écouteurs sans fil ?|Combien coûte une montre connectée ?
+nom|applis du quotidien|Quelle langue as-tu essayé d’apprendre avec une appli ?|Quelle langue aimerais-tu apprendre avec une appli ?
+minutes|internet et wifi|Combien de minutes passes-tu à chercher le code wifi chez quelqu’un ?|Combien de minutes passes-tu à redémarrer ta box en cas de panne ?
+nombre|intelligence artificielle|Dans combien d’années aura-t-on tous un robot à la maison ?|Dans combien d’années les voitures rouleront-elles seules partout ?

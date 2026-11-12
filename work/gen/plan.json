@@ -1,0 +1,122 @@
+{
+ "bouffe": {
+  "have": 124,
+  "need": 76,
+  "themes": 42,
+  "refusees": 557
+ },
+ "boulot": {
+  "have": 103,
+  "need": 97,
+  "themes": 36,
+  "refusees": 512
+ },
+ "voyage": {
+  "have": 65,
+  "need": 135,
+  "themes": 27,
+  "refusees": 321
+ },
+ "soiree": {
+  "have": 89,
+  "need": 111,
+  "themes": 36,
+  "refusees": 504
+ },
+ "sport": {
+  "have": 71,
+  "need": 129,
+  "themes": 42,
+  "refusees": 539
+ },
+ "ecrans": {
+  "have": 50,
+  "need": 150,
+  "themes": 51,
+  "refusees": 595
+ },
+ "musique": {
+  "have": 11,
+  "need": 189,
+  "themes": 29,
+  "refusees": 322
+ },
+ "enfance": {
+  "have": 10,
+  "need": 190,
+  "themes": 40,
+  "refusees": 695
+ },
+ "tech": {
+  "have": 9,
+  "need": 191,
+  "themes": 39,
+  "refusees": 505
+ },
+ "nature": {
+  "have": 5,
+  "need": 195,
+  "themes": 19,
+  "refusees": 327
+ },
+ "famille": {
+  "have": 2,
+  "need": 198,
+  "themes": 28,
+  "refusees": 383
+ },
+ "fetes": {
+  "have": 58,
+  "need": 142,
+  "themes": 40,
+  "refusees": 471
+ },
+ "ville": {
+  "have": 9,
+  "need": 191,
+  "themes": 38,
+  "refusees": 323
+ },
+ "imaginaire": {
+  "have": 1,
+  "need": 199,
+  "themes": 20,
+  "refusees": 330
+ },
+ "popculture": {
+  "have": 8,
+  "need": 192,
+  "themes": 29,
+  "refusees": 324
+ },
+ "nostalgie": {
+  "have": 19,
+  "need": 181,
+  "themes": 33,
+  "refusees": 312
+ },
+ "noel": {
+  "have": 13,
+  "need": 187,
+  "themes": 24,
+  "refusees": 304
+ },
+ "ete": {
+  "have": 28,
+  "need": 172,
+  "themes": 54,
+  "refusees": 585
+ },
+ "rentree": {
+  "have": 1,
+  "need": 199,
+  "themes": 53,
+  "refusees": 601
+ },
+ "vacances": {
+  "have": 21,
+  "need": 179,
+  "themes": 41,
+  "refusees": 557
+ }
+}

@@ -1,0 +1,21 @@
+activite|hiver et printemps|Quel jeu emportes-tu en vacances ?|Quel jeu sors-tu les jours de pluie en vacances ?
+expression*|sur les pistes|Que cries-tu en haut d’une piste noire ?|Que cries-tu en bas d’une piste noire ?
+minutes|sur les pistes|Combien de minutes mets-tu à enfiler tes chaussures de ski ?|Combien de minutes mets-tu à t’habiller pour aller skier ?
+expression|sur les pistes|Que dis-tu à un débutant tombé juste devant toi ?|Que dis-tu quand on se moque de toi quand t'es tombé ?
+prix|sur les pistes|Combien coûte un chocolat chaud au sommet des pistes ?|Combien coûte un chocolat chaud au café de ton quartier ?
+aliment*|raclette et fondue|Quel fromage choisis-tu pour une raclette ?|Quel fromage choisis-tu au supermarché ?
+moment*|raclette et fondue|En quel mois commences-tu les raclettes ?|En quel mois arrêtes-tu les raclettes ?
+activite|après-ski|Que fais-tu en premier en rentrant d’une journée de ski ?|Que fais-tu en premier le matin d’une journée de ski ?
+activite|après-ski|Quel petit plaisir t’offres-tu après la dernière descente ?|Quel petit plaisir t’offres-tu le dernier soir à la montagne ?
+expression|après-ski|Que dis-tu en enlevant enfin tes chaussures de ski ?|Que dis-tu en voyant l’addition du restaurant d’altitude ?
+minutes*|grasses matinées|Combien de minutes restes-tu au lit après ton réveil en vacances ?|Combien de minutes restes-tu au lit après ton réveil un lundi ?
+expression|grasses matinées|Que dis-tu quand on te réveille trop tôt en vacances ?|Que dis-tu quand tu te réveilles à midi ?
+prix|préparer le départ|Combien coûte un plein d’essence pour aller au ski ?|Combien coûte un aller-retour en train pour la montagne ?
+heures*|sur la route|Combien d’heures de route acceptes-tu pour une semaine de ski ?|Combien d’heures de route acceptes-tu pour un petit week-end ?
+aliment|sur la route|Quel en-cas manges-tu dans la voiture des vacances ?|Quel en-cas achètes-tu à la gare avant de partir ?
+age|cours de ski|À quel âge as-tu chaussé des skis pour la première fois ?|À quel âge as-tu skié pour la dernière fois ?
+personne|jeux en famille|Qui lit les règles d’un nouveau jeu ?|Qui invente ses propres règles pendant la partie ?
+aliment|sorties en famille|Que manges-tu dans un parc d’attractions ?|Que mangeais-tu à la cantine étant petit ?
+expression|sorties en famille|Que dis-tu en sortant d’une attraction à sensations ?|Que dis-tu quand un enfant veut refaire la même attraction ?
+objet|photos et souvenirs|Quel objet emportes-tu pour faire de belles photos ?|Quel objet protèges-tu du froid au ski ?
+prix|neige en ville|Combien coûte un manteau haut de gamme ?|Combien coûte un bonnet en laine ?

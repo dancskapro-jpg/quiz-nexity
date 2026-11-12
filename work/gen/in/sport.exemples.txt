@@ -1,0 +1,71 @@
+activite|terrain|Quel sport pratiquais-tu au collège ?|Quel sport te faisait le plus peur en cours d’EPS ?
+activite|terrain|Quel sport pourrais-tu regarder pendant trois heures ?|Quel sport aimerais-tu voir aux Jeux olympiques ?
+nombre|terrain|Combien de tours de piste pourrais-tu courir sans t’arrêter ?|Combien de longueurs de piscine pourrais-tu enchaîner ?
+nombre*|terrain|Combien de pompes peux-tu faire d’affilée ?|Combien d’abdos peux-tu faire d’affilée ?
+minutes|terrain|Combien de minutes dure ton échauffement idéal ?|Combien de minutes dure ta séance d’étirements ?
+personne|terrain|Quel sportif aimerais-tu rencontrer ?|Quel sportif ferait un bon animateur télé ?
+ville|terrain|Dans quelle ville aimerais-tu voir une finale ?|Dans quelle ville aimerais-tu courir un marathon ?
+activite|terrain|Quel sport collectif préfères-tu ?|Quel sport collectif est le plus difficile à arbitrer ?
+objet|terrain|Quel équipement de sport as-tu chez toi ?|Quel équipement de sport as-tu acheté sans jamais t’en servir ?
+nombre|terrain|Sur 10, à quel point es-tu sportif ?|Sur 10, à quel point aimes-tu transpirer ?
+heures|terrain|À quelle heure est-il idéal d’aller courir ?|À quelle heure vas-tu à la salle de sport ?
+activite|terrain|Quel sport de glisse aimerais-tu maîtriser ?|Quel sport nautique aimerais-tu essayer ?
+pays|terrain|Quel pays est le meilleur au football ?|Quel pays organiserait les meilleurs Jeux olympiques ?
+couleur|terrain|De quelle couleur serait le maillot de ton équipe ?|De quelle couleur sont tes baskets préférées ?
+activite|terrain|Quelle épreuve olympique pourrais-tu gagner avec un an d’entraînement ?|Quelle épreuve olympique est la plus impressionnante ?
+nombre|terrain|Combien de buts marquerais-tu en dix tirs face à un gardien professionnel ?|Combien de paniers réussirais-tu sur dix lancers francs ?
+age|terrain|À quel âge un sportif devrait-il prendre sa retraite ?|À quel âge as-tu commencé ton premier sport ?
+nombre|terrain|Combien de secondes peux-tu tenir en gainage ?|Combien de secondes tiens-tu en équilibre sur un pied ?
+activite|terrain|Quel sport regardes-tu seulement pendant les grandes compétitions ?|Quel sport ne comprends-tu pas du tout ?
+expression|terrain|Que cries-tu quand ton équipe marque ?|Que dis-tu quand l’arbitre se trompe ?
+nombre|terrain|Combien de fois par an vas-tu voir un match en vrai ?|Combien de matchs regardes-tu à la télé par mois ?
+objet|terrain|Que mets-tu dans ton sac de sport ?|Qu’oublies-tu toujours d’emporter au sport ?
+activite|terrain|Quel sport inventerais-tu si tu pouvais ?|Quel sport serait drôle à pratiquer en pyjama ?
+heures*|terrain|Combien d’heures de sport par semaine serait l’idéal ?|Combien d’heures de sport fais-tu vraiment par semaine ?
+lieu|terrain|Où préfères-tu faire du sport ?|Où vas-tu courir près de chez toi ?
+prix|terrain|Combien coûte une bonne paire de baskets (en euros) ?|Combien paierais-tu une place pour une finale (en euros) ?
+expression|salle de sport|Que dis-tu à quelqu’un qui squatte une machine depuis vingt minutes ?|Que dis-tu à quelqu’un qui te demande s’il peut alterner avec toi ?
+prix*|salle de sport|Combien paies-tu ton abonnement de salle par mois (en euros) ?|Combien vaudrait un abonnement de salle juste par mois (en euros) ?
+nombre|course à pied|Combien de coureurs participent à un grand marathon (en milliers) ?|Combien de spectateurs tient un grand stade (en milliers) ?
+minutes|piscine|Combien de minutes restes-tu dans l’eau à la piscine ?|Combien de minutes passes-tu au vestiaire de la piscine ?
+expression|piscine|Que dis-tu en entrant dans une eau trop froide ?|Que dis-tu quand quelqu’un t’éclabousse au bord du bassin ?
+nombre|piscine|Combien de fois par an vas-tu à la piscine ?|Combien de fois par an vas-tu à la plage ?
+prix|piscine|Combien coûte une entrée à la piscine (en euros) ?|Combien coûte une séance d’aquagym (en euros) ?
+nombre|vélo|Combien de vélos as-tu eus dans ta vie ?|Combien de paires de baskets as-tu usées dans ta vie ?
+expression|sports collectifs|Que cries-tu pour demander le ballon ?|Que cries-tu quand un coéquipier rate une occasion immanquable ?
+aliment|au stade|Que manges-tu quand tu vas au stade ?|Que manges-tu devant un match à la maison ?
+prix|au stade|Combien paies-tu un sandwich au stade (en euros) ?|Combien paies-tu une écharpe de supporter (en euros) ?
+heures|au stade|Combien d’heures avant le coup d’envoi arrives-tu au stade ?|Combien d’heures restes-tu au stade après le coup de sifflet final ?
+nombre|au stade|Combien de places compte le plus grand stade que tu connais (en milliers) ?|Combien de supporters faut-il pour une vraie ambiance (en milliers) ?
+nombre|au stade|Combien de matchs as-tu vus dans un stade dans ta vie ?|Combien de concerts as-tu vus dans un stade dans ta vie ?
+expression|au stade|Que cries-tu quand l’arbitre siffle la fin du match ?|Que cries-tu quand un joueur fait un geste incroyable ?
+nombre|regarder un match|Combien de personnes faut-il pour regarder un match à la maison ?|Combien de personnes tiennent sur ton canapé ?
+nombre|regarder un match|Combien de matchs peux-tu regarder dans la même journée ?|Combien de matchs regardes-tu pendant une Coupe du monde ?
+moment|regarder un match|À quel moment d’un match commences-tu à stresser ?|À quel moment d’un match sais-tu que c’est perdu ?
+expression|regarder un match|Que dis-tu à quelqu’un qui pose des questions pendant le match ?|Que dis-tu à quelqu’un qui change de chaîne pendant le match ?
+expression|sport à la télé|Quelle phrase de commentateur sportif répètes-tu ?|Quelle phrase de commentateur sportif t’agace ?
+activite|sport à la télé|Quel sport mériterait plus de place à la télé ?|Quel sport passe trop souvent à la télé ?
+personne|sport à la télé|Quel ami ferait le meilleur commentateur sportif ?|Quel ami ferait le meilleur arbitre ?
+prix|équipement|Combien coûte une raquette de tennis correcte (en euros) ?|Combien coûte un ballon de foot correct (en euros) ?
+marque|équipement|Quelle marque de sport portes-tu le plus ?|Quelle marque de sport portais-tu au collège ?
+prix*|équipement|Combien serais-tu prêt à payer un maillot officiel signé (en euros) ?|Combien vaut vraiment un maillot officiel (en euros) ?
+activite|jeux olympiques|Quelle épreuve olympique regardes-tu en premier ?|Quelle épreuve olympique zappes-tu toujours ?
+activite|jeux olympiques|Quelle épreuve olympique pourrais-tu tenter demain sans entraînement ?|Quelle épreuve olympique devrait être supprimée ?
+nombre|jeux olympiques|Combien de mètres sautes-tu en longueur ?|Combien de mètres saute un champion en longueur ?
+activite|sports d'hiver|Quel sport d’hiver préfères-tu ?|Quel sport d’hiver aimerais-tu essayer une fois ?
+nombre|sports d'hiver|Combien de jours dure ton séjour au ski idéal ?|Combien de jours faut-il pour apprendre à skier ?
+aliment|sports d'hiver|Que manges-tu à midi sur les pistes ?|Que manges-tu le soir au chalet ?
+nombre|sports d'hiver|Combien de fois tombes-tu dans une journée de ski ?|Combien de pauses fais-tu dans une journée de ski ?
+activite|sports d'hiver|Que fais-tu à la montagne quand tu ne skies pas ?|Que fais-tu le dernier jour d’un séjour au ski ?
+expression|sports d'hiver|Que cries-tu en dévalant une piste ?|Que dis-tu en haut d’une piste trop raide ?
+activite|sports d'hiver|Quel sport sur glace aimerais-tu essayer ?|Quel sport sur glace est le plus beau à regarder ?
+activite|sports de raquette|Quel sport de raquette préfères-tu ?|Quel sport de raquette n’as-tu jamais essayé ?
+nombre*|sports de raquette|Sur 10, quel est ton niveau au ping-pong ?|Sur 10, quel est ton niveau au tennis ?
+expression|sports de raquette|Que dis-tu quand tu rates une balle facile ?|Que dis-tu quand ton adversaire réussit un coup incroyable ?
+activite|plein air|Quel sport fais-tu les pieds dans le sable ?|Quel sport regardes-tu les autres faire sur la plage ?
+nombre|sport au quotidien|Combien d’étages montes-tu à pied par jour ?|Combien de marches compte ton escalier ?
+heures|sport au quotidien|Combien d’heures par semaine passes-tu à regarder du sport ?|Combien d’heures par semaine passes-tu à faire du sport ?
+heures|supporters|À quelle heure t’installes-tu devant la télé un soir de finale ?|À quelle heure vas-tu te coucher un soir de finale ?
+vetement|supporters|Quel vêtement de supporter portes-tu les jours de match ?|Quel vêtement de supporter as-tu acheté sans jamais le porter ?
+prix|foot entre amis|Combien coûte la location d’un terrain de five pour une heure (en euros) ?|Combien coûte une paire de crampons correcte (en euros) ?
+nombre|motivation|Combien de jours tiennent tes résolutions sportives de janvier ?|Combien de jours faut-il pour prendre une habitude sportive ?

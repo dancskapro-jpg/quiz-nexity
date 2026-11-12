@@ -1,0 +1,10 @@
+activite|souvenirs d'école|Quelle matière préférais-tu à l’école ?|Quelle matière aurais-tu aimé avoir à l’école ?
+activite|souvenirs d'école|Quelle matière te faisait le plus peur ?|Quelle matière te serait utile aujourd’hui ?
+objet|souvenirs d'école|Quel jouet as-tu gardé ?|Quel jouet voulais-tu absolument pour Noël ?
+aliment|souvenirs d'école|Quel goûter mangeais-tu après l’école ?|Quel plat de cantine préférais-tu ?
+nombre|souvenirs d'école|Combien d’élèves y avait-il dans ta classe de CM2 ?|Combien d’amis invitais-tu à tes anniversaires d’enfant ?
+heures|souvenirs d'école|À quelle heure te couchais-tu à dix ans ?|À quelle heure commençait l’école ?
+objet|souvenirs d'école|Quel cadeau d’anniversaire t’a le plus marqué enfant ?|Quel cadeau d’enfance as-tu toujours ?
+age|souvenirs d'école|À quel âge as-tu arrêté de croire au père Noël ?|À quel âge as-tu eu ton premier argent de poche ?
+minutes|cantine|Combien de minutes durait ton repas à la cantine ?|Combien de minutes attendais-tu dans la file de la cantine ?
+expression|cantine|Que criait-on quand quelqu’un faisait tomber son plateau ?|Que disait la dame de la cantine pour te faire finir ton assiette ?

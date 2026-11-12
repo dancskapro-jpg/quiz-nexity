@@ -1,0 +1,103 @@
+heures|rythme|À quelle heure commences-tu ta journée de travail ou de cours ?|À quelle heure prends-tu ta première pause ?
+minutes|rythme|Combien de minutes dure ton trajet pour aller travailler ou étudier ?|Combien de minutes dure ta pause déjeuner ?
+heures|rythme|À quelle heure envoies-tu ton dernier e-mail de la journée ?|À quelle heure quittes-tu le travail un vendredi ?
+nombre|rythme|Combien d’heures de sommeil te faut-il pour être efficace ?|Combien d’heures de travail par jour serait l’idéal ?
+nombre|rythme|Combien de minutes d’avance prends-tu pour un rendez-vous important ?|Combien de minutes de retard sont acceptables en réunion ?
+nombre|outils|Combien d’e-mails reçois-tu par jour ?|Combien d’e-mails non lus as-tu en ce moment ?
+nombre|trajet|Combien de kilomètres fais-tu pour aller travailler ou étudier ?|Combien de kilomètres ferais-tu chaque jour pour un job de rêve ?
+nombre|réunions|Combien de personnes faut-il au maximum pour une bonne réunion ?|Combien de personnes y a-t-il en moyenne dans tes réunions ?
+minutes|réunions|Combien de minutes devrait durer une réunion idéale ?|Combien de minutes dure ta réunion la plus fréquente ?
+heures|réunions|À quelle heure placerais-tu la réunion idéale ?|À quelle heure tombent toujours les réunions de dernière minute ?
+objet|réunions|Qu’apportes-tu toujours en réunion ?|Qu’est-ce qu’on oublie toujours dans la salle de réunion ?
+expression|réunions|Quelle phrase dis-tu pour couper la parole poliment ?|Quelle phrase dis-tu pour conclure une réunion ?
+expression|réunions|Que dis-tu quand ton micro était coupé depuis le début ?|Que dis-tu quand ta connexion lâche en pleine visio ?
+nombre|réunions|Combien de personnes prennent vraiment la parole en réunion ?|Combien de personnes prennent des notes en réunion ?
+nombre|e-mails et messages|Combien de personnes mets-tu en copie d’un e-mail important ?|Combien de fois relis-tu un e-mail important avant de l’envoyer ?
+expression|e-mails et messages|Quel objet d’e-mail te fait ouvrir le message tout de suite ?|Quel objet d’e-mail te donne envie de l’ignorer ?
+moment|e-mails et messages|À quel moment de la journée tries-tu tes e-mails ?|À quel moment de la journée envoies-tu tes messages les plus importants ?
+expression|pause café|Quelle phrase dis-tu en arrivant à la machine à café ?|Quelle phrase dis-tu en croisant un collègue dans l’ascenseur ?
+minutes|pause café|Combien de minutes dure une vraie pause café ?|Combien de minutes dure ta pause café quand personne ne te cherche ?
+nombre|pause café|Combien de gobelets utilises-tu dans une journée au bureau ?|Combien de touillettes prends-tu à la machine ?
+lieu|pause café|Où se racontent les meilleurs potins du bureau ?|Où vas-tu pour passer un appel au calme au bureau ?
+heures|déjeuner au travail|À quelle heure pars-tu déjeuner ?|À quelle heure commences-tu à avoir faim au travail ?
+minutes|déjeuner au travail|Combien de minutes faut-il pour réchauffer ton plat au micro-ondes ?|Combien de minutes fais-tu la queue devant le micro-ondes ?
+nombre|déjeuner au travail|Combien de collègues déjeunent avec toi en général ?|Combien de collègues faut-il pour un bon déjeuner d’équipe ?
+aliment|déjeuner au travail|Quel plat laisse une odeur dans tout l’open space ?|Quel plat est le plus pratique à réchauffer au bureau ?
+prix*|déjeuner au travail|Combien coûte ton déjeuner un jour normal ?|Combien coûte ton déjeuner quand tu te fais plaisir ?
+activite|déjeuner au travail|Que fais-tu de ta pause déjeuner quand tu as fini de manger ?|Que fais-tu de ta pause déjeuner quand tu n’as pas faim ?
+expression|déjeuner au travail|Quelle phrase lances-tu pour proposer d’aller déjeuner ?|Quelle phrase dis-tu pour décliner un déjeuner d’équipe ?
+nombre|poste de travail|Combien d’écrans te faut-il pour bien travailler ?|Combien d’écrans as-tu chez toi en tout ?
+nombre|poste de travail|Combien de mots de passe dois-tu retenir pour le travail ?|Combien de badges ou de cartes as-tu pour le travail ou les études ?
+vetement|télétravail|Quel vêtement portes-tu en télétravail ?|Quel vêtement mets-tu pour une visio importante ?
+heures|télétravail|À quelle heure te connectes-tu les jours de télétravail ?|À quelle heure te lèves-tu les jours de télétravail ?
+minutes|télétravail|Combien de minutes avant une visio te connectes-tu ?|Combien de minutes attends-tu seul dans une visio avant de la quitter ?
+nombre*|télétravail|Combien de jours de télétravail tiens-tu avant que le bureau te manque ?|Combien de jours de bureau tiens-tu avant que le télétravail te manque ?
+nombre|collègues|Combien de collègues connais-tu par leur prénom ?|Combien de collègues saluerais-tu en les croisant dans la rue ?
+nombre|collègues|Combien de collègues invites-tu à ton anniversaire ?|Combien de collègues te souhaitent ton anniversaire ?
+expression*|collègues|Quelle phrase dis-tu en arrivant le lundi matin ?|Quelle phrase dis-tu en partant le vendredi soir ?
+nombre|collègues|Combien de prénoms retiens-tu la première semaine dans une nouvelle boîte ?|Combien de nouvelles têtes croises-tu la première semaine dans une nouvelle boîte ?
+objet*|collègues|Quel cadeau offrirais-tu à un collègue qui part ?|Quel cadeau offrirais-tu à un collègue pour son anniversaire ?
+expression|collègues|Quel compliment aimerais-tu recevoir d’un collègue ?|Quel compliment fais-tu le plus souvent à un collègue ?
+nombre|collègues|Combien de collègues te tutoient ?|Combien de collègues vouvoies-tu ?
+activite|collègues|Quel sport ferais-tu volontiers avec tes collègues ?|Quel sport te verrais-tu pratiquer dans un tournoi inter-entreprises ?
+heures*|organisation et deadlines|À quelle heure quittes-tu le bureau la veille d’une deadline ?|À quelle heure quittes-tu le bureau un jour calme ?
+expression|organisation et deadlines|Quelle excuse entends-tu le plus pour un retard de rendu ?|Quelle excuse as-tu déjà utilisée pour gagner un jour de plus ?
+minutes|entretien d'embauche|Combien de minutes dure un bon entretien d’embauche ?|Combien de minutes faut-il à un recruteur pour se faire une idée ?
+nom|cours et études|Quelle matière as-tu le plus aimée pendant tes études ?|Quelle matière as-tu le plus vite oubliée après tes études ?
+nom|cours et études|Quelle matière aurais-tu aimé avoir pendant tes études ?|Quelle matière enseignerais-tu si tu devenais prof ?
+minutes|cours et études|Combien de minutes de retard tolère un prof avant de fermer la porte ?|Combien de minutes avant la fin du cours commences-tu à ranger tes affaires ?
+nombre|pots et séminaires|Combien de personnes signent une carte de départ ?|Combien de personnes viennent vraiment au pot de départ ?
+minutes*|pots et séminaires|Au bout de combien de minutes parle-t-on boulot à un pot d’équipe ?|Au bout de combien de minutes parle-t-on boulot à un dîner entre amis ?
+minutes|examens et révisions|Combien de minutes avant la fin d’un examen rends-tu ta copie ?|Combien de minutes avant le début d’un examen arrives-tu ?
+expression|examens et révisions|Que dis-tu en sortant d’un examen difficile ?|Que dis-tu en découvrant le sujet d’un examen ?
+nombre|examens et révisions|Combien de fois relis-tu ta copie avant de la rendre ?|Combien de fois relis-tu le sujet avant de commencer ?
+prix|vie étudiante|Combien coûtait un repas au resto universitaire ?|Combien coûte un sandwich près de ton lieu de travail ?
+nombre|journée au bureau|À quel étage aimerais-tu travailler ?|Combien d’étages es-tu prêt à monter à pied ?
+moment|journée au bureau|Quel jour de la semaine places-tu tes rendez-vous importants ?|Quel jour de la semaine évites-tu de prendre des rendez-vous ?
+heures|journée au bureau|À quelle heure arrive le premier collègue au bureau ?|À quelle heure arrives-tu les jours où tu veux être tranquille ?
+pays|formation et parcours|Dans quel pays aimerais-tu travailler pendant un an ?|Dans quel pays aimerais-tu ouvrir une boutique ?
+moment|petits plaisirs du bureau|Quel mois prends-tu tes plus longues vacances ?|Quel mois de l’année est le plus calme au travail ?
+nombre*|le matin|Combien de personnes salues-tu en arrivant le matin ?|Combien de personnes salues-tu en partant le soir ?
+expression|le matin|Que réponds-tu à « ça va » un lundi matin ?|Que réponds-tu à « ça va » un vendredi soir ?
+nombre*|le matin|Combien de fois par semaine arrives-tu pile à l’heure ?|Combien de fois par semaine pars-tu pile à l’heure ?
+expression|le matin|Quelle excuse donnes-tu quand tu arrives en retard ?|Quelle excuse donnes-tu quand tu pars plus tôt que prévu ?
+activite|le matin|Que fais-tu en attendant que ton ordinateur démarre ?|Que fais-tu en attendant que l’ascenseur arrive ?
+prix|le matin|Combien coûte un croissant près de ton travail ?|Combien coûte un café en terrasse près de ton travail ?
+moment|le matin|Quel mois de l’année as-tu le plus de mal à te lever pour travailler ?|Quel mois de l’année arrives-tu le plus souvent en retard ?
+nombre|réunions|Combien de réunions as-tu déjà eues pour préparer une autre réunion ?|Combien de réunions as-tu déjà eues pour faire le bilan d’une réunion ?
+expression|réunions|Quelle phrase entend-on toujours au début d’une réunion ?|Quelle phrase entend-on toujours à la fin d’une réunion ?
+minutes*|réunions|Combien de minutes de retard ont tes réunions en moyenne ?|Combien de minutes de dépassement ont tes réunions en moyenne ?
+moment|réunions|Quel moment d’une réunion préfères-tu ?|Quel moment d’une réunion te semble le plus long ?
+nombre|réunions|Combien de slides tolères-tu dans une présentation ?|Combien de slides prépares-tu pour une présentation de dix minutes ?
+heures|réunions|À partir de quelle heure une réunion devient-elle insupportable ?|Vers quelle heure une réunion est-elle la plus productive ?
+expression|réunions|Que dis-tu quand tu n’as pas écouté la question en réunion ?|Que dis-tu quand on te demande ton avis par surprise en réunion ?
+minutes*|e-mails et messagerie|Combien de minutes passes-tu à écrire un e-mail délicat ?|Combien de minutes passes-tu à relire un e-mail délicat ?
+nombre|e-mails et messagerie|Combien de pièces jointes mets-tu dans un seul e-mail ?|Combien de destinataires mets-tu dans un seul e-mail ?
+heures*|télétravail et visio|À quelle heure finis-tu ta journée en télétravail ?|À quelle heure finis-tu ta journée au bureau ?
+expression|open space|Que dis-tu à un collègue qui parle trop fort au téléphone ?|Que dis-tu à un collègue qui chante sans s’en rendre compte ?
+nom|open space|Quel bruit d’open space t’agace le plus ?|Quel bruit d’open space ne remarques-tu même plus ?
+heures|cantine et déjeuner|À quelle heure la cantine est-elle la plus pleine ?|À quelle heure la cantine est-elle la plus calme ?
+prix|cantine et déjeuner|Combien coûte un plateau complet à la cantine ?|Combien coûte une formule sandwich, boisson et dessert ?
+nombre|collègues|Combien de prénoms de collègues confonds-tu encore ?|Combien de collègues t’appellent par un surnom ?
+expression|collègues|Que dis-tu à un collègue qui fête son anniversaire au bureau ?|Que dis-tu à un collègue qui fête son départ à la retraite ?
+expression|le chef|Quel mot dis-tu à ton chef pour demander un jour de congé ?|Quel mot dis-tu à ton chef pour annoncer un retard ?
+film|le chef|Quel film résume le mieux ta relation avec ton chef ?|Quel film résume le mieux ta semaine de travail ?
+minutes|organisation|Pendant combien de minutes peux-tu travailler sans regarder tes notifications ?|Pendant combien de minutes peux-tu travailler sans te lever ?
+heures*|cours et amphi|Combien d’heures de cours avais-tu ta journée la plus chargée ?|Combien d’heures de cours avais-tu ta journée la plus légère ?
+objet|cours et amphi|Quel objet sortais-tu en premier de ton sac en cours ?|Quel objet rangeais-tu en dernier à la fin du cours ?
+expression|cours et amphi|Quelle phrase dit un prof quand la sonnerie retentit ?|Quelle phrase dit un prof avant un contrôle surprise ?
+minutes|cours et amphi|Il y avait combien de minutes de pause entre deux cours ?|Il fallait combien de minutes pour changer de salle entre deux cours ?
+nombre|cours et amphi|Combien de pages faisait ton plus long devoir ?|Combien de pages faisait ton plus long mémoire ou rapport ?
+minutes|examens et révisions|Combien de minutes mets-tu à lire tout le sujet ?|Combien de minutes passes-tu sur la première question ?
+minutes|examens et révisions|Un oral doit durer combien de minutes pour convaincre un jury ?|Un jury pose des questions pendant combien de minutes après un oral ?
+personne|stages et entretiens|Qui relit ton CV avant que tu l’envoies ?|Qui te fait répéter avant un entretien ?
+expression|stages et entretiens|Que dis-tu au recruteur en partant ?|Que dis-tu au recruteur en arrivant ?
+metier|métiers|Quel métier demande le plus de patience ?|Quel métier demande le plus de précision ?
+metier|métiers|Quel métier a les horaires les plus étranges ?|Quel métier a la tenue la plus reconnaissable ?
+activite|petits boulots|Quelle tâche détestais-tu dans ton premier job ?|Quelle tâche faisais-tu le mieux dans ton premier job ?
+personne|petits boulots|Quel personnage de film ferait un serveur catastrophique ?|Quel personnage de film ferait un vendeur redoutable ?
+expression|petits boulots|Que dis-tu à un client qui arrive juste avant la fermeture ?|Que dis-tu à un client qui demande à parler au responsable ?
+ville|jargon et à-côtés|Dans quelle ville rêverais-tu d’avoir un bureau avec vue ?|Dans quelle ville aimerais-tu passer une semaine en télétravail ?
+nombre||Combien d’étudiants y avait-il dans ton plus grand amphi ?|Combien d’étudiants comptait toute ta promo ?
+prix||Combien coûte un bon sac pour aller travailler ?|Combien coûte une bonne chaise de bureau ?
+nombre||Combien de cafés un serveur porte-t-il sur un plateau ?|Combien d’assiettes un serveur porte-t-il sur un bras ?

@@ -1,0 +1,65 @@
+pays|destinations|Quel pays visiterais-tu avec un billet d’avion gratuit ?|Quel pays as-tu le plus envie de revoir ?
+ville|destinations|Quelle capitale aimerais-tu visiter ?|Quelle capitale te semble la plus surcotée ?
+lieu|destinations|Quel monument aimerais-tu voir de tes yeux ?|Quel monument t’a déçu en vrai ?
+lieu|destinations|Quel parc d’attractions aimerais-tu faire ?|Quel lieu touristique rêves-tu de visiter ?
+heures|préparatifs|Combien d’heures de vol es-tu prêt à faire pour des vacances ?|Combien d’heures de route es-tu prêt à faire pour un week-end ?
+heures|préparatifs|Combien d’heures de décalage horaire es-tu prêt à subir ?|Combien d’heures de train es-tu prêt à faire d’un coup ?
+objet|préparatifs|Quel objet oublies-tu toujours en voyage ?|Quel objet emportes-tu toujours en voyage ?
+objet|préparatifs|Que mets-tu en premier dans ta valise ?|Que retires-tu en dernier de ta valise ?
+objet|préparatifs|Quel souvenir ramènes-tu toujours de voyage ?|Quel souvenir de voyage traîne chez toi ?
+nombre|préparatifs|Combien de valises emportes-tu pour une semaine ?|Combien de paires de chaussures emportes-tu pour une semaine ?
+heures|préparatifs|À quelle heure arrives-tu à l’aéroport pour un vol à 10 h ?|À quelle heure te lèves-tu le premier jour des vacances ?
+prix|préparatifs|Combien d’euros par jour faut-il prévoir en vacances ?|Combien d’euros dépenses-tu en souvenirs ?
+activite|sur place|Quelle activité à sensations oserais-tu en vacances ?|Quelle activité de vacances te fait peur ?
+nombre|sur place|Combien de photos prends-tu par jour en vacances ?|Combien de photos gardes-tu vraiment après un voyage ?
+minutes|sur place|Combien de minutes peux-tu faire la queue pour une attraction ?|Combien de minutes de retard de vol supportes-tu sans râler ?
+nombre|sur place|Combien de fois as-tu pris l’avion ?|Combien de fois as-tu pris le train cette année ?
+nombre|valise|Combien de jours avant le départ fais-tu ta valise ?|Combien de jours après le retour défais-tu ta valise ?
+minutes|valise|Combien de minutes passes-tu à chercher ton passeport avant de partir ?|Combien de minutes passes-tu à vérifier que tu n’as rien oublié ?
+heures*|aéroport|Combien d’heures avant un vol long-courrier arrives-tu à l’aéroport ?|Combien d’heures avant un vol court arrives-tu à l’aéroport ?
+prix|aéroport|Combien coûte une bouteille d’eau à l’aéroport ?|Combien coûte un sandwich à l’aéroport ?
+objet|aéroport|Quel objet se fait confisquer à la sécurité ?|Quel objet fait sonner le portique ?
+nombre|aéroport|Combien de fois vérifies-tu ta carte d’embarquement avant le vol ?|Combien de fois regardes-tu le tableau des départs avant d’embarquer ?
+expression*|aéroport|Quelle annonce entends-tu toujours à l’aéroport ?|Quelle annonce entends-tu toujours dans le train ?
+minutes|avion|Combien de minutes de turbulences supportes-tu sans paniquer ?|Combien de minutes peux-tu rester assis en avion sans te lever ?
+activite|train|Que fais-tu quand quelqu’un est assis à ta place réservée ?|Que fais-tu quand ton voisin de train téléphone fort ?
+expression|train|Quel mot dis-tu quand ton train part sans toi ?|Quel mot dis-tu quand tu découvres ta chambre d’hôtel ?
+expression|road trip|Quelle phrase entend-on toujours à l’arrière de la voiture ?|Quelle phrase dit le conducteur quand il est perdu ?
+prix|road trip|Combien coûte un plein d’essence ?|Combien coûtent les péages pour traverser la France ?
+heures|hôtel et camping|À quelle heure descends-tu au petit-déjeuner de l’hôtel ?|À quelle heure ferme le petit-déjeuner d’un hôtel en général ?
+prix|hôtel et camping|Combien es-tu prêt à payer pour une nuit d’hôtel ?|Combien es-tu prêt à payer pour une nuit dans une cabane perchée ?
+nombre|hôtel et camping|Combien de nuits peux-tu dormir sous la tente ?|Combien de nuits peux-tu dormir dans un dortoir d’auberge ?
+activite|hôtel et camping|Que fais-tu en premier en entrant dans une chambre d’hôtel ?|Que fais-tu en premier en arrivant au camping ?
+objet|hôtel et camping|Quel objet réclames-tu à la réception ?|Quel objet manque toujours dans une chambre d’hôtel ?
+heures|hôtel et camping|À quelle heure libères-tu ta chambre le dernier jour ?|À quelle heure aimerais-tu pouvoir libérer ta chambre ?
+nom|hôtel et camping|Quel nom donnerais-tu à ton camping ?|Quel nom donnerais-tu à ton auberge de jeunesse ?
+lieu*|hôtel et camping|Quel lieu préfères-tu dans un hôtel en dehors de ta chambre ?|Quel lieu préfères-tu dans un camping en dehors de ta tente ?
+prix|hôtel et camping|Combien coûte une nuit de camping ?|Combien coûte un petit-déjeuner d’hôtel ?
+minutes|hôtel et camping|Combien de minutes te faut-il pour t’installer dans une chambre d’hôtel ?|Combien de minutes te faut-il pour tout ranger avant de quitter l’hôtel ?
+nombre|hôtel et camping|Combien d’avis lis-tu avant de réserver un hôtel ?|Combien de photos regardes-tu avant de réserver un hôtel ?
+pays*|destinations de rêve|Dans quel pays as-tu passé tes meilleures vacances ?|Dans quel pays as-tu passé tes pires vacances ?
+nombre|destinations de rêve|Combien de pays différents aimerais-tu voir dans ta vie ?|Combien de pays différents as-tu vus avant tes 18 ans ?
+age|destinations de rêve|À quel âge as-tu fait ton premier voyage à l’étranger ?|À quel âge es-tu parti en vacances sans tes parents ?
+pays|destinations de rêve|Dans quel pays aimerais-tu vivre six mois ?|Dans quel pays aimerais-tu passer seulement trois jours ?
+ville|villes du monde|Quelle ville connais-tu sans y être jamais allé ?|Quelle ville as-tu l’impression de connaître grâce aux films ?
+nombre|cuisine d'ailleurs|Combien de fois manges-tu au restaurant pendant une semaine de vacances ?|Combien de fois cuisines-tu pendant une semaine de vacances ?
+aliment|cuisine d'ailleurs|Quel plat français te manque le plus quand tu es à l’étranger ?|Quel plat français les étrangers adorent-ils ?
+aliment|cuisine d'ailleurs|Quel plat commandes-tu au restaurant de l’hôtel ?|Quel plat commandes-tu au room service ?
+marque|cuisine d'ailleurs|Quelle chaîne de restauration cherches-tu à l’étranger quand tu as faim ?|Quelle chaîne de restauration trouves-tu dans tous les aéroports ?
+nombre|habitudes de voyageur|Combien de voyages fais-tu par an ?|Combien de voyages aimerais-tu faire par an ?
+prix|week-end|Combien coûte un week-end entre amis ?|Combien coûte une semaine de vacances entre amis ?
+activite|transports sur place|Comment te déplaces-tu dans une ville étrangère ?|Comment te déplaces-tu sur une île ?
+objet|transports sur place|Quel véhicule loues-tu en vacances ?|Quel véhicule rêves-tu de conduire en vacances ?
+minutes|transports sur place|Combien de minutes de marche acceptes-tu pour rejoindre la plage ?|Combien de minutes de bus acceptes-tu pour une excursion ?
+objet|transports sur place|Quel transport typique aimerais-tu essayer à l’étranger ?|Quel transport typique as-tu déjà essayé à l’étranger ?
+activite|imprévus|Que fais-tu quand ta valise n’arrive pas ?|Que fais-tu quand ton hôtel ne ressemble pas aux photos ?
+heures|soleil, neige et grands espaces|À quelle heure te lèves-tu pour voir un lever de soleil en voyage ?|À quelle heure pars-tu en randonnée en voyage ?
+pays|soleil, neige et grands espaces|Dans quel pays irais-tu pour la neige ?|Dans quel pays irais-tu chercher le soleil en hiver ?
+nom|voyage en groupe|Comment appellerais-tu le groupe de discussion d’un voyage entre amis ?|Comment appellerais-tu l’album photo d’un voyage entre amis ?
+objet|papiers et préparatifs|Quel document as-tu toujours peur d’oublier en voyage ?|Quel document photographies-tu avant de partir à l’étranger ?
+prix|papiers et préparatifs|Combien d’euros gardes-tu en liquide en voyage ?|Combien d’euros changes-tu avant de partir à l’étranger ?
+expression|papiers et préparatifs|Quelle phrase répètes-tu avant de quitter la maison pour un voyage ?|Quelle phrase répètes-tu en arrivant à l’aéroport ?
+heures|papiers et préparatifs|À quelle heure te lèves-tu pour un vol à 7 h ?|À quelle heure pars-tu de chez toi pour un vol à 7 h ?
+nombre|là-haut|Combien de films regardes-tu pendant un long-courrier ?|Combien d’heures dors-tu pendant un long-courrier ?
+personne|là-haut|Quel voisin de siège redoutes-tu le plus ?|Quel voisin de siège rêverais-tu d’avoir ?
+expression|sur les rails|Que dis-tu quand le train s’arrête en pleine voie ?|Que dis-tu quand on annonce un retard pour ton train ?

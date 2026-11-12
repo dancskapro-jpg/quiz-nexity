@@ -1,0 +1,50 @@
+nombre|cinéma et séries|Combien de films regardes-tu par mois ?|Combien de séries suis-tu en même temps ?
+prix|au cinéma|Combien coûte une place de cinéma, selon toi ?|Combien paierais-tu pour une place d’avant-première ?
+objet|au cinéma|Qu’apportes-tu toujours dans une salle de cinéma ?|Qu’est-ce que tu oublies souvent sur ton siège au cinéma ?
+activite|au cinéma|Que fais-tu pendant les pubs avant le film ?|Que fais-tu quand un film traîne en longueur ?
+expression|au cinéma|Que chuchotes-tu à ton voisin pendant un film ?|Que dis-tu en sortant de la salle ?
+moment|au cinéma|Quel jour de la semaine préfères-tu aller au cinéma ?|Quel jour de la semaine préfères-tu commencer une nouvelle série ?
+film|au cinéma|Quel film es-tu allé voir plusieurs fois au cinéma ?|Quel film aurais-tu aimé découvrir sur grand écran ?
+minutes|au cinéma|Au bout de combien de minutes sais-tu si un film va te plaire ?|Au bout de combien de minutes regardes-tu l’heure pendant un film ennuyeux ?
+activite|au cinéma|Que fais-tu quand quelqu’un parle fort pendant la séance ?|Que fais-tu quand un téléphone sonne pendant la séance ?
+aliment|pop-corn et grignotage|Que grignotes-tu au cinéma ?|Que grignotes-tu devant un film à la maison ?
+aliment|pop-corn et grignotage|Quel goût de pop-corn préfères-tu ?|Quel goût de pop-corn aimerais-tu inventer ?
+prix|pop-corn et grignotage|Combien es-tu prêt à payer un pot de pop-corn ?|Combien payes-tu ta boisson au cinéma ?
+aliment|pop-corn et grignotage|Quel plat commandes-tu pour une soirée film entre amis ?|Quel plat manges-tu devant un film quand tu es seul ?
+minutes|pop-corn et grignotage|En combien de minutes finis-tu ton pop-corn au cinéma ?|Au bout de combien de minutes de film ouvres-tu ton paquet de bonbons ?
+aliment|pop-corn et grignotage|Quel aliment est le plus bruyant à manger au cinéma ?|Quel aliment est le plus salissant à manger sur un canapé ?
+aliment|pop-corn et grignotage|Quel dessert manges-tu devant un film ?|Quel dessert manges-tu devant la télé le dimanche soir ?
+minutes|streaming|Combien de minutes passes-tu à choisir quoi regarder ?|Combien de minutes passes-tu à choisir quoi manger le soir ?
+prix|streaming|Combien paierais-tu par mois pour une plateforme parfaite ?|Combien paies-tu par mois pour écouter de la musique ?
+activite|marathon de séries|Que fais-tu entre deux épisodes ?|Que fais-tu pendant le générique de fin ?
+nombre|marathon de séries|Combien d’épisodes faut-il pour que tu deviennes accro à une série ?|Combien d’épisodes faut-il pour que tu retiennes le prénom des personnages ?
+nombre|marathon de séries|Combien de saisons as-tu enchaînées en une semaine, au maximum ?|Combien de saisons compte la plus longue série que tu as finie ?
+nombre|bandes-annonces et affiches|Combien de bandes-annonces passent avant un film au cinéma ?|Combien de bandes-annonces regardes-tu avant de choisir un film ?
+nom|bandes-annonces et affiches|Quel titre donnerais-tu au film de ta vie ?|Quel titre donnerais-tu à la série de ta famille ?
+prix|bandes-annonces et affiches|Combien coûtait un DVD, selon toi ?|Combien coûte un abonnement de streaming par mois ?
+moment|bandes-annonces et affiches|À quel moment de la bande-annonce sais-tu que tu iras voir le film ?|À quel moment d’un film sais-tu que tu vas l’adorer ?
+film|rebondissements et fins|Quelle série t’a laissé sans voix à la fin d’une saison ?|Quelle série a eu une dernière saison décevante ?
+expression|rebondissements et fins|Que cries-tu devant un rebondissement incroyable ?|Que cries-tu quand un épisode s’arrête au pire moment ?
+age|dessins animés|Jusqu’à quel âge as-tu regardé des dessins animés ?|À quel âge as-tu vu ton premier dessin animé au cinéma ?
+nom|documentaires|Sur quel sujet regardes-tu des documentaires ?|Sur quel sujet aimerais-tu tourner un documentaire ?
+nom|télé et émissions|Quel jeu télé aimerais-tu gagner ?|Quel jeu télé serait le pire pour toi ?
+prix|télé et émissions|Combien coûte une bonne télé, selon toi ?|Combien coûte un bon canapé, selon toi ?
+expression|soirée canapé|Que dis-tu quand quelqu’un met pause sans prévenir ?|Que dis-tu quand quelqu’un parle pendant la scène clé ?
+nombre|soirée canapé|Combien de fois reviens-tu en arrière pendant un film à la maison ?|Combien de fois te lèves-tu pendant un film à la maison ?
+expression|coulisses et tournages|Que crie-t-on sur un plateau avant de tourner ?|Que crie-t-on à la fin d’une prise ?
+film|films de saison|Quel film d’été te rappelle tes vacances d’enfance ?|Quel film d’hiver te rappelle les fêtes en famille ?
+nombre*|films entre amis|Combien de films peux-tu regarder dans une journée ?|Combien de films peux-tu regarder dans un week-end ?
+lieu|frissons à l'écran|Quel lieu est le décor idéal d’un film d’horreur ?|Quel lieu est le décor idéal d’une comédie ?
+expression|dans la salle|Que chuchotes-tu à ton voisin quand le film commence ?|Que chuchotes-tu à ton voisin quand le film devient ennuyeux ?
+activite|dans la salle|Que fais-tu quand ton voisin de siège parle pendant le film ?|Que fais-tu quand un téléphone s’allume devant toi au cinéma ?
+objet|dans la salle|Quel objet trouve-t-on toujours par terre dans une salle après la séance ?|Quel objet as-tu déjà perdu dans une salle de cinéma ?
+aliment|le comptoir à popcorn|Quel snack rêverais-tu de trouver au comptoir du cinéma ?|Quel snack ne devrait jamais être vendu au cinéma ?
+expression|le comptoir à popcorn|Que dis-tu au vendeur quand il te propose la taille au-dessus ?|Que dis-tu quand quelqu’un pioche dans ton popcorn sans demander ?
+prix|le comptoir à popcorn|Combien dépenses-tu au total pour une sortie cinéma (en euros) ?|Combien dépenses-tu en snacks pour une soirée film chez toi (en euros) ?
+expression|soirée canapé|Que réponds-tu quand on te demande ce qu’on regarde ce soir ?|Que réponds-tu quand on te propose un film que tu as déjà vu ?
+expression|plateformes et catalogue|Quel mot dis-tu quand une plateforme augmente son prix ?|Quel mot dis-tu quand une série disparaît du catalogue ?
+expression*|clichés de cinéma|Quelle phrase entend-on toujours dans un film de braquage ?|Quelle phrase entend-on toujours dans un film de sport ?
+moment|clichés de cinéma|À quel moment du film le héros doute-t-il toujours ?|À quel moment du film le méchant révèle-t-il son plan ?
+lieu|clichés de cinéma|Dans quel lieu se cache toujours un indice dans un film d’enquête ?|Dans quel lieu trouve-t-on toujours un passage secret dans un film ?
+nombre|réactions et souvenirs|En quelle année est sorti le plus vieux film que tu adores ?|En quelle année est sorti le film de ton enfance que tu revois le plus ?
+prix|âges et prix|Quel prix maximum mettrais-tu dans un coffret collector de saga ?|Quel prix maximum mettrais-tu dans une affiche de film originale ?

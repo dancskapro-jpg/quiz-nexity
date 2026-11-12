@@ -1,0 +1,124 @@
+aliment|plats|Quel plat commandes-tu le plus en livraison ?|Quel plat choisirais-tu pour ton dernier repas ?
+aliment|plats|Quelle sauce accompagne le mieux des frites ?|Quelle sauce mettrais-tu sur absolument tout ?
+aliment|plats|Quel dessert commandes-tu au restaurant ?|Quel dessert sais-tu préparer ?
+aliment|plats|Quel ingrédient as-tu toujours dans ton frigo ?|Quel ingrédient oublies-tu toujours d’acheter ?
+aliment|plats|Quel snack prends-tu au cinéma ?|Quel snack emportes-tu en randonnée ?
+aliment|plats|Que mets-tu dans un sandwich parfait ?|Que mets-tu sur une tartine au petit-déjeuner ?
+aliment|plats|Quelle boisson commandes-tu en terrasse ?|Quelle boisson prends-tu le matin ?
+aliment|plats|Quel plat français ferais-tu goûter à un touriste ?|Quel plat français est le plus surcoté ?
+aliment|plats|Quel ingrédient rendrait n’importe quel plat meilleur ?|Quel ingrédient ajoutes-tu dans des pâtes au dernier moment ?
+nombre|chiffres|Combien de fois par mois vas-tu au restaurant ?|Combien de fois par mois te fais-tu livrer à manger ?
+minutes|chiffres|Combien de minutes peux-tu attendre ton plat au restaurant ?|Combien de minutes mets-tu à préparer ton dîner en semaine ?
+prix|chiffres|Combien d’euros paierais-tu pour le meilleur burger du monde ?|Combien d’euros paierais-tu pour une part de gâteau dans un salon de thé chic ?
+nombre|chiffres|Combien de grammes de pâtes prévois-tu par personne ?|Combien de grammes pèse une tablette de chocolat ?
+nombre|chiffres|Combien de morceaux de sucre mets-tu dans ton café ou ton thé ?|Combien de tranches de pain manges-tu par jour ?
+nombre|chiffres|Combien de crêpes peux-tu manger d’affilée ?|Combien de parts de pizza peux-tu manger d’affilée ?
+heures*|petit-déjeuner|À quelle heure prends-tu ton petit-déjeuner en semaine ?|À quelle heure prends-tu ton petit-déjeuner pendant les vacances ?
+aliment|petit-déjeuner|Que tartines-tu sur une biscotte ?|Que tartines-tu sur une crêpe ?
+aliment|boulangerie|Que prends-tu à la boulangerie à part du pain ?|Quelle pâtisserie rapportes-tu pour un dimanche en famille ?
+nombre|boulangerie|Combien de baguettes achètes-tu par semaine ?|Combien de croissants achètes-tu pour un petit-déjeuner à quatre ?
+aliment|courses|Quel aliment mets-tu dans le caddie en dernier ?|Quel aliment poses-tu en haut du sac pour ne pas l’écraser ?
+prix*|courses|Combien coûte un pot de pâte à tartiner selon toi ?|Combien coûte un paquet de café moulu selon toi ?
+aliment|courses|Quel produit goûtes-tu en rentrant des courses, avant même de ranger ?|Quel produit disparaît en premier après les courses ?
+nombre|courses|Combien de sacs de courses peux-tu porter d’un coup ?|Combien de sacs remplis-tu pour les courses de la semaine ?
+aliment|au restaurant|Quelle entrée commandes-tu le plus souvent au restaurant ?|Quelle entrée partages-tu volontiers avec toute la table ?
+aliment|au restaurant|Quel plat commandes-tu quand tu ne connais pas le restaurant ?|Quel plat commandes-tu dans un restaurant chic ?
+nombre|au restaurant|Combien de fois relis-tu la carte avant de choisir ?|Entre combien de plats hésites-tu avant de commander ?
+minutes|au restaurant|Combien de minutes mets-tu à choisir ton plat sur une carte ?|Combien de minutes faut-il attendre l’addition au restaurant ?
+aliment|au restaurant|Quel plat ne commandes-tu jamais au restaurant parce que tu le fais mieux ?|Quel plat ne manges-tu qu’au restaurant ?
+prix|au restaurant|Combien d’euros trouves-tu raisonnable pour un menu du midi ?|Combien d’euros coûte un plat du jour selon toi ?
+aliment|au restaurant|Quel accompagnement choisis-tu avec une viande ?|Quel accompagnement demandes-tu à changer dans un menu ?
+aliment|au restaurant|Quel plat trouves-tu toujours décevant au restaurant ?|Quel plat trouves-tu trop cher au restaurant ?
+aliment*|au restaurant|Quel plat choisis-tu dans une brasserie ?|Quel plat choisis-tu dans un restaurant d’autoroute ?
+aliment|au restaurant|Quelle pizza commandes-tu à la pizzeria ?|Quelle pizza surgelée achètes-tu ?
+minutes|fast-food et livraison|Combien de minutes peux-tu attendre ta livraison ?|Combien de minutes mets-tu à choisir sur l’appli de livraison ?
+prix|fast-food et livraison|Combien d’euros coûte une portion de frites au fast-food ?|Combien d’euros coûte un kebab frites ?
+pays|cuisines du monde|Quel pays a la meilleure cuisine du monde ?|Dans quel pays voudrais-tu voyager uniquement pour manger ?
+aliment|grignotage|Quel en-cas salé préfères-tu ?|Quel en-cas salé ressors-tu pour l’apéro ?
+moment|grignotage|À quel moment de la journée grignotes-tu le plus ?|À quel moment de la journée as-tu le plus faim ?
+aliment|desserts|Quel dessert est meilleur fait maison ?|Quel dessert vaut-il mieux acheter que faire soi-même ?
+prix|desserts|Combien d’euros coûte une pâtisserie individuelle selon toi ?|Combien d’euros coûte un grand gâteau pour six selon toi ?
+aliment|repas de fête|Quel amuse-bouche sers-tu à l’apéro ?|Quel amuse-bouche manges-tu en premier dans un buffet ?
+aliment|repas de fête|Que préfères-tu manger au barbecue ?|Que rates-tu toujours au barbecue ?
+nombre|repas de fête|Combien de tranches de fromage à raclette manges-tu ?|Combien de pommes de terre manges-tu avec une raclette ?
+nombre|pique-nique|Combien de sandwichs prépares-tu pour un pique-nique à quatre ?|Combien de paquets de chips faut-il pour un pique-nique à six ?
+nombre|restes et frigo|Combien de pots de sauce entamés y a-t-il dans ton frigo ?|Combien de sortes de fromage y a-t-il dans ton frigo ?
+aliment|restes et frigo|Quel aliment ne mets-tu jamais au frigo ?|Quel aliment met-on au frigo alors qu’il ne faudrait pas ?
+minutes*|restes et frigo|Combien de minutes réchauffes-tu une assiette au micro-ondes ?|Combien de minutes réchauffes-tu un bol de soupe au micro-ondes ?
+aliment|boissons|Quel soda commandes-tu au fast-food ?|Quel soda bois-tu pendant un film ?
+heures|boissons|À quelle heure prends-tu un café au travail ?|À quelle heure prends-tu un chocolat chaud en hiver ?
+nombre|à table|Combien de fois te ressers-tu quand c’est bon ?|Combien de serviettes utilises-tu pour manger des ailes de poulet ?
+minutes|à table|Combien de minutes mets-tu à finir ton assiette ?|Combien de minutes restes-tu à table après avoir fini ?
+aliment|à table|Quel aliment recouvres-tu de fromage râpé ?|Quel aliment noies-tu sous la sauce ?
+nombre*|cuisine débrouille|Combien de paquets de pâtes as-tu dans ton placard ?|Combien de boîtes de conserve as-tu dans ton placard ?
+aliment|cuisine débrouille|Quelle recette as-tu apprise sur internet ?|Quelle recette t’a apprise quelqu’un de ta famille ?
+prix*|marché et épicerie|Combien coûte un kilo de tomates selon toi ?|Combien coûte un kilo de cerises selon toi ?
+nombre|vacances|Combien de glaces manges-tu pendant une semaine de vacances ?|Combien de restaurants fais-tu pendant une semaine de vacances ?
+aliment|fête foraine et street food|Que manges-tu à la fête foraine ?|Que manges-tu au stade ou en concert ?
+prix*|fête foraine et street food|Combien coûte une barbe à papa selon toi ?|Combien coûte une crêpe au sucre dans la rue selon toi ?
+nombre|chiffres en cuisine|Combien de pizzas faut-il commander pour six personnes ?|Combien de baguettes faut-il acheter pour dix personnes ?
+age|chiffres en cuisine|À quel âge un enfant peut-il faire des crêpes seul ?|À quel âge peut-on laisser un enfant utiliser un couteau de cuisine ?
+metier|à la maison|Quel métier de la restauration est le plus dur ?|Quel métier de la restauration testerais-tu pendant une journée ?
+objet|à la maison|Quel objet de cuisine offrirais-tu à quelqu’un qui emménage ?|Quel objet de cuisine as-tu en double ?
+aliment|à la maison|Quel poisson manges-tu le plus souvent ?|Quel poisson commandes-tu au bord de la mer ?
+nombre|dîner en semaine|Combien de soirs par semaine cuisines-tu vraiment ?|Combien de soirs par semaine manges-tu devant un écran ?
+prix|dîner en semaine|Combien coûte un dîner fait maison pour deux selon toi ?|Combien coûte un plat à emporter pour deux selon toi ?
+aliment|dîner en semaine|Quelle sauce fais-tu toi-même ?|Quelle sauce achètes-tu toute prête ?
+lieu*|dîner en semaine|Où manges-tu le soir quand tu es seul ?|Où manges-tu le soir quand tu reçois un ami ?
+lieu|courses et supermarché|Par quel rayon commences-tu au supermarché ?|Dans quel rayon traînes-tu le plus longtemps au supermarché ?
+aliment*|courses et supermarché|Quel produit mets-tu dans le chariot sans regarder le prix ?|Quel produit mets-tu dans le chariot sans qu’il soit sur la liste ?
+prix*|courses et supermarché|À combien estimes-tu un pot de pâte à tartiner ?|À combien estimes-tu un paquet de café moulu ?
+heures|courses et supermarché|À quelle heure le supermarché est-il le plus calme selon toi ?|À quelle heure le marché est-il le plus animé selon toi ?
+expression|courses et supermarché|Quelle phrase dis-tu en voyant le total à la caisse ?|Quelle phrase dis-tu en ouvrant un frigo vide ?
+prix|au restaurant|Combien laisses-tu de pourboire après un bon repas ?|Combien coûte un dessert au restaurant selon toi ?
+minutes|au restaurant|Combien de minutes attends-tu avant de rappeler le serveur ?|Combien de minutes attends-tu une table sans réservation ?
+aliment|au restaurant|Quel dessert partages-tu à plusieurs cuillères ?|Quel dessert refuses-tu de partager ?
+nombre|au restaurant|Combien de personnes faut-il pour une bonne tablée au resto ?|Combien de personnes invites-tu pour fêter ton anniversaire au resto ?
+prix*|au restaurant|À partir de quel prix un burger te paraît-il cher ?|À partir de quel prix une pizza te paraît-elle chère ?
+heures|au restaurant|À quelle heure réserves-tu une table le samedi soir ?|À quelle heure ferme la cuisine d’un restaurant selon toi ?
+aliment|street food|Quelle street food mangerais-tu tous les jours ?|Quelle street food t’a déçu la première fois ?
+aliment|street food|Que prends-tu à la place des frites dans un menu ?|Que prends-tu en plus des frites quand tu as très faim ?
+moment*|street food|Quelle occasion justifie un fast-food selon toi ?|Quelle occasion justifie une pizza livrée selon toi ?
+aliment|street food|Quel snack achètes-tu dans un distributeur ?|Quel snack achètes-tu dans une station-service ?
+application|street food|Quelle appli ouvres-tu pour trouver une recette ?|Quelle appli ouvres-tu pour commander à manger ?
+nombre|réveil gourmand|Combien de bols de céréales peux-tu enchaîner ?|Combien de gaufres peux-tu enchaîner au goûter ?
+minutes|réveil gourmand|En combien de minutes avales-tu ton petit-déjeuner quand tu es en retard ?|En combien de minutes bois-tu ton café du matin ?
+aliment|réveil gourmand|Que bois-tu au réveil avant tout le reste ?|Que bois-tu en premier en arrivant au travail ou en cours ?
+prix|réveil gourmand|Combien coûte un brunch correct selon toi ?|Combien coûte un petit-déjeuner à l’hôtel selon toi ?
+aliment|boulangerie|Quel parfum d’éclair choisis-tu ?|Quel parfum de tarte choisis-tu en part individuelle ?
+nombre|boulangerie|Combien de pains au chocolat achètes-tu pour toi seul ?|Combien de chouquettes manges-tu sur le chemin du retour ?
+prix|boulangerie|Combien coûte un éclair au chocolat selon toi ?|Combien coûte une part de flan selon toi ?
+nombre|boulangerie|Combien de sortes de pain propose ta boulangerie ?|Combien de gâteaux différents vois-tu en vitrine ?
+lieu|boulangerie|Où ranges-tu le pain chez toi ?|Où ranges-tu les gâteaux secs chez toi ?
+nombre*|boulangerie|Combien de baguettes achète-t-on pour un repas à huit ?|Combien de baguettes achète-t-on pour un barbecue à huit ?
+expression|boulangerie|Quelle phrase dis-tu à la boulangère ?|Quelle phrase dis-tu au caissier du supermarché ?
+nombre|derrière les fourneaux|Combien de pincées de sel mets-tu dans l’eau des pâtes ?|Combien de cuillères de sucre mets-tu dans une pâte à crêpes ?
+nombre|derrière les fourneaux|Combien de recettes as-tu enregistrées sans jamais les faire ?|Combien de recettes as-tu testées ce mois-ci ?
+aliment|marché et courses|Que mets-tu en premier dans ton panier au marché ?|Que mets-tu en premier dans ton chariot au supermarché ?
+nombre|marché et courses|Combien de stands fais-tu au marché avant d’acheter ?|Combien de rayons traverses-tu pour trouver un seul produit ?
+minutes|marché et courses|Combien de minutes fais-tu la queue à la caisse sans râler ?|Combien de minutes fais-tu la queue chez le fromager ?
+prix*|marché et courses|Combien coûtent les courses d’une semaine pour une personne ?|Combien coûtent les courses d’une semaine pour quatre personnes ?
+expression|au restaurant|Que réponds-tu quand le serveur demande si tout va bien ?|Que réponds-tu quand le serveur demande si tu as choisi ?
+minutes|au restaurant|Combien de minutes attends-tu avant d’appeler le serveur ?|Combien de minutes attends-tu ton dessert au restaurant ?
+expression|au restaurant|Quelle remarque fais-tu en voyant l’addition ?|Quelle remarque fais-tu en voyant la taille de l’assiette ?
+objet|au restaurant|Quel objet de table manque toujours au restaurant ?|Quel objet de table demandes-tu toujours en plus ?
+nombre|épices et sauces|Combien de pots de moutarde as-tu chez toi ?|Combien de bouteilles de sauce piquante as-tu chez toi ?
+aliment*|épices et sauces|Quelle herbe fraîche parsèmes-tu sur des tomates ?|Quelle herbe fraîche parsèmes-tu sur un poisson ?
+prix|douceurs|Combien coûte une boîte de macarons selon toi ?|Combien coûte un pot de glace artisanale selon toi ?
+nombre|fromages et terroir|Combien de fromages faut-il sur un bon plateau ?|Combien de fromages différents peux-tu citer ?
+expression|fromages et terroir|Comment décrirais-tu l’odeur d’un vieux fromage ?|Comment décrirais-tu l’odeur d’un marché le matin ?
+aliment|fromages et terroir|Quel produit du terroir offrirais-tu en cadeau ?|Quel produit du terroir achètes-tu sur une aire d’autoroute ?
+nombre|fruits et légumes|Combien de bananes achètes-tu d’un coup ?|Combien de pommes achètes-tu d’un coup ?
+prix|apéro et grignotage|Combien coûte un paquet de chips selon toi ?|Combien coûte un paquet de cacahuètes selon toi ?
+expression|apéro et grignotage|Que dis-tu quand quelqu’un finit le paquet de chips ?|Que dis-tu quand quelqu’un prend la dernière part ?
+nombre|apéro et grignotage|Combien de personnes faut-il pour finir une grande pizza ?|Combien de personnes faut-il pour finir un saladier de chips ?
+nombre|repas de famille|Combien de fois te ressert-on à un repas de famille ?|Combien de plats goûtes-tu à un repas de famille ?
+expression|repas de famille|Quelle phrase entend-on toujours à un repas de famille ?|Quelle phrase entend-on toujours en fin de repas ?
+minutes|repas de famille|Combien de minutes faut-il pour passer à table quand le repas est prêt ?|Combien de minutes faut-il pour débarrasser après un repas de famille ?
+personne|repas de famille|Qui se ressert toujours en premier à table ?|Qui finit toujours les plats à table ?
+nombre|repas de famille|Combien de fois entend-on « à table » avant que tout le monde vienne ?|Combien de fois propose-t-on du rab à table ?
+personne|repas de famille|Qui raconte toujours la même histoire à table ?|Qui donne toujours son avis sur la cuisine à table ?
+nombre|repas de famille|Combien de générations se retrouvent autour de ta table ?|Combien de chaises ajoute-t-on pour les grands repas ?
+prix|tasses et verres|Combien coûte un jus d’orange pressé en terrasse ?|Combien coûte un thé en terrasse selon toi ?
+aliment|tasses et verres|Quelle boisson accompagne le mieux une crêpe ?|Quelle boisson accompagne le mieux une part de pizza ?
+aliment||Quel plat aimes-tu manger froid le lendemain ?|Quel plat est meilleur réchauffé ?

@@ -1,0 +1,595 @@
+Quel film t’a fait le plus peur ?|Quel film t’a fait pleurer ?
+Quel film regardes-tu à Noël ?|Quel film regardes-tu quand tu es malade ?
+Quel acteur ou quelle actrice jouerait ton rôle dans un film ?|Quel acteur ou quelle actrice inviterais-tu à ton anniversaire ?
+Quel personnage de film aimerais-tu être pendant une journée ?|Quel méchant de film trouves-tu le plus charismatique ?
+Quelle saga as-tu vue en entier ?|Quelle saga n’as-tu jamais réussi à finir ?
+Quel film as-tu vu au cinéma récemment ?|Quel film attends-tu avec impatience ?
+Quel film d’animation conseillerais-tu à un adulte ?|Quel film d’animation t’a le plus marqué ?
+Combien d’heures peut durer un film sans être trop long ?|Combien d’heures de série regardes-tu un dimanche pluvieux ?
+Quel film culte n’as-tu jamais vu ?|Quel film culte trouves-tu surcoté ?
+Quelle série te rappelle ton adolescence ?|Quelle série regarderais-tu avec tes parents ?
+Dans quel décor de film aimerais-tu vivre ?|Dans quel décor de série aimerais-tu passer des vacances ?
+Quel film pourrais-tu réciter presque par cœur ?|Quel film cites-tu souvent sans t’en rendre compte ?
+Quelle réplique de film utilises-tu dans la vie ?|Quelle réplique de film trouves-tu la plus drôle ?
+Sur 10, quelle note donnerais-tu au dernier film que tu as vu ?|Sur 10, quelle note donnerais-tu à la dernière série que tu as finie ?
+Quel genre de film choisis-tu un vendredi soir ?|Quel genre de film t’endort à coup sûr ?
+Quel super-héros te ressemble le plus ?|Quel super-héros serait le pire colocataire ?
+Quel film d’horreur oserais-tu regarder seul ?|Quel film d’horreur est drôle sans le vouloir ?
+Quelle plateforme de streaming utilises-tu le plus ?|Quelle plateforme de streaming pourrais-tu résilier demain ?
+Quelle émission de télé regardais-tu enfant ?|Quelle émission de télé regardes-tu sans l’avouer ?
+Combien de saisons devrait avoir une série parfaite ?|Combien d’épisodes devrait compter une saison idéale ?
+Quel personnage de série aimerais-tu avoir comme ami ?|Quel personnage de série serait un patron insupportable ?
+Quel film mériterait une suite ?|Quel film n’aurait jamais dû avoir de suite ?
+Quel film te met de bonne humeur ?|Quel film regardes-tu pour te motiver ?
+À quel moment de la journée regardes-tu des séries ?|À quel moment de la semaine vas-tu au cinéma ?
+Quel film pourrais-tu raconter en trois mots ?|Quel film résumerais-tu le plus mal ?
+Quel objet de film aimerais-tu posséder ?|Quel objet de film serait le plus utile au quotidien ?
+Dans quelle ville se passe ton film préféré ?|Quelle ville aimerais-tu voir dans un film catastrophe ?
+Quel animal de film aimerais-tu adopter ?|Quel animal de dessin animé te fait le plus rire ?
+Quelle musique de film reconnais-tu en trois notes ?|Quelle musique de film te donne des frissons ?
+Où préfères-tu t’asseoir dans une salle de cinéma ?|Où t’assois-tu quand la salle est presque pleine ?
+Combien de fois vas-tu au cinéma dans l’année ?|Combien de fois revois-tu ton film préféré dans l’année ?
+Combien de minutes de pubs supportes-tu avant un film ?|Combien de minutes d’avance arrives-tu à une séance ?
+À quelle heure est ta séance de cinéma idéale ?|À quelle heure lances-tu un film chez toi le soir ?
+Avec qui vas-tu le plus souvent au cinéma ?|Avec qui n’irais-tu jamais voir un film d’horreur ?
+Combien de personnes faut-il pour une bonne sortie ciné ?|Combien de personnes faut-il pour une bonne soirée film à la maison ?
+Quel est l’endroit le plus insolite où tu as regardé un film ?|Où aimerais-tu voir un film en plein air ?
+À quel âge peut-on aller seul au cinéma ?|À quel âge as-tu vu ton premier film déconseillé aux moins de 12 ans ?
+À quelle heure commence ta séance de cinéma préférée en semaine ?|À quelle heure commence ta séance de cinéma préférée le week-end ?
+Combien de poignées de pop-corn manges-tu avant le début du film ?|Combien de bonbons te reste-t-il à la fin du film ?
+Quel bonbon prends-tu toujours au comptoir du cinéma ?|Quel bonbon mangeais-tu devant les dessins animés du mercredi ?
+Quelle boisson prends-tu au cinéma ?|Quelle boisson prépares-tu pour un marathon de séries ?
+Dans quel récipient sers-tu le pop-corn à la maison ?|Dans quel récipient sers-tu les chips pour une soirée film ?
+Quel plat vu dans un film aimerais-tu goûter ?|Quel plat vu dans un dessin animé aimerais-tu goûter ?
+Combien de paquets de bonbons achètes-tu pour une soirée film ?|Combien de pizzas faut-il pour une soirée film à six ?
+Quel en-cas sors-tu pour un film d’horreur ?|Quel en-cas sors-tu pour une comédie ?
+Quelle plateforme de streaming as-tu ouverte en dernier ?|Quelle plateforme de streaming conseilles-tu le plus ?
+Combien de plateformes de streaming paies-tu en ce moment ?|Combien de personnes partagent ton compte de streaming ?
+Combien de films as-tu dans ta liste « à regarder » ?|Combien de films as-tu commencés sans les finir cette année ?
+Quelle appli ouvres-tu pour savoir quoi regarder ?|Quelle appli ouvres-tu pendant un film ennuyeux ?
+Quel film as-tu ajouté à ta liste sans jamais le lancer ?|Quel film as-tu lancé trois fois sans le finir ?
+Quel nom donnerais-tu à ton profil de streaming ?|Quel nom donnerais-tu à ta propre chaîne de télé ?
+De quelle couleur est le logo de ta plateforme préférée ?|De quelle couleur serait le logo de ta plateforme idéale ?
+Que réponds-tu quand ta plateforme te demande si tu es toujours là ?|Que dis-tu quand la connexion coupe en plein film ?
+Quel film l’algorithme t’a-t-il recommandé à raison ?|Quel film un ami t’a-t-il recommandé à raison ?
+Que fais-tu pendant le générique d’ouverture ?|Que fais-tu pendant le résumé de l’épisode précédent ?
+Combien de séries as-tu commencées ce mois-ci ?|Combien de séries as-tu terminées ce mois-ci ?
+Sur quel écran regardes-tu le plus de séries ?|Sur quel écran regardes-tu des films en voyage ?
+Quand regardes-tu des séries en semaine ?|Quand regardes-tu des séries pendant les vacances ?
+Combien d’épisodes enchaînes-tu sans faire de pause ?|Combien d’épisodes regardes-tu avant de dormir ?
+À quelle heure arrêtes-tu un marathon de séries ?|À quelle heure commences-tu un marathon de séries le week-end ?
+Combien d’heures dure ton plus long marathon de séries ?|Combien d’heures faudrait-il pour rattraper tes séries en retard ?
+En combien de jours as-tu fini ta dernière série ?|En combien de jours finis-tu une saison de dix épisodes ?
+Quelle excuse te donnes-tu pour lancer un épisode de plus ?|Quelle excuse donnes-tu pour rester regarder ta série au lieu de sortir ?
+À quel âge as-tu veillé toute une nuit devant une série ?|À quel âge as-tu veillé tard pour finir un film ?
+Quel est le meilleur moment de l’année pour se lancer dans une série ?|Quel est le meilleur moment de l’année pour revoir une saga ?
+Quelle série regardes-tu en boucle ?|Quelle série relances-tu quand tu ne sais pas quoi regarder ?
+Où regardes-tu des séries à part le canapé ?|Où as-tu déjà regardé un épisode en cachette ?
+Combien d’épisodes regardes-tu dans le train ?|Combien d’épisodes regardes-tu dans l’avion ?
+Qu’as-tu toujours à portée de main pendant un marathon de séries ?|Qu’as-tu toujours à portée de main pendant un film d’horreur ?
+Que portes-tu pour un marathon de séries ?|Que portes-tu pour aller au cinéma ?
+Combien de minutes devrait durer une bande-annonce ?|Combien de minutes dure le générique de fin d’un gros film ?
+Quel film avait une bande-annonce meilleure que le film ?|Quel film t’a surpris alors que sa bande-annonce était nulle ?
+Quelle phrase entend-on dans toutes les bandes-annonces ?|Quelle phrase entend-on dans tous les films d’action ?
+Quelle couleur domine sur les affiches de films d’horreur ?|Quelle couleur domine sur les affiches de comédies ?
+Combien d’étoiles faut-il dans une critique pour que tu ailles voir un film ?|Combien d’étoiles faut-il à un restaurant pour que tu y ailles ?
+Quelle bande-annonce t’a donné le plus envie d’aller au cinéma ?|Quelle bande-annonce en dévoilait beaucoup trop ?
+À quel âge as-tu affiché un poster de film dans ta chambre ?|À quel âge as-tu acheté ton premier DVD ?
+Quel slogan mettrais-tu sur l’affiche du film de ta vie ?|Quel slogan mettrais-tu sur l’affiche de ton dernier week-end ?
+Quel genre de film regardes-tu quand tu es fatigué ?|Quel genre de film regardes-tu quand tu as besoin de rire ?
+Quel genre de film détestes-tu ?|Quel genre de film regardes-tu en cachette ?
+Quel genre de film choisis-tu en hiver ?|Quel genre de film choisis-tu en été ?
+Quel genre de série te rend accro ?|Quel genre de série abandonnes-tu vite ?
+Quelle comédie te fait rire à chaque fois ?|Quelle comédie regarderais-tu en famille ?
+Quel film d’action est le plus spectaculaire ?|Quel film d’action est le plus invraisemblable ?
+Quel film de science-fiction t’a le plus impressionné ?|Quel film de science-fiction pourrait devenir réalité ?
+Quel western pourrais-tu citer ?|Quel film de cape et d’épée pourrais-tu citer ?
+Quel film musical te donne envie de chanter ?|Quel film musical te donne envie de danser ?
+Quel film policier t’a tenu en haleine ?|Quel film policier as-tu deviné dès le début ?
+Quel film d’horreur t’a empêché de dormir ?|Quel film à suspense t’a empêché de dormir ?
+Quelle comédie romantique connais-tu par cœur ?|Quelle comédie romantique trouves-tu ridicule ?
+Combien de films d’horreur as-tu vus en entier ?|Combien de films de super-héros as-tu vus en entier ?
+Quel pays fait les meilleurs films ?|Quel pays fait les meilleures séries ?
+De quel pays vient le dernier film étranger que tu as vu ?|Dans quel pays se passe ta série préférée ?
+Quelle ville est la plus filmée au cinéma ?|Quelle ville ferait le meilleur décor de série policière ?
+Quel sport donne les meilleurs films ?|Quel sport mériterait enfin son grand film ?
+Quel métier de héros de film aimerais-tu faire ?|Quel métier voit-on trop souvent dans les séries ?
+Quel métier est le plus mal représenté au cinéma ?|Quel métier est le plus glamour dans les séries ?
+Quel prénom de personnage de film te fait sourire ?|Quel prénom de personnage de série donnerais-tu à un animal ?
+Quel prénom donne-t-on toujours au meilleur ami du héros ?|Quel prénom donne-t-on toujours au méchant ?
+Quel personnage de série serait parfait pour organiser ta fête ?|Quel personnage de série serait parfait pour garder ton appartement ?
+Quel héros de film appellerais-tu en cas de problème ?|Quel héros de film appellerais-tu pour un déménagement ?
+Quel méchant de film aurait fait un bon prof ?|Quel méchant de film aurait fait un bon voisin ?
+Quel accessoire reconnaît-on immédiatement sur un personnage de film ?|Quel accessoire porterais-tu pour te déguiser en héros de série ?
+Quel costume de personnage de film porterais-tu à une soirée ?|Quel costume de personnage de film serait le plus inconfortable ?
+Quel animal serait le meilleur acolyte d’un héros ?|Quel animal ferait le meilleur méchant de film ?
+Quel âge a le héros typique d’un film d’action ?|Quel âge a le héros typique d’une série pour ados ?
+Quelle phrase dit toujours le héros avant de partir ?|Quelle phrase dit toujours le méchant avant de perdre ?
+Quel personnage de film te ressemble le plus ?|Quel personnage de série te ressemble le plus ?
+Quel personnage secondaire mériterait son propre film ?|Quel personnage secondaire a volé la vedette au héros ?
+Quel métier de personnage de série t’a donné envie de le faire ?|Quel métier as-tu découvert grâce à un film ?
+Quel film a la fin la plus surprenante ?|Quel film a la fin la plus frustrante ?
+Au bout de combien de minutes devines-tu le coupable dans un film policier ?|Au bout de combien de minutes devines-tu la fin d’une comédie romantique ?
+Combien de rebondissements faut-il dans un bon thriller ?|Combien de fausses pistes faut-il dans un bon film policier ?
+Qui dans ton entourage raconte toujours la fin des films ?|Qui dans ton entourage s’endort toujours devant les films ?
+Sur 10, à quel point détestes-tu qu’on te divulgâche une fin ?|Sur 10, à quel point détestes-tu les fins ouvertes ?
+Que fais-tu quand tu as deviné la fin d’un film ?|Que fais-tu quand la fin d’un film t’échappe ?
+Quel film faut-il voir deux fois pour tout comprendre ?|Quel film ne se regarde qu’une fois à cause de sa fin ?
+Quelle phrase dis-tu quand un épisode finit sur un suspense ?|Quelle phrase dis-tu quand le héros fait une erreur évidente ?
+Quelle fin de film réécrirais-tu ?|Quelle fin de série réécrirais-tu ?
+À quel âge as-tu compris qu’un héros pouvait perdre à la fin ?|À quel âge as-tu vu ton premier film sans fin heureuse ?
+Combien de fins alternatives aimerais-tu voir pour un film ?|Combien d’épisodes bonus aimerais-tu après la fin d’une série ?
+Où se réfugient les héros à la fin d’un film catastrophe ?|Où se retrouvent les héros dans la dernière scène d’une comédie ?
+Quelle musique de film fredonnes-tu sous la douche ?|Quelle musique de film mettrais-tu à ton anniversaire ?
+Quel générique d’émission télé chantes-tu encore ?|Quel générique de jeu télé chantes-tu encore ?
+Quelle musique de film mettrais-tu pour faire le ménage ?|Quelle musique de film mettrais-tu pour courir ?
+Quelle musique de film d’horreur te glace le sang ?|Quelle musique de film annonce qu’un truc va mal tourner ?
+Quelle chanson de dessin animé chantes-tu encore ?|Quelle chanson de dessin animé ne supportes-tu plus ?
+Quel instrument entend-on dans tous les films d’aventure ?|Quel instrument entend-on dans tous les films d’horreur ?
+Quelle musique de film passerait bien à un mariage ?|Quelle musique de film passerait bien dans un ascenseur ?
+Quelle musique de film te donne l’impression d’être un héros ?|Quelle musique de film te donne envie de partir à l’aventure ?
+Combien de musiques de films peux-tu fredonner ?|Combien de génériques de séries peux-tu chanter ?
+Quelle chanson est meilleure dans un film qu’à la radio ?|Quelle chanson as-tu découverte grâce à une série ?
+Quel bruit fais-tu pour imiter une musique de suspense ?|Quel bruit fais-tu pour imiter une musique de film d’horreur ?
+Quel dessin animé regardais-tu le mercredi ?|Quel dessin animé regardais-tu le samedi matin ?
+Quel personnage de dessin animé aimerais-tu avoir comme voisin ?|Quel personnage de dessin animé aimerais-tu avoir comme prof ?
+Quel animal de dessin animé est le plus mignon ?|Quel animal de dessin animé est le plus bavard ?
+Quel dessin animé ferait un bon film avec de vrais acteurs ?|Quel dessin animé a mal vieilli ?
+De quelle couleur est ton personnage de dessin animé préféré ?|De quelle couleur est le méchant de dessin animé le plus célèbre ?
+Quel objet magique de dessin animé aimerais-tu avoir ?|Quel objet de dessin animé t’aurait sauvé à l’école ?
+Quel méchant de dessin animé te faisait peur enfant ?|Quel méchant de dessin animé trouves-tu attachant ?
+Quelle réplique de dessin animé cites-tu encore ?|Quelle formule magique de dessin animé connais-tu ?
+Quel lieu de dessin animé aimerais-tu visiter ?|Quel lieu de dessin animé te faisait rêver enfant ?
+Combien de dessins animés regardais-tu avant l’école ?|Combien d’épisodes de dessin animé regardais-tu le mercredi ?
+Quel dessin animé regardes-tu encore en cachette ?|Quel dessin animé comprends-tu mieux maintenant que tu es adulte ?
+À quelle heure passaient tes dessins animés préférés ?|À quelle heure te levais-tu le week-end quand tu étais petit ?
+Quel dessin animé était trop effrayant pour un enfant ?|Quel dessin animé était trop compliqué pour un enfant ?
+Quel animal de documentaire te fascine le plus ?|Quel animal de documentaire te fait le plus rire ?
+Quel endroit du monde as-tu découvert dans un documentaire ?|Quel endroit du monde aimerais-tu voir filmé en documentaire ?
+Combien d’heures de documentaires as-tu regardées ce mois-ci ?|Combien d’heures pourrais-tu passer devant des documentaires animaliers ?
+Quand regardes-tu des documentaires ?|Quand t’endors-tu devant la télé ?
+Sur quel pays as-tu vu le meilleur documentaire ?|Quel pays aimerais-tu découvrir à travers un documentaire ?
+Quel métier aimerais-tu suivre dans un documentaire ?|Quel métier ferait une bonne téléréalité ?
+Combien de documentaires as-tu vus cette année ?|Combien de documentaires as-tu commencés cette année sans les finir ?
+Quel animal mériterait son propre documentaire ?|Quel animal ferait le pire présentateur de documentaire ?
+Quelle voix aimerais-tu entendre raconter un documentaire ?|Quelle voix aimerais-tu entendre dans ton GPS ?
+Quel objet du quotidien mériterait un documentaire ?|Quel objet du quotidien mériterait un film d’aventure ?
+Combien de suites peut avoir une saga avant de lasser ?|Combien de films de la même saga as-tu vus au cinéma ?
+Quel vieux film mériterait d’être refait en série ?|Quel vieux film devrait rester intouchable ?
+Quelle saga connais-tu le mieux ?|Quelle saga aimerais-tu découvrir en entier ?
+Quelle série devrait revenir pour une nouvelle saison ?|Quelle série devrait avoir son film ?
+À quel âge as-tu vu le premier film de ta saga préférée ?|À quel âge as-tu vu le dernier film de ta saga préférée ?
+Combien d’années faut-il attendre avant un remake ?|Combien d’années faut-il attendre entre deux saisons d’une série ?
+Quelle série étrangère mériterait une version française ?|Quel film français mériterait une version américaine ?
+Quel film est meilleur que le livre ?|Quel livre aurait dû rester un livre ?
+Quelle saga regarderais-tu en entier un jour de pluie ?|Quelle saga regarderais-tu en entier pendant les vacances ?
+Quel personnage mériterait un film sur sa jeunesse ?|Quel personnage mériterait un film sur sa retraite ?
+Combien de films compte ta saga préférée ?|Combien de saisons compte ta série préférée ?
+Quel film a eu une suite meilleure que l’original ?|Quel film a eu une suite que personne n’attendait ?
+Combien de chaînes de télé regardes-tu vraiment ?|Combien d’applis de vidéo as-tu sur ton téléphone ?
+Que cherches-tu toujours avant d’allumer la télé ?|Que perds-tu toujours entre les coussins du canapé ?
+Quel métier de la télé aimerais-tu faire ?|Quel métier du cinéma aimerais-tu faire ?
+À quelle heure regardes-tu le journal télé ?|À quelle heure regardes-tu ta série du soir ?
+Quelle émission de téléréalité as-tu suivie en entier ?|Quelle émission de cuisine regardes-tu avec plaisir ?
+Quelle épreuve de jeu télé réussirais-tu ?|Quelle épreuve de jeu télé te ferait abandonner ?
+Sur 10 questions de jeu télé, combien en réussirais-tu ?|Sur 10 questions de quiz entre amis, combien en réussirais-tu ?
+Quelle phrase de présentateur télé connais-tu par cœur ?|Quelle phrase de jeu télé cries-tu depuis ton canapé ?
+Quand allumes-tu la télé ?|Quand éteins-tu la télé ?
+Où est placée la télé chez toi ?|Où mettrais-tu un écran géant chez toi ?
+Combien de pouces fait ton écran de télé ?|Combien de pouces devrait faire l’écran idéal ?
+Quelle émission de télé regardes-tu pour t’endormir ?|Quelle émission de télé regardes-tu en mangeant ?
+À quel âge as-tu eu une télé dans ta chambre ?|À quel âge as-tu eu le droit de regarder la télé le soir ?
+Qu’est-ce qu’il te faut absolument pour une soirée canapé ?|Qu’est-ce qu’il te faut absolument pour une soirée pyjama ?
+Avec qui regardes-tu le plus de séries ?|Avec qui regardes-tu le plus de films ?
+Que fais-tu quand tu t’ennuies devant un film ?|Que fais-tu quand tu as peur devant un film ?
+Combien de coussins faut-il sur un canapé de soirée film ?|Combien de plaids faut-il pour une soirée film à quatre ?
+Au bout de combien de minutes de film t’endors-tu un dimanche soir ?|Au bout de combien de minutes de film vas-tu chercher à grignoter ?
+Que prends-tu pour te cacher les yeux pendant une scène qui fait peur ?|Que serres-tu dans tes bras pendant un film triste ?
+Combien de personnes peuvent tenir sur ton canapé ?|Combien de personnes peuvent regarder un film chez toi confortablement ?
+Où t’assois-tu pour regarder un film chez des amis ?|Où t’assois-tu pour regarder un film chez toi ?
+À quelle heure t’endors-tu devant un film ?|À quelle heure finit ta soirée film idéale ?
+De quelle couleur est ton plaid de soirée film ?|De quelle couleur serait le canapé parfait ?
+Que fais-tu en même temps que tu regardes une série ?|Que fais-tu en même temps que tu revois un film déjà vu ?
+Quel film proposes-tu quand personne n’arrive à choisir ?|Quel film refuses-tu toujours quand on te le propose ?
+Quel soir de la semaine est parfait pour une soirée film ?|Quel soir de la semaine est parfait pour un nouvel épisode ?
+Quelle phrase dis-tu pour convaincre les autres de regarder ton film ?|Quelle phrase dis-tu pour convaincre les autres de lancer un autre épisode ?
+Quel métier de tournage aimerais-tu essayer ?|Quel métier de tournage serait le plus stressant ?
+Quel lieu de ta ville ferait un bon décor de film ?|Quel lieu de ta ville ferait un bon décor de film d’horreur ?
+Combien de prises faut-il pour une scène parfaite ?|Combien de selfies prends-tu avant d’en garder un ?
+Quel objet garderais-tu en souvenir d’un tournage ?|Quel objet de décor de film aimerais-tu chez toi ?
+Combien de figurants faut-il pour une scène de foule ?|Combien de personnes faut-il pour une photo de classe ?
+Combien d’heures dure une journée de tournage ?|Combien d’heures dure une journée de travail normale ?
+Quel rôle de figurant aimerais-tu jouer ?|Quel rôle de figurant jouerais-tu le mieux ?
+À quel âge aimerais-tu jouer dans un film ?|À quel âge as-tu filmé ta première vidéo ?
+Dans quelle ville aimerais-tu assister à un tournage ?|Dans quelle ville aimerais-tu assister à une avant-première ?
+Quel proche jouerait bien le méchant dans le film de ta vie ?|Quel proche jouerait bien le héros dans le film de ta vie ?
+Combien de mois faut-il pour faire un film d’animation ?|Combien de mois faut-il pour tourner une saison de série ?
+Quel accessoire faut-il pour faire un film amateur ?|Quel objet emportes-tu pour filmer tes vacances ?
+Quel métier du cinéma est le plus méconnu ?|Quel métier du cinéma est le plus fatigant ?
+Sur 10, à quel point aimes-tu les films en version originale ?|Sur 10, à quel point supportes-tu les sous-titres ?
+Dans quelle langue regardes-tu le plus de séries ?|Dans quelle langue aimerais-tu comprendre les films sans sous-titres ?
+Quelle langue sonne le mieux au cinéma ?|Quelle langue sonne le mieux dans les chansons ?
+De quel pays regardes-tu le plus de séries étrangères ?|De quel pays aimerais-tu découvrir les séries ?
+Quel mot d’anglais as-tu appris grâce aux séries ?|Quel mot d’anglais utilises-tu tous les jours ?
+Combien de séries étrangères as-tu regardées cette année ?|Combien de films en version originale as-tu vus cette année ?
+Quel personnage a la meilleure voix en version française ?|Quel personnage de dessin animé a la voix la plus agaçante ?
+Que fais-tu quand les sous-titres sont décalés ?|Que fais-tu quand le son d’un film est trop bas ?
+Quelle réplique de film tout le monde connaît ?|Quelle réplique de film dis-tu en entrant dans une pièce ?
+Quelle réplique de série cites-tu avec tes amis ?|Quelle réplique de dessin animé cites-tu avec tes amis ?
+Quelle réplique de film dirais-tu à ton patron ?|Quelle réplique de film dirais-tu à ta famille au dîner ?
+Quelle réplique de méchant fais-tu en imitant sa voix ?|Quelle phrase de héros cries-tu pour rigoler ?
+Quelle réplique de film mériterait d’être un proverbe ?|Quelle réplique de film pourrait être un slogan publicitaire ?
+Quelle réplique de film te sert pour dire au revoir ?|Quelle réplique de film te sert pour dire bonjour ?
+Quel super-héros aimerais-tu être pour une journée ?|Quel super-héros aimerais-tu avoir comme voisin ?
+Quel pouvoir de héros de cinéma t’aiderait le plus au travail ?|Quel pouvoir de héros de cinéma t’aiderait le plus en vacances ?
+Quelle couleur choisirais-tu pour ta cape de super-héros ?|Quelle couleur choisirais-tu pour le costume de ton pire ennemi ?
+Quel nom de super-héros te donnerais-tu ?|Quel nom de super-héros donnerais-tu à ton voisin ?
+Quel gadget de héros de film aimerais-tu avoir ?|Quel gadget de héros de film serait utile en cuisine ?
+Combien de films de super-héros sortent par an ?|Combien de super-héros peux-tu citer en dix secondes ?
+Quel vêtement de super-héros porterais-tu au quotidien ?|Quel vêtement de super-héros est le moins pratique ?
+Quelle ville aurait le plus besoin d’un super-héros ?|Quelle ville cacherait le mieux une base secrète ?
+Quel métier ferait un super-héros à la retraite ?|Quel métier sert de couverture aux super-héros ?
+Quel animal donnerait le meilleur pouvoir de super-héros ?|Quel animal ferait le pire super-héros ?
+Quel film te met dans l’ambiance des vacances ?|Quel film te met dans l’ambiance de la rentrée ?
+Quel film regardes-tu quand il pleut ?|Quel film regardes-tu quand il fait trop chaud pour sortir ?
+Quel film te donne envie de changer de ville ?|Quel film te donne envie de changer de métier ?
+Quel film te donne envie de cuisiner ?|Quel film te donne envie de faire du sport ?
+Quel film regardes-tu le 1er janvier au réveil ?|Quel film regardes-tu le dernier dimanche des vacances ?
+À quelle période de l’année vas-tu le plus au cinéma ?|À quelle période de l’année regardes-tu le plus de séries ?
+Quel ami choisirais-tu pour regarder un film d’horreur ?|Quel ami choisirais-tu pour regarder une comédie ?
+Quel film conseilles-tu à quelqu’un qui n’aime pas le cinéma ?|Quel film conseilles-tu à quelqu’un qui a tout vu ?
+Quel film regardes-tu avec tes parents ?|Quel film regardes-tu avec tes grands-parents ?
+Que dis-tu pour proposer une soirée film ?|Que dis-tu pour refuser une soirée film ?
+Quel film adores-tu alors que personne ne le connaît ?|Quel film adores-tu alors que tout le monde le trouve nul ?
+Quel film montrerais-tu à quelqu’un venu d’une autre planète ?|Quel film montrerais-tu à quelqu’un qui n’a jamais vu de film ?
+Combien de fois te caches-tu les yeux pendant un film d’horreur ?|Combien de fois sursautes-tu pendant un film d’horreur ?
+Où se cache le monstre dans un film d’horreur ?|Où se cache le héros dans un film d’horreur ?
+À quelle heure peut-on regarder un film d’horreur ?|À quelle heure est-il trop tard pour regarder un film d’horreur ?
+Quel objet fait le plus peur dans un film d’horreur ?|Quel objet de ta maison ferait peur dans un film d’horreur ?
+Que cries-tu quand un personnage descend à la cave ?|Que cries-tu quand un personnage ouvre la porte qu’il ne faut pas ouvrir ?
+Quel animal fait le plus peur au cinéma ?|Quel animal est le plus mignon au cinéma ?
+Combien d’étoiles donnes-tu à un film moyen ?|Combien d’étoiles donnes-tu à un film que tu as adoré ?
+Quel mot utilises-tu pour décrire un bon film ?|Quel mot utilises-tu pour décrire un film nul ?
+Comment résumes-tu un film trop long en un mot ?|Comment résumes-tu un film trop lent en un mot ?
+À qui demandes-tu un conseil de film ?|À qui ne demanderais-tu jamais un conseil de film ?
+Combien de critiques lis-tu avant d’aller voir un film ?|Combien d’avis lis-tu avant de choisir un restaurant ?
+Sur quoi regardais-tu des films quand tu étais petit ?|Sur quoi regardes-tu des films aujourd’hui ?
+Quel vieux film en noir et blanc pourrais-tu citer ?|Quel vieux film muet pourrais-tu citer ?
+À quel âge as-tu mis des lunettes 3D pour la première fois ?|À quel âge as-tu loué un film au vidéoclub pour la première fois ?
+Combien de DVD as-tu encore chez toi ?|Combien de cassettes vidéo avaient tes parents ?
+Quel film de ton enfance revois-tu avec plaisir ?|Quel film de ton enfance n’oses-tu pas revoir ?
+Combien payais-tu ta place de cinéma quand tu étais ado ?|Combien payais-tu ton pop-corn quand tu étais ado ?
+Quel vieux film a encore des effets spéciaux réussis ?|Quel vieux film a les effets spéciaux les plus ratés ?
+Combien de minutes dure un épisode idéal ?|Combien de minutes dure un film idéal ?
+Quel lieu de série aimerais-tu visiter en vrai ?|Quel lieu de film aimerais-tu visiter en vrai ?
+À quelle heure regardes-tu un nouvel épisode le jour de sa sortie ?|À quelle heure vas-tu voir un film le jour de sa sortie ?
+Quel métier ont la plupart des héros de films catastrophe ?|Quel métier ont la plupart des héros de comédies romantiques ?
+Quel vêtement porte toujours le détective de film ?|Quel vêtement porte toujours le savant fou de film ?
+Quel objet emportes-tu pour un film en plein air ?|Quel objet emportes-tu pour un pique-nique ?
+Quel plat les personnages de séries mangent-ils tout le temps ?|Quel plat les personnages de dessins animés mangent-ils tout le temps ?
+À quel âge peut-on regarder un film d’horreur ?|À quel âge peut-on regarder un film qui finit mal ?
+Quel personnage de film ferait le meilleur guide touristique ?|Quel personnage de film ferait le meilleur prof de cuisine ?
+Quel film a la meilleure première scène ?|Quel film a la meilleure dernière scène ?
+Quel bruitage de film sais-tu imiter ?|Quel bruitage de dessin animé sais-tu imiter ?
+Quelle couleur associes-tu aux films de science-fiction ?|Quelle couleur associes-tu aux films d’espionnage ?
+Quel objet trouve-t-on dans chaque film d’espionnage ?|Quel objet trouve-t-on dans chaque film de casse ?
+Quel lieu revient dans toutes les comédies romantiques ?|Quel lieu revient dans toutes les comédies françaises ?
+À quel moment d’une saison une série devient-elle géniale ?|À quel moment d’une saison une série commence-t-elle à s’essouffler ?
+Combien de personnages principaux faut-il dans une série ?|Combien de personnages principaux faut-il dans un film ?
+Quelle est la place idéale dans une salle de cinéma ?|Quelle est la pire place dans une salle de cinéma ?
+Combien de minutes avant la séance arrives-tu au cinéma ?|Combien de minutes de publicités supportes-tu avant un film ?
+Combien de fois par mois vas-tu au cinéma ?|Combien de films lances-tu chez toi en un mois ?
+Qu’emportes-tu toujours dans ton sac pour aller au cinéma ?|Qu’oublies-tu souvent en sortant du cinéma ?
+Quel nom donnerais-tu à ton propre cinéma ?|Quel nom donnerais-tu à un festival de cinéma dans ta ville ?
+À quelle heure commence ta séance de cinéma idéale ?|À quelle heure commence la séance la plus tardive où tu oserais aller ?
+Combien coûte une place de cinéma aujourd’hui (en euros) ?|Combien serais-tu prêt à payer une place de cinéma (en euros) ?
+Combien de rangées compte une salle de cinéma moyenne ?|Combien de salles compte un grand multiplexe ?
+Que portes-tu pour une séance de cinéma en plein hiver ?|Que portes-tu pour une séance de cinéma en plein air ?
+Quelle règle de bonne conduite au cinéma est la plus importante ?|Quelle règle de bonne conduite au cinéma as-tu déjà enfreinte ?
+Dans quel lieu insolite aimerais-tu voir un film projeté ?|Dans quel lieu insolite as-tu déjà regardé un film ?
+Que dis-tu en sortant d’un très bon film ?|Que dis-tu en sortant d’un film décevant ?
+À quel moment d’un film t’éclipses-tu si tu n’as pas le choix ?|À quel moment d’un film jettes-tu un œil à l’heure ?
+Que prends-tu au comptoir du cinéma ?|Que glisses-tu en douce dans ton sac pour le cinéma ?
+Quelle confiserie de cinéma préfères-tu ?|Quelle confiserie de cinéma fait le plus de bruit ?
+Combien coûte un grand popcorn au cinéma (en euros) ?|Combien coûte un menu popcorn et boisson au cinéma (en euros) ?
+De quelle couleur sont les fauteuils de ton cinéma préféré ?|De quelle couleur est la moquette de ton cinéma préféré ?
+Quel aliment mangerais-tu devant un film d’action ?|Quel aliment mangerais-tu devant un film qui fait peur ?
+Que fais-tu quand tu renverses ton popcorn dans le noir ?|Que fais-tu quand ta paille fait du bruit en plein moment calme ?
+Quel objet du comptoir de cinéma voudrais-tu chez toi ?|Quel objet du hall de cinéma te fait toujours envie ?
+Quel plat commandes-tu après une séance de cinéma ?|Quel plat commandes-tu pour une soirée série ?
+Quelle marque de bonbons achètes-tu pour un film ?|Quelle marque de chips achètes-tu pour une soirée série ?
+Que faut-il absolument pour une soirée film réussie à la maison ?|Que manque-t-il toujours pendant tes soirées film ?
+Comment départagez-vous les envies de film entre amis ?|Comment choisis-tu un film quand tu es seul ?
+Combien de minutes passes-tu à choisir un film sur une plateforme ?|Combien de minutes faut-il avant que tu t’endormes devant un film ?
+Quel objet gardes-tu à portée de main pendant un film ?|Quel objet cherches-tu toujours au milieu d’un film ?
+À quel moment d’une soirée film sors-tu ton téléphone ?|À quel moment d’une soirée film vas-tu chercher à grignoter ?
+À quelle heure lances-tu un film un samedi soir ?|À quelle heure lances-tu un film un dimanche soir ?
+Où t’installes-tu pour regarder un film seul chez toi ?|Où t’installes-tu pour regarder une série en mangeant ?
+Que fais-tu pendant un film quand tu t’ennuies ?|Que fais-tu pendant un film quand tu as trop peur ?
+Que portes-tu pour une soirée film sous la couette ?|Que portes-tu pour une soirée film chez des amis ?
+Sur 10, à quel point détestes-tu qu’on regarde son téléphone pendant un film ?|Sur 10, à quel point détestes-tu qu’on parle pendant un film ?
+Quel appareil rêverais-tu d’avoir pour regarder des films chez toi ?|Quel appareil utilises-tu le plus pour regarder des films ?
+Quel film regardes-tu quand tu es seul un dimanche ?|Quel film regardes-tu quand tu as besoin de réconfort ?
+À quel moment d’un film comprends-tu que tu vas t’endormir ?|À quel moment d’un film comprends-tu que tu l’as déjà vu ?
+Combien de films peux-tu enchaîner dans une même soirée ?|Combien de films peux-tu enchaîner pendant un week-end pluvieux ?
+Quel rituel as-tu avant de lancer un film ?|Quel rituel as-tu après avoir fini une série ?
+Quel personnage de film inviterais-tu à une soirée canapé ?|Quel personnage de série serait parfait pour une soirée pyjama ?
+À combien de plateformes de streaming es-tu abonné ?|Combien de plateformes de streaming as-tu déjà résiliées ?
+Combien paierais-tu par mois pour une plateforme parfaite (en euros) ?|Combien coûte un abonnement de streaming aujourd’hui (en euros) ?
+Au bout de combien de minutes abandonnes-tu un film qui ne te plaît pas ?|Au bout de combien de minutes lâches-tu une série qui ne démarre pas ?
+Quelle catégorie du catalogue ouvres-tu en premier ?|Quelle catégorie du catalogue n’ouvres-tu jamais ?
+Que fais-tu quand le film que tu voulais a quitté la plateforme ?|Que fais-tu quand un film n’est disponible sur aucune plateforme ?
+Quel profil crées-tu en plus du tien sur un compte de streaming ?|Quel nom donnes-tu à ton profil de streaming ?
+Que réponds-tu quand une plateforme demande si tu es toujours là ?|Que dis-tu quand l’épisode suivant se lance tout seul ?
+Quelle série est dans ta liste à regarder depuis des mois ?|Quel film ajoutes-tu à ta liste sans jamais le lancer ?
+À quel moment de la journée lances-tu une série en fond sonore ?|À quel moment de la journée fais-tu défiler un catalogue sans rien choisir ?
+Quelle fonction ajouterais-tu à ta plateforme de streaming ?|Quelle fonction de ta plateforme de streaming n’utilises-tu jamais ?
+Où regardes-tu le plus souvent des séries sur ton téléphone ?|Où regardes-tu des films sur une tablette ?
+Quelle application ouvres-tu pour savoir où voir un film ?|Quelle application utilises-tu pour noter les films que tu as vus ?
+Quel bouton de télécommande utilises-tu le plus ?|Quel bouton de télécommande n’as-tu jamais touché ?
+Combien d’épisodes regardes-tu avant d’abandonner une série ?|Combien d’épisodes regardes-tu avant de conseiller une série ?
+Quel pays produit les meilleurs films d’action ?|Quel pays produit les comédies les plus drôles ?
+Combien d’heures de série as-tu déjà enchaînées sans t’arrêter ?|Combien d’heures dure ta série préférée en entier ?
+À quelle heure te couches-tu quand une série devient captivante ?|À quelle heure arrêtes-tu une série un soir de semaine ?
+Quelle série as-tu regardée en moins d’une semaine ?|Quelle série as-tu mis des années à finir ?
+Au bout de quel épisode deviens-tu accro à une série ?|Au bout de quel épisode lâches-tu une série qui t’ennuie ?
+Que fais-tu après le dernier épisode d’une série que tu as adorée ?|Que fais-tu quand tu dois attendre un an la saison suivante ?
+Quelle série recommanderais-tu à quelqu’un qui n’a jamais le temps ?|Quelle série recommanderais-tu à quelqu’un qui a toute la semaine libre ?
+Combien de saisons peux-tu regarder en un mois ?|Combien de séries as-tu commencées sans les finir ?
+Quel personnage de série te manque depuis la fin de sa série ?|Quel personnage de série aimerais-tu voir revenir dans une suite ?
+Que dis-tu à quelqu’un qui n’a jamais vu ta série préférée ?|Que dis-tu à quelqu’un qui a arrêté ta série préférée après un épisode ?
+Où as-tu déjà regardé une série alors que tu n’aurais pas dû ?|Où as-tu déjà regardé un épisode entier sur ton téléphone ?
+Quelle série regardes-tu en mangeant ?|Quelle série regardes-tu pour t’endormir ?
+Combien de minutes dure l’épisode parfait ?|Combien de minutes dure un épisode de ta série préférée ?
+Quelle saison de l’année est parfaite pour un marathon de séries ?|Quelle saison de l’année est parfaite pour aller au cinéma ?
+À quel âge as-tu regardé ta première série en entier ?|À quel âge as-tu veillé tard pour la première fois devant la télé ?
+Combien de séries as-tu regardées en entier cette année ?|Combien de séries suis-tu chaque semaine ?
+Quelle série as-tu reprise depuis le début juste pour la revoir ?|Quelle série as-tu reprise depuis le début parce que tu avais tout oublié ?
+Comment appelles-tu quelqu’un qui regarde les épisodes en avance sans toi ?|Comment appelles-tu quelqu’un qui regarde les séries en accéléré ?
+Que fais-tu quand une bande-annonce dévoile toute l’histoire ?|Que fais-tu quand un ami te montre une bande-annonce sur son téléphone ?
+Quelle bande-annonce t’a donné envie de voir un film ?|Quel film était bien meilleur que sa bande-annonce ?
+Quelle affiche de film accrocherais-tu dans ton salon ?|Quelle affiche de film as-tu déjà eue dans ta chambre ?
+Quelle phrase entend-on toujours dans une bande-annonce ?|Quelle phrase lit-on toujours sur une affiche de film ?
+Combien de fois as-tu revu la bande-annonce d’un film très attendu ?|Combien de fois as-tu revu la meilleure scène de ton film préféré ?
+Quel objet confisquerais-tu à l’entrée d’une salle de cinéma ?|Quel objet interdirais-tu pendant une soirée film chez toi ?
+Quel numéro de rang choisis-tu dans une grande salle ?|Quel numéro de rang choisis-tu dans une petite salle ?
+Quel prix mettrais-tu pour une séance en salle privée avec tes amis ?|Quel prix mettrais-tu pour une nuit entière de films au cinéma ?
+Que fais-tu si tu arrives en retard à une séance ?|Que fais-tu si tu t’es trompé de salle de cinéma ?
+Avec quel retard en minutes oses-tu encore entrer dans la salle ?|Avec quel retard en minutes oses-tu encore rejoindre une soirée film chez un ami ?
+Sur 10, à quel point aimes-tu voir un film seul au cinéma ?|Sur 10, à quel point aimes-tu les séances du matin ?
+Combien de spectateurs maximum supportes-tu dans une salle ?|Combien de sièges vides aimes-tu avoir autour de toi au cinéma ?
+Quel surnom donnes-tu au spectateur qui commente tout le film ?|Quel surnom donnes-tu au spectateur qui arrive après le début ?
+Quel équipement de cinéma installerais-tu chez toi en premier ?|Quel équipement de cinéma serait le plus inutile à la maison ?
+Quel jour de l’année vas-tu forcément au cinéma ?|Quel jour de l’année regardes-tu forcément un film à la maison ?
+À ton avis, combien de salles compte le plus grand cinéma de France ?|À ton avis, combien de salles compte le cinéma le plus proche de chez toi ?
+Quel ami appelles-tu pour une séance de dernière minute ?|Quel ami appelles-tu pour voir un film que personne ne veut voir ?
+Quel aliment interdirais-tu dans les salles de cinéma ?|Quel aliment devrait-on enfin vendre dans les salles de cinéma ?
+Que dis-tu à quelqu’un assis à ta place réservée ?|Que dis-tu à quelqu’un qui pose ses pieds sur ton fauteuil ?
+À quelle heure commence la séance la plus tardive que tu acceptes ?|À quelle heure commence la séance la plus matinale que tu acceptes ?
+Quel film as-tu vu dans une salle presque vide ?|Quel film as-tu vu dans une salle bondée ?
+Quel film t’a fait applaudir à la fin de la séance ?|Quel film a fait rire toute la salle en même temps ?
+Que fais-tu en attendant que la salle ouvre ?|Que fais-tu en attendant que tes amis choisissent le film ?
+Où vas-tu après une séance de cinéma en soirée ?|Où vas-tu après une séance de cinéma le dimanche après-midi ?
+Combien de films proposes-tu avant qu’on se mette d’accord ?|Combien de votes faut-il pour imposer un film entre amis ?
+Quel rituel fais-tu avant de lancer un film chez toi ?|Quel rituel fais-tu avant de lancer le dernier épisode d’une série ?
+Quelle règle imposes-tu pendant une soirée film chez toi ?|Quelle règle imposes-tu pendant un marathon de séries chez toi ?
+Jusqu’à quelle heure peut-on lancer un film un dimanche soir ?|Jusqu’à quelle heure peut-on lancer un film un vendredi soir ?
+Quelle boisson chaude accompagne le mieux un film d’hiver ?|Quelle boisson fraîche accompagne le mieux un film d’été ?
+Quel objet poses-tu sur le canapé pour réserver ta place ?|Quel objet poses-tu sur le siège d’à côté au cinéma ?
+Qui tient la télécommande chez toi ?|Qui choisit le programme du soir chez toi ?
+Que réponds-tu quand on te demande de résumer le début du film ?|Que réponds-tu quand on te demande qui est ce personnage ?
+Combien de pauses fais-tu pendant un film de trois heures ?|Combien de pauses fais-tu pendant une saison entière ?
+Que fais-tu quand tout le monde s’est endormi devant le film ?|Que fais-tu quand tu es le seul à rire devant une comédie ?
+Quel film regardes-tu après une mauvaise journée ?|Quel film regardes-tu après une très bonne journée ?
+Quel film regardes-tu un dimanche soir de novembre ?|Quel film regardes-tu un dimanche matin d’été ?
+Quel film lances-tu pour t’endormir ?|Quel film lances-tu pour rester éveillé ?
+Quel film regarderais-tu en avion ?|Quel film regarderais-tu dans un train de nuit ?
+Quel film emporterais-tu sur une île déserte ?|Quel film emporterais-tu pour une semaine sans Internet ?
+Quel film a disparu du catalogue alors que tu voulais le revoir ?|Quel film espères-tu voir arriver sur ta plateforme ?
+Pendant combien de mois gardes-tu un abonnement pour une seule série ?|Pendant combien de mois attends-tu une nouvelle saison sans râler ?
+Sur quelle application regardes-tu des extraits de films ?|Sur quelle application découvres-tu les nouvelles séries ?
+Quelle série ta plateforme te propose-t-elle alors qu’elle ne te ressemble pas ?|Quelle série ta plateforme te propose-t-elle à chaque connexion ?
+Quel pourcentage du catalogue de ta plateforme as-tu vraiment regardé ?|Quel pourcentage de ta liste « à regarder » as-tu vraiment vu ?
+En quelle année est sorti le premier Harry Potter au cinéma ?|En quelle année est sorti le premier Shrek au cinéma ?
+En quelle année est sorti Titanic ?|En quelle année est sorti Le Roi lion ?
+En quelle année est sorti le tout premier Star Wars ?|En quelle année est sorti le tout premier Indiana Jones ?
+En quelle année est sorti Intouchables ?|En quelle année est sorti Bienvenue chez les Ch’tis ?
+En quelle année est sorti le premier Toy Story ?|En quelle année est sorti le premier Jurassic Park ?
+À ton avis, combien de films compte la saga Harry Potter ?|À ton avis, combien de films compte la saga Fast and Furious ?
+À ton avis, combien d’épisodes compte la série Friends ?|À ton avis, combien d’épisodes compte la série How I Met Your Mother ?
+Selon toi, combien de minutes dure le premier Avatar ?|Selon toi, combien de minutes dure le dernier Seigneur des anneaux ?
+Selon toi, combien a coûté le tournage de Titanic ?|Selon toi, combien a coûté le tournage d’Avatar ?
+À ton avis, combien d’Oscars a remporté Titanic ?|À ton avis, combien d’Oscars a remporté le dernier Seigneur des anneaux ?
+Combien de membres compte la Communauté de l’anneau ?|Combien de joueurs compte une équipe de Quidditch ?
+Quel film de casse est le plus malin ?|Quel film d’évasion est le plus malin ?
+Quel film de sport te donne envie de t’entraîner ?|Quel film de sport te serre la gorge à chaque fois ?
+Quel film de voyage dans le temps est le plus clair ?|Quel film de voyage dans le temps est le plus embrouillé ?
+Quel film de survie t’a le plus tenu en haleine ?|Quel film de survie t’a appris un truc utile ?
+Quel road movie te donne envie de prendre la route ?|Quel road movie a la meilleure bande-son ?
+Quel film de lycée américain est le plus culte ?|Quel film de lycée français est le plus culte ?
+Quel film de dinosaures est le plus réussi ?|Quel film de requins est le plus réussi ?
+Quel film se passant dans l’espace t’a le plus bluffé ?|Quel film se passant sous l’eau t’a le plus bluffé ?
+Quel film de procès t’a captivé ?|Quel film d’enquête journalistique t’a captivé ?
+Quel film de zombies est plus drôle qu’effrayant ?|Quel film de vampires est plus drôle qu’effrayant ?
+Quel film de pirates as-tu vu le plus souvent ?|Quel film de chevaliers as-tu vu le plus souvent ?
+Quel film catastrophe est le plus crédible ?|Quel film catastrophe est le plus exagéré ?
+Quel film d’espionnage a le scénario le plus malin ?|Quel film d’espionnage a le meilleur méchant ?
+Quel film de Noël passe chaque année à la télé ?|Quel film de vacances passe chaque été à la télé ?
+Quel film à petit budget vaut mieux qu’un blockbuster ?|Quel blockbuster mérite vraiment son succès ?
+Quel court-métrage t’a marqué ?|Quel court-métrage d’animation t’a fait sourire ?
+Quel objet tombe toujours au mauvais moment dans un film ?|Quel objet ne fonctionne jamais au bon moment dans un film d’horreur ?
+Où se cache toujours le trésor dans un film d’aventure ?|Où se déroule toujours la scène finale d’un film d’action ?
+À quelle minute d’un film arrive le premier rebondissement, selon toi ?|À quelle minute d’une comédie arrive le premier vrai fou rire, selon toi ?
+Quel métier exerce toujours le père dans un film de Noël ?|Quel métier exerce toujours l’héroïne d’une comédie new-yorkaise ?
+De quelle couleur est toujours la voiture du héros ?|De quelle couleur est toujours la voiture du méchant ?
+Quel animal sauve toujours la situation dans un film familial ?|Quel animal sème toujours la pagaille dans un film familial ?
+Quel cliché de film d’horreur t’agace le plus ?|Quel cliché de comédie romantique t’agace le plus ?
+Quel cliché de film d’action te fait rire ?|Quel cliché de film de Noël te fait rire ?
+Quelle réplique de film dis-tu en ouvrant ton frigo ?|Quelle réplique de film dis-tu en rentrant du travail ?
+Quelle réplique de film cites-tu quand tu as une idée de génie ?|Quelle réplique de film cites-tu quand tu es complètement perdu ?
+Quelle réplique de série pourrait servir de message d’absence ?|Quelle réplique de série pourrait servir de message de répondeur ?
+Quelle réplique de film écrirais-tu sur un paillasson ?|Quelle réplique de film écrirais-tu sur un gâteau d’anniversaire ?
+Quelle réplique d’un film français connaissent toutes les générations ?|Quelle réplique d’un film français ferait un bon titre de chanson ?
+Quel mot inventé par un film utilises-tu ?|Quel mot inventé par une série utilises-tu ?
+Quelle réplique de film dirais-tu à un enfant qui ne veut pas dormir ?|Quelle réplique de film dirais-tu à un ami qui hésite ?
+Quel mot utilises-tu pour un film qui te laisse sans voix ?|Quel mot utilises-tu pour une série qui te rend accro ?
+Comment décrirais-tu ton film préféré en un mot ?|Comment décrirais-tu ta série préférée en un mot ?
+Quel commentaire fais-tu toujours au générique de fin ?|Quel commentaire fais-tu toujours pendant la première scène ?
+À quel personnage de film confierais-tu tes clés ?|À quel personnage de film confierais-tu ton chat ?
+Quel personnage de série serait le meilleur coéquipier de quiz ?|Quel personnage de série serait le pire coéquipier de quiz ?
+Quel mentor de film aimerais-tu avoir ?|Quel mentor de film t’impressionnerait trop pour lui poser une question ?
+Quel acolyte de héros est plus drôle que le héros ?|Quel acolyte de héros est plus courageux que le héros ?
+Quel personnage de film partirait en vacances avec toi ?|Quel personnage de film gâcherait tes vacances ?
+Quel personnage de film d’animation aurait sa place dans ta famille ?|Quel personnage de série aurait sa place dans ta famille ?
+Quel personnage change le plus entre le début et la fin d’une saga ?|Quel personnage reste exactement le même du début à la fin d’une saga ?
+Quel personnage de série aurait le meilleur compte sur les réseaux ?|Quel personnage de série n’aurait aucune idée de ce qu’est Internet ?
+Quel méchant de film a les meilleures raisons ?|Quel méchant de film a le plan le plus bancal ?
+Quel animal accompagnerait parfaitement le héros d’un western ?|Quel animal accompagnerait parfaitement le héros d’un film de pirates ?
+Quel personnage de film serait ton collègue idéal ?|Quel personnage de série serait ton collègue idéal ?
+Quel acteur voudrais-tu pour jouer ton meilleur ami dans un film ?|Quel acteur voudrais-tu pour jouer ton prof préféré dans un film ?
+Quel acteur a joué dans le plus de films que tu as aimés ?|Quel réalisateur a signé le plus de films que tu as aimés ?
+Quel acteur mériterait un premier grand rôle comique ?|Quel acteur mériterait un premier grand rôle de méchant ?
+Quel acteur jouerait le mieux un professeur de magie ?|Quel acteur jouerait le mieux un capitaine de vaisseau spatial ?
+Quel acteur a commencé enfant et a fait une belle carrière ?|Quel acteur a commencé dans une série avant de percer au cinéma ?
+Quel acteur français pourrait percer à Hollywood ?|Quel acteur étranger aimerais-tu voir dans un film français ?
+Quel réalisateur a le style le plus reconnaissable ?|Quel réalisateur fait les films les plus longs ?
+Quelle actrice aimerais-tu voir réaliser un film ?|Quel humoriste aimerais-tu voir réaliser un film ?
+Quel acteur joue toujours le même personnage, selon toi ?|Quel acteur ne joue jamais deux fois le même genre de rôle ?
+Quel acteur ferait le meilleur doubleur de dessin animé ?|Quel chanteur ferait le meilleur doubleur de dessin animé ?
+Quel duo d’acteurs aimerais-tu revoir à l’écran ?|Quel duo d’acteurs inédit verrais-tu dans une comédie ?
+Quel acteur incarne le mieux un roi ?|Quel acteur incarne le mieux un savant ?
+Quelle personnalité aimerais-tu voir jouer son propre rôle dans un film ?|Quelle personnalité aimerais-tu voir jouer un méchant ?
+Quel acteur était parfait pour un personnage de roman ?|Quel acteur était mal choisi pour un personnage de roman ?
+Quel acteur jouerait ton voisin dans le film de ta rue ?|Quel acteur jouerait ton boulanger dans le film de ta rue ?
+Quelle sitcom revois-tu sans jamais te lasser ?|Quelle sitcom te fait rire même en version française ?
+Quelle série se passant dans un lycée regardais-tu ?|Quelle série se passant dans une entreprise te fait rire ?
+Quelle série historique t’a appris quelque chose ?|Quelle série de science-fiction t’a fait réfléchir ?
+Quelle série a le meilleur épisode de Noël ?|Quelle série a le meilleur épisode d’Halloween ?
+Quelle série a le meilleur générique ?|Quelle série a le générique le plus long ?
+Quelle série as-tu rattrapée juste avant la nouvelle saison ?|Quelle série as-tu reprise depuis le début avant la dernière saison ?
+Quelle série te paraît meilleure à la deuxième vision ?|Quelle série te paraît moins bonne en la revoyant ?
+Quelle série a les dialogues les plus drôles ?|Quelle série a les dialogues les plus rapides ?
+Quelle série regardais-tu en rentrant de l’école ?|Quelle série regardais-tu pendant les vacances d’été ?
+Quelle série coréenne conseillerais-tu à un débutant ?|Quelle série espagnole conseillerais-tu à un débutant ?
+Quelle série policière française tout le monde connaît ?|Quelle série policière française passe toujours à la télé ?
+Quelle mini-série regarderais-tu en une soirée ?|Quelle mini-série recommanderais-tu pour un week-end ?
+Quelle série a le meilleur univers ?|Quelle série a le meilleur méchant ?
+Quel numéro de saison est souvent le meilleur d’une série ?|Quel numéro de saison est souvent le moins bon d’une série ?
+Quelle série te fait sursauter à chaque épisode ?|Quelle série te fait rire à chaque épisode ?
+Quelle série a l’épisode pilote le plus réussi ?|Quelle série a un pilote raté mais une suite géniale ?
+Quelle série te donne envie de partir en voyage ?|Quelle série te donne envie d’apprendre une langue ?
+Quelle série regarderais-tu avec un enfant de dix ans ?|Quelle série regarderais-tu avec un ado ?
+Quel café de série aimerais-tu fréquenter ?|Quel appartement de série aimerais-tu habiter ?
+Quelle scène de film rejouerais-tu avec tes amis ?|Quelle scène de film rejouerais-tu en famille ?
+Quelle scène de film te donne la chair de poule ?|Quelle scène de film te fait rire aux larmes ?
+Quelle scène de repas de film est la plus culte ?|Quelle scène de danse de film est la plus culte ?
+Quelle scène de course-poursuite est la plus folle ?|Quelle scène d’évasion est la plus folle ?
+Quelle scène de film as-tu revue au ralenti ?|Quelle scène de film as-tu revue juste pour la musique ?
+Quelle scène de film a été la plus parodiée ?|Quelle scène de film est la plus imitée en soirée ?
+Quel montage d’entraînement de film te motive le plus ?|Quel montage de film te donne envie de te lever du canapé ?
+Quelle scène post-générique valait vraiment le coup ?|Quelle scène post-générique as-tu ratée en partant trop tôt ?
+Quel bêtisier de film t’a fait le plus rire ?|Quel making-of de film t’a le plus appris ?
+Quelle scène de film d’animation te serre le cœur ?|Quelle scène de film d’animation te fait toujours sourire ?
+Quel film a les plus beaux effets spéciaux ?|Quel film a les plus beaux décors réels ?
+Quel film a la plus belle lumière ?|Quel film a les plus beaux costumes ?
+À ton avis, combien de noms défilent dans le générique d’un gros film ?|À ton avis, combien de personnes travaillent sur un épisode de série ?
+Quel métier des effets spéciaux te semble le plus minutieux ?|Quel métier du maquillage de cinéma te semble le plus minutieux ?
+Quel objet du quotidien sert à faire des bruitages au cinéma ?|Quel objet du quotidien utiliserais-tu pour un effet spécial maison ?
+Quelle couleur donnerais-tu à un film sur ta vie ?|Quelle couleur donnerais-tu à une série sur ta ville ?
+Quel film d’animation regardes-tu pour te remonter le moral ?|Quel film d’animation regardes-tu pour pleurer un bon coup ?
+Quel studio d’animation fait les plus beaux films ?|Quel studio d’animation fait les histoires les plus drôles ?
+Quel anime japonais ferais-tu découvrir à un ami ?|Quel anime japonais t’a fait rêver ?
+Quel sidekick de dessin animé est le plus drôle ?|Quel sidekick de dessin animé est le plus utile ?
+Quelle princesse de dessin animé a le plus de caractère ?|Quelle princesse de dessin animé ferait la meilleure cheffe d’équipe ?
+Quel animal parlant de film d’animation est le plus sage ?|Quel animal parlant de film d’animation est le plus râleur ?
+Quelle chanson de film d’animation chanterais-tu au karaoké ?|Quelle chanson de film d’animation chanterais-tu sous la douche ?
+À quel âge as-tu vu ton premier film d’animation japonais ?|À quel âge as-tu vu ton premier film de super-héros ?
+Quel film français tout le monde a vu au moins une fois ?|Quel film français passe le plus souvent à la télé ?
+Quelle comédie française revois-tu chaque année ?|Quelle comédie française cites-tu le plus ?
+Quel humoriste a le mieux réussi au cinéma ?|Quel humoriste devrait faire plus de cinéma ?
+Quelle ville française ferait un bon décor de comédie ?|Quelle ville française ferait un bon décor de film d’aventure ?
+Quel monument de Paris as-tu vu dans le plus de films ?|Quel monument de Paris ferait un bon décor de film de science-fiction ?
+Quel film français mériterait une suite ?|Quel film français mériterait une série ?
+Sur dix films que tu regardes, combien sont français ?|Sur dix films que tu regardes, combien sont des comédies ?
+Quel film français a la meilleure bande-son ?|Quel film français a les meilleurs dialogues ?
+Quelle région de France ferait un bon décor de western ?|Quelle région de France ferait un bon décor de film de pirates ?
+Quel titre de film est le plus mal traduit en français ?|Quel titre de film est meilleur en français qu’en version originale ?
+Quel titre de film ferait un bon nom de restaurant ?|Quel titre de film ferait un bon nom de groupe de musique ?
+Quel titre de film décrit le mieux ton lundi ?|Quel titre de film décrit le mieux ton dernier voyage ?
+Quel film aurait mérité un prix pour sa musique ?|Quel film aurait mérité un prix pour ses costumes ?
+Pendant combien d’heures supporterais-tu le maquillage d’une créature ?|Pendant combien d’heures supporterais-tu de rejouer la même scène ?
+Quelle cascade accepterais-tu de faire toi-même ?|Quelle cascade laisserais-tu forcément à une doublure ?
+À ton avis, combien de jours dure le tournage d’un long-métrage ?|À ton avis, combien de jours dure le tournage d’un épisode de série ?
+Quel métier de tournage confierais-tu à ton meilleur ami ?|Quel métier de tournage te confierait ton entourage ?
+Quel jeu de société mériterait son film ?|Quel jeu de société mériterait sa série ?
+Quel conte a la meilleure version au cinéma ?|Quel conte n’a jamais eu de bonne adaptation ?
+Quelle histoire vraie a donné le meilleur film ?|Quelle histoire vraie mériterait une série ?
+Quelle BD a eu la meilleure adaptation en film ?|Quelle BD mériterait une adaptation en série ?
+Quel roman as-tu lu après avoir vu son film ?|Quel roman as-tu lu avant de voir son film ?
+Après combien de jours a-t-on le droit de dévoiler la fin d’un film ?|Après combien de jours a-t-on le droit de dévoiler la fin d’une série ?
+Qui pleure le plus facilement devant un film dans ton entourage ?|Qui rit le plus fort devant un film dans ton entourage ?
+Quel film te rappelle ton premier appartement ?|Quel film te rappelle un voyage scolaire ?
+Quel film as-tu usé en cassette ou en DVD ?|Quel film as-tu enregistré à la télé pour le revoir ?
+Quel film t’a fait peur enfant mais te fait rire aujourd’hui ?|Quel film t’a fait rire enfant mais te gêne aujourd’hui ?
+Quel objet lié à un film gardes-tu depuis l’enfance ?|Quel objet lié à une série as-tu acheté récemment ?
+À quel âge as-tu eu le droit de choisir le film du soir ?|À quel âge as-tu vu ta première série en entier ?
+Quel super-héros ferait le meilleur livreur ?|Quel super-héros ferait le meilleur maître-nageur ?
+Quel super-héros est le plus sous-coté ?|Quel super-héros est le plus surcoté ?
+Où installerais-tu ton repaire secret de super-héros ?|Où installerais-tu ta base secrète de méchant de film ?
+Quel monstre de cinéma est le plus mignon finalement ?|Quel monstre de cinéma est le plus ridicule ?
+Quel lieu de film d’horreur visiterais-tu quand même ?|Quel lieu de film d’horreur fuirais-tu immédiatement ?
+Quel film d’horreur conseillerais-tu à un débutant ?|Quel film d’horreur regarderais-tu seulement en plein jour ?
+Quel pays as-tu envie de visiter à cause d’un film ?|Quel pays as-tu envie de visiter à cause d’une série ?
+Quelle ville as-tu découverte grâce à un film ?|Quelle ville as-tu découverte grâce à une série ?
+Quel lieu de tournage célèbre as-tu déjà visité ?|Quel lieu de tournage célèbre serait décevant en vrai ?
+Dans quel pays se passerait ton film d’aventure idéal ?|Dans quel pays se passerait ta série policière idéale ?
+Quelle ville serait parfaite pour un film de Noël ?|Quelle ville serait parfaite pour une comédie romantique ?
+Quel château de film aimerais-tu visiter ?|Quel vaisseau spatial de film aimerais-tu visiter ?
+Quelle école de fiction aimerais-tu fréquenter ?|Quelle école de fiction serait la plus stricte ?
+Dans quel lieu d’une saga aimerais-tu travailler ?|Dans quel lieu d’une saga aimerais-tu passer une nuit ?
+Quelle voiture de film aimerais-tu conduire ?|Quelle voiture de film exposerais-tu dans ton garage ?
+Quel véhicule de film utiliserais-tu pour aller au travail ?|Quel véhicule de film utiliserais-tu pour partir en vacances ?
+Quel gadget de film d’espion utiliserais-tu au quotidien ?|Quel gadget de film de science-fiction utiliserais-tu au quotidien ?
+Quelle invention de film aimerais-tu voir exister ?|Quelle invention de film ne devrait jamais exister ?
+Quelle marque as-tu remarquée dans un film ?|Quelle marque est devenue célèbre grâce à un film ?
+Quel mois de l’année est idéal pour sortir un film d’horreur ?|Quel mois de l’année est idéal pour sortir une comédie ?
+À quel moment d’un film regardes-tu ton téléphone ?|À quel moment d’un film t’endors-tu en général ?
+À quel moment d’une saga commences-tu à décrocher ?|À quel moment d’une saga commences-tu à vraiment t’attacher ?
+Quand lances-tu ton premier film de Noël de l’année ?|Quand lances-tu ton premier film d’horreur de l’année ?
+À quel moment de la soirée lances-tu le film chez des amis ?|À quel moment de la soirée finit-on par regarder des vidéos chez des amis ?
+À quel âge un acteur est-il au sommet de sa carrière, selon toi ?|À quel âge un réalisateur fait-il ses meilleurs films, selon toi ?
+À quel âge un enfant peut-il voir son premier film de super-héros ?|À quel âge un enfant peut-il regarder Harry Potter ?
+Quel âge a le héros de ton film préféré ?|Quel âge a le héros de ta série préférée ?
+À quel âge as-tu vu ton premier film en version originale ?|À quel âge as-tu vu ton premier film en noir et blanc ?
+Quel prix pour une séance de cinéma en plein air ?|Quel prix pour une séance de cinéma dans un fauteuil vibrant ?
+Quelle note sur 20 mérite le film le plus surcoté que tu connais ?|Quelle note sur 20 mérite le film le plus sous-coté que tu connais ?
+Quelle note sur 20 mettrais-tu à ton cinéma de quartier ?|Quelle note sur 20 mettrais-tu à ta plateforme de streaming ?
+Quel film choisirais-tu pour une soirée entre collègues ?|Quel film choisirais-tu pour une soirée avec ta belle-famille ?
+Quel film passerais-tu pour un anniversaire d’enfant ?|Quel film passerais-tu pour une soirée pyjama d’ados ?
+Quel film projetterais-tu en plein air dans ton village ?|Quel film projetterais-tu sur la façade de ton immeuble ?
+Quel film ferais-tu deviner en mimant ?|Quel film serait impossible à faire deviner en mimant ?
+Quel film pourrais-tu faire deviner avec trois émojis ?|Quel film pourrais-tu faire deviner en fredonnant sa musique ?
+Quel acteur imites-tu le mieux ?|Quel personnage de film imites-tu le mieux ?
+Quel genre de film serait ta journée d’hier ?|Quel genre de film serait ton dernier week-end ?
+Quel endroit de ton quotidien ressemble à un décor de film ?|Quel endroit de ton quotidien ressemble à un décor de série ?
+Quel téléfilm de Noël as-tu vu plusieurs fois ?|Quel téléfilm du dimanche après-midi te revient en tête ?
+Quel film passe trop souvent à la télé ?|Quel film ne passe jamais assez à la télé ?
+Quelle chose que font les héros de films n’as-tu jamais réussi à faire ?|Quelle chose que font les héros de films as-tu déjà essayée ?
+Quelle activité vue dans un film aimerais-tu essayer ?|Quelle activité vue dans une série aimerais-tu essayer ?
+Quel sport as-tu découvert grâce à un film ?|Quel sport aimerais-tu voir au cœur d’une série ?
+Quelle danse de film as-tu déjà essayé de refaire ?|Quelle danse de film essaierais-tu d’apprendre ?
+Quelle chanson te rappelle immédiatement une scène de film ?|Quelle chanson te rappelle immédiatement une série ?
+Quel compositeur de musique de film connais-tu ?|Quel chanteur aimerais-tu entendre sur la bande originale d’un film ?
+Quelle musique de film passe toujours dans les publicités ?|Quelle musique de film passe toujours dans les reportages ?
+Quel sort de Harry Potter utiliserais-tu le plus ?|Quel sort de Harry Potter serait le plus utile en cuisine ?
+Dans quelle maison de Poudlard serais-tu ?|Dans quelle maison de Poudlard serait ton meilleur ami ?
+De quelle couleur serait ton sabre laser ?|De quelle couleur serait ta baguette magique ?
+Quel métier exercerais-tu dans l’univers de Star Wars ?|Quel métier exercerais-tu dans l’univers de Harry Potter ?
+Quelle créature de saga aimerais-tu apprivoiser ?|Quelle créature de saga te ferait fuir en courant ?
+Quel personnage du Seigneur des anneaux te ressemble ?|Quel personnage de Star Wars te ressemble ?
+Quel film d’une saga revois-tu le plus souvent ?|Quel film d’une saga sautes-tu toujours pendant un marathon ?
+Quel numéro de film Harry Potter mets-tu au-dessus des autres ?|Quel numéro d’épisode Star Wars mets-tu au-dessus des autres ?
+Quelle saga as-tu découverte trop tard ?|Quelle saga as-tu découverte trop jeune ?
+Quelle saga a le meilleur dernier film ?|Quelle saga a le deuxième film le plus raté ?
+Quelle saga mériterait une série dérivée ?|Quelle saga mériterait un film d’animation ?
+À ton avis, combien de costumes porte un acteur sur un gros film ?|À ton avis, combien de perruques utilise une série historique ?

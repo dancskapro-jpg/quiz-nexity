@@ -1,0 +1,28 @@
+lieu|soleil|Où aimerais-tu passer l’été ?|Où as-tu passé ton meilleur été ?
+aliment|soleil|Quel parfum de glace commandes-tu en premier ?|Quel parfum de glace ne choisis-tu jamais ?
+activite|soleil|Que fais-tu quand il fait trop chaud ?|Que fais-tu un soir d’été ?
+objet|soleil|Qu’emportes-tu toujours à la plage ?|Qu’oublies-tu toujours à la plage ?
+nombre|soleil|Combien de glaces manges-tu par semaine en été ?|Combien de baignades fais-tu par jour en vacances ?
+minutes|plage|Combien de minutes restes-tu dans l’eau d’une traite ?|Combien de minutes attends-tu avant de retourner à l’eau ?
+minutes|plage|Combien de minutes marches-tu pour trouver une place sur la plage ?|Combien de minutes mets-tu à installer ton coin de plage ?
+expression|plage|Que cries-tu en entrant dans l’eau froide ?|Que dis-tu à quelqu’un qui hésite à entrer dans l’eau ?
+prix|piscine|Combien coûte une entrée à la piscine municipale ?|Combien coûte une glace à la plage ?
+nombre|chaleur et canicule|Combien de ventilateurs as-tu chez toi ?|Combien de bouteilles d’eau gardes-tu au frigo l’été ?
+activite|camping|Quelle animation du camping fais-tu en famille ?|Quelle animation du camping évites-tu à tout prix ?
+prix|camping|Combien coûte un mobil-home pour une semaine en août ?|Combien coûte une semaine à Saint-Tropez en août dans un bon hôtel ?
+personne|route des vacances|Qui conduit le plus longtemps sur la route des vacances ?|Qui s’endort en premier sur la route des vacances ?
+minutes|route des vacances|Combien de minutes dure ta pause sur l’aire d’autoroute ?|Combien de minutes attends-tu au péage un jour de grand départ ?
+aliment|fruits d'été|Quel fruit d’été manges-tu le plus ?|Quel fruit d’été achètes-tu le plus cher ?
+aliment|fruits d'été|Quel fruit coupes-tu en morceaux pour un goûter d’été ?|Quel fruit manges-tu directement sur l’arbre ?
+prix|fruits d'été|Combien coûte une barquette de fraises en juin ?|Combien coûte un melon au marché en juillet ?
+expression|soirées qui finissent tard|Que dis-tu pour prolonger une soirée d’été ?|Que dis-tu pour quitter une soirée d’été ?
+aliment*|cuisine d'été|Que mets-tu dans ton sandwich de plage ?|Que mets-tu dans ta salade d'été ?
+objet|jeux de vacances|Quel jeu trouves-tu toujours dans une location de vacances ?|Quel objet de jeu manque toujours dans une location de vacances ?
+expression|jeux de vacances|Que dis-tu quand tu gagnes une partie en vacances ?|Que dis-tu quand tu perds pour la troisième fois de suite ?
+prix|location de vacances|Combien coûte une location pour une semaine en août ?|Combien coûte une location pour un week-end en juillet ?
+activite|location de vacances|Quelle corvée fais-tu avant de rendre la location ?|Quelle corvée fais-tu en arrivant dans la location ?
+minutes|road trip|Combien de temps, en minutes, dure une pause pipi sur la route ?|Combien de temps, en minutes, dure une pause repas sur la route ?
+prix|road trip|Combien coûte le plein d’essence en été ?|Combien coûte un billet Eurostar en août ?
+prix*|brocantes d'été|Combien paies-tu un vieux livre à la brocante ?|Combien paies-tu un menu dans un fastfood ?
+expression|brocantes d'été|Que dis-tu pour faire baisser un prix à la brocante ?|Que réponds-tu quand on te double sur l'autoroute ?
+nombre*|matins d'été|Combien de baguettes achètes-tu le matin en vacances ?|Combien de croissants achètes-tu le matin en vacances ?

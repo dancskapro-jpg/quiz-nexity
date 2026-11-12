@@ -1,0 +1,8 @@
+film|films|Quel film d’animation plaît autant aux adultes qu’aux enfants ?|Quel film d’animation t’a fait pleurer ?
+film|séries|Quelle série a la meilleure fin ?|Quelle série aurait dû s’arrêter plus tôt ?
+nom|jeux|Quel personnage de jeu vidéo tout le monde connaît ?|Quel personnage de jeu vidéo mériterait son propre film ?
+musique|musique|Quel tube de l’été restera dans les mémoires ?|Quel tube de l’été t’a le plus agacé ?
+moment|streaming et binge-watching|Quel jour sort l’épisode que tu attends le plus ?|Quel jour de la semaine réserves-tu à ta série préférée ?
+film|streaming et binge-watching|Quelle série regardes-tu en fond pendant que tu fais autre chose ?|Quelle série exige toute ton attention ?
+personne|cérémonies et récompenses|Qui remercierais-tu en premier dans ton discours de remerciement à ton mariage ?|Qui oublierais-tu forcément de remercier dans ton discours à ton mariage ?
+film*|dessins animés pour adultes|Quel film d’animation regardes-tu sans enfants ?|Quel film d’animation regardes-tu avec des enfants ?

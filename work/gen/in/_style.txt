@@ -1,0 +1,160 @@
+expression|Que cries-tu en dévalant une piste ?|Que dis-tu en haut d’une piste trop raide ?
+moment*|Quelle occasion justifie un fast-food selon toi ?|Quelle occasion justifie une pizza livrée selon toi ?
+nombre|Combien de crêpes manges-tu au goûter ?|Combien de crêpes prépares-tu pour quatre personnes ?
+aliment|Quel produit achètes-tu à chaque fois que tu fais les courses ?|Quel produit oublies-tu toujours d’acheter ?
+personne|Qui appelles-tu en premier pour annoncer une bonne nouvelle ?|Qui appelles-tu quand tu t’ennuies un dimanche ?
+objet|Cite quelque chose qu’on collectionne.|Cite quelque chose qu’on échange à l’école.
+nombre|Combien de clés y a-t-il sur ton trousseau ?|Combien de stylos y a-t-il dans ton sac ou ta trousse ?
+nombre|Combien de cartes de fidélité as-tu dans ton téléphone ?|Combien de billets ou tickets as-tu dans ton téléphone ?
+nom|Cite un prénom de trois lettres.|Cite un prénom court.
+minutes|Combien de minutes d’avance prends-tu pour attraper un train ?|Combien de minutes de retard tolères-tu chez un ami ?
+pays|Cite un pays avec un désert.|Cite un pays où il ne pleut presque pas.
+minutes|Il y avait combien de minutes de pause entre deux cours ?|Il fallait combien de minutes pour changer de salle entre deux cours ?
+aliment|Quelle viennoiserie achètes-tu le dimanche matin ?|Quelle viennoiserie apporterais-tu à des collègues pour leur faire plaisir ?
+nombre|Combien de fenêtres donnent sur la rue chez toi ?|Combien de portes faut-il ouvrir pour aller de ton lit à la cuisine ?
+objet|Cite un objet qu’on trouve dans un sac à main.|Cite un objet qu’on trouve dans une trousse.
+objet|Cite un objet toujours présent dans une cuisine.|Cite un objet toujours présent dans une salle de bain.
+moment|Quel est le pire moment pour recevoir un appel ?|Quel est le pire moment pour qu’on sonne à ta porte ?
+age|À quel âge as-tu fait ton premier voyage à l’étranger ?|À quel âge es-tu parti en vacances sans tes parents ?
+heures|Vers quelle heure as-tu ton premier petit creux de la matinée ?|Vers quelle heure as-tu ton premier coup de fatigue de l’après-midi ?
+aliment|Cite un légume qu’on met dans un pot-au-feu.|Cite un légume qu’on met dans un couscous.
+aliment|Cite une boisson chaude.|Cite une boisson du petit-déjeuner.
+heures|À quelle heure part le dernier bus ou métro près de chez toi ?|À quelle heure rentres-tu au plus tard d’une sortie en semaine ?
+objet|Cite un outil de bricolage.|Cite un objet qui fait du bruit sur un chantier.
+nombre|Combien de fois relis-tu la carte avant de choisir ?|Entre combien de plats hésites-tu avant de commander ?
+objet|Quel objet oublies-tu toujours en voyage ?|Quel objet emportes-tu toujours en voyage ?
+nombre*|Combien de fois as-tu pris un taxi cette année ?|Combien de fois as-tu loué un vélo ou une trottinette cette année ?
+nom|Cite un personnage de conte.|Cite un personnage qu’on retrouve dans un livre pour enfants.
+objet|Cite un objet qu’on trouve dans un sac de plage.|Cite un objet qu’on oublie à la plage.
+prix|Combien coûte une crêpe au sucre dans une crêperie ?|Combien coûte une galette complète dans une crêperie ?
+prix|Combien d’euros dépenses-tu pour les courses de la semaine ?|Combien d’euros dépenses-tu pour un plein d’essence ?
+ville|Quelle capitale aimerais-tu visiter ?|Quelle capitale te semble la plus surcotée ?
+nombre|Combien de fois par jour consultes-tu la météo ?|Combien de fois par jour regardes-tu tes mails ?
+activite|Cite un sport qu’on regarde en famille.|Cite un sport qu’on regarde le week-end.
+nombre|Combien de pots de sauce entamés y a-t-il dans ton frigo ?|Combien de sortes de fromage y a-t-il dans ton frigo ?
+expression|Quelle phrase dis-tu pour convaincre un ami de partager un taxi ?|Quelle phrase dis-tu pour convaincre un ami de rentrer à pied ?
+objet|Cite un objet électrique.|Cite un objet qu’on branche le soir.
+lieu|Par quel rayon commences-tu au supermarché ?|Dans quel rayon traînes-tu le plus longtemps au supermarché ?
+nom|Cite une odeur forte.|Cite une odeur qu’on reconnaît tout de suite.
+nombre|Combien de morceaux de sucre mets-tu dans ton café ou ton thé ?|Combien de tranches de pain manges-tu par jour ?
+objet|Cite un jouet de bébé.|Cite un jouet qu’on emporte dans le bain.
+prix*|Combien paies-tu ton abonnement de salle par mois (en euros) ?|Combien vaudrait un abonnement de salle juste par mois (en euros) ?
+vetement|Cite un vêtement qu’on enlève en arrivant.|Cite un vêtement qu’on accroche à une patère.
+nombre|Combien de gobelets utilises-tu dans une journée au bureau ?|Combien de touillettes prends-tu à la machine ?
+expression|Que dis-tu quand un invité arrive et que rien n’est rangé ?|Que dis-tu quand quelqu’un ouvre ton placard à bazar ?
+activite|Cite un sport qu’on pratique avec une raquette.|Cite un sport qu’on pratique à deux.
+nombre*|Combien de jours de télétravail tiens-tu avant que le bureau te manque ?|Combien de jours de bureau tiens-tu avant que le télétravail te manque ?
+heures|À quelle heure ouvres-tu les cadeaux à Noël ?|À quelle heure commence le repas de Noël ?
+prix|Quel prix maximum mettrais-tu dans un parapluie (en euros) ?|Quel prix maximum mettrais-tu dans une tasse (en euros) ?
+expression|Cite un mot qu’on dit quand on gagne.|Cite un mot qu’on crie quand on est content.
+nombre|Combien de miroirs y a-t-il chez toi ?|Combien d’horloges ou de pendules y a-t-il chez toi ?
+lieu|Cite un endroit où l’on fait les courses.|Cite un endroit où l’on achète des vêtements.
+objet|Quel objet ne quitte jamais ta poche de manteau ?|Quel objet trouves-tu toujours au fond de ton sac ?
+nombre|Combien de cafés un serveur porte-t-il sur un plateau ?|Combien d’assiettes un serveur porte-t-il sur un bras ?
+nombre|Combien de slides tolères-tu dans une présentation ?|Combien de slides prépares-tu pour une présentation de dix minutes ?
+objet|Cite un objet en papier.|Cite un objet qu’on recycle.
+objet|Cite un appareil pour écouter de la musique.|Cite un appareil qu’on avait dans les années 90.
+ville|Cite une ville au bord de la mer.|Cite une ville avec un grand port.
+nombre|Combien de matchs as-tu vus dans un stade dans ta vie ?|Combien de concerts as-tu vus dans un stade dans ta vie ?
+nom|Cite un cri d’animal.|Cite un bruit de la ferme.
+aliment|Cite un aliment qu’on garde longtemps.|Cite un aliment qu’on achète en conserve.
+heures|À quelle heure te couchais-tu à dix ans ?|À quelle heure commençait l’école ?
+nombre|Sur 10, à quel point es-tu sportif ?|Sur 10, à quel point aimes-tu transpirer ?
+nom|Comment appellerais-tu le groupe de discussion d’un voyage entre amis ?|Comment appellerais-tu l’album photo d’un voyage entre amis ?
+expression|Quelle phrase dis-tu en arrivant à la machine à café ?|Quelle phrase dis-tu en croisant un collègue dans l’ascenseur ?
+nombre|Combien de voyages fais-tu par an ?|Combien de voyages aimerais-tu faire par an ?
+nombre|Combien de jeux de société as-tu chez toi ?|Combien de puzzles as-tu déjà terminés ?
+aliment|Cite un légume qu’on mange cru.|Cite un légume qu’on met en salade.
+heures|À quelle heure est-il idéal d’aller courir ?|À quelle heure vas-tu à la salle de sport ?
+aliment|Cite quelque chose qu’on mange à un anniversaire.|Cite quelque chose qu’on sert à un goûter.
+objet|Cite un objet en verre.|Cite un objet fragile.
+nom|Quel jeu télé aimerais-tu gagner ?|Quel jeu télé serait le pire pour toi ?
+aliment|Cite un aliment jaune.|Cite un aliment sucré.
+minutes|Combien de minutes mets-tu à décorer une salle d’anniversaire ?|Combien de minutes mets-tu à gonfler tous les ballons ?
+aliment*|Quel fromage choisis-tu pour une raclette ?|Quel fromage choisis-tu au supermarché ?
+nombre|Combien d’amis pourraient t’aider à déménager demain ?|Combien d’amis connaissent ton plat préféré ?
+ville|Cite une ville d’Asie.|Cite une ville avec des gratte-ciel.
+aliment|Quel produit du terroir offrirais-tu en cadeau ?|Quel produit du terroir achètes-tu sur une aire d’autoroute ?
+expression|Que cries-tu devant un rebondissement incroyable ?|Que cries-tu quand un épisode s’arrête au pire moment ?
+nombre|Combien de bols de céréales peux-tu enchaîner ?|Combien de gaufres peux-tu enchaîner au goûter ?
+couleur*|Cite une couleur de fruit.|Cite une couleur de fleur.
+animal|Cite un animal marin.|Cite un animal qu’on voit à l’aquarium.
+nombre|Combien d’oreillers as-tu sur ton lit ?|Combien de coussins as-tu sur ton canapé ?
+objet|Quel objet touches-tu machinalement quand tu réfléchis ?|Quel objet mordilles-tu sans t’en rendre compte ?
+pays|Cite un pays où l’on va en avion.|Cite un pays où l’on va pour la plage.
+objet|Cite un objet qu’on emporte en randonnée.|Cite un objet qu’on emporte en pique-nique.
+nombre|Combien de places compte le plus grand stade que tu connais (en milliers) ?|Combien de supporters faut-il pour une vraie ambiance (en milliers) ?
+nom|Quel titre donnerais-tu au film de ta vie ?|Quel titre donnerais-tu à la série de ta famille ?
+expression|Que réponds-tu quand on te demande ce qu’on regarde ce soir ?|Que réponds-tu quand on te propose un film que tu as déjà vu ?
+nombre|Combien de glaces manges-tu par semaine en été ?|Combien de baignades fais-tu par jour en vacances ?
+objet*|Cite un objet en cuir.|Cite un objet en tissu.
+aliment|Cite un aliment qu’on tartine.|Cite un aliment qu’on mange au petit-déjeuner.
+lieu|Cite un endroit où l’on se baigne.|Cite un endroit où l’on pêche.
+lieu|Quel est le pire endroit pour tomber en panne de batterie ?|Quel est le pire endroit pour avoir un fou rire ?
+prix|Combien coûte un bon parapluie selon toi (en euros) ?|Combien coûte un bon sac à dos selon toi (en euros) ?
+minutes|Combien de minutes cherches-tu une place pour te garer avant une soirée ?|Combien de minutes mets-tu à trouver le bon interphone avant une soirée ?
+metier|Cite un commerçant.|Cite un métier qu’on croise dans la rue.
+lieu|Dans quelle pièce de ta maison fait-il le plus froid ?|Dans quelle pièce de ta maison y a-t-il le plus de bazar ?
+nombre|Combien de trajets en train as-tu faits cette année ?|Combien de week-ends as-tu passés hors de chez toi cette année ?
+expression|Que dis-tu en entrant dans une eau trop froide ?|Que dis-tu quand quelqu’un t’éclabousse au bord du bassin ?
+nombre|Cite un nombre entre 1 et 100.|Cite un âge entre 1 et 100.
+aliment*|Cite un aliment qu’on mange cru.|Cite un aliment qu’on mange cuit.
+nombre|Combien de fois regardes-tu ton téléphone pendant une soirée ?|Combien de fois vas-tu à la cuisine pendant une soirée ?
+nombre|Combien de photos prends-tu pendant une fête ?|Combien de photos de fête gardes-tu vraiment ?
+lieu|Quel lieu est le décor idéal d’un film d’horreur ?|Quel lieu est le décor idéal d’une comédie ?
+prix|Combien coûte un bon repas au restaurant selon toi (en euros) ?|Combien serais-tu prêt à payer pour un bon concert (en euros) ?
+animal|Cite un oiseau.|Cite un animal qui pond des œufs.
+nombre|Combien d’artistes différents écoutes-tu dans une semaine ?|Combien de genres différents écoutes-tu dans une semaine ?
+minutes|Combien de minutes faut-il pour passer à table quand le repas est prêt ?|Combien de minutes faut-il pour débarrasser après un repas de famille ?
+expression|Que dis-tu en enlevant enfin tes chaussures de ski ?|Que dis-tu en voyant l’addition du restaurant d’altitude ?
+prix|Combien d’euros paierais-tu pour le meilleur burger du monde ?|Combien d’euros paierais-tu pour une part de gâteau dans un salon de thé chic ?
+nom|Cite un matériau de construction.|Cite une matière qui résiste au feu.
+expression|Que dis-tu quand quelqu’un te bouscule dans le métro ?|Que dis-tu quand quelqu’un te double dans une file d’attente ?
+metier|Quel métier a les horaires les plus étranges ?|Quel métier a la tenue la plus reconnaissable ?
+nombre|Combien de jours à l’avance achètes-tu un cadeau ?|Combien de jours après la date fêtes-tu un anniversaire en retard ?
+aliment|Quel en-cas salé préfères-tu ?|Quel en-cas salé ressors-tu pour l’apéro ?
+pays|Dans quel pays irais-tu pour la neige ?|Dans quel pays irais-tu chercher le soleil en hiver ?
+objet|Quel objet utilises-tu pour une blague du 1er avril ?|Quel objet utilises-tu pour un tour de magie ?
+prix|Combien dépenses-tu pour une fête chez toi ?|Combien dépenses-tu pour un week-end entre amis ?
+nombre|Combien de bocaux vides gardes-tu chez toi ?|Combien de boîtes en carton gardes-tu « au cas où » ?
+expression|Que dis-tu quand quelqu’un finit le paquet de chips ?|Que dis-tu quand quelqu’un prend la dernière part ?
+prix|Combien coûte un ticket de métro dans ta ville ?|Combien coûte une amende quand tu fraudes dans les transports ?
+objet|Cite un jouet qui rebondit.|Cite un objet qu’on lance pour jouer.
+minutes|Combien de minutes d’avance prévois-tu pour une fête surprise ?|Combien de minutes peux-tu te retenir de rire ?
+nombre*|Combien de paquets de pâtes as-tu dans ton placard ?|Combien de boîtes de conserve as-tu dans ton placard ?
+metier|Cite un métier en uniforme.|Cite un métier où l’on travaille la nuit.
+objet|Cite quelque chose qui coule dans l’eau.|Cite quelque chose qu’on jette dans un lac.
+nombre|Combien de bougies mets-tu vraiment sur un gâteau ?|Combien de parts coupes-tu dans un gâteau d’anniversaire ?
+prix|Combien coûtait un menu au fast-food quand tu étais ado ?|Combien coûtait une pizza à partager quand tu étais ado ?
+prix|Combien paierais-tu pour un bon casque (en euros) ?|Combien paierais-tu pour une bonne enceinte (en euros) ?
+lieu|Où caches-tu les cadeaux avant de les offrir ?|Où ranges-tu les cadeaux que tu n’utilises pas ?
+nombre|Combien de fois vérifies-tu ta carte d’embarquement avant le vol ?|Combien de fois regardes-tu le tableau des départs avant d’embarquer ?
+aliment|Quel snack achètes-tu dans un distributeur ?|Quel snack achètes-tu dans une station-service ?
+minutes|Combien de minutes mets-tu à faire ton lit ?|Combien de minutes mets-tu à faire la vaisselle ?
+heures|À quelle heure placerais-tu la réunion idéale ?|À quelle heure tombent toujours les réunions de dernière minute ?
+activite|Que fais-tu quand quelqu’un est assis à ta place réservée ?|Que fais-tu quand ton voisin de train téléphone fort ?
+expression|Quelle phrase entend-on toujours à l’arrière de la voiture ?|Quelle phrase dit le conducteur quand il est perdu ?
+aliment|Que manges-tu au petit-déjeuner ?|Que manges-tu quand tu as un petit creux à 16 h ?
+objet|Cite un véhicule qui va sur l’eau.|Cite un véhicule qu’on loue en vacances.
+nombre|Combien de chocolats manges-tu pendant les fêtes ?|Combien de chocolats reste-t-il dans la boîte le 26 ?
+minutes|Combien de minutes faut-il pour réchauffer ton plat au micro-ondes ?|Combien de minutes fais-tu la queue devant le micro-ondes ?
+nombre|Combien d’invités maximum pour un dîner assis ?|Combien de chaises as-tu chez toi ?
+nombre|Combien d’invités annulent le jour même ?|Combien d’invités viennent avec quelqu’un d’imprévu ?
+heures|À quelle heure dînes-tu en général ?|À quelle heure arrêtes-tu de travailler en général ?
+heures|À quelle heure le supermarché est-il le plus calme selon toi ?|À quelle heure le marché est-il le plus animé selon toi ?
+activite|Cite une activité de fête foraine.|Cite une attraction qui fait crier.
+nombre|Combien de secondes mets-tu à entrer dans une mer froide ?|Combien de secondes peux-tu tenir la tête sous l’eau ?
+moment*|En quel mois commences-tu les raclettes ?|En quel mois arrêtes-tu les raclettes ?
+nom|Cite une graine qu’on sème au jardin.|Cite une plante qu’on arrose souvent.
+prix|Combien coûte une raquette de tennis correcte (en euros) ?|Combien coûte un ballon de foot correct (en euros) ?
+aliment|Quel accompagnement choisis-tu avec une viande ?|Quel accompagnement demandes-tu à changer dans un menu ?
+vetement|Cite un vêtement chic.|Cite un vêtement qu’on met pour un entretien.
+aliment|Quel plat aimes-tu manger froid le lendemain ?|Quel plat est meilleur réchauffé ?
+activite*|Que fais-tu un après-midi de grosse chaleur ?|Que fais-tu un après-midi de grosse averse ?
+nom|Cite quelque chose qui tombe du ciel.|Cite quelque chose qui tombe d’un arbre.
+nom|Cite un prénom de personnage de conte.|Cite un prénom de dessin animé.
+nombre|Combien de jours tiennent tes résolutions de janvier ?|Combien de résolutions notes-tu le 1er janvier ?
+activite|Quel jeu organises-tu pour les enfants à Pâques ?|Quel jeu organises-tu pour les enfants à la plage ?
+expression|Que dis-tu pour inviter un voisin que tu ne connais pas ?|Que dis-tu pour te présenter à un nouveau voisin ?
+prix|Combien coûte une galette pour six ?|Combien coûte une tarte aux pommes pour six ?
+heures|Un grand ménage chez toi prend combien d’heures ?|Monter un meuble en kit te prend combien d’heures ?

@@ -1,0 +1,11 @@
+prix|à l'écoute|Combien paierais-tu pour voir ton artiste préféré (en euros) ?|Combien coûte une place de concert normale (en euros) ?
+nombre|musique en voiture|À quel volume, sur 10, écoutes-tu la musique en voiture ?|À quel volume, sur 10, écoutes-tu la musique au casque ?
+nombre|musique en voiture|Combien de fois peux-tu écouter la même chanson sur un trajet ?|Combien de chansons passes-tu avant d’en trouver une bonne en voiture ?
+nombre|playlists|Combien d’artistes différents écoutes-tu dans une semaine ?|Combien de genres différents écoutes-tu dans une semaine ?
+personne|playlists|Qui fait les meilleures playlists autour de toi ?|Qui te recommande toujours des chansons autour de toi ?
+nombre|sonneries et réveils|Combien de fois appuies-tu sur « répéter » quand ton réveil sonne ?|Combien de réveils mets-tu le matin ?
+heures|musique au travail|Combien d’heures par jour gardes-tu ton casque au travail ?|Combien d’heures par jour écoutes-tu de la musique dans les transports ?
+minutes|musique au travail|Combien de minutes mets-tu à choisir quoi écouter en partant le matin ?|Combien de minutes peux-tu travailler sans musique ?
+objet|casque et enceinte|Quel objet connecté utilises-tu pour mettre de la musique ?|Quel objet utilisais-tu pour mettre de la musique il y a dix ans ?
+moment|voisins et bruit|Jusqu’à quelle heure peut-on mettre de la musique fort chez soi ?|À partir de quelle heure peut-on mettre de la musique le week-end ?
+prix|disques et objets cultes|Combien paierais-tu pour un bon casque (en euros) ?|Combien paierais-tu pour une bonne enceinte (en euros) ?

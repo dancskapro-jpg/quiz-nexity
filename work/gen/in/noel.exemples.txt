@@ -1,0 +1,13 @@
+objet|sous le sapin|Quel cadeau aimerais-tu trouver sous le sapin ?|Quel cadeau as-tu adoré offrir ?
+aliment|sous le sapin|Quel plat ne doit jamais manquer au repas de Noël ?|Quel plat de Noël pourrais-tu manger toute l’année ?
+film|sous le sapin|Quel film regardes-tu chaque année à Noël ?|Quel film de Noël est le plus ringard ?
+nombre|sous le sapin|Combien de cadeaux offres-tu à Noël ?|Combien de personnes sont autour de la table à Noël ?
+objet|sous le sapin|Que mets-tu en haut du sapin ?|Que poses-tu sur la table du réveillon ?
+lieu|sous le sapin|Où rêverais-tu de passer Noël ?|Où as-tu passé ton plus beau Noël ?
+nombre|sous le sapin|Combien de chocolats manges-tu pendant les fêtes ?|Combien de chocolats reste-t-il dans la boîte le 26 ?
+expression|calendrier de l'avent|Que dis-tu quand la case du jour est vide ?|Que dis-tu quand quelqu’un a mangé ta case du jour ?
+minutes|le sapin|Combien de minutes mets-tu à décorer le sapin ?|Combien de minutes mets-tu à démêler les guirlandes ?
+aliment|marchés de noël|Que manges-tu en premier sur un marché de Noël ?|Que rapportes-tu à la maison d’un marché de Noël ?
+prix*|marchés de noël|Combien coûte une gaufre sur un marché de Noël ?|Combien coûte un stylo ?
+pays|marchés de noël|Dans quel pays trouve-t-on les plus beaux marchés de Noël ?|Dans quel pays les rues sont-elles les plus illuminées en décembre ?
+nombre|père noël et lettres|Combien de cadeaux demandais-tu dans ta lettre au Père Noël ?|Combien de lignes faisait ta lettre au Père Noël ?

@@ -1,0 +1,58 @@
+nombre|calendrier|Combien de cadeaux mets-tu sous le sapin en moyenne ?|Combien de personnes fêtent Noël avec toi en moyenne ?
+heures|calendrier|À quelle heure ouvres-tu les cadeaux à Noël ?|À quelle heure commence le repas de Noël ?
+lieu|calendrier|Où aimerais-tu voir un feu d’artifice ?|Où aimerais-tu visiter un marché de Noël ?
+nombre*|calendrier|Combien de jours avant Noël installes-tu le sapin ?|Combien de jours après Noël enlèves-tu le sapin ?
+nombre|calendrier|Combien de bougies faut-il sur un gâteau pour qu’il soit beau ?|En combien de parts coupes-tu une galette des rois ?
+expression|calendrier|Que dis-tu pour souhaiter une bonne année ?|Que dis-tu pour souhaiter un joyeux anniversaire en retard ?
+nombre|calendrier|Combien de jours à l’avance achètes-tu tes cadeaux de Noël ?|Combien de jours avant les vacances fais-tu ta valise ?
+nombre|anniversaires|Combien de parts de gâteau d’anniversaire manges-tu ?|Combien de parts de gâteau restent à la fin de la fête ?
+minutes|anniversaires|Combien de minutes dure le moment des cadeaux à un anniversaire ?|Combien de minutes restes-tu caché pour une fête surprise ?
+nombre|anniversaires|Combien de dates d’anniversaire connais-tu par cœur ?|Combien de rappels d’anniversaire as-tu dans ton téléphone ?
+nombre|anniversaires|Combien de bougies mets-tu vraiment sur un gâteau d’adulte ?|Combien de cadeaux reçois-tu dans une année ?
+objet|cadeaux|Quel est le meilleur cadeau que tu aies reçu enfant ?|Quel objet t'es-tu acheté pour te faire plaisir pour ton anniversaire ?
+minutes|cadeaux|Combien de minutes mets-tu à emballer un cadeau ?|Combien de minutes mets-tu à écrire une carte d’anniversaire ?
+expression|cadeaux|Que dis-tu quand un cadeau ne te plaît pas du tout ?|Que dis-tu quand tu reçois un cadeau beaucoup trop généreux ?
+nombre*|cadeaux|Combien de cadeaux offres-tu dans une année ?|Combien de cadeaux reçois-tu dans une année ?
+objet|cadeaux|Que trouve-t-on à coup sûr dans une pochette surprise ?|Quel jouet trouve-t-on à coup sûr dans un œuf en chocolat ?
+expression|cadeaux|Quel mot écris-tu sur une carte de félicitations ?|Quel mot écris-tu sur une carte de remerciement ?
+nombre|cadeaux|Combien de jours mets-tu à remercier pour un cadeau ?|Combien de jours gardes-tu un bouquet reçu en cadeau ?
+lieu|cadeaux|Où caches-tu les cadeaux avant de les offrir ?|Où ranges-tu les cadeaux que tu n’utilises pas ?
+prix|fête des mères et des pères|Combien dépenses-tu pour un bouquet de fleurs ?|Combien dépenses-tu pour une boîte de chocolats à offrir ?
+nombre|mariages et baptêmes|Combien d’invités faut-il pour un beau mariage ?|Combien de tables compte une belle salle de réception ?
+nombre*|mariages et baptêmes|À combien de mariages es-tu allé dans ta vie ?|À combien d'anniversaires es-tu allé dans ta vie ?
+nombre|nouvel an|Combien de fois dis-tu bonne année le 1er janvier ?|Combien de fois dis-tu joyeux anniversaire dans une année ?
+heures|soirées entre amis|À quelle heure arrives-tu quand on t’invite à 20 heures ?|À quelle heure pars-tu d’une soirée qui t’ennuie ?
+prix|fêtes foraines et de village|Combien coûte un billet pour un parc d'attractions ?|Combien coûte une console de jeu ?
+minutes*|fêtes foraines et de village|Combien de minutes maximum attends-tu pour un grand huit ?|Combien de minutes attends-tu pour une grande roue ?
+nombre|fêtes foraines et de village|Combien de lancers te faut-il pour gagner une peluche ?|Combien d’essais te faut-il pour attraper un canard à la pêche ?
+expression|saisons qui changent|Que dis-tu quand il fait nuit à 17 heures ?|Que dis-tu quand il fait encore jour à 22 heures ?
+activite|fin d'année|Que fais-tu le 26 décembre ?|Que fais-tu le 2 janvier ?
+nombre|souvenirs de fête|Combien de photos prends-tu pendant une fête ?|Combien de photos de fête gardes-tu vraiment ?
+moment|souvenirs de fête|Quel moment d’une fête aimes-tu prendre en photo ?|Quel moment d’une fête préfères-tu vivre sans téléphone ?
+personne|souvenirs de fête|Qui prend toujours les photos dans ton groupe d’amis ?|Qui organise toujours la photo de groupe dans ta famille ?
+nombre|préparatifs|Combien de ballons gonfles-tu pour une fête ?|Combien de paquets de chips achètes-tu pour une fête ?
+minutes|préparatifs|Combien de minutes mets-tu à gonfler dix ballons ?|Combien de minutes mets-tu à dresser la table pour dix ?
+expression|préparatifs|Que dis-tu en accueillant tes invités ?|Que dis-tu en arrivant chez quelqu’un qui fait une fête ?
+aliment|préparatifs|Quel fromage mets-tu sur un plateau de fête ?|Quel fromage mets-tu dans une raclette ?
+objet|préparatifs|Quel objet empruntes-tu toujours pour organiser une fête ?|Quel objet prêtes-tu toujours pour une fête ?
+heures|le jour j|À quelle heure sers-tu le gâteau à un anniversaire du soir ?|À quelle heure sers-tu le dessert à un dîner entre amis ?
+age|le jour j|À partir de quel âge offre-t-on de l’argent plutôt qu’un cadeau ?|À partir de quel âge arrête-t-on les pochettes surprises ?
+prix|le jour j|Combien dépenses-tu pour une fête chez toi ?|Combien dépenses-tu pour un week-end entre amis ?
+objet|le jour j|Quel objet trouves-tu toujours sous le canapé après une fête ?|Quel objet trouves-tu toujours dans le jardin après une fête ?
+personne|le jour j|Quel invité arrive toujours le premier ?|Quel invité reste toujours pour aider ?
+nombre|premier janvier|Combien de jours tiennent tes résolutions de janvier ?|Combien de résolutions notes-tu le 1er janvier ?
+nombre|premier janvier|Combien de fois écris-tu encore l’ancienne année en janvier ?|Combien de fois te trompes-tu de date en janvier ?
+prix|premier janvier|Combien coûte un agenda pour la nouvelle année ?|Combien coûte un calendrier de l'avent de chocolat ?
+objet|galettes et épiphanie|Quel objet sert de fève quand on n’en a pas ?|Quel objet remplace la couronne quand on l’a oubliée ?
+prix|galettes et épiphanie|Combien coûte une galette pour six ?|Combien coûte une tarte aux pommes pour six ?
+nombre|chandeleur|Combien de crêpes manges-tu au goûter ?|Combien de crêpes prépares-tu pour quatre personnes ?
+aliment*|chandeleur|Quelle crêpe salée préfères-tu ?|Quelle crêpe sucrée préfères-tu ?
+personne|chandeleur|Qui fait sauter les crêpes chez toi ?|Qui mange les crêpes ratées chez toi ?
+aliment|chandeleur|Quelle garniture de crêpe mets-tu pour les enfants ?|Quelle garniture de crêpe gardes-tu pour les adultes ?
+prix|chandeleur|Combien coûte une crêpe au sucre dans une crêperie ?|Combien coûte une galette complète dans une crêperie ?
+personne*|carnaval et déguisements|Quel personnage imites-tu avec seulement une moustache ?|Quel personnage imites-tu avec seulement un chapeau ?
+objet|poisson d'avril|Quel objet utilises-tu pour une blague du 1er avril ?|Quel objet utilises-tu pour un tour de magie ?
+activite|pâques|Quel jeu organises-tu pour les enfants à Pâques ?|Quel jeu organises-tu pour les enfants à la plage ?
+prix|printemps et muguet|Combien coûte une tablette de chocolat ?|Combien coûte une rose chez le fleuriste ?
+expression|fête des voisins|Que dis-tu pour inviter un voisin que tu ne connais pas ?|Que dis-tu pour te présenter à un nouveau voisin ?
+expression|14 juillet|Quel bruit fais-tu pour imiter un feu d’artifice ?|Quel bruit fais-tu pour imiter une voiture de course ?

@@ -1,0 +1,89 @@
+heures|avant|À quelle heure arrives-tu à une soirée prévue à 20 h ?|À quelle heure commences-tu à bâiller en soirée ?
+nombre|avant|Combien de personnes faut-il pour une bonne soirée ?|Combien de personnes peux-tu recevoir chez toi ?
+aliment|avant|Qu’apportes-tu quand tu es invité ?|Que sers-tu à l’apéro ?
+nombre|avant|Combien de messages faut-il pour organiser une soirée en groupe ?|Combien de personnes répondent vraiment dans ton groupe d’amis ?
+minutes|avant|Combien de minutes te faut-il pour te préparer avant de sortir ?|Combien de minutes faut-il pour choisir un restaurant en groupe ?
+nombre|avant|Combien de jours à l’avance prévois-tu un anniversaire ?|Combien de jours à l’avance réserves-tu un restaurant ?
+objet|avant|Quel objet ne doit jamais manquer en soirée ?|Quel objet oublie-t-on toujours en pique-nique ?
+vetement|avant|Quel déguisement porterais-tu à une soirée costumée ?|Quel déguisement as-tu déjà porté ?
+lieu|avant|Où organiser l’anniversaire parfait ?|Où passer le Nouvel An idéal ?
+lieu|avant|Quel type de lieu choisis-tu pour retrouver des amis ?|Quel type de lieu choisis-tu pour fêter une bonne nouvelle ?
+moment|avant|Quel jour de la semaine est idéal pour une soirée ?|Quel jour de la semaine est idéal pour un brunch ?
+activite|pendant|Quel jeu proposes-tu en soirée ?|Quel jeu te fait le plus rire en soirée ?
+aliment|pendant|Quel gâteau d’anniversaire choisis-tu ?|Quel gâteau sais-tu faire ?
+film|pendant|Quel film regarder entre amis ?|Quel film fait toujours rire un groupe ?
+film|pendant|Quelle série conseillerais-tu à tout le groupe ?|Quelle série regardes-tu en cachette ?
+expression|pendant|Que dis-tu pour partir discrètement d’une soirée ?|Que dis-tu en arrivant à une soirée ?
+expression|pendant|Quel nom donnerais-tu à ton groupe d’amis ?|Quel nom donnerais-tu à ton équipe de quiz ?
+heures|chiffres|À quelle heure rentres-tu d’une bonne soirée ?|À quelle heure se termine un bon dîner entre amis ?
+heures|chiffres|Combien d’heures dure un bon apéro ?|Combien d’heures dure une bonne partie de jeu de société ?
+heures|chiffres|À quelle heure commence un bon apéro ?|À quelle heure faut-il allumer le barbecue ?
+nombre|chiffres|Combien de soirées fais-tu par mois ?|Combien de restaurants fais-tu par mois ?
+nombre|chiffres|Combien de jeux de société possèdes-tu ?|De combien de jeux de société connais-tu les règles par cœur ?
+nombre|chiffres|Combien d’invités maximum pour un dîner assis ?|Combien de chaises as-tu chez toi ?
+nombre|chiffres|Combien de photos de groupe faut-il prendre pour en avoir une bonne ?|Combien de photos prends-tu en soirée ?
+nombre|chiffres|Combien de fois par an reçois-tu chez toi ?|Combien de fois par an vas-tu à un concert ?
+minutes*|accueil|Combien de minutes passes-tu à ranger avant l’arrivée des invités ?|Combien de minutes passes-tu à ranger après le départ des invités ?
+nombre*|accueil|Combien de sacs-poubelle prévois-tu pour une soirée ?|Combien de sacs-poubelle remplis-tu après une soirée ?
+lieu|accueil|Où caches-tu le bazar avant l’arrivée des invités ?|Où caches-tu les cadeaux pendant un anniversaire surprise ?
+minutes|accueil|Combien de minutes attends-tu avant de relancer un invité en retard ?|Combien de minutes de retard sont acceptables pour une soirée ?
+aliment|apéro et grignotage|Que mets-tu sur un plateau apéro ?|Que pioches-tu en premier sur un plateau apéro ?
+aliment|apéro et grignotage|Quelle pizza commandes-tu pour tout un groupe ?|Quelle pizza évites-tu de commander pour un groupe ?
+aliment*|apéro et grignotage|Quelle sauce sers-tu avec des nuggets ?|Quelle sauce sers-tu avec des frites ?
+heures|apéro et grignotage|À quelle heure sors-tu les chips ?|À quelle heure passes-tu à table ?
+personne*|jeux de soirée|Qui triche toujours aux jeux dans ton groupe ?|Qui perd toujours aux jeux dans ton groupe ?
+nombre|jeux de soirée|Combien de joueurs faut-il pour un bon loup-garou ?|Combien de joueurs faut-il pour une bonne partie de cartes ?
+personne|son et enceinte|Qui monopolise toujours l’enceinte en soirée ?|Qui choisit toujours le restaurant dans ton groupe ?
+minutes|arrivée|Combien de minutes cherches-tu une place pour te garer avant une soirée ?|Combien de minutes mets-tu à trouver le bon interphone avant une soirée ?
+objet*|arrivée|Quel cadeau apportes-tu à un hôte que tu connais peu ?|Quel cadeau apportes-tu à un ami pour sa crémaillère ?
+nombre|arrivée|Combien de bises fais-tu pour dire bonjour ?|Combien de personnes salues-tu avant d’enlever ton manteau ?
+expression|arrivée|Que dis-tu quand tu arrives et que tu ne connais personne ?|Que dis-tu quand tu arrives le premier à une soirée ?
+nombre|départ et retour|Combien de fois dis-tu « j’y vais » avant de vraiment partir ?|Combien de personnes salues-tu avant de partir d’une soirée ?
+activite|départ et retour|Que fais-tu en premier en rentrant de soirée ?|Que fais-tu en premier en te réveillant le lendemain d’une soirée ?
+moment|départ et retour|À quel moment sais-tu qu’il est temps de partir ?|À quel moment sais-tu qu’une soirée est réussie ?
+prix|départ et retour|Combien es-tu prêt à payer un taxi pour rentrer de soirée ?|Combien es-tu prêt à payer une place de concert ?
+expression|départ et retour|Quelle excuse donnes-tu pour partir tôt ?|Quelle excuse donnes-tu pour ne pas venir ?
+heures|départ et retour|À quelle heure es-tu rentré de ta soirée la plus longue ?|À quelle heure le soleil se lève-t-il en été ?
+aliment|lendemain et brunch|Quelle viennoiserie vas-tu chercher pour tout le monde ?|Quelle viennoiserie prends-tu juste pour toi ?
+heures|lendemain et brunch|Combien d’heures dors-tu après une soirée ?|Combien d’heures de sieste fais-tu le lendemain d’une soirée ?
+aliment|dîner entre potes|Quel plat fais-tu quand tu reçois des végétariens ?|Quel plat rates-tu à chaque fois ?
+aliment|dîner entre potes|Quel plat se partage au milieu de la table ?|Quel plat est impossible à partager ?
+aliment|dîner entre potes|Quel plat est trop risqué à tenter devant des invités ?|Quel plat as-tu toujours voulu apprendre à cuisiner ?
+nombre|anniversaires et surprises|Combien de personnes faut-il pour garder une surprise secrète ?|Combien de personnes finissent par vendre la mèche ?
+prix|anniversaires et surprises|Combien donnes-tu pour un cadeau commun entre potes ?|Combien coûte un gâteau d’anniversaire pour vingt personnes ?
+minutes|anniversaires et surprises|Combien de minutes d’avance prévois-tu pour une fête surprise ?|Combien de minutes peux-tu te retenir de rire ?
+nombre|anniversaires et surprises|Combien de bougies mets-tu vraiment sur un gâteau ?|Combien de parts coupes-tu dans un gâteau d’anniversaire ?
+activite|anniversaires et surprises|Quelle activité offrirais-tu en cadeau d’anniversaire ?|Quelle activité ferais-tu pour fêter une bonne nouvelle au boulot ?
+lieu|anniversaires et surprises|Où fais-tu croire qu’on va pour attirer quelqu’un à sa fête surprise ?|Où donnes-tu rendez-vous à un ami pour un simple café ?
+objet|anniversaires et surprises|Quelle décoration sors-tu pour un anniversaire ?|Quelle décoration laisses-tu en place toute l’année après une fête ?
+expression|photos et souvenirs|Que dis-tu pour faire sourire tout le monde sur une photo ?|Que dis-tu pour lancer un compte à rebours ?
+lieu|photos et souvenirs|Où se fait la photo de groupe en soirée ?|Où ranges-tu tes vieilles photos ?
+moment|photos et souvenirs|À quel moment de la soirée prend-on la photo de groupe ?|À quel moment de la soirée tout le monde est-il sur son téléphone ?
+nombre|organisation|Combien d’invités annulent le jour même ?|Combien d’invités viennent avec quelqu’un d’imprévu ?
+prix|organisation|Combien demandes-tu à chacun pour les courses d’une soirée ?|Combien coûte une pizza à emporter ?
+objet|soirée film et canapé|Que prends-tu pour être bien installé devant un film ?|Que prends-tu pour être bien installé en pique-nique ?
+expression|soirée film et canapé|Que dis-tu quand quelqu’un parle pendant le film ?|Que dis-tu quand quelqu’un dévoile la fin d’une série ?
+expression|crémaillère|Que dis-tu en découvrant l’appartement d’un ami ?|Que dis-tu en goûtant un plat raté chez un ami ?
+nombre|petites manies de soirée|Combien de fois regardes-tu ton téléphone pendant une soirée ?|Combien de fois vas-tu à la cuisine pendant une soirée ?
+expression*|invitations|Quelle excuse entends-tu le plus pour refuser une soirée ?|Quelle excuse utilises-tu le plus pour refuser une soirée ?
+prix|invitations|Combien dépenses-tu en décoration pour une soirée chez toi (en euros) ?|Combien dépenses-tu pour un cadeau d’anniversaire entre amis (en euros) ?
+prix|anniversaires|Combien coûte une boîte de bougies d’anniversaire (en euros) ?|Combien coûte une carte d’anniversaire en papeterie (en euros) ?
+nombre|anniversaires|Combien d’appels reçois-tu le jour de ton anniversaire ?|Combien d’appels passes-tu pour souhaiter des anniversaires dans un mois ?
+expression|anniversaires|Quelle phrase dis-tu en tendant son cadeau à un ami ?|Quelle phrase dis-tu en apportant le gâteau ?
+nombre|anniversaires|Combien de jours à l’avance achètes-tu un cadeau ?|Combien de jours après la date fêtes-tu un anniversaire en retard ?
+minutes|anniversaires|Combien de minutes mets-tu à décorer une salle d’anniversaire ?|Combien de minutes mets-tu à gonfler tous les ballons ?
+expression|dîner chez des amis|Que dis-tu quand le plat est trop salé ?|Que dis-tu quand on te ressert alors que tu n’as plus faim ?
+expression|dîner chez des amis|Que dis-tu pour refuser poliment un plat ?|Que dis-tu pour demander une deuxième part ?
+expression|conversations|Quel sujet de conversation lances-tu quand il y a un blanc ?|Quel sujet de conversation évites-tu en soirée ?
+expression|retour à la maison|Quelle phrase dis-tu pour convaincre un ami de partager un taxi ?|Quelle phrase dis-tu pour convaincre un ami de rentrer à pied ?
+heures*|retour à la maison|Jusqu’à quelle heure restes-tu à une soirée la veille d’un jour de travail ?|Jusqu’à quelle heure restes-tu à une soirée la veille d’un jour férié ?
+nombre|retour à la maison|Avec combien de personnes partages-tu un taxi en rentrant ?|Avec combien de personnes rentres-tu à pied ?
+heures|hôte et rangement|Vers quelle heure demandes-tu poliment aux invités de partir ?|Vers quelle heure commences-tu à ranger discrètement pendant la soirée ?
+nombre|hôte et rangement|Combien de verres finissent sans propriétaire en fin de soirée ?|Combien de gobelets portent un prénom écrit au feutre ?
+nombre|sorties entre amis|Combien de strikes fais-tu dans une partie de bowling ?|Combien de trous en un coup fais-tu dans une partie de minigolf ?
+activite|sorties entre amis|Quelle activité proposes-tu pour un groupe de dix personnes ?|Quelle activité proposes-tu pour une sortie à trois ?
+prix|sorties entre amis|Combien coûte une partie de bowling (en euros) ?|Combien coûte une place de cinéma (en euros) ?
+heures|sorties entre amis|À quelle heure réserves-tu une table pour un groupe ?|À quelle heure réserves-tu une séance de cinéma entre amis ?
+nombre|sorties entre amis|Combien de personnes faut-il pour un escape game réussi ?|Combien de personnes faut-il pour une partie de laser game ?
+activite*|sorties entre amis|Quelle sortie proposes-tu quand il pleut ?|Quelle sortie proposes-tu quand il fait beau ?
+personne||Quelle célébrité fait toujours réagir quand on la cite en soirée ?|Quelle célébrité imites-tu pour faire rire tes amis ?

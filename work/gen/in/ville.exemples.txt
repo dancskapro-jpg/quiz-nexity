@@ -1,0 +1,9 @@
+nombre|touristes et visites|Combien de jours faut-il pour visiter une grande ville ?|Combien de jours pars-tu en vacances par an ?
+expression|touristes et visites|Que dis-tu à un touriste perdu devant toi ?|Que dis-tu quand un touriste te demande de le prendre en photo ?
+nombre|touristes et visites|Combien de photos prends-tu en une journée de visite ?|Combien de photos de monuments gardes-tu vraiment ?
+prix|tickets et abonnements|Combien coûte un ticket de métro dans ta ville ?|Combien coûte une amende quand tu fraudes dans les transports ?
+minutes|déménager en ville|Combien de minutes de transport acceptes-tu au maximum pour aller au travail ?|Combien de minutes de transport acceptes-tu au maximum pour voir tes amis ?
+nombre|transports|Combien de lignes de bus prends-tu dans un mois ?|Combien de stations de métro connais-tu par cœur ?
+prix|transports|Combien coûte un ticket de métro selon toi ?|Combien coûte une heure de parking en centre-ville selon toi ?
+minutes|vie urbaine|Combien de minutes cherches-tu une place pour te garer ?|Combien de minutes attends-tu à un feu rouge dans ta journée ?
+expression|vie urbaine|Que dis-tu quand une trottinette te frôle ?|Que dis-tu quand un vélo te sonne derrière toi ?
