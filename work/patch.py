@@ -5,7 +5,7 @@
 - icône « changer de question » en jeu.
 Usage : python3 patch.py <dossier de sortie>
 """
-import json, os, re, sys
+import json, os, re, subprocess, sys
 
 W = '/home/claude/hs-work'
 OUT = sys.argv[1]
@@ -209,6 +209,18 @@ for l in LANGS:
     for i in order:
         if i in rev:
             packs.setdefault(final_pack(pack_of[i]), []).append(f'{i}|{rev[i][0]}|{rev[i][1]}')
+    # Nouvelles paires de la banque : seulement les parties traduites qui passent la vérification
+    nnew = 0
+    for n in range(1, 16):
+        f = f'{W}/trad/out/{l}.{n}.txt'
+        if not os.path.exists(f) or subprocess.run(['node', f'{W}/trad-check.mjs', l, str(n)], capture_output=True).returncode:
+            continue
+        for line in open(f, encoding='utf8'):
+            p = line.rstrip('\n').split('|')
+            if len(p) == 4:
+                packs.setdefault(final_pack(p[0].rsplit('-', 1)[0]), []).append(f'{p[0]}|{p[1].strip()}|{p[2].strip()}')
+                nnew += 1
+    print(l, 'nouvelles traduites :', nnew)
     j['pairs']['pairs'] = {pk: '\n'.join(v) for pk, v in packs.items()}
     ans = [a for a in j['pairs'].get('answers', '').split('\n') if a.split('|')[0] in set(order)]
     j['pairs']['answers'] = '\n'.join(ans)

@@ -14,7 +14,7 @@ lines.forEach((line, i) => {
   if (byId.has(p[0])) errors.push(`ligne ${i + 1} : id en double ${p[0]}`);
   byId.set(p[0], p);
 });
-const FR = lang === 'it' ? /\b(combien|quelle?s? |est-ce|qu’est|qu'est|pourrais-tu|serais-tu|ferais-tu|dirais-tu|aujourd’hui|toujours|jamais)\b/i : /\b(combien|quel|quelle|quels|est-ce|qu’est|qu'est|pourrais-tu|serais-tu|ferais-tu|dirais-tu|aujourd’hui|toujours|jamais)\b/i;
+const FR = lang === 'it' ? /\b(combien|est-ce|qu’est|qu'est|pourrais-tu|serais-tu|ferais-tu|dirais-tu|aujourd’hui|toujours|jamais)\b/i : /\b(combien|quel|quelle|quels|est-ce|qu’est|qu'est|pourrais-tu|serais-tu|ferais-tu|dirais-tu|aujourd’hui|toujours|jamais)\b/i;
 const QS = { es: /^¿/ };
 inp.forEach(([id, fa, fb], i) => {
   const p = byId.get(id);
