@@ -1,0 +1,100 @@
+ville-333|A partir de que preço você hesitaria em reservar uma noite para duas pessoas num hotel no centro da cidade?|A partir de que preço você hesitaria em comprar um passe turístico de dois dias?|
+ville-334|Quanto você estaria disposto a gastar num passe turístico de dois dias?|Quanto você estaria disposto a gastar numa passagem só de ida de ônibus intermunicipal para um trajeto de 50 km?|TER → ônibus intermunicipal
+ville-335|Qual seria o melhor momento para encontrar um amigo na Estação da Luz, em São Paulo?|Qual seria o melhor momento para resolver alguma coisa no centro da cidade?|gare de Lyon à Paris → Estação da Luz em São Paulo
+ville-336|Aonde você iria para comprar um bilhete mensal de transporte público em São Paulo?|Aonde você iria para pegar uma corrida de táxi de cinco quilômetros em São Paulo?|Paris → São Paulo
+ville-337|Em que site ou loja você procuraria uma passagem só de ida de ônibus intermunicipal para um trajeto de 50 km?|Em que site ou loja você procuraria uma passagem avulsa de metrô em São Paulo?|TER → ônibus intermunicipal, Paris → São Paulo
+ville-338|Aonde você iria para comprar um cartão de transporte recarregável?|Aonde você iria para comprar um ingresso de cinema de bairro?|
+ville-339|Que frase sairia da sua boca se a máquina de bilhetes estivesse quebrada?|Que frase sairia da sua boca se você percebesse que pegou o ônibus errado?|
+ville-340|Em que site ou loja você procuraria uma passagem de barca?|Em que site ou loja você procuraria um ingresso para uma exposição local?|bateau-bus → barca
+ville-341|Quem você chamaria para te ajudar a escolher um café para trabalhar?|Quem você chamaria para te ajudar a encontrar um amigo na Estação da Luz, em São Paulo?|gare de Lyon à Paris → Estação da Luz em São Paulo
+ville-342|Onde você procuraria primeiro uma corrida de táxi de cinco quilômetros em São Paulo?|Onde você procuraria primeiro uma passagem de adulto para um ônibus turístico em São Paulo?|Paris → São Paulo
+ville-343|Que pessoa do seu círculo poderia te ajudar a achar um endereço sem GPS?|Que pessoa do seu círculo poderia te ajudar a planejar um trajeto de madrugada?|
+ville-344|Se você tivesse que achar uma vaga de estacionamento pago por duas horas no centro da cidade, qual seria sua prioridade?|Se você tivesse que achar um restaurante perto de uma estação, qual seria sua prioridade?|
+ville-345|Aonde você iria para conseguir uma assinatura de bicicletas compartilhadas?|Aonde você iria para conseguir um cartão de transporte recarregável?|
+ville-346|Em quanto tempo você conseguiria achar um endereço sem GPS?|Em quanto tempo você conseguiria planejar um trajeto de madrugada?|
+ville-347|Qual seria sua primeira reação se a plataforma do seu trem mudasse em cima da hora?|Qual seria sua primeira reação se um desconhecido te pedisse para tirar uma foto?|
+ville-348|Que detalhe você conferiria antes de planejar um trajeto de madrugada?|Que detalhe você conferiria antes de escolher um café para trabalhar?|
+ville-349|Que momento do dia você escolheria para achar um restaurante perto de uma estação?|Que momento do dia você escolheria para organizar um passeio pelo bairro?|
+ville-350|Qual seria seu orçamento máximo para uma refeição num restaurante de bairro?|Qual seria seu orçamento máximo para uma bicicleta urbana usada em bom estado, com menos de cinco anos?|brasserie → restaurante de bairro
+ville-351|Que horário do dia seria mais prático para escolher um museu perto?|Que horário do dia seria mais prático para achar um percurso de caminhada acessível para cadeira de rodas?|
+ville-352|Quanto tempo você reservaria para visitar uma feira de bairro?|Quanto tempo você reservaria para planejar um trajeto de bicicleta na cidade?|
+ville-353|Se você tivesse que planejar uma baldeação, qual seria sua prioridade?|Se você tivesse que procurar uma loja aberta no domingo, qual seria sua prioridade?|
+ville-354|Como você reagiria se a rua que você conhece estivesse interditada?|Como você reagiria se um taxista recusasse uma corrida curta?|
+ville-355|Quanto tempo você levaria para achar um percurso de caminhada acessível para cadeira de rodas?|Quanto tempo você levaria para planejar uma baldeação?|
+ville-356|Aonde você iria para conseguir uma passagem avulsa de metrô em São Paulo?|Aonde você iria para conseguir um bilhete mensal de transporte público em São Paulo?|Paris → São Paulo
+ville-357|A quem você pediria ajuda para conhecer um bairro desconhecido?|A quem você pediria ajuda para planejar um trajeto de transporte público?|
+ville-358|Qual seria seu primeiro reflexo se a rua que você conhece estivesse interditada?|Qual seria seu primeiro reflexo se um taxista recusasse uma corrida curta?|
+ville-359|O que você diria se chegasse a uma loja e ela estivesse fechada?|O que você diria se uma manifestação bloqueasse o seu caminho?|
+ville-360|Que preço você imagina para uma passagem só de ida de ônibus intermunicipal para um trajeto de 50 km?|Que preço você imagina para uma passagem avulsa de metrô em São Paulo?|TER → ônibus intermunicipal, Paris → São Paulo
+ville-361|Aonde você iria para fazer uma refeição num restaurante de bairro?|Aonde você iria para encontrar uma bicicleta urbana usada em bom estado, com menos de cinco anos?|brasserie → restaurante de bairro
+ville-362|Qual seria sua principal dificuldade para planejar um trajeto de transporte público?|Qual seria sua principal dificuldade para achar uma vaga de estacionamento pago por duas horas no centro da cidade?|
+ville-363|Qual seria o melhor momento para planejar uma baldeação?|Qual seria o melhor momento para procurar uma loja aberta no domingo?|
+ville-364|Quanto você acha que vale um ingresso de cinema de bairro?|Quanto você acha que vale uma passagem de barca?|bateau-bus → barca
+ville-365|A partir de que preço você hesitaria em comprar um bilhete mensal de transporte público em São Paulo?|A partir de que preço você hesitaria em pagar uma corrida de táxi de cinco quilômetros em São Paulo?|Paris → São Paulo
+ville-366|Que preço você imagina para uma passagem de adulto num ônibus turístico em São Paulo?|Que preço você imagina para uma entrada de adulto num museu municipal pago?|Paris → São Paulo
+ville-367|Em que situação você decidiria comprar um ingresso de cinema de bairro?|Em que situação você decidiria comprar uma passagem de barca?|bateau-bus → barca
+ville-368|O que você diria na hora se um taxista recusasse uma corrida curta?|O que você diria na hora se chegasse a uma loja e ela estivesse fechada?|
+ville-369|Qual seria sua primeira reação se alguém na rua te indicasse um atalho inesperado?|Qual seria sua primeira reação se o metrô parasse entre duas estações?|
+ville-370|Que pessoa do seu círculo poderia te ajudar a procurar uma loja aberta no domingo?|Que pessoa do seu círculo poderia te ajudar a conhecer um bairro desconhecido?|
+ville-371|Em quanto tempo você conseguiria achar um restaurante perto de uma estação?|Em quanto tempo você conseguiria organizar um passeio pelo bairro?|
+ville-372|Quanto você estaria disposto a gastar numa hora de estacionamento no centro de São Paulo?|Quanto você estaria disposto a gastar num café numa mesa na calçada?|Paris → São Paulo
+ville-373|Na sua opinião, quanto custa uma refeição num restaurante de bairro?|Na sua opinião, quanto custa uma bicicleta urbana usada em bom estado, com menos de cinco anos?|brasserie → restaurante de bairro
+ville-374|Qual seria sua principal dificuldade para comparar dois trajetos de metrô?|Qual seria sua principal dificuldade para comprar uma passagem de trem na máquina da estação?|
+ville-375|O que você diria se um motorista te deixasse passar?|O que você diria se a máquina de bilhetes estivesse quebrada?|
+ville-376|Que preço você imagina para uma passagem de ônibus entre o aeroporto e o centro da cidade?|Que preço você imagina para uma assinatura de bicicletas compartilhadas?|
+ville-377|Na sua opinião, quanto tempo leva para achar uma vaga de estacionamento pago por duas horas no centro da cidade?|Na sua opinião, quanto tempo leva para achar um restaurante perto de uma estação?|
+ville-378|Quanto tempo você reservaria para escolher um museu perto?|Quanto tempo você reservaria para achar um percurso de caminhada acessível para cadeira de rodas?|
+ville-379|Que frase sairia da sua boca se um turista te pedisse informação?|Que frase sairia da sua boca se o motorista passasse do seu ponto?|
+ville-380|Qual seria sua primeira reação se um taxista recusasse uma corrida curta?|Qual seria sua primeira reação se chegasse a uma loja e ela estivesse fechada?|
+ville-381|O que te faria reservar uma refeição num restaurante de bairro?|O que te faria comprar uma bicicleta urbana usada em bom estado, com menos de cinco anos?|brasserie → restaurante de bairro
+ville-382|Que frase sairia da sua boca se um ciclista tocasse a campainha atrás de você?|Que frase sairia da sua boca se um pedestre te perguntasse as horas?|
+ville-383|Na sua opinião, qual é o preço de uma noite para duas pessoas num hotel no centro da cidade?|Na sua opinião, qual é o preço de um passe turístico de dois dias?|
+ville-384|Que preço você imagina para uma passagem de barca?|Que preço você imagina para um ingresso de uma exposição local?|bateau-bus → barca
+ville-385|O que você faria primeiro se chegasse a uma loja e ela estivesse fechada?|O que você faria primeiro se uma manifestação bloqueasse o seu caminho?|
+ville-386|Como você reagiria se percebesse que pegou o ônibus errado?|Como você reagiria se alguém na rua te indicasse um atalho inesperado?|
+ville-387|Qual seria seu primeiro reflexo se o motorista passasse do seu ponto?|Qual seria seu primeiro reflexo se você saísse pela saída errada do metrô?|
+ville-388|Quem poderia te dar o melhor conselho para achar um café tranquilo com mesas na calçada a menos de dez minutos a pé?|Quem poderia te dar o melhor conselho para organizar um dia de passeios em Roma sem carro?|
+ville-389|Na sua opinião, quanto tempo leva para comprar uma passagem de trem na máquina da estação?|Na sua opinião, quanto tempo leva para achar um endereço sem GPS?|
+ville-390|O que você diria se o metrô parasse entre duas estações?|O que você diria se um turista te pedisse informação?|
+ville-391|Aonde você iria para comprar uma bicicleta urbana usada em bom estado, com menos de cinco anos?|Aonde você iria para reservar uma visita guiada pelo bairro?|
+ville-392|Em quanto tempo você conseguiria resolver alguma coisa no centro da cidade?|Em quanto tempo você conseguiria visitar uma feira de bairro?|
+ville-393|Quanto tempo você reservaria para conhecer um bairro desconhecido?|Quanto tempo você reservaria para planejar um trajeto de transporte público?|
+ville-394|Qual seria sua principal dificuldade para planejar um trajeto de bicicleta na cidade?|Qual seria sua principal dificuldade para achar um café tranquilo com mesas na calçada a menos de dez minutos a pé?|
+ville-395|Que momento do dia você escolheria para resolver alguma coisa no centro da cidade?|Que momento do dia você escolheria para visitar uma feira de bairro?|
+ville-396|Que momento do dia você escolheria para organizar um dia de passeios em Roma sem carro?|Que momento do dia você escolheria para escolher um museu perto?|
+ville-397|Qual seria o melhor momento para comprar uma passagem de trem na máquina da estação?|Qual seria o melhor momento para achar um endereço sem GPS?|
+ville-398|Aonde você iria para reservar uma noite para duas pessoas num hotel no centro da cidade?|Aonde você iria para comprar um passe turístico de dois dias?|
+ville-399|Em que ocasião você ia querer comprar um cartão de transporte recarregável?|Em que ocasião você ia querer comprar um ingresso de cinema de bairro?|
+ville-400|Quem você chamaria para te ajudar a achar um percurso de caminhada acessível para cadeira de rodas?|Quem você chamaria para te ajudar a planejar uma baldeação?|
+ville-401|Quem você chamaria para te ajudar a comparar dois trajetos de metrô?|Quem você chamaria para te ajudar a comprar uma passagem de trem na máquina da estação?|
+ville-402|Que momento do dia você escolheria para procurar uma loja aberta no domingo?|Que momento do dia você escolheria para conhecer um bairro desconhecido?|
+ville-403|Qual seria o ponto mais importante para organizar um dia de passeios em Roma sem carro?|Qual seria o ponto mais importante para escolher um museu perto?|
+ville-404|Que detalhe você conferiria antes de escolher um museu perto?|Que detalhe você conferiria antes de achar um percurso de caminhada acessível para cadeira de rodas?|
+ville-405|Quanto você estaria disposto a gastar numa visita guiada pelo bairro?|Quanto você estaria disposto a gastar numa passagem de ônibus entre o aeroporto e o centro da cidade?|
+ville-406|Qual seria o ponto mais importante para procurar uma loja aberta no domingo?|Qual seria o ponto mais importante para conhecer um bairro desconhecido?|
+ville-407|O que te faria comprar um ingresso para uma exposição local?|O que te faria reservar uma noite para duas pessoas num hotel no centro da cidade?|
+ville-408|Quanto você estaria disposto a gastar numa corrida de táxi de cinco quilômetros em São Paulo?|Quanto você estaria disposto a gastar numa passagem de adulto para um ônibus turístico em São Paulo?|Paris → São Paulo
+ville-409|A quem você pediria ajuda para escolher um museu perto?|A quem você pediria ajuda para achar um percurso de caminhada acessível para cadeira de rodas?|
+ville-410|Quanto você acha que vale um passe turístico de dois dias?|Quanto você acha que vale uma passagem só de ida de ônibus intermunicipal para um trajeto de 50 km?|TER → ônibus intermunicipal
+ville-411|Que horário do dia seria mais prático para conhecer um bairro desconhecido?|Que horário do dia seria mais prático para planejar um trajeto de transporte público?|
+ville-412|Na sua opinião, qual é o preço de um bilhete mensal de transporte público em São Paulo?|Na sua opinião, qual é o preço de uma corrida de táxi de cinco quilômetros em São Paulo?|Paris → São Paulo
+ville-413|Que frase sairia da sua boca se uma manifestação bloqueasse o seu caminho?|Que frase sairia da sua boca se o painel do ponto parasse de mostrar os horários?|
+ville-414|Que horário do dia seria mais prático para organizar um passeio pelo bairro?|Que horário do dia seria mais prático para comparar dois trajetos de metrô?|
+ville-415|Quanto você acha que vale uma visita guiada pelo bairro?|Quanto você acha que vale uma passagem de ônibus entre o aeroporto e o centro da cidade?|
+ville-416|Quanto você estaria disposto a gastar num ingresso de cinema de bairro?|Quanto você estaria disposto a gastar numa passagem de barca?|bateau-bus → barca
+ville-417|Em que momento da semana você preferiria comparar dois trajetos de metrô?|Em que momento da semana você preferiria comprar uma passagem de trem na máquina da estação?|
+ville-418|A quem você pediria ajuda para organizar um passeio pelo bairro?|A quem você pediria ajuda para comparar dois trajetos de metrô?|
+ville-419|Qual seria sua primeira reação se você saísse pela saída errada do metrô?|Qual seria sua primeira reação se um ônibus passasse direto sem parar para você?|
+ville-420|Se você tivesse que achar um café tranquilo com mesas na calçada a menos de dez minutos a pé, qual seria sua prioridade?|Se você tivesse que organizar um dia de passeios em Roma sem carro, qual seria sua prioridade?|
+ville-421|O que você diria na hora se alguém na rua te indicasse um atalho inesperado?|O que você diria na hora se o metrô parasse entre duas estações?|
+ville-422|Quanto tempo você reservaria para organizar um passeio pelo bairro?|Quanto tempo você reservaria para comparar dois trajetos de metrô?|
+ville-423|Em que momento da semana você preferiria achar um percurso de caminhada acessível para cadeira de rodas?|Em que momento da semana você preferiria planejar uma baldeação?|
+ville-424|Como você reagiria se uma manifestação bloqueasse o seu caminho?|Como você reagiria se o painel do ponto parasse de mostrar os horários?|
+ville-425|A partir de que preço você hesitaria em comprar uma passagem avulsa de VLT no Rio?|A partir de que preço você hesitaria em pagar uma hora de estacionamento no centro de São Paulo?|tramway en France → VLT du Rio, Paris → São Paulo
+ville-426|Que horário do dia seria mais prático para planejar um trajeto de madrugada?|Que horário do dia seria mais prático para escolher um café para trabalhar?|
+ville-427|Se você tivesse que encontrar um amigo na Estação da Luz, em São Paulo, qual seria sua prioridade?|Se você tivesse que resolver alguma coisa no centro da cidade, qual seria sua prioridade?|gare de Lyon à Paris → Estação da Luz en São Paulo
+ville-428|Em que momento você teria vontade de comprar uma passagem de barca?|Em que momento você teria vontade de comprar um ingresso para uma exposição local?|bateau-bus → barca
+ville-429|Na sua opinião, quanto tempo leva para encontrar um amigo na Estação da Luz, em São Paulo?|Na sua opinião, quanto tempo leva para resolver alguma coisa no centro da cidade?|gare de Lyon à Paris → Estação da Luz em São Paulo
+ville-430|A partir de que preço você hesitaria em comprar um cartão de transporte recarregável?|A partir de que preço você hesitaria em comprar um ingresso de cinema de bairro?|
+ville-431|Em que site ou loja você procuraria uma passagem de adulto para um ônibus turístico em São Paulo?|Em que site ou loja você procuraria uma entrada de adulto num museu municipal pago?|Paris → São Paulo
+ville-432|O que você faria primeiro se o metrô parasse entre duas estações?|O que você faria primeiro se um turista te pedisse informação?|

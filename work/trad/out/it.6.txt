@@ -98,3 +98,103 @@ ville-429|Secondo te, quanto tempo ci vuole per ritrovare un amico alla stazione
 ville-430|Oltre quale prezzo esiteresti a comprare una tessera dei trasporti ricaricabile?|Oltre quale prezzo esiteresti a comprare un biglietto per il cinema di quartiere?|
 ville-431|Su quale sito o in quale negozio cercheresti un biglietto adulto per un bus turistico a Milano?|Su quale sito o in quale negozio cercheresti un ingresso adulto in un museo civico a pagamento?|Paris → Milano
 ville-432|Cosa faresti per prima cosa se la metro si fermasse tra due stazioni?|Cosa faresti per prima cosa se un turista ti chiedesse indicazioni?|
+ville-433|In quale situazione decideresti di prenotare una visita guidata del quartiere?|In quale situazione decideresti di comprare un biglietto della navetta tra un aeroporto e il centro?|
+ville-434|Chi potrebbe darti il consiglio migliore per ritrovare un amico alla stazione Centrale di Milano?|Chi potrebbe darti il consiglio migliore per fare una commissione in centro?|gare de Lyon à Paris → Milano Centrale
+ville-435|In quale momento ti verrebbe voglia di comprare un biglietto adulto per un bus turistico a Milano?|In quale momento ti verrebbe voglia di comprare un ingresso adulto in un museo civico a pagamento?|Paris → Milano
+ville-436|In quale occasione vorresti prenotare una notte per due persone in un hotel in centro?|In quale occasione vorresti comprare un pass turistico di due giorni?|
+ville-437|Come reagiresti se trovassi un portafoglio sul marciapiede?|Come reagiresti se la strada che conosci fosse chiusa?|
+ville-438|Dove cercheresti per prima cosa un pass turistico di due giorni?|Dove cercheresti per prima cosa un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|TER → treno regionale
+ville-439|Dove cercheresti per prima cosa un biglietto per il cinema di quartiere?|Dove cercheresti per prima cosa un biglietto per il vaporetto?|bateau-bus → vaporetto
+ville-440|Secondo te, quanto costa un ingresso adulto in un museo civico a pagamento?|Secondo te, quanto costa un biglietto singolo del tram in Italia?|France → Italia
+ville-441|Secondo te, quanto costa un biglietto singolo della metro a Milano?|Secondo te, quanto costa un abbonamento mensile ai mezzi pubblici a Milano?|Paris → Milano
+ville-442|In quale momento della settimana preferiresti scegliere un bar in cui lavorare?|In quale momento della settimana preferiresti ritrovare un amico alla stazione Centrale di Milano?|gare de Lyon à Paris → Milano Centrale
+ville-443|Se dovessi comprare un biglietto del treno regionale alla macchinetta in stazione, quale sarebbe la tua priorità?|Se dovessi trovare un indirizzo senza navigatore, quale sarebbe la tua priorità?|
+ville-444|Quale fascia oraria della giornata sarebbe la più comoda per visitare un mercato di quartiere?|Quale fascia oraria della giornata sarebbe la più comoda per organizzare un tragitto in bici in città?|
+ville-445|Che budget massimo metteresti per un ingresso a una mostra locale?|Che budget massimo metteresti per una notte per due persone in un hotel in centro?|
+ville-446|Fino a quanto pagheresti per un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|Fino a quanto pagheresti per un biglietto singolo della metro a Milano?|TER → treno regionale, Paris → Milano
+ville-447|Chi contatteresti per farti aiutare a organizzare un tragitto con i mezzi pubblici?|Chi contatteresti per farti aiutare a trovare un parcheggio a pagamento per due ore in centro?|
+ville-448|Quanto tempo ti servirebbe per scegliere un bar in cui lavorare?|Quanto tempo ti servirebbe per ritrovare un amico alla stazione Centrale di Milano?|gare de Lyon à Paris → Milano Centrale
+ville-449|Cosa faresti per prima cosa se un autobus ti passasse davanti senza fermarsi?|Cosa faresti per prima cosa se un ciclista ti suonasse il campanello alle spalle?|
+ville-450|Cosa faresti per prima cosa se un automobilista ti lasciasse passare?|Cosa faresti per prima cosa se la macchinetta dei biglietti fosse fuori servizio?|
+ville-451|Quanto pensi che valga un’ora di sosta in un parcheggio del centro di Milano?|Quanto pensi che valga un caffè seduto al tavolino all’aperto?|Paris → Milano
+ville-452|In quanto tempo riusciresti a cercare un negozio aperto la domenica?|In quanto tempo riusciresti a scoprire un quartiere sconosciuto?|
+ville-453|Fino a quanto pagheresti per un biglietto per il vaporetto?|Fino a quanto pagheresti per un ingresso a una mostra locale?|bateau-bus → vaporetto
+ville-454|In quale occasione vorresti comprare una bici da città usata in buono stato, con meno di cinque anni?|In quale occasione vorresti prenotare una visita guidata del quartiere?|
+ville-455|A chi chiederesti aiuto per visitare un mercato di quartiere?|A chi chiederesti aiuto per organizzare un tragitto in bici in città?|
+ville-456|Chi potrebbe darti il consiglio migliore per comprare un biglietto del treno regionale alla macchinetta in stazione?|Chi potrebbe darti il consiglio migliore per trovare un indirizzo senza navigatore?|
+ville-457|Secondo te, quanto tempo ci vuole per organizzare un cambio di linea?|Secondo te, quanto tempo ci vuole per cercare un negozio aperto la domenica?|
+ville-458|Quale sarebbe il tuo primo riflesso se ti ritrovassi sull’autobus sbagliato?|Quale sarebbe il tuo primo riflesso se un passante ti indicasse una scorciatoia inaspettata?|
+ville-459|Quale persona della tua cerchia potrebbe aiutarti a fare una commissione in centro?|Quale persona della tua cerchia potrebbe aiutarti a visitare un mercato di quartiere?|
+ville-460|Quale sarebbe il momento migliore per trovare un parcheggio a pagamento per due ore in centro?|Quale sarebbe il momento migliore per individuare un ristorante vicino a una stazione?|
+ville-461|Quale dettaglio controlleresti prima di visitare un mercato di quartiere?|Quale dettaglio controlleresti prima di organizzare un tragitto in bici in città?|
+ville-462|Quale dettaglio controlleresti prima di organizzare una visita del quartiere?|Quale dettaglio controlleresti prima di confrontare due percorsi in metro?|
+ville-463|Su quale sito o in quale negozio cercheresti un biglietto della navetta tra un aeroporto e il centro?|Su quale sito o in quale negozio cercheresti un abbonamento al bike sharing?|
+ville-464|Quanto pensi che valga una corsa in taxi di cinque chilometri a Milano?|Quanto pensi che valga un biglietto adulto per un bus turistico a Milano?|Paris → Milano
+ville-465|Fino a quanto pagheresti per un biglietto adulto per un bus turistico a Milano?|Fino a quanto pagheresti per un ingresso adulto in un museo civico a pagamento?|Paris → Milano
+ville-466|Secondo te, qual è il prezzo di una bici da città usata in buono stato, con meno di cinque anni?|Secondo te, qual è il prezzo di una visita guidata del quartiere?|
+ville-467|Quale dettaglio controlleresti prima di scoprire un quartiere sconosciuto?|Quale dettaglio controlleresti prima di organizzare un tragitto con i mezzi pubblici?|
+ville-468|Secondo te, quanto costa un abbonamento al bike sharing?|Secondo te, quanto costa una tessera dei trasporti ricaricabile?|
+ville-469|Fino a quanto pagheresti per un caffè seduto al tavolino all’aperto?|Fino a quanto pagheresti per un pasto in una trattoria di quartiere?|brasserie → trattoria
+ville-470|In quale posto andresti per trovare un ingresso adulto in un museo civico a pagamento?|In quale posto andresti per trovare un biglietto singolo del tram in Italia?|France → Italia
+ville-471|In quale momento della settimana preferiresti organizzare un tragitto con i mezzi pubblici?|In quale momento della settimana preferiresti trovare un parcheggio a pagamento per due ore in centro?|
+ville-472|In quale situazione decideresti di pagare un’ora di sosta in un parcheggio del centro di Milano?|In quale situazione decideresti di prendere un caffè seduto al tavolino all’aperto?|Paris → Milano
+ville-473|A chi chiederesti aiuto per organizzare un tragitto notturno?|A chi chiederesti aiuto per scegliere un bar in cui lavorare?|
+ville-474|Dove cercheresti per prima cosa un’ora di sosta in un parcheggio del centro di Milano?|Dove cercheresti per prima cosa un caffè seduto al tavolino all’aperto?|Paris → Milano
+ville-475|In quanto tempo riusciresti a organizzare una giornata di visite a Roma senza auto?|In quanto tempo riusciresti a scegliere un museo vicino?|
+ville-476|Quanto tempo ti servirebbe per organizzare un tragitto in bici in città?|Quanto tempo ti servirebbe per trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi?|
+ville-477|Secondo te, qual è il prezzo di una tessera dei trasporti ricaricabile?|Secondo te, qual è il prezzo di un biglietto per il cinema di quartiere?|
+ville-478|Secondo te, qual è il prezzo di un biglietto singolo del tram in Italia?|Secondo te, qual è il prezzo di un’ora di sosta in un parcheggio del centro di Milano?|France → Italia, Paris → Milano
+ville-479|Quanto tempo ti servirebbe per confrontare due percorsi in metro?|Quanto tempo ti servirebbe per comprare un biglietto del treno regionale alla macchinetta in stazione?|
+ville-480|Chi potrebbe darti il consiglio migliore per trovare un parcheggio a pagamento per due ore in centro?|Chi potrebbe darti il consiglio migliore per individuare un ristorante vicino a una stazione?|
+ville-481|Cosa ti spingerebbe a comprare un ingresso adulto in un museo civico a pagamento?|Cosa ti spingerebbe a comprare un biglietto singolo del tram in Italia?|France → Italia
+ville-482|Secondo te, quanto costa un ingresso a una mostra locale?|Secondo te, quanto costa una notte per due persone in un hotel in centro?|
+ville-483|In quale momento ti verrebbe voglia di prendere un caffè seduto al tavolino all’aperto?|In quale momento ti verrebbe voglia di prenotare un pasto in una trattoria di quartiere?|brasserie → trattoria
+ville-484|Chi contatteresti per farti aiutare a organizzare un tragitto in bici in città?|Chi contatteresti per farti aiutare a trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi?|
+ville-485|Cosa ti spingerebbe a comprare un biglietto singolo della metro a Milano?|Cosa ti spingerebbe a comprare un abbonamento mensile ai mezzi pubblici a Milano?|Paris → Milano
+ville-486|Quale sarebbe la tua prima reazione se un amico ti desse il posto sbagliato per l’appuntamento?|Quale sarebbe la tua prima reazione se un automobilista ti lasciasse passare?|
+ville-487|In quale posto andresti per trovare un ingresso a una mostra locale?|In quale posto andresti per trovare una notte per due persone in un hotel in centro?|
+ville-488|Che prezzo immagini per un caffè seduto al tavolino all’aperto?|Che prezzo immagini per un pasto in una trattoria di quartiere?|brasserie → trattoria
+ville-489|In quale momento della settimana preferiresti organizzare un tragitto in bici in città?|In quale momento della settimana preferiresti trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi?|
+ville-490|Oltre quale prezzo esiteresti a comprare una bici da città usata in buono stato, con meno di cinque anni?|Oltre quale prezzo esiteresti a prenotare una visita guidata del quartiere?|
+ville-491|Quale persona della tua cerchia potrebbe aiutarti a organizzare una giornata di visite a Roma senza auto?|Quale persona della tua cerchia potrebbe aiutarti a scegliere un museo vicino?|
+ville-492|In quale situazione decideresti di comprare un pass turistico di due giorni?|In quale situazione decideresti di comprare un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|TER → treno regionale
+ville-493|In quale momento ti verrebbe voglia di comprare un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|In quale momento ti verrebbe voglia di comprare un biglietto singolo della metro a Milano?|TER → treno regionale, Paris → Milano
+ville-494|Cosa diresti sul momento se sbagliassi uscita della metro?|Cosa diresti sul momento se un autobus ti passasse davanti senza fermarsi?|
+ville-495|Che budget massimo metteresti per un abbonamento al bike sharing?|Che budget massimo metteresti per una tessera dei trasporti ricaricabile?|
+ville-496|Quale sarebbe la tua difficoltà principale se dovessi scegliere un bar in cui lavorare?|Quale sarebbe la tua difficoltà principale se dovessi ritrovare un amico alla stazione Centrale di Milano?|gare de Lyon à Paris → Milano Centrale
+ville-497|Che budget massimo metteresti per un biglietto singolo della metro a Milano?|Che budget massimo metteresti per un abbonamento mensile ai mezzi pubblici a Milano?|Paris → Milano
+ville-498|Come reagiresti se la macchinetta dei biglietti fosse fuori servizio?|Come reagiresti se ti ritrovassi sull’autobus sbagliato?|
+ville-499|Cosa ti spingerebbe a comprare un abbonamento al bike sharing?|Cosa ti spingerebbe a comprare una tessera dei trasporti ricaricabile?|
+ville-500|Come reagiresti se un turista ti chiedesse indicazioni?|Come reagiresti se un autista saltasse la tua fermata?|
+ville-501|Quale sarebbe l’aspetto più importante per individuare un ristorante vicino a una stazione?|Quale sarebbe l’aspetto più importante per organizzare una visita del quartiere?|
+ville-502|Quale sarebbe la tua difficoltà principale se dovessi trovare un percorso a piedi accessibile in sedia a rotelle?|Quale sarebbe la tua difficoltà principale se dovessi organizzare un cambio di linea?|
+ville-503|Come reagiresti se un ciclista ti suonasse il campanello alle spalle?|Come reagiresti se un passante ti chiedesse l’ora?|
+ville-504|Quanto tempo metteresti in conto per organizzare un tragitto notturno?|Quanto tempo metteresti in conto per scegliere un bar in cui lavorare?|
+ville-505|In quale momento ti verrebbe voglia di comprare un biglietto della navetta tra un aeroporto e il centro?|In quale momento ti verrebbe voglia di comprare un abbonamento al bike sharing?|
+ville-506|In quale occasione vorresti comprare un abbonamento mensile ai mezzi pubblici a Milano?|In quale occasione vorresti prendere una corsa in taxi di cinque chilometri a Milano?|Paris → Milano
+ville-507|Chi potrebbe darti il consiglio migliore per organizzare un cambio di linea?|Chi potrebbe darti il consiglio migliore per cercare un negozio aperto la domenica?|
+ville-508|Fino a quanto pagheresti per un biglietto della navetta tra un aeroporto e il centro?|Fino a quanto pagheresti per un abbonamento al bike sharing?|
+ville-509|Cosa diresti sul momento se il tuo treno cambiasse binario all’ultimo momento?|Cosa diresti sul momento se uno sconosciuto ti chiedesse di fargli una foto?|
+ville-510|Cosa diresti sul momento se un amico ti desse il posto sbagliato per l’appuntamento?|Cosa diresti sul momento se un automobilista ti lasciasse passare?|
+ville-511|Quanto tempo ti servirebbe per organizzare un tragitto con i mezzi pubblici?|Quanto tempo ti servirebbe per trovare un parcheggio a pagamento per due ore in centro?|
+ville-512|Dove andresti a comprare un biglietto singolo del tram in Italia?|Dove andresti a pagare un’ora di sosta in un parcheggio del centro di Milano?|France → Italia, Paris → Milano
+ville-513|Secondo te, quanto tempo ci vuole per trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi?|Secondo te, quanto tempo ci vuole per organizzare una giornata di visite a Roma senza auto?|
+ville-514|In quale situazione decideresti di prendere una corsa in taxi di cinque chilometri a Milano?|In quale situazione decideresti di comprare un biglietto adulto per un bus turistico a Milano?|Paris → Milano
+ville-515|Come risponderesti se un autista saltasse la tua fermata?|Come risponderesti se sbagliassi uscita della metro?|
+ville-516|In quale occasione vorresti comprare un biglietto singolo del tram in Italia?|In quale occasione vorresti pagare un’ora di sosta in un parcheggio del centro di Milano?|France → Italia, Paris → Milano
+ville-517|Quale sarebbe il momento migliore per trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi?|Quale sarebbe il momento migliore per organizzare una giornata di visite a Roma senza auto?|
+ville-518|Dove cercheresti per prima cosa una visita guidata del quartiere?|Dove cercheresti per prima cosa un biglietto della navetta tra un aeroporto e il centro?|
+ville-519|Quale sarebbe il tuo primo riflesso se il display alla fermata non mostrasse più gli orari?|Quale sarebbe il tuo primo riflesso se un amico ti desse il posto sbagliato per l’appuntamento?|
+ville-520|Cosa diresti se uno sconosciuto ti chiedesse di fargli una foto?|Cosa diresti se trovassi un portafoglio sul marciapiede?|
+ville-521|Quale sarebbe l’aspetto più importante per fare una commissione in centro?|Quale sarebbe l’aspetto più importante per visitare un mercato di quartiere?|
+ville-522|Come risponderesti se il display alla fermata non mostrasse più gli orari?|Come risponderesti se un amico ti desse il posto sbagliato per l’appuntamento?|
+ville-523|Quale sarebbe l’aspetto più importante per trovare un indirizzo senza navigatore?|Quale sarebbe l’aspetto più importante per organizzare un tragitto notturno?|
+ville-524|Quale momento della giornata sceglieresti per trovare un indirizzo senza navigatore?|Quale momento della giornata sceglieresti per organizzare un tragitto notturno?|
+ville-525|Quale sarebbe il tuo primo riflesso se un passante ti chiedesse l’ora?|Quale sarebbe il tuo primo riflesso se il tuo treno cambiasse binario all’ultimo momento?|
+ville-526|Su quale sito o in quale negozio cercheresti un caffè seduto al tavolino all’aperto?|Su quale sito o in quale negozio cercheresti un pasto in una trattoria di quartiere?|brasserie → trattoria
+ville-527|Cosa faresti per prima cosa se uno sconosciuto ti chiedesse di fargli una foto?|Cosa faresti per prima cosa se trovassi un portafoglio sul marciapiede?|
+ville-528|Quale persona della tua cerchia potrebbe aiutarti a individuare un ristorante vicino a una stazione?|Quale persona della tua cerchia potrebbe aiutarti a organizzare una visita del quartiere?|
+ville-529|Che budget massimo metteresti per un ingresso adulto in un museo civico a pagamento?|Che budget massimo metteresti per un biglietto singolo del tram in Italia?|France → Italia
+ville-530|Quale frase ti uscirebbe di bocca se trovassi un portafoglio sul marciapiede?|Quale frase ti uscirebbe di bocca se la strada che conosci fosse chiusa?|
+ville-531|Cosa diresti se un autobus ti passasse davanti senza fermarsi?|Cosa diresti se un ciclista ti suonasse il campanello alle spalle?|
+ville-532|Come risponderesti se un passante ti chiedesse l’ora?|Come risponderesti se il tuo treno cambiasse binario all’ultimo momento?|

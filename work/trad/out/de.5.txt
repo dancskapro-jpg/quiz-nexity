@@ -197,3 +197,103 @@ famille-581|Wie oft kommt es vor, dass du ein Gemeinschaftsgeschenk aussuchst?|W
 famille-582|Wie schnell könntest du die Sitzordnung am Tisch festlegen?|Wie schnell könntest du einen Geburtstagskuchen backen?|
 famille-583|Ab welchem Preis würdest du zögern, einen Familienausflug ins Museum für vier Personen zu buchen?|Ab welchem Preis würdest du zögern, ein Puzzle mit tausend Teilen zu kaufen?|
 famille-584|Wie oft im Monat hast du Gelegenheit, ein Familienpicknick zu organisieren?|Wie oft im Monat hast du Gelegenheit, die Aufgaben für eine Feier zu verteilen?|
+famille-585|Wie oft kommt es vor, dass du eine Überraschung für jemanden aus deinem Umfeld vorbereitest?|Wie oft kommt es vor, dass du alte Fotos wiederfindest?|
+nature-333|Wo würdest du hingehen, um ein Fernglas zur Tierbeobachtung zu finden?|Wo würdest du hingehen, um einen illustrierten Vogelführer zu finden?|
+nature-334|Was würdest du sagen, wenn du bei einem Spaziergang einen Fuchs entdeckst?|Was würdest du sagen, wenn ein Vogel durch dein Fenster reinfliegt?|
+nature-335|Was glaubst du, wie viel eine Trinkflasche zum Wandern kostet?|Was glaubst du, wie viel ein guter Wanderrucksack kostet?|
+nature-336|Zu welchem Anlass würdest du einen illustrierten Vogelführer kaufen?|Zu welchem Anlass würdest du eine Trinkflasche zum Wandern kaufen?|
+nature-337|Wie würdest du reagieren, wenn ein Freund ein Wildtier füttern will?|Wie würdest du reagieren, wenn eine Windböe deine Kappe wegweht?|
+nature-338|Wo würdest du hingehen, um ein Paar Wanderstiefel zu kaufen?|Wo würdest du hingehen, um eine Stirnlampe zum Wandern zu kaufen?|
+nature-339|Wie oft im Monat hast du Gelegenheit, einen ruhigen Ort mitten in der Natur zu entdecken?|Wie oft im Monat hast du Gelegenheit, eine Radtour aufs Land zu planen?|
+nature-340|Was wäre dein erster Reflex, wenn du ein verletztes Tier neben einem Weg siehst?|Was wäre dein erster Reflex, wenn ein Freund ein Foto ganz nah an einem Nest machen will?|
+nature-341|Wie würdest du reagieren, wenn eine Wespe um dein Picknick herumschwirrt?|Wie würdest du reagieren, wenn du im Wald ein seltsames Geräusch hörst?|
+nature-342|Was wäre der beste Zeitpunkt, um einen Spaziergang mit einem Hund zu planen?|Was wäre der beste Zeitpunkt, um in einer klaren Nacht die Sterne zu beobachten?|
+nature-343|Wer aus deinem Umfeld könnte dir helfen, in einer klaren Nacht die Sterne zu beobachten?|Wer aus deinem Umfeld könnte dir helfen, im Herbst Laub zu sammeln?|
+nature-344|Was würde dich dazu bringen, eine Kompaktkamera für Landschaftsfotos zu kaufen?|Was würde dich dazu bringen, eine Picknickdecke zu kaufen?|
+nature-345|Was würdest du spontan sagen, wenn ein fremder Hund im Park auf dich zukommt?|Was würdest du spontan sagen, wenn du einen Igel in deinem Garten findest?|
+nature-346|Was kostet deiner Meinung nach eine Picknickdecke?|Was kostet deiner Meinung nach der Eintritt für einen Erwachsenen in ein kostenpflichtiges Naturschutzgebiet?|
+nature-347|In welcher Situation würdest du dich entscheiden, eine Stirnlampe zum Wandern zu kaufen?|In welcher Situation würdest du dich entscheiden, einen gefüllten Picknickkorb für vier Personen zu kaufen?|
+nature-348|Zu welchem Anlass würdest du eine Thermoskanne für die Berge kaufen?|Zu welchem Anlass würdest du einen Wanderhut kaufen?|
+nature-349|Welcher Satz würde dir rausrutschen, wenn ein Freund ein Wildtier füttern will?|Welcher Satz würde dir rausrutschen, wenn eine Windböe deine Kappe wegweht?|
+nature-350|Zu welchem Zeitpunkt in der Woche würdest du am liebsten eine kleine Pflanze bei dir aufstellen?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten einen Spaziergang mit einem Hund planen?|
+nature-351|Wie viel würdest du höchstens für einen Nistkasten einplanen?|Wie viel würdest du höchstens für eine Thermoskanne für die Berge einplanen?|
+nature-352|Wie viel würdest du höchstens für eine Kompaktkamera für Landschaftsfotos einplanen?|Wie viel würdest du höchstens für eine Picknickdecke einplanen?|
+nature-353|Wie würdest du reagieren, wenn ein Freund geschützte Blumen pflückt?|Wie würdest du reagieren, wenn du einen vollständigen Regenbogen siehst?|
+nature-354|Was meinst du, wie viel kostet eine Kompaktkamera für Landschaftsfotos?|Was meinst du, wie viel kostet eine Picknickdecke?|
+nature-355|Was würdest du spontan sagen, wenn ein Freund ein Foto ganz nah an einem Nest machen will?|Was würdest du spontan sagen, wenn du bei einem Spaziergang einen Fuchs entdeckst?|
+nature-356|Was meinst du, wie viel kostet eine wasserdichte Windjacke?|Was meinst du, wie viel kostet der Eintritt für einen Erwachsenen in einen botanischen Garten?|
+nature-357|Wie schnell könntest du Tiere beobachten, ohne sie zu stören?|Wie schnell könntest du einen Strandspaziergang machen?|
+nature-358|Wie würdest du antworten, wenn du ein verletztes Tier neben einem Weg siehst?|Wie würdest du antworten, wenn ein Freund ein Foto ganz nah an einem Nest machen will?|
+nature-359|Ab welchem Preis würdest du zögern, einen illustrierten Vogelführer zu kaufen?|Ab welchem Preis würdest du zögern, eine Trinkflasche zum Wandern zu kaufen?|
+nature-360|Was wäre der beste Zeitpunkt, um einen Tag auf dem Land zu organisieren?|Was wäre der beste Zeitpunkt, um Tiere zu beobachten, ohne sie zu stören?|
+nature-361|Welcher Satz würde dir rausrutschen, wenn eine Wespe um dein Picknick herumschwirrt?|Welcher Satz würde dir rausrutschen, wenn du im Wald ein seltsames Geräusch hörst?|
+nature-362|Wo würdest du hingehen, um ein Erwachsenenticket für einen botanischen Garten zu kaufen?|Wo würdest du hingehen, um ein Pflanzset für Küchenkräuter zu kaufen?|
+nature-363|Wie oft im Monat hast du Gelegenheit, ein Wochenende in den Bergen zu planen?|Wie oft im Monat hast du Gelegenheit, einen Tag auf dem Land zu organisieren?|
+nature-364|Was wäre dein erster Reflex, wenn du einen vollständigen Regenbogen siehst?|Was wäre dein erster Reflex, wenn ein als leicht angekündigter Weg plötzlich sehr steil wird?|
+nature-365|Was wäre deine erste Reaktion, wenn du einen riesigen Baum entdeckst?|Was wäre deine erste Reaktion, wenn der Himmel nach langem Regen aufklart?|
+nature-366|Was kostet deiner Meinung nach ein illustrierter Vogelführer?|Was kostet deiner Meinung nach eine Trinkflasche zum Wandern?|
+nature-367|Welchen Preis stellst du dir für einen gefüllten Picknickkorb für vier Personen vor?|Welchen Preis stellst du dir für einen Nistkasten vor?|
+nature-368|Welcher Satz würde dir rausrutschen, wenn ein Freund geschützte Blumen pflückt?|Welcher Satz würde dir rausrutschen, wenn du einen vollständigen Regenbogen siehst?|
+nature-369|Wo würdest du als Erstes nach einer Stirnlampe zum Wandern suchen?|Wo würdest du als Erstes nach einem gefüllten Picknickkorb für vier Personen suchen?|
+nature-370|Wer aus deinem Umfeld könnte dir helfen, einen Ausflug an einen See zu planen?|Wer aus deinem Umfeld könnte dir helfen, einen Sonnenuntergang zu fotografieren?|
+nature-371|Was würdest du als Erstes tun, wenn du eine verirrte Katze auf der Straße findest?|Was würdest du als Erstes tun, wenn ein Freund ein Wildtier füttern will?|
+nature-372|Was wäre der beste Zeitpunkt, um einen Vogel in einem Park zu entdecken?|Was wäre der beste Zeitpunkt, um einen Waldspaziergang zu machen?|
+nature-373|Wo würdest du als Erstes nach einer Trinkflasche zum Wandern suchen?|Wo würdest du als Erstes nach einem guten Wanderrucksack suchen?|
+nature-374|In welcher Situation würdest du dich entscheiden, eine Trinkflasche zum Wandern zu kaufen?|In welcher Situation würdest du dich entscheiden, einen guten Wanderrucksack zu kaufen?|
+nature-375|Wen würdest du fragen, damit er dir hilft, einen ruhigen Ort mitten in der Natur zu finden?|Wen würdest du fragen, damit er dir hilft, eine Radtour aufs Land zu planen?|
+nature-376|Was würdest du spontan sagen, wenn ein als leicht angekündigter Weg plötzlich sehr steil wird?|Was würdest du spontan sagen, wenn du Müll auf einem Spazierweg siehst?|
+nature-377|In welcher Situation würdest du dich entscheiden, einen Wanderhut zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Wanderkarte zu kaufen?|
+nature-378|Wie viel Zeit würdest du einplanen, um einen Sonnenuntergang zu fotografieren?|Wie viel Zeit würdest du einplanen, um eine kleine Pflanze bei dir aufzustellen?|
+nature-379|Wie oft würdest du gern im Herbst Laub sammeln?|Wie oft würdest du gern einen ruhigen Ort mitten in der Natur entdecken?|
+nature-380|Wie viel wärst du bereit, für einen Wanderhut auszugeben?|Wie viel wärst du bereit, für eine Wanderkarte auszugeben?|
+nature-381|Wo würdest du hingehen, um eine Picknickdecke zu kaufen?|Wo würdest du hingehen, um ein Erwachsenenticket für ein kostenpflichtiges Naturschutzgebiet zu kaufen?|
+nature-382|Was meinst du, wie lange dauert es, einen Vogel in einem Park zu entdecken?|Was meinst du, wie lange dauert ein Waldspaziergang?|
+nature-383|Was würdest du spontan sagen, wenn du einen riesigen Baum entdeckst?|Was würdest du spontan sagen, wenn der Himmel nach langem Regen aufklart?|
+nature-384|Was kostet deiner Meinung nach eine Thermoskanne für die Berge?|Was kostet deiner Meinung nach ein Wanderhut?|
+nature-385|Was wäre dein erster Reflex, wenn eine Windböe deine Kappe wegweht?|Was wäre dein erster Reflex, wenn du einen riesigen Baum entdeckst?|
+nature-386|Welchen Preis stellst du dir für ein Bestimmungsbuch für heimische Bäume vor?|Welchen Preis stellst du dir für ein Fernglas zur Tierbeobachtung vor?|
+nature-387|Was glaubst du, wie viel eine Stirnlampe zum Wandern kostet?|Was glaubst du, wie viel ein gefüllter Picknickkorb für vier Personen kostet?|
+nature-388|Wer könnte dir den besten Rat geben, um einen Tag auf dem Land zu organisieren?|Wer könnte dir den besten Rat geben, um Tiere zu beobachten, ohne sie zu stören?|
+nature-389|Was würdest du als Erstes tun, wenn du Müll auf einem Spazierweg siehst?|Was würdest du als Erstes tun, wenn eine Wespe um dein Picknick herumschwirrt?|
+nature-390|Wie viel wärst du bereit, für den Eintritt eines Erwachsenen in ein kostenpflichtiges Naturschutzgebiet auszugeben?|Wie viel wärst du bereit, für ein Bestimmungsbuch für heimische Bäume auszugeben?|
+nature-391|Wo würdest du hingehen, um eine wasserdichte Windjacke zu finden?|Wo würdest du hingehen, um ein Erwachsenenticket für einen botanischen Garten zu finden?|
+nature-392|Wie oft würdest du gern einen Strandspaziergang machen?|Wie oft würdest du gern eine zweistündige Wanderung planen?|
+nature-393|Wie oft würdest du gern einen Aussichtspunkt mit freiem Blick auf die Stadt suchen?|Wie oft würdest du gern ein Wochenende in den Bergen planen?|
+nature-394|Wie würdest du reagieren, wenn ein Vogel durch dein Fenster reinfliegt?|Wie würdest du reagieren, wenn es mitten auf einer Wanderung zu regnen anfängt?|
+nature-395|Wen würdest du um Hilfe bitten, um einen Sonnenuntergang zu fotografieren?|Wen würdest du um Hilfe bitten, um eine kleine Pflanze bei dir aufzustellen?|
+nature-396|Wie schnell könntest du einen Ausflug an einen See planen?|Wie schnell könntest du einen Sonnenuntergang fotografieren?|
+nature-397|Zu welchem Zeitpunkt in der Woche würdest du am liebsten eine zweistündige Wanderung planen?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten einen Vogel in einem Park entdecken?|
+nature-398|Wie würdest du antworten, wenn du einen vollständigen Regenbogen siehst?|Wie würdest du antworten, wenn ein als leicht angekündigter Weg plötzlich sehr steil wird?|
+nature-399|Wann hättest du Lust, eine Wanderkarte zu kaufen?|Wann hättest du Lust, eine Kompaktkamera für Landschaftsfotos zu kaufen?|
+nature-400|Wie lange würdest du brauchen, um eine kleine Pflanze bei dir aufzustellen?|Wie lange würdest du brauchen, um einen Spaziergang mit einem Hund zu planen?|
+nature-401|Wie viel wärst du bereit, für eine Trinkflasche zum Wandern auszugeben?|Wie viel wärst du bereit, für einen guten Wanderrucksack auszugeben?|
+nature-402|Wo würdest du hingehen, um einen Nistkasten zu finden?|Wo würdest du hingehen, um eine Thermoskanne für die Berge zu finden?|
+nature-403|Zu welchem Zeitpunkt in der Woche würdest du am liebsten die Pflanzen auf deinem Balkon gießen?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten einen Wanderweg aussuchen?|
+nature-404|Wie schnell könntest du eine Runde durch einen botanischen Garten drehen?|Wie schnell könntest du einen Aussichtspunkt mit freiem Blick auf die Stadt finden?|
+nature-405|Wie viel Zeit würdest du einplanen, um einen Aussichtspunkt mit freiem Blick auf die Stadt zu suchen?|Wie viel Zeit würdest du einplanen, um ein Wochenende in den Bergen vorzubereiten?|
+nature-406|Bis zu welchem Betrag würdest du für einen gefüllten Picknickkorb für vier Personen zahlen?|Bis zu welchem Betrag würdest du für einen Nistkasten zahlen?|
+nature-407|Wie lange würdest du brauchen, um einen ruhigen Ort mitten in der Natur zu finden?|Wie lange würdest du brauchen, um eine Radtour aufs Land vorzubereiten?|
+nature-408|Wie oft im Jahr hast du Gelegenheit, Tiere zu beobachten, ohne sie zu stören?|Wie oft im Jahr hast du Gelegenheit, einen Strandspaziergang zu machen?|
+nature-409|Welche Tageszeit würdest du für einen Waldspaziergang wählen?|Welche Tageszeit würdest du für ein Picknick in der Natur wählen?|
+nature-410|Wen würdest du fragen, damit er dir hilft, ein Wochenende in den Bergen vorzubereiten?|Wen würdest du fragen, damit er dir hilft, einen Tag auf dem Land zu organisieren?|
+nature-411|Auf welcher Website oder in welchem Laden würdest du nach einer Zimmerpflanze suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Gartenhängematte suchen?|
+nature-412|Wo würdest du hingehen, um einen illustrierten Vogelführer zu kaufen?|Wo würdest du hingehen, um eine Trinkflasche zum Wandern zu kaufen?|
+nature-413|Wie würdest du reagieren, wenn ein als kurz geplanter Spaziergang zwei Stunden dauert?|Wie würdest du reagieren, wenn du ein verletztes Tier neben einem Weg siehst?|
+nature-414|Wen würdest du um Hilfe bitten, um ein Picknick in der Natur zu organisieren?|Wen würdest du um Hilfe bitten, um die Pflanzen auf deinem Balkon zu gießen?|
+nature-415|Welchen Preis stellst du dir für eine Wanderkarte vor?|Welchen Preis stellst du dir für eine Kompaktkamera für Landschaftsfotos vor?|
+nature-416|Wie oft würdest du gern ein Picknick in der Natur organisieren?|Wie oft würdest du gern die Pflanzen auf deinem Balkon gießen?|
+nature-417|Was meinst du, wie lange dauert es, einen Spaziergang mit einem Hund vorzubereiten?|Was meinst du, wie lange dauert es, in einer klaren Nacht die Sterne zu beobachten?|
+nature-418|Wie oft im Monat hast du Gelegenheit, eine kleine Pflanze bei dir aufzustellen?|Wie oft im Monat hast du Gelegenheit, einen Spaziergang mit einem Hund zu planen?|
+nature-419|Wie viel würdest du höchstens für eine wasserdichte Windjacke einplanen?|Wie viel würdest du höchstens für den Eintritt eines Erwachsenen in einen botanischen Garten einplanen?|
+nature-420|Wie würdest du antworten, wenn es mitten auf einer Wanderung zu regnen anfängt?|Wie würdest du antworten, wenn ein fremder Hund im Park auf dich zukommt?|
+nature-421|Was meinst du, wie lange dauert es, eine Radtour aufs Land vorzubereiten?|Was meinst du, wie lange dauert eine Runde durch einen botanischen Garten?|
+nature-422|Was wäre dein erster Reflex, wenn du im Wald ein seltsames Geräusch hörst?|Was wäre dein erster Reflex, wenn ein Eichhörnchen ganz nah an dich herankommt?|
+nature-423|Wie oft im Jahr hast du Gelegenheit, einen Waldspaziergang zu machen?|Wie oft im Jahr hast du Gelegenheit, ein Picknick in der Natur zu organisieren?|
+nature-424|Was würde dich dazu bringen, eine wasserdichte Windjacke zu kaufen?|Was würde dich dazu bringen, ein Erwachsenenticket für einen botanischen Garten zu kaufen?|
+nature-425|Wie würdest du antworten, wenn du im Wald ein seltsames Geräusch hörst?|Wie würdest du antworten, wenn ein Eichhörnchen ganz nah an dich herankommt?|
+nature-426|Wie schnell könntest du in einer klaren Nacht die Sterne beobachten?|Wie schnell könntest du im Herbst Laub sammeln?|
+nature-427|Was wäre deine erste Reaktion, wenn ein Freund ein Foto ganz nah an einem Nest machen will?|Was wäre deine erste Reaktion, wenn du bei einem Spaziergang einen Fuchs entdeckst?|
+nature-428|Zu welchem Anlass würdest du ein Erwachsenenticket für einen botanischen Garten kaufen?|Zu welchem Anlass würdest du ein Pflanzset für Küchenkräuter kaufen?|
+nature-429|Zu welchem Anlass würdest du ein Paar Wanderstiefel kaufen?|Zu welchem Anlass würdest du eine Stirnlampe zum Wandern kaufen?|
+nature-430|Wie lange würdest du brauchen, um ein Wochenende in den Bergen vorzubereiten?|Wie lange würdest du brauchen, um einen Tag auf dem Land zu organisieren?|
+nature-431|Was glaubst du, wie viel ein Wanderhut kostet?|Was glaubst du, wie viel eine Wanderkarte kostet?|

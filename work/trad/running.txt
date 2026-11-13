@@ -1,8 +1,5 @@
 nl.1
-pt.2
-de.3
 nl.3
-it.4
 de.4
 nl.4
 it.5
@@ -18,3 +15,6 @@ en.7
 es.7
 it.7
 de.7
+pt.7
+nl.7
+en.8

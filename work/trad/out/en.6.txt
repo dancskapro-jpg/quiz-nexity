@@ -1,0 +1,100 @@
+ville-333|Above what price would you think twice about booking a night for two in a city-centre hotel?|Above what price would you think twice about buying a two-day tourist pass?|
+ville-334|How much would you be willing to spend on a two-day tourist pass?|How much would you be willing to spend on a one-way regional train ticket for a 50-km journey?|TER → train régional
+ville-335|When would be the best time to meet a friend at King's Cross station in London?|When would be the best time to run an errand in the city centre?|gare de Lyon à Paris → King's Cross à Londres
+ville-336|Where would you go to buy a monthly public transport pass in London?|Where would you go to get a five-kilometre taxi ride in London?|Paris → Londres
+ville-337|Which website or shop would you look on for a one-way regional train ticket for a 50-km journey?|Which website or shop would you look on for a single Tube ticket in London?|TER → train régional, métro de Paris → Tube de Londres
+ville-338|Where would you go to buy a top-up travel card?|Where would you go to buy a ticket for a showing at your local cinema?|
+ville-339|What would come out of your mouth if the ticket machine is out of order?|What would come out of your mouth if you realise you're on the wrong bus?|
+ville-340|Which website or shop would you look on for a river bus ticket?|Which website or shop would you look on for a ticket to a local exhibition?|
+ville-341|Who would you get in touch with to help you choose a café to work in?|Who would you get in touch with to help you meet a friend at King's Cross station in London?|gare de Lyon à Paris → King's Cross à Londres
+ville-342|Where would you look first for a five-kilometre taxi ride in London?|Where would you look first for an adult ticket for a sightseeing bus in London?|Paris → Londres
+ville-343|Who in your circle could help you find an address without satnav?|Who in your circle could help you plan a journey at night?|
+ville-344|If you had to find a pay-and-display parking space for two hours in the city centre, what would your priority be?|If you had to scout out a restaurant near a station, what would your priority be?|
+ville-345|Where would you go to get a bike-share membership?|Where would you go to get a top-up travel card?|
+ville-346|How quickly could you find an address without satnav?|How quickly could you plan a journey at night?|
+ville-347|What would your first reaction be if your train changes platform at the last minute?|What would your first reaction be if a stranger asks you to take a photo?|
+ville-348|What detail would you check before planning a journey at night?|What detail would you check before choosing a café to work in?|
+ville-349|What time of day would you pick to scout out a restaurant near a station?|What time of day would you pick to organise a tour of a neighbourhood?|
+ville-350|What's the most you'd budget for a meal at a local pub?|What's the most you'd budget for a second-hand city bike in good nick, less than five years old?|brasserie → pub
+ville-351|Which time of day would be most convenient to choose a museum nearby?|Which time of day would be most convenient to find a walking route that's wheelchair accessible?|
+ville-352|How much time would you set aside to visit a local market?|How much time would you set aside to plan a bike ride across town?|
+ville-353|If you had to plan a change between lines, what would your priority be?|If you had to look for a shop that's open on a Sunday, what would your priority be?|
+ville-354|How would you respond if the street you know is closed off?|How would you respond if a taxi refuses a short journey?|
+ville-355|How long would it take you to find a walking route that's wheelchair accessible?|How long would it take you to plan a change between lines?|
+ville-356|Where would you go to get a single Tube ticket in London?|Where would you go to get a monthly public transport pass in London?|Paris → Londres, métro → Tube
+ville-357|Who would you ask for help with exploring a neighbourhood you don't know?|Who would you ask for help with planning a journey on public transport?|
+ville-358|What would your first instinct be if the street you know is closed off?|What would your first instinct be if a taxi refuses a short journey?|
+ville-359|What would you say if you turn up at a shop and it's closed?|What would you say if a protest blocks your route?|
+ville-360|What price would you guess for a one-way regional train ticket for a 50-km journey?|What price would you guess for a single Tube ticket in London?|TER → train régional, métro de Paris → Tube de Londres
+ville-361|Where would you go to get a meal at a local pub?|Where would you go to get a second-hand city bike in good nick, less than five years old?|brasserie → pub
+ville-362|What would you find hardest about planning a journey on public transport?|What would you find hardest about finding a pay-and-display parking space for two hours in the city centre?|
+ville-363|When would be the best time to plan a change between lines?|When would be the best time to look for a shop that's open on a Sunday?|
+ville-364|How much do you think a showing at your local cinema is worth?|How much do you think a river bus ticket is worth?|
+ville-365|Above what price would you think twice about buying a monthly public transport pass in London?|Above what price would you think twice about paying for a five-kilometre taxi ride in London?|Paris → Londres
+ville-366|What price would you guess for an adult ticket for a sightseeing bus in London?|What price would you guess for adult entry to a council-run museum that charges admission?|Paris → Londres
+ville-367|In what situation would you decide to buy a ticket for a showing at your local cinema?|In what situation would you decide to buy a river bus ticket?|
+ville-368|What would you say on the spot if a taxi refuses a short journey?|What would you say on the spot if you turn up at a shop and it's closed?|
+ville-369|What would your first reaction be if a passer-by shows you an unexpected shortcut?|What would your first reaction be if the Tube stops between two stations?|métro → Tube
+ville-370|Who in your circle could help you look for a shop that's open on a Sunday?|Who in your circle could help you explore a neighbourhood you don't know?|
+ville-371|How quickly could you scout out a restaurant near a station?|How quickly could you organise a tour of a neighbourhood?|
+ville-372|How much would you be willing to spend on an hour in a car park in central London?|How much would you be willing to spend on a coffee on a café terrace?|Paris → Londres
+ville-373|How much do you reckon a meal at a local pub costs?|How much do you reckon a second-hand city bike in good nick, less than five years old, costs?|brasserie → pub
+ville-374|What would you find hardest about comparing two Tube routes?|What would you find hardest about buying a regional train ticket from the machine at the station?|métro → Tube
+ville-375|What would you say if a driver lets you cross?|What would you say if the ticket machine is out of order?|
+ville-376|What price would you guess for a shuttle ticket between an airport and the city centre?|What price would you guess for a bike-share membership?|
+ville-377|How long do you reckon it takes to find a pay-and-display parking space for two hours in the city centre?|How long do you reckon it takes to scout out a restaurant near a station?|
+ville-378|How much time would you set aside to choose a museum nearby?|How much time would you set aside to find a walking route that's wheelchair accessible?|
+ville-379|What would come out of your mouth if a tourist asks you for directions?|What would come out of your mouth if a driver misses your stop?|
+ville-380|What would your first reaction be if a taxi refuses a short journey?|What would your first reaction be if you turn up at a shop and it's closed?|
+ville-381|What would make you book a meal at a local pub?|What would make you buy a second-hand city bike in good nick, less than five years old?|brasserie → pub
+ville-382|What would come out of your mouth if a cyclist rings their bell behind you?|What would come out of your mouth if someone on the street asks you the time?|
+ville-383|In your opinion, how much is a night for two in a city-centre hotel?|In your opinion, how much is a two-day tourist pass?|
+ville-384|What price would you guess for a river bus ticket?|What price would you guess for a ticket to a local exhibition?|
+ville-385|What would you do first if you turn up at a shop and it's closed?|What would you do first if a protest blocks your route?|
+ville-386|How would you respond if you realise you're on the wrong bus?|How would you respond if a passer-by shows you an unexpected shortcut?|
+ville-387|What would your first instinct be if a driver misses your stop?|What would your first instinct be if you take the wrong exit out of the Tube station?|métro → Tube
+ville-388|Who could give you the best advice on how to find a quiet café terrace less than ten minutes' walk away?|Who could give you the best advice on how to plan a day of sightseeing in Rome without a car?|
+ville-389|How long do you reckon it takes to buy a regional train ticket from the machine at the station?|How long do you reckon it takes to find an address without satnav?|
+ville-390|What would you say if the Tube stops between two stations?|What would you say if a tourist asks you for directions?|métro → Tube
+ville-391|Where would you go to buy a second-hand city bike in good nick, less than five years old?|Where would you go to book a guided tour of a neighbourhood?|
+ville-392|How quickly could you run an errand in the city centre?|How quickly could you get round a local market?|
+ville-393|How much time would you set aside to explore a neighbourhood you don't know?|How much time would you set aside to plan a journey on public transport?|
+ville-394|What would you find hardest about planning a bike ride across town?|What would you find hardest about finding a quiet café terrace less than ten minutes' walk away?|
+ville-395|What time of day would you pick to run an errand in the city centre?|What time of day would you pick to visit a local market?|
+ville-396|What time of day would you pick to plan a day of sightseeing in Rome without a car?|What time of day would you pick to choose a museum nearby?|
+ville-397|When would be the best time to buy a regional train ticket from the machine at the station?|When would be the best time to find an address without satnav?|
+ville-398|Where would you go to book a night for two in a city-centre hotel?|Where would you go to buy a two-day tourist pass?|
+ville-399|For what occasion would you want to buy a top-up travel card?|For what occasion would you want to buy a ticket for a showing at your local cinema?|
+ville-400|Who would you get in touch with to help you find a walking route that's wheelchair accessible?|Who would you get in touch with to help you plan a change between lines?|
+ville-401|Who would you get in touch with to help you compare two Tube routes?|Who would you get in touch with to help you buy a regional train ticket from the machine at the station?|métro → Tube
+ville-402|What time of day would you pick to look for a shop that's open on a Sunday?|What time of day would you pick to explore a neighbourhood you don't know?|
+ville-403|What would be the most important thing when planning a day of sightseeing in Rome without a car?|What would be the most important thing when choosing a museum nearby?|
+ville-404|What detail would you check before choosing a museum nearby?|What detail would you check before picking a walking route that's wheelchair accessible?|
+ville-405|How much would you be willing to spend on a guided tour of a neighbourhood?|How much would you be willing to spend on a shuttle ticket between an airport and the city centre?|
+ville-406|What would be the most important thing when looking for a shop that's open on a Sunday?|What would be the most important thing when exploring a neighbourhood you don't know?|
+ville-407|What would make you buy a ticket to a local exhibition?|What would make you book a night for two in a city-centre hotel?|
+ville-408|How much would you be willing to spend on a five-kilometre taxi ride in London?|How much would you be willing to spend on an adult ticket for a sightseeing bus in London?|Paris → Londres
+ville-409|Who would you ask for help with choosing a museum nearby?|Who would you ask for help with finding a walking route that's wheelchair accessible?|
+ville-410|How much do you think a two-day tourist pass is worth?|How much do you think a one-way regional train ticket for a 50-km journey is worth?|TER → train régional
+ville-411|Which time of day would be most convenient to explore a neighbourhood you don't know?|Which time of day would be most convenient to plan a journey on public transport?|
+ville-412|In your opinion, how much is a monthly public transport pass in London?|In your opinion, how much is a five-kilometre taxi ride in London?|Paris → Londres
+ville-413|What would come out of your mouth if a protest blocks your route?|What would come out of your mouth if the display at the stop stops showing the times?|
+ville-414|Which time of day would be most convenient to organise a tour of a neighbourhood?|Which time of day would be most convenient to compare two Tube routes?|métro → Tube
+ville-415|How much do you think a guided tour of a neighbourhood is worth?|How much do you think a shuttle ticket between an airport and the city centre is worth?|
+ville-416|How much would you be willing to spend on a showing at your local cinema?|How much would you be willing to spend on a river bus ticket?|
+ville-417|When in the week would you rather compare two Tube routes?|When in the week would you rather buy a regional train ticket from the machine at the station?|métro → Tube
+ville-418|Who would you ask for help with organising a tour of a neighbourhood?|Who would you ask for help with comparing two Tube routes?|métro → Tube
+ville-419|What would your first reaction be if you take the wrong exit out of the Tube station?|What would your first reaction be if a bus drives straight past you without stopping?|métro → Tube
+ville-420|If you had to find a quiet café terrace less than ten minutes' walk away, what would your priority be?|If you had to plan a day of sightseeing in Rome without a car, what would your priority be?|
+ville-421|What would you say on the spot if a passer-by shows you an unexpected shortcut?|What would you say on the spot if the Tube stops between two stations?|métro → Tube
+ville-422|How much time would you set aside to organise a tour of a neighbourhood?|How much time would you set aside to compare two Tube routes?|métro → Tube
+ville-423|When in the week would you rather find a walking route that's wheelchair accessible?|When in the week would you rather plan a change between lines?|
+ville-424|How would you react if a protest blocks your route?|How would you react if the display at the stop stops showing the times?|
+ville-425|Above what price would you think twice about buying a single tram ticket in the UK?|Above what price would you think twice about paying for an hour in a car park in central London?|France → Royaume-Uni, Paris → Londres
+ville-426|Which time of day would be most convenient to plan a journey at night?|Which time of day would be most convenient to choose a café to work in?|
+ville-427|If you had to meet a friend at King's Cross station in London, what would your priority be?|If you had to run an errand in the city centre, what would your priority be?|gare de Lyon à Paris → King's Cross à Londres
+ville-428|When would you feel like buying a river bus ticket?|When would you feel like buying a ticket to a local exhibition?|
+ville-429|How long do you reckon it takes to meet up with a friend at King's Cross station in London?|How long do you reckon it takes to run an errand in the city centre?|gare de Lyon à Paris → King's Cross à Londres
+ville-430|Above what price would you think twice about buying a top-up travel card?|Above what price would you think twice about buying a ticket for a showing at your local cinema?|
+ville-431|Which website or shop would you look on for an adult ticket for a sightseeing bus in London?|Which website or shop would you look on for adult entry to a council-run museum that charges admission?|Paris → Londres
+ville-432|What would you do first if the Tube stops between two stations?|What would you do first if a tourist asks you for directions?|métro → Tube

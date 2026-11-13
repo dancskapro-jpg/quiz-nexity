@@ -298,3 +298,103 @@ maison-677|Wat zou je antwoorden als een vriend kritiek heeft op je inrichting?|
 maison-678|Hoe zou je reageren als je stofzuiger het begeeft?|Hoe zou je reageren als een vriend kritiek heeft op je inrichting?|
 maison-679|Hoeveel zou je maximaal betalen voor een comfortabele fauteuil?|Hoeveel zou je maximaal betalen voor een stoffen tweezitsbank?|
 maison-680|Wat zou je antwoorden als een bezorger een heel zwaar pakket naar boven brengt?|Wat zou je antwoorden als je merkt dat je de verf toch niet mooi vindt?|
+maison-681|Wat zou je eerste reactie zijn als je merkt dat je de verf toch niet mooi vindt?|Wat zou je eerste reactie zijn als een gast koffie op het vloerkleed morst?|
+maison-682|Hoe vaak per maand heb je de gelegenheid om gordijnen op te hangen?|Hoe vaak per maand heb je de gelegenheid om de papieren in huis te sorteren?|
+maison-683|Op welke site of in welke winkel zou je zoeken naar een wandkapstok?|Op welke site of in welke winkel zou je zoeken naar een filterkoffiezetapparaat?|
+maison-684|Hoe vaak per jaar heb je de gelegenheid om een boekenkast op te ruimen?|Hoe vaak per jaar heb je de gelegenheid om een plant voor je woonkamer uit te kiezen?|
+maison-685|Welk moment van de dag zou je kiezen om een badkamer schoon te maken?|Welk moment van de dag zou je kiezen om de woonkamer anders in te richten?|
+maison-686|Wat zou je ertoe aanzetten om een goede draadloze stofzuiger te kopen?|Wat zou je ertoe aanzetten om een schoenenkast te kopen?|
+maison-687|Aan wie zou je hulp vragen om de opbergruimte in de keuken in te delen?|Aan wie zou je hulp vragen om een bouwpakketmeubel in elkaar te zetten?|
+maison-688|Hoeveel zou je maximaal betalen voor een set verduisterende gordijnen?|Hoeveel zou je maximaal betalen voor een bedlampje?|
+maison-689|Hoeveel tijd zou je uittrekken om een kamer klaar te maken voor logés?|Hoeveel tijd zou je uittrekken om een lamp te vervangen?|
+maison-690|Hoe vaak per jaar heb je de gelegenheid om een nieuwe plank op te hangen?|Hoe vaak per jaar heb je de gelegenheid om een kamer klaar te maken voor logés?|
+maison-691|Wat zou het beste moment zijn om je kleren uit te zoeken?|Wat zou het beste moment zijn om een nieuwe plank op te hangen?|
+maison-692|Welk tijdstip van de dag zou het handigst zijn om een kamer klaar te maken voor logés?|Welk tijdstip van de dag zou het handigst zijn om een lamp te vervangen?|
+maison-693|Wie zou je het beste advies kunnen geven om een keukenkastje op te ruimen?|Wie zou je het beste advies kunnen geven om een badkamer schoon te maken?|
+maison-694|Wat zou het beste moment zijn om de papieren in huis te sorteren?|Wat zou het beste moment zijn om een verhuizing voor te bereiden?|
+maison-695|Wat zou je zeggen als een dierbare onverwacht bij je wil blijven slapen?|Wat zou je zeggen als je kast uitpuilt van de kleren?|
+maison-696|Hoe zou je reageren als je kast uitpuilt van de kleren?|Hoe zou je reageren als een apparaat een raar geluid maakt?|
+maison-697|Waar zou je naartoe gaan om een houten salontafel te kopen?|Waar zou je naartoe gaan om een vloerkleed van 160 × 230 cm voor de woonkamer te kopen?|
+maison-698|Hoe vaak per maand heb je de gelegenheid om een verfkleur te kiezen?|Hoe vaak per maand heb je de gelegenheid om je kleren uit te zoeken?|
+maison-699|Hoeveel tijd zou je uittrekken om een werkhoek in te richten?|Hoeveel tijd zou je uittrekken om alle ramen te lappen?|
+maison-700|Hoeveel zou je maximaal betalen voor een wandkapstok?|Hoeveel zou je maximaal betalen voor een filterkoffiezetapparaat?|
+maison-701|Hoeveel zou je willen uitgeven aan een houten eettafel voor vier personen?|Hoeveel zou je willen uitgeven aan een comfortabele fauteuil?|
+maison-702|Wat zou je zeggen als je een lek onder de gootsteen ontdekt?|Wat zou je zeggen als een gast een glas breekt?|
+maison-703|In hoeveel tijd zou je een boekenkast kunnen opruimen?|In hoeveel tijd zou je een plant voor je woonkamer kunnen uitkiezen?|
+maison-704|Met wie zou je contact opnemen om je te helpen alle ramen te lappen?|Met wie zou je contact opnemen om je te helpen het huis schoon te maken voordat er bezoek komt?|
+maison-705|Voor welke gelegenheid zou je een onderhoudsvriendelijke kamerplant willen kopen?|Voor welke gelegenheid zou je een set sierkussens willen kopen?|
+maison-706|Wanneer zou je zin hebben om een klein bureau voor een appartement te kopen?|Wanneer zou je zin hebben om een set badhanddoeken te kopen?|
+maison-707|Wat zou je eerste reactie zijn als je een vreemde geur in de keuken ruikt?|Wat zou je eerste reactie zijn als je een lek onder de gootsteen ontdekt?|
+maison-708|Hoe lang duurt het volgens jou om een kleine hal aan te kleden?|Hoe lang duurt het volgens jou om een koelkast leeg te halen en schoon te maken?|
+maison-709|Wat zou je eerste reactie zijn als de deurbel gaat terwijl je onder de douche staat?|Wat zou je eerste reactie zijn als je een grote vlek op de bank ontdekt?|
+maison-710|Wanneer zou je zin hebben om een comfortabele fauteuil te kopen?|Wanneer zou je zin hebben om een stoffen tweezitsbank te kopen?|
+maison-711|Wat is volgens jou de prijs van een onderhoudsvriendelijke kamerplant?|Wat is volgens jou de prijs van een set sierkussens?|
+maison-712|Hoeveel denk je dat een badkamerspiegel waard is?|Hoeveel denk je dat een katoenen dekbedovertrek waard is?|
+maison-713|Wat zou je antwoorden als een apparaat een raar geluid maakt?|Wat zou je antwoorden als je een vreemde geur in de keuken ruikt?|
+maison-714|Wat zou je zeggen als je een meubel krijgt waar een onderdeel aan ontbreekt?|Wat zou je zeggen als je stofzuiger het begeeft?|
+maison-715|Voor welke gelegenheid zou je een basisgereedschapskist willen kopen?|Voor welke gelegenheid zou je een houten eettafel voor vier personen willen kopen?|
+maison-716|Welk maximaal budget zou je uittrekken voor een set badhanddoeken?|Welk maximaal budget zou je uittrekken voor een onderhoudsvriendelijke kamerplant?|
+maison-717|Welk maximaal budget zou je uittrekken voor een goede draadloze stofzuiger?|Welk maximaal budget zou je uittrekken voor een schoenenkast?|
+maison-718|Wat zou je zeggen als een gast koffie op het vloerkleed morst?|Wat zou je zeggen als een vriend je woonkamer anders wil indelen?|
+maison-719|Waar zou je als eerste zoeken naar een badkamerspiegel?|Waar zou je als eerste zoeken naar een katoenen dekbedovertrek?|
+maison-720|Welk maximaal budget zou je uittrekken voor een bedlampje?|Welk maximaal budget zou je uittrekken voor een wandplank?|
+maison-721|Wie zou je het beste advies kunnen geven om het huis schoon te maken voordat er bezoek komt?|Wie zou je het beste advies kunnen geven om een boekenkast op te ruimen?|
+maison-722|Hoe zou je reageren als een vriend je woonkamer anders wil indelen?|Hoe zou je reageren als je iets terugvindt dat je al lang kwijt was?|
+maison-723|Hoeveel denk je dat een houten eettafel voor vier personen waard is?|Hoeveel denk je dat een comfortabele fauteuil waard is?|
+maison-724|Waar zou je naartoe gaan om een stoffen tweezitsbank te vinden?|Waar zou je naartoe gaan om een houten salontafel te vinden?|
+maison-725|Hoeveel zou je maximaal betalen voor een katoenen dekbedovertrek?|Hoeveel zou je maximaal betalen voor een goede draadloze stofzuiger?|
+maison-726|Welke zin zou je eruit flappen als je stofzuiger het begeeft?|Welke zin zou je eruit flappen als een vriend kritiek heeft op je inrichting?|
+maison-727|Waar zou je als eerste zoeken naar een opbergmand?|Waar zou je als eerste zoeken naar een klein bureau voor een appartement?|
+maison-728|Waar zou je naartoe gaan om een bedlampje te vinden?|Waar zou je naartoe gaan om een wandplank te vinden?|
+maison-729|Hoeveel tijd zou je nodig hebben om alle ramen te lappen?|Hoeveel tijd zou je nodig hebben om het huis schoon te maken voordat er bezoek komt?|
+maison-730|Wat zou je eerste reflex zijn als een apparaat een raar geluid maakt?|Wat zou je eerste reflex zijn als je een vreemde geur in de keuken ruikt?|
+maison-731|Wat zou je antwoorden als je je sleutels kwijtraakt voor je eigen deur?|Wat zou je antwoorden als een buurman je om zout vraagt?|
+maison-732|In welke situatie zou je besluiten om een vloerkleed van 160 × 230 cm voor de woonkamer te kopen?|In welke situatie zou je besluiten om een set verduisterende gordijnen te kopen?|
+maison-733|Hoe vaak zou je een kamer willen klaarmaken voor logés?|Hoe vaak zou je een lamp willen vervangen?|
+maison-734|Wat zou je eerste reflex zijn als je iets terugvindt dat je al lang kwijt was?|Wat zou je eerste reflex zijn als er een lamp springt tijdens het avondeten?|
+maison-735|Hoeveel zou je willen uitgeven aan een vloerkleed van 160 × 230 cm voor de woonkamer?|Hoeveel zou je willen uitgeven aan een set verduisterende gordijnen?|
+maison-736|Hoe vaak per jaar heb je de gelegenheid om een koelkast leeg te halen en schoon te maken?|Hoe vaak per jaar heb je de gelegenheid om een werkhoek in te richten?|
+maison-737|Wat kost een set badhanddoeken volgens jou?|Wat kost een onderhoudsvriendelijke kamerplant volgens jou?|
+maison-738|Wat zou je als eerste doen als een gast koffie op het vloerkleed morst?|Wat zou je als eerste doen als een vriend je woonkamer anders wil indelen?|
+maison-739|Wat is volgens jou de prijs van een schoenenkast?|Wat is volgens jou de prijs van een opbergmand?|
+maison-740|Hoe vaak komt het voor dat je een kleine hal aankleedt?|Hoe vaak komt het voor dat je een koelkast leeghaalt en schoonmaakt?|
+maison-741|Hoe vaak per maand heb je de gelegenheid om alle ramen te lappen?|Hoe vaak per maand heb je de gelegenheid om het huis schoon te maken voordat er bezoek komt?|
+maison-742|Waar zou je naartoe gaan om een wandplank te kopen?|Waar zou je naartoe gaan om een badkamerspiegel te kopen?|
+maison-743|Hoe vaak komt het voor dat je een keukenkastje opruimt?|Hoe vaak komt het voor dat je een badkamer schoonmaakt?|
+maison-744|Hoe zou je reageren als een buurman je waarschuwt dat het water wordt afgesloten?|Hoe zou je reageren als een bezorger een heel zwaar pakket naar boven brengt?|
+maison-745|Hoeveel zou je willen uitgeven aan een set sierkussens?|Hoeveel zou je willen uitgeven aan een wandkapstok?|
+maison-746|Welke zin zou je eruit flappen als je kast uitpuilt van de kleren?|Welke zin zou je eruit flappen als een apparaat een raar geluid maakt?|
+maison-747|Wat is volgens jou de prijs van een basisgereedschapskist?|Wat is volgens jou de prijs van een houten eettafel voor vier personen?|
+maison-748|Op welk moment van de week zou je het liefst een lamp vervangen?|Op welk moment van de week zou je het liefst een kleine hal aankleden?|
+maison-749|Voor welke gelegenheid zou je een wandplank willen kopen?|Voor welke gelegenheid zou je een badkamerspiegel willen kopen?|
+maison-750|Waar zou je naartoe gaan om een onderhoudsvriendelijke kamerplant te kopen?|Waar zou je naartoe gaan om een set sierkussens te kopen?|
+maison-751|Hoeveel tijd zou je nodig hebben om een verfkleur te kiezen?|Hoeveel tijd zou je nodig hebben om je kleren uit te zoeken?|
+maison-752|Waar zou je naartoe gaan om een filterkoffiezetapparaat te vinden?|Waar zou je naartoe gaan om een basisgereedschapskist te vinden?|
+maison-753|Wat zou het beste moment zijn om een kleine hal aan te kleden?|Wat zou het beste moment zijn om een koelkast leeg te halen en schoon te maken?|
+maison-754|Op welk moment van de week zou je het liefst een verfkleur kiezen?|Op welk moment van de week zou je het liefst je kleren uitzoeken?|
+maison-755|Hoeveel tijd zou je uittrekken om de woonkamer anders in te richten?|Hoeveel tijd zou je uittrekken om een verfkleur te kiezen?|
+maison-756|Welk maximaal budget zou je uittrekken voor een stoffen tweezitsbank?|Welk maximaal budget zou je uittrekken voor een houten salontafel?|
+maison-757|Hoe vaak per jaar heb je de gelegenheid om een badkamer schoon te maken?|Hoe vaak per jaar heb je de gelegenheid om de woonkamer anders in te richten?|
+maison-758|Waar zou je als eerste zoeken naar een set sierkussens?|Waar zou je als eerste zoeken naar een wandkapstok?|
+maison-759|In welke situatie zou je besluiten om een houten eettafel voor vier personen te kopen?|In welke situatie zou je besluiten om een comfortabele fauteuil te kopen?|
+maison-760|Wie uit je omgeving zou je kunnen helpen om een badkamer schoon te maken?|Wie uit je omgeving zou je kunnen helpen om de woonkamer anders in te richten?|
+maison-761|Welk moment van de dag zou je kiezen om een verhuizing voor te bereiden?|Welk moment van de dag zou je kiezen om de opbergruimte in de keuken in te delen?|
+maison-762|Wat zou je eerste reactie zijn als er een lamp springt tijdens het avondeten?|Wat zou je eerste reactie zijn als een dierbare onverwacht bij je wil blijven slapen?|
+maison-763|Wat zou je ertoe aanzetten om een filterkoffiezetapparaat te kopen?|Wat zou je ertoe aanzetten om een basisgereedschapskist te kopen?|
+maison-764|Welk moment van de dag zou je kiezen om een boekenkast op te ruimen?|Welk moment van de dag zou je kiezen om een plant voor je woonkamer uit te kiezen?|
+maison-765|In hoeveel tijd zou je een verhuizing kunnen voorbereiden?|In hoeveel tijd zou je de opbergruimte in de keuken kunnen indelen?|
+maison-766|Hoe vaak zou je een werkhoek willen inrichten?|Hoe vaak zou je alle ramen willen lappen?|
+maison-767|In hoeveel tijd zou je een koelkast kunnen leeghalen en schoonmaken?|In hoeveel tijd zou je een werkhoek kunnen inrichten?|
+maison-768|In hoeveel tijd zou je een badkamer kunnen schoonmaken?|In hoeveel tijd zou je de woonkamer anders kunnen inrichten?|
+maison-769|Hoeveel denk je dat een vloerkleed van 160 × 230 cm voor de woonkamer waard is?|Hoeveel denk je dat een set verduisterende gordijnen waard is?|
+maison-770|Op welk moment van de week zou je het liefst een bouwpakketmeubel in elkaar zetten?|Op welk moment van de week zou je het liefst een keukenkastje opruimen?|
+maison-771|Welk tijdstip van de dag zou het handigst zijn om een plant voor je woonkamer uit te kiezen?|Welk tijdstip van de dag zou het handigst zijn om gordijnen op te hangen?|
+maison-772|Aan welke prijs denk je voor een katoenen dekbedovertrek?|Aan welke prijs denk je voor een goede draadloze stofzuiger?|
+maison-773|Hoe lang duurt het volgens jou om je kleren uit te zoeken?|Hoe lang duurt het volgens jou om een nieuwe plank op te hangen?|
+maison-774|Aan wie zou je hulp vragen om een kamer klaar te maken voor logés?|Aan wie zou je hulp vragen om een lamp te vervangen?|
+maison-775|Welke zin zou je eruit flappen als een buurman je waarschuwt dat het water wordt afgesloten?|Welke zin zou je eruit flappen als een bezorger een heel zwaar pakket naar boven brengt?|
+maison-776|In welke situatie zou je besluiten om een set sierkussens te kopen?|In welke situatie zou je besluiten om een wandkapstok te kopen?|
+maison-777|Wat zou je als eerste doen als je een meubel krijgt waar een onderdeel aan ontbreekt?|Wat zou je als eerste doen als je stofzuiger het begeeft?|
+maison-778|Hoe lang duurt het volgens jou om een keukenkastje op te ruimen?|Hoe lang duurt het volgens jou om een badkamer schoon te maken?|
+maison-779|Met wie zou je contact opnemen om je te helpen een lamp te vervangen?|Met wie zou je contact opnemen om je te helpen een kleine hal aan te kleden?|
+maison-780|Vanaf welke prijs zou je twijfelen om een schoenenkast te kopen?|Vanaf welke prijs zou je twijfelen om een opbergmand te kopen?|
