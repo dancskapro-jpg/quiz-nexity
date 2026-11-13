@@ -381,7 +381,7 @@ maison-760|¿Qué persona de tu entorno podría ayudarte a limpiar un baño?|¿Q
 maison-761|¿Qué momento del día elegirías para preparar una mudanza?|¿Qué momento del día elegirías para organizar los armarios de la cocina?|
 maison-762|¿Cuál sería tu primera reacción si se fundiera una bombilla durante la cena?|¿Cuál sería tu primera reacción si alguien cercano quisiera quedarse a dormir en tu casa sin avisar?|
 maison-763|¿Qué te llevaría a comprar una cafetera de goteo?|¿Qué te llevaría a comprar una caja de herramientas básica?|
-maison-764|¿Qué momento del día elegirías para ordenar una estantería de libros?|¿Qué momento del día elegirías para elegir una planta para tu salón?|
+maison-764|¿Qué momento del día escogerías para ordenar una estantería de libros?|¿Qué momento del día escogerías para elegir una planta para tu salón?|
 maison-765|¿En cuánto tiempo podrías preparar una mudanza?|¿En cuánto tiempo podrías organizar los armarios de la cocina?|
 maison-766|¿Con qué frecuencia te gustaría organizar un rincón de escritorio?|¿Con qué frecuencia te gustaría limpiar todos los cristales?|
 maison-767|¿En cuánto tiempo podrías vaciar y limpiar una nevera?|¿En cuánto tiempo podrías organizar un rincón de escritorio?|
@@ -411,3 +411,190 @@ enfance-715|¿Adónde irías a comprar un despertador infantil?|¿Adónde irías
 enfance-716|¿Cuánto tiempo te haría falta para hacer un dibujo para alguien cercano?|¿Cuánto tiempo te haría falta para montar una cabaña con cojines?|
 enfance-717|¿Dónde buscarías primero una fiambrera para la merienda?|¿Dónde buscarías primero una consola portátil pequeña?|
 enfance-718|¿Cuánto crees que cuesta un libro ilustrado infantil?|¿Cuánto crees que cuesta un peluche de calidad?|
+enfance-719|¿Qué frase te saldría si te regalaran algo que ya tienes?|¿Qué frase te saldría si te echaran la bronca por hablar en clase?|
+enfance-720|¿Qué frase te saldría si un compañero te pidiera tu merienda?|¿Qué frase te saldría si te eligieran el último para un equipo?|
+enfance-721|¿Adónde irías a comprar un balón de fútbol para jugar en el patio?|¿Adónde irías a comprar un cómic?|
+enfance-722|¿En qué momento de la semana preferirías preparar una exposición para clase?|¿En qué momento de la semana preferirías organizar un cumpleaños infantil?|
+enfance-723|¿Cuál sería tu prioridad si tuvieras que prepararte la merienda al salir del cole?|¿Cuál sería tu prioridad si tuvieras que repasar las tablas de multiplicar?|
+enfance-724|¿Cuál sería el mejor momento para hacer los deberes al salir del cole?|¿Cuál sería el mejor momento para elegir un juego para el recreo?|
+enfance-725|¿A quién contactarías para que te ayude a hacer un dibujo para alguien cercano?|¿A quién contactarías para que te ayude a montar una cabaña con cojines?|
+enfance-726|¿Qué harías primero si tu profe cambiara a todo el mundo de sitio?|¿Qué harías primero si se te olvidara la letra de una canción en la fiesta?|
+enfance-727|¿Qué sería lo más importante para preparar una fiesta del cole?|¿Qué sería lo más importante para elegir una actividad extraescolar?|activité du mercredi → actividad extraescolar
+enfance-728|¿Qué dirías si cancelaran el recreo por la lluvia?|¿Qué dirías si encontraras una moneda en el patio?|
+enfance-729|¿Qué dirías en ese momento si un niño se negara a compartir un juguete?|¿Qué dirías en ese momento si cancelaran el recreo por la lluvia?|
+enfance-730|¿Cuál sería tu principal dificultad para decorar un cuaderno?|¿Cuál sería tu principal dificultad para elegir un libro en la biblioteca?|
+enfance-731|¿Cuánto tiempo crees que hace falta para montar una cabaña con cojines?|¿Cuánto tiempo crees que hace falta para preparar una fiesta del cole?|
+enfance-732|¿En cuánto tiempo podrías repasar las tablas de multiplicar?|¿En cuánto tiempo podrías preparar una excursión con la clase?|
+enfance-733|¿Adónde irías a comprar un puzle de cien piezas?|¿Adónde irías a comprar una caja de plastilina?|
+enfance-734|¿Qué detalle comprobarías antes de ordenar una habitación infantil?|¿Qué detalle comprobarías antes de aprender a montar en bici?|
+enfance-735|¿Para qué ocasión querrías comprar un juego de mesa para toda la familia?|¿Para qué ocasión querrías comprar un libro ilustrado infantil?|
+enfance-736|¿Qué sería lo más importante para preparar tu disfraz de Carnaval?|¿Qué sería lo más importante para aprender a nadar?|
+enfance-737|¿A quién pedirías ayuda para ordenar una habitación infantil?|¿A quién pedirías ayuda para aprender a montar en bici?|
+enfance-738|¿Cuánto tiempo calcularías para aprender a nadar?|¿Cuánto tiempo calcularías para hacer un dibujo para alguien cercano?|
+enfance-739|¿Cuál sería tu principal dificultad para preparar la mochila para el día siguiente?|¿Cuál sería tu principal dificultad para hacer los deberes al salir del cole?|
+enfance-740|¿Cuánto estarías dispuesto a gastarte en una fiambrera para la merienda?|¿Cuánto estarías dispuesto a gastarte en una consola portátil pequeña?|
+enfance-741|¿Dónde buscarías primero un cómic?|¿Dónde buscarías primero una bolsa de canicas?|
+enfance-742|¿Cómo responderías si te eligieran el último para un equipo?|¿Cómo responderías si el profe te felicitara delante de toda la clase?|
+enfance-743|¿Cuál sería el mejor momento para montar una cabaña con cojines?|¿Cuál sería el mejor momento para preparar una fiesta del cole?|
+enfance-744|¿Qué frase te saldría si encontraras una moneda en el patio?|¿Qué frase te saldría si sacaras una buena nota que no te esperabas?|
+enfance-745|¿Cómo responderías si te echaran la bronca por hablar en clase?|¿Cómo responderías si tu equipo ganara un juego en el recreo?|
+enfance-746|¿Qué te llevaría a comprar una baraja de cartas ilustradas?|¿Qué te llevaría a comprar un despertador infantil?|
+enfance-747|¿En qué momento de la semana preferirías decorar un cuaderno?|¿En qué momento de la semana preferirías elegir un libro en la biblioteca?|
+enfance-748|¿Cuánto crees que cuesta una mochila para primaria?|¿Cuánto crees que cuesta una caja de veinticuatro lápices de colores?|
+enfance-749|¿En qué web o en qué tienda buscarías un diario con candado?|¿En qué web o en qué tienda buscarías una baraja de cartas ilustradas?|
+enfance-750|¿Qué franja del día sería la más práctica para aprenderte un poema de memoria?|¿Qué franja del día sería la más práctica para preparar una exposición para clase?|
+enfance-751|¿Cuál sería el mejor momento para elegir un libro en la biblioteca?|¿Cuál sería el mejor momento para preparar tu disfraz de Carnaval?|
+enfance-752|¿Cuál sería tu principal dificultad para hacer un dibujo para alguien cercano?|¿Cuál sería tu principal dificultad para montar una cabaña con cojines?|
+enfance-753|¿Qué detalle comprobarías antes de elegir una actividad extraescolar?|¿Qué detalle comprobarías antes de preparar la mochila para el día siguiente?|activité du mercredi → actividad extraescolar
+enfance-754|¿En qué momento te apetecería comprar un diario con candado?|¿En qué momento te apetecería comprar una baraja de cartas ilustradas?|
+enfance-755|¿Qué harías primero si tu mejor amigo se cambiara de cole?|¿Qué harías primero si te regalaran algo que ya tienes?|
+enfance-756|¿Cuál es, según tú, el precio de un juego de mesa para toda la familia?|¿Cuál es, según tú, el precio de un libro ilustrado infantil?|
+enfance-757|¿Cuál sería tu primera reacción si tu mejor amigo faltara el primer día de cole?|¿Cuál sería tu primera reacción si se te olvidara el cuaderno el día del examen?|
+enfance-758|¿Cómo reaccionarías si encontraras una moneda en el patio?|¿Cómo reaccionarías si sacaras una buena nota que no te esperabas?|
+enfance-759|¿Cuál es, según tú, el precio de una caja de veinticuatro lápices de colores?|¿Cuál es, según tú, el precio de un sobre de diez cartas coleccionables con licencia oficial?|
+enfance-760|¿Qué te llevaría a comprar un estuche original para el cole?|¿Qué te llevaría a comprar un juego de mesa para toda la familia?|
+enfance-761|¿Quién podría darte el mejor consejo para hacer los deberes al salir del cole?|¿Quién podría darte el mejor consejo para elegir un juego para el recreo?|
+enfance-762|¿Qué harías primero si cancelaran el recreo por la lluvia?|¿Qué harías primero si encontraras una moneda en el patio?|
+enfance-763|¿Qué momento del día elegirías para repasar un dictado?|¿Qué momento del día elegirías para ordenar una habitación infantil?|
+enfance-764|¿Cuál sería el mejor momento para prepararte la merienda al salir del cole?|¿Cuál sería el mejor momento para repasar las tablas de multiplicar?|
+enfance-765|¿En qué web o en qué tienda buscarías un juego de construcción?|¿En qué web o en qué tienda buscarías una bici para niños de seis a ocho años?|
+enfance-766|¿En qué situación decidirías comprar una caja de plastilina?|¿En qué situación decidirías comprar un diario con candado?|
+enfance-767|¿Dónde buscarías primero un sobre de diez cartas coleccionables con licencia oficial?|¿Dónde buscarías primero un juego de construcción?|
+enfance-768|¿Qué presupuesto máximo pondrías para una baraja de cartas ilustradas?|¿Qué presupuesto máximo pondrías para un despertador infantil?|
+enfance-769|¿Para qué ocasión querrías comprar un puzle de cien piezas?|¿Para qué ocasión querrías comprar una caja de plastilina?|
+enfance-770|¿Cómo reaccionarías si un compañero te pidiera tu merienda?|¿Cómo reaccionarías si te eligieran el último para un equipo?|
+enfance-771|¿Qué momento del día elegirías para repasar las tablas de multiplicar?|¿Qué momento del día elegirías para preparar una excursión con la clase?|
+enfance-772|¿Cuánto tiempo calcularías para aprenderte un poema de memoria?|¿Cuánto tiempo calcularías para preparar una exposición para clase?|
+enfance-773|¿Quién podría darte el mejor consejo para montar una cabaña con cojines?|¿Quién podría darte el mejor consejo para preparar una fiesta del cole?|
+enfance-774|¿Cuál sería tu primera reacción si tu equipo ganara un juego en el recreo?|¿Cuál sería tu primera reacción si un compañero te rompiera tu lápiz favorito?|
+enfance-775|¿Cuánto crees que cuesta un cómic?|¿Cuánto crees que cuesta una bolsa de canicas?|
+enfance-776|¿Cuál sería tu prioridad si tuvieras que montar una cabaña con cojines?|¿Cuál sería tu prioridad si tuvieras que preparar una fiesta del cole?|
+enfance-777|¿A qué sitio irías para encontrar una baraja de cartas ilustradas?|¿A qué sitio irías para encontrar un despertador infantil?|
+enfance-778|¿En cuánto tiempo podrías elegir un juego para el recreo?|¿En cuánto tiempo podrías aprenderte un poema de memoria?|
+enfance-779|¿Qué harías primero si un compañero te rompiera tu lápiz favorito?|¿Qué harías primero si te anunciaran una excursión sorpresa con el cole?|
+enfance-780|¿Cuál sería tu primera reacción si un amigo quisiera cambiarte la merienda?|¿Cuál sería tu primera reacción si tu profe cambiara a todo el mundo de sitio?|
+enfance-781|¿Qué dirías en ese momento si tu equipo ganara un juego en el recreo?|¿Qué dirías en ese momento si un compañero te rompiera tu lápiz favorito?|
+enfance-782|¿En qué situación decidirías comprar un libro ilustrado infantil?|¿En qué situación decidirías comprar un peluche de calidad?|
+enfance-783|¿Adónde irías a comprar una caja de veinticuatro lápices de colores?|¿Adónde irías a comprar un sobre de diez cartas coleccionables con licencia oficial?|
+enfance-784|¿Qué franja del día sería la más práctica para ordenar una habitación infantil?|¿Qué franja del día sería la más práctica para aprender a montar en bici?|
+enfance-785|¿A quién contactarías para que te ayude a aprender a montar en bici?|¿A quién contactarías para que te ayude a prepararte la merienda al salir del cole?|
+enfance-786|¿Cuánto estarías dispuesto a gastarte en un cómic?|¿Cuánto estarías dispuesto a gastarte en una bolsa de canicas?|
+enfance-787|¿Cuál sería tu prioridad si tuvieras que hacer los deberes al salir del cole?|¿Cuál sería tu prioridad si tuvieras que elegir un juego para el recreo?|
+enfance-788|¿Cuánto tiempo calcularías para preparar una excursión con la clase?|¿Cuánto tiempo calcularías para decorar un cuaderno?|
+enfance-789|¿Cuánto estarías dispuesto a gastarte en un sobre de diez cartas coleccionables con licencia oficial?|¿Cuánto estarías dispuesto a gastarte en un juego de construcción?|
+enfance-790|¿Qué dirías si tu mejor amigo se cambiara de cole?|¿Qué dirías si te regalaran algo que ya tienes?|
+enfance-791|¿Qué dirías si un compañero te rompiera tu lápiz favorito?|¿Qué dirías si te anunciaran una excursión sorpresa con el cole?|
+enfance-792|¿En cuánto tiempo podrías preparar tu disfraz de Carnaval?|¿En cuánto tiempo podrías aprender a nadar?|
+enfance-793|¿Qué dirías en ese momento si el profe te felicitara delante de toda la clase?|¿Qué dirías en ese momento si tu mejor amigo se cambiara de cole?|
+enfance-794|¿En cuánto tiempo podrías repasar un dictado?|¿En cuánto tiempo podrías ordenar una habitación infantil?|
+enfance-795|¿Cuánto tiempo crees que hace falta para prepararte la merienda al salir del cole?|¿Cuánto tiempo crees que hace falta para repasar las tablas de multiplicar?|
+enfance-796|¿Para qué ocasión querrías comprar un despertador infantil?|¿Para qué ocasión querrías comprar una fiambrera para la merienda?|
+enfance-797|¿Qué precio te imaginas para un juego de construcción?|¿Qué precio te imaginas para una bici para niños de seis a ocho años?|
+enfance-798|¿Cuál sería tu primer impulso si te eligieran el último para un equipo?|¿Cuál sería tu primer impulso si el profe te felicitara delante de toda la clase?|
+enfance-799|¿Cuánto estarías dispuesto a gastarte en un libro ilustrado infantil?|¿Cuánto estarías dispuesto a gastarte en un peluche de calidad?|
+enfance-800|¿Cuánto crees que cuesta una baraja de cartas ilustradas?|¿Cuánto crees que cuesta un despertador infantil?|
+enfance-801|¿Cuál sería tu prioridad si tuvieras que organizar un cumpleaños infantil?|¿Cuál sería tu prioridad si tuvieras que repasar un dictado?|
+enfance-802|¿Qué persona de tu entorno podría ayudarte a elegir un juego para el recreo?|¿Qué persona de tu entorno podría ayudarte a aprenderte un poema de memoria?|
+enfance-803|¿En qué momento de la semana preferirías aprender a montar en bici?|¿En qué momento de la semana preferirías prepararte la merienda al salir del cole?|
+enfance-804|¿Cuál sería tu primera reacción si el profe te felicitara delante de toda la clase?|¿Cuál sería tu primera reacción si tu mejor amigo se cambiara de cole?|
+enfance-805|¿En qué situación decidirías comprar un cómic?|¿En qué situación decidirías comprar una bolsa de canicas?|
+enfance-806|¿Qué persona de tu entorno podría ayudarte a preparar tu disfraz de Carnaval?|¿Qué persona de tu entorno podría ayudarte a aprender a nadar?|
+enfance-807|¿Qué presupuesto máximo pondrías para unos patines en línea para principiantes?|¿Qué presupuesto máximo pondrías para un puzle de cien piezas?|
+enfance-808|¿Qué te llevaría a comprar unos patines en línea para principiantes?|¿Qué te llevaría a comprar un puzle de cien piezas?|
+enfance-809|¿Qué momento del día escogerías para elegir un juego para el recreo?|¿Qué momento del día escogerías para aprenderte un poema de memoria?|
+enfance-810|¿Qué sería lo más importante para elegir un juego para el recreo?|¿Qué sería lo más importante para aprenderte un poema de memoria?|
+enfance-811|¿Cuánto tiempo crees que hace falta para hacer los deberes al salir del cole?|¿Cuánto tiempo crees que hace falta para elegir un juego para el recreo?|
+enfance-812|¿En qué momento te apetecería comprar un juego de construcción?|¿En qué momento te apetecería comprar una bici para niños de seis a ocho años?|
+enfance-813|¿Cuál sería tu principal dificultad para aprender a montar en bici?|¿Cuál sería tu principal dificultad para prepararte la merienda al salir del cole?|
+enfance-814|¿Cuánto tiempo te haría falta para decorar un cuaderno?|¿Cuánto tiempo te haría falta para elegir un libro en la biblioteca?|
+enfance-815|¿A qué sitio irías para encontrar unos patines en línea para principiantes?|¿A qué sitio irías para encontrar un puzle de cien piezas?|
+enfance-816|¿Qué harías primero si se te olvidara el cuaderno el día del examen?|¿Qué harías primero si un compañero te pidiera tu merienda?|
+enfance-817|¿En qué momento te apetecería comprar una bolsa de canicas?|¿En qué momento te apetecería comprar un estuche original para el cole?|
+enfance-818|¿A quién pedirías ayuda para aprenderte un poema de memoria?|¿A quién pedirías ayuda para preparar una exposición para clase?|
+enfance-819|¿Cuánto tiempo te haría falta para aprender a montar en bici?|¿Cuánto tiempo te haría falta para prepararte la merienda al salir del cole?|
+enfance-820|¿Hasta cuánto pagarías por una bolsa de canicas?|¿Hasta cuánto pagarías por un estuche original para el cole?|
+enfance-821|¿A quién contactarías para que te ayude a decorar un cuaderno?|¿A quién contactarías para que te ayude a elegir un libro en la biblioteca?|
+enfance-822|¿Qué presupuesto máximo pondrías para un estuche original para el cole?|¿Qué presupuesto máximo pondrías para un juego de mesa para toda la familia?|
+enfance-823|¿Qué te llevaría a comprar una mochila para primaria?|¿Qué te llevaría a comprar una caja de veinticuatro lápices de colores?|
+enfance-824|¿Cuál sería tu primer impulso si tuvieras que recitar un poema delante de la clase?|¿Cuál sería tu primer impulso si un amigo quisiera cambiarte la merienda?|
+enfance-825|¿En qué momento te apetecería comprar un peluche de calidad?|¿En qué momento te apetecería comprar unos patines en línea para principiantes?|
+enfance-826|¿Qué persona de tu entorno podría ayudarte a repasar las tablas de multiplicar?|¿Qué persona de tu entorno podría ayudarte a preparar una excursión con la clase?|
+enfance-827|¿Qué dirías si tu profe cambiara a todo el mundo de sitio?|¿Qué dirías si se te olvidara la letra de una canción en la fiesta?|
+enfance-828|¿A qué sitio irías para encontrar un estuche original para el cole?|¿A qué sitio irías para encontrar un juego de mesa para toda la familia?|
+enfance-829|¿A partir de qué precio dudarías en comprar un juego de mesa para toda la familia?|¿A partir de qué precio dudarías en comprar un libro ilustrado infantil?|
+enfance-830|¿A quién pedirías ayuda para elegir una actividad extraescolar?|¿A quién pedirías ayuda para preparar la mochila para el día siguiente?|activité du mercredi → actividad extraescolar
+enfance-831|¿Qué persona de tu entorno podría ayudarte a preparar una fiesta del cole?|¿Qué persona de tu entorno podría ayudarte a elegir una actividad extraescolar?|activité du mercredi → actividad extraescolar
+enfance-832|¿Qué frase te saldría si se te olvidara la letra de una canción en la fiesta?|¿Qué frase te saldría si tus padres descubrieran un dibujo que tenías escondido?|
+enfance-833|¿A partir de qué precio dudarías en comprar una caja de veinticuatro lápices de colores?|¿A partir de qué precio dudarías en comprar un sobre de diez cartas coleccionables con licencia oficial?|
+enfance-834|¿Cuánto tiempo te haría falta para preparar la mochila para el día siguiente?|¿Cuánto tiempo te haría falta para hacer los deberes al salir del cole?|
+enfance-835|¿Cuánto tiempo crees que hace falta para organizar un cumpleaños infantil?|¿Cuánto tiempo crees que hace falta para repasar un dictado?|
+enfance-836|¿Cuál sería tu primer impulso si tus padres descubrieran un dibujo que tenías escondido?|¿Cuál sería tu primer impulso si un niño se negara a compartir un juguete?|
+enfance-837|¿Cómo responderías si tus padres descubrieran un dibujo que tenías escondido?|¿Cómo responderías si un niño se negara a compartir un juguete?|
+enfance-838|¿Cuál es, según tú, el precio de un balón de fútbol para jugar en el patio?|¿Cuál es, según tú, el precio de un cómic?|
+enfance-839|¿Cuál sería tu primer impulso si te echaran la bronca por hablar en clase?|¿Cuál sería tu primer impulso si tu equipo ganara un juego en el recreo?|
+enfance-840|¿Adónde irías a comprar un juego de mesa para toda la familia?|¿Adónde irías a comprar un libro ilustrado infantil?|
+enfance-841|¿En cuánto tiempo podrías preparar una fiesta del cole?|¿En cuánto tiempo podrías elegir una actividad extraescolar?|activité du mercredi → actividad extraescolar
+enfance-842|¿Cuál sería tu prioridad si tuvieras que elegir un libro en la biblioteca?|¿Cuál sería tu prioridad si tuvieras que preparar tu disfraz de Carnaval?|
+enfance-843|¿Cuánto crees que cuesta una bici para niños de seis a ocho años?|¿Cuánto crees que cuesta un balón de fútbol para jugar en el patio?|
+enfance-844|¿Qué franja del día sería la más práctica para elegir una actividad extraescolar?|¿Qué franja del día sería la más práctica para preparar la mochila para el día siguiente?|activité du mercredi → actividad extraescolar
+enfance-845|¿A qué sitio irías para encontrar una mochila para primaria?|¿A qué sitio irías para encontrar una caja de veinticuatro lápices de colores?|
+enfance-846|¿Qué frase te saldría si te anunciaran una excursión sorpresa con el cole?|¿Qué frase te saldría si tuvieras que recitar un poema delante de la clase?|
+enfance-847|¿Cómo reaccionarías si te anunciaran una excursión sorpresa con el cole?|¿Cómo reaccionarías si tuvieras que recitar un poema delante de la clase?|
+enfance-848|¿Qué precio te imaginas para una bolsa de canicas?|¿Qué precio te imaginas para un estuche original para el cole?|
+enfance-849|¿Qué precio te imaginas para un diario con candado?|¿Qué precio te imaginas para una baraja de cartas ilustradas?|
+enfance-850|¿Quién podría darte el mejor consejo para prepararte la merienda al salir del cole?|¿Quién podría darte el mejor consejo para repasar las tablas de multiplicar?|
+enfance-851|¿Qué momento del día escogerías para preparar una fiesta del cole?|¿Qué momento del día escogerías para elegir una actividad extraescolar?|activité du mercredi → actividad extraescolar
+enfance-852|¿Qué dirías en ese momento si tu mejor amigo faltara el primer día de cole?|¿Qué dirías en ese momento si se te olvidara el cuaderno el día del examen?|
+enfance-853|¿A partir de qué precio dudarías en comprar un puzle de cien piezas?|¿A partir de qué precio dudarías en comprar una caja de plastilina?|
+enfance-854|¿Hasta cuánto pagarías por una consola portátil pequeña?|¿Hasta cuánto pagarías por una mochila para primaria?|
+enfance-855|¿Quién podría darte el mejor consejo para elegir un libro en la biblioteca?|¿Quién podría darte el mejor consejo para preparar tu disfraz de Carnaval?|
+enfance-856|¿Qué franja del día sería la más práctica para aprender a nadar?|¿Qué franja del día sería la más práctica para hacer un dibujo para alguien cercano?|
+enfance-857|¿En qué momento te apetecería comprar una consola portátil pequeña?|¿En qué momento te apetecería comprar una mochila para primaria?|
+enfance-858|¿En qué momento de la semana preferirías hacer un dibujo para alguien cercano?|¿En qué momento de la semana preferirías montar una cabaña con cojines?|
+enfance-859|¿Qué presupuesto máximo pondrías para una mochila para primaria?|¿Qué presupuesto máximo pondrías para una caja de veinticuatro lápices de colores?|
+enfance-860|¿Cómo reaccionarías si se te olvidara la letra de una canción en la fiesta?|¿Cómo reaccionarías si tus padres descubrieran un dibujo que tenías escondido?|
+enfance-861|¿Cuál sería tu primera reacción si un niño se negara a compartir un juguete?|¿Cuál sería tu primera reacción si cancelaran el recreo por la lluvia?|
+enfance-862|¿Cuánto tiempo calcularías para ordenar una habitación infantil?|¿Cuánto tiempo calcularías para aprender a montar en bici?|
+enfance-863|¿Qué sería lo más importante para repasar un dictado?|¿Qué sería lo más importante para ordenar una habitación infantil?|
+enfance-864|¿Qué momento del día elegirías para preparar tu disfraz de Carnaval?|¿Qué momento del día elegirías para aprender a nadar?|
+enfance-865|¿Qué presupuesto máximo pondrías para una bici para niños de seis a ocho años?|¿Qué presupuesto máximo pondrías para un balón de fútbol para jugar en el patio?|
+enfance-866|¿Cuál sería tu principal dificultad para preparar una exposición para clase?|¿Cuál sería tu principal dificultad para organizar un cumpleaños infantil?|
+enfance-867|¿En qué web o en qué tienda buscarías un peluche de calidad?|¿En qué web o en qué tienda buscarías unos patines en línea para principiantes?|
+enfance-868|¿Para qué ocasión querrías comprar un balón de fútbol para jugar en el patio?|¿Para qué ocasión querrías comprar un cómic?|
+enfance-869|¿Cuál sería el mejor momento para organizar un cumpleaños infantil?|¿Cuál sería el mejor momento para repasar un dictado?|
+enfance-870|¿Cuál sería tu primer impulso si sacaras una buena nota que no te esperabas?|¿Cuál sería tu primer impulso si tu mejor amigo faltara el primer día de cole?|
+enfance-871|¿En qué situación decidirías comprar un sobre de diez cartas coleccionables con licencia oficial?|¿En qué situación decidirías comprar un juego de construcción?|
+enfance-872|¿En qué momento de la semana preferirías preparar la mochila para el día siguiente?|¿En qué momento de la semana preferirías hacer los deberes al salir del cole?|
+enfance-873|¿Hasta cuánto pagarías por un peluche de calidad?|¿Hasta cuánto pagarías por unos patines en línea para principiantes?|
+enfance-874|¿Dónde buscarías primero una caja de plastilina?|¿Dónde buscarías primero un diario con candado?|
+enfance-875|¿Qué te llevaría a comprar una bici para niños de seis a ocho años?|¿Qué te llevaría a comprar un balón de fútbol para jugar en el patio?|
+enfance-876|¿Cómo responderías si tuvieras que recitar un poema delante de la clase?|¿Cómo responderías si un amigo quisiera cambiarte la merienda?|
+enfance-877|¿Hasta cuánto pagarías por un juego de construcción?|¿Hasta cuánto pagarías por una bici para niños de seis a ocho años?|
+enfance-878|¿A quién pedirías ayuda para aprender a nadar?|¿A quién pedirías ayuda para hacer un dibujo para alguien cercano?|
+enfance-879|¿Cuánto tiempo calcularías para elegir una actividad extraescolar?|¿Cuánto tiempo calcularías para preparar la mochila para el día siguiente?|activité du mercredi → actividad extraescolar
+enfance-880|¿Cuál es, según tú, el precio de un puzle de cien piezas?|¿Cuál es, según tú, el precio de una caja de plastilina?|
+enfance-881|¿Cuánto crees que cuesta una fiambrera para la merienda?|¿Cuánto crees que cuesta una consola portátil pequeña?|
+enfance-882|¿En qué web o en qué tienda buscarías una consola portátil pequeña?|¿En qué web o en qué tienda buscarías una mochila para primaria?|
+enfance-883|¿Para qué ocasión querrías comprar una caja de veinticuatro lápices de colores?|¿Para qué ocasión querrías comprar un sobre de diez cartas coleccionables con licencia oficial?|
+enfance-884|¿En qué situación decidirías comprar una fiambrera para la merienda?|¿En qué situación decidirías comprar una consola portátil pequeña?|
+enfance-885|¿Cuánto estarías dispuesto a gastarte en una caja de plastilina?|¿Cuánto estarías dispuesto a gastarte en un diario con candado?|
+enfance-886|¿Qué dirías si se te olvidara el cuaderno el día del examen?|¿Qué dirías si un compañero te pidiera tu merienda?|
+enfance-887|¿Cuánto tiempo te haría falta para preparar una exposición para clase?|¿Cuánto tiempo te haría falta para organizar un cumpleaños infantil?|
+enfance-888|¿Qué precio te imaginas para una consola portátil pequeña?|¿Qué precio te imaginas para una mochila para primaria?|
+enfance-889|¿Cuánto crees que cuestan unos patines en línea para principiantes?|¿Cuánto crees que cuesta un puzle de cien piezas?|
+enfance-890|¿A partir de qué precio dudarías en comprar un despertador infantil?|¿A partir de qué precio dudarías en comprar una fiambrera para la merienda?|
+enfance-891|¿Dónde buscarías primero un libro ilustrado infantil?|¿Dónde buscarías primero un peluche de calidad?|
+enfance-892|¿A quién contactarías para que te ayude a preparar la mochila para el día siguiente?|¿A quién contactarías para que te ayude a hacer los deberes al salir del cole?|
+enfance-893|¿Qué sería lo más importante para repasar las tablas de multiplicar?|¿Qué sería lo más importante para preparar una excursión con la clase?|
+enfance-894|¿A quién pedirías ayuda para preparar una excursión con la clase?|¿A quién pedirías ayuda para decorar un cuaderno?|
+enfance-895|¿Cuánto crees que cuesta un sobre de diez cartas coleccionables con licencia oficial?|¿Cuánto crees que cuesta un juego de construcción?|
+enfance-896|¿Qué dirías en ese momento si un amigo quisiera cambiarte la merienda?|¿Qué dirías en ese momento si tu profe cambiara a todo el mundo de sitio?|
+enfance-897|¿Cómo reaccionarías si te regalaran algo que ya tienes?|¿Cómo reaccionarías si te echaran la bronca por hablar en clase?|
+enfance-898|¿Cuánto crees que cuesta un estuche original para el cole?|¿Cuánto crees que cuesta un juego de mesa para toda la familia?|
+enfance-899|¿Cuánto tiempo crees que hace falta para elegir un libro en la biblioteca?|¿Cuánto tiempo crees que hace falta para preparar tu disfraz de Carnaval?|
+enfance-900|¿En qué web o en qué tienda buscarías una bolsa de canicas?|¿En qué web o en qué tienda buscarías un estuche original para el cole?|
+enfance-901|¿Qué detalle comprobarías antes de preparar una excursión con la clase?|¿Qué detalle comprobarías antes de decorar un cuaderno?|
+enfance-902|¿Qué detalle comprobarías antes de aprender a nadar?|¿Qué detalle comprobarías antes de hacer un dibujo para alguien cercano?|
+enfance-903|¿Qué precio te imaginas para un peluche de calidad?|¿Qué precio te imaginas para unos patines en línea para principiantes?|
+enfance-904|¿A quién contactarías para que te ayude a preparar una exposición para clase?|¿A quién contactarías para que te ayude a organizar un cumpleaños infantil?|
+enfance-905|¿Qué franja del día sería la más práctica para preparar una excursión con la clase?|¿Qué franja del día sería la más práctica para decorar un cuaderno?|

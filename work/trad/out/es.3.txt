@@ -298,3 +298,303 @@ tech-611|¿Qué precio te imaginas para un buen micro USB?|¿Qué precio te imag
 tech-612|¿Cuánto tiempo crees que hace falta para configurar un móvil nuevo?|¿Cuánto tiempo crees que hace falta para ordenar tus notificaciones?|
 tech-613|¿Cuál sería tu primer impulso si tu móvil se calentara sin motivo?|¿Cuál sería tu primer impulso si recibieras cincuenta notificaciones de golpe?|
 tech-614|¿Con qué frecuencia sueles hacer una copia de seguridad?|¿Con qué frecuencia sueles reorganizar tu pantalla de inicio?|
+tech-615|¿Cuál sería tu primera reacción si una reunión por vídeo empezara sin sonido?|¿Cuál sería tu primera reacción si se te fuera el wifi durante una llamada importante?|
+tech-616|¿En qué momento te darían ganas de comprar un reloj inteligente sencillo?|¿En qué momento te darían ganas de comprar un altavoz Bluetooth portátil?|
+tech-617|¿A qué sitio irías a buscar un monitor de ordenador de 27 pulgadas?|¿A qué sitio irías a buscar una funda protectora resistente?|
+tech-618|¿Cuánto tiempo crees que hace falta para limpiar tu bandeja de entrada?|¿Cuánto tiempo crees que hace falta para comprobar un enlace sospechoso?|
+tech-619|¿Qué frase te saldría si un vídeo que subes se hiciera viral?|¿Qué frase te saldría si tu móvil se calentara sin motivo?|
+tech-620|¿En qué web o en qué tienda buscarías un disco duro externo de 2 TB?|¿En qué web o en qué tienda buscarías un pendrive USB 3.0 de 128 GB?|
+tech-621|¿En cuánto tiempo podrías ajustar la configuración de privacidad?|¿En cuánto tiempo podrías pasar tus contactos?|
+tech-622|¿Cómo reaccionarías si tu ordenador te pidiera una actualización urgente?|¿Cómo reaccionarías si un amigo te etiquetara en una foto antigua?|
+tech-623|¿Cuál es para ti el precio de un soporte de móvil para el coche?|¿Cuál es para ti el precio de una lámpara inteligente?|
+tech-624|¿Cuánto crees que cuesta un monitor de ordenador de 27 pulgadas?|¿Cuánto crees que cuesta una funda protectora resistente?|
+tech-625|¿Dónde buscarías primero un cable USB-C de calidad?|¿Dónde buscarías primero un disco duro externo de 2 TB?|
+tech-626|¿En cuánto tiempo podrías comprobar un enlace sospechoso?|¿En cuánto tiempo podrías aprender un nuevo atajo de teclado?|
+tech-627|¿Qué harías primero si una app cambiara su interfaz?|¿Qué harías primero si tu ordenador te pidiera una actualización urgente?|
+tech-628|¿Cuántas veces al año tienes ocasión de comprobar un enlace sospechoso?|¿Cuántas veces al año tienes ocasión de aprender un nuevo atajo de teclado?|
+tech-629|¿Cómo responderías si un amigo te etiquetara en una foto antigua?|¿Cómo responderías si se te llenara el almacenamiento antes de un viaje?|
+tech-630|¿Hasta cuánto pagarías por un portátil de 14 pulgadas para trabajar?|¿Hasta cuánto pagarías por un monitor de ordenador de 27 pulgadas?|
+tech-631|¿A quién pedirías ayuda para explicarle una app a alguien cercano?|¿A quién pedirías ayuda para hacer copia de las fotos de tu móvil?|
+tech-632|¿Hasta cuánto pagarías por un reloj inteligente sencillo?|¿Hasta cuánto pagarías por un altavoz Bluetooth portátil?|
+tech-633|¿Qué te llevaría a comprar un teclado compacto inalámbrico?|¿Qué te llevaría a comprar una suscripción de 200 GB de almacenamiento en la nube al mes?|
+tech-634|¿Con qué frecuencia sueles actualizar un ordenador?|¿Con qué frecuencia sueles organizar tus archivos en la nube?|
+tech-635|¿Qué franja del día sería la más práctica para recuperar una contraseña antigua?|¿Qué franja del día sería la más práctica para comparar dos tarifas de móvil?|
+tech-636|¿Qué momento del día elegirías para comprobar un enlace sospechoso?|¿Qué momento del día elegirías para aprender un nuevo atajo de teclado?|
+tech-637|¿Con qué frecuencia sueles limpiar tu bandeja de entrada?|¿Con qué frecuencia sueles comprobar un enlace sospechoso?|
+tech-638|¿A qué sitio irías a buscar un pendrive USB 3.0 de 128 GB?|¿A qué sitio irías a buscar un soporte de móvil para el coche?|
+tech-639|¿Qué momento del día elegirías para ajustar la configuración de privacidad?|¿Qué momento del día elegirías para pasar tus contactos?|
+tech-640|¿Con qué frecuencia sueles elegir una foto de perfil?|¿Con qué frecuencia sueles ajustar la configuración de privacidad?|
+tech-641|¿En cuánto tiempo podrías ordenar tus notificaciones?|¿En cuánto tiempo podrías recuperar una contraseña antigua?|
+tech-642|¿A qué sitio irías a buscar un altavoz Bluetooth portátil?|¿A qué sitio irías a buscar un router wifi reciente?|
+tech-643|¿Qué dirías en el momento si se te llenara el almacenamiento antes de un viaje?|¿Qué dirías en el momento si tu móvil bajara al 2 % de batería?|
+tech-644|¿Qué harías primero si un amigo te pidiera tu contraseña?|¿Qué harías primero si un vídeo que subes se hiciera viral?|
+tech-645|¿Cuál sería tu primera reacción si recibieras cincuenta notificaciones de golpe?|¿Cuál sería tu primera reacción si una app cambiara su interfaz?|
+tech-646|¿Dónde buscarías primero un trípode para el móvil?|¿Dónde buscarías primero un buen micro USB?|
+tech-647|¿Qué presupuesto máximo pondrías para un altavoz Bluetooth portátil?|¿Qué presupuesto máximo pondrías para un router wifi reciente?|
+tech-648|¿Qué harías primero si enviaras un mensaje al grupo equivocado?|¿Qué harías primero si te bloquearan la cuenta temporalmente?|
+tech-649|¿Qué momento del día elegirías para ordenar tus notificaciones?|¿Qué momento del día elegirías para recuperar una contraseña antigua?|
+tech-650|¿Qué momento del día elegirías para organizar tus archivos en la nube?|¿Qué momento del día elegirías para arreglar un aparato que va demasiado lento?|
+tech-651|¿Para qué ocasión querrías comprar una batería externa de 20 000 mAh?|¿Para qué ocasión querrías comprar un cargador inalámbrico?|
+tech-652|¿Qué persona de tu entorno podría ayudarte a ordenar tus notificaciones?|¿Qué persona de tu entorno podría ayudarte a recuperar una contraseña antigua?|
+tech-653|¿Qué te llevaría a comprar un móvil de gama media?|¿Qué te llevaría a comprar una batería externa de 20 000 mAh?|
+tech-654|¿Qué presupuesto máximo pondrías para un teclado compacto inalámbrico?|¿Qué presupuesto máximo pondrías para una suscripción de 200 GB de almacenamiento en la nube al mes?|
+tech-655|¿En cuánto tiempo podrías organizar tus archivos en la nube?|¿En cuánto tiempo podrías arreglar un aparato que va demasiado lento?|
+tech-656|¿Cuánto tiempo crees que hace falta para actualizar un ordenador?|¿Cuánto tiempo crees que hace falta para organizar tus archivos en la nube?|
+tech-657|¿Cuánto tiempo calcularías para recuperar una contraseña antigua?|¿Cuánto tiempo calcularías para comparar dos tarifas de móvil?|
+tech-658|¿Cuánto tiempo necesitarías para hacer copia de las fotos de tu móvil?|¿Cuánto tiempo necesitarías para configurar un móvil nuevo?|
+tech-659|¿Cuántas veces al mes tienes ocasión de configurar un altavoz inteligente?|¿Cuántas veces al mes tienes ocasión de hacer una copia de seguridad?|
+tech-660|¿Qué te llevaría a comprar un altavoz Bluetooth portátil?|¿Qué te llevaría a comprar un router wifi reciente?|
+tech-661|¿Adónde irías a comprar una batería externa de 20 000 mAh?|¿Adónde irías a comprar un cargador inalámbrico?|
+tech-662|¿Cuánto tiempo necesitarías para preparar una videoconferencia?|¿Cuánto tiempo necesitarías para elegir una foto de perfil?|
+tech-663|¿Cómo responderías si una app pidiera demasiados permisos?|¿Cómo responderías si un amigo compartiera un bulo?|
+tech-664|¿Adónde irías a comprar un soporte de móvil para el coche?|¿Adónde irías a comprar una lámpara inteligente?|
+tech-665|¿En qué momento te darían ganas de comprar un disco duro externo de 2 TB?|¿En qué momento te darían ganas de comprar un pendrive USB 3.0 de 128 GB?|
+tech-666|¿Cuántas veces al año tienes ocasión de organizar tus archivos en la nube?|¿Cuántas veces al año tienes ocasión de arreglar un aparato que va demasiado lento?|
+tech-667|¿A partir de qué precio te lo pensarías antes de comprar una batería externa de 20 000 mAh?|¿A partir de qué precio te lo pensarías antes de comprar un cargador inalámbrico?|
+tech-668|¿Cuánto piensas que vale un cargador inalámbrico?|¿Cuánto piensas que vale un portátil de 14 pulgadas para trabajar?|
+tech-669|¿Cuál sería tu primer impulso si una app pidiera demasiados permisos?|¿Cuál sería tu primer impulso si un amigo compartiera un bulo?|
+tech-670|¿Cuántas veces al año tienes ocasión de ajustar la configuración de privacidad?|¿Cuántas veces al año tienes ocasión de pasar tus contactos?|
+tech-671|¿Cuánto crees que cuesta un pendrive USB 3.0 de 128 GB?|¿Cuánto crees que cuesta un soporte de móvil para el coche?|
+tech-672|¿Cuántas veces al año tienes ocasión de ordenar tus notificaciones?|¿Cuántas veces al año tienes ocasión de recuperar una contraseña antigua?|
+tech-673|¿Cuántas veces al mes tienes ocasión de hacer copia de las fotos de tu móvil?|¿Cuántas veces al mes tienes ocasión de configurar un móvil nuevo?|
+tech-674|¿Con qué frecuencia te gustaría arreglar un aparato que va demasiado lento?|¿Con qué frecuencia te gustaría preparar una videoconferencia?|
+tech-675|¿Cuál sería tu primera reacción si un amigo compartiera un bulo?|¿Cuál sería tu primera reacción si enviaras un mensaje al grupo equivocado?|
+tech-676|¿A quién llamarías para que te ayude a instalar la app del banco?|¿A quién llamarías para que te ayude a limpiar tu bandeja de entrada?|
+tech-677|¿En qué web o en qué tienda buscarías un portátil de 14 pulgadas para trabajar?|¿En qué web o en qué tienda buscarías un monitor de ordenador de 27 pulgadas?|
+tech-678|¿Cuál es para ti el precio de un router wifi reciente?|¿Cuál es para ti el precio de un cable USB-C de calidad?|
+tech-679|¿Cuánto piensas que vale un trípode para el móvil?|¿Cuánto piensas que vale un buen micro USB?|
+tech-680|¿Cuánto tiempo crees que hace falta para hacer una copia de seguridad?|¿Cuánto tiempo crees que hace falta para reorganizar tu pantalla de inicio?|
+tech-681|¿Cómo responderías si recibieras una llamada de un número desconocido?|¿Cómo responderías si una reunión por vídeo empezara sin sonido?|
+tech-682|¿Cuánto piensas que vale una lámpara inteligente?|¿Cuánto piensas que vale una webcam de alta definición?|
+tech-683|¿Cuánto tiempo calcularías para aprender un nuevo atajo de teclado?|¿Cuánto tiempo calcularías para configurar un altavoz inteligente?|
+tech-684|¿Qué franja del día sería la más práctica para aprender un nuevo atajo de teclado?|¿Qué franja del día sería la más práctica para configurar un altavoz inteligente?|
+tech-685|¿A quién pedirías ayuda para arreglar un aparato que va demasiado lento?|¿A quién pedirías ayuda para preparar una videoconferencia?|
+tech-686|¿Con qué frecuencia te gustaría pasar tus contactos?|¿Con qué frecuencia te gustaría instalar la app del banco?|
+tech-687|¿Qué dirías en el momento si recibieras cincuenta notificaciones de golpe?|¿Qué dirías en el momento si una app cambiara su interfaz?|
+tech-688|¿Cuánto tiempo necesitarías para instalar la app del banco?|¿Cuánto tiempo necesitarías para limpiar tu bandeja de entrada?|
+tech-689|¿A partir de qué precio te lo pensarías antes de comprar una funda protectora resistente?|¿A partir de qué precio te lo pensarías antes de comprar unos cascos con cancelación activa de ruido para los trayectos en tren?|
+tech-690|¿En qué momento te darían ganas de comprar un portátil de 14 pulgadas para trabajar?|¿En qué momento te darían ganas de comprar un monitor de ordenador de 27 pulgadas?|
+tech-691|¿Cuánto tiempo calcularías para explicarle una app a alguien cercano?|¿Cuánto tiempo calcularías para hacer copia de las fotos de tu móvil?|
+tech-692|¿A quién llamarías para que te ayude a preparar una videoconferencia?|¿A quién llamarías para que te ayude a elegir una foto de perfil?|
+tech-693|¿Qué persona de tu entorno podría ayudarte a ajustar la configuración de privacidad?|¿Qué persona de tu entorno podría ayudarte a pasar tus contactos?|
+tech-694|¿En qué momento te darían ganas de comprar una webcam de alta definición?|¿En qué momento te darían ganas de comprar un teclado compacto inalámbrico?|
+tech-695|¿Qué te llevaría a comprar un monitor de ordenador de 27 pulgadas?|¿Qué te llevaría a comprar una funda protectora resistente?|
+tech-696|¿Dónde buscarías primero una lámpara inteligente?|¿Dónde buscarías primero una webcam de alta definición?|
+tech-697|¿Quién podría darte el mejor consejo para limpiar tu bandeja de entrada?|¿Quién podría darte el mejor consejo para comprobar un enlace sospechoso?|
+tech-698|¿A quién pedirías ayuda para recuperar una contraseña antigua?|¿A quién pedirías ayuda para comparar dos tarifas de móvil?|
+tech-699|¿Cuánto piensas que vale un cable USB-C de calidad?|¿Cuánto piensas que vale un disco duro externo de 2 TB?|
+tech-700|¿Cuál sería tu primera reacción si se te llenara el almacenamiento antes de un viaje?|¿Cuál sería tu primera reacción si tu móvil bajara al 2 % de batería?|
+tech-701|¿Qué frase te saldría si tu ordenador te pidiera una actualización urgente?|¿Qué frase te saldría si un amigo te etiquetara en una foto antigua?|
+tech-702|¿Cuál sería el mejor momento para configurar un móvil nuevo?|¿Cuál sería el mejor momento para ordenar tus notificaciones?|
+tech-703|¿Cuántas veces al mes tienes ocasión de instalar la app del banco?|¿Cuántas veces al mes tienes ocasión de limpiar tu bandeja de entrada?|
+tech-704|¿Dónde buscarías primero un cargador inalámbrico?|¿Dónde buscarías primero un portátil de 14 pulgadas para trabajar?|
+tech-705|¿Cuánto estarías dispuesto a gastarte en un trípode para el móvil?|¿Cuánto estarías dispuesto a gastarte en un buen micro USB?|
+tech-706|¿Qué momento de la semana preferirías para comparar dos tarifas de móvil?|¿Qué momento de la semana preferirías para actualizar un ordenador?|
+tech-707|¿Qué dirías si una app cambiara su interfaz?|¿Qué dirías si tu ordenador te pidiera una actualización urgente?|
+tech-708|¿Cómo responderías si descubrieras una suscripción que tenías olvidada?|¿Cómo responderías si un audio durara ocho minutos?|
+tech-709|¿Hasta cuánto pagarías por una webcam de alta definición?|¿Hasta cuánto pagarías por un teclado compacto inalámbrico?|
+tech-710|¿Qué precio te imaginas para una webcam de alta definición?|¿Qué precio te imaginas para un teclado compacto inalámbrico?|
+tech-711|¿A quién pedirías ayuda para aprender un nuevo atajo de teclado?|¿A quién pedirías ayuda para configurar un altavoz inteligente?|
+tech-712|¿Cuál sería tu primera reacción si un audio durara ocho minutos?|¿Cuál sería tu primera reacción si un amigo te pidiera tu contraseña?|
+tech-713|¿A partir de qué precio te lo pensarías antes de comprar una suscripción de 200 GB de almacenamiento en la nube al mes?|¿A partir de qué precio te lo pensarías antes de comprar un trípode para el móvil?|
+tech-714|¿En qué situación decidirías comprar una lámpara inteligente?|¿En qué situación decidirías comprar una webcam de alta definición?|
+musique-334|¿En qué momento te darían ganas de comprar una entrada para un festival de un día?|¿En qué momento te darían ganas de comprar una camiseta de la gira?|
+musique-335|¿A quién pedirías ayuda para aprender una pieza sencilla al piano?|¿A quién pedirías ayuda para organizar una salida a un concierto?|
+musique-336|¿En qué momento te darían ganas de comprar un abono mensual a una sala de ensayo?|¿En qué momento te darían ganas de comprar una entrada de pista para un concierto en el WiZink Center?|Accor Arena → WiZink Center
+musique-337|¿En cuánto tiempo podrías aprender un ritmo de guitarra?|¿En cuánto tiempo podrías preparar una playlist de cumpleaños?|
+musique-338|¿Cuál sería tu primera reacción si el concierto empezara con una hora de retraso?|¿Cuál sería tu primera reacción si te pidieran que te encargaras de la música en una fiesta?|
+musique-339|¿Cuál es para ti el precio de una funda para guardar vinilos?|¿Cuál es para ti el precio de un juego de karaoke?|
+musique-340|¿Cuánto crees que cuesta una entrada con asiento para un concierto en una sala grande?|¿Cuánto crees que cuestan unos tapones para conciertos?|
+musique-341|¿Cuánto tiempo crees que hace falta para descubrir a un artista nuevo?|¿Cuánto tiempo crees que hace falta para elegir la música para una cena?|
+musique-342|¿Qué frase te saldría si un amigo te recomendara un artista desconocido?|¿Qué frase te saldría si el público cantara más fuerte que el artista?|
+musique-343|¿Quién podría darte el mejor consejo para descubrir a un artista nuevo?|¿Quién podría darte el mejor consejo para elegir la música para una cena?|
+musique-344|¿Cuántas veces al año tienes ocasión de aprender un ritmo de guitarra?|¿Cuántas veces al año tienes ocasión de preparar una playlist de cumpleaños?|
+musique-345|¿Adónde irías a comprar una guitarra acústica de iniciación?|¿Adónde irías a comprar un teclado musical para principiantes?|
+musique-346|¿Qué franja del día sería la más práctica para preparar una canción a dúo?|¿Qué franja del día sería la más práctica para hacer una playlist para un trayecto?|
+musique-347|¿Dónde buscarías primero un teclado musical para principiantes?|¿Dónde buscarías primero un micrófono para cantar?|
+musique-348|¿Cuánto estarías dispuesto a gastarte en un juego de karaoke?|¿Cuánto estarías dispuesto a gastarte en un abono mensual a una sala de ensayo?|
+musique-349|¿Qué frase te saldría si el DJ se negara a poner la canción que le pediste?|¿Qué frase te saldría si te propusieran subir al escenario a cantar?|
+musique-350|¿Qué harías primero si un amigo quisiera poner la misma canción diez veces?|¿Qué harías primero si el sonido fuera malo en un concierto?|
+musique-351|¿A quién llamarías para que te ayude a preparar una playlist para hacer deporte?|¿A quién llamarías para que te ayude a ordenar una colección de música?|
+musique-352|¿Cuántas veces al mes tienes ocasión de recomendarle cinco canciones a un amigo?|¿Cuántas veces al mes tienes ocasión de elegir la música de una boda?|
+musique-353|¿Cuántas veces al año tienes ocasión de escuchar un álbum de principio a fin?|¿Cuántas veces al año tienes ocasión de elegir una canción para un vídeo?|
+musique-354|¿Qué dirías en el momento si un invitado pidiera una canción que cortara el rollo?|¿Qué dirías en el momento si tu grupo favorito volviera a juntarse?|
+musique-355|¿Cuánto piensas que vale un juego de karaoke?|¿Cuánto piensas que vale un abono mensual a una sala de ensayo?|
+musique-356|¿Qué harías primero si tu artista favorito anunciara una gira?|¿Qué harías primero si alguien criticara tu canción favorita?|
+musique-357|¿Qué persona de tu entorno podría ayudarte a aprender un ritmo de guitarra?|¿Qué persona de tu entorno podría ayudarte a preparar una playlist de cumpleaños?|
+musique-358|¿Cuánto crees que cuesta el alquiler de un estudio de ensayo durante una hora?|¿Cuánto crees que cuesta una funda para guardar vinilos?|
+musique-359|¿Qué momento del día escogerías para elegir la música para una cena?|¿Qué momento del día elegirías para aprender una pieza sencilla al piano?|
+musique-360|¿Cuántas veces al año tienes ocasión de elegir la música para una cena?|¿Cuántas veces al año tienes ocasión de aprender una pieza sencilla al piano?|
+musique-361|¿Cuál sería el mejor momento para descubrir a un artista nuevo?|¿Cuál sería el mejor momento para elegir la música para una cena?|
+musique-362|¿Adónde irías a comprar unos tapones para conciertos?|¿Adónde irías a comprar un póster de concierto enmarcado?|
+musique-363|¿A quién llamarías para que te ayude a preparar una noche de karaoke?|¿A quién llamarías para que te ayude a descubrir a un artista nuevo?|
+musique-364|¿Cuánto piensas que valen unos cascos con cable de calidad?|¿Cuánto piensas que vale un altavoz portátil resistente?|
+musique-365|¿Para qué ocasión querrías comprar unos tapones para conciertos?|¿Para qué ocasión querrías comprar un póster de concierto enmarcado?|
+musique-366|¿Cuánto crees que cuesta una entrada de pista para un concierto en el WiZink Center?|¿Cuánto crees que cuesta una suscripción mensual de música?|Accor Arena → WiZink Center
+musique-367|¿Cuántas veces al año tienes ocasión de aprenderte la letra de un estribillo?|¿Cuántas veces al año tienes ocasión de elegir una canción para bailar?|
+musique-368|¿Qué dirías si tu artista favorito anunciara una gira?|¿Qué dirías si alguien criticara tu canción favorita?|
+musique-369|¿Cómo reaccionarías si un amigo te recomendara un artista desconocido?|¿Cómo reaccionarías si el público cantara más fuerte que el artista?|
+musique-370|¿Cuál sería el mejor momento para ordenar una colección de música?|¿Cuál sería el mejor momento para aprender un ritmo de guitarra?|
+musique-371|¿Qué dirías si oyeras tu música favorita en una tienda?|¿Qué dirías si el DJ se negara a poner la canción que le pediste?|
+musique-372|¿A quién pedirías ayuda para preparar una playlist de cumpleaños?|¿A quién pedirías ayuda para recomendarle cinco canciones a un amigo?|
+musique-373|¿Cuál es para ti el precio de una suscripción mensual de música?|¿Cuál es para ti el precio de unos cascos con cable de calidad?|
+musique-374|¿Cuál es para ti el precio de unos tapones para conciertos?|¿Cuál es para ti el precio de un póster de concierto enmarcado?|
+musique-375|¿Con qué frecuencia sueles encontrar una canción que oíste por la calle?|¿Con qué frecuencia sueles aprenderte la letra de un estribillo?|
+musique-376|¿Cuánto piensas que vale un póster de concierto enmarcado?|¿Cuánto piensas que vale una clase de canto individual?|
+musique-377|¿En cuánto tiempo podrías encontrar un concierto a menos de treinta minutos de tu casa?|¿En cuánto tiempo podrías preparar una canción a dúo?|
+musique-378|¿En cuánto tiempo podrías aprenderte la letra de un estribillo?|¿En cuánto tiempo podrías elegir una canción para bailar?|
+musique-379|¿Qué dirías en el momento si tuvieras que elegir la última canción de una fiesta?|¿Qué dirías en el momento si tu artista favorito anunciara una gira?|
+musique-380|¿Cuánto tiempo necesitarías para preparar una playlist para hacer deporte?|¿Cuánto tiempo necesitarías para ordenar una colección de música?|
+musique-381|¿Cuál sería tu primer impulso si te propusieran subir al escenario a cantar?|¿Cuál sería tu primer impulso si tuvieras que elegir la última canción de una fiesta?|
+musique-382|¿En qué web o en qué tienda buscarías un abono mensual a una sala de ensayo?|¿En qué web o en qué tienda buscarías una entrada de pista para un concierto en el WiZink Center?|Accor Arena → WiZink Center
+musique-383|¿Cuánto tiempo calcularías para aprender una pieza sencilla al piano?|¿Cuánto tiempo calcularías para organizar una salida a un concierto?|
+musique-384|¿Qué precio te imaginas para una entrada para un festival de un día?|¿Qué precio te imaginas para una camiseta de la gira?|
+musique-385|¿Cuál sería tu primera reacción si un artista se olvidara de la letra en el escenario?|¿Cuál sería tu primera reacción si un amigo quisiera poner la misma canción diez veces?|
+musique-386|¿Hasta cuánto pagarías por un altavoz portátil resistente?|¿Hasta cuánto pagarías por un vinilo de un álbum reciente?|
+musique-387|¿A quién pedirías ayuda para preparar una canción a dúo?|¿A quién pedirías ayuda para hacer una playlist para un trayecto?|
+musique-388|¿En qué situación decidirías comprar un póster de concierto enmarcado?|¿En qué situación decidirías reservar una clase de canto individual?|
+musique-389|¿Dónde buscarías primero unos cascos con cable de calidad?|¿Dónde buscarías primero un altavoz portátil resistente?|
+musique-390|¿Cuál sería tu primera reacción si alguien pusiera una canción de tu infancia?|¿Cuál sería tu primera reacción si oyeras tu música favorita en una tienda?|
+musique-391|¿Qué precio te imaginas para un abono mensual a una sala de ensayo?|¿Qué precio te imaginas para una entrada de pista para un concierto en el WiZink Center?|Accor Arena → WiZink Center
+musique-392|¿Hasta cuánto pagarías por una entrada para un festival de un día?|¿Hasta cuánto pagarías por una camiseta de la gira?|
+musique-393|¿A quién pedirías ayuda para elegir una canción para bailar?|¿A quién pedirías ayuda para preparar una noche de karaoke?|
+musique-394|¿Qué harías primero si te pidieran que te encargaras de la música en una fiesta?|¿Qué harías primero si reconocieras una canción desde las primeras notas?|
+musique-395|¿Para qué ocasión querrías comprar una guitarra acústica de iniciación?|¿Para qué ocasión querrías comprar un teclado musical para principiantes?|
+musique-396|¿Qué dirías en el momento si un artista se olvidara de la letra en el escenario?|¿Qué dirías en el momento si un amigo quisiera poner la misma canción diez veces?|
+musique-397|¿Qué te llevaría a comprar una camiseta de la gira?|¿Qué te llevaría a comprar una guitarra acústica de iniciación?|
+musique-398|¿En cuánto tiempo podrías elegir la música para una cena?|¿En cuánto tiempo podrías aprender una pieza sencilla al piano?|
+musique-399|¿En qué web o en qué tienda buscarías una entrada para un festival de un día?|¿En qué web o en qué tienda buscarías una camiseta de la gira?|
+musique-400|¿Cuánto crees que cuesta una camiseta de la gira?|¿Cuánto crees que cuesta una guitarra acústica de iniciación?|
+musique-401|¿Quién podría darte el mejor consejo para ordenar una colección de música?|¿Quién podría darte el mejor consejo para aprender un ritmo de guitarra?|
+musique-402|¿En qué web o en qué tienda buscarías un altavoz portátil resistente?|¿En qué web o en qué tienda buscarías un vinilo de un álbum reciente?|
+musique-403|¿Hasta cuánto pagarías por un abono mensual a una sala de ensayo?|¿Hasta cuánto pagarías por una entrada de pista para un concierto en el WiZink Center?|Accor Arena → WiZink Center
+musique-404|¿Para qué ocasión querrías comprar una suscripción mensual de música?|¿Para qué ocasión querrías comprar unos cascos con cable de calidad?|
+musique-405|¿Qué dirías si te pidieran que te encargaras de la música en una fiesta?|¿Qué dirías si reconocieras una canción desde las primeras notas?|
+musique-406|¿Cuál sería tu primera reacción si tuvieras que elegir la última canción de una fiesta?|¿Cuál sería tu primera reacción si tu artista favorito anunciara una gira?|
+musique-407|¿A qué sitio irías a buscar un estudio de ensayo para alquilar durante una hora?|¿A qué sitio irías a buscar una funda para guardar vinilos?|
+musique-408|¿Qué frase te saldría si alguien criticara tu canción favorita?|¿Qué frase te saldría si un amigo desafinara en el karaoke?|
+musique-409|¿Cómo responderías si te propusieran subir al escenario a cantar?|¿Cómo responderías si tuvieras que elegir la última canción de una fiesta?|
+musique-410|¿Cuántas veces al año tienes ocasión de encontrar un concierto a menos de treinta minutos de tu casa?|¿Cuántas veces al año tienes ocasión de preparar una canción a dúo?|
+musique-411|¿Cuánto tiempo necesitarías para preparar una noche de karaoke?|¿Cuánto tiempo necesitarías para descubrir a un artista nuevo?|
+musique-412|¿Qué momento de la semana preferirías para preparar una playlist para hacer deporte?|¿Qué momento de la semana preferirías para ordenar una colección de música?|
+musique-413|¿En qué situación decidirías comprar unos cascos con cable de calidad?|¿En qué situación decidirías comprar un altavoz portátil resistente?|
+musique-414|¿Qué dirías si tu grupo favorito volviera a juntarse?|¿Qué dirías si un amigo te recomendara un artista desconocido?|
+musique-415|¿En qué momento te darían ganas de reservar una clase de canto individual?|¿En qué momento te darían ganas de reservar un estudio de ensayo durante una hora?|
+musique-416|¿Qué franja del día sería la más práctica para aprender una pieza sencilla al piano?|¿Qué franja del día sería la más práctica para organizar una salida a un concierto?|
+musique-417|¿A partir de qué precio te lo pensarías antes de comprar una guitarra acústica de iniciación?|¿A partir de qué precio te lo pensarías antes de comprar un teclado musical para principiantes?|
+musique-418|¿Cuál sería el mejor momento para comparar dos versiones de una canción?|¿Cuál sería el mejor momento para escuchar un álbum de principio a fin?|
+musique-419|¿Adónde irías a comprar una suscripción mensual de música?|¿Adónde irías a comprar unos cascos con cable de calidad?|
+musique-420|¿Cuántas veces al mes tienes ocasión de preparar una noche de karaoke?|¿Cuántas veces al mes tienes ocasión de descubrir a un artista nuevo?|
+musique-421|¿Dónde buscarías primero un juego de karaoke?|¿Dónde buscarías primero un abono mensual a una sala de ensayo?|
+musique-422|¿Qué momento de la semana preferirías para organizar una salida a un concierto?|¿Qué momento de la semana preferirías para comparar dos versiones de una canción?|
+musique-423|¿Adónde irías a comprar una funda para guardar vinilos?|¿Adónde irías a comprar un juego de karaoke?|
+musique-424|¿Qué momento de la semana preferirías para recomendarle cinco canciones a un amigo?|¿Qué momento de la semana preferirías para elegir la música de una boda?|
+musique-425|¿Cuánto tiempo crees que hace falta para encontrar una canción que oíste por la calle?|¿Cuánto tiempo crees que hace falta para aprenderte la letra de un estribillo?|
+musique-426|¿Cuánto crees que cuesta un vinilo de un álbum reciente?|¿Cuánto crees que cuesta un tocadiscos de gama de entrada?|
+musique-427|¿Dónde buscarías primero unos auriculares inalámbricos?|¿Dónde buscarías primero una entrada para un festival de un día?|
+musique-428|¿Con qué frecuencia te gustaría aprender una pieza sencilla al piano?|¿Con qué frecuencia te gustaría organizar una salida a un concierto?|
+musique-429|¿Cuánto tiempo calcularías para elegir una canción para un vídeo?|¿Cuánto tiempo calcularías para preparar una playlist para hacer deporte?|
+musique-430|¿En qué web o en qué tienda buscarías un micrófono para cantar?|¿En qué web o en qué tienda buscarías una entrada con asiento para un concierto en una sala grande?|
+musique-431|¿Cuál es para ti el precio de un tocadiscos de gama de entrada?|¿Cuál es para ti el precio de unos auriculares inalámbricos?|
+musique-432|¿Qué dirías en el momento si el concierto empezara con una hora de retraso?|¿Qué dirías en el momento si te pidieran que te encargaras de la música en una fiesta?|
+musique-433|¿A qué sitio irías a buscar una camiseta de la gira?|¿A qué sitio irías a buscar una guitarra acústica de iniciación?|
+musique-434|¿En qué web o en qué tienda buscarías una clase de canto individual?|¿En qué web o en qué tienda buscarías un estudio de ensayo para alquilar durante una hora?|
+musique-435|¿Qué presupuesto máximo pondrías para una entrada con asiento para un concierto en una sala grande?|¿Qué presupuesto máximo pondrías para unos tapones para conciertos?|
+musique-436|¿Hasta cuánto pagarías por un micrófono para cantar?|¿Hasta cuánto pagarías por una entrada con asiento para un concierto en una sala grande?|
+musique-437|¿Qué persona de tu entorno podría ayudarte a encontrar un concierto a menos de treinta minutos de tu casa?|¿Qué persona de tu entorno podría ayudarte a preparar una canción a dúo?|
+musique-438|¿Con qué frecuencia te gustaría preparar una playlist de cumpleaños?|¿Con qué frecuencia te gustaría recomendarle cinco canciones a un amigo?|
+musique-439|¿Cuánto tiempo crees que hace falta para elegir la música de una boda?|¿Cuánto tiempo crees que hace falta para encontrar un concierto a menos de treinta minutos de tu casa?|
+musique-440|¿Cómo responderías si el público cantara más fuerte que el artista?|¿Cómo responderías si alguien pusiera una canción de tu infancia?|
+musique-441|¿Cuánto tiempo necesitarías para hacer una playlist para un trayecto?|¿Cuánto tiempo necesitarías para encontrar una canción que oíste por la calle?|
+musique-442|¿Qué precio te imaginas para una clase de canto individual?|¿Qué precio te imaginas para el alquiler de un estudio de ensayo durante una hora?|
+musique-443|¿Cuánto estarías dispuesto a gastarte en unos auriculares inalámbricos?|¿Cuánto estarías dispuesto a gastarte en una entrada para un festival de un día?|
+musique-444|¿Qué persona de tu entorno podría ayudarte a aprenderte la letra de un estribillo?|¿Qué persona de tu entorno podría ayudarte a elegir una canción para bailar?|
+musique-445|¿Qué presupuesto máximo pondrías para un vinilo de un álbum reciente?|¿Qué presupuesto máximo pondrías para un tocadiscos de gama de entrada?|
+musique-446|¿En qué situación decidirías comprar un teclado musical para principiantes?|¿En qué situación decidirías comprar un micrófono para cantar?|
+musique-447|¿Cuál sería tu primer impulso si el público cantara más fuerte que el artista?|¿Cuál sería tu primer impulso si alguien pusiera una canción de tu infancia?|
+musique-448|¿Cuántas veces al mes tienes ocasión de preparar una playlist para hacer deporte?|¿Cuántas veces al mes tienes ocasión de ordenar una colección de música?|
+musique-449|¿Qué te llevaría a comprar un vinilo de un álbum reciente?|¿Qué te llevaría a comprar un tocadiscos de gama de entrada?|
+musique-450|¿Con qué frecuencia sueles descubrir a un artista nuevo?|¿Con qué frecuencia sueles elegir la música para una cena?|
+musique-451|¿Qué harías primero si oyeras tu música favorita en una tienda?|¿Qué harías primero si el DJ se negara a poner la canción que le pediste?|
+musique-452|¿Con qué frecuencia te gustaría elegir una canción para bailar?|¿Con qué frecuencia te gustaría preparar una noche de karaoke?|
+musique-453|¿A partir de qué precio te lo pensarías antes de comprar una suscripción mensual de música?|¿A partir de qué precio te lo pensarías antes de comprar unos cascos con cable de calidad?|
+musique-454|¿Con qué frecuencia te gustaría elegir una canción para un vídeo?|¿Con qué frecuencia te gustaría preparar una playlist para hacer deporte?|
+musique-455|¿Con qué frecuencia sueles comparar dos versiones de una canción?|¿Con qué frecuencia sueles escuchar un álbum de principio a fin?|
+musique-456|¿Cuál sería tu primer impulso si encontraras un CD antiguo en un cajón?|¿Cuál sería tu primer impulso si un invitado pidiera una canción que cortara el rollo?|
+musique-457|¿Hasta cuánto pagarías por una clase de canto individual?|¿Hasta cuánto pagarías por el alquiler de un estudio de ensayo durante una hora?|
+musique-458|¿A quién llamarías para que te ayude a hacer una playlist para un trayecto?|¿A quién llamarías para que te ayude a encontrar una canción que oíste por la calle?|
+musique-459|¿Cuál sería tu primer impulso si tus auriculares se quedaran sin batería?|¿Cuál sería tu primer impulso si un artista se olvidara de la letra en el escenario?|
+musique-460|¿Cuánto tiempo calcularías para elegir una canción para bailar?|¿Cuánto tiempo calcularías para preparar una noche de karaoke?|
+musique-461|¿A qué sitio irías a buscar una entrada con asiento para un concierto en una sala grande?|¿A qué sitio irías a buscar unos tapones para conciertos?|
+musique-462|¿Qué te llevaría a reservar un estudio de ensayo durante una hora?|¿Qué te llevaría a comprar una funda para guardar vinilos?|
+musique-463|¿Cuánto tiempo crees que hace falta para ordenar una colección de música?|¿Cuánto tiempo crees que hace falta para aprender un ritmo de guitarra?|
+musique-464|¿A qué sitio irías a buscar un vinilo de un álbum reciente?|¿A qué sitio irías a buscar un tocadiscos de gama de entrada?|
+musique-465|¿Con qué frecuencia sueles elegir la música de una boda?|¿Con qué frecuencia sueles encontrar un concierto a menos de treinta minutos de tu casa?|
+musique-466|¿A partir de qué precio te lo pensarías antes de comprar una funda para guardar vinilos?|¿A partir de qué precio te lo pensarías antes de comprar un juego de karaoke?|
+musique-467|¿A quién pedirías ayuda para elegir una canción para un vídeo?|¿A quién pedirías ayuda para preparar una playlist para hacer deporte?|
+musique-468|¿Qué persona de tu entorno podría ayudarte a escuchar un álbum de principio a fin?|¿Qué persona de tu entorno podría ayudarte a elegir una canción para un vídeo?|
+musique-469|¿Cuál sería el mejor momento para encontrar una canción que oíste por la calle?|¿Cuál sería el mejor momento para aprenderte la letra de un estribillo?|
+musique-470|¿Quién podría darte el mejor consejo para comparar dos versiones de una canción?|¿Quién podría darte el mejor consejo para escuchar un álbum de principio a fin?|
+musique-471|¿Cómo reaccionarías si el sonido fuera malo en un concierto?|¿Cómo reaccionarías si encontraras un CD antiguo en un cajón?|
+musique-472|¿Dónde buscarías primero un póster de concierto enmarcado?|¿Dónde buscarías primero una clase de canto individual?|
+musique-473|¿Quién podría darte el mejor consejo para encontrar una canción que oíste por la calle?|¿Quién podría darte el mejor consejo para aprenderte la letra de un estribillo?|
+musique-474|¿Cuántas veces al mes tienes ocasión de organizar una salida a un concierto?|¿Cuántas veces al mes tienes ocasión de comparar dos versiones de una canción?|
+musique-475|¿Qué frase te saldría si el sonido fuera malo en un concierto?|¿Qué frase te saldría si encontraras un CD antiguo en un cajón?|
+musique-476|¿A quién llamarías para que te ayude a organizar una salida a un concierto?|¿A quién llamarías para que te ayude a comparar dos versiones de una canción?|
+musique-477|¿A partir de qué precio te lo pensarías antes de comprar un tocadiscos de gama de entrada?|¿A partir de qué precio te lo pensarías antes de comprar unos auriculares inalámbricos?|
+musique-478|¿En qué situación decidirías comprar unos auriculares inalámbricos?|¿En qué situación decidirías comprar una entrada para un festival de un día?|
+musique-479|¿Quién podría darte el mejor consejo para elegir la música de una boda?|¿Quién podría darte el mejor consejo para encontrar un concierto a menos de treinta minutos de tu casa?|
+musique-480|¿Qué frase te saldría si reconocieras una canción desde las primeras notas?|¿Qué frase te saldría si tus auriculares se quedaran sin batería?|
+musique-481|¿Adónde irías a comprar un tocadiscos de gama de entrada?|¿Adónde irías a comprar unos auriculares inalámbricos?|
+musique-482|¿Qué presupuesto máximo pondrías para el alquiler de un estudio de ensayo durante una hora?|¿Qué presupuesto máximo pondrías para una funda para guardar vinilos?|
+musique-483|¿Cómo reaccionarías si alguien criticara tu canción favorita?|¿Cómo reaccionarías si un amigo desafinara en el karaoke?|
+musique-484|¿Qué momento de la semana preferirías para hacer una playlist para un trayecto?|¿Qué momento de la semana preferirías para encontrar una canción que oíste por la calle?|
+musique-485|¿Qué te llevaría a comprar una entrada con asiento para un concierto en una sala grande?|¿Qué te llevaría a comprar unos tapones para conciertos?|
+musique-486|¿Qué persona de tu entorno podría ayudarte a elegir la música para una cena?|¿Qué persona de tu entorno podría ayudarte a aprender una pieza sencilla al piano?|
+musique-487|¿Qué te llevaría a comprar una entrada de pista para un concierto en el WiZink Center?|¿Qué te llevaría a comprar una suscripción mensual de música?|Accor Arena → WiZink Center
+musique-488|¿A partir de qué precio te lo pensarías antes de comprar unos tapones para conciertos?|¿A partir de qué precio te lo pensarías antes de comprar un póster de concierto enmarcado?|
+musique-489|¿Qué presupuesto máximo pondrías para una camiseta de la gira?|¿Qué presupuesto máximo pondrías para una guitarra acústica de iniciación?|
+musique-490|¿Cuál sería tu primer impulso si un amigo desafinara en el karaoke?|¿Cuál sería tu primer impulso si el concierto empezara con una hora de retraso?|
+musique-491|¿Qué precio te imaginas para un altavoz portátil resistente?|¿Qué precio te imaginas para un vinilo de un álbum reciente?|
+musique-492|¿Cuánto tiempo crees que hace falta para comparar dos versiones de una canción?|¿Cuánto tiempo crees que hace falta para escuchar un álbum de principio a fin?|
+musique-493|¿En qué momento te darían ganas de comprar un altavoz portátil resistente?|¿En qué momento te darían ganas de comprar un vinilo de un álbum reciente?|
+musique-494|¿Qué momento de la semana preferirías para preparar una noche de karaoke?|¿Qué momento de la semana preferirías para descubrir a un artista nuevo?|
+musique-495|¿Cómo reaccionarías si reconocieras una canción desde las primeras notas?|¿Cómo reaccionarías si tus auriculares se quedaran sin batería?|
+musique-496|¿A qué sitio irías a buscar una entrada de pista para un concierto en el WiZink Center?|¿A qué sitio irías a buscar una suscripción mensual de música?|Accor Arena → WiZink Center
+musique-497|¿Qué harías primero si tu grupo favorito volviera a juntarse?|¿Qué harías primero si un amigo te recomendara un artista desconocido?|
+musique-498|¿En qué momento te darían ganas de comprar un micrófono para cantar?|¿En qué momento te darían ganas de comprar una entrada con asiento para un concierto en una sala grande?|
+musique-499|¿Cuánto tiempo calcularías para preparar una canción a dúo?|¿Cuánto tiempo calcularías para hacer una playlist para un trayecto?|
+musique-500|¿Qué franja del día sería la más práctica para elegir una canción para un vídeo?|¿Qué franja del día sería la más práctica para preparar una playlist para hacer deporte?|
+musique-501|¿Cómo responderías si tus auriculares se quedaran sin batería?|¿Cómo responderías si un artista se olvidara de la letra en el escenario?|
+musique-502|¿Qué presupuesto máximo pondrías para una entrada de pista para un concierto en el WiZink Center?|¿Qué presupuesto máximo pondrías para una suscripción mensual de música?|Accor Arena → WiZink Center
+musique-503|¿Cuál es para ti el precio de una guitarra acústica de iniciación?|¿Cuál es para ti el precio de un teclado musical para principiantes?|
+musique-504|¿Qué franja del día sería la más práctica para elegir una canción para bailar?|¿Qué franja del día sería la más práctica para preparar una noche de karaoke?|
+musique-505|¿Cuántas veces al mes tienes ocasión de hacer una playlist para un trayecto?|¿Cuántas veces al mes tienes ocasión de encontrar una canción que oíste por la calle?|
+musique-506|¿Cómo reaccionarías si el DJ se negara a poner la canción que le pediste?|¿Cómo reaccionarías si te propusieran subir al escenario a cantar?|
+musique-507|¿Para qué ocasión querrías comprar un tocadiscos de gama de entrada?|¿Para qué ocasión querrías comprar unos auriculares inalámbricos?|
+musique-508|¿Qué momento del día elegirías para aprenderte la letra de un estribillo?|¿Qué momento del día escogerías para elegir una canción para bailar?|
+musique-509|¿Cómo responderías si un amigo desafinara en el karaoke?|¿Cómo responderías si el concierto empezara con una hora de retraso?|
+musique-510|¿Cuánto tiempo necesitarías para recomendarle cinco canciones a un amigo?|¿Cuánto tiempo necesitarías para elegir la música de una boda?|
+musique-511|¿Para qué ocasión querrías comprar una funda para guardar vinilos?|¿Para qué ocasión querrías comprar un juego de karaoke?|
+musique-512|¿Qué franja del día sería la más práctica para preparar una playlist de cumpleaños?|¿Qué franja del día sería la más práctica para recomendarle cinco canciones a un amigo?|
+musique-513|¿Cómo responderías si encontraras un CD antiguo en un cajón?|¿Cómo responderías si un invitado pidiera una canción que cortara el rollo?|
+musique-514|¿En cuánto tiempo podrías escuchar un álbum de principio a fin?|¿En cuánto tiempo podrías elegir una canción para un vídeo?|
+musique-515|¿Qué momento del día elegirías para aprender un ritmo de guitarra?|¿Qué momento del día elegirías para preparar una playlist de cumpleaños?|
+musique-516|¿Qué momento del día elegirías para encontrar un concierto a menos de treinta minutos de tu casa?|¿Qué momento del día elegirías para preparar una canción a dúo?|
+musique-517|¿Qué momento del día elegirías para escuchar un álbum de principio a fin?|¿Qué momento del día escogerías para elegir una canción para un vídeo?|
+musique-518|¿Cuánto piensas que vale un teclado musical para principiantes?|¿Cuánto piensas que vale un micrófono para cantar?|
+musique-519|¿Cuánto estarías dispuesto a gastarte en unos cascos con cable de calidad?|¿Cuánto estarías dispuesto a gastarte en un altavoz portátil resistente?|
+musique-520|¿Qué precio te imaginas para un micrófono para cantar?|¿Qué precio te imaginas para una entrada con asiento para un concierto en una sala grande?|
+musique-521|¿Con qué frecuencia te gustaría preparar una canción a dúo?|¿Con qué frecuencia te gustaría hacer una playlist para un trayecto?|
+musique-522|¿Con qué frecuencia sueles ordenar una colección de música?|¿Con qué frecuencia sueles aprender un ritmo de guitarra?|
+musique-523|¿Cuánto estarías dispuesto a gastarte en un teclado musical para principiantes?|¿Cuánto estarías dispuesto a gastarte en un micrófono para cantar?|
+musique-524|¿Cuánto tiempo calcularías para preparar una playlist de cumpleaños?|¿Cuánto tiempo calcularías para recomendarle cinco canciones a un amigo?|
+musique-525|¿Qué dirías en el momento si alguien pusiera una canción de tu infancia?|¿Qué dirías en el momento si oyeras tu música favorita en una tienda?|
+musique-526|¿Cuál sería tu primera reacción si un invitado pidiera una canción que cortara el rollo?|¿Cuál sería tu primera reacción si tu grupo favorito volviera a juntarse?|
+musique-527|¿Cuánto tiempo necesitarías para organizar una salida a un concierto?|¿Cuánto tiempo necesitarías para comparar dos versiones de una canción?|
+musique-528|¿Cuál sería el mejor momento para elegir la música de una boda?|¿Cuál sería el mejor momento para encontrar un concierto a menos de treinta minutos de tu casa?|
+musique-529|¿A quién llamarías para que te ayude a recomendarle cinco canciones a un amigo?|¿A quién llamarías para que te ayude a elegir la música de una boda?|
+musique-530|¿Cuánto piensas que valen unos auriculares inalámbricos?|¿Cuánto piensas que vale una entrada para un festival de un día?|
+musique-531|¿En qué situación decidirías comprar un juego de karaoke?|¿En qué situación decidirías comprar un abono mensual a una sala de ensayo?|
+musique-532|¿Cuánto estarías dispuesto a gastarte en un póster de concierto enmarcado?|¿Cuánto estarías dispuesto a gastarte en una clase de canto individual?|
+musique-533|¿Qué dirías si un amigo quisiera poner la misma canción diez veces?|¿Qué dirías si el sonido fuera malo en un concierto?|

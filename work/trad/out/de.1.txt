@@ -198,3 +198,203 @@ classique-807|Wann hättest du Lust, eine LED-Schreibtischlampe mit Gelenkarm zu
 classique-808|Was würdest du sagen, wenn du eine Last-Minute-Einladung bekommst?|Was würdest du sagen, wenn du dein Ladegerät für den ganzen Tag vergessen hast?|
 classique-809|Was würdest du als Erstes tun, wenn du auf der Straße einen alten Schulkameraden triffst, den du seit zehn Jahren aus den Augen verloren hast?|Was würdest du als Erstes tun, wenn du ein Geschenk bekommst, das dir nicht gefällt?|camarade de collège → Schulkamerad
 classique-810|In welcher Situation würdest du dich entscheiden, ein USB-C-Schnellladegerät mit 30 W zu kaufen?|In welcher Situation würdest du dich entscheiden, einen bequemen Sessel fürs Wohnzimmer zu kaufen?|
+soiree-594|Was kostet deiner Meinung nach ein Kartenspiel?|Was kostet deiner Meinung nach eine Platte mit Mini-Sandwiches?|
+soiree-595|Was wäre dein erster Reflex, wenn ein Nachbar dich bittet, die Musik leiser zu machen?|Was wäre dein erster Reflex, wenn das letzte Stück Kuchen verschwindet?|
+soiree-596|Wo würdest du ein Set passender Gläser kaufen?|Wo würdest du einen Blumenstrauß als Dankeschön für den Gastgeber kaufen?|
+soiree-597|Welchen Preis stellst du dir für eine Geburtstagsdeko vor?|Welchen Preis stellst du dir für einen Kuchen für zehn Personen vor?|
+soiree-598|Wann hättest du Lust, verschiedene Sorten Chips zu kaufen?|Wann hättest du Lust, ein Kartenspiel zu kaufen?|
+soiree-599|Wann hättest du Lust, eine Packung Mehrwegbecher zu kaufen?|Wann hättest du Lust, eine zehn Meter lange LED-Lichterkette für draußen zu kaufen?|
+soiree-600|Wohin würdest du gehen, um einen Kuchen für zehn Personen zu finden?|Wohin würdest du gehen, um eine Partytischdecke zu finden?|
+soiree-601|Wie viel wärst du bereit, für eine Fotobox für einen vierstündigen Abend auszugeben?|Wie viel wärst du bereit, für eine Geburtstagsdeko auszugeben?|
+soiree-602|Zu welchem Anlass würdest du eine Käseplatte für sechs Personen kaufen?|Zu welchem Anlass würdest du ein Partyspiel kaufen?|
+soiree-603|Wie oft kommt es vor, dass du ein Gesellschaftsspiel für eine Gruppe aussuchst?|Wie oft kommt es vor, dass du ein spontanes Karaoke organisierst?|
+soiree-604|Auf welcher Website oder in welchem Laden würdest du nach vier verschiedenen Pizzen zum Teilen suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Bluetooth-Box suchen, die eine Party mit zwanzig Leuten beschallen kann?|
+soiree-605|Welchen Preis stellst du dir für einen tragbaren Beamer vor?|Welchen Preis stellst du dir für eine Popcornmaschine vor?|
+soiree-606|Wann in der Woche würdest du am liebsten ein Essen organisieren, zu dem jeder etwas mitbringt?|Wann in der Woche würdest du am liebsten die Sitzordnung an einem Tisch festlegen?|
+soiree-607|Was würdest du antworten, wenn ein Freund auf dem Sofa einschläft?|Was würdest du antworten, wenn du ein Lied erkennst, das sonst keiner kennt?|
+soiree-608|Auf welcher Website oder in welchem Laden würdest du nach einer Geburtstagsdeko suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Kuchen für zehn Personen suchen?|
+soiree-609|Wer könnte dir die besten Tipps dafür geben, den Einkauf für Drinks und Snacks zu planen?|Wer könnte dir die besten Tipps dafür geben, alle für ein Foto zusammenzutrommeln?|apéro → Drinks und Snacks
+soiree-610|Wohin würdest du gehen, um ein Kartenspiel zu finden?|Wohin würdest du gehen, um eine Platte mit Mini-Sandwiches zu finden?|
+soiree-611|Wie oft im Monat hast du Gelegenheit, nach einer Party aufzuräumen?|Wie oft im Monat hast du Gelegenheit, den Einkauf für Drinks und Snacks zu planen?|apéro → Drinks und Snacks
+soiree-612|Wann wäre der beste Zeitpunkt, um die Sitzordnung an einem Tisch festzulegen?|Wann wäre der beste Zeitpunkt, um mit Freunden einen Film zum Anschauen auszusuchen?|
+soiree-613|Wer aus deinem Umfeld könnte dir helfen, ein spontanes Karaoke zu organisieren?|Wer aus deinem Umfeld könnte dir helfen, eine Übersicht über die Ausgaben zu machen?|
+soiree-614|Wie lange würdest du brauchen, um die ersten Gäste zu empfangen?|Wie lange würdest du brauchen, um ein Gesellschaftsspiel für eine Gruppe auszusuchen?|
+soiree-615|Wie lange dauert es deiner Meinung nach, ein Gesellschaftsspiel für eine Gruppe auszusuchen?|Wie lange dauert es deiner Meinung nach, ein spontanes Karaoke zu organisieren?|
+soiree-616|Was kostet deiner Meinung nach eine Auswahl an alkoholfreien Getränken?|Was kostet deiner Meinung nach eine Schachtel Pralinen zum Teilen?|
+soiree-617|Was wäre dein erster Reflex, wenn die Musik im besten Moment ausgeht?|Was wäre dein erster Reflex, wenn jemand sein Glas auf dem Tisch umkippt?|
+soiree-618|Welche Tageszeit würdest du wählen, um eine gemeinsame Playlist zu erstellen?|Welche Tageszeit würdest du wählen, um ein Wohnzimmer für eine Party zu dekorieren?|
+soiree-619|Wie oft im Jahr hast du Gelegenheit, ein spontanes Karaoke zu organisieren?|Wie oft im Jahr hast du Gelegenheit, eine Übersicht über die Ausgaben zu machen?|
+soiree-620|Wann wäre der beste Zeitpunkt, um die Musik für eine Party auszusuchen?|Wann wäre der beste Zeitpunkt, um den Tisch für Gäste zu decken?|
+soiree-621|Wann hättest du Lust, einen tragbaren Beamer zu kaufen?|Wann hättest du Lust, eine Popcornmaschine zu kaufen?|
+soiree-622|Was würdest du als Erstes tun, wenn man dir eine Stunde vorher sagt, dass es eine Kostümparty ist?|Was würdest du als Erstes tun, wenn dich dein Freund bittet, mit dem Karaoke anzufangen?|
+soiree-623|Wie schnell könntest du eine gemeinsame Playlist erstellen?|Wie schnell könntest du ein Wohnzimmer für eine Party dekorieren?|
+soiree-624|Wie lange dauert es deiner Meinung nach, die Sitzordnung an einem Tisch festzulegen?|Wie lange dauert es deiner Meinung nach, mit Freunden einen Film zum Anschauen auszusuchen?|
+soiree-625|Welchen Preis stellst du dir für vier verschiedene Pizzen zum Teilen vor?|Welchen Preis stellst du dir für eine Bluetooth-Box vor, die eine Party mit zwanzig Leuten beschallen kann?|
+soiree-626|Welche Tageszeit wäre am praktischsten, um eine Überraschungsparty zum Geburtstag zu organisieren?|Welche Tageszeit wäre am praktischsten, um Freunde zum Ausgehen zu überreden?|
+soiree-627|Was würde dich dazu bringen, eine zehn Meter lange LED-Lichterkette für draußen zu kaufen?|Was würde dich dazu bringen, eine Auswahl an alkoholfreien Getränken zu kaufen?|
+soiree-628|Wie oft würdest du gern einen Brunch am nächsten Tag organisieren?|Wie oft würdest du gern die ersten Gäste empfangen?|
+soiree-629|Was wäre deine erste Reaktion, wenn jemand sein Glas auf dem Tisch umkippt?|Was wäre deine erste Reaktion, wenn keiner das Restaurant aussuchen will?|
+soiree-630|Wie viel würdest du höchstens für eine Popcornmaschine einplanen?|Wie viel würdest du höchstens für ein Set passender Gläser einplanen?|
+soiree-631|Was glaubst du, wie viel eine Fotobox für einen vierstündigen Abend wert ist?|Was glaubst du, wie viel eine Geburtstagsdeko wert ist?|
+soiree-632|Wen würdest du fragen, ob er dir hilft, die ersten Gäste zu empfangen?|Wen würdest du fragen, ob er dir hilft, ein Gesellschaftsspiel für eine Gruppe auszusuchen?|
+soiree-633|Was kostet deiner Meinung nach eine zehn Meter lange LED-Lichterkette für draußen?|Was kostet deiner Meinung nach eine Auswahl an alkoholfreien Getränken?|
+soiree-634|Wie viel wärst du bereit, für eine Schachtel Pralinen zum Teilen auszugeben?|Wie viel wärst du bereit, für verschiedene Sorten Chips auszugeben?|
+soiree-635|Wen würdest du um Hilfe bitten, wenn du die Regeln eines Spiels erklären willst?|Wen würdest du um Hilfe bitten, wenn du ein Essen organisieren willst, zu dem jeder etwas mitbringt?|
+soiree-636|Ab welchem Preis würdest du zögern, eine Auswahl an alkoholfreien Getränken zu kaufen?|Ab welchem Preis würdest du zögern, eine Schachtel Pralinen zum Teilen zu kaufen?|
+soiree-637|In welcher Situation würdest du dich entscheiden, eine Fotobox für einen vierstündigen Abend zu mieten?|In welcher Situation würdest du dich entscheiden, eine Geburtstagsdeko zu kaufen?|
+soiree-638|Was kostet deiner Meinung nach eine Bluetooth-Box, die eine Party mit zwanzig Leuten beschallen kann?|Was kostet deiner Meinung nach eine Käseplatte für sechs Personen?|
+soiree-639|Was würde dich dazu bringen, einen Kuchen für zehn Personen zu kaufen?|Was würde dich dazu bringen, eine Partytischdecke zu kaufen?|
+soiree-640|Wer aus deinem Umfeld könnte dir helfen, alle für ein Foto zusammenzutrommeln?|Wer aus deinem Umfeld könnte dir helfen, die Regeln eines Spiels zu erklären?|
+soiree-641|Wen würdest du um Hilfe bitten, wenn du einen Brunch am nächsten Tag organisieren willst?|Wen würdest du um Hilfe bitten, wenn du die ersten Gäste empfangen willst?|
+soiree-642|Welcher Satz würde dir rausrutschen, wenn ein Freund mit zwei zusätzlichen Gästen auftaucht?|Welcher Satz würde dir rausrutschen, wenn die Musik im besten Moment ausgeht?|
+soiree-643|Was kostet deiner Meinung nach eine Popcornmaschine?|Was kostet deiner Meinung nach ein Set passender Gläser?|
+soiree-644|Ab welchem Preis würdest du zögern, eine Partytischdecke zu kaufen?|Ab welchem Preis würdest du zögern, eine Packung Luftballons zu kaufen?|
+soiree-645|Auf welcher Website oder in welchem Laden würdest du nach verschiedenen Sorten Chips suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Kartenspiel suchen?|
+soiree-646|Wo würdest du zuerst nach einem Blumenstrauß als Dankeschön für den Gastgeber suchen?|Wo würdest du zuerst nach vier verschiedenen Pizzen zum Teilen suchen?|
+soiree-647|Wie oft würdest du gern eine Übersicht über die Ausgaben machen?|Wie oft würdest du gern Drinks und Snacks für zehn Personen vorbereiten?|apéritif → Drinks und Snacks
+soiree-648|Was wäre dein erster Reflex, wenn ein Gast sehr früh gehen will?|Was wäre dein erster Reflex, wenn zwei Freunde ganz unterschiedliche Musik auflegen wollen?|
+soiree-649|Wie würdest du reagieren, wenn ein Freund mit zwei zusätzlichen Gästen auftaucht?|Wie würdest du reagieren, wenn die Musik im besten Moment ausgeht?|
+soiree-650|Wie oft im Monat hast du Gelegenheit, Drinks und Snacks für zehn Personen vorzubereiten?|Wie oft im Monat hast du Gelegenheit, die Musik für eine Party auszusuchen?|apéritif → Drinks und Snacks
+soiree-651|Wo würdest du eine Platte mit Mini-Sandwiches kaufen?|Wo würdest du eine Fotobox für einen vierstündigen Abend mieten?|
+soiree-652|Was würdest du spontan sagen, wenn jemand sein Glas auf dem Tisch umkippt?|Was würdest du spontan sagen, wenn keiner das Restaurant aussuchen will?|
+soiree-653|Was würdest du spontan sagen, wenn du ein Lied erkennst, das sonst keiner kennt?|Was würdest du spontan sagen, wenn jemand die Spielregeln ändern will?|
+soiree-654|Wie oft kommt es vor, dass du die Sitzordnung an einem Tisch festlegst?|Wie oft kommt es vor, dass du mit Freunden einen Film zum Anschauen aussuchst?|
+soiree-655|In welcher Situation würdest du dich entscheiden, eine Schachtel Pralinen zum Teilen zu kaufen?|In welcher Situation würdest du dich entscheiden, verschiedene Sorten Chips zu kaufen?|
+soiree-656|Auf welcher Website oder in welchem Laden würdest du nach einer Packung Mehrwegbecher suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer zehn Meter langen LED-Lichterkette für draußen suchen?|
+soiree-657|Was würdest du spontan sagen, wenn zwei Freunde ganz unterschiedliche Musik auflegen wollen?|Was würdest du spontan sagen, wenn man dir eine Stunde vorher sagt, dass es eine Kostümparty ist?|
+soiree-658|Wie oft kommt es vor, dass du ein Café in Bahnhofsnähe suchst, um dich mit Freunden zu treffen?|Wie oft kommt es vor, dass du eine gemeinsame Playlist erstellst?|
+soiree-659|Was würdest du spontan sagen, wenn dich dein Freund am selben Abend zu einer anderen Party einlädt?|Was würdest du spontan sagen, wenn du auf der Party niemanden kennst?|
+soiree-660|Wo würdest du zuerst nach einem Partyspiel suchen?|Wo würdest du zuerst nach einer Packung Mehrwegbecher suchen?|
+soiree-661|Wie viel Zeit würdest du einplanen, um einen Brunch am nächsten Tag zu organisieren?|Wie viel Zeit würdest du einplanen, um die ersten Gäste zu empfangen?|
+soiree-662|Wer könnte dir die besten Tipps dafür geben, ein Gesellschaftsspiel für eine Gruppe auszusuchen?|Wer könnte dir die besten Tipps dafür geben, ein spontanes Karaoke zu organisieren?|
+soiree-663|Was würdest du spontan sagen, wenn das letzte Stück Kuchen verschwindet?|Was würdest du spontan sagen, wenn man dir ein Spiel vorschlägt, das du hasst?|
+soiree-664|Wie oft würdest du gern eine Überraschungsparty zum Geburtstag organisieren?|Wie oft würdest du gern Freunde zum Ausgehen überreden?|
+soiree-665|Was würdest du sagen, wenn man dir eine Stunde vorher sagt, dass es eine Kostümparty ist?|Was würdest du sagen, wenn dich dein Freund bittet, mit dem Karaoke anzufangen?|
+soiree-666|Ab welchem Preis würdest du zögern, eine Käseplatte für sechs Personen zu kaufen?|Ab welchem Preis würdest du zögern, ein Partyspiel zu kaufen?|
+soiree-667|Wie viel Zeit würdest du einplanen, um eine Übersicht über die Ausgaben zu machen?|Wie viel Zeit würdest du einplanen, um Drinks und Snacks für zehn Personen vorzubereiten?|apéritif → Drinks und Snacks
+soiree-668|Bis zu welchem Betrag würdest du für eine Geburtstagsdeko zahlen?|Bis zu welchem Betrag würdest du für einen Kuchen für zehn Personen zahlen?|
+soiree-669|Wer könnte dir die besten Tipps dafür geben, ein Café in Bahnhofsnähe zu finden, um dich mit Freunden zu treffen?|Wer könnte dir die besten Tipps dafür geben, eine gemeinsame Playlist zu erstellen?|
+soiree-670|Ab welchem Preis würdest du zögern, ein Set passender Gläser zu kaufen?|Ab welchem Preis würdest du zögern, einen Blumenstrauß als Dankeschön für den Gastgeber zu kaufen?|
+soiree-671|Welcher Satz würde dir rausrutschen, wenn jemand ein Gruppenfoto machen will?|Welcher Satz würde dir rausrutschen, wenn ein Freund auf dem Sofa einschläft?|
+soiree-672|Welchen Preis stellst du dir für eine Packung Mehrwegbecher vor?|Welchen Preis stellst du dir für eine zehn Meter lange LED-Lichterkette für draußen vor?|
+soiree-673|Welche Tageszeit wäre am praktischsten, um die Regeln eines Spiels zu erklären?|Welche Tageszeit wäre am praktischsten, um ein Essen zu organisieren, zu dem jeder etwas mitbringt?|
+soiree-674|Wen würdest du fragen, ob er dir hilft, Freunde zum Ausgehen zu überreden?|Wen würdest du fragen, ob er dir hilft, ein Café in Bahnhofsnähe zu finden, um dich mit Freunden zu treffen?|
+soiree-675|Wer aus deinem Umfeld könnte dir helfen, eine gemeinsame Playlist zu erstellen?|Wer aus deinem Umfeld könnte dir helfen, ein Wohnzimmer für eine Party zu dekorieren?|
+soiree-676|Wen würdest du um Hilfe bitten, wenn du eine Überraschungsparty zum Geburtstag organisieren willst?|Wen würdest du um Hilfe bitten, wenn du Freunde zum Ausgehen überreden willst?|
+soiree-677|Wie lange würdest du brauchen, um Drinks und Snacks für zehn Personen vorzubereiten?|Wie lange würdest du brauchen, um die Musik für eine Party auszusuchen?|apéritif → Drinks und Snacks
+soiree-678|Was würdest du als Erstes tun, wenn jemand die Spielregeln ändern will?|Was würdest du als Erstes tun, wenn ein Gast darauf besteht, die ganze Rechnung zu zahlen?|
+soiree-679|Wer aus deinem Umfeld könnte dir helfen, mit Freunden einen Film zum Anschauen auszusuchen?|Wer aus deinem Umfeld könnte dir helfen, einen Brunch am nächsten Tag zu organisieren?|
+soiree-680|Wen würdest du fragen, ob er dir hilft, Drinks und Snacks für zehn Personen vorzubereiten?|Wen würdest du fragen, ob er dir hilft, die Musik für eine Party auszusuchen?|apéritif → Drinks und Snacks
+soiree-681|Was kostet deiner Meinung nach eine Käseplatte für sechs Personen?|Was kostet deiner Meinung nach ein Partyspiel?|
+soiree-682|Was würdest du als Erstes tun, wenn du auf der Party niemanden kennst?|Was würdest du als Erstes tun, wenn ein Freund mit zwei zusätzlichen Gästen auftaucht?|
+soiree-683|Zu welchem Anlass würdest du eine Platte mit Mini-Sandwiches kaufen?|Zu welchem Anlass würdest du eine Fotobox für einen vierstündigen Abend mieten?|
+soiree-684|Was glaubst du, wie viel eine Packung Luftballons wert ist?|Was glaubst du, wie viel ein tragbarer Beamer wert ist?|
+soiree-685|Welche Tageszeit wäre am praktischsten, um eine Übersicht über die Ausgaben zu machen?|Welche Tageszeit wäre am praktischsten, um Drinks und Snacks für zehn Personen vorzubereiten?|apéritif → Drinks und Snacks
+soiree-686|Was würde dich dazu bringen, eine Bluetooth-Box zu kaufen, die eine Party mit zwanzig Leuten beschallen kann?|Was würde dich dazu bringen, eine Käseplatte für sechs Personen zu kaufen?|
+soiree-687|Wann in der Woche würdest du am liebsten die ersten Gäste empfangen?|Wann in der Woche würdest du am liebsten ein Gesellschaftsspiel für eine Gruppe aussuchen?|
+soiree-688|Welche Tageszeit würdest du wählen, um alle für ein Foto zusammenzutrommeln?|Welche Tageszeit würdest du wählen, um die Regeln eines Spiels zu erklären?|
+soiree-689|Wie lange würdest du brauchen, um nach einer Party aufzuräumen?|Wie lange würdest du brauchen, um den Einkauf für Drinks und Snacks zu planen?|apéro → Drinks und Snacks
+soiree-690|Was würdest du antworten, wenn ein Gast sehr früh gehen will?|Was würdest du antworten, wenn zwei Freunde ganz unterschiedliche Musik auflegen wollen?|
+soiree-691|Wie würdest du reagieren, wenn man dich bittet, eine Rede zu halten?|Wie würdest du reagieren, wenn ein Gast sehr früh gehen will?|
+soiree-692|Bis zu welchem Betrag würdest du für vier verschiedene Pizzen zum Teilen zahlen?|Bis zu welchem Betrag würdest du für eine Bluetooth-Box zahlen, die eine Party mit zwanzig Leuten beschallen kann?|
+soiree-693|Was würdest du antworten, wenn ein Nachbar dich bittet, die Musik leiser zu machen?|Was würdest du antworten, wenn das letzte Stück Kuchen verschwindet?|
+soiree-694|Was wäre deine erste Reaktion, wenn das letzte Stück Kuchen verschwindet?|Was wäre deine erste Reaktion, wenn man dir ein Spiel vorschlägt, das du hasst?|
+soiree-695|Wie oft im Monat hast du Gelegenheit, die ersten Gäste zu empfangen?|Wie oft im Monat hast du Gelegenheit, ein Gesellschaftsspiel für eine Gruppe auszusuchen?|
+soiree-696|Auf welcher Website oder in welchem Laden würdest du nach einem tragbaren Beamer suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Popcornmaschine suchen?|
+soiree-697|Wie oft im Jahr hast du Gelegenheit, mit Freunden einen Film zum Anschauen auszusuchen?|Wie oft im Jahr hast du Gelegenheit, einen Brunch am nächsten Tag zu organisieren?|
+soiree-698|Welche Tageszeit würdest du wählen, um den Tisch für Gäste zu decken?|Welche Tageszeit würdest du wählen, um eine Überraschungsparty zum Geburtstag zu organisieren?|
+soiree-699|Was würde dich dazu bringen, ein Kartenspiel zu kaufen?|Was würde dich dazu bringen, eine Platte mit Mini-Sandwiches zu kaufen?|
+soiree-700|Wen würdest du um Hilfe bitten, wenn du eine Übersicht über die Ausgaben machen willst?|Wen würdest du um Hilfe bitten, wenn du Drinks und Snacks für zehn Personen vorbereiten willst?|apéritif → Drinks und Snacks
+soiree-701|Bis zu welchem Betrag würdest du für eine Packung Mehrwegbecher zahlen?|Bis zu welchem Betrag würdest du für eine zehn Meter lange LED-Lichterkette für draußen zahlen?|
+soiree-702|Wie viel Zeit würdest du einplanen, um ein Wohnzimmer für eine Party zu dekorieren?|Wie viel Zeit würdest du einplanen, um nach einer Party aufzuräumen?|
+soiree-703|Wie oft im Jahr hast du Gelegenheit, eine gemeinsame Playlist zu erstellen?|Wie oft im Jahr hast du Gelegenheit, ein Wohnzimmer für eine Party zu dekorieren?|
+soiree-704|Wann wäre der beste Zeitpunkt, um ein Café in Bahnhofsnähe zu finden, um dich mit Freunden zu treffen?|Wann wäre der beste Zeitpunkt, um eine gemeinsame Playlist zu erstellen?|
+soiree-705|Welche Tageszeit wäre am praktischsten, um ein Wohnzimmer für eine Party zu dekorieren?|Welche Tageszeit wäre am praktischsten, um nach einer Party aufzuräumen?|
+soiree-706|Wer könnte dir die besten Tipps dafür geben, die Musik für eine Party auszusuchen?|Wer könnte dir die besten Tipps dafür geben, den Tisch für Gäste zu decken?|
+soiree-707|Wann wäre der beste Zeitpunkt, um ein Gesellschaftsspiel für eine Gruppe auszusuchen?|Wann wäre der beste Zeitpunkt, um ein spontanes Karaoke zu organisieren?|
+soiree-708|Was würdest du sagen, wenn jemand die Spielregeln ändern will?|Was würdest du sagen, wenn ein Gast darauf besteht, die ganze Rechnung zu zahlen?|
+soiree-709|Wie würdest du reagieren, wenn ein Gast darauf besteht, die ganze Rechnung zu zahlen?|Wie würdest du reagieren, wenn sich die Gruppe auf dem Heimweg aufteilt?|
+soiree-710|Wo würdest du eine Käseplatte für sechs Personen kaufen?|Wo würdest du ein Partyspiel kaufen?|
+soiree-711|Wie oft im Monat hast du Gelegenheit, Freunde zum Ausgehen zu überreden?|Wie oft im Monat hast du Gelegenheit, ein Café in Bahnhofsnähe zu finden, um dich mit Freunden zu treffen?|
+soiree-712|Wie viel Zeit würdest du einplanen, um die Regeln eines Spiels zu erklären?|Wie viel Zeit würdest du einplanen, um ein Essen zu organisieren, zu dem jeder etwas mitbringt?|
+soiree-713|Bis zu welchem Betrag würdest du für einen tragbaren Beamer zahlen?|Bis zu welchem Betrag würdest du für eine Popcornmaschine zahlen?|
+soiree-714|Wie viel wärst du bereit, für einen Blumenstrauß als Dankeschön für den Gastgeber auszugeben?|Wie viel wärst du bereit, für vier verschiedene Pizzen zum Teilen auszugeben?|
+soiree-715|Was würdest du sagen, wenn du auf der Party niemanden kennst?|Was würdest du sagen, wenn ein Freund mit zwei zusätzlichen Gästen auftaucht?|
+soiree-716|Wie schnell könntest du mit Freunden einen Film zum Anschauen aussuchen?|Wie schnell könntest du einen Brunch am nächsten Tag organisieren?|
+soiree-717|Wen würdest du fragen, ob er dir hilft, ein Essen zu organisieren, zu dem jeder etwas mitbringt?|Wen würdest du fragen, ob er dir hilft, die Sitzordnung an einem Tisch festzulegen?|
+soiree-718|Zu welchem Anlass würdest du eine Partytischdecke kaufen?|Zu welchem Anlass würdest du eine Packung Luftballons kaufen?|
+soiree-719|Wann hättest du Lust, eine Geburtstagsdeko zu kaufen?|Wann hättest du Lust, einen Kuchen für zehn Personen zu kaufen?|
+soiree-720|Was wäre deine erste Reaktion, wenn dich dein Freund am selben Abend zu einer anderen Party einlädt?|Was wäre deine erste Reaktion, wenn du auf der Party niemanden kennst?|
+soiree-721|Wie lange dauert es deiner Meinung nach, den Einkauf für Drinks und Snacks zu planen?|Wie lange dauert es deiner Meinung nach, alle für ein Foto zusammenzutrommeln?|apéro → Drinks und Snacks
+soiree-722|Was wäre deine erste Reaktion, wenn zwei Freunde ganz unterschiedliche Musik auflegen wollen?|Was wäre deine erste Reaktion, wenn man dir eine Stunde vorher sagt, dass es eine Kostümparty ist?|
+soiree-723|Wann hättest du Lust, vier verschiedene Pizzen zum Teilen zu kaufen?|Wann hättest du Lust, eine Bluetooth-Box zu kaufen, die eine Party mit zwanzig Leuten beschallen kann?|
+soiree-724|Was kostet deiner Meinung nach eine Partytischdecke?|Was kostet deiner Meinung nach eine Packung Luftballons?|
+soiree-725|Was glaubst du, wie viel eine Schachtel Pralinen zum Teilen wert ist?|Was glaubst du, wie viel verschiedene Sorten Chips wert sind?|
+soiree-726|Was würdest du antworten, wenn sich die Gruppe auf dem Heimweg aufteilt?|Was würdest du antworten, wenn dich dein Freund am selben Abend zu einer anderen Party einlädt?|
+soiree-727|Was würdest du sagen, wenn keiner das Restaurant aussuchen will?|Was würdest du sagen, wenn man dich bittet, eine Rede zu halten?|
+soiree-728|Zu welchem Anlass würdest du ein Set passender Gläser kaufen?|Zu welchem Anlass würdest du einen Blumenstrauß als Dankeschön für den Gastgeber kaufen?|
+soiree-729|Wie viel würdest du höchstens für einen Kuchen für zehn Personen einplanen?|Wie viel würdest du höchstens für eine Partytischdecke einplanen?|
+soiree-730|Wie viel würdest du höchstens für ein Kartenspiel einplanen?|Wie viel würdest du höchstens für eine Platte mit Mini-Sandwiches einplanen?|
+soiree-731|Was würdest du sagen, wenn man dir ein Spiel vorschlägt, das du hasst?|Was würdest du sagen, wenn jemand ein Gruppenfoto machen will?|
+soiree-732|Wo würdest du zuerst nach einer Schachtel Pralinen zum Teilen suchen?|Wo würdest du zuerst nach verschiedenen Sorten Chips suchen?|
+soiree-733|Wie viel würdest du höchstens für eine zehn Meter lange LED-Lichterkette für draußen einplanen?|Wie viel würdest du höchstens für eine Auswahl an alkoholfreien Getränken einplanen?|
+soiree-734|Wer könnte dir die besten Tipps dafür geben, die Sitzordnung an einem Tisch festzulegen?|Wer könnte dir die besten Tipps dafür geben, mit Freunden einen Film zum Anschauen auszusuchen?|
+soiree-735|Wie würdest du reagieren, wenn jemand ein Gruppenfoto machen will?|Wie würdest du reagieren, wenn ein Freund auf dem Sofa einschläft?|
+soiree-736|Was glaubst du, wie viel ein Blumenstrauß als Dankeschön für den Gastgeber wert ist?|Was glaubst du, wie viel vier verschiedene Pizzen zum Teilen wert sind?|
+soiree-737|Wohin würdest du gehen, um eine Bluetooth-Box zu finden, die eine Party mit zwanzig Leuten beschallen kann?|Wohin würdest du gehen, um eine Käseplatte für sechs Personen zu finden?|
+soiree-738|Bis zu welchem Betrag würdest du für verschiedene Sorten Chips zahlen?|Bis zu welchem Betrag würdest du für ein Kartenspiel zahlen?|
+soiree-739|Welcher Satz würde dir rausrutschen, wenn man dich bittet, eine Rede zu halten?|Welcher Satz würde dir rausrutschen, wenn ein Gast sehr früh gehen will?|
+soiree-740|Wo würdest du zuerst nach einer Fotobox für einen vierstündigen Abend suchen?|Wo würdest du zuerst nach einer Geburtstagsdeko suchen?|
+soiree-741|Wohin würdest du gehen, um eine zehn Meter lange LED-Lichterkette für draußen zu finden?|Wohin würdest du gehen, um eine Auswahl an alkoholfreien Getränken zu finden?|
+soiree-742|Wie lange würdest du brauchen, um ein Essen zu organisieren, zu dem jeder etwas mitbringt?|Wie lange würdest du brauchen, um die Sitzordnung an einem Tisch festzulegen?|
+soiree-743|Was wäre dein erster Reflex, wenn sich die Gruppe auf dem Heimweg aufteilt?|Was wäre dein erster Reflex, wenn dich dein Freund am selben Abend zu einer anderen Party einlädt?|
+soiree-744|Was würdest du antworten, wenn die Musik im besten Moment ausgeht?|Was würdest du antworten, wenn jemand sein Glas auf dem Tisch umkippt?|
+soiree-745|In welcher Situation würdest du dich entscheiden, ein Partyspiel zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Packung Mehrwegbecher zu kaufen?|
+soiree-746|Wie oft würdest du gern ein Wohnzimmer für eine Party dekorieren?|Wie oft würdest du gern nach einer Party aufräumen?|
+soiree-747|Was wäre dein erster Reflex, wenn ein Freund auf dem Sofa einschläft?|Was wäre dein erster Reflex, wenn du ein Lied erkennst, das sonst keiner kennt?|
+soiree-748|Wie viel wärst du bereit, für ein Partyspiel auszugeben?|Wie viel wärst du bereit, für eine Packung Mehrwegbecher auszugeben?|
+soiree-749|Wie oft im Jahr hast du Gelegenheit, alle für ein Foto zusammenzutrommeln?|Wie oft im Jahr hast du Gelegenheit, die Regeln eines Spiels zu erklären?|
+soiree-750|Was kostet deiner Meinung nach ein Kuchen für zehn Personen?|Was kostet deiner Meinung nach eine Partytischdecke?|
+soiree-751|Was würdest du als Erstes tun, wenn man dir ein Spiel vorschlägt, das du hasst?|Was würdest du als Erstes tun, wenn jemand ein Gruppenfoto machen will?|
+soiree-752|Was kostet deiner Meinung nach eine Platte mit Mini-Sandwiches?|Was kostet deiner Meinung nach eine Fotobox für einen vierstündigen Abend?|
+soiree-753|Wie oft kommt es vor, dass du den Einkauf für Drinks und Snacks planst?|Wie oft kommt es vor, dass du alle für ein Foto zusammentrommelst?|apéro → Drinks und Snacks
+soiree-754|Wie oft im Monat hast du Gelegenheit, ein Essen zu organisieren, zu dem jeder etwas mitbringt?|Wie oft im Monat hast du Gelegenheit, die Sitzordnung an einem Tisch festzulegen?|
+soiree-755|Wo würdest du eine Auswahl an alkoholfreien Getränken kaufen?|Wo würdest du eine Schachtel Pralinen zum Teilen kaufen?|
+soiree-756|Wie oft kommt es vor, dass du die Musik für eine Party aussuchst?|Wie oft kommt es vor, dass du den Tisch für Gäste deckst?|
+soiree-757|Wie würdest du reagieren, wenn dich dein Freund bittet, mit dem Karaoke anzufangen?|Wie würdest du reagieren, wenn ein Nachbar dich bittet, die Musik leiser zu machen?|
+soiree-758|Wie viel wärst du bereit, für eine Packung Luftballons auszugeben?|Wie viel wärst du bereit, für einen tragbaren Beamer auszugeben?|
+soiree-759|Welcher Satz würde dir rausrutschen, wenn ein Gast darauf besteht, die ganze Rechnung zu zahlen?|Welcher Satz würde dir rausrutschen, wenn sich die Gruppe auf dem Heimweg aufteilt?|
+soiree-760|Was kostet deiner Meinung nach ein Set passender Gläser?|Was kostet deiner Meinung nach ein Blumenstrauß als Dankeschön für den Gastgeber?|
+soiree-761|Wann in der Woche würdest du am liebsten nach einer Party aufräumen?|Wann in der Woche würdest du am liebsten den Einkauf für Drinks und Snacks planen?|apéro → Drinks und Snacks
+soiree-762|Zu welchem Anlass würdest du eine Auswahl an alkoholfreien Getränken kaufen?|Zu welchem Anlass würdest du eine Schachtel Pralinen zum Teilen kaufen?|
+soiree-763|Wo würdest du eine Partytischdecke kaufen?|Wo würdest du eine Packung Luftballons kaufen?|
+soiree-764|Wie lange würdest du brauchen, um Freunde zum Ausgehen zu überreden?|Wie lange würdest du brauchen, um ein Café in Bahnhofsnähe zu finden, um dich mit Freunden zu treffen?|
+soiree-765|Wohin würdest du gehen, um eine Popcornmaschine zu finden?|Wohin würdest du gehen, um ein Set passender Gläser zu finden?|
+soiree-766|Wann wäre der beste Zeitpunkt, um den Einkauf für Drinks und Snacks zu planen?|Wann wäre der beste Zeitpunkt, um alle für ein Foto zusammenzutrommeln?|apéro → Drinks und Snacks
+soiree-767|Wann in der Woche würdest du am liebsten Freunde zum Ausgehen überreden?|Wann in der Woche würdest du am liebsten ein Café in Bahnhofsnähe suchen, um dich mit Freunden zu treffen?|
+soiree-768|Wie viel Zeit würdest du einplanen, um eine Überraschungsparty zum Geburtstag zu organisieren?|Wie viel Zeit würdest du einplanen, um Freunde zum Ausgehen zu überreden?|
+soiree-769|Wie viel würdest du höchstens für eine Bluetooth-Box einplanen, die eine Party mit zwanzig Leuten beschallen kann?|Wie viel würdest du höchstens für eine Käseplatte für sechs Personen einplanen?|
+soiree-770|Wie oft im Jahr hast du Gelegenheit, den Tisch für Gäste zu decken?|Wie oft im Jahr hast du Gelegenheit, eine Überraschungsparty zum Geburtstag zu organisieren?|
+soiree-771|Wo würdest du zuerst nach einer Packung Luftballons suchen?|Wo würdest du zuerst nach einem tragbaren Beamer suchen?|
+soiree-772|In welcher Situation würdest du dich entscheiden, einen Blumenstrauß als Dankeschön für den Gastgeber zu kaufen?|In welcher Situation würdest du dich entscheiden, vier verschiedene Pizzen zum Teilen zu kaufen?|
+soiree-773|Wer aus deinem Umfeld könnte dir helfen, den Tisch für Gäste zu decken?|Wer aus deinem Umfeld könnte dir helfen, eine Überraschungsparty zum Geburtstag zu organisieren?|
+soiree-774|Welche Tageszeit würdest du wählen, um ein spontanes Karaoke zu organisieren?|Welche Tageszeit würdest du wählen, um eine Übersicht über die Ausgaben zu machen?|
+soiree-775|Was wäre deine erste Reaktion, wenn du ein Lied erkennst, das sonst keiner kennt?|Was wäre deine erste Reaktion, wenn jemand die Spielregeln ändern will?|
+soiree-776|Was würde dich dazu bringen, eine Popcornmaschine zu kaufen?|Was würde dich dazu bringen, ein Set passender Gläser zu kaufen?|
+soiree-777|Welche Tageszeit würdest du wählen, um mit Freunden einen Film zum Anschauen auszusuchen?|Welche Tageszeit würdest du wählen, um einen Brunch am nächsten Tag zu organisieren?|
+soiree-778|Wie schnell könntest du ein spontanes Karaoke organisieren?|Wie schnell könntest du eine Übersicht über die Ausgaben machen?|
+soiree-779|Wie oft würdest du gern die Regeln eines Spiels erklären?|Wie oft würdest du gern ein Essen organisieren, zu dem jeder etwas mitbringt?|
+soiree-780|Wie schnell könntest du alle für ein Foto zusammentrommeln?|Wie schnell könntest du die Regeln eines Spiels erklären?|
+soiree-781|Wie schnell könntest du den Tisch für Gäste decken?|Wie schnell könntest du eine Überraschungsparty zum Geburtstag organisieren?|
+soiree-782|Was glaubst du, wie viel ein Partyspiel wert ist?|Was glaubst du, wie viel eine Packung Mehrwegbecher wert ist?|
+soiree-783|Wann in der Woche würdest du am liebsten Drinks und Snacks für zehn Personen vorbereiten?|Wann in der Woche würdest du am liebsten die Musik für eine Party aussuchen?|apéritif → Drinks und Snacks
+soiree-784|Welche Tageszeit wäre am praktischsten, um einen Brunch am nächsten Tag zu organisieren?|Welche Tageszeit wäre am praktischsten, um die ersten Gäste zu empfangen?|
+soiree-785|Welchen Preis stellst du dir für verschiedene Sorten Chips vor?|Welchen Preis stellst du dir für ein Kartenspiel vor?|
+soiree-786|Wie lange dauert es deiner Meinung nach, ein Café in Bahnhofsnähe zu finden, um dich mit Freunden zu treffen?|Wie lange dauert es deiner Meinung nach, eine gemeinsame Playlist zu erstellen?|
+soiree-787|Wen würdest du um Hilfe bitten, wenn du ein Wohnzimmer für eine Party dekorieren willst?|Wen würdest du um Hilfe bitten, wenn du nach einer Party aufräumen willst?|
+soiree-788|Welcher Satz würde dir rausrutschen, wenn dich dein Freund bittet, mit dem Karaoke anzufangen?|Welcher Satz würde dir rausrutschen, wenn ein Nachbar dich bittet, die Musik leiser zu machen?|
+soiree-789|In welcher Situation würdest du dich entscheiden, eine Packung Luftballons zu kaufen?|In welcher Situation würdest du dich entscheiden, einen tragbaren Beamer zu kaufen?|
+soiree-790|Was würdest du als Erstes tun, wenn keiner das Restaurant aussuchen will?|Was würdest du als Erstes tun, wenn man dich bittet, eine Rede zu halten?|
+soiree-791|Wie lange dauert es deiner Meinung nach, die Musik für eine Party auszusuchen?|Wie lange dauert es deiner Meinung nach, den Tisch für Gäste zu decken?|
+soiree-792|Wen würdest du fragen, ob er dir hilft, nach einer Party aufzuräumen?|Wen würdest du fragen, ob er dir hilft, den Einkauf für Drinks und Snacks zu planen?|apéro → Drinks und Snacks
+soiree-793|Ab welchem Preis würdest du zögern, eine Platte mit Mini-Sandwiches zu kaufen?|Ab welchem Preis würdest du zögern, eine Fotobox für einen vierstündigen Abend zu mieten?|

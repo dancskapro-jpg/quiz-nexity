@@ -198,3 +198,103 @@ gaming-820|Wie viel ist eine Gaming-Maus deiner Meinung nach wert?|Wie viel ist 
 gaming-821|Welchen Preis stellst du dir für ein von einem Videospiel inspiriertes Brettspiel vor?|Welchen Preis stellst du dir für eine Figur eines Videospielcharakters vor?|
 gaming-822|Wie oft im Monat hast du Gelegenheit, einem Freund eine Strategie zu erklären?|Wie oft im Monat hast du Gelegenheit, deinen Spielstand wiederzufinden?|
 gaming-823|Was würdest du sagen, wenn dein Freund immer denselben Charakter nimmt?|Was würdest du sagen, wenn du einen alten Spielstand wiederfindest?|
+tech-515|Wie lange würdest du brauchen, um zwei Handyverträge zu vergleichen?|Wie lange würdest du brauchen, um einen Computer zu aktualisieren?|
+tech-516|Was würdest du sagen, wenn das WLAN während eines wichtigen Anrufs ausfällt?|Was würdest du sagen, wenn jemand aus deinem Umfeld ungefragt ein Foto von dir postet?|
+tech-517|Was würdest du als Erstes tun, wenn dein Handy nur noch 2 % Akku hat?|Was würdest du als Erstes tun, wenn ein peinliches Foto in einer Gruppe auftaucht?|
+tech-518|Wie oft würdest du gern einem Freund oder Verwandten eine App erklären?|Wie oft würdest du gern die Fotos auf deinem Handy sichern?|
+tech-519|Was kostet deiner Meinung nach ein tragbarer Bluetooth-Lautsprecher?|Was kostet deiner Meinung nach ein aktueller WLAN-Router?|
+tech-520|Was würdest du spontan sagen, wenn ein Videocall ohne Ton anfängt?|Was würdest du spontan sagen, wenn das WLAN während eines wichtigen Anrufs ausfällt?|
+tech-521|Wer könnte dir die besten Tipps geben, um ein Backup zu machen?|Wer könnte dir die besten Tipps geben, um deinen Homescreen neu zu sortieren?|
+tech-522|Ab welchem Preis würdest du zögern, einen aktuellen WLAN-Router zu kaufen?|Ab welchem Preis würdest du zögern, ein hochwertiges USB-C-Kabel zu kaufen?|
+tech-523|Wie schnell könntest du deinen Homescreen neu sortieren?|Wie schnell könntest du einem Freund oder Verwandten eine App erklären?|
+tech-524|Wie viel ist ein Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten deiner Meinung nach wert?|Wie viel ist eine einfache Smartwatch deiner Meinung nach wert?|
+tech-525|Wie viel wärst du bereit, für eine smarte Lampe auszugeben?|Wie viel wärst du bereit, für eine HD-Webcam auszugeben?|
+tech-526|Was wäre der beste Zeitpunkt, um einen Computer zu aktualisieren?|Was wäre der beste Zeitpunkt, um deine Dateien in der Cloud zu ordnen?|
+tech-527|Was glaubst du, wie viel ein Monatsabo für 200 GB Cloud-Speicher kostet?|Was glaubst du, wie viel ein Handystativ kostet?|
+tech-528|Wen würdest du um Hilfe bitten, um deine Kontakte zu übertragen?|Wen würdest du um Hilfe bitten, um eine Banking-App einzurichten?|
+tech-529|Was würdest du sagen, wenn ein Freund dich nach deinem Passwort fragt?|Was würdest du sagen, wenn ein Video, das du postest, viral geht?|
+tech-530|Wer könnte dir die besten Tipps geben, um einen Computer zu aktualisieren?|Wer könnte dir die besten Tipps geben, um deine Dateien in der Cloud zu ordnen?|
+tech-531|Welcher Satz würde dir rausrutschen, wenn dein Konto vorübergehend gesperrt ist?|Welcher Satz würde dir rausrutschen, wenn du einen Anruf von einer unbekannten Nummer bekommst?|
+tech-532|Wie lange würdest du brauchen, um einen smarten Lautsprecher einzurichten?|Wie lange würdest du brauchen, um ein Backup zu machen?|
+tech-533|Was wäre der beste Zeitpunkt, um ein Backup zu machen?|Was wäre der beste Zeitpunkt, um deinen Homescreen neu zu sortieren?|
+tech-534|Wie würdest du reagieren, wenn ein peinliches Foto in einer Gruppe auftaucht?|Wie würdest du reagieren, wenn eine App zu viele Berechtigungen verlangt?|
+tech-535|Welchen Preis stellst du dir für eine externe 2-TB-Festplatte vor?|Welchen Preis stellst du dir für einen USB-3.0-Stick mit 128 GB vor?|
+tech-536|Welches Budget würdest du maximal für einen USB-3.0-Stick mit 128 GB einplanen?|Welches Budget würdest du maximal für eine Handyhalterung fürs Auto einplanen?|
+tech-537|Wer aus deinem Umfeld könnte dir helfen, deine Dateien in der Cloud zu ordnen?|Wer aus deinem Umfeld könnte dir helfen, ein zu langsames Gerät wieder flottzumachen?|
+tech-538|Zu welcher Tageszeit wäre es am praktischsten, einem Freund oder Verwandten eine App zu erklären?|Zu welcher Tageszeit wäre es am praktischsten, die Fotos auf deinem Handy zu sichern?|
+tech-539|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um zwei Handyverträge zu vergleichen?|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um einen Computer zu aktualisieren?|
+tech-540|Wer könnte dir die besten Tipps geben, um ein Profilbild auszusuchen?|Wer könnte dir die besten Tipps geben, um die Datenschutzeinstellungen anzupassen?|
+tech-541|Wie oft im Jahr hast du Gelegenheit, deinen Homescreen neu zu sortieren?|Wie oft im Jahr hast du Gelegenheit, einem Freund oder Verwandten eine App zu erklären?|
+tech-542|Wohin würdest du gehen, um ein Monatsabo für 200 GB Cloud-Speicher zu kaufen?|Wohin würdest du gehen, um ein Handystativ zu kaufen?|
+tech-543|Zu welcher Tageszeit wäre es am praktischsten, deine Kontakte zu übertragen?|Zu welcher Tageszeit wäre es am praktischsten, eine Banking-App einzurichten?|
+tech-544|Welchen Preis stellst du dir für einen 14-Zoll-Laptop zum Arbeiten vor?|Welchen Preis stellst du dir für einen 27-Zoll-Monitor vor?|
+tech-545|Was wäre der beste Zeitpunkt, um dein Postfach aufzuräumen?|Was wäre der beste Zeitpunkt, um einen verdächtigen Link zu überprüfen?|
+tech-546|Welcher Satz würde dir rausrutschen, wenn ein peinliches Foto in einer Gruppe auftaucht?|Welcher Satz würde dir rausrutschen, wenn eine App zu viele Berechtigungen verlangt?|
+tech-547|Was würdest du sagen, wenn du eine Nachricht in die falsche Gruppe schickst?|Was würdest du sagen, wenn dein Konto vorübergehend gesperrt ist?|
+tech-548|Wohin würdest du gehen, um eine robuste Handyhülle zu kaufen?|Wohin würdest du gehen, um einen Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten zu kaufen?|
+tech-549|Wie würdest du reagieren, wenn ein Video, das du postest, viral geht?|Wie würdest du reagieren, wenn dein Handy ohne Grund heiß wird?|
+tech-550|Wann in der Woche würdest du am liebsten einen smarten Lautsprecher einrichten?|Wann in der Woche würdest du am liebsten ein Backup machen?|
+tech-551|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um einen smarten Lautsprecher einzurichten?|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um ein Backup zu machen?|
+tech-552|Wie würdest du antworten, wenn dein Handy ohne Grund heiß wird?|Wie würdest du antworten, wenn du fünfzig Benachrichtigungen auf einmal bekommst?|
+tech-553|Wie viel Zeit würdest du einplanen, um ein zu langsames Gerät wieder flottzumachen?|Wie viel Zeit würdest du einplanen, um eine Videokonferenz vorzubereiten?|
+tech-554|Zu welcher Tageszeit wäre es am praktischsten, ein zu langsames Gerät wieder flottzumachen?|Zu welcher Tageszeit wäre es am praktischsten, eine Videokonferenz vorzubereiten?|
+tech-555|Wann in der Woche würdest du am liebsten eine Videokonferenz vorbereiten?|Wann in der Woche würdest du am liebsten ein Profilbild aussuchen?|
+tech-556|Wie viel würdest du maximal für ein gutes USB-Mikro bezahlen?|Wie viel würdest du maximal für ein Mittelklasse-Smartphone bezahlen?|
+tech-557|Wann hättest du Lust, dir ein gutes USB-Mikro zu kaufen?|Wann hättest du Lust, dir ein Mittelklasse-Smartphone zu kaufen?|
+tech-558|Was wäre dein erster Reflex, wenn dich ein Freund auf einem alten Foto markiert?|Was wäre dein erster Reflex, wenn dein Speicher vor einer Reise voll ist?|
+tech-559|In welcher Situation würdest du dich entscheiden, ein Handystativ zu kaufen?|In welcher Situation würdest du dich entscheiden, ein gutes USB-Mikro zu kaufen?|
+tech-560|Auf welcher Website oder in welchem Laden würdest du nach einer einfachen Smartwatch suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem tragbaren Bluetooth-Lautsprecher suchen?|
+tech-561|Was würdest du als Erstes tun, wenn das WLAN während eines wichtigen Anrufs ausfällt?|Was würdest du als Erstes tun, wenn jemand aus deinem Umfeld ungefragt ein Foto von dir postet?|
+tech-562|Wie würdest du reagieren, wenn dein Konto vorübergehend gesperrt ist?|Wie würdest du reagieren, wenn du einen Anruf von einer unbekannten Nummer bekommst?|
+tech-563|Wie viel würdest du maximal für eine externe 2-TB-Festplatte bezahlen?|Wie viel würdest du maximal für einen USB-3.0-Stick mit 128 GB bezahlen?|
+tech-564|Welcher Satz würde dir rausrutschen, wenn jemand aus deinem Umfeld ungefragt ein Foto von dir postet?|Welcher Satz würde dir rausrutschen, wenn du ein vergessenes Abo entdeckst?|
+tech-565|Was wäre dein erster Reflex, wenn du ein vergessenes Abo entdeckst?|Was wäre dein erster Reflex, wenn eine Sprachnachricht acht Minuten dauert?|
+tech-566|Wie viel wärst du bereit, für ein hochwertiges USB-C-Kabel auszugeben?|Wie viel wärst du bereit, für eine externe 2-TB-Festplatte auszugeben?|
+tech-567|Was wäre dein erster Reflex, wenn du einen Anruf von einer unbekannten Nummer bekommst?|Was wäre dein erster Reflex, wenn ein Videocall ohne Ton anfängt?|
+tech-568|Ab welchem Preis würdest du zögern, eine Handyhalterung fürs Auto zu kaufen?|Ab welchem Preis würdest du zögern, eine smarte Lampe zu kaufen?|
+tech-569|Wie viel wärst du bereit, für ein kabelloses Ladegerät auszugeben?|Wie viel wärst du bereit, für einen 14-Zoll-Laptop zum Arbeiten auszugeben?|
+tech-570|Was würde dich dazu bringen, einen USB-3.0-Stick mit 128 GB zu kaufen?|Was würde dich dazu bringen, eine Handyhalterung fürs Auto zu kaufen?|
+tech-571|Auf welcher Website oder in welchem Laden würdest du nach einem guten USB-Mikro suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Mittelklasse-Smartphone suchen?|
+tech-572|Wer aus deinem Umfeld könnte dir helfen, deinen Homescreen neu zu sortieren?|Wer aus deinem Umfeld könnte dir helfen, einem Freund oder Verwandten eine App zu erklären?|
+tech-573|Wer könnte dir die besten Tipps geben, um ein neues Smartphone einzurichten?|Wer könnte dir die besten Tipps geben, um deine Benachrichtigungen zu sortieren?|
+tech-574|Was würdest du spontan sagen, wenn ein Freund eine Falschmeldung teilt?|Was würdest du spontan sagen, wenn du eine Nachricht in die falsche Gruppe schickst?|
+tech-575|Wo würdest du zuerst nach einem Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten suchen?|Wo würdest du zuerst nach einer einfachen Smartwatch suchen?|
+tech-576|Wohin würdest du gehen, um ein Mittelklasse-Smartphone zu finden?|Wohin würdest du gehen, um eine Powerbank mit 20.000 mAh zu finden?|
+tech-577|Zu welchem Anlass würdest du dir eine Handyhalterung fürs Auto kaufen?|Zu welchem Anlass würdest du dir eine smarte Lampe kaufen?|
+tech-578|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um die Fotos auf deinem Handy zu sichern?|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um ein neues Smartphone einzurichten?|
+tech-579|Was meinst du, wie lange dauert es, ein Profilbild auszusuchen?|Was meinst du, wie lange dauert es, die Datenschutzeinstellungen anzupassen?|
+tech-580|Wer aus deinem Umfeld könnte dir helfen, einen verdächtigen Link zu überprüfen?|Wer aus deinem Umfeld könnte dir helfen, ein neues Tastenkürzel zu lernen?|
+tech-581|Wie würdest du reagieren, wenn jemand aus deinem Umfeld ungefragt ein Foto von dir postet?|Wie würdest du reagieren, wenn du ein vergessenes Abo entdeckst?|
+tech-582|Zu welchem Anlass würdest du dir einen aktuellen WLAN-Router kaufen?|Zu welchem Anlass würdest du dir ein hochwertiges USB-C-Kabel kaufen?|
+tech-583|In welcher Situation würdest du dich entscheiden, ein kabelloses Ladegerät zu kaufen?|In welcher Situation würdest du dich entscheiden, einen 14-Zoll-Laptop zum Arbeiten zu kaufen?|
+tech-584|Welchen Preis stellst du dir für eine einfache Smartwatch vor?|Welchen Preis stellst du dir für einen tragbaren Bluetooth-Lautsprecher vor?|
+tech-585|In welcher Situation würdest du dich entscheiden, ein hochwertiges USB-C-Kabel zu kaufen?|In welcher Situation würdest du dich entscheiden, eine externe 2-TB-Festplatte zu kaufen?|
+tech-586|Wie oft im Monat hast du Gelegenheit, eine Videokonferenz vorzubereiten?|Wie oft im Monat hast du Gelegenheit, ein Profilbild auszusuchen?|
+tech-587|Was kostet deiner Meinung nach ein Mittelklasse-Smartphone?|Was kostet deiner Meinung nach eine Powerbank mit 20.000 mAh?|
+tech-588|Wann in der Woche würdest du am liebsten die Fotos auf deinem Handy sichern?|Wann in der Woche würdest du am liebsten ein neues Smartphone einrichten?|
+tech-589|Wie viel wärst du bereit, für einen Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten auszugeben?|Wie viel wärst du bereit, für eine einfache Smartwatch auszugeben?|
+tech-590|Was würdest du sagen, wenn dein Handy nur noch 2 % Akku hat?|Was würdest du sagen, wenn ein peinliches Foto in einer Gruppe auftaucht?|
+tech-591|Zu welchem Anlass würdest du dir ein Monatsabo für 200 GB Cloud-Speicher kaufen?|Zu welchem Anlass würdest du dir ein Handystativ kaufen?|
+tech-592|Auf welcher Website oder in welchem Laden würdest du nach einer HD-Webcam suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer kompakten kabellosen Tastatur suchen?|
+tech-593|Wann in der Woche würdest du am liebsten eine Banking-App einrichten?|Wann in der Woche würdest du am liebsten dein Postfach aufräumen?|
+tech-594|Wie oft im Monat hast du Gelegenheit, zwei Handyverträge zu vergleichen?|Wie oft im Monat hast du Gelegenheit, einen Computer zu aktualisieren?|
+tech-595|Wohin würdest du gehen, um einen aktuellen WLAN-Router zu kaufen?|Wohin würdest du gehen, um ein hochwertiges USB-C-Kabel zu kaufen?|
+tech-596|In welcher Situation würdest du dich entscheiden, einen Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten zu kaufen?|In welcher Situation würdest du dich entscheiden, eine einfache Smartwatch zu kaufen?|
+tech-597|Was würdest du spontan sagen, wenn eine Sprachnachricht acht Minuten dauert?|Was würdest du spontan sagen, wenn ein Freund dich nach deinem Passwort fragt?|
+tech-598|Wie oft würdest du gern ein neues Tastenkürzel lernen?|Wie oft würdest du gern einen smarten Lautsprecher einrichten?|
+tech-599|Welches Budget würdest du maximal für ein Mittelklasse-Smartphone einplanen?|Welches Budget würdest du maximal für eine Powerbank mit 20.000 mAh einplanen?|
+tech-600|Was glaubst du, wie viel eine robuste Handyhülle kostet?|Was glaubst du, wie viel ein Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten kostet?|
+tech-601|Welches Budget würdest du maximal für einen 27-Zoll-Monitor einplanen?|Welches Budget würdest du maximal für eine robuste Handyhülle einplanen?|
+tech-602|Wohin würdest du gehen, um eine kompakte kabellose Tastatur zu finden?|Wohin würdest du gehen, um ein Monatsabo für 200 GB Cloud-Speicher zu finden?|
+tech-603|Was kostet deiner Meinung nach eine kompakte kabellose Tastatur?|Was kostet deiner Meinung nach ein Monatsabo für 200 GB Cloud-Speicher?|
+tech-604|Zu welchem Anlass würdest du dir eine robuste Handyhülle kaufen?|Zu welchem Anlass würdest du dir einen Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten kaufen?|
+tech-605|Welche Tageszeit würdest du wählen, um deinen Homescreen neu zu sortieren?|Welche Tageszeit würdest du wählen, um einem Freund oder Verwandten eine App zu erklären?|
+tech-606|Wie oft kommt es vor, dass du ein neues Smartphone einrichtest?|Wie oft kommt es vor, dass du deine Benachrichtigungen sortierst?|
+tech-607|Wie oft würdest du gern ein altes Passwort wiederfinden?|Wie oft würdest du gern zwei Handyverträge vergleichen?|
+tech-608|Was glaubst du, wie viel eine Powerbank mit 20.000 mAh kostet?|Was glaubst du, wie viel ein kabelloses Ladegerät kostet?|
+tech-609|Was wäre der beste Zeitpunkt, um ein Profilbild auszusuchen?|Was wäre der beste Zeitpunkt, um die Datenschutzeinstellungen anzupassen?|
+tech-610|Wie viel Zeit würdest du einplanen, um deine Kontakte zu übertragen?|Wie viel Zeit würdest du einplanen, um eine Banking-App einzurichten?|
+tech-611|Welchen Preis stellst du dir für ein gutes USB-Mikro vor?|Welchen Preis stellst du dir für ein Mittelklasse-Smartphone vor?|
+tech-612|Was meinst du, wie lange dauert es, ein neues Smartphone einzurichten?|Was meinst du, wie lange dauert es, deine Benachrichtigungen zu sortieren?|
+tech-613|Was wäre dein erster Reflex, wenn dein Handy ohne Grund heiß wird?|Was wäre dein erster Reflex, wenn du fünfzig Benachrichtigungen auf einmal bekommst?|
+tech-614|Wie oft kommt es vor, dass du ein Backup machst?|Wie oft kommt es vor, dass du deinen Homescreen neu sortierst?|

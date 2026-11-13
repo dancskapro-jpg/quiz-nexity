@@ -377,3 +377,224 @@ voyage-562|Quale sarebbe la tua difficoltà principale per mettere insieme passa
 voyage-563|Dove andresti a comprare un biglietto intero per il museo del Louvre?|Dove andresti a prenotare un’escursione in barca di due ore al largo di Lisbona, per una persona?|
 voyage-564|Quale dettaglio controlleresti prima di scegliere tre attività per un soggiorno di quattro giorni a Roma?|Quale dettaglio controlleresti prima di ritrovare la conferma di una prenotazione d’hotel sul telefono?|
 voyage-565|Chi potrebbe darti il consiglio migliore per organizzare una giornata di visite a Roma senza macchina?|Chi potrebbe darti il consiglio migliore per fare una visita di due ore in un grande museo parigino?|
+voyage-566|Su quale sito o in quale negozio cercheresti un corso di cucina italiana di due ore a Roma, per una persona?|Su quale sito o in quale negozio cercheresti un volo andata e ritorno Milano–Lisbona in classe economica?|Paris–Lisbonne → Milano–Lisbona
+voyage-567|Secondo te, quanto tempo ci vuole per scegliere un hotel in una città che non conosci?|Secondo te, quanto tempo ci vuole per preparare un percorso di visite a piedi di sei ore a Roma?|
+voyage-568|Quale sarebbe il tuo primo istinto se il telefono ti si scarica durante una visita a Roma?|Quale sarebbe il tuo primo istinto se la reception del tuo hotel ti offre una camera superiore senza supplemento?|
+voyage-569|Che budget massimo metteresti per un pass per i trasporti di tre giorni a Londra?|Che budget massimo metteresti per un biglietto intero per il museo del Louvre?|
+voyage-570|Chi potrebbe darti il consiglio migliore per organizzare una gita di un giorno partendo da Barcellona?|Chi potrebbe darti il consiglio migliore per imparare dieci frasi utili in spagnolo prima di un viaggio?|
+voyage-571|Quanto saresti disposto a spendere per un’escursione in barca di due ore al largo di Lisbona, per una persona?|Quanto saresti disposto a spendere per una visita guidata privata di due ore per due persone?|
+voyage-572|Che budget massimo metteresti per una notte in camera privata per due persone in un ostello a Lisbona?|Che budget massimo metteresti per un biglietto Roma–Vienna in treno notturno, in cuccetta?|Paris–Vienne → Roma–Vienna
+voyage-573|In quale posto andresti per trovare una cena per una persona in un piccolo ristorante a Lisbona, piatto e bevanda inclusi?|In quale posto andresti per trovare una eSIM da viaggio con 20 GB di dati per quindici giorni in Giappone?|
+voyage-574|Quale momento della giornata sceglieresti per fare un itinerario di visite di tre giorni a Lisbona?|Quale momento della giornata sceglieresti per scegliere tre attività per un soggiorno di quattro giorni a Roma?|
+voyage-575|Fino a quanto pagheresti per una SIM prepagata con 10 GB di dati all’estero?|Fino a quanto pagheresti per una notte in camera privata per due persone in un ostello a Lisbona?|
+voyage-576|Quanto tempo ti servirebbe per ritrovare la conferma di una prenotazione d’hotel sul telefono?|Quanto tempo ti servirebbe per organizzare una giornata di visite a Roma senza macchina?|
+voyage-577|Chi contatteresti per farti aiutare a mettere insieme passaporto, biglietti e prenotazioni prima di un viaggio fuori dall’Unione europea?|Chi contatteresti per farti aiutare a organizzare il transfer tra l’aeroporto e il tuo hotel a Lisbona?|
+voyage-578|Quanto tempo ti servirebbe per comprare tre piccoli souvenir da portare alla tua famiglia?|Quanto tempo ti servirebbe per scegliere un quartiere dove alloggiare quattro notti a Londra?|
+voyage-579|Quale dettaglio controlleresti prima di organizzare quattro giorni a Barcellona con tre amici?|Quale dettaglio controlleresti prima di comprare tre piccoli souvenir da portare alla tua famiglia?|
+voyage-580|Quanto saresti disposto a spendere per una visita guidata di un’ora al Colosseo di Roma?|Quanto saresti disposto a spendere per una fotocamera digitale compatta di fascia base?|
+voyage-581|Qual è la prima cosa che faresti se ti accorgi di aver dimenticato l’adattatore?|Qual è la prima cosa che faresti se il treno viene annunciato su un altro binario?|
+voyage-582|Oltre quale prezzo esiteresti a prenotare una notte per due persone in un hotel tre stelle a Firenze, di sabato?|Oltre quale prezzo esiteresti a comprare un trolley rigido da cabina di 55 cm?|Lyon → Firenze
+voyage-583|Quale sarebbe il tuo primo istinto se incontri un connazionale all’estero?|Quale sarebbe il tuo primo istinto se un amico scopre in aeroporto di aver dimenticato il passaporto?|
+voyage-584|Dove andresti a comprare un biglietto Roma–Vienna in treno notturno, in cuccetta?|Dove andresti a prenotare una visita guidata di un’ora al Colosseo di Roma?|Paris–Vienne → Roma–Vienna
+voyage-585|Quanto tempo metteresti in conto per organizzare quattro giorni a Barcellona con tre amici?|Quanto tempo metteresti in conto per comprare tre piccoli souvenir da portare alla tua famiglia?|
+voyage-586|Cosa diresti se una persona del posto ti consiglia un ristorante poco conosciuto a Lisbona?|Cosa diresti se dovessi scegliere tra due escursioni?|
+ecrans-646|In quanto tempo riusciresti a trovare una serie di sei episodi da iniziare stasera?|In quanto tempo riusciresti a raccontare un film senza svelare il finale?|
+ecrans-647|Come reagiresti se una serie cambia completamente tono?|Come reagiresti se una scena ti commuove davanti ai tuoi amici?|
+ecrans-648|Quanto saresti disposto a spendere per un poster incorniciato di un film?|Quanto saresti disposto a spendere per delle cuffie per guardare i film?|
+ecrans-649|Secondo te, quanto tempo ci vuole per organizzare un’uscita al cinema?|Secondo te, quanto tempo ci vuole per seguire una trama complicata?|
+ecrans-650|Fino a quanto pagheresti per un buon lettore multimediale?|Fino a quanto pagheresti per una statuina di un personaggio di un film?|
+ecrans-651|Dove andresti a comprare un biglietto del cinema a tariffa studenti?|Dove andresti a prenotare un televisore da 32 pollici per una camera da letto?|
+ecrans-652|Quanto spesso ti capita di scegliere i sottotitoli di un film?|Quanto spesso ti capita di preparare degli snack per un film?|
+ecrans-653|Secondo te, qual è il prezzo di un abbonamento a una piattaforma di film?|Secondo te, qual è il prezzo di una buona soundbar?|
+ecrans-654|Quale sarebbe la tua prima reazione se il film inizia mentre sei ancora in fila?|Quale sarebbe la tua prima reazione se scopri un adattamento molto diverso dal libro?|
+ecrans-655|Quante volte al mese ti capita di recuperare tre episodi persi?|Quante volte al mese ti capita di fare una lista di film da vedere?|
+ecrans-656|In quale occasione vorresti comprare un abbonamento annuale a una cineteca?|In quale occasione vorresti comprare un biglietto per una proiezione all’aperto in un parco della città?|
+ecrans-657|Chi tra le persone che conosci potrebbe aiutarti a scegliere un film per bambini?|Chi tra le persone che conosci potrebbe aiutarti a confrontare due adattamenti di un romanzo?|
+ecrans-658|Secondo te, qual è il prezzo di un cofanetto DVD di una serie?|Secondo te, qual è il prezzo di un poster incorniciato di un film?|
+ecrans-659|Quale momento della giornata sceglieresti per preparare degli snack per un film?|Quale momento della giornata sceglieresti per fare una classifica dei tuoi film preferiti?|
+ecrans-660|Chi contatteresti per farti aiutare a organizzare una serata cinema a casa tua?|Chi contatteresti per farti aiutare a scegliere un posto in sala?|
+ecrans-661|Come risponderesti se il tuo amico guarda il telefono durante il film?|Come risponderesti se l’audio al cinema è decisamente troppo alto?|
+ecrans-662|Quale sarebbe il momento migliore per scegliere i sottotitoli di un film?|Quale sarebbe il momento migliore per preparare degli snack per un film?|
+ecrans-663|In quale situazione decideresti di comprare un secchiello grande di popcorn al cinema?|In quale situazione decideresti di comprare un proiettore per la casa?|
+ecrans-664|Che budget massimo metteresti per una statuina di un personaggio di un film?|Che budget massimo metteresti per un abbonamento annuale a una cineteca?|
+ecrans-665|In quale momento avresti voglia di comprare un buon lettore multimediale?|In quale momento avresti voglia di comprare una statuina di un personaggio di un film?|
+ecrans-666|Quale sarebbe la tua prima reazione se un episodio finisce con un colpo di scena in sospeso?|Quale sarebbe la tua prima reazione se la piattaforma toglie il tuo film preferito?|
+ecrans-667|Cosa diresti sul momento se il film inizia mentre sei ancora in fila?|Cosa diresti sul momento se scopri un adattamento molto diverso dal libro?|
+ecrans-668|Quale fascia oraria della giornata sarebbe la più comoda per ritrovare una scena precisa di un film visto la sera prima?|Quale fascia oraria della giornata sarebbe la più comoda per decidere di mollare una serie?|
+ecrans-669|Dove cercheresti per prima cosa un televisore da 32 pollici per una camera da letto?|Dove cercheresti per prima cosa un buon lettore multimediale?|
+ecrans-670|In quale momento della settimana preferiresti decidere di mollare una serie?|In quale momento della settimana preferiresti scegliere i sottotitoli di un film?|
+ecrans-671|Cosa diresti se la piattaforma toglie il tuo film preferito?|Cosa diresti se ti consigliano una serie di dieci stagioni?|
+ecrans-672|In quanto tempo riusciresti a preparare degli snack per un film?|In quanto tempo riusciresti a fare una classifica dei tuoi film preferiti?|
+ecrans-673|A chi chiederesti aiuto per ritrovare una scena precisa di un film visto la sera prima?|A chi chiederesti aiuto per decidere di mollare una serie?|
+ecrans-674|Chi potrebbe darti il consiglio migliore per guardare una stagione intera?|Chi potrebbe darti il consiglio migliore per trovare una serie di sei episodi da iniziare stasera?|
+ecrans-675|Quante volte al mese ti capita di scegliere un film in due?|Quante volte al mese ti capita di guardare una stagione intera?|
+ecrans-676|Qual è la prima cosa che faresti se il tuo amico ti svela il finale di una serie?|Qual è la prima cosa che faresti se il cinema è tutto esaurito?|
+ecrans-677|Chi contatteresti per farti aiutare a recuperare tre episodi persi?|Chi contatteresti per farti aiutare a fare una lista di film da vedere?|
+ecrans-678|Quale fascia oraria della giornata sarebbe la più comoda per fare una classifica dei tuoi film preferiti?|Quale fascia oraria della giornata sarebbe la più comoda per scegliere un film in due?|
+ecrans-679|Quanto tempo ti servirebbe per decidere di mollare una serie?|Quanto tempo ti servirebbe per scegliere i sottotitoli di un film?|
+ecrans-680|Quale fascia oraria della giornata sarebbe la più comoda per consigliare una serie a un amico?|Quale fascia oraria della giornata sarebbe la più comoda per recuperare tre episodi persi?|
+ecrans-681|In quale occasione vorresti comprare un abbonamento mensile a una piattaforma di streaming?|In quale occasione vorresti comprare un secchiello grande di popcorn al cinema?|
+ecrans-682|Dove cercheresti per prima cosa un poster incorniciato di un film?|Dove cercheresti per prima cosa delle cuffie per guardare i film?|
+ecrans-683|Quanto tempo ti servirebbe per guardare un documentario intero?|Quanto tempo ti servirebbe per organizzare un’uscita al cinema?|
+ecrans-684|Secondo te, qual è il prezzo di un abbonamento mensile a una piattaforma di streaming?|Secondo te, qual è il prezzo di un secchiello grande di popcorn al cinema?|
+ecrans-685|Cosa diresti sul momento se un episodio finisce con un colpo di scena in sospeso?|Cosa diresti sul momento se la piattaforma toglie il tuo film preferito?|
+ecrans-686|In quale situazione decideresti di comprare un poster incorniciato di un film?|In quale situazione decideresti di comprare delle cuffie per guardare i film?|
+ecrans-687|Quanto pensi che valga un televisore da 32 pollici per una camera da letto?|Quanto pensi che valga un buon lettore multimediale?|
+ecrans-688|In quale posto andresti per trovare un libro sul dietro le quinte di un film?|In quale posto andresti per trovare un biglietto del cinema a tariffa studenti?|
+ecrans-689|Cosa ti spingerebbe a comprare una statuina di un personaggio di un film?|Cosa ti spingerebbe a comprare un abbonamento annuale a una cineteca?|
+ecrans-690|Oltre quale prezzo esiteresti a comprare un abbonamento annuale a una cineteca?|Oltre quale prezzo esiteresti a comprare un biglietto per una proiezione all’aperto in un parco della città?|
+ecrans-691|Quanto tempo ti servirebbe per organizzare una serata cinema a casa tua?|Quanto tempo ti servirebbe per scegliere un posto in sala?|
+ecrans-692|Quante volte al mese ti capita di decidere di mollare una serie?|Quante volte al mese ti capita di scegliere i sottotitoli di un film?|
+ecrans-693|Quanto spesso ti piacerebbe ritrovare una scena precisa di un film visto la sera prima?|Quanto spesso ti piacerebbe decidere di mollare una serie?|
+ecrans-694|Chi potrebbe darti il consiglio migliore per scegliere un posto in sala?|Chi potrebbe darti il consiglio migliore per ritrovare il nome di un attore?|
+ecrans-695|Quanto spesso ti capita di scegliere un posto in sala?|Quanto spesso ti capita di ritrovare il nome di un attore?|
+ecrans-696|In quale momento avresti voglia di comprare un proiettore per la casa?|In quale momento avresti voglia di comprare un televisore 4K da 50 pollici?|
+ecrans-697|Qual è la prima cosa che faresti se un film dura un’ora più del previsto?|Qual è la prima cosa che faresti se riconosci un attore ma non ti viene il suo nome?|
+ecrans-698|In quale momento della settimana preferiresti recuperare tre episodi persi?|In quale momento della settimana preferiresti fare una lista di film da vedere?|
+ecrans-699|Chi potrebbe darti il consiglio migliore per organizzare un’uscita al cinema?|Chi potrebbe darti il consiglio migliore per seguire una trama complicata?|
+ecrans-700|Secondo te, quanto costa un biglietto del cinema in una sala premium per un adulto?|Secondo te, quanto costa un abbonamento mensile a una piattaforma di streaming?|
+ecrans-701|In quale posto andresti per trovare un televisore 4K da 50 pollici?|In quale posto andresti per trovare un cofanetto DVD di una serie?|
+ecrans-702|Quanto spesso ti piacerebbe raccontare un film senza svelare il finale?|Quanto spesso ti piacerebbe organizzare una serata cinema a casa tua?|
+ecrans-703|Secondo te, qual è il prezzo di un biglietto del cinema a tariffa studenti?|Secondo te, qual è il prezzo di un televisore da 32 pollici per una camera da letto?|
+ecrans-704|In quale occasione vorresti comprare un abbonamento a una piattaforma di film?|In quale occasione vorresti comprare una buona soundbar?|
+ecrans-705|Su quale sito o in quale negozio cercheresti un biglietto per una proiezione speciale?|Su quale sito o in quale negozio cercheresti un biglietto del cinema in una sala premium per un adulto?|
+ecrans-706|Secondo te, quanto tempo ci vuole per scegliere un posto in sala?|Secondo te, quanto tempo ci vuole per ritrovare il nome di un attore?|
+ecrans-707|Quanto pensi che valga una buona soundbar?|Quanto pensi che valga un biglietto per un festival del cinema?|
+ecrans-708|Chi contatteresti per farti aiutare a guardare un documentario intero?|Chi contatteresti per farti aiutare a organizzare un’uscita al cinema?|
+ecrans-709|Come risponderesti se una scena ti commuove davanti ai tuoi amici?|Come risponderesti se devi interrompere un episodio a cinque minuti dalla fine?|
+ecrans-710|In quale posto andresti per trovare una statuina di un personaggio di un film?|In quale posto andresti per trovare un abbonamento annuale a una cineteca?|
+ecrans-711|In quanto tempo riusciresti a ritrovare il nome di un attore?|In quanto tempo riusciresti a consigliare una serie a un amico?|
+ecrans-712|Che prezzo ti immagini per un biglietto per una proiezione speciale?|Che prezzo ti immagini per un biglietto del cinema in una sala premium per un adulto?|
+ecrans-713|Cosa diresti se scopri un adattamento molto diverso dal libro?|Cosa diresti se un personaggio che ami esce da una serie?|
+ecrans-714|Su quale sito o in quale negozio cercheresti un proiettore per la casa?|Su quale sito o in quale negozio cercheresti un televisore 4K da 50 pollici?|
+ecrans-715|Oltre quale prezzo esiteresti a comprare un biglietto del cinema a tariffa studenti?|Oltre quale prezzo esiteresti a prenotare un televisore da 32 pollici per una camera da letto?|
+ecrans-716|Quanto tempo metteresti in conto per raccontare un film senza svelare il finale?|Quanto tempo metteresti in conto per organizzare una serata cinema a casa tua?|
+ecrans-717|Quanto saresti disposto a spendere per un secchiello grande di popcorn al cinema?|Quanto saresti disposto a spendere per un proiettore per la casa?|
+ecrans-718|Che budget massimo metteresti per un biglietto per un’anteprima al cinema a Roma?|Che budget massimo metteresti per un abbonamento a una piattaforma di film?|Paris → Roma
+ecrans-719|Dove andresti a comprare un abbonamento a una piattaforma di film?|Dove andresti a comprare una buona soundbar?|
+ecrans-720|Quale momento della giornata sceglieresti per ritrovare il nome di un attore?|Quale momento della giornata sceglieresti per consigliare una serie a un amico?|
+ecrans-721|Come reagiresti se riconosci un attore ma non ti viene il suo nome?|Come reagiresti se un amico ti chiede di scegliere il film?|
+ecrans-722|Secondo te, quanto costa un televisore 4K da 50 pollici?|Secondo te, quanto costa un cofanetto DVD di una serie?|
+ecrans-723|Che prezzo ti immagini per delle cuffie per guardare i film?|Che prezzo ti immagini per un biglietto per un’anteprima al cinema a Roma?|Paris → Roma
+ecrans-724|Quanto pensi che valga un poster incorniciato di un film?|Quanto pensi che valgano delle cuffie per guardare i film?|
+ecrans-725|Secondo te, quanto costa un biglietto per un’anteprima al cinema a Roma?|Secondo te, quanto costa un abbonamento a una piattaforma di film?|Paris → Roma
+ecrans-726|Quale sarebbe il momento migliore per scegliere un posto in sala?|Quale sarebbe il momento migliore per ritrovare il nome di un attore?|
+ecrans-727|Come risponderesti se un amico ti chiede di scegliere il film?|Come risponderesti se il film inizia mentre sei ancora in fila?|
+ecrans-728|Dove andresti a comprare un abbonamento mensile a una piattaforma di streaming?|Dove andresti a comprare un secchiello grande di popcorn al cinema?|
+ecrans-729|Quante volte al mese ti capita di organizzare una serata cinema a casa tua?|Quante volte al mese ti capita di scegliere un posto in sala?|
+ecrans-730|In quale occasione vorresti comprare un cofanetto DVD di una serie?|In quale occasione vorresti comprare un poster incorniciato di un film?|
+ecrans-731|In quale momento avresti voglia di comprare un biglietto per un festival del cinema?|In quale momento avresti voglia di comprare un libro sul dietro le quinte di un film?|
+ecrans-732|Oltre quale prezzo esiteresti a comprare un cofanetto DVD di una serie?|Oltre quale prezzo esiteresti a comprare un poster incorniciato di un film?|
+ecrans-733|Come reagiresti se un personaggio che ami esce da una serie?|Come reagiresti se vedi un finale che non capisci?|
+ecrans-734|Come risponderesti se vedi un finale che non capisci?|Come risponderesti se i sottotitoli sono fuori sincrono?|
+ecrans-735|Secondo te, quanto tempo ci vuole per guardare una stagione intera?|Secondo te, quanto tempo ci vuole per trovare una serie di sei episodi da iniziare stasera?|
+ecrans-736|Secondo te, quanto costa un libro sul dietro le quinte di un film?|Secondo te, quanto costa un biglietto del cinema a tariffa studenti?|
+ecrans-737|Quale sarebbe il momento migliore per organizzare un’uscita al cinema?|Quale sarebbe il momento migliore per seguire una trama complicata?|
+ecrans-738|Chi tra le persone che conosci potrebbe aiutarti a seguire una trama complicata?|Chi tra le persone che conosci potrebbe aiutarti a ritrovare una scena precisa di un film visto la sera prima?|
+ecrans-739|Quanto tempo metteresti in conto per confrontare due adattamenti di un romanzo?|Quanto tempo metteresti in conto per guardare un documentario intero?|
+ecrans-740|Quale sarebbe la tua prima reazione se l’audio al cinema è decisamente troppo alto?|Quale sarebbe la tua prima reazione se un film dura un’ora più del previsto?|
+ecrans-741|Cosa diresti sul momento se l’audio al cinema è decisamente troppo alto?|Cosa diresti sul momento se un film dura un’ora più del previsto?|
+ecrans-742|Chi contatteresti per farti aiutare a scegliere un film in due?|Chi contatteresti per farti aiutare a guardare una stagione intera?|
+ecrans-743|Su quale sito o in quale negozio cercheresti delle cuffie per guardare i film?|Su quale sito o in quale negozio cercheresti un biglietto per un’anteprima al cinema a Roma?|Paris → Roma
+ecrans-744|Cosa ti spingerebbe a comprare un televisore 4K da 50 pollici?|Cosa ti spingerebbe a comprare un cofanetto DVD di una serie?|
+ecrans-745|In quale momento avresti voglia di comprare un biglietto per una proiezione speciale?|In quale momento avresti voglia di comprare un biglietto del cinema in una sala premium per un adulto?|
+ecrans-746|Secondo te, quanto tempo ci vuole per fare una lista di film da vedere?|Secondo te, quanto tempo ci vuole per scegliere un film per bambini?|
+ecrans-747|Cosa diresti se il tuo amico vuole guardare il film a velocità accelerata?|Cosa diresti se una serie cambia completamente tono?|
+ecrans-748|Cosa ti spingerebbe a comprare un biglietto per un’anteprima al cinema a Roma?|Cosa ti spingerebbe a comprare un abbonamento a una piattaforma di film?|Paris → Roma
+ecrans-749|Chi potrebbe darti il consiglio migliore per fare una lista di film da vedere?|Chi potrebbe darti il consiglio migliore per scegliere un film per bambini?|
+ecrans-750|Come reagiresti se il cinema è tutto esaurito?|Come reagiresti se il tuo vicino di posto parla durante il film?|
+ecrans-751|Quale fascia oraria della giornata sarebbe la più comoda per confrontare due adattamenti di un romanzo?|Quale fascia oraria della giornata sarebbe la più comoda per guardare un documentario intero?|
+ecrans-752|Secondo te, quanto tempo ci vuole per scegliere i sottotitoli di un film?|Secondo te, quanto tempo ci vuole per preparare degli snack per un film?|
+ecrans-753|Fino a quanto pagheresti per un biglietto per un festival del cinema?|Fino a quanto pagheresti per un libro sul dietro le quinte di un film?|
+ecrans-754|Quanto saresti disposto a spendere per una buona soundbar?|Quanto saresti disposto a spendere per un biglietto per un festival del cinema?|
+ecrans-755|In quanto tempo riusciresti a seguire una trama complicata?|In quanto tempo riusciresti a ritrovare una scena precisa di un film visto la sera prima?|
+ecrans-756|Dove cercheresti per prima cosa un secchiello grande di popcorn al cinema?|Dove cercheresti per prima cosa un proiettore per la casa?|
+ecrans-757|Che frase ti uscirebbe di bocca se una serie cambia completamente tono?|Che frase ti uscirebbe di bocca se una scena ti commuove davanti ai tuoi amici?|
+ecrans-758|Chi potrebbe darti il consiglio migliore per scegliere i sottotitoli di un film?|Chi potrebbe darti il consiglio migliore per preparare degli snack per un film?|
+ecrans-759|Quanto pensi che valga un biglietto per una proiezione all’aperto in un parco della città?|Quanto pensi che valga un biglietto per una proiezione speciale?|
+ecrans-760|Quanto spesso ti piacerebbe confrontare due adattamenti di un romanzo?|Quanto spesso ti piacerebbe guardare un documentario intero?|
+ecrans-761|Quante volte all’anno ti capita di preparare degli snack per un film?|Quante volte all’anno ti capita di fare una classifica dei tuoi film preferiti?|
+ecrans-762|Quanto spesso ti capita di guardare una stagione intera?|Quanto spesso ti capita di trovare una serie di sei episodi da iniziare stasera?|
+ecrans-763|Quanto tempo ti servirebbe per scegliere un film in due?|Quanto tempo ti servirebbe per guardare una stagione intera?|
+ecrans-764|Che prezzo ti immagini per un biglietto per un festival del cinema?|Che prezzo ti immagini per un libro sul dietro le quinte di un film?|
+ecrans-765|Chi tra le persone che conosci potrebbe aiutarti a preparare degli snack per un film?|Chi tra le persone che conosci potrebbe aiutarti a fare una classifica dei tuoi film preferiti?|
+ecrans-766|Quale sarebbe il momento migliore per fare una lista di film da vedere?|Quale sarebbe il momento migliore per scegliere un film per bambini?|
+ecrans-767|A chi chiederesti aiuto per confrontare due adattamenti di un romanzo?|A chi chiederesti aiuto per guardare un documentario intero?|
+ecrans-768|Oltre quale prezzo esiteresti a comprare un abbonamento a una piattaforma di film?|Oltre quale prezzo esiteresti a comprare una buona soundbar?|
+ecrans-769|In quale momento della settimana preferiresti organizzare una serata cinema a casa tua?|In quale momento della settimana preferiresti scegliere un posto in sala?|
+ecrans-770|Quale sarebbe il tuo primo istinto se vedi un finale che non capisci?|Quale sarebbe il tuo primo istinto se i sottotitoli sono fuori sincrono?|
+ecrans-771|A chi chiederesti aiuto per raccontare un film senza svelare il finale?|A chi chiederesti aiuto per organizzare una serata cinema a casa tua?|
+ecrans-772|Cosa diresti sul momento se i sottotitoli sono fuori sincrono?|Cosa diresti sul momento se il tuo amico vuole guardare il film a velocità accelerata?|
+ecrans-773|Quanto tempo ti servirebbe per recuperare tre episodi persi?|Quanto tempo ti servirebbe per fare una lista di film da vedere?|
+ecrans-774|Quante volte all’anno ti capita di seguire una trama complicata?|Quante volte all’anno ti capita di ritrovare una scena precisa di un film visto la sera prima?|
+ecrans-775|Fino a quanto pagheresti per un biglietto per una proiezione speciale?|Fino a quanto pagheresti per un biglietto del cinema in una sala premium per un adulto?|
+ecrans-776|Quale sarebbe il tuo primo istinto se un amico ti chiede di scegliere il film?|Quale sarebbe il tuo primo istinto se il film inizia mentre sei ancora in fila?|
+ecrans-777|Oltre quale prezzo esiteresti a comprare un abbonamento mensile a una piattaforma di streaming?|Oltre quale prezzo esiteresti a comprare un secchiello grande di popcorn al cinema?|
+ecrans-778|Cosa ti spingerebbe a comprare un biglietto del cinema in una sala premium per un adulto?|Cosa ti spingerebbe a comprare un abbonamento mensile a una piattaforma di streaming?|
+ecrans-779|Come risponderesti se il tuo vicino di posto parla durante il film?|Come risponderesti se un episodio finisce con un colpo di scena in sospeso?|
+ecrans-780|Qual è la prima cosa che faresti se il tuo amico vuole guardare il film a velocità accelerata?|Qual è la prima cosa che faresti se una serie cambia completamente tono?|
+ecrans-781|Dove cercheresti per prima cosa un biglietto per una proiezione all’aperto in un parco della città?|Dove cercheresti per prima cosa un biglietto per una proiezione speciale?|
+ecrans-782|Cosa diresti se il tuo amico ti svela il finale di una serie?|Cosa diresti se il cinema è tutto esaurito?|
+ecrans-783|Che frase ti uscirebbe di bocca se un personaggio che ami esce da una serie?|Che frase ti uscirebbe di bocca se vedi un finale che non capisci?|
+ecrans-784|Quante volte all’anno ti capita di scegliere un film per bambini?|Quante volte all’anno ti capita di confrontare due adattamenti di un romanzo?|
+ecrans-785|Cosa ti spingerebbe a comprare un libro sul dietro le quinte di un film?|Cosa ti spingerebbe a comprare un biglietto del cinema a tariffa studenti?|
+ecrans-786|Quale sarebbe la tua prima reazione se i sottotitoli sono fuori sincrono?|Quale sarebbe la tua prima reazione se il tuo amico vuole guardare il film a velocità accelerata?|
+ecrans-787|Quale momento della giornata sceglieresti per scegliere un film per bambini?|Quale momento della giornata sceglieresti per confrontare due adattamenti di un romanzo?|
+ecrans-788|Secondo te, quanto costa una statuina di un personaggio di un film?|Secondo te, quanto costa un abbonamento annuale a una cineteca?|
+ecrans-789|Dove andresti a comprare un cofanetto DVD di una serie?|Dove andresti a comprare un poster incorniciato di un film?|
+ecrans-790|Quanto saresti disposto a spendere per un televisore da 32 pollici per una camera da letto?|Quanto saresti disposto a spendere per un buon lettore multimediale?|
+ecrans-791|Dove cercheresti per prima cosa una buona soundbar?|Dove cercheresti per prima cosa un biglietto per un festival del cinema?|
+ecrans-792|Chi contatteresti per farti aiutare a decidere di mollare una serie?|Chi contatteresti per farti aiutare a scegliere i sottotitoli di un film?|
+ecrans-793|In quale posto andresti per trovare un biglietto per un’anteprima al cinema a Roma?|In quale posto andresti per trovare un abbonamento a una piattaforma di film?|Paris → Roma
+ecrans-794|A chi chiederesti aiuto per fare una classifica dei tuoi film preferiti?|A chi chiederesti aiuto per scegliere un film in due?|
+ecrans-795|Quante volte all’anno ti capita di ritrovare il nome di un attore?|Quante volte all’anno ti capita di consigliare una serie a un amico?|
+ecrans-796|Quanto spesso ti capita di organizzare un’uscita al cinema?|Quanto spesso ti capita di seguire una trama complicata?|
+ecrans-797|In quale situazione decideresti di comprare un biglietto per una proiezione all’aperto in un parco della città?|In quale situazione decideresti di comprare un biglietto per una proiezione speciale?|
+ecrans-798|Quale sarebbe il tuo primo istinto se una scena ti commuove davanti ai tuoi amici?|Quale sarebbe il tuo primo istinto se devi interrompere un episodio a cinque minuti dalla fine?|
+ecrans-799|In quale momento della settimana preferiresti scegliere un film in due?|In quale momento della settimana preferiresti guardare una stagione intera?|
+ecrans-800|Che frase ti uscirebbe di bocca se riconosci un attore ma non ti viene il suo nome?|Che frase ti uscirebbe di bocca se un amico ti chiede di scegliere il film?|
+ecrans-801|Fino a quanto pagheresti per delle cuffie per guardare i film?|Fino a quanto pagheresti per un biglietto per un’anteprima al cinema a Roma?|Paris → Roma
+ecrans-802|Che prezzo ti immagini per un buon lettore multimediale?|Che prezzo ti immagini per una statuina di un personaggio di un film?|
+ecrans-803|Quanto spesso ti piacerebbe fare una classifica dei tuoi film preferiti?|Quanto spesso ti piacerebbe scegliere un film in due?|
+ecrans-804|Chi tra le persone che conosci potrebbe aiutarti a ritrovare il nome di un attore?|Chi tra le persone che conosci potrebbe aiutarti a consigliare una serie a un amico?|
+ecrans-805|In quale situazione decideresti di comprare una buona soundbar?|In quale situazione decideresti di comprare un biglietto per un festival del cinema?|
+ecrans-806|Quale sarebbe il momento migliore per guardare una stagione intera?|Quale sarebbe il momento migliore per trovare una serie di sei episodi da iniziare stasera?|
+ecrans-807|Quanto pensi che valga un secchiello grande di popcorn al cinema?|Quanto pensi che valga un proiettore per la casa?|
+ecrans-808|In quale posto andresti per trovare un biglietto del cinema in una sala premium per un adulto?|In quale posto andresti per trovare un abbonamento mensile a una piattaforma di streaming?|
+ecrans-809|Dove andresti a comprare un abbonamento annuale a una cineteca?|Dove andresti a comprare un biglietto per una proiezione all’aperto in un parco della città?|
+ecrans-810|In quale momento della settimana preferiresti guardare un documentario intero?|In quale momento della settimana preferiresti organizzare un’uscita al cinema?|
+ecrans-811|Secondo te, qual è il prezzo di un abbonamento annuale a una cineteca?|Secondo te, qual è il prezzo di un biglietto per una proiezione all’aperto in un parco della città?|
+ecrans-812|Che budget massimo metteresti per un libro sul dietro le quinte di un film?|Che budget massimo metteresti per un biglietto del cinema a tariffa studenti?|
+ecrans-813|Qual è la prima cosa che faresti se la piattaforma toglie il tuo film preferito?|Qual è la prima cosa che faresti se ti consigliano una serie di dieci stagioni?|
+ecrans-814|Quale momento della giornata sceglieresti per seguire una trama complicata?|Quale momento della giornata sceglieresti per ritrovare una scena precisa di un film visto la sera prima?|
+ecrans-815|Quanto spesso ti piacerebbe consigliare una serie a un amico?|Quanto spesso ti piacerebbe recuperare tre episodi persi?|
+ecrans-816|In quanto tempo riusciresti a scegliere un film per bambini?|In quanto tempo riusciresti a confrontare due adattamenti di un romanzo?|
+ecrans-817|In quale occasione vorresti comprare un biglietto del cinema a tariffa studenti?|In quale occasione vorresti prenotare un televisore da 32 pollici per una camera da letto?|
+ecrans-818|Quanto tempo metteresti in conto per fare una classifica dei tuoi film preferiti?|Quanto tempo metteresti in conto per scegliere un film in due?|
+ecrans-819|A chi chiederesti aiuto per consigliare una serie a un amico?|A chi chiederesti aiuto per recuperare tre episodi persi?|
+ecrans-820|Quale fascia oraria della giornata sarebbe la più comoda per raccontare un film senza svelare il finale?|Quale fascia oraria della giornata sarebbe la più comoda per organizzare una serata cinema a casa tua?|
+ecrans-821|In quale momento avresti voglia di comprare delle cuffie per guardare i film?|In quale momento avresti voglia di comprare un biglietto per un’anteprima al cinema a Roma?|Paris → Roma
+ecrans-822|Quanto tempo metteresti in conto per consigliare una serie a un amico?|Quanto tempo metteresti in conto per recuperare tre episodi persi?|
+ecrans-823|Cosa diresti sul momento se devi interrompere un episodio a cinque minuti dalla fine?|Cosa diresti sul momento se il tuo amico ti svela il finale di una serie?|
+ecrans-824|Fino a quanto pagheresti per un proiettore per la casa?|Fino a quanto pagheresti per un televisore 4K da 50 pollici?|
+ecrans-825|Quante volte all’anno ti capita di trovare una serie di sei episodi da iniziare stasera?|Quante volte all’anno ti capita di raccontare un film senza svelare il finale?|
+ecrans-826|Che prezzo ti immagini per un proiettore per la casa?|Che prezzo ti immagini per un televisore 4K da 50 pollici?|
+ecrans-827|Quale sarebbe la tua prima reazione se devi interrompere un episodio a cinque minuti dalla fine?|Quale sarebbe la tua prima reazione se il tuo amico ti svela il finale di una serie?|
+ecrans-828|Quanto tempo metteresti in conto per ritrovare una scena precisa di un film visto la sera prima?|Quanto tempo metteresti in conto per decidere di mollare una serie?|
+ecrans-829|Che frase ti uscirebbe di bocca se ti consigliano una serie di dieci stagioni?|Che frase ti uscirebbe di bocca se il tuo amico guarda il telefono durante il film?|
+ecrans-830|Su quale sito o in quale negozio cercheresti un buon lettore multimediale?|Su quale sito o in quale negozio cercheresti una statuina di un personaggio di un film?|
+ecrans-831|Quale sarebbe il tuo primo istinto se il tuo vicino di posto parla durante il film?|Quale sarebbe il tuo primo istinto se un episodio finisce con un colpo di scena in sospeso?|
+ecrans-832|Su quale sito o in quale negozio cercheresti un biglietto per un festival del cinema?|Su quale sito o in quale negozio cercheresti un libro sul dietro le quinte di un film?|
+ecrans-833|Chi tra le persone che conosci potrebbe aiutarti a trovare una serie di sei episodi da iniziare stasera?|Chi tra le persone che conosci potrebbe aiutarti a raccontare un film senza svelare il finale?|
+ecrans-834|Che budget massimo metteresti per un televisore 4K da 50 pollici?|Che budget massimo metteresti per un cofanetto DVD di una serie?|
+ecrans-835|Che frase ti uscirebbe di bocca se il cinema è tutto esaurito?|Che frase ti uscirebbe di bocca se il tuo vicino di posto parla durante il film?|
+ecrans-836|In quale situazione decideresti di prenotare un televisore da 32 pollici per una camera da letto?|In quale situazione decideresti di comprare un buon lettore multimediale?|
+ecrans-837|Quanto spesso ti capita di fare una lista di film da vedere?|Quanto spesso ti capita di scegliere un film per bambini?|
+ecrans-838|Come reagiresti se ti consigliano una serie di dieci stagioni?|Come reagiresti se il tuo amico guarda il telefono durante il film?|
+ecrans-839|Quante volte al mese ti capita di guardare un documentario intero?|Quante volte al mese ti capita di organizzare un’uscita al cinema?|
+ecrans-840|Che budget massimo metteresti per un biglietto del cinema in una sala premium per un adulto?|Che budget massimo metteresti per un abbonamento mensile a una piattaforma di streaming?|
+ecrans-841|Quanto saresti disposto a spendere per un biglietto per una proiezione all’aperto in un parco della città?|Quanto saresti disposto a spendere per un biglietto per una proiezione speciale?|
+ecrans-842|Quale sarebbe il tuo primo istinto se il tuo amico guarda il telefono durante il film?|Quale sarebbe il tuo primo istinto se l’audio al cinema è decisamente troppo alto?|
+ecrans-843|Quale momento della giornata sceglieresti per trovare una serie di sei episodi da iniziare stasera?|Quale momento della giornata sceglieresti per raccontare un film senza svelare il finale?|
+ecrans-844|Cosa diresti se un film dura un’ora più del previsto?|Cosa diresti se riconosci un attore ma non ti viene il suo nome?|
+ecrans-845|Qual è la prima cosa che faresti se scopri un adattamento molto diverso dal libro?|Qual è la prima cosa che faresti se un personaggio che ami esce da una serie?|
