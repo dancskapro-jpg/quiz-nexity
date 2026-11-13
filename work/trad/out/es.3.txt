@@ -198,3 +198,103 @@ gaming-820|¿Cuánto piensas que vale un ratón gaming?|¿Cuánto piensas que va
 gaming-821|¿Qué precio te imaginas para un juego de mesa basado en un videojuego?|¿Qué precio te imaginas para una figura de un personaje de videojuego?|
 gaming-822|¿Cuántas veces al mes tienes ocasión de explicarle una estrategia a un amigo?|¿Cuántas veces al mes tienes ocasión de recuperar tu partida guardada?|
 gaming-823|¿Qué dirías si tu amigo eligiera siempre el mismo personaje?|¿Qué dirías si encontraras una partida guardada antigua?|
+tech-515|¿Cuánto tiempo necesitarías para comparar dos tarifas de móvil?|¿Cuánto tiempo necesitarías para actualizar un ordenador?|
+tech-516|¿Qué dirías si se te fuera el wifi durante una llamada importante?|¿Qué dirías si alguien cercano publicara una foto tuya sin preguntar?|
+tech-517|¿Qué harías primero si tu móvil bajara al 2 % de batería?|¿Qué harías primero si apareciera una foto vergonzosa en un grupo?|
+tech-518|¿Con qué frecuencia te gustaría explicarle una app a alguien cercano?|¿Con qué frecuencia te gustaría hacer copia de las fotos de tu móvil?|
+tech-519|¿Cuánto crees que cuesta un altavoz Bluetooth portátil?|¿Cuánto crees que cuesta un router wifi reciente?|
+tech-520|¿Qué dirías en el momento si una reunión por vídeo empezara sin sonido?|¿Qué dirías en el momento si se te fuera el wifi durante una llamada importante?|
+tech-521|¿Quién podría darte el mejor consejo para hacer una copia de seguridad?|¿Quién podría darte el mejor consejo para reorganizar tu pantalla de inicio?|
+tech-522|¿A partir de qué precio te lo pensarías antes de comprar un router wifi reciente?|¿A partir de qué precio te lo pensarías antes de comprar un cable USB-C de calidad?|
+tech-523|¿En cuánto tiempo podrías reorganizar tu pantalla de inicio?|¿En cuánto tiempo podrías explicarle una app a alguien cercano?|
+tech-524|¿Cuánto piensas que valen unos cascos con cancelación activa de ruido para los trayectos en tren?|¿Cuánto piensas que vale un reloj inteligente sencillo?|
+tech-525|¿Cuánto estarías dispuesto a gastarte en una lámpara inteligente?|¿Cuánto estarías dispuesto a gastarte en una webcam de alta definición?|
+tech-526|¿Cuál sería el mejor momento para actualizar un ordenador?|¿Cuál sería el mejor momento para organizar tus archivos en la nube?|
+tech-527|¿Cuál es para ti el precio de una suscripción de 200 GB de almacenamiento en la nube al mes?|¿Cuál es para ti el precio de un trípode para el móvil?|
+tech-528|¿A quién pedirías ayuda para pasar tus contactos?|¿A quién pedirías ayuda para instalar la app del banco?|
+tech-529|¿Qué dirías si un amigo te pidiera tu contraseña?|¿Qué dirías si un vídeo que subes se hiciera viral?|
+tech-530|¿Quién podría darte el mejor consejo para actualizar un ordenador?|¿Quién podría darte el mejor consejo para organizar tus archivos en la nube?|
+tech-531|¿Qué frase te saldría si te bloquearan la cuenta temporalmente?|¿Qué frase te saldría si recibieras una llamada de un número desconocido?|
+tech-532|¿Cuánto tiempo necesitarías para configurar un altavoz inteligente?|¿Cuánto tiempo necesitarías para hacer una copia de seguridad?|
+tech-533|¿Cuál sería el mejor momento para hacer una copia de seguridad?|¿Cuál sería el mejor momento para reorganizar tu pantalla de inicio?|
+tech-534|¿Cómo reaccionarías si apareciera una foto vergonzosa en un grupo?|¿Cómo reaccionarías si una app pidiera demasiados permisos?|
+tech-535|¿Qué precio te imaginas para un disco duro externo de 2 TB?|¿Qué precio te imaginas para un pendrive USB 3.0 de 128 GB?|
+tech-536|¿Qué presupuesto máximo pondrías para un pendrive USB 3.0 de 128 GB?|¿Qué presupuesto máximo pondrías para un soporte de móvil para el coche?|
+tech-537|¿Qué persona de tu entorno podría ayudarte a organizar tus archivos en la nube?|¿Qué persona de tu entorno podría ayudarte a arreglar un aparato que va demasiado lento?|
+tech-538|¿Qué franja del día sería la más práctica para explicarle una app a alguien cercano?|¿Qué franja del día sería la más práctica para hacer copia de las fotos de tu móvil?|
+tech-539|¿A quién llamarías para que te ayude a comparar dos tarifas de móvil?|¿A quién llamarías para que te ayude a actualizar un ordenador?|
+tech-540|¿Quién podría darte el mejor consejo para elegir una foto de perfil?|¿Quién podría darte el mejor consejo para ajustar la configuración de privacidad?|
+tech-541|¿Cuántas veces al año tienes ocasión de reorganizar tu pantalla de inicio?|¿Cuántas veces al año tienes ocasión de explicarle una app a alguien cercano?|
+tech-542|¿Adónde irías a comprar una suscripción de 200 GB de almacenamiento en la nube al mes?|¿Adónde irías a comprar un trípode para el móvil?|
+tech-543|¿Qué franja del día sería la más práctica para pasar tus contactos?|¿Qué franja del día sería la más práctica para instalar la app del banco?|
+tech-544|¿Qué precio te imaginas para un portátil de 14 pulgadas para trabajar?|¿Qué precio te imaginas para un monitor de ordenador de 27 pulgadas?|
+tech-545|¿Cuál sería el mejor momento para limpiar tu bandeja de entrada?|¿Cuál sería el mejor momento para comprobar un enlace sospechoso?|
+tech-546|¿Qué frase te saldría si apareciera una foto vergonzosa en un grupo?|¿Qué frase te saldría si una app pidiera demasiados permisos?|
+tech-547|¿Qué dirías si enviaras un mensaje al grupo equivocado?|¿Qué dirías si te bloquearan la cuenta temporalmente?|
+tech-548|¿Adónde irías a comprar una funda protectora resistente?|¿Adónde irías a comprar unos cascos con cancelación activa de ruido para los trayectos en tren?|
+tech-549|¿Cómo reaccionarías si un vídeo que subes se hiciera viral?|¿Cómo reaccionarías si tu móvil se calentara sin motivo?|
+tech-550|¿Qué momento de la semana preferirías para configurar un altavoz inteligente?|¿Qué momento de la semana preferirías para hacer una copia de seguridad?|
+tech-551|¿A quién llamarías para que te ayude a configurar un altavoz inteligente?|¿A quién llamarías para que te ayude a hacer una copia de seguridad?|
+tech-552|¿Cómo responderías si tu móvil se calentara sin motivo?|¿Cómo responderías si recibieras cincuenta notificaciones de golpe?|
+tech-553|¿Cuánto tiempo calcularías para arreglar un aparato que va demasiado lento?|¿Cuánto tiempo calcularías para preparar una videoconferencia?|
+tech-554|¿Qué franja del día sería la más práctica para arreglar un aparato que va demasiado lento?|¿Qué franja del día sería la más práctica para preparar una videoconferencia?|
+tech-555|¿Qué momento de la semana preferirías para preparar una videoconferencia?|¿Qué momento de la semana preferirías para elegir una foto de perfil?|
+tech-556|¿Hasta cuánto pagarías por un buen micro USB?|¿Hasta cuánto pagarías por un móvil de gama media?|
+tech-557|¿En qué momento te darían ganas de comprar un buen micro USB?|¿En qué momento te darían ganas de comprar un móvil de gama media?|
+tech-558|¿Cuál sería tu primer impulso si un amigo te etiquetara en una foto antigua?|¿Cuál sería tu primer impulso si se te llenara el almacenamiento antes de un viaje?|
+tech-559|¿En qué situación decidirías comprar un trípode para el móvil?|¿En qué situación decidirías comprar un buen micro USB?|
+tech-560|¿En qué web o en qué tienda buscarías un reloj inteligente sencillo?|¿En qué web o en qué tienda buscarías un altavoz Bluetooth portátil?|
+tech-561|¿Qué harías primero si se te fuera el wifi durante una llamada importante?|¿Qué harías primero si alguien cercano publicara una foto tuya sin preguntar?|
+tech-562|¿Cómo reaccionarías si te bloquearan la cuenta temporalmente?|¿Cómo reaccionarías si recibieras una llamada de un número desconocido?|
+tech-563|¿Hasta cuánto pagarías por un disco duro externo de 2 TB?|¿Hasta cuánto pagarías por un pendrive USB 3.0 de 128 GB?|
+tech-564|¿Qué frase te saldría si alguien cercano publicara una foto tuya sin preguntar?|¿Qué frase te saldría si descubrieras una suscripción que tenías olvidada?|
+tech-565|¿Cuál sería tu primer impulso si descubrieras una suscripción que tenías olvidada?|¿Cuál sería tu primer impulso si un audio durara ocho minutos?|
+tech-566|¿Cuánto estarías dispuesto a gastarte en un cable USB-C de calidad?|¿Cuánto estarías dispuesto a gastarte en un disco duro externo de 2 TB?|
+tech-567|¿Cuál sería tu primer impulso si recibieras una llamada de un número desconocido?|¿Cuál sería tu primer impulso si una reunión por vídeo empezara sin sonido?|
+tech-568|¿A partir de qué precio te lo pensarías antes de comprar un soporte de móvil para el coche?|¿A partir de qué precio te lo pensarías antes de comprar una lámpara inteligente?|
+tech-569|¿Cuánto estarías dispuesto a gastarte en un cargador inalámbrico?|¿Cuánto estarías dispuesto a gastarte en un portátil de 14 pulgadas para trabajar?|
+tech-570|¿Qué te llevaría a comprar un pendrive USB 3.0 de 128 GB?|¿Qué te llevaría a comprar un soporte de móvil para el coche?|
+tech-571|¿En qué web o en qué tienda buscarías un buen micro USB?|¿En qué web o en qué tienda buscarías un móvil de gama media?|
+tech-572|¿Qué persona de tu entorno podría ayudarte a reorganizar tu pantalla de inicio?|¿Qué persona de tu entorno podría ayudarte a explicarle una app a alguien cercano?|
+tech-573|¿Quién podría darte el mejor consejo para configurar un móvil nuevo?|¿Quién podría darte el mejor consejo para ordenar tus notificaciones?|
+tech-574|¿Qué dirías en el momento si un amigo compartiera un bulo?|¿Qué dirías en el momento si enviaras un mensaje al grupo equivocado?|
+tech-575|¿Dónde buscarías primero unos cascos con cancelación activa de ruido para los trayectos en tren?|¿Dónde buscarías primero un reloj inteligente sencillo?|
+tech-576|¿A qué sitio irías a buscar un móvil de gama media?|¿A qué sitio irías a buscar una batería externa de 20 000 mAh?|
+tech-577|¿Para qué ocasión querrías comprar un soporte de móvil para el coche?|¿Para qué ocasión querrías comprar una lámpara inteligente?|
+tech-578|¿A quién llamarías para que te ayude a hacer copia de las fotos de tu móvil?|¿A quién llamarías para que te ayude a configurar un móvil nuevo?|
+tech-579|¿Cuánto tiempo crees que hace falta para elegir una foto de perfil?|¿Cuánto tiempo crees que hace falta para ajustar la configuración de privacidad?|
+tech-580|¿Qué persona de tu entorno podría ayudarte a comprobar un enlace sospechoso?|¿Qué persona de tu entorno podría ayudarte a aprender un nuevo atajo de teclado?|
+tech-581|¿Cómo reaccionarías si alguien cercano publicara una foto tuya sin preguntar?|¿Cómo reaccionarías si descubrieras una suscripción que tenías olvidada?|
+tech-582|¿Para qué ocasión querrías comprar un router wifi reciente?|¿Para qué ocasión querrías comprar un cable USB-C de calidad?|
+tech-583|¿En qué situación decidirías comprar un cargador inalámbrico?|¿En qué situación decidirías comprar un portátil de 14 pulgadas para trabajar?|
+tech-584|¿Qué precio te imaginas para un reloj inteligente sencillo?|¿Qué precio te imaginas para un altavoz Bluetooth portátil?|
+tech-585|¿En qué situación decidirías comprar un cable USB-C de calidad?|¿En qué situación decidirías comprar un disco duro externo de 2 TB?|
+tech-586|¿Cuántas veces al mes tienes ocasión de preparar una videoconferencia?|¿Cuántas veces al mes tienes ocasión de elegir una foto de perfil?|
+tech-587|¿Cuánto crees que cuesta un móvil de gama media?|¿Cuánto crees que cuesta una batería externa de 20 000 mAh?|
+tech-588|¿Qué momento de la semana preferirías para hacer copia de las fotos de tu móvil?|¿Qué momento de la semana preferirías para configurar un móvil nuevo?|
+tech-589|¿Cuánto estarías dispuesto a gastarte en unos cascos con cancelación activa de ruido para los trayectos en tren?|¿Cuánto estarías dispuesto a gastarte en un reloj inteligente sencillo?|
+tech-590|¿Qué dirías si tu móvil bajara al 2 % de batería?|¿Qué dirías si apareciera una foto vergonzosa en un grupo?|
+tech-591|¿Para qué ocasión querrías comprar una suscripción de 200 GB de almacenamiento en la nube al mes?|¿Para qué ocasión querrías comprar un trípode para el móvil?|
+tech-592|¿En qué web o en qué tienda buscarías una webcam de alta definición?|¿En qué web o en qué tienda buscarías un teclado compacto inalámbrico?|
+tech-593|¿Qué momento de la semana preferirías para instalar la app del banco?|¿Qué momento de la semana preferirías para limpiar tu bandeja de entrada?|
+tech-594|¿Cuántas veces al mes tienes ocasión de comparar dos tarifas de móvil?|¿Cuántas veces al mes tienes ocasión de actualizar un ordenador?|
+tech-595|¿Adónde irías a comprar un router wifi reciente?|¿Adónde irías a comprar un cable USB-C de calidad?|
+tech-596|¿En qué situación decidirías comprar unos cascos con cancelación activa de ruido para los trayectos en tren?|¿En qué situación decidirías comprar un reloj inteligente sencillo?|
+tech-597|¿Qué dirías en el momento si un audio durara ocho minutos?|¿Qué dirías en el momento si un amigo te pidiera tu contraseña?|
+tech-598|¿Con qué frecuencia te gustaría aprender un nuevo atajo de teclado?|¿Con qué frecuencia te gustaría configurar un altavoz inteligente?|
+tech-599|¿Qué presupuesto máximo pondrías para un móvil de gama media?|¿Qué presupuesto máximo pondrías para una batería externa de 20 000 mAh?|
+tech-600|¿Cuál es para ti el precio de una funda protectora resistente?|¿Cuál es para ti el precio de unos cascos con cancelación activa de ruido para los trayectos en tren?|
+tech-601|¿Qué presupuesto máximo pondrías para un monitor de ordenador de 27 pulgadas?|¿Qué presupuesto máximo pondrías para una funda protectora resistente?|
+tech-602|¿A qué sitio irías a buscar un teclado compacto inalámbrico?|¿A qué sitio irías a buscar una suscripción de 200 GB de almacenamiento en la nube al mes?|
+tech-603|¿Cuánto crees que cuesta un teclado compacto inalámbrico?|¿Cuánto crees que cuesta una suscripción de 200 GB de almacenamiento en la nube al mes?|
+tech-604|¿Para qué ocasión querrías comprar una funda protectora resistente?|¿Para qué ocasión querrías comprar unos cascos con cancelación activa de ruido para los trayectos en tren?|
+tech-605|¿Qué momento del día elegirías para reorganizar tu pantalla de inicio?|¿Qué momento del día elegirías para explicarle una app a alguien cercano?|
+tech-606|¿Con qué frecuencia sueles configurar un móvil nuevo?|¿Con qué frecuencia sueles ordenar tus notificaciones?|
+tech-607|¿Con qué frecuencia te gustaría recuperar una contraseña antigua?|¿Con qué frecuencia te gustaría comparar dos tarifas de móvil?|
+tech-608|¿Cuál es para ti el precio de una batería externa de 20 000 mAh?|¿Cuál es para ti el precio de un cargador inalámbrico?|
+tech-609|¿Cuál sería el mejor momento para elegir una foto de perfil?|¿Cuál sería el mejor momento para ajustar la configuración de privacidad?|
+tech-610|¿Cuánto tiempo calcularías para pasar tus contactos?|¿Cuánto tiempo calcularías para instalar la app del banco?|
+tech-611|¿Qué precio te imaginas para un buen micro USB?|¿Qué precio te imaginas para un móvil de gama media?|
+tech-612|¿Cuánto tiempo crees que hace falta para configurar un móvil nuevo?|¿Cuánto tiempo crees que hace falta para ordenar tus notificaciones?|
+tech-613|¿Cuál sería tu primer impulso si tu móvil se calentara sin motivo?|¿Cuál sería tu primer impulso si recibieras cincuenta notificaciones de golpe?|
+tech-614|¿Con qué frecuencia sueles hacer una copia de seguridad?|¿Con qué frecuencia sueles reorganizar tu pantalla de inicio?|
