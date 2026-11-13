@@ -298,3 +298,103 @@ tech-611|Che prezzo ti immagini per un buon microfono USB?|Che prezzo ti immagin
 tech-612|Secondo te, quanto tempo ci vuole per configurare un nuovo smartphone?|Secondo te, quanto tempo ci vuole per fare ordine nelle notifiche?|
 tech-613|Quale sarebbe il tuo primo istinto se il telefono si scaldasse senza motivo?|Quale sarebbe il tuo primo istinto se ricevessi cinquanta notifiche tutte insieme?|
 tech-614|Quanto spesso ti capita di fare una copia di sicurezza dei dati?|Quanto spesso ti capita di riorganizzare la schermata home?|
+tech-615|Quale sarebbe la tua prima reazione se una riunione in video iniziasse senza audio?|Quale sarebbe la tua prima reazione se perdessi il Wi-Fi durante una chiamata importante?|
+tech-616|In che momento ti verrebbe voglia di comprare uno smartwatch semplice?|In che momento ti verrebbe voglia di comprare una cassa Bluetooth portatile?|
+tech-617|In che posto andresti per trovare un monitor da 27 pollici?|In che posto andresti per trovare una cover protettiva resistente?|
+tech-618|Secondo te, quanto tempo ci vuole per fare pulizia nella casella di posta?|Secondo te, quanto tempo ci vuole per controllare un link sospetto?|
+tech-619|Che frase ti uscirebbe di bocca se un video che hai postato diventasse virale?|Che frase ti uscirebbe di bocca se il telefono si scaldasse senza motivo?|
+tech-620|Su quale sito o in quale negozio cercheresti un hard disk esterno da 2 TB?|Su quale sito o in quale negozio cercheresti una chiavetta USB 3.0 da 128 GB?|
+tech-621|In quanto tempo riusciresti a regolare le impostazioni della privacy?|In quanto tempo riusciresti a trasferire i tuoi contatti?|
+tech-622|Come reagiresti se il computer ti chiedesse un aggiornamento urgente?|Come reagiresti se un amico ti taggasse in una vecchia foto?|
+tech-623|Secondo te, qual è il prezzo di un supporto per telefono da auto?|Secondo te, qual è il prezzo di una lampada smart?|
+tech-624|Secondo te, quanto costa un monitor da 27 pollici?|Secondo te, quanto costa una cover protettiva resistente?|
+tech-625|Qual è il primo posto dove cercheresti un cavo USB-C di qualità?|Qual è il primo posto dove cercheresti un hard disk esterno da 2 TB?|
+tech-626|In quanto tempo riusciresti a controllare un link sospetto?|In quanto tempo riusciresti a imparare una nuova scorciatoia da tastiera?|
+tech-627|Qual è la prima cosa che faresti se un’app cambiasse interfaccia?|Qual è la prima cosa che faresti se il computer ti chiedesse un aggiornamento urgente?|
+tech-628|Quante volte all’anno ti capita di controllare un link sospetto?|Quante volte all’anno ti capita di imparare una nuova scorciatoia da tastiera?|
+tech-629|Come risponderesti se un amico ti taggasse in una vecchia foto?|Come risponderesti se la memoria fosse piena prima di un viaggio?|
+tech-630|Fino a quanto pagheresti per un portatile da 14 pollici per lavorare?|Fino a quanto pagheresti per un monitor da 27 pollici?|
+tech-631|A chi chiederesti aiuto per spiegare un’app a un familiare?|A chi chiederesti aiuto per fare il backup delle foto del telefono?|
+tech-632|Fino a quanto pagheresti per uno smartwatch semplice?|Fino a quanto pagheresti per una cassa Bluetooth portatile?|
+tech-633|Cosa ti spingerebbe a comprare una tastiera compatta wireless?|Cosa ti spingerebbe a comprare un abbonamento mensile da 200 GB di spazio cloud?|
+tech-634|Quanto spesso ti capita di aggiornare un computer?|Quanto spesso ti capita di organizzare i tuoi file nel cloud?|
+tech-635|Quale fascia oraria sarebbe la più comoda per recuperare una vecchia password?|Quale fascia oraria sarebbe la più comoda per confrontare due offerte telefoniche?|
+tech-636|Che momento della giornata sceglieresti per controllare un link sospetto?|Che momento della giornata sceglieresti per imparare una nuova scorciatoia da tastiera?|
+tech-637|Quanto spesso ti capita di fare pulizia nella casella di posta?|Quanto spesso ti capita di controllare un link sospetto?|
+tech-638|In che posto andresti per trovare una chiavetta USB 3.0 da 128 GB?|In che posto andresti per trovare un supporto per telefono da auto?|
+tech-639|Che momento della giornata sceglieresti per regolare le impostazioni della privacy?|Che momento della giornata sceglieresti per trasferire i tuoi contatti?|
+tech-640|Quanto spesso ti capita di scegliere una foto profilo?|Quanto spesso ti capita di regolare le impostazioni della privacy?|
+tech-641|In quanto tempo riusciresti a fare ordine nelle notifiche?|In quanto tempo riusciresti a recuperare una vecchia password?|
+tech-642|In che posto andresti per trovare una cassa Bluetooth portatile?|In che posto andresti per trovare un router Wi-Fi recente?|
+tech-643|Cosa diresti sul momento se la memoria fosse piena prima di un viaggio?|Cosa diresti sul momento se il telefono scendesse al 2 % di batteria?|
+tech-644|Qual è la prima cosa che faresti se un amico ti chiedesse la password?|Qual è la prima cosa che faresti se un video che hai postato diventasse virale?|
+tech-645|Quale sarebbe la tua prima reazione se ricevessi cinquanta notifiche tutte insieme?|Quale sarebbe la tua prima reazione se un’app cambiasse interfaccia?|
+tech-646|Qual è il primo posto dove cercheresti un treppiede per smartphone?|Qual è il primo posto dove cercheresti un buon microfono USB?|
+tech-647|Che budget massimo metteresti per una cassa Bluetooth portatile?|Che budget massimo metteresti per un router Wi-Fi recente?|
+tech-648|Qual è la prima cosa che faresti se mandassi un messaggio nel gruppo sbagliato?|Qual è la prima cosa che faresti se il tuo account venisse bloccato temporaneamente?|
+tech-649|Che momento della giornata sceglieresti per fare ordine nelle notifiche?|Che momento della giornata sceglieresti per recuperare una vecchia password?|
+tech-650|Che momento della giornata sceglieresti per organizzare i tuoi file nel cloud?|Che momento della giornata sceglieresti per sistemare un dispositivo troppo lento?|
+tech-651|In quale occasione vorresti comprare un power bank da 20.000 mAh?|In quale occasione vorresti comprare un caricatore wireless?|
+tech-652|Chi tra le persone che conosci potrebbe aiutarti a fare ordine nelle notifiche?|Chi tra le persone che conosci potrebbe aiutarti a recuperare una vecchia password?|
+tech-653|Cosa ti spingerebbe a comprare uno smartphone di fascia media?|Cosa ti spingerebbe a comprare un power bank da 20.000 mAh?|
+tech-654|Che budget massimo metteresti per una tastiera compatta wireless?|Che budget massimo metteresti per un abbonamento mensile da 200 GB di spazio cloud?|
+tech-655|In quanto tempo riusciresti a organizzare i tuoi file nel cloud?|In quanto tempo riusciresti a sistemare un dispositivo troppo lento?|
+tech-656|Secondo te, quanto tempo ci vuole per aggiornare un computer?|Secondo te, quanto tempo ci vuole per organizzare i tuoi file nel cloud?|
+tech-657|Quanto tempo metteresti in conto per recuperare una vecchia password?|Quanto tempo metteresti in conto per confrontare due offerte telefoniche?|
+tech-658|Quanto tempo ti servirebbe per fare il backup delle foto del telefono?|Quanto tempo ti servirebbe per configurare un nuovo smartphone?|
+tech-659|Quante volte al mese ti capita di configurare uno smart speaker?|Quante volte al mese ti capita di fare una copia di sicurezza dei dati?|
+tech-660|Cosa ti spingerebbe a comprare una cassa Bluetooth portatile?|Cosa ti spingerebbe a comprare un router Wi-Fi recente?|
+tech-661|Dove andresti a comprare un power bank da 20.000 mAh?|Dove andresti a comprare un caricatore wireless?|
+tech-662|Quanto tempo ti servirebbe per preparare una videoconferenza?|Quanto tempo ti servirebbe per scegliere una foto profilo?|
+tech-663|Come risponderesti se un’app chiedesse troppi permessi?|Come risponderesti se un amico condividesse una notizia falsa?|
+tech-664|Dove andresti a comprare un supporto per telefono da auto?|Dove andresti a comprare una lampada smart?|
+tech-665|In che momento ti verrebbe voglia di comprare un hard disk esterno da 2 TB?|In che momento ti verrebbe voglia di comprare una chiavetta USB 3.0 da 128 GB?|
+tech-666|Quante volte all’anno ti capita di organizzare i tuoi file nel cloud?|Quante volte all’anno ti capita di sistemare un dispositivo troppo lento?|
+tech-667|Oltre quale prezzo esiteresti a comprare un power bank da 20.000 mAh?|Oltre quale prezzo esiteresti a comprare un caricatore wireless?|
+tech-668|Quanto pensi che valga un caricatore wireless?|Quanto pensi che valga un portatile da 14 pollici per lavorare?|
+tech-669|Quale sarebbe il tuo primo istinto se un’app chiedesse troppi permessi?|Quale sarebbe il tuo primo istinto se un amico condividesse una notizia falsa?|
+tech-670|Quante volte all’anno ti capita di regolare le impostazioni della privacy?|Quante volte all’anno ti capita di trasferire i tuoi contatti?|
+tech-671|Secondo te, quanto costa una chiavetta USB 3.0 da 128 GB?|Secondo te, quanto costa un supporto per telefono da auto?|
+tech-672|Quante volte all’anno ti capita di fare ordine nelle notifiche?|Quante volte all’anno ti capita di recuperare una vecchia password?|
+tech-673|Quante volte al mese ti capita di fare il backup delle foto del telefono?|Quante volte al mese ti capita di configurare un nuovo smartphone?|
+tech-674|Quanto spesso ti piacerebbe sistemare un dispositivo troppo lento?|Quanto spesso ti piacerebbe preparare una videoconferenza?|
+tech-675|Quale sarebbe la tua prima reazione se un amico condividesse una notizia falsa?|Quale sarebbe la tua prima reazione se mandassi un messaggio nel gruppo sbagliato?|
+tech-676|Chi contatteresti per farti aiutare a installare l’app della banca?|Chi contatteresti per farti aiutare a fare pulizia nella casella di posta?|
+tech-677|Su quale sito o in quale negozio cercheresti un portatile da 14 pollici per lavorare?|Su quale sito o in quale negozio cercheresti un monitor da 27 pollici?|
+tech-678|Secondo te, qual è il prezzo di un router Wi-Fi recente?|Secondo te, qual è il prezzo di un cavo USB-C di qualità?|
+tech-679|Quanto pensi che valga un treppiede per smartphone?|Quanto pensi che valga un buon microfono USB?|
+tech-680|Secondo te, quanto tempo ci vuole per fare una copia di sicurezza dei dati?|Secondo te, quanto tempo ci vuole per riorganizzare la schermata home?|
+tech-681|Come risponderesti se ricevessi una chiamata da un numero sconosciuto?|Come risponderesti se una riunione in video iniziasse senza audio?|
+tech-682|Quanto pensi che valga una lampada smart?|Quanto pensi che valga una webcam ad alta definizione?|
+tech-683|Quanto tempo metteresti in conto per imparare una nuova scorciatoia da tastiera?|Quanto tempo metteresti in conto per configurare uno smart speaker?|
+tech-684|Quale fascia oraria sarebbe la più comoda per imparare una nuova scorciatoia da tastiera?|Quale fascia oraria sarebbe la più comoda per configurare uno smart speaker?|
+tech-685|A chi chiederesti aiuto per sistemare un dispositivo troppo lento?|A chi chiederesti aiuto per preparare una videoconferenza?|
+tech-686|Quanto spesso ti piacerebbe trasferire i tuoi contatti?|Quanto spesso ti piacerebbe installare l’app della banca?|
+tech-687|Cosa diresti sul momento se ricevessi cinquanta notifiche tutte insieme?|Cosa diresti sul momento se un’app cambiasse interfaccia?|
+tech-688|Quanto tempo ti servirebbe per installare l’app della banca?|Quanto tempo ti servirebbe per fare pulizia nella casella di posta?|
+tech-689|Oltre quale prezzo esiteresti a comprare una cover protettiva resistente?|Oltre quale prezzo esiteresti a comprare un paio di cuffie con cancellazione attiva del rumore per i viaggi in treno?|
+tech-690|In che momento ti verrebbe voglia di comprare un portatile da 14 pollici per lavorare?|In che momento ti verrebbe voglia di comprare un monitor da 27 pollici?|
+tech-691|Quanto tempo metteresti in conto per spiegare un’app a un familiare?|Quanto tempo metteresti in conto per fare il backup delle foto del telefono?|
+tech-692|Chi contatteresti per farti aiutare a preparare una videoconferenza?|Chi contatteresti per farti aiutare a scegliere una foto profilo?|
+tech-693|Chi tra le persone che conosci potrebbe aiutarti a regolare le impostazioni della privacy?|Chi tra le persone che conosci potrebbe aiutarti a trasferire i tuoi contatti?|
+tech-694|In che momento ti verrebbe voglia di comprare una webcam ad alta definizione?|In che momento ti verrebbe voglia di comprare una tastiera compatta wireless?|
+tech-695|Cosa ti spingerebbe a comprare un monitor da 27 pollici?|Cosa ti spingerebbe a comprare una cover protettiva resistente?|
+tech-696|Qual è il primo posto dove cercheresti una lampada smart?|Qual è il primo posto dove cercheresti una webcam ad alta definizione?|
+tech-697|Chi potrebbe darti il consiglio migliore per fare pulizia nella casella di posta?|Chi potrebbe darti il consiglio migliore per controllare un link sospetto?|
+tech-698|A chi chiederesti aiuto per recuperare una vecchia password?|A chi chiederesti aiuto per confrontare due offerte telefoniche?|
+tech-699|Quanto pensi che valga un cavo USB-C di qualità?|Quanto pensi che valga un hard disk esterno da 2 TB?|
+tech-700|Quale sarebbe la tua prima reazione se la memoria fosse piena prima di un viaggio?|Quale sarebbe la tua prima reazione se il telefono scendesse al 2 % di batteria?|
+tech-701|Che frase ti uscirebbe di bocca se il computer ti chiedesse un aggiornamento urgente?|Che frase ti uscirebbe di bocca se un amico ti taggasse in una vecchia foto?|
+tech-702|Quale sarebbe il momento migliore per configurare un nuovo smartphone?|Quale sarebbe il momento migliore per fare ordine nelle notifiche?|
+tech-703|Quante volte al mese ti capita di installare l’app della banca?|Quante volte al mese ti capita di fare pulizia nella casella di posta?|
+tech-704|Qual è il primo posto dove cercheresti un caricatore wireless?|Qual è il primo posto dove cercheresti un portatile da 14 pollici per lavorare?|
+tech-705|Quanto saresti disposto a spendere per un treppiede per smartphone?|Quanto saresti disposto a spendere per un buon microfono USB?|
+tech-706|In che momento della settimana preferiresti confrontare due offerte telefoniche?|In che momento della settimana preferiresti aggiornare un computer?|
+tech-707|Cosa diresti se un’app cambiasse interfaccia?|Cosa diresti se il computer ti chiedesse un aggiornamento urgente?|
+tech-708|Come risponderesti se scoprissi un abbonamento dimenticato?|Come risponderesti se un vocale durasse otto minuti?|
+tech-709|Fino a quanto pagheresti per una webcam ad alta definizione?|Fino a quanto pagheresti per una tastiera compatta wireless?|
+tech-710|Che prezzo ti immagini per una webcam ad alta definizione?|Che prezzo ti immagini per una tastiera compatta wireless?|
+tech-711|A chi chiederesti aiuto per imparare una nuova scorciatoia da tastiera?|A chi chiederesti aiuto per configurare uno smart speaker?|
+tech-712|Quale sarebbe la tua prima reazione se un vocale durasse otto minuti?|Quale sarebbe la tua prima reazione se un amico ti chiedesse la password?|
+tech-713|Oltre quale prezzo esiteresti a comprare un abbonamento mensile da 200 GB di spazio cloud?|Oltre quale prezzo esiteresti a comprare un treppiede per smartphone?|
+tech-714|In quale situazione decideresti di comprare una lampada smart?|In quale situazione decideresti di comprare una webcam ad alta definizione?|

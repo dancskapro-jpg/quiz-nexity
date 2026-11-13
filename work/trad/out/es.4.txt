@@ -311,3 +311,103 @@ maison-690|¿Cuántas veces al año tienes ocasión de montar una estantería nu
 maison-691|¿Cuál sería el mejor momento para hacer una criba de tu ropa?|¿Cuál sería el mejor momento para montar una estantería nueva?|
 maison-692|¿Qué franja del día sería la más práctica para preparar una habitación para invitados?|¿Qué franja del día sería la más práctica para cambiar una bombilla?|
 maison-693|¿Quién podría darte el mejor consejo para ordenar un armario de cocina?|¿Quién podría darte el mejor consejo para limpiar un baño?|
+maison-694|¿Cuál sería el mejor momento para ordenar los papeles de casa?|¿Cuál sería el mejor momento para preparar una mudanza?|
+maison-695|¿Qué dirías si alguien cercano quisiera quedarse a dormir en tu casa sin avisar?|¿Qué dirías si tu armario estuviera a reventar de ropa?|
+maison-696|¿Cómo reaccionarías si tu armario estuviera a reventar de ropa?|¿Cómo reaccionarías si un electrodoméstico hiciera un ruido raro?|
+maison-697|¿Adónde irías a comprar una mesa de centro de madera?|¿Adónde irías a comprar una alfombra de salón de 160 × 230 cm?|
+maison-698|¿Cuántas veces al mes tienes ocasión de elegir un color de pintura?|¿Cuántas veces al mes tienes ocasión de hacer una criba de tu ropa?|
+maison-699|¿Cuánto tiempo calcularías para organizar un rincón de escritorio?|¿Cuánto tiempo calcularías para limpiar todos los cristales?|
+maison-700|¿Hasta cuánto pagarías por un perchero de pared?|¿Hasta cuánto pagarías por una cafetera de goteo?|
+maison-701|¿Cuánto estarías dispuesto a gastarte en una mesa de comedor de madera para cuatro personas?|¿Cuánto estarías dispuesto a gastarte en un sillón cómodo?|
+maison-702|¿Qué dirías si descubrieras una fuga debajo del fregadero?|¿Qué dirías si un invitado rompiera un vaso?|
+maison-703|¿En cuánto tiempo podrías ordenar una estantería de libros?|¿En cuánto tiempo podrías elegir una planta para tu salón?|
+maison-704|¿A quién contactarías para que te ayude a limpiar todos los cristales?|¿A quién contactarías para que te ayude a limpiar la casa antes de una visita?|
+maison-705|¿Para qué ocasión querrías comprar una planta de interior fácil de cuidar?|¿Para qué ocasión querrías comprar un juego de cojines?|
+maison-706|¿En qué momento te apetecería comprar un escritorio pequeño para piso?|¿En qué momento te apetecería comprar un juego de toallas de baño?|
+maison-707|¿Cuál sería tu primera reacción si notaras un olor extraño en la cocina?|¿Cuál sería tu primera reacción si descubrieras una fuga debajo del fregadero?|
+maison-708|¿Cuánto tiempo crees que hace falta para decorar un recibidor pequeño?|¿Cuánto tiempo crees que hace falta para vaciar y limpiar una nevera?|
+maison-709|¿Cuál sería tu primera reacción si sonara el timbre mientras te duchas?|¿Cuál sería tu primera reacción si descubrieras una mancha enorme en el sofá?|
+maison-710|¿En qué momento te apetecería comprar un sillón cómodo?|¿En qué momento te apetecería comprar un sofá de dos plazas de tela?|
+maison-711|¿Cuál es, según tú, el precio de una planta de interior fácil de cuidar?|¿Cuál es, según tú, el precio de un juego de cojines?|
+maison-712|¿Cuánto crees que cuesta un espejo de baño?|¿Cuánto crees que cuesta una funda nórdica de algodón?|
+maison-713|¿Cómo responderías si un electrodoméstico hiciera un ruido raro?|¿Cómo responderías si notaras un olor extraño en la cocina?|
+maison-714|¿Qué dirías si te llegara un mueble al que le falta una pieza?|¿Qué dirías si se te estropeara la aspiradora?|
+maison-715|¿Para qué ocasión querrías comprar una caja de herramientas básica?|¿Para qué ocasión querrías comprar una mesa de comedor de madera para cuatro personas?|
+maison-716|¿Qué presupuesto máximo pondrías para un juego de toallas de baño?|¿Qué presupuesto máximo pondrías para una planta de interior fácil de cuidar?|
+maison-717|¿Qué presupuesto máximo pondrías para una buena aspiradora sin cable?|¿Qué presupuesto máximo pondrías para un mueble zapatero?|
+maison-718|¿Qué dirías si un invitado derramara café en la alfombra?|¿Qué dirías si un amigo quisiera reorganizar tu salón?|
+maison-719|¿Dónde buscarías primero un espejo de baño?|¿Dónde buscarías primero una funda nórdica de algodón?|
+maison-720|¿Qué presupuesto máximo pondrías para una lámpara de mesita de noche?|¿Qué presupuesto máximo pondrías para una estantería de pared?|
+maison-721|¿Quién podría darte el mejor consejo para limpiar la casa antes de una visita?|¿Quién podría darte el mejor consejo para ordenar una estantería de libros?|
+maison-722|¿Cómo reaccionarías si un amigo quisiera reorganizar tu salón?|¿Cómo reaccionarías si encontraras algo que habías perdido hace mucho tiempo?|
+maison-723|¿Cuánto crees que cuesta una mesa de comedor de madera para cuatro personas?|¿Cuánto crees que cuesta un sillón cómodo?|
+maison-724|¿A qué sitio irías para encontrar un sofá de dos plazas de tela?|¿A qué sitio irías para encontrar una mesa de centro de madera?|
+maison-725|¿Hasta cuánto pagarías por una funda nórdica de algodón?|¿Hasta cuánto pagarías por una buena aspiradora sin cable?|
+maison-726|¿Qué frase te saldría si se te estropeara la aspiradora?|¿Qué frase te saldría si un amigo criticara tu decoración?|
+maison-727|¿Dónde buscarías primero una cesta de almacenaje?|¿Dónde buscarías primero un escritorio pequeño para piso?|
+maison-728|¿A qué sitio irías para encontrar una lámpara de mesita de noche?|¿A qué sitio irías para encontrar una estantería de pared?|
+maison-729|¿Cuánto tiempo te haría falta para limpiar todos los cristales?|¿Cuánto tiempo te haría falta para limpiar la casa antes de una visita?|
+maison-730|¿Cuál sería tu primer impulso si un electrodoméstico hiciera un ruido raro?|¿Cuál sería tu primer impulso si notaras un olor extraño en la cocina?|
+maison-731|¿Cómo responderías si perdieras las llaves delante de tu casa?|¿Cómo responderías si un vecino te pidiera sal?|
+maison-732|¿En qué situación decidirías comprar una alfombra de salón de 160 × 230 cm?|¿En qué situación decidirías comprar un juego de cortinas opacas?|
+maison-733|¿Con qué frecuencia te gustaría preparar una habitación para invitados?|¿Con qué frecuencia te gustaría cambiar una bombilla?|
+maison-734|¿Cuál sería tu primer impulso si encontraras algo que habías perdido hace mucho tiempo?|¿Cuál sería tu primer impulso si se fundiera una bombilla durante la cena?|
+maison-735|¿Cuánto estarías dispuesto a gastarte en una alfombra de salón de 160 × 230 cm?|¿Cuánto estarías dispuesto a gastarte en un juego de cortinas opacas?|
+maison-736|¿Cuántas veces al año tienes ocasión de vaciar y limpiar una nevera?|¿Cuántas veces al año tienes ocasión de organizar un rincón de escritorio?|
+maison-737|¿Cuánto crees que cuesta un juego de toallas de baño?|¿Cuánto crees que cuesta una planta de interior fácil de cuidar?|
+maison-738|¿Qué harías primero si un invitado derramara café en la alfombra?|¿Qué harías primero si un amigo quisiera reorganizar tu salón?|
+maison-739|¿Cuál es, según tú, el precio de un mueble zapatero?|¿Cuál es, según tú, el precio de una cesta de almacenaje?|
+maison-740|¿Cada cuánto sueles decorar un recibidor pequeño?|¿Cada cuánto sueles vaciar y limpiar una nevera?|
+maison-741|¿Cuántas veces al mes tienes ocasión de limpiar todos los cristales?|¿Cuántas veces al mes tienes ocasión de limpiar la casa antes de una visita?|
+maison-742|¿Adónde irías a comprar una estantería de pared?|¿Adónde irías a comprar un espejo de baño?|
+maison-743|¿Cada cuánto sueles ordenar un armario de cocina?|¿Cada cuánto sueles limpiar un baño?|
+maison-744|¿Cómo reaccionarías si un vecino te avisara de un corte de agua?|¿Cómo reaccionarías si un repartidor te subiera un paquete muy pesado?|
+maison-745|¿Cuánto estarías dispuesto a gastarte en un juego de cojines?|¿Cuánto estarías dispuesto a gastarte en un perchero de pared?|
+maison-746|¿Qué frase te saldría si tu armario estuviera a reventar de ropa?|¿Qué frase te saldría si un electrodoméstico hiciera un ruido raro?|
+maison-747|¿Cuál es, según tú, el precio de una caja de herramientas básica?|¿Cuál es, según tú, el precio de una mesa de comedor de madera para cuatro personas?|
+maison-748|¿En qué momento de la semana preferirías cambiar una bombilla?|¿En qué momento de la semana preferirías decorar un recibidor pequeño?|
+maison-749|¿Para qué ocasión querrías comprar una estantería de pared?|¿Para qué ocasión querrías comprar un espejo de baño?|
+maison-750|¿Adónde irías a comprar una planta de interior fácil de cuidar?|¿Adónde irías a comprar un juego de cojines?|
+maison-751|¿Cuánto tiempo te haría falta para elegir un color de pintura?|¿Cuánto tiempo te haría falta para hacer una criba de tu ropa?|
+maison-752|¿A qué sitio irías para encontrar una cafetera de goteo?|¿A qué sitio irías para encontrar una caja de herramientas básica?|
+maison-753|¿Cuál sería el mejor momento para decorar un recibidor pequeño?|¿Cuál sería el mejor momento para vaciar y limpiar una nevera?|
+maison-754|¿En qué momento de la semana preferirías elegir un color de pintura?|¿En qué momento de la semana preferirías hacer una criba de tu ropa?|
+maison-755|¿Cuánto tiempo calcularías para cambiar la distribución del salón?|¿Cuánto tiempo calcularías para elegir un color de pintura?|
+maison-756|¿Qué presupuesto máximo pondrías para un sofá de dos plazas de tela?|¿Qué presupuesto máximo pondrías para una mesa de centro de madera?|
+maison-757|¿Cuántas veces al año tienes ocasión de limpiar un baño?|¿Cuántas veces al año tienes ocasión de cambiar la distribución del salón?|
+maison-758|¿Dónde buscarías primero un juego de cojines?|¿Dónde buscarías primero un perchero de pared?|
+maison-759|¿En qué situación decidirías comprar una mesa de comedor de madera para cuatro personas?|¿En qué situación decidirías comprar un sillón cómodo?|
+maison-760|¿Qué persona de tu entorno podría ayudarte a limpiar un baño?|¿Qué persona de tu entorno podría ayudarte a cambiar la distribución del salón?|
+maison-761|¿Qué momento del día elegirías para preparar una mudanza?|¿Qué momento del día elegirías para organizar los armarios de la cocina?|
+maison-762|¿Cuál sería tu primera reacción si se fundiera una bombilla durante la cena?|¿Cuál sería tu primera reacción si alguien cercano quisiera quedarse a dormir en tu casa sin avisar?|
+maison-763|¿Qué te llevaría a comprar una cafetera de goteo?|¿Qué te llevaría a comprar una caja de herramientas básica?|
+maison-764|¿Qué momento del día elegirías para ordenar una estantería de libros?|¿Qué momento del día elegirías para elegir una planta para tu salón?|
+maison-765|¿En cuánto tiempo podrías preparar una mudanza?|¿En cuánto tiempo podrías organizar los armarios de la cocina?|
+maison-766|¿Con qué frecuencia te gustaría organizar un rincón de escritorio?|¿Con qué frecuencia te gustaría limpiar todos los cristales?|
+maison-767|¿En cuánto tiempo podrías vaciar y limpiar una nevera?|¿En cuánto tiempo podrías organizar un rincón de escritorio?|
+maison-768|¿En cuánto tiempo podrías limpiar un baño?|¿En cuánto tiempo podrías cambiar la distribución del salón?|
+maison-769|¿Cuánto crees que cuesta una alfombra de salón de 160 × 230 cm?|¿Cuánto crees que cuesta un juego de cortinas opacas?|
+maison-770|¿En qué momento de la semana preferirías montar un mueble en kit?|¿En qué momento de la semana preferirías ordenar un armario de cocina?|
+maison-771|¿Qué franja del día sería la más práctica para elegir una planta para tu salón?|¿Qué franja del día sería la más práctica para colgar cortinas?|
+maison-772|¿Qué precio te imaginas para una funda nórdica de algodón?|¿Qué precio te imaginas para una buena aspiradora sin cable?|
+maison-773|¿Cuánto tiempo crees que hace falta para hacer una criba de tu ropa?|¿Cuánto tiempo crees que hace falta para montar una estantería nueva?|
+maison-774|¿A quién pedirías ayuda para preparar una habitación para invitados?|¿A quién pedirías ayuda para cambiar una bombilla?|
+maison-775|¿Qué frase te saldría si un vecino te avisara de un corte de agua?|¿Qué frase te saldría si un repartidor te subiera un paquete muy pesado?|
+maison-776|¿En qué situación decidirías comprar un juego de cojines?|¿En qué situación decidirías comprar un perchero de pared?|
+maison-777|¿Qué harías primero si te llegara un mueble al que le falta una pieza?|¿Qué harías primero si se te estropeara la aspiradora?|
+maison-778|¿Cuánto tiempo crees que hace falta para ordenar un armario de cocina?|¿Cuánto tiempo crees que hace falta para limpiar un baño?|
+maison-779|¿A quién contactarías para que te ayude a cambiar una bombilla?|¿A quién contactarías para que te ayude a decorar un recibidor pequeño?|
+maison-780|¿A partir de qué precio dudarías en comprar un mueble zapatero?|¿A partir de qué precio dudarías en comprar una cesta de almacenaje?|
+enfance-706|¿Qué persona de tu entorno podría ayudarte a repasar un dictado?|¿Qué persona de tu entorno podría ayudarte a ordenar una habitación infantil?|
+enfance-707|¿Cómo responderías si sacaras una buena nota que no te esperabas?|¿Cómo responderías si tu mejor amigo faltara el primer día de cole?|
+enfance-708|¿Cuál es, según tú, el precio de un despertador infantil?|¿Cuál es, según tú, el precio de una fiambrera para la merienda?|
+enfance-709|¿Quién podría darte el mejor consejo para organizar un cumpleaños infantil?|¿Quién podría darte el mejor consejo para repasar un dictado?|
+enfance-710|¿Hasta cuánto pagarías por un diario con candado?|¿Hasta cuánto pagarías por una baraja de cartas ilustradas?|
+enfance-711|¿Qué detalle comprobarías antes de aprenderte un poema de memoria?|¿Qué detalle comprobarías antes de preparar una exposición para clase?|
+enfance-712|¿Cuánto crees que cuesta una caja de plastilina?|¿Cuánto crees que cuesta un diario con candado?|
+enfance-713|¿A qué sitio irías para encontrar una bici para niños de seis a ocho años?|¿A qué sitio irías para encontrar un balón de fútbol para jugar en el patio?|
+enfance-714|¿A partir de qué precio dudarías en comprar un balón de fútbol para jugar en el patio?|¿A partir de qué precio dudarías en comprar un cómic?|
+enfance-715|¿Adónde irías a comprar un despertador infantil?|¿Adónde irías a comprar una fiambrera para la merienda?|
+enfance-716|¿Cuánto tiempo te haría falta para hacer un dibujo para alguien cercano?|¿Cuánto tiempo te haría falta para montar una cabaña con cojines?|
+enfance-717|¿Dónde buscarías primero una fiambrera para la merienda?|¿Dónde buscarías primero una consola portátil pequeña?|
+enfance-718|¿Cuánto crees que cuesta un libro ilustrado infantil?|¿Cuánto crees que cuesta un peluche de calidad?|
