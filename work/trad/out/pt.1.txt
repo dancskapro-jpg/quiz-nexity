@@ -498,3 +498,103 @@ bouffe-778|Onde você procuraria um prato de massa num restaurante primeiro?|Ond
 bouffe-779|Qual seria o melhor momento para cozinhar um prato para convidados?|Qual seria o melhor momento para escolher uma receita para hoje à noite?|
 bouffe-780|Que frase sairia da sua boca se seu amigo dissesse que seu prato está apimentado demais?|Que frase sairia da sua boca se faltasse o ingrediente principal da sua receita?|
 bouffe-781|Em quanto tempo você conseguiria preparar um molho de salada caseiro?|Em quanto tempo você conseguiria picar legumes para o jantar?|
+bouffe-782|O que te levaria a comprar um pote de creme de avelã?|O que te levaria a comprar uma cesta de três quilos de frutas da estação?|
+bouffe-783|Que momento do dia você escolheria para preparar uma salada de frutas?|Que momento do dia você escolheria para cozinhar macarrão para várias pessoas?|
+bouffe-784|Qual seria seu primeiro reflexo se faltasse o ingrediente principal da sua receita?|Qual seria seu primeiro reflexo se te oferecessem para provar um alimento desconhecido?|
+bouffe-785|Onde você procuraria um hambúrguer vegetariano primeiro?|Onde você procuraria um brunch completo para uma pessoa numa cafeteria primeiro?|
+bouffe-786|Quanto tempo você reservaria para escolher um restaurante para quatro pessoas?|Quanto tempo você reservaria para fazer um bolo de chocolate?|
+bouffe-787|Na sua opinião, quanto tempo leva para arrumar uma mesa para seis pessoas?|Na sua opinião, quanto tempo leva para preparar um café da manhã na cama?|
+bouffe-788|Em que momento da semana você preferiria fazer um bolo de chocolate?|Em que momento da semana você preferiria fazer uma sopa caseira?|
+bouffe-789|A partir de que preço você hesitaria em comprar uma caixa com doze macarons?|A partir de que preço você hesitaria em pedir um delivery de comida para duas pessoas?|
+bouffe-790|Que preço você imagina para um brunch completo para uma pessoa numa cafeteria?|Que preço você imagina para um bolo de aniversário artesanal?|
+bouffe-791|Qual seria o melhor momento para preparar um lanche da tarde para crianças?|Qual seria o melhor momento para testar uma receita achada na internet?|
+bouffe-792|Com que frequência você costuma cozinhar um prato para convidados?|Com que frequência você costuma escolher uma receita para a noite?|
+bouffe-793|Qual seria seu primeiro reflexo se um convidado chegasse com uma sobremesa a mais?|Qual seria seu primeiro reflexo se o entregador esquecesse uma parte do pedido?|
+bouffe-794|Que momento do dia você escolheria para escolher uma receita para a noite?|Que momento do dia você escolheria para fazer uma lista de compras?|
+bouffe-795|Em que momento você teria vontade de comprar seis doces de confeitaria sortidos?|Em que momento você teria vontade de comprar uma boa pizza para viagem?|
+bouffe-796|Em que momento você teria vontade de comprar uma garrafa de azeite de qualidade?|Em que momento você teria vontade de comprar um quilo de morangos na época?|
+bouffe-797|Até quanto você pagaria por uma barra de chocolate artesanal?|Até quanto você pagaria por uma porção de batata frita caseira?|
+bouffe-798|Que momento do dia você escolheria para preparar um café da manhã na cama?|Que momento do dia você escolheria para escolher um restaurante para quatro pessoas?|
+bouffe-799|Aonde você iria para comprar um combinado de trinta sushis para viagem?|Aonde você iria para comprar um hambúrguer vegetariano?|
+bouffe-800|O que te levaria a comprar uma porção de batata frita caseira?|O que te levaria a comprar um smoothie natural?|
+bouffe-801|Em quanto tempo você conseguiria preparar uma salada de frutas?|Em quanto tempo você conseguiria cozinhar macarrão para várias pessoas?|
+bouffe-802|Em que momento da semana você preferiria organizar um piquenique caprichado?|Em que momento da semana você preferiria arrumar uma mesa para seis pessoas?|
+bouffe-803|O que você diria na hora se o entregador esquecesse uma parte do pedido?|O que você diria na hora se seu amigo quisesse comer às 18h?|
+bouffe-804|Em que situação você decidiria pedir uma salada completa num restaurante?|Em que situação você decidiria comprar um crepe salgado completo?|
+bouffe-805|Qual orçamento máximo você reservaria para um bolo de aniversário artesanal?|Qual orçamento máximo você reservaria para uma caixa com doze macarons?|
+bouffe-806|O que você diria se um amigo quisesse dividir todos os pratos?|O que você diria se achasse um cabelo no seu prato?|
+bouffe-807|Em que situação você decidiria pedir um delivery de comida para duas pessoas?|Em que situação você decidiria comprar uma garrafa de azeite de qualidade?|
+bouffe-808|Em que momento da semana você preferiria fazer compras para um jantar?|Em que momento da semana você preferiria preparar um lanche da tarde para crianças?|
+bouffe-809|Quanto você estaria disposto a gastar com um delivery de comida para duas pessoas?|Quanto você estaria disposto a gastar com uma garrafa de azeite de qualidade?|
+bouffe-810|Que frase sairia da sua boca se você achasse um cabelo no seu prato?|Que frase sairia da sua boca se um amigo te pedisse para escolher por ele?|
+bouffe-811|A quem você pediria ajuda para montar uma tábua de frios?|A quem você pediria ajuda para preparar uma marmita para o almoço?|
+bouffe-812|Quem você chamaria para te ajudar a fazer um bolo de chocolate?|Quem você chamaria para te ajudar a fazer uma sopa caseira?|
+bouffe-813|Quanto tempo você levaria para organizar um piquenique caprichado?|Quanto tempo você levaria para arrumar uma mesa para seis pessoas?|
+bouffe-814|Na sua opinião, quanto tempo leva para preparar um lanche da tarde para crianças?|Na sua opinião, quanto tempo leva para testar uma receita achada na internet?|
+bouffe-815|Qual seria sua primeira reação se te oferecessem para provar um alimento desconhecido?|Qual seria sua primeira reação se seu prato chegasse frio no restaurante?|
+bouffe-816|Como você responderia se faltasse o ingrediente principal da sua receita?|Como você responderia se te oferecessem para provar um alimento desconhecido?|
+bouffe-817|Que preço você imagina para uma garrafa de azeite de qualidade?|Que preço você imagina para um quilo de morangos na época?|
+bouffe-818|Como você responderia se alguém colocasse ketchup no seu prato favorito?|Como você responderia se um convidado avisasse que tem alergia alimentar?|
+bouffe-819|Para você, qual é o preço de um smoothie natural?|Para você, qual é o preço de uma salada completa num restaurante?|
+bouffe-820|Como você reagiria se te pedissem a receita do seu prato?|Como você reagiria se um convidado chegasse com uma sobremesa a mais?|
+bouffe-821|Em que site ou loja você procuraria uma garrafa de azeite de qualidade?|Em que site ou loja você procuraria um quilo de morangos na época?|
+bouffe-822|Aonde você iria para encontrar uma boa pizza para viagem?|Aonde você iria para encontrar um combinado de trinta sushis para viagem?|
+bouffe-823|Aonde você iria para encontrar um quilo de morangos na época?|Aonde você iria para encontrar um bom queijo curado?|
+bouffe-824|Quantas vezes por mês você tem a oportunidade de fazer um bolo de chocolate?|Quantas vezes por mês você tem a oportunidade de fazer uma sopa caseira?|
+bouffe-825|Quanto você acha que vale um pacote de 250 g de café especial?|Quanto você acha que vale uma barra de chocolate artesanal?|
+bouffe-826|Onde você procuraria uma salada completa num restaurante primeiro?|Onde você procuraria um crepe salgado completo primeiro?|
+bouffe-827|Quanto tempo você reservaria para fazer uma lista de compras?|Quanto tempo você reservaria para preparar uma sobremesa sem forno?|
+bouffe-828|Que preço você imagina para uma barra de chocolate artesanal?|Que preço você imagina para uma porção de batata frita caseira?|
+bouffe-829|Qual orçamento máximo você reservaria para um quilo de morangos na época?|Qual orçamento máximo você reservaria para um bom queijo curado?|
+bouffe-830|Que pessoa próxima de você poderia te ajudar a preparar um café da manhã na cama?|Que pessoa próxima de você poderia te ajudar a escolher um restaurante para quatro pessoas?|
+bouffe-831|Em que ocasião você ia querer comprar um combinado de trinta sushis para viagem?|Em que ocasião você ia querer comprar um hambúrguer vegetariano?|
+bouffe-832|O que te levaria a comprar um bolo de aniversário artesanal?|O que te levaria a comprar uma caixa com doze macarons?|
+bouffe-833|O que você diria na hora se o restaurante se recusasse a mudar uma receita?|O que você diria na hora se queimasse um pouco o bolo?|
+bouffe-834|Quanto tempo você reservaria para cozinhar macarrão para várias pessoas?|Quanto tempo você reservaria para fazer compras para um jantar?|
+bouffe-835|Quem poderia te dar o melhor conselho para cozinhar um prato para convidados?|Quem poderia te dar o melhor conselho para escolher uma receita para a noite?|
+bouffe-836|Em que momento você teria vontade de comprar uma barra de chocolate artesanal?|Em que momento você teria vontade de comprar uma porção de batata frita caseira?|
+bouffe-837|Até quanto você pagaria por seis doces de confeitaria sortidos?|Até quanto você pagaria por uma boa pizza para viagem?|
+bouffe-838|Qual seria o melhor momento para esquentar a comida de ontem?|Qual seria o melhor momento para preparar um molho de salada caseiro?|
+bouffe-839|Quantas vezes por ano você tem a oportunidade de preparar uma salada de frutas?|Quantas vezes por ano você tem a oportunidade de cozinhar macarrão para várias pessoas?|
+bouffe-840|Quanto você acha que vale um hambúrguer vegetariano?|Quanto você acha que vale um brunch completo para uma pessoa numa cafeteria?|
+bouffe-841|Quem poderia te dar o melhor conselho para esquentar a comida de ontem?|Quem poderia te dar o melhor conselho para preparar um molho de salada caseiro?|
+bouffe-842|Aonde você iria para comprar uma caixa com doze macarons?|Aonde você iria para pedir um delivery de comida para duas pessoas?|
+bouffe-843|Qual seria seu primeiro reflexo se um amigo te pedisse para escolher por ele?|Qual seria seu primeiro reflexo se o restaurante se recusasse a mudar uma receita?|
+bouffe-844|Quanto tempo você reservaria para picar legumes para o jantar?|Quanto tempo você reservaria para organizar um piquenique caprichado?|
+bouffe-845|Com que frequência você costuma arrumar uma mesa para seis pessoas?|Com que frequência você costuma preparar um café da manhã na cama?|
+bouffe-846|Na sua opinião, quanto custa um pote de creme de avelã?|Na sua opinião, quanto custa uma cesta de três quilos de frutas da estação?|
+bouffe-847|Em que ocasião você ia querer comprar uma caixa com doze macarons?|Em que ocasião você ia querer pedir um delivery de comida para duas pessoas?|
+bouffe-848|A partir de que preço você hesitaria em comprar um combinado de trinta sushis para viagem?|A partir de que preço você hesitaria em comprar um hambúrguer vegetariano?|
+bouffe-849|Quantas vezes por mês você tem a oportunidade de fazer compras para um jantar?|Quantas vezes por mês você tem a oportunidade de preparar um lanche da tarde para crianças?|
+bouffe-850|Com que frequência você gostaria de picar legumes para o jantar?|Com que frequência você gostaria de organizar um piquenique caprichado?|
+bouffe-851|Quanto tempo você levaria para fazer compras para um jantar?|Quanto tempo você levaria para preparar um lanche da tarde para crianças?|
+bouffe-852|A quem você pediria ajuda para escolher um restaurante para quatro pessoas?|A quem você pediria ajuda para fazer um bolo de chocolate?|
+bouffe-853|A partir de que preço você hesitaria em comprar um bom queijo curado?|A partir de que preço você hesitaria em comprar um pacote de 250 g de café especial?|
+bouffe-854|Que horário do dia seria mais prático para montar uma tábua de frios?|Que horário do dia seria mais prático para preparar uma marmita para o almoço?|
+bouffe-855|Na sua opinião, quanto custa uma porção de batata frita caseira?|Na sua opinião, quanto custa um smoothie natural?|
+bouffe-856|Aonde você iria para comprar uma cesta de três quilos de frutas da estação?|Aonde você iria para comer um prato de massa num restaurante?|
+bouffe-857|O que você diria na hora se um convidado avisasse que tem alergia alimentar?|O que você diria na hora se um amigo quisesse dividir todos os pratos?|
+bouffe-858|Na sua opinião, quanto tempo leva para esquentar a comida de ontem?|Na sua opinião, quanto tempo leva para preparar um molho de salada caseiro?|
+bouffe-859|Como você reagiria se te servissem uma porção grande demais?|Como você reagiria se tivesse que pedir sem ver o cardápio?|
+bouffe-860|Na sua opinião, quanto custa uma boa pizza para viagem?|Na sua opinião, quanto custa um combinado de trinta sushis para viagem?|
+bouffe-861|Em que site ou loja você procuraria um crepe salgado completo?|Em que site ou loja você procuraria um pote de creme de avelã?|
+bouffe-862|Com que frequência você costuma preparar um lanche da tarde para crianças?|Com que frequência você costuma testar uma receita achada na internet?|
+bouffe-863|Em que momento você teria vontade de comprar um crepe salgado completo?|Em que momento você teria vontade de comprar um pote de creme de avelã?|
+bouffe-864|Que preço você imagina para um crepe salgado completo?|Que preço você imagina para um pote de creme de avelã?|
+bouffe-865|Em que situação você decidiria comprar um hambúrguer vegetariano?|Em que situação você decidiria pagar um brunch completo para uma pessoa numa cafeteria?|
+bouffe-866|Que frase sairia da sua boca se te convidassem para jantar quando você já tivesse comido?|Que frase sairia da sua boca se alguém colocasse ketchup no seu prato favorito?|
+bouffe-867|Na sua opinião, quanto tempo leva para cozinhar um prato para convidados?|Na sua opinião, quanto tempo leva para escolher uma receita para a noite?|
+bouffe-868|Quanto você estaria disposto a gastar com um pacote de 250 g de café especial?|Quanto você estaria disposto a gastar com uma barra de chocolate artesanal?|
+bouffe-869|Como você responderia se um convidado chegasse com uma sobremesa a mais?|Como você responderia se o entregador esquecesse uma parte do pedido?|
+bouffe-870|Onde você procuraria um delivery de comida para duas pessoas primeiro?|Onde você procuraria uma garrafa de azeite de qualidade primeiro?|
+bouffe-871|Como você responderia se tivesse que pedir sem ver o cardápio?|Como você responderia se seu colega de trabalho criticasse seu almoço?|
+bouffe-872|Em que ocasião você ia querer comprar um smoothie natural?|Em que ocasião você ia querer pedir uma salada completa num restaurante?|
+bouffe-873|O que você diria se queimasse um pouco o bolo?|O que você diria se te pedissem a receita do seu prato?|
+bouffe-874|Qual seria o melhor momento para fazer uma sopa caseira?|Qual seria o melhor momento para preparar uma salada de frutas?|
+bouffe-875|O que você faria primeiro se o garçom trouxesse a sobremesa errada?|O que você faria primeiro se seu amigo dissesse que seu prato está apimentado demais?|
+bouffe-876|Qual seria sua primeira reação se seu colega de trabalho criticasse seu almoço?|Qual seria sua primeira reação se o garçom trouxesse a sobremesa errada?|
+bouffe-877|Quanto você estaria disposto a gastar com uma salada completa num restaurante?|Quanto você estaria disposto a gastar com um crepe salgado completo?|
+bouffe-878|Com que frequência você gostaria de cozinhar macarrão para várias pessoas?|Com que frequência você gostaria de fazer compras para um jantar?|
+bouffe-879|Como você responderia se um amigo te pedisse para escolher por ele?|Como você responderia se o restaurante se recusasse a mudar uma receita?|
+bouffe-880|Na sua opinião, quanto custa um bolo de aniversário artesanal?|Na sua opinião, quanto custa uma caixa com doze macarons?|
+bouffe-881|Quanto tempo você levaria para preparar uma marmita para o almoço?|Quanto tempo você levaria para cozinhar um prato para convidados?|

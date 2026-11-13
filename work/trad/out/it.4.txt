@@ -461,3 +461,73 @@ enfance-765|Su quale sito o in quale negozio cercheresti un gioco di costruzioni
 enfance-766|In quale situazione decideresti di comprare una confezione di pasta da modellare?|In quale situazione decideresti di comprare un diario segreto con lucchetto?|
 enfance-767|Dove cercheresti per prima cosa una bustina da dieci carte da collezione con licenza ufficiale?|Dove cercheresti per prima cosa un gioco di costruzioni?|
 enfance-768|Che budget massimo metteresti per un mazzo di carte illustrate?|Che budget massimo metteresti per una sveglia per bambini?|
+enfance-769|Per quale occasione vorresti comprare un puzzle da cento pezzi?|Per quale occasione vorresti comprare una confezione di pasta da modellare?|
+enfance-770|Come reagiresti se un compagno ti chiedesse la merenda?|Come reagiresti se venissi scelto per ultimo per una squadra?|
+enfance-771|Quale momento della giornata sceglieresti per ripassare le tabelline?|Quale momento della giornata sceglieresti per preparare una gita scolastica?|
+enfance-772|Quanto tempo prevederesti per imparare una poesia a memoria?|Quanto tempo prevederesti per preparare una presentazione per la scuola?|
+enfance-773|Chi potrebbe darti il consiglio migliore per costruire una capanna con i cuscini?|Chi potrebbe darti il consiglio migliore per preparare una festa scolastica?|
+enfance-774|Quale sarebbe la tua prima reazione se la tua squadra vincesse un gioco in cortile?|Quale sarebbe la tua prima reazione se un compagno ti rompesse la tua matita preferita?|
+enfance-775|Quanto pensi che valga un albo a fumetti?|Quanto pensi che valga un sacchetto di biglie?|
+enfance-776|Se dovessi costruire una capanna con i cuscini, quale sarebbe la tua priorità?|Se dovessi preparare una festa scolastica, quale sarebbe la tua priorità?|
+enfance-777|Dove andresti a trovare un mazzo di carte illustrate?|Dove andresti a trovare una sveglia per bambini?|
+enfance-778|In quanto tempo potresti scegliere un gioco per la ricreazione?|In quanto tempo potresti imparare una poesia a memoria?|
+enfance-779|Qual è la prima cosa che faresti se un compagno ti rompesse la tua matita preferita?|Qual è la prima cosa che faresti se ti annunciassero una gita scolastica a sorpresa?|
+enfance-780|Quale sarebbe la tua prima reazione se un amico volesse scambiare la sua merenda?|Quale sarebbe la tua prima reazione se il tuo insegnante cambiasse di posto a tutti?|
+enfance-781|Cosa diresti sul momento se la tua squadra vincesse un gioco in cortile?|Cosa diresti sul momento se un compagno ti rompesse la tua matita preferita?|
+enfance-782|In quale situazione decideresti di comprare un libro illustrato per bambini?|In quale situazione decideresti di comprare un peluche di qualità?|
+enfance-783|Dove andresti a comprare una scatola da ventiquattro matite colorate?|Dove andresti a comprare una bustina da dieci carte da collezione con licenza ufficiale?|
+enfance-784|Quale fascia oraria sarebbe la più comoda per riordinare una cameretta?|Quale fascia oraria sarebbe la più comoda per imparare ad andare in bici?|
+enfance-785|Chi contatteresti per farti aiutare a imparare ad andare in bici?|Chi contatteresti per farti aiutare a prepararti la merenda dopo la scuola?|
+enfance-786|Quanto saresti disposto a spendere per un albo a fumetti?|Quanto saresti disposto a spendere per un sacchetto di biglie?|
+enfance-787|Se dovessi fare i compiti dopo la scuola, quale sarebbe la tua priorità?|Se dovessi scegliere un gioco per la ricreazione, quale sarebbe la tua priorità?|
+enfance-788|Quanto tempo prevederesti per preparare una gita scolastica?|Quanto tempo prevederesti per decorare un quaderno?|
+enfance-789|Quanto saresti disposto a spendere per una bustina da dieci carte da collezione con licenza ufficiale?|Quanto saresti disposto a spendere per un gioco di costruzioni?|
+enfance-790|Cosa diresti se il tuo migliore amico cambiasse scuola?|Cosa diresti se ricevessi un regalo che hai già?|
+enfance-791|Cosa diresti se un compagno ti rompesse la tua matita preferita?|Cosa diresti se ti annunciassero una gita scolastica a sorpresa?|
+enfance-792|In quanto tempo potresti preparare il tuo costume di Carnevale?|In quanto tempo potresti imparare a nuotare?|
+enfance-793|Cosa diresti sul momento se l'insegnante si complimentasse con te davanti a tutta la classe?|Cosa diresti sul momento se il tuo migliore amico cambiasse scuola?|
+enfance-794|In quanto tempo potresti ripassare per un dettato?|In quanto tempo potresti riordinare una cameretta?|
+enfance-795|Secondo te, quanto tempo ci vuole per prepararti la merenda dopo la scuola?|Secondo te, quanto tempo ci vuole per ripassare le tabelline?|
+enfance-796|Per quale occasione vorresti comprare una sveglia per bambini?|Per quale occasione vorresti comprare un portamerenda?|
+enfance-797|Che prezzo immagini per un gioco di costruzioni?|Che prezzo immagini per una bici per bambini dai sei agli otto anni?|
+enfance-798|Quale sarebbe il tuo primo istinto se venissi scelto per ultimo per una squadra?|Quale sarebbe il tuo primo istinto se l'insegnante si complimentasse con te davanti a tutta la classe?|
+enfance-799|Quanto saresti disposto a spendere per un libro illustrato per bambini?|Quanto saresti disposto a spendere per un peluche di qualità?|
+enfance-800|Secondo te, quanto costa un mazzo di carte illustrate?|Secondo te, quanto costa una sveglia per bambini?|
+enfance-801|Se dovessi organizzare una festa di compleanno per bambini, quale sarebbe la tua priorità?|Se dovessi ripassare per un dettato, quale sarebbe la tua priorità?|
+enfance-802|Chi della tua cerchia potrebbe aiutarti a scegliere un gioco per la ricreazione?|Chi della tua cerchia potrebbe aiutarti a imparare una poesia a memoria?|
+enfance-803|In quale momento della settimana preferiresti imparare ad andare in bici?|In quale momento della settimana preferiresti prepararti la merenda dopo la scuola?|
+enfance-804|Quale sarebbe la tua prima reazione se l'insegnante si complimentasse con te davanti a tutta la classe?|Quale sarebbe la tua prima reazione se il tuo migliore amico cambiasse scuola?|
+enfance-805|In quale situazione decideresti di comprare un albo a fumetti?|In quale situazione decideresti di comprare un sacchetto di biglie?|
+enfance-806|Chi della tua cerchia potrebbe aiutarti a preparare il tuo costume di Carnevale?|Chi della tua cerchia potrebbe aiutarti a imparare a nuotare?|
+enfance-807|Che budget massimo metteresti per un paio di pattini a rotelle per principianti?|Che budget massimo metteresti per un puzzle da cento pezzi?|
+enfance-808|Cosa ti spingerebbe a comprare un paio di pattini a rotelle per principianti?|Cosa ti spingerebbe a comprare un puzzle da cento pezzi?|
+enfance-809|Quale momento della giornata sceglieresti per scegliere un gioco per la ricreazione?|Quale momento della giornata sceglieresti per imparare una poesia a memoria?|
+enfance-810|Quale sarebbe l'aspetto più importante per scegliere un gioco per la ricreazione?|Quale sarebbe l'aspetto più importante per imparare una poesia a memoria?|
+enfance-811|Secondo te, quanto tempo ci vuole per fare i compiti dopo la scuola?|Secondo te, quanto tempo ci vuole per scegliere un gioco per la ricreazione?|
+enfance-812|In quale momento ti verrebbe voglia di comprare un gioco di costruzioni?|In quale momento ti verrebbe voglia di comprare una bici per bambini dai sei agli otto anni?|
+enfance-813|Quale sarebbe la tua difficoltà principale per imparare ad andare in bici?|Quale sarebbe la tua difficoltà principale per prepararti la merenda dopo la scuola?|
+enfance-814|Quanto tempo ti servirebbe per decorare un quaderno?|Quanto tempo ti servirebbe per scegliere un libro in biblioteca?|
+enfance-815|Dove andresti a trovare un paio di pattini a rotelle per principianti?|Dove andresti a trovare un puzzle da cento pezzi?|
+enfance-816|Qual è la prima cosa che faresti se dimenticassi il quaderno il giorno della verifica?|Qual è la prima cosa che faresti se un compagno ti chiedesse la merenda?|
+enfance-817|In quale momento ti verrebbe voglia di comprare un sacchetto di biglie?|In quale momento ti verrebbe voglia di comprare un astuccio originale per la scuola?|
+enfance-818|A chi chiederesti aiuto per imparare una poesia a memoria?|A chi chiederesti aiuto per preparare una presentazione per la scuola?|
+enfance-819|Quanto tempo ti servirebbe per imparare ad andare in bici?|Quanto tempo ti servirebbe per prepararti la merenda dopo la scuola?|
+enfance-820|Fino a quanto pagheresti per un sacchetto di biglie?|Fino a quanto pagheresti per un astuccio originale per la scuola?|
+enfance-821|Chi contatteresti per farti aiutare a decorare un quaderno?|Chi contatteresti per farti aiutare a scegliere un libro in biblioteca?|
+enfance-822|Che budget massimo metteresti per un astuccio originale per la scuola?|Che budget massimo metteresti per un gioco da tavolo per famiglie?|
+enfance-823|Cosa ti spingerebbe a comprare uno zaino per la scuola elementare?|Cosa ti spingerebbe a comprare una scatola da ventiquattro matite colorate?|école primaire → scuola elementare
+enfance-824|Quale sarebbe il tuo primo istinto se dovessi recitare una poesia davanti alla classe?|Quale sarebbe il tuo primo istinto se un amico volesse scambiare la sua merenda?|
+enfance-825|In quale momento ti verrebbe voglia di comprare un peluche di qualità?|In quale momento ti verrebbe voglia di comprare un paio di pattini a rotelle per principianti?|
+enfance-826|Chi della tua cerchia potrebbe aiutarti a ripassare le tabelline?|Chi della tua cerchia potrebbe aiutarti a preparare una gita scolastica?|
+enfance-827|Cosa diresti se il tuo insegnante cambiasse di posto a tutti?|Cosa diresti se dimenticassi le parole di una canzone alla festa?|
+enfance-828|Dove andresti a trovare un astuccio originale per la scuola?|Dove andresti a trovare un gioco da tavolo per famiglie?|
+enfance-829|Oltre quale prezzo esiteresti a comprare un gioco da tavolo per famiglie?|Oltre quale prezzo esiteresti a comprare un libro illustrato per bambini?|
+enfance-830|A chi chiederesti aiuto per scegliere un'attività extrascolastica?|A chi chiederesti aiuto per preparare lo zaino per il giorno dopo?|activité du mercredi → attività extrascolastica
+enfance-831|Chi della tua cerchia potrebbe aiutarti a preparare una festa scolastica?|Chi della tua cerchia potrebbe aiutarti a scegliere un'attività extrascolastica?|activité du mercredi → attività extrascolastica
+enfance-832|Quale frase ti uscirebbe di bocca se dimenticassi le parole di una canzone alla festa?|Quale frase ti uscirebbe di bocca se i tuoi genitori scoprissero un disegno nascosto?|
+enfance-833|Oltre quale prezzo esiteresti a comprare una scatola da ventiquattro matite colorate?|Oltre quale prezzo esiteresti a comprare una bustina da dieci carte da collezione con licenza ufficiale?|
+enfance-834|Quanto tempo ti servirebbe per preparare lo zaino per il giorno dopo?|Quanto tempo ti servirebbe per fare i compiti dopo la scuola?|
+enfance-835|Secondo te, quanto tempo ci vuole per organizzare una festa di compleanno per bambini?|Secondo te, quanto tempo ci vuole per ripassare per un dettato?|
+enfance-836|Quale sarebbe il tuo primo istinto se i tuoi genitori scoprissero un disegno nascosto?|Quale sarebbe il tuo primo istinto se un bambino si rifiutasse di condividere un giocattolo?|
+enfance-837|Come risponderesti se i tuoi genitori scoprissero un disegno nascosto?|Come risponderesti se un bambino si rifiutasse di condividere un giocattolo?|
+enfance-838|Secondo te, qual è il prezzo di un pallone da calcio per giocare in cortile?|Secondo te, qual è il prezzo di un albo a fumetti?|
