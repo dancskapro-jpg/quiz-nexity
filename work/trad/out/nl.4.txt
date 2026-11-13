@@ -98,3 +98,203 @@ sport-707|Wat zou je eerste reactie zijn als een scheidsrechter een omstreden be
 sport-708|Met wie zou je contact opnemen om je te helpen een amateurtoernooi te organiseren?|Met wie zou je contact opnemen om je te helpen een activiteit voor een zondag te kiezen?|
 sport-709|Wat zou je antwoorden als de trainer de training op het laatste moment afzegt?|Wat zou je antwoorden als een vriend voorstelt om om zes uur te gaan hardlopen?|
 sport-710|Wat zou je antwoorden als je hebt gewonnen maar je tegenstander teleurgesteld is?|Wat zou je antwoorden als een vriend weigert om te stretchen?|
+sport-711|Met wie zou je contact opnemen om je te helpen een trainingsweek te plannen?|Met wie zou je contact opnemen om je te helpen je zwemtas in te pakken?|
+sport-712|Wat zou je zeggen als een teamgenoot kritiek heeft op je niveau?|Wat zou je zeggen als je in de verkeerde zaal staat voor een les?|
+sport-713|Wat zou je op dat moment zeggen als een vriend weigert om te stretchen?|Wat zou je op dat moment zeggen als je een makkelijk schot mist waar je vrienden bij zijn?|
+sport-714|Hoe vaak komt het voor dat je een activiteit voor een zondag kiest?|Hoe vaak komt het voor dat je een sportieve dansles uitprobeert?|
+sport-715|Voor welke gelegenheid zou je een gymmat willen kopen?|Voor welke gelegenheid zou je een stevig springtouw willen kopen?|
+sport-716|Op welke site of in welke winkel zou je zoeken naar een stevige sporttas?|Op welke site of in welke winkel zou je zoeken naar een zwembril?|
+sport-717|Wat is volgens jou de prijs van een officieel sportshirt?|Wat is volgens jou de prijs van een geïsoleerde sportbidon?|
+sport-718|Op welk moment van de week zou je het liefst een openbaar basketbalveld bij jou in de buurt reserveren?|Op welk moment van de week zou je het liefst een tennismaatje vinden voor een partijtje van een uur?|
+sport-719|In hoeveel tijd zou je een sportieve dansles kunnen uitproberen?|In hoeveel tijd zou je een stretchsessie kunnen doen?|
+sport-720|Hoe vaak per jaar heb je de gelegenheid om een sportieve dansles uit te proberen?|Hoe vaak per jaar heb je de gelegenheid om een stretchsessie te doen?|
+sport-721|Wat zou je als eerste doen als je een makkelijk schot mist waar je vrienden bij zijn?|Wat zou je als eerste doen als een vriend je uitdaagt in zijn favoriete sport?|
+sport-722|Wanneer zou je zin hebben om een groepsles fitness van een uur te kopen?|Wanneer zou je zin hebben om een toegangskaartje voor volwassenen bij een gemeentelijk zwembad in Nederland te kopen?|piscine municipale en France → zwembad in Nederland
+sport-723|Hoe vaak per maand heb je de gelegenheid om een openbaar basketbalveld bij jou in de buurt te reserveren?|Hoe vaak per maand heb je de gelegenheid om een tennismaatje te vinden voor een partijtje van een uur?|
+sport-724|Wat zou je als eerste doen als een teamgenoot kritiek heeft op je niveau?|Wat zou je als eerste doen als je in de verkeerde zaal staat voor een les?|
+sport-725|Wie uit je omgeving zou je kunnen helpen om een sportsessie van een uur met z'n tweeën te vinden?|Wie uit je omgeving zou je kunnen helpen om je sportschoenen uit te kiezen?|
+sport-726|Welk maximaal budget zou je uittrekken voor een toegangskaartje voor volwassenen bij een gemeentelijk zwembad in Nederland?|Welk maximaal budget zou je uittrekken voor een kaartje voor een Eredivisiewedstrijd op de lange zijde?|piscine en France → Nederland ; Ligue 1 → Eredivisie
+sport-727|Waar zou je naartoe gaan om een maandabonnement bij een sportschool te vinden?|Waar zou je naartoe gaan om een officieel sportshirt te vinden?|
+sport-728|Wat zou je op dat moment zeggen als je team in de laatste minuut wint?|Wat zou je op dat moment zeggen als een teamgenoot kritiek heeft op je niveau?|
+sport-729|Welke zin zou je eruit flappen als een bekende sporter vlak bij je traint?|Welke zin zou je eruit flappen als je een nieuwe sport ontdekt die je leuk vindt?|
+sport-730|Wat zou je antwoorden als je een nieuwe sport ontdekt die je leuk vindt?|Wat zou je antwoorden als je team in de laatste minuut wint?|
+sport-731|Hoe vaak per maand heb je de gelegenheid om een amateurtoernooi te organiseren?|Hoe vaak per maand heb je de gelegenheid om een activiteit voor een zondag te kiezen?|
+sport-732|Hoeveel tijd zou je uittrekken om je sportschoenen uit te kiezen?|Hoeveel tijd zou je uittrekken om een trainingsweek te plannen?|
+sport-733|Welke zin zou je eruit flappen als je je persoonlijk record verbreekt?|Welke zin zou je eruit flappen als een vriend bij de rust wil stoppen met de wedstrijd?|
+sport-734|Hoe vaak komt het voor dat je een warming-up doet voor een wedstrijd?|Hoe vaak komt het voor dat je moet herstellen na een lange wandeling?|
+sport-735|Wie uit je omgeving zou je kunnen helpen om een sportieve dansles uit te proberen?|Wie uit je omgeving zou je kunnen helpen om een stretchsessie te doen?|
+sport-736|Aan wie zou je hulp vragen om een wedstrijdje met vrienden te organiseren?|Aan wie zou je hulp vragen om de regels van een nieuwe sport te leren?|
+sport-737|Wat zou je ertoe aanzetten om een toegangskaartje voor volwassenen bij een gemeentelijk zwembad in Nederland te kopen?|Wat zou je ertoe aanzetten om een kaartje voor een Eredivisiewedstrijd op de lange zijde te kopen?|piscine en France → Nederland ; Ligue 1 → Eredivisie
+sport-738|Hoeveel denk je dat een geïsoleerde sportbidon waard is?|Hoeveel denk je dat een stevige sporttas waard is?|
+sport-739|Wat is volgens jou de prijs van een tweedehands stadsfiets in goede staat, jonger dan vijf jaar?|Wat is volgens jou de prijs van een eenvoudig hardloophorloge?|
+sport-740|Wie zou je het beste advies kunnen geven om een tennismaatje te vinden voor een partijtje van een uur?|Wie zou je het beste advies kunnen geven om je voor te bereiden op een loop van vijf kilometer?|
+sport-741|Wat zou je eerste reflex zijn als de trainer de training op het laatste moment afzegt?|Wat zou je eerste reflex zijn als een vriend voorstelt om om zes uur te gaan hardlopen?|
+sport-742|Wanneer zou je zin hebben om een tennisracket voor beginners te kopen?|Wanneer zou je zin hebben om een maandabonnement bij een sportschool te nemen?|
+sport-743|Vanaf welke prijs zou je twijfelen om een officieel sportshirt te kopen?|Vanaf welke prijs zou je twijfelen om een geïsoleerde sportbidon te kopen?|
+sport-744|Vanaf welke prijs zou je twijfelen om een gymmat te kopen?|Vanaf welke prijs zou je twijfelen om een stevig springtouw te kopen?|
+sport-745|Hoe vaak zou je je sportschoenen willen uitkiezen?|Hoe vaak zou je een trainingsweek willen plannen?|
+sport-746|Wat zou het beste moment zijn om je zwemtas in te pakken?|Wat zou het beste moment zijn om een mobiliteitstraining te doen?|
+sport-747|Hoe vaak per jaar heb je de gelegenheid om te herstellen na een lange wandeling?|Hoe vaak per jaar heb je de gelegenheid om een wedstrijdje met vrienden te organiseren?|
+sport-748|Op welke site of in welke winkel zou je zoeken naar een paar verstelbare halters?|Op welke site of in welke winkel zou je zoeken naar een basketbalpaal voor buiten?|
+sport-749|Waar zou je als eerste zoeken naar een eenvoudig hardloophorloge?|Waar zou je als eerste zoeken naar een groepsles fitness van een uur?|
+sport-750|Welk tijdstip van de dag zou het handigst zijn om een nieuwe techniek aan te leren?|Welk tijdstip van de dag zou het handigst zijn om een openbaar basketbalveld bij jou in de buurt te reserveren?|
+sport-751|Hoeveel zou je willen uitgeven aan een stevig springtouw?|Hoeveel zou je willen uitgeven aan een windjack voor het hardlopen?|
+sport-752|Welk tijdstip van de dag zou het handigst zijn om een wedstrijdje met vrienden te organiseren?|Welk tijdstip van de dag zou het handigst zijn om de regels van een nieuwe sport te leren?|
+sport-753|Hoe lang duurt het volgens jou om een tennismaatje te vinden voor een partijtje van een uur?|Hoe lang duurt het volgens jou om je voor te bereiden op een loop van vijf kilometer?|
+sport-754|Aan wie zou je hulp vragen om je sportschoenen uit te kiezen?|Aan wie zou je hulp vragen om een trainingsweek te plannen?|
+sport-755|Hoeveel zou je willen uitgeven aan een goede fietshelm?|Hoeveel zou je willen uitgeven aan een paar verstelbare halters?|
+sport-756|Hoe vaak komt het voor dat je een sportieve wandeltocht voorbereidt?|Hoe vaak komt het voor dat je een sportsessie van een uur met z'n tweeën vindt?|
+sport-757|Hoeveel zou je maximaal betalen voor een tennisracket voor beginners?|Hoeveel zou je maximaal betalen voor een maandabonnement bij een sportschool?|
+sport-758|Wat zou je antwoorden als het begint te regenen vlak voor een wedstrijd?|Wat zou je antwoorden als een scheidsrechter een omstreden beslissing neemt?|
+sport-759|Wat zou je eerste reactie zijn als je team in de laatste minuut wint?|Wat zou je eerste reactie zijn als een teamgenoot kritiek heeft op je niveau?|
+sport-760|Wat zou je antwoorden als een vriend bij de rust wil stoppen met de wedstrijd?|Wat zou je antwoorden als je je sportschoenen vergeet?|
+sport-761|Met wie zou je contact opnemen om je te helpen een openbaar basketbalveld bij jou in de buurt te reserveren?|Met wie zou je contact opnemen om je te helpen een tennismaatje te vinden voor een partijtje van een uur?|
+sport-762|Wie zou je het beste advies kunnen geven om een sportieve wandeltocht voor te bereiden?|Wie zou je het beste advies kunnen geven om een sportsessie van een uur met z'n tweeën te vinden?|
+sport-763|Hoe lang duurt het volgens jou om een sportieve wandeltocht voor te bereiden?|Hoe lang duurt het volgens jou om een sportsessie van een uur met z'n tweeën te vinden?|
+sport-764|Wanneer zou je zin hebben om een paar verstelbare halters te kopen?|Wanneer zou je zin hebben om een basketbalpaal voor buiten te kopen?|
+sport-765|Waar zou je als eerste zoeken naar een goede fietshelm?|Waar zou je als eerste zoeken naar een paar verstelbare halters?|
+sport-766|Welk maximaal budget zou je uittrekken voor een paar hardloopschoenen?|Welk maximaal budget zou je uittrekken voor een antislip yogamat?|
+sport-767|Wie uit je omgeving zou je kunnen helpen om een mobiliteitstraining te doen?|Wie uit je omgeving zou je kunnen helpen om een nieuwe techniek aan te leren?|
+sport-768|Hoeveel zou je maximaal betalen voor een paar verstelbare halters?|Hoeveel zou je maximaal betalen voor een basketbalpaal voor buiten?|
+sport-769|Op welk moment van de week zou je het liefst een trainingsweek plannen?|Op welk moment van de week zou je het liefst je zwemtas inpakken?|
+sport-770|Aan welke prijs denk je voor een groepsles fitness van een uur?|Aan welke prijs denk je voor een toegangskaartje voor volwassenen bij een gemeentelijk zwembad in Nederland?|piscine municipale en France → zwembad in Nederland
+sport-771|Wie zou je het beste advies kunnen geven om je zwemtas in te pakken?|Wie zou je het beste advies kunnen geven om een mobiliteitstraining te doen?|
+sport-772|Wat kost een toegangskaartje voor volwassenen bij een gemeentelijk zwembad in Nederland volgens jou?|Wat kost een kaartje voor een Eredivisiewedstrijd op de lange zijde volgens jou?|piscine en France → Nederland ; Ligue 1 → Eredivisie
+sport-773|Met wie zou je contact opnemen om je te helpen een hardlooptraining voor te bereiden?|Met wie zou je contact opnemen om je te helpen een warming-up te doen voor een wedstrijd?|
+sport-774|Hoe vaak per maand heb je de gelegenheid om een trainingsweek te plannen?|Hoe vaak per maand heb je de gelegenheid om je zwemtas in te pakken?|
+sport-775|Wat zou je eerste reflex zijn als het begint te regenen vlak voor een wedstrijd?|Wat zou je eerste reflex zijn als een scheidsrechter een omstreden beslissing neemt?|
+sport-776|Wie uit je omgeving zou je kunnen helpen om te herstellen na een lange wandeling?|Wie uit je omgeving zou je kunnen helpen om een wedstrijdje met vrienden te organiseren?|
+sport-777|Welk tijdstip van de dag zou het handigst zijn om je sportschoenen uit te kiezen?|Welk tijdstip van de dag zou het handigst zijn om een trainingsweek te plannen?|
+sport-778|Wat zou je als eerste doen als het gereserveerde veld al bezet is?|Wat zou je als eerste doen als een bekende sporter vlak bij je traint?|
+sport-779|Wat zou je ertoe aanzetten om een zwembril te kopen?|Wat zou je ertoe aanzetten om een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, te kopen?|
+sport-780|Op welk moment van de week zou je het liefst een hardlooptraining voorbereiden?|Op welk moment van de week zou je het liefst een warming-up doen voor een wedstrijd?|
+sport-781|Hoe vaak zou je een fietstochtje willen maken?|Hoe vaak zou je een amateurtoernooi willen organiseren?|
+sport-782|Wat zou je eerste reflex zijn als je een nieuwe sport ontdekt die je leuk vindt?|Wat zou je eerste reflex zijn als je team in de laatste minuut wint?|
+sport-783|Wanneer zou je zin hebben om een windjack voor het hardlopen te kopen?|Wanneer zou je zin hebben om een paar hardloopschoenen te kopen?|
+sport-784|Welke zin zou je eruit flappen als je in de verkeerde zaal staat voor een les?|Welke zin zou je eruit flappen als de trainer de training op het laatste moment afzegt?|
+sport-785|Wat is volgens jou de prijs van een kaartje voor een Eredivisiewedstrijd op de lange zijde?|Wat is volgens jou de prijs van een goede fietshelm?|Ligue 1 → Eredivisie
+sport-786|Waar zou je naartoe gaan om een antislip yogamat te kopen?|Waar zou je naartoe gaan om een goede voetbal te kopen?|
+sport-787|Op welke site of in welke winkel zou je zoeken naar een groepsles fitness van een uur?|Op welke site of in welke winkel zou je zoeken naar een toegangskaartje voor volwassenen bij een gemeentelijk zwembad in Nederland?|piscine municipale en France → zwembad in Nederland
+sport-788|Voor welke gelegenheid zou je een officieel sportshirt willen kopen?|Voor welke gelegenheid zou je een geïsoleerde sportbidon willen kopen?|
+sport-789|Wat zou je zeggen als het gereserveerde veld al bezet is?|Wat zou je zeggen als een bekende sporter vlak bij je traint?|
+sport-790|Aan wie zou je hulp vragen om een fietstochtje te maken?|Aan wie zou je hulp vragen om een amateurtoernooi te organiseren?|
+sport-791|Wie zou je het beste advies kunnen geven om een activiteit voor een zondag te kiezen?|Wie zou je het beste advies kunnen geven om een sportieve dansles uit te proberen?|
+sport-792|Wie zou je het beste advies kunnen geven om een warming-up te doen voor een wedstrijd?|Wie zou je het beste advies kunnen geven om te herstellen na een lange wandeling?|
+sport-793|Wat zou je op dat moment zeggen als een vriend voorstelt om om zes uur te gaan hardlopen?|Wat zou je op dat moment zeggen als je de bal al aan het begin van de wedstrijd kwijtraakt?|
+sport-794|Op welke site of in welke winkel zou je zoeken naar een tennisracket voor beginners?|Op welke site of in welke winkel zou je zoeken naar een maandabonnement bij een sportschool?|
+sport-795|Wat zou het beste moment zijn om een activiteit voor een zondag te kiezen?|Wat zou het beste moment zijn om een sportieve dansles uit te proberen?|
+sport-796|Hoeveel tijd zou je nodig hebben om een amateurtoernooi te organiseren?|Hoeveel tijd zou je nodig hebben om een activiteit voor een zondag te kiezen?|
+sport-797|Hoeveel zou je maximaal betalen voor een stevige sporttas?|Hoeveel zou je maximaal betalen voor een zwembril?|
+sport-798|Voor welke gelegenheid zou je een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, willen kopen?|Voor welke gelegenheid zou je een eenvoudig hardloophorloge willen kopen?|
+sport-799|Waar zou je naartoe gaan om een kaartje voor een Eredivisiewedstrijd op de lange zijde te kopen?|Waar zou je naartoe gaan om een goede fietshelm te kopen?|Ligue 1 → Eredivisie
+sport-800|Hoeveel tijd zou je uittrekken om een fietstochtje te maken?|Hoeveel tijd zou je uittrekken om een amateurtoernooi te organiseren?|
+sport-801|In hoeveel tijd zou je een mobiliteitstraining kunnen doen?|In hoeveel tijd zou je een nieuwe techniek kunnen aanleren?|
+sport-802|In welke situatie zou je besluiten om een goede fietshelm te kopen?|In welke situatie zou je besluiten om een paar verstelbare halters te kopen?|
+sport-803|Aan welke prijs denk je voor een paar verstelbare halters?|Aan welke prijs denk je voor een basketbalpaal voor buiten?|
+sport-804|Wat zou je op dat moment zeggen als je je sportschoenen vergeet?|Wat zou je op dat moment zeggen als het gereserveerde veld al bezet is?|
+sport-805|In hoeveel tijd zou je een sportsessie van een uur met z'n tweeën kunnen vinden?|In hoeveel tijd zou je je sportschoenen kunnen uitkiezen?|
+sport-806|Waar zou je als eerste zoeken naar een stevig springtouw?|Waar zou je als eerste zoeken naar een windjack voor het hardlopen?|
+sport-807|Vanaf welke prijs zou je twijfelen om een kaartje voor een Eredivisiewedstrijd op de lange zijde te kopen?|Vanaf welke prijs zou je twijfelen om een goede fietshelm te kopen?|Ligue 1 → Eredivisie
+sport-808|Op welk moment van de week zou je het liefst de regels van een nieuwe sport leren?|Op welk moment van de week zou je het liefst een sportieve wandeltocht voorbereiden?|
+sport-809|Hoe vaak komt het voor dat je een tennismaatje vindt voor een partijtje van een uur?|Hoe vaak komt het voor dat je je voorbereidt op een loop van vijf kilometer?|
+sport-810|Hoe zou je reageren als een bekende sporter vlak bij je traint?|Hoe zou je reageren als je een nieuwe sport ontdekt die je leuk vindt?|
+maison-581|Wat kost een goede draadloze stofzuiger volgens jou?|Wat kost een schoenenkast volgens jou?|
+maison-582|Wat zou je eerste reflex zijn als een bezorger een heel zwaar pakket naar boven brengt?|Wat zou je eerste reflex zijn als je merkt dat je de verf toch niet mooi vindt?|
+maison-583|Waar zou je naartoe gaan om een basisgereedschapskist te kopen?|Waar zou je naartoe gaan om een houten eettafel voor vier personen te kopen?|
+maison-584|Aan welke prijs denk je voor een klein bureau voor een appartement?|Aan welke prijs denk je voor een set badhanddoeken?|
+maison-585|Wanneer zou je zin hebben om een katoenen dekbedovertrek te kopen?|Wanneer zou je zin hebben om een goede draadloze stofzuiger te kopen?|
+maison-586|Wanneer zou je zin hebben om een set verduisterende gordijnen te kopen?|Wanneer zou je zin hebben om een bedlampje te kopen?|
+maison-587|Waar zou je naartoe gaan om een set badhanddoeken te vinden?|Waar zou je naartoe gaan om een onderhoudsvriendelijke kamerplant te vinden?|
+maison-588|Hoeveel zou je willen uitgeven aan een opbergmand?|Hoeveel zou je willen uitgeven aan een klein bureau voor een appartement?|
+maison-589|Voor welke gelegenheid zou je een houten salontafel willen kopen?|Voor welke gelegenheid zou je een vloerkleed van 160 × 230 cm voor de woonkamer willen kopen?|
+maison-590|Hoe vaak komt het voor dat je de papieren in huis sorteert?|Hoe vaak komt het voor dat je een verhuizing voorbereidt?|
+maison-591|Op welke site of in welke winkel zou je zoeken naar een comfortabele fauteuil?|Op welke site of in welke winkel zou je zoeken naar een stoffen tweezitsbank?|
+maison-592|Aan welke prijs denk je voor een wandkapstok?|Aan welke prijs denk je voor een filterkoffiezetapparaat?|
+maison-593|Op welk moment van de week zou je het liefst alle ramen lappen?|Op welk moment van de week zou je het liefst het huis schoonmaken voordat er bezoek komt?|
+maison-594|Wat zou je antwoorden als je iets terugvindt dat je al lang kwijt was?|Wat zou je antwoorden als er een lamp springt tijdens het avondeten?|
+maison-595|Op welke site of in welke winkel zou je zoeken naar een klein bureau voor een appartement?|Op welke site of in welke winkel zou je zoeken naar een set badhanddoeken?|
+maison-596|Wie zou je het beste advies kunnen geven om een kleine hal aan te kleden?|Wie zou je het beste advies kunnen geven om een koelkast leeg te halen en schoon te maken?|
+maison-597|Waar zou je naartoe gaan om een goede draadloze stofzuiger te vinden?|Waar zou je naartoe gaan om een schoenenkast te vinden?|
+maison-598|Hoe vaak per maand heb je de gelegenheid om een lamp te vervangen?|Hoe vaak per maand heb je de gelegenheid om een kleine hal aan te kleden?|
+maison-599|Wat zou het beste moment zijn om het huis schoon te maken voordat er bezoek komt?|Wat zou het beste moment zijn om een boekenkast op te ruimen?|
+maison-600|Wie uit je omgeving zou je kunnen helpen om een verhuizing voor te bereiden?|Wie uit je omgeving zou je kunnen helpen om de opbergruimte in de keuken in te delen?|
+maison-601|Hoeveel tijd zou je nodig hebben om gordijnen op te hangen?|Hoeveel tijd zou je nodig hebben om de papieren in huis te sorteren?|
+maison-602|Hoe lang duurt het volgens jou om de papieren in huis te sorteren?|Hoe lang duurt het volgens jou om een verhuizing voor te bereiden?|
+maison-603|Wat is volgens jou de prijs van een wandplank?|Wat is volgens jou de prijs van een badkamerspiegel?|
+maison-604|Wat zou je eerste reflex zijn als je je sleutels kwijtraakt voor je eigen deur?|Wat zou je eerste reflex zijn als een buurman je om zout vraagt?|
+maison-605|Welk moment van de dag zou je kiezen om een nieuwe plank op te hangen?|Welk moment van de dag zou je kiezen om een kamer klaar te maken voor logés?|
+maison-606|Hoe vaak per jaar heb je de gelegenheid om een verhuizing voor te bereiden?|Hoe vaak per jaar heb je de gelegenheid om de opbergruimte in de keuken in te delen?|
+maison-607|Wat zou het beste moment zijn om een keukenkastje op te ruimen?|Wat zou het beste moment zijn om een badkamer schoon te maken?|
+maison-608|Wanneer zou je zin hebben om een wandkapstok te kopen?|Wanneer zou je zin hebben om een filterkoffiezetapparaat te kopen?|
+maison-609|Wat zou je als eerste doen als je een grote vlek op de bank ontdekt?|Wat zou je als eerste doen als een buurman je waarschuwt dat het water wordt afgesloten?|
+maison-610|In hoeveel tijd zou je een nieuwe plank kunnen ophangen?|In hoeveel tijd zou je een kamer kunnen klaarmaken voor logés?|
+maison-611|Hoe lang duurt het volgens jou om het huis schoon te maken voordat er bezoek komt?|Hoe lang duurt het volgens jou om een boekenkast op te ruimen?|
+maison-612|Aan welke prijs denk je voor een comfortabele fauteuil?|Aan welke prijs denk je voor een stoffen tweezitsbank?|
+maison-613|Welk tijdstip van de dag zou het handigst zijn om de woonkamer anders in te richten?|Welk tijdstip van de dag zou het handigst zijn om een verfkleur te kiezen?|
+maison-614|Wat zou je ertoe aanzetten om een bedlampje te kopen?|Wat zou je ertoe aanzetten om een wandplank te kopen?|
+maison-615|Hoe vaak zou je een plant voor je woonkamer willen uitkiezen?|Hoe vaak zou je gordijnen willen ophangen?|
+maison-616|Wat zou je eerste reactie zijn als een buurman je om zout vraagt?|Wat zou je eerste reactie zijn als je een meubel krijgt waar een onderdeel aan ontbreekt?|
+maison-617|Welk maximaal budget zou je uittrekken voor een filterkoffiezetapparaat?|Welk maximaal budget zou je uittrekken voor een basisgereedschapskist?|
+maison-618|Hoeveel denk je dat een opbergmand waard is?|Hoeveel denk je dat een klein bureau voor een appartement waard is?|
+maison-619|Met wie zou je contact opnemen om je te helpen gordijnen op te hangen?|Met wie zou je contact opnemen om je te helpen de papieren in huis te sorteren?|
+maison-620|Wat kost een bedlampje volgens jou?|Wat kost een wandplank volgens jou?|
+maison-621|Hoeveel zou je willen uitgeven aan een badkamerspiegel?|Hoeveel zou je willen uitgeven aan een katoenen dekbedovertrek?|
+maison-622|Aan wie zou je hulp vragen om een werkhoek in te richten?|Aan wie zou je hulp vragen om alle ramen te lappen?|
+maison-623|Vanaf welke prijs zou je twijfelen om een wandplank te kopen?|Vanaf welke prijs zou je twijfelen om een badkamerspiegel te kopen?|
+maison-624|In welke situatie zou je besluiten om een opbergmand te kopen?|In welke situatie zou je besluiten om een klein bureau voor een appartement te kopen?|
+maison-625|Wat kost een stoffen tweezitsbank volgens jou?|Wat kost een houten salontafel volgens jou?|
+maison-626|Wat zou je ertoe aanzetten om een set badhanddoeken te kopen?|Wat zou je ertoe aanzetten om een onderhoudsvriendelijke kamerplant te kopen?|
+maison-627|Wie uit je omgeving zou je kunnen helpen om een koelkast leeg te halen en schoon te maken?|Wie uit je omgeving zou je kunnen helpen om een werkhoek in te richten?|
+maison-628|Aan wie zou je hulp vragen om een plant voor je woonkamer uit te kiezen?|Aan wie zou je hulp vragen om gordijnen op te hangen?|
+maison-629|Welke zin zou je eruit flappen als een gast een glas breekt?|Welke zin zou je eruit flappen als je je sleutels kwijtraakt voor je eigen deur?|
+maison-630|Wat kost een filterkoffiezetapparaat volgens jou?|Wat kost een basisgereedschapskist volgens jou?|
+maison-631|Vanaf welke prijs zou je twijfelen om een onderhoudsvriendelijke kamerplant te kopen?|Vanaf welke prijs zou je twijfelen om een set sierkussens te kopen?|
+maison-632|Op welke site of in welke winkel zou je zoeken naar een katoenen dekbedovertrek?|Op welke site of in welke winkel zou je zoeken naar een goede draadloze stofzuiger?|
+maison-633|Waar zou je als eerste zoeken naar een houten eettafel voor vier personen?|Waar zou je als eerste zoeken naar een comfortabele fauteuil?|
+maison-634|Hoe vaak zou je de opbergruimte in de keuken willen indelen?|Hoe vaak zou je een bouwpakketmeubel in elkaar willen zetten?|
+maison-635|Wat zou je eerste reflex zijn als een vriend kritiek heeft op je inrichting?|Wat zou je eerste reflex zijn als de deurbel gaat terwijl je onder de douche staat?|
+maison-636|Hoe zou je reageren als een gast een glas breekt?|Hoe zou je reageren als je je sleutels kwijtraakt voor je eigen deur?|
+maison-637|Hoe vaak per maand heb je de gelegenheid om een bouwpakketmeubel in elkaar te zetten?|Hoe vaak per maand heb je de gelegenheid om een keukenkastje op te ruimen?|
+maison-638|Waar zou je naartoe gaan om een schoenenkast te kopen?|Waar zou je naartoe gaan om een opbergmand te kopen?|
+maison-639|Wat zou je op dat moment zeggen als een buurman je om zout vraagt?|Wat zou je op dat moment zeggen als je een meubel krijgt waar een onderdeel aan ontbreekt?|
+maison-640|Wat zou je op dat moment zeggen als er een lamp springt tijdens het avondeten?|Wat zou je op dat moment zeggen als een dierbare onverwacht bij je wil blijven slapen?|
+maison-641|Hoe vaak komt het voor dat je het huis schoonmaakt voordat er bezoek komt?|Hoe vaak komt het voor dat je een boekenkast opruimt?|
+maison-642|In welke situatie zou je besluiten om een badkamerspiegel te kopen?|In welke situatie zou je besluiten om een katoenen dekbedovertrek te kopen?|
+maison-643|Op welke site of in welke winkel zou je zoeken naar een set verduisterende gordijnen?|Op welke site of in welke winkel zou je zoeken naar een bedlampje?|
+maison-644|Wat zou je op dat moment zeggen als de deurbel gaat terwijl je onder de douche staat?|Wat zou je op dat moment zeggen als je een grote vlek op de bank ontdekt?|
+maison-645|Hoe vaak komt het voor dat je je kleren uitzoekt?|Hoe vaak komt het voor dat je een nieuwe plank ophangt?|
+maison-646|Wat zou je op dat moment zeggen als je een vreemde geur in de keuken ruikt?|Wat zou je op dat moment zeggen als je een lek onder de gootsteen ontdekt?|
+maison-647|Waar zou je als eerste zoeken naar een vloerkleed van 160 × 230 cm voor de woonkamer?|Waar zou je als eerste zoeken naar een set verduisterende gordijnen?|
+maison-648|Hoeveel tijd zou je uittrekken om een plant voor je woonkamer uit te kiezen?|Hoeveel tijd zou je uittrekken om gordijnen op te hangen?|
+maison-649|Wie zou je het beste advies kunnen geven om de papieren in huis te sorteren?|Wie zou je het beste advies kunnen geven om een verhuizing voor te bereiden?|
+maison-650|Wat zou je op dat moment zeggen als je merkt dat je de verf toch niet mooi vindt?|Wat zou je op dat moment zeggen als een gast koffie op het vloerkleed morst?|
+maison-651|Hoe vaak zou je de woonkamer anders willen inrichten?|Hoe vaak zou je een verfkleur willen kiezen?|
+maison-652|Wat zou je zeggen als je een grote vlek op de bank ontdekt?|Wat zou je zeggen als een buurman je waarschuwt dat het water wordt afgesloten?|
+maison-653|Vanaf welke prijs zou je twijfelen om een houten salontafel te kopen?|Vanaf welke prijs zou je twijfelen om een vloerkleed van 160 × 230 cm voor de woonkamer te kopen?|
+maison-654|Hoeveel tijd zou je uittrekken om de opbergruimte in de keuken in te delen?|Hoeveel tijd zou je uittrekken om een bouwpakketmeubel in elkaar te zetten?|
+maison-655|Hoeveel zou je maximaal betalen voor een klein bureau voor een appartement?|Hoeveel zou je maximaal betalen voor een set badhanddoeken?|
+maison-656|Wie zou je het beste advies kunnen geven om je kleren uit te zoeken?|Wie zou je het beste advies kunnen geven om een nieuwe plank op te hangen?|
+maison-657|Vanaf welke prijs zou je twijfelen om een basisgereedschapskist te kopen?|Vanaf welke prijs zou je twijfelen om een houten eettafel voor vier personen te kopen?|
+maison-658|Welke zin zou je eruit flappen als een vriend je woonkamer anders wil indelen?|Welke zin zou je eruit flappen als je iets terugvindt dat je al lang kwijt was?|
+maison-659|Aan welke prijs denk je voor een set verduisterende gordijnen?|Aan welke prijs denk je voor een bedlampje?|
+maison-660|Welk tijdstip van de dag zou het handigst zijn om een werkhoek in te richten?|Welk tijdstip van de dag zou het handigst zijn om alle ramen te lappen?|
+maison-661|Met wie zou je contact opnemen om je te helpen een verfkleur te kiezen?|Met wie zou je contact opnemen om je te helpen je kleren uit te zoeken?|
+maison-662|Wie uit je omgeving zou je kunnen helpen om een nieuwe plank op te hangen?|Wie uit je omgeving zou je kunnen helpen om een kamer klaar te maken voor logés?|
+maison-663|Aan wie zou je hulp vragen om de woonkamer anders in te richten?|Aan wie zou je hulp vragen om een verfkleur te kiezen?|
+maison-664|Hoeveel tijd zou je nodig hebben om een bouwpakketmeubel in elkaar te zetten?|Hoeveel tijd zou je nodig hebben om een keukenkastje op te ruimen?|
+maison-665|Wat zou je als eerste doen als een dierbare onverwacht bij je wil blijven slapen?|Wat zou je als eerste doen als je kast uitpuilt van de kleren?|
+maison-666|Wie uit je omgeving zou je kunnen helpen om een boekenkast op te ruimen?|Wie uit je omgeving zou je kunnen helpen om een plant voor je woonkamer uit te kiezen?|
+maison-667|Met wie zou je contact opnemen om je te helpen een bouwpakketmeubel in elkaar te zetten?|Met wie zou je contact opnemen om je te helpen een keukenkastje op te ruimen?|
+maison-668|Wat is volgens jou de prijs van een houten salontafel?|Wat is volgens jou de prijs van een vloerkleed van 160 × 230 cm voor de woonkamer?|
+maison-669|Wat zou je als eerste doen als je een lek onder de gootsteen ontdekt?|Wat zou je als eerste doen als een gast een glas breekt?|
+maison-670|Voor welke gelegenheid zou je een schoenenkast willen kopen?|Voor welke gelegenheid zou je een opbergmand willen kopen?|
+maison-671|Hoeveel denk je dat een set sierkussens waard is?|Hoeveel denk je dat een wandkapstok waard is?|
+maison-672|Welk tijdstip van de dag zou het handigst zijn om de opbergruimte in de keuken in te delen?|Welk tijdstip van de dag zou het handigst zijn om een bouwpakketmeubel in elkaar te zetten?|
+maison-673|Wat zou je ertoe aanzetten om een stoffen tweezitsbank te kopen?|Wat zou je ertoe aanzetten om een houten salontafel te kopen?|
+maison-674|Op welk moment van de week zou je het liefst gordijnen ophangen?|Op welk moment van de week zou je het liefst de papieren in huis sorteren?|
+maison-675|Welk moment van de dag zou je kiezen om een koelkast leeg te halen en schoon te maken?|Welk moment van de dag zou je kiezen om een werkhoek in te richten?|
+maison-676|Hoeveel tijd zou je nodig hebben om een lamp te vervangen?|Hoeveel tijd zou je nodig hebben om een kleine hal aan te kleden?|
+maison-677|Wat zou je antwoorden als een vriend kritiek heeft op je inrichting?|Wat zou je antwoorden als de deurbel gaat terwijl je onder de douche staat?|
+maison-678|Hoe zou je reageren als je stofzuiger het begeeft?|Hoe zou je reageren als een vriend kritiek heeft op je inrichting?|
+maison-679|Hoeveel zou je maximaal betalen voor een comfortabele fauteuil?|Hoeveel zou je maximaal betalen voor een stoffen tweezitsbank?|
+maison-680|Wat zou je antwoorden als een bezorger een heel zwaar pakket naar boven brengt?|Wat zou je antwoorden als je merkt dat je de verf toch niet mooi vindt?|

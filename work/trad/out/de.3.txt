@@ -298,3 +298,203 @@ tech-611|Welchen Preis stellst du dir für ein gutes USB-Mikro vor?|Welchen Prei
 tech-612|Was meinst du, wie lange dauert es, ein neues Smartphone einzurichten?|Was meinst du, wie lange dauert es, deine Benachrichtigungen zu sortieren?|
 tech-613|Was wäre dein erster Reflex, wenn dein Handy ohne Grund heiß wird?|Was wäre dein erster Reflex, wenn du fünfzig Benachrichtigungen auf einmal bekommst?|
 tech-614|Wie oft kommt es vor, dass du ein Backup machst?|Wie oft kommt es vor, dass du deinen Homescreen neu sortierst?|
+tech-615|Was wäre deine erste Reaktion, wenn ein Videocall ohne Ton anfängt?|Was wäre deine erste Reaktion, wenn das WLAN während eines wichtigen Anrufs ausfällt?|
+tech-616|Wann hättest du Lust, dir eine einfache Smartwatch zu kaufen?|Wann hättest du Lust, dir einen tragbaren Bluetooth-Lautsprecher zu kaufen?|
+tech-617|Wohin würdest du gehen, um einen 27-Zoll-Monitor zu finden?|Wohin würdest du gehen, um eine robuste Handyhülle zu finden?|
+tech-618|Was meinst du, wie lange dauert es, dein Postfach aufzuräumen?|Was meinst du, wie lange dauert es, einen verdächtigen Link zu überprüfen?|
+tech-619|Welcher Satz würde dir rausrutschen, wenn ein Video, das du postest, viral geht?|Welcher Satz würde dir rausrutschen, wenn dein Handy ohne Grund heiß wird?|
+tech-620|Auf welcher Website oder in welchem Laden würdest du nach einer externen 2-TB-Festplatte suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem USB-3.0-Stick mit 128 GB suchen?|
+tech-621|Wie schnell könntest du die Datenschutzeinstellungen anpassen?|Wie schnell könntest du deine Kontakte übertragen?|
+tech-622|Wie würdest du reagieren, wenn dein Computer ein dringendes Update verlangt?|Wie würdest du reagieren, wenn dich ein Freund auf einem alten Foto markiert?|
+tech-623|Was glaubst du, wie viel eine Handyhalterung fürs Auto kostet?|Was glaubst du, wie viel eine smarte Lampe kostet?|
+tech-624|Was kostet deiner Meinung nach ein 27-Zoll-Monitor?|Was kostet deiner Meinung nach eine robuste Handyhülle?|
+tech-625|Wo würdest du zuerst nach einem hochwertigen USB-C-Kabel suchen?|Wo würdest du zuerst nach einer externen 2-TB-Festplatte suchen?|
+tech-626|Wie schnell könntest du einen verdächtigen Link überprüfen?|Wie schnell könntest du ein neues Tastenkürzel lernen?|
+tech-627|Was würdest du als Erstes tun, wenn eine App ihre Oberfläche ändert?|Was würdest du als Erstes tun, wenn dein Computer ein dringendes Update verlangt?|
+tech-628|Wie oft im Jahr hast du Gelegenheit, einen verdächtigen Link zu überprüfen?|Wie oft im Jahr hast du Gelegenheit, ein neues Tastenkürzel zu lernen?|
+tech-629|Wie würdest du antworten, wenn dich ein Freund auf einem alten Foto markiert?|Wie würdest du antworten, wenn dein Speicher vor einer Reise voll ist?|
+tech-630|Wie viel würdest du maximal für einen 14-Zoll-Laptop zum Arbeiten bezahlen?|Wie viel würdest du maximal für einen 27-Zoll-Monitor bezahlen?|
+tech-631|Wen würdest du um Hilfe bitten, um einem Freund oder Verwandten eine App zu erklären?|Wen würdest du um Hilfe bitten, um die Fotos auf deinem Handy zu sichern?|
+tech-632|Wie viel würdest du maximal für eine einfache Smartwatch bezahlen?|Wie viel würdest du maximal für einen tragbaren Bluetooth-Lautsprecher bezahlen?|
+tech-633|Was würde dich dazu bringen, eine kompakte kabellose Tastatur zu kaufen?|Was würde dich dazu bringen, ein Monatsabo für 200 GB Cloud-Speicher zu kaufen?|
+tech-634|Wie oft kommt es vor, dass du einen Computer aktualisierst?|Wie oft kommt es vor, dass du deine Dateien in der Cloud ordnest?|
+tech-635|Zu welcher Tageszeit wäre es am praktischsten, ein altes Passwort wiederzufinden?|Zu welcher Tageszeit wäre es am praktischsten, zwei Handyverträge zu vergleichen?|
+tech-636|Welche Tageszeit würdest du wählen, um einen verdächtigen Link zu überprüfen?|Welche Tageszeit würdest du wählen, um ein neues Tastenkürzel zu lernen?|
+tech-637|Wie oft kommt es vor, dass du dein Postfach aufräumst?|Wie oft kommt es vor, dass du einen verdächtigen Link überprüfst?|
+tech-638|Wohin würdest du gehen, um einen USB-3.0-Stick mit 128 GB zu finden?|Wohin würdest du gehen, um eine Handyhalterung fürs Auto zu finden?|
+tech-639|Welche Tageszeit würdest du wählen, um die Datenschutzeinstellungen anzupassen?|Welche Tageszeit würdest du wählen, um deine Kontakte zu übertragen?|
+tech-640|Wie oft kommt es vor, dass du ein Profilbild aussuchst?|Wie oft kommt es vor, dass du die Datenschutzeinstellungen anpasst?|
+tech-641|Wie schnell könntest du deine Benachrichtigungen sortieren?|Wie schnell könntest du ein altes Passwort wiederfinden?|
+tech-642|Wohin würdest du gehen, um einen tragbaren Bluetooth-Lautsprecher zu finden?|Wohin würdest du gehen, um einen aktuellen WLAN-Router zu finden?|
+tech-643|Was würdest du spontan sagen, wenn dein Speicher vor einer Reise voll ist?|Was würdest du spontan sagen, wenn dein Handy nur noch 2 % Akku hat?|
+tech-644|Was würdest du als Erstes tun, wenn ein Freund dich nach deinem Passwort fragt?|Was würdest du als Erstes tun, wenn ein Video, das du postest, viral geht?|
+tech-645|Was wäre deine erste Reaktion, wenn du fünfzig Benachrichtigungen auf einmal bekommst?|Was wäre deine erste Reaktion, wenn eine App ihre Oberfläche ändert?|
+tech-646|Wo würdest du zuerst nach einem Handystativ suchen?|Wo würdest du zuerst nach einem guten USB-Mikro suchen?|
+tech-647|Welches Budget würdest du maximal für einen tragbaren Bluetooth-Lautsprecher einplanen?|Welches Budget würdest du maximal für einen aktuellen WLAN-Router einplanen?|
+tech-648|Was würdest du als Erstes tun, wenn du eine Nachricht in die falsche Gruppe schickst?|Was würdest du als Erstes tun, wenn dein Konto vorübergehend gesperrt ist?|
+tech-649|Welche Tageszeit würdest du wählen, um deine Benachrichtigungen zu sortieren?|Welche Tageszeit würdest du wählen, um ein altes Passwort wiederzufinden?|
+tech-650|Welche Tageszeit würdest du wählen, um deine Dateien in der Cloud zu ordnen?|Welche Tageszeit würdest du wählen, um ein zu langsames Gerät wieder flottzumachen?|
+tech-651|Zu welchem Anlass würdest du dir eine Powerbank mit 20.000 mAh kaufen?|Zu welchem Anlass würdest du dir ein kabelloses Ladegerät kaufen?|
+tech-652|Wer aus deinem Umfeld könnte dir helfen, deine Benachrichtigungen zu sortieren?|Wer aus deinem Umfeld könnte dir helfen, ein altes Passwort wiederzufinden?|
+tech-653|Was würde dich dazu bringen, ein Mittelklasse-Smartphone zu kaufen?|Was würde dich dazu bringen, eine Powerbank mit 20.000 mAh zu kaufen?|
+tech-654|Welches Budget würdest du maximal für eine kompakte kabellose Tastatur einplanen?|Welches Budget würdest du maximal für ein Monatsabo für 200 GB Cloud-Speicher einplanen?|
+tech-655|Wie schnell könntest du deine Dateien in der Cloud ordnen?|Wie schnell könntest du ein zu langsames Gerät wieder flottmachen?|
+tech-656|Was meinst du, wie lange dauert es, einen Computer zu aktualisieren?|Was meinst du, wie lange dauert es, deine Dateien in der Cloud zu ordnen?|
+tech-657|Wie viel Zeit würdest du einplanen, um ein altes Passwort wiederzufinden?|Wie viel Zeit würdest du einplanen, um zwei Handyverträge zu vergleichen?|
+tech-658|Wie lange würdest du brauchen, um die Fotos auf deinem Handy zu sichern?|Wie lange würdest du brauchen, um ein neues Smartphone einzurichten?|
+tech-659|Wie oft im Monat hast du Gelegenheit, einen smarten Lautsprecher einzurichten?|Wie oft im Monat hast du Gelegenheit, ein Backup zu machen?|
+tech-660|Was würde dich dazu bringen, einen tragbaren Bluetooth-Lautsprecher zu kaufen?|Was würde dich dazu bringen, einen aktuellen WLAN-Router zu kaufen?|
+tech-661|Wohin würdest du gehen, um eine Powerbank mit 20.000 mAh zu kaufen?|Wohin würdest du gehen, um ein kabelloses Ladegerät zu kaufen?|
+tech-662|Wie lange würdest du brauchen, um eine Videokonferenz vorzubereiten?|Wie lange würdest du brauchen, um ein Profilbild auszusuchen?|
+tech-663|Wie würdest du antworten, wenn eine App zu viele Berechtigungen verlangt?|Wie würdest du antworten, wenn ein Freund eine Falschmeldung teilt?|
+tech-664|Wohin würdest du gehen, um eine Handyhalterung fürs Auto zu kaufen?|Wohin würdest du gehen, um eine smarte Lampe zu kaufen?|
+tech-665|Wann hättest du Lust, dir eine externe 2-TB-Festplatte zu kaufen?|Wann hättest du Lust, dir einen USB-3.0-Stick mit 128 GB zu kaufen?|
+tech-666|Wie oft im Jahr hast du Gelegenheit, deine Dateien in der Cloud zu ordnen?|Wie oft im Jahr hast du Gelegenheit, ein zu langsames Gerät wieder flottzumachen?|
+tech-667|Ab welchem Preis würdest du zögern, eine Powerbank mit 20.000 mAh zu kaufen?|Ab welchem Preis würdest du zögern, ein kabelloses Ladegerät zu kaufen?|
+tech-668|Wie viel ist ein kabelloses Ladegerät deiner Meinung nach wert?|Wie viel ist ein 14-Zoll-Laptop zum Arbeiten deiner Meinung nach wert?|
+tech-669|Was wäre dein erster Reflex, wenn eine App zu viele Berechtigungen verlangt?|Was wäre dein erster Reflex, wenn ein Freund eine Falschmeldung teilt?|
+tech-670|Wie oft im Jahr hast du Gelegenheit, die Datenschutzeinstellungen anzupassen?|Wie oft im Jahr hast du Gelegenheit, deine Kontakte zu übertragen?|
+tech-671|Was kostet deiner Meinung nach ein USB-3.0-Stick mit 128 GB?|Was kostet deiner Meinung nach eine Handyhalterung fürs Auto?|
+tech-672|Wie oft im Jahr hast du Gelegenheit, deine Benachrichtigungen zu sortieren?|Wie oft im Jahr hast du Gelegenheit, ein altes Passwort wiederzufinden?|
+tech-673|Wie oft im Monat hast du Gelegenheit, die Fotos auf deinem Handy zu sichern?|Wie oft im Monat hast du Gelegenheit, ein neues Smartphone einzurichten?|
+tech-674|Wie oft würdest du gern ein zu langsames Gerät wieder flottmachen?|Wie oft würdest du gern eine Videokonferenz vorbereiten?|
+tech-675|Was wäre deine erste Reaktion, wenn ein Freund eine Falschmeldung teilt?|Was wäre deine erste Reaktion, wenn du eine Nachricht in die falsche Gruppe schickst?|
+tech-676|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um eine Banking-App einzurichten?|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um dein Postfach aufzuräumen?|
+tech-677|Auf welcher Website oder in welchem Laden würdest du nach einem 14-Zoll-Laptop zum Arbeiten suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem 27-Zoll-Monitor suchen?|
+tech-678|Was glaubst du, wie viel ein aktueller WLAN-Router kostet?|Was glaubst du, wie viel ein hochwertiges USB-C-Kabel kostet?|
+tech-679|Wie viel ist ein Handystativ deiner Meinung nach wert?|Wie viel ist ein gutes USB-Mikro deiner Meinung nach wert?|
+tech-680|Was meinst du, wie lange dauert es, ein Backup zu machen?|Was meinst du, wie lange dauert es, deinen Homescreen neu zu sortieren?|
+tech-681|Wie würdest du antworten, wenn du einen Anruf von einer unbekannten Nummer bekommst?|Wie würdest du antworten, wenn ein Videocall ohne Ton anfängt?|
+tech-682|Wie viel ist eine smarte Lampe deiner Meinung nach wert?|Wie viel ist eine HD-Webcam deiner Meinung nach wert?|
+tech-683|Wie viel Zeit würdest du einplanen, um ein neues Tastenkürzel zu lernen?|Wie viel Zeit würdest du einplanen, um einen smarten Lautsprecher einzurichten?|
+tech-684|Zu welcher Tageszeit wäre es am praktischsten, ein neues Tastenkürzel zu lernen?|Zu welcher Tageszeit wäre es am praktischsten, einen smarten Lautsprecher einzurichten?|
+tech-685|Wen würdest du um Hilfe bitten, um ein zu langsames Gerät wieder flottzumachen?|Wen würdest du um Hilfe bitten, um eine Videokonferenz vorzubereiten?|
+tech-686|Wie oft würdest du gern deine Kontakte übertragen?|Wie oft würdest du gern eine Banking-App einrichten?|
+tech-687|Was würdest du spontan sagen, wenn du fünfzig Benachrichtigungen auf einmal bekommst?|Was würdest du spontan sagen, wenn eine App ihre Oberfläche ändert?|
+tech-688|Wie lange würdest du brauchen, um eine Banking-App einzurichten?|Wie lange würdest du brauchen, um dein Postfach aufzuräumen?|
+tech-689|Ab welchem Preis würdest du zögern, eine robuste Handyhülle zu kaufen?|Ab welchem Preis würdest du zögern, einen Kopfhörer mit aktiver Geräuschunterdrückung für Zugfahrten zu kaufen?|
+tech-690|Wann hättest du Lust, dir einen 14-Zoll-Laptop zum Arbeiten zu kaufen?|Wann hättest du Lust, dir einen 27-Zoll-Monitor zu kaufen?|
+tech-691|Wie viel Zeit würdest du einplanen, um einem Freund oder Verwandten eine App zu erklären?|Wie viel Zeit würdest du einplanen, um die Fotos auf deinem Handy zu sichern?|
+tech-692|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um eine Videokonferenz vorzubereiten?|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um ein Profilbild auszusuchen?|
+tech-693|Wer aus deinem Umfeld könnte dir helfen, die Datenschutzeinstellungen anzupassen?|Wer aus deinem Umfeld könnte dir helfen, deine Kontakte zu übertragen?|
+tech-694|Wann hättest du Lust, dir eine HD-Webcam zu kaufen?|Wann hättest du Lust, dir eine kompakte kabellose Tastatur zu kaufen?|
+tech-695|Was würde dich dazu bringen, einen 27-Zoll-Monitor zu kaufen?|Was würde dich dazu bringen, eine robuste Handyhülle zu kaufen?|
+tech-696|Wo würdest du zuerst nach einer smarten Lampe suchen?|Wo würdest du zuerst nach einer HD-Webcam suchen?|
+tech-697|Wer könnte dir die besten Tipps geben, um dein Postfach aufzuräumen?|Wer könnte dir die besten Tipps geben, um einen verdächtigen Link zu überprüfen?|
+tech-698|Wen würdest du um Hilfe bitten, um ein altes Passwort wiederzufinden?|Wen würdest du um Hilfe bitten, um zwei Handyverträge zu vergleichen?|
+tech-699|Wie viel ist ein hochwertiges USB-C-Kabel deiner Meinung nach wert?|Wie viel ist eine externe 2-TB-Festplatte deiner Meinung nach wert?|
+tech-700|Was wäre deine erste Reaktion, wenn dein Speicher vor einer Reise voll ist?|Was wäre deine erste Reaktion, wenn dein Handy nur noch 2 % Akku hat?|
+tech-701|Welcher Satz würde dir rausrutschen, wenn dein Computer ein dringendes Update verlangt?|Welcher Satz würde dir rausrutschen, wenn dich ein Freund auf einem alten Foto markiert?|
+tech-702|Was wäre der beste Zeitpunkt, um ein neues Smartphone einzurichten?|Was wäre der beste Zeitpunkt, um deine Benachrichtigungen zu sortieren?|
+tech-703|Wie oft im Monat hast du Gelegenheit, eine Banking-App einzurichten?|Wie oft im Monat hast du Gelegenheit, dein Postfach aufzuräumen?|
+tech-704|Wo würdest du zuerst nach einem kabellosen Ladegerät suchen?|Wo würdest du zuerst nach einem 14-Zoll-Laptop zum Arbeiten suchen?|
+tech-705|Wie viel wärst du bereit, für ein Handystativ auszugeben?|Wie viel wärst du bereit, für ein gutes USB-Mikro auszugeben?|
+tech-706|Wann in der Woche würdest du am liebsten zwei Handyverträge vergleichen?|Wann in der Woche würdest du am liebsten einen Computer aktualisieren?|
+tech-707|Was würdest du sagen, wenn eine App ihre Oberfläche ändert?|Was würdest du sagen, wenn dein Computer ein dringendes Update verlangt?|
+tech-708|Wie würdest du antworten, wenn du ein vergessenes Abo entdeckst?|Wie würdest du antworten, wenn eine Sprachnachricht acht Minuten dauert?|
+tech-709|Wie viel würdest du maximal für eine HD-Webcam bezahlen?|Wie viel würdest du maximal für eine kompakte kabellose Tastatur bezahlen?|
+tech-710|Welchen Preis stellst du dir für eine HD-Webcam vor?|Welchen Preis stellst du dir für eine kompakte kabellose Tastatur vor?|
+tech-711|Wen würdest du um Hilfe bitten, um ein neues Tastenkürzel zu lernen?|Wen würdest du um Hilfe bitten, um einen smarten Lautsprecher einzurichten?|
+tech-712|Was wäre deine erste Reaktion, wenn eine Sprachnachricht acht Minuten dauert?|Was wäre deine erste Reaktion, wenn ein Freund dich nach deinem Passwort fragt?|
+tech-713|Ab welchem Preis würdest du zögern, ein Monatsabo für 200 GB Cloud-Speicher zu kaufen?|Ab welchem Preis würdest du zögern, ein Handystativ zu kaufen?|
+tech-714|In welcher Situation würdest du dich entscheiden, eine smarte Lampe zu kaufen?|In welcher Situation würdest du dich entscheiden, eine HD-Webcam zu kaufen?|
+musique-334|Wann hättest du Lust, dir ein Tagesticket für ein Festival zu kaufen?|Wann hättest du Lust, dir ein Tour-Shirt zu kaufen?|
+musique-335|Wen würdest du um Hilfe bitten, um ein einfaches Stück auf dem Klavier zu lernen?|Wen würdest du um Hilfe bitten, um einen gemeinsamen Konzertbesuch zu organisieren?|
+musique-336|Wann hättest du Lust, dir ein Monatsabo für einen Proberaum zu kaufen?|Wann hättest du Lust, dir einen Stehplatz im Innenraum für ein Konzert in der Lanxess Arena zu kaufen?|Accor Arena → Lanxess Arena
+musique-337|Wie schnell könntest du einen Rhythmus auf der Gitarre lernen?|Wie schnell könntest du eine Geburtstagsplaylist zusammenstellen?|
+musique-338|Was wäre deine erste Reaktion, wenn das Konzert eine Stunde zu spät anfängt?|Was wäre deine erste Reaktion, wenn man dich bittet, auf einer Party die Musik zu übernehmen?|
+musique-339|Was glaubst du, wie viel eine Aufbewahrungstasche für Schallplatten kostet?|Was glaubst du, wie viel ein Karaoke-Spiel kostet?|
+musique-340|Was kostet deiner Meinung nach ein Sitzplatz für ein Konzert in einer großen Halle?|Was kostet deiner Meinung nach ein Paar Ohrstöpsel fürs Konzert?|
+musique-341|Was meinst du, wie lange dauert es, einen neuen Künstler zu entdecken?|Was meinst du, wie lange dauert es, die Musik für ein Abendessen auszusuchen?|
+musique-342|Welcher Satz würde dir rausrutschen, wenn dir ein Freund einen unbekannten Künstler empfiehlt?|Welcher Satz würde dir rausrutschen, wenn das Publikum lauter singt als der Künstler?|
+musique-343|Wer könnte dir die besten Tipps geben, um einen neuen Künstler zu entdecken?|Wer könnte dir die besten Tipps geben, um die Musik für ein Abendessen auszusuchen?|
+musique-344|Wie oft im Jahr hast du Gelegenheit, einen Rhythmus auf der Gitarre zu lernen?|Wie oft im Jahr hast du Gelegenheit, eine Geburtstagsplaylist zusammenzustellen?|
+musique-345|Wohin würdest du gehen, um eine Akustikgitarre für Anfänger zu kaufen?|Wohin würdest du gehen, um ein Keyboard für Anfänger zu kaufen?|
+musique-346|Zu welcher Tageszeit wäre es am praktischsten, einen Song im Duett einzustudieren?|Zu welcher Tageszeit wäre es am praktischsten, eine Playlist für eine Fahrt zusammenzustellen?|
+musique-347|Wo würdest du zuerst nach einem Keyboard für Anfänger suchen?|Wo würdest du zuerst nach einem Gesangsmikrofon suchen?|
+musique-348|Wie viel wärst du bereit, für ein Karaoke-Spiel auszugeben?|Wie viel wärst du bereit, für ein Monatsabo für einen Proberaum auszugeben?|
+musique-349|Welcher Satz würde dir rausrutschen, wenn der DJ deinen Musikwunsch ablehnt?|Welcher Satz würde dir rausrutschen, wenn man dir anbietet, auf die Bühne zu kommen und zu singen?|
+musique-350|Was würdest du als Erstes tun, wenn ein Freund denselben Song zehnmal spielen will?|Was würdest du als Erstes tun, wenn der Sound bei einem Konzert schlecht ist?|
+musique-351|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um eine Sport-Playlist zusammenzustellen?|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um eine Musiksammlung zu ordnen?|
+musique-352|Wie oft im Monat hast du Gelegenheit, einem Freund fünf Songs zu empfehlen?|Wie oft im Monat hast du Gelegenheit, die Musik für eine Hochzeit auszusuchen?|
+musique-353|Wie oft im Jahr hast du Gelegenheit, ein Album von Anfang bis Ende zu hören?|Wie oft im Jahr hast du Gelegenheit, einen Song für ein Video auszusuchen?|
+musique-354|Was würdest du spontan sagen, wenn sich ein Gast einen Song wünscht, der die Stimmung killt?|Was würdest du spontan sagen, wenn sich deine Lieblingsband wieder zusammentut?|
+musique-355|Wie viel ist ein Karaoke-Spiel deiner Meinung nach wert?|Wie viel ist ein Monatsabo für einen Proberaum deiner Meinung nach wert?|
+musique-356|Was würdest du als Erstes tun, wenn dein Lieblingskünstler eine Tour ankündigt?|Was würdest du als Erstes tun, wenn jemand deinen Lieblingssong kritisiert?|
+musique-357|Wer aus deinem Umfeld könnte dir helfen, einen Rhythmus auf der Gitarre zu lernen?|Wer aus deinem Umfeld könnte dir helfen, eine Geburtstagsplaylist zusammenzustellen?|
+musique-358|Was kostet deiner Meinung nach eine Stunde Miete für einen Proberaum?|Was kostet deiner Meinung nach eine Aufbewahrungstasche für Schallplatten?|
+musique-359|Welche Tageszeit würdest du wählen, um die Musik für ein Abendessen auszusuchen?|Welche Tageszeit würdest du wählen, um ein einfaches Stück auf dem Klavier zu lernen?|
+musique-360|Wie oft im Jahr hast du Gelegenheit, die Musik für ein Abendessen auszusuchen?|Wie oft im Jahr hast du Gelegenheit, ein einfaches Stück auf dem Klavier zu lernen?|
+musique-361|Was wäre der beste Zeitpunkt, um einen neuen Künstler zu entdecken?|Was wäre der beste Zeitpunkt, um die Musik für ein Abendessen auszusuchen?|
+musique-362|Wohin würdest du gehen, um ein Paar Ohrstöpsel fürs Konzert zu kaufen?|Wohin würdest du gehen, um ein gerahmtes Konzertplakat zu kaufen?|
+musique-363|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um einen Karaoke-Abend vorzubereiten?|Wen würdest du kontaktieren, wenn du Hilfe brauchst, um einen neuen Künstler zu entdecken?|
+musique-364|Wie viel ist ein hochwertiger kabelgebundener Kopfhörer deiner Meinung nach wert?|Wie viel ist ein robuster tragbarer Lautsprecher deiner Meinung nach wert?|
+musique-365|Zu welchem Anlass würdest du dir ein Paar Ohrstöpsel fürs Konzert kaufen?|Zu welchem Anlass würdest du dir ein gerahmtes Konzertplakat kaufen?|
+musique-366|Was kostet deiner Meinung nach ein Stehplatz im Innenraum für ein Konzert in der Lanxess Arena?|Was kostet deiner Meinung nach ein monatliches Musik-Abo?|Accor Arena → Lanxess Arena
+musique-367|Wie oft im Jahr hast du Gelegenheit, den Text eines Refrains zu lernen?|Wie oft im Jahr hast du Gelegenheit, einen Song zum Tanzen auszusuchen?|
+musique-368|Was würdest du sagen, wenn dein Lieblingskünstler eine Tour ankündigt?|Was würdest du sagen, wenn jemand deinen Lieblingssong kritisiert?|
+musique-369|Wie würdest du reagieren, wenn dir ein Freund einen unbekannten Künstler empfiehlt?|Wie würdest du reagieren, wenn das Publikum lauter singt als der Künstler?|
+musique-370|Was wäre der beste Zeitpunkt, um eine Musiksammlung zu ordnen?|Was wäre der beste Zeitpunkt, um einen Rhythmus auf der Gitarre zu lernen?|
+musique-371|Was würdest du sagen, wenn du deine Lieblingsmusik in einem Laden hörst?|Was würdest du sagen, wenn der DJ deinen Musikwunsch ablehnt?|
+musique-372|Wen würdest du um Hilfe bitten, um eine Geburtstagsplaylist zusammenzustellen?|Wen würdest du um Hilfe bitten, um einem Freund fünf Songs zu empfehlen?|
+musique-373|Was glaubst du, wie viel ein monatliches Musik-Abo kostet?|Was glaubst du, wie viel ein hochwertiger kabelgebundener Kopfhörer kostet?|
+musique-374|Was glaubst du, wie viel ein Paar Ohrstöpsel fürs Konzert kostet?|Was glaubst du, wie viel ein gerahmtes Konzertplakat kostet?|
+musique-375|Wie oft kommt es vor, dass du einen Song wiederfindest, den du unterwegs gehört hast?|Wie oft kommt es vor, dass du den Text eines Refrains lernst?|
+musique-376|Wie viel ist ein gerahmtes Konzertplakat deiner Meinung nach wert?|Wie viel ist eine Einzelstunde Gesangsunterricht deiner Meinung nach wert?|
+musique-377|Wie schnell könntest du ein Konzert finden, das weniger als dreißig Minuten von dir entfernt ist?|Wie schnell könntest du einen Song im Duett einstudieren?|
+musique-378|Wie schnell könntest du den Text eines Refrains lernen?|Wie schnell könntest du einen Song zum Tanzen aussuchen?|
+musique-379|Was würdest du spontan sagen, wenn du den letzten Song einer Party aussuchen musst?|Was würdest du spontan sagen, wenn dein Lieblingskünstler eine Tour ankündigt?|
+musique-380|Wie lange würdest du brauchen, um eine Sport-Playlist zusammenzustellen?|Wie lange würdest du brauchen, um eine Musiksammlung zu ordnen?|
+musique-381|Was wäre dein erster Reflex, wenn man dir anbietet, auf die Bühne zu kommen und zu singen?|Was wäre dein erster Reflex, wenn du den letzten Song einer Party aussuchen musst?|
+musique-382|Auf welcher Website oder in welchem Laden würdest du nach einem Monatsabo für einen Proberaum suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Stehplatz im Innenraum für ein Konzert in der Lanxess Arena suchen?|Accor Arena → Lanxess Arena
+musique-383|Wie viel Zeit würdest du einplanen, um ein einfaches Stück auf dem Klavier zu lernen?|Wie viel Zeit würdest du einplanen, um einen gemeinsamen Konzertbesuch zu organisieren?|
+musique-384|Welchen Preis stellst du dir für ein Tagesticket für ein Festival vor?|Welchen Preis stellst du dir für ein Tour-Shirt vor?|
+musique-385|Was wäre deine erste Reaktion, wenn ein Künstler auf der Bühne den Text vergisst?|Was wäre deine erste Reaktion, wenn ein Freund denselben Song zehnmal spielen will?|
+musique-386|Wie viel würdest du maximal für einen robusten tragbaren Lautsprecher bezahlen?|Wie viel würdest du maximal für eine Vinylplatte eines neuen Albums bezahlen?|
+musique-387|Wen würdest du um Hilfe bitten, um einen Song im Duett einzustudieren?|Wen würdest du um Hilfe bitten, um eine Playlist für eine Fahrt zusammenzustellen?|
+musique-388|In welcher Situation würdest du dich entscheiden, ein gerahmtes Konzertplakat zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Einzelstunde Gesangsunterricht zu buchen?|
+musique-389|Wo würdest du zuerst nach einem hochwertigen kabelgebundenen Kopfhörer suchen?|Wo würdest du zuerst nach einem robusten tragbaren Lautsprecher suchen?|
+musique-390|Was wäre deine erste Reaktion, wenn jemand einen Song aus deiner Kindheit anmacht?|Was wäre deine erste Reaktion, wenn du deine Lieblingsmusik in einem Laden hörst?|
+musique-391|Welchen Preis stellst du dir für ein Monatsabo für einen Proberaum vor?|Welchen Preis stellst du dir für einen Stehplatz im Innenraum für ein Konzert in der Lanxess Arena vor?|Accor Arena → Lanxess Arena
+musique-392|Wie viel würdest du maximal für ein Tagesticket für ein Festival bezahlen?|Wie viel würdest du maximal für ein Tour-Shirt bezahlen?|
+musique-393|Wen würdest du um Hilfe bitten, um einen Song zum Tanzen auszusuchen?|Wen würdest du um Hilfe bitten, um einen Karaoke-Abend vorzubereiten?|
+musique-394|Was würdest du als Erstes tun, wenn man dich bittet, auf einer Party die Musik zu übernehmen?|Was würdest du als Erstes tun, wenn du einen Song schon an den ersten Tönen erkennst?|
+musique-395|Zu welchem Anlass würdest du dir eine Akustikgitarre für Anfänger kaufen?|Zu welchem Anlass würdest du dir ein Keyboard für Anfänger kaufen?|
+musique-396|Was würdest du spontan sagen, wenn ein Künstler auf der Bühne den Text vergisst?|Was würdest du spontan sagen, wenn ein Freund denselben Song zehnmal spielen will?|
+musique-397|Was würde dich dazu bringen, ein Tour-Shirt zu kaufen?|Was würde dich dazu bringen, eine Akustikgitarre für Anfänger zu kaufen?|
+musique-398|Wie schnell könntest du die Musik für ein Abendessen aussuchen?|Wie schnell könntest du ein einfaches Stück auf dem Klavier lernen?|
+musique-399|Auf welcher Website oder in welchem Laden würdest du nach einem Tagesticket für ein Festival suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Tour-Shirt suchen?|
+musique-400|Was kostet deiner Meinung nach ein Tour-Shirt?|Was kostet deiner Meinung nach eine Akustikgitarre für Anfänger?|
+musique-401|Wer könnte dir die besten Tipps geben, um eine Musiksammlung zu ordnen?|Wer könnte dir die besten Tipps geben, um einen Rhythmus auf der Gitarre zu lernen?|
+musique-402|Auf welcher Website oder in welchem Laden würdest du nach einem robusten tragbaren Lautsprecher suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Vinylplatte eines neuen Albums suchen?|
+musique-403|Wie viel würdest du maximal für ein Monatsabo für einen Proberaum bezahlen?|Wie viel würdest du maximal für einen Stehplatz im Innenraum für ein Konzert in der Lanxess Arena bezahlen?|Accor Arena → Lanxess Arena
+musique-404|Zu welchem Anlass würdest du dir ein monatliches Musik-Abo kaufen?|Zu welchem Anlass würdest du dir einen hochwertigen kabelgebundenen Kopfhörer kaufen?|
+musique-405|Was würdest du sagen, wenn man dich bittet, auf einer Party die Musik zu übernehmen?|Was würdest du sagen, wenn du einen Song schon an den ersten Tönen erkennst?|
+musique-406|Was wäre deine erste Reaktion, wenn du den letzten Song einer Party aussuchen musst?|Was wäre deine erste Reaktion, wenn dein Lieblingskünstler eine Tour ankündigt?|
+musique-407|Wohin würdest du gehen, um einen Proberaum zu finden, den du für eine Stunde mieten kannst?|Wohin würdest du gehen, um eine Aufbewahrungstasche für Schallplatten zu finden?|
+musique-408|Welcher Satz würde dir rausrutschen, wenn jemand deinen Lieblingssong kritisiert?|Welcher Satz würde dir rausrutschen, wenn ein Freund beim Karaoke schief singt?|
+musique-409|Wie würdest du antworten, wenn man dir anbietet, auf die Bühne zu kommen und zu singen?|Wie würdest du antworten, wenn du den letzten Song einer Party aussuchen musst?|
+musique-410|Wie oft im Jahr hast du Gelegenheit, ein Konzert zu finden, das weniger als dreißig Minuten von dir entfernt ist?|Wie oft im Jahr hast du Gelegenheit, einen Song im Duett einzustudieren?|
+musique-411|Wie lange würdest du brauchen, um einen Karaoke-Abend vorzubereiten?|Wie lange würdest du brauchen, um einen neuen Künstler zu entdecken?|
+musique-412|Wann in der Woche würdest du am liebsten eine Sport-Playlist zusammenstellen?|Wann in der Woche würdest du am liebsten eine Musiksammlung ordnen?|
+musique-413|In welcher Situation würdest du dich entscheiden, einen hochwertigen kabelgebundenen Kopfhörer zu kaufen?|In welcher Situation würdest du dich entscheiden, einen robusten tragbaren Lautsprecher zu kaufen?|
+musique-414|Was würdest du sagen, wenn sich deine Lieblingsband wieder zusammentut?|Was würdest du sagen, wenn dir ein Freund einen unbekannten Künstler empfiehlt?|
+musique-415|Wann hättest du Lust, eine Einzelstunde Gesangsunterricht zu buchen?|Wann hättest du Lust, einen Proberaum für eine Stunde zu mieten?|
+musique-416|Zu welcher Tageszeit wäre es am praktischsten, ein einfaches Stück auf dem Klavier zu lernen?|Zu welcher Tageszeit wäre es am praktischsten, einen gemeinsamen Konzertbesuch zu organisieren?|
+musique-417|Ab welchem Preis würdest du zögern, eine Akustikgitarre für Anfänger zu kaufen?|Ab welchem Preis würdest du zögern, ein Keyboard für Anfänger zu kaufen?|
+musique-418|Was wäre der beste Zeitpunkt, um zwei Versionen eines Songs zu vergleichen?|Was wäre der beste Zeitpunkt, um ein Album von Anfang bis Ende zu hören?|
+musique-419|Wohin würdest du gehen, um ein monatliches Musik-Abo zu kaufen?|Wohin würdest du gehen, um einen hochwertigen kabelgebundenen Kopfhörer zu kaufen?|
+musique-420|Wie oft im Monat hast du Gelegenheit, einen Karaoke-Abend vorzubereiten?|Wie oft im Monat hast du Gelegenheit, einen neuen Künstler zu entdecken?|
+musique-421|Wo würdest du zuerst nach einem Karaoke-Spiel suchen?|Wo würdest du zuerst nach einem Monatsabo für einen Proberaum suchen?|
+musique-422|Wann in der Woche würdest du am liebsten einen gemeinsamen Konzertbesuch organisieren?|Wann in der Woche würdest du am liebsten zwei Versionen eines Songs vergleichen?|
+musique-423|Wohin würdest du gehen, um eine Aufbewahrungstasche für Schallplatten zu kaufen?|Wohin würdest du gehen, um ein Karaoke-Spiel zu kaufen?|
+musique-424|Wann in der Woche würdest du am liebsten einem Freund fünf Songs empfehlen?|Wann in der Woche würdest du am liebsten die Musik für eine Hochzeit aussuchen?|
+musique-425|Was meinst du, wie lange dauert es, einen Song wiederzufinden, den du unterwegs gehört hast?|Was meinst du, wie lange dauert es, den Text eines Refrains zu lernen?|
+musique-426|Was kostet deiner Meinung nach eine Vinylplatte eines neuen Albums?|Was kostet deiner Meinung nach ein Einsteiger-Plattenspieler?|
+musique-427|Wo würdest du zuerst nach kabellosen In-Ear-Kopfhörern suchen?|Wo würdest du zuerst nach einem Tagesticket für ein Festival suchen?|
+musique-428|Wie oft würdest du gern ein einfaches Stück auf dem Klavier lernen?|Wie oft würdest du gern einen gemeinsamen Konzertbesuch organisieren?|
+musique-429|Wie viel Zeit würdest du einplanen, um einen Song für ein Video auszusuchen?|Wie viel Zeit würdest du einplanen, um eine Sport-Playlist zusammenzustellen?|
+musique-430|Auf welcher Website oder in welchem Laden würdest du nach einem Gesangsmikrofon suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Sitzplatz für ein Konzert in einer großen Halle suchen?|
+musique-431|Was glaubst du, wie viel ein Einsteiger-Plattenspieler kostet?|Was glaubst du, wie viel kabellose In-Ear-Kopfhörer kosten?|
+musique-432|Was würdest du spontan sagen, wenn das Konzert eine Stunde zu spät anfängt?|Was würdest du spontan sagen, wenn man dich bittet, auf einer Party die Musik zu übernehmen?|
+musique-433|Wohin würdest du gehen, um ein Tour-Shirt zu finden?|Wohin würdest du gehen, um eine Akustikgitarre für Anfänger zu finden?|

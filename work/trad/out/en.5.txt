@@ -398,3 +398,203 @@ nature-529|What time of day would be most convenient to look for a viewpoint wit
 nature-530|How much do you reckon a garden hammock costs?|How much do you reckon a pair of walking boots costs?|
 nature-531|How many times a month do you get the chance to plan a two-hour hike?|How many times a month do you get the chance to spot a bird in a park?|
 nature-532|What would your first reaction be if a squirrel comes really close to you?|What would your first reaction be if you find a lost cat in the street?|
+fetes-530|What would make you buy a fancy dress costume?|What would make you buy a birthday piñata?|déguisement de carnaval → fancy dress costume
+fetes-531|What would make you buy a pack of decorative candles?|What would make you buy an Advent calendar full of treats?|
+fetes-532|If you had to organise a New Year meal, what would your priority be?|If you had to set up an Easter egg hunt, what would your priority be?|
+fetes-533|What detail would you check before sending out a birthday invitation?|What detail would you check before choosing the Christmas dinner menu?|menu de réveillon → Christmas dinner
+fetes-534|How much time would you set aside to organise a gift swap?|How much time would you set aside to organise a surprise birthday party?|
+fetes-535|What's the first thing you'd do if you get two invitations for the same evening?|What's the first thing you'd do if the cake turns up with the wrong name on it?|
+fetes-536|What time of day would be most convenient to plan a family party?|What time of day would be most convenient to choose a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-537|How much would you be willing to spend on ten metres of outdoor LED fairy lights?|How much would you be willing to spend on a box of assorted chocolates?|
+fetes-538|What would come out of your mouth if the music stops at a big moment?|What would come out of your mouth if a present gets damaged while it's being opened?|
+fetes-539|What would be your first instinct if a loved one wants to bring the party forward?|What would be your first instinct if a guest takes the last keepsake meant for everyone?|
+fetes-540|What's the most you'd budget for a New Year's decoration?|What's the most you'd budget for a photo booth prop?|
+fetes-541|Where would you go to find a New Year's decoration?|Where would you go to find a photo booth prop?|
+fetes-542|For what occasion would you want to buy a birthday piñata?|For what occasion would you want to buy a pack of biodegradable balloons?|
+fetes-543|What would make you buy a birthday cake for twelve people?|What would make you buy a party table decoration?|
+fetes-544|Who could give you the best advice on sorting out keepsake photos?|Who could give you the best advice on drawing up a guest list?|
+fetes-545|What would be the most important thing when setting up an Easter egg hunt?|What would be the most important thing when planning a family party?|
+fetes-546|How much would you be willing to spend on an artisan Christmas pudding for six?|How much would you be willing to spend on a festive biscuit gift box?|galette des rois → Christmas pudding
+fetes-547|What time of the week would you prefer to throw a graduation party?|What time of the week would you prefer to sort out keepsake photos?|
+fetes-548|When would be the best time to write a wedding speech?|When would be the best time to decorate a room for a party?|
+fetes-549|Who could give you the best advice on wrapping ten presents?|Who could give you the best advice on decorating a party table?|
+fetes-550|What would you find hardest about choosing a leaving present?|What would you find hardest about organising a New Year meal?|
+fetes-551|What's the first thing you'd do if the weather forces the party indoors?|What's the first thing you'd do if you find out someone's planning a surprise for you?|
+fetes-552|Where would you look first for ten metres of outdoor LED fairy lights?|Where would you look first for a box of assorted chocolates?|
+fetes-553|How quickly could you decorate a room for a party?|How quickly could you write your Christmas cards?|cartes de vœux → Christmas cards
+fetes-554|How quickly could you set up an Easter egg hunt?|How quickly could you plan a family party?|
+fetes-555|In your opinion, what's the price of a birthday piñata?|In your opinion, what's the price of a pack of biodegradable balloons?|
+fetes-556|Above what price would you hesitate to buy a photo booth prop?|Above what price would you hesitate to buy an artisan Christmas pudding for six?|galette des rois → Christmas pudding
+fetes-557|Who around you could help you decorate a room for a party?|Who around you could help you write your Christmas cards?|cartes de vœux → Christmas cards
+fetes-558|Which website or shop would you look in for a gift wrapping kit?|Which website or shop would you look in for a selection of twenty petits fours?|
+fetes-559|In what situation would you decide to buy ten metres of outdoor LED fairy lights?|In what situation would you decide to buy a box of assorted chocolates?|
+fetes-560|If you had to wrap ten presents, what would your priority be?|If you had to decorate a party table, what would your priority be?|
+fetes-561|How quickly could you put up seasonal decorations?|How quickly could you bake a birthday cake?|
+fetes-562|What would you say there and then if a guest takes the last keepsake meant for everyone?|What would you say there and then if you get two invitations for the same evening?|
+fetes-563|How much would you be willing to spend on a bouquet of flowers as a gift?|How much would you be willing to spend on a personalised Christmas card?|carte de vœux → Christmas card
+fetes-564|In your opinion, what's the price of a decorative door wreath?|In your opinion, what's the price of a party board game?|
+fetes-565|What would make you buy a selection of twenty petits fours?|What would make you buy a decorative door wreath?|
+fetes-566|What would you say if the weather forces the party indoors?|What would you say if you find out someone's planning a surprise for you?|
+fetes-567|When would be the best time to wrap ten presents?|When would be the best time to decorate a party table?|
+fetes-568|What detail would you check before organising a gift swap?|What detail would you check before organising a surprise birthday party?|
+fetes-569|How much time would you set aside to plan a family party?|How much time would you set aside to choose a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-570|What would you find hardest about organising a surprise birthday party?|What would you find hardest about wrapping ten presents?|
+fetes-571|What detail would you check before writing your Christmas cards?|What detail would you check before choosing a leaving present?|cartes de vœux → Christmas cards
+fetes-572|What would you say there and then if a guest turns up in an off-theme costume?|What would you say there and then if the weather forces the party indoors?|
+fetes-573|For what occasion would you want to buy a decorative door wreath?|For what occasion would you want to buy a party board game?|
+fetes-574|Where would you go to find a selection of twenty petits fours?|Where would you go to find a decorative door wreath?|
+fetes-575|What would your first reaction be if a friend asks you to sing into the mic?|What would your first reaction be if the decorations fall down during the meal?|
+fetes-576|What would be the most important thing when putting up seasonal decorations?|What would be the most important thing when baking a birthday cake?|
+fetes-577|When would you feel like buying a personalised Christmas card?|When would you feel like buying a pack of decorative candles?|carte de vœux → Christmas card
+fetes-578|Who around you could help you decorate a party table?|Who around you could help you put together a birthday invitation?|
+fetes-579|What would come out of your mouth if the cake turns up with the wrong name on it?|What would come out of your mouth if a guest forgets to bring their present?|
+fetes-580|When would you feel like buying a box of assorted chocolates?|When would you feel like buying a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-581|Where would you go to buy a decorative door wreath?|Where would you go to buy a party board game?|
+fetes-582|Who would you contact to help you throw a graduation party?|Who would you contact to help you sort out keepsake photos?|
+fetes-583|What would your first reaction be if a guest takes the last keepsake meant for everyone?|What would your first reaction be if you get two invitations for the same evening?|
+fetes-584|If you had to write a wedding speech, what would your priority be?|If you had to decorate a room for a party, what would your priority be?|
+fetes-585|What would be the most important thing when decorating a party table?|What would be the most important thing when putting together a birthday invitation?|
+fetes-586|Who would you contact to help you organise a surprise birthday party?|Who would you contact to help you wrap ten presents?|
+fetes-587|Where would you go to find a pack of decorative candles?|Where would you go to find an Advent calendar full of treats?|
+fetes-588|What would you say there and then if a friend asks you to sing into the mic?|What would you say there and then if the decorations fall down during the meal?|
+fetes-589|What detail would you check before planning a family party?|What detail would you check before choosing a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-590|What would you find hardest about choosing a fancy dress costume?|What would you find hardest about preparing a buffet for twenty guests?|déguisement de carnaval → fancy dress costume
+fetes-591|How would you react if the music stops at a big moment?|How would you react if a present gets damaged while it's being opened?|
+fetes-592|Where would you look first for a party board game?|Where would you look first for a bottle of sparkling juice?|
+fetes-593|Above what price would you hesitate to buy an Advent calendar full of treats?|Above what price would you hesitate to buy ten metres of outdoor LED fairy lights?|
+fetes-594|How much do you think a pack of biodegradable balloons is worth?|How much do you think a gift wrapping kit is worth?|
+fetes-595|How would you respond if a guest forgets to bring their present?|How would you respond if you have to blow out the candles in front of everyone?|
+fetes-596|How long would it take you to organise a graduation party?|How long would it take you to sort out keepsake photos?|
+fetes-597|Where would you go to buy an Advent calendar full of treats?|Where would you go to buy ten metres of outdoor LED fairy lights?|
+fetes-598|What would you say there and then if a friend wants to organise everything for you?|What would you say there and then if the caterer says they're running late?|
+fetes-599|What would you say if a party speech drags on and on?|What would you say if the music stops at a big moment?|
+fetes-600|What's the most you'd pay for a box of assorted chocolates?|What's the most you'd pay for a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-601|Who around you could help you put up seasonal decorations?|Who around you could help you bake a birthday cake?|
+fetes-602|What would your first reaction be if a guest turns up in an off-theme costume?|What would your first reaction be if the weather forces the party indoors?|
+fetes-603|Above what price would you hesitate to buy a birthday piñata?|Above what price would you hesitate to buy a pack of biodegradable balloons?|
+fetes-604|How much do you reckon a New Year's decoration costs?|How much do you reckon a photo booth prop costs?|
+fetes-605|What sort of price do you imagine for a bottle of sparkling juice?|What sort of price do you imagine for a New Year's decoration?|
+fetes-606|When would be the best time to prepare a buffet for twenty guests?|When would be the best time to put up seasonal decorations?|
+fetes-607|How would you respond if someone takes a photo of an awkward moment?|How would you respond if a friend asks you to sing into the mic?|
+fetes-608|Who would you ask for help to put together a birthday invitation?|Who would you ask for help to choose the Christmas dinner menu?|menu de réveillon → Christmas dinner
+fetes-609|Who around you could help you draw up a guest list?|Who around you could help you organise a gift swap?|
+fetes-610|Where would you go to buy a photo booth prop?|Where would you go to buy an artisan Christmas pudding for six?|galette des rois → Christmas pudding
+fetes-611|What time of day would you pick to draw up a guest list?|What time of day would you pick to organise a gift swap?|
+fetes-612|How much would you be willing to spend on a party board game?|How much would you be willing to spend on a bottle of sparkling juice?|
+fetes-613|For what occasion would you want to buy an Advent calendar full of treats?|For what occasion would you want to buy ten metres of outdoor LED fairy lights?|
+fetes-614|What time of day would be most convenient to put together a birthday invitation?|What time of day would be most convenient to choose the Christmas dinner menu?|menu de réveillon → Christmas dinner
+fetes-615|When would you feel like buying a festive biscuit gift box?|When would you feel like buying a birthday cake for twelve people?|
+fetes-616|How long would it take you to choose the Christmas dinner menu?|How long would it take you to write a wedding speech?|menu de réveillon → Christmas dinner
+fetes-617|What would come out of your mouth if you forget to write the card for a present?|What would come out of your mouth if a loved one wants to bring the party forward?|
+fetes-618|What's the most you'd budget for a pack of decorative candles?|What's the most you'd budget for an Advent calendar full of treats?|
+fetes-619|How much time would you set aside to bake a birthday cake?|How much time would you set aside to organise a graduation party?|
+fetes-620|Which website or shop would you look in for a box of assorted chocolates?|Which website or shop would you look in for a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-621|What time of day would you pick to set up an Easter egg hunt?|What time of day would you pick to plan a family party?|
+fetes-622|How much do you think an artisan Christmas pudding for six is worth?|How much do you think a festive biscuit gift box is worth?|galette des rois → Christmas pudding
+fetes-623|What would be your first instinct if a guest turns up with an extra cake?|What would be your first instinct if a friend wants to organise everything for you?|
+fetes-624|How much do you reckon a selection of twenty petits fours costs?|How much do you reckon a decorative door wreath costs?|
+fetes-625|Who around you could help you set up an Easter egg hunt?|Who around you could help you plan a family party?|
+fetes-626|What's the most you'd budget for a selection of twenty petits fours?|What's the most you'd budget for a decorative door wreath?|
+fetes-627|What's the most you'd pay for a festive biscuit gift box?|What's the most you'd pay for a birthday cake for twelve people?|
+fetes-628|In your opinion, what's the price of a photo booth prop?|In your opinion, what's the price of an artisan Christmas pudding for six?|galette des rois → Christmas pudding
+fetes-629|What would you say there and then if you have to blow out the candles in front of everyone?|What would you say there and then if a party speech drags on and on?|
+fetes-630|If you had to prepare a buffet for twenty guests, what would your priority be?|If you had to put up seasonal decorations, what would your priority be?|
+fetes-631|How would you respond if a guest turns up with an extra cake?|How would you respond if a friend wants to organise everything for you?|
+fetes-632|How long do you reckon it takes to write a wedding speech?|How long do you reckon it takes to decorate a room for a party?|
+fetes-633|How much do you reckon a fancy dress costume costs?|How much do you reckon a birthday piñata costs?|déguisement de carnaval → fancy dress costume
+fetes-634|In what situation would you decide to buy a bouquet of flowers as a gift?|In what situation would you decide to buy a personalised Christmas card?|carte de vœux → Christmas card
+fetes-635|What would you say if the decorations fall down during the meal?|What would you say if a child opens a present that isn't theirs?|
+fetes-636|What would you say if the caterer says they're running late?|What would you say if you forget to write the card for a present?|
+fetes-637|What would be your first instinct if someone takes a photo of an awkward moment?|What would be your first instinct if a friend asks you to sing into the mic?|
+fetes-638|Which website or shop would you look in for a festive biscuit gift box?|Which website or shop would you look in for a birthday cake for twelve people?|
+fetes-639|What's the most you'd budget for a birthday cake for twelve people?|What's the most you'd budget for a party table decoration?|
+fetes-640|Where would you go to find a birthday cake for twelve people?|Where would you go to find a party table decoration?|
+fetes-641|How quickly could you decorate a party table?|How quickly could you put together a birthday invitation?|
+fetes-642|Which website or shop would you look in for a personalised Christmas card?|Which website or shop would you look in for a pack of decorative candles?|carte de vœux → Christmas card
+fetes-643|How would you respond if a loved one wants to bring the party forward?|How would you respond if a guest takes the last keepsake meant for everyone?|
+fetes-644|Which website or shop would you look in for a bottle of sparkling juice?|Which website or shop would you look in for a New Year's decoration?|
+fetes-645|What time of the week would you prefer to choose the Christmas dinner menu?|What time of the week would you prefer to write a wedding speech?|menu de réveillon → Christmas dinner
+fetes-646|Where would you go to buy a party table decoration?|Where would you go to buy a bouquet of flowers as a gift?|
+fetes-647|How long would it take you to choose a leaving present?|How long would it take you to organise a New Year meal?|
+fetes-648|Who could give you the best advice on preparing a buffet for twenty guests?|Who could give you the best advice on putting up seasonal decorations?|
+fetes-649|Who would you ask for help to plan a family party?|Who would you ask for help to choose a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-650|Where would you go to buy a birthday piñata?|Where would you go to buy a pack of biodegradable balloons?|
+fetes-651|For what occasion would you want to buy a photo booth prop?|For what occasion would you want to buy an artisan Christmas pudding for six?|galette des rois → Christmas pudding
+fetes-652|In your opinion, what's the price of an Advent calendar full of treats?|In your opinion, what's the price of ten metres of outdoor LED fairy lights?|
+fetes-653|What would come out of your mouth if a child opens a present that isn't theirs?|What would come out of your mouth if a guest turns up with an extra cake?|
+fetes-654|What detail would you check before baking a birthday cake?|What detail would you check before organising a graduation party?|
+fetes-655|What time of the week would you prefer to choose a fancy dress costume?|What time of the week would you prefer to prepare a buffet for twenty guests?|déguisement de carnaval → fancy dress costume
+fetes-656|How much do you think a party board game is worth?|How much do you think a bottle of sparkling juice is worth?|
+fetes-657|What time of day would you pick to put up seasonal decorations?|What time of day would you pick to bake a birthday cake?|
+fetes-658|How much time would you set aside to write your Christmas cards?|How much time would you set aside to choose a leaving present?|cartes de vœux → Christmas cards
+fetes-659|What time of the week would you prefer to organise a surprise birthday party?|What time of the week would you prefer to wrap ten presents?|
+fetes-660|What sort of price do you imagine for a gift wrapping kit?|What sort of price do you imagine for a selection of twenty petits fours?|
+fetes-661|When would be the best time to sort out keepsake photos?|When would be the best time to draw up a guest list?|
+fetes-662|What sort of price do you imagine for a personalised Christmas card?|What sort of price do you imagine for a pack of decorative candles?|carte de vœux → Christmas card
+fetes-663|What's the first thing you'd do if the caterer says they're running late?|What's the first thing you'd do if you forget to write the card for a present?|
+fetes-664|Who would you ask for help to bake a birthday cake?|Who would you ask for help to organise a graduation party?|
+fetes-665|Where would you look first for a pack of biodegradable balloons?|Where would you look first for a gift wrapping kit?|
+fetes-666|How would you react if you find out someone's planning a surprise for you?|How would you react if someone takes a photo of an awkward moment?|
+fetes-667|How long do you reckon it takes to sort out keepsake photos?|How long do you reckon it takes to draw up a guest list?|
+fetes-668|What time of day would you pick to decorate a party table?|What time of day would you pick to put together a birthday invitation?|
+fetes-669|How would you respond if a present gets damaged while it's being opened?|How would you respond if a guest turns up in an off-theme costume?|
+fetes-670|What sort of price do you imagine for a box of assorted chocolates?|What sort of price do you imagine for a fancy dress costume?|déguisement de carnaval → fancy dress costume
+fetes-671|How long do you reckon it takes to wrap ten presents?|How long do you reckon it takes to decorate a party table?|
+fetes-672|Above what price would you hesitate to buy a decorative door wreath?|Above what price would you hesitate to buy a party board game?|
+fetes-673|In what situation would you decide to buy an artisan Christmas pudding for six?|In what situation would you decide to buy a festive biscuit gift box?|galette des rois → Christmas pudding
+fetes-674|When would you feel like buying a bottle of sparkling juice?|When would you feel like buying a New Year's decoration?|
+fetes-675|Who would you ask for help to organise a gift swap?|Who would you ask for help to organise a surprise birthday party?|
+fetes-676|Where would you look first for a bouquet of flowers as a gift?|Where would you look first for a personalised Christmas card?|carte de vœux → Christmas card
+fetes-677|How much time would you set aside to put together a birthday invitation?|How much time would you set aside to choose the Christmas dinner menu?|menu de réveillon → Christmas dinner
+fetes-678|What would be your first instinct if a present gets damaged while it's being opened?|What would be your first instinct if a guest turns up in an off-theme costume?|
+fetes-679|What would come out of your mouth if you find out someone's planning a surprise for you?|What would come out of your mouth if someone takes a photo of an awkward moment?|
+fetes-680|What would be your first instinct if a guest forgets to bring their present?|What would be your first instinct if you have to blow out the candles in front of everyone?|
+fetes-681|If you had to sort out keepsake photos, what would your priority be?|If you had to draw up a guest list, what would your priority be?|
+fetes-682|How long do you reckon it takes to prepare a buffet for twenty guests?|How long do you reckon it takes to put up seasonal decorations?|
+fetes-683|How much do you reckon a pack of decorative candles costs?|How much do you reckon an Advent calendar full of treats costs?|
+fetes-684|Who would you ask for help to write your Christmas cards?|Who would you ask for help to choose a leaving present?|cartes de vœux → Christmas cards
+fetes-685|How would you react if the cake turns up with the wrong name on it?|How would you react if a guest forgets to bring their present?|
+fetes-686|What time of the week would you prefer to choose a leaving present?|What time of the week would you prefer to organise a New Year meal?|
+fetes-687|When would you feel like buying a gift wrapping kit?|When would you feel like buying a selection of twenty petits fours?|
+fetes-688|How would you react if a child opens a present that isn't theirs?|How would you react if a guest turns up with an extra cake?|
+fetes-689|How quickly could you draw up a guest list?|How quickly could you organise a gift swap?|
+fetes-690|What's the first thing you'd do if a party speech drags on and on?|What's the first thing you'd do if the music stops at a big moment?|
+fetes-691|Who would you contact to help you choose a fancy dress costume?|Who would you contact to help you prepare a buffet for twenty guests?|déguisement de carnaval → fancy dress costume
+fetes-692|Who would you contact to help you choose the Christmas dinner menu?|Who would you contact to help you write a wedding speech?|menu de réveillon → Christmas dinner
+fetes-693|How much do you think ten metres of outdoor LED fairy lights is worth?|How much do you think a box of assorted chocolates is worth?|
+fetes-694|Where would you go to find a fancy dress costume?|Where would you go to find a birthday piñata?|déguisement de carnaval → fancy dress costume
+fetes-695|What would be the most important thing when drawing up a guest list?|What would be the most important thing when organising a gift swap?|
+fetes-696|What time of day would be most convenient to write your Christmas cards?|What time of day would be most convenient to choose a leaving present?|cartes de vœux → Christmas cards
+fetes-697|For what occasion would you want to buy a party table decoration?|For what occasion would you want to buy a bouquet of flowers as a gift?|
+fetes-698|What would you find hardest about choosing the Christmas dinner menu?|What would you find hardest about writing a wedding speech?|menu de réveillon → Christmas dinner
+fetes-699|What sort of price do you imagine for a festive biscuit gift box?|What sort of price do you imagine for a birthday cake for twelve people?|
+fetes-700|What's the most you'd pay for a personalised Christmas card?|What's the most you'd pay for a pack of decorative candles?|carte de vœux → Christmas card
+fetes-701|How much would you be willing to spend on a pack of biodegradable balloons?|How much would you be willing to spend on a gift wrapping kit?|
+fetes-702|What time of day would be most convenient to bake a birthday cake?|What time of day would be most convenient to organise a graduation party?|
+fetes-703|How long would it take you to organise a surprise birthday party?|How long would it take you to wrap ten presents?|
+fetes-704|What would you find hardest about organising a graduation party?|What would you find hardest about sorting out keepsake photos?|
+fetes-705|What's the most you'd pay for a gift wrapping kit?|What's the most you'd pay for a selection of twenty petits fours?|
+fetes-706|What time of day would you pick to decorate a room for a party?|What time of day would you pick to write your Christmas cards?|cartes de vœux → Christmas cards
+fetes-707|What's the most you'd budget for a fancy dress costume?|What's the most you'd budget for a birthday piñata?|déguisement de carnaval → fancy dress costume
+fetes-708|When would be the best time to organise a New Year meal?|When would be the best time to set up an Easter egg hunt?|
+fetes-709|What would make you buy a New Year's decoration?|What would make you buy a photo booth prop?|
+fetes-710|In what situation would you decide to buy a pack of biodegradable balloons?|In what situation would you decide to buy a gift wrapping kit?|
+fetes-711|What would you say if you get two invitations for the same evening?|What would you say if the cake turns up with the wrong name on it?|
+fetes-712|How would you react if you forget to write the card for a present?|How would you react if a loved one wants to bring the party forward?|
+fetes-713|What's the most you'd pay for a bottle of sparkling juice?|What's the most you'd pay for a New Year's decoration?|
+fetes-714|Who could give you the best advice on organising a New Year meal?|Who could give you the best advice on setting up an Easter egg hunt?|
+fetes-715|How long do you reckon it takes to organise a New Year meal?|How long do you reckon it takes to set up an Easter egg hunt?|
+fetes-716|How much do you reckon a birthday cake for twelve people costs?|How much do you reckon a party table decoration costs?|
+fetes-717|Who could give you the best advice on writing a wedding speech?|Who could give you the best advice on decorating a room for a party?|
+fetes-718|In what situation would you decide to buy a party board game?|In what situation would you decide to buy a bottle of sparkling juice?|
+fetes-719|Who would you contact to help you choose a leaving present?|Who would you contact to help you organise a New Year meal?|
+fetes-720|What would your first reaction be if a friend wants to organise everything for you?|What would your first reaction be if the caterer says they're running late?|
+fetes-721|Where would you look first for an artisan Christmas pudding for six?|Where would you look first for a festive biscuit gift box?|galette des rois → Christmas pudding
+fetes-722|What time of day would be most convenient to organise a gift swap?|What time of day would be most convenient to organise a surprise birthday party?|
+fetes-723|How long would it take you to choose a fancy dress costume?|How long would it take you to prepare a buffet for twenty guests?|déguisement de carnaval → fancy dress costume
+fetes-724|Above what price would you hesitate to buy a party table decoration?|Above what price would you hesitate to buy a bouquet of flowers as a gift?|
+fetes-725|In your opinion, what's the price of a party table decoration?|In your opinion, what's the price of a bouquet of flowers as a gift?|
+fetes-726|How much do you think a bouquet of flowers as a gift is worth?|How much do you think a personalised Christmas card is worth?|carte de vœux → Christmas card
+fetes-727|What's the first thing you'd do if the decorations fall down during the meal?|What's the first thing you'd do if a child opens a present that isn't theirs?|
+fetes-728|What would be the most important thing when decorating a room for a party?|What would be the most important thing when writing your Christmas cards?|cartes de vœux → Christmas cards
+fetes-729|What would your first reaction be if you have to blow out the candles in front of everyone?|What would your first reaction be if a party speech drags on and on?|

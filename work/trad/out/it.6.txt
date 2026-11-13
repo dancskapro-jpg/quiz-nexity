@@ -1,0 +1,100 @@
+ville-333|Oltre quale prezzo esiteresti a prenotare una notte per due persone in un hotel in centro?|Oltre quale prezzo esiteresti a comprare un pass turistico di due giorni?|
+ville-334|Quanto saresti disposto a spendere per un pass turistico di due giorni?|Quanto saresti disposto a spendere per un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|TER → treno regionale
+ville-335|Quale sarebbe il momento migliore per ritrovare un amico alla stazione Centrale di Milano?|Quale sarebbe il momento migliore per fare una commissione in centro?|gare de Lyon à Paris → Milano Centrale
+ville-336|Dove andresti a comprare un abbonamento mensile ai mezzi pubblici a Milano?|Dove andresti a prendere una corsa in taxi di cinque chilometri a Milano?|Paris → Milano
+ville-337|Su quale sito o in quale negozio cercheresti un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|Su quale sito o in quale negozio cercheresti un biglietto singolo della metro a Milano?|TER → treno regionale, Paris → Milano
+ville-338|Dove andresti a comprare una tessera dei trasporti ricaricabile?|Dove andresti a comprare un biglietto per il cinema di quartiere?|
+ville-339|Che frase ti uscirebbe di bocca se la macchinetta dei biglietti fosse fuori servizio?|Che frase ti uscirebbe di bocca se ti ritrovassi sull’autobus sbagliato?|
+ville-340|Su quale sito o in quale negozio cercheresti un biglietto per il vaporetto?|Su quale sito o in quale negozio cercheresti un ingresso a una mostra locale?|bateau-bus → vaporetto
+ville-341|Chi contatteresti per farti aiutare a scegliere un bar in cui lavorare?|Chi contatteresti per farti aiutare a ritrovare un amico alla stazione Centrale di Milano?|gare de Lyon à Paris → Milano Centrale
+ville-342|Dove cercheresti per prima cosa una corsa in taxi di cinque chilometri a Milano?|Dove cercheresti per prima cosa un biglietto adulto per un bus turistico a Milano?|Paris → Milano
+ville-343|Quale persona a te vicina potrebbe aiutarti a trovare un indirizzo senza GPS?|Quale persona a te vicina potrebbe aiutarti a organizzare uno spostamento di notte?|
+ville-344|Se dovessi trovare un parcheggio a pagamento per due ore in centro, quale sarebbe la tua priorità?|Se dovessi individuare un ristorante vicino a una stazione, quale sarebbe la tua priorità?|
+ville-345|In quale posto andresti per trovare un abbonamento al bike sharing?|In quale posto andresti per trovare una tessera dei trasporti ricaricabile?|
+ville-346|In quanto tempo riusciresti a trovare un indirizzo senza GPS?|In quanto tempo riusciresti a organizzare uno spostamento di notte?|
+ville-347|Quale sarebbe la tua prima reazione se il tuo treno cambiasse binario all’ultimo momento?|Quale sarebbe la tua prima reazione se uno sconosciuto ti chiedesse di scattargli una foto?|
+ville-348|Quale dettaglio controlleresti prima di organizzare uno spostamento di notte?|Quale dettaglio controlleresti prima di scegliere un bar in cui lavorare?|
+ville-349|Quale momento della giornata sceglieresti per individuare un ristorante vicino a una stazione?|Quale momento della giornata sceglieresti per organizzare una visita del quartiere?|
+ville-350|Che budget massimo metteresti per un pasto in una trattoria di quartiere?|Che budget massimo metteresti per una bici da città usata in buono stato, con meno di cinque anni?|brasserie → trattoria
+ville-351|Quale fascia oraria della giornata sarebbe la più comoda per scegliere un museo vicino?|Quale fascia oraria della giornata sarebbe la più comoda per trovare un percorso a piedi accessibile in sedia a rotelle?|
+ville-352|Quanto tempo metteresti in conto per visitare un mercato di quartiere?|Quanto tempo metteresti in conto per organizzare un tragitto in bici in città?|
+ville-353|Se dovessi organizzare un cambio di linea, quale sarebbe la tua priorità?|Se dovessi cercare un negozio aperto la domenica, quale sarebbe la tua priorità?|
+ville-354|Come risponderesti se la strada che conosci fosse chiusa?|Come risponderesti se un taxi rifiutasse una corsa breve?|
+ville-355|Quanto tempo ti servirebbe per trovare un percorso a piedi accessibile in sedia a rotelle?|Quanto tempo ti servirebbe per organizzare un cambio di linea?|
+ville-356|In quale posto andresti per trovare un biglietto singolo della metro a Milano?|In quale posto andresti per trovare un abbonamento mensile ai mezzi pubblici a Milano?|Paris → Milano
+ville-357|A chi chiederesti aiuto per scoprire un quartiere che non conosci?|A chi chiederesti aiuto per organizzare un tragitto con i mezzi pubblici?|
+ville-358|Quale sarebbe il tuo primo riflesso se la strada che conosci fosse chiusa?|Quale sarebbe il tuo primo riflesso se un taxi rifiutasse una corsa breve?|
+ville-359|Cosa diresti se arrivassi davanti a un negozio chiuso?|Cosa diresti se una manifestazione bloccasse il tuo percorso?|
+ville-360|Che prezzo immagini per un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|Che prezzo immagini per un biglietto singolo della metro a Milano?|TER → treno regionale, Paris → Milano
+ville-361|In quale posto andresti per trovare un pasto in una trattoria di quartiere?|In quale posto andresti per trovare una bici da città usata in buono stato, con meno di cinque anni?|brasserie → trattoria
+ville-362|Quale sarebbe la tua difficoltà principale se dovessi organizzare un tragitto con i mezzi pubblici?|Quale sarebbe la tua difficoltà principale se dovessi trovare un parcheggio a pagamento per due ore in centro?|
+ville-363|Quale sarebbe il momento migliore per organizzare un cambio di linea?|Quale sarebbe il momento migliore per cercare un negozio aperto la domenica?|
+ville-364|Quanto pensi che valga un biglietto per il cinema di quartiere?|Quanto pensi che valga un biglietto per il vaporetto?|bateau-bus → vaporetto
+ville-365|Oltre quale prezzo esiteresti a comprare un abbonamento mensile ai mezzi pubblici a Milano?|Oltre quale prezzo esiteresti a pagare una corsa in taxi di cinque chilometri a Milano?|Paris → Milano
+ville-366|Che prezzo immagini per un biglietto adulto per un bus turistico a Milano?|Che prezzo immagini per un ingresso adulto in un museo civico a pagamento?|Paris → Milano
+ville-367|In quale situazione decideresti di comprare un biglietto per il cinema di quartiere?|In quale situazione decideresti di comprare un biglietto per il vaporetto?|bateau-bus → vaporetto
+ville-368|Cosa diresti sul momento se un taxi rifiutasse una corsa breve?|Cosa diresti sul momento se arrivassi davanti a un negozio chiuso?|
+ville-369|Quale sarebbe la tua prima reazione se un passante ti indicasse una scorciatoia inaspettata?|Quale sarebbe la tua prima reazione se la metro si fermasse tra due stazioni?|
+ville-370|Quale persona a te vicina potrebbe aiutarti a cercare un negozio aperto la domenica?|Quale persona a te vicina potrebbe aiutarti a scoprire un quartiere che non conosci?|
+ville-371|In quanto tempo riusciresti a individuare un ristorante vicino a una stazione?|In quanto tempo riusciresti a organizzare una visita del quartiere?|
+ville-372|Quanto saresti disposto a spendere per un’ora di sosta in un parcheggio del centro di Milano?|Quanto saresti disposto a spendere per un caffè seduto al tavolino all’aperto?|Paris → Milano
+ville-373|Secondo te, quanto costa un pasto in una trattoria di quartiere?|Secondo te, quanto costa una bici da città usata in buono stato, con meno di cinque anni?|brasserie → trattoria
+ville-374|Quale sarebbe la tua difficoltà principale se dovessi confrontare due percorsi in metro?|Quale sarebbe la tua difficoltà principale se dovessi comprare un biglietto del treno regionale alla macchinetta in stazione?|
+ville-375|Cosa diresti se un automobilista ti lasciasse passare?|Cosa diresti se la macchinetta dei biglietti fosse fuori servizio?|
+ville-376|Che prezzo immagini per un biglietto della navetta tra un aeroporto e il centro?|Che prezzo immagini per un abbonamento al bike sharing?|
+ville-377|Secondo te, quanto tempo ci vuole per trovare un parcheggio a pagamento per due ore in centro?|Secondo te, quanto tempo ci vuole per individuare un ristorante vicino a una stazione?|
+ville-378|Quanto tempo metteresti in conto per scegliere un museo vicino?|Quanto tempo metteresti in conto per trovare un percorso a piedi accessibile in sedia a rotelle?|
+ville-379|Che frase ti uscirebbe di bocca se un turista ti chiedesse indicazioni?|Che frase ti uscirebbe di bocca se un autista saltasse la tua fermata?|
+ville-380|Quale sarebbe la tua prima reazione se un taxi rifiutasse una corsa breve?|Quale sarebbe la tua prima reazione se arrivassi davanti a un negozio chiuso?|
+ville-381|Cosa ti spingerebbe a prenotare un pasto in una trattoria di quartiere?|Cosa ti spingerebbe a comprare una bici da città usata in buono stato, con meno di cinque anni?|brasserie → trattoria
+ville-382|Che frase ti uscirebbe di bocca se un ciclista suonasse il campanello dietro di te?|Che frase ti uscirebbe di bocca se un pedone ti chiedesse l’ora?|
+ville-383|Secondo te, qual è il prezzo di una notte per due persone in un hotel in centro?|Secondo te, qual è il prezzo di un pass turistico di due giorni?|
+ville-384|Che prezzo immagini per un biglietto per il vaporetto?|Che prezzo immagini per un ingresso a una mostra locale?|bateau-bus → vaporetto
+ville-385|Cosa faresti per prima cosa se arrivassi davanti a un negozio chiuso?|Cosa faresti per prima cosa se una manifestazione bloccasse il tuo percorso?|
+ville-386|Come risponderesti se ti ritrovassi sull’autobus sbagliato?|Come risponderesti se un passante ti indicasse una scorciatoia inaspettata?|
+ville-387|Quale sarebbe il tuo primo riflesso se un autista saltasse la tua fermata?|Quale sarebbe il tuo primo riflesso se sbagliassi uscita della metro?|
+ville-388|Chi potrebbe darti il consiglio migliore per trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi?|Chi potrebbe darti il consiglio migliore per organizzare una giornata di visite a Roma senza auto?|
+ville-389|Secondo te, quanto tempo ci vuole per comprare un biglietto del treno regionale alla macchinetta in stazione?|Secondo te, quanto tempo ci vuole per trovare un indirizzo senza GPS?|
+ville-390|Cosa diresti se la metro si fermasse tra due stazioni?|Cosa diresti se un turista ti chiedesse indicazioni?|
+ville-391|Dove andresti a comprare una bici da città usata in buono stato, con meno di cinque anni?|Dove andresti a prenotare una visita guidata del quartiere?|
+ville-392|In quanto tempo riusciresti a fare una commissione in centro?|In quanto tempo riusciresti a visitare un mercato di quartiere?|
+ville-393|Quanto tempo metteresti in conto per scoprire un quartiere che non conosci?|Quanto tempo metteresti in conto per organizzare un tragitto con i mezzi pubblici?|
+ville-394|Quale sarebbe la tua difficoltà principale se dovessi organizzare un tragitto in bici in città?|Quale sarebbe la tua difficoltà principale se dovessi trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi?|
+ville-395|Quale momento della giornata sceglieresti per fare una commissione in centro?|Quale momento della giornata sceglieresti per visitare un mercato di quartiere?|
+ville-396|Quale momento della giornata sceglieresti per organizzare una giornata di visite a Roma senza auto?|Quale momento della giornata sceglieresti per scegliere un museo vicino?|
+ville-397|Quale sarebbe il momento migliore per comprare un biglietto del treno regionale alla macchinetta in stazione?|Quale sarebbe il momento migliore per trovare un indirizzo senza GPS?|
+ville-398|Dove andresti a prenotare una notte per due persone in un hotel in centro?|Dove andresti a comprare un pass turistico di due giorni?|
+ville-399|In quale occasione vorresti comprare una tessera dei trasporti ricaricabile?|In quale occasione vorresti comprare un biglietto per il cinema di quartiere?|
+ville-400|Chi contatteresti per farti aiutare a trovare un percorso a piedi accessibile in sedia a rotelle?|Chi contatteresti per farti aiutare a organizzare un cambio di linea?|
+ville-401|Chi contatteresti per farti aiutare a confrontare due percorsi in metro?|Chi contatteresti per farti aiutare a comprare un biglietto del treno regionale alla macchinetta in stazione?|
+ville-402|Quale momento della giornata sceglieresti per cercare un negozio aperto la domenica?|Quale momento della giornata sceglieresti per scoprire un quartiere che non conosci?|
+ville-403|Quale sarebbe l’aspetto più importante per organizzare una giornata di visite a Roma senza auto?|Quale sarebbe l’aspetto più importante per scegliere un museo vicino?|
+ville-404|Quale dettaglio controlleresti prima di scegliere un museo vicino?|Quale dettaglio controlleresti prima di trovare un percorso a piedi accessibile in sedia a rotelle?|
+ville-405|Quanto saresti disposto a spendere per una visita guidata del quartiere?|Quanto saresti disposto a spendere per un biglietto della navetta tra un aeroporto e il centro?|
+ville-406|Quale sarebbe l’aspetto più importante per cercare un negozio aperto la domenica?|Quale sarebbe l’aspetto più importante per scoprire un quartiere che non conosci?|
+ville-407|Cosa ti spingerebbe a comprare un ingresso a una mostra locale?|Cosa ti spingerebbe a prenotare una notte per due persone in un hotel in centro?|
+ville-408|Quanto saresti disposto a spendere per una corsa in taxi di cinque chilometri a Milano?|Quanto saresti disposto a spendere per un biglietto adulto per un bus turistico a Milano?|Paris → Milano
+ville-409|A chi chiederesti aiuto per scegliere un museo vicino?|A chi chiederesti aiuto per trovare un percorso a piedi accessibile in sedia a rotelle?|
+ville-410|Quanto pensi che valga un pass turistico di due giorni?|Quanto pensi che valga un biglietto di sola andata sul treno regionale per un tragitto di 50 km?|TER → treno regionale
+ville-411|Quale fascia oraria della giornata sarebbe la più comoda per scoprire un quartiere che non conosci?|Quale fascia oraria della giornata sarebbe la più comoda per organizzare un tragitto con i mezzi pubblici?|
+ville-412|Secondo te, qual è il prezzo di un abbonamento mensile ai mezzi pubblici a Milano?|Secondo te, qual è il prezzo di una corsa in taxi di cinque chilometri a Milano?|Paris → Milano
+ville-413|Che frase ti uscirebbe di bocca se una manifestazione bloccasse il tuo percorso?|Che frase ti uscirebbe di bocca se il pannello della fermata non mostrasse più gli orari?|
+ville-414|Quale fascia oraria della giornata sarebbe la più comoda per organizzare una visita del quartiere?|Quale fascia oraria della giornata sarebbe la più comoda per confrontare due percorsi in metro?|
+ville-415|Quanto pensi che valga una visita guidata del quartiere?|Quanto pensi che valga un biglietto della navetta tra un aeroporto e il centro?|
+ville-416|Quanto saresti disposto a spendere per un biglietto per il cinema di quartiere?|Quanto saresti disposto a spendere per un biglietto per il vaporetto?|bateau-bus → vaporetto
+ville-417|In quale momento della settimana preferiresti confrontare due percorsi in metro?|In quale momento della settimana preferiresti comprare un biglietto del treno regionale alla macchinetta in stazione?|
+ville-418|A chi chiederesti aiuto per organizzare una visita del quartiere?|A chi chiederesti aiuto per confrontare due percorsi in metro?|
+ville-419|Quale sarebbe la tua prima reazione se sbagliassi uscita della metro?|Quale sarebbe la tua prima reazione se un autobus ti passasse davanti senza fermarsi?|
+ville-420|Se dovessi trovare un bar tranquillo con i tavolini all’aperto a meno di dieci minuti a piedi, quale sarebbe la tua priorità?|Se dovessi organizzare una giornata di visite a Roma senza auto, quale sarebbe la tua priorità?|
+ville-421|Cosa diresti sul momento se un passante ti indicasse una scorciatoia inaspettata?|Cosa diresti sul momento se la metro si fermasse tra due stazioni?|
+ville-422|Quanto tempo metteresti in conto per organizzare una visita del quartiere?|Quanto tempo metteresti in conto per confrontare due percorsi in metro?|
+ville-423|In quale momento della settimana preferiresti trovare un percorso a piedi accessibile in sedia a rotelle?|In quale momento della settimana preferiresti organizzare un cambio di linea?|
+ville-424|Come reagiresti se una manifestazione bloccasse il tuo percorso?|Come reagiresti se il pannello della fermata non mostrasse più gli orari?|
+ville-425|Oltre quale prezzo esiteresti a comprare un biglietto singolo del tram in Italia?|Oltre quale prezzo esiteresti a pagare un’ora di sosta in un parcheggio del centro di Milano?|France → Italia, Paris → Milano
+ville-426|Quale fascia oraria della giornata sarebbe la più comoda per organizzare uno spostamento di notte?|Quale fascia oraria della giornata sarebbe la più comoda per scegliere un bar in cui lavorare?|
+ville-427|Se dovessi ritrovare un amico alla stazione Centrale di Milano, quale sarebbe la tua priorità?|Se dovessi fare una commissione in centro, quale sarebbe la tua priorità?|gare de Lyon à Paris → Milano Centrale
+ville-428|In quale momento ti verrebbe voglia di comprare un biglietto per il vaporetto?|In quale momento ti verrebbe voglia di comprare un ingresso a una mostra locale?|bateau-bus → vaporetto
+ville-429|Secondo te, quanto tempo ci vuole per ritrovare un amico alla stazione Centrale di Milano?|Secondo te, quanto tempo ci vuole per fare una commissione in centro?|gare de Lyon à Paris → Milano Centrale
+ville-430|Oltre quale prezzo esiteresti a comprare una tessera dei trasporti ricaricabile?|Oltre quale prezzo esiteresti a comprare un biglietto per il cinema di quartiere?|
+ville-431|Su quale sito o in quale negozio cercheresti un biglietto adulto per un bus turistico a Milano?|Su quale sito o in quale negozio cercheresti un ingresso adulto in un museo civico a pagamento?|Paris → Milano
+ville-432|Cosa faresti per prima cosa se la metro si fermasse tra due stazioni?|Cosa faresti per prima cosa se un turista ti chiedesse indicazioni?|
