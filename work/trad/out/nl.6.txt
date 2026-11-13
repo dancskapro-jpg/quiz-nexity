@@ -1,0 +1,299 @@
+ville-333|Vanaf welke prijs zou je twijfelen om een nacht voor twee personen te boeken in een hotel in het centrum?|Vanaf welke prijs zou je twijfelen om een toeristenpas voor twee dagen te kopen?|
+ville-334|Hoeveel zou je willen uitgeven aan een toeristenpas voor twee dagen?|Hoeveel zou je willen uitgeven aan een enkele reis met de stoptrein voor een rit van 50 km?|TER → stoptrein
+ville-335|Wat zou het beste moment zijn om een vriend te treffen op Amsterdam Centraal?|Wat zou het beste moment zijn om een boodschap te doen in het centrum?|gare de Lyon à Paris → Amsterdam Centraal
+ville-336|Waar zou je heen gaan om een maandabonnement voor het ov in Amsterdam te kopen?|Waar zou je heen gaan om een taxirit van vijf kilometer in Amsterdam te kopen?|Paris → Amsterdam
+ville-337|Op welke site of in welke winkel zou je zoeken naar een enkele reis met de stoptrein voor een rit van 50 km?|Op welke site of in welke winkel zou je zoeken naar een los metrokaartje in Amsterdam?|TER → stoptrein, Paris → Amsterdam
+ville-338|Waar zou je heen gaan om een oplaadbare ov-kaart te kopen?|Waar zou je heen gaan om een kaartje voor de buurtbioscoop te kopen?|
+ville-339|Wat zou er uit je mond komen als de kaartjesautomaat buiten werking is?|Wat zou er uit je mond komen als je in de verkeerde bus zit?|
+ville-340|Op welke site of in welke winkel zou je zoeken naar een kaartje voor de waterbus?|Op welke site of in welke winkel zou je zoeken naar een kaartje voor een lokale tentoonstelling?|
+ville-341|Wie zou je inschakelen om je te helpen een café te kiezen om in te werken?|Wie zou je inschakelen om je te helpen een vriend te treffen op Amsterdam Centraal?|gare de Lyon à Paris → Amsterdam Centraal
+ville-342|Waar zou je als eerste zoeken naar een taxirit van vijf kilometer in Amsterdam?|Waar zou je als eerste zoeken naar een volwassenenticket voor een sightseeingbus in Amsterdam?|Paris → Amsterdam
+ville-343|Wie uit je omgeving zou je kunnen helpen om een adres te vinden zonder gps?|Wie uit je omgeving zou je kunnen helpen om een nachtelijke rit voor te bereiden?|
+ville-344|Als je een betaalde parkeerplek voor twee uur in het centrum moest vinden, wat zou dan je prioriteit zijn?|Als je een restaurant bij een station moest opzoeken, wat zou dan je prioriteit zijn?|
+ville-345|Waar zou je heen gaan om een abonnement op deelfietsen te vinden?|Waar zou je heen gaan om een oplaadbare ov-kaart te vinden?|
+ville-346|Hoe snel zou je een adres kunnen vinden zonder gps?|Hoe snel zou je een nachtelijke rit kunnen voorbereiden?|
+ville-347|Wat zou je eerste reactie zijn als je trein op het laatste moment van spoor verandert?|Wat zou je eerste reactie zijn als een onbekende je vraagt een foto te maken?|
+ville-348|Welk detail zou je checken voordat je een nachtelijke rit voorbereidt?|Welk detail zou je checken voordat je een café kiest om in te werken?|
+ville-349|Welk moment van de dag zou je kiezen om een restaurant bij een station op te zoeken?|Welk moment van de dag zou je kiezen om een buurtwandeling te organiseren?|
+ville-350|Welk maximumbudget zou je uittrekken voor een maaltijd in een brasserie in de buurt?|Welk maximumbudget zou je uittrekken voor een tweedehands stadsfiets in goede staat, jonger dan vijf jaar?|
+ville-351|Welk tijdstip van de dag zou het handigst zijn om een museum in de buurt te kiezen?|Welk tijdstip van de dag zou het handigst zijn om een rolstoeltoegankelijke wandelroute te vinden?|
+ville-352|Hoeveel tijd zou je uittrekken om een buurtmarkt te bezoeken?|Hoeveel tijd zou je uittrekken om een fietsroute door de stad voor te bereiden?|
+ville-353|Als je een overstap moest voorbereiden, wat zou dan je prioriteit zijn?|Als je een winkel moest zoeken die op zondag open is, wat zou dan je prioriteit zijn?|
+ville-354|Wat zou je antwoorden als de straat die je kent afgesloten is?|Wat zou je antwoorden als een taxi een kort ritje weigert?|
+ville-355|Hoeveel tijd zou je nodig hebben om een rolstoeltoegankelijke wandelroute te vinden?|Hoeveel tijd zou je nodig hebben om een overstap voor te bereiden?|
+ville-356|Waar zou je heen gaan om een los metrokaartje in Amsterdam te vinden?|Waar zou je heen gaan om een maandabonnement voor het ov in Amsterdam te vinden?|Paris → Amsterdam
+ville-357|Aan wie zou je hulp vragen om een onbekende wijk te ontdekken?|Aan wie zou je hulp vragen om een reis met het ov voor te bereiden?|
+ville-358|Wat zou je eerste impuls zijn als de straat die je kent afgesloten is?|Wat zou je eerste impuls zijn als een taxi een kort ritje weigert?|
+ville-359|Wat zou je zeggen als je voor een gesloten winkel staat?|Wat zou je zeggen als een demonstratie je route blokkeert?|
+ville-360|Op welke prijs schat je een enkele reis met de stoptrein voor een rit van 50 km?|Op welke prijs schat je een los metrokaartje in Amsterdam?|TER → stoptrein, Paris → Amsterdam
+ville-361|Waar zou je heen gaan om een maaltijd in een brasserie in de buurt te vinden?|Waar zou je heen gaan om een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, te vinden?|
+ville-362|Wat zou het lastigste voor je zijn bij het voorbereiden van een reis met het ov?|Wat zou het lastigste voor je zijn bij het vinden van een betaalde parkeerplek voor twee uur in het centrum?|
+ville-363|Wat zou het beste moment zijn om een overstap voor te bereiden?|Wat zou het beste moment zijn om een winkel te zoeken die op zondag open is?|
+ville-364|Hoeveel denk je dat een kaartje voor de buurtbioscoop waard is?|Hoeveel denk je dat een kaartje voor de waterbus waard is?|
+ville-365|Vanaf welke prijs zou je twijfelen om een maandabonnement voor het ov in Amsterdam te kopen?|Vanaf welke prijs zou je twijfelen om een taxirit van vijf kilometer in Amsterdam te nemen?|Paris → Amsterdam
+ville-366|Op welke prijs schat je een volwassenenticket voor een sightseeingbus in Amsterdam?|Op welke prijs schat je een toegangskaartje voor volwassenen voor een betaald gemeentemuseum?|Paris → Amsterdam
+ville-367|In welke situatie zou je besluiten een kaartje voor de buurtbioscoop te kopen?|In welke situatie zou je besluiten een kaartje voor de waterbus te kopen?|
+ville-368|Wat zou je op dat moment zeggen als een taxi een kort ritje weigert?|Wat zou je op dat moment zeggen als je voor een gesloten winkel staat?|
+ville-369|Wat zou je eerste reactie zijn als een voorbijganger je een onverwachte kortere weg wijst?|Wat zou je eerste reactie zijn als de metro tussen twee stations stil blijft staan?|
+ville-370|Wie uit je omgeving zou je kunnen helpen om een winkel te zoeken die op zondag open is?|Wie uit je omgeving zou je kunnen helpen om een onbekende wijk te ontdekken?|
+ville-371|Hoe snel zou je een restaurant bij een station kunnen opzoeken?|Hoe snel zou je een buurtwandeling kunnen organiseren?|
+ville-372|Hoeveel zou je willen uitgeven aan een uur parkeren in een parkeergarage in het centrum van Amsterdam?|Hoeveel zou je willen uitgeven aan een koffie op een terras?|Paris → Amsterdam
+ville-373|Hoeveel kost een maaltijd in een brasserie in de buurt volgens jou?|Hoeveel kost een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, volgens jou?|
+ville-374|Wat zou het lastigste voor je zijn bij het vergelijken van twee metroroutes?|Wat zou het lastigste voor je zijn bij het kopen van een kaartje voor de regionale trein bij de automaat op het station?|
+ville-375|Wat zou je zeggen als een automobilist je voor laat gaan?|Wat zou je zeggen als de kaartjesautomaat buiten werking is?|
+ville-376|Op welke prijs schat je een kaartje voor de shuttle tussen een vliegveld en het centrum?|Op welke prijs schat je een abonnement op deelfietsen?|
+ville-377|Hoe lang duurt het volgens jou om een betaalde parkeerplek voor twee uur in het centrum te vinden?|Hoe lang duurt het volgens jou om een restaurant bij een station op te zoeken?|
+ville-378|Hoeveel tijd zou je uittrekken om een museum in de buurt te kiezen?|Hoeveel tijd zou je uittrekken om een rolstoeltoegankelijke wandelroute te vinden?|
+ville-379|Wat zou er uit je mond komen als een toerist je de weg vraagt?|Wat zou er uit je mond komen als een chauffeur je halte overslaat?|
+ville-380|Wat zou je eerste reactie zijn als een taxi een kort ritje weigert?|Wat zou je eerste reactie zijn als je voor een gesloten winkel staat?|
+ville-381|Wat zou je ertoe brengen een maaltijd in een brasserie in de buurt te reserveren?|Wat zou je ertoe brengen een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, te kopen?|
+ville-382|Wat zou er uit je mond komen als een fietser achter je belt?|Wat zou er uit je mond komen als een voetganger je vraagt hoe laat het is?|
+ville-383|Wat is volgens jou de prijs van een nacht voor twee personen in een hotel in het centrum?|Wat is volgens jou de prijs van een toeristenpas voor twee dagen?|
+ville-384|Op welke prijs schat je een kaartje voor de waterbus?|Op welke prijs schat je een kaartje voor een lokale tentoonstelling?|
+ville-385|Wat zou je als eerste doen als je voor een gesloten winkel staat?|Wat zou je als eerste doen als een demonstratie je route blokkeert?|
+ville-386|Wat zou je antwoorden als je in de verkeerde bus zit?|Wat zou je antwoorden als een voorbijganger je een onverwachte kortere weg wijst?|
+ville-387|Wat zou je eerste impuls zijn als een chauffeur je halte overslaat?|Wat zou je eerste impuls zijn als je de verkeerde metro-uitgang neemt?|
+ville-388|Wie zou je het beste advies kunnen geven om een rustig terras binnen tien minuten lopen te vinden?|Wie zou je het beste advies kunnen geven om een dag sightseeing in Rome zonder auto te organiseren?|
+ville-389|Hoe lang duurt het volgens jou om een kaartje voor de regionale trein te kopen bij de automaat op het station?|Hoe lang duurt het volgens jou om een adres te vinden zonder gps?|
+ville-390|Wat zou je zeggen als de metro tussen twee stations stil blijft staan?|Wat zou je zeggen als een toerist je de weg vraagt?|
+ville-391|Waar zou je heen gaan om een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, te kopen?|Waar zou je heen gaan om een rondleiding door de wijk te boeken?|
+ville-392|Hoe snel zou je een boodschap kunnen doen in het centrum?|Hoe snel zou je een buurtmarkt kunnen bezoeken?|
+ville-393|Hoeveel tijd zou je uittrekken om een onbekende wijk te ontdekken?|Hoeveel tijd zou je uittrekken om een reis met het ov voor te bereiden?|
+ville-394|Wat zou het lastigste voor je zijn bij het voorbereiden van een fietsroute door de stad?|Wat zou het lastigste voor je zijn bij het vinden van een rustig terras binnen tien minuten lopen?|
+ville-395|Welk moment van de dag zou je kiezen om een boodschap te doen in het centrum?|Welk moment van de dag zou je kiezen om een buurtmarkt te bezoeken?|
+ville-396|Welk moment van de dag zou je kiezen om een dag sightseeing in Rome zonder auto te organiseren?|Welk moment van de dag zou je kiezen om een museum in de buurt te kiezen?|
+ville-397|Wat zou het beste moment zijn om een kaartje voor de regionale trein te kopen bij de automaat op het station?|Wat zou het beste moment zijn om een adres te vinden zonder gps?|
+ville-398|Waar zou je heen gaan om een nacht voor twee personen te boeken in een hotel in het centrum?|Waar zou je heen gaan om een toeristenpas voor twee dagen te kopen?|
+ville-399|Voor welke gelegenheid zou je een oplaadbare ov-kaart willen kopen?|Voor welke gelegenheid zou je een kaartje voor de buurtbioscoop willen kopen?|
+ville-400|Wie zou je inschakelen om je te helpen een rolstoeltoegankelijke wandelroute te vinden?|Wie zou je inschakelen om je te helpen een overstap voor te bereiden?|
+ville-401|Wie zou je inschakelen om je te helpen twee metroroutes te vergelijken?|Wie zou je inschakelen om je te helpen een kaartje voor de regionale trein te kopen bij de automaat op het station?|
+ville-402|Welk moment van de dag zou je kiezen om een winkel te zoeken die op zondag open is?|Welk moment van de dag zou je kiezen om een onbekende wijk te ontdekken?|
+ville-403|Wat zou het belangrijkste zijn als je een dag sightseeing in Rome zonder auto organiseert?|Wat zou het belangrijkste zijn als je een museum in de buurt kiest?|
+ville-404|Welk detail zou je checken voordat je een museum in de buurt kiest?|Welk detail zou je checken voordat je een rolstoeltoegankelijke wandelroute zoekt?|
+ville-405|Hoeveel zou je willen uitgeven aan een rondleiding door de wijk?|Hoeveel zou je willen uitgeven aan een kaartje voor de shuttle tussen een vliegveld en het centrum?|
+ville-406|Wat zou het belangrijkste zijn als je een winkel zoekt die op zondag open is?|Wat zou het belangrijkste zijn als je een onbekende wijk ontdekt?|
+ville-407|Wat zou je ertoe brengen een kaartje voor een lokale tentoonstelling te kopen?|Wat zou je ertoe brengen een nacht voor twee personen te boeken in een hotel in het centrum?|
+ville-408|Hoeveel zou je willen uitgeven aan een taxirit van vijf kilometer in Amsterdam?|Hoeveel zou je willen uitgeven aan een volwassenenticket voor een sightseeingbus in Amsterdam?|Paris → Amsterdam
+ville-409|Aan wie zou je hulp vragen om een museum in de buurt te kiezen?|Aan wie zou je hulp vragen om een rolstoeltoegankelijke wandelroute te vinden?|
+ville-410|Hoeveel denk je dat een toeristenpas voor twee dagen waard is?|Hoeveel denk je dat een enkele reis met de stoptrein voor een rit van 50 km waard is?|TER → stoptrein
+ville-411|Welk tijdstip van de dag zou het handigst zijn om een onbekende wijk te ontdekken?|Welk tijdstip van de dag zou het handigst zijn om een reis met het ov voor te bereiden?|
+ville-412|Wat is volgens jou de prijs van een maandabonnement voor het ov in Amsterdam?|Wat is volgens jou de prijs van een taxirit van vijf kilometer in Amsterdam?|Paris → Amsterdam
+ville-413|Wat zou er uit je mond komen als een demonstratie je route blokkeert?|Wat zou er uit je mond komen als het bord bij de halte geen tijden meer toont?|
+ville-414|Welk tijdstip van de dag zou het handigst zijn om een buurtwandeling te organiseren?|Welk tijdstip van de dag zou het handigst zijn om twee metroroutes te vergelijken?|
+ville-415|Hoeveel denk je dat een rondleiding door de wijk waard is?|Hoeveel denk je dat een kaartje voor de shuttle tussen een vliegveld en het centrum waard is?|
+ville-416|Hoeveel zou je willen uitgeven aan een kaartje voor de buurtbioscoop?|Hoeveel zou je willen uitgeven aan een kaartje voor de waterbus?|
+ville-417|Op welk moment van de week zou je het liefst twee metroroutes vergelijken?|Op welk moment van de week zou je het liefst een kaartje voor de regionale trein kopen bij de automaat op het station?|
+ville-418|Aan wie zou je hulp vragen om een buurtwandeling te organiseren?|Aan wie zou je hulp vragen om twee metroroutes te vergelijken?|
+ville-419|Wat zou je eerste reactie zijn als je de verkeerde metro-uitgang neemt?|Wat zou je eerste reactie zijn als een bus je voorbijrijdt zonder te stoppen?|
+ville-420|Als je een rustig terras binnen tien minuten lopen moest vinden, wat zou dan je prioriteit zijn?|Als je een dag sightseeing in Rome zonder auto moest organiseren, wat zou dan je prioriteit zijn?|
+ville-421|Wat zou je op dat moment zeggen als een voorbijganger je een onverwachte kortere weg wijst?|Wat zou je op dat moment zeggen als de metro tussen twee stations stil blijft staan?|
+ville-422|Hoeveel tijd zou je uittrekken om een buurtwandeling te organiseren?|Hoeveel tijd zou je uittrekken om twee metroroutes te vergelijken?|
+ville-423|Op welk moment van de week zou je het liefst een rolstoeltoegankelijke wandelroute zoeken?|Op welk moment van de week zou je het liefst een overstap voorbereiden?|
+ville-424|Hoe zou je reageren als een demonstratie je route blokkeert?|Hoe zou je reageren als het bord bij de halte geen tijden meer toont?|
+ville-425|Vanaf welke prijs zou je twijfelen om een los tramkaartje in Nederland te kopen?|Vanaf welke prijs zou je twijfelen om een uur parkeren in een parkeergarage in het centrum van Amsterdam te betalen?|France → Pays-Bas, Paris → Amsterdam
+ville-426|Welk tijdstip van de dag zou het handigst zijn om een nachtelijke rit voor te bereiden?|Welk tijdstip van de dag zou het handigst zijn om een café te kiezen om in te werken?|
+ville-427|Als je een vriend moest treffen op Amsterdam Centraal, wat zou dan je prioriteit zijn?|Als je een boodschap moest doen in het centrum, wat zou dan je prioriteit zijn?|gare de Lyon à Paris → Amsterdam Centraal
+ville-428|Wanneer zou je zin hebben om een kaartje voor de waterbus te kopen?|Wanneer zou je zin hebben om een kaartje voor een lokale tentoonstelling te kopen?|
+ville-429|Hoe lang duurt het volgens jou om een vriend te treffen op Amsterdam Centraal?|Hoe lang duurt het volgens jou om een boodschap te doen in het centrum?|gare de Lyon à Paris → Amsterdam Centraal
+ville-430|Vanaf welke prijs zou je twijfelen om een oplaadbare ov-kaart te kopen?|Vanaf welke prijs zou je twijfelen om een kaartje voor de buurtbioscoop te kopen?|
+ville-431|Op welke site of in welke winkel zou je zoeken naar een volwassenenticket voor een sightseeingbus in Amsterdam?|Op welke site of in welke winkel zou je zoeken naar een toegangskaartje voor volwassenen voor een betaald gemeentemuseum?|Paris → Amsterdam
+ville-432|Wat zou je als eerste doen als de metro tussen twee stations stil blijft staan?|Wat zou je als eerste doen als een toerist je de weg vraagt?|
+ville-433|In welke situatie zou je besluiten een rondleiding door de wijk te boeken?|In welke situatie zou je besluiten een kaartje voor de shuttle tussen een vliegveld en het centrum te kopen?|
+ville-434|Wie zou je het beste advies kunnen geven om een vriend te treffen op Amsterdam Centraal?|Wie zou je het beste advies kunnen geven om een boodschap te doen in het centrum?|gare de Lyon à Paris → Amsterdam Centraal
+ville-435|Wanneer zou je zin hebben om een volwassenenticket voor een sightseeingbus in Amsterdam te kopen?|Wanneer zou je zin hebben om een toegangskaartje voor volwassenen voor een betaald gemeentemuseum te kopen?|Paris → Amsterdam
+ville-436|Voor welke gelegenheid zou je een nacht voor twee personen in een hotel in het centrum willen boeken?|Voor welke gelegenheid zou je een toeristenpas voor twee dagen willen kopen?|
+ville-437|Hoe zou je reageren als je een portemonnee op de stoep vindt?|Hoe zou je reageren als de straat die je kent afgesloten is?|
+ville-438|Waar zou je als eerste zoeken naar een toeristenpas voor twee dagen?|Waar zou je als eerste zoeken naar een enkele reis met de stoptrein voor een rit van 50 km?|TER → stoptrein
+ville-439|Waar zou je als eerste zoeken naar een kaartje voor de buurtbioscoop?|Waar zou je als eerste zoeken naar een kaartje voor de waterbus?|
+ville-440|Hoeveel kost een toegangskaartje voor volwassenen voor een betaald gemeentemuseum volgens jou?|Hoeveel kost een los tramkaartje in Nederland volgens jou?|France → Pays-Bas
+ville-441|Hoeveel kost een los metrokaartje in Amsterdam volgens jou?|Hoeveel kost een maandabonnement voor het ov in Amsterdam volgens jou?|Paris → Amsterdam
+ville-442|Op welk moment van de week zou je het liefst een café kiezen om in te werken?|Op welk moment van de week zou je het liefst een vriend treffen op Amsterdam Centraal?|gare de Lyon à Paris → Amsterdam Centraal
+ville-443|Als je een kaartje voor de regionale trein moest kopen bij de automaat op het station, wat zou dan je prioriteit zijn?|Als je een adres moest vinden zonder gps, wat zou dan je prioriteit zijn?|
+ville-444|Welk tijdstip van de dag zou het handigst zijn om een buurtmarkt te bezoeken?|Welk tijdstip van de dag zou het handigst zijn om een fietsroute door de stad voor te bereiden?|
+ville-445|Welk maximumbudget zou je uittrekken voor een kaartje voor een lokale tentoonstelling?|Welk maximumbudget zou je uittrekken voor een nacht voor twee personen in een hotel in het centrum?|
+ville-446|Hoeveel zou je maximaal betalen voor een enkele reis met de stoptrein voor een rit van 50 km?|Hoeveel zou je maximaal betalen voor een los metrokaartje in Amsterdam?|TER → stoptrein, Paris → Amsterdam
+ville-447|Wie zou je inschakelen om je te helpen een reis met het ov voor te bereiden?|Wie zou je inschakelen om je te helpen een betaalde parkeerplek voor twee uur in het centrum te vinden?|
+ville-448|Hoeveel tijd zou je nodig hebben om een café te kiezen om in te werken?|Hoeveel tijd zou je nodig hebben om een vriend te treffen op Amsterdam Centraal?|gare de Lyon à Paris → Amsterdam Centraal
+ville-449|Wat zou je als eerste doen als een bus je voorbijrijdt zonder te stoppen?|Wat zou je als eerste doen als een fietser achter je belt?|
+ville-450|Wat zou je als eerste doen als een automobilist je voor laat gaan?|Wat zou je als eerste doen als de kaartjesautomaat buiten werking is?|
+ville-451|Hoeveel denk je dat een uur parkeren in een parkeergarage in het centrum van Amsterdam waard is?|Hoeveel denk je dat een koffie op een terras waard is?|Paris → Amsterdam
+ville-452|Hoe snel zou je een winkel kunnen vinden die op zondag open is?|Hoe snel zou je een onbekende wijk kunnen ontdekken?|
+ville-453|Hoeveel zou je maximaal betalen voor een kaartje voor de waterbus?|Hoeveel zou je maximaal betalen voor een kaartje voor een lokale tentoonstelling?|
+ville-454|Voor welke gelegenheid zou je een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, willen kopen?|Voor welke gelegenheid zou je een rondleiding door de wijk willen boeken?|
+ville-455|Aan wie zou je hulp vragen om een buurtmarkt te bezoeken?|Aan wie zou je hulp vragen om een fietsroute door de stad voor te bereiden?|
+ville-456|Wie zou je het beste advies kunnen geven om een kaartje voor de regionale trein te kopen bij de automaat op het station?|Wie zou je het beste advies kunnen geven om een adres te vinden zonder gps?|
+ville-457|Hoe lang duurt het volgens jou om een overstap voor te bereiden?|Hoe lang duurt het volgens jou om een winkel te zoeken die op zondag open is?|
+ville-458|Wat zou je eerste impuls zijn als je in de verkeerde bus zit?|Wat zou je eerste impuls zijn als een voorbijganger je een onverwachte kortere weg wijst?|
+ville-459|Wie uit je omgeving zou je kunnen helpen om een boodschap te doen in het centrum?|Wie uit je omgeving zou je kunnen helpen om een buurtmarkt te bezoeken?|
+ville-460|Wat zou het beste moment zijn om een betaalde parkeerplek voor twee uur in het centrum te vinden?|Wat zou het beste moment zijn om een restaurant bij een station op te zoeken?|
+ville-461|Welk detail zou je checken voordat je een buurtmarkt bezoekt?|Welk detail zou je checken voordat je een fietsroute door de stad voorbereidt?|
+ville-462|Welk detail zou je checken voordat je een buurtwandeling organiseert?|Welk detail zou je checken voordat je twee metroroutes vergelijkt?|
+ville-463|Op welke site of in welke winkel zou je zoeken naar een kaartje voor de shuttle tussen een vliegveld en het centrum?|Op welke site of in welke winkel zou je zoeken naar een abonnement op deelfietsen?|
+ville-464|Hoeveel denk je dat een taxirit van vijf kilometer in Amsterdam waard is?|Hoeveel denk je dat een volwassenenticket voor een sightseeingbus in Amsterdam waard is?|Paris → Amsterdam
+ville-465|Hoeveel zou je maximaal betalen voor een volwassenenticket voor een sightseeingbus in Amsterdam?|Hoeveel zou je maximaal betalen voor een toegangskaartje voor volwassenen voor een betaald gemeentemuseum?|Paris → Amsterdam
+ville-466|Wat is volgens jou de prijs van een tweedehands stadsfiets in goede staat, jonger dan vijf jaar?|Wat is volgens jou de prijs van een rondleiding door de wijk?|
+ville-467|Welk detail zou je checken voordat je een onbekende wijk gaat ontdekken?|Welk detail zou je checken voordat je een reis met het ov voorbereidt?|
+ville-468|Hoeveel kost een abonnement op deelfietsen volgens jou?|Hoeveel kost een oplaadbare ov-kaart volgens jou?|
+ville-469|Hoeveel zou je maximaal betalen voor een koffie op een terras?|Hoeveel zou je maximaal betalen voor een maaltijd in een brasserie in de buurt?|
+ville-470|Waar zou je heen gaan om een toegangskaartje voor volwassenen voor een betaald gemeentemuseum te vinden?|Waar zou je heen gaan om een los tramkaartje in Nederland te vinden?|France → Pays-Bas
+ville-471|Op welk moment van de week zou je het liefst een reis met het ov voorbereiden?|Op welk moment van de week zou je het liefst een betaalde parkeerplek voor twee uur in het centrum zoeken?|
+ville-472|In welke situatie zou je besluiten een uur parkeren in een parkeergarage in het centrum van Amsterdam te betalen?|In welke situatie zou je besluiten een koffie op een terras te nemen?|Paris → Amsterdam
+ville-473|Aan wie zou je hulp vragen om een nachtelijke rit voor te bereiden?|Aan wie zou je hulp vragen om een café te kiezen om in te werken?|
+ville-474|Waar zou je als eerste zoeken naar een uur parkeren in een parkeergarage in het centrum van Amsterdam?|Waar zou je als eerste zoeken naar een koffie op een terras?|Paris → Amsterdam
+ville-475|Hoe snel zou je een dag sightseeing in Rome zonder auto kunnen organiseren?|Hoe snel zou je een museum in de buurt kunnen kiezen?|
+ville-476|Hoeveel tijd zou je nodig hebben om een fietsroute door de stad voor te bereiden?|Hoeveel tijd zou je nodig hebben om een rustig terras binnen tien minuten lopen te vinden?|
+ville-477|Wat is volgens jou de prijs van een oplaadbare ov-kaart?|Wat is volgens jou de prijs van een kaartje voor de buurtbioscoop?|
+ville-478|Wat is volgens jou de prijs van een los tramkaartje in Nederland?|Wat is volgens jou de prijs van een uur parkeren in een parkeergarage in het centrum van Amsterdam?|France → Pays-Bas, Paris → Amsterdam
+ville-479|Hoeveel tijd zou je nodig hebben om twee metroroutes te vergelijken?|Hoeveel tijd zou je nodig hebben om een kaartje voor de regionale trein te kopen bij de automaat op het station?|
+ville-480|Wie zou je het beste advies kunnen geven om een betaalde parkeerplek voor twee uur in het centrum te vinden?|Wie zou je het beste advies kunnen geven om een restaurant bij een station op te zoeken?|
+ville-481|Wat zou je ertoe brengen een toegangskaartje voor volwassenen voor een betaald gemeentemuseum te kopen?|Wat zou je ertoe brengen een los tramkaartje in Nederland te kopen?|France → Pays-Bas
+ville-482|Hoeveel kost een kaartje voor een lokale tentoonstelling volgens jou?|Hoeveel kost een nacht voor twee personen in een hotel in het centrum volgens jou?|
+ville-483|Wanneer zou je zin hebben om een koffie op een terras te nemen?|Wanneer zou je zin hebben om een maaltijd in een brasserie in de buurt te reserveren?|
+ville-484|Wie zou je inschakelen om je te helpen een fietsroute door de stad voor te bereiden?|Wie zou je inschakelen om je te helpen een rustig terras binnen tien minuten lopen te vinden?|
+ville-485|Wat zou je ertoe brengen een los metrokaartje in Amsterdam te kopen?|Wat zou je ertoe brengen een maandabonnement voor het ov in Amsterdam te kopen?|Paris → Amsterdam
+ville-486|Wat zou je eerste reactie zijn als een vriend je de verkeerde ontmoetingsplek doorgeeft?|Wat zou je eerste reactie zijn als een automobilist je voor laat gaan?|
+ville-487|Waar zou je heen gaan om een kaartje voor een lokale tentoonstelling te vinden?|Waar zou je heen gaan om een nacht voor twee personen in een hotel in het centrum te vinden?|
+ville-488|Op welke prijs schat je een koffie op een terras?|Op welke prijs schat je een maaltijd in een brasserie in de buurt?|
+ville-489|Op welk moment van de week zou je het liefst een fietsroute door de stad voorbereiden?|Op welk moment van de week zou je het liefst een rustig terras binnen tien minuten lopen zoeken?|
+ville-490|Vanaf welke prijs zou je twijfelen om een tweedehands stadsfiets in goede staat, jonger dan vijf jaar, te kopen?|Vanaf welke prijs zou je twijfelen om een rondleiding door de wijk te boeken?|
+ville-491|Wie uit je omgeving zou je kunnen helpen om een dag sightseeing in Rome zonder auto te organiseren?|Wie uit je omgeving zou je kunnen helpen om een museum in de buurt te kiezen?|
+ville-492|In welke situatie zou je besluiten een toeristenpas voor twee dagen te kopen?|In welke situatie zou je besluiten een enkele reis met de stoptrein voor een rit van 50 km te kopen?|TER → stoptrein
+ville-493|Wanneer zou je zin hebben om een enkele reis met de stoptrein voor een rit van 50 km te kopen?|Wanneer zou je zin hebben om een los metrokaartje in Amsterdam te kopen?|TER → stoptrein, Paris → Amsterdam
+ville-494|Wat zou je op dat moment zeggen als je de verkeerde metro-uitgang neemt?|Wat zou je op dat moment zeggen als een bus je voorbijrijdt zonder te stoppen?|
+ville-495|Welk maximumbudget zou je uittrekken voor een abonnement op deelfietsen?|Welk maximumbudget zou je uittrekken voor een oplaadbare ov-kaart?|
+ville-496|Wat zou het lastigste voor je zijn bij het kiezen van een café om in te werken?|Wat zou het lastigste voor je zijn bij het treffen van een vriend op Amsterdam Centraal?|gare de Lyon à Paris → Amsterdam Centraal
+ville-497|Welk maximumbudget zou je uittrekken voor een los metrokaartje in Amsterdam?|Welk maximumbudget zou je uittrekken voor een maandabonnement voor het ov in Amsterdam?|Paris → Amsterdam
+ville-498|Hoe zou je reageren als de kaartjesautomaat buiten werking is?|Hoe zou je reageren als je in de verkeerde bus zit?|
+ville-499|Wat zou je ertoe brengen een abonnement op deelfietsen te nemen?|Wat zou je ertoe brengen een oplaadbare ov-kaart te kopen?|
+ville-500|Hoe zou je reageren als een toerist je de weg vraagt?|Hoe zou je reageren als een chauffeur je halte overslaat?|
+ville-501|Wat zou het belangrijkste zijn als je een restaurant bij een station opzoekt?|Wat zou het belangrijkste zijn als je een buurtwandeling organiseert?|
+ville-502|Wat zou het lastigste voor je zijn bij het vinden van een rolstoeltoegankelijke wandelroute?|Wat zou het lastigste voor je zijn bij het voorbereiden van een overstap?|
+ville-503|Hoe zou je reageren als een fietser achter je belt?|Hoe zou je reageren als een voetganger je vraagt hoe laat het is?|
+ville-504|Hoeveel tijd zou je uittrekken om een nachtelijke rit voor te bereiden?|Hoeveel tijd zou je uittrekken om een café te kiezen om in te werken?|
+ville-505|Wanneer zou je zin hebben om een kaartje voor de shuttle tussen een vliegveld en het centrum te kopen?|Wanneer zou je zin hebben om een abonnement op deelfietsen te nemen?|
+ville-506|Voor welke gelegenheid zou je een maandabonnement voor het ov in Amsterdam willen kopen?|Voor welke gelegenheid zou je een taxirit van vijf kilometer in Amsterdam willen nemen?|Paris → Amsterdam
+ville-507|Wie zou je het beste advies kunnen geven om een overstap voor te bereiden?|Wie zou je het beste advies kunnen geven om een winkel te zoeken die op zondag open is?|
+ville-508|Hoeveel zou je maximaal betalen voor een kaartje voor de shuttle tussen een vliegveld en het centrum?|Hoeveel zou je maximaal betalen voor een abonnement op deelfietsen?|
+ville-509|Wat zou je op dat moment zeggen als je trein op het laatste moment van spoor verandert?|Wat zou je op dat moment zeggen als een onbekende je vraagt een foto te maken?|
+ville-510|Wat zou je op dat moment zeggen als een vriend je de verkeerde ontmoetingsplek doorgeeft?|Wat zou je op dat moment zeggen als een automobilist je voor laat gaan?|
+ville-511|Hoeveel tijd zou je nodig hebben om een reis met het ov voor te bereiden?|Hoeveel tijd zou je nodig hebben om een betaalde parkeerplek voor twee uur in het centrum te vinden?|
+ville-512|Waar zou je heen gaan om een los tramkaartje in Nederland te kopen?|Waar zou je heen gaan om een uur parkeren in een parkeergarage in het centrum van Amsterdam te betalen?|France → Pays-Bas, Paris → Amsterdam
+ville-513|Hoe lang duurt het volgens jou om een rustig terras binnen tien minuten lopen te vinden?|Hoe lang duurt het volgens jou om een dag sightseeing in Rome zonder auto te organiseren?|
+ville-514|In welke situatie zou je besluiten een taxirit van vijf kilometer in Amsterdam te nemen?|In welke situatie zou je besluiten een volwassenenticket voor een sightseeingbus in Amsterdam te kopen?|Paris → Amsterdam
+ville-515|Wat zou je antwoorden als een chauffeur je halte overslaat?|Wat zou je antwoorden als je de verkeerde metro-uitgang neemt?|
+ville-516|Voor welke gelegenheid zou je een los tramkaartje in Nederland willen kopen?|Voor welke gelegenheid zou je een uur parkeren in een parkeergarage in het centrum van Amsterdam willen betalen?|France → Pays-Bas, Paris → Amsterdam
+ville-517|Wat zou het beste moment zijn om een rustig terras binnen tien minuten lopen te vinden?|Wat zou het beste moment zijn om een dag sightseeing in Rome zonder auto te organiseren?|
+ville-518|Waar zou je als eerste zoeken naar een rondleiding door de wijk?|Waar zou je als eerste zoeken naar een kaartje voor de shuttle tussen een vliegveld en het centrum?|
+ville-519|Wat zou je eerste impuls zijn als het bord bij de halte geen tijden meer toont?|Wat zou je eerste impuls zijn als een vriend je de verkeerde ontmoetingsplek doorgeeft?|
+ville-520|Wat zou je zeggen als een onbekende je vraagt een foto te maken?|Wat zou je zeggen als je een portemonnee op de stoep vindt?|
+ville-521|Wat zou het belangrijkste zijn als je een boodschap doet in het centrum?|Wat zou het belangrijkste zijn als je een buurtmarkt bezoekt?|
+ville-522|Wat zou je antwoorden als het bord bij de halte geen tijden meer toont?|Wat zou je antwoorden als een vriend je de verkeerde ontmoetingsplek doorgeeft?|
+ville-523|Wat zou het belangrijkste zijn als je een adres zoekt zonder gps?|Wat zou het belangrijkste zijn als je een nachtelijke rit voorbereidt?|
+ville-524|Welk moment van de dag zou je kiezen om een adres te vinden zonder gps?|Welk moment van de dag zou je kiezen om een nachtelijke rit voor te bereiden?|
+ville-525|Wat zou je eerste impuls zijn als een voetganger je vraagt hoe laat het is?|Wat zou je eerste impuls zijn als je trein op het laatste moment van spoor verandert?|
+ville-526|Op welke site of in welke winkel zou je zoeken naar een koffie op een terras?|Op welke site of in welke winkel zou je zoeken naar een maaltijd in een brasserie in de buurt?|
+ville-527|Wat zou je als eerste doen als een onbekende je vraagt een foto te maken?|Wat zou je als eerste doen als je een portemonnee op de stoep vindt?|
+ville-528|Wie uit je omgeving zou je kunnen helpen om een restaurant bij een station op te zoeken?|Wie uit je omgeving zou je kunnen helpen om een buurtwandeling te organiseren?|
+ville-529|Welk maximumbudget zou je uittrekken voor een toegangskaartje voor volwassenen voor een betaald gemeentemuseum?|Welk maximumbudget zou je uittrekken voor een los tramkaartje in Nederland?|France → Pays-Bas
+ville-530|Wat zou er uit je mond komen als je een portemonnee op de stoep vindt?|Wat zou er uit je mond komen als de straat die je kent afgesloten is?|
+ville-531|Wat zou je zeggen als een bus je voorbijrijdt zonder te stoppen?|Wat zou je zeggen als een fietser achter je belt?|
+ville-532|Wat zou je antwoorden als een voetganger je vraagt hoe laat het is?|Wat zou je antwoorden als je trein op het laatste moment van spoor verandert?|
+imaginaire-332|Hoeveel tijd zou je nodig hebben om een helemaal vrije dag te plannen?|Hoeveel tijd zou je nodig hebben om je ideale huis te bedenken?|
+imaginaire-333|Wat is volgens jou de prijs van een huis van 60 m² op minder dan 500 meter van het strand in Zeeland?|Wat is volgens jou de prijs van een verrassingstrip van drie dagen voor twee personen naar Rome, inclusief reis?|Bretagne → Zeeland
+imaginaire-334|Aan wie zou je hulp vragen om een verrassing voor te bereiden voor iedereen om je heen?|Aan wie zou je hulp vragen om een helemaal vrije dag te plannen?|
+imaginaire-335|Wie uit je omgeving zou je kunnen helpen om een persoonlijke uitdaging voor het jaar op te stellen?|Wie uit je omgeving zou je kunnen helpen om een bestemming te kiezen om vaak naar terug te gaan?|
+imaginaire-336|Vanaf welke prijs zou je twijfelen om een blokhut aan een meer te huren voor een weekend?|Vanaf welke prijs zou je twijfelen om een grote werkruimte voor je hobby's te kopen?|
+imaginaire-337|Hoeveel denk je dat een grote werkruimte voor je hobby's waard is?|Hoeveel denk je dat een eigen bibliotheek op maat waard is?|
+imaginaire-338|Hoe zou je reageren als je elke ochtend een uur extra krijgt?|Hoe zou je reageren als je een vraag mag stellen aan je toekomstige zelf?|
+imaginaire-339|Wat zou het belangrijkste zijn als je een groot feest zonder beperkingen voorbereidt?|Wat zou het belangrijkste zijn als je een activiteit kiest om gratis uit te proberen?|
+imaginaire-340|Hoeveel tijd zou je nodig hebben om een lijst met droomreizen te maken?|Hoeveel tijd zou je nodig hebben om een talent te kiezen om snel te leren?|
+imaginaire-341|In welke situatie zou je besluiten een onbeperkt bioscoopabonnement te kopen?|In welke situatie zou je besluiten een verblijf in een buitenlandse stad te boeken?|
+imaginaire-342|Hoeveel zou je willen uitgeven aan een verrassingstrip van drie dagen voor twee personen naar Rome, inclusief reis?|Hoeveel zou je willen uitgeven aan een week in een droomhotel?|
+imaginaire-343|Hoeveel denk je dat een onbeperkt bioscoopabonnement waard is?|Hoeveel denk je dat een verblijf in een buitenlandse stad waard is?|
+imaginaire-344|Hoeveel denk je dat het huren van een bootje voor een dag waard is?|Hoeveel denk je dat een thuisgym waard is?|
+imaginaire-345|Wat zou je ertoe brengen een retourvlucht binnen Europa met flexibele data te kopen?|Wat zou je ertoe brengen een blokhut aan een meer te huren voor een weekend?|
+imaginaire-346|Op welke prijs schat je een week in een droomhotel?|Op welke prijs schat je een privéles van een expert?|
+imaginaire-347|Hoeveel tijd zou je uittrekken om een activiteit te kiezen om gratis uit te proberen?|Hoeveel tijd zou je uittrekken om een reis met je beste vriend te organiseren?|
+imaginaire-348|In welke situatie zou je besluiten een grote werkruimte voor je hobby's te kopen?|In welke situatie zou je besluiten een eigen bibliotheek op maat te kopen?|
+imaginaire-349|Wat zou het lastigste voor je zijn bij het organiseren van een reis met je beste vriend?|Wat zou het lastigste voor je zijn als je je een week zonder telefoon moet voorstellen?|
+imaginaire-350|Waar zou je heen gaan om een tuin te vinden die is ingericht om in te lezen?|Waar zou je heen gaan om een oldtimer te vinden die je een dag kunt huren?|
+imaginaire-351|Wat zou je ertoe brengen een treinreis van drie maanden door meerdere landen te boeken?|Wat zou je ertoe brengen een huis van 60 m² op minder dan 500 meter van het strand in Zeeland te kopen?|Bretagne → Zeeland
+imaginaire-352|Wat is volgens jou de prijs van het huren van een blokhut aan een meer voor een weekend?|Wat is volgens jou de prijs van een grote werkruimte voor je hobby's?|
+imaginaire-353|Als je een talent moest kiezen om snel te leren, wat zou dan je prioriteit zijn?|Als je je ideale weekplanning opnieuw moest indelen, wat zou dan je prioriteit zijn?|
+imaginaire-354|Wat zou het belangrijkste zijn als je een beroep kiest om een dag uit te proberen?|Wat zou het belangrijkste zijn als je een diner met beroemdheden organiseert?|
+imaginaire-355|Hoeveel tijd zou je nodig hebben om een reis met je beste vriend te organiseren?|Hoeveel tijd zou je nodig hebben om je een week zonder telefoon voor te stellen?|
+imaginaire-356|Welk maximumbudget zou je uittrekken voor een tuin die is ingericht om in te lezen?|Welk maximumbudget zou je uittrekken voor het huren van een oldtimer voor een dag?|
+imaginaire-357|Wat zou je eerste reactie zijn als je vijf mensen mag uitnodigen voor een groot diner?|Wat zou je eerste reactie zijn als je een bibliotheek hebt met alle boeken ter wereld?|
+imaginaire-358|Wat zou je antwoorden als je een dag elk beroep mag uitproberen dat je wilt?|Wat zou je antwoorden als je een brief vindt die je over tien jaar zelf hebt geschreven?|
+imaginaire-359|Welk maximumbudget zou je uittrekken voor een weekend in een kasteel?|Welk maximumbudget zou je uittrekken voor een privéconcert in kleine kring?|
+imaginaire-360|Wanneer zou je zin hebben om een verblijf in een buitenlandse stad te boeken?|Wanneer zou je zin hebben om een weekend in een kasteel te boeken?|
+imaginaire-361|Waar zou je als eerste zoeken om een bootje voor een dag te huren?|Waar zou je als eerste zoeken naar een thuisgym?|
+imaginaire-362|Als je je een week zonder telefoon moest voorstellen, wat zou dan je prioriteit zijn?|Als je een persoonlijke uitdaging voor het jaar moest opstellen, wat zou dan je prioriteit zijn?|
+imaginaire-363|Wat zou het beste moment zijn om een nieuwe stad te kiezen om te wonen?|Wat zou het beste moment zijn om een reis zonder budgetlimiet voor te bereiden?|
+imaginaire-364|Hoeveel tijd zou je uittrekken om een verrassing voor te bereiden voor iedereen om je heen?|Hoeveel tijd zou je uittrekken om een helemaal vrije dag te plannen?|
+imaginaire-365|Wat zou je eerste reactie zijn als je een brief vindt die je over tien jaar zelf hebt geschreven?|Wat zou je eerste reactie zijn als je een huis cadeau krijgt in de stad van je keuze?|
+imaginaire-366|Wat zou het belangrijkste zijn als je je ideale weekplanning opnieuw indeelt?|Wat zou het belangrijkste zijn als je een verrassing voorbereidt voor iedereen om je heen?|
+imaginaire-367|Waar zou je heen gaan om een privéles van een expert te vinden?|Waar zou je heen gaan om een diner voor twee te vinden, thuis bereid door een chef-kok?|
+imaginaire-368|Wat is volgens jou de prijs van een diner voor twee, thuis bereid door een chef-kok?|Wat is volgens jou de prijs van een onbeperkt bioscoopabonnement?|
+imaginaire-369|Op welke prijs schat je een thuisgym?|Op welke prijs schat je een tuin die is ingericht om in te lezen?|
+imaginaire-370|Wat zou je als eerste doen als je een reis wint zonder de bestemming te kennen?|Wat zou je als eerste doen als je een heel jaar vrij aangeboden krijgt?|
+imaginaire-371|Wat zou je op dat moment zeggen als een onbekende je een ticket naar een land naar keuze geeft?|Wat zou je op dat moment zeggen als je gratis toegang hebt tot alle musea?|
+imaginaire-372|In welke situatie zou je besluiten een begeleide rijervaring op het circuit te kopen?|In welke situatie zou je besluiten een creatieve retraite te boeken?|
+imaginaire-373|Welk tijdstip van de dag zou het handigst zijn om een activiteit te kiezen om gratis uit te proberen?|Welk tijdstip van de dag zou het handigst zijn om een reis met je beste vriend te organiseren?|
+imaginaire-374|Wat zou je ertoe brengen een tuin te kopen die is ingericht om in te lezen?|Wat zou je ertoe brengen een oldtimer te huren voor een dag?|
+imaginaire-375|Hoe snel zou je een persoonlijke uitdaging voor het jaar kunnen opstellen?|Hoe snel zou je een bestemming kunnen kiezen om vaak naar terug te gaan?|
+imaginaire-376|Op welke prijs schat je een verblijf in een buitenlandse stad?|Op welke prijs schat je een weekend in een kasteel?|
+imaginaire-377|Hoeveel zou je maximaal betalen voor een creatieve retraite?|Hoeveel zou je maximaal betalen voor een retourvlucht binnen Europa met flexibele data?|
+imaginaire-378|Hoe zou je reageren als je een treinreis van drie maanden aangeboden krijgt?|Hoe zou je reageren als je een dag die slecht ging mag overdoen?|
+imaginaire-379|Voor welke gelegenheid zou je een diner voor twee willen kopen, thuis bereid door een chef-kok?|Voor welke gelegenheid zou je een onbeperkt bioscoopabonnement willen kopen?|
+imaginaire-380|Hoe lang duurt het volgens jou om een talent te kiezen om snel te leren?|Hoe lang duurt het volgens jou om je ideale weekplanning opnieuw in te delen?|
+imaginaire-381|Wat zou het beste moment zijn om een sabbatical voor te bereiden?|Wat zou het beste moment zijn om een beroep te kiezen om een dag uit te proberen?|
+imaginaire-382|Hoeveel kost een privéles van een expert volgens jou?|Hoeveel kost een diner voor twee, thuis bereid door een chef-kok, volgens jou?|
+imaginaire-383|Welk tijdstip van de dag zou het handigst zijn om een verrassing voor te bereiden voor iedereen om je heen?|Welk tijdstip van de dag zou het handigst zijn om een helemaal vrije dag te plannen?|
+imaginaire-384|Welk detail zou je checken voordat je een diner met beroemdheden organiseert?|Welk detail zou je checken voordat je een lijst met droomreizen maakt?|
+imaginaire-385|Welk moment van de dag zou je kiezen om een groot feest zonder beperkingen voor te bereiden?|Welk moment van de dag zou je kiezen om een activiteit uit te kiezen om gratis uit te proberen?|
+imaginaire-386|Wie zou je het beste advies kunnen geven om je een week zonder telefoon voor te stellen?|Wie zou je het beste advies kunnen geven om een persoonlijke uitdaging voor het jaar op te stellen?|
+imaginaire-387|Hoeveel zou je maximaal betalen voor een week in een droomhotel?|Hoeveel zou je maximaal betalen voor een privéles van een expert?|
+imaginaire-388|Wat zou je ertoe brengen een privéles van een expert te kopen?|Wat zou je ertoe brengen een diner voor twee te kopen, thuis bereid door een chef-kok?|
+imaginaire-389|Wat zou je als eerste doen als je gratis toegang hebt tot alle musea?|Wat zou je als eerste doen als je elke ochtend een uur extra krijgt?|
+imaginaire-390|Welk moment van de dag zou je kiezen om je ideale weekplanning opnieuw in te delen?|Welk moment van de dag zou je kiezen om een verrassing voor te bereiden voor iedereen om je heen?|
+imaginaire-391|Hoeveel denk je dat een verrassingstrip van drie dagen voor twee personen naar Rome, inclusief reis, waard is?|Hoeveel denk je dat een week in een droomhotel waard is?|
+imaginaire-392|Wat is volgens jou de prijs van een privéconcert in kleine kring?|Wat is volgens jou de prijs van het huren van een bootje voor een dag?|
+imaginaire-393|Wat zou het belangrijkste zijn als je een persoonlijke uitdaging voor het jaar opstelt?|Wat zou het belangrijkste zijn als je een bestemming kiest om vaak naar terug te gaan?|
+imaginaire-394|Wat zou je zeggen als je een reis wint zonder de bestemming te kennen?|Wat zou je zeggen als je een heel jaar vrij aangeboden krijgt?|
+imaginaire-395|Wat zou je ertoe brengen een weekend in een kasteel te boeken?|Wat zou je ertoe brengen een privéconcert in kleine kring te kopen?|
+imaginaire-396|Wie zou je inschakelen om je te helpen een maand vrije vakantie te plannen?|Wie zou je inschakelen om je te helpen een nieuwe stad te kiezen om te wonen?|
+imaginaire-397|Hoeveel zou je maximaal betalen voor een verblijf in een buitenlandse stad?|Hoeveel zou je maximaal betalen voor een weekend in een kasteel?|
+imaginaire-398|Vanaf welke prijs zou je twijfelen om een privéconcert in kleine kring te kopen?|Vanaf welke prijs zou je twijfelen om een bootje te huren voor een dag?|
+imaginaire-399|Wat zou je op dat moment zeggen als je een budget krijgt om een droom waar te maken?|Wat zou je op dat moment zeggen als je meteen een nieuwe vaardigheid mag kiezen?|
+imaginaire-400|Hoeveel tijd zou je uittrekken om een diner met beroemdheden te organiseren?|Hoeveel tijd zou je uittrekken om een lijst met droomreizen te maken?|
+imaginaire-401|Wat zou het lastigste voor je zijn bij het plannen van een helemaal vrije dag?|Wat zou het lastigste voor je zijn bij het bedenken van je ideale huis?|
+imaginaire-402|Wat zou er uit je mond komen als je één gelukkige dag opnieuw mag beleven?|Wat zou er uit je mond komen als je een avond mag doorbrengen met je favoriete artiest?|
+imaginaire-403|Waar zou je als eerste zoeken naar een grote werkruimte voor je hobby's?|Waar zou je als eerste zoeken naar een eigen bibliotheek op maat?|
+imaginaire-404|Op welke site of in welke winkel zou je zoeken naar een eigen bibliotheek op maat?|Op welke site of in welke winkel zou je zoeken naar een treinreis van drie maanden door meerdere landen?|
+imaginaire-405|Wat zou je eerste impuls zijn als je een dag elk beroep mag uitproberen dat je wilt?|Wat zou je eerste impuls zijn als je een brief vindt die je over tien jaar zelf hebt geschreven?|
+imaginaire-406|Welk detail zou je checken voordat je een bestemming kiest om vaak naar terug te gaan?|Welk detail zou je checken voordat je een maand vrije vakantie plant?|
+imaginaire-407|Hoeveel zou je willen uitgeven aan een begeleide rijervaring op het circuit?|Hoeveel zou je willen uitgeven aan een creatieve retraite?|
+imaginaire-408|Wat zou je antwoorden als je een dag die slecht ging mag overdoen?|Wat zou je antwoorden als je vijf mensen mag uitnodigen voor een groot diner?|
+imaginaire-409|Wat zou je eerste impuls zijn als je een avond mag doorbrengen met je favoriete artiest?|Wat zou je eerste impuls zijn als een onbekende je een ticket naar een land naar keuze geeft?|
+imaginaire-410|Hoeveel zou je maximaal betalen voor een thuisgym?|Hoeveel zou je maximaal betalen voor een tuin die is ingericht om in te lezen?|
+imaginaire-411|Wanneer zou je zin hebben om een eigen bibliotheek op maat te kopen?|Wanneer zou je zin hebben om een treinreis van drie maanden door meerdere landen te boeken?|
+imaginaire-412|Hoeveel denk je dat een begeleide rijervaring op het circuit waard is?|Hoeveel denk je dat een creatieve retraite waard is?|
+imaginaire-413|Hoe snel zou je je ideale weekplanning opnieuw kunnen indelen?|Hoe snel zou je een verrassing kunnen voorbereiden voor iedereen om je heen?|
+imaginaire-414|Voor welke gelegenheid zou je een privéconcert in kleine kring willen kopen?|Voor welke gelegenheid zou je een bootje willen huren voor een dag?|
+imaginaire-415|Wat zou je antwoorden als je één detail van je dagelijks leven mag veranderen?|Wat zou je antwoorden als je een week mag besteden aan een oud project?|
+imaginaire-416|Wat zou je op dat moment zeggen als je een week mag besteden aan een oud project?|Wat zou je op dat moment zeggen als je een reis wint zonder de bestemming te kennen?|
+imaginaire-417|Wanneer zou je zin hebben om een creatieve retraite te boeken?|Wanneer zou je zin hebben om een retourvlucht binnen Europa met flexibele data te kopen?|
+imaginaire-418|Wie uit je omgeving zou je kunnen helpen om een groot feest zonder beperkingen voor te bereiden?|Wie uit je omgeving zou je kunnen helpen om een activiteit te kiezen om gratis uit te proberen?|
+imaginaire-419|Waar zou je heen gaan om een huis van 60 m² op minder dan 500 meter van het strand in Zeeland te kopen?|Waar zou je heen gaan om een verrassingstrip van drie dagen voor twee personen naar Rome, inclusief reis, te boeken?|Bretagne → Zeeland
+imaginaire-420|Wie zou je het beste advies kunnen geven om een nieuwe stad te kiezen om te wonen?|Wie zou je het beste advies kunnen geven om een reis zonder budgetlimiet voor te bereiden?|
+imaginaire-421|Hoe snel zou je een beroep kunnen kiezen om een dag uit te proberen?|Hoe snel zou je een diner met beroemdheden kunnen organiseren?|
+imaginaire-422|Waar zou je heen gaan om een privéconcert in kleine kring te kopen?|Waar zou je heen gaan om een bootje te huren voor een dag?|
+imaginaire-423|Op welke site of in welke winkel zou je zoeken naar een week in een droomhotel?|Op welke site of in welke winkel zou je zoeken naar een privéles van een expert?|
+imaginaire-424|Hoeveel zou je willen uitgeven aan het huren van een bootje voor een dag?|Hoeveel zou je willen uitgeven aan een thuisgym?|
+imaginaire-425|Als je een sabbatical moest voorbereiden, wat zou dan je prioriteit zijn?|Als je een beroep moest kiezen om een dag uit te proberen, wat zou dan je prioriteit zijn?|
+imaginaire-426|Wie zou je het beste advies kunnen geven om een sabbatical voor te bereiden?|Wie zou je het beste advies kunnen geven om een beroep te kiezen om een dag uit te proberen?|
+imaginaire-427|Op welk moment van de week zou je het liefst een lijst met droomreizen maken?|Op welk moment van de week zou je het liefst een talent kiezen om snel te leren?|
+imaginaire-428|Wat zou je antwoorden als je een avond mag doorbrengen met je favoriete artiest?|Wat zou je antwoorden als een onbekende je een ticket naar een land naar keuze geeft?|
+imaginaire-429|Welk detail zou je checken voordat je een nieuwe taal gaat leren?|Welk detail zou je checken voordat je een persoonlijk droomproject opzet?|
+imaginaire-430|Voor welke gelegenheid zou je een oldtimer willen huren voor een dag?|Voor welke gelegenheid zou je een begeleide rijervaring op het circuit willen kopen?|

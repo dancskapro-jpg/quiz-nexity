@@ -98,3 +98,202 @@ nostalgie-428|¿Qué te llevaría a comprar una bici de niño vintage?|¿Qué te
 nostalgie-429|¿Qué dirías en el momento si volvieras a ver a un amigo de la infancia después de diez años?|¿Qué dirías en el momento si un familiar sacara un vídeo familiar antiguo?|
 nostalgie-430|¿Qué precio te imaginas para un videojuego retro de segunda mano para una consola antigua?|¿Qué precio te imaginas para un álbum de fotos impreso?|
 nostalgie-431|¿Cuál sería tu primera reacción si un amigo recordara un chiste del instituto?|¿Cuál sería tu primera reacción si una tienda volviera a vender tu merienda favorita de cuando eras pequeño?|collège → instituto
+nostalgie-432|¿Qué frase te saldría si encontraras un antiguo diario íntimo?|¿Qué frase te saldría si un olor te recordara a las vacaciones de tu infancia?|
+nostalgie-433|¿Qué detalle comprobarías antes de elegir una canción de los años 2000?|¿Qué detalle comprobarías antes de montar una noche de juegos retro?|
+nostalgie-434|¿Qué persona de tu entorno podría ayudarte a explicarle un juego antiguo a un niño?|¿Qué persona de tu entorno podría ayudarte a volver a ver una serie de tu infancia?|
+nostalgie-435|¿Cuánto crees que vale una cinta de casete de segunda mano en buen estado?|¿Cuánto crees que vale un móvil de tapa de segunda mano?|
+nostalgie-436|¿Cómo reaccionarías si encontraras un antiguo diario íntimo?|¿Cómo reaccionarías si un olor te recordara a las vacaciones de tu infancia?|
+nostalgie-437|¿Qué frase te saldría si te cruzaras con un antiguo profesor?|¿Qué frase te saldría si te enseñaran una foto tuya de adolescente?|
+nostalgie-438|¿Cuál sería tu primer impulso si encontraras tu primer móvil?|¿Cuál sería tu primer impulso si un amigo recordara un chiste del instituto?|collège → instituto
+nostalgie-439|¿Qué sería lo más importante para contar tu primer concierto?|¿Qué sería lo más importante para preparar una merienda como las de antes?|
+nostalgie-440|¿En qué momento te apetecería comprar un móvil de tapa de segunda mano?|¿En qué momento te apetecería comprar una bici de niño vintage?|
+nostalgie-441|¿Hasta cuánto pagarías por un sobre de diez cartas coleccionables con licencia oficial?|¿Hasta cuánto pagarías por una revista juvenil antigua en buen estado?|
+nostalgie-442|¿Qué persona de tu entorno podría ayudarte a contar tu primer concierto?|¿Qué persona de tu entorno podría ayudarte a preparar una merienda como las de antes?|
+nostalgie-443|¿Cómo reaccionarías si te cruzaras con un antiguo profesor?|¿Cómo reaccionarías si te enseñaran una foto tuya de adolescente?|
+nostalgie-444|¿Qué presupuesto máximo pondrías para un álbum de fotos impreso?|¿Qué presupuesto máximo pondrías para un reproductor MP3 de segunda mano?|
+nostalgie-445|¿Qué detalle comprobarías antes de hacer un álbum de recuerdos?|¿Qué detalle comprobarías antes de reconocer la sintonía de unos dibujos animados?|
+nostalgie-446|¿En qué momento te apetecería comprar un cómic de tu infancia?|¿En qué momento te apetecería comprar un reproductor de CD de segunda mano?|
+nostalgie-447|¿En qué momento te apetecería comprar un videojuego retro de segunda mano para una consola antigua?|¿En qué momento te apetecería comprar un álbum de fotos impreso?|
+nostalgie-448|En tu opinión, ¿cuánto cuesta una revista juvenil antigua en buen estado?|En tu opinión, ¿cuánto cuesta una consola retro?|
+nostalgie-449|¿En qué situación decidirías comprar una bolsa de canicas?|¿En qué situación decidirías comprar una caja de golosinas de tu infancia?|
+nostalgie-450|¿En cuánto tiempo podrías releer mensajes antiguos?|¿En cuánto tiempo podrías encontrar una foto de familia antigua?|
+nostalgie-451|¿Cuánto tiempo te llevaría ordenar cosas viejas del colegio?|¿Cuánto tiempo te llevaría volver a ver una película de animación antigua?|
+nostalgie-452|¿A partir de qué precio dudarías en comprar un juego de mesa de los años 90 en buen estado?|¿A partir de qué precio dudarías en comprar una cámara desechable?|
+nostalgie-453|¿Adónde irías a comprar una figura de unos dibujos animados antiguos?|¿Adónde irías a comprar un reloj digital retro?|
+nostalgie-454|¿En qué momento te apetecería comprar un sobre de diez cartas coleccionables con licencia oficial?|¿En qué momento te apetecería comprar una revista juvenil antigua en buen estado?|
+nostalgie-455|En tu opinión, ¿cuánto tiempo hace falta para volver a ver una película de animación antigua?|En tu opinión, ¿cuánto tiempo hace falta para encontrar tu primer móvil?|
+nostalgie-456|¿Hasta cuánto pagarías por una caja de golosinas de tu infancia?|¿Hasta cuánto pagarías por un reproductor de DVD de segunda mano?|
+nostalgie-457|¿Cómo reaccionarías si encontraras una carta que recibiste a los diez años?|¿Cómo reaccionarías si alguien volviera a poner de moda algo de tu adolescencia?|
+nostalgie-458|¿A qué sitio irías para encontrar un álbum de fotos impreso?|¿A qué sitio irías para encontrar un reproductor MP3 de segunda mano?|
+nostalgie-459|¿A quién le pedirías ayuda para volver a ver una serie de tu infancia?|¿A quién le pedirías ayuda para ordenar cosas viejas del colegio?|
+nostalgie-460|¿Cuánto estarías dispuesto a gastarte en una bolsa de canicas?|¿Cuánto estarías dispuesto a gastarte en una caja de golosinas de tu infancia?|
+nostalgie-461|¿En qué situación decidirías comprar un pack recopilatorio de dibujos animados?|¿En qué situación decidirías comprar un sobre de diez cartas coleccionables con licencia oficial?|
+nostalgie-462|En tu opinión, ¿cuánto cuesta un reproductor de DVD de segunda mano?|En tu opinión, ¿cuánto cuesta una figura de unos dibujos animados antiguos?|
+nostalgie-463|¿Cuál sería el mejor momento para volver a ver una película de animación antigua?|¿Cuál sería el mejor momento para encontrar tu primer móvil?|
+nostalgie-464|¿Cuánto crees que vale un pack recopilatorio de dibujos animados?|¿Cuánto crees que vale un sobre de diez cartas coleccionables con licencia oficial?|
+nostalgie-465|Si tuvieras que hablar de una moda de tu adolescencia, ¿cuál sería tu prioridad?|Si tuvieras que encontrar un juguete viejo, ¿cuál sería tu prioridad?|
+nostalgie-466|Si tuvieras que volver a ver una película de animación antigua, ¿cuál sería tu prioridad?|Si tuvieras que encontrar tu primer móvil, ¿cuál sería tu prioridad?|
+nostalgie-467|¿Cuánto tiempo te llevaría encontrar una foto de clase de sexto de primaria?|¿Cuánto tiempo te llevaría volver a jugar a un juego de tu infancia?|sixième → sexto de primaria
+nostalgie-468|¿Qué te llevaría a comprar una revista juvenil antigua en buen estado?|¿Qué te llevaría a comprar una consola retro?|
+nostalgie-469|¿A partir de qué precio dudarías en comprar un reproductor MP3 de segunda mano?|¿A partir de qué precio dudarías en comprar un pack recopilatorio de dibujos animados?|
+nostalgie-470|En tu opinión, ¿cuánto cuesta una bici de niño vintage?|En tu opinión, ¿cuánto cuesta un cartel publicitario antiguo?|
+nostalgie-471|¿Qué momento del día elegirías para contar tu primer concierto?|¿Qué momento del día elegirías para preparar una merienda como las de antes?|
+nostalgie-472|¿Cuánto tiempo te llevaría reconocer la sintonía de unos dibujos animados?|¿Cuánto tiempo te llevaría hablar de una moda de tu adolescencia?|
+nostalgie-473|¿Quién podría darte el mejor consejo para hablar de una moda de tu adolescencia?|¿Quién podría darte el mejor consejo para encontrar un juguete viejo?|
+nostalgie-474|¿Qué sería lo más importante para releer mensajes antiguos?|¿Qué sería lo más importante para encontrar una foto de familia antigua?|
+nostalgie-475|¿En qué situación decidirías comprar una cámara desechable?|¿En qué situación decidirías comprar un videojuego retro de segunda mano para una consola antigua?|
+nostalgie-476|¿En qué momento te apetecería comprar una caja de golosinas de tu infancia?|¿En qué momento te apetecería comprar un reproductor de DVD de segunda mano?|
+nostalgie-477|¿Qué es lo primero que harías si una tienda volviera a vender tu merienda favorita de cuando eras pequeño?|¿Qué es lo primero que harías si te cruzaras con un antiguo profesor?|
+nostalgie-478|Según tú, ¿cuánto cuesta una consola retro?|Según tú, ¿cuánto cuesta una cinta de casete de segunda mano en buen estado?|
+nostalgie-479|¿Qué franja del día te vendría mejor para elegir una canción de los años 2000?|¿Qué franja del día te vendría mejor para montar una noche de juegos retro?|
+nostalgie-480|¿En cuánto tiempo podrías explicarle un juego antiguo a un niño?|¿En cuánto tiempo podrías volver a ver una serie de tu infancia?|
+nostalgie-481|¿A quién le pedirías ayuda para preparar una merienda como las de antes?|¿A quién le pedirías ayuda para reencontrarte con un antiguo compañero del instituto al que no ves desde hace diez años?|collège → instituto
+nostalgie-482|¿En cuánto tiempo podrías encontrar un juguete viejo?|¿En cuánto tiempo podrías elegir una canción de los años 2000?|
+nostalgie-483|En tu opinión, ¿cuánto tiempo hace falta para preparar una fiesta temática de tu infancia?|En tu opinión, ¿cuánto tiempo hace falta para releer mensajes antiguos?|
+nostalgie-484|¿Cuál sería tu mayor dificultad para encontrar una foto de clase de sexto de primaria?|¿Cuál sería tu mayor dificultad para volver a jugar a un juego de tu infancia?|sixième → sexto de primaria
+nostalgie-485|¿Hasta cuánto pagarías por un cómic de tu infancia?|¿Hasta cuánto pagarías por un reproductor de CD de segunda mano?|
+nostalgie-486|¿Cuánto crees que vale una cámara desechable?|¿Cuánto crees que vale un videojuego retro de segunda mano para una consola antigua?|
+nostalgie-487|¿A partir de qué precio dudarías en comprar una consola retro?|¿A partir de qué precio dudarías en comprar una cinta de casete de segunda mano en buen estado?|
+nostalgie-488|¿Cómo responderías si alguien volviera a poner de moda algo de tu adolescencia?|¿Cómo responderías si encontraras una antigua lista de deseos?|
+nostalgie-489|¿Dónde buscarías primero un reloj digital retro?|¿Dónde buscarías primero un cómic de tu infancia?|
+nostalgie-490|¿Cómo reaccionarías si una canción antigua te recordara a alguien?|¿Cómo reaccionarías si encontraras tu primer móvil?|
+nostalgie-491|¿A quién llamarías para que te ayudara a reencontrarte con un antiguo compañero del instituto al que no ves desde hace diez años?|¿A quién llamarías para que te ayudara a ponerle a alguien una canción antigua?|collège → instituto
+nostalgie-492|¿Qué presupuesto máximo pondrías para un reproductor de DVD de segunda mano?|¿Qué presupuesto máximo pondrías para una figura de unos dibujos animados antiguos?|
+nostalgie-493|Si tuvieras que volver a jugar a un juego de tu infancia, ¿cuál sería tu prioridad?|Si tuvieras que contar tu primer concierto, ¿cuál sería tu prioridad?|
+nostalgie-494|¿Qué precio te imaginas para un sobre de diez cartas coleccionables con licencia oficial?|¿Qué precio te imaginas para una revista juvenil antigua en buen estado?|
+nostalgie-495|Según tú, ¿cuánto cuesta un cartel publicitario antiguo?|Según tú, ¿cuánto cuesta una bolsa de canicas?|
+nostalgie-496|¿Qué dirías en el momento si encontraras un juego al que jugabas de pequeño?|¿Qué dirías en el momento si un amigo no conociera un programa de tele antiguo?|
+nostalgie-497|¿Cuál sería tu primer impulso si alguien volviera a poner de moda algo de tu adolescencia?|¿Cuál sería tu primer impulso si encontraras una antigua lista de deseos?|
+nostalgie-498|Si tuvieras que ponerle a alguien una canción antigua, ¿cuál sería tu prioridad?|Si tuvieras que explicarle un juego antiguo a un niño, ¿cuál sería tu prioridad?|
+nostalgie-499|En tu opinión, ¿cuánto cuesta un álbum de fotos impreso?|En tu opinión, ¿cuánto cuesta un reproductor MP3 de segunda mano?|
+nostalgie-500|¿Qué persona de tu entorno podría ayudarte a releer mensajes antiguos?|¿Qué persona de tu entorno podría ayudarte a encontrar una foto de familia antigua?|
+nostalgie-501|¿Cuál sería tu mayor dificultad para montar una noche de juegos retro?|¿Cuál sería tu mayor dificultad para preparar una fiesta temática de tu infancia?|
+nostalgie-502|¿Cómo responderías si recuperaras una consola antigua?|¿Cómo responderías si te viniera de golpe un recuerdo del colegio?|
+nostalgie-503|¿A qué sitio irías para encontrar un reproductor de CD de segunda mano?|¿A qué sitio irías para encontrar un juego de mesa de los años 90 en buen estado?|
+nostalgie-504|¿Qué franja del día te vendría mejor para preparar una merienda como las de antes?|¿Qué franja del día te vendría mejor para reencontrarte con un antiguo compañero del instituto al que no ves desde hace diez años?|collège → instituto
+nostalgie-505|En tu opinión, ¿cuánto tiempo hace falta para ponerle a alguien una canción antigua?|En tu opinión, ¿cuánto tiempo hace falta para explicarle un juego antiguo a un niño?|
+nostalgie-506|¿En cuánto tiempo podrías contar tu primer concierto?|¿En cuánto tiempo podrías preparar una merienda como las de antes?|
+nostalgie-507|¿Cuánto tiempo te llevaría montar una noche de juegos retro?|¿Cuánto tiempo te llevaría preparar una fiesta temática de tu infancia?|
+nostalgie-508|¿Cuál sería el mejor momento para preparar una fiesta temática de tu infancia?|¿Cuál sería el mejor momento para releer mensajes antiguos?|
+nostalgie-509|¿Cuál sería tu primera reacción si volvieras a ver a un amigo de la infancia después de diez años?|¿Cuál sería tu primera reacción si un familiar sacara un vídeo familiar antiguo?|
+nostalgie-510|¿A quién llamarías para que te ayudara a encontrar una foto de clase de sexto de primaria?|¿A quién llamarías para que te ayudara a volver a jugar a un juego de tu infancia?|sixième → sexto de primaria
+nostalgie-511|¿A quién llamarías para que te ayudara a reconocer la sintonía de unos dibujos animados?|¿A quién llamarías para que te ayudara a hablar de una moda de tu adolescencia?|
+nostalgie-512|¿Qué frase te saldría si una canción antigua te recordara a alguien?|¿Qué frase te saldría si encontraras tu primer móvil?|
+nostalgie-513|¿Para qué ocasión querrías comprar un juego de mesa de los años 90 en buen estado?|¿Para qué ocasión querrías comprar una cámara desechable?|
+nostalgie-514|En tu opinión, ¿cuánto cuesta un reproductor de CD de segunda mano?|En tu opinión, ¿cuánto cuesta un juego de mesa de los años 90 en buen estado?|
+nostalgie-515|¿Qué precio te imaginas para una caja de golosinas de tu infancia?|¿Qué precio te imaginas para un reproductor de DVD de segunda mano?|
+nostalgie-516|¿Qué dirías en el momento si te viniera de golpe un recuerdo del colegio?|¿Qué dirías en el momento si un amigo sacara su antigua agenda escolar?|carnet de correspondance → agenda escolar
+nostalgie-517|¿Cómo reaccionarías si oyeras la sintonía de unos dibujos animados?|¿Cómo reaccionarías si recuperaras una consola antigua?|
+nostalgie-518|¿Qué sería lo más importante para encontrar tu primer móvil?|¿Qué sería lo más importante para hacer un álbum de recuerdos?|
+nostalgie-519|¿Cuánto tiempo te llevaría reencontrarte con un antiguo compañero del instituto al que no ves desde hace diez años?|¿Cuánto tiempo te llevaría ponerle a alguien una canción antigua?|collège → instituto
+nostalgie-520|¿A partir de qué precio dudarías en comprar un cartel publicitario antiguo?|¿A partir de qué precio dudarías en comprar una bolsa de canicas?|
+nostalgie-521|¿Qué momento del día elegirías para releer mensajes antiguos?|¿Qué momento del día elegirías para encontrar una foto de familia antigua?|
+nostalgie-522|¿Qué momento del día elegirías para encontrar tu primer móvil?|¿Qué momento del día elegirías para hacer un álbum de recuerdos?|
+nostalgie-523|¿Quién podría darte el mejor consejo para preparar una fiesta temática de tu infancia?|¿Quién podría darte el mejor consejo para releer mensajes antiguos?|
+nostalgie-524|En tu opinión, ¿cuánto tiempo hace falta para hablar de una moda de tu adolescencia?|En tu opinión, ¿cuánto tiempo hace falta para encontrar un juguete viejo?|
+nostalgie-525|¿Qué dirías si un familiar sacara un vídeo familiar antiguo?|¿Qué dirías si encontraras una carta que recibiste a los diez años?|
+nostalgie-526|¿Cuánto crees que vale un reloj digital retro?|¿Cuánto crees que vale un cómic de tu infancia?|
+nostalgie-527|¿Cuánto tiempo calcularías para encontrar una foto de familia antigua?|¿Cuánto tiempo calcularías para encontrar una foto de clase de sexto de primaria?|sixième → sexto de primaria
+nostalgie-528|¿Qué detalle comprobarías antes de buscar una foto de familia antigua?|¿Qué detalle comprobarías antes de buscar una foto de clase de sexto de primaria?|sixième → sexto de primaria
+nostalgie-529|¿Cómo responderías si encontraras tu primer móvil?|¿Cómo responderías si un amigo recordara un chiste del instituto?|collège → instituto
+nostalgie-530|¿Qué es lo primero que harías si un amigo no conociera un programa de tele antiguo?|¿Qué es lo primero que harías si oyeras la sintonía de unos dibujos animados?|
+nostalgie-531|¿Cómo responderías si te enseñaran una foto tuya de adolescente?|¿Cómo responderías si encontraras un juego al que jugabas de pequeño?|
+reflexe-345|Sin pensarlo, di un objeto de madera.|Sin pensarlo, di un objeto para protegerse de la lluvia.|
+reflexe-346|Responde sin pensar: un objeto de cristal.|Responde sin pensar: un objeto de madera.|
+reflexe-347|Responde sin pensar: un sitio donde se lleva uniforme.|Responde sin pensar: un lugar donde se descansa.|
+reflexe-348|Responde sin pensar: un lugar donde quedas con tus amigos.|Responde sin pensar: un sitio donde hay mucha luz.|
+reflexe-349|Responde sin pensar: una actividad que se hace al aire libre.|Responde sin pensar: una actividad que puedes hacer solo.|
+reflexe-350|Di una actividad con niños.|Di una actividad que se hace al aire libre.|
+reflexe-351|¿Qué ejemplo se te ocurre para «un objeto de cristal»?|¿Qué ejemplo se te ocurre para «un objeto de madera»?|
+reflexe-352|Responde sin pensar: un objeto que se usa para limpiar.|Responde sin pensar: un objeto que se regala fácilmente.|
+reflexe-353|Responde sin pensar: una actividad que requiere silencio.|Responde sin pensar: una actividad que se hace en pareja.|
+reflexe-354|Di un lugar al que se va en familia.|Di un sitio donde hay que reservar.|
+reflexe-355|Sin pensarlo, di un objeto que se encuentra en la entrada de una casa.|Sin pensarlo, di un objeto pequeño de cocina.|
+reflexe-356|Di un lugar donde quedas con tus amigos.|Di un sitio donde hay mucha luz.|
+reflexe-357|Responde sin pensar: un momento en el que se espera.|Responde sin pensar: una actividad que requiere silencio.|
+reflexe-358|¿Qué ejemplo se te ocurre para «un objeto que cabe en una mano»?|¿Qué ejemplo se te ocurre para «un objeto de cristal»?|
+reflexe-359|Sin pensarlo, di un objeto que se dobla.|Sin pensarlo, di un momento en el que se espera.|
+reflexe-360|¿Qué ejemplo se te ocurre para «un objeto que se usa para cocinar»?|¿Qué ejemplo se te ocurre para «un objeto que cabe en una mano»?|
+reflexe-361|Di un utensilio de jardinería habitual.|Di un objeto del coche.|
+reflexe-362|¿Qué ejemplo se te ocurre para «un objeto que se dobla»?|¿Qué ejemplo se te ocurre para «un momento en el que se espera»?|
+reflexe-363|Di un objeto que hay en un escritorio.|Di un objeto que te llevas de viaje.|
+reflexe-364|Sin pensarlo, di un objeto de cristal.|Sin pensarlo, di un objeto de madera.|
+reflexe-365|¿Qué ejemplo se te ocurre para «un accesorio de deporte»?|¿Qué ejemplo se te ocurre para «un objeto que le prestas a un vecino»?|
+reflexe-366|Responde sin pensar: un objeto del coche.|Responde sin pensar: un objeto que hay en un dormitorio.|
+reflexe-367|Sin pensarlo, di un objeto que le prestas a un vecino.|Sin pensarlo, di un objeto que se dobla.|
+reflexe-368|¿Qué ejemplo se te ocurre para «un lugar donde hay que hacer cola»?|¿Qué ejemplo se te ocurre para «un lugar donde quedas con tus amigos»?|
+reflexe-369|Sin pensarlo, di un objeto que te llevas de viaje.|Sin pensarlo, di un utensilio de jardinería habitual.|
+reflexe-370|Di un objeto que se regala fácilmente.|Di un objeto que funciona con pilas.|
+reflexe-371|Di un sitio donde dejas el bolso o la mochila.|Di un objeto que llevas en el bolsillo.|
+reflexe-372|Responde sin pensar: una actividad que haces cada semana.|Responde sin pensar: algo que haces al llegar a casa.|
+reflexe-373|Di una costumbre en la mesa.|Di una tarea que dejas para mañana.|
+reflexe-374|Responde sin pensar: una actividad para un día de lluvia.|Responde sin pensar: algo que haces antes de dormir.|
+reflexe-375|Di una actividad de domingo por la mañana.|Di una actividad para un día de lluvia.|
+reflexe-376|Di una actividad que puedes hacer solo.|Di una costumbre en la mesa.|
+reflexe-377|¿Qué ejemplo se te ocurre para «algo que haces antes de dormir»?|¿Qué ejemplo se te ocurre para «un gesto que haces al despertarte»?|
+reflexe-378|Responde sin pensar: una actividad que dura menos de cinco minutos.|Responde sin pensar: una actividad que necesita un móvil.|
+reflexe-379|Responde sin pensar: un objeto de madera.|Responde sin pensar: un objeto para protegerse de la lluvia.|
+reflexe-380|¿Qué ejemplo se te ocurre para «un sitio donde hay mucha luz»?|¿Qué ejemplo se te ocurre para «un lugar donde se come rápido»?|
+reflexe-381|Di un objeto que se encuentra en la entrada de una casa.|Di un objeto pequeño de cocina.|
+reflexe-382|¿Qué ejemplo se te ocurre para «un lugar donde esperas tu turno»?|¿Qué ejemplo se te ocurre para «un sitio donde dejas el bolso o la mochila»?|
+reflexe-383|Responde sin pensar: un sitio donde se hacen fotos.|Responde sin pensar: un lugar al que se va en familia.|
+reflexe-384|Sin pensarlo, di un objeto que hay en un escritorio.|Sin pensarlo, di un objeto que te llevas de viaje.|
+reflexe-385|¿Qué ejemplo se te ocurre para «una actividad que haces cada semana»?|¿Qué ejemplo se te ocurre para «algo que haces al llegar a casa»?|
+reflexe-386|¿Qué ejemplo se te ocurre para «un lugar donde suele haber ruido»?|¿Qué ejemplo se te ocurre para «un sitio donde se hacen fotos»?|
+reflexe-387|Responde sin pensar: un lugar donde se descansa.|Responde sin pensar: un sitio donde buscas aparcamiento.|
+reflexe-388|Di un lugar donde hay que ser puntual.|Di un sitio donde se lleva uniforme.|
+reflexe-389|Sin pensarlo, di un objeto que llevas en el bolsillo.|Sin pensarlo, di un objeto que se encuentra en la entrada de una casa.|
+reflexe-390|Di un objeto que se usa para cocinar.|Di un objeto que cabe en una mano.|
+reflexe-391|Responde sin pensar: un lugar donde hay libros.|Responde sin pensar: un sitio donde se oye música.|
+reflexe-392|Di una actividad para relajarse.|Di algo que preparas con antelación.|
+reflexe-393|Di un objeto que te llevas de viaje.|Di un utensilio de jardinería habitual.|
+reflexe-394|¿Qué ejemplo se te ocurre para «un objeto que te llevas de viaje»?|¿Qué ejemplo se te ocurre para «un utensilio de jardinería habitual»?|
+reflexe-395|¿Qué ejemplo se te ocurre para «un lugar donde se come rápido»?|¿Qué ejemplo se te ocurre para «un sitio donde te olvidas las cosas»?|
+reflexe-396|Responde sin pensar: un objeto que se usa para cocinar.|Responde sin pensar: un objeto que cabe en una mano.|
+reflexe-397|Responde sin pensar: una actividad de domingo por la mañana.|Responde sin pensar: una actividad para un día de lluvia.|
+reflexe-398|¿Qué ejemplo se te ocurre para «una actividad que haces en vacaciones»?|¿Qué ejemplo se te ocurre para «una actividad que haces cada semana»?|
+reflexe-399|¿Qué ejemplo se te ocurre para «un objeto que le prestas a un vecino»?|¿Qué ejemplo se te ocurre para «un objeto que se dobla»?|
+reflexe-400|Responde sin pensar: un utensilio de jardinería habitual.|Responde sin pensar: un objeto del coche.|
+reflexe-401|¿Qué ejemplo se te ocurre para «un gesto que haces al despertarte»?|¿Qué ejemplo se te ocurre para «una actividad que hace sudar»?|
+reflexe-402|Di una actividad que se hace en pareja.|Di una actividad de domingo por la mañana.|
+reflexe-403|Di un objeto pequeño de cocina.|Di un accesorio de baño.|
+reflexe-404|Sin pensarlo, di un accesorio de baño.|Sin pensarlo, di un objeto que hay en un escritorio.|
+reflexe-405|Responde sin pensar: un sitio donde hay que reservar.|Responde sin pensar: un lugar donde hay que ser puntual.|
+reflexe-406|Di un accesorio de deporte.|Di un objeto que le prestas a un vecino.|
+reflexe-407|Responde sin pensar: una actividad que se hace en pareja.|Responde sin pensar: una actividad de domingo por la mañana.|
+reflexe-408|Di un lugar donde se descansa.|Di un sitio donde buscas aparcamiento.|
+reflexe-409|Responde sin pensar: un accesorio de deporte.|Responde sin pensar: un objeto que le prestas a un vecino.|
+reflexe-410|¿Qué ejemplo se te ocurre para «un lugar al que se va en familia»?|¿Qué ejemplo se te ocurre para «un sitio donde hay que reservar»?|
+reflexe-411|¿Qué ejemplo se te ocurre para «una actividad que puedes hacer solo»?|¿Qué ejemplo se te ocurre para «una costumbre en la mesa»?|
+reflexe-412|Di algo que preparas con antelación.|Di una actividad con niños.|
+reflexe-413|¿Qué ejemplo se te ocurre para «un objeto que se encuentra en la entrada de una casa»?|¿Qué ejemplo se te ocurre para «un objeto pequeño de cocina»?|
+reflexe-414|Responde sin pensar: una actividad que hace sudar.|Responde sin pensar: una actividad para relajarse.|
+reflexe-415|Responde sin pensar: algo que haces antes de dormir.|Responde sin pensar: un gesto que haces al despertarte.|
+reflexe-416|¿Qué ejemplo se te ocurre para «un objeto que se usa para limpiar»?|¿Qué ejemplo se te ocurre para «un objeto que se regala fácilmente»?|
+reflexe-417|¿Qué ejemplo se te ocurre para «un sitio donde hay que reservar»?|¿Qué ejemplo se te ocurre para «un lugar donde hay que ser puntual»?|
+reflexe-418|Responde sin pensar: un objeto que hay en un dormitorio.|Responde sin pensar: un objeto que se usa para limpiar.|
+reflexe-419|¿Qué ejemplo se te ocurre para «un objeto que se regala fácilmente»?|¿Qué ejemplo se te ocurre para «un objeto que funciona con pilas»?|
+reflexe-420|¿Qué ejemplo se te ocurre para «un lugar donde hay que ser puntual»?|¿Qué ejemplo se te ocurre para «un sitio donde se lleva uniforme»?|
+reflexe-421|Responde sin pensar: un objeto que se regala fácilmente.|Responde sin pensar: un objeto que funciona con pilas.|
+reflexe-422|¿Qué ejemplo se te ocurre para «un momento en el que se espera»?|¿Qué ejemplo se te ocurre para «una actividad que requiere silencio»?|
+reflexe-423|¿Qué ejemplo se te ocurre para «un objeto que hay en un dormitorio»?|¿Qué ejemplo se te ocurre para «un objeto que se usa para limpiar»?|
+reflexe-424|¿Qué ejemplo se te ocurre para «un sitio donde buscas aparcamiento»?|¿Qué ejemplo se te ocurre para «un lugar donde se mira una pantalla»?|
+reflexe-425|¿Qué ejemplo se te ocurre para «un objeto para protegerse de la lluvia»?|¿Qué ejemplo se te ocurre para «un accesorio de deporte»?|
+reflexe-426|Responde sin pensar: un sitio donde se habla en voz baja.|Responde sin pensar: un lugar donde hay que hacer cola.|
+reflexe-427|Sin pensarlo, di un objeto del coche.|Sin pensarlo, di un objeto que hay en un dormitorio.|
+reflexe-428|Responde sin pensar: un objeto pequeño de cocina.|Responde sin pensar: un accesorio de baño.|
+reflexe-429|Sin pensarlo, di un objeto que se regala fácilmente.|Sin pensarlo, di un objeto que funciona con pilas.|
+reflexe-430|¿Qué ejemplo se te ocurre para «un sitio donde se oye música»?|¿Qué ejemplo se te ocurre para «un lugar donde esperas tu turno»?|
+reflexe-431|Responde sin pensar: una actividad que haces en vacaciones.|Responde sin pensar: una actividad que haces cada semana.|
+reflexe-432|¿Qué ejemplo se te ocurre para «un objeto de madera»?|¿Qué ejemplo se te ocurre para «un objeto para protegerse de la lluvia»?|
+reflexe-433|Di un sitio donde buscas aparcamiento.|Di un lugar donde se mira una pantalla.|
+reflexe-434|¿Qué ejemplo se te ocurre para «una costumbre en la mesa»?|¿Qué ejemplo se te ocurre para «una tarea que dejas para mañana»?|
+reflexe-435|¿Qué ejemplo se te ocurre para «una actividad para relajarse»?|¿Qué ejemplo se te ocurre para «algo que preparas con antelación»?|
+reflexe-436|¿Qué ejemplo se te ocurre para «una actividad con niños»?|¿Qué ejemplo se te ocurre para «una actividad que se hace al aire libre»?|
+reflexe-437|¿Qué ejemplo se te ocurre para «una actividad que hace sudar»?|¿Qué ejemplo se te ocurre para «una actividad para relajarse»?|
+reflexe-438|¿Qué ejemplo se te ocurre para «un objeto que llevas en el bolsillo»?|¿Qué ejemplo se te ocurre para «un objeto que se encuentra en la entrada de una casa»?|
+reflexe-439|Sin pensarlo, di un objeto que se usa para limpiar.|Sin pensarlo, di un objeto que se regala fácilmente.|
+reflexe-440|Di un sitio donde hay que reservar.|Di un lugar donde hay que ser puntual.|
+reflexe-441|Responde sin pensar: un objeto que funciona con pilas.|Responde sin pensar: un objeto que se usa para cocinar.|
+reflexe-442|¿Qué ejemplo se te ocurre para «una actividad que dura menos de cinco minutos»?|¿Qué ejemplo se te ocurre para «una actividad que necesita un móvil»?|
+reflexe-443|¿Qué ejemplo se te ocurre para «una actividad de domingo por la mañana»?|¿Qué ejemplo se te ocurre para «una actividad para un día de lluvia»?|

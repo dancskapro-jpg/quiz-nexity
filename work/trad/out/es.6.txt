@@ -98,3 +98,202 @@ ville-429|¿Cuánto tiempo crees que hace falta para quedar con un amigo en la e
 ville-430|¿A partir de qué precio dudarías en comprar una tarjeta de transporte recargable?|¿A partir de qué precio dudarías en comprar una entrada para una sesión en un cine de barrio?|
 ville-431|¿En qué web o en qué tienda buscarías una entrada de adulto para un autobús turístico en Madrid?|¿En qué web o en qué tienda buscarías una entrada de adulto para un museo municipal de pago?|Paris → Madrid
 ville-432|¿Qué es lo primero que harías si el metro se parara entre dos estaciones?|¿Qué es lo primero que harías si un turista te preguntara cómo llegar a un sitio?|
+ville-433|¿En qué situación decidirías reservar una visita guiada por el barrio?|¿En qué situación decidirías comprar un billete de lanzadera entre un aeropuerto y el centro?|
+ville-434|¿Quién podría darte el mejor consejo para quedar con un amigo en la estación de Atocha en Madrid?|¿Quién podría darte el mejor consejo para hacer un recado en el centro?|gare de Lyon (Paris) → Atocha (Madrid)
+ville-435|¿En qué momento te apetecería comprar una entrada de adulto para un autobús turístico en Madrid?|¿En qué momento te apetecería comprar una entrada de adulto para un museo municipal de pago?|Paris → Madrid
+ville-436|¿Para qué ocasión querrías reservar una noche para dos personas en un hotel del centro?|¿Para qué ocasión querrías comprar un abono turístico de dos días?|
+ville-437|¿Cómo reaccionarías si encontraras una cartera en la acera?|¿Cómo reaccionarías si la calle que conoces estuviera cortada?|
+ville-438|¿Dónde buscarías primero un abono turístico de dos días?|¿Dónde buscarías primero un billete sencillo de Cercanías para un trayecto de 50 km?|TER → Cercanías
+ville-439|¿Dónde buscarías primero una entrada para una sesión en un cine de barrio?|¿Dónde buscarías primero un billete de barco-bus?|
+ville-440|¿Cuánto crees que cuesta una entrada de adulto para un museo municipal de pago?|¿Cuánto crees que cuesta un billete sencillo de tranvía en España?|France → España
+ville-441|¿Cuánto crees que cuesta un billete sencillo de metro en Madrid?|¿Cuánto crees que cuesta un abono mensual de transporte público en Madrid?|Paris → Madrid
+ville-442|¿En qué momento de la semana preferirías elegir una cafetería para trabajar?|¿En qué momento de la semana preferirías quedar con un amigo en la estación de Atocha en Madrid?|gare de Lyon (Paris) → Atocha (Madrid)
+ville-443|¿Cuál sería tu prioridad si tuvieras que comprar un billete de tren regional en la máquina de la estación?|¿Cuál sería tu prioridad si tuvieras que encontrar una dirección sin GPS?|
+ville-444|¿Qué franja del día sería la más práctica para visitar un mercado de barrio?|¿Qué franja del día sería la más práctica para preparar un trayecto en bici por la ciudad?|
+ville-445|¿Qué presupuesto máximo pondrías para una entrada para una exposición local?|¿Qué presupuesto máximo pondrías para una noche para dos personas en un hotel del centro?|
+ville-446|¿Hasta cuánto pagarías por un billete sencillo de Cercanías para un trayecto de 50 km?|¿Hasta cuánto pagarías por un billete sencillo de metro en Madrid?|TER → Cercanías, Paris → Madrid
+ville-447|¿A quién contactarías para que te ayude a preparar un trayecto en transporte público?|¿A quién contactarías para que te ayude a encontrar una plaza de aparcamiento de pago para dos horas en el centro?|
+ville-448|¿Cuánto tiempo te haría falta para elegir una cafetería para trabajar?|¿Cuánto tiempo te haría falta para quedar con un amigo en la estación de Atocha en Madrid?|gare de Lyon (Paris) → Atocha (Madrid)
+ville-449|¿Qué es lo primero que harías si un autobús pasara delante de ti sin pararse?|¿Qué es lo primero que harías si un ciclista te tocara el timbre por detrás?|
+ville-450|¿Qué es lo primero que harías si un conductor te dejara pasar?|¿Qué es lo primero que harías si la máquina de billetes no funcionara?|
+ville-451|¿Cuánto piensas que vale una hora de parking en el centro de Madrid?|¿Cuánto piensas que vale un café en una terraza?|Paris → Madrid
+ville-452|¿En cuánto tiempo podrías buscar una tienda abierta en domingo?|¿En cuánto tiempo podrías descubrir un barrio desconocido?|
+ville-453|¿Hasta cuánto pagarías por un billete de barco-bus?|¿Hasta cuánto pagarías por una entrada para una exposición local?|
+ville-454|¿Para qué ocasión querrías comprar una bici de ciudad de segunda mano en buen estado, de menos de cinco años?|¿Para qué ocasión querrías reservar una visita guiada por el barrio?|
+ville-455|¿A quién pedirías ayuda para visitar un mercado de barrio?|¿A quién pedirías ayuda para preparar un trayecto en bici por la ciudad?|
+ville-456|¿Quién podría darte el mejor consejo para comprar un billete de tren regional en la máquina de la estación?|¿Quién podría darte el mejor consejo para encontrar una dirección sin GPS?|
+ville-457|¿Cuánto tiempo crees que hace falta para preparar un transbordo de línea?|¿Cuánto tiempo crees que hace falta para buscar una tienda abierta en domingo?|
+ville-458|¿Cuál sería tu primer reflejo si te dieras cuenta de que estás en el autobús equivocado?|¿Cuál sería tu primer reflejo si un transeúnte te indicara un atajo inesperado?|
+ville-459|¿Qué persona de tu entorno podría ayudarte a hacer un recado en el centro?|¿Qué persona de tu entorno podría ayudarte a visitar un mercado de barrio?|
+ville-460|¿Cuál sería el mejor momento para encontrar una plaza de aparcamiento de pago para dos horas en el centro?|¿Cuál sería el mejor momento para localizar un restaurante cerca de una estación?|
+ville-461|¿Qué detalle comprobarías antes de visitar un mercado de barrio?|¿Qué detalle comprobarías antes de preparar un trayecto en bici por la ciudad?|
+ville-462|¿Qué detalle comprobarías antes de organizar una visita por el barrio?|¿Qué detalle comprobarías antes de comparar dos rutas de metro?|
+ville-463|¿En qué web o en qué tienda buscarías un billete de lanzadera entre un aeropuerto y el centro?|¿En qué web o en qué tienda buscarías un abono de bicicletas compartidas?|
+ville-464|¿Cuánto piensas que vale un trayecto de cinco kilómetros en taxi por Madrid?|¿Cuánto piensas que vale una entrada de adulto para un autobús turístico en Madrid?|Paris → Madrid
+ville-465|¿Hasta cuánto pagarías por una entrada de adulto para un autobús turístico en Madrid?|¿Hasta cuánto pagarías por una entrada de adulto para un museo municipal de pago?|Paris → Madrid
+ville-466|¿Cuál es, según tú, el precio de una bici de ciudad de segunda mano en buen estado, de menos de cinco años?|¿Cuál es, según tú, el precio de una visita guiada por el barrio?|
+ville-467|¿Qué detalle comprobarías antes de descubrir un barrio desconocido?|¿Qué detalle comprobarías antes de preparar un trayecto en transporte público?|
+ville-468|¿Cuánto crees que cuesta un abono de bicicletas compartidas?|¿Cuánto crees que cuesta una tarjeta de transporte recargable?|
+ville-469|¿Hasta cuánto pagarías por un café en una terraza?|¿Hasta cuánto pagarías por una comida en un restaurante de barrio?|brasserie → restaurante de barrio
+ville-470|¿A qué sitio irías para encontrar una entrada de adulto para un museo municipal de pago?|¿A qué sitio irías para encontrar un billete sencillo de tranvía en España?|France → España
+ville-471|¿En qué momento de la semana preferirías preparar un trayecto en transporte público?|¿En qué momento de la semana preferirías buscar una plaza de aparcamiento de pago para dos horas en el centro?|
+ville-472|¿En qué situación decidirías pagar una hora de parking en el centro de Madrid?|¿En qué situación decidirías pedirte un café en una terraza?|Paris → Madrid
+ville-473|¿A quién pedirías ayuda para preparar un trayecto de noche?|¿A quién pedirías ayuda para elegir una cafetería para trabajar?|
+ville-474|¿Dónde buscarías primero una hora de parking en el centro de Madrid?|¿Dónde buscarías primero un café en una terraza?|Paris → Madrid
+ville-475|¿En cuánto tiempo podrías organizar un día de visitas en Roma sin coche?|¿En cuánto tiempo podrías elegir un museo cercano?|
+ville-476|¿Cuánto tiempo te haría falta para preparar un trayecto en bici por la ciudad?|¿Cuánto tiempo te haría falta para encontrar una terraza tranquila a menos de diez minutos andando?|
+ville-477|¿Cuál es, según tú, el precio de una tarjeta de transporte recargable?|¿Cuál es, según tú, el precio de una entrada para una sesión en un cine de barrio?|
+ville-478|¿Cuál es, según tú, el precio de un billete sencillo de tranvía en España?|¿Cuál es, según tú, el precio de una hora de parking en el centro de Madrid?|France → España, Paris → Madrid
+ville-479|¿Cuánto tiempo te haría falta para comparar dos rutas de metro?|¿Cuánto tiempo te haría falta para comprar un billete de tren regional en la máquina de la estación?|
+ville-480|¿Quién podría darte el mejor consejo para encontrar una plaza de aparcamiento de pago para dos horas en el centro?|¿Quién podría darte el mejor consejo para localizar un restaurante cerca de una estación?|
+ville-481|¿Qué te llevaría a comprar una entrada de adulto para un museo municipal de pago?|¿Qué te llevaría a comprar un billete sencillo de tranvía en España?|France → España
+ville-482|¿Cuánto crees que cuesta una entrada para una exposición local?|¿Cuánto crees que cuesta una noche para dos personas en un hotel del centro?|
+ville-483|¿En qué momento te apetecería pedirte un café en una terraza?|¿En qué momento te apetecería reservar una comida en un restaurante de barrio?|brasserie → restaurante de barrio
+ville-484|¿A quién contactarías para que te ayude a preparar un trayecto en bici por la ciudad?|¿A quién contactarías para que te ayude a encontrar una terraza tranquila a menos de diez minutos andando?|
+ville-485|¿Qué te llevaría a comprar un billete sencillo de metro en Madrid?|¿Qué te llevaría a comprar un abono mensual de transporte público en Madrid?|Paris → Madrid
+ville-486|¿Cuál sería tu primera reacción si un amigo te diera mal el sitio donde habíais quedado?|¿Cuál sería tu primera reacción si un conductor te dejara pasar?|
+ville-487|¿A qué sitio irías para encontrar una entrada para una exposición local?|¿A qué sitio irías para encontrar una noche para dos personas en un hotel del centro?|
+ville-488|¿Qué precio te imaginas para un café en una terraza?|¿Qué precio te imaginas para una comida en un restaurante de barrio?|brasserie → restaurante de barrio
+ville-489|¿En qué momento de la semana preferirías preparar un trayecto en bici por la ciudad?|¿En qué momento de la semana preferirías buscar una terraza tranquila a menos de diez minutos andando?|
+ville-490|¿A partir de qué precio dudarías en comprar una bici de ciudad de segunda mano en buen estado, de menos de cinco años?|¿A partir de qué precio dudarías en reservar una visita guiada por el barrio?|
+ville-491|¿Qué persona de tu entorno podría ayudarte a organizar un día de visitas en Roma sin coche?|¿Qué persona de tu entorno podría ayudarte a elegir un museo cercano?|
+ville-492|¿En qué situación decidirías comprar un abono turístico de dos días?|¿En qué situación decidirías comprar un billete sencillo de Cercanías para un trayecto de 50 km?|TER → Cercanías
+ville-493|¿En qué momento te apetecería comprar un billete sencillo de Cercanías para un trayecto de 50 km?|¿En qué momento te apetecería comprar un billete sencillo de metro en Madrid?|TER → Cercanías, Paris → Madrid
+ville-494|¿Qué dirías en el momento si te equivocaras de salida del metro?|¿Qué dirías en el momento si un autobús pasara delante de ti sin pararse?|
+ville-495|¿Qué presupuesto máximo pondrías para un abono de bicicletas compartidas?|¿Qué presupuesto máximo pondrías para una tarjeta de transporte recargable?|
+ville-496|¿Cuál sería tu mayor dificultad para elegir una cafetería para trabajar?|¿Cuál sería tu mayor dificultad para quedar con un amigo en la estación de Atocha en Madrid?|gare de Lyon (Paris) → Atocha (Madrid)
+ville-497|¿Qué presupuesto máximo pondrías para un billete sencillo de metro en Madrid?|¿Qué presupuesto máximo pondrías para un abono mensual de transporte público en Madrid?|Paris → Madrid
+ville-498|¿Cómo reaccionarías si la máquina de billetes no funcionara?|¿Cómo reaccionarías si te dieras cuenta de que estás en el autobús equivocado?|
+ville-499|¿Qué te llevaría a comprar un abono de bicicletas compartidas?|¿Qué te llevaría a comprar una tarjeta de transporte recargable?|
+ville-500|¿Cómo reaccionarías si un turista te preguntara cómo llegar a un sitio?|¿Cómo reaccionarías si el conductor se saltara tu parada?|
+ville-501|¿Qué sería lo más importante para localizar un restaurante cerca de una estación?|¿Qué sería lo más importante para organizar una visita por el barrio?|
+ville-502|¿Cuál sería tu mayor dificultad para encontrar una ruta de paseo accesible en silla de ruedas?|¿Cuál sería tu mayor dificultad para preparar un transbordo de línea?|
+ville-503|¿Cómo reaccionarías si un ciclista te tocara el timbre por detrás?|¿Cómo reaccionarías si un peatón te preguntara la hora?|
+ville-504|¿Cuánto tiempo calcularías para preparar un trayecto de noche?|¿Cuánto tiempo calcularías para elegir una cafetería para trabajar?|
+ville-505|¿En qué momento te apetecería comprar un billete de lanzadera entre un aeropuerto y el centro?|¿En qué momento te apetecería comprar un abono de bicicletas compartidas?|
+ville-506|¿Para qué ocasión querrías comprar un abono mensual de transporte público en Madrid?|¿Para qué ocasión querrías pagar un trayecto de cinco kilómetros en taxi por Madrid?|Paris → Madrid
+ville-507|¿Quién podría darte el mejor consejo para preparar un transbordo de línea?|¿Quién podría darte el mejor consejo para buscar una tienda abierta en domingo?|
+ville-508|¿Hasta cuánto pagarías por un billete de lanzadera entre un aeropuerto y el centro?|¿Hasta cuánto pagarías por un abono de bicicletas compartidas?|
+ville-509|¿Qué dirías en el momento si tu tren cambiara de andén en el último momento?|¿Qué dirías en el momento si un desconocido te pidiera que le hicieras una foto?|
+ville-510|¿Qué dirías en el momento si un amigo te diera mal el sitio donde habíais quedado?|¿Qué dirías en el momento si un conductor te dejara pasar?|
+ville-511|¿Cuánto tiempo te haría falta para preparar un trayecto en transporte público?|¿Cuánto tiempo te haría falta para encontrar una plaza de aparcamiento de pago para dos horas en el centro?|
+ville-512|¿Adónde irías a comprar un billete sencillo de tranvía en España?|¿Adónde irías a pagar una hora de parking en el centro de Madrid?|France → España, Paris → Madrid
+ville-513|¿Cuánto tiempo crees que hace falta para encontrar una terraza tranquila a menos de diez minutos andando?|¿Cuánto tiempo crees que hace falta para organizar un día de visitas en Roma sin coche?|
+ville-514|¿En qué situación decidirías pagar un trayecto de cinco kilómetros en taxi por Madrid?|¿En qué situación decidirías comprar una entrada de adulto para un autobús turístico en Madrid?|Paris → Madrid
+ville-515|¿Cómo responderías si el conductor se saltara tu parada?|¿Cómo responderías si te equivocaras de salida del metro?|
+ville-516|¿Para qué ocasión querrías comprar un billete sencillo de tranvía en España?|¿Para qué ocasión querrías pagar una hora de parking en el centro de Madrid?|France → España, Paris → Madrid
+ville-517|¿Cuál sería el mejor momento para encontrar una terraza tranquila a menos de diez minutos andando?|¿Cuál sería el mejor momento para organizar un día de visitas en Roma sin coche?|
+ville-518|¿Dónde buscarías primero una visita guiada por el barrio?|¿Dónde buscarías primero un billete de lanzadera entre un aeropuerto y el centro?|
+ville-519|¿Cuál sería tu primer reflejo si el panel de la parada dejara de mostrar los horarios?|¿Cuál sería tu primer reflejo si un amigo te diera mal el sitio donde habíais quedado?|
+ville-520|¿Qué dirías si un desconocido te pidiera que le hicieras una foto?|¿Qué dirías si encontraras una cartera en la acera?|
+ville-521|¿Qué sería lo más importante para hacer un recado en el centro?|¿Qué sería lo más importante para visitar un mercado de barrio?|
+ville-522|¿Cómo responderías si el panel de la parada dejara de mostrar los horarios?|¿Cómo responderías si un amigo te diera mal el sitio donde habíais quedado?|
+ville-523|¿Qué sería lo más importante para encontrar una dirección sin GPS?|¿Qué sería lo más importante para preparar un trayecto de noche?|
+ville-524|¿Qué momento del día elegirías para encontrar una dirección sin GPS?|¿Qué momento del día elegirías para preparar un trayecto de noche?|
+ville-525|¿Cuál sería tu primer reflejo si un peatón te preguntara la hora?|¿Cuál sería tu primer reflejo si tu tren cambiara de andén en el último momento?|
+ville-526|¿En qué web o en qué tienda buscarías un café en una terraza?|¿En qué web o en qué tienda buscarías una comida en un restaurante de barrio?|brasserie → restaurante de barrio
+ville-527|¿Qué es lo primero que harías si un desconocido te pidiera que le hicieras una foto?|¿Qué es lo primero que harías si encontraras una cartera en la acera?|
+ville-528|¿Qué persona de tu entorno podría ayudarte a localizar un restaurante cerca de una estación?|¿Qué persona de tu entorno podría ayudarte a organizar una visita por el barrio?|
+ville-529|¿Qué presupuesto máximo pondrías para una entrada de adulto para un museo municipal de pago?|¿Qué presupuesto máximo pondrías para un billete sencillo de tranvía en España?|France → España
+ville-530|¿Qué frase te saldría de la boca si encontraras una cartera en la acera?|¿Qué frase te saldría de la boca si la calle que conoces estuviera cortada?|
+ville-531|¿Qué dirías si un autobús pasara delante de ti sin pararse?|¿Qué dirías si un ciclista te tocara el timbre por detrás?|
+ville-532|¿Cómo responderías si un peatón te preguntara la hora?|¿Cómo responderías si tu tren cambiara de andén en el último momento?|
+imaginaire-332|¿Cuánto tiempo te haría falta para organizar un día totalmente libre?|¿Cuánto tiempo te haría falta para imaginar tu casa ideal?|
+imaginaire-333|¿Cuál es, según tú, el precio de una casa de 60 m² a menos de 500 metros de la playa en Galicia?|¿Cuál es, según tú, el precio de una escapada sorpresa de tres días para dos personas a Roma, transporte incluido?|Bretagne → Galicia
+imaginaire-334|¿A quién pedirías ayuda para preparar una sorpresa a toda tu gente?|¿A quién pedirías ayuda para organizar un día totalmente libre?|
+imaginaire-335|¿Qué persona de tu entorno podría ayudarte a preparar un reto personal para el año?|¿Qué persona de tu entorno podría ayudarte a elegir un destino al que volver a menudo?|
+imaginaire-336|¿A partir de qué precio dudarías en reservar el alquiler de una cabaña junto a un lago para un fin de semana?|¿A partir de qué precio dudarías en comprar un gran taller para tus aficiones?|
+imaginaire-337|¿Cuánto piensas que vale un gran taller para tus aficiones?|¿Cuánto piensas que vale una biblioteca personal a medida?|
+imaginaire-338|¿Cómo reaccionarías si te dieran una hora más cada mañana?|¿Cómo reaccionarías si pudieras hacerle una pregunta a tu yo del futuro?|
+imaginaire-339|¿Qué sería lo más importante para preparar una gran fiesta sin límites?|¿Qué sería lo más importante para elegir una actividad para probar gratis?|
+imaginaire-340|¿Cuánto tiempo te haría falta para hacer una lista de viajes soñados?|¿Cuánto tiempo te haría falta para elegir un talento que aprender rápido?|
+imaginaire-341|¿En qué situación decidirías comprar un abono ilimitado de cine?|¿En qué situación decidirías reservar una estancia en una ciudad extranjera?|
+imaginaire-342|¿Cuánto estarías dispuesto a gastarte en una escapada sorpresa de tres días para dos personas a Roma, transporte incluido?|¿Cuánto estarías dispuesto a gastarte en una semana en un hotel de ensueño?|
+imaginaire-343|¿Cuánto piensas que vale un abono ilimitado de cine?|¿Cuánto piensas que vale una estancia en una ciudad extranjera?|
+imaginaire-344|¿Cuánto piensas que vale el alquiler de un barquito para un día?|¿Cuánto piensas que vale un gimnasio en casa?|
+imaginaire-345|¿Qué te llevaría a comprar un billete de avión de ida y vuelta por Europa con fechas flexibles?|¿Qué te llevaría a reservar el alquiler de una cabaña junto a un lago para un fin de semana?|
+imaginaire-346|¿Qué precio te imaginas para una semana en un hotel de ensueño?|¿Qué precio te imaginas para una clase particular con un experto?|
+imaginaire-347|¿Cuánto tiempo calcularías para elegir una actividad para probar gratis?|¿Cuánto tiempo calcularías para organizar un viaje con tu mejor amigo?|
+imaginaire-348|¿En qué situación decidirías comprar un gran taller para tus aficiones?|¿En qué situación decidirías comprar una biblioteca personal a medida?|
+imaginaire-349|¿Cuál sería tu mayor dificultad para organizar un viaje con tu mejor amigo?|¿Cuál sería tu mayor dificultad para imaginar una semana sin móvil?|
+imaginaire-350|¿A qué sitio irías para encontrar un jardín acondicionado para leer?|¿A qué sitio irías para encontrar el alquiler de un coche de época para un día?|
+imaginaire-351|¿Qué te llevaría a reservar un viaje de tres meses en tren por varios países?|¿Qué te llevaría a comprar una casa de 60 m² a menos de 500 metros de la playa en Galicia?|Bretagne → Galicia
+imaginaire-352|¿Cuál es, según tú, el precio del alquiler de una cabaña junto a un lago para un fin de semana?|¿Cuál es, según tú, el precio de un gran taller para tus aficiones?|
+imaginaire-353|¿Cuál sería tu prioridad si tuvieras que elegir un talento que aprender rápido?|¿Cuál sería tu prioridad si tuvieras que reorganizar tu horario ideal?|
+imaginaire-354|¿Qué sería lo más importante para elegir una profesión para probar durante un día?|¿Qué sería lo más importante para organizar una cena con personas famosas?|
+imaginaire-355|¿Cuánto tiempo te haría falta para organizar un viaje con tu mejor amigo?|¿Cuánto tiempo te haría falta para imaginar una semana sin móvil?|
+imaginaire-356|¿Qué presupuesto máximo pondrías para un jardín acondicionado para leer?|¿Qué presupuesto máximo pondrías para el alquiler de un coche de época para un día?|
+imaginaire-357|¿Cuál sería tu primera reacción si pudieras invitar a cinco personas a una gran cena?|¿Cuál sería tu primera reacción si tuvieras una biblioteca con todos los libros del mundo?|
+imaginaire-358|¿Cómo responderías si pudieras probar cualquier profesión durante un día?|¿Cómo responderías si descubrieras una carta escrita por ti dentro de diez años?|
+imaginaire-359|¿Qué presupuesto máximo pondrías para un fin de semana en un castillo?|¿Qué presupuesto máximo pondrías para un concierto privado para unos pocos?|
+imaginaire-360|¿En qué momento te apetecería reservar una estancia en una ciudad extranjera?|¿En qué momento te apetecería reservar un fin de semana en un castillo?|
+imaginaire-361|¿Dónde buscarías primero el alquiler de un barquito para un día?|¿Dónde buscarías primero un gimnasio en casa?|
+imaginaire-362|¿Cuál sería tu prioridad si tuvieras que imaginar una semana sin móvil?|¿Cuál sería tu prioridad si tuvieras que preparar un reto personal para el año?|
+imaginaire-363|¿Cuál sería el mejor momento para elegir una nueva ciudad donde vivir?|¿Cuál sería el mejor momento para preparar un viaje sin límite de presupuesto?|
+imaginaire-364|¿Cuánto tiempo calcularías para preparar una sorpresa a toda tu gente?|¿Cuánto tiempo calcularías para organizar un día totalmente libre?|
+imaginaire-365|¿Cuál sería tu primera reacción si descubrieras una carta escrita por ti dentro de diez años?|¿Cuál sería tu primera reacción si te regalaran una casa en la ciudad que quisieras?|
+imaginaire-366|¿Qué sería lo más importante para reorganizar tu horario ideal?|¿Qué sería lo más importante para preparar una sorpresa a toda tu gente?|
+imaginaire-367|¿A qué sitio irías para encontrar una clase particular con un experto?|¿A qué sitio irías para encontrar una cena para dos preparada en casa por un chef?|
+imaginaire-368|¿Cuál es, según tú, el precio de una cena para dos preparada en casa por un chef?|¿Cuál es, según tú, el precio de un abono ilimitado de cine?|
+imaginaire-369|¿Qué precio te imaginas para un gimnasio en casa?|¿Qué precio te imaginas para un jardín acondicionado para leer?|
+imaginaire-370|¿Qué es lo primero que harías si ganaras un viaje sin saber el destino?|¿Qué es lo primero que harías si te ofrecieran un año entero libre?|
+imaginaire-371|¿Qué dirías en el momento si un desconocido te regalara un billete a cualquier país?|¿Qué dirías en el momento si tuvieras acceso gratis a todos los museos?|
+imaginaire-372|¿En qué situación decidirías comprar una experiencia de pilotaje con instructor?|¿En qué situación decidirías reservar un retiro de creación artística?|
+imaginaire-373|¿Qué franja del día sería la más práctica para elegir una actividad para probar gratis?|¿Qué franja del día sería la más práctica para organizar un viaje con tu mejor amigo?|
+imaginaire-374|¿Qué te llevaría a comprar un jardín acondicionado para leer?|¿Qué te llevaría a reservar el alquiler de un coche de época para un día?|
+imaginaire-375|¿En cuánto tiempo podrías preparar un reto personal para el año?|¿En cuánto tiempo podrías elegir un destino al que volver a menudo?|
+imaginaire-376|¿Qué precio te imaginas para una estancia en una ciudad extranjera?|¿Qué precio te imaginas para un fin de semana en un castillo?|
+imaginaire-377|¿Hasta cuánto pagarías por un retiro de creación artística?|¿Hasta cuánto pagarías por un billete de avión de ida y vuelta por Europa con fechas flexibles?|
+imaginaire-378|¿Cómo reaccionarías si te propusieran un viaje en tren de tres meses?|¿Cómo reaccionarías si pudieras repetir un día que salió mal?|
+imaginaire-379|¿Para qué ocasión querrías pagar una cena para dos preparada en casa por un chef?|¿Para qué ocasión querrías comprar un abono ilimitado de cine?|
+imaginaire-380|¿Cuánto tiempo crees que hace falta para elegir un talento que aprender rápido?|¿Cuánto tiempo crees que hace falta para reorganizar tu horario ideal?|
+imaginaire-381|¿Cuál sería el mejor momento para preparar un año sabático?|¿Cuál sería el mejor momento para elegir una profesión para probar durante un día?|
+imaginaire-382|¿Cuánto crees que cuesta una clase particular con un experto?|¿Cuánto crees que cuesta una cena para dos preparada en casa por un chef?|
+imaginaire-383|¿Qué franja del día sería la más práctica para preparar una sorpresa a toda tu gente?|¿Qué franja del día sería la más práctica para organizar un día totalmente libre?|
+imaginaire-384|¿Qué detalle comprobarías antes de organizar una cena con personas famosas?|¿Qué detalle comprobarías antes de hacer una lista de viajes soñados?|
+imaginaire-385|¿Qué momento del día elegirías para preparar una gran fiesta sin límites?|¿Qué momento del día elegirías para elegir una actividad para probar gratis?|
+imaginaire-386|¿Quién podría darte el mejor consejo para imaginar una semana sin móvil?|¿Quién podría darte el mejor consejo para preparar un reto personal para el año?|
+imaginaire-387|¿Hasta cuánto pagarías por una semana en un hotel de ensueño?|¿Hasta cuánto pagarías por una clase particular con un experto?|
+imaginaire-388|¿Qué te llevaría a pagar una clase particular con un experto?|¿Qué te llevaría a pagar una cena para dos preparada en casa por un chef?|
+imaginaire-389|¿Qué es lo primero que harías si tuvieras acceso gratis a todos los museos?|¿Qué es lo primero que harías si te dieran una hora más cada mañana?|
+imaginaire-390|¿Qué momento del día elegirías para reorganizar tu horario ideal?|¿Qué momento del día elegirías para preparar una sorpresa a toda tu gente?|
+imaginaire-391|¿Cuánto piensas que vale una escapada sorpresa de tres días para dos personas a Roma, transporte incluido?|¿Cuánto piensas que vale una semana en un hotel de ensueño?|
+imaginaire-392|¿Cuál es, según tú, el precio de un concierto privado para unos pocos?|¿Cuál es, según tú, el precio del alquiler de un barquito para un día?|
+imaginaire-393|¿Qué sería lo más importante para preparar un reto personal para el año?|¿Qué sería lo más importante para elegir un destino al que volver a menudo?|
+imaginaire-394|¿Qué dirías si ganaras un viaje sin saber el destino?|¿Qué dirías si te ofrecieran un año entero libre?|
+imaginaire-395|¿Qué te llevaría a reservar un fin de semana en un castillo?|¿Qué te llevaría a pagar un concierto privado para unos pocos?|
+imaginaire-396|¿A quién contactarías para que te ayude a organizar un mes de vacaciones libres?|¿A quién contactarías para que te ayude a elegir una nueva ciudad donde vivir?|
+imaginaire-397|¿Hasta cuánto pagarías por una estancia en una ciudad extranjera?|¿Hasta cuánto pagarías por un fin de semana en un castillo?|
+imaginaire-398|¿A partir de qué precio dudarías en pagar un concierto privado para unos pocos?|¿A partir de qué precio dudarías en reservar el alquiler de un barquito para un día?|
+imaginaire-399|¿Qué dirías en el momento si recibieras un presupuesto para cumplir un sueño?|¿Qué dirías en el momento si pudieras elegir una nueva habilidad al instante?|
+imaginaire-400|¿Cuánto tiempo calcularías para organizar una cena con personas famosas?|¿Cuánto tiempo calcularías para hacer una lista de viajes soñados?|
+imaginaire-401|¿Cuál sería tu mayor dificultad para organizar un día totalmente libre?|¿Cuál sería tu mayor dificultad para imaginar tu casa ideal?|
+imaginaire-402|¿Qué frase te saldría de la boca si pudieras revivir un solo día feliz?|¿Qué frase te saldría de la boca si pudieras pasar una noche con tu artista favorito?|
+imaginaire-403|¿Dónde buscarías primero un gran taller para tus aficiones?|¿Dónde buscarías primero una biblioteca personal a medida?|
+imaginaire-404|¿En qué web o en qué tienda buscarías una biblioteca personal a medida?|¿En qué web o en qué tienda buscarías un viaje de tres meses en tren por varios países?|
+imaginaire-405|¿Cuál sería tu primer reflejo si pudieras probar cualquier profesión durante un día?|¿Cuál sería tu primer reflejo si descubrieras una carta escrita por ti dentro de diez años?|
+imaginaire-406|¿Qué detalle comprobarías antes de elegir un destino al que volver a menudo?|¿Qué detalle comprobarías antes de organizar un mes de vacaciones libres?|
+imaginaire-407|¿Cuánto estarías dispuesto a gastarte en una experiencia de pilotaje con instructor?|¿Cuánto estarías dispuesto a gastarte en un retiro de creación artística?|
+imaginaire-408|¿Cómo responderías si pudieras repetir un día que salió mal?|¿Cómo responderías si pudieras invitar a cinco personas a una gran cena?|
+imaginaire-409|¿Cuál sería tu primer reflejo si pudieras pasar una noche con tu artista favorito?|¿Cuál sería tu primer reflejo si un desconocido te regalara un billete a cualquier país?|
+imaginaire-410|¿Hasta cuánto pagarías por un gimnasio en casa?|¿Hasta cuánto pagarías por un jardín acondicionado para leer?|
+imaginaire-411|¿En qué momento te apetecería comprar una biblioteca personal a medida?|¿En qué momento te apetecería reservar un viaje de tres meses en tren por varios países?|
+imaginaire-412|¿Cuánto piensas que vale una experiencia de pilotaje con instructor?|¿Cuánto piensas que vale un retiro de creación artística?|
+imaginaire-413|¿En cuánto tiempo podrías reorganizar tu horario ideal?|¿En cuánto tiempo podrías preparar una sorpresa a toda tu gente?|
+imaginaire-414|¿Para qué ocasión querrías pagar un concierto privado para unos pocos?|¿Para qué ocasión querrías reservar el alquiler de un barquito para un día?|
+imaginaire-415|¿Cómo responderías si pudieras cambiar un detalle de tu día a día?|¿Cómo responderías si pudieras pasar una semana haciendo realidad un viejo proyecto?|
+imaginaire-416|¿Qué dirías en el momento si pudieras pasar una semana haciendo realidad un viejo proyecto?|¿Qué dirías en el momento si ganaras un viaje sin saber el destino?|
+imaginaire-417|¿En qué momento te apetecería reservar un retiro de creación artística?|¿En qué momento te apetecería comprar un billete de avión de ida y vuelta por Europa con fechas flexibles?|
+imaginaire-418|¿Qué persona de tu entorno podría ayudarte a preparar una gran fiesta sin límites?|¿Qué persona de tu entorno podría ayudarte a elegir una actividad para probar gratis?|
+imaginaire-419|¿Adónde irías a comprar una casa de 60 m² a menos de 500 metros de la playa en Galicia?|¿Adónde irías a reservar una escapada sorpresa de tres días para dos personas a Roma, transporte incluido?|Bretagne → Galicia
+imaginaire-420|¿Quién podría darte el mejor consejo para elegir una nueva ciudad donde vivir?|¿Quién podría darte el mejor consejo para preparar un viaje sin límite de presupuesto?|
+imaginaire-421|¿En cuánto tiempo podrías elegir una profesión para probar durante un día?|¿En cuánto tiempo podrías organizar una cena con personas famosas?|
+imaginaire-422|¿Adónde irías a contratar un concierto privado para unos pocos?|¿Adónde irías a reservar el alquiler de un barquito para un día?|
+imaginaire-423|¿En qué web o en qué tienda buscarías una semana en un hotel de ensueño?|¿En qué web o en qué tienda buscarías una clase particular con un experto?|
+imaginaire-424|¿Cuánto estarías dispuesto a gastarte en el alquiler de un barquito para un día?|¿Cuánto estarías dispuesto a gastarte en un gimnasio en casa?|
+imaginaire-425|¿Cuál sería tu prioridad si tuvieras que preparar un año sabático?|¿Cuál sería tu prioridad si tuvieras que elegir una profesión para probar durante un día?|
+imaginaire-426|¿Quién podría darte el mejor consejo para preparar un año sabático?|¿Quién podría darte el mejor consejo para elegir una profesión para probar durante un día?|
+imaginaire-427|¿En qué momento de la semana preferirías hacer una lista de viajes soñados?|¿En qué momento de la semana preferirías elegir un talento que aprender rápido?|
+imaginaire-428|¿Cómo responderías si pudieras pasar una noche con tu artista favorito?|¿Cómo responderías si un desconocido te regalara un billete a cualquier país?|
+imaginaire-429|¿Qué detalle comprobarías antes de aprender un nuevo idioma?|¿Qué detalle comprobarías antes de montar un proyecto personal soñado?|
+imaginaire-430|¿Para qué ocasión querrías reservar el alquiler de un coche de época para un día?|¿Para qué ocasión querrías comprar una experiencia de pilotaje con instructor?|

@@ -197,3 +197,303 @@ famille-581|Quanto spesso ti capita di scegliere un regalo di gruppo?|Quanto spe
 famille-582|In quanto tempo riusciresti a decidere i posti a tavola?|In quanto tempo riusciresti a preparare una torta di compleanno?|
 famille-583|Oltre quale prezzo esiteresti a prenotare una visita al museo in famiglia per quattro persone?|Oltre quale prezzo esiteresti a comprare un puzzle da mille pezzi?|
 famille-584|Quante volte al mese ti capita di organizzare un picnic in famiglia?|Quante volte al mese ti capita di dividere i compiti per una festa?|
+famille-585|Quanto spesso ti capita di preparare una sorpresa a una persona cara?|Quanto spesso ti capita di ritrovare vecchie foto?|
+nature-333|Dove andresti a cercare un binocolo da osservazione?|Dove andresti a cercare una guida illustrata degli uccelli?|
+nature-334|Cosa diresti se vedessi una volpe durante una passeggiata?|Cosa diresti se un uccello entrasse dalla tua finestra?|
+nature-335|Quanto pensi che costi una borraccia da trekking?|Quanto pensi che costi un buon zaino da trekking?|
+nature-336|Per quale occasione vorresti comprare una guida illustrata degli uccelli?|Per quale occasione vorresti comprare una borraccia da trekking?|
+nature-337|Come reagiresti se un amico volesse dare da mangiare a un animale selvatico?|Come reagiresti se una folata di vento ti portasse via il cappellino?|
+nature-338|Dove andresti a comprare un paio di scarponi da camminata?|Dove andresti a comprare una lampada frontale da trekking?|
+nature-339|Quante volte al mese ti capita di trovare un posto tranquillo in mezzo alla natura?|Quante volte al mese ti capita di organizzare un giro in bici in campagna?|
+nature-340|Quale sarebbe il tuo primo istinto se vedessi un animale ferito vicino a un sentiero?|Quale sarebbe il tuo primo istinto se un amico volesse fare una foto vicinissimo a un nido?|
+nature-341|Come reagiresti se una vespa girasse intorno al tuo picnic?|Come reagiresti se sentissi un rumore strano nel bosco?|
+nature-342|Quale sarebbe il momento migliore per organizzare una passeggiata con un cane?|Quale sarebbe il momento migliore per guardare le stelle in una notte limpida?|
+nature-343|Quale persona a te vicina potrebbe aiutarti a guardare le stelle in una notte limpida?|Quale persona a te vicina potrebbe aiutarti a raccogliere le foglie in autunno?|
+nature-344|Cosa ti spingerebbe a comprare una fotocamera compatta per fotografare paesaggi?|Cosa ti spingerebbe a comprare una coperta da picnic?|
+nature-345|Cosa diresti sul momento se un cane sconosciuto ti venisse incontro in un parco?|Cosa diresti sul momento se trovassi un riccio nel tuo giardino?|
+nature-346|Secondo te, qual è il prezzo di una coperta da picnic?|Secondo te, qual è il prezzo di un biglietto intero per una riserva naturale a pagamento?|
+nature-347|In quale situazione decideresti di comprare una lampada frontale da trekking?|In quale situazione decideresti di comprare un cestino da picnic pieno per quattro persone?|
+nature-348|Per quale occasione vorresti comprare un thermos per la montagna?|Per quale occasione vorresti comprare un cappello da trekking?|
+nature-349|Quale frase ti uscirebbe di bocca se un amico volesse dare da mangiare a un animale selvatico?|Quale frase ti uscirebbe di bocca se una folata di vento ti portasse via il cappellino?|
+nature-350|In quale momento della settimana preferiresti sistemare una piccola pianta a casa tua?|In quale momento della settimana preferiresti organizzare una passeggiata con un cane?|
+nature-351|Quanto metteresti al massimo in budget per una casetta per uccelli?|Quanto metteresti al massimo in budget per un thermos per la montagna?|
+nature-352|Quanto metteresti al massimo in budget per una fotocamera compatta per fotografare paesaggi?|Quanto metteresti al massimo in budget per una coperta da picnic?|
+nature-353|Come reagiresti se un amico raccogliesse dei fiori protetti?|Come reagiresti se vedessi un arcobaleno completo?|
+nature-354|Secondo te, quanto costa una fotocamera compatta per fotografare paesaggi?|Secondo te, quanto costa una coperta da picnic?|
+nature-355|Cosa diresti sul momento se un amico volesse fare una foto vicinissimo a un nido?|Cosa diresti sul momento se vedessi una volpe durante una passeggiata?|
+nature-356|Secondo te, quanto costa una giacca a vento impermeabile?|Secondo te, quanto costa un biglietto intero per un orto botanico?|
+nature-357|In quanto tempo riusciresti a osservare gli animali senza disturbarli?|In quanto tempo riusciresti a fare una passeggiata sulla spiaggia?|
+nature-358|Come risponderesti se vedessi un animale ferito vicino a un sentiero?|Come risponderesti se un amico volesse fare una foto vicinissimo a un nido?|
+nature-359|Oltre quale prezzo esiteresti a comprare una guida illustrata degli uccelli?|Oltre quale prezzo esiteresti a comprare una borraccia da trekking?|
+nature-360|Quale sarebbe il momento migliore per organizzare una giornata in campagna?|Quale sarebbe il momento migliore per osservare gli animali senza disturbarli?|
+nature-361|Quale frase ti uscirebbe di bocca se una vespa girasse intorno al tuo picnic?|Quale frase ti uscirebbe di bocca se sentissi un rumore strano nel bosco?|
+nature-362|Dove andresti a comprare un biglietto intero per un orto botanico?|Dove andresti a comprare un kit per coltivare erbe aromatiche?|
+nature-363|Quante volte al mese ti capita di organizzare un weekend in montagna?|Quante volte al mese ti capita di organizzare una giornata in campagna?|
+nature-364|Quale sarebbe il tuo primo istinto se vedessi un arcobaleno completo?|Quale sarebbe il tuo primo istinto se un sentiero dato per facile diventasse ripidissimo?|
+nature-365|Quale sarebbe la tua prima reazione se scoprissi un albero gigantesco?|Quale sarebbe la tua prima reazione se il cielo si schiarisse dopo una lunga pioggia?|
+nature-366|Secondo te, qual è il prezzo di una guida illustrata degli uccelli?|Secondo te, qual è il prezzo di una borraccia da trekking?|
+nature-367|Che prezzo immagini per un cestino da picnic pieno per quattro persone?|Che prezzo immagini per una casetta per uccelli?|
+nature-368|Quale frase ti uscirebbe di bocca se un amico raccogliesse dei fiori protetti?|Quale frase ti uscirebbe di bocca se vedessi un arcobaleno completo?|
+nature-369|Dove cercheresti per prima cosa una lampada frontale da trekking?|Dove cercheresti per prima cosa un cestino da picnic pieno per quattro persone?|
+nature-370|Quale persona a te vicina potrebbe aiutarti a organizzare una gita al lago?|Quale persona a te vicina potrebbe aiutarti a fotografare un tramonto?|
+nature-371|Qual è la prima cosa che faresti se trovassi un gatto smarrito per strada?|Qual è la prima cosa che faresti se un amico volesse dare da mangiare a un animale selvatico?|
+nature-372|Quale sarebbe il momento migliore per avvistare un uccello in un parco?|Quale sarebbe il momento migliore per fare una passeggiata nel bosco?|
+nature-373|Dove cercheresti per prima cosa una borraccia da trekking?|Dove cercheresti per prima cosa un buon zaino da trekking?|
+nature-374|In quale situazione decideresti di comprare una borraccia da trekking?|In quale situazione decideresti di comprare un buon zaino da trekking?|
+nature-375|Chi contatteresti per farti aiutare a trovare un posto tranquillo in mezzo alla natura?|Chi contatteresti per farti aiutare a organizzare un giro in bici in campagna?|
+nature-376|Cosa diresti sul momento se un sentiero dato per facile diventasse ripidissimo?|Cosa diresti sul momento se vedessi dei rifiuti lungo un sentiero?|
+nature-377|In quale situazione decideresti di comprare un cappello da trekking?|In quale situazione decideresti di comprare una mappa dei sentieri?|
+nature-378|Quanto tempo metteresti in conto per fotografare un tramonto?|Quanto tempo metteresti in conto per sistemare una piccola pianta a casa tua?|
+nature-379|Quanto spesso ti piacerebbe raccogliere le foglie in autunno?|Quanto spesso ti piacerebbe trovare un posto tranquillo in mezzo alla natura?|
+nature-380|Quanto saresti disposto a spendere per un cappello da trekking?|Quanto saresti disposto a spendere per una mappa dei sentieri?|
+nature-381|Dove andresti a comprare una coperta da picnic?|Dove andresti a comprare un biglietto intero per una riserva naturale a pagamento?|
+nature-382|Secondo te, quanto tempo ci vuole per avvistare un uccello in un parco?|Secondo te, quanto tempo ci vuole per fare una passeggiata nel bosco?|
+nature-383|Cosa diresti sul momento se scoprissi un albero gigantesco?|Cosa diresti sul momento se il cielo si schiarisse dopo una lunga pioggia?|
+nature-384|Secondo te, qual è il prezzo di un thermos per la montagna?|Secondo te, qual è il prezzo di un cappello da trekking?|
+nature-385|Quale sarebbe il tuo primo istinto se una folata di vento ti portasse via il cappellino?|Quale sarebbe il tuo primo istinto se scoprissi un albero gigantesco?|
+nature-386|Che prezzo immagini per una guida degli alberi più comuni?|Che prezzo immagini per un binocolo da osservazione?|
+nature-387|Quanto pensi che costi una lampada frontale da trekking?|Quanto pensi che costi un cestino da picnic pieno per quattro persone?|
+nature-388|Chi potrebbe darti il consiglio migliore per organizzare una giornata in campagna?|Chi potrebbe darti il consiglio migliore per osservare gli animali senza disturbarli?|
+nature-389|Qual è la prima cosa che faresti se vedessi dei rifiuti lungo un sentiero?|Qual è la prima cosa che faresti se una vespa girasse intorno al tuo picnic?|
+nature-390|Quanto saresti disposto a spendere per un biglietto intero per una riserva naturale a pagamento?|Quanto saresti disposto a spendere per una guida degli alberi più comuni?|
+nature-391|Dove andresti a cercare una giacca a vento impermeabile?|Dove andresti a cercare un biglietto intero per un orto botanico?|
+nature-392|Quanto spesso ti piacerebbe fare una passeggiata sulla spiaggia?|Quanto spesso ti piacerebbe organizzare un’escursione di due ore?|
+nature-393|Quanto spesso ti piacerebbe cercare un belvedere con una vista aperta sulla città?|Quanto spesso ti piacerebbe organizzare un weekend in montagna?|
+nature-394|Come reagiresti se un uccello entrasse dalla tua finestra?|Come reagiresti se iniziasse a piovere a metà di un’escursione?|
+nature-395|A chi chiederesti aiuto per fotografare un tramonto?|A chi chiederesti aiuto per sistemare una piccola pianta a casa tua?|
+nature-396|In quanto tempo riusciresti a organizzare una gita al lago?|In quanto tempo riusciresti a fotografare un tramonto?|
+nature-397|In quale momento della settimana preferiresti organizzare un’escursione di due ore?|In quale momento della settimana preferiresti avvistare un uccello in un parco?|
+nature-398|Come risponderesti se vedessi un arcobaleno completo?|Come risponderesti se un sentiero dato per facile diventasse ripidissimo?|
+nature-399|In che momento ti verrebbe voglia di comprare una mappa dei sentieri?|In che momento ti verrebbe voglia di comprare una fotocamera compatta per fotografare paesaggi?|
+nature-400|Quanto tempo ti servirebbe per sistemare una piccola pianta a casa tua?|Quanto tempo ti servirebbe per organizzare una passeggiata con un cane?|
+nature-401|Quanto saresti disposto a spendere per una borraccia da trekking?|Quanto saresti disposto a spendere per un buon zaino da trekking?|
+nature-402|Dove andresti a cercare una casetta per uccelli?|Dove andresti a cercare un thermos per la montagna?|
+nature-403|In quale momento della settimana preferiresti annaffiare le piante del tuo balcone?|In quale momento della settimana preferiresti scegliere un sentiero per un’escursione?|
+nature-404|In quanto tempo riusciresti a fare il giro di un orto botanico?|In quanto tempo riusciresti a cercare un belvedere con una vista aperta sulla città?|
+nature-405|Quanto tempo metteresti in conto per cercare un belvedere con una vista aperta sulla città?|Quanto tempo metteresti in conto per organizzare un weekend in montagna?|
+nature-406|Fino a quanto pagheresti per un cestino da picnic pieno per quattro persone?|Fino a quanto pagheresti per una casetta per uccelli?|
+nature-407|Quanto tempo ti servirebbe per trovare un posto tranquillo in mezzo alla natura?|Quanto tempo ti servirebbe per organizzare un giro in bici in campagna?|
+nature-408|Quante volte all’anno ti capita di osservare gli animali senza disturbarli?|Quante volte all’anno ti capita di fare una passeggiata sulla spiaggia?|
+nature-409|In quale momento della giornata sceglieresti di fare una passeggiata nel bosco?|In quale momento della giornata sceglieresti di organizzare un picnic nella natura?|
+nature-410|Chi contatteresti per farti aiutare a organizzare un weekend in montagna?|Chi contatteresti per farti aiutare a organizzare una giornata in campagna?|
+nature-411|Su quale sito o in quale negozio cercheresti una pianta verde da interno?|Su quale sito o in quale negozio cercheresti un’amaca da giardino?|
+nature-412|Dove andresti a comprare una guida illustrata degli uccelli?|Dove andresti a comprare una borraccia da trekking?|
+nature-413|Come reagiresti se una passeggiata che doveva essere breve durasse due ore?|Come reagiresti se vedessi un animale ferito vicino a un sentiero?|
+nature-414|A chi chiederesti aiuto per organizzare un picnic nella natura?|A chi chiederesti aiuto per annaffiare le piante del tuo balcone?|
+nature-415|Che prezzo immagini per una mappa dei sentieri?|Che prezzo immagini per una fotocamera compatta per fotografare paesaggi?|
+nature-416|Quanto spesso ti piacerebbe organizzare un picnic nella natura?|Quanto spesso ti piacerebbe annaffiare le piante del tuo balcone?|
+nature-417|Secondo te, quanto tempo ci vuole per organizzare una passeggiata con un cane?|Secondo te, quanto tempo ci vuole per guardare le stelle in una notte limpida?|
+nature-418|Quante volte al mese ti capita di sistemare una piccola pianta a casa tua?|Quante volte al mese ti capita di organizzare una passeggiata con un cane?|
+nature-419|Quanto metteresti al massimo in budget per una giacca a vento impermeabile?|Quanto metteresti al massimo in budget per un biglietto intero per un orto botanico?|
+nature-420|Come risponderesti se iniziasse a piovere a metà di un’escursione?|Come risponderesti se un cane sconosciuto ti venisse incontro in un parco?|
+nature-421|Secondo te, quanto tempo ci vuole per organizzare un giro in bici in campagna?|Secondo te, quanto tempo ci vuole per fare il giro di un orto botanico?|
+nature-422|Quale sarebbe il tuo primo istinto se sentissi un rumore strano nel bosco?|Quale sarebbe il tuo primo istinto se uno scoiattolo ti si avvicinasse moltissimo?|
+nature-423|Quante volte all’anno ti capita di fare una passeggiata nel bosco?|Quante volte all’anno ti capita di organizzare un picnic nella natura?|
+nature-424|Cosa ti spingerebbe a comprare una giacca a vento impermeabile?|Cosa ti spingerebbe a comprare un biglietto intero per un orto botanico?|
+nature-425|Come risponderesti se sentissi un rumore strano nel bosco?|Come risponderesti se uno scoiattolo ti si avvicinasse moltissimo?|
+nature-426|In quanto tempo riusciresti a guardare le stelle in una notte limpida?|In quanto tempo riusciresti a raccogliere le foglie in autunno?|
+nature-427|Quale sarebbe la tua prima reazione se un amico volesse fare una foto vicinissimo a un nido?|Quale sarebbe la tua prima reazione se vedessi una volpe durante una passeggiata?|
+nature-428|Per quale occasione vorresti comprare un biglietto intero per un orto botanico?|Per quale occasione vorresti comprare un kit per coltivare erbe aromatiche?|
+nature-429|Per quale occasione vorresti comprare un paio di scarponi da camminata?|Per quale occasione vorresti comprare una lampada frontale da trekking?|
+nature-430|Quanto tempo ti servirebbe per organizzare un weekend in montagna?|Quanto tempo ti servirebbe per organizzare una giornata in campagna?|
+nature-431|Quanto pensi che costi un cappello da trekking?|Quanto pensi che costi una mappa dei sentieri?|
+nature-432|A chi chiederesti aiuto per fare una passeggiata sulla spiaggia?|A chi chiederesti aiuto per organizzare un’escursione di due ore?|
+nature-433|Cosa diresti se trovassi un riccio nel tuo giardino?|Cosa diresti se un amico raccogliesse dei fiori protetti?|
+nature-434|Chi potrebbe darti il consiglio migliore per organizzare una passeggiata con un cane?|Chi potrebbe darti il consiglio migliore per guardare le stelle in una notte limpida?|
+nature-435|Su quale sito o in quale negozio cercheresti una mappa dei sentieri?|Su quale sito o in quale negozio cercheresti una fotocamera compatta per fotografare paesaggi?|
+nature-436|Cosa ti spingerebbe a comprare una casetta per uccelli?|Cosa ti spingerebbe a comprare un thermos per la montagna?|
+nature-437|Quale fascia della giornata sarebbe la più comoda per organizzare un picnic nella natura?|Quale fascia della giornata sarebbe la più comoda per annaffiare le piante del tuo balcone?|
+nature-438|Quanto saresti disposto a spendere per un kit per coltivare erbe aromatiche?|Quanto saresti disposto a spendere per una pianta verde da interno?|
+nature-439|Fino a quanto pagheresti per una mappa dei sentieri?|Fino a quanto pagheresti per una fotocamera compatta per fotografare paesaggi?|
+nature-440|Qual è la prima cosa che faresti se trovassi un riccio nel tuo giardino?|Qual è la prima cosa che faresti se un amico raccogliesse dei fiori protetti?|
+nature-441|In che momento ti verrebbe voglia di comprare un cestino da picnic pieno per quattro persone?|In che momento ti verrebbe voglia di comprare una casetta per uccelli?|
+nature-442|Quale persona a te vicina potrebbe aiutarti a fare il giro di un orto botanico?|Quale persona a te vicina potrebbe aiutarti a cercare un belvedere con una vista aperta sulla città?|
+nature-443|Quanto spesso ti capita di avvistare un uccello in un parco?|Quanto spesso ti capita di fare una passeggiata nel bosco?|
+nature-444|Quanto pensi che costi un kit per coltivare erbe aromatiche?|Quanto pensi che costi una pianta verde da interno?|
+nature-445|Quanto tempo metteresti in conto per raccogliere le foglie in autunno?|Quanto tempo metteresti in conto per trovare un posto tranquillo in mezzo alla natura?|
+nature-446|Secondo te, quanto tempo ci vuole per scegliere un sentiero per un’escursione?|Secondo te, quanto tempo ci vuole per organizzare una gita al lago?|
+nature-447|Oltre quale prezzo esiteresti a comprare un paio di scarponi da camminata?|Oltre quale prezzo esiteresti a comprare una lampada frontale da trekking?|
+nature-448|Secondo te, qual è il prezzo di un biglietto intero per un orto botanico?|Secondo te, qual è il prezzo di un kit per coltivare erbe aromatiche?|
+nature-449|Chi potrebbe darti il consiglio migliore per avvistare un uccello in un parco?|Chi potrebbe darti il consiglio migliore per fare una passeggiata nel bosco?|
+nature-450|Che prezzo immagini per un buon zaino da trekking?|Che prezzo immagini per una giacca a vento impermeabile?|
+nature-451|Quanto pensi che costi un biglietto intero per una riserva naturale a pagamento?|Quanto pensi che costi una guida degli alberi più comuni?|
+nature-452|Quanto tempo ti servirebbe per organizzare un’escursione di due ore?|Quanto tempo ti servirebbe per avvistare un uccello in un parco?|
+nature-453|A chi chiederesti aiuto per raccogliere le foglie in autunno?|A chi chiederesti aiuto per trovare un posto tranquillo in mezzo alla natura?|
+nature-454|Quanto spesso ti capita di scegliere un sentiero per un’escursione?|Quanto spesso ti capita di organizzare una gita al lago?|
+nature-455|In quale situazione decideresti di comprare un biglietto intero per una riserva naturale a pagamento?|In quale situazione decideresti di comprare una guida degli alberi più comuni?|
+nature-456|Chi potrebbe darti il consiglio migliore per scegliere un sentiero per un’escursione?|Chi potrebbe darti il consiglio migliore per organizzare una gita al lago?|
+nature-457|Secondo te, quanto tempo ci vuole per organizzare una giornata in campagna?|Secondo te, quanto tempo ci vuole per osservare gli animali senza disturbarli?|
+nature-458|Quale sarebbe la tua prima reazione se un cane sconosciuto ti venisse incontro in un parco?|Quale sarebbe la tua prima reazione se trovassi un riccio nel tuo giardino?|
+nature-459|Chi potrebbe darti il consiglio migliore per organizzare un giro in bici in campagna?|Chi potrebbe darti il consiglio migliore per fare il giro di un orto botanico?|
+nature-460|Cosa diresti se vedessi dei rifiuti lungo un sentiero?|Cosa diresti se una vespa girasse intorno al tuo picnic?|
+nature-461|Cosa ti spingerebbe a comprare un’amaca da giardino?|Cosa ti spingerebbe a comprare un paio di scarponi da camminata?|
+nature-462|Cosa diresti se il cielo si schiarisse dopo una lunga pioggia?|Cosa diresti se una passeggiata che doveva essere breve durasse due ore?|
+nature-463|Quale persona a te vicina potrebbe aiutarti a osservare gli animali senza disturbarli?|Quale persona a te vicina potrebbe aiutarti a fare una passeggiata sulla spiaggia?|
+nature-464|Quante volte all’anno ti capita di fare il giro di un orto botanico?|Quante volte all’anno ti capita di cercare un belvedere con una vista aperta sulla città?|
+nature-465|Quale persona a te vicina potrebbe aiutarti a fare una passeggiata nel bosco?|Quale persona a te vicina potrebbe aiutarti a organizzare un picnic nella natura?|
+nature-466|In quanto tempo riusciresti a fare una passeggiata nel bosco?|In quanto tempo riusciresti a organizzare un picnic nella natura?|
+nature-467|Fino a quanto pagheresti per un buon zaino da trekking?|Fino a quanto pagheresti per una giacca a vento impermeabile?|
+nature-468|In quale momento della giornata sceglieresti di osservare gli animali senza disturbarli?|In quale momento della giornata sceglieresti di fare una passeggiata sulla spiaggia?|
+nature-469|Quanto tempo ti servirebbe per annaffiare le piante del tuo balcone?|Quanto tempo ti servirebbe per scegliere un sentiero per un’escursione?|
+nature-470|In quale momento della giornata sceglieresti di guardare le stelle in una notte limpida?|In quale momento della giornata sceglieresti di raccogliere le foglie in autunno?|
+nature-471|Cosa diresti se trovassi un gatto smarrito per strada?|Cosa diresti se un amico volesse dare da mangiare a un animale selvatico?|
+nature-472|Qual è la prima cosa che faresti se vedessi una volpe durante una passeggiata?|Qual è la prima cosa che faresti se un uccello entrasse dalla tua finestra?|
+nature-473|Quante volte al mese ti capita di annaffiare le piante del tuo balcone?|Quante volte al mese ti capita di scegliere un sentiero per un’escursione?|
+nature-474|In che momento ti verrebbe voglia di comprare una pianta verde da interno?|In che momento ti verrebbe voglia di comprare un’amaca da giardino?|
+nature-475|Chi contatteresti per farti aiutare a sistemare una piccola pianta a casa tua?|Chi contatteresti per farti aiutare a organizzare una passeggiata con un cane?|
+nature-476|Dove cercheresti per prima cosa un biglietto intero per una riserva naturale a pagamento?|Dove cercheresti per prima cosa una guida degli alberi più comuni?|
+nature-477|Che prezzo immagini per una pianta verde da interno?|Che prezzo immagini per un’amaca da giardino?|
+nature-478|In quale momento della settimana preferiresti trovare un posto tranquillo in mezzo alla natura?|In quale momento della settimana preferiresti organizzare un giro in bici in campagna?|
+nature-479|Quale fascia della giornata sarebbe la più comoda per fare una passeggiata sulla spiaggia?|Quale fascia della giornata sarebbe la più comoda per organizzare un’escursione di due ore?|
+nature-480|Qual è la prima cosa che faresti se il cielo si schiarisse dopo una lunga pioggia?|Qual è la prima cosa che faresti se una passeggiata che doveva essere breve durasse due ore?|
+nature-481|Quale frase ti uscirebbe di bocca se un uccello entrasse dalla tua finestra?|Quale frase ti uscirebbe di bocca se iniziasse a piovere a metà di un’escursione?|
+nature-482|Come risponderesti se una folata di vento ti portasse via il cappellino?|Come risponderesti se scoprissi un albero gigantesco?|
+nature-483|Fino a quanto pagheresti per una guida degli alberi più comuni?|Fino a quanto pagheresti per un binocolo da osservazione?|
+nature-484|Dove andresti a cercare un’amaca da giardino?|Dove andresti a cercare un paio di scarponi da camminata?|
+nature-485|Quale frase ti uscirebbe di bocca se una passeggiata che doveva essere breve durasse due ore?|Quale frase ti uscirebbe di bocca se vedessi un animale ferito vicino a un sentiero?|
+nature-486|Oltre quale prezzo esiteresti a comprare una coperta da picnic?|Oltre quale prezzo esiteresti a comprare un biglietto intero per una riserva naturale a pagamento?|
+nature-487|Per quale occasione vorresti comprare una coperta da picnic?|Per quale occasione vorresti comprare un biglietto intero per una riserva naturale a pagamento?|
+nature-488|In quale momento della giornata sceglieresti di fare il giro di un orto botanico?|In quale momento della giornata sceglieresti di cercare un belvedere con una vista aperta sulla città?|
+nature-489|Quale sarebbe la tua prima reazione se un sentiero dato per facile diventasse ripidissimo?|Quale sarebbe la tua prima reazione se vedessi dei rifiuti lungo un sentiero?|
+nature-490|Quale sarebbe il momento migliore per organizzare un giro in bici in campagna?|Quale sarebbe il momento migliore per fare il giro di un orto botanico?|
+nature-491|Cosa diresti sul momento se uno scoiattolo ti si avvicinasse moltissimo?|Cosa diresti sul momento se trovassi un gatto smarrito per strada?|
+nature-492|Cosa ti spingerebbe a comprare un binocolo da osservazione?|Cosa ti spingerebbe a comprare una guida illustrata degli uccelli?|
+nature-493|Quale fascia della giornata sarebbe la più comoda per fotografare un tramonto?|Quale fascia della giornata sarebbe la più comoda per sistemare una piccola pianta a casa tua?|
+nature-494|In quale situazione decideresti di comprare un kit per coltivare erbe aromatiche?|In quale situazione decideresti di comprare una pianta verde da interno?|
+nature-495|Secondo te, quanto costa una casetta per uccelli?|Secondo te, quanto costa un thermos per la montagna?|
+nature-496|In che momento ti verrebbe voglia di comprare un buon zaino da trekking?|In che momento ti verrebbe voglia di comprare una giacca a vento impermeabile?|
+nature-497|Quanto spesso ti piacerebbe fotografare un tramonto?|Quanto spesso ti piacerebbe sistemare una piccola pianta a casa tua?|
+nature-498|Secondo te, quanto costa un binocolo da osservazione?|Secondo te, quanto costa una guida illustrata degli uccelli?|
+nature-499|In che momento ti verrebbe voglia di comprare una guida degli alberi più comuni?|In che momento ti verrebbe voglia di comprare un binocolo da osservazione?|
+nature-500|Quante volte all’anno ti capita di guardare le stelle in una notte limpida?|Quante volte all’anno ti capita di raccogliere le foglie in autunno?|
+nature-501|Quanto spesso ti capita di organizzare una passeggiata con un cane?|Quanto spesso ti capita di guardare le stelle in una notte limpida?|
+nature-502|Quanto saresti disposto a spendere per una lampada frontale da trekking?|Quanto saresti disposto a spendere per un cestino da picnic pieno per quattro persone?|
+nature-503|Chi contatteresti per farti aiutare a organizzare un’escursione di due ore?|Chi contatteresti per farti aiutare ad avvistare un uccello in un parco?|
+nature-504|Su quale sito o in quale negozio cercheresti un cestino da picnic pieno per quattro persone?|Su quale sito o in quale negozio cercheresti una casetta per uccelli?|
+nature-505|A chi chiederesti aiuto per cercare un belvedere con una vista aperta sulla città?|A chi chiederesti aiuto per organizzare un weekend in montagna?|
+nature-506|Quanto tempo metteresti in conto per organizzare un picnic nella natura?|Quanto tempo metteresti in conto per annaffiare le piante del tuo balcone?|
+nature-507|Quanto metteresti al massimo in budget per un binocolo da osservazione?|Quanto metteresti al massimo in budget per una guida illustrata degli uccelli?|
+nature-508|In quale momento della giornata sceglieresti di organizzare una gita al lago?|In quale momento della giornata sceglieresti di fotografare un tramonto?|
+nature-509|Chi contatteresti per farti aiutare ad annaffiare le piante del tuo balcone?|Chi contatteresti per farti aiutare a scegliere un sentiero per un’escursione?|
+nature-510|Quanto metteresti al massimo in budget per un’amaca da giardino?|Quanto metteresti al massimo in budget per un paio di scarponi da camminata?|
+nature-511|Quanto spesso ti capita di organizzare una giornata in campagna?|Quanto spesso ti capita di osservare gli animali senza disturbarli?|
+nature-512|In quale momento della settimana preferiresti organizzare un weekend in montagna?|In quale momento della settimana preferiresti organizzare una giornata in campagna?|
+nature-513|Fino a quanto pagheresti per una pianta verde da interno?|Fino a quanto pagheresti per un’amaca da giardino?|
+nature-514|Quale fascia della giornata sarebbe la più comoda per raccogliere le foglie in autunno?|Quale fascia della giornata sarebbe la più comoda per trovare un posto tranquillo in mezzo alla natura?|
+nature-515|Su quale sito o in quale negozio cercheresti un buon zaino da trekking?|Su quale sito o in quale negozio cercheresti una giacca a vento impermeabile?|
+nature-516|Quale sarebbe il tuo primo istinto se iniziasse a piovere a metà di un’escursione?|Quale sarebbe il tuo primo istinto se un cane sconosciuto ti venisse incontro in un parco?|
+nature-517|Dove andresti a comprare un thermos per la montagna?|Dove andresti a comprare un cappello da trekking?|
+nature-518|Su quale sito o in quale negozio cercheresti una guida degli alberi più comuni?|Su quale sito o in quale negozio cercheresti un binocolo da osservazione?|
+nature-519|Quale sarebbe il momento migliore per scegliere un sentiero per un’escursione?|Quale sarebbe il momento migliore per organizzare una gita al lago?|
+nature-520|Dove cercheresti per prima cosa un kit per coltivare erbe aromatiche?|Dove cercheresti per prima cosa una pianta verde da interno?|
+nature-521|Quanto spesso ti capita di organizzare un giro in bici in campagna?|Quanto spesso ti capita di fare il giro di un orto botanico?|
+nature-522|Secondo te, qual è il prezzo di un paio di scarponi da camminata?|Secondo te, qual è il prezzo di una lampada frontale da trekking?|
+nature-523|Quanto tempo metteresti in conto per fare una passeggiata sulla spiaggia?|Quanto tempo metteresti in conto per organizzare un’escursione di due ore?|
+nature-524|Dove andresti a cercare una fotocamera compatta per fotografare paesaggi?|Dove andresti a cercare una coperta da picnic?|
+nature-525|Oltre quale prezzo esiteresti a comprare un thermos per la montagna?|Oltre quale prezzo esiteresti a comprare un cappello da trekking?|
+nature-526|Dove cercheresti per prima cosa un cappello da trekking?|Dove cercheresti per prima cosa una mappa dei sentieri?|
+nature-527|Oltre quale prezzo esiteresti a comprare un biglietto intero per un orto botanico?|Oltre quale prezzo esiteresti a comprare un kit per coltivare erbe aromatiche?|
+nature-528|Quante volte all’anno ti capita di organizzare una gita al lago?|Quante volte all’anno ti capita di fotografare un tramonto?|
+nature-529|Quale fascia della giornata sarebbe la più comoda per cercare un belvedere con una vista aperta sulla città?|Quale fascia della giornata sarebbe la più comoda per organizzare un weekend in montagna?|
+nature-530|Secondo te, quanto costa un’amaca da giardino?|Secondo te, quanto costa un paio di scarponi da camminata?|
+nature-531|Quante volte al mese ti capita di organizzare un’escursione di due ore?|Quante volte al mese ti capita di avvistare un uccello in un parco?|
+nature-532|Quale sarebbe la tua prima reazione se uno scoiattolo ti si avvicinasse moltissimo?|Quale sarebbe la tua prima reazione se trovassi un gatto smarrito per strada?|
+fetes-530|Cosa ti spingerebbe a comprare un costume di Carnevale?|Cosa ti spingerebbe a comprare una pentolaccia per un compleanno?|
+fetes-531|Cosa ti spingerebbe a comprare una confezione di candele decorative?|Cosa ti spingerebbe a comprare un calendario dell’Avvento goloso?|
+fetes-532|Se dovessi organizzare un cenone di Capodanno, quale sarebbe la tua priorità?|Se dovessi preparare una caccia alle uova, quale sarebbe la tua priorità?|
+fetes-533|Quale dettaglio controlleresti prima di preparare un invito di compleanno?|Quale dettaglio controlleresti prima di scegliere il menù del cenone?|
+fetes-534|Quanto tempo metteresti in conto per organizzare uno scambio di regali?|Quanto tempo metteresti in conto per organizzare un compleanno a sorpresa?|
+fetes-535|Qual è la prima cosa che faresti se ricevessi due inviti per la stessa sera?|Qual è la prima cosa che faresti se la torta arrivasse con il nome sbagliato?|
+fetes-536|Quale fascia della giornata sarebbe la più comoda per preparare una festa di famiglia?|Quale fascia della giornata sarebbe la più comoda per scegliere un costume di Carnevale?|
+fetes-537|Quanto saresti disposto a spendere per una catena di luci LED da dieci metri per esterni?|Quanto saresti disposto a spendere per una scatola di cioccolatini assortiti?|
+fetes-538|Quale frase ti uscirebbe di bocca se la musica si fermasse in un momento importante?|Quale frase ti uscirebbe di bocca se un regalo si rovinasse mentre lo apri?|
+fetes-539|Quale sarebbe il tuo primo istinto se una persona cara volesse anticipare l’orario della festa?|Quale sarebbe il tuo primo istinto se un invitato prendesse l’ultimo ricordino pensato per tutti?|
+fetes-540|Quanto metteresti al massimo in budget per una decorazione di Capodanno?|Quanto metteresti al massimo in budget per un accessorio da photobooth?|
+fetes-541|Dove andresti a cercare una decorazione di Capodanno?|Dove andresti a cercare un accessorio da photobooth?|
+fetes-542|Per quale occasione vorresti comprare una pentolaccia per un compleanno?|Per quale occasione vorresti comprare una confezione di palloncini biodegradabili?|
+fetes-543|Cosa ti spingerebbe a comprare una torta di compleanno per dodici persone?|Cosa ti spingerebbe a comprare una decorazione per la tavola delle feste?|
+fetes-544|Chi potrebbe darti il consiglio migliore per preparare le foto ricordo?|Chi potrebbe darti il consiglio migliore per fare la lista degli invitati?|
+fetes-545|Quale sarebbe la cosa più importante per preparare una caccia alle uova?|Quale sarebbe la cosa più importante per preparare una festa di famiglia?|
+fetes-546|Quanto saresti disposto a spendere per un panettone artigianale per sei persone?|Quanto saresti disposto a spendere per una confezione di biscotti delle feste?|galette des rois → panettone
+fetes-547|In quale momento della settimana preferiresti organizzare una festa di laurea?|In quale momento della settimana preferiresti preparare le foto ricordo?|
+fetes-548|Quale sarebbe il momento migliore per preparare un discorso di nozze?|Quale sarebbe il momento migliore per decorare una sala per una festa?|
+fetes-549|Chi potrebbe darti il consiglio migliore per incartare dieci regali?|Chi potrebbe darti il consiglio migliore per decorare una tavola delle feste?|
+fetes-550|Quale sarebbe la tua difficoltà principale nello scegliere un regalo d’addio?|Quale sarebbe la tua difficoltà principale nell’organizzare un cenone di Capodanno?|
+fetes-551|Qual è la prima cosa che faresti se il meteo costringesse a spostare la festa al chiuso?|Qual è la prima cosa che faresti se scoprissi che ti stanno organizzando una sorpresa?|
+fetes-552|Dove cercheresti per prima cosa una catena di luci LED da dieci metri per esterni?|Dove cercheresti per prima cosa una scatola di cioccolatini assortiti?|
+fetes-553|In quanto tempo riusciresti a decorare una sala per una festa?|In quanto tempo riusciresti a preparare dei biglietti di auguri?|
+fetes-554|In quanto tempo riusciresti a preparare una caccia alle uova?|In quanto tempo riusciresti a preparare una festa di famiglia?|
+fetes-555|Secondo te, qual è il prezzo di una pentolaccia per un compleanno?|Secondo te, qual è il prezzo di una confezione di palloncini biodegradabili?|
+fetes-556|Oltre quale prezzo esiteresti a comprare un accessorio da photobooth?|Oltre quale prezzo esiteresti a comprare un panettone artigianale per sei persone?|galette des rois → panettone
+fetes-557|Quale persona a te vicina potrebbe aiutarti a decorare una sala per una festa?|Quale persona a te vicina potrebbe aiutarti a preparare dei biglietti di auguri?|
+fetes-558|Su quale sito o in quale negozio cercheresti un kit per incartare regali?|Su quale sito o in quale negozio cercheresti un vassoio di venti pasticcini mignon?|
+fetes-559|In quale situazione decideresti di comprare una catena di luci LED da dieci metri per esterni?|In quale situazione decideresti di comprare una scatola di cioccolatini assortiti?|
+fetes-560|Se dovessi incartare dieci regali, quale sarebbe la tua priorità?|Se dovessi decorare una tavola delle feste, quale sarebbe la tua priorità?|
+fetes-561|In quanto tempo riusciresti a sistemare una decorazione stagionale?|In quanto tempo riusciresti a preparare una torta di compleanno?|
+fetes-562|Cosa diresti sul momento se un invitato prendesse l’ultimo ricordino pensato per tutti?|Cosa diresti sul momento se ricevessi due inviti per la stessa sera?|
+fetes-563|Quanto saresti disposto a spendere per un mazzo di fiori da regalare?|Quanto saresti disposto a spendere per un biglietto di auguri personalizzato?|
+fetes-564|Secondo te, qual è il prezzo di una ghirlanda decorativa per la porta?|Secondo te, qual è il prezzo di un gioco da tavolo per le feste?|
+fetes-565|Cosa ti spingerebbe a comprare un vassoio di venti pasticcini mignon?|Cosa ti spingerebbe a comprare una ghirlanda decorativa per la porta?|
+fetes-566|Cosa diresti se il meteo costringesse a spostare la festa al chiuso?|Cosa diresti se scoprissi che ti stanno organizzando una sorpresa?|
+fetes-567|Quale sarebbe il momento migliore per incartare dieci regali?|Quale sarebbe il momento migliore per decorare una tavola delle feste?|
+fetes-568|Quale dettaglio controlleresti prima di organizzare uno scambio di regali?|Quale dettaglio controlleresti prima di organizzare un compleanno a sorpresa?|
+fetes-569|Quanto tempo metteresti in conto per preparare una festa di famiglia?|Quanto tempo metteresti in conto per scegliere un costume di Carnevale?|
+fetes-570|Quale sarebbe la tua difficoltà principale nell’organizzare un compleanno a sorpresa?|Quale sarebbe la tua difficoltà principale nell’incartare dieci regali?|
+fetes-571|Quale dettaglio controlleresti prima di preparare dei biglietti di auguri?|Quale dettaglio controlleresti prima di scegliere un regalo d’addio?|
+fetes-572|Cosa diresti sul momento se un invitato arrivasse con un costume fuori tema?|Cosa diresti sul momento se il meteo costringesse a spostare la festa al chiuso?|
+fetes-573|Per quale occasione vorresti comprare una ghirlanda decorativa per la porta?|Per quale occasione vorresti comprare un gioco da tavolo per le feste?|
+fetes-574|Dove andresti a cercare un vassoio di venti pasticcini mignon?|Dove andresti a cercare una ghirlanda decorativa per la porta?|
+fetes-575|Quale sarebbe la tua prima reazione se un amico ti chiedesse di cantare al microfono?|Quale sarebbe la tua prima reazione se le decorazioni cadessero durante il pranzo?|
+fetes-576|Quale sarebbe la cosa più importante per sistemare una decorazione stagionale?|Quale sarebbe la cosa più importante per preparare una torta di compleanno?|
+fetes-577|In che momento ti verrebbe voglia di comprare un biglietto di auguri personalizzato?|In che momento ti verrebbe voglia di comprare una confezione di candele decorative?|
+fetes-578|Quale persona a te vicina potrebbe aiutarti a decorare una tavola delle feste?|Quale persona a te vicina potrebbe aiutarti a preparare un invito di compleanno?|
+fetes-579|Quale frase ti uscirebbe di bocca se la torta arrivasse con il nome sbagliato?|Quale frase ti uscirebbe di bocca se un invitato si dimenticasse di portare il regalo?|
+fetes-580|In che momento ti verrebbe voglia di comprare una scatola di cioccolatini assortiti?|In che momento ti verrebbe voglia di comprare un costume di Carnevale?|
+fetes-581|Dove andresti a comprare una ghirlanda decorativa per la porta?|Dove andresti a comprare un gioco da tavolo per le feste?|
+fetes-582|Chi contatteresti per farti aiutare a organizzare una festa di laurea?|Chi contatteresti per farti aiutare a preparare le foto ricordo?|
+fetes-583|Quale sarebbe la tua prima reazione se un invitato prendesse l’ultimo ricordino pensato per tutti?|Quale sarebbe la tua prima reazione se ricevessi due inviti per la stessa sera?|
+fetes-584|Se dovessi preparare un discorso di nozze, quale sarebbe la tua priorità?|Se dovessi decorare una sala per una festa, quale sarebbe la tua priorità?|
+fetes-585|Quale sarebbe la cosa più importante per decorare una tavola delle feste?|Quale sarebbe la cosa più importante per preparare un invito di compleanno?|
+fetes-586|Chi contatteresti per farti aiutare a organizzare un compleanno a sorpresa?|Chi contatteresti per farti aiutare a incartare dieci regali?|
+fetes-587|Dove andresti a cercare una confezione di candele decorative?|Dove andresti a cercare un calendario dell’Avvento goloso?|
+fetes-588|Cosa diresti sul momento se un amico ti chiedesse di cantare al microfono?|Cosa diresti sul momento se le decorazioni cadessero durante il pranzo?|
+fetes-589|Quale dettaglio controlleresti prima di preparare una festa di famiglia?|Quale dettaglio controlleresti prima di scegliere un costume di Carnevale?|
+fetes-590|Quale sarebbe la tua difficoltà principale nello scegliere un costume di Carnevale?|Quale sarebbe la tua difficoltà principale nel preparare un buffet per venti invitati?|
+fetes-591|Come reagiresti se la musica si fermasse in un momento importante?|Come reagiresti se un regalo si rovinasse mentre lo apri?|
+fetes-592|Dove cercheresti per prima cosa un gioco da tavolo per le feste?|Dove cercheresti per prima cosa una bottiglia di succo frizzante?|
+fetes-593|Oltre quale prezzo esiteresti a comprare un calendario dell’Avvento goloso?|Oltre quale prezzo esiteresti a comprare una catena di luci LED da dieci metri per esterni?|
+fetes-594|Quanto pensi che costi una confezione di palloncini biodegradabili?|Quanto pensi che costi un kit per incartare regali?|
+fetes-595|Come risponderesti se un invitato si dimenticasse di portare il regalo?|Come risponderesti se dovessi spegnere le candeline davanti a tutti?|
+fetes-596|Quanto tempo ti servirebbe per organizzare una festa di laurea?|Quanto tempo ti servirebbe per preparare le foto ricordo?|
+fetes-597|Dove andresti a comprare un calendario dell’Avvento goloso?|Dove andresti a comprare una catena di luci LED da dieci metri per esterni?|
+fetes-598|Cosa diresti sul momento se un amico volesse organizzare tutto al posto tuo?|Cosa diresti sul momento se il catering annunciasse un ritardo?|
+fetes-599|Cosa diresti se un discorso alla festa non finisse più?|Cosa diresti se la musica si fermasse in un momento importante?|
+fetes-600|Fino a quanto pagheresti per una scatola di cioccolatini assortiti?|Fino a quanto pagheresti per un costume di Carnevale?|
+fetes-601|Quale persona a te vicina potrebbe aiutarti a sistemare una decorazione stagionale?|Quale persona a te vicina potrebbe aiutarti a preparare una torta di compleanno?|
+fetes-602|Quale sarebbe la tua prima reazione se un invitato arrivasse con un costume fuori tema?|Quale sarebbe la tua prima reazione se il meteo costringesse a spostare la festa al chiuso?|
+fetes-603|Oltre quale prezzo esiteresti a comprare una pentolaccia per un compleanno?|Oltre quale prezzo esiteresti a comprare una confezione di palloncini biodegradabili?|
+fetes-604|Secondo te, quanto costa una decorazione di Capodanno?|Secondo te, quanto costa un accessorio da photobooth?|
+fetes-605|Che prezzo immagini per una bottiglia di succo frizzante?|Che prezzo immagini per una decorazione di Capodanno?|
+fetes-606|Quale sarebbe il momento migliore per preparare un buffet per venti invitati?|Quale sarebbe il momento migliore per sistemare una decorazione stagionale?|
+fetes-607|Come risponderesti se qualcuno fotografasse un momento imbarazzante?|Come risponderesti se un amico ti chiedesse di cantare al microfono?|
+fetes-608|A chi chiederesti aiuto per preparare un invito di compleanno?|A chi chiederesti aiuto per scegliere il menù del cenone?|
+fetes-609|Quale persona a te vicina potrebbe aiutarti a fare la lista degli invitati?|Quale persona a te vicina potrebbe aiutarti a organizzare uno scambio di regali?|
+fetes-610|Dove andresti a comprare un accessorio da photobooth?|Dove andresti a comprare un panettone artigianale per sei persone?|galette des rois → panettone
+fetes-611|In quale momento della giornata sceglieresti di fare la lista degli invitati?|In quale momento della giornata sceglieresti di organizzare uno scambio di regali?|
+fetes-612|Quanto saresti disposto a spendere per un gioco da tavolo per le feste?|Quanto saresti disposto a spendere per una bottiglia di succo frizzante?|
+fetes-613|Per quale occasione vorresti comprare un calendario dell’Avvento goloso?|Per quale occasione vorresti comprare una catena di luci LED da dieci metri per esterni?|
+fetes-614|Quale fascia della giornata sarebbe la più comoda per preparare un invito di compleanno?|Quale fascia della giornata sarebbe la più comoda per scegliere il menù del cenone?|
+fetes-615|In che momento ti verrebbe voglia di comprare una confezione di biscotti delle feste?|In che momento ti verrebbe voglia di comprare una torta di compleanno per dodici persone?|
+fetes-616|Quanto tempo ti servirebbe per scegliere il menù del cenone?|Quanto tempo ti servirebbe per preparare un discorso di nozze?|
+fetes-617|Quale frase ti uscirebbe di bocca se ti dimenticassi di scrivere il biglietto del regalo?|Quale frase ti uscirebbe di bocca se una persona cara volesse anticipare l’orario della festa?|
+fetes-618|Quanto metteresti al massimo in budget per una confezione di candele decorative?|Quanto metteresti al massimo in budget per un calendario dell’Avvento goloso?|
+fetes-619|Quanto tempo metteresti in conto per preparare una torta di compleanno?|Quanto tempo metteresti in conto per organizzare una festa di laurea?|
+fetes-620|Su quale sito o in quale negozio cercheresti una scatola di cioccolatini assortiti?|Su quale sito o in quale negozio cercheresti un costume di Carnevale?|
+fetes-621|In quale momento della giornata sceglieresti di preparare una caccia alle uova?|In quale momento della giornata sceglieresti di preparare una festa di famiglia?|
+fetes-622|Quanto pensi che costi un panettone artigianale per sei persone?|Quanto pensi che costi una confezione di biscotti delle feste?|galette des rois → panettone
+fetes-623|Quale sarebbe il tuo primo istinto se un invitato arrivasse con una torta in più?|Quale sarebbe il tuo primo istinto se un amico volesse organizzare tutto al posto tuo?|
+fetes-624|Secondo te, quanto costa un vassoio di venti pasticcini mignon?|Secondo te, quanto costa una ghirlanda decorativa per la porta?|
+fetes-625|Quale persona a te vicina potrebbe aiutarti a preparare una caccia alle uova?|Quale persona a te vicina potrebbe aiutarti a preparare una festa di famiglia?|
+fetes-626|Quanto metteresti al massimo in budget per un vassoio di venti pasticcini mignon?|Quanto metteresti al massimo in budget per una ghirlanda decorativa per la porta?|
+fetes-627|Fino a quanto pagheresti per una confezione di biscotti delle feste?|Fino a quanto pagheresti per una torta di compleanno per dodici persone?|
+fetes-628|Secondo te, qual è il prezzo di un accessorio da photobooth?|Secondo te, qual è il prezzo di un panettone artigianale per sei persone?|galette des rois → panettone

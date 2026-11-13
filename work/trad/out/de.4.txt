@@ -98,3 +98,202 @@ sport-707|Was wäre deine erste Reaktion, wenn ein Schiedsrichter eine umstritte
 sport-708|Wen würdest du kontaktieren, damit er dir hilft, ein Amateurturnier zu organisieren?|Wen würdest du kontaktieren, damit er dir hilft, eine Aktivität für einen Sonntag auszusuchen?|
 sport-709|Wie würdest du antworten, wenn der Trainer die Einheit in letzter Minute absagt?|Wie würdest du antworten, wenn ein Freund vorschlägt, um sechs Uhr laufen zu gehen?|
 sport-710|Wie würdest du antworten, wenn du gewonnen hast, aber dein Gegner enttäuscht ist?|Wie würdest du antworten, wenn ein Freund sich weigert, sich zu dehnen?|
+sport-711|Wen würdest du kontaktieren, damit er dir hilft, eine Trainingswoche zu planen?|Wen würdest du kontaktieren, damit er dir hilft, deine Schwimmtasche zu packen?|
+sport-712|Was würdest du sagen, wenn ein Mitspieler dein Niveau kritisiert?|Was würdest du sagen, wenn du für einen Kurs im falschen Raum landest?|
+sport-713|Was würdest du spontan sagen, wenn ein Freund sich weigert, sich zu dehnen?|Was würdest du spontan sagen, wenn du vor deinen Freunden einen ganz leichten Schuss vergibst?|
+sport-714|Wie oft kommt es vor, dass du eine Aktivität für einen Sonntag aussuchst?|Wie oft kommt es vor, dass du einen Tanz-Fitnesskurs ausprobierst?|
+sport-715|Zu welchem Anlass würdest du eine Gymnastikmatte kaufen wollen?|Zu welchem Anlass würdest du ein robustes Springseil kaufen wollen?|
+sport-716|Auf welcher Website oder in welchem Laden würdest du nach einer robusten Sporttasche suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Schwimmbrille suchen?|
+sport-717|Was kostet deiner Meinung nach ein offizielles Sporttrikot?|Was kostet deiner Meinung nach eine isolierte Sport-Trinkflasche?|
+sport-718|Wann in der Woche würdest du am liebsten einen öffentlichen Basketballplatz in deiner Nähe reservieren?|Wann in der Woche würdest du am liebsten einen Tennispartner für ein einstündiges Match suchen?|
+sport-719|Wie schnell könntest du einen Tanz-Fitnesskurs ausprobieren?|Wie schnell könntest du eine Dehneinheit machen?|
+sport-720|Wie oft im Jahr hast du Gelegenheit, einen Tanz-Fitnesskurs auszuprobieren?|Wie oft im Jahr hast du Gelegenheit, eine Dehneinheit zu machen?|
+sport-721|Was würdest du als Erstes tun, wenn du vor deinen Freunden einen ganz leichten Schuss vergibst?|Was würdest du als Erstes tun, wenn ein Freund dich in seiner Lieblingssportart herausfordert?|
+sport-722|Wann hättest du Lust, einen einstündigen Fitness-Gruppenkurs zu buchen?|Wann hättest du Lust, einen Erwachsenen-Eintritt ins städtische Schwimmbad in Deutschland zu kaufen?|en France → in Deutschland
+sport-723|Wie oft im Monat hast du Gelegenheit, einen öffentlichen Basketballplatz in deiner Nähe zu reservieren?|Wie oft im Monat hast du Gelegenheit, einen Tennispartner für ein einstündiges Match zu finden?|
+sport-724|Was würdest du als Erstes tun, wenn ein Mitspieler dein Niveau kritisiert?|Was würdest du als Erstes tun, wenn du für einen Kurs im falschen Raum landest?|
+sport-725|Wer aus deinem Umfeld könnte dir helfen, eine einstündige Trainingseinheit zu zweit zu finden?|Wer aus deinem Umfeld könnte dir helfen, deine Sportschuhe auszusuchen?|
+sport-726|Welches Budget würdest du maximal für einen Erwachsenen-Eintritt ins städtische Schwimmbad in Deutschland einplanen?|Welches Budget würdest du maximal für ein Ticket für ein Bundesligaspiel auf der Seitentribüne einplanen?|en France → in Deutschland, Ligue 1 → Bundesliga
+sport-727|Wohin würdest du gehen, um ein Monatsabo im Fitnessstudio zu finden?|Wohin würdest du gehen, um ein offizielles Sporttrikot zu finden?|
+sport-728|Was würdest du spontan sagen, wenn dein Team in letzter Minute gewinnt?|Was würdest du spontan sagen, wenn ein Mitspieler dein Niveau kritisiert?|
+sport-729|Welcher Satz käme dir über die Lippen, wenn ein berühmter Sportler in deiner Nähe trainiert?|Welcher Satz käme dir über die Lippen, wenn du eine neue Sportart entdeckst, die dir gefällt?|
+sport-730|Wie würdest du antworten, wenn du eine neue Sportart entdeckst, die dir gefällt?|Wie würdest du antworten, wenn dein Team in letzter Minute gewinnt?|
+sport-731|Wie oft im Monat hast du Gelegenheit, ein Amateurturnier zu organisieren?|Wie oft im Monat hast du Gelegenheit, eine Aktivität für einen Sonntag auszusuchen?|
+sport-732|Wie viel Zeit würdest du einplanen, um deine Sportschuhe auszusuchen?|Wie viel Zeit würdest du einplanen, um eine Trainingswoche zu planen?|
+sport-733|Welcher Satz käme dir über die Lippen, wenn du deinen persönlichen Rekord brichst?|Welcher Satz käme dir über die Lippen, wenn ein Freund das Spiel zur Halbzeit abbrechen will?|
+sport-734|Wie oft kommt es vor, dass du dich vor einem Spiel aufwärmst?|Wie oft kommt es vor, dass du dich nach einem langen Fußmarsch erholst?|
+sport-735|Wer aus deinem Umfeld könnte dir helfen, einen Tanz-Fitnesskurs auszuprobieren?|Wer aus deinem Umfeld könnte dir bei einer Dehneinheit helfen?|
+sport-736|Wen würdest du um Hilfe bitten, wenn du ein Spiel unter Freunden organisieren willst?|Wen würdest du um Hilfe bitten, wenn du die Regeln einer neuen Sportart lernen willst?|
+sport-737|Was würde dich dazu bringen, einen Erwachsenen-Eintritt ins städtische Schwimmbad in Deutschland zu kaufen?|Was würde dich dazu bringen, ein Ticket für ein Bundesligaspiel auf der Seitentribüne zu kaufen?|en France → in Deutschland, Ligue 1 → Bundesliga
+sport-738|Wie viel ist eine isolierte Sport-Trinkflasche deiner Meinung nach wert?|Wie viel ist eine robuste Sporttasche deiner Meinung nach wert?|
+sport-739|Was kostet deiner Meinung nach ein gebrauchtes Stadtrad in gutem Zustand, das keine fünf Jahre alt ist?|Was kostet deiner Meinung nach eine einfache Laufuhr?|
+sport-740|Wer könnte dir den besten Rat geben, um einen Tennispartner für ein einstündiges Match zu finden?|Wer könnte dir den besten Rat geben, um dich auf einen 5-km-Lauf vorzubereiten?|
+sport-741|Was wäre dein erster Reflex, wenn der Trainer die Einheit in letzter Minute absagt?|Was wäre dein erster Reflex, wenn ein Freund vorschlägt, um sechs Uhr laufen zu gehen?|
+sport-742|Wann hättest du Lust, dir einen Tennisschläger für Anfänger zu kaufen?|Wann hättest du Lust, ein Monatsabo im Fitnessstudio abzuschließen?|
+sport-743|Ab welchem Preis würdest du zögern, ein offizielles Sporttrikot zu kaufen?|Ab welchem Preis würdest du zögern, eine isolierte Sport-Trinkflasche zu kaufen?|
+sport-744|Ab welchem Preis würdest du zögern, eine Gymnastikmatte zu kaufen?|Ab welchem Preis würdest du zögern, ein robustes Springseil zu kaufen?|
+sport-745|Wie oft würdest du gern deine Sportschuhe aussuchen?|Wie oft würdest du gern eine Trainingswoche planen?|
+sport-746|Wann wäre der beste Zeitpunkt, um deine Schwimmtasche zu packen?|Wann wäre der beste Zeitpunkt für eine Mobility-Einheit?|
+sport-747|Wie oft im Jahr hast du Gelegenheit, dich nach einem langen Fußmarsch zu erholen?|Wie oft im Jahr hast du Gelegenheit, ein Spiel unter Freunden zu organisieren?|
+sport-748|Auf welcher Website oder in welchem Laden würdest du nach einem Paar verstellbarer Kurzhanteln suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Basketballkorb für draußen suchen?|
+sport-749|Wo würdest du zuerst nach einer einfachen Laufuhr suchen?|Wo würdest du zuerst nach einem einstündigen Fitness-Gruppenkurs suchen?|
+sport-750|Welches Zeitfenster am Tag wäre am praktischsten, um eine neue Technik zu lernen?|Welches Zeitfenster am Tag wäre am praktischsten, um einen öffentlichen Basketballplatz in deiner Nähe zu reservieren?|
+sport-751|Wie viel wärst du bereit, für ein robustes Springseil auszugeben?|Wie viel wärst du bereit, für eine Windjacke zum Laufen auszugeben?|
+sport-752|Welches Zeitfenster am Tag wäre am praktischsten, um ein Spiel unter Freunden zu organisieren?|Welches Zeitfenster am Tag wäre am praktischsten, um die Regeln einer neuen Sportart zu lernen?|
+sport-753|Was meinst du, wie lange braucht man, um einen Tennispartner für ein einstündiges Match zu finden?|Was meinst du, wie lange braucht man, um sich auf einen 5-km-Lauf vorzubereiten?|
+sport-754|Wen würdest du um Hilfe bitten, wenn du deine Sportschuhe aussuchen willst?|Wen würdest du um Hilfe bitten, wenn du eine Trainingswoche planen willst?|
+sport-755|Wie viel wärst du bereit, für einen guten Fahrradhelm auszugeben?|Wie viel wärst du bereit, für ein Paar verstellbare Kurzhanteln auszugeben?|
+sport-756|Wie oft kommt es vor, dass du eine sportliche Wanderung vorbereitest?|Wie oft kommt es vor, dass du eine einstündige Trainingseinheit zu zweit findest?|
+sport-757|Wie viel würdest du maximal für einen Tennisschläger für Anfänger zahlen?|Wie viel würdest du maximal für ein Monatsabo im Fitnessstudio zahlen?|
+sport-758|Wie würdest du antworten, wenn es kurz vor einem Spiel anfängt zu regnen?|Wie würdest du antworten, wenn ein Schiedsrichter eine umstrittene Entscheidung trifft?|
+sport-759|Was wäre deine erste Reaktion, wenn dein Team in letzter Minute gewinnt?|Was wäre deine erste Reaktion, wenn ein Mitspieler dein Niveau kritisiert?|
+sport-760|Wie würdest du antworten, wenn ein Freund das Spiel zur Halbzeit abbrechen will?|Wie würdest du antworten, wenn du deine Sportschuhe vergisst?|
+sport-761|Wen würdest du kontaktieren, damit er dir hilft, einen öffentlichen Basketballplatz in deiner Nähe zu reservieren?|Wen würdest du kontaktieren, damit er dir hilft, einen Tennispartner für ein einstündiges Match zu finden?|
+sport-762|Wer könnte dir den besten Rat geben, um eine sportliche Wanderung vorzubereiten?|Wer könnte dir den besten Rat geben, um eine einstündige Trainingseinheit zu zweit zu finden?|
+sport-763|Was meinst du, wie lange braucht man, um eine sportliche Wanderung vorzubereiten?|Was meinst du, wie lange braucht man, um eine einstündige Trainingseinheit zu zweit zu finden?|
+sport-764|Wann hättest du Lust, dir ein Paar verstellbare Kurzhanteln zu kaufen?|Wann hättest du Lust, dir einen Basketballkorb für draußen zu kaufen?|
+sport-765|Wo würdest du zuerst nach einem guten Fahrradhelm suchen?|Wo würdest du zuerst nach einem Paar verstellbarer Kurzhanteln suchen?|
+sport-766|Welches Budget würdest du maximal für ein Paar Laufschuhe einplanen?|Welches Budget würdest du maximal für eine rutschfeste Yogamatte einplanen?|
+sport-767|Wer aus deinem Umfeld könnte dir bei einer Mobility-Einheit helfen?|Wer aus deinem Umfeld könnte dir helfen, eine neue Technik zu lernen?|
+sport-768|Wie viel würdest du maximal für ein Paar verstellbare Kurzhanteln zahlen?|Wie viel würdest du maximal für einen Basketballkorb für draußen zahlen?|
+sport-769|Wann in der Woche würdest du am liebsten eine Trainingswoche planen?|Wann in der Woche würdest du am liebsten deine Schwimmtasche packen?|
+sport-770|Welchen Preis stellst du dir für einen einstündigen Fitness-Gruppenkurs vor?|Welchen Preis stellst du dir für einen Erwachsenen-Eintritt ins städtische Schwimmbad in Deutschland vor?|en France → in Deutschland
+sport-771|Wer könnte dir den besten Rat geben, wie du deine Schwimmtasche packst?|Wer könnte dir den besten Rat für eine Mobility-Einheit geben?|
+sport-772|Was meinst du, wie viel kostet ein Erwachsenen-Eintritt ins städtische Schwimmbad in Deutschland?|Was meinst du, wie viel kostet ein Ticket für ein Bundesligaspiel auf der Seitentribüne?|en France → in Deutschland, Ligue 1 → Bundesliga
+sport-773|Wen würdest du kontaktieren, damit er dir hilft, eine Laufeinheit vorzubereiten?|Wen würdest du kontaktieren, damit er dir hilft, dich vor einem Spiel aufzuwärmen?|
+sport-774|Wie oft im Monat hast du Gelegenheit, eine Trainingswoche zu planen?|Wie oft im Monat hast du Gelegenheit, deine Schwimmtasche zu packen?|
+sport-775|Was wäre dein erster Reflex, wenn es kurz vor einem Spiel anfängt zu regnen?|Was wäre dein erster Reflex, wenn ein Schiedsrichter eine umstrittene Entscheidung trifft?|
+sport-776|Wer aus deinem Umfeld könnte dir helfen, dich nach einem langen Fußmarsch zu erholen?|Wer aus deinem Umfeld könnte dir helfen, ein Spiel unter Freunden zu organisieren?|
+sport-777|Welches Zeitfenster am Tag wäre am praktischsten, um deine Sportschuhe auszusuchen?|Welches Zeitfenster am Tag wäre am praktischsten, um eine Trainingswoche zu planen?|
+sport-778|Was würdest du als Erstes tun, wenn der reservierte Platz schon belegt ist?|Was würdest du als Erstes tun, wenn ein berühmter Sportler in deiner Nähe trainiert?|
+sport-779|Was würde dich dazu bringen, dir eine Schwimmbrille zu kaufen?|Was würde dich dazu bringen, dir ein gebrauchtes Stadtrad in gutem Zustand zu kaufen, das keine fünf Jahre alt ist?|
+sport-780|Wann in der Woche würdest du am liebsten eine Laufeinheit vorbereiten?|Wann in der Woche würdest du dich am liebsten vor einem Spiel aufwärmen?|
+sport-781|Wie oft würdest du gern eine Radtour machen?|Wie oft würdest du gern ein Amateurturnier organisieren?|
+sport-782|Was wäre dein erster Reflex, wenn du eine neue Sportart entdeckst, die dir gefällt?|Was wäre dein erster Reflex, wenn dein Team in letzter Minute gewinnt?|
+sport-783|Wann hättest du Lust, dir eine Windjacke zum Laufen zu kaufen?|Wann hättest du Lust, dir ein Paar Laufschuhe zu kaufen?|
+sport-784|Welcher Satz käme dir über die Lippen, wenn du für einen Kurs im falschen Raum landest?|Welcher Satz käme dir über die Lippen, wenn der Trainer die Einheit in letzter Minute absagt?|
+sport-785|Was kostet deiner Meinung nach ein Ticket für ein Bundesligaspiel auf der Seitentribüne?|Was kostet deiner Meinung nach ein guter Fahrradhelm?|Ligue 1 → Bundesliga
+sport-786|Wohin würdest du gehen, um eine rutschfeste Yogamatte zu kaufen?|Wohin würdest du gehen, um einen hochwertigen Fußball zu kaufen?|
+sport-787|Auf welcher Website oder in welchem Laden würdest du nach einem einstündigen Fitness-Gruppenkurs suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Erwachsenen-Eintritt ins städtische Schwimmbad in Deutschland suchen?|en France → in Deutschland
+sport-788|Zu welchem Anlass würdest du ein offizielles Sporttrikot kaufen wollen?|Zu welchem Anlass würdest du eine isolierte Sport-Trinkflasche kaufen wollen?|
+sport-789|Was würdest du sagen, wenn der reservierte Platz schon belegt ist?|Was würdest du sagen, wenn ein berühmter Sportler in deiner Nähe trainiert?|
+sport-790|Wen würdest du um Hilfe bitten, wenn du eine Radtour machen willst?|Wen würdest du um Hilfe bitten, wenn du ein Amateurturnier organisieren willst?|
+sport-791|Wer könnte dir den besten Rat geben, um eine Aktivität für einen Sonntag auszusuchen?|Wer könnte dir den besten Rat geben, um einen Tanz-Fitnesskurs auszuprobieren?|
+sport-792|Wer könnte dir den besten Rat geben, wie du dich vor einem Spiel aufwärmst?|Wer könnte dir den besten Rat geben, wie du dich nach einem langen Fußmarsch erholst?|
+sport-793|Was würdest du spontan sagen, wenn ein Freund vorschlägt, um sechs Uhr laufen zu gehen?|Was würdest du spontan sagen, wenn du gleich zu Beginn des Spiels den Ball verlierst?|
+sport-794|Auf welcher Website oder in welchem Laden würdest du nach einem Tennisschläger für Anfänger suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Monatsabo im Fitnessstudio suchen?|
+sport-795|Wann wäre der beste Zeitpunkt, um eine Aktivität für einen Sonntag auszusuchen?|Wann wäre der beste Zeitpunkt, um einen Tanz-Fitnesskurs auszuprobieren?|
+sport-796|Wie lange würdest du brauchen, um ein Amateurturnier zu organisieren?|Wie lange würdest du brauchen, um eine Aktivität für einen Sonntag auszusuchen?|
+sport-797|Wie viel würdest du maximal für eine robuste Sporttasche zahlen?|Wie viel würdest du maximal für eine Schwimmbrille zahlen?|
+sport-798|Zu welchem Anlass würdest du ein gebrauchtes Stadtrad in gutem Zustand kaufen wollen, das keine fünf Jahre alt ist?|Zu welchem Anlass würdest du eine einfache Laufuhr kaufen wollen?|
+sport-799|Wohin würdest du gehen, um ein Ticket für ein Bundesligaspiel auf der Seitentribüne zu kaufen?|Wohin würdest du gehen, um einen guten Fahrradhelm zu kaufen?|Ligue 1 → Bundesliga
+sport-800|Wie viel Zeit würdest du für eine Radtour einplanen?|Wie viel Zeit würdest du einplanen, um ein Amateurturnier zu organisieren?|
+sport-801|Wie schnell könntest du eine Mobility-Einheit machen?|Wie schnell könntest du eine neue Technik lernen?|
+sport-802|In welcher Situation würdest du dich entscheiden, einen guten Fahrradhelm zu kaufen?|In welcher Situation würdest du dich entscheiden, ein Paar verstellbare Kurzhanteln zu kaufen?|
+sport-803|Welchen Preis stellst du dir für ein Paar verstellbare Kurzhanteln vor?|Welchen Preis stellst du dir für einen Basketballkorb für draußen vor?|
+sport-804|Was würdest du spontan sagen, wenn du deine Sportschuhe vergisst?|Was würdest du spontan sagen, wenn der reservierte Platz schon belegt ist?|
+sport-805|Wie schnell könntest du eine einstündige Trainingseinheit zu zweit finden?|Wie schnell könntest du deine Sportschuhe aussuchen?|
+sport-806|Wo würdest du zuerst nach einem robusten Springseil suchen?|Wo würdest du zuerst nach einer Windjacke zum Laufen suchen?|
+sport-807|Ab welchem Preis würdest du zögern, ein Ticket für ein Bundesligaspiel auf der Seitentribüne zu kaufen?|Ab welchem Preis würdest du zögern, einen guten Fahrradhelm zu kaufen?|Ligue 1 → Bundesliga
+sport-808|Wann in der Woche würdest du am liebsten die Regeln einer neuen Sportart lernen?|Wann in der Woche würdest du am liebsten eine sportliche Wanderung vorbereiten?|
+sport-809|Wie oft kommt es vor, dass du einen Tennispartner für ein einstündiges Match suchst?|Wie oft kommt es vor, dass du dich auf einen 5-km-Lauf vorbereitest?|
+sport-810|Wie würdest du reagieren, wenn ein berühmter Sportler in deiner Nähe trainiert?|Wie würdest du reagieren, wenn du eine neue Sportart entdeckst, die dir gefällt?|
+maison-581|Was meinst du, wie viel kostet ein guter Akku-Staubsauger?|Was meinst du, wie viel kostet ein Schuhschrank?|
+maison-582|Was wäre dein erster Reflex, wenn ein Paketbote ein sehr schweres Paket zu dir hochträgt?|Was wäre dein erster Reflex, wenn du merkst, dass dir die Wandfarbe nicht gefällt?|
+maison-583|Wohin würdest du gehen, um einen einfachen Werkzeugkasten zu kaufen?|Wohin würdest du gehen, um einen Esstisch aus Holz für vier Personen zu kaufen?|
+maison-584|Welchen Preis stellst du dir für einen kleinen Schreibtisch für die Wohnung vor?|Welchen Preis stellst du dir für ein Set Badetücher vor?|
+maison-585|Wann hättest du Lust, dir einen Bettbezug aus Baumwolle zu kaufen?|Wann hättest du Lust, dir einen guten Akku-Staubsauger zu kaufen?|
+maison-586|Wann hättest du Lust, dir ein Set Verdunkelungsvorhänge zu kaufen?|Wann hättest du Lust, dir eine Nachttischlampe zu kaufen?|
+maison-587|Wohin würdest du gehen, um ein Set Badetücher zu finden?|Wohin würdest du gehen, um eine pflegeleichte Zimmerpflanze zu finden?|
+maison-588|Wie viel wärst du bereit, für einen Aufbewahrungskorb auszugeben?|Wie viel wärst du bereit, für einen kleinen Schreibtisch für die Wohnung auszugeben?|
+maison-589|Zu welchem Anlass würdest du einen Couchtisch aus Holz kaufen wollen?|Zu welchem Anlass würdest du einen Wohnzimmerteppich in 160 × 230 cm kaufen wollen?|
+maison-590|Wie oft kommt es vor, dass du den Papierkram zu Hause sortierst?|Wie oft kommt es vor, dass du einen Umzug vorbereitest?|
+maison-591|Auf welcher Website oder in welchem Laden würdest du nach einem bequemen Sessel suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Zweisitzer-Sofa aus Stoff suchen?|
+maison-592|Welchen Preis stellst du dir für eine Wandgarderobe vor?|Welchen Preis stellst du dir für eine Filterkaffeemaschine vor?|
+maison-593|Wann in der Woche würdest du am liebsten alle Fenster putzen?|Wann in der Woche würdest du am liebsten vor einem Besuch putzen?|
+maison-594|Wie würdest du antworten, wenn du etwas wiederfindest, das du schon lange verloren hattest?|Wie würdest du antworten, wenn beim Abendessen eine Glühbirne durchbrennt?|
+maison-595|Auf welcher Website oder in welchem Laden würdest du nach einem kleinen Schreibtisch für die Wohnung suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Set Badetücher suchen?|
+maison-596|Wer könnte dir den besten Rat geben, wie man einen kleinen Flur dekoriert?|Wer könnte dir den besten Rat geben, wie man einen Kühlschrank ausräumt und putzt?|
+maison-597|Wohin würdest du gehen, um einen guten Akku-Staubsauger zu finden?|Wohin würdest du gehen, um einen Schuhschrank zu finden?|
+maison-598|Wie oft im Monat hast du Gelegenheit, eine Glühbirne zu wechseln?|Wie oft im Monat hast du Gelegenheit, einen kleinen Flur zu dekorieren?|
+maison-599|Wann wäre der beste Zeitpunkt, um vor einem Besuch zu putzen?|Wann wäre der beste Zeitpunkt, um ein Bücherregal aufzuräumen?|
+maison-600|Wer aus deinem Umfeld könnte dir helfen, einen Umzug vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, die Küchenschränke neu einzuräumen?|
+maison-601|Wie lange würdest du brauchen, um Vorhänge aufzuhängen?|Wie lange würdest du brauchen, um den Papierkram zu Hause zu sortieren?|
+maison-602|Was meinst du, wie lange braucht man, um den Papierkram zu Hause zu sortieren?|Was meinst du, wie lange braucht man, um einen Umzug vorzubereiten?|
+maison-603|Was kostet deiner Meinung nach ein Wandregal?|Was kostet deiner Meinung nach ein Badezimmerspiegel?|
+maison-604|Was wäre dein erster Reflex, wenn du vor deiner Haustür deine Schlüssel verlierst?|Was wäre dein erster Reflex, wenn ein Nachbar dich um Salz bittet?|
+maison-605|Welche Tageszeit würdest du wählen, um ein neues Regal anzubringen?|Welche Tageszeit würdest du wählen, um ein Zimmer für Gäste herzurichten?|
+maison-606|Wie oft im Jahr hast du Gelegenheit, einen Umzug vorzubereiten?|Wie oft im Jahr hast du Gelegenheit, die Küchenschränke neu einzuräumen?|
+maison-607|Wann wäre der beste Zeitpunkt, um einen Küchenschrank aufzuräumen?|Wann wäre der beste Zeitpunkt, um ein Badezimmer zu putzen?|
+maison-608|Wann hättest du Lust, dir eine Wandgarderobe zu kaufen?|Wann hättest du Lust, dir eine Filterkaffeemaschine zu kaufen?|
+maison-609|Was würdest du als Erstes tun, wenn du einen großen Fleck auf dem Sofa entdeckst?|Was würdest du als Erstes tun, wenn ein Nachbar dir Bescheid gibt, dass das Wasser abgestellt wird?|
+maison-610|Wie schnell könntest du ein neues Regal anbringen?|Wie schnell könntest du ein Zimmer für Gäste herrichten?|
+maison-611|Was meinst du, wie lange braucht man, um vor einem Besuch zu putzen?|Was meinst du, wie lange braucht man, um ein Bücherregal aufzuräumen?|
+maison-612|Welchen Preis stellst du dir für einen bequemen Sessel vor?|Welchen Preis stellst du dir für ein Zweisitzer-Sofa aus Stoff vor?|
+maison-613|Welches Zeitfenster am Tag wäre am praktischsten, um das Wohnzimmer umzustellen?|Welches Zeitfenster am Tag wäre am praktischsten, um eine Wandfarbe auszusuchen?|
+maison-614|Was würde dich dazu bringen, dir eine Nachttischlampe zu kaufen?|Was würde dich dazu bringen, dir ein Wandregal zu kaufen?|
+maison-615|Wie oft würdest du gern eine Pflanze für dein Wohnzimmer aussuchen?|Wie oft würdest du gern Vorhänge aufhängen?|
+maison-616|Was wäre deine erste Reaktion, wenn ein Nachbar dich um Salz bittet?|Was wäre deine erste Reaktion, wenn du ein Möbelstück bekommst, bei dem ein Teil fehlt?|
+maison-617|Welches Budget würdest du maximal für eine Filterkaffeemaschine einplanen?|Welches Budget würdest du maximal für einen einfachen Werkzeugkasten einplanen?|
+maison-618|Wie viel ist ein Aufbewahrungskorb deiner Meinung nach wert?|Wie viel ist ein kleiner Schreibtisch für die Wohnung deiner Meinung nach wert?|
+maison-619|Wen würdest du kontaktieren, damit er dir hilft, Vorhänge aufzuhängen?|Wen würdest du kontaktieren, damit er dir hilft, den Papierkram zu Hause zu sortieren?|
+maison-620|Was meinst du, wie viel kostet eine Nachttischlampe?|Was meinst du, wie viel kostet ein Wandregal?|
+maison-621|Wie viel wärst du bereit, für einen Badezimmerspiegel auszugeben?|Wie viel wärst du bereit, für einen Bettbezug aus Baumwolle auszugeben?|
+maison-622|Wen würdest du um Hilfe bitten, wenn du eine Arbeitsecke einrichten willst?|Wen würdest du um Hilfe bitten, wenn du alle Fenster putzen willst?|
+maison-623|Ab welchem Preis würdest du zögern, ein Wandregal zu kaufen?|Ab welchem Preis würdest du zögern, einen Badezimmerspiegel zu kaufen?|
+maison-624|In welcher Situation würdest du dich entscheiden, einen Aufbewahrungskorb zu kaufen?|In welcher Situation würdest du dich entscheiden, einen kleinen Schreibtisch für die Wohnung zu kaufen?|
+maison-625|Was meinst du, wie viel kostet ein Zweisitzer-Sofa aus Stoff?|Was meinst du, wie viel kostet ein Couchtisch aus Holz?|
+maison-626|Was würde dich dazu bringen, dir ein Set Badetücher zu kaufen?|Was würde dich dazu bringen, dir eine pflegeleichte Zimmerpflanze zu kaufen?|
+maison-627|Wer aus deinem Umfeld könnte dir helfen, einen Kühlschrank auszuräumen und zu putzen?|Wer aus deinem Umfeld könnte dir helfen, eine Arbeitsecke einzurichten?|
+maison-628|Wen würdest du um Hilfe bitten, wenn du eine Pflanze für dein Wohnzimmer aussuchen willst?|Wen würdest du um Hilfe bitten, wenn du Vorhänge aufhängen willst?|
+maison-629|Welcher Satz käme dir über die Lippen, wenn ein Gast ein Glas zerbricht?|Welcher Satz käme dir über die Lippen, wenn du vor deiner Haustür deine Schlüssel verlierst?|
+maison-630|Was meinst du, wie viel kostet eine Filterkaffeemaschine?|Was meinst du, wie viel kostet ein einfacher Werkzeugkasten?|
+maison-631|Ab welchem Preis würdest du zögern, eine pflegeleichte Zimmerpflanze zu kaufen?|Ab welchem Preis würdest du zögern, ein Kissen-Set zu kaufen?|
+maison-632|Auf welcher Website oder in welchem Laden würdest du nach einem Bettbezug aus Baumwolle suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem guten Akku-Staubsauger suchen?|
+maison-633|Wo würdest du zuerst nach einem Esstisch aus Holz für vier Personen suchen?|Wo würdest du zuerst nach einem bequemen Sessel suchen?|
+maison-634|Wie oft würdest du gern die Küchenschränke neu einräumen?|Wie oft würdest du gern ein Möbelstück zum Selbstaufbau zusammenbauen?|
+maison-635|Was wäre dein erster Reflex, wenn ein Freund deine Einrichtung kritisiert?|Was wäre dein erster Reflex, wenn es klingelt, während du unter der Dusche stehst?|
+maison-636|Wie würdest du reagieren, wenn ein Gast ein Glas zerbricht?|Wie würdest du reagieren, wenn du vor deiner Haustür deine Schlüssel verlierst?|
+maison-637|Wie oft im Monat hast du Gelegenheit, ein Möbelstück zum Selbstaufbau zusammenzubauen?|Wie oft im Monat hast du Gelegenheit, einen Küchenschrank aufzuräumen?|
+maison-638|Wohin würdest du gehen, um einen Schuhschrank zu kaufen?|Wohin würdest du gehen, um einen Aufbewahrungskorb zu kaufen?|
+maison-639|Was würdest du spontan sagen, wenn ein Nachbar dich um Salz bittet?|Was würdest du spontan sagen, wenn du ein Möbelstück bekommst, bei dem ein Teil fehlt?|
+maison-640|Was würdest du spontan sagen, wenn beim Abendessen eine Glühbirne durchbrennt?|Was würdest du spontan sagen, wenn jemand, der dir nahesteht, spontan bei dir übernachten will?|
+maison-641|Wie oft kommt es vor, dass du vor einem Besuch putzt?|Wie oft kommt es vor, dass du ein Bücherregal aufräumst?|
+maison-642|In welcher Situation würdest du dich entscheiden, einen Badezimmerspiegel zu kaufen?|In welcher Situation würdest du dich entscheiden, einen Bettbezug aus Baumwolle zu kaufen?|
+maison-643|Auf welcher Website oder in welchem Laden würdest du nach einem Set Verdunkelungsvorhänge suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Nachttischlampe suchen?|
+maison-644|Was würdest du spontan sagen, wenn es klingelt, während du unter der Dusche stehst?|Was würdest du spontan sagen, wenn du einen großen Fleck auf dem Sofa entdeckst?|
+maison-645|Wie oft kommt es vor, dass du deine Klamotten aussortierst?|Wie oft kommt es vor, dass du ein neues Regal anbringst?|
+maison-646|Was würdest du spontan sagen, wenn du in der Küche einen unbekannten Geruch bemerkst?|Was würdest du spontan sagen, wenn du ein Leck unter der Spüle entdeckst?|
+maison-647|Wo würdest du zuerst nach einem Wohnzimmerteppich in 160 × 230 cm suchen?|Wo würdest du zuerst nach einem Set Verdunkelungsvorhänge suchen?|
+maison-648|Wie viel Zeit würdest du einplanen, um eine Pflanze für dein Wohnzimmer auszusuchen?|Wie viel Zeit würdest du einplanen, um Vorhänge aufzuhängen?|
+maison-649|Wer könnte dir den besten Rat geben, wie man den Papierkram zu Hause sortiert?|Wer könnte dir den besten Rat geben, wie man einen Umzug vorbereitet?|
+maison-650|Was würdest du spontan sagen, wenn du merkst, dass dir die Wandfarbe nicht gefällt?|Was würdest du spontan sagen, wenn ein Gast Kaffee auf den Teppich kippt?|
+maison-651|Wie oft würdest du gern das Wohnzimmer umstellen?|Wie oft würdest du gern eine Wandfarbe aussuchen?|
+maison-652|Was würdest du sagen, wenn du einen großen Fleck auf dem Sofa entdeckst?|Was würdest du sagen, wenn ein Nachbar dir Bescheid gibt, dass das Wasser abgestellt wird?|
+maison-653|Ab welchem Preis würdest du zögern, einen Couchtisch aus Holz zu kaufen?|Ab welchem Preis würdest du zögern, einen Wohnzimmerteppich in 160 × 230 cm zu kaufen?|
+maison-654|Wie viel Zeit würdest du einplanen, um die Küchenschränke neu einzuräumen?|Wie viel Zeit würdest du einplanen, um ein Möbelstück zum Selbstaufbau zusammenzubauen?|
+maison-655|Wie viel würdest du maximal für einen kleinen Schreibtisch für die Wohnung zahlen?|Wie viel würdest du maximal für ein Set Badetücher zahlen?|
+maison-656|Wer könnte dir den besten Rat geben, wie du deine Klamotten aussortierst?|Wer könnte dir den besten Rat geben, wie du ein neues Regal anbringst?|
+maison-657|Ab welchem Preis würdest du zögern, einen einfachen Werkzeugkasten zu kaufen?|Ab welchem Preis würdest du zögern, einen Esstisch aus Holz für vier Personen zu kaufen?|
+maison-658|Welcher Satz käme dir über die Lippen, wenn ein Freund dein Wohnzimmer umstellen will?|Welcher Satz käme dir über die Lippen, wenn du etwas wiederfindest, das du schon lange verloren hattest?|
+maison-659|Welchen Preis stellst du dir für ein Set Verdunkelungsvorhänge vor?|Welchen Preis stellst du dir für eine Nachttischlampe vor?|
+maison-660|Welches Zeitfenster am Tag wäre am praktischsten, um eine Arbeitsecke einzurichten?|Welches Zeitfenster am Tag wäre am praktischsten, um alle Fenster zu putzen?|
+maison-661|Wen würdest du kontaktieren, damit er dir hilft, eine Wandfarbe auszusuchen?|Wen würdest du kontaktieren, damit er dir hilft, deine Klamotten auszusortieren?|
+maison-662|Wer aus deinem Umfeld könnte dir helfen, ein neues Regal anzubringen?|Wer aus deinem Umfeld könnte dir helfen, ein Zimmer für Gäste herzurichten?|
+maison-663|Wen würdest du um Hilfe bitten, wenn du das Wohnzimmer umstellen willst?|Wen würdest du um Hilfe bitten, wenn du eine Wandfarbe aussuchen willst?|
+maison-664|Wie lange würdest du brauchen, um ein Möbelstück zum Selbstaufbau zusammenzubauen?|Wie lange würdest du brauchen, um einen Küchenschrank aufzuräumen?|
+maison-665|Was würdest du als Erstes tun, wenn jemand, der dir nahesteht, spontan bei dir übernachten will?|Was würdest du als Erstes tun, wenn dein Kleiderschrank vor Klamotten überquillt?|
+maison-666|Wer aus deinem Umfeld könnte dir helfen, ein Bücherregal aufzuräumen?|Wer aus deinem Umfeld könnte dir helfen, eine Pflanze für dein Wohnzimmer auszusuchen?|
+maison-667|Wen würdest du kontaktieren, damit er dir hilft, ein Möbelstück zum Selbstaufbau zusammenzubauen?|Wen würdest du kontaktieren, damit er dir hilft, einen Küchenschrank aufzuräumen?|
+maison-668|Was kostet deiner Meinung nach ein Couchtisch aus Holz?|Was kostet deiner Meinung nach ein Wohnzimmerteppich in 160 × 230 cm?|
+maison-669|Was würdest du als Erstes tun, wenn du ein Leck unter der Spüle entdeckst?|Was würdest du als Erstes tun, wenn ein Gast ein Glas zerbricht?|
+maison-670|Zu welchem Anlass würdest du einen Schuhschrank kaufen wollen?|Zu welchem Anlass würdest du einen Aufbewahrungskorb kaufen wollen?|
+maison-671|Wie viel ist ein Kissen-Set deiner Meinung nach wert?|Wie viel ist eine Wandgarderobe deiner Meinung nach wert?|
+maison-672|Welches Zeitfenster am Tag wäre am praktischsten, um die Küchenschränke neu einzuräumen?|Welches Zeitfenster am Tag wäre am praktischsten, um ein Möbelstück zum Selbstaufbau zusammenzubauen?|
+maison-673|Was würde dich dazu bringen, dir ein Zweisitzer-Sofa aus Stoff zu kaufen?|Was würde dich dazu bringen, dir einen Couchtisch aus Holz zu kaufen?|
+maison-674|Wann in der Woche würdest du am liebsten Vorhänge aufhängen?|Wann in der Woche würdest du am liebsten den Papierkram zu Hause sortieren?|
+maison-675|Welche Tageszeit würdest du wählen, um einen Kühlschrank auszuräumen und zu putzen?|Welche Tageszeit würdest du wählen, um eine Arbeitsecke einzurichten?|
+maison-676|Wie lange würdest du brauchen, um eine Glühbirne zu wechseln?|Wie lange würdest du brauchen, um einen kleinen Flur zu dekorieren?|
+maison-677|Wie würdest du antworten, wenn ein Freund deine Einrichtung kritisiert?|Wie würdest du antworten, wenn es klingelt, während du unter der Dusche stehst?|
+maison-678|Wie würdest du reagieren, wenn dein Staubsauger kaputtgeht?|Wie würdest du reagieren, wenn ein Freund deine Einrichtung kritisiert?|
+maison-679|Wie viel würdest du maximal für einen bequemen Sessel zahlen?|Wie viel würdest du maximal für ein Zweisitzer-Sofa aus Stoff zahlen?|

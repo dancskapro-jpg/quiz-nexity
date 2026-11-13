@@ -198,3 +198,303 @@ ville-529|Che budget massimo metteresti per un ingresso adulto in un museo civic
 ville-530|Quale frase ti uscirebbe di bocca se trovassi un portafoglio sul marciapiede?|Quale frase ti uscirebbe di bocca se la strada che conosci fosse chiusa?|
 ville-531|Cosa diresti se un autobus ti passasse davanti senza fermarsi?|Cosa diresti se un ciclista ti suonasse il campanello alle spalle?|
 ville-532|Come risponderesti se un passante ti chiedesse l’ora?|Come risponderesti se il tuo treno cambiasse binario all’ultimo momento?|
+imaginaire-332|Quanto tempo ti servirebbe per organizzare una giornata completamente libera?|Quanto tempo ti servirebbe per immaginare la tua casa ideale?|
+imaginaire-333|Secondo te, qual è il prezzo di una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|Secondo te, qual è il prezzo di un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|Bretagne → Puglia
+imaginaire-334|A chi chiederesti aiuto per preparare una sorpresa a tutte le persone a cui tieni?|A chi chiederesti aiuto per organizzare una giornata completamente libera?|
+imaginaire-335|Quale persona della tua cerchia potrebbe aiutarti a preparare una sfida personale per l’anno?|Quale persona della tua cerchia potrebbe aiutarti a scegliere una meta in cui tornare spesso?|
+imaginaire-336|Oltre quale prezzo esiteresti a prenotare l’affitto di una baita in riva a un lago per un weekend?|Oltre quale prezzo esiteresti a comprare un grande laboratorio per i tuoi hobby?|
+imaginaire-337|Quanto pensi che valga un grande laboratorio per i tuoi hobby?|Quanto pensi che valga una libreria personale su misura?|
+imaginaire-338|Come reagiresti se ti regalassero un’ora in più ogni mattina?|Come reagiresti se potessi fare una domanda al te stesso del futuro?|
+imaginaire-339|Quale sarebbe l’aspetto più importante per preparare una grande festa senza vincoli?|Quale sarebbe l’aspetto più importante per scegliere un’attività da provare gratis?|
+imaginaire-340|Quanto tempo ti servirebbe per fare una lista dei viaggi dei tuoi sogni?|Quanto tempo ti servirebbe per scegliere un talento da imparare in fretta?|
+imaginaire-341|In quale situazione decideresti di comprare un abbonamento illimitato al cinema?|In quale situazione decideresti di prenotare un soggiorno in una città straniera?|
+imaginaire-342|Quanto saresti disposto a spendere per un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|Quanto saresti disposto a spendere per una settimana in un hotel da sogno?|
+imaginaire-343|Quanto pensi che valga un abbonamento illimitato al cinema?|Quanto pensi che valga un soggiorno in una città straniera?|
+imaginaire-344|Quanto pensi che valga il noleggio di una piccola barca per una giornata?|Quanto pensi che valga una palestra in casa?|
+imaginaire-345|Cosa ti spingerebbe a comprare un biglietto aereo andata e ritorno per l’Europa con date flessibili?|Cosa ti spingerebbe a prenotare l’affitto di una baita in riva a un lago per un weekend?|
+imaginaire-346|Che prezzo immagini per una settimana in un hotel da sogno?|Che prezzo immagini per una lezione privata con un esperto?|
+imaginaire-347|Quanto tempo metteresti in conto per scegliere un’attività da provare gratis?|Quanto tempo metteresti in conto per organizzare un viaggio con il tuo migliore amico?|
+imaginaire-348|In quale situazione decideresti di comprare un grande laboratorio per i tuoi hobby?|In quale situazione decideresti di comprare una libreria personale su misura?|
+imaginaire-349|Quale sarebbe la tua difficoltà principale se dovessi organizzare un viaggio con il tuo migliore amico?|Quale sarebbe la tua difficoltà principale se dovessi immaginare una settimana senza telefono?|
+imaginaire-350|In quale posto andresti per trovare un giardino attrezzato per leggere?|In quale posto andresti per trovare il noleggio di un’auto d’epoca per una giornata?|
+imaginaire-351|Cosa ti spingerebbe a prenotare un viaggio di tre mesi in treno attraverso più paesi?|Cosa ti spingerebbe a comprare una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|Bretagne → Puglia
+imaginaire-352|Secondo te, qual è il prezzo dell’affitto di una baita in riva a un lago per un weekend?|Secondo te, qual è il prezzo di un grande laboratorio per i tuoi hobby?|
+imaginaire-353|Se dovessi scegliere un talento da imparare in fretta, quale sarebbe la tua priorità?|Se dovessi riorganizzare la tua agenda ideale, quale sarebbe la tua priorità?|
+imaginaire-354|Quale sarebbe l’aspetto più importante per scegliere un mestiere da provare per un giorno?|Quale sarebbe l’aspetto più importante per organizzare una cena con persone famose?|
+imaginaire-355|Quanto tempo ti servirebbe per organizzare un viaggio con il tuo migliore amico?|Quanto tempo ti servirebbe per immaginare una settimana senza telefono?|
+imaginaire-356|Che budget massimo metteresti per un giardino attrezzato per leggere?|Che budget massimo metteresti per il noleggio di un’auto d’epoca per una giornata?|
+imaginaire-357|Quale sarebbe la tua prima reazione se potessi invitare cinque persone a una grande cena?|Quale sarebbe la tua prima reazione se avessi una biblioteca con tutti i libri del mondo?|
+imaginaire-358|Come risponderesti se potessi provare qualsiasi mestiere per un giorno?|Come risponderesti se scoprissi una lettera scritta da te tra dieci anni?|
+imaginaire-359|Che budget massimo metteresti per un weekend in un castello?|Che budget massimo metteresti per un concerto privato per pochi intimi?|
+imaginaire-360|In quale momento ti verrebbe voglia di prenotare un soggiorno in una città straniera?|In quale momento ti verrebbe voglia di prenotare un weekend in un castello?|
+imaginaire-361|Dove cercheresti per prima cosa il noleggio di una piccola barca per una giornata?|Dove cercheresti per prima cosa una palestra in casa?|
+imaginaire-362|Se dovessi immaginare una settimana senza telefono, quale sarebbe la tua priorità?|Se dovessi preparare una sfida personale per l’anno, quale sarebbe la tua priorità?|
+imaginaire-363|Quale sarebbe il momento migliore per scegliere una nuova città in cui vivere?|Quale sarebbe il momento migliore per preparare un viaggio senza limiti di budget?|
+imaginaire-364|Quanto tempo metteresti in conto per preparare una sorpresa a tutte le persone a cui tieni?|Quanto tempo metteresti in conto per organizzare una giornata completamente libera?|
+imaginaire-365|Quale sarebbe la tua prima reazione se scoprissi una lettera scritta da te tra dieci anni?|Quale sarebbe la tua prima reazione se ti regalassero una casa nella città che vuoi?|
+imaginaire-366|Quale sarebbe l’aspetto più importante per riorganizzare la tua agenda ideale?|Quale sarebbe l’aspetto più importante per preparare una sorpresa a tutte le persone a cui tieni?|
+imaginaire-367|In quale posto andresti per trovare una lezione privata con un esperto?|In quale posto andresti per trovare una cena per due preparata a casa da uno chef?|
+imaginaire-368|Secondo te, qual è il prezzo di una cena per due preparata a casa da uno chef?|Secondo te, qual è il prezzo di un abbonamento illimitato al cinema?|
+imaginaire-369|Che prezzo immagini per una palestra in casa?|Che prezzo immagini per un giardino attrezzato per leggere?|
+imaginaire-370|Cosa faresti per prima cosa se vincessi un viaggio senza conoscere la destinazione?|Cosa faresti per prima cosa se ti offrissero un anno intero di ferie?|
+imaginaire-371|Cosa diresti sul momento se uno sconosciuto ti regalasse un biglietto per qualsiasi paese?|Cosa diresti sul momento se avessi accesso gratis a tutti i musei?|
+imaginaire-372|In quale situazione decideresti di comprare un’esperienza di guida in pista con istruttore?|In quale situazione decideresti di prenotare un ritiro di creazione artistica?|
+imaginaire-373|Quale fascia oraria della giornata sarebbe la più comoda per scegliere un’attività da provare gratis?|Quale fascia oraria della giornata sarebbe la più comoda per organizzare un viaggio con il tuo migliore amico?|
+imaginaire-374|Cosa ti spingerebbe a comprare un giardino attrezzato per leggere?|Cosa ti spingerebbe a prenotare il noleggio di un’auto d’epoca per una giornata?|
+imaginaire-375|In quanto tempo riusciresti a preparare una sfida personale per l’anno?|In quanto tempo riusciresti a scegliere una meta in cui tornare spesso?|
+imaginaire-376|Che prezzo immagini per un soggiorno in una città straniera?|Che prezzo immagini per un weekend in un castello?|
+imaginaire-377|Fino a quanto pagheresti per un ritiro di creazione artistica?|Fino a quanto pagheresti per un biglietto aereo andata e ritorno per l’Europa con date flessibili?|
+imaginaire-378|Come reagiresti se ti proponessero un viaggio in treno di tre mesi?|Come reagiresti se potessi rifare una giornata andata male?|
+imaginaire-379|In quale occasione vorresti comprare una cena per due preparata a casa da uno chef?|In quale occasione vorresti comprare un abbonamento illimitato al cinema?|
+imaginaire-380|Secondo te, quanto tempo ci vuole per scegliere un talento da imparare in fretta?|Secondo te, quanto tempo ci vuole per riorganizzare la tua agenda ideale?|
+imaginaire-381|Quale sarebbe il momento migliore per preparare un anno sabbatico?|Quale sarebbe il momento migliore per scegliere un mestiere da provare per un giorno?|
+imaginaire-382|Secondo te, quanto costa una lezione privata con un esperto?|Secondo te, quanto costa una cena per due preparata a casa da uno chef?|
+imaginaire-383|Quale fascia oraria della giornata sarebbe la più comoda per preparare una sorpresa a tutte le persone a cui tieni?|Quale fascia oraria della giornata sarebbe la più comoda per organizzare una giornata completamente libera?|
+imaginaire-384|Quale dettaglio controlleresti prima di organizzare una cena con persone famose?|Quale dettaglio controlleresti prima di fare una lista dei viaggi dei tuoi sogni?|
+imaginaire-385|Quale momento della giornata sceglieresti per preparare una grande festa senza vincoli?|Quale momento della giornata sceglieresti per scegliere un’attività da provare gratis?|
+imaginaire-386|Chi potrebbe darti il consiglio migliore per immaginare una settimana senza telefono?|Chi potrebbe darti il consiglio migliore per preparare una sfida personale per l’anno?|
+imaginaire-387|Fino a quanto pagheresti per una settimana in un hotel da sogno?|Fino a quanto pagheresti per una lezione privata con un esperto?|
+imaginaire-388|Cosa ti spingerebbe a comprare una lezione privata con un esperto?|Cosa ti spingerebbe a comprare una cena per due preparata a casa da uno chef?|
+imaginaire-389|Cosa faresti per prima cosa se avessi accesso gratis a tutti i musei?|Cosa faresti per prima cosa se ti regalassero un’ora in più ogni mattina?|
+imaginaire-390|Quale momento della giornata sceglieresti per riorganizzare la tua agenda ideale?|Quale momento della giornata sceglieresti per preparare una sorpresa a tutte le persone a cui tieni?|
+imaginaire-391|Quanto pensi che valga un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|Quanto pensi che valga una settimana in un hotel da sogno?|
+imaginaire-392|Secondo te, qual è il prezzo di un concerto privato per pochi intimi?|Secondo te, qual è il prezzo del noleggio di una piccola barca per una giornata?|
+imaginaire-393|Quale sarebbe l’aspetto più importante per preparare una sfida personale per l’anno?|Quale sarebbe l’aspetto più importante per scegliere una meta in cui tornare spesso?|
+imaginaire-394|Cosa diresti se vincessi un viaggio senza conoscere la destinazione?|Cosa diresti se ti offrissero un anno intero di ferie?|
+imaginaire-395|Cosa ti spingerebbe a prenotare un weekend in un castello?|Cosa ti spingerebbe a comprare un concerto privato per pochi intimi?|
+imaginaire-396|Chi contatteresti per farti aiutare a organizzare un mese di vacanze libere?|Chi contatteresti per farti aiutare a scegliere una nuova città in cui vivere?|
+imaginaire-397|Fino a quanto pagheresti per un soggiorno in una città straniera?|Fino a quanto pagheresti per un weekend in un castello?|
+imaginaire-398|Oltre quale prezzo esiteresti a comprare un concerto privato per pochi intimi?|Oltre quale prezzo esiteresti a prenotare il noleggio di una piccola barca per una giornata?|
+imaginaire-399|Cosa diresti sul momento se ricevessi un budget per realizzare un sogno?|Cosa diresti sul momento se potessi scegliere una nuova abilità all’istante?|
+imaginaire-400|Quanto tempo metteresti in conto per organizzare una cena con persone famose?|Quanto tempo metteresti in conto per fare una lista dei viaggi dei tuoi sogni?|
+imaginaire-401|Quale sarebbe la tua difficoltà principale se dovessi organizzare una giornata completamente libera?|Quale sarebbe la tua difficoltà principale se dovessi immaginare la tua casa ideale?|
+imaginaire-402|Quale frase ti uscirebbe di bocca se potessi rivivere un solo giorno felice?|Quale frase ti uscirebbe di bocca se potessi passare una serata con il tuo artista preferito?|
+imaginaire-403|Dove cercheresti per prima cosa un grande laboratorio per i tuoi hobby?|Dove cercheresti per prima cosa una libreria personale su misura?|
+imaginaire-404|Su quale sito o in quale negozio cercheresti una libreria personale su misura?|Su quale sito o in quale negozio cercheresti un viaggio di tre mesi in treno attraverso più paesi?|
+imaginaire-405|Quale sarebbe il tuo primo riflesso se potessi provare qualsiasi mestiere per un giorno?|Quale sarebbe il tuo primo riflesso se scoprissi una lettera scritta da te tra dieci anni?|
+imaginaire-406|Quale dettaglio controlleresti prima di scegliere una meta in cui tornare spesso?|Quale dettaglio controlleresti prima di organizzare un mese di vacanze libere?|
+imaginaire-407|Quanto saresti disposto a spendere per un’esperienza di guida in pista con istruttore?|Quanto saresti disposto a spendere per un ritiro di creazione artistica?|
+imaginaire-408|Come risponderesti se potessi rifare una giornata andata male?|Come risponderesti se potessi invitare cinque persone a una grande cena?|
+imaginaire-409|Quale sarebbe il tuo primo riflesso se potessi passare una serata con il tuo artista preferito?|Quale sarebbe il tuo primo riflesso se uno sconosciuto ti regalasse un biglietto per qualsiasi paese?|
+imaginaire-410|Fino a quanto pagheresti per una palestra in casa?|Fino a quanto pagheresti per un giardino attrezzato per leggere?|
+imaginaire-411|In quale momento ti verrebbe voglia di comprare una libreria personale su misura?|In quale momento ti verrebbe voglia di prenotare un viaggio di tre mesi in treno attraverso più paesi?|
+imaginaire-412|Quanto pensi che valga un’esperienza di guida in pista con istruttore?|Quanto pensi che valga un ritiro di creazione artistica?|
+imaginaire-413|In quanto tempo riusciresti a riorganizzare la tua agenda ideale?|In quanto tempo riusciresti a preparare una sorpresa a tutte le persone a cui tieni?|
+imaginaire-414|In quale occasione vorresti comprare un concerto privato per pochi intimi?|In quale occasione vorresti prenotare il noleggio di una piccola barca per una giornata?|
+imaginaire-415|Come risponderesti se potessi cambiare un dettaglio della tua vita quotidiana?|Come risponderesti se potessi passare una settimana a realizzare un vecchio progetto?|
+imaginaire-416|Cosa diresti sul momento se potessi passare una settimana a realizzare un vecchio progetto?|Cosa diresti sul momento se vincessi un viaggio senza conoscere la destinazione?|
+imaginaire-417|In quale momento ti verrebbe voglia di prenotare un ritiro di creazione artistica?|In quale momento ti verrebbe voglia di comprare un biglietto aereo andata e ritorno per l’Europa con date flessibili?|
+imaginaire-418|Quale persona della tua cerchia potrebbe aiutarti a preparare una grande festa senza vincoli?|Quale persona della tua cerchia potrebbe aiutarti a scegliere un’attività da provare gratis?|
+imaginaire-419|Dove andresti a comprare una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|Dove andresti a prenotare un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|Bretagne → Puglia
+imaginaire-420|Chi potrebbe darti il consiglio migliore per scegliere una nuova città in cui vivere?|Chi potrebbe darti il consiglio migliore per preparare un viaggio senza limiti di budget?|
+imaginaire-421|In quanto tempo riusciresti a scegliere un mestiere da provare per un giorno?|In quanto tempo riusciresti a organizzare una cena con persone famose?|
+imaginaire-422|Dove andresti a comprare un concerto privato per pochi intimi?|Dove andresti a prenotare il noleggio di una piccola barca per una giornata?|
+imaginaire-423|Su quale sito o in quale negozio cercheresti una settimana in un hotel da sogno?|Su quale sito o in quale negozio cercheresti una lezione privata con un esperto?|
+imaginaire-424|Quanto saresti disposto a spendere per il noleggio di una piccola barca per una giornata?|Quanto saresti disposto a spendere per una palestra in casa?|
+imaginaire-425|Se dovessi preparare un anno sabbatico, quale sarebbe la tua priorità?|Se dovessi scegliere un mestiere da provare per un giorno, quale sarebbe la tua priorità?|
+imaginaire-426|Chi potrebbe darti il consiglio migliore per preparare un anno sabbatico?|Chi potrebbe darti il consiglio migliore per scegliere un mestiere da provare per un giorno?|
+imaginaire-427|In quale momento della settimana preferiresti fare una lista dei viaggi dei tuoi sogni?|In quale momento della settimana preferiresti scegliere un talento da imparare in fretta?|
+imaginaire-428|Come risponderesti se potessi passare una serata con il tuo artista preferito?|Come risponderesti se uno sconosciuto ti regalasse un biglietto per qualsiasi paese?|
+imaginaire-429|Quale dettaglio controlleresti prima di imparare una nuova lingua?|Quale dettaglio controlleresti prima di avviare un progetto personale da sogno?|
+imaginaire-430|In quale occasione vorresti prenotare il noleggio di un’auto d’epoca per una giornata?|In quale occasione vorresti comprare un’esperienza di guida in pista con istruttore?|
+imaginaire-431|Quale fascia oraria della giornata sarebbe la più comoda per imparare una nuova lingua?|Quale fascia oraria della giornata sarebbe la più comoda per avviare un progetto personale da sogno?|
+imaginaire-432|Quale frase ti uscirebbe di bocca se ti proponessero un viaggio in treno di tre mesi?|Quale frase ti uscirebbe di bocca se potessi rifare una giornata andata male?|
+imaginaire-433|Secondo te, qual è il prezzo del noleggio di un’auto d’epoca per una giornata?|Secondo te, qual è il prezzo di un’esperienza di guida in pista con istruttore?|
+imaginaire-434|Cosa faresti per prima cosa se ti regalassero una casa nella città che vuoi?|Cosa faresti per prima cosa se potessi rivivere un solo giorno felice?|
+imaginaire-435|Secondo te, quanto tempo ci vuole per preparare un anno sabbatico?|Secondo te, quanto tempo ci vuole per scegliere un mestiere da provare per un giorno?|
+imaginaire-436|Quale sarebbe il momento migliore per scegliere un talento da imparare in fretta?|Quale sarebbe il momento migliore per riorganizzare la tua agenda ideale?|
+imaginaire-437|Come reagiresti se ti offrissero un anno intero di ferie?|Come reagiresti se potessi provare qualsiasi mestiere per un giorno?|
+imaginaire-438|Cosa diresti sul momento se potessi invitare cinque persone a una grande cena?|Cosa diresti sul momento se avessi una biblioteca con tutti i libri del mondo?|
+imaginaire-439|Quale sarebbe la tua prima reazione se potessi passare una settimana a realizzare un vecchio progetto?|Quale sarebbe la tua prima reazione se vincessi un viaggio senza conoscere la destinazione?|
+imaginaire-440|Come risponderesti se potessi fare una domanda al te stesso del futuro?|Come risponderesti se ricevessi un budget per realizzare un sogno?|
+imaginaire-441|Quale dettaglio controlleresti prima di scegliere un’attività da provare gratis?|Quale dettaglio controlleresti prima di organizzare un viaggio con il tuo migliore amico?|
+imaginaire-442|Cosa faresti per prima cosa se potessi scegliere una nuova abilità all’istante?|Cosa faresti per prima cosa se ti proponessero un viaggio in treno di tre mesi?|
+imaginaire-443|Quale fascia oraria della giornata sarebbe la più comoda per organizzare una cena con persone famose?|Quale fascia oraria della giornata sarebbe la più comoda per fare una lista dei viaggi dei tuoi sogni?|
+imaginaire-444|Chi contatteresti per farti aiutare a fare una lista dei viaggi dei tuoi sogni?|Chi contatteresti per farti aiutare a scegliere un talento da imparare in fretta?|
+imaginaire-445|Secondo te, quanto tempo ci vuole per immaginare una settimana senza telefono?|Secondo te, quanto tempo ci vuole per preparare una sfida personale per l’anno?|
+imaginaire-446|Oltre quale prezzo esiteresti a prenotare il noleggio di un’auto d’epoca per una giornata?|Oltre quale prezzo esiteresti a comprare un’esperienza di guida in pista con istruttore?|
+imaginaire-447|Secondo te, quanto costa un weekend in un castello?|Secondo te, quanto costa un concerto privato per pochi intimi?|
+imaginaire-448|Cosa diresti se ti regalassero una casa nella città che vuoi?|Cosa diresti se potessi rivivere un solo giorno felice?|
+imaginaire-449|Oltre quale prezzo esiteresti a comprare una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|Oltre quale prezzo esiteresti a prenotare un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|Bretagne → Puglia
+imaginaire-450|Quanto tempo ti servirebbe per avviare un progetto personale da sogno?|Quanto tempo ti servirebbe per preparare un anno sabbatico?|
+imaginaire-451|In quale occasione vorresti comprare una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|In quale occasione vorresti prenotare un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|Bretagne → Puglia
+imaginaire-452|In quale momento della settimana preferiresti organizzare un viaggio con il tuo migliore amico?|In quale momento della settimana preferiresti immaginare una settimana senza telefono?|
+imaginaire-453|In quale momento della settimana preferiresti organizzare una giornata completamente libera?|In quale momento della settimana preferiresti immaginare la tua casa ideale?|
+imaginaire-454|Che prezzo immagini per un ritiro di creazione artistica?|Che prezzo immagini per un biglietto aereo andata e ritorno per l’Europa con date flessibili?|
+imaginaire-455|Quale persona della tua cerchia potrebbe aiutarti a scegliere un mestiere da provare per un giorno?|Quale persona della tua cerchia potrebbe aiutarti a organizzare una cena con persone famose?|
+imaginaire-456|Dove andresti a prenotare il noleggio di un’auto d’epoca per una giornata?|Dove andresti a comprare un’esperienza di guida in pista con istruttore?|
+imaginaire-457|Quale sarebbe la tua difficoltà principale se dovessi fare una lista dei viaggi dei tuoi sogni?|Quale sarebbe la tua difficoltà principale se dovessi scegliere un talento da imparare in fretta?|
+imaginaire-458|Su quale sito o in quale negozio cercheresti una palestra in casa?|Su quale sito o in quale negozio cercheresti un giardino attrezzato per leggere?|
+imaginaire-459|Cosa faresti per prima cosa se avessi una biblioteca con tutti i libri del mondo?|Cosa faresti per prima cosa se potessi provare a vivere in un’altra città per un anno?|
+imaginaire-460|Quanto tempo metteresti in conto per imparare una nuova lingua?|Quanto tempo metteresti in conto per avviare un progetto personale da sogno?|
+imaginaire-461|A chi chiederesti aiuto per scegliere un’attività da provare gratis?|A chi chiederesti aiuto per organizzare un viaggio con il tuo migliore amico?|
+imaginaire-462|Quale sarebbe la tua prima reazione se uno sconosciuto ti regalasse un biglietto per qualsiasi paese?|Quale sarebbe la tua prima reazione se avessi accesso gratis a tutti i musei?|
+imaginaire-463|In quanto tempo riusciresti a preparare un viaggio senza limiti di budget?|In quanto tempo riusciresti a imparare una nuova lingua?|
+imaginaire-464|Come reagiresti se potessi provare a vivere in un’altra città per un anno?|Come reagiresti se potessi cambiare un dettaglio della tua vita quotidiana?|
+imaginaire-465|Quale sarebbe il tuo primo riflesso se potessi fare una domanda al te stesso del futuro?|Quale sarebbe il tuo primo riflesso se ricevessi un budget per realizzare un sogno?|
+imaginaire-466|Quale momento della giornata sceglieresti per preparare un viaggio senza limiti di budget?|Quale momento della giornata sceglieresti per imparare una nuova lingua?|
+imaginaire-467|Quale sarebbe il tuo primo riflesso se potessi cambiare un dettaglio della tua vita quotidiana?|Quale sarebbe il tuo primo riflesso se potessi passare una settimana a realizzare un vecchio progetto?|
+imaginaire-468|A chi chiederesti aiuto per organizzare una cena con persone famose?|A chi chiederesti aiuto per fare una lista dei viaggi dei tuoi sogni?|
+imaginaire-469|In quale occasione vorresti prenotare l’affitto di una baita in riva a un lago per un weekend?|In quale occasione vorresti comprare un grande laboratorio per i tuoi hobby?|
+imaginaire-470|Secondo te, quanto tempo ci vuole per scegliere una nuova città in cui vivere?|Secondo te, quanto tempo ci vuole per preparare un viaggio senza limiti di budget?|
+imaginaire-471|In quale posto andresti per trovare un weekend in un castello?|In quale posto andresti per trovare un concerto privato per pochi intimi?|
+imaginaire-472|Che budget massimo metteresti per un biglietto aereo andata e ritorno per l’Europa con date flessibili?|Che budget massimo metteresti per l’affitto di una baita in riva a un lago per un weekend?|
+imaginaire-473|In quale momento ti verrebbe voglia di prenotare una settimana in un hotel da sogno?|In quale momento ti verrebbe voglia di comprare una lezione privata con un esperto?|
+imaginaire-474|Quale frase ti uscirebbe di bocca se ti regalassero un’ora in più ogni mattina?|Quale frase ti uscirebbe di bocca se potessi fare una domanda al te stesso del futuro?|
+imaginaire-475|Quale momento della giornata sceglieresti per scegliere un mestiere da provare per un giorno?|Quale momento della giornata sceglieresti per organizzare una cena con persone famose?|
+imaginaire-476|Secondo te, quanto tempo ci vuole per immaginare la tua casa ideale?|Secondo te, quanto tempo ci vuole per preparare una grande festa senza vincoli?|
+imaginaire-477|Dove cercheresti per prima cosa un abbonamento illimitato al cinema?|Dove cercheresti per prima cosa un soggiorno in una città straniera?|
+imaginaire-478|Quale sarebbe la tua difficoltà principale se dovessi avviare un progetto personale da sogno?|Quale sarebbe la tua difficoltà principale se dovessi preparare un anno sabbatico?|
+imaginaire-479|Quale sarebbe la tua prima reazione se ricevessi un budget per realizzare un sogno?|Quale sarebbe la tua prima reazione se potessi scegliere una nuova abilità all’istante?|
+imaginaire-480|Su quale sito o in quale negozio cercheresti un soggiorno in una città straniera?|Su quale sito o in quale negozio cercheresti un weekend in un castello?|
+imaginaire-481|Quale dettaglio controlleresti prima di preparare una sorpresa a tutte le persone a cui tieni?|Quale dettaglio controlleresti prima di organizzare una giornata completamente libera?|
+imaginaire-482|Quale frase ti uscirebbe di bocca se ti offrissero un anno intero di ferie?|Quale frase ti uscirebbe di bocca se potessi provare qualsiasi mestiere per un giorno?|
+imaginaire-483|In quale posto andresti per trovare un viaggio di tre mesi in treno attraverso più paesi?|In quale posto andresti per trovare una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|Bretagne → Puglia
+imaginaire-484|Cosa diresti sul momento se scoprissi una lettera scritta da te tra dieci anni?|Cosa diresti sul momento se ti regalassero una casa nella città che vuoi?|
+imaginaire-485|Chi contatteresti per farti aiutare a organizzare un viaggio con il tuo migliore amico?|Chi contatteresti per farti aiutare a immaginare una settimana senza telefono?|
+imaginaire-486|Secondo te, quanto costa un giardino attrezzato per leggere?|Secondo te, quanto costa il noleggio di un’auto d’epoca per una giornata?|
+imaginaire-487|Quanto saresti disposto a spendere per un abbonamento illimitato al cinema?|Quanto saresti disposto a spendere per un soggiorno in una città straniera?|
+imaginaire-488|Quale sarebbe il tuo primo riflesso se potessi rifare una giornata andata male?|Quale sarebbe il tuo primo riflesso se potessi invitare cinque persone a una grande cena?|
+imaginaire-489|In quale momento della settimana preferiresti organizzare un mese di vacanze libere?|In quale momento della settimana preferiresti scegliere una nuova città in cui vivere?|
+imaginaire-490|Chi contatteresti per farti aiutare a organizzare una giornata completamente libera?|Chi contatteresti per farti aiutare a immaginare la tua casa ideale?|
+imaginaire-491|Se dovessi scegliere una nuova città in cui vivere, quale sarebbe la tua priorità?|Se dovessi preparare un viaggio senza limiti di budget, quale sarebbe la tua priorità?|
+imaginaire-492|In quale momento ti verrebbe voglia di comprare una palestra in casa?|In quale momento ti verrebbe voglia di comprare un giardino attrezzato per leggere?|
+imaginaire-493|Quanto saresti disposto a spendere per un grande laboratorio per i tuoi hobby?|Quanto saresti disposto a spendere per una libreria personale su misura?|
+imaginaire-494|Cosa diresti se avessi accesso gratis a tutti i musei?|Cosa diresti se ti regalassero un’ora in più ogni mattina?|
+imaginaire-495|Quale sarebbe l’aspetto più importante per preparare un viaggio senza limiti di budget?|Quale sarebbe l’aspetto più importante per imparare una nuova lingua?|
+imaginaire-496|Su quale sito o in quale negozio cercheresti un ritiro di creazione artistica?|Su quale sito o in quale negozio cercheresti un biglietto aereo andata e ritorno per l’Europa con date flessibili?|
+imaginaire-497|Che budget massimo metteresti per un viaggio di tre mesi in treno attraverso più paesi?|Che budget massimo metteresti per una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|Bretagne → Puglia
+imaginaire-498|Secondo te, quanto costa un biglietto aereo andata e ritorno per l’Europa con date flessibili?|Secondo te, quanto costa l’affitto di una baita in riva a un lago per un weekend?|
+imaginaire-499|Oltre quale prezzo esiteresti a comprare una cena per due preparata a casa da uno chef?|Oltre quale prezzo esiteresti a comprare un abbonamento illimitato al cinema?|
+imaginaire-500|Cosa diresti se avessi una biblioteca con tutti i libri del mondo?|Cosa diresti se potessi provare a vivere in un’altra città per un anno?|
+imaginaire-501|Chi contatteresti per farti aiutare ad avviare un progetto personale da sogno?|Chi contatteresti per farti aiutare a preparare un anno sabbatico?|
+imaginaire-502|Quale sarebbe il momento migliore per immaginare una settimana senza telefono?|Quale sarebbe il momento migliore per preparare una sfida personale per l’anno?|
+imaginaire-503|Quale persona della tua cerchia potrebbe aiutarti a preparare un viaggio senza limiti di budget?|Quale persona della tua cerchia potrebbe aiutarti a imparare una nuova lingua?|
+imaginaire-504|Dove cercheresti per prima cosa un’esperienza di guida in pista con istruttore?|Dove cercheresti per prima cosa un ritiro di creazione artistica?|
+imaginaire-505|Se dovessi immaginare la tua casa ideale, quale sarebbe la tua priorità?|Se dovessi preparare una grande festa senza vincoli, quale sarebbe la tua priorità?|
+imaginaire-506|Chi potrebbe darti il consiglio migliore per immaginare la tua casa ideale?|Chi potrebbe darti il consiglio migliore per preparare una grande festa senza vincoli?|
+imaginaire-507|In quale situazione decideresti di prenotare un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|In quale situazione decideresti di prenotare una settimana in un hotel da sogno?|
+imaginaire-508|Che prezzo immagini per una libreria personale su misura?|Che prezzo immagini per un viaggio di tre mesi in treno attraverso più paesi?|
+imaginaire-509|Quale momento della giornata sceglieresti per preparare una sfida personale per l’anno?|Quale momento della giornata sceglieresti per scegliere una meta in cui tornare spesso?|
+imaginaire-510|Quale fascia oraria della giornata sarebbe la più comoda per scegliere una meta in cui tornare spesso?|Quale fascia oraria della giornata sarebbe la più comoda per organizzare un mese di vacanze libere?|
+imaginaire-511|In quale posto andresti per trovare un biglietto aereo andata e ritorno per l’Europa con date flessibili?|In quale posto andresti per trovare l’affitto di una baita in riva a un lago per un weekend?|
+imaginaire-512|Fino a quanto pagheresti per una libreria personale su misura?|Fino a quanto pagheresti per un viaggio di tre mesi in treno attraverso più paesi?|
+imaginaire-513|Quanto tempo ti servirebbe per organizzare un mese di vacanze libere?|Quanto tempo ti servirebbe per scegliere una nuova città in cui vivere?|
+imaginaire-514|In quale situazione decideresti di prenotare il noleggio di una piccola barca per una giornata?|In quale situazione decideresti di comprare una palestra in casa?|
+imaginaire-515|In quale momento della settimana preferiresti avviare un progetto personale da sogno?|In quale momento della settimana preferiresti preparare un anno sabbatico?|
+imaginaire-516|Dove cercheresti per prima cosa un viaggio a sorpresa di tre giorni per due persone a Roma, trasporto incluso?|Dove cercheresti per prima cosa una settimana in un hotel da sogno?|
+imaginaire-517|Quanto tempo metteresti in conto per scegliere una meta in cui tornare spesso?|Quanto tempo metteresti in conto per organizzare un mese di vacanze libere?|
+imaginaire-518|Quale sarebbe la tua difficoltà principale se dovessi organizzare un mese di vacanze libere?|Quale sarebbe la tua difficoltà principale se dovessi scegliere una nuova città in cui vivere?|
+imaginaire-519|Come reagiresti se potessi rivivere un solo giorno felice?|Come reagiresti se potessi passare una serata con il tuo artista preferito?|
+imaginaire-520|Dove andresti a prenotare l’affitto di una baita in riva a un lago per un weekend?|Dove andresti a comprare un grande laboratorio per i tuoi hobby?|
+imaginaire-521|A chi chiederesti aiuto per scegliere una meta in cui tornare spesso?|A chi chiederesti aiuto per organizzare un mese di vacanze libere?|
+imaginaire-522|Secondo te, quanto costa un viaggio di tre mesi in treno attraverso più paesi?|Secondo te, quanto costa una casa di 60 m² a meno di 500 metri dalla spiaggia in Puglia?|Bretagne → Puglia
+imaginaire-523|Che budget massimo metteresti per una lezione privata con un esperto?|Che budget massimo metteresti per una cena per due preparata a casa da uno chef?|
+imaginaire-524|Dove andresti a comprare una cena per due preparata a casa da uno chef?|Dove andresti a comprare un abbonamento illimitato al cinema?|
+imaginaire-525|Quale frase ti uscirebbe di bocca se potessi provare a vivere in un’altra città per un anno?|Quale frase ti uscirebbe di bocca se potessi cambiare un dettaglio della tua vita quotidiana?|
+imaginaire-526|Cosa diresti se potessi scegliere una nuova abilità all’istante?|Cosa diresti se ti proponessero un viaggio in treno di tre mesi?|
+imaginaire-527|In quanto tempo riusciresti a preparare una grande festa senza vincoli?|In quanto tempo riusciresti a scegliere un’attività da provare gratis?|
+imaginaire-528|Chi potrebbe darti il consiglio migliore per scegliere un talento da imparare in fretta?|Chi potrebbe darti il consiglio migliore per riorganizzare la tua agenda ideale?|
+imaginaire-529|Quale sarebbe il momento migliore per immaginare la tua casa ideale?|Quale sarebbe il momento migliore per preparare una grande festa senza vincoli?|
+imaginaire-530|A chi chiederesti aiuto per imparare una nuova lingua?|A chi chiederesti aiuto per avviare un progetto personale da sogno?|
+imaginaire-531|Quale persona della tua cerchia potrebbe aiutarti a riorganizzare la tua agenda ideale?|Quale persona della tua cerchia potrebbe aiutarti a preparare una sorpresa a tutta la tua cerchia?|
+popculture-333|Come reagiresti se un personaggio secondario diventasse il protagonista?|Come reagiresti se il tuo amico non avesse mai visto un film che conoscono tutti?|
+popculture-334|Quale dettaglio controlleresti prima di organizzare un quiz di cultura pop?|Quale dettaglio controlleresti prima di scoprire un manga famoso?|
+popculture-335|Quanto pensi che valga un cofanetto di una serie TV?|Quanto pensi che valga un biglietto per una mostra sul cinema?|
+popculture-336|Quale sarebbe l’aspetto più importante per raccontare una scena cult?|Quale sarebbe l’aspetto più importante per preparare un consiglio su un videogioco?|
+popculture-337|Quale sarebbe la tua prima reazione se ti invitassero a un quiz su una serie che non conosci?|Quale sarebbe la tua prima reazione se incrociassi un attore famoso per strada?|
+popculture-338|Se dovessi preparare una serata di film cult, quale sarebbe la tua priorità?|Se dovessi spiegare un riferimento pop, quale sarebbe la tua priorità?|
+popculture-339|Quale persona della tua cerchia potrebbe aiutarti a preparare una lista di film d’animazione?|Quale persona della tua cerchia potrebbe aiutarti a organizzare un quiz di cultura pop?|
+popculture-340|In quanto tempo riusciresti a raccontare una scena cult?|In quanto tempo riusciresti a preparare un consiglio su un videogioco?|
+popculture-341|Quanto saresti disposto a spendere per un’edizione speciale di un album?|Quanto saresti disposto a spendere per un posto a un’anteprima cinematografica a Roma?|Paris → Roma
+popculture-342|Cosa diresti se incrociassi un attore famoso per strada?|Cosa diresti se un amico criticasse il tuo film cult preferito?|
+popculture-343|In quale situazione decideresti di comprare un’edizione speciale di un album?|In quale situazione decideresti di comprare un posto a un’anteprima cinematografica a Roma?|Paris → Roma
+popculture-344|Chi contatteresti per farti aiutare a scegliere il tuo personaggio di fantasia preferito?|Chi contatteresti per farti aiutare a preparare una serata di film cult?|
+popculture-345|Quale sarebbe il momento migliore per scegliere un film da vedere in gruppo?|Quale sarebbe il momento migliore per raccontare una scena cult?|
+popculture-346|Quale momento della giornata sceglieresti per preparare una lista di film d’animazione?|Quale momento della giornata sceglieresti per organizzare un quiz di cultura pop?|
+popculture-347|Dove andresti a comprare un biglietto giornaliero per una convention di cultura pop?|Dove andresti a comprare un poster di un film cult?|
+popculture-348|A chi chiederesti aiuto per ritrovare l’origine di un meme?|A chi chiederesti aiuto per scoprire un nuovo franchise?|
+popculture-349|In quale situazione decideresti di comprare una riproduzione di un poster vintage?|In quale situazione decideresti di comprare un posto per un incontro con un autore?|
+popculture-350|A chi chiederesti aiuto per consigliare una serie del momento?|A chi chiederesti aiuto per ritrovare una citazione di un film?|
+popculture-351|Secondo te, quanto costa un cappellino di un franchise famoso?|Secondo te, quanto costa un artbook dedicato a un videogioco?|
+popculture-352|Quale sarebbe la tua prima reazione se scoprissi uno spoiler sui social?|Quale sarebbe la tua prima reazione se ti chiedessero la tua top tre delle serie?|
+popculture-353|Secondo te, qual è il prezzo di un peluche di un personaggio famoso?|Secondo te, qual è il prezzo di un quaderno illustrato di un film?|
+popculture-354|Quanto pensi che valga un quaderno illustrato di un film?|Quanto pensi che valga un ingresso a una fiera del manga?|
+popculture-355|Secondo te, quanto tempo ci vuole per confrontare due adattamenti?|Secondo te, quanto tempo ci vuole per scegliere una colonna sonora di un film?|
+popculture-356|In quale occasione vorresti comprare un abbonamento a un servizio di streaming?|In quale occasione vorresti comprare un’edizione speciale di un album?|
+popculture-357|Quale dettaglio controlleresti prima di far scoprire un classico a un amico?|Quale dettaglio controlleresti prima di trovare il nome di un attore famoso?|
+popculture-358|Come reagiresti se un amico criticasse il tuo film cult preferito?|Come reagiresti se diventasse virale un meme che non capisci?|
+popculture-359|Secondo te, quanto costa un’edizione da collezione di un fumetto famoso?|Secondo te, quanto costa un abbonamento a un servizio di streaming?|
+popculture-360|Chi contatteresti per farti aiutare a trovare il nome di un attore famoso?|Chi contatteresti per farti aiutare a preparare una festa in maschera a tema cinema?|
+popculture-361|Quanto pensi che valga una riproduzione di un poster vintage?|Quanto pensi che valga un posto per un incontro con un autore?|
+popculture-362|Chi contatteresti per farti aiutare a ritrovare una citazione di un film?|Chi contatteresti per farti aiutare a scegliere un costume per una convention?|
+popculture-363|Quanto tempo ti servirebbe per scegliere il tuo personaggio di fantasia preferito?|Quanto tempo ti servirebbe per preparare una serata di film cult?|
+popculture-364|Secondo te, quanto costa un vinile di una colonna sonora?|Secondo te, quanto costa un peluche di un personaggio famoso?|
+popculture-365|Quale sarebbe la tua difficoltà principale se dovessi ritrovare una citazione di un film?|Quale sarebbe la tua difficoltà principale se dovessi scegliere un costume per una convention?|
+popculture-366|Su quale sito o in quale negozio cercheresti una maglietta di una serie famosa?|Su quale sito o in quale negozio cercheresti un’edizione da collezione di un fumetto famoso?|
+popculture-367|Se dovessi preparare una festa in maschera a tema cinema, quale sarebbe la tua priorità?|Se dovessi fare la classifica dei tuoi personaggi preferiti, quale sarebbe la tua priorità?|
+popculture-368|Quale persona della tua cerchia potrebbe aiutarti a raccontare una scena cult?|Quale persona della tua cerchia potrebbe aiutarti a preparare un consiglio su un videogioco?|
+popculture-369|Quale sarebbe la tua difficoltà principale se dovessi scegliere il tuo personaggio di fantasia preferito?|Quale sarebbe la tua difficoltà principale se dovessi preparare una serata di film cult?|
+popculture-370|Quale sarebbe la tua prima reazione se vincessi due posti per un’anteprima?|Quale sarebbe la tua prima reazione se un creator famoso passasse vicino a casa tua?|
+popculture-371|Quale momento della giornata sceglieresti per fare la classifica dei tuoi personaggi preferiti?|Quale momento della giornata sceglieresti per ritrovare l’origine di un meme?|
+popculture-372|Quale sarebbe l’aspetto più importante per scegliere una colonna sonora di un film?|Quale sarebbe l’aspetto più importante per far scoprire un classico a un amico?|
+popculture-373|Che prezzo immagini per un biglietto per una mostra sul cinema?|Che prezzo immagini per un cappellino di un franchise famoso?|
+popculture-374|Quale sarebbe il momento migliore per scegliere un costume per una convention?|Quale sarebbe il momento migliore per preparare una lista di film d’animazione?|
+popculture-375|Cosa diresti sul momento se una serie famosa annunciasse la sua ultima stagione?|Cosa diresti sul momento se un attore venisse sostituito in un franchise?|
+popculture-376|Dove andresti a comprare un gioco da tavolo su licenza?|Dove andresti a comprare un cofanetto di una serie TV?|
+popculture-377|Quale sarebbe la tua difficoltà principale se dovessi scoprire un manga famoso?|Quale sarebbe la tua difficoltà principale se dovessi confrontare due adattamenti?|
+popculture-378|Quanto tempo metteresti in conto per consigliare una serie del momento?|Quanto tempo metteresti in conto per ritrovare una citazione di un film?|
+popculture-379|Quanto pensi che valga un poster di un film cult?|Quanto pensi che valga una maglietta di una serie famosa?|
+popculture-380|Quale sarebbe la tua prima reazione se un episodio attesissimo venisse rimandato?|Quale sarebbe la tua prima reazione se un amico si travestisse da un personaggio che riconosci?|
+popculture-381|Quale sarebbe l’aspetto più importante per fare la classifica dei tuoi personaggi preferiti?|Quale sarebbe l’aspetto più importante per ritrovare l’origine di un meme?|
+popculture-382|In quale posto andresti per trovare un libro autografato da un autore famoso?|In quale posto andresti per trovare un gioco da tavolo su licenza?|
+popculture-383|Quale momento della giornata sceglieresti per spiegare un riferimento pop?|Quale momento della giornata sceglieresti per consigliare una serie del momento?|
+popculture-384|Cosa faresti per prima cosa se un amico si travestisse da un personaggio che riconosci?|Cosa faresti per prima cosa se un cantante famoso ti rispondesse sui social?|
+popculture-385|Quanto saresti disposto a spendere per un quaderno illustrato di un film?|Quanto saresti disposto a spendere per un ingresso a una fiera del manga?|
+popculture-386|Cosa diresti se un attore venisse sostituito in un franchise?|Cosa diresti se un personaggio secondario diventasse il protagonista?|
+popculture-387|Quale dettaglio controlleresti prima di preparare un consiglio su un videogioco?|Quale dettaglio controlleresti prima di scegliere il tuo personaggio di fantasia preferito?|
+popculture-388|Come reagiresti se un cantante famoso ti rispondesse sui social?|Come reagiresti se un franchise annunciasse un nuovo remake?|
+popculture-389|Quale persona della tua cerchia potrebbe aiutarti a spiegare un riferimento pop?|Quale persona della tua cerchia potrebbe aiutarti a consigliare una serie del momento?|
+popculture-390|In quale situazione decideresti di comprare un cofanetto di una serie TV?|In quale situazione decideresti di comprare un biglietto per una mostra sul cinema?|
+popculture-391|Quanto saresti disposto a spendere per una riproduzione di un poster vintage?|Quanto saresti disposto a spendere per un posto per un incontro con un autore?|
+popculture-392|Che budget massimo metteresti per un vinile di una colonna sonora?|Che budget massimo metteresti per un peluche di un personaggio famoso?|
+popculture-393|Dove cercheresti per prima cosa un poster di un film cult?|Dove cercheresti per prima cosa una maglietta di una serie famosa?|
+popculture-394|Quale sarebbe il tuo primo riflesso se un franchise annunciasse un nuovo remake?|Quale sarebbe il tuo primo riflesso se scoprissi uno spoiler sui social?|
+popculture-395|Cosa faresti per prima cosa se un attore venisse sostituito in un franchise?|Cosa faresti per prima cosa se un personaggio secondario diventasse il protagonista?|
+popculture-396|Dove cercheresti per prima cosa un quaderno illustrato di un film?|Dove cercheresti per prima cosa un ingresso a una fiera del manga?|
+popculture-397|Quale sarebbe il tuo primo riflesso se diventasse virale un meme che non capisci?|Quale sarebbe il tuo primo riflesso se una serie famosa annunciasse la sua ultima stagione?|
+popculture-398|Dove andresti a comprare un peluche di un personaggio famoso?|Dove andresti a comprare un quaderno illustrato di un film?|
+popculture-399|Cosa faresti per prima cosa se un creator famoso passasse vicino a casa tua?|Cosa faresti per prima cosa se una canzone di un film diventasse un tormentone?|
+popculture-400|Quale sarebbe il tuo primo riflesso se il tuo amico non avesse mai visto un film che conoscono tutti?|Quale sarebbe il tuo primo riflesso se un episodio attesissimo venisse rimandato?|
+popculture-401|Quale sarebbe il tuo primo riflesso se un personaggio cult tornasse dopo anni?|Quale sarebbe il tuo primo riflesso se vincessi due posti per un’anteprima?|
+popculture-402|In quanto tempo riusciresti a preparare una lista di film d’animazione?|In quanto tempo riusciresti a organizzare un quiz di cultura pop?|
+popculture-403|Come risponderesti se diventasse virale un meme che non capisci?|Come risponderesti se una serie famosa annunciasse la sua ultima stagione?|
+popculture-404|Secondo te, quanto tempo ci vuole per scegliere un film da vedere in gruppo?|Secondo te, quanto tempo ci vuole per raccontare una scena cult?|
+popculture-405|Secondo te, quanto tempo ci vuole per preparare una serata di film cult?|Secondo te, quanto tempo ci vuole per spiegare un riferimento pop?|
+popculture-406|Se dovessi scegliere un film da vedere in gruppo, quale sarebbe la tua priorità?|Se dovessi raccontare una scena cult, quale sarebbe la tua priorità?|
+popculture-407|Quale fascia oraria della giornata sarebbe la più comoda per preparare un consiglio su un videogioco?|Quale fascia oraria della giornata sarebbe la più comoda per scegliere il tuo personaggio di fantasia preferito?|
+popculture-408|Quale fascia oraria della giornata sarebbe la più comoda per consigliare una serie del momento?|Quale fascia oraria della giornata sarebbe la più comoda per ritrovare una citazione di un film?|
+popculture-409|Dove cercheresti per prima cosa un’edizione speciale di un album?|Dove cercheresti per prima cosa un posto a un’anteprima cinematografica a Roma?|Paris → Roma
+popculture-410|Come risponderesti se un personaggio cult tornasse dopo anni?|Come risponderesti se vincessi due posti per un’anteprima?|
+popculture-411|Cosa diresti sul momento se scoprissi uno spoiler sui social?|Cosa diresti sul momento se ti chiedessero la tua top tre delle serie?|
+popculture-412|Cosa diresti sul momento se ti invitassero a un quiz su una serie che non conosci?|Cosa diresti sul momento se incrociassi un attore famoso per strada?|
+popculture-413|Quale frase ti uscirebbe di bocca se un amico odiasse un adattamento che adori?|Quale frase ti uscirebbe di bocca se un personaggio cult tornasse dopo anni?|
+popculture-414|Che prezzo immagini per un ingresso a una fiera del manga?|Che prezzo immagini per una statuetta da collezione di 15 cm che rappresenta un eroe del cinema?|
+popculture-415|Dove cercheresti per prima cosa una riproduzione di un poster vintage?|Dove cercheresti per prima cosa un posto per un incontro con un autore?|
+popculture-416|Secondo te, quanto tempo ci vuole per preparare una festa in maschera a tema cinema?|Secondo te, quanto tempo ci vuole per fare la classifica dei tuoi personaggi preferiti?|
+popculture-417|Cosa ti spingerebbe a comprare un’edizione da collezione di un fumetto famoso?|Cosa ti spingerebbe a comprare un abbonamento a un servizio di streaming?|
+popculture-418|Come reagiresti se un amico odiasse un adattamento che adori?|Come reagiresti se un personaggio cult tornasse dopo anni?|
+popculture-419|Quanto tempo ti servirebbe per scoprire un manga famoso?|Quanto tempo ti servirebbe per confrontare due adattamenti?|
+popculture-420|Chi contatteresti per farti aiutare a scoprire un manga famoso?|Chi contatteresti per farti aiutare a confrontare due adattamenti?|
+popculture-421|Secondo te, quanto tempo ci vuole per scegliere un costume per una convention?|Secondo te, quanto tempo ci vuole per preparare una lista di film d’animazione?|
+popculture-422|Quale sarebbe il momento migliore per confrontare due adattamenti?|Quale sarebbe il momento migliore per scegliere una colonna sonora di un film?|
+popculture-423|Cosa diresti se un creator famoso passasse vicino a casa tua?|Cosa diresti se una canzone di un film diventasse un tormentone?|
+popculture-424|Cosa diresti se un amico si travestisse da un personaggio che riconosci?|Cosa diresti se un cantante famoso ti rispondesse sui social?|
+popculture-425|In quale momento ti verrebbe voglia di comprare un ingresso a una fiera del manga?|In quale momento ti verrebbe voglia di comprare una statuetta da collezione di 15 cm che rappresenta un eroe del cinema?|
+popculture-426|Secondo te, qual è il prezzo di un artbook dedicato a un videogioco?|Secondo te, qual è il prezzo di una riproduzione di un poster vintage?|
+popculture-427|Cosa ti spingerebbe a comprare un libro autografato da un autore famoso?|Cosa ti spingerebbe a comprare un gioco da tavolo su licenza?|
+popculture-428|Fino a quanto pagheresti per un posto a un’anteprima cinematografica a Roma?|Fino a quanto pagheresti per un libro autografato da un autore famoso?|Paris → Roma
+popculture-429|Su quale sito o in quale negozio cercheresti un ingresso a una fiera del manga?|Su quale sito o in quale negozio cercheresti una statuetta da collezione di 15 cm che rappresenta un eroe del cinema?|
+popculture-430|Chi contatteresti per farti aiutare a scoprire un nuovo franchise?|Chi contatteresti per farti aiutare a scegliere un film da vedere in gruppo?|
+popculture-431|Chi potrebbe darti il consiglio migliore per scegliere un film da vedere in gruppo?|Chi potrebbe darti il consiglio migliore per raccontare una scena cult?|
+popculture-432|Quanto saresti disposto a spendere per un cofanetto di una serie TV?|Quanto saresti disposto a spendere per un biglietto per una mostra sul cinema?|

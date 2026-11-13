@@ -297,3 +297,304 @@ nature-428|Zu welchem Anlass würdest du ein Erwachsenenticket für einen botani
 nature-429|Zu welchem Anlass würdest du ein Paar Wanderstiefel kaufen?|Zu welchem Anlass würdest du eine Stirnlampe zum Wandern kaufen?|
 nature-430|Wie lange würdest du brauchen, um ein Wochenende in den Bergen vorzubereiten?|Wie lange würdest du brauchen, um einen Tag auf dem Land zu organisieren?|
 nature-431|Was glaubst du, wie viel ein Wanderhut kostet?|Was glaubst du, wie viel eine Wanderkarte kostet?|
+nature-432|Wen würdest du um Hilfe bitten, um einen Strandspaziergang zu machen?|Wen würdest du um Hilfe bitten, um eine zweistündige Wanderung vorzubereiten?|
+nature-433|Was würdest du sagen, wenn du einen Igel in deinem Garten findest?|Was würdest du sagen, wenn ein Freund geschützte Blumen pflückt?|
+nature-434|Wer könnte dir den besten Rat geben, um einen Spaziergang mit einem Hund vorzubereiten?|Wer könnte dir den besten Rat geben, um in einer klaren Nacht die Sterne zu beobachten?|
+nature-435|Auf welcher Website oder in welchem Laden würdest du nach einer Wanderkarte suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Kompaktkamera für Landschaftsfotos suchen?|
+nature-436|Was würde dich dazu bringen, einen Nistkasten zu kaufen?|Was würde dich dazu bringen, eine Thermoskanne für die Berge zu kaufen?|
+nature-437|Welche Tageszeit wäre am praktischsten, um ein Picknick in der Natur zu organisieren?|Welche Tageszeit wäre am praktischsten, um die Pflanzen auf deinem Balkon zu gießen?|
+nature-438|Wie viel wärst du bereit, für ein Pflanzset für Küchenkräuter auszugeben?|Wie viel wärst du bereit, für eine Zimmerpflanze auszugeben?|
+nature-439|Bis zu welchem Betrag würdest du für eine Wanderkarte zahlen?|Bis zu welchem Betrag würdest du für eine Kompaktkamera für Landschaftsfotos zahlen?|
+nature-440|Was würdest du als Erstes tun, wenn du einen Igel in deinem Garten findest?|Was würdest du als Erstes tun, wenn ein Freund geschützte Blumen pflückt?|
+nature-441|Wann hättest du Lust, einen gefüllten Picknickkorb für vier Personen zu kaufen?|Wann hättest du Lust, einen Nistkasten zu kaufen?|
+nature-442|Wer aus deinem Umfeld könnte dir helfen, eine Runde durch einen botanischen Garten zu drehen?|Wer aus deinem Umfeld könnte dir helfen, einen Aussichtspunkt mit freiem Blick auf die Stadt zu suchen?|
+nature-443|Wie oft kommt es vor, dass du einen Vogel in einem Park entdeckst?|Wie oft kommt es vor, dass du einen Waldspaziergang machst?|
+nature-444|Was glaubst du, wie viel ein Pflanzset für Küchenkräuter kostet?|Was glaubst du, wie viel eine Zimmerpflanze kostet?|
+nature-445|Wie viel Zeit würdest du einplanen, um im Herbst Laub zu sammeln?|Wie viel Zeit würdest du einplanen, um einen ruhigen Ort mitten in der Natur zu finden?|
+nature-446|Was meinst du, wie lange dauert es, einen Wanderweg auszusuchen?|Was meinst du, wie lange dauert es, einen Ausflug an einen See vorzubereiten?|
+nature-447|Ab welchem Preis würdest du zögern, ein Paar Wanderstiefel zu kaufen?|Ab welchem Preis würdest du zögern, eine Stirnlampe zum Wandern zu kaufen?|
+nature-448|Was kostet deiner Meinung nach der Eintritt für einen Erwachsenen in einen botanischen Garten?|Was kostet deiner Meinung nach ein Pflanzset für Küchenkräuter?|
+nature-449|Wer könnte dir den besten Rat geben, um einen Vogel in einem Park zu entdecken?|Wer könnte dir den besten Rat geben, um einen Waldspaziergang zu machen?|
+nature-450|Welchen Preis stellst du dir für einen guten Wanderrucksack vor?|Welchen Preis stellst du dir für eine wasserdichte Windjacke vor?|
+nature-451|Was glaubst du, wie viel der Eintritt für einen Erwachsenen in ein kostenpflichtiges Naturschutzgebiet kostet?|Was glaubst du, wie viel ein Bestimmungsbuch für heimische Bäume kostet?|
+nature-452|Wie lange würdest du brauchen, um eine zweistündige Wanderung vorzubereiten?|Wie lange würdest du brauchen, um einen Vogel in einem Park zu entdecken?|
+nature-453|Wen würdest du um Hilfe bitten, um im Herbst Laub zu sammeln?|Wen würdest du um Hilfe bitten, um einen ruhigen Ort mitten in der Natur zu finden?|
+nature-454|Wie oft kommt es vor, dass du einen Wanderweg aussuchst?|Wie oft kommt es vor, dass du einen Ausflug an einen See planst?|
+nature-455|In welcher Situation würdest du dich entscheiden, ein Erwachsenenticket für ein kostenpflichtiges Naturschutzgebiet zu kaufen?|In welcher Situation würdest du dich entscheiden, ein Bestimmungsbuch für heimische Bäume zu kaufen?|
+nature-456|Wer könnte dir den besten Rat geben, um einen Wanderweg auszusuchen?|Wer könnte dir den besten Rat geben, um einen Ausflug an einen See vorzubereiten?|
+nature-457|Was meinst du, wie lange dauert es, einen Tag auf dem Land zu organisieren?|Was meinst du, wie lange dauert es, Tiere zu beobachten, ohne sie zu stören?|
+nature-458|Was wäre deine erste Reaktion, wenn ein fremder Hund im Park auf dich zukommt?|Was wäre deine erste Reaktion, wenn du einen Igel in deinem Garten findest?|
+nature-459|Wer könnte dir den besten Rat geben, um eine Radtour aufs Land vorzubereiten?|Wer könnte dir den besten Rat geben, um eine Runde durch einen botanischen Garten zu drehen?|
+nature-460|Was würdest du sagen, wenn du Müll auf einem Spazierweg siehst?|Was würdest du sagen, wenn eine Wespe um dein Picknick herumschwirrt?|
+nature-461|Was würde dich dazu bringen, eine Gartenhängematte zu kaufen?|Was würde dich dazu bringen, ein Paar Wanderstiefel zu kaufen?|
+nature-462|Was würdest du sagen, wenn der Himmel nach langem Regen aufklart?|Was würdest du sagen, wenn ein als kurz geplanter Spaziergang zwei Stunden dauert?|
+nature-463|Wer aus deinem Umfeld könnte dir helfen, Tiere zu beobachten, ohne sie zu stören?|Wer aus deinem Umfeld könnte dir helfen, einen Strandspaziergang zu machen?|
+nature-464|Wie oft im Jahr hast du Gelegenheit, eine Runde durch einen botanischen Garten zu drehen?|Wie oft im Jahr hast du Gelegenheit, einen Aussichtspunkt mit freiem Blick auf die Stadt zu suchen?|
+nature-465|Wer aus deinem Umfeld könnte dir helfen, einen Waldspaziergang zu machen?|Wer aus deinem Umfeld könnte dir helfen, ein Picknick in der Natur zu organisieren?|
+nature-466|Wie schnell könntest du einen Waldspaziergang machen?|Wie schnell könntest du ein Picknick in der Natur organisieren?|
+nature-467|Bis zu welchem Betrag würdest du für einen guten Wanderrucksack zahlen?|Bis zu welchem Betrag würdest du für eine wasserdichte Windjacke zahlen?|
+nature-468|Welche Tageszeit würdest du wählen, um Tiere zu beobachten, ohne sie zu stören?|Welche Tageszeit würdest du für einen Strandspaziergang wählen?|
+nature-469|Wie lange würdest du brauchen, um die Pflanzen auf deinem Balkon zu gießen?|Wie lange würdest du brauchen, um einen Wanderweg auszusuchen?|
+nature-470|Welche Tageszeit würdest du wählen, um in einer klaren Nacht die Sterne zu beobachten?|Welche Tageszeit würdest du wählen, um im Herbst Laub zu sammeln?|
+nature-471|Was würdest du sagen, wenn du eine verirrte Katze auf der Straße findest?|Was würdest du sagen, wenn ein Freund ein Wildtier füttern will?|
+nature-472|Was würdest du als Erstes tun, wenn du bei einem Spaziergang einen Fuchs entdeckst?|Was würdest du als Erstes tun, wenn ein Vogel durch dein Fenster reinfliegt?|
+nature-473|Wie oft im Monat hast du Gelegenheit, die Pflanzen auf deinem Balkon zu gießen?|Wie oft im Monat hast du Gelegenheit, einen Wanderweg auszusuchen?|
+nature-474|Wann hättest du Lust, eine Zimmerpflanze zu kaufen?|Wann hättest du Lust, eine Gartenhängematte zu kaufen?|
+nature-475|Wen würdest du fragen, damit er dir hilft, eine kleine Pflanze bei dir aufzustellen?|Wen würdest du fragen, damit er dir hilft, einen Spaziergang mit einem Hund vorzubereiten?|
+nature-476|Wo würdest du als Erstes nach einem Erwachsenenticket für ein kostenpflichtiges Naturschutzgebiet suchen?|Wo würdest du als Erstes nach einem Bestimmungsbuch für heimische Bäume suchen?|
+nature-477|Welchen Preis stellst du dir für eine Zimmerpflanze vor?|Welchen Preis stellst du dir für eine Gartenhängematte vor?|
+nature-478|Zu welchem Zeitpunkt in der Woche würdest du am liebsten einen ruhigen Ort mitten in der Natur suchen?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten eine Radtour aufs Land vorbereiten?|
+nature-479|Welche Tageszeit wäre am praktischsten, um einen Strandspaziergang zu machen?|Welche Tageszeit wäre am praktischsten, um eine zweistündige Wanderung vorzubereiten?|
+nature-480|Was würdest du als Erstes tun, wenn der Himmel nach langem Regen aufklart?|Was würdest du als Erstes tun, wenn ein als kurz geplanter Spaziergang zwei Stunden dauert?|
+nature-481|Welcher Satz würde dir rausrutschen, wenn ein Vogel durch dein Fenster reinfliegt?|Welcher Satz würde dir rausrutschen, wenn es mitten auf einer Wanderung zu regnen anfängt?|
+nature-482|Wie würdest du antworten, wenn eine Windböe deine Kappe wegweht?|Wie würdest du antworten, wenn du einen riesigen Baum entdeckst?|
+nature-483|Bis zu welchem Betrag würdest du für ein Bestimmungsbuch für heimische Bäume zahlen?|Bis zu welchem Betrag würdest du für ein Fernglas zur Tierbeobachtung zahlen?|
+nature-484|Wo würdest du hingehen, um eine Gartenhängematte zu finden?|Wo würdest du hingehen, um ein Paar Wanderstiefel zu finden?|
+nature-485|Welcher Satz würde dir rausrutschen, wenn ein als kurz geplanter Spaziergang zwei Stunden dauert?|Welcher Satz würde dir rausrutschen, wenn du ein verletztes Tier neben einem Weg siehst?|
+nature-486|Ab welchem Preis würdest du zögern, eine Picknickdecke zu kaufen?|Ab welchem Preis würdest du zögern, ein Erwachsenenticket für ein kostenpflichtiges Naturschutzgebiet zu kaufen?|
+nature-487|Zu welchem Anlass würdest du eine Picknickdecke kaufen?|Zu welchem Anlass würdest du ein Erwachsenenticket für ein kostenpflichtiges Naturschutzgebiet kaufen?|
+nature-488|Welche Tageszeit würdest du für eine Runde durch einen botanischen Garten wählen?|Welche Tageszeit würdest du wählen, um einen Aussichtspunkt mit freiem Blick auf die Stadt zu suchen?|
+nature-489|Was wäre deine erste Reaktion, wenn ein als leicht angekündigter Weg plötzlich sehr steil wird?|Was wäre deine erste Reaktion, wenn du Müll auf einem Spazierweg siehst?|
+nature-490|Was wäre der beste Zeitpunkt, um eine Radtour aufs Land vorzubereiten?|Was wäre der beste Zeitpunkt, um eine Runde durch einen botanischen Garten zu drehen?|
+nature-491|Was würdest du spontan sagen, wenn ein Eichhörnchen ganz nah an dich herankommt?|Was würdest du spontan sagen, wenn du eine verirrte Katze auf der Straße findest?|
+nature-492|Was würde dich dazu bringen, ein Fernglas zur Tierbeobachtung zu kaufen?|Was würde dich dazu bringen, einen illustrierten Vogelführer zu kaufen?|
+nature-493|Welche Tageszeit wäre am praktischsten, um einen Sonnenuntergang zu fotografieren?|Welche Tageszeit wäre am praktischsten, um eine kleine Pflanze bei dir aufzustellen?|
+nature-494|In welcher Situation würdest du dich entscheiden, ein Pflanzset für Küchenkräuter zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Zimmerpflanze zu kaufen?|
+nature-495|Was meinst du, wie viel kostet ein Nistkasten?|Was meinst du, wie viel kostet eine Thermoskanne für die Berge?|
+nature-496|Wann hättest du Lust, einen guten Wanderrucksack zu kaufen?|Wann hättest du Lust, eine wasserdichte Windjacke zu kaufen?|
+nature-497|Wie oft würdest du gern einen Sonnenuntergang fotografieren?|Wie oft würdest du gern eine kleine Pflanze bei dir aufstellen?|
+nature-498|Was meinst du, wie viel kostet ein Fernglas zur Tierbeobachtung?|Was meinst du, wie viel kostet ein illustrierter Vogelführer?|
+nature-499|Wann hättest du Lust, ein Bestimmungsbuch für heimische Bäume zu kaufen?|Wann hättest du Lust, ein Fernglas zur Tierbeobachtung zu kaufen?|
+nature-500|Wie oft im Jahr hast du Gelegenheit, in einer klaren Nacht die Sterne zu beobachten?|Wie oft im Jahr hast du Gelegenheit, im Herbst Laub zu sammeln?|
+nature-501|Wie oft kommt es vor, dass du einen Spaziergang mit einem Hund planst?|Wie oft kommt es vor, dass du in einer klaren Nacht die Sterne beobachtest?|
+nature-502|Wie viel wärst du bereit, für eine Stirnlampe zum Wandern auszugeben?|Wie viel wärst du bereit, für einen gefüllten Picknickkorb für vier Personen auszugeben?|
+nature-503|Wen würdest du fragen, damit er dir hilft, eine zweistündige Wanderung vorzubereiten?|Wen würdest du fragen, damit er dir hilft, einen Vogel in einem Park zu entdecken?|
+nature-504|Auf welcher Website oder in welchem Laden würdest du nach einem gefüllten Picknickkorb für vier Personen suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Nistkasten suchen?|
+nature-505|Wen würdest du um Hilfe bitten, um einen Aussichtspunkt mit freiem Blick auf die Stadt zu suchen?|Wen würdest du um Hilfe bitten, um ein Wochenende in den Bergen vorzubereiten?|
+nature-506|Wie viel Zeit würdest du einplanen, um ein Picknick in der Natur zu organisieren?|Wie viel Zeit würdest du einplanen, um die Pflanzen auf deinem Balkon zu gießen?|
+nature-507|Wie viel würdest du höchstens für ein Fernglas zur Tierbeobachtung einplanen?|Wie viel würdest du höchstens für einen illustrierten Vogelführer einplanen?|
+nature-508|Welche Tageszeit würdest du wählen, um einen Ausflug an einen See vorzubereiten?|Welche Tageszeit würdest du wählen, um einen Sonnenuntergang zu fotografieren?|
+nature-509|Wen würdest du fragen, damit er dir hilft, die Pflanzen auf deinem Balkon zu gießen?|Wen würdest du fragen, damit er dir hilft, einen Wanderweg auszusuchen?|
+nature-510|Wie viel würdest du höchstens für eine Gartenhängematte einplanen?|Wie viel würdest du höchstens für ein Paar Wanderstiefel einplanen?|
+nature-511|Wie oft kommt es vor, dass du einen Tag auf dem Land organisierst?|Wie oft kommt es vor, dass du Tiere beobachtest, ohne sie zu stören?|
+nature-512|Zu welchem Zeitpunkt in der Woche würdest du am liebsten ein Wochenende in den Bergen vorbereiten?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten einen Tag auf dem Land organisieren?|
+nature-513|Bis zu welchem Betrag würdest du für eine Zimmerpflanze zahlen?|Bis zu welchem Betrag würdest du für eine Gartenhängematte zahlen?|
+nature-514|Welche Tageszeit wäre am praktischsten, um im Herbst Laub zu sammeln?|Welche Tageszeit wäre am praktischsten, um einen ruhigen Ort mitten in der Natur zu suchen?|
+nature-515|Auf welcher Website oder in welchem Laden würdest du nach einem guten Wanderrucksack suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer wasserdichten Windjacke suchen?|
+nature-516|Was wäre dein erster Reflex, wenn es mitten auf einer Wanderung zu regnen anfängt?|Was wäre dein erster Reflex, wenn ein fremder Hund im Park auf dich zukommt?|
+nature-517|Wo würdest du hingehen, um eine Thermoskanne für die Berge zu kaufen?|Wo würdest du hingehen, um einen Wanderhut zu kaufen?|
+nature-518|Auf welcher Website oder in welchem Laden würdest du nach einem Bestimmungsbuch für heimische Bäume suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Fernglas zur Tierbeobachtung suchen?|
+nature-519|Was wäre der beste Zeitpunkt, um einen Wanderweg auszusuchen?|Was wäre der beste Zeitpunkt, um einen Ausflug an einen See vorzubereiten?|
+nature-520|Wo würdest du als Erstes nach einem Pflanzset für Küchenkräuter suchen?|Wo würdest du als Erstes nach einer Zimmerpflanze suchen?|
+nature-521|Wie oft kommt es vor, dass du eine Radtour aufs Land planst?|Wie oft kommt es vor, dass du eine Runde durch einen botanischen Garten drehst?|
+nature-522|Was kostet deiner Meinung nach ein Paar Wanderstiefel?|Was kostet deiner Meinung nach eine Stirnlampe zum Wandern?|
+nature-523|Wie viel Zeit würdest du für einen Strandspaziergang einplanen?|Wie viel Zeit würdest du einplanen, um eine zweistündige Wanderung vorzubereiten?|
+nature-524|Wo würdest du hingehen, um eine Kompaktkamera für Landschaftsfotos zu finden?|Wo würdest du hingehen, um eine Picknickdecke zu finden?|
+nature-525|Ab welchem Preis würdest du zögern, eine Thermoskanne für die Berge zu kaufen?|Ab welchem Preis würdest du zögern, einen Wanderhut zu kaufen?|
+nature-526|Wo würdest du als Erstes nach einem Wanderhut suchen?|Wo würdest du als Erstes nach einer Wanderkarte suchen?|
+nature-527|Ab welchem Preis würdest du zögern, ein Erwachsenenticket für einen botanischen Garten zu kaufen?|Ab welchem Preis würdest du zögern, ein Pflanzset für Küchenkräuter zu kaufen?|
+nature-528|Wie oft im Jahr hast du Gelegenheit, einen Ausflug an einen See zu planen?|Wie oft im Jahr hast du Gelegenheit, einen Sonnenuntergang zu fotografieren?|
+nature-529|Welche Tageszeit wäre am praktischsten, um einen Aussichtspunkt mit freiem Blick auf die Stadt zu suchen?|Welche Tageszeit wäre am praktischsten, um ein Wochenende in den Bergen vorzubereiten?|
+nature-530|Was meinst du, wie viel kostet eine Gartenhängematte?|Was meinst du, wie viel kostet ein Paar Wanderstiefel?|
+nature-531|Wie oft im Monat hast du Gelegenheit, eine zweistündige Wanderung vorzubereiten?|Wie oft im Monat hast du Gelegenheit, einen Vogel in einem Park zu entdecken?|
+nature-532|Was wäre deine erste Reaktion, wenn ein Eichhörnchen ganz nah an dich herankommt?|Was wäre deine erste Reaktion, wenn du eine verirrte Katze auf der Straße findest?|
+fetes-530|Was würde dich dazu bringen, ein Faschingskostüm zu kaufen?|Was würde dich dazu bringen, eine Geburtstags-Piñata zu kaufen?|
+fetes-531|Was würde dich dazu bringen, eine Packung Dekokerzen zu kaufen?|Was würde dich dazu bringen, einen Adventskalender mit Leckereien zu kaufen?|
+fetes-532|Wenn du ein Essen für Silvester organisieren müsstest, was wäre deine Priorität?|Wenn du eine Ostereiersuche vorbereiten müsstest, was wäre deine Priorität?|
+fetes-533|Welches Detail würdest du prüfen, bevor du eine Geburtstagseinladung vorbereitest?|Welches Detail würdest du prüfen, bevor du ein Menü für Heiligabend aussuchst?|
+fetes-534|Wie viel Zeit würdest du einplanen, um einen Geschenketausch zu organisieren?|Wie viel Zeit würdest du einplanen, um eine Überraschungsparty zum Geburtstag zu organisieren?|
+fetes-535|Was würdest du als Erstes tun, wenn du zwei Einladungen für denselben Abend bekommst?|Was würdest du als Erstes tun, wenn die Torte mit dem falschen Namen ankommt?|
+fetes-536|Welche Tageszeit wäre am praktischsten, um ein Familienfest vorzubereiten?|Welche Tageszeit wäre am praktischsten, um ein Faschingskostüm auszusuchen?|
+fetes-537|Wie viel wärst du bereit, für eine zehn Meter lange LED-Lichterkette für draußen auszugeben?|Wie viel wärst du bereit, für eine Schachtel gemischte Pralinen auszugeben?|
+fetes-538|Welcher Satz würde dir rausrutschen, wenn die Musik in einem wichtigen Moment ausgeht?|Welcher Satz würde dir rausrutschen, wenn ein Geschenk beim Auspacken kaputtgeht?|
+fetes-539|Was wäre dein erster Reflex, wenn jemand aus deinem Umfeld die Feier früher anfangen lassen will?|Was wäre dein erster Reflex, wenn ein Gast das letzte Andenken nimmt, das für alle gedacht war?|
+fetes-540|Wie viel würdest du höchstens für Silvesterdeko einplanen?|Wie viel würdest du höchstens für ein Fotobox-Accessoire einplanen?|
+fetes-541|Wo würdest du hingehen, um Silvesterdeko zu finden?|Wo würdest du hingehen, um ein Fotobox-Accessoire zu finden?|
+fetes-542|Zu welchem Anlass würdest du eine Geburtstags-Piñata kaufen?|Zu welchem Anlass würdest du ein Set biologisch abbaubarer Luftballons kaufen?|
+fetes-543|Was würde dich dazu bringen, eine Geburtstagstorte für zwölf Personen zu kaufen?|Was würde dich dazu bringen, eine festliche Tischdeko zu kaufen?|
+fetes-544|Wer könnte dir den besten Rat geben, um Erinnerungsfotos vorzubereiten?|Wer könnte dir den besten Rat geben, um eine Gästeliste zu erstellen?|
+fetes-545|Was wäre der wichtigste Punkt, um eine Ostereiersuche vorzubereiten?|Was wäre der wichtigste Punkt, um ein Familienfest vorzubereiten?|
+fetes-546|Wie viel wärst du bereit, für einen handgemachten Christstollen für sechs Personen auszugeben?|Wie viel wärst du bereit, für eine Dose Festtagsplätzchen auszugeben?|galette des rois → Christstollen
+fetes-547|Zu welchem Zeitpunkt in der Woche würdest du am liebsten eine Abschlussfeier organisieren?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten Erinnerungsfotos vorbereiten?|
+fetes-548|Was wäre der beste Zeitpunkt, um eine Hochzeitsrede vorzubereiten?|Was wäre der beste Zeitpunkt, um einen Raum für eine Feier zu dekorieren?|
+fetes-549|Wer könnte dir den besten Rat geben, um zehn Geschenke einzupacken?|Wer könnte dir den besten Rat geben, um einen Festtisch zu dekorieren?|
+fetes-550|Was wäre für dich die größte Schwierigkeit, wenn du ein Abschiedsgeschenk aussuchen müsstest?|Was wäre für dich die größte Schwierigkeit, wenn du ein Essen für Silvester organisieren müsstest?|
+fetes-551|Was würdest du als Erstes tun, wenn die Feier wegen des Wetters nach drinnen verlegt werden muss?|Was würdest du als Erstes tun, wenn du herausfindest, dass man eine Überraschung für dich plant?|
+fetes-552|Wo würdest du als Erstes nach einer zehn Meter langen LED-Lichterkette für draußen suchen?|Wo würdest du als Erstes nach einer Schachtel gemischter Pralinen suchen?|
+fetes-553|Wie schnell könntest du einen Raum für eine Feier dekorieren?|Wie schnell könntest du Weihnachtskarten vorbereiten?|cartes de vœux → Weihnachtskarten
+fetes-554|Wie schnell könntest du eine Ostereiersuche vorbereiten?|Wie schnell könntest du ein Familienfest vorbereiten?|
+fetes-555|Was kostet deiner Meinung nach eine Geburtstags-Piñata?|Was kostet deiner Meinung nach ein Set biologisch abbaubarer Luftballons?|
+fetes-556|Ab welchem Preis würdest du zögern, ein Fotobox-Accessoire zu kaufen?|Ab welchem Preis würdest du zögern, einen handgemachten Christstollen für sechs Personen zu kaufen?|galette des rois → Christstollen
+fetes-557|Wer aus deinem Umfeld könnte dir helfen, einen Raum für eine Feier zu dekorieren?|Wer aus deinem Umfeld könnte dir helfen, Weihnachtskarten vorzubereiten?|cartes de vœux → Weihnachtskarten
+fetes-558|Auf welcher Website oder in welchem Laden würdest du nach einem Geschenkverpackungs-Set suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Auswahl von zwanzig Petits Fours suchen?|
+fetes-559|In welcher Situation würdest du dich entscheiden, eine zehn Meter lange LED-Lichterkette für draußen zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Schachtel gemischte Pralinen zu kaufen?|
+fetes-560|Wenn du zehn Geschenke einpacken müsstest, was wäre deine Priorität?|Wenn du einen Festtisch dekorieren müsstest, was wäre deine Priorität?|
+fetes-561|Wie schnell könntest du eine saisonale Deko aufstellen?|Wie schnell könntest du einen Geburtstagskuchen backen?|
+fetes-562|Was würdest du spontan sagen, wenn ein Gast das letzte Andenken nimmt, das für alle gedacht war?|Was würdest du spontan sagen, wenn du zwei Einladungen für denselben Abend bekommst?|
+fetes-563|Wie viel wärst du bereit, für einen Blumenstrauß als Geschenk auszugeben?|Wie viel wärst du bereit, für eine personalisierte Weihnachtskarte auszugeben?|carte de vœux → Weihnachtskarte
+fetes-564|Was kostet deiner Meinung nach ein dekorativer Türkranz?|Was kostet deiner Meinung nach ein Partyspiel?|
+fetes-565|Was würde dich dazu bringen, eine Auswahl von zwanzig Petits Fours zu kaufen?|Was würde dich dazu bringen, einen dekorativen Türkranz zu kaufen?|
+fetes-566|Was würdest du sagen, wenn die Feier wegen des Wetters nach drinnen verlegt werden muss?|Was würdest du sagen, wenn du herausfindest, dass man eine Überraschung für dich plant?|
+fetes-567|Was wäre der beste Zeitpunkt, um zehn Geschenke einzupacken?|Was wäre der beste Zeitpunkt, um einen Festtisch zu dekorieren?|
+fetes-568|Welches Detail würdest du prüfen, bevor du einen Geschenketausch organisierst?|Welches Detail würdest du prüfen, bevor du eine Überraschungsparty zum Geburtstag organisierst?|
+fetes-569|Wie viel Zeit würdest du einplanen, um ein Familienfest vorzubereiten?|Wie viel Zeit würdest du einplanen, um ein Faschingskostüm auszusuchen?|
+fetes-570|Was wäre für dich die größte Schwierigkeit, wenn du eine Überraschungsparty zum Geburtstag organisieren müsstest?|Was wäre für dich die größte Schwierigkeit, wenn du zehn Geschenke einpacken müsstest?|
+fetes-571|Welches Detail würdest du prüfen, bevor du Weihnachtskarten vorbereitest?|Welches Detail würdest du prüfen, bevor du ein Abschiedsgeschenk aussuchst?|cartes de vœux → Weihnachtskarten
+fetes-572|Was würdest du spontan sagen, wenn ein Gast in einem Kostüm kommt, das nicht zum Motto passt?|Was würdest du spontan sagen, wenn die Feier wegen des Wetters nach drinnen verlegt werden muss?|
+fetes-573|Zu welchem Anlass würdest du einen dekorativen Türkranz kaufen?|Zu welchem Anlass würdest du ein Partyspiel kaufen?|
+fetes-574|Wo würdest du hingehen, um eine Auswahl von zwanzig Petits Fours zu finden?|Wo würdest du hingehen, um einen dekorativen Türkranz zu finden?|
+fetes-575|Was wäre deine erste Reaktion, wenn dich ein Freund bittet, ins Mikro zu singen?|Was wäre deine erste Reaktion, wenn die Deko während des Essens herunterfällt?|
+fetes-576|Was wäre der wichtigste Punkt, um eine saisonale Deko aufzustellen?|Was wäre der wichtigste Punkt, um einen Geburtstagskuchen zu backen?|
+fetes-577|Wann hättest du Lust, eine personalisierte Weihnachtskarte zu kaufen?|Wann hättest du Lust, eine Packung Dekokerzen zu kaufen?|carte de vœux → Weihnachtskarte
+fetes-578|Wer aus deinem Umfeld könnte dir helfen, einen Festtisch zu dekorieren?|Wer aus deinem Umfeld könnte dir helfen, eine Geburtstagseinladung vorzubereiten?|
+fetes-579|Welcher Satz würde dir rausrutschen, wenn die Torte mit dem falschen Namen ankommt?|Welcher Satz würde dir rausrutschen, wenn ein Gast vergisst, sein Geschenk mitzubringen?|
+fetes-580|Wann hättest du Lust, eine Schachtel gemischte Pralinen zu kaufen?|Wann hättest du Lust, ein Faschingskostüm zu kaufen?|
+fetes-581|Wo würdest du hingehen, um einen dekorativen Türkranz zu kaufen?|Wo würdest du hingehen, um ein Partyspiel zu kaufen?|
+fetes-582|Wen würdest du fragen, damit er dir hilft, eine Abschlussfeier zu organisieren?|Wen würdest du fragen, damit er dir hilft, Erinnerungsfotos vorzubereiten?|
+fetes-583|Was wäre deine erste Reaktion, wenn ein Gast das letzte Andenken nimmt, das für alle gedacht war?|Was wäre deine erste Reaktion, wenn du zwei Einladungen für denselben Abend bekommst?|
+fetes-584|Wenn du eine Hochzeitsrede vorbereiten müsstest, was wäre deine Priorität?|Wenn du einen Raum für eine Feier dekorieren müsstest, was wäre deine Priorität?|
+fetes-585|Was wäre der wichtigste Punkt, um einen Festtisch zu dekorieren?|Was wäre der wichtigste Punkt, um eine Geburtstagseinladung vorzubereiten?|
+fetes-586|Wen würdest du fragen, damit er dir hilft, eine Überraschungsparty zum Geburtstag zu organisieren?|Wen würdest du fragen, damit er dir hilft, zehn Geschenke einzupacken?|
+fetes-587|Wo würdest du hingehen, um eine Packung Dekokerzen zu finden?|Wo würdest du hingehen, um einen Adventskalender mit Leckereien zu finden?|
+fetes-588|Was würdest du spontan sagen, wenn dich ein Freund bittet, ins Mikro zu singen?|Was würdest du spontan sagen, wenn die Deko während des Essens herunterfällt?|
+fetes-589|Welches Detail würdest du prüfen, bevor du ein Familienfest vorbereitest?|Welches Detail würdest du prüfen, bevor du ein Faschingskostüm aussuchst?|
+fetes-590|Was wäre für dich die größte Schwierigkeit, wenn du ein Faschingskostüm aussuchen müsstest?|Was wäre für dich die größte Schwierigkeit, wenn du ein Buffet für zwanzig Gäste vorbereiten müsstest?|
+fetes-591|Wie würdest du reagieren, wenn die Musik in einem wichtigen Moment ausgeht?|Wie würdest du reagieren, wenn ein Geschenk beim Auspacken kaputtgeht?|
+fetes-592|Wo würdest du als Erstes nach einem Partyspiel suchen?|Wo würdest du als Erstes nach einer Flasche Kindersekt suchen?|
+fetes-593|Ab welchem Preis würdest du zögern, einen Adventskalender mit Leckereien zu kaufen?|Ab welchem Preis würdest du zögern, eine zehn Meter lange LED-Lichterkette für draußen zu kaufen?|
+fetes-594|Was glaubst du, wie viel ein Set biologisch abbaubarer Luftballons kostet?|Was glaubst du, wie viel ein Geschenkverpackungs-Set kostet?|
+fetes-595|Wie würdest du antworten, wenn ein Gast vergisst, sein Geschenk mitzubringen?|Wie würdest du antworten, wenn du vor allen die Kerzen auspusten musst?|
+fetes-596|Wie lange würdest du brauchen, um eine Abschlussfeier zu organisieren?|Wie lange würdest du brauchen, um Erinnerungsfotos vorzubereiten?|
+fetes-597|Wo würdest du hingehen, um einen Adventskalender mit Leckereien zu kaufen?|Wo würdest du hingehen, um eine zehn Meter lange LED-Lichterkette für draußen zu kaufen?|
+fetes-598|Was würdest du spontan sagen, wenn ein Freund alles an deiner Stelle organisieren will?|Was würdest du spontan sagen, wenn der Caterer sich verspätet?|
+fetes-599|Was würdest du sagen, wenn sich eine Festrede endlos hinzieht?|Was würdest du sagen, wenn die Musik in einem wichtigen Moment ausgeht?|
+fetes-600|Bis zu welchem Betrag würdest du für eine Schachtel gemischte Pralinen zahlen?|Bis zu welchem Betrag würdest du für ein Faschingskostüm zahlen?|
+fetes-601|Wer aus deinem Umfeld könnte dir helfen, eine saisonale Deko aufzustellen?|Wer aus deinem Umfeld könnte dir helfen, einen Geburtstagskuchen zu backen?|
+fetes-602|Was wäre deine erste Reaktion, wenn ein Gast in einem Kostüm kommt, das nicht zum Motto passt?|Was wäre deine erste Reaktion, wenn die Feier wegen des Wetters nach drinnen verlegt werden muss?|
+fetes-603|Ab welchem Preis würdest du zögern, eine Geburtstags-Piñata zu kaufen?|Ab welchem Preis würdest du zögern, ein Set biologisch abbaubarer Luftballons zu kaufen?|
+fetes-604|Was meinst du, wie viel kostet Silvesterdeko?|Was meinst du, wie viel kostet ein Fotobox-Accessoire?|
+fetes-605|Welchen Preis stellst du dir für eine Flasche Kindersekt vor?|Welchen Preis stellst du dir für Silvesterdeko vor?|
+fetes-606|Was wäre der beste Zeitpunkt, um ein Buffet für zwanzig Gäste vorzubereiten?|Was wäre der beste Zeitpunkt, um eine saisonale Deko aufzustellen?|
+fetes-607|Wie würdest du antworten, wenn jemand einen peinlichen Moment fotografiert?|Wie würdest du antworten, wenn dich ein Freund bittet, ins Mikro zu singen?|
+fetes-608|Wen würdest du um Hilfe bitten, um eine Geburtstagseinladung vorzubereiten?|Wen würdest du um Hilfe bitten, um ein Menü für Heiligabend auszusuchen?|
+fetes-609|Wer aus deinem Umfeld könnte dir helfen, eine Gästeliste zu erstellen?|Wer aus deinem Umfeld könnte dir helfen, einen Geschenketausch zu organisieren?|
+fetes-610|Wo würdest du hingehen, um ein Fotobox-Accessoire zu kaufen?|Wo würdest du hingehen, um einen handgemachten Christstollen für sechs Personen zu kaufen?|galette des rois → Christstollen
+fetes-611|Welche Tageszeit würdest du wählen, um eine Gästeliste zu erstellen?|Welche Tageszeit würdest du wählen, um einen Geschenketausch zu organisieren?|
+fetes-612|Wie viel wärst du bereit, für ein Partyspiel auszugeben?|Wie viel wärst du bereit, für eine Flasche Kindersekt auszugeben?|
+fetes-613|Zu welchem Anlass würdest du einen Adventskalender mit Leckereien kaufen?|Zu welchem Anlass würdest du eine zehn Meter lange LED-Lichterkette für draußen kaufen?|
+fetes-614|Welche Tageszeit wäre am praktischsten, um eine Geburtstagseinladung vorzubereiten?|Welche Tageszeit wäre am praktischsten, um ein Menü für Heiligabend auszusuchen?|
+fetes-615|Wann hättest du Lust, eine Dose Festtagsplätzchen zu kaufen?|Wann hättest du Lust, eine Geburtstagstorte für zwölf Personen zu kaufen?|
+fetes-616|Wie lange würdest du brauchen, um ein Menü für Heiligabend auszusuchen?|Wie lange würdest du brauchen, um eine Hochzeitsrede vorzubereiten?|
+fetes-617|Welcher Satz würde dir rausrutschen, wenn du vergisst, die Karte zum Geschenk zu schreiben?|Welcher Satz würde dir rausrutschen, wenn jemand aus deinem Umfeld die Feier früher anfangen lassen will?|
+fetes-618|Wie viel würdest du höchstens für eine Packung Dekokerzen einplanen?|Wie viel würdest du höchstens für einen Adventskalender mit Leckereien einplanen?|
+fetes-619|Wie viel Zeit würdest du einplanen, um einen Geburtstagskuchen zu backen?|Wie viel Zeit würdest du einplanen, um eine Abschlussfeier zu organisieren?|
+fetes-620|Auf welcher Website oder in welchem Laden würdest du nach einer Schachtel gemischter Pralinen suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Faschingskostüm suchen?|
+fetes-621|Welche Tageszeit würdest du wählen, um eine Ostereiersuche vorzubereiten?|Welche Tageszeit würdest du wählen, um ein Familienfest vorzubereiten?|
+fetes-622|Was glaubst du, wie viel ein handgemachter Christstollen für sechs Personen kostet?|Was glaubst du, wie viel eine Dose Festtagsplätzchen kostet?|galette des rois → Christstollen
+fetes-623|Was wäre dein erster Reflex, wenn ein Gast mit einem zusätzlichen Kuchen ankommt?|Was wäre dein erster Reflex, wenn ein Freund alles an deiner Stelle organisieren will?|
+fetes-624|Was meinst du, wie viel kostet eine Auswahl von zwanzig Petits Fours?|Was meinst du, wie viel kostet ein dekorativer Türkranz?|
+fetes-625|Wer aus deinem Umfeld könnte dir helfen, eine Ostereiersuche vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, ein Familienfest vorzubereiten?|
+fetes-626|Wie viel würdest du höchstens für eine Auswahl von zwanzig Petits Fours einplanen?|Wie viel würdest du höchstens für einen dekorativen Türkranz einplanen?|
+fetes-627|Bis zu welchem Betrag würdest du für eine Dose Festtagsplätzchen zahlen?|Bis zu welchem Betrag würdest du für eine Geburtstagstorte für zwölf Personen zahlen?|
+fetes-628|Was kostet deiner Meinung nach ein Fotobox-Accessoire?|Was kostet deiner Meinung nach ein handgemachter Christstollen für sechs Personen?|galette des rois → Christstollen
+fetes-629|Was würdest du spontan sagen, wenn du vor allen die Kerzen auspusten musst?|Was würdest du spontan sagen, wenn sich eine Festrede endlos hinzieht?|
+fetes-630|Wenn du ein Buffet für zwanzig Gäste vorbereiten müsstest, was wäre deine Priorität?|Wenn du eine saisonale Deko aufstellen müsstest, was wäre deine Priorität?|
+fetes-631|Wie würdest du antworten, wenn ein Gast mit einem zusätzlichen Kuchen ankommt?|Wie würdest du antworten, wenn ein Freund alles an deiner Stelle organisieren will?|
+fetes-632|Was meinst du, wie lange dauert es, eine Hochzeitsrede vorzubereiten?|Was meinst du, wie lange dauert es, einen Raum für eine Feier zu dekorieren?|
+fetes-633|Was meinst du, wie viel kostet ein Faschingskostüm?|Was meinst du, wie viel kostet eine Geburtstags-Piñata?|
+fetes-634|In welcher Situation würdest du dich entscheiden, einen Blumenstrauß als Geschenk zu kaufen?|In welcher Situation würdest du dich entscheiden, eine personalisierte Weihnachtskarte zu kaufen?|carte de vœux → Weihnachtskarte
+fetes-635|Was würdest du sagen, wenn die Deko während des Essens herunterfällt?|Was würdest du sagen, wenn ein Kind ein Geschenk aufmacht, das nicht für es ist?|
+fetes-636|Was würdest du sagen, wenn der Caterer sich verspätet?|Was würdest du sagen, wenn du vergisst, die Karte zum Geschenk zu schreiben?|
+fetes-637|Was wäre dein erster Reflex, wenn jemand einen peinlichen Moment fotografiert?|Was wäre dein erster Reflex, wenn dich ein Freund bittet, ins Mikro zu singen?|
+fetes-638|Auf welcher Website oder in welchem Laden würdest du nach einer Dose Festtagsplätzchen suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Geburtstagstorte für zwölf Personen suchen?|
+fetes-639|Wie viel würdest du höchstens für eine Geburtstagstorte für zwölf Personen einplanen?|Wie viel würdest du höchstens für eine festliche Tischdeko einplanen?|
+fetes-640|Wo würdest du hingehen, um eine Geburtstagstorte für zwölf Personen zu finden?|Wo würdest du hingehen, um eine festliche Tischdeko zu finden?|
+fetes-641|Wie schnell könntest du einen Festtisch dekorieren?|Wie schnell könntest du eine Geburtstagseinladung vorbereiten?|
+fetes-642|Auf welcher Website oder in welchem Laden würdest du nach einer personalisierten Weihnachtskarte suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Packung Dekokerzen suchen?|carte de vœux → Weihnachtskarte
+fetes-643|Wie würdest du antworten, wenn jemand aus deinem Umfeld die Feier früher anfangen lassen will?|Wie würdest du antworten, wenn ein Gast das letzte Andenken nimmt, das für alle gedacht war?|
+fetes-644|Auf welcher Website oder in welchem Laden würdest du nach einer Flasche Kindersekt suchen?|Auf welcher Website oder in welchem Laden würdest du nach Silvesterdeko suchen?|
+fetes-645|Zu welchem Zeitpunkt in der Woche würdest du am liebsten ein Menü für Heiligabend aussuchen?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten eine Hochzeitsrede vorbereiten?|
+fetes-646|Wo würdest du hingehen, um eine festliche Tischdeko zu kaufen?|Wo würdest du hingehen, um einen Blumenstrauß als Geschenk zu kaufen?|
+fetes-647|Wie lange würdest du brauchen, um ein Abschiedsgeschenk auszusuchen?|Wie lange würdest du brauchen, um ein Essen für Silvester zu organisieren?|
+fetes-648|Wer könnte dir den besten Rat geben, um ein Buffet für zwanzig Gäste vorzubereiten?|Wer könnte dir den besten Rat geben, um eine saisonale Deko aufzustellen?|
+fetes-649|Wen würdest du um Hilfe bitten, um ein Familienfest vorzubereiten?|Wen würdest du um Hilfe bitten, um ein Faschingskostüm auszusuchen?|
+fetes-650|Wo würdest du hingehen, um eine Geburtstags-Piñata zu kaufen?|Wo würdest du hingehen, um ein Set biologisch abbaubarer Luftballons zu kaufen?|
+fetes-651|Zu welchem Anlass würdest du ein Fotobox-Accessoire kaufen?|Zu welchem Anlass würdest du einen handgemachten Christstollen für sechs Personen kaufen?|galette des rois → Christstollen
+fetes-652|Was kostet deiner Meinung nach ein Adventskalender mit Leckereien?|Was kostet deiner Meinung nach eine zehn Meter lange LED-Lichterkette für draußen?|
+fetes-653|Welcher Satz würde dir rausrutschen, wenn ein Kind ein Geschenk aufmacht, das nicht für es ist?|Welcher Satz würde dir rausrutschen, wenn ein Gast mit einem zusätzlichen Kuchen ankommt?|
+fetes-654|Welches Detail würdest du prüfen, bevor du einen Geburtstagskuchen backst?|Welches Detail würdest du prüfen, bevor du eine Abschlussfeier organisierst?|
+fetes-655|Zu welchem Zeitpunkt in der Woche würdest du am liebsten ein Faschingskostüm aussuchen?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten ein Buffet für zwanzig Gäste vorbereiten?|
+fetes-656|Was glaubst du, wie viel ein Partyspiel kostet?|Was glaubst du, wie viel eine Flasche Kindersekt kostet?|
+fetes-657|Welche Tageszeit würdest du wählen, um eine saisonale Deko aufzustellen?|Welche Tageszeit würdest du wählen, um einen Geburtstagskuchen zu backen?|
+fetes-658|Wie viel Zeit würdest du einplanen, um Weihnachtskarten vorzubereiten?|Wie viel Zeit würdest du einplanen, um ein Abschiedsgeschenk auszusuchen?|cartes de vœux → Weihnachtskarten
+fetes-659|Zu welchem Zeitpunkt in der Woche würdest du am liebsten eine Überraschungsparty zum Geburtstag organisieren?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten zehn Geschenke einpacken?|
+fetes-660|Welchen Preis stellst du dir für ein Geschenkverpackungs-Set vor?|Welchen Preis stellst du dir für eine Auswahl von zwanzig Petits Fours vor?|
+fetes-661|Was wäre der beste Zeitpunkt, um Erinnerungsfotos vorzubereiten?|Was wäre der beste Zeitpunkt, um eine Gästeliste zu erstellen?|
+fetes-662|Welchen Preis stellst du dir für eine personalisierte Weihnachtskarte vor?|Welchen Preis stellst du dir für eine Packung Dekokerzen vor?|carte de vœux → Weihnachtskarte
+fetes-663|Was würdest du als Erstes tun, wenn der Caterer sich verspätet?|Was würdest du als Erstes tun, wenn du vergisst, die Karte zum Geschenk zu schreiben?|
+fetes-664|Wen würdest du um Hilfe bitten, um einen Geburtstagskuchen zu backen?|Wen würdest du um Hilfe bitten, um eine Abschlussfeier zu organisieren?|
+fetes-665|Wo würdest du als Erstes nach einem Set biologisch abbaubarer Luftballons suchen?|Wo würdest du als Erstes nach einem Geschenkverpackungs-Set suchen?|
+fetes-666|Wie würdest du reagieren, wenn du herausfindest, dass man eine Überraschung für dich plant?|Wie würdest du reagieren, wenn jemand einen peinlichen Moment fotografiert?|
+fetes-667|Was meinst du, wie lange dauert es, Erinnerungsfotos vorzubereiten?|Was meinst du, wie lange dauert es, eine Gästeliste zu erstellen?|
+fetes-668|Welche Tageszeit würdest du wählen, um einen Festtisch zu dekorieren?|Welche Tageszeit würdest du wählen, um eine Geburtstagseinladung vorzubereiten?|
+fetes-669|Wie würdest du antworten, wenn ein Geschenk beim Auspacken kaputtgeht?|Wie würdest du antworten, wenn ein Gast in einem Kostüm kommt, das nicht zum Motto passt?|
+fetes-670|Welchen Preis stellst du dir für eine Schachtel gemischte Pralinen vor?|Welchen Preis stellst du dir für ein Faschingskostüm vor?|
+fetes-671|Was meinst du, wie lange dauert es, zehn Geschenke einzupacken?|Was meinst du, wie lange dauert es, einen Festtisch zu dekorieren?|
+fetes-672|Ab welchem Preis würdest du zögern, einen dekorativen Türkranz zu kaufen?|Ab welchem Preis würdest du zögern, ein Partyspiel zu kaufen?|
+fetes-673|In welcher Situation würdest du dich entscheiden, einen handgemachten Christstollen für sechs Personen zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Dose Festtagsplätzchen zu kaufen?|galette des rois → Christstollen
+fetes-674|Wann hättest du Lust, eine Flasche Kindersekt zu kaufen?|Wann hättest du Lust, Silvesterdeko zu kaufen?|
+fetes-675|Wen würdest du um Hilfe bitten, um einen Geschenketausch zu organisieren?|Wen würdest du um Hilfe bitten, um eine Überraschungsparty zum Geburtstag zu organisieren?|
+fetes-676|Wo würdest du als Erstes nach einem Blumenstrauß als Geschenk suchen?|Wo würdest du als Erstes nach einer personalisierten Weihnachtskarte suchen?|carte de vœux → Weihnachtskarte
+fetes-677|Wie viel Zeit würdest du einplanen, um eine Geburtstagseinladung vorzubereiten?|Wie viel Zeit würdest du einplanen, um ein Menü für Heiligabend auszusuchen?|
+fetes-678|Was wäre dein erster Reflex, wenn ein Geschenk beim Auspacken kaputtgeht?|Was wäre dein erster Reflex, wenn ein Gast in einem Kostüm kommt, das nicht zum Motto passt?|
+fetes-679|Welcher Satz würde dir rausrutschen, wenn du herausfindest, dass man eine Überraschung für dich plant?|Welcher Satz würde dir rausrutschen, wenn jemand einen peinlichen Moment fotografiert?|
+fetes-680|Was wäre dein erster Reflex, wenn ein Gast vergisst, sein Geschenk mitzubringen?|Was wäre dein erster Reflex, wenn du vor allen die Kerzen auspusten musst?|
+fetes-681|Wenn du Erinnerungsfotos vorbereiten müsstest, was wäre deine Priorität?|Wenn du eine Gästeliste erstellen müsstest, was wäre deine Priorität?|
+fetes-682|Was meinst du, wie lange dauert es, ein Buffet für zwanzig Gäste vorzubereiten?|Was meinst du, wie lange dauert es, eine saisonale Deko aufzustellen?|
+fetes-683|Was meinst du, wie viel kostet eine Packung Dekokerzen?|Was meinst du, wie viel kostet ein Adventskalender mit Leckereien?|
+fetes-684|Wen würdest du um Hilfe bitten, um Weihnachtskarten vorzubereiten?|Wen würdest du um Hilfe bitten, um ein Abschiedsgeschenk auszusuchen?|cartes de vœux → Weihnachtskarten
+fetes-685|Wie würdest du reagieren, wenn die Torte mit dem falschen Namen ankommt?|Wie würdest du reagieren, wenn ein Gast vergisst, sein Geschenk mitzubringen?|
+fetes-686|Zu welchem Zeitpunkt in der Woche würdest du am liebsten ein Abschiedsgeschenk aussuchen?|Zu welchem Zeitpunkt in der Woche würdest du am liebsten ein Essen für Silvester organisieren?|
+fetes-687|Wann hättest du Lust, ein Geschenkverpackungs-Set zu kaufen?|Wann hättest du Lust, eine Auswahl von zwanzig Petits Fours zu kaufen?|
+fetes-688|Wie würdest du reagieren, wenn ein Kind ein Geschenk aufmacht, das nicht für es ist?|Wie würdest du reagieren, wenn ein Gast mit einem zusätzlichen Kuchen ankommt?|
+fetes-689|Wie schnell könntest du eine Gästeliste erstellen?|Wie schnell könntest du einen Geschenketausch organisieren?|
+fetes-690|Was würdest du als Erstes tun, wenn sich eine Festrede endlos hinzieht?|Was würdest du als Erstes tun, wenn die Musik in einem wichtigen Moment ausgeht?|
+fetes-691|Wen würdest du fragen, damit er dir hilft, ein Faschingskostüm auszusuchen?|Wen würdest du fragen, damit er dir hilft, ein Buffet für zwanzig Gäste vorzubereiten?|
+fetes-692|Wen würdest du fragen, damit er dir hilft, ein Menü für Heiligabend auszusuchen?|Wen würdest du fragen, damit er dir hilft, eine Hochzeitsrede vorzubereiten?|
+fetes-693|Was glaubst du, wie viel eine zehn Meter lange LED-Lichterkette für draußen kostet?|Was glaubst du, wie viel eine Schachtel gemischte Pralinen kostet?|
+fetes-694|Wo würdest du hingehen, um ein Faschingskostüm zu finden?|Wo würdest du hingehen, um eine Geburtstags-Piñata zu finden?|
+fetes-695|Was wäre der wichtigste Punkt, um eine Gästeliste zu erstellen?|Was wäre der wichtigste Punkt, um einen Geschenketausch zu organisieren?|
+fetes-696|Welche Tageszeit wäre am praktischsten, um Weihnachtskarten vorzubereiten?|Welche Tageszeit wäre am praktischsten, um ein Abschiedsgeschenk auszusuchen?|cartes de vœux → Weihnachtskarten
+fetes-697|Zu welchem Anlass würdest du eine festliche Tischdeko kaufen?|Zu welchem Anlass würdest du einen Blumenstrauß als Geschenk kaufen?|
+fetes-698|Was wäre für dich die größte Schwierigkeit, wenn du ein Menü für Heiligabend aussuchen müsstest?|Was wäre für dich die größte Schwierigkeit, wenn du eine Hochzeitsrede vorbereiten müsstest?|
+fetes-699|Welchen Preis stellst du dir für eine Dose Festtagsplätzchen vor?|Welchen Preis stellst du dir für eine Geburtstagstorte für zwölf Personen vor?|
+fetes-700|Bis zu welchem Betrag würdest du für eine personalisierte Weihnachtskarte zahlen?|Bis zu welchem Betrag würdest du für eine Packung Dekokerzen zahlen?|carte de vœux → Weihnachtskarte
+fetes-701|Wie viel wärst du bereit, für ein Set biologisch abbaubarer Luftballons auszugeben?|Wie viel wärst du bereit, für ein Geschenkverpackungs-Set auszugeben?|
+fetes-702|Welche Tageszeit wäre am praktischsten, um einen Geburtstagskuchen zu backen?|Welche Tageszeit wäre am praktischsten, um eine Abschlussfeier zu organisieren?|
+fetes-703|Wie lange würdest du brauchen, um eine Überraschungsparty zum Geburtstag zu organisieren?|Wie lange würdest du brauchen, um zehn Geschenke einzupacken?|
+fetes-704|Was wäre für dich die größte Schwierigkeit, wenn du eine Abschlussfeier organisieren müsstest?|Was wäre für dich die größte Schwierigkeit, wenn du Erinnerungsfotos vorbereiten müsstest?|
+fetes-705|Bis zu welchem Betrag würdest du für ein Geschenkverpackungs-Set zahlen?|Bis zu welchem Betrag würdest du für eine Auswahl von zwanzig Petits Fours zahlen?|
+fetes-706|Welche Tageszeit würdest du wählen, um einen Raum für eine Feier zu dekorieren?|Welche Tageszeit würdest du wählen, um Weihnachtskarten vorzubereiten?|cartes de vœux → Weihnachtskarten
+fetes-707|Wie viel würdest du höchstens für ein Faschingskostüm einplanen?|Wie viel würdest du höchstens für eine Geburtstags-Piñata einplanen?|
+fetes-708|Was wäre der beste Zeitpunkt, um ein Essen für Silvester zu organisieren?|Was wäre der beste Zeitpunkt, um eine Ostereiersuche vorzubereiten?|
+fetes-709|Was würde dich dazu bringen, Silvesterdeko zu kaufen?|Was würde dich dazu bringen, ein Fotobox-Accessoire zu kaufen?|
+fetes-710|In welcher Situation würdest du dich entscheiden, ein Set biologisch abbaubarer Luftballons zu kaufen?|In welcher Situation würdest du dich entscheiden, ein Geschenkverpackungs-Set zu kaufen?|
+fetes-711|Was würdest du sagen, wenn du zwei Einladungen für denselben Abend bekommst?|Was würdest du sagen, wenn die Torte mit dem falschen Namen ankommt?|
+fetes-712|Wie würdest du reagieren, wenn du vergisst, die Karte zum Geschenk zu schreiben?|Wie würdest du reagieren, wenn jemand aus deinem Umfeld die Feier früher anfangen lassen will?|
+fetes-713|Bis zu welchem Betrag würdest du für eine Flasche Kindersekt zahlen?|Bis zu welchem Betrag würdest du für Silvesterdeko zahlen?|
+fetes-714|Wer könnte dir den besten Rat geben, um ein Essen für Silvester zu organisieren?|Wer könnte dir den besten Rat geben, um eine Ostereiersuche vorzubereiten?|
+fetes-715|Was meinst du, wie lange dauert es, ein Essen für Silvester zu organisieren?|Was meinst du, wie lange dauert es, eine Ostereiersuche vorzubereiten?|
+fetes-716|Was meinst du, wie viel kostet eine Geburtstagstorte für zwölf Personen?|Was meinst du, wie viel kostet eine festliche Tischdeko?|
+fetes-717|Wer könnte dir den besten Rat geben, um eine Hochzeitsrede vorzubereiten?|Wer könnte dir den besten Rat geben, um einen Raum für eine Feier zu dekorieren?|
+fetes-718|In welcher Situation würdest du dich entscheiden, ein Partyspiel zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Flasche Kindersekt zu kaufen?|
+fetes-719|Wen würdest du fragen, damit er dir hilft, ein Abschiedsgeschenk auszusuchen?|Wen würdest du fragen, damit er dir hilft, ein Essen für Silvester zu organisieren?|
+fetes-720|Was wäre deine erste Reaktion, wenn ein Freund alles an deiner Stelle organisieren will?|Was wäre deine erste Reaktion, wenn der Caterer sich verspätet?|
+fetes-721|Wo würdest du als Erstes nach einem handgemachten Christstollen für sechs Personen suchen?|Wo würdest du als Erstes nach einer Dose Festtagsplätzchen suchen?|galette des rois → Christstollen
+fetes-722|Welche Tageszeit wäre am praktischsten, um einen Geschenketausch zu organisieren?|Welche Tageszeit wäre am praktischsten, um eine Überraschungsparty zum Geburtstag zu organisieren?|
+fetes-723|Wie lange würdest du brauchen, um ein Faschingskostüm auszusuchen?|Wie lange würdest du brauchen, um ein Buffet für zwanzig Gäste vorzubereiten?|
+fetes-724|Ab welchem Preis würdest du zögern, eine festliche Tischdeko zu kaufen?|Ab welchem Preis würdest du zögern, einen Blumenstrauß als Geschenk zu kaufen?|
+fetes-725|Was kostet deiner Meinung nach eine festliche Tischdeko?|Was kostet deiner Meinung nach ein Blumenstrauß als Geschenk?|
+fetes-726|Was glaubst du, wie viel ein Blumenstrauß als Geschenk kostet?|Was glaubst du, wie viel eine personalisierte Weihnachtskarte kostet?|carte de vœux → Weihnachtskarte
+fetes-727|Was würdest du als Erstes tun, wenn die Deko während des Essens herunterfällt?|Was würdest du als Erstes tun, wenn ein Kind ein Geschenk aufmacht, das nicht für es ist?|
+fetes-728|Was wäre der wichtigste Punkt, um einen Raum für eine Feier zu dekorieren?|Was wäre der wichtigste Punkt, um Weihnachtskarten vorzubereiten?|cartes de vœux → Weihnachtskarten
+fetes-729|Was wäre deine erste Reaktion, wenn du vor allen die Kerzen auspusten musst?|Was wäre deine erste Reaktion, wenn sich eine Festrede endlos hinzieht?|

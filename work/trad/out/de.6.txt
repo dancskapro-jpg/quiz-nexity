@@ -1,0 +1,199 @@
+ville-333|Ab welchem Preis würdest du zögern, eine Nacht für zwei Personen in einem Hotel im Stadtzentrum zu buchen?|Ab welchem Preis würdest du zögern, einen Touristenpass für zwei Tage zu kaufen?|
+ville-334|Wie viel wärst du bereit, für einen Touristenpass für zwei Tage auszugeben?|Wie viel wärst du bereit, für eine einfache Fahrt mit dem Regionalzug über 50 km auszugeben?|TER → Regionalzug
+ville-335|Wann wäre der beste Zeitpunkt, um einen Freund im Berliner Hauptbahnhof zu treffen?|Wann wäre der beste Zeitpunkt, um eine Besorgung in der Innenstadt zu machen?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-336|Wo würdest du hingehen, um eine Monatskarte für die Öffis in Berlin zu kaufen?|Wo würdest du hingehen, um eine Taxifahrt von fünf Kilometern in Berlin zu bezahlen?|Paris → Berlin
+ville-337|Auf welcher Website oder in welchem Laden würdest du nach einer einfachen Fahrt mit dem Regionalzug über 50 km suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem U-Bahn-Einzelfahrschein in Berlin suchen?|TER → Regionalzug, Paris → Berlin
+ville-338|Wo würdest du hingehen, um eine aufladbare Fahrkarte für die Öffis zu kaufen?|Wo würdest du hingehen, um eine Karte für eine Vorstellung im Kino um die Ecke zu kaufen?|
+ville-339|Welcher Satz käme dir über die Lippen, wenn der Fahrkartenautomat außer Betrieb ist?|Welcher Satz käme dir über die Lippen, wenn du merkst, dass du im falschen Bus sitzt?|
+ville-340|Auf welcher Website oder in welchem Laden würdest du nach einem Ticket für die Hafenfähre suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Eintrittskarte für eine lokale Ausstellung suchen?|bateau-bus → Hafenfähre
+ville-341|Wen würdest du kontaktieren, damit er dir hilft, ein Café zum Arbeiten auszusuchen?|Wen würdest du kontaktieren, damit er dir hilft, einen Freund im Berliner Hauptbahnhof zu finden?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-342|Wo würdest du zuerst nach einer Taxifahrt von fünf Kilometern in Berlin suchen?|Wo würdest du zuerst nach einem Erwachsenenticket für einen Sightseeing-Bus in Berlin suchen?|Paris → Berlin
+ville-343|Wer aus deinem Umfeld könnte dir helfen, eine Adresse ohne Navi zu finden?|Wer aus deinem Umfeld könnte dir helfen, eine Fahrt mitten in der Nacht zu planen?|
+ville-344|Wenn du für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt finden müsstest, was hätte für dich Priorität?|Wenn du ein Restaurant in der Nähe eines Bahnhofs ausfindig machen müsstest, was hätte für dich Priorität?|
+ville-345|Wo würdest du hingehen, um ein Abo für Leihfahrräder zu finden?|Wo würdest du hingehen, um eine aufladbare Fahrkarte für die Öffis zu finden?|
+ville-346|Wie schnell könntest du eine Adresse ohne Navi finden?|Wie schnell könntest du eine Fahrt mitten in der Nacht planen?|
+ville-347|Was wäre deine erste Reaktion, wenn dein Zug in letzter Minute das Gleis wechselt?|Was wäre deine erste Reaktion, wenn dich ein Fremder bittet, ein Foto zu machen?|
+ville-348|Welches Detail würdest du prüfen, bevor du eine Fahrt mitten in der Nacht planst?|Welches Detail würdest du prüfen, bevor du ein Café zum Arbeiten aussuchst?|
+ville-349|Welche Tageszeit würdest du wählen, um ein Restaurant in der Nähe eines Bahnhofs ausfindig zu machen?|Welche Tageszeit würdest du wählen, um einen Rundgang durchs Viertel zu organisieren?|
+ville-350|Welches Budget würdest du höchstens für ein Essen im Wirtshaus um die Ecke einplanen?|Welches Budget würdest du höchstens für ein gebrauchtes Stadtrad in gutem Zustand einplanen, das weniger als fünf Jahre alt ist?|brasserie → Wirtshaus
+ville-351|Welche Tageszeit wäre am praktischsten, um ein Museum in der Nähe auszusuchen?|Welche Tageszeit wäre am praktischsten, um eine rollstuhlgerechte Spazierroute zu finden?|
+ville-352|Wie viel Zeit würdest du einplanen, um einen Wochenmarkt im Viertel zu besuchen?|Wie viel Zeit würdest du einplanen, um eine Fahrradstrecke durch die Stadt zu planen?|
+ville-353|Wenn du einen Umstieg planen müsstest, was hätte für dich Priorität?|Wenn du einen Laden suchen müsstest, der sonntags offen hat, was hätte für dich Priorität?|
+ville-354|Wie würdest du antworten, wenn die Straße, die du kennst, gesperrt ist?|Wie würdest du antworten, wenn ein Taxi eine kurze Fahrt ablehnt?|
+ville-355|Wie lange würdest du brauchen, um eine rollstuhlgerechte Spazierroute zu finden?|Wie lange würdest du brauchen, um einen Umstieg zu planen?|
+ville-356|Wo würdest du hingehen, um einen U-Bahn-Einzelfahrschein in Berlin zu bekommen?|Wo würdest du hingehen, um eine Monatskarte für die Öffis in Berlin zu bekommen?|Paris → Berlin
+ville-357|Wen würdest du um Hilfe bitten, um ein unbekanntes Viertel zu entdecken?|Wen würdest du um Hilfe bitten, um eine Fahrt mit den Öffis zu planen?|
+ville-358|Was wäre dein erster Reflex, wenn die Straße, die du kennst, gesperrt ist?|Was wäre dein erster Reflex, wenn ein Taxi eine kurze Fahrt ablehnt?|
+ville-359|Was würdest du sagen, wenn du vor einem geschlossenen Laden stehst?|Was würdest du sagen, wenn eine Demo deinen Weg blockiert?|
+ville-360|Welchen Preis stellst du dir für eine einfache Fahrt mit dem Regionalzug über 50 km vor?|Welchen Preis stellst du dir für einen U-Bahn-Einzelfahrschein in Berlin vor?|TER → Regionalzug, Paris → Berlin
+ville-361|Wo würdest du hingehen, um ein Essen im Wirtshaus um die Ecke zu finden?|Wo würdest du hingehen, um ein gebrauchtes Stadtrad in gutem Zustand zu finden, das weniger als fünf Jahre alt ist?|brasserie → Wirtshaus
+ville-362|Was wäre für dich das Schwierigste daran, eine Fahrt mit den Öffis zu planen?|Was wäre für dich das Schwierigste daran, für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt zu finden?|
+ville-363|Wann wäre der beste Zeitpunkt, um einen Umstieg zu planen?|Wann wäre der beste Zeitpunkt, um einen Laden zu suchen, der sonntags offen hat?|
+ville-364|Was glaubst du, wie viel eine Vorstellung im Kino um die Ecke kostet?|Was glaubst du, wie viel ein Ticket für die Hafenfähre kostet?|bateau-bus → Hafenfähre
+ville-365|Ab welchem Preis würdest du zögern, eine Monatskarte für die Öffis in Berlin zu kaufen?|Ab welchem Preis würdest du zögern, eine Taxifahrt von fünf Kilometern in Berlin zu bezahlen?|Paris → Berlin
+ville-366|Welchen Preis stellst du dir für ein Erwachsenenticket für einen Sightseeing-Bus in Berlin vor?|Welchen Preis stellst du dir für einen Erwachseneneintritt in ein kostenpflichtiges städtisches Museum vor?|Paris → Berlin
+ville-367|In welcher Situation würdest du dich entscheiden, eine Karte für das Kino um die Ecke zu kaufen?|In welcher Situation würdest du dich entscheiden, ein Ticket für die Hafenfähre zu kaufen?|bateau-bus → Hafenfähre
+ville-368|Was würdest du spontan sagen, wenn ein Taxi eine kurze Fahrt ablehnt?|Was würdest du spontan sagen, wenn du vor einem geschlossenen Laden stehst?|
+ville-369|Was wäre deine erste Reaktion, wenn dir ein Passant eine unerwartete Abkürzung zeigt?|Was wäre deine erste Reaktion, wenn die U-Bahn zwischen zwei Stationen stehen bleibt?|
+ville-370|Wer aus deinem Umfeld könnte dir helfen, einen Laden zu suchen, der sonntags offen hat?|Wer aus deinem Umfeld könnte dir helfen, ein unbekanntes Viertel zu entdecken?|
+ville-371|Wie schnell könntest du ein Restaurant in der Nähe eines Bahnhofs ausfindig machen?|Wie schnell könntest du einen Rundgang durchs Viertel organisieren?|
+ville-372|Wie viel wärst du bereit, für eine Stunde in einem Parkhaus in der Berliner Innenstadt auszugeben?|Wie viel wärst du bereit, für einen Kaffee draußen in einem Straßencafé auszugeben?|Paris → Berlin
+ville-373|Was kostet deiner Meinung nach ein Essen im Wirtshaus um die Ecke?|Was kostet deiner Meinung nach ein gebrauchtes Stadtrad in gutem Zustand, das weniger als fünf Jahre alt ist?|brasserie → Wirtshaus
+ville-374|Was wäre für dich das Schwierigste daran, zwei U-Bahn-Verbindungen zu vergleichen?|Was wäre für dich das Schwierigste daran, am Bahnhofsautomaten ein Regionalzugticket zu kaufen?|
+ville-375|Was würdest du sagen, wenn dich ein Autofahrer vorlässt?|Was würdest du sagen, wenn der Fahrkartenautomat außer Betrieb ist?|
+ville-376|Welchen Preis stellst du dir für ein Shuttle-Ticket zwischen Flughafen und Innenstadt vor?|Welchen Preis stellst du dir für ein Abo für Leihfahrräder vor?|
+ville-377|Wie lange braucht man deiner Meinung nach, um für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt zu finden?|Wie lange braucht man deiner Meinung nach, um ein Restaurant in der Nähe eines Bahnhofs ausfindig zu machen?|
+ville-378|Wie viel Zeit würdest du einplanen, um ein Museum in der Nähe auszusuchen?|Wie viel Zeit würdest du einplanen, um eine rollstuhlgerechte Spazierroute zu finden?|
+ville-379|Welcher Satz käme dir über die Lippen, wenn dich ein Tourist nach dem Weg fragt?|Welcher Satz käme dir über die Lippen, wenn der Fahrer an deiner Haltestelle vorbeifährt?|
+ville-380|Was wäre deine erste Reaktion, wenn ein Taxi eine kurze Fahrt ablehnt?|Was wäre deine erste Reaktion, wenn du vor einem geschlossenen Laden stehst?|
+ville-381|Was würde dich dazu bringen, einen Tisch im Wirtshaus um die Ecke zu reservieren?|Was würde dich dazu bringen, ein gebrauchtes Stadtrad in gutem Zustand zu kaufen, das weniger als fünf Jahre alt ist?|brasserie → Wirtshaus
+ville-382|Welcher Satz käme dir über die Lippen, wenn hinter dir ein Radfahrer klingelt?|Welcher Satz käme dir über die Lippen, wenn dich ein Fußgänger nach der Uhrzeit fragt?|
+ville-383|Was kostet deiner Ansicht nach eine Nacht für zwei Personen in einem Hotel im Stadtzentrum?|Was kostet deiner Ansicht nach ein Touristenpass für zwei Tage?|
+ville-384|Welchen Preis stellst du dir für ein Ticket für die Hafenfähre vor?|Welchen Preis stellst du dir für eine Eintrittskarte für eine lokale Ausstellung vor?|bateau-bus → Hafenfähre
+ville-385|Was würdest du als Erstes tun, wenn du vor einem geschlossenen Laden stehst?|Was würdest du als Erstes tun, wenn eine Demo deinen Weg blockiert?|
+ville-386|Wie würdest du antworten, wenn du merkst, dass du im falschen Bus sitzt?|Wie würdest du antworten, wenn dir ein Passant eine unerwartete Abkürzung zeigt?|
+ville-387|Was wäre dein erster Reflex, wenn der Fahrer an deiner Haltestelle vorbeifährt?|Was wäre dein erster Reflex, wenn du den falschen U-Bahn-Ausgang nimmst?|
+ville-388|Wer könnte dir den besten Rat geben, um ein ruhiges Straßencafé zu finden, weniger als zehn Minuten zu Fuß entfernt?|Wer könnte dir den besten Rat geben, um einen Besichtigungstag in Rom ohne Auto zu organisieren?|
+ville-389|Wie lange braucht man deiner Meinung nach, um am Bahnhofsautomaten ein Regionalzugticket zu kaufen?|Wie lange braucht man deiner Meinung nach, um eine Adresse ohne Navi zu finden?|
+ville-390|Was würdest du sagen, wenn die U-Bahn zwischen zwei Stationen stehen bleibt?|Was würdest du sagen, wenn dich ein Tourist nach dem Weg fragt?|
+ville-391|Wo würdest du hingehen, um ein gebrauchtes Stadtrad in gutem Zustand zu kaufen, das weniger als fünf Jahre alt ist?|Wo würdest du hingehen, um eine Führung durchs Viertel zu buchen?|
+ville-392|Wie schnell könntest du eine Besorgung in der Innenstadt machen?|Wie schnell könntest du einen Wochenmarkt im Viertel besuchen?|
+ville-393|Wie viel Zeit würdest du einplanen, um ein unbekanntes Viertel zu entdecken?|Wie viel Zeit würdest du einplanen, um eine Fahrt mit den Öffis zu planen?|
+ville-394|Was wäre für dich das Schwierigste daran, eine Fahrradstrecke durch die Stadt zu planen?|Was wäre für dich das Schwierigste daran, ein ruhiges Straßencafé zu finden, weniger als zehn Minuten zu Fuß entfernt?|
+ville-395|Welche Tageszeit würdest du wählen, um eine Besorgung in der Innenstadt zu machen?|Welche Tageszeit würdest du wählen, um einen Wochenmarkt im Viertel zu besuchen?|
+ville-396|Welche Tageszeit würdest du wählen, um einen Besichtigungstag in Rom ohne Auto zu organisieren?|Welche Tageszeit würdest du wählen, um ein Museum in der Nähe auszusuchen?|
+ville-397|Wann wäre der beste Zeitpunkt, um am Bahnhofsautomaten ein Regionalzugticket zu kaufen?|Wann wäre der beste Zeitpunkt, um eine Adresse ohne Navi zu finden?|
+ville-398|Wo würdest du hingehen, um eine Nacht für zwei Personen in einem Hotel im Stadtzentrum zu buchen?|Wo würdest du hingehen, um einen Touristenpass für zwei Tage zu kaufen?|
+ville-399|Zu welchem Anlass würdest du eine aufladbare Fahrkarte für die Öffis kaufen wollen?|Zu welchem Anlass würdest du eine Karte für das Kino um die Ecke kaufen wollen?|
+ville-400|Wen würdest du kontaktieren, damit er dir hilft, eine rollstuhlgerechte Spazierroute zu finden?|Wen würdest du kontaktieren, damit er dir hilft, einen Umstieg zu planen?|
+ville-401|Wen würdest du kontaktieren, damit er dir hilft, zwei U-Bahn-Verbindungen zu vergleichen?|Wen würdest du kontaktieren, damit er dir hilft, am Bahnhofsautomaten ein Regionalzugticket zu kaufen?|
+ville-402|Welche Tageszeit würdest du wählen, um einen Laden zu suchen, der sonntags offen hat?|Welche Tageszeit würdest du wählen, um ein unbekanntes Viertel zu entdecken?|
+ville-403|Worauf würde es am meisten ankommen, wenn du einen Besichtigungstag in Rom ohne Auto organisierst?|Worauf würde es am meisten ankommen, wenn du ein Museum in der Nähe aussuchst?|
+ville-404|Welches Detail würdest du prüfen, bevor du ein Museum in der Nähe aussuchst?|Welches Detail würdest du prüfen, bevor du eine rollstuhlgerechte Spazierroute auswählst?|
+ville-405|Wie viel wärst du bereit, für eine Führung durchs Viertel auszugeben?|Wie viel wärst du bereit, für ein Shuttle-Ticket zwischen Flughafen und Innenstadt auszugeben?|
+ville-406|Worauf würde es am meisten ankommen, wenn du einen Laden suchst, der sonntags offen hat?|Worauf würde es am meisten ankommen, wenn du ein unbekanntes Viertel entdeckst?|
+ville-407|Was würde dich dazu bringen, eine Eintrittskarte für eine lokale Ausstellung zu kaufen?|Was würde dich dazu bringen, eine Nacht für zwei Personen in einem Hotel im Stadtzentrum zu buchen?|
+ville-408|Wie viel wärst du bereit, für eine Taxifahrt von fünf Kilometern in Berlin auszugeben?|Wie viel wärst du bereit, für ein Erwachsenenticket für einen Sightseeing-Bus in Berlin auszugeben?|Paris → Berlin
+ville-409|Wen würdest du um Hilfe bitten, um ein Museum in der Nähe auszusuchen?|Wen würdest du um Hilfe bitten, um eine rollstuhlgerechte Spazierroute zu finden?|
+ville-410|Was glaubst du, wie viel ein Touristenpass für zwei Tage kostet?|Was glaubst du, wie viel eine einfache Fahrt mit dem Regionalzug über 50 km kostet?|TER → Regionalzug
+ville-411|Welche Tageszeit wäre am praktischsten, um ein unbekanntes Viertel zu entdecken?|Welche Tageszeit wäre am praktischsten, um eine Fahrt mit den Öffis zu planen?|
+ville-412|Was kostet deiner Ansicht nach eine Monatskarte für die Öffis in Berlin?|Was kostet deiner Ansicht nach eine Taxifahrt von fünf Kilometern in Berlin?|Paris → Berlin
+ville-413|Welcher Satz käme dir über die Lippen, wenn eine Demo deinen Weg blockiert?|Welcher Satz käme dir über die Lippen, wenn die Anzeige an der Haltestelle keine Abfahrtszeiten mehr anzeigt?|
+ville-414|Welche Tageszeit wäre am praktischsten, um einen Rundgang durchs Viertel zu organisieren?|Welche Tageszeit wäre am praktischsten, um zwei U-Bahn-Verbindungen zu vergleichen?|
+ville-415|Was glaubst du, wie viel eine Führung durchs Viertel kostet?|Was glaubst du, wie viel ein Shuttle-Ticket zwischen Flughafen und Innenstadt kostet?|
+ville-416|Wie viel wärst du bereit, für eine Vorstellung im Kino um die Ecke auszugeben?|Wie viel wärst du bereit, für ein Ticket für die Hafenfähre auszugeben?|bateau-bus → Hafenfähre
+ville-417|Wann in der Woche würdest du am liebsten zwei U-Bahn-Verbindungen vergleichen?|Wann in der Woche würdest du am liebsten am Bahnhofsautomaten ein Regionalzugticket kaufen?|
+ville-418|Wen würdest du um Hilfe bitten, um einen Rundgang durchs Viertel zu organisieren?|Wen würdest du um Hilfe bitten, um zwei U-Bahn-Verbindungen zu vergleichen?|
+ville-419|Was wäre deine erste Reaktion, wenn du den falschen U-Bahn-Ausgang nimmst?|Was wäre deine erste Reaktion, wenn ein Bus an dir vorbeifährt, ohne anzuhalten?|
+ville-420|Wenn du ein ruhiges Straßencafé finden müsstest, weniger als zehn Minuten zu Fuß entfernt, was hätte für dich Priorität?|Wenn du einen Besichtigungstag in Rom ohne Auto organisieren müsstest, was hätte für dich Priorität?|
+ville-421|Was würdest du spontan sagen, wenn dir ein Passant eine unerwartete Abkürzung zeigt?|Was würdest du spontan sagen, wenn die U-Bahn zwischen zwei Stationen stehen bleibt?|
+ville-422|Wie viel Zeit würdest du einplanen, um einen Rundgang durchs Viertel zu organisieren?|Wie viel Zeit würdest du einplanen, um zwei U-Bahn-Verbindungen zu vergleichen?|
+ville-423|Wann in der Woche würdest du am liebsten eine rollstuhlgerechte Spazierroute suchen?|Wann in der Woche würdest du am liebsten einen Umstieg planen?|
+ville-424|Wie würdest du reagieren, wenn eine Demo deinen Weg blockiert?|Wie würdest du reagieren, wenn die Anzeige an der Haltestelle keine Abfahrtszeiten mehr anzeigt?|
+ville-425|Ab welchem Preis würdest du zögern, einen Einzelfahrschein für die Straßenbahn in Deutschland zu kaufen?|Ab welchem Preis würdest du zögern, eine Stunde in einem Parkhaus in der Berliner Innenstadt zu bezahlen?|France → Deutschland, Paris → Berlin
+ville-426|Welche Tageszeit wäre am praktischsten, um eine Fahrt mitten in der Nacht zu planen?|Welche Tageszeit wäre am praktischsten, um ein Café zum Arbeiten auszusuchen?|
+ville-427|Wenn du einen Freund im Berliner Hauptbahnhof finden müsstest, was hätte für dich Priorität?|Wenn du eine Besorgung in der Innenstadt machen müsstest, was hätte für dich Priorität?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-428|Wann hättest du Lust, ein Ticket für die Hafenfähre zu kaufen?|Wann hättest du Lust, eine Eintrittskarte für eine lokale Ausstellung zu kaufen?|bateau-bus → Hafenfähre
+ville-429|Wie lange braucht man deiner Meinung nach, um einen Freund im Berliner Hauptbahnhof zu finden?|Wie lange braucht man deiner Meinung nach, um eine Besorgung in der Innenstadt zu machen?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-430|Ab welchem Preis würdest du zögern, eine aufladbare Fahrkarte für die Öffis zu kaufen?|Ab welchem Preis würdest du zögern, eine Karte für das Kino um die Ecke zu kaufen?|
+ville-431|Auf welcher Website oder in welchem Laden würdest du nach einem Erwachsenenticket für einen Sightseeing-Bus in Berlin suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Erwachseneneintritt in ein kostenpflichtiges städtisches Museum suchen?|Paris → Berlin
+ville-432|Was würdest du als Erstes tun, wenn die U-Bahn zwischen zwei Stationen stehen bleibt?|Was würdest du als Erstes tun, wenn dich ein Tourist nach dem Weg fragt?|
+ville-433|In welcher Situation würdest du dich entscheiden, eine Führung durchs Viertel zu buchen?|In welcher Situation würdest du dich entscheiden, ein Shuttle-Ticket zwischen Flughafen und Innenstadt zu kaufen?|
+ville-434|Wer könnte dir den besten Rat geben, um einen Freund im Berliner Hauptbahnhof zu finden?|Wer könnte dir den besten Rat geben, um eine Besorgung in der Innenstadt zu machen?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-435|Wann hättest du Lust, ein Erwachsenenticket für einen Sightseeing-Bus in Berlin zu kaufen?|Wann hättest du Lust, einen Erwachseneneintritt in ein kostenpflichtiges städtisches Museum zu kaufen?|Paris → Berlin
+ville-436|Zu welchem Anlass würdest du eine Nacht für zwei Personen in einem Hotel im Stadtzentrum buchen wollen?|Zu welchem Anlass würdest du einen Touristenpass für zwei Tage kaufen wollen?|
+ville-437|Wie würdest du reagieren, wenn du einen Geldbeutel auf dem Gehweg findest?|Wie würdest du reagieren, wenn die Straße, die du kennst, gesperrt ist?|
+ville-438|Wo würdest du zuerst nach einem Touristenpass für zwei Tage suchen?|Wo würdest du zuerst nach einer einfachen Fahrt mit dem Regionalzug über 50 km suchen?|TER → Regionalzug
+ville-439|Wo würdest du zuerst nach einer Vorstellung im Kino um die Ecke suchen?|Wo würdest du zuerst nach einem Ticket für die Hafenfähre suchen?|bateau-bus → Hafenfähre
+ville-440|Was kostet deiner Meinung nach ein Erwachseneneintritt in ein kostenpflichtiges städtisches Museum?|Was kostet deiner Meinung nach ein Einzelfahrschein für die Straßenbahn in Deutschland?|France → Deutschland
+ville-441|Was kostet deiner Meinung nach ein U-Bahn-Einzelfahrschein in Berlin?|Was kostet deiner Meinung nach eine Monatskarte für die Öffis in Berlin?|Paris → Berlin
+ville-442|Wann in der Woche würdest du am liebsten ein Café zum Arbeiten aussuchen?|Wann in der Woche würdest du dich am liebsten mit einem Freund im Berliner Hauptbahnhof treffen?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-443|Wenn du am Bahnhofsautomaten ein Regionalzugticket kaufen müsstest, was hätte für dich Priorität?|Wenn du eine Adresse ohne Navi finden müsstest, was hätte für dich Priorität?|
+ville-444|Welche Tageszeit wäre am praktischsten, um einen Wochenmarkt im Viertel zu besuchen?|Welche Tageszeit wäre am praktischsten, um eine Fahrradstrecke durch die Stadt zu planen?|
+ville-445|Welches Budget würdest du höchstens für eine Eintrittskarte für eine lokale Ausstellung einplanen?|Welches Budget würdest du höchstens für eine Nacht für zwei Personen in einem Hotel im Stadtzentrum einplanen?|
+ville-446|Bis zu wie viel würdest du für eine einfache Fahrt mit dem Regionalzug über 50 km zahlen?|Bis zu wie viel würdest du für einen U-Bahn-Einzelfahrschein in Berlin zahlen?|TER → Regionalzug, Paris → Berlin
+ville-447|Wen würdest du kontaktieren, damit er dir hilft, eine Fahrt mit den Öffis zu planen?|Wen würdest du kontaktieren, damit er dir hilft, für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt zu finden?|
+ville-448|Wie lange würdest du brauchen, um ein Café zum Arbeiten auszusuchen?|Wie lange würdest du brauchen, um einen Freund im Berliner Hauptbahnhof zu finden?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-449|Was würdest du als Erstes tun, wenn ein Bus an dir vorbeifährt, ohne anzuhalten?|Was würdest du als Erstes tun, wenn hinter dir ein Radfahrer klingelt?|
+ville-450|Was würdest du als Erstes tun, wenn dich ein Autofahrer vorlässt?|Was würdest du als Erstes tun, wenn der Fahrkartenautomat außer Betrieb ist?|
+ville-451|Was glaubst du, wie viel eine Stunde in einem Parkhaus in der Berliner Innenstadt kostet?|Was glaubst du, wie viel ein Kaffee draußen im Straßencafé kostet?|Paris → Berlin
+ville-452|Wie schnell könntest du einen Laden finden, der sonntags offen hat?|Wie schnell könntest du ein unbekanntes Viertel entdecken?|
+ville-453|Bis zu wie viel würdest du für ein Ticket für die Hafenfähre zahlen?|Bis zu wie viel würdest du für eine Eintrittskarte für eine lokale Ausstellung zahlen?|bateau-bus → Hafenfähre
+ville-454|Zu welchem Anlass würdest du ein gebrauchtes Stadtrad in gutem Zustand kaufen wollen, das weniger als fünf Jahre alt ist?|Zu welchem Anlass würdest du eine Führung durchs Viertel buchen wollen?|
+ville-455|Wen würdest du um Hilfe bitten, um einen Wochenmarkt im Viertel zu besuchen?|Wen würdest du um Hilfe bitten, um eine Fahrradstrecke durch die Stadt zu planen?|
+ville-456|Wer könnte dir den besten Rat geben, um am Bahnhofsautomaten ein Regionalzugticket zu kaufen?|Wer könnte dir den besten Rat geben, um eine Adresse ohne Navi zu finden?|
+ville-457|Wie lange braucht man deiner Meinung nach, um einen Umstieg zu planen?|Wie lange braucht man deiner Meinung nach, um einen Laden zu finden, der sonntags offen hat?|
+ville-458|Was wäre dein erster Reflex, wenn du merkst, dass du im falschen Bus sitzt?|Was wäre dein erster Reflex, wenn dir ein Passant eine unerwartete Abkürzung zeigt?|
+ville-459|Wer aus deinem Umfeld könnte dir helfen, eine Besorgung in der Innenstadt zu machen?|Wer aus deinem Umfeld könnte dir helfen, einen Wochenmarkt im Viertel zu besuchen?|
+ville-460|Wann wäre der beste Zeitpunkt, um für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt zu finden?|Wann wäre der beste Zeitpunkt, um ein Restaurant in der Nähe eines Bahnhofs ausfindig zu machen?|
+ville-461|Welches Detail würdest du prüfen, bevor du einen Wochenmarkt im Viertel besuchst?|Welches Detail würdest du prüfen, bevor du eine Fahrradstrecke durch die Stadt planst?|
+ville-462|Welches Detail würdest du prüfen, bevor du einen Rundgang durchs Viertel organisierst?|Welches Detail würdest du prüfen, bevor du zwei U-Bahn-Verbindungen vergleichst?|
+ville-463|Auf welcher Website oder in welchem Laden würdest du nach einem Shuttle-Ticket zwischen Flughafen und Innenstadt suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Abo für Leihfahrräder suchen?|
+ville-464|Was glaubst du, wie viel eine Taxifahrt von fünf Kilometern in Berlin kostet?|Was glaubst du, wie viel ein Erwachsenenticket für einen Sightseeing-Bus in Berlin kostet?|Paris → Berlin
+ville-465|Bis zu wie viel würdest du für ein Erwachsenenticket für einen Sightseeing-Bus in Berlin zahlen?|Bis zu wie viel würdest du für einen Erwachseneneintritt in ein kostenpflichtiges städtisches Museum zahlen?|Paris → Berlin
+ville-466|Was kostet deiner Ansicht nach ein gebrauchtes Stadtrad in gutem Zustand, das weniger als fünf Jahre alt ist?|Was kostet deiner Ansicht nach eine Führung durchs Viertel?|
+ville-467|Welches Detail würdest du prüfen, bevor du ein unbekanntes Viertel entdeckst?|Welches Detail würdest du prüfen, bevor du eine Fahrt mit den Öffis planst?|
+ville-468|Was kostet deiner Meinung nach ein Abo für Leihfahrräder?|Was kostet deiner Meinung nach eine aufladbare Fahrkarte für die Öffis?|
+ville-469|Bis zu wie viel würdest du für einen Kaffee draußen im Straßencafé zahlen?|Bis zu wie viel würdest du für ein Essen im Wirtshaus um die Ecke zahlen?|brasserie → Wirtshaus
+ville-470|Wo würdest du hingehen, um einen Erwachseneneintritt in ein kostenpflichtiges städtisches Museum zu bekommen?|Wo würdest du hingehen, um einen Einzelfahrschein für die Straßenbahn in Deutschland zu bekommen?|France → Deutschland
+ville-471|Wann in der Woche würdest du am liebsten eine Fahrt mit den Öffis planen?|Wann in der Woche würdest du am liebsten für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt suchen?|
+ville-472|In welcher Situation würdest du dich entscheiden, eine Stunde in einem Parkhaus in der Berliner Innenstadt zu bezahlen?|In welcher Situation würdest du dich entscheiden, einen Kaffee draußen im Straßencafé zu bestellen?|Paris → Berlin
+ville-473|Wen würdest du um Hilfe bitten, um eine Fahrt mitten in der Nacht zu planen?|Wen würdest du um Hilfe bitten, um ein Café zum Arbeiten auszusuchen?|
+ville-474|Wo würdest du zuerst nach einem Parkhaus in der Berliner Innenstadt für eine Stunde suchen?|Wo würdest du zuerst nach einem Kaffee draußen im Straßencafé suchen?|Paris → Berlin
+ville-475|Wie schnell könntest du einen Besichtigungstag in Rom ohne Auto organisieren?|Wie schnell könntest du ein Museum in der Nähe aussuchen?|
+ville-476|Wie lange würdest du brauchen, um eine Fahrradstrecke durch die Stadt zu planen?|Wie lange würdest du brauchen, um ein ruhiges Straßencafé zu finden, weniger als zehn Minuten zu Fuß entfernt?|
+ville-477|Was kostet deiner Ansicht nach eine aufladbare Fahrkarte für die Öffis?|Was kostet deiner Ansicht nach eine Vorstellung im Kino um die Ecke?|
+ville-478|Was kostet deiner Ansicht nach ein Einzelfahrschein für die Straßenbahn in Deutschland?|Was kostet deiner Ansicht nach eine Stunde in einem Parkhaus in der Berliner Innenstadt?|France → Deutschland, Paris → Berlin
+ville-479|Wie lange würdest du brauchen, um zwei U-Bahn-Verbindungen zu vergleichen?|Wie lange würdest du brauchen, um am Bahnhofsautomaten ein Regionalzugticket zu kaufen?|
+ville-480|Wer könnte dir den besten Rat geben, um für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt zu finden?|Wer könnte dir den besten Rat geben, um ein Restaurant in der Nähe eines Bahnhofs ausfindig zu machen?|
+ville-481|Was würde dich dazu bringen, einen Erwachseneneintritt in ein kostenpflichtiges städtisches Museum zu kaufen?|Was würde dich dazu bringen, einen Einzelfahrschein für die Straßenbahn in Deutschland zu kaufen?|France → Deutschland
+ville-482|Was kostet deiner Meinung nach eine Eintrittskarte für eine lokale Ausstellung?|Was kostet deiner Meinung nach eine Nacht für zwei Personen in einem Hotel im Stadtzentrum?|
+ville-483|Wann hättest du Lust, einen Kaffee draußen im Straßencafé zu trinken?|Wann hättest du Lust, einen Tisch im Wirtshaus um die Ecke zu reservieren?|brasserie → Wirtshaus
+ville-484|Wen würdest du kontaktieren, damit er dir hilft, eine Fahrradstrecke durch die Stadt zu planen?|Wen würdest du kontaktieren, damit er dir hilft, ein ruhiges Straßencafé zu finden, weniger als zehn Minuten zu Fuß entfernt?|
+ville-485|Was würde dich dazu bringen, einen U-Bahn-Einzelfahrschein in Berlin zu kaufen?|Was würde dich dazu bringen, eine Monatskarte für die Öffis in Berlin zu kaufen?|Paris → Berlin
+ville-486|Was wäre deine erste Reaktion, wenn dir ein Freund den falschen Treffpunkt nennt?|Was wäre deine erste Reaktion, wenn dich ein Autofahrer vorlässt?|
+ville-487|Wo würdest du hingehen, um eine Eintrittskarte für eine lokale Ausstellung zu bekommen?|Wo würdest du hingehen, um eine Nacht für zwei Personen in einem Hotel im Stadtzentrum zu finden?|
+ville-488|Welchen Preis stellst du dir für einen Kaffee draußen im Straßencafé vor?|Welchen Preis stellst du dir für ein Essen im Wirtshaus um die Ecke vor?|brasserie → Wirtshaus
+ville-489|Wann in der Woche würdest du am liebsten eine Fahrradstrecke durch die Stadt planen?|Wann in der Woche würdest du am liebsten ein ruhiges Straßencafé suchen, weniger als zehn Minuten zu Fuß entfernt?|
+ville-490|Ab welchem Preis würdest du zögern, ein gebrauchtes Stadtrad in gutem Zustand zu kaufen, das weniger als fünf Jahre alt ist?|Ab welchem Preis würdest du zögern, eine Führung durchs Viertel zu buchen?|
+ville-491|Wer aus deinem Umfeld könnte dir helfen, einen Besichtigungstag in Rom ohne Auto zu organisieren?|Wer aus deinem Umfeld könnte dir helfen, ein Museum in der Nähe auszusuchen?|
+ville-492|In welcher Situation würdest du dich entscheiden, einen Touristenpass für zwei Tage zu kaufen?|In welcher Situation würdest du dich entscheiden, eine einfache Fahrt mit dem Regionalzug über 50 km zu kaufen?|TER → Regionalzug
+ville-493|Wann hättest du Lust, eine einfache Fahrt mit dem Regionalzug über 50 km zu kaufen?|Wann hättest du Lust, einen U-Bahn-Einzelfahrschein in Berlin zu kaufen?|TER → Regionalzug, Paris → Berlin
+ville-494|Was würdest du spontan sagen, wenn du den falschen U-Bahn-Ausgang nimmst?|Was würdest du spontan sagen, wenn ein Bus an dir vorbeifährt, ohne anzuhalten?|
+ville-495|Welches Budget würdest du höchstens für ein Abo für Leihfahrräder einplanen?|Welches Budget würdest du höchstens für eine aufladbare Fahrkarte für die Öffis einplanen?|
+ville-496|Was wäre für dich das Schwierigste daran, ein Café zum Arbeiten auszusuchen?|Was wäre für dich das Schwierigste daran, einen Freund im Berliner Hauptbahnhof zu finden?|gare de Lyon à Paris → Berliner Hauptbahnhof
+ville-497|Welches Budget würdest du höchstens für einen U-Bahn-Einzelfahrschein in Berlin einplanen?|Welches Budget würdest du höchstens für eine Monatskarte für die Öffis in Berlin einplanen?|Paris → Berlin
+ville-498|Wie würdest du reagieren, wenn der Fahrkartenautomat außer Betrieb ist?|Wie würdest du reagieren, wenn du merkst, dass du im falschen Bus sitzt?|
+ville-499|Was würde dich dazu bringen, ein Abo für Leihfahrräder abzuschließen?|Was würde dich dazu bringen, eine aufladbare Fahrkarte für die Öffis zu kaufen?|
+ville-500|Wie würdest du reagieren, wenn dich ein Tourist nach dem Weg fragt?|Wie würdest du reagieren, wenn der Fahrer an deiner Haltestelle vorbeifährt?|
+ville-501|Worauf würde es am meisten ankommen, wenn du ein Restaurant in der Nähe eines Bahnhofs ausfindig machst?|Worauf würde es am meisten ankommen, wenn du einen Rundgang durchs Viertel organisierst?|
+ville-502|Was wäre für dich das Schwierigste daran, eine rollstuhlgerechte Spazierroute zu finden?|Was wäre für dich das Schwierigste daran, einen Umstieg zu planen?|
+ville-503|Wie würdest du reagieren, wenn hinter dir ein Radfahrer klingelt?|Wie würdest du reagieren, wenn dich ein Fußgänger nach der Uhrzeit fragt?|
+ville-504|Wie viel Zeit würdest du einplanen, um eine Fahrt mitten in der Nacht zu planen?|Wie viel Zeit würdest du einplanen, um ein Café zum Arbeiten auszusuchen?|
+ville-505|Wann hättest du Lust, ein Shuttle-Ticket zwischen Flughafen und Innenstadt zu kaufen?|Wann hättest du Lust, ein Abo für Leihfahrräder abzuschließen?|
+ville-506|Zu welchem Anlass würdest du eine Monatskarte für die Öffis in Berlin kaufen wollen?|Zu welchem Anlass würdest du eine Taxifahrt von fünf Kilometern in Berlin bezahlen wollen?|Paris → Berlin
+ville-507|Wer könnte dir den besten Rat geben, um einen Umstieg zu planen?|Wer könnte dir den besten Rat geben, um einen Laden zu finden, der sonntags offen hat?|
+ville-508|Bis zu wie viel würdest du für ein Shuttle-Ticket zwischen Flughafen und Innenstadt zahlen?|Bis zu wie viel würdest du für ein Abo für Leihfahrräder zahlen?|
+ville-509|Was würdest du spontan sagen, wenn dein Zug in letzter Minute das Gleis wechselt?|Was würdest du spontan sagen, wenn dich ein Fremder bittet, ein Foto zu machen?|
+ville-510|Was würdest du spontan sagen, wenn dir ein Freund den falschen Treffpunkt nennt?|Was würdest du spontan sagen, wenn dich ein Autofahrer vorlässt?|
+ville-511|Wie lange würdest du brauchen, um eine Fahrt mit den Öffis zu planen?|Wie lange würdest du brauchen, um für zwei Stunden einen gebührenpflichtigen Parkplatz in der Innenstadt zu finden?|
+ville-512|Wo würdest du hingehen, um einen Einzelfahrschein für die Straßenbahn in Deutschland zu kaufen?|Wo würdest du hingehen, um eine Stunde in einem Parkhaus in der Berliner Innenstadt zu bezahlen?|France → Deutschland, Paris → Berlin
+ville-513|Wie lange braucht man deiner Meinung nach, um ein ruhiges Straßencafé zu finden, weniger als zehn Minuten zu Fuß entfernt?|Wie lange braucht man deiner Meinung nach, um einen Besichtigungstag in Rom ohne Auto zu organisieren?|
+ville-514|In welcher Situation würdest du dich entscheiden, eine Taxifahrt von fünf Kilometern in Berlin zu nehmen?|In welcher Situation würdest du dich entscheiden, ein Erwachsenenticket für einen Sightseeing-Bus in Berlin zu kaufen?|Paris → Berlin
+ville-515|Wie würdest du antworten, wenn der Fahrer an deiner Haltestelle vorbeifährt?|Wie würdest du antworten, wenn du den falschen U-Bahn-Ausgang nimmst?|
+ville-516|Zu welchem Anlass würdest du einen Einzelfahrschein für die Straßenbahn in Deutschland kaufen wollen?|Zu welchem Anlass würdest du eine Stunde in einem Parkhaus in der Berliner Innenstadt bezahlen wollen?|France → Deutschland, Paris → Berlin
+ville-517|Wann wäre der beste Zeitpunkt, um ein ruhiges Straßencafé zu finden, weniger als zehn Minuten zu Fuß entfernt?|Wann wäre der beste Zeitpunkt, um einen Besichtigungstag in Rom ohne Auto zu organisieren?|
+ville-518|Wo würdest du zuerst nach einer Führung durchs Viertel suchen?|Wo würdest du zuerst nach einem Shuttle-Ticket zwischen Flughafen und Innenstadt suchen?|
+ville-519|Was wäre dein erster Reflex, wenn die Anzeige an der Haltestelle keine Abfahrtszeiten mehr anzeigt?|Was wäre dein erster Reflex, wenn dir ein Freund den falschen Treffpunkt nennt?|
+ville-520|Was würdest du sagen, wenn dich ein Fremder bittet, ein Foto zu machen?|Was würdest du sagen, wenn du einen Geldbeutel auf dem Gehweg findest?|
+ville-521|Worauf würde es am meisten ankommen, wenn du eine Besorgung in der Innenstadt machst?|Worauf würde es am meisten ankommen, wenn du einen Wochenmarkt im Viertel besuchst?|
+ville-522|Wie würdest du antworten, wenn die Anzeige an der Haltestelle keine Abfahrtszeiten mehr anzeigt?|Wie würdest du antworten, wenn dir ein Freund den falschen Treffpunkt nennt?|
+ville-523|Worauf würde es am meisten ankommen, wenn du eine Adresse ohne Navi finden willst?|Worauf würde es am meisten ankommen, wenn du eine Fahrt mitten in der Nacht planst?|
+ville-524|Welche Tageszeit würdest du wählen, um eine Adresse ohne Navi zu finden?|Welche Tageszeit würdest du wählen, um eine Fahrt mitten in der Nacht zu planen?|
+ville-525|Was wäre dein erster Reflex, wenn dich ein Fußgänger nach der Uhrzeit fragt?|Was wäre dein erster Reflex, wenn dein Zug in letzter Minute das Gleis wechselt?|
+ville-526|Auf welcher Website oder in welchem Laden würdest du nach einem Kaffee draußen im Straßencafé suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Essen im Wirtshaus um die Ecke suchen?|brasserie → Wirtshaus
+ville-527|Was würdest du als Erstes tun, wenn dich ein Fremder bittet, ein Foto zu machen?|Was würdest du als Erstes tun, wenn du einen Geldbeutel auf dem Gehweg findest?|
+ville-528|Wer aus deinem Umfeld könnte dir helfen, ein Restaurant in der Nähe eines Bahnhofs ausfindig zu machen?|Wer aus deinem Umfeld könnte dir helfen, einen Rundgang durchs Viertel zu organisieren?|
+ville-529|Welches Budget würdest du höchstens für einen Erwachseneneintritt in ein kostenpflichtiges städtisches Museum einplanen?|Welches Budget würdest du höchstens für einen Einzelfahrschein für die Straßenbahn in Deutschland einplanen?|France → Deutschland
+ville-530|Welcher Satz käme dir über die Lippen, wenn du einen Geldbeutel auf dem Gehweg findest?|Welcher Satz käme dir über die Lippen, wenn die Straße, die du kennst, gesperrt ist?|
+ville-531|Was würdest du sagen, wenn ein Bus an dir vorbeifährt, ohne anzuhalten?|Was würdest du sagen, wenn hinter dir ein Radfahrer klingelt?|

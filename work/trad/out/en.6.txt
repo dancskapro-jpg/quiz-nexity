@@ -69,7 +69,7 @@ ville-400|Who would you get in touch with to help you find a walking route that'
 ville-401|Who would you get in touch with to help you compare two Tube routes?|Who would you get in touch with to help you buy a regional train ticket from the machine at the station?|métro → Tube
 ville-402|What time of day would you pick to look for a shop that's open on a Sunday?|What time of day would you pick to explore a neighbourhood you don't know?|
 ville-403|What would be the most important thing when planning a day of sightseeing in Rome without a car?|What would be the most important thing when choosing a museum nearby?|
-ville-404|What detail would you check before choosing a museum nearby?|What detail would you check before picking a walking route that's wheelchair accessible?|
+ville-404|What detail would you check before choosing a museum nearby?|What detail would you check before finding a walking route that's wheelchair accessible?|
 ville-405|How much would you be willing to spend on a guided tour of a neighbourhood?|How much would you be willing to spend on a shuttle ticket between an airport and the city centre?|
 ville-406|What would be the most important thing when looking for a shop that's open on a Sunday?|What would be the most important thing when exploring a neighbourhood you don't know?|
 ville-407|What would make you buy a ticket to a local exhibition?|What would make you book a night for two in a city-centre hotel?|
@@ -98,3 +98,503 @@ ville-429|How long do you reckon it takes to meet up with a friend at King's Cro
 ville-430|Above what price would you think twice about buying a top-up travel card?|Above what price would you think twice about buying a ticket for a showing at your local cinema?|
 ville-431|Which website or shop would you look on for an adult ticket for a sightseeing bus in London?|Which website or shop would you look on for adult entry to a council-run museum that charges admission?|Paris → Londres
 ville-432|What would you do first if the Tube stops between two stations?|What would you do first if a tourist asks you for directions?|métro → Tube
+ville-433|In what situation would you decide to book a guided tour of a neighbourhood?|In what situation would you decide to buy a shuttle ticket between an airport and the city centre?|
+ville-434|Who could give you the best advice on how to meet a friend at King's Cross station in London?|Who could give you the best advice on how to run an errand in the city centre?|gare de Lyon à Paris → King's Cross à Londres
+ville-435|When would you feel like buying an adult ticket for a sightseeing bus in London?|When would you feel like buying adult entry to a council-run museum that charges admission?|Paris → Londres
+ville-436|For what occasion would you want to book a night for two in a city-centre hotel?|For what occasion would you want to buy a two-day tourist pass?|
+ville-437|How would you react if you find a wallet on the pavement?|How would you react if the street you know is closed off?|
+ville-438|Where would you look first for a two-day tourist pass?|Where would you look first for a one-way regional train ticket for a 50-km journey?|TER → train régional
+ville-439|Where would you look first for a showing at your local cinema?|Where would you look first for a river bus ticket?|
+ville-440|How much do you reckon adult entry to a council-run museum that charges admission costs?|How much do you reckon a single tram ticket in the UK costs?|France → Royaume-Uni
+ville-441|How much do you reckon a single Tube ticket in London costs?|How much do you reckon a monthly public transport pass in London costs?|Paris → Londres, métro → Tube
+ville-442|When in the week would you rather choose a café to work in?|When in the week would you rather meet a friend at King's Cross station in London?|gare de Lyon à Paris → King's Cross à Londres
+ville-443|If you had to buy a regional train ticket from the machine at the station, what would your priority be?|If you had to find an address without satnav, what would your priority be?|
+ville-444|Which time of day would be most convenient to visit a local market?|Which time of day would be most convenient to plan a bike ride across town?|
+ville-445|What's the most you'd budget for a ticket to a local exhibition?|What's the most you'd budget for a night for two in a city-centre hotel?|
+ville-446|What's the most you'd pay for a one-way regional train ticket for a 50-km journey?|What's the most you'd pay for a single Tube ticket in London?|TER → train régional, métro de Paris → Tube de Londres
+ville-447|Who would you get in touch with to help you plan a journey on public transport?|Who would you get in touch with to help you find a pay-and-display parking space for two hours in the city centre?|
+ville-448|How long would it take you to choose a café to work in?|How long would it take you to meet up with a friend at King's Cross station in London?|gare de Lyon à Paris → King's Cross à Londres
+ville-449|What would you do first if a bus drives straight past you without stopping?|What would you do first if a cyclist rings their bell behind you?|
+ville-450|What would you do first if a driver lets you cross?|What would you do first if the ticket machine is out of order?|
+ville-451|How much do you think an hour in a car park in central London is worth?|How much do you think a coffee on a café terrace is worth?|Paris → Londres
+ville-452|How quickly could you find a shop that's open on a Sunday?|How quickly could you explore a neighbourhood you don't know?|
+ville-453|What's the most you'd pay for a river bus ticket?|What's the most you'd pay for a ticket to a local exhibition?|
+ville-454|For what occasion would you want to buy a second-hand city bike in good nick, less than five years old?|For what occasion would you want to book a guided tour of a neighbourhood?|
+ville-455|Who would you ask for help with visiting a local market?|Who would you ask for help with planning a bike ride across town?|
+ville-456|Who could give you the best advice on how to buy a regional train ticket from the machine at the station?|Who could give you the best advice on how to find an address without satnav?|
+ville-457|How long do you reckon it takes to plan a change between lines?|How long do you reckon it takes to find a shop that's open on a Sunday?|
+ville-458|What would your first instinct be if you realise you're on the wrong bus?|What would your first instinct be if a passer-by shows you an unexpected shortcut?|
+ville-459|Who in your circle could help you run an errand in the city centre?|Who in your circle could help you visit a local market?|
+ville-460|When would be the best time to find a pay-and-display parking space for two hours in the city centre?|When would be the best time to scout out a restaurant near a station?|
+ville-461|What detail would you check before visiting a local market?|What detail would you check before planning a bike ride across town?|
+ville-462|What detail would you check before organising a tour of a neighbourhood?|What detail would you check before comparing two Tube routes?|métro → Tube
+ville-463|Which website or shop would you look on for a shuttle ticket between an airport and the city centre?|Which website or shop would you look on for a bike-share membership?|
+ville-464|How much do you think a five-kilometre taxi ride in London is worth?|How much do you think an adult ticket for a sightseeing bus in London is worth?|Paris → Londres
+ville-465|What's the most you'd pay for an adult ticket for a sightseeing bus in London?|What's the most you'd pay for adult entry to a council-run museum that charges admission?|Paris → Londres
+ville-466|In your opinion, how much is a second-hand city bike in good nick, less than five years old?|In your opinion, how much is a guided tour of a neighbourhood?|
+ville-467|What detail would you check before exploring a neighbourhood you don't know?|What detail would you check before planning a journey on public transport?|
+ville-468|How much do you reckon a bike-share membership costs?|How much do you reckon a top-up travel card costs?|
+ville-469|What's the most you'd pay for a coffee on a café terrace?|What's the most you'd pay for a meal at a local pub?|brasserie → pub
+ville-470|Where would you go to get adult entry to a council-run museum that charges admission?|Where would you go to get a single tram ticket in the UK?|France → Royaume-Uni
+ville-471|When in the week would you rather plan a journey on public transport?|When in the week would you rather find a pay-and-display parking space for two hours in the city centre?|
+ville-472|In what situation would you decide to pay for an hour in a car park in central London?|In what situation would you decide to buy a coffee on a café terrace?|Paris → Londres
+ville-473|Who would you ask for help with planning a journey at night?|Who would you ask for help with choosing a café to work in?|
+ville-474|Where would you look first for an hour's parking in a car park in central London?|Where would you look first for a coffee on a café terrace?|Paris → Londres
+ville-475|How quickly could you plan a day of sightseeing in Rome without a car?|How quickly could you choose a museum nearby?|
+ville-476|How long would it take you to plan a bike ride across town?|How long would it take you to find a quiet café terrace less than ten minutes' walk away?|
+ville-477|In your opinion, how much is a top-up travel card?|In your opinion, how much is a showing at your local cinema?|
+ville-478|In your opinion, how much is a single tram ticket in the UK?|In your opinion, how much is an hour in a car park in central London?|France → Royaume-Uni, Paris → Londres
+ville-479|How long would it take you to compare two Tube routes?|How long would it take you to buy a regional train ticket from the machine at the station?|métro → Tube
+ville-480|Who could give you the best advice on how to find a pay-and-display parking space for two hours in the city centre?|Who could give you the best advice on how to scout out a restaurant near a station?|
+ville-481|What would make you buy adult entry to a council-run museum that charges admission?|What would make you buy a single tram ticket in the UK?|France → Royaume-Uni
+ville-482|How much do you reckon a ticket to a local exhibition costs?|How much do you reckon a night for two in a city-centre hotel costs?|
+ville-483|When would you feel like buying a coffee on a café terrace?|When would you feel like booking a meal at a local pub?|brasserie → pub
+ville-484|Who would you get in touch with to help you plan a bike ride across town?|Who would you get in touch with to help you find a quiet café terrace less than ten minutes' walk away?|
+ville-485|What would make you buy a single Tube ticket in London?|What would make you buy a monthly public transport pass in London?|Paris → Londres, métro → Tube
+ville-486|What would your first reaction be if a friend gives you the wrong meeting place?|What would your first reaction be if a driver lets you cross?|
+ville-487|Where would you go to get a ticket to a local exhibition?|Where would you go to get a night for two in a city-centre hotel?|
+ville-488|What price would you guess for a coffee on a café terrace?|What price would you guess for a meal at a local pub?|brasserie → pub
+ville-489|When in the week would you rather plan a bike ride across town?|When in the week would you rather find a quiet café terrace less than ten minutes' walk away?|
+ville-490|Above what price would you think twice about buying a second-hand city bike in good nick, less than five years old?|Above what price would you think twice about booking a guided tour of a neighbourhood?|
+ville-491|Who in your circle could help you plan a day of sightseeing in Rome without a car?|Who in your circle could help you choose a museum nearby?|
+ville-492|In what situation would you decide to buy a two-day tourist pass?|In what situation would you decide to buy a one-way regional train ticket for a 50-km journey?|TER → train régional
+ville-493|When would you feel like buying a one-way regional train ticket for a 50-km journey?|When would you feel like buying a single Tube ticket in London?|TER → train régional, métro de Paris → Tube de Londres
+ville-494|What would you say on the spot if you take the wrong exit out of the Tube station?|What would you say on the spot if a bus drives straight past you without stopping?|métro → Tube
+ville-495|What's the most you'd budget for a bike-share membership?|What's the most you'd budget for a top-up travel card?|
+ville-496|What would you find hardest about choosing a café to work in?|What would you find hardest about meeting a friend at King's Cross station in London?|gare de Lyon à Paris → King's Cross à Londres
+ville-497|What's the most you'd budget for a single Tube ticket in London?|What's the most you'd budget for a monthly public transport pass in London?|Paris → Londres, métro → Tube
+ville-498|How would you react if the ticket machine is out of order?|How would you react if you realise you're on the wrong bus?|
+ville-499|What would make you buy a bike-share membership?|What would make you buy a top-up travel card?|
+ville-500|How would you react if a tourist asks you for directions?|How would you react if a driver misses your stop?|
+ville-501|What would be the most important thing when scouting out a restaurant near a station?|What would be the most important thing when organising a tour of a neighbourhood?|
+ville-502|What would you find hardest about finding a walking route that's wheelchair accessible?|What would you find hardest about planning a change between lines?|
+ville-503|How would you react if a cyclist rings their bell behind you?|How would you react if someone on the street asks you the time?|
+ville-504|How much time would you set aside to plan a journey at night?|How much time would you set aside to choose a café to work in?|
+ville-505|When would you feel like buying a shuttle ticket between an airport and the city centre?|When would you feel like buying a bike-share membership?|
+ville-506|For what occasion would you want to buy a monthly public transport pass in London?|For what occasion would you want to take a five-kilometre taxi ride in London?|Paris → Londres
+ville-507|Who could give you the best advice on how to plan a change between lines?|Who could give you the best advice on how to find a shop that's open on a Sunday?|
+ville-508|What's the most you'd pay for a shuttle ticket between an airport and the city centre?|What's the most you'd pay for a bike-share membership?|
+ville-509|What would you say on the spot if your train changes platform at the last minute?|What would you say on the spot if a stranger asks you to take a photo?|
+ville-510|What would you say on the spot if a friend gives you the wrong meeting place?|What would you say on the spot if a driver lets you cross?|
+ville-511|How long would it take you to plan a journey on public transport?|How long would it take you to find a pay-and-display parking space for two hours in the city centre?|
+ville-512|Where would you go to buy a single tram ticket in the UK?|Where would you go to pay for an hour in a car park in central London?|France → Royaume-Uni, Paris → Londres
+ville-513|How long do you reckon it takes to find a quiet café terrace less than ten minutes' walk away?|How long do you reckon it takes to plan a day of sightseeing in Rome without a car?|
+ville-514|In what situation would you decide to take a five-kilometre taxi ride in London?|In what situation would you decide to buy an adult ticket for a sightseeing bus in London?|Paris → Londres
+ville-515|How would you respond if a driver misses your stop?|How would you respond if you take the wrong exit out of the Tube station?|métro → Tube
+ville-516|For what occasion would you want to buy a single tram ticket in the UK?|For what occasion would you want to pay for an hour in a car park in central London?|France → Royaume-Uni, Paris → Londres
+ville-517|When would be the best time to find a quiet café terrace less than ten minutes' walk away?|When would be the best time to plan a day of sightseeing in Rome without a car?|
+ville-518|Where would you look first for a guided tour of a neighbourhood?|Where would you look first for a shuttle ticket between an airport and the city centre?|
+ville-519|What would your first instinct be if the display at the stop stops showing the times?|What would your first instinct be if a friend gives you the wrong meeting place?|
+ville-520|What would you say if a stranger asks you to take a photo?|What would you say if you find a wallet on the pavement?|
+ville-521|What would be the most important thing when running an errand in the city centre?|What would be the most important thing when visiting a local market?|
+ville-522|How would you respond if the display at the stop stops showing the times?|How would you respond if a friend gives you the wrong meeting place?|
+ville-523|What would be the most important thing when finding an address without satnav?|What would be the most important thing when planning a journey at night?|
+ville-524|What time of day would you pick to find an address without satnav?|What time of day would you pick to plan a journey at night?|
+ville-525|What would your first instinct be if someone on the street asks you the time?|What would your first instinct be if your train changes platform at the last minute?|
+ville-526|Which website or shop would you look on for a coffee on a café terrace?|Which website or shop would you look on for a meal at a local pub?|brasserie → pub
+ville-527|What would you do first if a stranger asks you to take a photo?|What would you do first if you find a wallet on the pavement?|
+ville-528|Who in your circle could help you scout out a restaurant near a station?|Who in your circle could help you organise a tour of a neighbourhood?|
+ville-529|What's the most you'd budget for adult entry to a council-run museum that charges admission?|What's the most you'd budget for a single tram ticket in the UK?|France → Royaume-Uni
+ville-530|What would come out of your mouth if you find a wallet on the pavement?|What would come out of your mouth if the street you know is closed off?|
+ville-531|What would you say if a bus drives straight past you without stopping?|What would you say if a cyclist rings their bell behind you?|
+ville-532|How would you respond if someone on the street asks you the time?|How would you respond if your train changes platform at the last minute?|
+imaginaire-332|How long would it take you to plan a completely free day?|How long would it take you to dream up your ideal house?|
+imaginaire-333|In your opinion, how much is a 60 m² house less than 500 metres from the beach in Cornwall?|In your opinion, how much is a three-day surprise break for two in Rome, travel included?|Bretagne → Cornouailles
+imaginaire-334|Who would you ask for help with preparing a surprise for everyone close to you?|Who would you ask for help with planning a completely free day?|
+imaginaire-335|Who in your circle could help you set yourself a personal challenge for the year?|Who in your circle could help you choose a destination to keep going back to?|
+imaginaire-336|Above what price would you think twice about renting a lakeside cabin for a weekend?|Above what price would you think twice about buying a big workshop for your hobbies?|
+imaginaire-337|How much do you think a big workshop for your hobbies is worth?|How much do you think a made-to-measure home library is worth?|
+imaginaire-338|How would you react if you were given an extra hour every morning?|How would you react if you could ask your future self one question?|
+imaginaire-339|What would be the most important thing when planning a huge party with no limits?|What would be the most important thing when choosing an activity to try out for free?|
+imaginaire-340|How long would it take you to make a list of dream trips?|How long would it take you to choose a skill to learn quickly?|
+imaginaire-341|In what situation would you decide to buy an unlimited cinema pass?|In what situation would you decide to book a stay in a foreign city?|
+imaginaire-342|How much would you be willing to spend on a three-day surprise break for two in Rome, travel included?|How much would you be willing to spend on a week in a dream hotel?|
+imaginaire-343|How much do you think an unlimited cinema pass is worth?|How much do you think a stay in a foreign city is worth?|
+imaginaire-344|How much do you think hiring a small boat for a day is worth?|How much do you think a home gym is worth?|
+imaginaire-345|What would make you buy a return flight to somewhere in Europe with flexible dates?|What would make you book a lakeside cabin for a weekend?|
+imaginaire-346|What price would you guess for a week in a dream hotel?|What price would you guess for a private lesson with an expert?|
+imaginaire-347|How much time would you set aside to choose an activity to try out for free?|How much time would you set aside to plan a trip with your best friend?|
+imaginaire-348|In what situation would you decide to buy a big workshop for your hobbies?|In what situation would you decide to buy a made-to-measure home library?|
+imaginaire-349|What would you find hardest about planning a trip with your best friend?|What would you find hardest about imagining a week without your phone?|
+imaginaire-350|Where would you go to find a garden set up for reading?|Where would you go to find a classic car to hire for a day?|
+imaginaire-351|What would make you book a three-month train trip across several countries?|What would make you buy a 60 m² house less than 500 metres from the beach in Cornwall?|Bretagne → Cornouailles
+imaginaire-352|In your opinion, how much does it cost to rent a lakeside cabin for a weekend?|In your opinion, how much is a big workshop for your hobbies?|
+imaginaire-353|If you had to choose a skill to learn quickly, what would your priority be?|If you had to reorganise your ideal schedule, what would your priority be?|
+imaginaire-354|What would be the most important thing when choosing a job to try out for a day?|What would be the most important thing when organising a dinner with famous people?|
+imaginaire-355|How long would it take you to plan a trip with your best friend?|How long would it take you to imagine a week without your phone?|
+imaginaire-356|What's the most you'd budget for a garden set up for reading?|What's the most you'd budget for hiring a classic car for a day?|
+imaginaire-357|What would your first reaction be if you could invite five people to a big dinner?|What would your first reaction be if you had a library with every book in the world?|
+imaginaire-358|How would you respond if you could try out any job for a day?|How would you respond if you found a letter written by you ten years from now?|
+imaginaire-359|What's the most you'd budget for a weekend in a castle?|What's the most you'd budget for an intimate private concert?|
+imaginaire-360|When would you feel like booking a stay in a foreign city?|When would you feel like booking a weekend in a castle?|
+imaginaire-361|Where would you look first to hire a small boat for a day?|Where would you look first for a home gym?|
+imaginaire-362|If you had to imagine a week without your phone, what would your priority be?|If you had to set yourself a personal challenge for the year, what would your priority be?|
+imaginaire-363|When would be the best time to choose a new city to live in?|When would be the best time to plan a trip with no budget limit?|
+imaginaire-364|How much time would you set aside to prepare a surprise for everyone close to you?|How much time would you set aside to plan a completely free day?|
+imaginaire-365|What would your first reaction be if you found a letter written by you ten years from now?|What would your first reaction be if you were given a house in the city of your choice?|
+imaginaire-366|What would be the most important thing when reorganising your ideal schedule?|What would be the most important thing when preparing a surprise for everyone close to you?|
+imaginaire-367|Where would you go to find a private lesson with an expert?|Where would you go to find a dinner for two cooked at home by a chef?|
+imaginaire-368|In your opinion, how much is a dinner for two cooked at home by a chef?|In your opinion, how much is an unlimited cinema pass?|
+imaginaire-369|What price would you guess for a home gym?|What price would you guess for a garden set up for reading?|
+imaginaire-370|What would you do first if you won a trip without knowing the destination?|What would you do first if you were offered a whole year off?|
+imaginaire-371|What would you say on the spot if a stranger offered you a ticket to any country?|What would you say on the spot if you had free entry to every museum?|
+imaginaire-372|In what situation would you decide to buy a supercar driving experience with an instructor?|In what situation would you decide to book an artistic creation retreat?|
+imaginaire-373|Which time of day would be most convenient to choose an activity to try out for free?|Which time of day would be most convenient to plan a trip with your best friend?|
+imaginaire-374|What would make you buy a garden set up for reading?|What would make you book a classic car for a day?|
+imaginaire-375|How quickly could you set yourself a personal challenge for the year?|How quickly could you choose a destination to keep going back to?|
+imaginaire-376|What price would you guess for a stay in a foreign city?|What price would you guess for a weekend in a castle?|
+imaginaire-377|What's the most you'd pay for an artistic creation retreat?|What's the most you'd pay for a return flight to somewhere in Europe with flexible dates?|
+imaginaire-378|How would you react if you were offered a three-month train trip?|How would you react if you could redo a day that went badly?|
+imaginaire-379|For what occasion would you want to buy a dinner for two cooked at home by a chef?|For what occasion would you want to buy an unlimited cinema pass?|
+imaginaire-380|How long do you reckon it takes to choose a skill to learn quickly?|How long do you reckon it takes to reorganise your ideal schedule?|
+imaginaire-381|When would be the best time to plan a gap year?|When would be the best time to choose a job to try out for a day?|
+imaginaire-382|How much do you reckon a private lesson with an expert costs?|How much do you reckon a dinner for two cooked at home by a chef costs?|
+imaginaire-383|Which time of day would be most convenient to prepare a surprise for everyone close to you?|Which time of day would be most convenient to plan a completely free day?|
+imaginaire-384|What detail would you check before organising a dinner with famous people?|What detail would you check before making a list of dream trips?|
+imaginaire-385|What time of day would you pick to plan a huge party with no limits?|What time of day would you pick to choose an activity to try out for free?|
+imaginaire-386|Who could give you the best advice on how to imagine a week without your phone?|Who could give you the best advice on how to set yourself a personal challenge for the year?|
+imaginaire-387|What's the most you'd pay for a week in a dream hotel?|What's the most you'd pay for a private lesson with an expert?|
+imaginaire-388|What would make you buy a private lesson with an expert?|What would make you buy a dinner for two cooked at home by a chef?|
+imaginaire-389|What would you do first if you had free entry to every museum?|What would you do first if you were given an extra hour every morning?|
+imaginaire-390|What time of day would you pick to reorganise your ideal schedule?|What time of day would you pick to prepare a surprise for everyone close to you?|
+imaginaire-391|How much do you think a three-day surprise break for two in Rome, travel included, is worth?|How much do you think a week in a dream hotel is worth?|
+imaginaire-392|In your opinion, how much is an intimate private concert?|In your opinion, how much does it cost to hire a small boat for a day?|
+imaginaire-393|What would be the most important thing when setting yourself a personal challenge for the year?|What would be the most important thing when choosing a destination to keep going back to?|
+imaginaire-394|What would you say if you won a trip without knowing the destination?|What would you say if you were offered a whole year off?|
+imaginaire-395|What would make you book a weekend in a castle?|What would make you pay for an intimate private concert?|
+imaginaire-396|Who would you get in touch with to help you plan a month of free-and-easy holiday?|Who would you get in touch with to help you choose a new city to live in?|
+imaginaire-397|What's the most you'd pay for a stay in a foreign city?|What's the most you'd pay for a weekend in a castle?|
+imaginaire-398|Above what price would you think twice about paying for an intimate private concert?|Above what price would you think twice about hiring a small boat for a day?|
+imaginaire-399|What would you say on the spot if you were given a budget to make a dream come true?|What would you say on the spot if you could pick up a new skill instantly?|
+imaginaire-400|How much time would you set aside to organise a dinner with famous people?|How much time would you set aside to make a list of dream trips?|
+imaginaire-401|What would you find hardest about planning a completely free day?|What would you find hardest about dreaming up your ideal house?|
+imaginaire-402|What would come out of your mouth if you could relive just one happy day?|What would come out of your mouth if you could spend an evening with your favourite artist?|
+imaginaire-403|Where would you look first for a big workshop for your hobbies?|Where would you look first for a made-to-measure home library?|
+imaginaire-404|Which website or shop would you look on for a made-to-measure home library?|Which website or shop would you look on for a three-month train trip across several countries?|
+imaginaire-405|What would your first instinct be if you could try out any job for a day?|What would your first instinct be if you found a letter written by you ten years from now?|
+imaginaire-406|What detail would you check before choosing a destination to keep going back to?|What detail would you check before planning a month of free-and-easy holiday?|
+imaginaire-407|How much would you be willing to spend on a supercar driving experience with an instructor?|How much would you be willing to spend on an artistic creation retreat?|
+imaginaire-408|How would you respond if you could redo a day that went badly?|How would you respond if you could invite five people to a big dinner?|
+imaginaire-409|What would your first instinct be if you could spend an evening with your favourite artist?|What would your first instinct be if a stranger offered you a ticket to any country?|
+imaginaire-410|What's the most you'd pay for a home gym?|What's the most you'd pay for a garden set up for reading?|
+imaginaire-411|When would you feel like buying a made-to-measure home library?|When would you feel like booking a three-month train trip across several countries?|
+imaginaire-412|How much do you think a supercar driving experience with an instructor is worth?|How much do you think an artistic creation retreat is worth?|
+imaginaire-413|How quickly could you reorganise your ideal schedule?|How quickly could you prepare a surprise for everyone close to you?|
+imaginaire-414|For what occasion would you want to pay for an intimate private concert?|For what occasion would you want to hire a small boat for a day?|
+imaginaire-415|How would you respond if you could change one detail of your daily life?|How would you respond if you could spend a week finally doing an old project?|
+imaginaire-416|What would you say on the spot if you could spend a week finally doing an old project?|What would you say on the spot if you won a trip without knowing the destination?|
+imaginaire-417|When would you feel like booking an artistic creation retreat?|When would you feel like buying a return flight to somewhere in Europe with flexible dates?|
+imaginaire-418|Who in your circle could help you plan a huge party with no limits?|Who in your circle could help you choose an activity to try out for free?|
+imaginaire-419|Where would you go to buy a 60 m² house less than 500 metres from the beach in Cornwall?|Where would you go to book a three-day surprise break for two in Rome, travel included?|Bretagne → Cornouailles
+imaginaire-420|Who could give you the best advice on how to choose a new city to live in?|Who could give you the best advice on how to plan a trip with no budget limit?|
+imaginaire-421|How quickly could you choose a job to try out for a day?|How quickly could you organise a dinner with famous people?|
+imaginaire-422|Where would you go to pay for an intimate private concert?|Where would you go to hire a small boat for a day?|
+imaginaire-423|Which website or shop would you look on for a week in a dream hotel?|Which website or shop would you look on for a private lesson with an expert?|
+imaginaire-424|How much would you be willing to spend on hiring a small boat for a day?|How much would you be willing to spend on a home gym?|
+imaginaire-425|If you had to plan a gap year, what would your priority be?|If you had to choose a job to try out for a day, what would your priority be?|
+imaginaire-426|Who could give you the best advice on how to plan a gap year?|Who could give you the best advice on how to choose a job to try out for a day?|
+imaginaire-427|When in the week would you rather make a list of dream trips?|When in the week would you rather choose a skill to learn quickly?|
+imaginaire-428|How would you respond if you could spend an evening with your favourite artist?|How would you respond if a stranger offered you a ticket to any country?|
+imaginaire-429|What detail would you check before learning a new language?|What detail would you check before starting a dream personal project?|
+imaginaire-430|For what occasion would you want to hire a classic car for a day?|For what occasion would you want to buy a supercar driving experience with an instructor?|
+imaginaire-431|Which time of day would be most convenient to learn a new language?|Which time of day would be most convenient to start a dream personal project?|
+imaginaire-432|What would come out of your mouth if you were offered a three-month train trip?|What would come out of your mouth if you could redo a day that went badly?|
+imaginaire-433|In your opinion, how much does it cost to hire a classic car for a day?|In your opinion, how much is a supercar driving experience with an instructor?|
+imaginaire-434|What would you do first if you were given a house in the city of your choice?|What would you do first if you could relive just one happy day?|
+imaginaire-435|How long do you reckon it takes to plan a gap year?|How long do you reckon it takes to choose a job to try out for a day?|
+imaginaire-436|When would be the best time to choose a skill to learn quickly?|When would be the best time to reorganise your ideal schedule?|
+imaginaire-437|How would you react if you were offered a whole year off?|How would you react if you could try out any job for a day?|
+imaginaire-438|What would you say on the spot if you could invite five people to a big dinner?|What would you say on the spot if you had a library with every book in the world?|
+imaginaire-439|What would your first reaction be if you could spend a week finally doing an old project?|What would your first reaction be if you won a trip without knowing the destination?|
+imaginaire-440|How would you respond if you could ask your future self one question?|How would you respond if you were given a budget to make a dream come true?|
+imaginaire-441|What detail would you check before choosing an activity to try out for free?|What detail would you check before planning a trip with your best friend?|
+imaginaire-442|What would you do first if you could pick up a new skill instantly?|What would you do first if you were offered a three-month train trip?|
+imaginaire-443|Which time of day would be most convenient to organise a dinner with famous people?|Which time of day would be most convenient to make a list of dream trips?|
+imaginaire-444|Who would you get in touch with to help you make a list of dream trips?|Who would you get in touch with to help you choose a skill to learn quickly?|
+imaginaire-445|How long do you reckon it takes to imagine a week without your phone?|How long do you reckon it takes to set yourself a personal challenge for the year?|
+imaginaire-446|Above what price would you think twice about hiring a classic car for a day?|Above what price would you think twice about buying a supercar driving experience with an instructor?|
+imaginaire-447|How much do you reckon a weekend in a castle costs?|How much do you reckon an intimate private concert costs?|
+imaginaire-448|What would you say if you were given a house in the city of your choice?|What would you say if you could relive just one happy day?|
+imaginaire-449|Above what price would you think twice about buying a 60 m² house less than 500 metres from the beach in Cornwall?|Above what price would you think twice about booking a three-day surprise break for two in Rome, travel included?|Bretagne → Cornouailles
+imaginaire-450|How long would it take you to start a dream personal project?|How long would it take you to plan a gap year?|
+imaginaire-451|For what occasion would you want to buy a 60 m² house less than 500 metres from the beach in Cornwall?|For what occasion would you want to book a three-day surprise break for two in Rome, travel included?|Bretagne → Cornouailles
+imaginaire-452|When in the week would you rather plan a trip with your best friend?|When in the week would you rather imagine a week without your phone?|
+imaginaire-453|When in the week would you rather plan a completely free day?|When in the week would you rather dream up your ideal house?|
+imaginaire-454|What price would you guess for an artistic creation retreat?|What price would you guess for a return flight to somewhere in Europe with flexible dates?|
+imaginaire-455|Who in your circle could help you choose a job to try out for a day?|Who in your circle could help you organise a dinner with famous people?|
+imaginaire-456|Where would you go to hire a classic car for a day?|Where would you go to buy a supercar driving experience with an instructor?|
+imaginaire-457|What would you find hardest about making a list of dream trips?|What would you find hardest about choosing a skill to learn quickly?|
+imaginaire-458|Which website or shop would you look on for a home gym?|Which website or shop would you look on for a garden set up for reading?|
+imaginaire-459|What would you do first if you had a library with every book in the world?|What would you do first if you could try living in another city for a year?|
+imaginaire-460|How much time would you set aside to learn a new language?|How much time would you set aside to start a dream personal project?|
+imaginaire-461|Who would you ask for help with choosing an activity to try out for free?|Who would you ask for help with planning a trip with your best friend?|
+imaginaire-462|What would your first reaction be if a stranger offered you a ticket to any country?|What would your first reaction be if you had free entry to every museum?|
+imaginaire-463|How quickly could you plan a trip with no budget limit?|How quickly could you learn a new language?|
+imaginaire-464|How would you react if you could try living in another city for a year?|How would you react if you could change one detail of your daily life?|
+imaginaire-465|What would your first instinct be if you could ask your future self one question?|What would your first instinct be if you were given a budget to make a dream come true?|
+imaginaire-466|What time of day would you pick to plan a trip with no budget limit?|What time of day would you pick to learn a new language?|
+imaginaire-467|What would your first instinct be if you could change one detail of your daily life?|What would your first instinct be if you could spend a week finally doing an old project?|
+imaginaire-468|Who would you ask for help with organising a dinner with famous people?|Who would you ask for help with making a list of dream trips?|
+imaginaire-469|For what occasion would you want to rent a lakeside cabin for a weekend?|For what occasion would you want to buy a big workshop for your hobbies?|
+imaginaire-470|How long do you reckon it takes to choose a new city to live in?|How long do you reckon it takes to plan a trip with no budget limit?|
+imaginaire-471|Where would you go to find a weekend in a castle?|Where would you go to find an intimate private concert?|
+imaginaire-472|What's the most you'd budget for a return flight to somewhere in Europe with flexible dates?|What's the most you'd budget for renting a lakeside cabin for a weekend?|
+imaginaire-473|When would you feel like booking a week in a dream hotel?|When would you feel like buying a private lesson with an expert?|
+imaginaire-474|What would come out of your mouth if you were given an extra hour every morning?|What would come out of your mouth if you could ask your future self one question?|
+imaginaire-475|What time of day would you pick to choose a job to try out for a day?|What time of day would you pick to organise a dinner with famous people?|
+imaginaire-476|How long do you reckon it takes to dream up your ideal house?|How long do you reckon it takes to plan a huge party with no limits?|
+imaginaire-477|Where would you look first for an unlimited cinema pass?|Where would you look first for a stay in a foreign city?|
+imaginaire-478|What would you find hardest about starting a dream personal project?|What would you find hardest about planning a gap year?|
+imaginaire-479|What would your first reaction be if you were given a budget to make a dream come true?|What would your first reaction be if you could pick up a new skill instantly?|
+imaginaire-480|Which website or shop would you look on for a stay in a foreign city?|Which website or shop would you look on for a weekend in a castle?|
+imaginaire-481|What detail would you check before preparing a surprise for everyone close to you?|What detail would you check before planning a completely free day?|
+imaginaire-482|What would come out of your mouth if you were offered a whole year off?|What would come out of your mouth if you could try out any job for a day?|
+imaginaire-483|Where would you go to find a three-month train trip across several countries?|Where would you go to find a 60 m² house less than 500 metres from the beach in Cornwall?|Bretagne → Cornouailles
+imaginaire-484|What would you say on the spot if you found a letter written by you ten years from now?|What would you say on the spot if you were given a house in the city of your choice?|
+imaginaire-485|Who would you get in touch with to help you plan a trip with your best friend?|Who would you get in touch with to help you imagine a week without your phone?|
+imaginaire-486|How much do you reckon a garden set up for reading costs?|How much do you reckon hiring a classic car for a day costs?|
+imaginaire-487|How much would you be willing to spend on an unlimited cinema pass?|How much would you be willing to spend on a stay in a foreign city?|
+imaginaire-488|What would your first instinct be if you could redo a day that went badly?|What would your first instinct be if you could invite five people to a big dinner?|
+imaginaire-489|When in the week would you rather plan a month of free-and-easy holiday?|When in the week would you rather choose a new city to live in?|
+imaginaire-490|Who would you get in touch with to help you plan a completely free day?|Who would you get in touch with to help you dream up your ideal house?|
+imaginaire-491|If you had to choose a new city to live in, what would your priority be?|If you had to plan a trip with no budget limit, what would your priority be?|
+imaginaire-492|When would you feel like buying a home gym?|When would you feel like buying a garden set up for reading?|
+imaginaire-493|How much would you be willing to spend on a big workshop for your hobbies?|How much would you be willing to spend on a made-to-measure home library?|
+imaginaire-494|What would you say if you had free entry to every museum?|What would you say if you were given an extra hour every morning?|
+imaginaire-495|What would be the most important thing when planning a trip with no budget limit?|What would be the most important thing when learning a new language?|
+imaginaire-496|Which website or shop would you look on for an artistic creation retreat?|Which website or shop would you look on for a return flight to somewhere in Europe with flexible dates?|
+imaginaire-497|What's the most you'd budget for a three-month train trip across several countries?|What's the most you'd budget for a 60 m² house less than 500 metres from the beach in Cornwall?|Bretagne → Cornouailles
+imaginaire-498|How much do you reckon a return flight to somewhere in Europe with flexible dates costs?|How much do you reckon renting a lakeside cabin for a weekend costs?|
+imaginaire-499|Above what price would you think twice about buying a dinner for two cooked at home by a chef?|Above what price would you think twice about buying an unlimited cinema pass?|
+imaginaire-500|What would you say if you had a library with every book in the world?|What would you say if you could try living in another city for a year?|
+imaginaire-501|Who would you get in touch with to help you start a dream personal project?|Who would you get in touch with to help you plan a gap year?|
+imaginaire-502|When would be the best time to imagine a week without your phone?|When would be the best time to set yourself a personal challenge for the year?|
+imaginaire-503|Who in your circle could help you plan a trip with no budget limit?|Who in your circle could help you learn a new language?|
+imaginaire-504|Where would you look first for a supercar driving experience with an instructor?|Where would you look first for an artistic creation retreat?|
+imaginaire-505|If you had to dream up your ideal house, what would your priority be?|If you had to plan a huge party with no limits, what would your priority be?|
+imaginaire-506|Who could give you the best advice on how to dream up your ideal house?|Who could give you the best advice on how to plan a huge party with no limits?|
+imaginaire-507|In what situation would you decide to book a three-day surprise break for two in Rome, travel included?|In what situation would you decide to book a week in a dream hotel?|
+imaginaire-508|What price would you guess for a made-to-measure home library?|What price would you guess for a three-month train trip across several countries?|
+imaginaire-509|What time of day would you pick to set yourself a personal challenge for the year?|What time of day would you pick to choose a destination to keep going back to?|
+imaginaire-510|Which time of day would be most convenient to choose a destination to keep going back to?|Which time of day would be most convenient to plan a month of free-and-easy holiday?|
+imaginaire-511|Where would you go to find a return flight to somewhere in Europe with flexible dates?|Where would you go to find a lakeside cabin to rent for a weekend?|
+imaginaire-512|What's the most you'd pay for a made-to-measure home library?|What's the most you'd pay for a three-month train trip across several countries?|
+imaginaire-513|How long would it take you to plan a month of free-and-easy holiday?|How long would it take you to choose a new city to live in?|
+imaginaire-514|In what situation would you decide to hire a small boat for a day?|In what situation would you decide to buy a home gym?|
+imaginaire-515|When in the week would you rather start a dream personal project?|When in the week would you rather plan a gap year?|
+imaginaire-516|Where would you look first for a three-day surprise break for two in Rome, travel included?|Where would you look first for a week in a dream hotel?|
+imaginaire-517|How much time would you set aside to choose a destination to keep going back to?|How much time would you set aside to plan a month of free-and-easy holiday?|
+imaginaire-518|What would you find hardest about planning a month of free-and-easy holiday?|What would you find hardest about choosing a new city to live in?|
+imaginaire-519|How would you react if you could relive just one happy day?|How would you react if you could spend an evening with your favourite artist?|
+imaginaire-520|Where would you go to rent a lakeside cabin for a weekend?|Where would you go to buy a big workshop for your hobbies?|
+imaginaire-521|Who would you ask for help with choosing a destination to keep going back to?|Who would you ask for help with planning a month of free-and-easy holiday?|
+imaginaire-522|How much do you reckon a three-month train trip across several countries costs?|How much do you reckon a 60 m² house less than 500 metres from the beach in Cornwall costs?|Bretagne → Cornouailles
+imaginaire-523|What's the most you'd budget for a private lesson with an expert?|What's the most you'd budget for a dinner for two cooked at home by a chef?|
+imaginaire-524|Where would you go to buy a dinner for two cooked at home by a chef?|Where would you go to buy an unlimited cinema pass?|
+imaginaire-525|What would come out of your mouth if you could try living in another city for a year?|What would come out of your mouth if you could change one detail of your daily life?|
+imaginaire-526|What would you say if you could pick up a new skill instantly?|What would you say if you were offered a three-month train trip?|
+imaginaire-527|How quickly could you plan a huge party with no limits?|How quickly could you choose an activity to try out for free?|
+imaginaire-528|Who could give you the best advice on how to choose a skill to learn quickly?|Who could give you the best advice on how to reorganise your ideal schedule?|
+imaginaire-529|When would be the best time to dream up your ideal house?|When would be the best time to plan a huge party with no limits?|
+imaginaire-530|Who would you ask for help with learning a new language?|Who would you ask for help with starting a dream personal project?|
+imaginaire-531|Who in your circle could help you reorganise your ideal schedule?|Who in your circle could help you prepare a surprise for everyone close to you?|
+popculture-333|How would you react if a side character becomes the hero?|How would you react if your mate has never seen a film everyone knows?|
+popculture-334|What detail would you check before organising a pop culture quiz?|What detail would you check before getting into a well-known manga?|
+popculture-335|How much do you think a TV series box set is worth?|How much do you think a ticket to a film exhibition is worth?|
+popculture-336|What would be the most important thing when retelling an iconic scene?|What would be the most important thing when putting together a video game recommendation?|
+popculture-337|What would your first reaction be if you're invited to a quiz on a series you don't know?|What would your first reaction be if you bump into a famous actor in the street?|
+popculture-338|If you had to plan a cult film night, what would your priority be?|If you had to explain a pop culture reference, what would your priority be?|
+popculture-339|Who in your circle could help you put together a list of animated films?|Who in your circle could help you organise a pop culture quiz?|
+popculture-340|How quickly could you retell an iconic scene?|How quickly could you put together a video game recommendation?|
+popculture-341|How much would you be willing to spend on a special edition of an album?|How much would you be willing to spend on a ticket to a film premiere in London?|Paris → Londres
+popculture-342|What would you say if you bump into a famous actor in the street?|What would you say if a mate slags off your favourite cult film?|
+popculture-343|In what situation would you decide to buy a special edition of an album?|In what situation would you decide to buy a ticket to a film premiere in London?|Paris → Londres
+popculture-344|Who would you get in touch with to help you choose your favourite fictional character?|Who would you get in touch with to help you plan a cult film night?|
+popculture-345|When would be the best time to choose a film to watch as a group?|When would be the best time to retell an iconic scene?|
+popculture-346|What time of day would you pick to put together a list of animated films?|What time of day would you pick to organise a pop culture quiz?|
+popculture-347|Where would you go to buy a day ticket for a pop culture convention?|Where would you go to buy a poster of a cult film?|
+popculture-348|Who would you ask for help with tracking down where a meme came from?|Who would you ask for help with getting into a new franchise?|
+popculture-349|In what situation would you decide to buy a vintage poster reprint?|In what situation would you decide to buy a ticket for a meet-the-author event?|
+popculture-350|Who would you ask for help with recommending a trending series?|Who would you ask for help with tracking down a film quote?|
+popculture-351|How much do you reckon a cap from a famous franchise costs?|How much do you reckon an art book about a video game costs?|
+popculture-352|What would your first reaction be if you come across a spoiler on social media?|What would your first reaction be if someone asks you for your top three series?|
+popculture-353|In your opinion, how much is a soft toy of a famous character?|In your opinion, how much is an illustrated film notebook?|
+popculture-354|How much do you think an illustrated film notebook is worth?|How much do you think a ticket to a manga fair is worth?|
+popculture-355|How long do you reckon it takes to compare two adaptations?|How long do you reckon it takes to choose a film soundtrack?|
+popculture-356|For what occasion would you want to buy a streaming service subscription?|For what occasion would you want to buy a special edition of an album?|
+popculture-357|What detail would you check before introducing a mate to a classic?|What detail would you check before working out the name of a famous actor?|
+popculture-358|How would you react if a mate slags off your favourite cult film?|How would you react if a meme you don't get goes viral?|
+popculture-359|How much do you reckon a collector's edition of a famous comic book costs?|How much do you reckon a streaming service subscription costs?|
+popculture-360|Who would you get in touch with to help you work out the name of a famous actor?|Who would you get in touch with to help you plan a film-themed fancy dress party?|
+popculture-361|How much do you think a vintage poster reprint is worth?|How much do you think a ticket for a meet-the-author event is worth?|
+popculture-362|Who would you get in touch with to help you track down a film quote?|Who would you get in touch with to help you choose an outfit for a convention?|
+popculture-363|How long would it take you to choose your favourite fictional character?|How long would it take you to plan a cult film night?|
+popculture-364|How much do you reckon a soundtrack on vinyl costs?|How much do you reckon a soft toy of a famous character costs?|
+popculture-365|What would you find hardest about tracking down a film quote?|What would you find hardest about choosing an outfit for a convention?|
+popculture-366|Which website or shop would you look on for a T-shirt from a popular series?|Which website or shop would you look on for a collector's edition of a famous comic book?|
+popculture-367|If you had to plan a film-themed fancy dress party, what would your priority be?|If you had to rank your favourite characters, what would your priority be?|
+popculture-368|Who in your circle could help you retell an iconic scene?|Who in your circle could help you put together a video game recommendation?|
+popculture-369|What would you find hardest about choosing your favourite fictional character?|What would you find hardest about planning a cult film night?|
+popculture-370|What would your first reaction be if you win two tickets to a premiere?|What would your first reaction be if a popular content creator comes to your area?|
+popculture-371|What time of day would you pick to rank your favourite characters?|What time of day would you pick to track down where a meme came from?|
+popculture-372|What would be the most important thing when choosing a film soundtrack?|What would be the most important thing when introducing a mate to a classic?|
+popculture-373|What price would you guess for a ticket to a film exhibition?|What price would you guess for a cap from a famous franchise?|
+popculture-374|When would be the best time to choose an outfit for a convention?|When would be the best time to put together a list of animated films?|
+popculture-375|What would you say on the spot if a popular series announces its final season?|What would you say on the spot if an actor gets replaced in a franchise?|
+popculture-376|Where would you go to buy a licensed board game?|Where would you go to buy a TV series box set?|
+popculture-377|What would you find hardest about getting into a well-known manga?|What would you find hardest about comparing two adaptations?|
+popculture-378|How much time would you set aside to recommend a trending series?|How much time would you set aside to track down a film quote?|
+popculture-379|How much do you think a poster of a cult film is worth?|How much do you think a T-shirt from a popular series is worth?|
+popculture-380|What would your first reaction be if a hotly anticipated episode gets delayed?|What would your first reaction be if a mate dresses up as a character you recognise?|
+popculture-381|What would be the most important thing when ranking your favourite characters?|What would be the most important thing when tracking down where a meme came from?|
+popculture-382|Where would you go to find a book signed by a famous author?|Where would you go to find a licensed board game?|
+popculture-383|What time of day would you pick to explain a pop culture reference?|What time of day would you pick to recommend a trending series?|
+popculture-384|What would you do first if a mate dresses up as a character you recognise?|What would you do first if a famous singer replies to you on social media?|
+popculture-385|How much would you be willing to spend on an illustrated film notebook?|How much would you be willing to spend on a ticket to a manga fair?|
+popculture-386|What would you say if an actor gets replaced in a franchise?|What would you say if a side character becomes the hero?|
+popculture-387|What detail would you check before putting together a video game recommendation?|What detail would you check before choosing your favourite fictional character?|
+popculture-388|How would you react if a famous singer replies to you on social media?|How would you react if a franchise announces a new remake?|
+popculture-389|Who in your circle could help you explain a pop culture reference?|Who in your circle could help you recommend a trending series?|
+popculture-390|In what situation would you decide to buy a TV series box set?|In what situation would you decide to buy a ticket to a film exhibition?|
+popculture-391|How much would you be willing to spend on a vintage poster reprint?|How much would you be willing to spend on a ticket for a meet-the-author event?|
+popculture-392|What's the most you'd budget for a soundtrack on vinyl?|What's the most you'd budget for a soft toy of a famous character?|
+popculture-393|Where would you look first for a poster of a cult film?|Where would you look first for a T-shirt from a popular series?|
+popculture-394|What would your first instinct be if a franchise announces a new remake?|What would your first instinct be if you come across a spoiler on social media?|
+popculture-395|What would you do first if an actor gets replaced in a franchise?|What would you do first if a side character becomes the hero?|
+popculture-396|Where would you look first for an illustrated film notebook?|Where would you look first for a ticket to a manga fair?|
+popculture-397|What would your first instinct be if a meme you don't get goes viral?|What would your first instinct be if a popular series announces its final season?|
+popculture-398|Where would you go to buy a soft toy of a famous character?|Where would you go to buy an illustrated film notebook?|
+popculture-399|What would you do first if a popular content creator comes to your area?|What would you do first if a song from a film becomes a massive hit?|
+popculture-400|What would your first instinct be if your mate has never seen a film everyone knows?|What would your first instinct be if a hotly anticipated episode gets delayed?|
+popculture-401|What would your first instinct be if a cult character comes back after years?|What would your first instinct be if you win two tickets to a premiere?|
+popculture-402|How quickly could you put together a list of animated films?|How quickly could you organise a pop culture quiz?|
+popculture-403|How would you respond if a meme you don't get goes viral?|How would you respond if a popular series announces its final season?|
+popculture-404|How long do you reckon it takes to choose a film to watch as a group?|How long do you reckon it takes to retell an iconic scene?|
+popculture-405|How long do you reckon it takes to plan a cult film night?|How long do you reckon it takes to explain a pop culture reference?|
+popculture-406|If you had to choose a film to watch as a group, what would your priority be?|If you had to retell an iconic scene, what would your priority be?|
+popculture-407|Which time of day would be most convenient to put together a video game recommendation?|Which time of day would be most convenient to choose your favourite fictional character?|
+popculture-408|Which time of day would be most convenient to recommend a trending series?|Which time of day would be most convenient to track down a film quote?|
+popculture-409|Where would you look first for a special edition of an album?|Where would you look first for a ticket to a film premiere in London?|Paris → Londres
+popculture-410|How would you respond if a cult character comes back after years?|How would you respond if you win two tickets to a premiere?|
+popculture-411|What would you say on the spot if you come across a spoiler on social media?|What would you say on the spot if someone asks you for your top three series?|
+popculture-412|What would you say on the spot if you're invited to a quiz on a series you don't know?|What would you say on the spot if you bump into a famous actor in the street?|
+popculture-413|What would come out of your mouth if a mate hates an adaptation you love?|What would come out of your mouth if a cult character comes back after years?|
+popculture-414|What price would you guess for a ticket to a manga fair?|What price would you guess for a 15 cm collectible figure of a film hero?|
+popculture-415|Where would you look first for a vintage poster reprint?|Where would you look first for a ticket for a meet-the-author event?|
+popculture-416|How long do you reckon it takes to plan a film-themed fancy dress party?|How long do you reckon it takes to rank your favourite characters?|
+popculture-417|What would make you buy a collector's edition of a famous comic book?|What would make you buy a streaming service subscription?|
+popculture-418|How would you react if a mate hates an adaptation you love?|How would you react if a cult character comes back after years?|
+popculture-419|How long would it take you to get into a well-known manga?|How long would it take you to compare two adaptations?|
+popculture-420|Who would you get in touch with to help you get into a well-known manga?|Who would you get in touch with to help you compare two adaptations?|
+popculture-421|How long do you reckon it takes to choose an outfit for a convention?|How long do you reckon it takes to put together a list of animated films?|
+popculture-422|When would be the best time to compare two adaptations?|When would be the best time to choose a film soundtrack?|
+popculture-423|What would you say if a popular content creator comes to your area?|What would you say if a song from a film becomes a massive hit?|
+popculture-424|What would you say if a mate dresses up as a character you recognise?|What would you say if a famous singer replies to you on social media?|
+popculture-425|When would you feel like buying a ticket to a manga fair?|When would you feel like buying a 15 cm collectible figure of a film hero?|
+popculture-426|In your opinion, how much is an art book about a video game?|In your opinion, how much is a vintage poster reprint?|
+popculture-427|What would make you buy a book signed by a famous author?|What would make you buy a licensed board game?|
+popculture-428|What's the most you'd pay for a ticket to a film premiere in London?|What's the most you'd pay for a book signed by a famous author?|Paris → Londres
+popculture-429|Which website or shop would you look on for a ticket to a manga fair?|Which website or shop would you look on for a 15 cm collectible figure of a film hero?|
+popculture-430|Who would you get in touch with to help you get into a new franchise?|Who would you get in touch with to help you choose a film to watch as a group?|
+popculture-431|Who could give you the best advice on how to choose a film to watch as a group?|Who could give you the best advice on how to retell an iconic scene?|
+popculture-432|How much would you be willing to spend on a TV series box set?|How much would you be willing to spend on a ticket to a film exhibition?|
+popculture-433|How much time would you set aside to put together a video game recommendation?|How much time would you set aside to choose your favourite fictional character?|
+popculture-434|What price would you guess for a ticket to a film premiere in London?|What price would you guess for a book signed by a famous author?|Paris → Londres
+popculture-435|For what occasion would you want to buy a licensed board game?|For what occasion would you want to buy a TV series box set?|
+popculture-436|When would you feel like buying a ticket to a film premiere in London?|When would you feel like buying a book signed by a famous author?|Paris → Londres
+popculture-437|What's the most you'd budget for a collector's edition of a famous comic book?|What's the most you'd budget for a streaming service subscription?|
+popculture-438|Which website or shop would you look on for a ticket for a meet-the-author event?|Which website or shop would you look on for a soundtrack on vinyl?|
+popculture-439|What would come out of your mouth if a side character becomes the hero?|What would come out of your mouth if your mate has never seen a film everyone knows?|
+popculture-440|What's the most you'd budget for a cap from a famous franchise?|What's the most you'd budget for an art book about a video game?|
+popculture-441|What's the most you'd budget for a 15 cm collectible figure of a film hero?|What's the most you'd budget for a day ticket for a pop culture convention?|
+popculture-442|What would you say on the spot if a hotly anticipated episode gets delayed?|What would you say on the spot if a mate dresses up as a character you recognise?|
+popculture-443|In what situation would you decide to buy a poster of a cult film?|In what situation would you decide to buy a T-shirt from a popular series?|
+popculture-444|Who could give you the best advice on how to choose an outfit for a convention?|Who could give you the best advice on how to put together a list of animated films?|
+popculture-445|What would come out of your mouth if a famous singer replies to you on social media?|What would come out of your mouth if a franchise announces a new remake?|
+popculture-446|How quickly could you rank your favourite characters?|How quickly could you track down where a meme came from?|
+popculture-447|How much would you be willing to spend on a poster of a cult film?|How much would you be willing to spend on a T-shirt from a popular series?|
+popculture-448|What would your first instinct be if a mate mixes up two celebrities?|What would your first instinct be if you're invited to a quiz on a series you don't know?|
+popculture-449|How quickly could you explain a pop culture reference?|How quickly could you recommend a trending series?|
+popculture-450|When would you feel like buying a T-shirt from a popular series?|When would you feel like buying a collector's edition of a famous comic book?|
+popculture-451|How much time would you set aside to organise a pop culture quiz?|How much time would you set aside to get into a well-known manga?|
+popculture-452|Who in your circle could help you rank your favourite characters?|Who in your circle could help you track down where a meme came from?|
+popculture-453|When in the week would you rather choose your favourite fictional character?|When in the week would you rather plan a cult film night?|
+popculture-454|In your opinion, how much is a licensed board game?|In your opinion, how much is a TV series box set?|
+popculture-455|What price would you guess for a ticket for a meet-the-author event?|What price would you guess for a soundtrack on vinyl?|
+popculture-456|What's the most you'd pay for a ticket for a meet-the-author event?|What's the most you'd pay for a soundtrack on vinyl?|
+popculture-457|How quickly could you choose a film soundtrack?|How quickly could you introduce a mate to a classic?|
+popculture-458|When would be the best time to plan a cult film night?|When would be the best time to explain a pop culture reference?|
+popculture-459|When would you feel like buying a ticket to a film exhibition?|When would you feel like buying a cap from a famous franchise?|
+popculture-460|How would you respond if your mate has never seen a film everyone knows?|How would you respond if a hotly anticipated episode gets delayed?|
+popculture-461|How much do you think a special edition of an album is worth?|How much do you think a ticket to a film premiere in London is worth?|Paris → Londres
+popculture-462|What would you say if someone asks you for your top three series?|What would you say if a mate hates an adaptation you love?|
+popculture-463|When in the week would you rather get into a well-known manga?|When in the week would you rather compare two adaptations?|
+popculture-464|When in the week would you rather get into a new franchise?|When in the week would you rather choose a film to watch as a group?|
+popculture-465|Above what price would you think twice about buying a streaming service subscription?|Above what price would you think twice about buying a special edition of an album?|
+popculture-466|What time of day would you pick to retell an iconic scene?|What time of day would you pick to put together a video game recommendation?|
+popculture-467|Which website or shop would you look on for a ticket to a film exhibition?|Which website or shop would you look on for a cap from a famous franchise?|
+popculture-468|If you had to compare two adaptations, what would your priority be?|If you had to choose a film soundtrack, what would your priority be?|
+popculture-469|Above what price would you think twice about buying a day ticket for a pop culture convention?|Above what price would you think twice about buying a poster of a cult film?|
+popculture-470|Which website or shop would you look on for a ticket to a film premiere in London?|Which website or shop would you look on for a book signed by a famous author?|Paris → Londres
+popculture-471|Where would you go to find a cap from a famous franchise?|Where would you go to find an art book about a video game?|
+popculture-472|Where would you go to find a collector's edition of a famous comic book?|Where would you go to find a streaming service subscription?|
+popculture-473|Which time of day would be most convenient to track down where a meme came from?|Which time of day would be most convenient to get into a new franchise?|
+popculture-474|Which time of day would be most convenient to organise a pop culture quiz?|Which time of day would be most convenient to get into a well-known manga?|
+popculture-475|What price would you guess for a T-shirt from a popular series?|What price would you guess for a collector's edition of a famous comic book?|
+popculture-476|Where would you go to buy a streaming service subscription?|Where would you go to buy a special edition of an album?|
+popculture-477|Who would you ask for help with putting together a video game recommendation?|Who would you ask for help with choosing your favourite fictional character?|
+popculture-478|Where would you go to buy an art book about a video game?|Where would you go to buy a vintage poster reprint?|
+popculture-479|Above what price would you think twice about buying a soft toy of a famous character?|Above what price would you think twice about buying an illustrated film notebook?|
+popculture-480|How much time would you set aside to track down where a meme came from?|How much time would you set aside to get into a new franchise?|
+popculture-481|Who could give you the best advice on how to plan a cult film night?|Who could give you the best advice on how to explain a pop culture reference?|
+popculture-482|Above what price would you think twice about buying an art book about a video game?|Above what price would you think twice about buying a vintage poster reprint?|
+popculture-483|Who would you ask for help with organising a pop culture quiz?|Who would you ask for help with getting into a well-known manga?|
+popculture-484|If you had to choose an outfit for a convention, what would your priority be?|If you had to put together a list of animated films, what would your priority be?|
+popculture-485|In your opinion, how much is a streaming service subscription?|In your opinion, how much is a special edition of an album?|
+popculture-486|When would be the best time to plan a film-themed fancy dress party?|When would be the best time to rank your favourite characters?|
+popculture-487|Which time of day would be most convenient to introduce a mate to a classic?|Which time of day would be most convenient to work out the name of a famous actor?|
+popculture-488|How long would it take you to track down a film quote?|How long would it take you to choose an outfit for a convention?|
+popculture-489|How would you react if a song from a film becomes a massive hit?|How would you react if a mate mixes up two celebrities?|
+popculture-490|When would you feel like buying a ticket for a meet-the-author event?|When would you feel like buying a soundtrack on vinyl?|
+popculture-491|What's the most you'd pay for a ticket to a film exhibition?|What's the most you'd pay for a cap from a famous franchise?|
+popculture-492|What would be the most important thing when explaining a pop culture reference?|What would be the most important thing when recommending a trending series?|
+popculture-493|How would you respond if a mate mixes up two celebrities?|How would you respond if you're invited to a quiz on a series you don't know?|
+popculture-494|How much do you reckon a 15 cm collectible figure of a film hero costs?|How much do you reckon a day ticket for a pop culture convention costs?|
+popculture-495|Where would you look first for a TV series box set?|Where would you look first for a ticket to a film exhibition?|
+popculture-496|What's the most you'd pay for a ticket to a manga fair?|What's the most you'd pay for a 15 cm collectible figure of a film hero?|
+popculture-497|In your opinion, how much is a day ticket for a pop culture convention?|In your opinion, how much is a poster of a cult film?|
+popculture-498|Above what price would you think twice about buying a licensed board game?|Above what price would you think twice about buying a TV series box set?|
+popculture-499|What would you say on the spot if you win two tickets to a premiere?|What would you say on the spot if a popular content creator comes to your area?|
+popculture-500|Where would you go to find a 15 cm collectible figure of a film hero?|Where would you go to find a day ticket for a pop culture convention?|
+popculture-501|In what situation would you decide to buy an illustrated film notebook?|In what situation would you decide to buy a ticket to a manga fair?|
+popculture-502|What would make you buy a soundtrack on vinyl?|What would make you buy a soft toy of a famous character?|
+popculture-503|What's the most you'd budget for a book signed by a famous author?|What's the most you'd budget for a licensed board game?|
+popculture-504|For what occasion would you want to buy a day ticket for a pop culture convention?|For what occasion would you want to buy a poster of a cult film?|
+popculture-505|When in the week would you rather track down a film quote?|When in the week would you rather choose an outfit for a convention?|
+popculture-506|What time of day would you pick to choose a film soundtrack?|What time of day would you pick to introduce a mate to a classic?|
+popculture-507|What detail would you check before tracking down where a meme came from?|What detail would you check before getting into a new franchise?|
+popculture-508|What would you do first if you bump into a famous actor in the street?|What would you do first if a mate slags off your favourite cult film?|
+popculture-509|What would make you buy a 15 cm collectible figure of a film hero?|What would make you buy a day ticket for a pop culture convention?|
+popculture-510|What would come out of your mouth if a mate slags off your favourite cult film?|What would come out of your mouth if a meme you don't get goes viral?|
+popculture-511|For what occasion would you want to buy a soft toy of a famous character?|For what occasion would you want to buy an illustrated film notebook?|
+popculture-512|Who could give you the best advice on how to compare two adaptations?|Who could give you the best advice on how to choose a film soundtrack?|
+popculture-513|What would you do first if someone asks you for your top three series?|What would you do first if a mate hates an adaptation you love?|
+popculture-514|What detail would you check before recommending a trending series?|What detail would you check before tracking down a film quote?|
+popculture-515|Who in your circle could help you choose a film soundtrack?|Who in your circle could help you introduce a mate to a classic?|
+popculture-516|For what occasion would you want to buy an art book about a video game?|For what occasion would you want to buy a vintage poster reprint?|
+popculture-517|Who would you ask for help with introducing a mate to a classic?|Who would you ask for help with working out the name of a famous actor?|
+popculture-518|What would come out of your mouth if a song from a film becomes a massive hit?|What would come out of your mouth if a mate mixes up two celebrities?|
+popculture-519|What would you find hardest about working out the name of a famous actor?|What would you find hardest about planning a film-themed fancy dress party?|
+popculture-520|Who could give you the best advice on how to plan a film-themed fancy dress party?|Who could give you the best advice on how to rank your favourite characters?|
+popculture-521|What's the most you'd pay for a T-shirt from a popular series?|What's the most you'd pay for a collector's edition of a famous comic book?|
+popculture-522|How long would it take you to work out the name of a famous actor?|How long would it take you to plan a film-themed fancy dress party?|
+popculture-523|When in the week would you rather work out the name of a famous actor?|When in the week would you rather plan a film-themed fancy dress party?|
+popculture-524|Where would you go to find a soundtrack on vinyl?|Where would you go to find a soft toy of a famous character?|
+popculture-525|How much time would you set aside to introduce a mate to a classic?|How much time would you set aside to work out the name of a famous actor?|
+popculture-526|What would make you buy a cap from a famous franchise?|What would make you buy an art book about a video game?|
+popculture-527|How much do you reckon a book signed by a famous author costs?|How much do you reckon a licensed board game costs?|
+popculture-528|How would you respond if a franchise announces a new remake?|How would you respond if you come across a spoiler on social media?|
+popculture-529|How long would it take you to get into a new franchise?|How long would it take you to choose a film to watch as a group?|
+popculture-530|What would be the most important thing when putting together a list of animated films?|What would be the most important thing when organising a pop culture quiz?|
+popculture-531|What would you find hardest about getting into a new franchise?|What would you find hardest about choosing a film to watch as a group?|
+popculture-532|What would your first reaction be if a popular series announces its final season?|What would your first reaction be if an actor gets replaced in a franchise?|
