@@ -2,7 +2,7 @@ miroir-597|What occasion would make you want to buy an Americano to drink in?|Wh
 miroir-598|On which website or in which shop would you look for a night in a three-star hotel during the week?|On which website or in which shop would you look for a night in a three-star hotel at the weekend?|
 miroir-599|How long do you reckon it takes to walk two kilometres?|How long do you reckon it takes to walk three kilometres?|
 miroir-600|What occasion would make you want to buy a one-month gym membership?|What occasion would make you want to buy a three-month gym membership?|
-miroir-601|What would be your first reflex if you found a ten-pound note?|What would be your first reflex if you found a twenty-pound note?|euros → livres
+miroir-601|What would be your first instinct if you found a ten-pound note?|What would be your first instinct if you found a twenty-pound note?|euros → livres
 miroir-602|What time of day would be most convenient for replying to five messages?|What time of day would be most convenient for replying to ten messages?|
 miroir-603|How much would you be willing to spend on a standing ticket for a gig at the O2 Arena?|How much would you be willing to spend on a seated ticket for a gig at a big venue?|Accor Arena → O2 Arena
 miroir-604|What would you find hardest about packing your bag for one day?|What would you find hardest about packing your bag for two days?|
@@ -14,7 +14,7 @@ miroir-609|How long would it take you to read ten pages of a book?|How long woul
 miroir-610|What's the most you'd pay for an adult cinema ticket for a morning showing?|What's the most you'd pay for an adult cinema ticket for an evening showing?|
 miroir-611|What would you say if a restaurant kept you waiting for ten minutes?|What would you say if a restaurant kept you waiting for thirty minutes?|
 miroir-612|How much time would you set aside to plan a two-hour outing?|How much time would you set aside to plan a three-hour outing?|
-miroir-613|What would be your first reaction if a friend cancelled on the morning itself?|What would be your first reaction if a friend cancelled the night before?|
+miroir-613|What would be your first reaction if a friend cancelled that same morning?|What would be your first reaction if a friend cancelled the night before?|
 miroir-614|Where would you go to find an Americano to drink in?|Where would you go to find an Americano to take away?|
 miroir-615|What tool would you use to pack your bag for one day?|What tool would you use to pack your bag for two days?|
 miroir-616|Where would you look first for an adult cinema ticket for a morning showing?|Where would you look first for an adult cinema ticket for an evening showing?|
@@ -53,7 +53,7 @@ miroir-648|How would you react if a restaurant kept you waiting for ten minutes?
 miroir-649|What would be the best time to walk two kilometres?|What would be the best time to walk three kilometres?|
 miroir-650|What's the most you'd budget for a bunch of five roses from a florist?|What's the most you'd budget for a bunch of fifteen roses from a florist?|
 miroir-651|What would matter most when reading ten pages of a book?|What would matter most when reading twenty pages of a book?|
-miroir-652|How would you respond if a friend cancelled on the morning itself?|How would you respond if a friend cancelled the night before?|
+miroir-652|How would you respond if a friend cancelled that same morning?|How would you respond if a friend cancelled the night before?|
 miroir-653|What do you think an Americano to drink in costs?|What do you think an Americano to take away costs?|
 miroir-654|What could help you pick one photo out of ten?|What could help you pick one photo out of twenty?|
 miroir-655|Where would you look first for a night in a three-star hotel during the week?|Where would you look first for a night in a three-star hotel at the weekend?|
@@ -74,7 +74,7 @@ miroir-669|What time of day would you choose to pick one photo out of ten?|What 
 miroir-670|What would you need to pick one photo out of ten?|What would you need to pick one photo out of twenty?|
 miroir-671|How much do you think a 55 cm soft-shell cabin suitcase is worth?|How much do you think a 55 cm hard-shell cabin suitcase is worth?|
 miroir-672|What would come out of your mouth if a friend wanted to leave at 8 pm?|What would come out of your mouth if a friend wanted to leave at 10 pm?|
-miroir-673|What would be your first reflex if someone offered you a coffee before work?|What would be your first reflex if someone offered you a coffee after work?|
+miroir-673|What would be your first instinct if someone offered you a coffee before work?|What would be your first instinct if someone offered you a coffee after work?|
 miroir-674|How much do you reckon a bunch of five roses from a florist costs?|How much do you reckon a bunch of fifteen roses from a florist costs?|
 miroir-675|Where would you go to find a pub lunch for two?|Where would you go to find a pub lunch for three?|brasserie → pub
 miroir-676|What do you think a pub lunch for two costs?|What do you think a pub lunch for three costs?|brasserie → pub
@@ -83,9 +83,9 @@ miroir-678|How much time would you set aside to pick one photo out of ten?|How m
 miroir-679|How much would you be willing to spend on a night in a three-star hotel during the week?|How much would you be willing to spend on a night in a three-star hotel at the weekend?|
 miroir-680|What could help you read ten pages of a book?|What could help you read twenty pages of a book?|
 miroir-681|On which website or in which shop would you look for a new pair of casual trainers?|On which website or in which shop would you look for a second-hand pair of casual trainers in good condition?|
-miroir-682|What would you say on the spot if a friend cancelled on the morning itself?|What would you say on the spot if a friend cancelled the night before?|
+miroir-682|What would you say on the spot if a friend cancelled that same morning?|What would you say on the spot if a friend cancelled the night before?|
 miroir-683|What time of day would you choose to do the shopping for two meals?|What time of day would you choose to do the shopping for three meals?|
-miroir-684|What would be your first reflex if the meeting was brought forward by fifteen minutes?|What would be your first reflex if the meeting was pushed back by fifteen minutes?|
+miroir-684|What would be your first instinct if the meeting was brought forward by fifteen minutes?|What would be your first instinct if the meeting was pushed back by fifteen minutes?|
 miroir-685|What's the most you'd pay for a new pair of casual trainers?|What's the most you'd pay for a second-hand pair of casual trainers in good condition?|
 miroir-686|What would come out of your mouth if your friend forgot their wallet?|What would come out of your mouth if your friend forgot their phone?|
 miroir-687|What detail would you check before picking one photo out of ten?|What detail would you check before picking one photo out of twenty?|
@@ -98,3 +98,102 @@ miroir-693|What time of day would be most convenient for planning a two-hour out
 miroir-694|In what situation would you decide to book a night in a three-star hotel during the week?|In what situation would you decide to book a night in a three-star hotel at the weekend?|
 miroir-695|What's the most you'd pay for a standing ticket for a gig at the O2 Arena?|What's the most you'd pay for a seated ticket for a gig at a big venue?|Accor Arena → O2 Arena
 miroir-696|What tool would you use to walk two kilometres?|What tool would you use to walk three kilometres?|
+miroir-697|What would you find hardest about tidying a small bedroom?|What would you find hardest about tidying a big living room?|
+miroir-698|What occasion would make you want to buy a standard-class one-way London–Manchester ticket for Friday?|What occasion would make you want to buy a standard-class one-way London–Manchester ticket for Saturday?|Paris–Lyon → London–Manchester
+miroir-699|How quickly could you pick one photo out of ten?|How quickly could you pick one photo out of twenty?|
+miroir-700|In what situation would you decide to buy a 55 cm soft-shell cabin suitcase?|In what situation would you decide to buy a 55 cm hard-shell cabin suitcase?|
+miroir-701|In what situation would you decide to buy a standing ticket for a gig at the O2 Arena?|In what situation would you decide to buy a seated ticket for a gig at a big venue?|Accor Arena → O2 Arena
+miroir-702|What would make you buy a one-month gym membership?|What would make you buy a three-month gym membership?|
+miroir-703|On which website or in which shop would you look for a standing ticket for a gig at the O2 Arena?|On which website or in which shop would you look for a seated ticket for a gig at a big venue?|Accor Arena → O2 Arena
+miroir-704|What would be your first instinct if a friend cancelled that same morning?|What would be your first instinct if a friend cancelled the night before?|
+miroir-705|What would be your first reaction if you found a ten-pound note?|What would be your first reaction if you found a twenty-pound note?|euros → livres
+miroir-706|What price would you imagine for a night in a three-star hotel during the week?|What price would you imagine for a night in a three-star hotel at the weekend?|
+miroir-707|How long would it take you to tidy a small bedroom?|How long would it take you to tidy a big living room?|
+miroir-708|If you had to cook a meal for two, what would be your priority?|If you had to cook a meal for four, what would be your priority?|
+miroir-709|Above what price would you think twice about buying a bunch of five roses from a florist?|Above what price would you think twice about buying a bunch of fifteen roses from a florist?|
+miroir-710|What would you say on the spot if someone offered you a coffee before work?|What would you say on the spot if someone offered you a coffee after work?|
+miroir-711|How quickly could you plan a two-hour outing?|How quickly could you plan a three-hour outing?|
+miroir-712|What gadget would come in handy for packing your bag for one day?|What gadget would come in handy for packing your bag for two days?|
+miroir-713|What would you need to read ten pages of a book?|What would you need to read twenty pages of a book?|
+miroir-714|How long would it take you to pack your bag for one day?|How long would it take you to pack your bag for two days?|
+miroir-715|What time of day would you choose to read ten pages of a book?|What time of day would you choose to read twenty pages of a book?|
+miroir-716|What price would you imagine for a standing ticket for a gig at the O2 Arena?|What price would you imagine for a seated ticket for a gig at a big venue?|Accor Arena → O2 Arena
+miroir-717|What do you think a standard-class one-way London–Manchester ticket for Friday costs?|What do you think a standard-class one-way London–Manchester ticket for Saturday costs?|Paris–Lyon → London–Manchester
+miroir-718|What's the most you'd budget for a pub lunch for two?|What's the most you'd budget for a pub lunch for three?|brasserie → pub
+miroir-719|What would make you buy a bunch of five roses from a florist?|What would make you buy a bunch of fifteen roses from a florist?|
+miroir-720|What time of day would be most convenient for doing the shopping for two meals?|What time of day would be most convenient for doing the shopping for three meals?|
+miroir-721|Where would you look first for a new pair of casual trainers?|Where would you look first for a second-hand pair of casual trainers in good condition?|
+miroir-722|On which website or in which shop would you look for a 55 cm soft-shell cabin suitcase?|On which website or in which shop would you look for a 55 cm hard-shell cabin suitcase?|
+miroir-723|What would matter most when planning a two-hour outing?|What would matter most when planning a three-hour outing?|
+miroir-724|What would be your first instinct if your train was leaving in ten minutes?|What would be your first instinct if your train was leaving in twenty minutes?|
+miroir-725|What occasion would make you want to buy a bunch of five roses from a florist?|What occasion would make you want to buy a bunch of fifteen roses from a florist?|
+miroir-726|How would you react if a friend turned up five minutes late?|How would you react if a friend turned up fifteen minutes late?|
+miroir-727|What would you do first if you got an invitation for tomorrow?|What would you do first if you got an invitation for tonight?|
+miroir-728|What time of the week would you rather find a present for a friend?|What time of the week would you rather find a present for two friends?|
+miroir-729|How quickly could you reply to five messages?|How quickly could you reply to ten messages?|
+miroir-730|What time of day would be most convenient for picking one photo out of ten?|What time of day would be most convenient for picking one photo out of twenty?|
+miroir-731|What time of the week would you rather pack your bag for one day?|What time of the week would you rather pack your bag for two days?|
+miroir-732|How long do you reckon it takes to cook a meal for two?|How long do you reckon it takes to cook a meal for four?|
+miroir-733|What would you do first if your friend forgot their wallet?|What would you do first if your friend forgot their phone?|
+miroir-734|What could help you do the shopping for two meals?|What could help you do the shopping for three meals?|
+miroir-735|How much do you think a new pair of casual trainers is worth?|How much do you think a second-hand pair of casual trainers in good condition is worth?|
+miroir-736|What would be the best time to pack your bag for one day?|What would be the best time to pack your bag for two days?|
+miroir-737|How long would it take you to find a present for a friend?|How long would it take you to find a present for two friends?|
+miroir-738|What would come out of your mouth if you got an invitation for tomorrow?|What would come out of your mouth if you got an invitation for tonight?|
+miroir-739|What would come out of your mouth if a restaurant kept you waiting for ten minutes?|What would come out of your mouth if a restaurant kept you waiting for thirty minutes?|
+miroir-740|What detail would you check before replying to five messages?|What detail would you check before replying to ten messages?|
+miroir-741|Where would you go to book a pub lunch for two?|Where would you go to book a pub lunch for three?|brasserie → pub
+miroir-742|When would you feel like buying an adult cinema ticket for a morning showing?|When would you feel like buying an adult cinema ticket for an evening showing?|
+miroir-743|Where would you go to find a one-month gym membership?|Where would you go to find a three-month gym membership?|
+miroir-744|What would matter most when doing the shopping for two meals?|What would matter most when doing the shopping for three meals?|
+miroir-745|What would you say if a friend wanted to leave at 8 pm?|What would you say if a friend wanted to leave at 10 pm?|
+miroir-746|What gadget would come in handy for finding a present for a friend?|What gadget would come in handy for finding a present for two friends?|
+miroir-747|Above what price would you think twice about buying a standard-class one-way London–Manchester ticket for Friday?|Above what price would you think twice about buying a standard-class one-way London–Manchester ticket for Saturday?|Paris–Lyon → London–Manchester
+miroir-748|How much would you be willing to spend on a 55 cm soft-shell cabin suitcase?|How much would you be willing to spend on a 55 cm hard-shell cabin suitcase?|
+miroir-749|If you had to pack your bag for one day, what would be your priority?|If you had to pack your bag for two days, what would be your priority?|
+miroir-750|What would you say on the spot if the meeting was brought forward by fifteen minutes?|What would you say on the spot if the meeting was pushed back by fifteen minutes?|
+miroir-751|When would you feel like buying a new pair of casual trainers?|When would you feel like buying a second-hand pair of casual trainers in good condition?|
+miroir-752|What would you do first if a friend turned up five minutes late?|What would you do first if a friend turned up fifteen minutes late?|
+miroir-753|What would make you book a pub lunch for two?|What would make you book a pub lunch for three?|brasserie → pub
+miroir-754|What detail would you check before reading ten pages of a book?|What detail would you check before reading twenty pages of a book?|
+miroir-755|How much do you think a night in a three-star hotel during the week is worth?|How much do you think a night in a three-star hotel at the weekend is worth?|
+miroir-756|How much time would you set aside to reply to five messages?|How much time would you set aside to reply to ten messages?|
+miroir-757|What gadget would come in handy for tidying a small bedroom?|What gadget would come in handy for tidying a big living room?|
+miroir-758|What would you need to plan a two-hour outing?|What would you need to plan a three-hour outing?|
+miroir-759|What would be the best time to tidy a small bedroom?|What would be the best time to tidy a big living room?|
+miroir-760|What detail would you check before planning a two-hour outing?|What detail would you check before planning a three-hour outing?|
+miroir-761|How would you respond if the meeting was brought forward by fifteen minutes?|How would you respond if the meeting was pushed back by fifteen minutes?|
+miroir-762|What would be the best time to cook a meal for two?|What would be the best time to cook a meal for four?|
+miroir-763|What do you think a bunch of five roses from a florist costs?|What do you think a bunch of fifteen roses from a florist costs?|
+miroir-764|When would you feel like buying a standing ticket for a gig at the O2 Arena?|When would you feel like buying a seated ticket for a gig at a big venue?|Accor Arena → O2 Arena
+miroir-765|What would you find hardest about cooking a meal for two?|What would you find hardest about cooking a meal for four?|
+miroir-766|How much time would you set aside to read ten pages of a book?|How much time would you set aside to read twenty pages of a book?|
+miroir-767|What tool would you use to tidy a small bedroom?|What tool would you use to tidy a big living room?|
+miroir-768|What detail would you check before doing the shopping for two meals?|What detail would you check before doing the shopping for three meals?|
+miroir-769|What time of day would you choose to plan a two-hour outing?|What time of day would you choose to plan a three-hour outing?|
+miroir-770|Where would you go to buy an Americano to drink in?|Where would you go to buy an Americano to take away?|
+miroir-771|What's the most you'd pay for a 55 cm soft-shell cabin suitcase?|What's the most you'd pay for a 55 cm hard-shell cabin suitcase?|
+miroir-772|What would be your first reaction if your train was leaving in ten minutes?|What would be your first reaction if your train was leaving in twenty minutes?|
+miroir-773|What time of the week would you rather tidy a small bedroom?|What time of the week would you rather tidy a big living room?|
+miroir-774|Where would you go to buy a one-month gym membership?|Where would you go to buy a three-month gym membership?|
+miroir-775|What would you need to do the shopping for two meals?|What would you need to do the shopping for three meals?|
+miroir-776|What would matter most when replying to five messages?|What would matter most when replying to ten messages?|
+miroir-777|What would you find hardest about finding a present for a friend?|What would you find hardest about finding a present for two friends?|
+miroir-778|Where would you go to find a bunch of five roses from a florist?|Where would you go to find a bunch of fifteen roses from a florist?|
+miroir-779|What would you say if your friend forgot their wallet?|What would you say if your friend forgot their phone?|
+miroir-780|Where would you look first for a standing ticket for a gig at the O2 Arena?|Where would you look first for a seated ticket for a gig at a big venue?|Accor Arena → O2 Arena
+miroir-781|How much do you reckon an Americano to drink in costs?|How much do you reckon an Americano to take away costs?|
+miroir-782|How much do you reckon a pub lunch for two costs?|How much do you reckon a pub lunch for three costs?|brasserie → pub
+miroir-783|How much do you think an adult cinema ticket for a morning showing is worth?|How much do you think an adult cinema ticket for an evening showing is worth?|
+miroir-784|What would you say if you got an invitation for tomorrow?|What would you say if you got an invitation for tonight?|
+miroir-785|What would be your first reaction if the meeting was brought forward by fifteen minutes?|What would be your first reaction if the meeting was pushed back by fifteen minutes?|
+miroir-786|What time of the week would you rather cook a meal for two?|What time of the week would you rather cook a meal for four?|
+miroir-787|What price would you imagine for an adult cinema ticket for a morning showing?|What price would you imagine for an adult cinema ticket for an evening showing?|
+miroir-788|How quickly could you do the shopping for two meals?|How quickly could you do the shopping for three meals?|
+miroir-789|In what situation would you decide to buy a new pair of casual trainers?|In what situation would you decide to buy a second-hand pair of casual trainers in good condition?|
+miroir-790|If you had to find a present for a friend, what would be your priority?|If you had to find a present for two friends, what would be your priority?|
+miroir-791|What price would you imagine for a new pair of casual trainers?|What price would you imagine for a second-hand pair of casual trainers in good condition?|
+miroir-792|Above what price would you think twice about buying an Americano to drink in?|Above what price would you think twice about buying an Americano to take away?|
+miroir-793|What price would you imagine for a 55 cm soft-shell cabin suitcase?|What price would you imagine for a 55 cm hard-shell cabin suitcase?|
+miroir-794|How much would you be willing to spend on an adult cinema ticket for a morning showing?|How much would you be willing to spend on an adult cinema ticket for an evening showing?|
+miroir-795|What would you do first if a restaurant kept you waiting for ten minutes?|What would you do first if a restaurant kept you waiting for thirty minutes?|

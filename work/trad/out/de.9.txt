@@ -88,7 +88,7 @@ vacances-665|Was glaubst du, was ein Eintritt für die Therme kostet?|Was glaubs
 vacances-666|Was meinst du, wie lange braucht man, um einen Thermentag auszusuchen?|Was meinst du, wie lange braucht man, um einen Tag im Chalet vorzubereiten?|
 vacances-667|Welchen Preis stellst du dir für einen Zwei-Tages-Pass für eine Eisbahn vor?|Welchen Preis stellst du dir für einen Tages-Skipass in einem Skigebiet in den Alpen vor?|
 vacances-668|Wie schnell könntest du einen Rodeltag organisieren?|Wie schnell könntest du die Urlaubssachen wegräumen?|
-vacances-669|An welchem Zeitpunkt in der Woche würdest du am liebsten ein Wochenende im Frühling planen?|An welchem Zeitpunkt in der Woche würdest du am liebsten eine Wanderung zum Saisonstart aussuchen?|
+vacances-669|Wann in der Woche würdest du am liebsten ein Wochenende im Frühling planen?|Wann in der Woche würdest du am liebsten eine Wanderung zum Saisonstart aussuchen?|
 vacances-670|Wann wäre der beste Zeitpunkt, um einen Skiort auszusuchen?|Wann wäre der beste Zeitpunkt, um deine Skischuhe anzuziehen?|
 vacances-671|Worauf käme es am meisten an, um einen Waldspaziergang im Frühling vorzubereiten?|Worauf käme es am meisten an, um eine Aktivität für einen Regentag auszusuchen?|
 vacances-672|Wie schnell könntest du eine Besichtigung bei Regenwetter organisieren?|Wie schnell könntest du ein Frühlingspicknick vorbereiten?|
@@ -98,3 +98,102 @@ vacances-675|Was würdest du spontan sagen, wenn die heiße Schokolade viel zu t
 vacances-676|Wo würdest du hingehen, um einen stabilen Taschenschirm zu kaufen?|Wo würdest du hingehen, um Schneeschuhe zu mieten?|
 vacances-677|Was meinst du, wie viel kostet ein Tages-Skipass in einem Skigebiet in den Alpen?|Was meinst du, wie viel kosten warme Skihandschuhe?|
 vacances-678|Was glaubst du, wie viel eine geführte Bergwanderung wert ist?|Was glaubst du, wie viel ein Zwei-Tages-Pass für eine Eisbahn wert ist?|
+vacances-679|Was wäre dein erster Reflex, wenn ein Freund seine Handschuhe im Chalet vergisst?|Was wäre dein erster Reflex, wenn die heiße Schokolade viel zu teuer ist?|
+vacances-680|Was würdest du antworten, wenn ein Freund den ganzen Tag im Chalet bleiben will?|Was würdest du antworten, wenn du den letzten Shuttlebus im Skiort verpasst?|
+vacances-681|Was würdest du als Erstes tun, wenn der Wetterbericht für deine Wanderung erst Sonne und dann Regen ansagt?|Was würdest du als Erstes tun, wenn man dir eine zu schwere Piste vorschlägt?|
+vacances-682|Was würde dich dazu bringen, einen Tages-Skipass in einem Skigebiet in den Alpen zu kaufen?|Was würde dich dazu bringen, warme Skihandschuhe zu kaufen?|
+vacances-683|Was würdest du überprüfen, bevor du eine Schneeschuhwanderung organisierst?|Was würdest du überprüfen, bevor du ein Wochenende im Frühling planst?|
+vacances-684|Wann in der Woche würdest du am liebsten einen Koffer für kaltes Wetter packen?|Wann in der Woche würdest du am liebsten einen Thermentag aussuchen?|
+vacances-685|Wenn du einen Thermentag aussuchen müsstest, was hätte für dich Priorität?|Wenn du einen Tag im Chalet vorbereiten müsstest, was hätte für dich Priorität?|
+vacances-686|Was wäre für dich die größte Schwierigkeit, eine Unterkunft für drei Nächte über ein langes Wochenende zu buchen?|Was wäre für dich die größte Schwierigkeit, eine Fahrt in die Berge vorzubereiten?|
+vacances-687|Auf welcher Website oder in welchem Laden würdest du nach einer heißen Schokolade im Skiort suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Kinderschlitten suchen?|
+vacances-688|Wenn du Skikleidung trocknen müsstest, was hätte für dich Priorität?|Wenn du einen Waldspaziergang im Frühling vorbereiten müsstest, was hätte für dich Priorität?|
+vacances-689|Was würdest du überprüfen, bevor du ein Frühlingspicknick vorbereitest?|Was würdest du überprüfen, bevor du einen Koffer für kaltes Wetter packst?|
+vacances-690|Was würdest du antworten, wenn ein geplanter Sonnentag verregnet wird?|Was würdest du antworten, wenn du eine Einladung zu einem spontanen Wochenende bekommst?|
+vacances-691|Wo würdest du zuerst nach einer geführten Bergwanderung suchen?|Wo würdest du zuerst nach einem Zwei-Tages-Pass für eine Eisbahn suchen?|
+vacances-692|Was wäre deine erste Reaktion, wenn die heiße Schokolade viel zu teuer ist?|Was wäre deine erste Reaktion, wenn der Wetterbericht für deine Wanderung erst Sonne und dann Regen ansagt?|
+vacances-693|Wie würdest du reagieren, wenn die Lifte wegen Wind schließen?|Wie würdest du reagieren, wenn ein Freund seine Handschuhe im Chalet vergisst?|
+vacances-694|Was meinst du, wie viel kostet ein hochwertiger Schal?|Was meinst du, wie viel kostet ein Ticket für einen botanischen Garten?|
+vacances-695|Welchen Preis stellst du dir für einen leichten Wanderrucksack vor?|Welchen Preis stellst du dir für einen hochwertigen Schal vor?|
+vacances-696|Was wäre für dich die größte Schwierigkeit beim Packen eines Koffers für kaltes Wetter?|Was wäre für dich die größte Schwierigkeit bei der Wahl eines Thermentags?|
+vacances-697|Wie viel Zeit würdest du einplanen, um eine Aktivität für einen Regentag auszusuchen?|Wie viel Zeit würdest du einplanen, um eine Unterkunft für drei Nächte über ein langes Wochenende zu buchen?|
+vacances-698|Wie lange würdest du brauchen, um eine Tasche für den Skiurlaub zu packen?|Wie lange würdest du brauchen, um einen Skiort auszusuchen?|
+vacances-699|Worauf käme es am meisten an, wenn du deine Skischuhe anziehst?|Worauf käme es am meisten an, wenn du eine Schneeschuhwanderung organisierst?|
+vacances-700|Zu welchem Anlass würdest du gern einen Eintritt für Erwachsene in ein Museum kaufen?|Zu welchem Anlass würdest du gern zwei Nächte in einer Ferienwohnung auf dem Land für zwei Personen buchen?|
+vacances-701|Was glaubst du, was ein Eintritt für Erwachsene in ein Museum kostet?|Was glaubst du, was zwei Nächte in einer Ferienwohnung auf dem Land für zwei Personen kosten?|
+vacances-702|Was würdest du spontan sagen, wenn du merkst, dass deine Schuhe nass sind?|Was würdest du spontan sagen, wenn ein Guide ankündigt, dass die Wanderung abgesagt ist?|
+vacances-703|Was würdest du sagen, wenn ein Wanderweg im Frühling noch gesperrt ist?|Was würdest du sagen, wenn jemand aus deinem Umfeld früher als geplant heimfahren will?|
+vacances-704|Wo würdest du zuerst nach einem Paar Winterwanderschuhe suchen?|Wo würdest du zuerst nach einem einfachen Ticket Berlin–München fürs Wochenende suchen?|Paris–Lyon → Berlin–München
+vacances-705|Wann in der Woche würdest du am liebsten ein Restaurant im Skiort für ein Abendessen zu zweit suchen?|Wann in der Woche würdest du am liebsten Skikleidung trocknen?|
+vacances-706|Wie würdest du reagieren, wenn die Skischule im Skiort ausgebucht ist?|Wie würdest du reagieren, wenn ein Freund den ganzen Tag im Chalet bleiben will?|
+vacances-707|Was glaubst du, wie viel ein Paar Winterwanderschuhe wert ist?|Was glaubst du, wie viel ein einfaches Ticket Berlin–München fürs Wochenende wert ist?|Paris–Lyon → Berlin–München
+vacances-708|Wann in der Woche würdest du am liebsten eine Unterkunft für drei Nächte über ein langes Wochenende buchen?|Wann in der Woche würdest du am liebsten eine Fahrt in die Berge vorbereiten?|
+vacances-709|Wo würdest du hingehen, um einen Tages-Skipass in einem Skigebiet in den Alpen zu bekommen?|Wo würdest du hingehen, um warme Skihandschuhe zu finden?|
+vacances-710|Bis zu wie viel würdest du für einen Zwei-Tages-Pass für eine Eisbahn zahlen?|Bis zu wie viel würdest du für einen Tages-Skipass in einem Skigebiet in den Alpen zahlen?|
+vacances-711|Wie schnell könntest du deine Skischuhe anziehen?|Wie schnell könntest du eine Schneeschuhwanderung organisieren?|
+vacances-712|Was wäre für dich die größte Schwierigkeit, ein Wochenende im Frühling zu planen?|Was wäre für dich die größte Schwierigkeit, eine Wanderung zum Saisonstart auszusuchen?|
+vacances-713|Was wäre dein erster Reflex, wenn ein Freund den ganzen Tag im Chalet bleiben will?|Was wäre dein erster Reflex, wenn du den letzten Shuttlebus im Skiort verpasst?|
+vacances-714|Auf welcher Website oder in welchem Laden würdest du nach einem leichten Wanderrucksack suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem hochwertigen Schal suchen?|
+vacances-715|Auf welcher Website oder in welchem Laden würdest du nach einer Nacht in einem Chalet in den Bergen für zwei Personen suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Wanderführer für Frühlingstouren suchen?|
+vacances-716|Wann in der Woche würdest du am liebsten eine Tasche für den Skiurlaub packen?|Wann in der Woche würdest du am liebsten einen Skiort aussuchen?|
+vacances-717|Was meinst du, wie viel kostet ein Wanderführer für Frühlingstouren?|Was meinst du, wie viel kostet ein Eintritt für Erwachsene in ein Museum?|
+vacances-718|Wer aus deinem Umfeld könnte dir helfen, deine Skischuhe anzuziehen?|Wer aus deinem Umfeld könnte dir helfen, eine Schneeschuhwanderung zu organisieren?|
+vacances-719|Welche Tageszeit würdest du wählen, um einen Rodeltag zu organisieren?|Welche Tageszeit würdest du wählen, um die Urlaubssachen wegzuräumen?|
+vacances-720|Wo würdest du zuerst nach einer hochwertigen Wollmütze suchen?|Wo würdest du zuerst nach einer heißen Schokolade im Skiort suchen?|
+vacances-721|Was meinst du, wie lange braucht man, um Skikleidung zu trocknen?|Was meinst du, wie lange braucht man, um einen Waldspaziergang im Frühling vorzubereiten?|
+vacances-722|Was würdest du spontan sagen, wenn ein Freund trotz Regen etwas unternehmen will?|Was würdest du spontan sagen, wenn ein Wanderweg im Frühling noch gesperrt ist?|
+vacances-723|Wer aus deinem Umfeld könnte dir helfen, eine Besichtigung bei Regenwetter zu organisieren?|Wer aus deinem Umfeld könnte dir helfen, ein Frühlingspicknick vorzubereiten?|
+vacances-724|Zu welchem Anlass würdest du gern einen stabilen Taschenschirm kaufen?|Zu welchem Anlass würdest du gern Schneeschuhe mieten?|
+vacances-725|Wie lange würdest du brauchen, um ein Wochenende im Frühling zu planen?|Wie lange würdest du brauchen, um eine Wanderung zum Saisonstart auszusuchen?|
+vacances-726|Wen würdest du fragen, dir zu helfen, ein Wochenende im Frühling zu planen?|Wen würdest du fragen, dir zu helfen, eine Wanderung zum Saisonstart auszusuchen?|
+vacances-727|Ab welchem Preis würdest du zögern, ein Ticket für einen botanischen Garten zu kaufen?|Ab welchem Preis würdest du zögern, eine geführte Bergwanderung zu kaufen?|
+vacances-728|Wen würdest du um Hilfe bitten, um eine Aktivität für einen Regentag auszusuchen?|Wen würdest du um Hilfe bitten, um eine Unterkunft für drei Nächte über ein langes Wochenende zu buchen?|
+vacances-729|Welche Tageszeit wäre am praktischsten, um die Urlaubssachen wegzuräumen?|Welche Tageszeit wäre am praktischsten, um eine Tasche für den Skiurlaub zu packen?|
+vacances-730|Wie lange würdest du brauchen, um ein Restaurant im Skiort für ein Abendessen zu zweit zu finden?|Wie lange würdest du brauchen, um Skikleidung zu trocknen?|
+vacances-731|Was meinst du, wie lange braucht man, um eine Fahrt in die Berge vorzubereiten?|Was meinst du, wie lange braucht man, um einen Rodeltag zu organisieren?|
+vacances-732|Wie würdest du reagieren, wenn die Hütte an der Piste keinen Platz mehr hat?|Wie würdest du reagieren, wenn du in den Bergen auf eine wunderschöne Aussicht stößt?|
+vacances-733|Zu welchem Anlass würdest du gern ein Ticket für einen botanischen Garten kaufen?|Zu welchem Anlass würdest du gern eine geführte Bergwanderung kaufen?|
+vacances-734|Was würdest du als Erstes tun, wenn du die Skibrille vergessen hast?|Was würdest du als Erstes tun, wenn die Hütte an der Piste keinen Platz mehr hat?|
+vacances-735|Was würdest du antworten, wenn du in den Bergen auf eine wunderschöne Aussicht stößt?|Was würdest du antworten, wenn ein Freund trotz Regen etwas unternehmen will?|
+vacances-736|Was würdest du spontan sagen, wenn du eine Einladung zu einem spontanen Wochenende bekommst?|Was würdest du spontan sagen, wenn du vor deinen Freunden in den Schnee fällst?|
+vacances-737|Was würdest du überprüfen, bevor du eine Aktivität für einen Regentag aussuchst?|Was würdest du überprüfen, bevor du eine Unterkunft für drei Nächte über ein langes Wochenende buchst?|
+vacances-738|Was würdest du sagen, wenn ein Guide ankündigt, dass die Wanderung abgesagt ist?|Was würdest du sagen, wenn die Skischule im Skiort ausgebucht ist?|
+vacances-739|Welche Tageszeit wäre am praktischsten, um einen Ausflug zur Eisbahn zu organisieren?|Welche Tageszeit wäre am praktischsten, um ein Restaurant im Skiort für ein Abendessen zu zweit zu finden?|
+vacances-740|Wann hättest du Lust, einen Zwei-Tages-Pass für eine Eisbahn zu kaufen?|Wann hättest du Lust, einen Tages-Skipass in einem Skigebiet in den Alpen zu kaufen?|
+vacances-741|Welcher Satz käme dir über die Lippen, wenn die Lifte wegen Wind schließen?|Welcher Satz käme dir über die Lippen, wenn ein Freund seine Handschuhe im Chalet vergisst?|
+vacances-742|In welcher Situation würdest du beschließen, ein Paar Winterwanderschuhe zu kaufen?|In welcher Situation würdest du beschließen, ein einfaches Ticket Berlin–München fürs Wochenende zu buchen?|Paris–Lyon → Berlin–München
+vacances-743|Wen würdest du um Hilfe bitten, um eine Schneeschuhwanderung zu organisieren?|Wen würdest du um Hilfe bitten, um ein Wochenende im Frühling zu planen?|
+vacances-744|Worauf käme es am meisten an, um eine Besichtigung bei Regenwetter zu organisieren?|Worauf käme es am meisten an, um ein Frühlingspicknick vorzubereiten?|
+vacances-745|Welche Tageszeit wäre am praktischsten, um eine Schneeschuhwanderung zu organisieren?|Welche Tageszeit wäre am praktischsten, um ein Wochenende im Frühling zu planen?|
+vacances-746|Was wäre deine erste Reaktion, wenn du den letzten Shuttlebus im Skiort verpasst?|Was wäre deine erste Reaktion, wenn du die Skibrille vergessen hast?|
+vacances-747|Was glaubst du, was ein stabiler Taschenschirm kostet?|Was glaubst du, was das Ausleihen von Schneeschuhen kostet?|
+vacances-748|Was wäre dein erster Reflex, wenn jemand aus deinem Umfeld nicht weiß, wie man die Skier anschnallt?|Was wäre dein erster Reflex, wenn du merkst, dass deine Schuhe nass sind?|
+vacances-749|Welche Tageszeit würdest du wählen, um einen Waldspaziergang im Frühling vorzubereiten?|Welche Tageszeit würdest du wählen, um eine Aktivität für einen Regentag auszusuchen?|
+vacances-750|Auf welcher Website oder in welchem Laden würdest du nach einem einfachen Ticket Berlin–München fürs Wochenende suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer wasserdichten Frühlingsjacke suchen?|Paris–Lyon → Berlin–München
+vacances-751|Was meinst du, wie lange braucht man, um eine Wanderung zum Saisonstart auszusuchen?|Was meinst du, wie lange braucht man, um eine Besichtigung bei Regenwetter zu organisieren?|
+vacances-752|Wie viel Zeit würdest du einplanen, um ein Frühlingspicknick vorzubereiten?|Wie viel Zeit würdest du einplanen, um einen Koffer für kaltes Wetter zu packen?|
+vacances-753|Welches Höchstbudget würdest du für einen hochwertigen Schal einplanen?|Welches Höchstbudget würdest du für ein Ticket für einen botanischen Garten einplanen?|
+vacances-754|Wo würdest du hingehen, um warme Skihandschuhe zu kaufen?|Wo würdest du hingehen, um eine hochwertige Wollmütze zu kaufen?|
+vacances-755|Wie lange würdest du brauchen, um einen Koffer für kaltes Wetter zu packen?|Wie lange würdest du brauchen, um einen Thermentag auszusuchen?|
+vacances-756|Wen würdest du fragen, dir zu helfen, einen Koffer für kaltes Wetter zu packen?|Wen würdest du fragen, dir zu helfen, einen Thermentag auszusuchen?|
+vacances-757|Worauf käme es am meisten an, um einen Tag im Chalet vorzubereiten?|Worauf käme es am meisten an, um einen Ausflug zur Eisbahn zu organisieren?|
+vacances-758|Wo würdest du hingehen, um einen hochwertigen Schal zu finden?|Wo würdest du hingehen, um ein Ticket für einen botanischen Garten zu finden?|
+vacances-759|In welcher Situation würdest du beschließen, eine hochwertige Wollmütze zu kaufen?|In welcher Situation würdest du beschließen, eine heiße Schokolade im Skiort zu kaufen?|
+vacances-760|Welche Tageszeit wäre am praktischsten, um ein Frühlingspicknick vorzubereiten?|Welche Tageszeit wäre am praktischsten, um einen Koffer für kaltes Wetter zu packen?|
+vacances-761|Was würdest du sagen, wenn du vor deinen Freunden in den Schnee fällst?|Was würdest du sagen, wenn die Lifte wegen Wind schließen?|
+vacances-762|Wer aus deinem Umfeld könnte dir helfen, einen Tag im Chalet vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, einen Ausflug zur Eisbahn zu organisieren?|
+vacances-763|Wen würdest du fragen, dir zu helfen, ein Restaurant im Skiort für ein Abendessen zu zweit zu finden?|Wen würdest du fragen, dir beim Trocknen von Skikleidung zu helfen?|
+vacances-764|Wen würdest du um Hilfe bitten, um die Urlaubssachen wegzuräumen?|Wen würdest du um Hilfe bitten, um eine Tasche für den Skiurlaub zu packen?|
+vacances-765|Wann hättest du Lust, eine heiße Schokolade im Skiort zu kaufen?|Wann hättest du Lust, einen Kinderschlitten zu kaufen?|
+vacances-766|Wie viel Zeit würdest du einplanen, um eine Schneeschuhwanderung zu organisieren?|Wie viel Zeit würdest du einplanen, um ein Wochenende im Frühling zu planen?|
+vacances-767|Welche Tageszeit würdest du wählen, um deine Skischuhe anzuziehen?|Welche Tageszeit würdest du wählen, um eine Schneeschuhwanderung zu organisieren?|
+vacances-768|Was meinst du, wie viel kostet ein Kinderschlitten?|Was meinst du, wie viel kostet ein Eintritt für die Therme?|
+vacances-769|Welches Höchstbudget würdest du für einen Kinderschlitten einplanen?|Welches Höchstbudget würdest du für einen Eintritt für die Therme einplanen?|
+vacances-770|Wie schnell könntest du einen Waldspaziergang im Frühling vorbereiten?|Wie schnell könntest du eine Aktivität für einen Regentag aussuchen?|
+vacances-771|Wo würdest du hingehen, um einen Eintritt für die Therme zu kaufen?|Wo würdest du hingehen, um ein Paar Winterwanderschuhe zu kaufen?|
+vacances-772|Wo würdest du hingehen, um eine wasserdichte Frühlingsjacke zu finden?|Wo würdest du hingehen, um einen stabilen Taschenschirm zu finden?|
+vacances-773|Wann wäre der beste Zeitpunkt, um einen Thermentag auszusuchen?|Wann wäre der beste Zeitpunkt, um einen Tag im Chalet vorzubereiten?|
+vacances-774|Wer könnte dir den besten Rat geben, um einen Skiort auszusuchen?|Wer könnte dir den besten Rat geben, wie man seine Skischuhe anzieht?|
+vacances-775|In welcher Situation würdest du beschließen, zwei Nächte in einer Ferienwohnung auf dem Land für zwei Personen zu buchen?|In welcher Situation würdest du beschließen, einen leichten Wanderrucksack zu kaufen?|
+vacances-776|Wenn du eine Fahrt in die Berge vorbereiten müsstest, was hätte für dich Priorität?|Wenn du einen Rodeltag organisieren müsstest, was hätte für dich Priorität?|
+vacances-777|Was glaubst du, wie viel eine hochwertige Wollmütze wert ist?|Was glaubst du, wie viel eine heiße Schokolade im Skiort wert ist?|

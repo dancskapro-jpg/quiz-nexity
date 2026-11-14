@@ -11,7 +11,7 @@ vacances-588|In welke situatie zou je besluiten om sneeuwschoenen te huren?|In w
 vacances-589|Hoeveel zou je willen uitgeven aan een begeleide wandeling in de bergen?|Hoeveel zou je willen uitgeven aan een tweedaagse pas voor een ijsbaan?|
 vacances-590|Welke prijs zou je verwachten voor een enkele treinreis Amsterdam–Rotterdam voor een weekendje weg?|Welke prijs zou je verwachten voor een waterdichte voorjaarsjas?|Paris–Lyon → Amsterdam–Rotterdam
 vacances-591|Wat zou je ertoe aanzetten om een slee voor een kind te kopen?|Wat zou je ertoe aanzetten om een toegangskaartje voor de thermen te kopen?|
-vacances-592|Waar zou je heen gaan om een toegangskaartje voor een volwassene voor een museum te kopen?|Waar zou je heen gaan om twee nachten in een vakantiehuisje op het platteland voor twee personen te boeken?|
+vacances-592|Waar zou je heen gaan om een volwassenenkaartje voor een overdekt museum te kopen?|Waar zou je heen gaan om twee nachten in een vakantiehuisje op het platteland voor twee personen te boeken?|
 vacances-593|Wat zou je checken voordat je je vakantiespullen opruimt?|Wat zou je checken voordat je een tas voor de wintersport inpakt?|
 vacances-594|Wie zou je vragen om je te helpen een tas voor de wintersport in te pakken?|Wie zou je vragen om je te helpen een skioord te kiezen?|
 vacances-595|Wat zou je eerste reactie zijn als een vriend ondanks de regen toch iets wil gaan doen?|Wat zou je eerste reactie zijn als een wandelpad in het voorjaar nog afgesloten is?|
@@ -37,7 +37,7 @@ vacances-614|Hoe snel zou je een dag in een chalet kunnen voorbereiden?|Hoe snel
 vacances-615|Wie zou je het beste advies kunnen geven om skikleding te laten drogen?|Wie zou je het beste advies kunnen geven om een boswandeling in het voorjaar voor te bereiden?|
 vacances-616|Wat zou je maximale budget zijn voor een dagskipas in een skigebied in de Alpen?|Wat zou je maximale budget zijn voor warme skihandschoenen?|
 vacances-617|Wat zou je eruit flappen als er in het restaurant op de piste geen plek meer is?|Wat zou je eruit flappen als je in de bergen een prachtig uitzicht tegenkomt?|
-vacances-618|Wat zou je maximale budget zijn voor een gids met voorjaarswandelingen?|Wat zou je maximale budget zijn voor een toegangskaartje voor een volwassene voor een museum?|
+vacances-618|Wat zou je maximale budget zijn voor een gids met voorjaarswandelingen?|Wat zou je maximale budget zijn voor een volwassenenkaartje voor een overdekt museum?|
 vacances-619|Waar zou je als eerste zoeken naar twee nachten in een vakantiehuisje op het platteland voor twee personen?|Waar zou je als eerste zoeken naar een lichte wandelrugzak?|
 vacances-620|Wat zou je als eerste doen als je voor je vrienden in de sneeuw valt?|Wat zou je als eerste doen als de skiliften dichtgaan vanwege de wind?|
 vacances-621|Wat kosten warme skihandschoenen volgens jou?|Wat kost een goede wollen muts volgens jou?|
@@ -57,7 +57,7 @@ vacances-634|Wat zou je als eerste doen als een gids zegt dat de wandeltocht nie
 vacances-635|Hoeveel zou je willen uitgeven aan het huren van sneeuwschoenen?|Hoeveel zou je willen uitgeven aan een nacht in een chalet in de bergen voor twee personen?|
 vacances-636|Wie uit je omgeving zou je kunnen helpen om een dagje sleeën te organiseren?|Wie uit je omgeving zou je kunnen helpen om je vakantiespullen op te ruimen?|
 vacances-637|Wat zou je zeggen als je je skibril vergeten bent?|Wat zou je zeggen als er in het restaurant op de piste geen plek meer is?|
-vacances-638|Wat zou je ertoe aanzetten om een gids met voorjaarswandelingen te kopen?|Wat zou je ertoe aanzetten om een toegangskaartje voor een volwassene voor een museum te kopen?|
+vacances-638|Wat zou je ertoe aanzetten om een gids met voorjaarswandelingen te kopen?|Wat zou je ertoe aanzetten om een volwassenenkaartje voor een overdekt museum te kopen?|
 vacances-639|Wat zou je als eerste doen als een wandelpad in het voorjaar nog afgesloten is?|Wat zou je als eerste doen als iemand die je na staat eerder naar huis wil dan gepland?|
 vacances-640|Welke prijs zou je verwachten voor een nacht in een chalet in de bergen voor twee personen?|Welke prijs zou je verwachten voor een gids met voorjaarswandelingen?|
 vacances-641|Wat zou je eruit flappen als iemand je een veel te moeilijke piste voorstelt?|Wat zou je eruit flappen als iemand die je na staat zijn ski's niet weet aan te doen?|
@@ -66,14 +66,14 @@ vacances-643|Wat kost een kaartje voor een botanische tuin volgens jou?|Wat kost
 vacances-644|Wie zou je het beste advies kunnen geven om een dagje thermen uit te kiezen?|Wie zou je het beste advies kunnen geven om een dag in een chalet voor te bereiden?|
 vacances-645|Wat zou het beste moment zijn om een wandeltocht aan het begin van het seizoen te kiezen?|Wat zou het beste moment zijn om een uitje voor een regenachtige dag te organiseren?|
 vacances-646|Wanneer zou je zin hebben om een enkele treinreis Amsterdam–Rotterdam voor een weekendje weg te boeken?|Wanneer zou je zin hebben om een waterdichte voorjaarsjas te kopen?|Paris–Lyon → Amsterdam–Rotterdam
-vacances-647|Waar zou je heen gaan om een gids met voorjaarswandelingen te vinden?|Waar zou je heen gaan om een toegangskaartje voor een volwassene voor een museum te vinden?|
+vacances-647|Waar zou je heen gaan om een gids met voorjaarswandelingen te vinden?|Waar zou je heen gaan om een volwassenenkaartje voor een overdekt museum te vinden?|
 vacances-648|Welk moment van de dag zou je kiezen om een uitje voor een regenachtige dag te organiseren?|Welk moment van de dag zou je kiezen om een voorjaarspicknick voor te bereiden?|
 vacances-649|Wie zou je het beste advies kunnen geven om een wandeltocht aan het begin van het seizoen te kiezen?|Wie zou je het beste advies kunnen geven om een uitje voor een regenachtige dag te organiseren?|
 vacances-650|Wat zou je eruit flappen als iemand die je na staat eerder naar huis wil dan gepland?|Wat zou je eruit flappen als een dag waarop zon voorspeld was toch regenachtig wordt?|
 vacances-651|Wat zou je op dat moment zeggen als je de laatste skibus mist?|Wat zou je op dat moment zeggen als je je skibril vergeten bent?|
 vacances-652|Hoeveel tijd zou je uittrekken om een uitje naar de ijsbaan te organiseren?|Hoeveel tijd zou je uittrekken om in een skioord een restaurant te vinden om met z'n tweeën te eten?|
 vacances-653|Wat zou je zeggen als het weerbericht eerst zon en daarna regen voorspelt voor je wandeltocht?|Wat zou je zeggen als iemand je een veel te moeilijke piste voorstelt?|
-vacances-654|Boven welke prijs zou je twijfelen om een toegangskaartje voor een volwassene voor een museum te kopen?|Boven welke prijs zou je twijfelen om twee nachten in een vakantiehuisje op het platteland voor twee personen te boeken?|
+vacances-654|Boven welke prijs zou je twijfelen om een volwassenenkaartje voor een overdekt museum te kopen?|Boven welke prijs zou je twijfelen om twee nachten in een vakantiehuisje op het platteland voor twee personen te boeken?|
 vacances-655|Welk tijdstip van de dag zou het handigst zijn om een activiteit voor een regenachtige dag te kiezen?|Welk tijdstip van de dag zou het handigst zijn om een verblijf voor drie nachten tijdens een lang weekend te boeken?|
 vacances-656|Wat zou het beste moment zijn om een rit naar de bergen voor te bereiden?|Wat zou het beste moment zijn om een dagje sleeën te organiseren?|
 vacances-657|Wat zou het beste moment zijn om skikleding te laten drogen?|Wat zou het beste moment zijn om een boswandeling in het voorjaar voor te bereiden?|
@@ -98,3 +98,102 @@ vacances-675|Wat zou je op dat moment zeggen als de warme chocolademelk veel te 
 vacances-676|Waar zou je heen gaan om een stevige opvouwbare paraplu te kopen?|Waar zou je heen gaan om sneeuwschoenen te huren?|
 vacances-677|Hoeveel kost een dagskipas in een skigebied in de Alpen volgens jou?|Hoeveel kosten warme skihandschoenen volgens jou?|
 vacances-678|Wat denk je dat een begeleide wandeling in de bergen kost?|Wat denk je dat een tweedaagse pas voor een ijsbaan kost?|
+vacances-679|Wat zou je eerste reflex zijn als een vriend zijn handschoenen in het chalet vergeet?|Wat zou je eerste reflex zijn als de warme chocolademelk veel te duur is?|
+vacances-680|Wat zou je zeggen als een vriend de hele dag in het chalet wil blijven?|Wat zou je zeggen als je de laatste skibus mist?|
+vacances-681|Wat zou je als eerste doen als het weerbericht eerst zon en daarna regen voorspelt voor je wandeltocht?|Wat zou je als eerste doen als iemand je een veel te moeilijke piste voorstelt?|
+vacances-682|Wat zou je ertoe aanzetten om een dagskipas voor een skigebied in de Alpen te kopen?|Wat zou je ertoe aanzetten om warme skihandschoenen te kopen?|
+vacances-683|Wat zou je checken voordat je een sneeuwschoenwandeling organiseert?|Wat zou je checken voordat je een weekendje weg in het voorjaar voorbereidt?|
+vacances-684|Op welk moment van de week zou je het liefst een koffer voor koud weer inpakken?|Op welk moment van de week zou je het liefst een dagje thermen uitkiezen?|
+vacances-685|Als je een dagje thermen zou moeten uitkiezen, wat zou dan je prioriteit zijn?|Als je een dag in een chalet zou moeten voorbereiden, wat zou dan je prioriteit zijn?|
+vacances-686|Wat zou voor jou het lastigste zijn aan een verblijf voor drie nachten tijdens een lang weekend boeken?|Wat zou voor jou het lastigste zijn aan een rit naar de bergen voorbereiden?|
+vacances-687|Op welke site of in welke winkel zou je zoeken naar een warme chocolademelk in een skioord?|Op welke site of in welke winkel zou je zoeken naar een slee voor een kind?|
+vacances-688|Als je skikleding zou moeten laten drogen, wat zou dan je prioriteit zijn?|Als je een boswandeling in het voorjaar zou moeten voorbereiden, wat zou dan je prioriteit zijn?|
+vacances-689|Wat zou je checken voordat je een voorjaarspicknick voorbereidt?|Wat zou je checken voordat je een koffer voor koud weer inpakt?|
+vacances-690|Wat zou je zeggen als een dag waarop zon voorspeld was toch regenachtig wordt?|Wat zou je zeggen als je een uitnodiging krijgt voor een spontaan weekendje weg?|
+vacances-691|Waar zou je als eerste zoeken naar een begeleide wandeling in de bergen?|Waar zou je als eerste zoeken naar een tweedaagse pas voor een ijsbaan?|
+vacances-692|Wat zou je eerste reactie zijn als de warme chocolademelk veel te duur is?|Wat zou je eerste reactie zijn als het weerbericht eerst zon en daarna regen voorspelt voor je wandeltocht?|
+vacances-693|Hoe zou je reageren als de skiliften dichtgaan vanwege de wind?|Hoe zou je reageren als een vriend zijn handschoenen in het chalet vergeet?|
+vacances-694|Hoeveel kost een goede sjaal volgens jou?|Hoeveel kost een kaartje voor een botanische tuin volgens jou?|
+vacances-695|Welke prijs zou je verwachten voor een lichte wandelrugzak?|Welke prijs zou je verwachten voor een goede sjaal?|
+vacances-696|Wat zou voor jou het lastigste zijn aan een koffer voor koud weer inpakken?|Wat zou voor jou het lastigste zijn aan een dagje thermen uitkiezen?|
+vacances-697|Hoeveel tijd zou je uittrekken om een activiteit voor een regenachtige dag te kiezen?|Hoeveel tijd zou je uittrekken om een verblijf voor drie nachten tijdens een lang weekend te boeken?|
+vacances-698|Hoeveel tijd zou je nodig hebben om een tas voor de wintersport in te pakken?|Hoeveel tijd zou je nodig hebben om een skioord te kiezen?|
+vacances-699|Wat zou het belangrijkste zijn bij het aantrekken van je skischoenen?|Wat zou het belangrijkste zijn bij het organiseren van een sneeuwschoenwandeling?|
+vacances-700|Bij welke gelegenheid zou je een volwassenenkaartje voor een overdekt museum willen kopen?|Bij welke gelegenheid zou je twee nachten in een vakantiehuisje op het platteland voor twee personen willen boeken?|
+vacances-701|Wat kost een volwassenenkaartje voor een overdekt museum volgens jou?|Wat kosten twee nachten in een vakantiehuisje op het platteland voor twee personen volgens jou?|
+vacances-702|Wat zou je op dat moment zeggen als je merkt dat je schoenen nat zijn?|Wat zou je op dat moment zeggen als een gids zegt dat de wandeltocht niet doorgaat?|
+vacances-703|Wat zou je zeggen als een wandelpad in het voorjaar nog afgesloten is?|Wat zou je zeggen als iemand die je na staat eerder naar huis wil dan gepland?|
+vacances-704|Waar zou je als eerste zoeken naar een paar winterwandelschoenen?|Waar zou je als eerste zoeken naar een enkele treinreis Amsterdam–Rotterdam voor een weekendje weg?|Paris–Lyon → Amsterdam–Rotterdam
+vacances-705|Op welk moment van de week zou je het liefst in een skioord een restaurant zoeken om met z'n tweeën te eten?|Op welk moment van de week zou je het liefst skikleding laten drogen?|
+vacances-706|Hoe zou je reageren als de skilessen in het skioord helemaal vol zitten?|Hoe zou je reageren als een vriend de hele dag in het chalet wil blijven?|
+vacances-707|Wat denk je dat een paar winterwandelschoenen kost?|Wat denk je dat een enkele treinreis Amsterdam–Rotterdam voor een weekendje weg kost?|Paris–Lyon → Amsterdam–Rotterdam
+vacances-708|Op welk moment van de week zou je het liefst een verblijf voor drie nachten tijdens een lang weekend boeken?|Op welk moment van de week zou je het liefst een rit naar de bergen voorbereiden?|
+vacances-709|Waar zou je heen gaan om een dagskipas voor een skigebied in de Alpen te vinden?|Waar zou je heen gaan om warme skihandschoenen te vinden?|
+vacances-710|Hoeveel zou je maximaal betalen voor een tweedaagse pas voor een ijsbaan?|Hoeveel zou je maximaal betalen voor een dagskipas in een skigebied in de Alpen?|
+vacances-711|Hoe snel zou je je skischoenen kunnen aantrekken?|Hoe snel zou je een sneeuwschoenwandeling kunnen organiseren?|
+vacances-712|Wat zou voor jou het lastigste zijn aan een weekendje weg in het voorjaar voorbereiden?|Wat zou voor jou het lastigste zijn aan een wandeltocht aan het begin van het seizoen kiezen?|
+vacances-713|Wat zou je eerste reflex zijn als een vriend de hele dag in het chalet wil blijven?|Wat zou je eerste reflex zijn als je de laatste skibus mist?|
+vacances-714|Op welke site of in welke winkel zou je zoeken naar een lichte wandelrugzak?|Op welke site of in welke winkel zou je zoeken naar een goede sjaal?|
+vacances-715|Op welke site of in welke winkel zou je zoeken naar een nacht in een chalet in de bergen voor twee personen?|Op welke site of in welke winkel zou je zoeken naar een gids met voorjaarswandelingen?|
+vacances-716|Op welk moment van de week zou je het liefst een tas voor de wintersport inpakken?|Op welk moment van de week zou je het liefst een skioord kiezen?|
+vacances-717|Hoeveel kost een gids met voorjaarswandelingen volgens jou?|Hoeveel kost een volwassenenkaartje voor een overdekt museum volgens jou?|
+vacances-718|Wie uit je omgeving zou je kunnen helpen om je skischoenen aan te trekken?|Wie uit je omgeving zou je kunnen helpen om een sneeuwschoenwandeling te organiseren?|
+vacances-719|Welk moment van de dag zou je kiezen om een dagje sleeën te organiseren?|Welk moment van de dag zou je kiezen om je vakantiespullen op te ruimen?|
+vacances-720|Waar zou je als eerste zoeken naar een goede wollen muts?|Waar zou je als eerste zoeken naar een warme chocolademelk in een skioord?|
+vacances-721|Hoelang duurt het volgens jou om skikleding te laten drogen?|Hoelang duurt het volgens jou om een boswandeling in het voorjaar voor te bereiden?|
+vacances-722|Wat zou je op dat moment zeggen als een vriend ondanks de regen toch iets wil gaan doen?|Wat zou je op dat moment zeggen als een wandelpad in het voorjaar nog afgesloten is?|
+vacances-723|Wie uit je omgeving zou je kunnen helpen om een uitje voor een regenachtige dag te organiseren?|Wie uit je omgeving zou je kunnen helpen om een voorjaarspicknick voor te bereiden?|
+vacances-724|Bij welke gelegenheid zou je een stevige opvouwbare paraplu willen kopen?|Bij welke gelegenheid zou je sneeuwschoenen willen huren?|
+vacances-725|Hoeveel tijd zou je nodig hebben om een weekendje weg in het voorjaar voor te bereiden?|Hoeveel tijd zou je nodig hebben om een wandeltocht aan het begin van het seizoen te kiezen?|
+vacances-726|Wie zou je vragen om je te helpen een weekendje weg in het voorjaar voor te bereiden?|Wie zou je vragen om je te helpen een wandeltocht aan het begin van het seizoen te kiezen?|
+vacances-727|Boven welke prijs zou je twijfelen om een kaartje voor een botanische tuin te kopen?|Boven welke prijs zou je twijfelen om een begeleide wandeling in de bergen te boeken?|
+vacances-728|Aan wie zou je hulp vragen om een activiteit voor een regenachtige dag te kiezen?|Aan wie zou je hulp vragen om een verblijf voor drie nachten tijdens een lang weekend te boeken?|
+vacances-729|Welk tijdstip van de dag zou het handigst zijn om je vakantiespullen op te ruimen?|Welk tijdstip van de dag zou het handigst zijn om een tas voor de wintersport in te pakken?|
+vacances-730|Hoeveel tijd zou je nodig hebben om in een skioord een restaurant te vinden om met z'n tweeën te eten?|Hoeveel tijd zou je nodig hebben om skikleding te laten drogen?|
+vacances-731|Hoelang duurt het volgens jou om een rit naar de bergen voor te bereiden?|Hoelang duurt het volgens jou om een dagje sleeën te organiseren?|
+vacances-732|Hoe zou je reageren als er in het restaurant op de piste geen plek meer is?|Hoe zou je reageren als je in de bergen een prachtig uitzicht tegenkomt?|
+vacances-733|Bij welke gelegenheid zou je een kaartje voor een botanische tuin willen kopen?|Bij welke gelegenheid zou je een begeleide wandeling in de bergen willen boeken?|
+vacances-734|Wat zou je als eerste doen als je je skibril vergeten bent?|Wat zou je als eerste doen als er in het restaurant op de piste geen plek meer is?|
+vacances-735|Wat zou je zeggen als je in de bergen een prachtig uitzicht tegenkomt?|Wat zou je zeggen als een vriend ondanks de regen toch iets wil gaan doen?|
+vacances-736|Wat zou je op dat moment zeggen als je een uitnodiging krijgt voor een spontaan weekendje weg?|Wat zou je op dat moment zeggen als je voor je vrienden in de sneeuw valt?|
+vacances-737|Wat zou je checken voordat je een activiteit voor een regenachtige dag kiest?|Wat zou je checken voordat je een verblijf voor drie nachten tijdens een lang weekend boekt?|
+vacances-738|Wat zou je zeggen als een gids zegt dat de wandeltocht niet doorgaat?|Wat zou je zeggen als de skilessen in het skioord helemaal vol zitten?|
+vacances-739|Welk tijdstip van de dag zou het handigst zijn om een uitje naar de ijsbaan te organiseren?|Welk tijdstip van de dag zou het handigst zijn om in een skioord een restaurant te vinden om met z'n tweeën te eten?|
+vacances-740|Wanneer zou je zin hebben om een tweedaagse pas voor een ijsbaan te kopen?|Wanneer zou je zin hebben om een dagskipas voor een skigebied in de Alpen te kopen?|
+vacances-741|Wat zou je eruit flappen als de skiliften dichtgaan vanwege de wind?|Wat zou je eruit flappen als een vriend zijn handschoenen in het chalet vergeet?|
+vacances-742|In welke situatie zou je besluiten om een paar winterwandelschoenen te kopen?|In welke situatie zou je besluiten om een enkele treinreis Amsterdam–Rotterdam voor een weekendje weg te boeken?|Paris–Lyon → Amsterdam–Rotterdam
+vacances-743|Aan wie zou je hulp vragen om een sneeuwschoenwandeling te organiseren?|Aan wie zou je hulp vragen om een weekendje weg in het voorjaar voor te bereiden?|
+vacances-744|Wat zou het belangrijkste zijn bij het organiseren van een uitje voor een regenachtige dag?|Wat zou het belangrijkste zijn bij het voorbereiden van een voorjaarspicknick?|
+vacances-745|Welk tijdstip van de dag zou het handigst zijn om een sneeuwschoenwandeling te organiseren?|Welk tijdstip van de dag zou het handigst zijn om een weekendje weg in het voorjaar voor te bereiden?|
+vacances-746|Wat zou je eerste reactie zijn als je de laatste skibus mist?|Wat zou je eerste reactie zijn als je je skibril vergeten bent?|
+vacances-747|Wat kost een stevige opvouwbare paraplu volgens jou?|Wat kost het huren van sneeuwschoenen volgens jou?|
+vacances-748|Wat zou je eerste reflex zijn als iemand die je na staat zijn ski's niet weet aan te doen?|Wat zou je eerste reflex zijn als je merkt dat je schoenen nat zijn?|
+vacances-749|Welk moment van de dag zou je kiezen om een boswandeling in het voorjaar voor te bereiden?|Welk moment van de dag zou je kiezen om een activiteit voor een regenachtige dag uit te zoeken?|
+vacances-750|Op welke site of in welke winkel zou je zoeken naar een enkele treinreis Amsterdam–Rotterdam voor een weekendje weg?|Op welke site of in welke winkel zou je zoeken naar een waterdichte voorjaarsjas?|Paris–Lyon → Amsterdam–Rotterdam
+vacances-751|Hoelang duurt het volgens jou om een wandeltocht aan het begin van het seizoen te kiezen?|Hoelang duurt het volgens jou om een uitje voor een regenachtige dag te organiseren?|
+vacances-752|Hoeveel tijd zou je uittrekken om een voorjaarspicknick voor te bereiden?|Hoeveel tijd zou je uittrekken om een koffer voor koud weer in te pakken?|
+vacances-753|Wat zou je maximale budget zijn voor een goede sjaal?|Wat zou je maximale budget zijn voor een kaartje voor een botanische tuin?|
+vacances-754|Waar zou je heen gaan om warme skihandschoenen te kopen?|Waar zou je heen gaan om een goede wollen muts te kopen?|
+vacances-755|Hoeveel tijd zou je nodig hebben om een koffer voor koud weer in te pakken?|Hoeveel tijd zou je nodig hebben om een dagje thermen uit te kiezen?|
+vacances-756|Wie zou je vragen om je te helpen een koffer voor koud weer in te pakken?|Wie zou je vragen om je te helpen een dagje thermen uit te kiezen?|
+vacances-757|Wat zou het belangrijkste zijn bij het voorbereiden van een dag in een chalet?|Wat zou het belangrijkste zijn bij het organiseren van een uitje naar de ijsbaan?|
+vacances-758|Waar zou je heen gaan om een goede sjaal te vinden?|Waar zou je heen gaan om een kaartje voor een botanische tuin te vinden?|
+vacances-759|In welke situatie zou je besluiten om een goede wollen muts te kopen?|In welke situatie zou je besluiten om een warme chocolademelk in een skioord te kopen?|
+vacances-760|Welk tijdstip van de dag zou het handigst zijn om een voorjaarspicknick voor te bereiden?|Welk tijdstip van de dag zou het handigst zijn om een koffer voor koud weer in te pakken?|
+vacances-761|Wat zou je zeggen als je voor je vrienden in de sneeuw valt?|Wat zou je zeggen als de skiliften dichtgaan vanwege de wind?|
+vacances-762|Wie uit je omgeving zou je kunnen helpen om een dag in een chalet voor te bereiden?|Wie uit je omgeving zou je kunnen helpen om een uitje naar de ijsbaan te organiseren?|
+vacances-763|Wie zou je vragen om je te helpen in een skioord een restaurant te vinden om met z'n tweeën te eten?|Wie zou je vragen om je te helpen skikleding te laten drogen?|
+vacances-764|Aan wie zou je hulp vragen om je vakantiespullen op te ruimen?|Aan wie zou je hulp vragen om een tas voor de wintersport in te pakken?|
+vacances-765|Wanneer zou je zin hebben om een warme chocolademelk in een skioord te kopen?|Wanneer zou je zin hebben om een slee voor een kind te kopen?|
+vacances-766|Hoeveel tijd zou je uittrekken om een sneeuwschoenwandeling te organiseren?|Hoeveel tijd zou je uittrekken om een weekendje weg in het voorjaar voor te bereiden?|
+vacances-767|Welk moment van de dag zou je kiezen om je skischoenen aan te trekken?|Welk moment van de dag zou je kiezen om een sneeuwschoenwandeling te organiseren?|
+vacances-768|Hoeveel kost een slee voor een kind volgens jou?|Hoeveel kost een toegangskaartje voor de thermen volgens jou?|
+vacances-769|Wat zou je maximale budget zijn voor een slee voor een kind?|Wat zou je maximale budget zijn voor een toegangskaartje voor de thermen?|
+vacances-770|Hoe snel zou je een boswandeling in het voorjaar kunnen voorbereiden?|Hoe snel zou je een activiteit voor een regenachtige dag kunnen kiezen?|
+vacances-771|Waar zou je heen gaan om een toegangskaartje voor de thermen te kopen?|Waar zou je heen gaan om een paar winterwandelschoenen te kopen?|
+vacances-772|Waar zou je heen gaan om een waterdichte voorjaarsjas te vinden?|Waar zou je heen gaan om een stevige opvouwbare paraplu te vinden?|
+vacances-773|Wat zou het beste moment zijn om een dagje thermen uit te kiezen?|Wat zou het beste moment zijn om een dag in een chalet voor te bereiden?|
+vacances-774|Wie zou je het beste advies kunnen geven om een skioord te kiezen?|Wie zou je het beste advies kunnen geven om je skischoenen aan te trekken?|
+vacances-775|In welke situatie zou je besluiten om twee nachten in een vakantiehuisje op het platteland voor twee personen te boeken?|In welke situatie zou je besluiten om een lichte wandelrugzak te kopen?|
+vacances-776|Als je een rit naar de bergen zou moeten voorbereiden, wat zou dan je prioriteit zijn?|Als je een dagje sleeën zou moeten organiseren, wat zou dan je prioriteit zijn?|
+vacances-777|Wat denk je dat een goede wollen muts kost?|Wat denk je dat een warme chocolademelk in een skioord kost?|
