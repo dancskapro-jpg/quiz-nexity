@@ -98,3 +98,103 @@ noel-414|¿Cuál sería tu primer impulso si un familiar avisa de que llegará t
 noel-415|¿Cuánto tiempo calcularías para guardar los adornos después de las fiestas?|¿Cuánto tiempo calcularías para decorar el árbol de Navidad?|
 noel-416|¿Adónde irías a comprar un árbol de Navidad artificial de 1,50 m?|¿Adónde irías a comprar una caja de 500 g de bombones surtidos?|
 noel-417|¿Cuánto tiempo necesitarías para colocar las guirnaldas del balcón?|¿Cuánto tiempo necesitarías para hacerte una foto delante del árbol?|
+noel-418|¿Cuál sería tu primera reacción si un invitado trae el mismo postre que tú?|¿Cuál sería tu primera reacción si un niño quiere abrir los regalos demasiado pronto?|
+noel-419|¿A qué sitio irías para encontrar un árbol de Navidad natural de 1,50 m?|¿A qué sitio irías para encontrar un árbol de Navidad artificial de 1,50 m?|
+noel-420|¿Qué responderías si tienes que elegir dónde pasar la Nochebuena?|¿Qué responderías si un invitado graba toda la apertura de los regalos?|
+noel-421|¿Qué frase te saldría si un familiar abre un regalo que era para otra persona?|¿Qué frase te saldría si la guirnalda del árbol deja de funcionar?|
+noel-422|¿Qué sería lo más importante para preparar una cena de Nochebuena?|¿Qué sería lo más importante para elegir una peli de Navidad?|
+noel-423|¿Dónde buscarías primero una taza navideña?|¿Dónde buscarías primero una figura decorativa de reno?|
+noel-424|¿Cuál sería el mejor momento para organizar un intercambio de regalos?|¿Cuál sería el mejor momento para poner los adornos en casa?|
+noel-425|¿Cuánto estarías dispuesto a gastarte en una caja de 500 g de bombones surtidos?|¿Cuánto estarías dispuesto a gastarte en una guirnalda LED de diez metros para el árbol, de exterior?|
+noel-426|¿A quién pedirías ayuda para guardar los adornos después de las fiestas?|¿A quién pedirías ayuda para decorar el árbol de Navidad?|
+noel-427|¿Cómo reaccionarías si un familiar quiere llevarse las sobras?|¿Cómo reaccionarías si tienes que elegir dónde pasar la Nochebuena?|
+noel-428|¿Dónde buscarías primero una caja de 500 g de bombones surtidos?|¿Dónde buscarías primero una guirnalda LED de diez metros para el árbol, de exterior?|
+noel-429|Si tuvieras que preparar un paseo por el mercadillo navideño, ¿cuál sería tu prioridad?|Si tuvieras que elegir un jersey para Nochebuena, ¿cuál sería tu prioridad?|
+noel-430|Si tuvieras que envolver los regalos de la familia, ¿cuál sería tu prioridad?|Si tuvieras que preparar una cena de Nochebuena, ¿cuál sería tu prioridad?|
+noel-431|¿Para qué ocasión querrías comprar un árbol de Navidad artificial de 1,50 m?|¿Para qué ocasión querrías comprar una caja de 500 g de bombones surtidos?|
+noel-432|¿Qué momento del día elegirías para preparar un chocolate caliente casero?|¿Qué momento del día elegirías para escribir una tarjeta de Navidad?|
+noel-433|¿Qué te llevaría a comprar una corona de puerta?|¿Qué te llevaría a comprar un jersey navideño divertido?|
+noel-434|¿Qué responderías si un familiar avisa de que llegará tarde a la cena de Nochebuena?|¿Qué responderías si descubres un regalo escondido antes de Navidad?|
+noel-435|¿Qué franja del día sería la más práctica para escribir una tarjeta de Navidad?|¿Qué franja del día sería la más práctica para organizar un juego familiar de Nochebuena?|
+noel-436|¿Qué detalle comprobarías antes de guardar los adornos después de las fiestas?|¿Qué detalle comprobarías antes de decorar el árbol de Navidad?|
+noel-437|¿Adónde irías a comprar un juego familiar para Nochebuena?|¿Adónde irías a comprar una taza navideña?|
+noel-438|¿Qué momento del día elegirías para elegir un jersey para Nochebuena?|¿Qué momento del día elegirías para guardar los adornos después de las fiestas?|
+noel-439|¿Qué dirías en ese momento si un invitado trae el mismo postre que tú?|¿Qué dirías en ese momento si un niño quiere abrir los regalos demasiado pronto?|
+noel-440|¿Qué persona de tu entorno podría ayudarte a poner los adornos en casa?|¿Qué persona de tu entorno podría ayudarte a hacer una lista de regalos?|
+noel-441|¿Qué precio te imaginas para un rollo de papel de regalo de cinco metros?|¿Qué precio te imaginas para una corona de puerta?|
+noel-442|¿Cuánto estarías dispuesto a gastarte en una tabla de quesos para Nochebuena?|¿Cuánto estarías dispuesto a gastarte en una cesta gourmet de Navidad para cuatro personas?|
+noel-443|¿Qué te llevaría a comprar una caja de galletas navideñas?|¿Qué te llevaría a comprar un calendario de Adviento con chocolates?|
+noel-444|¿Hasta cuánto pagarías por una caja de galletas de mantequilla?|¿Hasta cuánto pagarías por un kit de casita de jengibre?|
+noel-445|¿En cuánto tiempo podrías poner los adornos en casa?|¿En cuánto tiempo podrías hacer una lista de regalos?|
+noel-446|¿Qué sería lo más importante para preparar una playlist navideña?|¿Qué sería lo más importante para elegir un regalo para un ser querido?|
+noel-447|¿Cuánto crees que vale una taza navideña?|¿Cuánto crees que vale una figura decorativa de reno?|
+noel-448|¿Qué harías primero si te regalan algo que ya tienes?|¿Qué harías primero si un familiar abre un regalo que era para otra persona?|
+noel-449|¿Qué momento del día elegirías para preparar una playlist navideña?|¿Qué momento del día elegirías para elegir un regalo para un ser querido?|
+noel-450|¿Qué harías primero si el árbol se inclina peligrosamente?|¿Qué harías primero si un amigo te hace un regalo muy personal?|
+noel-451|¿Qué dirías si te regalan algo que ya tienes?|¿Qué dirías si un familiar abre un regalo que era para otra persona?|
+noel-452|¿Cuánto tiempo crees que hace falta para envolver los regalos de la familia?|¿Cuánto tiempo crees que hace falta para preparar una cena de Nochebuena?|
+noel-453|¿Qué dirías en ese momento si un invitado graba toda la apertura de los regalos?|¿Qué dirías en ese momento si te regalan algo que ya tienes?|
+noel-454|¿Dónde buscarías primero una bola de Navidad personalizada?|¿Dónde buscarías primero un rollo de papel de regalo de cinco metros?|
+noel-455|¿Qué precio te imaginas para una cesta gourmet de Navidad para cuatro personas?|¿Qué precio te imaginas para un árbol de Navidad natural de 1,50 m?|
+noel-456|¿Cuál sería el mejor momento para hacerte una foto delante del árbol?|¿Cuál sería el mejor momento para preparar un chocolate caliente casero?|
+noel-457|¿En qué web o en qué tienda buscarías una figura decorativa de reno?|¿En qué web o en qué tienda buscarías una estrella para el árbol?|
+noel-458|¿En qué situación decidirías comprar una bola de Navidad personalizada?|¿En qué situación decidirías comprar un rollo de papel de regalo de cinco metros?|
+noel-459|¿Cuánto crees que vale una tabla de quesos para Nochebuena?|¿Cuánto crees que vale una cesta gourmet de Navidad para cuatro personas?|
+noel-460|Para ti, ¿qué precio tiene un jersey navideño divertido?|Para ti, ¿qué precio tiene una vela aromática de especias?|
+noel-461|¿Qué precio te imaginas para una guirnalda LED de diez metros para el árbol, de exterior?|¿Qué precio te imaginas para una caja de galletas navideñas?|
+noel-462|¿Qué dirías en ese momento si te piden que hagas de Papá Noel?|¿Qué dirías en ese momento si se rompe una bola de Navidad?|
+noel-463|¿Para qué ocasión querrías comprar un jersey navideño divertido?|¿Para qué ocasión querrías comprar una vela aromática de especias?|
+noel-464|¿Cuál sería tu mayor dificultad para preparar la mesa de Nochebuena?|¿Cuál sería tu mayor dificultad para hacer la compra de la comida de Navidad?|
+noel-465|¿Quién podría darte el mejor consejo para organizar un intercambio de regalos?|¿Quién podría darte el mejor consejo para poner los adornos en casa?|
+noel-466|¿A quién llamarías para que te ayude a preparar la mesa de Nochebuena?|¿A quién llamarías para que te ayude a hacer la compra de la comida de Navidad?|
+noel-467|¿Qué dirías si el árbol se inclina peligrosamente?|¿Qué dirías si un amigo te hace un regalo muy personal?|
+noel-468|¿Cómo reaccionarías si te piden que cocines en el último momento?|¿Cómo reaccionarías si un familiar avisa de que llegará tarde a la cena de Nochebuena?|
+noel-469|¿Qué dirías si un invitado quiere cambiar el menú en el último momento?|¿Qué dirías si un niño te pregunta por Papá Noel?|
+noel-470|¿En qué situación decidirías comprar una vela aromática de especias?|¿En qué situación decidirías comprar una caja de galletas de mantequilla?|
+noel-471|¿Qué detalle comprobarías antes de elegir un regalo para un ser querido?|¿Qué detalle comprobarías antes de colocar las guirnaldas del balcón?|
+noel-472|¿Qué persona de tu entorno podría ayudarte a preparar una playlist navideña?|¿Qué persona de tu entorno podría ayudarte a elegir un regalo para un ser querido?|
+noel-473|¿Cuánto crees que vale una bola de Navidad personalizada?|¿Cuánto crees que vale un rollo de papel de regalo de cinco metros?|
+noel-474|Para ti, ¿qué precio tiene un árbol de Navidad artificial de 1,50 m?|Para ti, ¿qué precio tiene una caja de 500 g de bombones surtidos?|
+noel-475|¿Quién podría darte el mejor consejo para envolver los regalos de la familia?|¿Quién podría darte el mejor consejo para preparar una cena de Nochebuena?|
+noel-476|¿Quién podría darte el mejor consejo para hacerte una foto delante del árbol?|¿Quién podría darte el mejor consejo para preparar un chocolate caliente casero?|
+noel-477|¿A partir de qué precio dudarías en comprar un juego familiar para Nochebuena?|¿A partir de qué precio dudarías en comprar una taza navideña?|
+noel-478|Para ti, ¿qué precio tiene un juego familiar para Nochebuena?|Para ti, ¿qué precio tiene una taza navideña?|
+noel-479|¿En cuánto tiempo podrías elegir un jersey para Nochebuena?|¿En cuánto tiempo podrías guardar los adornos después de las fiestas?|
+noel-480|¿Cuánto tiempo calcularías para hacer una lista de regalos?|¿Cuánto tiempo calcularías para preparar la mesa de Nochebuena?|
+noel-481|¿Hasta cuánto pagarías por un rollo de papel de regalo de cinco metros?|¿Hasta cuánto pagarías por una corona de puerta?|
+noel-482|¿En qué situación decidirías comprar una taza navideña?|¿En qué situación decidirías comprar una figura decorativa de reno?|
+noel-483|¿Qué frase te saldría si un familiar quiere llevarse las sobras?|¿Qué frase te saldría si tienes que elegir dónde pasar la Nochebuena?|
+noel-484|¿Qué sería lo más importante para elegir un jersey para Nochebuena?|¿Qué sería lo más importante para guardar los adornos después de las fiestas?|
+noel-485|¿En qué web o en qué tienda buscarías una guirnalda LED de diez metros para el árbol, de exterior?|¿En qué web o en qué tienda buscarías una caja de galletas navideñas?|
+noel-486|¿A qué sitio irías para encontrar un kit de casita de jengibre?|¿A qué sitio irías para encontrar un juego familiar para Nochebuena?|
+noel-487|¿En qué web o en qué tienda buscarías un rollo de papel de regalo de cinco metros?|¿En qué web o en qué tienda buscarías una corona de puerta?|
+noel-488|¿Cuánto estarías dispuesto a gastarte en una bola de Navidad personalizada?|¿Cuánto estarías dispuesto a gastarte en un rollo de papel de regalo de cinco metros?|
+noel-489|¿A partir de qué precio dudarías en comprar un árbol de Navidad artificial de 1,50 m?|¿A partir de qué precio dudarías en comprar una caja de 500 g de bombones surtidos?|
+noel-490|¿Cuál sería tu primer impulso si en una tienda se ha agotado el regalo que buscas?|¿Cuál sería tu primer impulso si te piden que pongas una canción de Navidad?|
+noel-491|¿Cuál sería tu primer impulso si la guirnalda del árbol deja de funcionar?|¿Cuál sería tu primer impulso si un invitado trae el mismo postre que tú?|
+noel-492|Si tuvieras que organizar un intercambio de regalos, ¿cuál sería tu prioridad?|Si tuvieras que poner los adornos en casa, ¿cuál sería tu prioridad?|
+noel-493|¿A partir de qué precio dudarías en comprar un jersey navideño divertido?|¿A partir de qué precio dudarías en comprar una vela aromática de especias?|
+noel-494|Si tuvieras que hacerte una foto delante del árbol, ¿cuál sería tu prioridad?|Si tuvieras que preparar un chocolate caliente casero, ¿cuál sería tu prioridad?|
+noel-495|¿En cuánto tiempo podrías preparar un chocolate caliente casero?|¿En cuánto tiempo podrías escribir una tarjeta de Navidad?|
+noel-496|¿Qué momento del día elegirías para preparar una cena de Nochebuena?|¿Qué momento del día elegirías para elegir una peli de Navidad?|
+noel-497|¿Cuánto crees que cuesta un árbol de Navidad natural de 1,50 m?|¿Cuánto crees que cuesta un árbol de Navidad artificial de 1,50 m?|
+noel-498|¿Cuál sería el mejor momento para preparar un paseo por el mercadillo navideño?|¿Cuál sería el mejor momento para elegir un jersey para Nochebuena?|
+noel-499|¿En qué momento te darían ganas de comprar un rollo de papel de regalo de cinco metros?|¿En qué momento te darían ganas de comprar una corona de puerta?|
+noel-500|¿Cuál sería el mejor momento para envolver los regalos de la familia?|¿Cuál sería el mejor momento para preparar una cena de Nochebuena?|
+noel-501|¿Cómo reaccionarías si un amigo te hace un regalo muy personal?|¿Cómo reaccionarías si en una tienda se ha agotado el regalo que buscas?|
+noel-502|Para ti, ¿qué precio tiene un calendario de Adviento con chocolates?|Para ti, ¿qué precio tiene una bola de Navidad personalizada?|
+noel-503|¿Qué dirías en ese momento si descubres un regalo escondido antes de Navidad?|¿Qué dirías en ese momento si el árbol se inclina peligrosamente?|
+noel-504|¿Cuánto crees que cuesta una corona de puerta?|¿Cuánto crees que cuesta un jersey navideño divertido?|
+noel-505|¿A partir de qué precio dudarías en comprar un calendario de Adviento con chocolates?|¿A partir de qué precio dudarías en comprar una bola de Navidad personalizada?|
+noel-506|¿En qué momento te darían ganas de comprar una caja de galletas de mantequilla?|¿En qué momento te darían ganas de comprar un kit de casita de jengibre?|
+noel-507|¿Cuánto estarías dispuesto a gastarte en una vela aromática de especias?|¿Cuánto estarías dispuesto a gastarte en una caja de galletas de mantequilla?|
+noel-508|¿A quién llamarías para que te ayude a colocar las guirnaldas del balcón?|¿A quién llamarías para que te ayude a hacerte una foto delante del árbol?|
+noel-509|¿En qué momento te darían ganas de comprar una cesta gourmet de Navidad para cuatro personas?|¿En qué momento te darían ganas de comprar un árbol de Navidad natural de 1,50 m?|
+noel-510|¿Cuánto tiempo calcularías para elegir una peli de Navidad?|¿Cuánto tiempo calcularías para preparar galletas navideñas?|
+noel-511|¿Qué precio te imaginas para una caja de galletas de mantequilla?|¿Qué precio te imaginas para un kit de casita de jengibre?|
+noel-512|¿A qué sitio irías para encontrar una estrella para el árbol?|¿A qué sitio irías para encontrar un estuche de tés de invierno?|
+noel-513|¿Qué franja del día sería la más práctica para elegir una peli de Navidad?|¿Qué franja del día sería la más práctica para preparar galletas navideñas?|
+noel-514|¿En cuánto tiempo podrías preparar una cena de Nochebuena?|¿En cuánto tiempo podrías elegir una peli de Navidad?|
+noel-515|¿Hasta cuánto pagarías por una cesta gourmet de Navidad para cuatro personas?|¿Hasta cuánto pagarías por un árbol de Navidad natural de 1,50 m?|
+noel-516|¿Qué dirías si un niño quiere abrir los regalos demasiado pronto?|¿Qué dirías si te piden que cocines en el último momento?|
+noel-517|¿Hasta cuánto pagarías por una figura decorativa de reno?|¿Hasta cuánto pagarías por una estrella para el árbol?|
