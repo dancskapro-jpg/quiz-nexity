@@ -397,3 +397,103 @@ nature-528|Hoe vaak per jaar heb je de kans om een uitje naar een meer voor te b
 nature-529|Welk tijdstip van de dag zou het handigst zijn om een uitkijkpunt te zoeken met vrij uitzicht over de stad?|Welk tijdstip van de dag zou het handigst zijn om een weekend in de bergen voor te bereiden?|
 nature-530|Hoeveel denk je dat een tuinhangmat kost?|Hoeveel denk je dat een paar wandelschoenen kost?|
 nature-531|Hoe vaak per maand heb je de kans om een wandeling van twee uur voor te bereiden?|Hoe vaak per maand heb je de kans om een vogel te spotten in een park?|
+nature-532|Wat zou je eerste reactie zijn als een eekhoorn heel dicht bij je komt?|Wat zou je eerste reactie zijn als je een verdwaalde kat op straat vindt?|
+fetes-530|Wat zou je ertoe brengen om een carnavalskostuum te kopen?|Wat zou je ertoe brengen om een piñata voor een verjaardag te kopen?|
+fetes-531|Wat zou je ertoe brengen om een pak sierkaarsen te kopen?|Wat zou je ertoe brengen om een adventskalender met lekkernijen te kopen?|
+fetes-532|Als je een diner voor oud en nieuw moest organiseren, wat zou je prioriteit zijn?|Als je paaseieren zoeken moest voorbereiden, wat zou je prioriteit zijn?|
+fetes-533|Welk detail zou je checken voordat je een verjaardagsuitnodiging maakt?|Welk detail zou je checken voordat je een menu voor het kerstdiner kiest?|
+fetes-534|Hoeveel tijd zou je uittrekken om een cadeautjesruil te organiseren?|Hoeveel tijd zou je uittrekken om een verrassingsfeest voor een verjaardag te organiseren?|
+fetes-535|Wat zou je als eerste doen als je twee uitnodigingen voor dezelfde avond krijgt?|Wat zou je als eerste doen als de taart met de verkeerde naam erop wordt bezorgd?|
+fetes-536|Welk tijdstip van de dag zou het handigst zijn om een familiefeest voor te bereiden?|Welk tijdstip van de dag zou het handigst zijn om een carnavalskostuum uit te kiezen?|
+fetes-537|Hoeveel zou je willen uitgeven aan een ledlichtsnoer van tien meter voor buiten?|Hoeveel zou je willen uitgeven aan een doos gemengde chocolaatjes?|
+fetes-538|Welke zin zou eruit floepen als de muziek stopt op een belangrijk moment?|Welke zin zou eruit floepen als een cadeau kapotgaat bij het uitpakken?|
+fetes-539|Wat zou je eerste reflex zijn als een naaste het feest eerder wil laten beginnen?|Wat zou je eerste reflex zijn als een gast het laatste aandenken pakt dat voor iedereen bedoeld was?|
+fetes-540|Hoeveel zou je maximaal uitgeven aan versiering voor oud en nieuw?|Hoeveel zou je maximaal uitgeven aan een photobooth-accessoire?|
+fetes-541|Waar zou je heen gaan om versiering voor oud en nieuw te vinden?|Waar zou je heen gaan om een photobooth-accessoire te vinden?|
+fetes-542|Voor welke gelegenheid zou je een piñata voor een verjaardag willen kopen?|Voor welke gelegenheid zou je een zak afbreekbare ballonnen willen kopen?|
+fetes-543|Wat zou je ertoe brengen om een verjaardagstaart voor twaalf personen te kopen?|Wat zou je ertoe brengen om feestelijke tafelversiering te kopen?|
+fetes-544|Wie zou je het beste advies kunnen geven om foto's als aandenken voor te bereiden?|Wie zou je het beste advies kunnen geven om een gastenlijst te maken?|
+fetes-545|Wat zou het belangrijkste punt zijn bij het voorbereiden van paaseieren zoeken?|Wat zou het belangrijkste punt zijn bij het voorbereiden van een familiefeest?|
+fetes-546|Hoeveel zou je willen uitgeven aan een ambachtelijke banketstaaf voor zes personen?|Hoeveel zou je willen uitgeven aan een doos feestkoekjes?|galette des rois → banketstaaf
+fetes-547|Op welk moment van de week zou je het liefst een feestje voor een diploma-uitreiking organiseren?|Op welk moment van de week zou je het liefst foto's als aandenken voorbereiden?|
+fetes-548|Wat zou het beste moment zijn om een speech voor een bruiloft voor te bereiden?|Wat zou het beste moment zijn om een zaal te versieren voor een feest?|
+fetes-549|Wie zou je het beste advies kunnen geven om tien cadeaus in te pakken?|Wie zou je het beste advies kunnen geven om een feesttafel te versieren?|
+fetes-550|Wat zou je grootste uitdaging zijn bij het kiezen van een afscheidscadeau?|Wat zou je grootste uitdaging zijn bij het organiseren van een diner voor oud en nieuw?|
+fetes-551|Wat zou je als eerste doen als het feest door het weer naar binnen moet?|Wat zou je als eerste doen als je ontdekt dat er een verrassing voor je wordt georganiseerd?|
+fetes-552|Waar zou je als eerste zoeken naar een ledlichtsnoer van tien meter voor buiten?|Waar zou je als eerste zoeken naar een doos gemengde chocolaatjes?|
+fetes-553|Hoe snel zou je een zaal kunnen versieren voor een feest?|Hoe snel zou je wenskaarten kunnen maken?|
+fetes-554|Hoe snel zou je paaseieren zoeken kunnen voorbereiden?|Hoe snel zou je een familiefeest kunnen voorbereiden?|
+fetes-555|Wat is volgens jou de prijs van een piñata voor een verjaardag?|Wat is volgens jou de prijs van een zak afbreekbare ballonnen?|
+fetes-556|Boven welke prijs zou je twijfelen om een photobooth-accessoire te kopen?|Boven welke prijs zou je twijfelen om een ambachtelijke banketstaaf voor zes personen te kopen?|galette des rois → banketstaaf
+fetes-557|Wie in je omgeving zou je kunnen helpen om een zaal te versieren voor een feest?|Wie in je omgeving zou je kunnen helpen om wenskaarten te maken?|
+fetes-558|Op welke site of in welke winkel zou je zoeken naar een set om cadeaus in te pakken?|Op welke site of in welke winkel zou je zoeken naar een assortiment van twintig petitfours?|
+fetes-559|In welke situatie zou je besluiten een ledlichtsnoer van tien meter voor buiten te kopen?|In welke situatie zou je besluiten een doos gemengde chocolaatjes te kopen?|
+fetes-560|Als je tien cadeaus moest inpakken, wat zou je prioriteit zijn?|Als je een feesttafel moest versieren, wat zou je prioriteit zijn?|
+fetes-561|Hoe snel zou je seizoensversiering kunnen ophangen?|Hoe snel zou je een verjaardagstaart kunnen maken?|
+fetes-562|Wat zou je ter plekke zeggen als een gast het laatste aandenken pakt dat voor iedereen bedoeld was?|Wat zou je ter plekke zeggen als je twee uitnodigingen voor dezelfde avond krijgt?|
+fetes-563|Hoeveel zou je willen uitgeven aan een bos bloemen om cadeau te geven?|Hoeveel zou je willen uitgeven aan een gepersonaliseerde wenskaart?|
+fetes-564|Wat is volgens jou de prijs van een decoratieve deurkrans?|Wat is volgens jou de prijs van een bordspel voor een feestje?|
+fetes-565|Wat zou je ertoe brengen om een assortiment van twintig petitfours te kopen?|Wat zou je ertoe brengen om een decoratieve deurkrans te kopen?|
+fetes-566|Wat zou je zeggen als het feest door het weer naar binnen moet?|Wat zou je zeggen als je ontdekt dat er een verrassing voor je wordt georganiseerd?|
+fetes-567|Wat zou het beste moment zijn om tien cadeaus in te pakken?|Wat zou het beste moment zijn om een feesttafel te versieren?|
+fetes-568|Welk detail zou je checken voordat je een cadeautjesruil organiseert?|Welk detail zou je checken voordat je een verrassingsfeest voor een verjaardag organiseert?|
+fetes-569|Hoeveel tijd zou je uittrekken om een familiefeest voor te bereiden?|Hoeveel tijd zou je uittrekken om een carnavalskostuum uit te kiezen?|
+fetes-570|Wat zou je grootste uitdaging zijn bij het organiseren van een verrassingsfeest voor een verjaardag?|Wat zou je grootste uitdaging zijn bij het inpakken van tien cadeaus?|
+fetes-571|Welk detail zou je checken voordat je wenskaarten maakt?|Welk detail zou je checken voordat je een afscheidscadeau kiest?|
+fetes-572|Wat zou je ter plekke zeggen als een gast verkleed komt in een kostuum dat niet bij het thema past?|Wat zou je ter plekke zeggen als het feest door het weer naar binnen moet?|
+fetes-573|Voor welke gelegenheid zou je een decoratieve deurkrans willen kopen?|Voor welke gelegenheid zou je een bordspel voor een feestje willen kopen?|
+fetes-574|Waar zou je heen gaan om een assortiment van twintig petitfours te vinden?|Waar zou je heen gaan om een decoratieve deurkrans te vinden?|
+fetes-575|Wat zou je eerste reactie zijn als een vriend je vraagt om in de microfoon te zingen?|Wat zou je eerste reactie zijn als de versiering tijdens het eten naar beneden valt?|
+fetes-576|Wat zou het belangrijkste punt zijn bij het ophangen van seizoensversiering?|Wat zou het belangrijkste punt zijn bij het maken van een verjaardagstaart?|
+fetes-577|Wanneer zou je zin hebben om een gepersonaliseerde wenskaart te kopen?|Wanneer zou je zin hebben om een pak sierkaarsen te kopen?|
+fetes-578|Wie in je omgeving zou je kunnen helpen om een feesttafel te versieren?|Wie in je omgeving zou je kunnen helpen om een verjaardagsuitnodiging te maken?|
+fetes-579|Welke zin zou eruit floepen als de taart met de verkeerde naam erop wordt bezorgd?|Welke zin zou eruit floepen als een gast vergeet zijn cadeau mee te nemen?|
+fetes-580|Wanneer zou je zin hebben om een doos gemengde chocolaatjes te kopen?|Wanneer zou je zin hebben om een carnavalskostuum te kopen?|
+fetes-581|Waar zou je heen gaan om een decoratieve deurkrans te kopen?|Waar zou je heen gaan om een bordspel voor een feestje te kopen?|
+fetes-582|Wie zou je inschakelen om je te helpen een feestje voor een diploma-uitreiking te organiseren?|Wie zou je inschakelen om je te helpen foto's als aandenken voor te bereiden?|
+fetes-583|Wat zou je eerste reactie zijn als een gast het laatste aandenken pakt dat voor iedereen bedoeld was?|Wat zou je eerste reactie zijn als je twee uitnodigingen voor dezelfde avond krijgt?|
+fetes-584|Als je een speech voor een bruiloft moest voorbereiden, wat zou je prioriteit zijn?|Als je een zaal moest versieren voor een feest, wat zou je prioriteit zijn?|
+fetes-585|Wat zou het belangrijkste punt zijn bij het versieren van een feesttafel?|Wat zou het belangrijkste punt zijn bij het maken van een verjaardagsuitnodiging?|
+fetes-586|Wie zou je inschakelen om je te helpen een verrassingsfeest voor een verjaardag te organiseren?|Wie zou je inschakelen om je te helpen tien cadeaus in te pakken?|
+fetes-587|Waar zou je heen gaan om een pak sierkaarsen te vinden?|Waar zou je heen gaan om een adventskalender met lekkernijen te vinden?|
+fetes-588|Wat zou je ter plekke zeggen als een vriend je vraagt om in de microfoon te zingen?|Wat zou je ter plekke zeggen als de versiering tijdens het eten naar beneden valt?|
+fetes-589|Welk detail zou je checken voordat je een familiefeest voorbereidt?|Welk detail zou je checken voordat je een carnavalskostuum kiest?|
+fetes-590|Wat zou je grootste uitdaging zijn bij het kiezen van een carnavalskostuum?|Wat zou je grootste uitdaging zijn bij het voorbereiden van een buffet voor twintig gasten?|
+fetes-591|Hoe zou je reageren als de muziek stopt op een belangrijk moment?|Hoe zou je reageren als een cadeau kapotgaat bij het uitpakken?|
+fetes-592|Waar zou je als eerste zoeken naar een bordspel voor een feestje?|Waar zou je als eerste zoeken naar een fles bruisend sap?|
+fetes-593|Boven welke prijs zou je twijfelen om een adventskalender met lekkernijen te kopen?|Boven welke prijs zou je twijfelen om een ledlichtsnoer van tien meter voor buiten te kopen?|
+fetes-594|Hoeveel denk je dat een zak afbreekbare ballonnen kost?|Hoeveel denk je dat een set om cadeaus in te pakken kost?|
+fetes-595|Wat zou je antwoorden als een gast vergeet zijn cadeau mee te nemen?|Wat zou je antwoorden als je de kaarsjes moet uitblazen waar iedereen bij is?|
+fetes-596|Hoeveel tijd zou je nodig hebben om een feestje voor een diploma-uitreiking te organiseren?|Hoeveel tijd zou je nodig hebben om foto's als aandenken voor te bereiden?|
+fetes-597|Waar zou je heen gaan om een adventskalender met lekkernijen te kopen?|Waar zou je heen gaan om een ledlichtsnoer van tien meter voor buiten te kopen?|
+fetes-598|Wat zou je ter plekke zeggen als een vriend alles in jouw plaats wil organiseren?|Wat zou je ter plekke zeggen als de cateraar laat weten dat hij later komt?|
+fetes-599|Wat zou je zeggen als een speech op een feest maar blijft duren?|Wat zou je zeggen als de muziek stopt op een belangrijk moment?|
+fetes-600|Tot hoeveel zou je betalen voor een doos gemengde chocolaatjes?|Tot hoeveel zou je betalen voor een carnavalskostuum?|
+fetes-601|Wie in je omgeving zou je kunnen helpen om seizoensversiering op te hangen?|Wie in je omgeving zou je kunnen helpen om een verjaardagstaart te maken?|
+fetes-602|Wat zou je eerste reactie zijn als een gast verkleed komt in een kostuum dat niet bij het thema past?|Wat zou je eerste reactie zijn als het feest door het weer naar binnen moet?|
+fetes-603|Boven welke prijs zou je twijfelen om een piñata voor een verjaardag te kopen?|Boven welke prijs zou je twijfelen om een zak afbreekbare ballonnen te kopen?|
+fetes-604|Hoeveel denk je dat versiering voor oud en nieuw kost?|Hoeveel denk je dat een photobooth-accessoire kost?|
+fetes-605|Aan welke prijs denk je voor een fles bruisend sap?|Aan welke prijs denk je voor versiering voor oud en nieuw?|
+fetes-606|Wat zou het beste moment zijn om een buffet voor twintig gasten voor te bereiden?|Wat zou het beste moment zijn om seizoensversiering op te hangen?|
+fetes-607|Wat zou je antwoorden als iemand een gênant moment op de foto zet?|Wat zou je antwoorden als een vriend je vraagt om in de microfoon te zingen?|
+fetes-608|Aan wie zou je hulp vragen om een verjaardagsuitnodiging te maken?|Aan wie zou je hulp vragen om een menu voor het kerstdiner te kiezen?|
+fetes-609|Wie in je omgeving zou je kunnen helpen om een gastenlijst te maken?|Wie in je omgeving zou je kunnen helpen om een cadeautjesruil te organiseren?|
+fetes-610|Waar zou je heen gaan om een photobooth-accessoire te kopen?|Waar zou je heen gaan om een ambachtelijke banketstaaf voor zes personen te kopen?|galette des rois → banketstaaf
+fetes-611|Welk moment van de dag zou je kiezen om een gastenlijst te maken?|Welk moment van de dag zou je kiezen om een cadeautjesruil te organiseren?|
+fetes-612|Hoeveel zou je willen uitgeven aan een bordspel voor een feestje?|Hoeveel zou je willen uitgeven aan een fles bruisend sap?|
+fetes-613|Voor welke gelegenheid zou je een adventskalender met lekkernijen willen kopen?|Voor welke gelegenheid zou je een ledlichtsnoer van tien meter voor buiten willen kopen?|
+fetes-614|Welk tijdstip van de dag zou het handigst zijn om een verjaardagsuitnodiging te maken?|Welk tijdstip van de dag zou het handigst zijn om een menu voor het kerstdiner te kiezen?|
+fetes-615|Wanneer zou je zin hebben om een doos feestkoekjes te kopen?|Wanneer zou je zin hebben om een verjaardagstaart voor twaalf personen te kopen?|
+fetes-616|Hoeveel tijd zou je nodig hebben om een menu voor het kerstdiner te kiezen?|Hoeveel tijd zou je nodig hebben om een speech voor een bruiloft voor te bereiden?|
+fetes-617|Welke zin zou eruit floepen als je vergeet het kaartje bij het cadeau te schrijven?|Welke zin zou eruit floepen als een naaste het feest eerder wil laten beginnen?|
+fetes-618|Hoeveel zou je maximaal uitgeven aan een pak sierkaarsen?|Hoeveel zou je maximaal uitgeven aan een adventskalender met lekkernijen?|
+fetes-619|Hoeveel tijd zou je uittrekken om een verjaardagstaart te maken?|Hoeveel tijd zou je uittrekken om een feestje voor een diploma-uitreiking te organiseren?|
+fetes-620|Op welke site of in welke winkel zou je zoeken naar een doos gemengde chocolaatjes?|Op welke site of in welke winkel zou je zoeken naar een carnavalskostuum?|
+fetes-621|Welk moment van de dag zou je kiezen om paaseieren zoeken voor te bereiden?|Welk moment van de dag zou je kiezen om een familiefeest voor te bereiden?|
+fetes-622|Hoeveel denk je dat een ambachtelijke banketstaaf voor zes personen kost?|Hoeveel denk je dat een doos feestkoekjes kost?|galette des rois → banketstaaf
+fetes-623|Wat zou je eerste reflex zijn als een gast met een extra taart aankomt?|Wat zou je eerste reflex zijn als een vriend alles in jouw plaats wil organiseren?|
+fetes-624|Hoeveel denk je dat een assortiment van twintig petitfours kost?|Hoeveel denk je dat een decoratieve deurkrans kost?|
+fetes-625|Wie in je omgeving zou je kunnen helpen om paaseieren zoeken voor te bereiden?|Wie in je omgeving zou je kunnen helpen om een familiefeest voor te bereiden?|
+fetes-626|Hoeveel zou je maximaal uitgeven aan een assortiment van twintig petitfours?|Hoeveel zou je maximaal uitgeven aan een decoratieve deurkrans?|
+fetes-627|Tot hoeveel zou je betalen voor een doos feestkoekjes?|Tot hoeveel zou je betalen voor een verjaardagstaart voor twaalf personen?|
+fetes-628|Wat is volgens jou de prijs van een photobooth-accessoire?|Wat is volgens jou de prijs van een ambachtelijke banketstaaf voor zes personen?|galette des rois → banketstaaf

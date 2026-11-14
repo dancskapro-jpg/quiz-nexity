@@ -197,3 +197,103 @@ ville-528|Wer aus deinem Umfeld könnte dir helfen, ein Restaurant in der Nähe 
 ville-529|Welches Budget würdest du höchstens für einen Erwachseneneintritt in ein kostenpflichtiges städtisches Museum einplanen?|Welches Budget würdest du höchstens für einen Einzelfahrschein für die Straßenbahn in Deutschland einplanen?|France → Deutschland
 ville-530|Welcher Satz käme dir über die Lippen, wenn du einen Geldbeutel auf dem Gehweg findest?|Welcher Satz käme dir über die Lippen, wenn die Straße, die du kennst, gesperrt ist?|
 ville-531|Was würdest du sagen, wenn ein Bus an dir vorbeifährt, ohne anzuhalten?|Was würdest du sagen, wenn hinter dir ein Radfahrer klingelt?|
+ville-532|Wie würdest du antworten, wenn dich ein Fußgänger nach der Uhrzeit fragt?|Wie würdest du antworten, wenn dein Zug in letzter Minute das Gleis wechselt?|
+imaginaire-332|Wie lange würdest du brauchen, um einen komplett freien Tag zu organisieren?|Wie lange würdest du brauchen, um dir dein Traumhaus auszumalen?|
+imaginaire-333|Was kostet deiner Ansicht nach ein 60-m²-Haus weniger als 500 Meter vom Strand an der Ostsee?|Was kostet deiner Ansicht nach eine dreitägige Überraschungsreise für zwei Personen nach Rom, inklusive Anreise?|Bretagne → Ostsee
+imaginaire-334|Wen würdest du um Hilfe bitten, um eine Überraschung für dein ganzes Umfeld vorzubereiten?|Wen würdest du um Hilfe bitten, um einen komplett freien Tag zu organisieren?|
+imaginaire-335|Wer aus deinem Umfeld könnte dir helfen, eine persönliche Challenge fürs Jahr vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, ein Reiseziel auszusuchen, an das du oft zurückkehrst?|
+imaginaire-336|Ab welchem Preis würdest du zögern, eine Hütte am See für ein Wochenende zu mieten?|Ab welchem Preis würdest du zögern, eine große Werkstatt für deine Hobbys zu kaufen?|
+imaginaire-337|Was glaubst du, wie viel eine große Werkstatt für deine Hobbys wert ist?|Was glaubst du, wie viel eine maßgefertigte eigene Bibliothek wert ist?|
+imaginaire-338|Wie würdest du reagieren, wenn du jeden Morgen eine Stunde mehr geschenkt bekämst?|Wie würdest du reagieren, wenn du deinem zukünftigen Ich eine Frage stellen könntest?|
+imaginaire-339|Worauf würde es am meisten ankommen, wenn du eine große Party ohne Einschränkungen vorbereitest?|Worauf würde es am meisten ankommen, wenn du eine Aktivität aussuchst, die du kostenlos testen kannst?|
+imaginaire-340|Wie lange würdest du brauchen, um eine Liste deiner Traumreisen zu machen?|Wie lange würdest du brauchen, um ein Talent auszusuchen, das du schnell lernen willst?|
+imaginaire-341|In welcher Situation würdest du dich entscheiden, eine Kino-Flatrate zu kaufen?|In welcher Situation würdest du dich entscheiden, einen Aufenthalt in einer Stadt im Ausland zu buchen?|
+imaginaire-342|Wie viel wärst du bereit, für eine dreitägige Überraschungsreise für zwei Personen nach Rom auszugeben, inklusive Anreise?|Wie viel wärst du bereit, für eine Woche in einem Traumhotel auszugeben?|
+imaginaire-343|Was glaubst du, wie viel eine Kino-Flatrate wert ist?|Was glaubst du, wie viel ein Aufenthalt in einer Stadt im Ausland wert ist?|
+imaginaire-344|Was glaubst du, wie viel es wert ist, ein kleines Boot für einen Tag zu mieten?|Was glaubst du, wie viel ein Fitnessraum zu Hause wert ist?|
+imaginaire-345|Was würde dich dazu bringen, einen Hin- und Rückflug innerhalb Europas mit flexiblen Daten zu kaufen?|Was würde dich dazu bringen, eine Hütte am See für ein Wochenende zu mieten?|
+imaginaire-346|Welchen Preis stellst du dir für eine Woche in einem Traumhotel vor?|Welchen Preis stellst du dir für eine Privatstunde bei einem Experten vor?|
+imaginaire-347|Wie viel Zeit würdest du einplanen, um eine Aktivität auszusuchen, die du kostenlos testen kannst?|Wie viel Zeit würdest du einplanen, um eine Reise mit deinem besten Freund zu organisieren?|
+imaginaire-348|In welcher Situation würdest du dich entscheiden, eine große Werkstatt für deine Hobbys zu kaufen?|In welcher Situation würdest du dich entscheiden, eine maßgefertigte eigene Bibliothek zu kaufen?|
+imaginaire-349|Was wäre für dich das Schwierigste daran, eine Reise mit deinem besten Freund zu organisieren?|Was wäre für dich das Schwierigste daran, dir eine Woche ohne Handy vorzustellen?|
+imaginaire-350|Wo würdest du hingehen, um einen Garten zu finden, der zum Lesen eingerichtet ist?|Wo würdest du hingehen, um einen Oldtimer für einen Tag zu mieten?|
+imaginaire-351|Was würde dich dazu bringen, eine dreimonatige Zugreise durch mehrere Länder zu buchen?|Was würde dich dazu bringen, ein 60-m²-Haus weniger als 500 Meter vom Strand an der Ostsee zu kaufen?|Bretagne → Ostsee
+imaginaire-352|Was kostet deiner Ansicht nach eine Hütte am See für ein Wochenende?|Was kostet deiner Ansicht nach eine große Werkstatt für deine Hobbys?|
+imaginaire-353|Wenn du ein Talent aussuchen müsstest, das du schnell lernen willst, was hätte für dich Priorität?|Wenn du deinen idealen Wochenplan neu ordnen müsstest, was hätte für dich Priorität?|
+imaginaire-354|Worauf würde es am meisten ankommen, wenn du einen Beruf aussuchst, den du einen Tag lang ausprobierst?|Worauf würde es am meisten ankommen, wenn du ein Abendessen mit berühmten Leuten organisierst?|
+imaginaire-355|Wie lange würdest du brauchen, um eine Reise mit deinem besten Freund zu organisieren?|Wie lange würdest du brauchen, um dir eine Woche ohne Handy vorzustellen?|
+imaginaire-356|Welches Budget würdest du höchstens für einen Garten einplanen, der zum Lesen eingerichtet ist?|Welches Budget würdest du höchstens einplanen, um einen Oldtimer für einen Tag zu mieten?|
+imaginaire-357|Was wäre deine erste Reaktion, wenn du fünf Leute zu einem großen Abendessen einladen könntest?|Was wäre deine erste Reaktion, wenn du eine Bibliothek mit allen Büchern der Welt hättest?|
+imaginaire-358|Wie würdest du antworten, wenn du einen Tag lang jeden beliebigen Beruf ausprobieren könntest?|Wie würdest du antworten, wenn du einen Brief finden würdest, den du in zehn Jahren geschrieben hast?|
+imaginaire-359|Welches Budget würdest du höchstens für ein Wochenende in einem Schloss einplanen?|Welches Budget würdest du höchstens für ein Privatkonzert im kleinen Kreis einplanen?|
+imaginaire-360|Wann hättest du Lust, einen Aufenthalt in einer Stadt im Ausland zu buchen?|Wann hättest du Lust, ein Wochenende in einem Schloss zu buchen?|
+imaginaire-361|Wo würdest du zuerst nach einem kleinen Boot suchen, das man für einen Tag mieten kann?|Wo würdest du zuerst nach einem Fitnessraum für zu Hause suchen?|
+imaginaire-362|Wenn du dir eine Woche ohne Handy vorstellen müsstest, was hätte für dich Priorität?|Wenn du eine persönliche Challenge fürs Jahr vorbereiten müsstest, was hätte für dich Priorität?|
+imaginaire-363|Wann wäre der beste Zeitpunkt, um eine neue Stadt zum Wohnen auszusuchen?|Wann wäre der beste Zeitpunkt, um eine Reise ohne Budgetgrenze zu planen?|
+imaginaire-364|Wie viel Zeit würdest du einplanen, um eine Überraschung für dein ganzes Umfeld vorzubereiten?|Wie viel Zeit würdest du einplanen, um einen komplett freien Tag zu organisieren?|
+imaginaire-365|Was wäre deine erste Reaktion, wenn du einen Brief finden würdest, den du in zehn Jahren geschrieben hast?|Was wäre deine erste Reaktion, wenn dir jemand ein Haus in der Stadt deiner Wahl schenken würde?|
+imaginaire-366|Worauf würde es am meisten ankommen, wenn du deinen idealen Wochenplan neu ordnest?|Worauf würde es am meisten ankommen, wenn du eine Überraschung für dein ganzes Umfeld vorbereitest?|
+imaginaire-367|Wo würdest du hingehen, um eine Privatstunde bei einem Experten zu finden?|Wo würdest du hingehen, um ein Abendessen für zwei zu finden, das ein Koch bei dir zu Hause zubereitet?|
+imaginaire-368|Was kostet deiner Ansicht nach ein Abendessen für zwei, das ein Koch bei dir zu Hause zubereitet?|Was kostet deiner Ansicht nach eine Kino-Flatrate?|
+imaginaire-369|Welchen Preis stellst du dir für einen Fitnessraum zu Hause vor?|Welchen Preis stellst du dir für einen Garten vor, der zum Lesen eingerichtet ist?|
+imaginaire-370|Was würdest du als Erstes tun, wenn du eine Reise gewinnen würdest, ohne das Ziel zu kennen?|Was würdest du als Erstes tun, wenn man dir ein ganzes Jahr Urlaub anbieten würde?|
+imaginaire-371|Was würdest du spontan sagen, wenn dir ein Fremder ein Ticket in ein beliebiges Land schenken würde?|Was würdest du spontan sagen, wenn du kostenlos in alle Museen dürftest?|
+imaginaire-372|In welcher Situation würdest du dich entscheiden, ein begleitetes Fahrerlebnis auf der Rennstrecke zu kaufen?|In welcher Situation würdest du dich entscheiden, ein Kunst-Retreat zu buchen?|
+imaginaire-373|Welche Tageszeit wäre am praktischsten, um eine Aktivität auszusuchen, die du kostenlos testen kannst?|Welche Tageszeit wäre am praktischsten, um eine Reise mit deinem besten Freund zu organisieren?|
+imaginaire-374|Was würde dich dazu bringen, einen Garten zu kaufen, der zum Lesen eingerichtet ist?|Was würde dich dazu bringen, einen Oldtimer für einen Tag zu mieten?|
+imaginaire-375|Wie schnell könntest du eine persönliche Challenge fürs Jahr vorbereiten?|Wie schnell könntest du ein Reiseziel aussuchen, an das du oft zurückkehrst?|
+imaginaire-376|Welchen Preis stellst du dir für einen Aufenthalt in einer Stadt im Ausland vor?|Welchen Preis stellst du dir für ein Wochenende in einem Schloss vor?|
+imaginaire-377|Bis zu wie viel würdest du für ein Kunst-Retreat zahlen?|Bis zu wie viel würdest du für einen Hin- und Rückflug innerhalb Europas mit flexiblen Daten zahlen?|
+imaginaire-378|Wie würdest du reagieren, wenn man dir eine dreimonatige Zugreise anbieten würde?|Wie würdest du reagieren, wenn du einen misslungenen Tag noch mal erleben könntest?|
+imaginaire-379|Zu welchem Anlass würdest du ein Abendessen für zwei kaufen wollen, das ein Koch bei dir zu Hause zubereitet?|Zu welchem Anlass würdest du eine Kino-Flatrate kaufen wollen?|
+imaginaire-380|Wie lange braucht man deiner Meinung nach, um ein Talent auszusuchen, das man schnell lernen will?|Wie lange braucht man deiner Meinung nach, um seinen idealen Wochenplan neu zu ordnen?|
+imaginaire-381|Wann wäre der beste Zeitpunkt, um ein Sabbatjahr vorzubereiten?|Wann wäre der beste Zeitpunkt, um einen Beruf auszusuchen, den du einen Tag lang ausprobierst?|
+imaginaire-382|Was kostet deiner Meinung nach eine Privatstunde bei einem Experten?|Was kostet deiner Meinung nach ein Abendessen für zwei, das ein Koch bei dir zu Hause zubereitet?|
+imaginaire-383|Welche Tageszeit wäre am praktischsten, um eine Überraschung für dein ganzes Umfeld vorzubereiten?|Welche Tageszeit wäre am praktischsten, um einen komplett freien Tag zu organisieren?|
+imaginaire-384|Welches Detail würdest du prüfen, bevor du ein Abendessen mit berühmten Leuten organisierst?|Welches Detail würdest du prüfen, bevor du eine Liste deiner Traumreisen machst?|
+imaginaire-385|Welche Tageszeit würdest du wählen, um eine große Party ohne Einschränkungen vorzubereiten?|Welche Tageszeit würdest du wählen, um eine Aktivität auszusuchen, die du kostenlos testen kannst?|
+imaginaire-386|Wer könnte dir den besten Rat geben, um dir eine Woche ohne Handy vorzustellen?|Wer könnte dir den besten Rat geben, um eine persönliche Challenge fürs Jahr vorzubereiten?|
+imaginaire-387|Bis zu wie viel würdest du für eine Woche in einem Traumhotel zahlen?|Bis zu wie viel würdest du für eine Privatstunde bei einem Experten zahlen?|
+imaginaire-388|Was würde dich dazu bringen, eine Privatstunde bei einem Experten zu kaufen?|Was würde dich dazu bringen, ein Abendessen für zwei zu kaufen, das ein Koch bei dir zu Hause zubereitet?|
+imaginaire-389|Was würdest du als Erstes tun, wenn du kostenlos in alle Museen dürftest?|Was würdest du als Erstes tun, wenn du jeden Morgen eine Stunde mehr geschenkt bekämst?|
+imaginaire-390|Welche Tageszeit würdest du wählen, um deinen idealen Wochenplan neu zu ordnen?|Welche Tageszeit würdest du wählen, um eine Überraschung für dein ganzes Umfeld vorzubereiten?|
+imaginaire-391|Was glaubst du, wie viel eine dreitägige Überraschungsreise für zwei Personen nach Rom wert ist, inklusive Anreise?|Was glaubst du, wie viel eine Woche in einem Traumhotel wert ist?|
+imaginaire-392|Was kostet deiner Ansicht nach ein Privatkonzert im kleinen Kreis?|Was kostet deiner Ansicht nach ein kleines Boot, das man für einen Tag mietet?|
+imaginaire-393|Worauf würde es am meisten ankommen, wenn du eine persönliche Challenge fürs Jahr vorbereitest?|Worauf würde es am meisten ankommen, wenn du ein Reiseziel aussuchst, an das du oft zurückkehrst?|
+imaginaire-394|Was würdest du sagen, wenn du eine Reise gewinnen würdest, ohne das Ziel zu kennen?|Was würdest du sagen, wenn man dir ein ganzes Jahr Urlaub anbieten würde?|
+imaginaire-395|Was würde dich dazu bringen, ein Wochenende in einem Schloss zu buchen?|Was würde dich dazu bringen, ein Privatkonzert im kleinen Kreis zu kaufen?|
+imaginaire-396|Wen würdest du kontaktieren, damit er dir hilft, einen Monat freien Urlaub zu organisieren?|Wen würdest du kontaktieren, damit er dir hilft, eine neue Stadt zum Wohnen auszusuchen?|
+imaginaire-397|Bis zu wie viel würdest du für einen Aufenthalt in einer Stadt im Ausland zahlen?|Bis zu wie viel würdest du für ein Wochenende in einem Schloss zahlen?|
+imaginaire-398|Ab welchem Preis würdest du zögern, ein Privatkonzert im kleinen Kreis zu kaufen?|Ab welchem Preis würdest du zögern, ein kleines Boot für einen Tag zu mieten?|
+imaginaire-399|Was würdest du spontan sagen, wenn du ein Budget bekämst, um dir einen Traum zu erfüllen?|Was würdest du spontan sagen, wenn du dir sofort eine neue Fähigkeit aussuchen könntest?|
+imaginaire-400|Wie viel Zeit würdest du einplanen, um ein Abendessen mit berühmten Leuten zu organisieren?|Wie viel Zeit würdest du einplanen, um eine Liste deiner Traumreisen zu machen?|
+imaginaire-401|Was wäre für dich das Schwierigste daran, einen komplett freien Tag zu organisieren?|Was wäre für dich das Schwierigste daran, dir dein Traumhaus auszumalen?|
+imaginaire-402|Welcher Satz käme dir über die Lippen, wenn du einen einzigen glücklichen Tag noch mal erleben könntest?|Welcher Satz käme dir über die Lippen, wenn du einen Abend mit deinem Lieblingskünstler verbringen könntest?|
+imaginaire-403|Wo würdest du zuerst nach einer großen Werkstatt für deine Hobbys suchen?|Wo würdest du zuerst nach einer maßgefertigten eigenen Bibliothek suchen?|
+imaginaire-404|Auf welcher Website oder in welchem Laden würdest du nach einer maßgefertigten eigenen Bibliothek suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer dreimonatigen Zugreise durch mehrere Länder suchen?|
+imaginaire-405|Was wäre dein erster Reflex, wenn du einen Tag lang jeden beliebigen Beruf ausprobieren könntest?|Was wäre dein erster Reflex, wenn du einen Brief finden würdest, den du in zehn Jahren geschrieben hast?|
+imaginaire-406|Welches Detail würdest du prüfen, bevor du ein Reiseziel aussuchst, an das du oft zurückkehrst?|Welches Detail würdest du prüfen, bevor du einen Monat freien Urlaub organisierst?|
+imaginaire-407|Wie viel wärst du bereit, für ein begleitetes Fahrerlebnis auf der Rennstrecke auszugeben?|Wie viel wärst du bereit, für ein Kunst-Retreat auszugeben?|
+imaginaire-408|Wie würdest du antworten, wenn du einen misslungenen Tag noch mal erleben könntest?|Wie würdest du antworten, wenn du fünf Leute zu einem großen Abendessen einladen könntest?|
+imaginaire-409|Was wäre dein erster Reflex, wenn du einen Abend mit deinem Lieblingskünstler verbringen könntest?|Was wäre dein erster Reflex, wenn dir ein Fremder ein Ticket in ein beliebiges Land schenken würde?|
+imaginaire-410|Bis zu wie viel würdest du für einen Fitnessraum zu Hause zahlen?|Bis zu wie viel würdest du für einen Garten zahlen, der zum Lesen eingerichtet ist?|
+imaginaire-411|Wann hättest du Lust, eine maßgefertigte eigene Bibliothek zu kaufen?|Wann hättest du Lust, eine dreimonatige Zugreise durch mehrere Länder zu buchen?|
+imaginaire-412|Was glaubst du, wie viel ein begleitetes Fahrerlebnis auf der Rennstrecke wert ist?|Was glaubst du, wie viel ein Kunst-Retreat wert ist?|
+imaginaire-413|Wie schnell könntest du deinen idealen Wochenplan neu ordnen?|Wie schnell könntest du eine Überraschung für dein ganzes Umfeld vorbereiten?|
+imaginaire-414|Zu welchem Anlass würdest du ein Privatkonzert im kleinen Kreis kaufen wollen?|Zu welchem Anlass würdest du ein kleines Boot für einen Tag mieten wollen?|
+imaginaire-415|Wie würdest du antworten, wenn du ein Detail deines Alltags ändern könntest?|Wie würdest du antworten, wenn du eine Woche lang ein altes Projekt umsetzen könntest?|
+imaginaire-416|Was würdest du spontan sagen, wenn du eine Woche lang ein altes Projekt umsetzen könntest?|Was würdest du spontan sagen, wenn du eine Reise gewinnen würdest, ohne das Ziel zu kennen?|
+imaginaire-417|Wann hättest du Lust, ein Kunst-Retreat zu buchen?|Wann hättest du Lust, einen Hin- und Rückflug innerhalb Europas mit flexiblen Daten zu kaufen?|
+imaginaire-418|Wer aus deinem Umfeld könnte dir helfen, eine große Party ohne Einschränkungen vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, eine Aktivität auszusuchen, die du kostenlos testen kannst?|
+imaginaire-419|Wo würdest du hingehen, um ein 60-m²-Haus weniger als 500 Meter vom Strand an der Ostsee zu kaufen?|Wo würdest du hingehen, um eine dreitägige Überraschungsreise für zwei Personen nach Rom zu buchen, inklusive Anreise?|Bretagne → Ostsee
+imaginaire-420|Wer könnte dir den besten Rat geben, um eine neue Stadt zum Wohnen auszusuchen?|Wer könnte dir den besten Rat geben, um eine Reise ohne Budgetgrenze zu planen?|
+imaginaire-421|Wie schnell könntest du einen Beruf aussuchen, den du einen Tag lang ausprobierst?|Wie schnell könntest du ein Abendessen mit berühmten Leuten organisieren?|
+imaginaire-422|Wo würdest du hingehen, um ein Privatkonzert im kleinen Kreis zu kaufen?|Wo würdest du hingehen, um ein kleines Boot für einen Tag zu mieten?|
+imaginaire-423|Auf welcher Website oder in welchem Laden würdest du nach einer Woche in einem Traumhotel suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Privatstunde bei einem Experten suchen?|
+imaginaire-424|Wie viel wärst du bereit auszugeben, um ein kleines Boot für einen Tag zu mieten?|Wie viel wärst du bereit, für einen Fitnessraum zu Hause auszugeben?|
+imaginaire-425|Wenn du ein Sabbatjahr vorbereiten müsstest, was hätte für dich Priorität?|Wenn du einen Beruf aussuchen müsstest, den du einen Tag lang ausprobierst, was hätte für dich Priorität?|
+imaginaire-426|Wer könnte dir den besten Rat geben, um ein Sabbatjahr vorzubereiten?|Wer könnte dir den besten Rat geben, um einen Beruf auszusuchen, den du einen Tag lang ausprobierst?|
+imaginaire-427|Wann in der Woche würdest du am liebsten eine Liste deiner Traumreisen machen?|Wann in der Woche würdest du am liebsten ein Talent aussuchen, das du schnell lernen willst?|
+imaginaire-428|Wie würdest du antworten, wenn du einen Abend mit deinem Lieblingskünstler verbringen könntest?|Wie würdest du antworten, wenn dir ein Fremder ein Ticket in ein beliebiges Land schenken würde?|
+imaginaire-429|Welches Detail würdest du prüfen, bevor du eine neue Sprache lernst?|Welches Detail würdest du prüfen, bevor du ein persönliches Traumprojekt auf die Beine stellst?|
+imaginaire-430|Zu welchem Anlass würdest du einen Oldtimer für einen Tag mieten wollen?|Zu welchem Anlass würdest du ein begleitetes Fahrerlebnis auf der Rennstrecke kaufen wollen?|
