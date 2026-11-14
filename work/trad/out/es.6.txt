@@ -403,7 +403,7 @@ popculture-334|¿Qué detalle comprobarías antes de organizar un quiz de cultur
 popculture-335|¿Cuánto crees que vale una caja recopilatoria de una serie de televisión?|¿Cuánto crees que vale una entrada para una exposición de cine?|
 popculture-336|¿Qué sería lo más importante para contar una escena mítica?|¿Qué sería lo más importante para preparar una recomendación de videojuego?|
 popculture-337|¿Cuál sería tu primera reacción si te invitan a un quiz sobre una serie que no conoces?|¿Cuál sería tu primera reacción si te cruzas con un actor famoso por la calle?|
-popculture-338|Si tuvieras que preparar una noche de películas de culto, ¿cuál sería tu prioridad?|Si tuvieras que explicar una referencia popular, ¿cuál sería tu prioridad?|
+popculture-338|¿Cuál sería tu prioridad si tuvieras que preparar una noche de películas de culto?|¿Cuál sería tu prioridad si tuvieras que explicar una referencia popular?|
 popculture-339|¿Qué persona de tu entorno podría ayudarte a preparar una lista de películas de animación?|¿Qué persona de tu entorno podría ayudarte a organizar un quiz de cultura pop?|
 popculture-340|¿En cuánto tiempo podrías contar una escena mítica?|¿En cuánto tiempo podrías preparar una recomendación de videojuego?|
 popculture-341|¿Cuánto estarías dispuesto a gastarte en una edición especial de un álbum?|¿Cuánto estarías dispuesto a gastarte en una entrada para un preestreno de cine en Madrid?|Paris → Madrid
@@ -432,7 +432,7 @@ popculture-363|¿Cuánto tiempo te haría falta para elegir tu personaje de ficc
 popculture-364|¿Cuánto crees que cuesta un vinilo de una banda sonora?|¿Cuánto crees que cuesta un peluche de un personaje famoso?|
 popculture-365|¿Cuál sería tu mayor dificultad para encontrar una frase de una película?|¿Cuál sería tu mayor dificultad para elegir un disfraz para una convención?|
 popculture-366|¿En qué web o en qué tienda buscarías una camiseta de una serie popular?|¿En qué web o en qué tienda buscarías una edición de coleccionista de un cómic famoso?|
-popculture-367|Si tuvieras que preparar una fiesta de disfraces de cine, ¿cuál sería tu prioridad?|Si tuvieras que clasificar tus personajes favoritos, ¿cuál sería tu prioridad?|
+popculture-367|¿Cuál sería tu prioridad si tuvieras que preparar una fiesta de disfraces de cine?|¿Cuál sería tu prioridad si tuvieras que clasificar tus personajes favoritos?|
 popculture-368|¿Qué persona de tu entorno podría ayudarte a contar una escena mítica?|¿Qué persona de tu entorno podría ayudarte a preparar una recomendación de videojuego?|
 popculture-369|¿Cuál sería tu mayor dificultad para elegir tu personaje de ficción favorito?|¿Cuál sería tu mayor dificultad para preparar una noche de películas de culto?|
 popculture-370|¿Cuál sería tu primera reacción si ganas dos entradas para un preestreno?|¿Cuál sería tu primera reacción si un creador famoso pasa cerca de tu casa?|
@@ -471,7 +471,7 @@ popculture-402|¿En cuánto tiempo podrías preparar una lista de películas de 
 popculture-403|¿Cómo responderías si un meme que no entiendes se hace viral?|¿Cómo responderías si una serie popular anuncia su última temporada?|
 popculture-404|¿Cuánto tiempo crees que hace falta para elegir una película para ver en grupo?|¿Cuánto tiempo crees que hace falta para contar una escena mítica?|
 popculture-405|¿Cuánto tiempo crees que hace falta para preparar una noche de películas de culto?|¿Cuánto tiempo crees que hace falta para explicar una referencia popular?|
-popculture-406|Si tuvieras que elegir una película para ver en grupo, ¿cuál sería tu prioridad?|Si tuvieras que contar una escena mítica, ¿cuál sería tu prioridad?|
+popculture-406|¿Cuál sería tu prioridad si tuvieras que elegir una película para ver en grupo?|¿Cuál sería tu prioridad si tuvieras que contar una escena mítica?|
 popculture-407|¿Qué franja del día te vendría mejor para preparar una recomendación de videojuego?|¿Qué franja del día te vendría mejor para elegir tu personaje de ficción favorito?|
 popculture-408|¿Qué franja del día te vendría mejor para recomendar una serie de moda?|¿Qué franja del día te vendría mejor para encontrar una frase de una película?|
 popculture-409|¿Dónde buscarías primero una edición especial de un álbum?|¿Dónde buscarías primero una entrada para un preestreno de cine en Madrid?|Paris → Madrid
@@ -497,3 +497,104 @@ popculture-428|¿Hasta cuánto pagarías por una entrada para un preestreno de c
 popculture-429|¿En qué web o en qué tienda buscarías una entrada para un salón del manga?|¿En qué web o en qué tienda buscarías una figura de colección de 15 cm de un héroe de cine?|
 popculture-430|¿A quién llamarías para que te ayude a descubrir una nueva saga?|¿A quién llamarías para que te ayude a elegir una película para ver en grupo?|
 popculture-431|¿Quién podría darte el mejor consejo para elegir una película para ver en grupo?|¿Quién podría darte el mejor consejo para contar una escena mítica?|
+popculture-432|¿Cuánto estarías dispuesto a gastarte en una caja recopilatoria de una serie de televisión?|¿Cuánto estarías dispuesto a gastarte en una entrada para una exposición de cine?|
+popculture-433|¿Cuánto tiempo calcularías para preparar una recomendación de videojuego?|¿Cuánto tiempo calcularías para elegir tu personaje de ficción favorito?|
+popculture-434|¿Qué precio te imaginas para una entrada para un preestreno de cine en Madrid?|¿Qué precio te imaginas para un libro firmado por un autor famoso?|Paris → Madrid
+popculture-435|¿Para qué ocasión querrías comprar un juego de mesa con licencia?|¿Para qué ocasión querrías comprar una caja recopilatoria de una serie de televisión?|
+popculture-436|¿En qué momento te apetecería comprar una entrada para un preestreno de cine en Madrid?|¿En qué momento te apetecería comprar un libro firmado por un autor famoso?|Paris → Madrid
+popculture-437|¿Qué presupuesto máximo pondrías para una edición de coleccionista de un cómic famoso?|¿Qué presupuesto máximo pondrías para una suscripción a una plataforma de streaming?|
+popculture-438|¿En qué web o en qué tienda buscarías una entrada para un encuentro con un autor?|¿En qué web o en qué tienda buscarías un vinilo de una banda sonora?|
+popculture-439|¿Qué frase te saldría de la boca si un personaje secundario se convierte en el protagonista?|¿Qué frase te saldría de la boca si tu amigo no ha visto nunca una película que conoce todo el mundo?|
+popculture-440|¿Qué presupuesto máximo pondrías para una gorra de una saga famosa?|¿Qué presupuesto máximo pondrías para un libro de ilustraciones dedicado a un videojuego?|
+popculture-441|¿Qué presupuesto máximo pondrías para una figura de colección de 15 cm de un héroe de cine?|¿Qué presupuesto máximo pondrías para una entrada de un día para una convención de cultura pop?|
+popculture-442|¿Qué dirías en ese momento si retrasan un episodio muy esperado?|¿Qué dirías en ese momento si un amigo se disfraza de un personaje que reconoces?|
+popculture-443|¿En qué situación decidirías comprar un póster de una película de culto?|¿En qué situación decidirías comprar una camiseta de una serie popular?|
+popculture-444|¿Quién podría darte el mejor consejo para elegir un disfraz para una convención?|¿Quién podría darte el mejor consejo para preparar una lista de películas de animación?|
+popculture-445|¿Qué frase te saldría de la boca si un cantante famoso te contesta en redes?|¿Qué frase te saldría de la boca si una saga anuncia un nuevo remake?|
+popculture-446|¿En cuánto tiempo podrías clasificar tus personajes favoritos?|¿En cuánto tiempo podrías encontrar el origen de un meme?|
+popculture-447|¿Cuánto estarías dispuesto a gastarte en un póster de una película de culto?|¿Cuánto estarías dispuesto a gastarte en una camiseta de una serie popular?|
+popculture-448|¿Cuál sería tu primer impulso si un amigo confunde a dos famosos?|¿Cuál sería tu primer impulso si te invitan a un quiz sobre una serie que no conoces?|
+popculture-449|¿En cuánto tiempo podrías explicar una referencia popular?|¿En cuánto tiempo podrías recomendar una serie de moda?|
+popculture-450|¿En qué momento te apetecería comprar una camiseta de una serie popular?|¿En qué momento te apetecería comprar una edición de coleccionista de un cómic famoso?|
+popculture-451|¿Cuánto tiempo calcularías para organizar un quiz de cultura pop?|¿Cuánto tiempo calcularías para descubrir un manga conocido?|
+popculture-452|¿Qué persona de tu entorno podría ayudarte a clasificar tus personajes favoritos?|¿Qué persona de tu entorno podría ayudarte a encontrar el origen de un meme?|
+popculture-453|¿En qué momento de la semana preferirías elegir tu personaje de ficción favorito?|¿En qué momento de la semana preferirías preparar una noche de películas de culto?|
+popculture-454|¿Cuál crees que es el precio de un juego de mesa con licencia?|¿Cuál crees que es el precio de una caja recopilatoria de una serie de televisión?|
+popculture-455|¿Qué precio te imaginas para una entrada para un encuentro con un autor?|¿Qué precio te imaginas para un vinilo de una banda sonora?|
+popculture-456|¿Hasta cuánto pagarías por una entrada para un encuentro con un autor?|¿Hasta cuánto pagarías por un vinilo de una banda sonora?|
+popculture-457|¿En cuánto tiempo podrías elegir una banda sonora de película?|¿En cuánto tiempo podrías enseñarle un clásico a un amigo?|
+popculture-458|¿Cuál sería el mejor momento para preparar una noche de películas de culto?|¿Cuál sería el mejor momento para explicar una referencia popular?|
+popculture-459|¿En qué momento te apetecería comprar una entrada para una exposición de cine?|¿En qué momento te apetecería comprar una gorra de una saga famosa?|
+popculture-460|¿Cómo responderías si tu amigo no ha visto nunca una película que conoce todo el mundo?|¿Cómo responderías si retrasan un episodio muy esperado?|
+popculture-461|¿Cuánto crees que vale una edición especial de un álbum?|¿Cuánto crees que vale una entrada para un preestreno de cine en Madrid?|Paris → Madrid
+popculture-462|¿Qué dirías si te piden tu top tres de series?|¿Qué dirías si un amigo odia una adaptación que te encanta?|
+popculture-463|¿En qué momento de la semana preferirías descubrir un manga conocido?|¿En qué momento de la semana preferirías comparar dos adaptaciones?|
+popculture-464|¿En qué momento de la semana preferirías descubrir una nueva saga?|¿En qué momento de la semana preferirías elegir una película para ver en grupo?|
+popculture-465|¿A partir de qué precio dudarías en comprar una suscripción a una plataforma de streaming?|¿A partir de qué precio dudarías en comprar una edición especial de un álbum?|
+popculture-466|¿Qué momento del día elegirías para contar una escena mítica?|¿Qué momento del día elegirías para preparar una recomendación de videojuego?|
+popculture-467|¿En qué web o en qué tienda buscarías una entrada para una exposición de cine?|¿En qué web o en qué tienda buscarías una gorra de una saga famosa?|
+popculture-468|¿Cuál sería tu prioridad si tuvieras que comparar dos adaptaciones?|¿Cuál sería tu prioridad si tuvieras que elegir una banda sonora de película?|
+popculture-469|¿A partir de qué precio dudarías en comprar una entrada de un día para una convención de cultura pop?|¿A partir de qué precio dudarías en comprar un póster de una película de culto?|
+popculture-470|¿En qué web o en qué tienda buscarías una entrada para un preestreno de cine en Madrid?|¿En qué web o en qué tienda buscarías un libro firmado por un autor famoso?|Paris → Madrid
+popculture-471|¿A qué sitio irías para encontrar una gorra de una saga famosa?|¿A qué sitio irías para encontrar un libro de ilustraciones dedicado a un videojuego?|
+popculture-472|¿A qué sitio irías para encontrar una edición de coleccionista de un cómic famoso?|¿A qué sitio irías para encontrar una suscripción a una plataforma de streaming?|
+popculture-473|¿Qué franja del día te vendría mejor para encontrar el origen de un meme?|¿Qué franja del día te vendría mejor para descubrir una nueva saga?|
+popculture-474|¿Qué franja del día te vendría mejor para organizar un quiz de cultura pop?|¿Qué franja del día te vendría mejor para descubrir un manga conocido?|
+popculture-475|¿Qué precio te imaginas para una camiseta de una serie popular?|¿Qué precio te imaginas para una edición de coleccionista de un cómic famoso?|
+popculture-476|¿Adónde irías a comprar una suscripción a una plataforma de streaming?|¿Adónde irías a comprar una edición especial de un álbum?|
+popculture-477|¿A quién pedirías ayuda para preparar una recomendación de videojuego?|¿A quién pedirías ayuda para elegir tu personaje de ficción favorito?|
+popculture-478|¿Adónde irías a comprar un libro de ilustraciones dedicado a un videojuego?|¿Adónde irías a comprar una reproducción de un póster vintage?|
+popculture-479|¿A partir de qué precio dudarías en comprar un peluche de un personaje famoso?|¿A partir de qué precio dudarías en comprar un cuaderno ilustrado de una película?|
+popculture-480|¿Cuánto tiempo calcularías para encontrar el origen de un meme?|¿Cuánto tiempo calcularías para descubrir una nueva saga?|
+popculture-481|¿Quién podría darte el mejor consejo para preparar una noche de películas de culto?|¿Quién podría darte el mejor consejo para explicar una referencia popular?|
+popculture-482|¿A partir de qué precio dudarías en comprar un libro de ilustraciones dedicado a un videojuego?|¿A partir de qué precio dudarías en comprar una reproducción de un póster vintage?|
+popculture-483|¿A quién pedirías ayuda para organizar un quiz de cultura pop?|¿A quién pedirías ayuda para descubrir un manga conocido?|
+popculture-484|¿Cuál sería tu prioridad si tuvieras que elegir un disfraz para una convención?|¿Cuál sería tu prioridad si tuvieras que preparar una lista de películas de animación?|
+popculture-485|¿Cuál crees que es el precio de una suscripción a una plataforma de streaming?|¿Cuál crees que es el precio de una edición especial de un álbum?|
+popculture-486|¿Cuál sería el mejor momento para preparar una fiesta de disfraces de cine?|¿Cuál sería el mejor momento para clasificar tus personajes favoritos?|
+popculture-487|¿Qué franja del día te vendría mejor para enseñarle un clásico a un amigo?|¿Qué franja del día te vendría mejor para averiguar el nombre de un actor famoso?|
+popculture-488|¿Cuánto tiempo te haría falta para encontrar una frase de una película?|¿Cuánto tiempo te haría falta para elegir un disfraz para una convención?|
+popculture-489|¿Cómo reaccionarías si una canción de una película se convierte en un exitazo?|¿Cómo reaccionarías si un amigo confunde a dos famosos?|
+popculture-490|¿En qué momento te apetecería comprar una entrada para un encuentro con un autor?|¿En qué momento te apetecería comprar un vinilo de una banda sonora?|
+popculture-491|¿Hasta cuánto pagarías por una entrada para una exposición de cine?|¿Hasta cuánto pagarías por una gorra de una saga famosa?|
+popculture-492|¿Qué sería lo más importante para explicar una referencia popular?|¿Qué sería lo más importante para recomendar una serie de moda?|
+popculture-493|¿Cómo responderías si un amigo confunde a dos famosos?|¿Cómo responderías si te invitan a un quiz sobre una serie que no conoces?|
+popculture-494|¿Cuánto crees que cuesta una figura de colección de 15 cm de un héroe de cine?|¿Cuánto crees que cuesta una entrada de un día para una convención de cultura pop?|
+popculture-495|¿Dónde buscarías primero una caja recopilatoria de una serie de televisión?|¿Dónde buscarías primero una entrada para una exposición de cine?|
+popculture-496|¿Hasta cuánto pagarías por una entrada para un salón del manga?|¿Hasta cuánto pagarías por una figura de colección de 15 cm de un héroe de cine?|
+popculture-497|¿Cuál crees que es el precio de una entrada de un día para una convención de cultura pop?|¿Cuál crees que es el precio de un póster de una película de culto?|
+popculture-498|¿A partir de qué precio dudarías en comprar un juego de mesa con licencia?|¿A partir de qué precio dudarías en comprar una caja recopilatoria de una serie de televisión?|
+popculture-499|¿Qué dirías en ese momento si ganas dos entradas para un preestreno?|¿Qué dirías en ese momento si un creador famoso pasa cerca de tu casa?|
+popculture-500|¿A qué sitio irías para encontrar una figura de colección de 15 cm de un héroe de cine?|¿A qué sitio irías para encontrar una entrada de un día para una convención de cultura pop?|
+popculture-501|¿En qué situación decidirías comprar un cuaderno ilustrado de una película?|¿En qué situación decidirías comprar una entrada para un salón del manga?|
+popculture-502|¿Qué te empujaría a comprar un vinilo de una banda sonora?|¿Qué te empujaría a comprar un peluche de un personaje famoso?|
+popculture-503|¿Qué presupuesto máximo pondrías para un libro firmado por un autor famoso?|¿Qué presupuesto máximo pondrías para un juego de mesa con licencia?|
+popculture-504|¿Para qué ocasión querrías comprar una entrada de un día para una convención de cultura pop?|¿Para qué ocasión querrías comprar un póster de una película de culto?|
+popculture-505|¿En qué momento de la semana preferirías encontrar una frase de una película?|¿En qué momento de la semana preferirías elegir un disfraz para una convención?|
+popculture-506|¿Qué momento del día elegirías para escoger una banda sonora de película?|¿Qué momento del día elegirías para enseñarle un clásico a un amigo?|
+popculture-507|¿Qué detalle comprobarías antes de buscar el origen de un meme?|¿Qué detalle comprobarías antes de descubrir una nueva saga?|
+popculture-508|¿Qué harías primero si te cruzas con un actor famoso por la calle?|¿Qué harías primero si un amigo critica tu película de culto favorita?|
+popculture-509|¿Qué te empujaría a comprar una figura de colección de 15 cm de un héroe de cine?|¿Qué te empujaría a comprar una entrada de un día para una convención de cultura pop?|
+popculture-510|¿Qué frase te saldría de la boca si un amigo critica tu película de culto favorita?|¿Qué frase te saldría de la boca si un meme que no entiendes se hace viral?|
+popculture-511|¿Para qué ocasión querrías comprar un peluche de un personaje famoso?|¿Para qué ocasión querrías comprar un cuaderno ilustrado de una película?|
+popculture-512|¿Quién podría darte el mejor consejo para comparar dos adaptaciones?|¿Quién podría darte el mejor consejo para elegir una banda sonora de película?|
+popculture-513|¿Qué harías primero si te piden tu top tres de series?|¿Qué harías primero si un amigo odia una adaptación que te encanta?|
+popculture-514|¿Qué detalle comprobarías antes de recomendar una serie de moda?|¿Qué detalle comprobarías antes de buscar una frase de una película?|
+popculture-515|¿Qué persona de tu entorno podría ayudarte a elegir una banda sonora de película?|¿Qué persona de tu entorno podría ayudarte a enseñarle un clásico a un amigo?|
+popculture-516|¿Para qué ocasión querrías comprar un libro de ilustraciones dedicado a un videojuego?|¿Para qué ocasión querrías comprar una reproducción de un póster vintage?|
+popculture-517|¿A quién pedirías ayuda para enseñarle un clásico a un amigo?|¿A quién pedirías ayuda para averiguar el nombre de un actor famoso?|
+popculture-518|¿Qué frase te saldría de la boca si una canción de una película se convierte en un exitazo?|¿Qué frase te saldría de la boca si un amigo confunde a dos famosos?|
+popculture-519|¿Cuál sería tu mayor dificultad para averiguar el nombre de un actor famoso?|¿Cuál sería tu mayor dificultad para preparar una fiesta de disfraces de cine?|
+popculture-520|¿Quién podría darte el mejor consejo para preparar una fiesta de disfraces de cine?|¿Quién podría darte el mejor consejo para clasificar tus personajes favoritos?|
+popculture-521|¿Hasta cuánto pagarías por una camiseta de una serie popular?|¿Hasta cuánto pagarías por una edición de coleccionista de un cómic famoso?|
+popculture-522|¿Cuánto tiempo te haría falta para averiguar el nombre de un actor famoso?|¿Cuánto tiempo te haría falta para preparar una fiesta de disfraces de cine?|
+popculture-523|¿En qué momento de la semana preferirías averiguar el nombre de un actor famoso?|¿En qué momento de la semana preferirías preparar una fiesta de disfraces de cine?|
+popculture-524|¿A qué sitio irías para encontrar un vinilo de una banda sonora?|¿A qué sitio irías para encontrar un peluche de un personaje famoso?|
+popculture-525|¿Cuánto tiempo calcularías para enseñarle un clásico a un amigo?|¿Cuánto tiempo calcularías para averiguar el nombre de un actor famoso?|
+popculture-526|¿Qué te empujaría a comprar una gorra de una saga famosa?|¿Qué te empujaría a comprar un libro de ilustraciones dedicado a un videojuego?|
+popculture-527|¿Cuánto crees que cuesta un libro firmado por un autor famoso?|¿Cuánto crees que cuesta un juego de mesa con licencia?|
+popculture-528|¿Cómo responderías si una saga anuncia un nuevo remake?|¿Cómo responderías si te comes un spoiler en redes?|
+popculture-529|¿Cuánto tiempo te haría falta para descubrir una nueva saga?|¿Cuánto tiempo te haría falta para elegir una película para ver en grupo?|
+popculture-530|¿Qué sería lo más importante para preparar una lista de películas de animación?|¿Qué sería lo más importante para organizar un quiz de cultura pop?|
+popculture-531|¿Cuál sería tu mayor dificultad para descubrir una nueva saga?|¿Cuál sería tu mayor dificultad para elegir una película para ver en grupo?|
+popculture-532|¿Cuál sería tu primera reacción si una serie popular anuncia su última temporada?|¿Cuál sería tu primera reacción si cambian a un actor en una saga?|

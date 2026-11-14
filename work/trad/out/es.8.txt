@@ -198,3 +198,103 @@ noel-514|¿En cuánto tiempo podrías preparar una cena de Nochebuena?|¿En cuá
 noel-515|¿Hasta cuánto pagarías por una cesta gourmet de Navidad para cuatro personas?|¿Hasta cuánto pagarías por un árbol de Navidad natural de 1,50 m?|
 noel-516|¿Qué dirías si un niño quiere abrir los regalos demasiado pronto?|¿Qué dirías si te piden que cocines en el último momento?|
 noel-517|¿Hasta cuánto pagarías por una figura decorativa de reno?|¿Hasta cuánto pagarías por una estrella para el árbol?|
+ete-614|¿Para qué ocasión querrías comprar un sombrero para el sol?|¿Para qué ocasión querrías comprar una bolsa de playa grande?|
+ete-615|¿Qué dirías si ya no queda sitio a la sombra?|¿Qué dirías si la arena se te mete en todas tus cosas?|
+ete-616|¿Cuánto crees que cuesta un bañador de calidad?|¿Cuánto crees que cuesta un sombrero para el sol?|
+ete-617|¿A quién pedirías ayuda para preparar una salida a la piscina?|¿A quién pedirías ayuda para hacer una ensalada para una comida al aire libre?|
+ete-618|¿Qué te llevaría a comprar un bañador de calidad?|¿Qué te llevaría a comprar un sombrero para el sol?|
+ete-619|¿A qué sitio irías para encontrar una nevera flexible?|¿A qué sitio irías para encontrar una colchoneta hinchable para la piscina?|
+ete-620|¿Qué te llevaría a comprar una toalla de playa de calidad?|¿Qué te llevaría a comprar una sombrilla de playa?|
+ete-621|¿En qué web o en qué tienda buscarías una entrada de adulto para una piscina al aire libre?|¿En qué web o en qué tienda buscarías una nevera flexible?|
+ete-622|¿A qué sitio irías para encontrar una sesión de cine al aire libre en un parque de la ciudad?|¿A qué sitio irías para encontrar una caja de seis helados artesanos?|
+ete-623|¿En qué web o en qué tienda buscarías una silla plegable de playa?|¿En qué web o en qué tienda buscarías una toalla de playa de calidad?|
+ete-624|¿En cuánto tiempo podrías preparar una noche en una terraza?|¿En cuánto tiempo podrías organizar un día a orillas de un lago?|
+ete-625|¿Qué persona de tu entorno podría ayudarte a preparar una noche en una terraza?|¿Qué persona de tu entorno podría ayudarte a organizar un día a orillas de un lago?|
+ete-626|¿Qué harías primero si desaparecen tus gafas de sol?|¿Qué harías primero si un niño te salpica las cosas en la piscina?|
+ete-627|¿Qué dirías en ese momento si un amigo propone ir a bañarse a las siete de la mañana?|¿Qué dirías en ese momento si ya no queda sitio a la sombra?|
+ete-628|¿Adónde irías a comprar un sombrero para el sol?|¿Adónde irías a comprar una bolsa de playa grande?|
+ete-629|Si tuvieras que elegir un sitio para ver la puesta de sol, ¿cuál sería tu prioridad?|Si tuvieras que dar un paseo por la orilla del mar, ¿cuál sería tu prioridad?|
+ete-630|¿Qué franja del día sería la más práctica para recoger las cosas después de la playa?|¿Qué franja del día sería la más práctica para preparar una bolsa de playa?|
+ete-631|¿Cuánto estarías dispuesto a gastarte en un tubo de crema solar SPF 50 de 200 ml?|¿Cuánto estarías dispuesto a gastarte en unas sandalias cómodas?|
+ete-632|¿Adónde irías a comprar una sombrilla de playa?|¿Adónde irías a comprar un tubo de crema solar SPF 50 de 200 ml?|
+ete-633|¿En cuánto tiempo podrías organizar un pícnic de verano?|¿En cuánto tiempo podrías preparar una salida a la piscina?|
+ete-634|Si tuvieras que elegir una playa para pasar el día, ¿cuál sería tu prioridad?|Si tuvieras que preparar una noche en una terraza, ¿cuál sería tu prioridad?|
+ete-635|¿A qué sitio irías para encontrar un bañador de calidad?|¿A qué sitio irías para encontrar un sombrero para el sol?|
+ete-636|¿Qué momento de la semana preferirías para organizar una comida en un balcón?|¿Qué momento de la semana preferirías para elegir un sabor de helado?|
+ete-637|Si tuvieras que elegir un rincón a la sombra, ¿cuál sería tu prioridad?|Si tuvieras que organizar un pícnic de verano, ¿cuál sería tu prioridad?|
+ete-638|¿En qué momento te darían ganas de comprar una silla plegable de playa?|¿En qué momento te darían ganas de comprar una toalla de playa de calidad?|
+ete-639|¿Cuánto tiempo necesitarías para organizar una comida en un balcón?|¿Cuánto tiempo necesitarías para elegir un sabor de helado?|
+ete-640|¿Cuánto crees que cuesta una sesión de cine al aire libre en un parque de la ciudad?|¿Cuánto crees que cuesta una caja de seis helados artesanos?|
+ete-641|¿Cuál sería tu primer impulso si una tormenta interrumpe el pícnic?|¿Cuál sería tu primer impulso si un amigo propone ir a bañarse a las siete de la mañana?|
+ete-642|¿Dónde buscarías primero una botella térmica?|¿Dónde buscarías primero unas gafas de sol polarizadas de una marca normal?|
+ete-643|¿En qué web o en qué tienda buscarías una tabla de paddle surf hinchable para principiantes?|¿En qué web o en qué tienda buscarías una sesión de cine al aire libre en un parque de la ciudad?|
+ete-644|¿Cuánto tiempo necesitarías para hacer una ensalada para una comida al aire libre?|¿Cuánto tiempo necesitarías para elegir una playa para pasar el día?|
+ete-645|¿Cuál sería el mejor momento para elegir un sabor de helado?|¿Cuál sería el mejor momento para preparar una noche de juegos al aire libre?|
+ete-646|¿Cuál sería tu mayor dificultad para preparar una ruta de senderismo con fresquito?|¿Cuál sería tu mayor dificultad para encontrar un plan cuando hace mucho calor?|
+ete-647|¿Qué presupuesto máximo pondrías para una entrada de un día para un festival de música al aire libre?|¿Qué presupuesto máximo pondrías para un ventilador silencioso?|
+ete-648|¿Qué persona de tu entorno podría ayudarte a preparar una noche de juegos al aire libre?|¿Qué persona de tu entorno podría ayudarte a recoger las cosas después de la playa?|
+ete-649|¿Cuánto crees que cuesta una nevera flexible?|¿Cuánto crees que cuesta una colchoneta hinchable para la piscina?|
+ete-650|¿Qué persona de tu entorno podría ayudarte a organizar un pícnic de verano?|¿Qué persona de tu entorno podría ayudarte a preparar una salida a la piscina?|
+ete-651|¿Qué harías primero si en tu heladería ya no queda tu sabor favorito?|¿Qué harías primero si se te olvida la toalla al ir a la playa?|
+ete-652|¿Cuánto crees que vale una cesta de pícnic completa para cuatro personas?|¿Cuánto crees que vale una silla plegable de playa?|
+ete-653|¿Qué dirías si estalla una tormenta durante un paseo?|¿Qué dirías si el ventilador se estropea cuando hace mucho calor?|
+ete-654|¿A quién pedirías ayuda para organizar un día a orillas de un lago?|¿A quién pedirías ayuda para preparar una ruta de senderismo con fresquito?|
+ete-655|¿Qué frase te saldría si descubres un mirador increíble al atardecer?|¿Qué frase te saldría si la piscina cierra antes de lo previsto?|
+ete-656|¿Cuál sería tu primera reacción si el chiringuito está completo?|¿Cuál sería tu primera reacción si en tu heladería ya no queda tu sabor favorito?|restaurant de plage → chiringuito
+ete-657|¿A qué sitio irías para encontrar una toalla de playa de calidad?|¿A qué sitio irías para encontrar una sombrilla de playa?|
+ete-658|¿Quién podría darte el mejor consejo para elegir una playa para pasar el día?|¿Quién podría darte el mejor consejo para preparar una noche en una terraza?|
+ete-659|¿En qué momento te darían ganas de comprar una entrada de adulto para una piscina al aire libre?|¿En qué momento te darían ganas de comprar una nevera flexible?|
+ete-660|¿Cuánto tiempo crees que hace falta para elegir un sitio para ver la puesta de sol?|¿Cuánto tiempo crees que hace falta para dar un paseo por la orilla del mar?|
+ete-661|¿Cómo reaccionarías si el ventilador se estropea cuando hace mucho calor?|¿Cómo reaccionarías si un vecino te invita a una barbacoa?|
+ete-662|Para ti, ¿qué precio tiene una sombrilla de playa?|Para ti, ¿qué precio tiene un tubo de crema solar SPF 50 de 200 ml?|
+ete-663|¿Cuál sería tu primera reacción si un amigo quiere quedarse al sol a mediodía?|¿Cuál sería tu primera reacción si estalla una tormenta durante un paseo?|
+ete-664|¿Qué detalle comprobarías antes de recoger las cosas después de la playa?|¿Qué detalle comprobarías antes de preparar una bolsa de playa?|
+ete-665|¿Qué te llevaría a comprar una nevera flexible?|¿Qué te llevaría a comprar una colchoneta hinchable para la piscina?|
+ete-666|¿Hasta cuánto pagarías por una tabla de paddle surf hinchable para principiantes?|¿Hasta cuánto pagarías por una sesión de cine al aire libre en un parque de la ciudad?|
+ete-667|¿Qué responderías si la piscina cierra antes de lo previsto?|¿Qué responderías si un amigo quiere quedarse al sol a mediodía?|
+ete-668|Para ti, ¿qué precio tiene una caja de seis helados artesanos?|Para ti, ¿qué precio tiene una cesta de pícnic completa para cuatro personas?|
+ete-669|¿Cuánto estarías dispuesto a gastarte en un altavoz portátil resistente al agua?|¿Cuánto estarías dispuesto a gastarte en una tabla de paddle surf hinchable para principiantes?|
+ete-670|¿Cuál sería el mejor momento para elegir un sitio para ver la puesta de sol?|¿Cuál sería el mejor momento para dar un paseo por la orilla del mar?|
+ete-671|¿En qué momento te darían ganas de comprar unas gafas de sol polarizadas de una marca normal?|¿En qué momento te darían ganas de comprar una entrada de un día para un festival de música al aire libre?|
+ete-672|¿Qué dirías si desaparecen tus gafas de sol?|¿Qué dirías si un niño te salpica las cosas en la piscina?|
+ete-673|¿Qué detalle comprobarías antes de preparar una salida a la piscina?|¿Qué detalle comprobarías antes de hacer una ensalada para una comida al aire libre?|
+ete-674|¿Qué momento del día elegirías para preparar una noche de juegos al aire libre?|¿Qué momento del día elegirías para recoger las cosas después de la playa?|
+ete-675|¿Cuál sería el mejor momento para encontrar un plan cuando hace mucho calor?|¿Cuál sería el mejor momento para preparar una noche de barbacoa?|
+ete-676|¿Quién podría darte el mejor consejo para elegir un sabor de helado?|¿Quién podría darte el mejor consejo para preparar una noche de juegos al aire libre?|
+ete-677|¿Qué detalle comprobarías antes de preparar un día de festival?|¿Qué detalle comprobarías antes de organizar una comida en un balcón?|
+ete-678|¿Qué presupuesto máximo pondrías para un bañador de calidad?|¿Qué presupuesto máximo pondrías para un sombrero para el sol?|
+ete-679|¿Cuál sería tu primera reacción si una ola te salpica el móvil?|¿Cuál sería tu primera reacción si un festival anuncia un cambio de horario?|
+ete-680|¿Cuál sería tu primer impulso si te invitan a la playa en el último momento?|¿Cuál sería tu primer impulso si el chiringuito está completo?|restaurant de plage → chiringuito
+ete-681|¿Cuánto tiempo necesitarías para preparar una salida al mercadillo de verano?|¿Cuánto tiempo necesitarías para elegir un sitio para ver la puesta de sol?|
+ete-682|¿Qué frase te saldría si el ventilador se estropea cuando hace mucho calor?|¿Qué frase te saldría si un vecino te invita a una barbacoa?|
+ete-683|¿Qué momento del día elegirías para preparar una noche en una terraza?|¿Qué momento del día elegirías para organizar un día a orillas de un lago?|
+ete-684|¿Qué precio te imaginas para una tabla de paddle surf hinchable para principiantes?|¿Qué precio te imaginas para una sesión de cine al aire libre en un parque de la ciudad?|
+ete-685|¿Adónde irías a comprar una caja de seis helados artesanos?|¿Adónde irías a comprar una cesta de pícnic completa para cuatro personas?|
+ete-686|¿Hasta cuánto pagarías por una entrada de adulto para una piscina al aire libre?|¿Hasta cuánto pagarías por una nevera flexible?|
+ete-687|¿Para qué ocasión querrías comprar un ventilador silencioso?|¿Para qué ocasión querrías comprar un altavoz portátil resistente al agua?|
+ete-688|¿Qué frase te saldría si la arena se te mete en todas tus cosas?|¿Qué frase te saldría si un familiar se olvida la crema solar?|
+ete-689|¿En qué situación decidirías comprar una bolsa de playa grande?|¿En qué situación decidirías comprar una entrada de adulto para una piscina al aire libre?|
+ete-690|¿Dónde buscarías primero un altavoz portátil resistente al agua?|¿Dónde buscarías primero una tabla de paddle surf hinchable para principiantes?|
+ete-691|¿A quién llamarías para que te ayude a preparar una ruta de senderismo con fresquito?|¿A quién llamarías para que te ayude a encontrar un plan cuando hace mucho calor?|
+ete-692|¿Cuánto tiempo crees que hace falta para elegir un rincón a la sombra?|¿Cuánto tiempo crees que hace falta para organizar un pícnic de verano?|
+ete-693|¿En qué situación decidirías comprar un tubo de crema solar SPF 50 de 200 ml?|¿En qué situación decidirías comprar unas sandalias cómodas?|
+ete-694|¿Quién podría darte el mejor consejo para elegir un rincón a la sombra?|¿Quién podría darte el mejor consejo para organizar un pícnic de verano?|
+ete-695|¿En qué situación decidirías comprar un altavoz portátil resistente al agua?|¿En qué situación decidirías comprar una tabla de paddle surf hinchable para principiantes?|
+ete-696|¿Cuánto estarías dispuesto a gastarte en una cesta de pícnic completa para cuatro personas?|¿Cuánto estarías dispuesto a gastarte en una silla plegable de playa?|
+ete-697|¿Cuánto tiempo calcularías para organizar el viaje hasta la playa?|¿Cuánto tiempo calcularías para preparar una salida al mercadillo de verano?|
+ete-698|¿Qué momento del día elegirías para organizar un pícnic de verano?|¿Qué momento del día elegirías para preparar una salida a la piscina?|
+ete-699|¿Para qué ocasión querrías comprar una sombrilla de playa?|¿Para qué ocasión querrías comprar un tubo de crema solar SPF 50 de 200 ml?|
+ete-700|¿A qué sitio irías para encontrar una entrada de un día para un festival de música al aire libre?|¿A qué sitio irías para encontrar un ventilador silencioso?|
+ete-701|¿En qué web o en qué tienda buscarías unas gafas de sol polarizadas de una marca normal?|¿En qué web o en qué tienda buscarías una entrada de un día para un festival de música al aire libre?|
+ete-702|¿Qué precio te imaginas para unas sandalias cómodas?|¿Qué precio te imaginas para un bañador de calidad?|
+ete-703|¿Cuánto tiempo calcularías para preparar una salida a la piscina?|¿Cuánto tiempo calcularías para hacer una ensalada para una comida al aire libre?|
+ete-704|¿Qué franja del día sería la más práctica para organizar un día a orillas de un lago?|¿Qué franja del día sería la más práctica para preparar una ruta de senderismo con fresquito?|
+ete-705|¿Qué sería lo más importante para dar un paseo por la orilla del mar?|¿Qué sería lo más importante para preparar un día de festival?|
+ete-706|¿Adónde irías a comprar una colchoneta hinchable para la piscina?|¿Adónde irías a comprar una botella térmica?|
+ete-707|¿Qué momento del día elegirías para dar un paseo por la orilla del mar?|¿Qué momento del día elegirías para preparar un día de festival?|
+ete-708|¿Qué persona de tu entorno podría ayudarte a dar un paseo por la orilla del mar?|¿Qué persona de tu entorno podría ayudarte a preparar un día de festival?|
+ete-709|Para ti, ¿qué precio tiene un sombrero para el sol?|Para ti, ¿qué precio tiene una bolsa de playa grande?|
+ete-710|¿Cuánto tiempo crees que hace falta para elegir un sabor de helado?|¿Cuánto tiempo crees que hace falta para preparar una noche de juegos al aire libre?|
+ete-711|¿En qué situación decidirías comprar una botella térmica?|¿En qué situación decidirías comprar unas gafas de sol polarizadas de una marca normal?|
+ete-712|¿Qué persona de tu entorno podría ayudarte a preparar una noche de barbacoa?|¿Qué persona de tu entorno podría ayudarte a organizar el viaje hasta la playa?|
+ete-713|¿En qué momento te darían ganas de comprar unas sandalias cómodas?|¿En qué momento te darían ganas de comprar un bañador de calidad?|

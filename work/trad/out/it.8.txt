@@ -112,13 +112,13 @@ noel-428|Dove cercheresti per prima cosa una scatola da 500 g di cioccolatini as
 noel-429|Se dovessi organizzare un giro ai mercatini di Natale, quale sarebbe la tua priorità?|Se dovessi scegliere un maglione per la Vigilia, quale sarebbe la tua priorità?|
 noel-430|Se dovessi incartare i regali per la famiglia, quale sarebbe la tua priorità?|Se dovessi preparare la cena della Vigilia, quale sarebbe la tua priorità?|
 noel-431|Per quale occasione vorresti comprare un albero di Natale finto da 1,50 m?|Per quale occasione vorresti comprare una scatola da 500 g di cioccolatini assortiti?|
-noel-432|In quale momento della giornata sceglieresti di preparare una cioccolata calda fatta in casa?|In quale momento della giornata sceglieresti di scrivere un biglietto di auguri di Natale?|
+noel-432|In quale momento della giornata preferiresti preparare una cioccolata calda fatta in casa?|In quale momento della giornata preferiresti scrivere un biglietto di auguri di Natale?|
 noel-433|Cosa ti spingerebbe a comprare una ghirlanda da porta?|Cosa ti spingerebbe a comprare un maglione natalizio divertente?|
 noel-434|Come risponderesti se un parente annunciasse che arriverà in ritardo alla cena della Vigilia?|Come risponderesti se scoprissi un regalo nascosto prima di Natale?|
 noel-435|Quale fascia della giornata sarebbe la più comoda per scrivere un biglietto di auguri di Natale?|Quale fascia della giornata sarebbe la più comoda per organizzare un gioco in famiglia alla Vigilia?|
 noel-436|Quale dettaglio controlleresti prima di mettere via le decorazioni dopo le feste?|Quale dettaglio controlleresti prima di decorare l’albero di Natale?|
 noel-437|Dove andresti a comprare un gioco da fare in famiglia alla Vigilia?|Dove andresti a comprare una tazza natalizia?|
-noel-438|In quale momento della giornata sceglieresti di scegliere un maglione per la Vigilia?|In quale momento della giornata sceglieresti di mettere via le decorazioni dopo le feste?|
+noel-438|In quale momento della giornata preferiresti scegliere un maglione per la Vigilia?|In quale momento della giornata preferiresti mettere via le decorazioni dopo le feste?|
 noel-439|Cosa diresti sul momento se un ospite portasse il tuo stesso dolce?|Cosa diresti sul momento se un bambino volesse aprire i regali troppo presto?|
 noel-440|Quale persona che conosci potrebbe aiutarti a mettere le decorazioni in casa?|Quale persona che conosci potrebbe aiutarti a fare la lista dei regali?|
 noel-441|Che prezzo immagini per un rotolo di carta regalo da cinque metri?|Che prezzo immagini per una ghirlanda da porta?|
@@ -129,7 +129,7 @@ noel-445|In quanto tempo riusciresti a mettere le decorazioni in casa?|In quanto
 noel-446|Quale sarebbe la cosa più importante per preparare una playlist di Natale?|Quale sarebbe la cosa più importante per scegliere un regalo per una persona cara?|
 noel-447|Secondo te quanto vale una tazza natalizia?|Secondo te quanto vale una renna decorativa?|
 noel-448|Qual è la prima cosa che faresti se ricevessi un regalo che hai già?|Qual è la prima cosa che faresti se un parente aprisse un regalo destinato a qualcun altro?|
-noel-449|In quale momento della giornata sceglieresti di preparare una playlist di Natale?|In quale momento della giornata sceglieresti di scegliere un regalo per una persona cara?|
+noel-449|In quale momento della giornata preferiresti preparare una playlist di Natale?|In quale momento della giornata preferiresti scegliere un regalo per una persona cara?|
 noel-450|Qual è la prima cosa che faresti se l’albero pendesse pericolosamente?|Qual è la prima cosa che faresti se un amico ti facesse un regalo molto personale?|
 noel-451|Cosa diresti se ricevessi un regalo che hai già?|Cosa diresti se un parente aprisse un regalo destinato a qualcun altro?|
 noel-452|Secondo te quanto tempo ci vuole per incartare i regali per la famiglia?|Secondo te quanto tempo ci vuole per preparare la cena della Vigilia?|
@@ -176,7 +176,7 @@ noel-492|Se dovessi organizzare uno scambio di regali, quale sarebbe la tua prio
 noel-493|Oltre quale prezzo esiteresti a comprare un maglione natalizio divertente?|Oltre quale prezzo esiteresti a comprare una candela profumata alle spezie?|
 noel-494|Se dovessi fare una foto davanti all’albero, quale sarebbe la tua priorità?|Se dovessi preparare una cioccolata calda fatta in casa, quale sarebbe la tua priorità?|
 noel-495|In quanto tempo riusciresti a preparare una cioccolata calda fatta in casa?|In quanto tempo riusciresti a scrivere un biglietto di auguri di Natale?|
-noel-496|In quale momento della giornata sceglieresti di preparare la cena della Vigilia?|In quale momento della giornata sceglieresti di scegliere un film di Natale?|
+noel-496|In quale momento della giornata preferiresti preparare la cena della Vigilia?|In quale momento della giornata preferiresti scegliere un film di Natale?|
 noel-497|Secondo te quanto costa un albero di Natale vero da 1,50 m?|Secondo te quanto costa un albero di Natale finto da 1,50 m?|
 noel-498|Quale sarebbe il momento migliore per organizzare un giro ai mercatini di Natale?|Quale sarebbe il momento migliore per scegliere un maglione per la Vigilia?|
 noel-499|In che momento ti verrebbe voglia di comprare un rotolo di carta regalo da cinque metri?|In che momento ti verrebbe voglia di comprare una ghirlanda da porta?|

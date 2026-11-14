@@ -96,5 +96,104 @@ vacances-673|¿Cómo reaccionarías si alguien cercano quiere volver antes de lo
 vacances-674|¿Qué sería lo más importante para organizar un día de trineo?|¿Qué sería lo más importante para guardar las cosas de las vacaciones?|
 vacances-675|¿Qué dirías en ese momento si el chocolate caliente es carísimo?|¿Qué dirías en ese momento si el tiempo anuncia sol y luego lluvia para tu ruta de senderismo?|
 vacances-676|¿Adónde irías para comprar un paraguas plegable resistente?|¿Adónde irías para reservar un alquiler de raquetas de nieve?|
-vacances-677|¿Cuánto crees que cuesta un forfait de un día en una estación de los Pirineos?|¿Cuánto crees que cuesta unos guantes de esquí calentitos?|Alpes → Pirineos
+vacances-677|¿Cuánto crees que cuesta un forfait de un día en una estación de los Pirineos?|¿Cuánto crees que cuestan unos guantes de esquí calentitos?|Alpes → Pirineos
 vacances-678|¿Cuánto crees que vale una excursión guiada por la montaña?|¿Cuánto crees que vale un pase de dos días para una pista de patinaje?|
+vacances-679|¿Qué sería lo primero que harías si un amigo se olvida los guantes en el chalet?|¿Qué sería lo primero que harías si el chocolate caliente es carísimo?|
+vacances-680|¿Qué responderías si un amigo quiere quedarse en el chalet todo el día?|¿Qué responderías si pierdes el último autobús lanzadera de la estación?|
+vacances-681|¿Qué harías primero si el tiempo anuncia sol y luego lluvia para tu ruta de senderismo?|¿Qué harías primero si te proponen una pista demasiado difícil?|
+vacances-682|¿Qué te llevaría a comprar un forfait de un día en una estación de los Pirineos?|¿Qué te llevaría a comprar unos guantes de esquí calentitos?|Alpes → Pirineos
+vacances-683|¿Qué detalle comprobarías antes de organizar una excursión con raquetas?|¿Qué detalle comprobarías antes de preparar un fin de semana en primavera?|
+vacances-684|¿Qué momento de la semana preferirías para hacer una maleta para el frío?|¿Qué momento de la semana preferirías para elegir un día en unas termas?|
+vacances-685|Si tuvieras que elegir un día en unas termas, ¿cuál sería tu prioridad?|Si tuvieras que preparar un día en un chalet, ¿cuál sería tu prioridad?|
+vacances-686|¿Cuál sería tu principal dificultad para reservar un alojamiento para tres noches en un puente?|¿Cuál sería tu principal dificultad para preparar un viaje a la montaña?|
+vacances-687|¿En qué web o en qué tienda buscarías un chocolate caliente en una estación de esquí?|¿En qué web o en qué tienda buscarías un trineo para niños?|
+vacances-688|Si tuvieras que secar la ropa de esquí, ¿cuál sería tu prioridad?|Si tuvieras que preparar un paseo por el bosque en primavera, ¿cuál sería tu prioridad?|
+vacances-689|¿Qué detalle comprobarías antes de preparar un pícnic de primavera?|¿Qué detalle comprobarías antes de hacer una maleta para el frío?|
+vacances-690|¿Qué responderías si un día que iba a ser soleado se vuelve lluvioso?|¿Qué responderías si te invitan a un fin de semana improvisado?|
+vacances-691|¿Dónde buscarías primero una excursión guiada por la montaña?|¿Dónde buscarías primero un pase de dos días para una pista de patinaje?|
+vacances-692|¿Cuál sería tu primera reacción si el chocolate caliente es carísimo?|¿Cuál sería tu primera reacción si el tiempo anuncia sol y luego lluvia para tu ruta de senderismo?|
+vacances-693|¿Cómo reaccionarías si cierran los remontes por el viento?|¿Cómo reaccionarías si un amigo se olvida los guantes en el chalet?|
+vacances-694|¿Cuánto crees que cuesta una bufanda de calidad?|¿Cuánto crees que cuesta una entrada para un jardín botánico?|
+vacances-695|¿Qué precio te imaginas para una mochila de senderismo ligera?|¿Qué precio te imaginas para una bufanda de calidad?|
+vacances-696|¿Cuál sería tu principal dificultad para hacer una maleta para el frío?|¿Cuál sería tu principal dificultad para elegir un día en unas termas?|
+vacances-697|¿Cuánto tiempo calcularías para elegir una actividad para un día de lluvia?|¿Cuánto tiempo calcularías para reservar un alojamiento para tres noches en un puente?|
+vacances-698|¿Cuánto tiempo te haría falta para preparar una bolsa para ir a esquiar?|¿Cuánto tiempo te haría falta para elegir una estación de montaña?|
+vacances-699|¿Qué sería lo más importante para ponerte las botas de esquí?|¿Qué sería lo más importante para organizar una excursión con raquetas?|
+vacances-700|¿Para qué ocasión querrías comprar una entrada de adulto para un museo?|¿Para qué ocasión querrías reservar dos noches en una casa rural para dos personas?|gîte → casa rural
+vacances-701|Según tú, ¿cuál es el precio de una entrada de adulto para un museo?|Según tú, ¿cuál es el precio de dos noches en una casa rural para dos personas?|gîte → casa rural
+vacances-702|¿Qué dirías en ese momento si descubres que tienes los zapatos mojados?|¿Qué dirías en ese momento si un guía anuncia que se cancela una ruta de senderismo?|
+vacances-703|¿Qué dirías si un sendero sigue cerrado en primavera?|¿Qué dirías si alguien cercano quiere volver antes de lo previsto?|
+vacances-704|¿Dónde buscarías primero unas botas de senderismo de invierno?|¿Dónde buscarías primero un billete solo de ida Madrid–Barcelona para un fin de semana?|Paris–Lyon → Madrid–Barcelona
+vacances-705|¿Qué momento de la semana preferirías para buscar un restaurante en una estación de esquí para cenar en pareja?|¿Qué momento de la semana preferirías para secar la ropa de esquí?|
+vacances-706|¿Cómo reaccionarías si una estación no tiene plazas para las clases?|¿Cómo reaccionarías si un amigo quiere quedarse en el chalet todo el día?|
+vacances-707|¿Cuánto crees que valen unas botas de senderismo de invierno?|¿Cuánto crees que vale un billete solo de ida Madrid–Barcelona para un fin de semana?|Paris–Lyon → Madrid–Barcelona
+vacances-708|¿Qué momento de la semana preferirías para reservar un alojamiento para tres noches en un puente?|¿Qué momento de la semana preferirías para preparar un viaje a la montaña?|
+vacances-709|¿Adónde irías para encontrar un forfait de un día en una estación de los Pirineos?|¿Adónde irías para encontrar unos guantes de esquí calentitos?|Alpes → Pirineos
+vacances-710|¿Hasta cuánto pagarías por un pase de dos días para una pista de patinaje?|¿Hasta cuánto pagarías por un forfait de un día en una estación de los Pirineos?|Alpes → Pirineos
+vacances-711|¿En cuánto tiempo podrías ponerte las botas de esquí?|¿En cuánto tiempo podrías organizar una excursión con raquetas?|
+vacances-712|¿Cuál sería tu principal dificultad para preparar un fin de semana en primavera?|¿Cuál sería tu principal dificultad para elegir una ruta de senderismo de principio de temporada?|
+vacances-713|¿Qué sería lo primero que harías si un amigo quiere quedarse en el chalet todo el día?|¿Qué sería lo primero que harías si pierdes el último autobús lanzadera de la estación?|
+vacances-714|¿En qué web o en qué tienda buscarías una mochila de senderismo ligera?|¿En qué web o en qué tienda buscarías una bufanda de calidad?|
+vacances-715|¿En qué web o en qué tienda buscarías una noche en un chalet de montaña para dos personas?|¿En qué web o en qué tienda buscarías una guía de rutas de primavera?|
+vacances-716|¿Qué momento de la semana preferirías para preparar una bolsa para ir a esquiar?|¿Qué momento de la semana preferirías para elegir una estación de montaña?|
+vacances-717|¿Cuánto crees que cuesta una guía de rutas de primavera?|¿Cuánto crees que cuesta una entrada de adulto para un museo?|
+vacances-718|¿Qué persona de tu entorno podría ayudarte a ponerte las botas de esquí?|¿Qué persona de tu entorno podría ayudarte a organizar una excursión con raquetas?|
+vacances-719|¿Qué momento del día elegirías para organizar un día de trineo?|¿Qué momento del día elegirías para guardar las cosas de las vacaciones?|
+vacances-720|¿Dónde buscarías primero un gorro de lana de calidad?|¿Dónde buscarías primero un chocolate caliente en una estación de esquí?|
+vacances-721|¿Cuánto tiempo crees que hace falta para secar la ropa de esquí?|¿Cuánto tiempo crees que hace falta para preparar un paseo por el bosque en primavera?|
+vacances-722|¿Qué dirías en ese momento si un amigo quiere hacer una actividad aunque llueva?|¿Qué dirías en ese momento si un sendero sigue cerrado en primavera?|
+vacances-723|¿Qué persona de tu entorno podría ayudarte a organizar una visita en un día de lluvia?|¿Qué persona de tu entorno podría ayudarte a preparar un pícnic de primavera?|
+vacances-724|¿Para qué ocasión querrías comprar un paraguas plegable resistente?|¿Para qué ocasión querrías reservar un alquiler de raquetas de nieve?|
+vacances-725|¿Cuánto tiempo te haría falta para preparar un fin de semana en primavera?|¿Cuánto tiempo te haría falta para elegir una ruta de senderismo de principio de temporada?|
+vacances-726|¿A quién llamarías para que te ayude a preparar un fin de semana en primavera?|¿A quién llamarías para que te ayude a elegir una ruta de senderismo de principio de temporada?|
+vacances-727|¿A partir de qué precio dudarías en comprar una entrada para un jardín botánico?|¿A partir de qué precio dudarías en contratar una excursión guiada por la montaña?|
+vacances-728|¿A quién le pedirías ayuda para elegir una actividad para un día de lluvia?|¿A quién le pedirías ayuda para reservar un alojamiento para tres noches en un puente?|
+vacances-729|¿Qué franja del día sería la más práctica para guardar las cosas de las vacaciones?|¿Qué franja del día sería la más práctica para preparar una bolsa para ir a esquiar?|
+vacances-730|¿Cuánto tiempo te haría falta para buscar un restaurante en una estación de esquí para cenar en pareja?|¿Cuánto tiempo te haría falta para secar la ropa de esquí?|
+vacances-731|¿Cuánto tiempo crees que hace falta para preparar un viaje a la montaña?|¿Cuánto tiempo crees que hace falta para organizar un día de trineo?|
+vacances-732|¿Cómo reaccionarías si un restaurante de pistas ya no tiene sitio?|¿Cómo reaccionarías si te encuentras con unas vistas preciosas en la montaña?|
+vacances-733|¿Para qué ocasión querrías comprar una entrada para un jardín botánico?|¿Para qué ocasión querrías contratar una excursión guiada por la montaña?|
+vacances-734|¿Qué harías primero si te has olvidado las gafas de esquí?|¿Qué harías primero si un restaurante de pistas ya no tiene sitio?|
+vacances-735|¿Qué responderías si te encuentras con unas vistas preciosas en la montaña?|¿Qué responderías si un amigo quiere hacer una actividad aunque llueva?|
+vacances-736|¿Qué dirías en ese momento si te invitan a un fin de semana improvisado?|¿Qué dirías en ese momento si te caes en la nieve delante de tus amigos?|
+vacances-737|¿Qué detalle comprobarías antes de elegir una actividad para un día de lluvia?|¿Qué detalle comprobarías antes de reservar un alojamiento para tres noches en un puente?|
+vacances-738|¿Qué dirías si un guía anuncia que se cancela una ruta de senderismo?|¿Qué dirías si una estación no tiene plazas para las clases?|
+vacances-739|¿Qué franja del día sería la más práctica para organizar una salida a la pista de patinaje?|¿Qué franja del día sería la más práctica para buscar un restaurante en una estación de esquí para cenar en pareja?|
+vacances-740|¿En qué momento te apetecería comprar un pase de dos días para una pista de patinaje?|¿En qué momento te apetecería comprar un forfait de un día en una estación de los Pirineos?|Alpes → Pirineos
+vacances-741|¿Qué frase te saldría si cierran los remontes por el viento?|¿Qué frase te saldría si un amigo se olvida los guantes en el chalet?|
+vacances-742|¿En qué situación decidirías comprar unas botas de senderismo de invierno?|¿En qué situación decidirías reservar un billete solo de ida Madrid–Barcelona para un fin de semana?|Paris–Lyon → Madrid–Barcelona
+vacances-743|¿A quién le pedirías ayuda para organizar una excursión con raquetas?|¿A quién le pedirías ayuda para preparar un fin de semana en primavera?|
+vacances-744|¿Qué sería lo más importante para organizar una visita en un día de lluvia?|¿Qué sería lo más importante para preparar un pícnic de primavera?|
+vacances-745|¿Qué franja del día sería la más práctica para organizar una excursión con raquetas?|¿Qué franja del día sería la más práctica para preparar un fin de semana en primavera?|
+vacances-746|¿Cuál sería tu primera reacción si pierdes el último autobús lanzadera de la estación?|¿Cuál sería tu primera reacción si te has olvidado las gafas de esquí?|
+vacances-747|Según tú, ¿cuál es el precio de un paraguas plegable resistente?|Según tú, ¿cuál es el precio de alquilar unas raquetas de nieve?|
+vacances-748|¿Qué sería lo primero que harías si alguien cercano no sabe ponerse los esquís?|¿Qué sería lo primero que harías si descubres que tienes los zapatos mojados?|
+vacances-749|¿Qué momento del día elegirías para preparar un paseo por el bosque en primavera?|¿Qué momento del día elegirías para elegir una actividad para un día de lluvia?|
+vacances-750|¿En qué web o en qué tienda buscarías un billete solo de ida Madrid–Barcelona para un fin de semana?|¿En qué web o en qué tienda buscarías una chaqueta impermeable de primavera?|Paris–Lyon → Madrid–Barcelona
+vacances-751|¿Cuánto tiempo crees que hace falta para elegir una ruta de senderismo de principio de temporada?|¿Cuánto tiempo crees que hace falta para organizar una visita en un día de lluvia?|
+vacances-752|¿Cuánto tiempo calcularías para preparar un pícnic de primavera?|¿Cuánto tiempo calcularías para hacer una maleta para el frío?|
+vacances-753|¿Qué presupuesto máximo pondrías para una bufanda de calidad?|¿Qué presupuesto máximo pondrías para una entrada para un jardín botánico?|
+vacances-754|¿Adónde irías para comprar unos guantes de esquí calentitos?|¿Adónde irías para comprar un gorro de lana de calidad?|
+vacances-755|¿Cuánto tiempo te haría falta para hacer una maleta para el frío?|¿Cuánto tiempo te haría falta para elegir un día en unas termas?|
+vacances-756|¿A quién llamarías para que te ayude a hacer una maleta para el frío?|¿A quién llamarías para que te ayude a elegir un día en unas termas?|
+vacances-757|¿Qué sería lo más importante para preparar un día en un chalet?|¿Qué sería lo más importante para organizar una salida a la pista de patinaje?|
+vacances-758|¿Adónde irías para encontrar una bufanda de calidad?|¿Adónde irías para encontrar una entrada para un jardín botánico?|
+vacances-759|¿En qué situación decidirías comprar un gorro de lana de calidad?|¿En qué situación decidirías comprar un chocolate caliente en una estación de esquí?|
+vacances-760|¿Qué franja del día sería la más práctica para preparar un pícnic de primavera?|¿Qué franja del día sería la más práctica para hacer una maleta para el frío?|
+vacances-761|¿Qué dirías si te caes en la nieve delante de tus amigos?|¿Qué dirías si cierran los remontes por el viento?|
+vacances-762|¿Qué persona de tu entorno podría ayudarte a preparar un día en un chalet?|¿Qué persona de tu entorno podría ayudarte a organizar una salida a la pista de patinaje?|
+vacances-763|¿A quién llamarías para que te ayude a buscar un restaurante en una estación de esquí para cenar en pareja?|¿A quién llamarías para que te ayude a secar la ropa de esquí?|
+vacances-764|¿A quién le pedirías ayuda para guardar las cosas de las vacaciones?|¿A quién le pedirías ayuda para preparar una bolsa para ir a esquiar?|
+vacances-765|¿En qué momento te apetecería comprar un chocolate caliente en una estación de esquí?|¿En qué momento te apetecería comprar un trineo para niños?|
+vacances-766|¿Cuánto tiempo calcularías para organizar una excursión con raquetas?|¿Cuánto tiempo calcularías para preparar un fin de semana en primavera?|
+vacances-767|¿Qué momento del día elegirías para ponerte las botas de esquí?|¿Qué momento del día elegirías para organizar una excursión con raquetas?|
+vacances-768|¿Cuánto crees que cuesta un trineo para niños?|¿Cuánto crees que cuesta una entrada a unas termas?|
+vacances-769|¿Qué presupuesto máximo pondrías para un trineo para niños?|¿Qué presupuesto máximo pondrías para una entrada a unas termas?|
+vacances-770|¿En cuánto tiempo podrías preparar un paseo por el bosque en primavera?|¿En cuánto tiempo podrías elegir una actividad para un día de lluvia?|
+vacances-771|¿Adónde irías para comprar una entrada a unas termas?|¿Adónde irías para comprar unas botas de senderismo de invierno?|
+vacances-772|¿Adónde irías para encontrar una chaqueta impermeable de primavera?|¿Adónde irías para encontrar un paraguas plegable resistente?|
+vacances-773|¿Cuál sería el mejor momento para elegir un día en unas termas?|¿Cuál sería el mejor momento para preparar un día en un chalet?|
+vacances-774|¿Quién podría darte el mejor consejo para elegir una estación de montaña?|¿Quién podría darte el mejor consejo para ponerte las botas de esquí?|
+vacances-775|¿En qué situación decidirías reservar dos noches en una casa rural para dos personas?|¿En qué situación decidirías comprar una mochila de senderismo ligera?|gîte → casa rural
+vacances-776|Si tuvieras que preparar un viaje a la montaña, ¿cuál sería tu prioridad?|Si tuvieras que organizar un día de trineo, ¿cuál sería tu prioridad?|
+vacances-777|¿Cuánto crees que vale un gorro de lana de calidad?|¿Cuánto crees que vale un chocolate caliente en una estación de esquí?|

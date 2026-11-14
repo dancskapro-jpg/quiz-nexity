@@ -530,7 +530,7 @@ popculture-461|Quanto você acha que vale uma edição especial de um álbum?|Qu
 popculture-462|O que você diria se te pedissem o seu top três de séries?|O que você diria se um amigo odiasse uma adaptação que você adora?|
 popculture-463|Em que momento da semana você preferiria conhecer um mangá famoso?|Em que momento da semana você preferiria comparar duas adaptações?|
 popculture-464|Em que momento da semana você preferiria conhecer uma nova franquia?|Em que momento da semana você preferiria escolher um filme para ver em grupo?|
-popculture-465|A partir de que preço você hesitaria em assinar um serviço de streaming?|A partir de que preço você hesitaria em comprar uma edição especial de um álbum?|
+popculture-465|A partir de que preço você hesitaria em comprar uma assinatura de um serviço de streaming?|A partir de que preço você hesitaria em comprar uma edição especial de um álbum?|
 popculture-466|Que momento do dia você escolheria para contar uma cena clássica?|Que momento do dia você escolheria para preparar uma recomendação de videogame?|
 popculture-467|Em que site ou loja você procuraria um ingresso para uma exposição sobre cinema?|Em que site ou loja você procuraria um boné de uma franquia famosa?|
 popculture-468|Se você tivesse que comparar duas adaptações, qual seria sua prioridade?|Se você tivesse que escolher uma trilha sonora de filme, qual seria sua prioridade?|
@@ -548,3 +548,53 @@ popculture-479|A partir de que preço você hesitaria em comprar uma pelúcia de
 popculture-480|Quanto tempo você reservaria para descobrir a origem de um meme?|Quanto tempo você reservaria para conhecer uma nova franquia?|
 popculture-481|Quem poderia te dar o melhor conselho para preparar uma noite de filmes clássicos?|Quem poderia te dar o melhor conselho para explicar uma referência pop?|
 popculture-482|A partir de que preço você hesitaria em comprar um livro de ilustrações sobre um videogame?|A partir de que preço você hesitaria em comprar uma reprodução de pôster vintage?|
+popculture-483|A quem você pediria ajuda para organizar um quiz de cultura pop?|A quem você pediria ajuda para conhecer um mangá famoso?|
+popculture-484|Se você tivesse que escolher uma roupa para uma convenção, qual seria sua prioridade?|Se você tivesse que preparar uma lista de filmes de animação, qual seria sua prioridade?|
+popculture-485|Na sua opinião, qual é o preço de uma assinatura de um serviço de streaming?|Na sua opinião, qual é o preço de uma edição especial de um álbum?|
+popculture-486|Qual seria o melhor momento para preparar uma festa à fantasia com tema de cinema?|Qual seria o melhor momento para ranquear seus personagens favoritos?|
+popculture-487|Que horário do dia seria mais prático para apresentar um clássico para um amigo?|Que horário do dia seria mais prático para descobrir o nome de um ator famoso?|
+popculture-488|Quanto tempo você levaria para lembrar uma frase de filme?|Quanto tempo você levaria para escolher uma roupa para uma convenção?|
+popculture-489|Como você reagiria se uma música de filme virasse hit?|Como você reagiria se um amigo confundisse duas celebridades?|
+popculture-490|Em que momento você teria vontade de comprar um ingresso para um encontro com um autor?|Em que momento você teria vontade de comprar um vinil de trilha sonora?|
+popculture-491|Até quanto você pagaria por um ingresso para uma exposição sobre cinema?|Até quanto você pagaria por um boné de uma franquia famosa?|
+popculture-492|Qual seria o ponto mais importante para explicar uma referência pop?|Qual seria o ponto mais importante para recomendar uma série do momento?|
+popculture-493|Como você responderia se um amigo confundisse duas celebridades?|Como você responderia se te convidassem para um quiz sobre uma série que você não conhece?|
+popculture-494|Na sua opinião, quanto custa uma action figure de colecionador de 15 cm de um herói de cinema?|Na sua opinião, quanto custa um ingresso de um dia para uma convenção de cultura pop?|
+popculture-495|Onde você procuraria primeiro um box de série de TV?|Onde você procuraria primeiro um ingresso para uma exposição sobre cinema?|
+popculture-496|Até quanto você pagaria por uma entrada para um evento de mangá?|Até quanto você pagaria por uma action figure de colecionador de 15 cm de um herói de cinema?|
+popculture-497|Na sua opinião, qual é o preço de um ingresso de um dia para uma convenção de cultura pop?|Na sua opinião, qual é o preço de um pôster de um filme clássico?|
+popculture-498|A partir de que preço você hesitaria em comprar um jogo de tabuleiro licenciado?|A partir de que preço você hesitaria em comprar um box de série de TV?|
+popculture-499|O que você diria na hora se ganhasse dois ingressos para uma pré-estreia?|O que você diria na hora se um criador de conteúdo famoso passasse perto da sua casa?|
+popculture-500|Aonde você iria para conseguir uma action figure de colecionador de 15 cm de um herói de cinema?|Aonde você iria para conseguir um ingresso de um dia para uma convenção de cultura pop?|
+popculture-501|Em que situação você decidiria comprar um caderno ilustrado de filme?|Em que situação você decidiria comprar uma entrada para um evento de mangá?|
+popculture-502|O que te faria comprar um vinil de trilha sonora?|O que te faria comprar uma pelúcia de um personagem famoso?|
+popculture-503|Qual seria seu orçamento máximo para um livro autografado por um autor famoso?|Qual seria seu orçamento máximo para um jogo de tabuleiro licenciado?|
+popculture-504|Em que ocasião você ia querer comprar um ingresso de um dia para uma convenção de cultura pop?|Em que ocasião você ia querer comprar um pôster de um filme clássico?|
+popculture-505|Em que momento da semana você preferiria lembrar uma frase de filme?|Em que momento da semana você preferiria escolher uma roupa para uma convenção?|
+popculture-506|Que momento do dia você escolheria para escolher uma trilha sonora de filme?|Que momento do dia você escolheria para apresentar um clássico para um amigo?|
+popculture-507|Que detalhe você conferiria antes de descobrir a origem de um meme?|Que detalhe você conferiria antes de conhecer uma nova franquia?|
+popculture-508|O que você faria primeiro se cruzasse com um ator famoso na rua?|O que você faria primeiro se um amigo criticasse o seu filme clássico favorito?|
+popculture-509|O que te faria comprar uma action figure de colecionador de 15 cm de um herói de cinema?|O que te faria comprar um ingresso de um dia para uma convenção de cultura pop?|
+popculture-510|Que frase sairia da sua boca se um amigo criticasse o seu filme clássico favorito?|Que frase sairia da sua boca se um meme que você não entende viralizasse?|
+popculture-511|Em que ocasião você ia querer comprar uma pelúcia de um personagem famoso?|Em que ocasião você ia querer comprar um caderno ilustrado de filme?|
+popculture-512|Quem poderia te dar o melhor conselho para comparar duas adaptações?|Quem poderia te dar o melhor conselho para escolher uma trilha sonora de filme?|
+popculture-513|O que você faria primeiro se te pedissem o seu top três de séries?|O que você faria primeiro se um amigo odiasse uma adaptação que você adora?|
+popculture-514|Que detalhe você conferiria antes de recomendar uma série do momento?|Que detalhe você conferiria antes de lembrar uma frase de filme?|
+popculture-515|Que pessoa do seu círculo poderia te ajudar a escolher uma trilha sonora de filme?|Que pessoa do seu círculo poderia te ajudar a apresentar um clássico para um amigo?|
+popculture-516|Em que ocasião você ia querer comprar um livro de ilustrações sobre um videogame?|Em que ocasião você ia querer comprar uma reprodução de pôster vintage?|
+popculture-517|A quem você pediria ajuda para apresentar um clássico para um amigo?|A quem você pediria ajuda para descobrir o nome de um ator famoso?|
+popculture-518|Que frase sairia da sua boca se uma música de filme virasse hit?|Que frase sairia da sua boca se um amigo confundisse duas celebridades?|
+popculture-519|Qual seria sua principal dificuldade para descobrir o nome de um ator famoso?|Qual seria sua principal dificuldade para preparar uma festa à fantasia com tema de cinema?|
+popculture-520|Quem poderia te dar o melhor conselho para preparar uma festa à fantasia com tema de cinema?|Quem poderia te dar o melhor conselho para ranquear seus personagens favoritos?|
+popculture-521|Até quanto você pagaria por uma camiseta de uma série popular?|Até quanto você pagaria por uma edição de colecionador de uma história em quadrinhos famosa?|
+popculture-522|Quanto tempo você levaria para descobrir o nome de um ator famoso?|Quanto tempo você levaria para preparar uma festa à fantasia com tema de cinema?|
+popculture-523|Em que momento da semana você preferiria descobrir o nome de um ator famoso?|Em que momento da semana você preferiria preparar uma festa à fantasia com tema de cinema?|
+popculture-524|Aonde você iria para conseguir um vinil de trilha sonora?|Aonde você iria para conseguir uma pelúcia de um personagem famoso?|
+popculture-525|Quanto tempo você reservaria para apresentar um clássico para um amigo?|Quanto tempo você reservaria para descobrir o nome de um ator famoso?|
+popculture-526|O que te faria comprar um boné de uma franquia famosa?|O que te faria comprar um livro de ilustrações sobre um videogame?|
+popculture-527|Na sua opinião, quanto custa um livro autografado por um autor famoso?|Na sua opinião, quanto custa um jogo de tabuleiro licenciado?|
+popculture-528|Como você responderia se uma franquia anunciasse um novo remake?|Como você responderia se visse um spoiler nas redes sociais?|
+popculture-529|Quanto tempo você levaria para conhecer uma nova franquia?|Quanto tempo você levaria para escolher um filme para ver em grupo?|
+popculture-530|Qual seria o ponto mais importante para preparar uma lista de filmes de animação?|Qual seria o ponto mais importante para organizar um quiz de cultura pop?|
+popculture-531|Qual seria sua principal dificuldade para conhecer uma nova franquia?|Qual seria sua principal dificuldade para escolher um filme para ver em grupo?|
+popculture-532|Qual seria sua primeira reação se uma série popular anunciasse sua última temporada?|Qual seria sua primeira reação se um ator fosse substituído numa franquia?|
