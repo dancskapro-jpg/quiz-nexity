@@ -7,7 +7,7 @@ nostalgie-337|¿Qué es lo primero que harías si volvieras a ver una foto de cl
 nostalgie-338|¿A quién le pedirías ayuda para elegir una canción de los años 2000?|¿A quién le pedirías ayuda para montar una noche de juegos retro?|
 nostalgie-339|¿En qué momento de la semana preferirías encontrar una foto de clase de sexto de primaria?|¿En qué momento de la semana preferirías volver a jugar a un juego de tu infancia?|sixième → sexto de primaria
 nostalgie-340|¿Qué presupuesto máximo pondrías para un reproductor de CD de segunda mano?|¿Qué presupuesto máximo pondrías para un juego de mesa de los años 90 en buen estado?|
-nostalgie-341|Según tú, ¿cuánto cuesta una figura de unos dibujos animados antiguos?|Según tú, ¿cuánto cuesta un reloj digital retro?|
+nostalgie-341|¿Cuánto cuesta una figura de unos dibujos animados antiguos, según tú?|¿Cuánto cuesta un reloj digital retro, según tú?|
 nostalgie-342|¿Cuál sería el mejor momento para hablar de una moda de tu adolescencia?|¿Cuál sería el mejor momento para encontrar un juguete viejo?|
 nostalgie-343|¿En qué momento de la semana preferirías reconocer la sintonía de unos dibujos animados?|¿En qué momento de la semana preferirías hablar de una moda de tu adolescencia?|
 nostalgie-344|¿Qué momento del día elegirías para explicarle un juego antiguo a un niño?|¿Qué momento del día elegirías para volver a ver una serie de tu infancia?|
@@ -26,7 +26,7 @@ nostalgie-356|¿Cuál sería tu mayor dificultad para ordenar cosas viejas del c
 nostalgie-357|¿Qué precio te imaginas para un móvil de tapa de segunda mano?|¿Qué precio te imaginas para una bici de niño vintage?|
 nostalgie-358|¿Qué frase te saldría si oyeras la sintonía de unos dibujos animados?|¿Qué frase te saldría si recuperaras una consola antigua?|
 nostalgie-359|¿Dónde buscarías primero una cámara desechable?|¿Dónde buscarías primero un videojuego retro de segunda mano para una consola antigua?|
-nostalgie-360|En tu opinión, ¿cuánto tiempo hace falta para volver a jugar a un juego de tu infancia?|En tu opinión, ¿cuánto tiempo hace falta para contar tu primer concierto?|
+nostalgie-360|¿Cuánto tiempo hace falta para volver a jugar a un juego de tu infancia, en tu opinión?|¿Cuánto tiempo hace falta para contar tu primer concierto, en tu opinión?|
 nostalgie-361|¿Dónde buscarías primero un pack recopilatorio de dibujos animados?|¿Dónde buscarías primero un sobre de diez cartas coleccionables con licencia oficial?|
 nostalgie-362|¿Qué frase te saldría si encontraras una carta que recibiste a los diez años?|¿Qué frase te saldría si alguien volviera a poner de moda algo de tu adolescencia?|
 nostalgie-363|¿Adónde irías a comprar una consola retro?|¿Adónde irías a comprar una cinta de casete de segunda mano en buen estado?|
@@ -38,7 +38,7 @@ nostalgie-368|¿Dónde buscarías primero una bolsa de canicas?|¿Dónde buscar�
 nostalgie-369|¿Qué franja del día te vendría mejor para encontrar una foto de familia antigua?|¿Qué franja del día te vendría mejor para encontrar una foto de clase de sexto de primaria?|sixième → sexto de primaria
 nostalgie-370|¿Qué persona de tu entorno podría ayudarte a encontrar tu primer móvil?|¿Qué persona de tu entorno podría ayudarte a hacer un álbum de recuerdos?|
 nostalgie-371|¿Cuál sería el mejor momento para volver a jugar a un juego de tu infancia?|¿Cuál sería el mejor momento para contar tu primer concierto?|
-nostalgie-372|Según tú, ¿cuánto cuesta un reproductor MP3 de segunda mano?|Según tú, ¿cuánto cuesta un pack recopilatorio de dibujos animados?|
+nostalgie-372|¿Cuánto cuesta un reproductor MP3 de segunda mano, según tú?|¿Cuánto cuesta un pack recopilatorio de dibujos animados, según tú?|
 nostalgie-373|¿Cuál sería tu primera reacción si encontraras una antigua lista de deseos?|¿Cuál sería tu primera reacción si volvieras a ver una foto de clase olvidada de sexto de primaria?|sixième → sexto de primaria
 nostalgie-374|¿Cuál sería tu mayor dificultad para reconocer la sintonía de unos dibujos animados?|¿Cuál sería tu mayor dificultad para hablar de una moda de tu adolescencia?|
 nostalgie-375|¿Para qué ocasión querrías comprar un cartel publicitario antiguo?|¿Para qué ocasión querrías comprar una bolsa de canicas?|
@@ -82,7 +82,7 @@ nostalgie-412|¿Qué te llevaría a comprar un álbum de fotos impreso?|¿Qué t
 nostalgie-413|¿Cuál sería tu primera reacción si te viniera de golpe un recuerdo del colegio?|¿Cuál sería tu primera reacción si un amigo sacara su antigua agenda escolar?|carnet de correspondance → agenda escolar
 nostalgie-414|¿Hasta cuánto pagarías por un videojuego retro de segunda mano para una consola antigua?|¿Hasta cuánto pagarías por un álbum de fotos impreso?|
 nostalgie-415|¿Qué te llevaría a comprar un reproductor de CD de segunda mano?|¿Qué te llevaría a comprar un juego de mesa de los años 90 en buen estado?|
-nostalgie-416|Si tuvieras que preparar una fiesta temática de tu infancia, ¿cuál sería tu prioridad?|Si tuvieras que releer mensajes antiguos, ¿cuál sería tu prioridad?|
+nostalgie-416|¿Cuál sería tu prioridad si tuvieras que preparar una fiesta temática de tu infancia?|¿Cuál sería tu prioridad si tuvieras que releer mensajes antiguos?|
 nostalgie-417|¿Qué es lo primero que harías si un familiar sacara un vídeo familiar antiguo?|¿Qué es lo primero que harías si encontraras una carta que recibiste a los diez años?|
 nostalgie-418|¿Qué franja del día te vendría mejor para volver a ver una serie de tu infancia?|¿Qué franja del día te vendría mejor para ordenar cosas viejas del colegio?|
 nostalgie-419|¿Qué dirías si un amigo sacara su antigua agenda escolar?|¿Qué dirías si encontraras un antiguo diario íntimo?|carnet de correspondance → agenda escolar
@@ -91,7 +91,7 @@ nostalgie-421|¿Adónde irías a comprar un reproductor MP3 de segunda mano?|¿A
 nostalgie-422|¿Cómo responderías si un olor te recordara a las vacaciones de tu infancia?|¿Cómo responderías si volvieras a ver a un amigo de la infancia después de diez años?|
 nostalgie-423|¿Para qué ocasión querrías comprar una consola retro?|¿Para qué ocasión querrías comprar una cinta de casete de segunda mano en buen estado?|
 nostalgie-424|¿Qué dirías si una tienda volviera a vender tu merienda favorita de cuando eras pequeño?|¿Qué dirías si te cruzaras con un antiguo profesor?|
-nostalgie-425|Según tú, ¿cuánto cuesta un juego de mesa de los años 90 en buen estado?|Según tú, ¿cuánto cuesta una cámara desechable?|
+nostalgie-425|¿Cuánto cuesta un juego de mesa de los años 90 en buen estado, según tú?|¿Cuánto cuesta una cámara desechable, según tú?|
 nostalgie-426|¿Qué dirías en el momento si un amigo recordara un chiste del instituto?|¿Qué dirías en el momento si una tienda volviera a vender tu merienda favorita de cuando eras pequeño?|collège → instituto
 nostalgie-427|¿En qué momento de la semana preferirías ordenar cosas viejas del colegio?|¿En qué momento de la semana preferirías volver a ver una película de animación antigua?|
 nostalgie-428|¿Qué te llevaría a comprar una bici de niño vintage?|¿Qué te llevaría a comprar un cartel publicitario antiguo?|
@@ -114,29 +114,29 @@ nostalgie-444|¿Qué presupuesto máximo pondrías para un álbum de fotos impre
 nostalgie-445|¿Qué detalle comprobarías antes de hacer un álbum de recuerdos?|¿Qué detalle comprobarías antes de reconocer la sintonía de unos dibujos animados?|
 nostalgie-446|¿En qué momento te apetecería comprar un cómic de tu infancia?|¿En qué momento te apetecería comprar un reproductor de CD de segunda mano?|
 nostalgie-447|¿En qué momento te apetecería comprar un videojuego retro de segunda mano para una consola antigua?|¿En qué momento te apetecería comprar un álbum de fotos impreso?|
-nostalgie-448|En tu opinión, ¿cuánto cuesta una revista juvenil antigua en buen estado?|En tu opinión, ¿cuánto cuesta una consola retro?|
+nostalgie-448|¿Cuánto cuesta una revista juvenil antigua en buen estado, en tu opinión?|¿Cuánto cuesta una consola retro, en tu opinión?|
 nostalgie-449|¿En qué situación decidirías comprar una bolsa de canicas?|¿En qué situación decidirías comprar una caja de golosinas de tu infancia?|
 nostalgie-450|¿En cuánto tiempo podrías releer mensajes antiguos?|¿En cuánto tiempo podrías encontrar una foto de familia antigua?|
 nostalgie-451|¿Cuánto tiempo te llevaría ordenar cosas viejas del colegio?|¿Cuánto tiempo te llevaría volver a ver una película de animación antigua?|
 nostalgie-452|¿A partir de qué precio dudarías en comprar un juego de mesa de los años 90 en buen estado?|¿A partir de qué precio dudarías en comprar una cámara desechable?|
 nostalgie-453|¿Adónde irías a comprar una figura de unos dibujos animados antiguos?|¿Adónde irías a comprar un reloj digital retro?|
 nostalgie-454|¿En qué momento te apetecería comprar un sobre de diez cartas coleccionables con licencia oficial?|¿En qué momento te apetecería comprar una revista juvenil antigua en buen estado?|
-nostalgie-455|En tu opinión, ¿cuánto tiempo hace falta para volver a ver una película de animación antigua?|En tu opinión, ¿cuánto tiempo hace falta para encontrar tu primer móvil?|
+nostalgie-455|¿Cuánto tiempo hace falta para volver a ver una película de animación antigua, en tu opinión?|¿Cuánto tiempo hace falta para encontrar tu primer móvil, en tu opinión?|
 nostalgie-456|¿Hasta cuánto pagarías por una caja de golosinas de tu infancia?|¿Hasta cuánto pagarías por un reproductor de DVD de segunda mano?|
 nostalgie-457|¿Cómo reaccionarías si encontraras una carta que recibiste a los diez años?|¿Cómo reaccionarías si alguien volviera a poner de moda algo de tu adolescencia?|
 nostalgie-458|¿A qué sitio irías para encontrar un álbum de fotos impreso?|¿A qué sitio irías para encontrar un reproductor MP3 de segunda mano?|
 nostalgie-459|¿A quién le pedirías ayuda para volver a ver una serie de tu infancia?|¿A quién le pedirías ayuda para ordenar cosas viejas del colegio?|
 nostalgie-460|¿Cuánto estarías dispuesto a gastarte en una bolsa de canicas?|¿Cuánto estarías dispuesto a gastarte en una caja de golosinas de tu infancia?|
 nostalgie-461|¿En qué situación decidirías comprar un pack recopilatorio de dibujos animados?|¿En qué situación decidirías comprar un sobre de diez cartas coleccionables con licencia oficial?|
-nostalgie-462|En tu opinión, ¿cuánto cuesta un reproductor de DVD de segunda mano?|En tu opinión, ¿cuánto cuesta una figura de unos dibujos animados antiguos?|
+nostalgie-462|¿Cuánto cuesta un reproductor de DVD de segunda mano, en tu opinión?|¿Cuánto cuesta una figura de unos dibujos animados antiguos, en tu opinión?|
 nostalgie-463|¿Cuál sería el mejor momento para volver a ver una película de animación antigua?|¿Cuál sería el mejor momento para encontrar tu primer móvil?|
 nostalgie-464|¿Cuánto crees que vale un pack recopilatorio de dibujos animados?|¿Cuánto crees que vale un sobre de diez cartas coleccionables con licencia oficial?|
-nostalgie-465|Si tuvieras que hablar de una moda de tu adolescencia, ¿cuál sería tu prioridad?|Si tuvieras que encontrar un juguete viejo, ¿cuál sería tu prioridad?|
-nostalgie-466|Si tuvieras que volver a ver una película de animación antigua, ¿cuál sería tu prioridad?|Si tuvieras que encontrar tu primer móvil, ¿cuál sería tu prioridad?|
+nostalgie-465|¿Cuál sería tu prioridad si tuvieras que hablar de una moda de tu adolescencia?|¿Cuál sería tu prioridad si tuvieras que encontrar un juguete viejo?|
+nostalgie-466|¿Cuál sería tu prioridad si tuvieras que volver a ver una película de animación antigua?|¿Cuál sería tu prioridad si tuvieras que encontrar tu primer móvil?|
 nostalgie-467|¿Cuánto tiempo te llevaría encontrar una foto de clase de sexto de primaria?|¿Cuánto tiempo te llevaría volver a jugar a un juego de tu infancia?|sixième → sexto de primaria
 nostalgie-468|¿Qué te llevaría a comprar una revista juvenil antigua en buen estado?|¿Qué te llevaría a comprar una consola retro?|
 nostalgie-469|¿A partir de qué precio dudarías en comprar un reproductor MP3 de segunda mano?|¿A partir de qué precio dudarías en comprar un pack recopilatorio de dibujos animados?|
-nostalgie-470|En tu opinión, ¿cuánto cuesta una bici de niño vintage?|En tu opinión, ¿cuánto cuesta un cartel publicitario antiguo?|
+nostalgie-470|¿Cuánto cuesta una bici de niño vintage, en tu opinión?|¿Cuánto cuesta un cartel publicitario antiguo, en tu opinión?|
 nostalgie-471|¿Qué momento del día elegirías para contar tu primer concierto?|¿Qué momento del día elegirías para preparar una merienda como las de antes?|
 nostalgie-472|¿Cuánto tiempo te llevaría reconocer la sintonía de unos dibujos animados?|¿Cuánto tiempo te llevaría hablar de una moda de tu adolescencia?|
 nostalgie-473|¿Quién podría darte el mejor consejo para hablar de una moda de tu adolescencia?|¿Quién podría darte el mejor consejo para encontrar un juguete viejo?|
@@ -144,12 +144,12 @@ nostalgie-474|¿Qué sería lo más importante para releer mensajes antiguos?|¿
 nostalgie-475|¿En qué situación decidirías comprar una cámara desechable?|¿En qué situación decidirías comprar un videojuego retro de segunda mano para una consola antigua?|
 nostalgie-476|¿En qué momento te apetecería comprar una caja de golosinas de tu infancia?|¿En qué momento te apetecería comprar un reproductor de DVD de segunda mano?|
 nostalgie-477|¿Qué es lo primero que harías si una tienda volviera a vender tu merienda favorita de cuando eras pequeño?|¿Qué es lo primero que harías si te cruzaras con un antiguo profesor?|
-nostalgie-478|Según tú, ¿cuánto cuesta una consola retro?|Según tú, ¿cuánto cuesta una cinta de casete de segunda mano en buen estado?|
+nostalgie-478|¿Cuánto cuesta una consola retro, según tú?|¿Cuánto cuesta una cinta de casete de segunda mano en buen estado, según tú?|
 nostalgie-479|¿Qué franja del día te vendría mejor para elegir una canción de los años 2000?|¿Qué franja del día te vendría mejor para montar una noche de juegos retro?|
 nostalgie-480|¿En cuánto tiempo podrías explicarle un juego antiguo a un niño?|¿En cuánto tiempo podrías volver a ver una serie de tu infancia?|
 nostalgie-481|¿A quién le pedirías ayuda para preparar una merienda como las de antes?|¿A quién le pedirías ayuda para reencontrarte con un antiguo compañero del instituto al que no ves desde hace diez años?|collège → instituto
 nostalgie-482|¿En cuánto tiempo podrías encontrar un juguete viejo?|¿En cuánto tiempo podrías elegir una canción de los años 2000?|
-nostalgie-483|En tu opinión, ¿cuánto tiempo hace falta para preparar una fiesta temática de tu infancia?|En tu opinión, ¿cuánto tiempo hace falta para releer mensajes antiguos?|
+nostalgie-483|¿Cuánto tiempo hace falta para preparar una fiesta temática de tu infancia, en tu opinión?|¿Cuánto tiempo hace falta para releer mensajes antiguos, en tu opinión?|
 nostalgie-484|¿Cuál sería tu mayor dificultad para encontrar una foto de clase de sexto de primaria?|¿Cuál sería tu mayor dificultad para volver a jugar a un juego de tu infancia?|sixième → sexto de primaria
 nostalgie-485|¿Hasta cuánto pagarías por un cómic de tu infancia?|¿Hasta cuánto pagarías por un reproductor de CD de segunda mano?|
 nostalgie-486|¿Cuánto crees que vale una cámara desechable?|¿Cuánto crees que vale un videojuego retro de segunda mano para una consola antigua?|
@@ -159,19 +159,19 @@ nostalgie-489|¿Dónde buscarías primero un reloj digital retro?|¿Dónde busca
 nostalgie-490|¿Cómo reaccionarías si una canción antigua te recordara a alguien?|¿Cómo reaccionarías si encontraras tu primer móvil?|
 nostalgie-491|¿A quién llamarías para que te ayudara a reencontrarte con un antiguo compañero del instituto al que no ves desde hace diez años?|¿A quién llamarías para que te ayudara a ponerle a alguien una canción antigua?|collège → instituto
 nostalgie-492|¿Qué presupuesto máximo pondrías para un reproductor de DVD de segunda mano?|¿Qué presupuesto máximo pondrías para una figura de unos dibujos animados antiguos?|
-nostalgie-493|Si tuvieras que volver a jugar a un juego de tu infancia, ¿cuál sería tu prioridad?|Si tuvieras que contar tu primer concierto, ¿cuál sería tu prioridad?|
+nostalgie-493|¿Cuál sería tu prioridad si tuvieras que volver a jugar a un juego de tu infancia?|¿Cuál sería tu prioridad si tuvieras que contar tu primer concierto?|
 nostalgie-494|¿Qué precio te imaginas para un sobre de diez cartas coleccionables con licencia oficial?|¿Qué precio te imaginas para una revista juvenil antigua en buen estado?|
-nostalgie-495|Según tú, ¿cuánto cuesta un cartel publicitario antiguo?|Según tú, ¿cuánto cuesta una bolsa de canicas?|
+nostalgie-495|¿Cuánto cuesta un cartel publicitario antiguo, según tú?|¿Cuánto cuesta una bolsa de canicas, según tú?|
 nostalgie-496|¿Qué dirías en el momento si encontraras un juego al que jugabas de pequeño?|¿Qué dirías en el momento si un amigo no conociera un programa de tele antiguo?|
 nostalgie-497|¿Cuál sería tu primer impulso si alguien volviera a poner de moda algo de tu adolescencia?|¿Cuál sería tu primer impulso si encontraras una antigua lista de deseos?|
-nostalgie-498|Si tuvieras que ponerle a alguien una canción antigua, ¿cuál sería tu prioridad?|Si tuvieras que explicarle un juego antiguo a un niño, ¿cuál sería tu prioridad?|
-nostalgie-499|En tu opinión, ¿cuánto cuesta un álbum de fotos impreso?|En tu opinión, ¿cuánto cuesta un reproductor MP3 de segunda mano?|
+nostalgie-498|¿Cuál sería tu prioridad si tuvieras que ponerle a alguien una canción antigua?|¿Cuál sería tu prioridad si tuvieras que explicarle un juego antiguo a un niño?|
+nostalgie-499|¿Cuánto cuesta un álbum de fotos impreso, en tu opinión?|¿Cuánto cuesta un reproductor MP3 de segunda mano, en tu opinión?|
 nostalgie-500|¿Qué persona de tu entorno podría ayudarte a releer mensajes antiguos?|¿Qué persona de tu entorno podría ayudarte a encontrar una foto de familia antigua?|
 nostalgie-501|¿Cuál sería tu mayor dificultad para montar una noche de juegos retro?|¿Cuál sería tu mayor dificultad para preparar una fiesta temática de tu infancia?|
 nostalgie-502|¿Cómo responderías si recuperaras una consola antigua?|¿Cómo responderías si te viniera de golpe un recuerdo del colegio?|
 nostalgie-503|¿A qué sitio irías para encontrar un reproductor de CD de segunda mano?|¿A qué sitio irías para encontrar un juego de mesa de los años 90 en buen estado?|
 nostalgie-504|¿Qué franja del día te vendría mejor para preparar una merienda como las de antes?|¿Qué franja del día te vendría mejor para reencontrarte con un antiguo compañero del instituto al que no ves desde hace diez años?|collège → instituto
-nostalgie-505|En tu opinión, ¿cuánto tiempo hace falta para ponerle a alguien una canción antigua?|En tu opinión, ¿cuánto tiempo hace falta para explicarle un juego antiguo a un niño?|
+nostalgie-505|¿Cuánto tiempo hace falta para ponerle a alguien una canción antigua, en tu opinión?|¿Cuánto tiempo hace falta para explicarle un juego antiguo a un niño, en tu opinión?|
 nostalgie-506|¿En cuánto tiempo podrías contar tu primer concierto?|¿En cuánto tiempo podrías preparar una merienda como las de antes?|
 nostalgie-507|¿Cuánto tiempo te llevaría montar una noche de juegos retro?|¿Cuánto tiempo te llevaría preparar una fiesta temática de tu infancia?|
 nostalgie-508|¿Cuál sería el mejor momento para preparar una fiesta temática de tu infancia?|¿Cuál sería el mejor momento para releer mensajes antiguos?|
@@ -180,7 +180,7 @@ nostalgie-510|¿A quién llamarías para que te ayudara a encontrar una foto de 
 nostalgie-511|¿A quién llamarías para que te ayudara a reconocer la sintonía de unos dibujos animados?|¿A quién llamarías para que te ayudara a hablar de una moda de tu adolescencia?|
 nostalgie-512|¿Qué frase te saldría si una canción antigua te recordara a alguien?|¿Qué frase te saldría si encontraras tu primer móvil?|
 nostalgie-513|¿Para qué ocasión querrías comprar un juego de mesa de los años 90 en buen estado?|¿Para qué ocasión querrías comprar una cámara desechable?|
-nostalgie-514|En tu opinión, ¿cuánto cuesta un reproductor de CD de segunda mano?|En tu opinión, ¿cuánto cuesta un juego de mesa de los años 90 en buen estado?|
+nostalgie-514|¿Cuánto cuesta un reproductor de CD de segunda mano, en tu opinión?|¿Cuánto cuesta un juego de mesa de los años 90 en buen estado, en tu opinión?|
 nostalgie-515|¿Qué precio te imaginas para una caja de golosinas de tu infancia?|¿Qué precio te imaginas para un reproductor de DVD de segunda mano?|
 nostalgie-516|¿Qué dirías en el momento si te viniera de golpe un recuerdo del colegio?|¿Qué dirías en el momento si un amigo sacara su antigua agenda escolar?|carnet de correspondance → agenda escolar
 nostalgie-517|¿Cómo reaccionarías si oyeras la sintonía de unos dibujos animados?|¿Cómo reaccionarías si recuperaras una consola antigua?|
@@ -190,7 +190,7 @@ nostalgie-520|¿A partir de qué precio dudarías en comprar un cartel publicita
 nostalgie-521|¿Qué momento del día elegirías para releer mensajes antiguos?|¿Qué momento del día elegirías para encontrar una foto de familia antigua?|
 nostalgie-522|¿Qué momento del día elegirías para encontrar tu primer móvil?|¿Qué momento del día elegirías para hacer un álbum de recuerdos?|
 nostalgie-523|¿Quién podría darte el mejor consejo para preparar una fiesta temática de tu infancia?|¿Quién podría darte el mejor consejo para releer mensajes antiguos?|
-nostalgie-524|En tu opinión, ¿cuánto tiempo hace falta para hablar de una moda de tu adolescencia?|En tu opinión, ¿cuánto tiempo hace falta para encontrar un juguete viejo?|
+nostalgie-524|¿Cuánto tiempo hace falta para hablar de una moda de tu adolescencia, en tu opinión?|¿Cuánto tiempo hace falta para encontrar un juguete viejo, en tu opinión?|
 nostalgie-525|¿Qué dirías si un familiar sacara un vídeo familiar antiguo?|¿Qué dirías si encontraras una carta que recibiste a los diez años?|
 nostalgie-526|¿Cuánto crees que vale un reloj digital retro?|¿Cuánto crees que vale un cómic de tu infancia?|
 nostalgie-527|¿Cuánto tiempo calcularías para encontrar una foto de familia antigua?|¿Cuánto tiempo calcularías para encontrar una foto de clase de sexto de primaria?|sixième → sexto de primaria
@@ -438,7 +438,7 @@ halloween-649|¿Cuánto crees que cuesta un pack de tres pelis de terror en DVD?
 halloween-650|¿Cuál sería tu primera reacción si una calabaza se estropea antes de Halloween?|¿Cuál sería tu primera reacción si a un niño le da miedo tu decoración?|
 halloween-651|¿Qué sería lo primero que harías si se te corre el maquillaje justo antes de la fiesta?|¿Qué sería lo primero que harías si se cae un adorno justo cuando pasas?|
 halloween-652|¿Qué harías primero si un niño llama a tu puerta para pedir caramelos?|¿Qué harías primero si un amigo llega con el mismo disfraz que tú?|
-halloween-653|Si tuvieras que preparar un bufé temático de Halloween, ¿cuál sería tu prioridad?|Si tuvieras que poner decoración en las ventanas, ¿cuál sería tu prioridad?|
+halloween-653|¿Cuál sería tu prioridad si tuvieras que preparar un bufé temático de Halloween?|¿Cuál sería tu prioridad si tuvieras que poner decoración en las ventanas?|
 halloween-654|¿Qué te llevaría a comprar un disfraz de vampiro?|¿Qué te llevaría a comprar un disfraz de bruja?|
 halloween-655|¿A qué sitio irías a buscar una guirnalda LED naranja de diez metros para exterior?|¿A qué sitio irías a buscar un maquillaje de esqueleto?|
 halloween-656|¿Qué frase se te escaparía si un amigo llega con el mismo disfraz que tú?|¿Qué frase se te escaparía si se te corre el maquillaje justo antes de la fiesta?|
@@ -455,7 +455,7 @@ halloween-666|¿En qué momento te apetecería comprar un sombrero de brujo de d
 halloween-667|¿En qué situación decidirías comprar una decoración de calabaza?|¿En qué situación decidirías comprar un pack de telarañas falsas?|
 halloween-668|¿Cuánto tiempo crees que hace falta para elegir una ruta por casas decoradas?|¿Cuánto tiempo crees que hace falta para tallar una calabaza?|
 halloween-669|¿Qué persona de tu entorno podría ayudarte a poner decoración en las ventanas?|¿Qué persona de tu entorno podría ayudarte a hacer una foto de grupo disfrazados?|
-halloween-670|Si tuvieras que contar una historia de miedo, ¿cuál sería tu prioridad?|Si tuvieras que organizar una noche de pelis de terror, ¿cuál sería tu prioridad?|
+halloween-670|¿Cuál sería tu prioridad si tuvieras que contar una historia de miedo?|¿Cuál sería tu prioridad si tuvieras que organizar una noche de pelis de terror?|
 halloween-671|¿Cuánto crees que vale una capa de disfraz?|¿Cuánto crees que vale un sombrero de brujo de disfraz?|
 halloween-672|¿Cuál sería el mejor momento para elegir una ruta por casas decoradas?|¿Cuál sería el mejor momento para tallar una calabaza?|
 halloween-673|¿En qué momento te apetecería comprar un pack de telarañas falsas?|¿En qué momento te apetecería comprar una guirnalda LED naranja de diez metros para exterior?|
@@ -465,7 +465,7 @@ halloween-676|¿Cuánto tiempo tardarías en poner decoración en las ventanas?|
 halloween-677|¿Cuánto tiempo calcularías para preparar un juego de misterio?|¿Cuánto tiempo calcularías para elegir un disfraz de pareja?|
 halloween-678|¿Cuánto crees que cuesta una máscara de fantasma?|¿Cuánto crees que cuesta una decoración de Halloween para la puerta?|
 halloween-679|¿Quién podría darte el mejor consejo para preparar el maquillaje del disfraz?|¿Quién podría darte el mejor consejo para elegir una peli para Halloween?|
-halloween-680|Si tuvieras que preparar el maquillaje del disfraz, ¿cuál sería tu prioridad?|Si tuvieras que elegir una peli para Halloween, ¿cuál sería tu prioridad?|
+halloween-680|¿Cuál sería tu prioridad si tuvieras que preparar el maquillaje del disfraz?|¿Cuál sería tu prioridad si tuvieras que elegir una peli para Halloween?|
 halloween-681|¿A partir de qué precio dudarías en comprar un disfraz de bruja?|¿A partir de qué precio dudarías en comprar una decoración de calabaza?|
 halloween-682|¿En qué situación decidirías comprar un juego de misterio para fiestas?|¿En qué situación decidirías comprar un lote de diez accesorios pequeños de disfraz?|
 halloween-683|¿En qué situación decidirías comprar un farolillo con forma de calabaza?|¿En qué situación decidirías comprar un kit para tallar calabazas?|

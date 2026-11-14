@@ -414,7 +414,7 @@ enfance-718|Wie viel ist ein Bilderbuch für Kinder deiner Meinung nach wert?|Wi
 enfance-719|Welcher Satz würde dir rausrutschen, wenn du ein Geschenk bekommst, das du schon hast?|Welcher Satz würde dir rausrutschen, wenn du ausgeschimpft wirst, weil du im Unterricht gequatscht hast?|
 enfance-720|Welcher Satz würde dir rausrutschen, wenn ein Mitschüler dich nach deinem Pausenbrot fragt?|Welcher Satz würde dir rausrutschen, wenn du als Letzter in eine Mannschaft gewählt wirst?|goûter → Pausenbrot
 enfance-721|Wo würdest du einen Fußball zum Spielen auf dem Schulhof kaufen?|Wo würdest du ein Comicalbum kaufen?|
-enfance-722|An welchem Zeitpunkt in der Woche würdest du am liebsten ein Referat für die Schule vorbereiten?|An welchem Zeitpunkt in der Woche würdest du am liebsten einen Kindergeburtstag organisieren?|
+enfance-722|Wann in der Woche würdest du am liebsten ein Referat für die Schule vorbereiten?|Wann in der Woche würdest du am liebsten einen Kindergeburtstag organisieren?|
 enfance-723|Wenn du dir nach der Schule einen Snack machen müsstest, was wäre dir am wichtigsten?|Wenn du das Einmaleins wiederholen müsstest, was wäre dir am wichtigsten?|
 enfance-724|Was wäre der beste Zeitpunkt, um nach der Schule deine Hausaufgaben zu machen?|Was wäre der beste Zeitpunkt, um ein Spiel für die Pause auszusuchen?|
 enfance-725|Wen würdest du fragen, ob er dir hilft, ein Bild für einen lieben Menschen zu malen?|Wen würdest du fragen, ob er dir hilft, eine Kissenburg zu bauen?|
@@ -427,7 +427,7 @@ enfance-731|Was meinst du, wie lange braucht man, um eine Kissenburg zu bauen?|W
 enfance-732|In wie viel Zeit könntest du das Einmaleins wiederholen?|In wie viel Zeit könntest du einen Klassenausflug vorbereiten?|
 enfance-733|Wo würdest du ein Puzzle mit hundert Teilen kaufen?|Wo würdest du eine Packung Knete kaufen?|
 enfance-734|Was würdest du überprüfen, bevor du ein Kinderzimmer aufräumst?|Was würdest du überprüfen, bevor du Fahrradfahren lernst?|
-enfance-735|Zu welchem Anlass würdest du ein Familien-Gesellschaftsspiel kaufen wollen?|Zu welchem Anlass würdest du ein Bilderbuch für Kinder kaufen wollen?|
+enfance-735|Zu welchem Anlass würdest du ein Gesellschaftsspiel für die ganze Familie kaufen wollen?|Zu welchem Anlass würdest du ein Bilderbuch für Kinder kaufen wollen?|
 enfance-736|Was wäre das Wichtigste, um dein Faschingskostüm vorzubereiten?|Was wäre das Wichtigste, um schwimmen zu lernen?|
 enfance-737|Wen würdest du um Hilfe bitten, um ein Kinderzimmer aufzuräumen?|Wen würdest du um Hilfe bitten, um Fahrradfahren zu lernen?|
 enfance-738|Wie viel Zeit würdest du einplanen, um schwimmen zu lernen?|Wie viel Zeit würdest du einplanen, um ein Bild für einen lieben Menschen zu malen?|
@@ -439,7 +439,7 @@ enfance-743|Was wäre der beste Zeitpunkt, um eine Kissenburg zu bauen?|Was wär
 enfance-744|Welcher Satz würde dir rausrutschen, wenn du auf dem Schulhof eine Münze findest?|Welcher Satz würde dir rausrutschen, wenn du unerwartet eine gute Note bekommst?|
 enfance-745|Wie würdest du reagieren, wenn du ausgeschimpft wirst, weil du im Unterricht gequatscht hast?|Wie würdest du reagieren, wenn deine Mannschaft ein Spiel auf dem Pausenhof gewinnt?|
 enfance-746|Was würde dich dazu bringen, ein illustriertes Kartenspiel zu kaufen?|Was würde dich dazu bringen, einen Kinderwecker zu kaufen?|
-enfance-747|An welchem Zeitpunkt in der Woche würdest du am liebsten ein Heft verzieren?|An welchem Zeitpunkt in der Woche würdest du am liebsten ein Buch in der Bücherei aussuchen?|
+enfance-747|Wann in der Woche würdest du am liebsten ein Heft verzieren?|Wann in der Woche würdest du am liebsten ein Buch in der Bücherei aussuchen?|
 enfance-748|Was meinst du, was kostet ein Schulranzen für die Grundschule?|Was meinst du, was kostet eine Schachtel mit vierundzwanzig Buntstiften?|
 enfance-749|Auf welcher Website oder in welchem Laden würdest du nach einem Tagebuch mit Schloss suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem illustrierten Kartenspiel suchen?|
 enfance-750|Welches Zeitfenster am Tag wäre am praktischsten, um ein Gedicht auswendig zu lernen?|Welches Zeitfenster am Tag wäre am praktischsten, um ein Referat für die Schule vorzubereiten?|
@@ -495,5 +495,106 @@ enfance-799|Wie viel wärst du bereit, für ein Bilderbuch für Kinder auszugebe
 enfance-800|Was meinst du, was kostet ein illustriertes Kartenspiel?|Was meinst du, was kostet ein Kinderwecker?|
 enfance-801|Wenn du einen Kindergeburtstag organisieren müsstest, was wäre dir am wichtigsten?|Wenn du für ein Diktat üben müsstest, was wäre dir am wichtigsten?|
 enfance-802|Wer aus deinem Umfeld könnte dir helfen, ein Spiel für die Pause auszusuchen?|Wer aus deinem Umfeld könnte dir helfen, ein Gedicht auswendig zu lernen?|
-enfance-803|An welchem Zeitpunkt in der Woche würdest du am liebsten Fahrradfahren lernen?|An welchem Zeitpunkt in der Woche würdest du dir am liebsten nach der Schule einen Snack machen?|
+enfance-803|Wann in der Woche würdest du am liebsten Fahrradfahren lernen?|Wann in der Woche würdest du dir am liebsten nach der Schule einen Snack machen?|
 enfance-804|Was wäre deine erste Reaktion, wenn dich der Lehrer vor der ganzen Klasse lobt?|Was wäre deine erste Reaktion, wenn dein bester Freund die Schule wechselt?|
+enfance-805|In welcher Situation würdest du dich entscheiden, ein Comicalbum zu kaufen?|In welcher Situation würdest du dich entscheiden, eine Tüte Murmeln zu kaufen?|
+enfance-806|Wer aus deinem Umfeld könnte dir helfen, dein Faschingskostüm vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, schwimmen zu lernen?|
+enfance-807|Welches Budget würdest du maximal für ein Paar Inlineskates für Anfänger einplanen?|Welches Budget würdest du maximal für ein Puzzle mit hundert Teilen einplanen?|
+enfance-808|Was würde dich dazu bringen, ein Paar Inlineskates für Anfänger zu kaufen?|Was würde dich dazu bringen, ein Puzzle mit hundert Teilen zu kaufen?|
+enfance-809|Welche Tageszeit würdest du wählen, um ein Spiel für die Pause auszusuchen?|Welche Tageszeit würdest du wählen, um ein Gedicht auswendig zu lernen?|
+enfance-810|Was wäre das Wichtigste, um ein Spiel für die Pause auszusuchen?|Was wäre das Wichtigste, um ein Gedicht auswendig zu lernen?|
+enfance-811|Was meinst du, wie lange braucht man, um nach der Schule seine Hausaufgaben zu machen?|Was meinst du, wie lange braucht man, um ein Spiel für die Pause auszusuchen?|
+enfance-812|Wann hättest du Lust, einen Baukasten zu kaufen?|Wann hättest du Lust, ein Kinderfahrrad für Sechs- bis Achtjährige zu kaufen?|
+enfance-813|Was wäre für dich am schwierigsten, wenn du Fahrradfahren lernst?|Was wäre für dich am schwierigsten, wenn du dir nach der Schule einen Snack machst?|
+enfance-814|Wie lange würdest du brauchen, um ein Heft zu verzieren?|Wie lange würdest du brauchen, um ein Buch in der Bücherei auszusuchen?|
+enfance-815|Wohin würdest du gehen, um ein Paar Inlineskates für Anfänger zu finden?|Wohin würdest du gehen, um ein Puzzle mit hundert Teilen zu finden?|
+enfance-816|Was würdest du als Erstes tun, wenn du am Tag der Klassenarbeit dein Heft vergisst?|Was würdest du als Erstes tun, wenn ein Mitschüler dich nach deinem Pausenbrot fragt?|goûter → Pausenbrot
+enfance-817|Wann hättest du Lust, eine Tüte Murmeln zu kaufen?|Wann hättest du Lust, ein originelles Federmäppchen zu kaufen?|
+enfance-818|Wen würdest du um Hilfe bitten, um ein Gedicht auswendig zu lernen?|Wen würdest du um Hilfe bitten, um ein Referat für die Schule vorzubereiten?|
+enfance-819|Wie lange würdest du brauchen, um Fahrradfahren zu lernen?|Wie lange würdest du brauchen, um dir nach der Schule einen Snack zu machen?|
+enfance-820|Bis zu wie viel würdest du für eine Tüte Murmeln zahlen?|Bis zu wie viel würdest du für ein originelles Federmäppchen zahlen?|
+enfance-821|Wen würdest du fragen, ob er dir hilft, ein Heft zu verzieren?|Wen würdest du fragen, ob er dir hilft, ein Buch in der Bücherei auszusuchen?|
+enfance-822|Welches Budget würdest du maximal für ein originelles Federmäppchen einplanen?|Welches Budget würdest du maximal für ein Gesellschaftsspiel für die ganze Familie einplanen?|
+enfance-823|Was würde dich dazu bringen, einen Schulranzen für die Grundschule zu kaufen?|Was würde dich dazu bringen, eine Schachtel mit vierundzwanzig Buntstiften zu kaufen?|
+enfance-824|Was wäre dein erster Reflex, wenn du vor der Klasse ein Gedicht aufsagen musst?|Was wäre dein erster Reflex, wenn ein Freund sein Pausenbrot mit dir tauschen will?|goûter → Pausenbrot
+enfance-825|Wann hättest du Lust, ein hochwertiges Kuscheltier zu kaufen?|Wann hättest du Lust, ein Paar Inlineskates für Anfänger zu kaufen?|
+enfance-826|Wer aus deinem Umfeld könnte dir helfen, das Einmaleins zu wiederholen?|Wer aus deinem Umfeld könnte dir helfen, einen Klassenausflug vorzubereiten?|
+enfance-827|Was würdest du sagen, wenn dein Lehrer die ganze Klasse umsetzt?|Was würdest du sagen, wenn du auf der Feier den Text eines Liedes vergisst?|
+enfance-828|Wohin würdest du gehen, um ein originelles Federmäppchen zu finden?|Wohin würdest du gehen, um ein Gesellschaftsspiel für die ganze Familie zu finden?|
+enfance-829|Ab welchem Preis würdest du zögern, ein Gesellschaftsspiel für die ganze Familie zu kaufen?|Ab welchem Preis würdest du zögern, ein Bilderbuch für Kinder zu kaufen?|
+enfance-830|Wen würdest du um Hilfe bitten, um eine Freizeitaktivität für den Nachmittag auszusuchen?|Wen würdest du um Hilfe bitten, um deinen Schulranzen für den nächsten Tag zu packen?|activité du mercredi → Nachmittagsaktivität
+enfance-831|Wer aus deinem Umfeld könnte dir helfen, ein Schulfest vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, eine Freizeitaktivität für den Nachmittag auszusuchen?|activité du mercredi → Nachmittagsaktivität
+enfance-832|Welcher Satz würde dir rausrutschen, wenn du auf der Feier den Text eines Liedes vergisst?|Welcher Satz würde dir rausrutschen, wenn deine Eltern ein verstecktes Bild von dir entdecken?|
+enfance-833|Ab welchem Preis würdest du zögern, eine Schachtel mit vierundzwanzig Buntstiften zu kaufen?|Ab welchem Preis würdest du zögern, ein Päckchen mit zehn offiziell lizenzierten Sammelkarten zu kaufen?|
+enfance-834|Wie lange würdest du brauchen, um deinen Schulranzen für den nächsten Tag zu packen?|Wie lange würdest du brauchen, um nach der Schule deine Hausaufgaben zu machen?|
+enfance-835|Was meinst du, wie lange braucht man, um einen Kindergeburtstag zu organisieren?|Was meinst du, wie lange braucht man, um für ein Diktat zu üben?|
+enfance-836|Was wäre dein erster Reflex, wenn deine Eltern ein verstecktes Bild von dir entdecken?|Was wäre dein erster Reflex, wenn ein Kind sich weigert, ein Spielzeug zu teilen?|
+enfance-837|Wie würdest du reagieren, wenn deine Eltern ein verstecktes Bild von dir entdecken?|Wie würdest du reagieren, wenn ein Kind sich weigert, ein Spielzeug zu teilen?|
+enfance-838|Was kostet deiner Meinung nach ein Fußball zum Spielen auf dem Schulhof?|Was kostet deiner Meinung nach ein Comicalbum?|
+enfance-839|Was wäre dein erster Reflex, wenn du ausgeschimpft wirst, weil du im Unterricht gequatscht hast?|Was wäre dein erster Reflex, wenn deine Mannschaft ein Spiel auf dem Pausenhof gewinnt?|
+enfance-840|Wo würdest du ein Gesellschaftsspiel für die ganze Familie kaufen?|Wo würdest du ein Bilderbuch für Kinder kaufen?|
+enfance-841|In wie viel Zeit könntest du ein Schulfest vorbereiten?|In wie viel Zeit könntest du eine Freizeitaktivität für den Nachmittag aussuchen?|activité du mercredi → Nachmittagsaktivität
+enfance-842|Wenn du ein Buch in der Bücherei aussuchen müsstest, was wäre dir am wichtigsten?|Wenn du dein Faschingskostüm vorbereiten müsstest, was wäre dir am wichtigsten?|
+enfance-843|Was meinst du, was kostet ein Kinderfahrrad für Sechs- bis Achtjährige?|Was meinst du, was kostet ein Fußball zum Spielen auf dem Schulhof?|
+enfance-844|Welches Zeitfenster am Tag wäre am praktischsten, um eine Freizeitaktivität für den Nachmittag auszusuchen?|Welches Zeitfenster am Tag wäre am praktischsten, um deinen Schulranzen für den nächsten Tag zu packen?|activité du mercredi → Nachmittagsaktivität
+enfance-845|Wohin würdest du gehen, um einen Schulranzen für die Grundschule zu finden?|Wohin würdest du gehen, um eine Schachtel mit vierundzwanzig Buntstiften zu finden?|
+enfance-846|Welcher Satz würde dir rausrutschen, wenn man dir einen Überraschungsausflug mit der Schule ankündigt?|Welcher Satz würde dir rausrutschen, wenn du vor der Klasse ein Gedicht aufsagen musst?|
+enfance-847|Wie würdest du reagieren, wenn man dir einen Überraschungsausflug mit der Schule ankündigt?|Wie würdest du reagieren, wenn du vor der Klasse ein Gedicht aufsagen musst?|
+enfance-848|Welchen Preis stellst du dir für eine Tüte Murmeln vor?|Welchen Preis stellst du dir für ein originelles Federmäppchen vor?|
+enfance-849|Welchen Preis stellst du dir für ein Tagebuch mit Schloss vor?|Welchen Preis stellst du dir für ein illustriertes Kartenspiel vor?|
+enfance-850|Wer könnte dir die besten Tipps geben, um dir nach der Schule einen Snack zu machen?|Wer könnte dir die besten Tipps geben, um das Einmaleins zu wiederholen?|
+enfance-851|Welche Tageszeit würdest du wählen, um ein Schulfest vorzubereiten?|Welche Tageszeit würdest du wählen, um eine Freizeitaktivität für den Nachmittag auszusuchen?|activité du mercredi → Nachmittagsaktivität
+enfance-852|Was würdest du spontan sagen, wenn dein bester Freund am ersten Schultag nach den Ferien fehlt?|Was würdest du spontan sagen, wenn du am Tag der Klassenarbeit dein Heft vergisst?|
+enfance-853|Ab welchem Preis würdest du zögern, ein Puzzle mit hundert Teilen zu kaufen?|Ab welchem Preis würdest du zögern, eine Packung Knete zu kaufen?|
+enfance-854|Bis zu wie viel würdest du für eine kleine tragbare Spielkonsole zahlen?|Bis zu wie viel würdest du für einen Schulranzen für die Grundschule zahlen?|
+enfance-855|Wer könnte dir die besten Tipps geben, um ein Buch in der Bücherei auszusuchen?|Wer könnte dir die besten Tipps geben, um dein Faschingskostüm vorzubereiten?|
+enfance-856|Welches Zeitfenster am Tag wäre am praktischsten, um schwimmen zu lernen?|Welches Zeitfenster am Tag wäre am praktischsten, um ein Bild für einen lieben Menschen zu malen?|
+enfance-857|Wann hättest du Lust, eine kleine tragbare Spielkonsole zu kaufen?|Wann hättest du Lust, einen Schulranzen für die Grundschule zu kaufen?|
+enfance-858|Wann in der Woche würdest du am liebsten ein Bild für einen lieben Menschen malen?|Wann in der Woche würdest du am liebsten eine Kissenburg bauen?|
+enfance-859|Welches Budget würdest du maximal für einen Schulranzen für die Grundschule einplanen?|Welches Budget würdest du maximal für eine Schachtel mit vierundzwanzig Buntstiften einplanen?|
+enfance-860|Wie würdest du reagieren, wenn du auf der Feier den Text eines Liedes vergisst?|Wie würdest du reagieren, wenn deine Eltern ein verstecktes Bild von dir entdecken?|
+enfance-861|Was wäre deine erste Reaktion, wenn ein Kind sich weigert, ein Spielzeug zu teilen?|Was wäre deine erste Reaktion, wenn die Pause wegen Regen ausfällt?|
+enfance-862|Wie viel Zeit würdest du einplanen, um ein Kinderzimmer aufzuräumen?|Wie viel Zeit würdest du einplanen, um Fahrradfahren zu lernen?|
+enfance-863|Was wäre das Wichtigste, um für ein Diktat zu üben?|Was wäre das Wichtigste, um ein Kinderzimmer aufzuräumen?|
+enfance-864|Welche Tageszeit würdest du wählen, um dein Faschingskostüm vorzubereiten?|Welche Tageszeit würdest du wählen, um schwimmen zu lernen?|
+enfance-865|Welches Budget würdest du maximal für ein Kinderfahrrad für Sechs- bis Achtjährige einplanen?|Welches Budget würdest du maximal für einen Fußball zum Spielen auf dem Schulhof einplanen?|
+enfance-866|Was wäre für dich am schwierigsten, wenn du ein Referat für die Schule vorbereitest?|Was wäre für dich am schwierigsten, wenn du einen Kindergeburtstag organisierst?|
+enfance-867|Auf welcher Website oder in welchem Laden würdest du nach einem hochwertigen Kuscheltier suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Paar Inlineskates für Anfänger suchen?|
+enfance-868|Zu welchem Anlass würdest du einen Fußball zum Spielen auf dem Schulhof kaufen wollen?|Zu welchem Anlass würdest du ein Comicalbum kaufen wollen?|
+enfance-869|Was wäre der beste Zeitpunkt, um einen Kindergeburtstag zu organisieren?|Was wäre der beste Zeitpunkt, um für ein Diktat zu üben?|
+enfance-870|Was wäre dein erster Reflex, wenn du unerwartet eine gute Note bekommst?|Was wäre dein erster Reflex, wenn dein bester Freund am ersten Schultag nach den Ferien fehlt?|
+enfance-871|In welcher Situation würdest du dich entscheiden, ein Päckchen mit zehn offiziell lizenzierten Sammelkarten zu kaufen?|In welcher Situation würdest du dich entscheiden, einen Baukasten zu kaufen?|
+enfance-872|Wann in der Woche würdest du am liebsten deinen Schulranzen für den nächsten Tag packen?|Wann in der Woche würdest du am liebsten nach der Schule deine Hausaufgaben machen?|
+enfance-873|Bis zu wie viel würdest du für ein hochwertiges Kuscheltier zahlen?|Bis zu wie viel würdest du für ein Paar Inlineskates für Anfänger zahlen?|
+enfance-874|Wo würdest du zuerst nach einer Packung Knete suchen?|Wo würdest du zuerst nach einem Tagebuch mit Schloss suchen?|
+enfance-875|Was würde dich dazu bringen, ein Kinderfahrrad für Sechs- bis Achtjährige zu kaufen?|Was würde dich dazu bringen, einen Fußball zum Spielen auf dem Schulhof zu kaufen?|
+enfance-876|Wie würdest du reagieren, wenn du vor der Klasse ein Gedicht aufsagen musst?|Wie würdest du reagieren, wenn ein Freund sein Pausenbrot mit dir tauschen will?|goûter → Pausenbrot
+enfance-877|Bis zu wie viel würdest du für einen Baukasten zahlen?|Bis zu wie viel würdest du für ein Kinderfahrrad für Sechs- bis Achtjährige zahlen?|
+enfance-878|Wen würdest du um Hilfe bitten, um schwimmen zu lernen?|Wen würdest du um Hilfe bitten, um ein Bild für einen lieben Menschen zu malen?|
+enfance-879|Wie viel Zeit würdest du einplanen, um eine Freizeitaktivität für den Nachmittag auszusuchen?|Wie viel Zeit würdest du einplanen, um deinen Schulranzen für den nächsten Tag zu packen?|activité du mercredi → Nachmittagsaktivität
+enfance-880|Was kostet deiner Meinung nach ein Puzzle mit hundert Teilen?|Was kostet deiner Meinung nach eine Packung Knete?|
+enfance-881|Wie viel ist eine Brotdose deiner Meinung nach wert?|Wie viel ist eine kleine tragbare Spielkonsole deiner Meinung nach wert?|
+enfance-882|Auf welcher Website oder in welchem Laden würdest du nach einer kleinen tragbaren Spielkonsole suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Schulranzen für die Grundschule suchen?|
+enfance-883|Zu welchem Anlass würdest du eine Schachtel mit vierundzwanzig Buntstiften kaufen wollen?|Zu welchem Anlass würdest du ein Päckchen mit zehn offiziell lizenzierten Sammelkarten kaufen wollen?|
+enfance-884|In welcher Situation würdest du dich entscheiden, eine Brotdose zu kaufen?|In welcher Situation würdest du dich entscheiden, eine kleine tragbare Spielkonsole zu kaufen?|
+enfance-885|Wie viel wärst du bereit, für eine Packung Knete auszugeben?|Wie viel wärst du bereit, für ein Tagebuch mit Schloss auszugeben?|
+enfance-886|Was würdest du sagen, wenn du am Tag der Klassenarbeit dein Heft vergisst?|Was würdest du sagen, wenn ein Mitschüler dich nach deinem Pausenbrot fragt?|goûter → Pausenbrot
+enfance-887|Wie lange würdest du brauchen, um ein Referat für die Schule vorzubereiten?|Wie lange würdest du brauchen, um einen Kindergeburtstag zu organisieren?|
+enfance-888|Welchen Preis stellst du dir für eine kleine tragbare Spielkonsole vor?|Welchen Preis stellst du dir für einen Schulranzen für die Grundschule vor?|
+enfance-889|Was meinst du, was kostet ein Paar Inlineskates für Anfänger?|Was meinst du, was kostet ein Puzzle mit hundert Teilen?|
+enfance-890|Ab welchem Preis würdest du zögern, einen Kinderwecker zu kaufen?|Ab welchem Preis würdest du zögern, eine Brotdose zu kaufen?|
+enfance-891|Wo würdest du zuerst nach einem Bilderbuch für Kinder suchen?|Wo würdest du zuerst nach einem hochwertigen Kuscheltier suchen?|
+enfance-892|Wen würdest du fragen, ob er dir hilft, deinen Schulranzen für den nächsten Tag zu packen?|Wen würdest du fragen, ob er dir hilft, nach der Schule deine Hausaufgaben zu machen?|
+enfance-893|Was wäre das Wichtigste, um das Einmaleins zu wiederholen?|Was wäre das Wichtigste, um einen Klassenausflug vorzubereiten?|
+enfance-894|Wen würdest du um Hilfe bitten, um einen Klassenausflug vorzubereiten?|Wen würdest du um Hilfe bitten, um ein Heft zu verzieren?|
+enfance-895|Wie viel ist ein Päckchen mit zehn offiziell lizenzierten Sammelkarten deiner Meinung nach wert?|Wie viel ist ein Baukasten deiner Meinung nach wert?|
+enfance-896|Was würdest du spontan sagen, wenn ein Freund sein Pausenbrot mit dir tauschen will?|Was würdest du spontan sagen, wenn dein Lehrer die ganze Klasse umsetzt?|goûter → Pausenbrot
+enfance-897|Wie würdest du reagieren, wenn du ein Geschenk bekommst, das du schon hast?|Wie würdest du reagieren, wenn du ausgeschimpft wirst, weil du im Unterricht gequatscht hast?|
+enfance-898|Was meinst du, was kostet ein originelles Federmäppchen?|Was meinst du, was kostet ein Gesellschaftsspiel für die ganze Familie?|
+enfance-899|Was meinst du, wie lange braucht man, um ein Buch in der Bücherei auszusuchen?|Was meinst du, wie lange braucht man, um sein Faschingskostüm vorzubereiten?|
+enfance-900|Auf welcher Website oder in welchem Laden würdest du nach einer Tüte Murmeln suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem originellen Federmäppchen suchen?|
+enfance-901|Was würdest du überprüfen, bevor du einen Klassenausflug vorbereitest?|Was würdest du überprüfen, bevor du ein Heft verzierst?|
+enfance-902|Was würdest du überprüfen, bevor du schwimmen lernst?|Was würdest du überprüfen, bevor du ein Bild für einen lieben Menschen malst?|
+enfance-903|Welchen Preis stellst du dir für ein hochwertiges Kuscheltier vor?|Welchen Preis stellst du dir für ein Paar Inlineskates für Anfänger vor?|
+enfance-904|Wen würdest du fragen, ob er dir hilft, ein Referat für die Schule vorzubereiten?|Wen würdest du fragen, ob er dir hilft, einen Kindergeburtstag zu organisieren?|
+enfance-905|Welches Zeitfenster am Tag wäre am praktischsten, um einen Klassenausflug vorzubereiten?|Welches Zeitfenster am Tag wäre am praktischsten, um ein Heft zu verzieren?|

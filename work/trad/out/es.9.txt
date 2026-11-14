@@ -197,3 +197,103 @@ vacances-774|¿Quién podría darte el mejor consejo para elegir una estación d
 vacances-775|¿En qué situación decidirías reservar dos noches en una casa rural para dos personas?|¿En qué situación decidirías comprar una mochila de senderismo ligera?|gîte → casa rural
 vacances-776|Si tuvieras que preparar un viaje a la montaña, ¿cuál sería tu prioridad?|Si tuvieras que organizar un día de trineo, ¿cuál sería tu prioridad?|
 vacances-777|¿Cuánto crees que vale un gorro de lana de calidad?|¿Cuánto crees que vale un chocolate caliente en una estación de esquí?|
+vacances-778|¿En qué situación decidirías contratar una excursión guiada por la montaña?|¿En qué situación decidirías comprar un pase de dos días para una pista de patinaje?|
+dilemmes-703|¿A quién le pedirías ayuda para elegir un destino de vacaciones?|¿A quién le pedirías ayuda para organizar un fin de semana con poco presupuesto?|
+dilemmes-704|¿En qué web o en qué tienda buscarías un smartphone reacondicionado de 128 GB, en muy buen estado?|¿En qué web o en qué tienda buscarías un coche familiar de alquiler para tres días en Valencia?|Lyon → Valencia
+dilemmes-705|¿Cuánto tiempo crees que hace falta para tomar una decisión entre varios?|¿Cuánto tiempo crees que hace falta para responder a una invitación sorpresa?|
+dilemmes-706|¿Qué franja del día sería la más práctica para decidir irte de vacaciones en el último momento?|¿Qué franja del día sería la más práctica para elegir entre dos invitaciones para la misma noche?|
+dilemmes-707|¿Cuál sería tu principal dificultad para organizar un fin de semana con poco presupuesto?|¿Cuál sería tu principal dificultad para decidir entre salir o descansar?|
+dilemmes-708|¿Qué franja del día sería la más práctica para elegir una actividad para un día libre?|¿Qué franja del día sería la más práctica para repartir los gastos entre amigos?|
+dilemmes-709|¿Adónde irías para comprar un billete de tren en primera clase para un trayecto de dos horas?|¿Adónde irías para contratar un envío urgente por España en 24 horas para un paquete de 2 kg?|en France → por España
+dilemmes-710|¿Qué sería lo primero que harías si alguien cercano te pide un favor en tu día de descanso?|¿Qué sería lo primero que harías si puedes ahorrar dinero haciendo un trayecto mucho más largo?|
+dilemmes-711|¿Cuánto tiempo calcularías para elegir un destino de vacaciones?|¿Cuánto tiempo calcularías para organizar un fin de semana con poco presupuesto?|
+dilemmes-712|¿Qué presupuesto máximo pondrías para un coche familiar de alquiler para tres días en Valencia?|¿Qué presupuesto máximo pondrías para una entrada de concierto con buena visibilidad?|Lyon → Valencia
+dilemmes-713|¿A quién llamarías para que te ayude a organizar un fin de semana con poco presupuesto?|¿A quién llamarías para que te ayude a decidir entre salir o descansar?|
+dilemmes-714|¿Qué sería lo primero que harías si un buen plan cuesta el doble de lo previsto?|¿Qué sería lo primero que harías si tu grupo duda entre un plan de interior y uno al aire libre?|
+dilemmes-715|¿Qué sería lo más importante para responder a una invitación sorpresa?|¿Qué sería lo más importante para elegir un destino de vacaciones?|
+dilemmes-716|¿Cuánto tiempo crees que hace falta para reservar un viaje con amigos?|¿Cuánto tiempo crees que hace falta para preparar una salida muy temprano?|
+dilemmes-717|¿Qué dirías si tienes que elegir entre dos cumpleaños la misma noche?|¿Qué dirías si un amigo te regala una entrada para un concierto pero al día siguiente trabajas?|
+dilemmes-718|¿Qué precio te imaginas para un smartphone reacondicionado de 128 GB, en muy buen estado?|¿Qué precio te imaginas para un coche familiar de alquiler para tres días en Valencia?|Lyon → Valencia
+dilemmes-719|¿Cuál sería el mejor momento para reservar un viaje con amigos?|¿Cuál sería el mejor momento para preparar una salida muy temprano?|
+dilemmes-720|¿En qué momento te apetecería comprar un regalo personalizado para el cumpleaños de alguien cercano?|¿En qué momento te apetecería comprar un curso online certificado de veinte horas?|
+dilemmes-721|¿A quién llamarías para que te ayude a elegir entre dos invitaciones para la misma noche?|¿A quién llamarías para que te ayude a reservar un viaje con amigos?|
+dilemmes-722|¿Cuál sería el mejor momento para tomar una decisión entre varios?|¿Cuál sería el mejor momento para responder a una invitación sorpresa?|
+dilemmes-723|¿Dónde buscarías primero una cuota de gimnasio sin permanencia?|¿Dónde buscarías primero un smartphone reacondicionado de 128 GB, en muy buen estado?|
+dilemmes-724|¿Cómo reaccionarías si un amigo quiere cambiar un viaje dos días antes de salir?|¿Cómo reaccionarías si tienes que elegir una actividad que no le va a gustar a todo el mundo?|
+dilemmes-725|¿Cuánto tiempo crees que hace falta para organizar unas vacaciones en familia?|¿Cuánto tiempo crees que hace falta para aceptar o rechazar un favor?|
+dilemmes-726|¿Cómo reaccionarías si dudas entre ayudar a un amigo y cumplir con un compromiso?|¿Cómo reaccionarías si alguien cercano te pide un favor en tu día de descanso?|
+dilemmes-727|¿Qué detalle comprobarías antes de cambiar de trabajo para tener más equilibrio?|¿Qué detalle comprobarías antes de elegir entre dos restaurantes?|
+dilemmes-728|¿Adónde irías para comprar una entrada de concierto con buena visibilidad?|¿Adónde irías para reservar una comida en un pequeño restaurante con buena fama?|
+dilemmes-729|¿Qué dirías si puedes irte antes pero perdiéndote el final de un evento?|¿Qué dirías si dudas entre ayudar a un amigo y cumplir con un compromiso?|
+dilemmes-730|¿Cuál sería tu primera reacción si tus amigos eligen un restaurante que no te gusta?|¿Cuál sería tu primera reacción si puedes irte antes pero perdiéndote el final de un evento?|
+dilemmes-731|¿Qué harías primero si te proponen un cambio de planes en el último momento?|¿Qué harías primero si tienes que elegir entre dos personas para una invitación limitada?|
+dilemmes-732|¿Qué momento de la semana preferirías para organizar un fin de semana con poco presupuesto?|¿Qué momento de la semana preferirías para decidir entre salir o descansar?|
+dilemmes-733|¿Adónde irías para encontrar una bici eléctrica urbana de segunda mano en buen estado?|¿Adónde irías para encontrar un billete de tren en primera clase para un trayecto de dos horas?|
+dilemmes-734|¿Para qué ocasión querrías comprar un billete de tren en primera clase para un trayecto de dos horas?|¿Para qué ocasión querrías contratar un envío urgente por España en 24 horas para un paquete de 2 kg?|en France → por España
+dilemmes-735|¿Quién podría darte el mejor consejo para llegar a un acuerdo en equipo?|¿Quién podría darte el mejor consejo para elegir entre comodidad y ahorro?|
+dilemmes-736|¿A partir de qué precio dudarías en comprar una entrada de concierto con buena visibilidad?|¿A partir de qué precio dudarías en reservar una comida en un pequeño restaurante con buena fama?|
+dilemmes-737|¿Cuánto tiempo crees que hace falta para llegar a un acuerdo en equipo?|¿Cuánto tiempo crees que hace falta para elegir entre comodidad y ahorro?|
+dilemmes-738|¿Cuánto tiempo te haría falta para decidir apuntarte a un curso nocturno?|¿Cuánto tiempo te haría falta para organizar unas vacaciones en familia?|
+dilemmes-739|¿En qué situación decidirías reservar una comida en un pequeño restaurante con buena fama?|¿En qué situación decidirías comprar un regalo personalizado para el cumpleaños de alguien cercano?|
+dilemmes-740|¿Qué momento de la semana preferirías para decidir apuntarte a un curso nocturno?|¿Qué momento de la semana preferirías para organizar unas vacaciones en familia?|
+dilemmes-741|¿Qué precio te imaginas para un portátil ultraligero?|¿Qué precio te imaginas para una bici eléctrica urbana de segunda mano en buen estado?|
+dilemmes-742|¿Dónde buscarías primero una noche en un hotel bien situado en el centro?|¿Dónde buscarías primero una entrada de primera fila para un espectáculo?|
+dilemmes-743|¿Qué persona de tu entorno podría ayudarte a elegir un regalo a medias?|¿Qué persona de tu entorno podría ayudarte a preparar una noche sin móviles?|
+dilemmes-744|¿Hasta cuánto pagarías por una suscripción de música sin anuncios?|¿Hasta cuánto pagarías por una escapada de dos noches en una casa rural cerca de casa?|gîte → casa rural
+dilemmes-745|¿Cuánto estarías dispuesto a gastar en una comida en un pequeño restaurante con buena fama?|¿Cuánto estarías dispuesto a gastar en un regalo personalizado para el cumpleaños de alguien cercano?|
+dilemmes-746|¿Qué dirías en ese momento si tienes dos planes igual de interesantes para el fin de semana?|¿Qué dirías en ese momento si te proponen un cambio de planes en el último momento?|
+dilemmes-747|¿Dónde buscarías primero un seguro de viaje completo?|¿Dónde buscarías primero un portátil ultraligero?|
+dilemmes-748|¿A quién le pedirías ayuda para preparar una noche sin móviles?|¿A quién le pedirías ayuda para decidir apuntarte a un curso nocturno?|
+dilemmes-749|¿En cuánto tiempo podrías aceptar o rechazar un favor?|¿En cuánto tiempo podrías elegir una actividad para un día libre?|
+dilemmes-750|¿Qué sería lo más importante para elegir un regalo a medias?|¿Qué sería lo más importante para preparar una noche sin móviles?|
+dilemmes-751|¿Cuál sería tu principal dificultad para repartir los gastos entre amigos?|¿Cuál sería tu principal dificultad para llegar a un acuerdo en equipo?|
+dilemmes-752|¿Qué te llevaría a reservar una escapada de dos noches en una casa rural cerca de casa?|¿Qué te llevaría a comprar un jersey de lana de buena calidad?|gîte → casa rural
+dilemmes-753|¿Cuánto estarías dispuesto a gastar en una cuota de gimnasio sin permanencia?|¿Cuánto estarías dispuesto a gastar en un smartphone reacondicionado de 128 GB, en muy buen estado?|
+dilemmes-754|¿Qué harías primero si puedes comprar ya o esperar a una oferta?|¿Qué harías primero si tienes que comunicar una decisión que no le gusta a un amigo?|
+dilemmes-755|¿Qué presupuesto máximo pondrías para una bici eléctrica urbana de segunda mano en buen estado?|¿Qué presupuesto máximo pondrías para un billete de tren en primera clase para un trayecto de dos horas?|
+dilemmes-756|¿Qué te llevaría a comprar un curso online certificado de veinte horas?|¿Qué te llevaría a comprar una entrada de cine premium?|
+dilemmes-757|¿Qué momento del día elegirías para preparar una salida muy temprano?|¿Qué momento del día elegirías para cambiar de trabajo para tener más equilibrio?|
+dilemmes-758|¿Cuánto crees que vale una cuota de gimnasio sin permanencia?|¿Cuánto crees que vale un smartphone reacondicionado de 128 GB, en muy buen estado?|
+dilemmes-759|¿Qué frase te saldría si tienes que elegir entre dos personas para una invitación limitada?|¿Qué frase te saldría si un buen plan cuesta el doble de lo previsto?|
+dilemmes-760|¿Qué sería lo más importante para preparar una salida muy temprano?|¿Qué sería lo más importante para cambiar de trabajo para tener más equilibrio?|
+dilemmes-761|¿Hasta cuánto pagarías por un smartphone reacondicionado de 128 GB, en muy buen estado?|¿Hasta cuánto pagarías por un coche familiar de alquiler para tres días en Valencia?|Lyon → Valencia
+dilemmes-762|¿En qué momento te apetecería comprar un smartphone reacondicionado de 128 GB, en muy buen estado?|¿En qué momento te apetecería alquilar un coche familiar para tres días en Valencia?|Lyon → Valencia
+dilemmes-763|¿Qué dirías si te proponen un cambio de planes en el último momento?|¿Qué dirías si tienes que elegir entre dos personas para una invitación limitada?|
+dilemmes-764|¿Qué presupuesto máximo pondrías para un billete de tren flexible?|¿Qué presupuesto máximo pondrías para una noche de hotel con cancelación gratuita?|
+dilemmes-765|Si tuvieras que tomar una decisión entre varios, ¿cuál sería tu prioridad?|Si tuvieras que responder a una invitación sorpresa, ¿cuál sería tu prioridad?|
+dilemmes-766|¿Cuánto crees que cuesta un curso online certificado de veinte horas?|¿Cuánto crees que cuesta una entrada de cine premium?|
+dilemmes-767|¿Qué momento de la semana preferirías para elegir entre dos invitaciones para la misma noche?|¿Qué momento de la semana preferirías para reservar un viaje con amigos?|
+dilemmes-768|¿Qué te llevaría a comprar un billete de tren flexible?|¿Qué te llevaría a reservar una noche de hotel con cancelación gratuita?|
+dilemmes-769|¿Para qué ocasión querrías reservar una noche de hotel con cancelación gratuita?|¿Para qué ocasión querrías contratar una cuota de gimnasio sin permanencia?|
+dilemmes-770|¿Qué harías primero si puedes irte antes pero perdiéndote el final de un evento?|¿Qué harías primero si dudas entre ayudar a un amigo y cumplir con un compromiso?|
+dilemmes-771|¿Cuánto crees que vale una comida en un pequeño restaurante con buena fama?|¿Cuánto crees que vale un regalo personalizado para el cumpleaños de alguien cercano?|
+dilemmes-772|¿Quién podría darte el mejor consejo para decidir entre salir o descansar?|¿Quién podría darte el mejor consejo para elegir un regalo a medias?|
+dilemmes-773|¿Cuánto crees que vale un seguro de viaje completo?|¿Cuánto crees que vale un portátil ultraligero?|
+dilemmes-774|¿En qué situación decidirías contratar un envío urgente por España en 24 horas para un paquete de 2 kg?|¿En qué situación decidirías contratar una suscripción de música sin anuncios?|en France → por España
+dilemmes-775|¿Qué frase te saldría si un amigo te regala una entrada para un concierto pero al día siguiente trabajas?|¿Qué frase te saldría si te ofrecen un puesto mejor pagado, pero con una hora más de trayecto cada día?|
+dilemmes-776|¿Cuánto tiempo te haría falta para elegir entre dos invitaciones para la misma noche?|¿Cuánto tiempo te haría falta para reservar un viaje con amigos?|
+dilemmes-777|¿Qué persona de tu entorno podría ayudarte a preparar una salida muy temprano?|¿Qué persona de tu entorno podría ayudarte a cambiar de trabajo para tener más equilibrio?|
+dilemmes-778|¿Cuánto estarías dispuesto a gastar en un seguro de viaje completo?|¿Cuánto estarías dispuesto a gastar en un portátil ultraligero?|
+dilemmes-779|¿Qué persona de tu entorno podría ayudarte a elegir entre comodidad y ahorro?|¿Qué persona de tu entorno podría ayudarte a decidir irte de vacaciones en el último momento?|
+dilemmes-780|¿En cuánto tiempo podrías elegir entre comodidad y ahorro?|¿En cuánto tiempo podrías decidir irte de vacaciones en el último momento?|
+dilemmes-781|¿Cuál sería tu principal dificultad para elegir entre dos invitaciones para la misma noche?|¿Cuál sería tu principal dificultad para reservar un viaje con amigos?|
+dilemmes-782|¿Adónde irías para comprar un jersey de lana de buena calidad?|¿Adónde irías para reservar una noche en un hotel bien situado en el centro?|
+dilemmes-783|Si tuvieras que decidir entre salir o descansar, ¿cuál sería tu prioridad?|Si tuvieras que elegir un regalo a medias, ¿cuál sería tu prioridad?|
+dilemmes-784|¿Qué detalle comprobarías antes de decidir irte de vacaciones en el último momento?|¿Qué detalle comprobarías antes de elegir entre dos invitaciones para la misma noche?|
+dilemmes-785|¿Qué sería lo primero que harías si tienes que elegir una actividad que no le va a gustar a todo el mundo?|¿Qué sería lo primero que harías si tienes dos planes igual de interesantes para el fin de semana?|
+dilemmes-786|¿Dónde buscarías primero una comida en un pequeño restaurante con buena fama?|¿Dónde buscarías primero un regalo personalizado para el cumpleaños de alguien cercano?|
+dilemmes-787|¿Qué persona de tu entorno podría ayudarte a responder a una invitación sorpresa?|¿Qué persona de tu entorno podría ayudarte a elegir un destino de vacaciones?|
+dilemmes-788|¿Cuál sería el mejor momento para decidir entre salir o descansar?|¿Cuál sería el mejor momento para elegir un regalo a medias?|
+dilemmes-789|¿En qué momento te apetecería comprar un portátil ultraligero?|¿En qué momento te apetecería comprar una bici eléctrica urbana de segunda mano en buen estado?|
+dilemmes-790|¿Adónde irías para encontrar un curso online certificado de veinte horas?|¿Adónde irías para encontrar una entrada de cine premium?|
+dilemmes-791|¿Hasta cuánto pagarías por una entrada de primera fila para un espectáculo?|¿Hasta cuánto pagarías por un billete de tren flexible?|
+dilemmes-792|¿Cuánto tiempo calcularías para decidir irte de vacaciones en el último momento?|¿Cuánto tiempo calcularías para elegir entre dos invitaciones para la misma noche?|
+dilemmes-793|¿Cuánto crees que cuesta una escapada de dos noches en una casa rural cerca de casa?|¿Cuánto crees que cuesta un jersey de lana de buena calidad?|gîte → casa rural
+dilemmes-794|¿Qué dirías en ese momento si tu grupo duda entre un plan de interior y uno al aire libre?|¿Qué dirías en ese momento si puedes comprar ya o esperar a una oferta?|
+dilemmes-795|Si tuvieras que reservar un viaje con amigos, ¿cuál sería tu prioridad?|Si tuvieras que preparar una salida muy temprano, ¿cuál sería tu prioridad?|
+dilemmes-796|¿Cuánto tiempo te haría falta para repartir los gastos entre amigos?|¿Cuánto tiempo te haría falta para llegar a un acuerdo en equipo?|
+dilemmes-797|Si tuvieras que organizar unas vacaciones en familia, ¿cuál sería tu prioridad?|Si tuvieras que aceptar o rechazar un favor, ¿cuál sería tu prioridad?|
+dilemmes-798|Si tuvieras que llegar a un acuerdo en equipo, ¿cuál sería tu prioridad?|Si tuvieras que elegir entre comodidad y ahorro, ¿cuál sería tu prioridad?|
+dilemmes-799|¿Cuánto tiempo calcularías para elegir una actividad para un día libre?|¿Cuánto tiempo calcularías para repartir los gastos entre amigos?|
+dilemmes-800|¿Quién podría darte el mejor consejo para reservar un viaje con amigos?|¿Quién podría darte el mejor consejo para preparar una salida muy temprano?|
+dilemmes-801|¿A quién llamarías para que te ayude a elegir entre dos restaurantes?|¿A quién llamarías para que te ayude a tomar una decisión entre varios?|

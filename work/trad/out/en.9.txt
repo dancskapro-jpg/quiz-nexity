@@ -197,3 +197,203 @@ vacances-774|Who could give you the best advice for choosing a mountain resort?|
 vacances-775|In what situation would you decide to book two nights in a countryside cottage for two?|In what situation would you decide to buy a lightweight hiking backpack?|
 vacances-776|If you had to plan a journey in the mountains, what would your priority be?|If you had to organise a day of sledging, what would your priority be?|
 vacances-777|How much do you think a good-quality wool beanie is worth?|How much do you think a hot chocolate at a ski resort is worth?|
+vacances-778|In what situation would you decide to buy a guided mountain walk?|In what situation would you decide to buy a two-day pass at an ice rink?|
+dilemmes-703|Who would you ask for help to choose a holiday destination?|Who would you ask for help to plan a weekend on a tight budget?|
+dilemmes-704|On which website or in which shop would you look for a refurbished 128 GB smartphone in excellent condition?|On which website or in which shop would you look for a family hire car for three days in Manchester?|Lyon → Manchester
+dilemmes-705|In your opinion, how long does it take to make a group decision?|In your opinion, how long does it take to reply to a surprise invitation?|
+dilemmes-706|What time of day would be most convenient to decide to go on holiday at the last minute?|What time of day would be most convenient to choose between two invitations on the same evening?|
+dilemmes-707|What would be your main difficulty in planning a weekend on a tight budget?|What would be your main difficulty in deciding between going out and resting?|
+dilemmes-708|What time of day would be most convenient to choose an activity for a free day?|What time of day would be most convenient to split costs between friends?|
+dilemmes-709|Where would you go to buy a first-class train ticket for a two-hour journey?|Where would you go to book a 24-hour express delivery within the UK for a 2 kg parcel?|France → Royaume-Uni
+dilemmes-710|What would be your first instinct if someone close to you asked you for a favour on your day off?|What would be your first instinct if you could save money by taking a much longer route?|
+dilemmes-711|How much time would you set aside to choose a holiday destination?|How much time would you set aside to plan a weekend on a tight budget?|
+dilemmes-712|What's the maximum budget you'd set for a family hire car for three days in Manchester?|What's the maximum budget you'd set for a concert ticket with a good view?|Lyon → Manchester
+dilemmes-713|Who would you contact to help you plan a weekend on a tight budget?|Who would you contact to help you decide between going out and resting?|
+dilemmes-714|What would be your first instinct if a fun outing cost twice as much as planned?|What would be your first instinct if your group couldn't decide between an indoor and an outdoor plan?|
+dilemmes-715|What would be the most important thing when replying to a surprise invitation?|What would be the most important thing when choosing a holiday destination?|
+dilemmes-716|In your opinion, how long does it take to book a trip with friends?|In your opinion, how long does it take to get ready for a very early departure?|
+dilemmes-717|What would you say if you had to choose between two birthdays on the same evening?|What would you say if a friend offered you a concert ticket but you were working the next day?|
+dilemmes-718|What price do you imagine for a refurbished 128 GB smartphone in excellent condition?|What price do you imagine for a family hire car for three days in Manchester?|Lyon → Manchester
+dilemmes-719|What would be the best time to book a trip with friends?|What would be the best time to get ready for a very early departure?|
+dilemmes-720|When would you feel like buying a personalised birthday present for someone close to you?|When would you feel like buying a twenty-hour certified online course?|
+dilemmes-721|Who would you contact to help you choose between two invitations on the same evening?|Who would you contact to help you book a trip with friends?|
+dilemmes-722|What would be the best time to make a group decision?|What would be the best time to reply to a surprise invitation?|
+dilemmes-723|Where would you look first for a no-contract gym membership?|Where would you look first for a refurbished 128 GB smartphone in excellent condition?|
+dilemmes-724|How would you react if a friend wanted to change a trip two days before leaving?|How would you react if you had to choose an activity that not everyone would enjoy?|
+dilemmes-725|In your opinion, how long does it take to plan a family holiday?|In your opinion, how long does it take to agree to or turn down a favour?|
+dilemmes-726|How would you react if you were torn between helping a friend and keeping a commitment?|How would you react if someone close to you asked you for a favour on your day off?|
+dilemmes-727|What detail would you check before changing jobs for a better work-life balance?|What detail would you check before choosing between two restaurants?|
+dilemmes-728|Where would you go to buy a concert ticket with a good view?|Where would you go to book a meal at a small, well-known restaurant?|
+dilemmes-729|What would you say if you could leave early but miss the end of an event?|What would you say if you were torn between helping a friend and keeping a commitment?|
+dilemmes-730|What would be your first reaction if your friends chose a restaurant you don't like?|What would be your first reaction if you could leave early but miss the end of an event?|
+dilemmes-731|What would you do first if someone suggested a last-minute change of plan?|What would you do first if you had to choose between two people for a limited invitation?|
+dilemmes-732|What time of the week would you prefer to plan a weekend on a tight budget?|What time of the week would you prefer to decide between going out and resting?|
+dilemmes-733|Where would you go to find a second-hand electric city bike in good condition?|Where would you go to find a first-class train ticket for a two-hour journey?|
+dilemmes-734|For what occasion would you want to buy a first-class train ticket for a two-hour journey?|For what occasion would you want to book a 24-hour express delivery within the UK for a 2 kg parcel?|France → Royaume-Uni
+dilemmes-735|Who could give you the best advice for finding a compromise as a team?|Who could give you the best advice for choosing between comfort and saving money?|
+dilemmes-736|Above what price would you hesitate to buy a concert ticket with a good view?|Above what price would you hesitate to book a meal at a small, well-known restaurant?|
+dilemmes-737|In your opinion, how long does it take to find a compromise as a team?|In your opinion, how long does it take to choose between comfort and saving money?|
+dilemmes-738|How long would it take you to decide to take an evening class?|How long would it take you to plan a family holiday?|
+dilemmes-739|In what situation would you decide to book a meal at a small, well-known restaurant?|In what situation would you decide to buy a personalised birthday present for someone close to you?|
+dilemmes-740|What time of the week would you prefer to decide to take an evening class?|What time of the week would you prefer to plan a family holiday?|
+dilemmes-741|What price do you imagine for an ultralight laptop?|What price do you imagine for a second-hand electric city bike in good condition?|
+dilemmes-742|Where would you look first for a night in a well-located hotel in the city centre?|Where would you look first for a front-row seat at a show?|
+dilemmes-743|Who in your circle could help you choose a joint present?|Who in your circle could help you plan a phone-free evening?|
+dilemmes-744|What's the most you'd pay for an ad-free music subscription?|What's the most you'd pay for a two-night stay in a cottage near where you live?|
+dilemmes-745|How much would you be willing to spend on a meal at a small, well-known restaurant?|How much would you be willing to spend on a personalised birthday present for someone close to you?|
+dilemmes-746|What would you say in the moment if you had two equally good options for the weekend?|What would you say in the moment if someone suggested a last-minute change of plan?|
+dilemmes-747|Where would you look first for comprehensive travel insurance?|Where would you look first for an ultralight laptop?|
+dilemmes-748|Who would you ask for help to plan a phone-free evening?|Who would you ask for help to decide to take an evening class?|
+dilemmes-749|How quickly could you agree to or turn down a favour?|How quickly could you choose an activity for a free day?|
+dilemmes-750|What would be the most important thing when choosing a joint present?|What would be the most important thing when planning a phone-free evening?|
+dilemmes-751|What would be your main difficulty in splitting costs between friends?|What would be your main difficulty in finding a compromise as a team?|
+dilemmes-752|What would make you book a two-night stay in a cottage near where you live?|What would make you buy a good-quality wool jumper?|
+dilemmes-753|How much would you be willing to spend on a no-contract gym membership?|How much would you be willing to spend on a refurbished 128 GB smartphone in excellent condition?|
+dilemmes-754|What would you do first if you could buy now or wait for a sale?|What would you do first if you had to announce a decision a friend wouldn't like?|
+dilemmes-755|What's the maximum budget you'd set for a second-hand electric city bike in good condition?|What's the maximum budget you'd set for a first-class train ticket for a two-hour journey?|
+dilemmes-756|What would make you buy a twenty-hour certified online course?|What would make you buy a premium cinema ticket?|
+dilemmes-757|What time of day would you pick to get ready for a very early departure?|What time of day would you pick to change jobs for a better work-life balance?|
+dilemmes-758|How much do you think a no-contract gym membership is worth?|How much do you think a refurbished 128 GB smartphone in excellent condition is worth?|
+dilemmes-759|What would come out of your mouth if you had to choose between two people for a limited invitation?|What would come out of your mouth if a fun outing cost twice as much as planned?|
+dilemmes-760|What would be the most important thing when getting ready for a very early departure?|What would be the most important thing when changing jobs for a better work-life balance?|
+dilemmes-761|What's the most you'd pay for a refurbished 128 GB smartphone in excellent condition?|What's the most you'd pay for a family hire car for three days in Manchester?|Lyon → Manchester
+dilemmes-762|When would you feel like buying a refurbished 128 GB smartphone in excellent condition?|When would you feel like getting a family hire car for three days in Manchester?|Lyon → Manchester
+dilemmes-763|What would you say if someone suggested a last-minute change of plan?|What would you say if you had to choose between two people for a limited invitation?|
+dilemmes-764|What's the maximum budget you'd set for a flexible train ticket?|What's the maximum budget you'd set for a hotel night with free cancellation?|
+dilemmes-765|If you had to make a group decision, what would your priority be?|If you had to reply to a surprise invitation, what would your priority be?|
+dilemmes-766|In your opinion, how much does a twenty-hour certified online course cost?|In your opinion, how much does a premium cinema ticket cost?|
+dilemmes-767|What time of the week would you prefer to choose between two invitations on the same evening?|What time of the week would you prefer to book a trip with friends?|
+dilemmes-768|What would make you buy a flexible train ticket?|What would make you book a hotel night with free cancellation?|
+dilemmes-769|For what occasion would you want to book a hotel night with free cancellation?|For what occasion would you want to buy a no-contract gym membership?|
+dilemmes-770|What would you do first if you could leave early but miss the end of an event?|What would you do first if you were torn between helping a friend and keeping a commitment?|
+dilemmes-771|How much do you think a meal at a small, well-known restaurant is worth?|How much do you think a personalised birthday present for someone close to you is worth?|
+dilemmes-772|Who could give you the best advice for deciding between going out and resting?|Who could give you the best advice for choosing a joint present?|
+dilemmes-773|How much do you think comprehensive travel insurance is worth?|How much do you think an ultralight laptop is worth?|
+dilemmes-774|In what situation would you decide to book a 24-hour express delivery within the UK for a 2 kg parcel?|In what situation would you decide to buy an ad-free music subscription?|France → Royaume-Uni
+dilemmes-775|What would come out of your mouth if a friend offered you a concert ticket but you were working the next day?|What would come out of your mouth if you were offered a better-paid job, but with an extra hour of commuting every day?|
+dilemmes-776|How long would it take you to choose between two invitations on the same evening?|How long would it take you to book a trip with friends?|
+dilemmes-777|Who in your circle could help you get ready for a very early departure?|Who in your circle could help you change jobs for a better work-life balance?|
+dilemmes-778|How much would you be willing to spend on comprehensive travel insurance?|How much would you be willing to spend on an ultralight laptop?|
+dilemmes-779|Who in your circle could help you choose between comfort and saving money?|Who in your circle could help you decide to go on holiday at the last minute?|
+dilemmes-780|How quickly could you choose between comfort and saving money?|How quickly could you decide to go on holiday at the last minute?|
+dilemmes-781|What would be your main difficulty in choosing between two invitations on the same evening?|What would be your main difficulty in booking a trip with friends?|
+dilemmes-782|Where would you go to buy a good-quality wool jumper?|Where would you go to book a night in a well-located hotel in the city centre?|
+dilemmes-783|If you had to decide between going out and resting, what would your priority be?|If you had to choose a joint present, what would your priority be?|
+dilemmes-784|What detail would you check before deciding to go on holiday at the last minute?|What detail would you check before choosing between two invitations on the same evening?|
+dilemmes-785|What would be your first instinct if you had to choose an activity that not everyone would enjoy?|What would be your first instinct if you had two equally good options for the weekend?|
+dilemmes-786|Where would you look first for a meal at a small, well-known restaurant?|Where would you look first for a personalised birthday present for someone close to you?|
+dilemmes-787|Who in your circle could help you reply to a surprise invitation?|Who in your circle could help you choose a holiday destination?|
+dilemmes-788|What would be the best time to decide between going out and resting?|What would be the best time to choose a joint present?|
+dilemmes-789|When would you feel like buying an ultralight laptop?|When would you feel like buying a second-hand electric city bike in good condition?|
+dilemmes-790|Where would you go to find a twenty-hour certified online course?|Where would you go to find a premium cinema ticket?|
+dilemmes-791|What's the most you'd pay for a front-row seat at a show?|What's the most you'd pay for a flexible train ticket?|
+dilemmes-792|How much time would you set aside to decide to go on holiday at the last minute?|How much time would you set aside to choose between two invitations on the same evening?|
+dilemmes-793|In your opinion, how much does a two-night stay in a cottage near where you live cost?|In your opinion, how much does a good-quality wool jumper cost?|
+dilemmes-794|What would you say in the moment if your group couldn't decide between an indoor and an outdoor plan?|What would you say in the moment if you could buy now or wait for a sale?|
+dilemmes-795|If you had to book a trip with friends, what would your priority be?|If you had to get ready for a very early departure, what would your priority be?|
+dilemmes-796|How long would it take you to split costs between friends?|How long would it take you to find a compromise as a team?|
+dilemmes-797|If you had to plan a family holiday, what would your priority be?|If you had to agree to or turn down a favour, what would your priority be?|
+dilemmes-798|If you had to find a compromise as a team, what would your priority be?|If you had to choose between comfort and saving money, what would your priority be?|
+dilemmes-799|How much time would you set aside to choose an activity for a free day?|How much time would you set aside to split costs between friends?|
+dilemmes-800|Who could give you the best advice for booking a trip with friends?|Who could give you the best advice for getting ready for a very early departure?|
+dilemmes-801|Who would you contact to help you choose between two restaurants?|Who would you contact to help you make a group decision?|
+dilemmes-802|How much time would you set aside to change jobs for a better work-life balance?|How much time would you set aside to choose between two restaurants?|
+dilemmes-803|What would you say if you could buy now or wait for a sale?|What would you say if you had to announce a decision a friend wouldn't like?|
+dilemmes-804|What's the maximum budget you'd set for a twenty-hour certified online course?|What's the maximum budget you'd set for a premium cinema ticket?|
+dilemmes-805|How would you respond if someone close to you asked you for a favour on your day off?|How would you respond if you could save money by taking a much longer route?|
+dilemmes-806|In your opinion, what's the price of a first-class train ticket for a two-hour journey?|In your opinion, what's the price of a 24-hour express delivery within the UK for a 2 kg parcel?|France → Royaume-Uni
+dilemmes-807|What time of day would be most convenient to plan a phone-free evening?|What time of day would be most convenient to decide to take an evening class?|
+dilemmes-808|What's the most you'd pay for an ultralight laptop?|What's the most you'd pay for a second-hand electric city bike in good condition?|
+dilemmes-809|On which website or in which shop would you look for an ultralight laptop?|On which website or in which shop would you look for a second-hand electric city bike in good condition?|
+dilemmes-810|Who could give you the best advice for planning a family holiday?|Who could give you the best advice for agreeing to or turning down a favour?|
+dilemmes-811|What time of day would be most convenient to choose a holiday destination?|What time of day would be most convenient to plan a weekend on a tight budget?|
+dilemmes-812|Who would you ask for help to decide to go on holiday at the last minute?|Who would you ask for help to choose between two invitations on the same evening?|
+dilemmes-813|What time of day would be most convenient to change jobs for a better work-life balance?|What time of day would be most convenient to choose between two restaurants?|
+dilemmes-814|Where would you go to find a flexible train ticket?|Where would you go to find a hotel night with free cancellation?|
+dilemmes-815|What price do you imagine for a front-row seat at a show?|What price do you imagine for a flexible train ticket?|
+dilemmes-816|What time of day would you pick to choose between comfort and saving money?|What time of day would you pick to decide to go on holiday at the last minute?|
+dilemmes-817|How would you respond if a fun outing cost twice as much as planned?|How would you respond if your group couldn't decide between an indoor and an outdoor plan?|
+dilemmes-818|What time of day would you pick to reply to a surprise invitation?|What time of day would you pick to choose a holiday destination?|
+dilemmes-819|In your opinion, what's the price of a premium cinema ticket?|In your opinion, what's the price of comprehensive travel insurance?|
+dilemmes-820|What would be the best time to find a compromise as a team?|What would be the best time to choose between comfort and saving money?|
+dilemmes-821|What would be the most important thing when agreeing to or turning down a favour?|What would be the most important thing when choosing an activity for a free day?|
+dilemmes-822|What price do you imagine for an ad-free music subscription?|What price do you imagine for a two-night stay in a cottage near where you live?|
+dilemmes-823|What would be your main difficulty in deciding to take an evening class?|What would be your main difficulty in planning a family holiday?|
+dilemmes-824|How long would it take you to plan a weekend on a tight budget?|How long would it take you to decide between going out and resting?|
+dilemmes-825|On which website or in which shop would you look for an ad-free music subscription?|On which website or in which shop would you look for a two-night stay in a cottage near where you live?|
+dilemmes-826|What time of the week would you prefer to choose between two restaurants?|What time of the week would you prefer to make a group decision?|
+dilemmes-827|Who would you ask for help to change jobs for a better work-life balance?|Who would you ask for help to choose between two restaurants?|
+dilemmes-828|What would be your first instinct if you were torn between a short luxury trip and a long budget one?|What would be your first instinct if you had to choose just one event out of several?|
+dilemmes-829|How much do you think a night in a well-located hotel in the city centre is worth?|How much do you think a front-row seat at a show is worth?|
+dilemmes-830|How much time would you set aside to plan a phone-free evening?|How much time would you set aside to decide to take an evening class?|
+dilemmes-831|How quickly could you reply to a surprise invitation?|How quickly could you choose a holiday destination?|
+dilemmes-832|What would come out of your mouth if you were torn between helping a friend and keeping a commitment?|What would come out of your mouth if someone close to you asked you for a favour on your day off?|
+dilemmes-833|In what situation would you decide to buy a no-contract gym membership?|In what situation would you decide to buy a refurbished 128 GB smartphone in excellent condition?|
+dilemmes-834|In your opinion, how much does a second-hand electric city bike in good condition cost?|In your opinion, how much does a first-class train ticket for a two-hour journey cost?|
+dilemmes-835|How would you respond if you were torn between a short luxury trip and a long budget one?|How would you respond if you had to choose just one event out of several?|
+dilemmes-836|What would come out of your mouth if a friend wanted to change a trip two days before leaving?|What would come out of your mouth if you had to choose an activity that not everyone would enjoy?|
+dilemmes-837|How would you react if you had to choose between two people for a limited invitation?|How would you react if a fun outing cost twice as much as planned?|
+dilemmes-838|What would you say in the moment if you had to choose just one event out of several?|What would you say in the moment if you had to choose between two birthdays on the same evening?|
+dilemmes-839|How much would you be willing to spend on a 24-hour express delivery within the UK for a 2 kg parcel?|How much would you be willing to spend on an ad-free music subscription?|France → Royaume-Uni
+dilemmes-840|What time of day would you pick to choose a joint present?|What time of day would you pick to plan a phone-free evening?|
+dilemmes-841|What detail would you check before choosing an activity for a free day?|What detail would you check before splitting costs between friends?|
+dilemmes-842|What time of day would you pick to agree to or turn down a favour?|What time of day would you pick to choose an activity for a free day?|
+dilemmes-843|How much would you be willing to spend on a night in a well-located hotel in the city centre?|How much would you be willing to spend on a front-row seat at a show?|
+dilemmes-844|What would be the best time to plan a family holiday?|What would be the best time to agree to or turn down a favour?|
+dilemmes-845|Who would you contact to help you split costs between friends?|Who would you contact to help you find a compromise as a team?|
+dilemmes-846|What would you say if you were torn between giving a useful present or an original one for the same price?|What would you say if a friend wanted to change a trip two days before leaving?|
+dilemmes-847|On which website or in which shop would you look for a front-row seat at a show?|On which website or in which shop would you look for a flexible train ticket?|
+dilemmes-848|How would you respond if you were offered a better-paid job, but with an extra hour of commuting every day?|How would you respond if your friends chose a restaurant you don't like?|
+dilemmes-849|What time of the week would you prefer to split costs between friends?|What time of the week would you prefer to find a compromise as a team?|
+dilemmes-850|What would be the most important thing when choosing between comfort and saving money?|What would be the most important thing when deciding to go on holiday at the last minute?|
+dilemmes-851|What would make you get a family hire car for three days in Manchester?|What would make you buy a concert ticket with a good view?|Lyon → Manchester
+dilemmes-852|When would you feel like buying a front-row seat at a show?|When would you feel like buying a flexible train ticket?|
+dilemmes-853|What would you say in the moment if your friends chose a restaurant you don't like?|What would you say in the moment if you could leave early but miss the end of an event?|
+dilemmes-854|Above what price would you hesitate to buy a first-class train ticket for a two-hour journey?|Above what price would you hesitate to book a 24-hour express delivery within the UK for a 2 kg parcel?|France → Royaume-Uni
+dilemmes-855|What price do you imagine for a personalised birthday present for someone close to you?|What price do you imagine for a twenty-hour certified online course?|
+dilemmes-856|In your opinion, how much does a family hire car for three days in Manchester cost?|In your opinion, how much does a concert ticket with a good view cost?|Lyon → Manchester
+dilemmes-857|What would you do first if you had to choose between two birthdays on the same evening?|What would you do first if a friend offered you a concert ticket but you were working the next day?|
+dilemmes-858|Where would you look first for a 24-hour express delivery within the UK for a 2 kg parcel?|Where would you look first for an ad-free music subscription?|France → Royaume-Uni
+dilemmes-859|What would be your first reaction if you had to choose just one event out of several?|What would be your first reaction if you had to choose between two birthdays on the same evening?|
+dilemmes-860|Above what price would you hesitate to buy a premium cinema ticket?|Above what price would you hesitate to take out comprehensive travel insurance?|
+dilemmes-861|Above what price would you hesitate to book a hotel night with free cancellation?|Above what price would you hesitate to buy a no-contract gym membership?|
+dilemmes-862|How long would it take you to choose between two restaurants?|How long would it take you to make a group decision?|
+dilemmes-863|How would you respond if you had to choose an activity that not everyone would enjoy?|How would you respond if you had two equally good options for the weekend?|
+dilemmes-864|In your opinion, what's the price of a concert ticket with a good view?|In your opinion, what's the price of a meal at a small, well-known restaurant?|
+dilemmes-865|In your opinion, what's the price of a hotel night with free cancellation?|In your opinion, what's the price of a no-contract gym membership?|
+dilemmes-866|In your opinion, how much does a flexible train ticket cost?|In your opinion, how much does a hotel night with free cancellation cost?|
+dilemmes-867|Who could give you the best advice for making a group decision?|Who could give you the best advice for replying to a surprise invitation?|
+dilemmes-868|How quickly could you choose a joint present?|How quickly could you plan a phone-free evening?|
+dilemmes-869|What would be your first reaction if you had two equally good options for the weekend?|What would be your first reaction if someone suggested a last-minute change of plan?|
+dilemmes-870|What would be your first instinct if you were offered a better-paid job, but with an extra hour of commuting every day?|What would be your first instinct if your friends chose a restaurant you don't like?|
+dilemmes-871|How would you react if a friend offered you a concert ticket but you were working the next day?|How would you react if you were offered a better-paid job, but with an extra hour of commuting every day?|
+dilemmes-872|What would make you buy a second-hand electric city bike in good condition?|What would make you buy a first-class train ticket for a two-hour journey?|
+dilemmes-873|In what situation would you decide to book a night in a well-located hotel in the city centre?|In what situation would you decide to buy a front-row seat at a show?|
+dilemmes-874|For what occasion would you want to buy a concert ticket with a good view?|For what occasion would you want to book a meal at a small, well-known restaurant?|
+dilemmes-875|Where would you go to book a hotel night with free cancellation?|Where would you go to buy a no-contract gym membership?|
+dilemmes-876|On which website or in which shop would you look for a personalised birthday present for someone close to you?|On which website or in which shop would you look for a twenty-hour certified online course?|
+dilemmes-877|What's the most you'd pay for a personalised birthday present for someone close to you?|What's the most you'd pay for a twenty-hour certified online course?|
+dilemmes-878|What would be your first reaction if you could save money by taking a much longer route?|What would be your first reaction if you were torn between giving a useful present or an original one for the same price?|
+dilemmes-879|Who would you contact to help you decide to take an evening class?|Who would you contact to help you plan a family holiday?|
+dilemmes-880|Who in your circle could help you agree to or turn down a favour?|Who in your circle could help you choose an activity for a free day?|
+dilemmes-881|What would be your first reaction if your group couldn't decide between an indoor and an outdoor plan?|What would be your first reaction if you could buy now or wait for a sale?|
+dilemmes-882|How quickly could you get ready for a very early departure?|How quickly could you change jobs for a better work-life balance?|
+dilemmes-883|For what occasion would you want to buy a good-quality wool jumper?|For what occasion would you want to book a night in a well-located hotel in the city centre?|
+dilemmes-884|Above what price would you hesitate to buy a good-quality wool jumper?|Above what price would you hesitate to book a night in a well-located hotel in the city centre?|
+dilemmes-885|What would you say in the moment if you could save money by taking a much longer route?|What would you say in the moment if you were torn between giving a useful present or an original one for the same price?|
+dilemmes-886|In your opinion, what's the price of a good-quality wool jumper?|In your opinion, what's the price of a night in a well-located hotel in the city centre?|
+dilemmes-887|What would be your main difficulty in choosing between two restaurants?|What would be your main difficulty in making a group decision?|
+dilemmes-888|Where would you go to find a family hire car for three days in Manchester?|Where would you go to find a concert ticket with a good view?|Lyon → Manchester
+dilemmes-889|What's the maximum budget you'd set for a two-night stay in a cottage near where you live?|What's the maximum budget you'd set for a good-quality wool jumper?|
+dilemmes-890|Who would you ask for help to choose an activity for a free day?|Who would you ask for help to split costs between friends?|
+dilemmes-891|What would come out of your mouth if you had to announce a decision a friend wouldn't like?|What would come out of your mouth if you were torn between a short luxury trip and a long budget one?|
+dilemmes-892|What detail would you check before choosing a holiday destination?|What detail would you check before planning a weekend on a tight budget?|
+dilemmes-893|In what situation would you decide to take out comprehensive travel insurance?|In what situation would you decide to buy an ultralight laptop?|
+dilemmes-894|How much do you think a 24-hour express delivery within the UK for a 2 kg parcel is worth?|How much do you think an ad-free music subscription is worth?|France → Royaume-Uni
+dilemmes-895|When would you feel like buying an ad-free music subscription?|When would you feel like booking a two-night stay in a cottage near where you live?|
+dilemmes-896|What detail would you check before planning a phone-free evening?|What detail would you check before deciding to take an evening class?|
+dilemmes-897|How would you react if you had to announce a decision a friend wouldn't like?|How would you react if you were torn between a short luxury trip and a long budget one?|
+dilemmes-898|In your opinion, how long does it take to decide between going out and resting?|In your opinion, how long does it take to choose a joint present?|
+dilemmes-899|What would you do first if you were torn between giving a useful present or an original one for the same price?|What would you do first if a friend wanted to change a trip two days before leaving?|
+dilemmes-900|Where would you go to find a two-night stay in a cottage near where you live?|Where would you go to find a good-quality wool jumper?|
+dilemmes-901|For what occasion would you want to buy a premium cinema ticket?|For what occasion would you want to take out comprehensive travel insurance?|
