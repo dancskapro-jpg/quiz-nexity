@@ -237,7 +237,7 @@ ete-649|Wat denk je dat een zachte koeltas kost?|Wat denk je dat een opblaasbaar
 ete-650|Wie uit je omgeving zou je kunnen helpen een zomerse picknick te organiseren?|Wie uit je omgeving zou je kunnen helpen een uitje naar het zwembad voor te bereiden?|
 ete-651|Wat zou je als eerste doen als je ijssalon je favoriete smaak niet meer heeft?|Wat zou je als eerste doen als je op weg naar het strand je handdoek vergeet?|
 ete-652|Hoeveel denk je dat een gevulde picknickmand voor vier personen waard is?|Hoeveel denk je dat een opvouwbare strandstoel waard is?|
-ete-653|Wat zou je zeggen als er tijdens een wandeling onweer losbarst?|Wat zou je zeggen als de ventilator het tijdens een hittegolf begeeft?|
+ete-653|Wat zou je zeggen als er tijdens een wandeling onweer losbarst?|Wat zou je zeggen als de ventilator het begeeft terwijl het bloedheet is?|
 ete-654|Aan wie zou je hulp vragen om een dagje aan een meer te organiseren?|Aan wie zou je hulp vragen om een wandeling in de koelte voor te bereiden?|
 ete-655|Welke zin zou eruit floepen als je bij zonsondergang een geweldig uitzichtpunt ontdekt?|Welke zin zou eruit floepen als het zwembad eerder dichtgaat dan gepland?|
 ete-656|Wat zou je eerste reactie zijn als het strandrestaurant vol zit?|Wat zou je eerste reactie zijn als je ijssalon je favoriete smaak niet meer heeft?|
@@ -245,7 +245,7 @@ ete-657|Waar zou je heen gaan om een goed strandlaken te vinden?|Waar zou je hee
 ete-658|Wie zou je het beste advies kunnen geven over het kiezen van een strand voor de dag?|Wie zou je het beste advies kunnen geven over het voorbereiden van een avondje op een terras?|
 ete-659|Wanneer zou je zin hebben om een toegangskaartje voor volwassenen voor een buitenzwembad te kopen?|Wanneer zou je zin hebben om een zachte koeltas te kopen?|
 ete-660|Hoe lang denk je dat het duurt om een plek te kiezen om de zonsondergang te zien?|Hoe lang denk je dat het duurt om een wandeling langs de zee te maken?|
-ete-661|Hoe zou je reageren als de ventilator het tijdens een hittegolf begeeft?|Hoe zou je reageren als een buurman je uitnodigt voor een barbecue?|
+ete-661|Hoe zou je reageren als de ventilator het begeeft terwijl het bloedheet is?|Hoe zou je reageren als een buurman je uitnodigt voor een barbecue?|
 ete-662|Wat is volgens jou de prijs van een strandparasol?|Wat is volgens jou de prijs van een tube zonnebrand SPF 50 van 200 ml?|
 ete-663|Wat zou je eerste reactie zijn als een vriend om twaalf uur 's middags in de zon wil blijven?|Wat zou je eerste reactie zijn als er tijdens een wandeling onweer losbarst?|
 ete-664|Waar zou je op letten voordat je je spullen na het strand opruimt?|Waar zou je op letten voordat je een strandtas inpakt?|
@@ -266,7 +266,7 @@ ete-678|Wat zou je maximale budget zijn voor een goed zwempak?|Wat zou je maxima
 ete-679|Wat zou je eerste reactie zijn als een golf je telefoon natspat?|Wat zou je eerste reactie zijn als een festival een tijdswijziging aankondigt?|
 ete-680|Wat zou je eerste reflex zijn als je op het laatste moment een uitnodiging voor het strand krijgt?|Wat zou je eerste reflex zijn als het strandrestaurant vol zit?|
 ete-681|Hoeveel tijd zou je nodig hebben om een bezoekje aan de zomermarkt voor te bereiden?|Hoeveel tijd zou je nodig hebben om een plek te kiezen om de zonsondergang te zien?|
-ete-682|Welke zin zou eruit floepen als de ventilator het tijdens een hittegolf begeeft?|Welke zin zou eruit floepen als een buurman je uitnodigt voor een barbecue?|
+ete-682|Welke zin zou eruit floepen als de ventilator het begeeft terwijl het bloedheet is?|Welke zin zou eruit floepen als een buurman je uitnodigt voor een barbecue?|
 ete-683|Welk moment van de dag zou je kiezen om een avondje op een terras voor te bereiden?|Welk moment van de dag zou je kiezen om een dagje aan een meer te organiseren?|
 ete-684|Welke prijs heb je in gedachten voor een opblaasbaar SUP-board voor beginners?|Welke prijs heb je in gedachten voor een openluchtfilmvoorstelling in een stadspark?|
 ete-685|Waar zou je heen gaan om een doos met zes ambachtelijke ijsjes te kopen?|Waar zou je heen gaan om een gevulde picknickmand voor vier personen te kopen?|
@@ -297,3 +297,203 @@ ete-709|Wat is volgens jou de prijs van een zonnehoed?|Wat is volgens jou de pri
 ete-710|Hoe lang denk je dat het duurt om een ijssmaak uit te kiezen?|Hoe lang denk je dat het duurt om een spelletjesavond buiten voor te bereiden?|
 ete-711|In welke situatie zou je besluiten een thermosfles te kopen?|In welke situatie zou je besluiten een gepolariseerde zonnebril van een gewoon merk te kopen?|
 ete-712|Wie uit je omgeving zou je kunnen helpen een barbecueavond voor te bereiden?|Wie uit je omgeving zou je kunnen helpen een rit naar zee te plannen?|
+ete-713|Wanneer zou je zin hebben om een paar comfortabele sandalen te kopen?|Wanneer zou je zin hebben om een goed zwempak te kopen?|
+ete-714|Welk moment van de dag zou je kiezen om een barbecueavond voor te bereiden?|Welk moment van de dag zou je kiezen om een rit naar zee te plannen?|
+ete-715|Hoe lang denk je dat het duurt om een strand voor de dag te kiezen?|Hoe lang denk je dat het duurt om een avondje op een terras voor te bereiden?|
+ete-716|Als je een activiteit bij hitte moest vinden, wat zou dan je prioriteit zijn?|Als je een barbecueavond moest voorbereiden, wat zou dan je prioriteit zijn?|
+ete-717|Welk moment van de dag zou het handigst zijn om een festivaldag voor te bereiden?|Welk moment van de dag zou het handigst zijn om een lunch op een balkon te organiseren?|
+ete-718|Aan wie zou je hulp vragen om een festivaldag voor te bereiden?|Aan wie zou je hulp vragen om een lunch op een balkon te organiseren?|
+ete-719|Wat zou je maximale budget zijn voor een zachte koeltas?|Wat zou je maximale budget zijn voor een opblaasbaar luchtbed voor het zwembad?|
+ete-720|Waar zou je op letten voordat je een rit naar zee plant?|Waar zou je op letten voordat je een bezoekje aan de zomermarkt voorbereidt?|
+ete-721|In hoeveel tijd zou je een wandeling langs de zee kunnen maken?|In hoeveel tijd zou je een festivaldag kunnen voorbereiden?|
+ete-722|Wat zou je maximale budget zijn voor een goed strandlaken?|Wat zou je maximale budget zijn voor een strandparasol?|
+ete-723|In hoeveel tijd zou je een barbecueavond kunnen voorbereiden?|In hoeveel tijd zou je een rit naar zee kunnen plannen?|
+ete-724|Wie zou je het beste advies kunnen geven over het kiezen van een plek om de zonsondergang te zien?|Wie zou je het beste advies kunnen geven over een wandeling langs de zee?|
+ete-725|Hoe zou je reageren als je op weg naar het strand je handdoek vergeet?|Hoe zou je reageren als een onweersbui de picknick onderbreekt?|
+ete-726|Welk moment van de dag zou het handigst zijn om een uitje naar het zwembad voor te bereiden?|Welk moment van de dag zou het handigst zijn om een salade te maken voor een maaltijd buiten?|
+ete-727|In hoeveel tijd zou je een spelletjesavond buiten kunnen voorbereiden?|In hoeveel tijd zou je je spullen na het strand kunnen opruimen?|
+ete-728|Vanaf welke prijs zou je twijfelen om een strandparasol te kopen?|Vanaf welke prijs zou je twijfelen om een tube zonnebrand SPF 50 van 200 ml te kopen?|
+ete-729|Aan wie zou je hulp vragen om een rit naar zee te plannen?|Aan wie zou je hulp vragen om een bezoekje aan de zomermarkt voor te bereiden?|
+ete-730|Welke zin zou eruit floepen als een kind bij het zwembad je spullen natspat?|Welke zin zou eruit floepen als je op het laatste moment een uitnodiging voor het strand krijgt?|
+ete-731|Wat is volgens jou de prijs van een opblaasbaar luchtbed voor het zwembad?|Wat is volgens jou de prijs van een thermosfles?|
+ete-732|Wat zou het beste moment zijn om een plekje in de schaduw te kiezen?|Wat zou het beste moment zijn om een zomerse picknick te organiseren?|
+ete-733|Wat zou het belangrijkste zijn bij het voorbereiden van een barbecueavond?|Wat zou het belangrijkste zijn bij het plannen van een rit naar zee?|
+ete-734|Wat zou je als eerste doen als een festival een tijdswijziging aankondigt?|Wat zou je als eerste doen als je bij zonsondergang een geweldig uitzichtpunt ontdekt?|
+ete-735|Wat zou je maximale budget zijn voor een openluchtfilmvoorstelling in een stadspark?|Wat zou je maximale budget zijn voor een doos met zes ambachtelijke ijsjes?|
+ete-736|Wat zou je eerste reflex zijn als een buurman je uitnodigt voor een barbecue?|Wat zou je eerste reflex zijn als een vriend midden in een hittegolf een flinke wandeling wil maken?|
+ete-737|Wat denk je dat een goed strandlaken kost?|Wat denk je dat een strandparasol kost?|
+ete-738|Welk moment van de dag zou het handigst zijn om een rit naar zee te plannen?|Welk moment van de dag zou het handigst zijn om een bezoekje aan de zomermarkt voor te bereiden?|
+ete-739|Welke prijs heb je in gedachten voor een opvouwbare strandstoel?|Welke prijs heb je in gedachten voor een goed strandlaken?|
+ete-740|Wat zou je antwoorden als een buurman je uitnodigt voor een barbecue?|Wat zou je antwoorden als een vriend midden in een hittegolf een flinke wandeling wil maken?|
+ete-741|Wat zou je ertoe aanzetten om een dagkaart voor een openluchtmuziekfestival te kopen?|Wat zou je ertoe aanzetten om een stille ventilator te kopen?|
+ete-742|Waar zou je op letten voordat je een dagje aan een meer organiseert?|Waar zou je op letten voordat je een wandeling in de koelte voorbereidt?|
+ete-743|Als je een ijssmaak moest uitkiezen, wat zou dan je prioriteit zijn?|Als je een spelletjesavond buiten moest voorbereiden, wat zou dan je prioriteit zijn?|
+ete-744|Wat zou voor jou het lastigste zijn aan het maken van een salade voor een maaltijd buiten?|Wat zou voor jou het lastigste zijn aan het kiezen van een strand voor de dag?|
+ete-745|Tot hoeveel zou je betalen voor een opvouwbare strandstoel?|Tot hoeveel zou je betalen voor een goed strandlaken?|
+ete-746|Voor welke gelegenheid zou je een opblaasbaar luchtbed voor het zwembad willen kopen?|Voor welke gelegenheid zou je een thermosfles willen kopen?|
+ete-747|Wat zou je ertoe aanzetten om een kaartje voor een openluchtfilmvoorstelling in een stadspark te kopen?|Wat zou je ertoe aanzetten om een doos met zes ambachtelijke ijsjes te kopen?|
+ete-748|Op welk moment van de week zou je het liefst een strandtas inpakken?|Op welk moment van de week zou je het liefst een plekje in de schaduw kiezen?|
+ete-749|Tot hoeveel zou je betalen voor een paar comfortabele sandalen?|Tot hoeveel zou je betalen voor een goed zwempak?|
+ete-750|Wat zou je eerste reactie zijn als een vriend voorstelt om om zeven uur 's ochtends te gaan zwemmen?|Wat zou je eerste reactie zijn als er geen plekje in de schaduw meer is?|
+ete-751|Aan wie zou je hulp vragen om je spullen na het strand op te ruimen?|Aan wie zou je hulp vragen om een strandtas in te pakken?|
+ete-752|Wie zou je bellen om je te helpen een lunch op een balkon te organiseren?|Wie zou je bellen om je te helpen een ijssmaak uit te kiezen?|
+ete-753|Hoeveel tijd zou je uittrekken om een dagje aan een meer te organiseren?|Hoeveel tijd zou je uittrekken om een wandeling in de koelte voor te bereiden?|
+ete-754|Hoeveel tijd zou je nodig hebben om een wandeling in de koelte voor te bereiden?|Hoeveel tijd zou je nodig hebben om een activiteit bij hitte te vinden?|
+ete-755|In welke situatie zou je besluiten een gevulde picknickmand voor vier personen te kopen?|In welke situatie zou je besluiten een opvouwbare strandstoel te kopen?|
+ete-756|Waar zou je als eerste zoeken naar een grote strandtas?|Waar zou je als eerste zoeken naar een toegangskaartje voor volwassenen voor een buitenzwembad?|
+ete-757|Wat zou je eerste reactie zijn als een vriend midden in een hittegolf een flinke wandeling wil maken?|Wat zou je eerste reactie zijn als je zonnebril verdwenen is?|
+ete-758|Wat zou je antwoorden als je op het laatste moment een uitnodiging voor het strand krijgt?|Wat zou je antwoorden als het strandrestaurant vol zit?|
+ete-759|Voor welke gelegenheid zou je een doos met zes ambachtelijke ijsjes willen kopen?|Voor welke gelegenheid zou je een gevulde picknickmand voor vier personen willen kopen?|
+ete-760|Hoeveel denk je dat een thermosfles waard is?|Hoeveel denk je dat een gepolariseerde zonnebril van een gewoon merk waard is?|
+ete-761|Wie zou je bellen om je te helpen een strandtas in te pakken?|Wie zou je bellen om je te helpen een plekje in de schaduw te kiezen?|
+ete-762|Op welk moment van de week zou je het liefst een wandeling in de koelte voorbereiden?|Op welk moment van de week zou je het liefst een activiteit bij hitte zoeken?|
+ete-763|Waar zou je als eerste zoeken naar een gevulde picknickmand voor vier personen?|Waar zou je als eerste zoeken naar een opvouwbare strandstoel?|
+ete-764|Wat denk je dat een dagkaart voor een openluchtmuziekfestival kost?|Wat denk je dat een stille ventilator kost?|
+ete-765|Wat zou je eerste reflex zijn als het zwembad eerder dichtgaat dan gepland?|Wat zou je eerste reflex zijn als een vriend om twaalf uur 's middags in de zon wil blijven?|
+ete-766|Wat zou je op dat moment zeggen als een golf je telefoon natspat?|Wat zou je op dat moment zeggen als een festival een tijdswijziging aankondigt?|
+ete-767|Welke prijs heb je in gedachten voor een gepolariseerde zonnebril van een gewoon merk?|Welke prijs heb je in gedachten voor een dagkaart voor een openluchtmuziekfestival?|
+ete-768|Hoeveel zou je willen uitgeven aan een grote strandtas?|Hoeveel zou je willen uitgeven aan een toegangskaartje voor volwassenen voor een buitenzwembad?|
+ete-769|Wie zou je bellen om je te helpen een salade te maken voor een maaltijd buiten?|Wie zou je bellen om je te helpen een strand voor de dag te kiezen?|
+ete-770|Waar zou je heen gaan om een stille ventilator te kopen?|Waar zou je heen gaan om een waterdichte draagbare speaker te kopen?|
+ete-771|Vanaf welke prijs zou je twijfelen om een doos met zes ambachtelijke ijsjes te kopen?|Vanaf welke prijs zou je twijfelen om een gevulde picknickmand voor vier personen te kopen?|
+ete-772|Wat zou je als eerste doen als er geen plekje in de schaduw meer is?|Wat zou je als eerste doen als het zand in al je spullen komt?|
+ete-773|Wat zou je als eerste doen als er tijdens een wandeling onweer losbarst?|Wat zou je als eerste doen als de ventilator het begeeft terwijl het bloedheet is?|
+ete-774|Hoeveel denk je dat een grote strandtas waard is?|Hoeveel denk je dat een toegangskaartje voor volwassenen voor een buitenzwembad waard is?|
+ete-775|Vanaf welke prijs zou je twijfelen om een stille ventilator te kopen?|Vanaf welke prijs zou je twijfelen om een waterdichte draagbare speaker te kopen?|
+ete-776|Wat zou je op dat moment zeggen als het strandrestaurant vol zit?|Wat zou je op dat moment zeggen als je ijssalon je favoriete smaak niet meer heeft?|
+ete-777|Wat zou het beste moment zijn om een strand voor de dag te kiezen?|Wat zou het beste moment zijn om een avondje op een terras voor te bereiden?|
+ete-778|Hoeveel zou je willen uitgeven aan een thermosfles?|Hoeveel zou je willen uitgeven aan een gepolariseerde zonnebril van een gewoon merk?|
+ete-779|Wat zou je zeggen als een festival een tijdswijziging aankondigt?|Wat zou je zeggen als je bij zonsondergang een geweldig uitzichtpunt ontdekt?|
+ete-780|Wat zou je op dat moment zeggen als een vriend om twaalf uur 's middags in de zon wil blijven?|Wat zou je op dat moment zeggen als er tijdens een wandeling onweer losbarst?|
+ete-781|Hoeveel tijd zou je uittrekken om je spullen na het strand op te ruimen?|Hoeveel tijd zou je uittrekken om een strandtas in te pakken?|
+ete-782|Tot hoeveel zou je betalen voor een gepolariseerde zonnebril van een gewoon merk?|Tot hoeveel zou je betalen voor een dagkaart voor een openluchtmuziekfestival?|
+ete-783|Wat zou je zeggen als je ijssalon je favoriete smaak niet meer heeft?|Wat zou je zeggen als je op weg naar het strand je handdoek vergeet?|
+ete-784|Hoe lang denk je dat het duurt om een activiteit bij hitte te vinden?|Hoe lang denk je dat het duurt om een barbecueavond voor te bereiden?|
+ete-785|Welke zin zou eruit floepen als je op weg naar het strand je handdoek vergeet?|Welke zin zou eruit floepen als een onweersbui de picknick onderbreekt?|
+ete-786|Hoeveel denk je dat een waterdichte draagbare speaker waard is?|Hoeveel denk je dat een opblaasbaar SUP-board voor beginners waard is?|
+ete-787|Wat zou voor jou het lastigste zijn aan het voorbereiden van een bezoekje aan de zomermarkt?|Wat zou voor jou het lastigste zijn aan het kiezen van een plek om de zonsondergang te zien?|
+ete-788|Wat zou het belangrijkste zijn bij het organiseren van een zomerse picknick?|Wat zou het belangrijkste zijn bij het voorbereiden van een uitje naar het zwembad?|
+ete-789|Wie zou je het beste advies kunnen geven over het vinden van een activiteit bij hitte?|Wie zou je het beste advies kunnen geven over het voorbereiden van een barbecueavond?|
+ete-790|Hoe zou je reageren als het zand in al je spullen komt?|Hoe zou je reageren als een naaste zijn zonnebrand vergeet?|
+ete-791|Wat zou je antwoorden als een onweersbui de picknick onderbreekt?|Wat zou je antwoorden als een vriend voorstelt om om zeven uur 's ochtends te gaan zwemmen?|
+ete-792|Vanaf welke prijs zou je twijfelen om een opblaasbaar luchtbed voor het zwembad te kopen?|Vanaf welke prijs zou je twijfelen om een thermosfles te kopen?|
+ete-793|Op welk moment van de week zou je het liefst een bezoekje aan de zomermarkt voorbereiden?|Op welk moment van de week zou je het liefst een plek kiezen om de zonsondergang te zien?|
+ete-794|Hoeveel tijd zou je nodig hebben om een strandtas in te pakken?|Hoeveel tijd zou je nodig hebben om een plekje in de schaduw te kiezen?|
+ete-795|Wanneer zou je zin hebben om een opblaasbaar SUP-board voor beginners te kopen?|Wanneer zou je zin hebben om een kaartje voor een openluchtfilmvoorstelling in een stadspark te kopen?|
+ete-796|Wat zou voor jou het lastigste zijn aan het inpakken van een strandtas?|Wat zou voor jou het lastigste zijn aan het kiezen van een plekje in de schaduw?|
+ete-797|Hoeveel denk je dat een tube zonnebrand SPF 50 van 200 ml waard is?|Hoeveel denk je dat een paar comfortabele sandalen waard is?|
+ete-798|Wat zou voor jou het lastigste zijn aan het organiseren van een lunch op een balkon?|Wat zou voor jou het lastigste zijn aan het uitkiezen van een ijssmaak?|
+ete-799|Wat zou het belangrijkste zijn bij het voorbereiden van een avondje op een terras?|Wat zou het belangrijkste zijn bij het organiseren van een dagje aan een meer?|
+ete-800|Op welk moment van de week zou je het liefst een salade maken voor een maaltijd buiten?|Op welk moment van de week zou je het liefst een strand voor de dag kiezen?|
+ete-801|Wat zou je antwoorden als een naaste zijn zonnebrand vergeet?|Wat zou je antwoorden als een golf je telefoon natspat?|
+ete-802|Vanaf welke prijs zou je twijfelen om een zonnehoed te kopen?|Vanaf welke prijs zou je twijfelen om een grote strandtas te kopen?|
+ete-803|Wat zou je eerste reflex zijn als een naaste zijn zonnebrand vergeet?|Wat zou je eerste reflex zijn als een golf je telefoon natspat?|
+ete-804|Waar zou je als eerste zoeken naar een tube zonnebrand SPF 50 van 200 ml?|Waar zou je als eerste zoeken naar een paar comfortabele sandalen?|
+ete-805|Hoe zou je reageren als je bij zonsondergang een geweldig uitzichtpunt ontdekt?|Hoe zou je reageren als het zwembad eerder dichtgaat dan gepland?|
+ete-806|Wat zou het belangrijkste zijn bij het voorbereiden van een spelletjesavond buiten?|Wat zou het belangrijkste zijn bij het opruimen van je spullen na het strand?|
+ete-807|Op welke site of in welke winkel zou je zoeken naar een paar comfortabele sandalen?|Op welke site of in welke winkel zou je zoeken naar een goed zwempak?|
+ete-808|Wie zou je bellen om je te helpen een bezoekje aan de zomermarkt voor te bereiden?|Wie zou je bellen om je te helpen een plek te kiezen om de zonsondergang te zien?|
+ete-809|Hoeveel tijd zou je uittrekken om een festivaldag voor te bereiden?|Hoeveel tijd zou je uittrekken om een lunch op een balkon te organiseren?|
+ete-810|Wat zou je op dat moment zeggen als een vriend midden in een hittegolf een flinke wandeling wil maken?|Wat zou je op dat moment zeggen als je zonnebril verdwenen is?|
+ete-811|Hoe zou je reageren als een kind bij het zwembad je spullen natspat?|Hoe zou je reageren als je op het laatste moment een uitnodiging voor het strand krijgt?|
+ete-812|Wat is volgens jou de prijs van een stille ventilator?|Wat is volgens jou de prijs van een waterdichte draagbare speaker?|
+ete-813|Welke prijs heb je in gedachten voor een toegangskaartje voor volwassenen voor een buitenzwembad?|Welke prijs heb je in gedachten voor een zachte koeltas?|
+rentree-603|Waar zou je als eerste zoeken naar een setje insteekhoezen?|Waar zou je als eerste zoeken naar een bureau-organizer?|
+rentree-604|Wie zou je het beste advies kunnen geven over het voorbereiden van een welkomstbijeenkomst?|Wie zou je het beste advies kunnen geven over het kiezen van een outfit voor de eerste dag?|
+rentree-605|Waar zou je als eerste zoeken naar een ordner met tabbladen?|Waar zou je als eerste zoeken naar een wetenschappelijke rekenmachine?|
+rentree-606|Wat zou je ertoe aanzetten om een ledbureaulamp met scharnierarm te kopen?|Wat zou je ertoe aanzetten om een lunchbox voor tussen de middag te kopen?|
+rentree-607|Hoeveel tijd zou je uittrekken om doelen voor het jaar op te stellen?|Hoeveel tijd zou je uittrekken om de namen van een klas te leren?|
+rentree-608|Wat zou het belangrijkste zijn bij het kiezen van een outfit voor de eerste dag?|Wat zou het belangrijkste zijn bij het voorbereiden van je maaltijden voor de week?|
+rentree-609|Hoeveel tijd zou je uittrekken om een nieuw programma voor school te leren kennen?|Hoeveel tijd zou je uittrekken om je oude papieren uit te zoeken?|
+rentree-610|Hoe lang denk je dat het duurt om een nieuwe buitenschoolse activiteit uit te kiezen?|Hoe lang denk je dat het duurt om je werkplek op te ruimen?|
+rentree-611|Wat denk je dat een drinkfles voor school kost?|Wat denk je dat een professioneel logboek kost?|
+rentree-612|Wanneer zou je zin hebben om een schooltas te kopen?|Wanneer zou je zin hebben om een middenklasse laptop voor je studie te kopen?|
+rentree-613|Waar zou je op letten voordat je je maaltijden voor de week voorbereidt?|Waar zou je op letten voordat je je tas inpakt voor het nieuwe schooljaar?|
+rentree-614|Waar zou je als eerste zoeken naar een etui met tien goede pennen?|Waar zou je als eerste zoeken naar een schooltas?|
+rentree-615|Welke zin zou eruit floepen als een collega vraagt hoe je vakantie was?|Welke zin zou eruit floepen als je rooster dezelfde ochtend nog verandert?|
+rentree-616|Wat zou je eerste reactie zijn als er onverwacht een groepsproject wordt aangekondigd?|Wat zou je eerste reactie zijn als je op de eerste dag je lokaal niet kunt vinden?|
+rentree-617|Aan wie zou je hulp vragen om doelen voor het jaar op te stellen?|Aan wie zou je hulp vragen om de namen van een klas te leren?|
+rentree-618|Wanneer zou je zin hebben om een oefenboek voor een examen te kopen?|Wanneer zou je zin hebben om een agenda voor het nieuwe schooljaar te kopen?|
+rentree-619|Hoeveel tijd zou je nodig hebben om je oude papieren uit te zoeken?|Hoeveel tijd zou je nodig hebben om een welkomstbijeenkomst voor te bereiden?|
+rentree-620|Voor welke gelegenheid zou je een schrift van 200 bladzijden voor school willen kopen?|Voor welke gelegenheid zou je een etui met tien goede pennen willen kopen?|
+rentree-621|Wat zou je eerste reflex zijn als je rooster dezelfde ochtend nog verandert?|Wat zou je eerste reflex zijn als een nieuwe klasgenoot niemand kent?|
+rentree-622|Hoeveel tijd zou je nodig hebben om de namen van een klas te leren?|Hoeveel tijd zou je nodig hebben om een studiegroepje op te zetten?|
+rentree-623|Tot hoeveel zou je betalen voor een oefenboek voor een examen?|Tot hoeveel zou je betalen voor een agenda voor het nieuwe schooljaar?|
+rentree-624|Wat denk je dat een middenklasse laptop voor je studie kost?|Wat denk je dat een doosje markeerstiften kost?|
+rentree-625|Welke prijs heb je in gedachten voor een bureau-organizer?|Welke prijs heb je in gedachten voor een koptelefoon om mee te leren?|
+rentree-626|Wat is volgens jou de prijs van een professioneel logboek?|Wat is volgens jou de prijs van een setje insteekhoezen?|
+rentree-627|Als je een welkomstbijeenkomst moest voorbereiden, wat zou dan je prioriteit zijn?|Als je een outfit voor de eerste dag moest kiezen, wat zou dan je prioriteit zijn?|
+rentree-628|Welk moment van de dag zou het handigst zijn om je maaltijden voor de week voor te bereiden?|Welk moment van de dag zou het handigst zijn om je tas in te pakken voor het nieuwe schooljaar?|
+rentree-629|Hoeveel zou je willen uitgeven aan een etui met tien goede pennen?|Hoeveel zou je willen uitgeven aan een schooltas?|
+rentree-630|Wat zou voor jou het lastigste zijn aan het uitzoeken van je oude papieren?|Wat zou voor jou het lastigste zijn aan het voorbereiden van een welkomstbijeenkomst?|
+rentree-631|Wat zou je antwoorden als je een klasgenoot niet meer herkent?|Wat zou je antwoorden als je een rol in de groep krijgt?|
+rentree-632|Wat zou je op dat moment zeggen als een vriend zijn schoolspullen niet heeft gekocht?|Wat zou je op dat moment zeggen als je een andere plek in het lokaal krijgt?|
+rentree-633|Welk moment van de dag zou het handigst zijn om je voor te bereiden op de herstart na de vakantie?|Welk moment van de dag zou het handigst zijn om je agenda bij te werken?|
+rentree-634|In hoeveel tijd zou je je route voor de eerste dag kunnen plannen?|In hoeveel tijd zou je een nieuw programma voor school kunnen leren kennen?|
+rentree-635|Welk moment van de dag zou je kiezen om je werkplek op te ruimen?|Welk moment van de dag zou je kiezen om doelen voor het jaar op te stellen?|
+rentree-636|Wat zou je eerste reflex zijn als je een klasgenoot niet meer herkent?|Wat zou je eerste reflex zijn als je een rol in de groep krijgt?|
+rentree-637|Wat zou je op dat moment zeggen als er onverwacht een groepsproject wordt aangekondigd?|Wat zou je op dat moment zeggen als je op de eerste dag je lokaal niet kunt vinden?|
+rentree-638|Wat zou je als eerste doen als een nieuwe collega de tools niet kent?|Wat zou je als eerste doen als een les twintig minuten te laat begint?|
+rentree-639|Wat zou je maximale budget zijn voor een ledbureaulamp met scharnierarm?|Wat zou je maximale budget zijn voor een lunchbox voor tussen de middag?|
+rentree-640|Welke prijs heb je in gedachten voor een oefenboek voor een examen?|Welke prijs heb je in gedachten voor een agenda voor het nieuwe schooljaar?|
+rentree-641|Op welke site of in welke winkel zou je zoeken naar een wetenschappelijke rekenmachine?|Op welke site of in welke winkel zou je zoeken naar een drinkfles voor school?|
+rentree-642|Waar zou je heen gaan om een lunchbox voor tussen de middag te kopen?|Waar zou je heen gaan om een laptopstandaard te kopen?|
+rentree-643|Wat zou voor jou het lastigste zijn aan het inpakken van je tas voor het nieuwe schooljaar?|Wat zou voor jou het lastigste zijn aan het plannen van je rooster?|
+rentree-644|Waar zou je op letten voordat je doelen voor het jaar opstelt?|Waar zou je op letten voordat je de namen van een klas leert?|
+rentree-645|Wat zou je als eerste doen als een startbijeenkomst van het nieuwe jaar maar blijft duren?|Wat zou je als eerste doen als een naaste je succes wenst met het nieuwe schooljaar?|
+rentree-646|Wat zou het belangrijkste zijn bij het plannen van je route voor de eerste dag?|Wat zou het belangrijkste zijn bij het leren kennen van een nieuw programma voor school?|
+rentree-647|Wat zou je ertoe aanzetten om een middenklasse laptop voor je studie te kopen?|Wat zou je ertoe aanzetten om een doosje markeerstiften te kopen?|
+rentree-648|Vanaf welke prijs zou je twijfelen om een schrift van 200 bladzijden voor school te kopen?|Vanaf welke prijs zou je twijfelen om een etui met tien goede pennen te kopen?|
+rentree-649|Wat zou je eerste reactie zijn als een nieuwe klasgenoot niemand kent?|Wat zou je eerste reactie zijn als je op de eerste schooldag al je etui vergeet?|
+rentree-650|Op welk moment van de week zou je het liefst je tas inpakken voor het nieuwe schooljaar?|Op welk moment van de week zou je het liefst je rooster plannen?|
+rentree-651|Hoeveel tijd zou je nodig hebben om een presentatie voor het begin van het jaar voor te bereiden?|Hoeveel tijd zou je nodig hebben om een nieuwe school te leren kennen?|
+rentree-652|Wat zou het belangrijkste zijn bij het opruimen van je werkplek?|Wat zou het belangrijkste zijn bij het opstellen van doelen voor het jaar?|
+rentree-653|In welke situatie zou je besluiten een etui met tien goede pennen te kopen?|In welke situatie zou je besluiten een schooltas te kopen?|
+rentree-654|Wat zou je antwoorden als je toegangspasje niet werkt?|Wat zou je antwoorden als er onverwacht een groepsproject wordt aangekondigd?|
+rentree-655|Wat zou je maximale budget zijn voor een middenklasse laptop voor je studie?|Wat zou je maximale budget zijn voor een doosje markeerstiften?|
+rentree-656|Wat is volgens jou de prijs van een lunchbox voor tussen de middag?|Wat is volgens jou de prijs van een laptopstandaard?|
+rentree-657|Wat zou het belangrijkste zijn bij het kopen van je schoolspullen?|Wat zou het belangrijkste zijn bij het doornemen van je aantekeningen van vorig jaar?|
+rentree-658|Welk moment van de dag zou het handigst zijn om doelen voor het jaar op te stellen?|Welk moment van de dag zou het handigst zijn om de namen van een klas te leren?|
+rentree-659|Hoeveel zou je willen uitgeven aan een ordner met tabbladen?|Hoeveel zou je willen uitgeven aan een wetenschappelijke rekenmachine?|
+rentree-660|Wie zou je bellen om je te helpen je oude papieren uit te zoeken?|Wie zou je bellen om je te helpen een welkomstbijeenkomst voor te bereiden?|
+rentree-661|In hoeveel tijd zou je een outfit voor de eerste dag kunnen kiezen?|In hoeveel tijd zou je je maaltijden voor de week kunnen voorbereiden?|
+rentree-662|Wat zou je zeggen als je op de eerste schooldag al je etui vergeet?|Wat zou je zeggen als je gevraagd wordt om jezelf voor iedereen voor te stellen?|
+rentree-663|Wie uit je omgeving zou je kunnen helpen een outfit voor de eerste dag te kiezen?|Wie uit je omgeving zou je kunnen helpen je maaltijden voor de week voor te bereiden?|
+rentree-664|Tot hoeveel zou je betalen voor een wetenschappelijke rekenmachine?|Tot hoeveel zou je betalen voor een drinkfles voor school?|
+rentree-665|Als je een nieuwe buitenschoolse activiteit moest uitkiezen, wat zou dan je prioriteit zijn?|Als je je werkplek moest opruimen, wat zou dan je prioriteit zijn?|
+rentree-666|Op welk moment van de week zou je het liefst je oude papieren uitzoeken?|Op welk moment van de week zou je het liefst een welkomstbijeenkomst voorbereiden?|
+rentree-667|Wat zou het beste moment zijn om een welkomstbijeenkomst voor te bereiden?|Wat zou het beste moment zijn om een outfit voor de eerste dag te kiezen?|
+rentree-668|Op welke site of in welke winkel zou je zoeken naar een bureau-organizer?|Op welke site of in welke winkel zou je zoeken naar een koptelefoon om mee te leren?|
+rentree-669|Wat zou je eerste reflex zijn als een oud-docent je nog herkent?|Wat zou je eerste reflex zijn als je een vriend na de hele zomer weer ziet?|
+rentree-670|In welke situatie zou je besluiten een ordner met tabbladen te kopen?|In welke situatie zou je besluiten een wetenschappelijke rekenmachine te kopen?|
+rentree-671|Aan wie zou je hulp vragen om je aantekeningen van vorig jaar door te nemen?|Aan wie zou je hulp vragen om een presentatie voor het begin van het jaar voor te bereiden?|
+rentree-672|Welk moment van de dag zou je kiezen om je schoolspullen te kopen?|Welk moment van de dag zou je kiezen om je aantekeningen van vorig jaar door te nemen?|
+rentree-673|Welk moment van de dag zou het handigst zijn om je aantekeningen van vorig jaar door te nemen?|Welk moment van de dag zou het handigst zijn om een presentatie voor het begin van het jaar voor te bereiden?|
+rentree-674|Wie zou je bellen om je te helpen de namen van een klas te leren?|Wie zou je bellen om je te helpen een studiegroepje op te zetten?|
+rentree-675|Waar zou je heen gaan om een agenda voor het nieuwe schooljaar te vinden?|Waar zou je heen gaan om een schrift van 200 bladzijden voor school te vinden?|
+rentree-676|Hoeveel tijd zou je uittrekken om je voor te bereiden op de herstart na de vakantie?|Hoeveel tijd zou je uittrekken om je agenda bij te werken?|
+rentree-677|Tot hoeveel zou je betalen voor een goed zakwoordenboek?|Tot hoeveel zou je betalen voor een ledbureaulamp met scharnierarm?|
+rentree-678|Op welke site of in welke winkel zou je zoeken naar een goed zakwoordenboek?|Op welke site of in welke winkel zou je zoeken naar een ledbureaulamp met scharnierarm?|
+rentree-679|In welke situatie zou je besluiten een laptopstandaard te kopen?|In welke situatie zou je besluiten een oefenboek voor een examen te kopen?|
+rentree-680|Hoeveel tijd zou je nodig hebben om je tas in te pakken voor het nieuwe schooljaar?|Hoeveel tijd zou je nodig hebben om je rooster te plannen?|
+rentree-681|Wie zou je het beste advies kunnen geven over het plannen van je rooster?|Wie zou je het beste advies kunnen geven over het kopen van je schoolspullen?|
+rentree-682|Wat is volgens jou de prijs van een wandkalender?|Wat is volgens jou de prijs van een usb-stick voor school?|
+rentree-683|Wat zou je maximale budget zijn voor een koptelefoon om mee te leren?|Wat zou je maximale budget zijn voor een wandkalender?|
+rentree-684|Wie uit je omgeving zou je kunnen helpen je schoolspullen te kopen?|Wie uit je omgeving zou je kunnen helpen je aantekeningen van vorig jaar door te nemen?|
+rentree-685|Wat is volgens jou de prijs van een doosje markeerstiften?|Wat is volgens jou de prijs van een ordner met tabbladen?|
+rentree-686|Waar zou je heen gaan om een professioneel logboek te kopen?|Waar zou je heen gaan om een setje insteekhoezen te kopen?|
+rentree-687|Op welk moment van de week zou je het liefst de namen van een klas leren?|Op welk moment van de week zou je het liefst een studiegroepje opzetten?|
+rentree-688|Waar zou je heen gaan om een koptelefoon om mee te leren te vinden?|Waar zou je heen gaan om een wandkalender te vinden?|
+rentree-689|Wat zou je op dat moment zeggen als een nieuwe klasgenoot niemand kent?|Wat zou je op dat moment zeggen als je op de eerste schooldag al je etui vergeet?|
+rentree-690|Wat zou voor jou het lastigste zijn aan het bijwerken van je agenda?|Wat zou voor jou het lastigste zijn aan het uitkiezen van een nieuwe buitenschoolse activiteit?|
+rentree-691|Hoeveel denk je dat een etui met tien goede pennen waard is?|Hoeveel denk je dat een schooltas waard is?|
+rentree-692|Op welk moment van de week zou je het liefst je agenda bijwerken?|Op welk moment van de week zou je het liefst een nieuwe buitenschoolse activiteit uitkiezen?|
+rentree-693|Welk moment van de dag zou het handigst zijn om een nieuw programma voor school te leren kennen?|Welk moment van de dag zou het handigst zijn om je oude papieren uit te zoeken?|
+rentree-694|Voor welke gelegenheid zou je een professioneel logboek willen kopen?|Voor welke gelegenheid zou je een setje insteekhoezen willen kopen?|
+rentree-695|Wat zou het beste moment zijn om je rooster te plannen?|Wat zou het beste moment zijn om je schoolspullen te kopen?|
+rentree-696|Hoeveel denk je dat een usb-stick voor school waard is?|Hoeveel denk je dat een goed zakwoordenboek waard is?|
+rentree-697|Wie zou je het beste advies kunnen geven over het leren kennen van een nieuwe school?|Wie zou je het beste advies kunnen geven over het kennismaken met een nieuw team?|
+rentree-698|Vanaf welke prijs zou je twijfelen om een doosje markeerstiften te kopen?|Vanaf welke prijs zou je twijfelen om een ordner met tabbladen te kopen?|
+rentree-699|Wie uit je omgeving zou je kunnen helpen kennis te maken met een nieuw team?|Wie uit je omgeving zou je kunnen helpen je voor te bereiden op de herstart na de vakantie?|
+rentree-700|Op welke site of in welke winkel zou je zoeken naar een oefenboek voor een examen?|Op welke site of in welke winkel zou je zoeken naar een agenda voor het nieuwe schooljaar?|
+rentree-701|Wat denk je dat een agenda voor het nieuwe schooljaar kost?|Wat denk je dat een schrift van 200 bladzijden voor school kost?|

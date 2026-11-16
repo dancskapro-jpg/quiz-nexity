@@ -197,3 +197,103 @@ miroir-792|Above what price would you think twice about buying an Americano to d
 miroir-793|What price would you imagine for a 55 cm soft-shell cabin suitcase?|What price would you imagine for a 55 cm hard-shell cabin suitcase?|
 miroir-794|How much would you be willing to spend on an adult cinema ticket for a morning showing?|How much would you be willing to spend on an adult cinema ticket for an evening showing?|
 miroir-795|What would you do first if a restaurant kept you waiting for ten minutes?|What would you do first if a restaurant kept you waiting for thirty minutes?|
+miroir-796|How much time would you set aside to do the shopping for two meals?|How much time would you set aside to do the shopping for three meals?|
+argent-shopping-001|What price would seem reasonable to you for a pair of wireless noise-cancelling headphones?|How much would you be willing to pay for a bean-to-cup coffee machine for home?|
+argent-shopping-002|At what price would you find a takeaway Americano near a train station too expensive?|What's the most you'd accept to pay for a men's haircut at a local barber's?|
+argent-shopping-003|How much would you put aside each month to pay for a spring weekend in Lisbon?|How much would you save each month towards a new fitted kitchen?|
+argent-shopping-004|What would you say if a salesperson kept pushing you to take out an £80 warranty?|What would be the first thing you'd say if a website told you something was out of stock after you'd paid?|prix en livres (90 € → £80)
+argent-shopping-005|Which shop would you check first for a refurbished smartphone with a two-year guarantee?|On which website or in which shop would you compare bagless vacuum cleaners for a small flat?|
+argent-shopping-006|What would you choose if you were torn between repairing your phone and replacing it?|Which option would you go for if you had to choose between an extended warranty and a power bank?|
+argent-shopping-007|What present would you give a friend moving into their first flat, with a £25 budget?|What would you buy for a friend who loves hiking, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-008|How long would you spend comparing three quotes for new windows before making up your mind?|How much time would you spend looking for a reliable second-hand car before choosing?|
+argent-shopping-009|How much would you set aside for one person's food shopping for a week?|What total budget would you set for getting a small car serviced before the holidays?|
+argent-shopping-010|What would be your first instinct if your bank card was declined even though there's money in your account?|What would you do first if a deal advertised until Sunday disappeared on Saturday?|
+argent-shopping-011|What price would seem reasonable to you for a winter coat that lasts several years?|How much would you be willing to pay for a 27-inch computer monitor?|
+argent-shopping-012|At what price would you find a ham and cheese sandwich from a bakery too expensive?|What's the most you'd accept to pay for a mixed salad bought near the office?|
+argent-shopping-013|How much would you put aside each month to pay for an e-bike for your daily commute?|How much would you save each month towards a six-month professional training course?|
+argent-shopping-014|What would you say if a website added £10 in fees at the last minute?|What would be the first thing you'd say if a salesperson recommended a model twice as expensive?|prix en livres (12 € → £10)
+argent-shopping-015|Which shop would you check first for a height-adjustable desk under £250?|On which website or in which shop would you compare cheap train tickets for the weekend?|prix en livres (300 € → £250)
+argent-shopping-016|What would you choose if you were offered 15% off straight away or a £20 voucher?|Which option would you go for if you found two hotels at the same price in different locations?|prix en livres (25 € → £20)
+argent-shopping-017|What present would you give a colleague leaving after five years on the team, with a £25 budget?|What would you buy for a friend who's just adopted a cat, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-018|How long would you spend looking for a plane ticket for a week in Italy before making up your mind?|How much time would you spend picking a computer for going back to studying before choosing?|
+argent-shopping-019|How much would you set aside for a drinks-and-nibbles party for eight people?|What total budget would you set for buying a full outfit for a wedding?|apéro dînatoire → drinks and nibbles
+argent-shopping-020|What would be your first instinct if you got a phone bill twice as high as usual?|What would you do first if a train ticket payment failed for no reason?|
+argent-shopping-021|What price would seem reasonable to you for a pair of trainers for walking every day?|How much would you be willing to pay for a second-hand city bike in good condition?|
+argent-shopping-022|At what price would you find a 500 ml bottle of water at an airport too expensive?|What's the most you'd accept to pay for a takeaway burger meal with chips and a drink?|
+argent-shopping-023|How much would you put aside each month to pay for a laptop for your personal projects?|How much would you save each month towards a five-day trip to New York?|
+argent-shopping-024|What would you say if your parcel arrived after the promised date?|What would be the first thing you'd say if a subscription went up in price without a clear explanation?|
+argent-shopping-025|Which shop would you check first for a warm coat under £100?|On which website or in which shop would you compare car hire for three days in Manchester?|prix en livres (120 € → £100); Lyon → Manchester
+argent-shopping-026|What would you choose if you had to pick between slow free delivery and fast paid delivery?|Which option would you go for if you were torn between the direct train and a cheaper journey with a change?|
+argent-shopping-027|What present would you give a cousin who's just passed their driving test, with a £25 budget?|What would you buy for a film-buff relative, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-028|How long would you spend reading reviews before buying a new phone and making up your mind?|How much time would you spend checking the specs of a new camera before choosing?|
+argent-shopping-029|How much would you set aside for supplies for the start of the university year?|What total budget would you set for a picnic for six people?|
+argent-shopping-030|What would be your first instinct if something you'd paid for online was never sent?|What would you do first if a friend sent you a payment request by mistake?|
+argent-shopping-031|What price would seem reasonable to you for a sturdy four-wheel cabin suitcase?|How much would you be willing to pay for a pair of designer sunglasses?|
+argent-shopping-032|At what price would you find a 500 g packet of pasta at the supermarket too expensive?|What's the most you'd accept to pay for a monthly subscription to a fitness app?|
+argent-shopping-033|How much would you put aside each month to pay for a two-week trip to Japan?|How much would you save each month towards an emergency fund for unexpected costs?|
+argent-shopping-034|What would you say if you found something cheaper just after buying it?|What would be the first thing you'd say if a shop refused a deal that was clearly displayed on the shelf?|
+argent-shopping-035|Which shop would you check first for a 135 × 190 cm double mattress with delivery?|On which website or in which shop would you compare flowers delivered the next day?|matelas 140 × 190 → double britannique 135 × 190
+argent-shopping-036|What would you choose if only the reduced display model was left?|Which option would you go for if a concert ticket offered a seat or standing?|
+argent-shopping-037|What present would you give a friend who loves Italian cooking, with a £25 budget?|What would you buy for someone learning to draw, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-038|How long would you spend trying on several pairs of running shoes before making up your mind?|How much time would you spend picking a restaurant for an important dinner before choosing?|
+argent-shopping-039|How much would you set aside to set up a work corner in a studio flat?|What total budget would you set for a hiking weekend in the mountains?|
+argent-shopping-040|What would be your first instinct if the till charged a different price from the one on the shelf?|What would you do first if a brand-new device wouldn't switch on when you unboxed it?|
+argent-shopping-041|What price would seem reasonable to you for a robot vacuum for a 50 m² flat?|How much would you be willing to pay for an ergonomic office chair?|
+argent-shopping-042|At what price would you find an extra fee for a cabin bag on a short flight too expensive?|What's the most you'd accept to pay for a bunch of ten roses from a florist?|
+argent-shopping-043|How much would you put aside each month to pay for a relative's driving lessons?|How much would you save each month towards a reliable second-hand car?|
+argent-shopping-044|What would you say if a shopkeeper refused to take back a faulty item?|What would be the first thing you'd say if a friend forgot to pay you back their share of the bill?|
+argent-shopping-045|Which shop would you check first for a birthday present under £20?|On which website or in which shop would you compare desk lamps with adjustable light?|prix en livres (25 € → £20)
+argent-shopping-046|What would you choose if you had a limited budget to kit yourself out for working from home?|Which option would you go for if a restaurant offered a set menu or à la carte dishes?|
+argent-shopping-047|What present would you give a relative who loves board games, with a £25 budget?|What would you buy for a friend who spends a lot of time on trains, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-048|How long would you spend comparing two home insurance quotes before making up your mind?|How much time would you spend comparing memberships at two gyms before choosing?|
+argent-shopping-049|How much would you set aside for three Christmas presents for adults?|What total budget would you set for replacing a kitchen's small appliances?|
+argent-shopping-050|What would be your first instinct if you lost the receipt for a device still under warranty?|What would you do first if an online shop stopped replying to your messages?|
+argent-shopping-051|What price would seem reasonable to you for a smartwatch with sleep tracking?|How much would you be willing to pay for a 100 ml everyday perfume?|
+argent-shopping-052|At what price would you find home delivery in under two hours too expensive?|What's the most you'd accept to pay for a standing ticket for a gig at a small venue?|
+argent-shopping-053|How much would you put aside each month to pay for a new sofa for your living room?|How much would you save each month towards a birthday party for twenty people?|
+argent-shopping-054|What would you say if a friend asked you to lend them £200?|What would be the first thing you'd say if an order was cancelled the day before a birthday?|prix en livres (200 € → £200)
+argent-shopping-055|Which shop would you check first for a laptop for video editing?|On which website or in which shop would you compare refundable prescription glasses?|
+argent-shopping-056|What would you choose if you found the same piece of clothing new or second-hand in very good condition?|Which option would you go for if you had to choose between a gift card and a surprise present?|
+argent-shopping-057|What present would you give a sister starting a new job, with a £25 budget?|What would you buy for a friend who loves houseplants, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-058|How long would you spend finding a last-minute present for your dad before making up your mind?|How much time would you spend putting together a Christmas present list before choosing?|
+argent-shopping-059|How much would you set aside to throw a surprise birthday party for twelve friends?|What total budget would you set for having two friends to stay for three days?|
+argent-shopping-060|What would be your first instinct if a cash machine took money from your account without giving you any cash?|What would you do first if the courier left your parcel with a stranger?|
+argent-shopping-061|What price would seem reasonable to you for a good rucksack for getting to work?|How much would you be willing to pay for a waterproof jacket for spring and autumn?|
+argent-shopping-062|At what price would you find a cinema ticket on a Saturday night too expensive?|What's the most you'd accept to pay for a fifteen-minute minicab ride on a Friday night?|VTC → minicab
+argent-shopping-063|How much would you put aside each month to pay for a camera to learn photography?|How much would you save each month towards a seaside holiday in August?|
+argent-shopping-064|What would you say if a salesperson told you about a discount for new customers only?|What would be the first thing you'd say if a courier claimed to have delivered your parcel but you'd received nothing?|
+argent-shopping-065|Which shop would you check first for beginner hiking boots?|On which website or in which shop would you compare sofa beds for a studio flat?|
+argent-shopping-066|What would you choose if you were torn between hiring a tool for a day and buying it?|Which option would you go for if you were torn between a well-known brand and a better-rated unbranded product?|
+argent-shopping-067|What present would you give a friend running their first marathon, with a £25 budget?|What would you buy for a cousin who's getting into photography, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-068|How long would you spend choosing a destination for the summer holidays before making up your mind?|How much time would you spend hunting for a bargain in the sales before choosing?|
+argent-shopping-069|How much would you set aside for two days in Liverpool, not counting travel?|What total budget would you set for a day at a theme park?|Lille → Liverpool
+argent-shopping-070|What would be your first instinct if a purchase showed up twice on your statement?|What would you do first if the bank blocked your card while you were travelling?|
+argent-shopping-071|What price would seem reasonable to you for a bean-to-cup coffee machine for home?|How much would you be willing to pay for an extendable table for four to six people?|
+argent-shopping-072|At what price would you find two hours' parking in the town centre too expensive?|What's the most you'd accept to pay for a main-and-dessert lunch at a pub?|brasserie → pub
+argent-shopping-073|How much would you put aside each month to pay for a ski week with three friends?|How much would you save each month towards replacing your washing machine?|
+argent-shopping-074|What would you say if a restaurant charged you for a dessert you didn't order?|What would be the first thing you'd say if a salesperson offered you an unrequested pay-in-four plan?|
+argent-shopping-075|Which shop would you check first for a bagless vacuum cleaner for a small flat?|On which website or in which shop would you compare outfits for a June wedding?|
+argent-shopping-076|What would you choose if you could pay for a piece of furniture in one go or in three instalments?|Which option would you go for if you had the choice between an annual subscription and a monthly plan?|
+argent-shopping-077|What present would you give someone who loves reading, with a £25 budget?|What would you buy for a friend who's just finished their exams, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-078|How long would you spend comparing prices at five online supermarkets before making up your mind?|How much time would you spend picking a new pair of glasses before choosing?|
+argent-shopping-079|How much would you set aside for getting a small car serviced before the holidays?|What total budget would you set for a month's worth of cleaning products?|
+argent-shopping-080|What would be your first instinct if a seller sent the wrong model of shoes?|What would you do first if a shopkeeper refused an exchange despite an obvious fault?|
+argent-shopping-081|What price would seem reasonable to you for a 27-inch computer monitor?|How much would you be willing to pay for an instant camera with film included?|
+argent-shopping-082|At what price would you find a men's haircut at a local barber's too expensive?|What's the most you'd accept to pay for a pack of ten coffee pods?|
+argent-shopping-083|How much would you put aside each month to pay for a move to a bigger flat?|How much would you save each month towards kitting out a terrace with garden furniture?|
+argent-shopping-084|What would you say if customer service offered you store credit instead of a refund?|What would be the first thing you'd say if a shopkeeper charged you twice for the same item?|
+argent-shopping-085|Which shop would you check first for cheap train tickets for the weekend?|On which website or in which shop would you compare energy-efficient fridges?|
+argent-shopping-086|What would you choose if you had to pick between an extended warranty and a power bank?|Which option would you go for if a deal required buying three products instead of one?|
+argent-shopping-087|What present would you give a colleague who's just had a baby, with a £25 budget?|What would you buy for a neighbour who did you a big favour, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-088|How long would you spend finding a sofa that suits your living room before making up your mind?|How much time would you spend comparing broadband providers before choosing?|
+argent-shopping-089|How much would you set aside for buying a full outfit for a wedding?|What total budget would you set for a raclette night for ten people?|
+argent-shopping-090|What would be your first instinct if a deal advertised until Sunday disappeared on Saturday?|What would you do first if an unknown direct debit showed up on your account?|
+argent-shopping-091|What price would seem reasonable to you for a second-hand city bike in good condition?|How much would you be willing to pay for a refurbished phone with a new battery?|
+argent-shopping-092|At what price would you find a mixed salad bought near the office too expensive?|What's the most you'd accept to pay for a screen repair on a recent phone?|
+argent-shopping-093|How much would you put aside each month to pay for a new fitted kitchen?|How much would you save each month towards a big music festival next summer?|
+argent-shopping-094|What would you say if a relative criticised a present you'd chosen for them?|What would be the first thing you'd say if a friend suggested buying something useless together?|
+argent-shopping-095|Which shop would you check first for car hire for three days in Manchester?|On which website or in which shop would you compare travel bags allowed as cabin luggage?|Lyon → Manchester
+argent-shopping-096|What would you choose if you found two hotels at the same price in different locations?|Which option would you go for if you could buy a new video game or wait for the price to drop?|
+argent-shopping-097|What present would you give a friend who loves hiking, with a £25 budget?|What would you buy for someone who collects mugs, without going over £25?|prix en livres (30 € → £25)
+argent-shopping-098|How long would you spend putting together a shopping basket for the week before making up your mind?|How much time would you spend finding a rental for a weekend for four before choosing?|
+argent-shopping-099|How much would you set aside for a picnic for six people?|What total budget would you set for kitting yourself out for your first camping trip?|

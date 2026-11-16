@@ -197,3 +197,203 @@ noel-513|Welche Tageszeit wäre am praktischsten, um einen Weihnachtsfilm auszus
 noel-514|Wie schnell könntest du ein Essen für Heiligabend zubereiten?|Wie schnell könntest du einen Weihnachtsfilm aussuchen?|
 noel-515|Bis zu wie viel würdest du für einen weihnachtlichen Feinkostkorb für vier Personen zahlen?|Bis zu wie viel würdest du für einen echten Weihnachtsbaum von 1,50 m zahlen?|
 noel-516|Was würdest du sagen, wenn ein Kind die Geschenke zu früh aufmachen will?|Was würdest du sagen, wenn man dich bittet, in letzter Minute zu kochen?|
+noel-517|Bis zu wie viel würdest du für eine Deko-Rentierfigur zahlen?|Bis zu wie viel würdest du für einen Stern für die Baumspitze zahlen?|
+ete-614|Zu welchem Anlass würdest du einen Sonnenhut kaufen wollen?|Zu welchem Anlass würdest du eine große Strandtasche kaufen wollen?|
+ete-615|Was würdest du sagen, wenn kein Platz mehr im Schatten ist?|Was würdest du sagen, wenn der Sand in all deine Sachen kommt?|
+ete-616|Was meinst du, wie viel kosten hochwertige Badesachen?|Was meinst du, wie viel kostet ein Sonnenhut?|
+ete-617|Wen würdest du um Hilfe bitten, um einen Ausflug ins Schwimmbad zu planen?|Wen würdest du um Hilfe bitten, um einen Salat für ein Essen draußen zu machen?|
+ete-618|Was würde dich dazu bringen, hochwertige Badesachen zu kaufen?|Was würde dich dazu bringen, einen Sonnenhut zu kaufen?|
+ete-619|Wohin würdest du gehen, um eine faltbare Kühltasche zu finden?|Wohin würdest du gehen, um eine Luftmatratze für den Pool zu finden?|
+ete-620|Was würde dich dazu bringen, ein hochwertiges Strandtuch zu kaufen?|Was würde dich dazu bringen, einen Sonnenschirm für den Strand zu kaufen?|
+ete-621|Auf welcher Website oder in welchem Laden würdest du nach einem Eintritt für Erwachsene ins Freibad suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer faltbaren Kühltasche suchen?|
+ete-622|Wohin würdest du gehen, um eine Open-Air-Kinovorstellung in einem Stadtpark zu finden?|Wohin würdest du gehen, um eine Box mit sechs Bechern handgemachtem Eis zu finden?|
+ete-623|Auf welcher Website oder in welchem Laden würdest du nach einem Strandklappstuhl suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem hochwertigen Strandtuch suchen?|
+ete-624|Wie schnell könntest du einen Abend auf der Terrasse vorbereiten?|Wie schnell könntest du einen Tag am See organisieren?|
+ete-625|Wer aus deinem Umfeld könnte dir helfen, einen Abend auf der Terrasse vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, einen Tag am See zu organisieren?|
+ete-626|Was würdest du als Erstes tun, wenn deine Sonnenbrille verschwindet?|Was würdest du als Erstes tun, wenn ein Kind im Schwimmbad deine Sachen nass spritzt?|
+ete-627|Was würdest du spontan sagen, wenn ein Freund vorschlägt, um sieben Uhr morgens schwimmen zu gehen?|Was würdest du spontan sagen, wenn kein Platz mehr im Schatten ist?|
+ete-628|Wohin würdest du gehen, um einen Sonnenhut zu kaufen?|Wohin würdest du gehen, um eine große Strandtasche zu kaufen?|
+ete-629|Wenn du einen Platz für den Sonnenuntergang aussuchen müsstest, was wäre deine Priorität?|Wenn du einen Spaziergang am Meer machen müsstest, was wäre deine Priorität?|
+ete-630|Welche Tageszeit wäre am praktischsten, um die Sachen nach dem Strand wegzuräumen?|Welche Tageszeit wäre am praktischsten, um eine Strandtasche zu packen?|
+ete-631|Wie viel wärst du bereit, für eine 200-ml-Tube Sonnencreme LSF 50 auszugeben?|Wie viel wärst du bereit, für ein Paar bequeme Sandalen auszugeben?|
+ete-632|Wohin würdest du gehen, um einen Sonnenschirm für den Strand zu kaufen?|Wohin würdest du gehen, um eine 200-ml-Tube Sonnencreme LSF 50 zu kaufen?|
+ete-633|Wie schnell könntest du ein Sommerpicknick organisieren?|Wie schnell könntest du einen Ausflug ins Schwimmbad planen?|
+ete-634|Wenn du einen Strand für den Tag aussuchen müsstest, was wäre deine Priorität?|Wenn du einen Abend auf der Terrasse vorbereiten müsstest, was wäre deine Priorität?|
+ete-635|Wohin würdest du gehen, um hochwertige Badesachen zu finden?|Wohin würdest du gehen, um einen Sonnenhut zu finden?|
+ete-636|Wann in der Woche würdest du am liebsten ein Mittagessen auf dem Balkon organisieren?|Wann in der Woche würdest du am liebsten eine Eissorte aussuchen?|
+ete-637|Wenn du ein schattiges Plätzchen aussuchen müsstest, was wäre deine Priorität?|Wenn du ein Sommerpicknick organisieren müsstest, was wäre deine Priorität?|
+ete-638|Wann hättest du Lust, einen Strandklappstuhl zu kaufen?|Wann hättest du Lust, ein hochwertiges Strandtuch zu kaufen?|
+ete-639|Wie lange würdest du brauchen, um ein Mittagessen auf dem Balkon zu organisieren?|Wie lange würdest du brauchen, um eine Eissorte auszusuchen?|
+ete-640|Was meinst du, wie viel kostet eine Open-Air-Kinovorstellung in einem Stadtpark?|Was meinst du, wie viel kostet eine Box mit sechs Bechern handgemachtem Eis?|
+ete-641|Was wäre dein erster Reflex, wenn ein Gewitterschauer das Picknick unterbricht?|Was wäre dein erster Reflex, wenn ein Freund vorschlägt, um sieben Uhr morgens schwimmen zu gehen?|
+ete-642|Wo würdest du zuerst nach einer isolierten Trinkflasche suchen?|Wo würdest du zuerst nach einer polarisierten Sonnenbrille einer gängigen Marke suchen?|
+ete-643|Auf welcher Website oder in welchem Laden würdest du nach einem aufblasbaren SUP-Board für Anfänger suchen?|Auf welcher Website oder in welchem Laden würdest du nach einer Open-Air-Kinovorstellung in einem Stadtpark suchen?|
+ete-644|Wie lange würdest du brauchen, um einen Salat für ein Essen draußen zu machen?|Wie lange würdest du brauchen, um einen Strand für den Tag auszusuchen?|
+ete-645|Wann wäre der beste Zeitpunkt, um eine Eissorte auszusuchen?|Wann wäre der beste Zeitpunkt, um einen Spieleabend draußen vorzubereiten?|
+ete-646|Was wäre deine größte Schwierigkeit dabei, eine Wanderung im Kühlen zu planen?|Was wäre deine größte Schwierigkeit dabei, bei großer Hitze eine Aktivität zu finden?|
+ete-647|Wie viel würdest du maximal für ein Tagesticket für ein Open-Air-Musikfestival einplanen?|Wie viel würdest du maximal für einen leisen Ventilator einplanen?|
+ete-648|Wer aus deinem Umfeld könnte dir helfen, einen Spieleabend draußen vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, die Sachen nach dem Strand wegzuräumen?|
+ete-649|Was meinst du, wie viel kostet eine faltbare Kühltasche?|Was meinst du, wie viel kostet eine Luftmatratze für den Pool?|
+ete-650|Wer aus deinem Umfeld könnte dir helfen, ein Sommerpicknick zu organisieren?|Wer aus deinem Umfeld könnte dir helfen, einen Ausflug ins Schwimmbad zu planen?|
+ete-651|Was würdest du als Erstes tun, wenn deine Eisdiele deine Lieblingssorte nicht mehr hat?|Was würdest du als Erstes tun, wenn du auf dem Weg zum Strand dein Handtuch vergisst?|
+ete-652|Was glaubst du, wie viel ein gefüllter Picknickkorb für vier Personen wert ist?|Was glaubst du, wie viel ein Strandklappstuhl wert ist?|
+ete-653|Was würdest du sagen, wenn während eines Spaziergangs ein Gewitter losbricht?|Was würdest du sagen, wenn der Ventilator bei großer Hitze kaputtgeht?|
+ete-654|Wen würdest du um Hilfe bitten, um einen Tag am See zu organisieren?|Wen würdest du um Hilfe bitten, um eine Wanderung im Kühlen zu planen?|
+ete-655|Welcher Satz käme dir über die Lippen, wenn du bei Sonnenuntergang einen super Aussichtspunkt entdeckst?|Welcher Satz käme dir über die Lippen, wenn das Schwimmbad früher als geplant schließt?|
+ete-656|Was wäre deine erste Reaktion, wenn das Strandrestaurant ausgebucht ist?|Was wäre deine erste Reaktion, wenn deine Eisdiele deine Lieblingssorte nicht mehr hat?|
+ete-657|Wohin würdest du gehen, um ein hochwertiges Strandtuch zu finden?|Wohin würdest du gehen, um einen Sonnenschirm für den Strand zu finden?|
+ete-658|Wer könnte dir den besten Rat geben, um einen Strand für den Tag auszusuchen?|Wer könnte dir den besten Rat geben, um einen Abend auf der Terrasse vorzubereiten?|
+ete-659|Wann hättest du Lust, einen Eintritt für Erwachsene ins Freibad zu kaufen?|Wann hättest du Lust, eine faltbare Kühltasche zu kaufen?|
+ete-660|Was meinst du, wie lange braucht man, um einen Platz für den Sonnenuntergang auszusuchen?|Was meinst du, wie lange braucht man, um einen Spaziergang am Meer zu machen?|
+ete-661|Wie würdest du reagieren, wenn der Ventilator bei großer Hitze kaputtgeht?|Wie würdest du reagieren, wenn ein Nachbar dich zum Grillen einlädt?|
+ete-662|Was kostet deiner Meinung nach ein Sonnenschirm für den Strand?|Was kostet deiner Meinung nach eine 200-ml-Tube Sonnencreme LSF 50?|
+ete-663|Was wäre deine erste Reaktion, wenn ein Freund mittags in der Sonne bleiben will?|Was wäre deine erste Reaktion, wenn während eines Spaziergangs ein Gewitter losbricht?|
+ete-664|Welches Detail würdest du prüfen, bevor du die Sachen nach dem Strand wegräumst?|Welches Detail würdest du prüfen, bevor du eine Strandtasche packst?|
+ete-665|Was würde dich dazu bringen, eine faltbare Kühltasche zu kaufen?|Was würde dich dazu bringen, eine Luftmatratze für den Pool zu kaufen?|
+ete-666|Bis zu wie viel würdest du für ein aufblasbares SUP-Board für Anfänger zahlen?|Bis zu wie viel würdest du für eine Open-Air-Kinovorstellung in einem Stadtpark zahlen?|
+ete-667|Wie würdest du antworten, wenn das Schwimmbad früher als geplant schließt?|Wie würdest du antworten, wenn ein Freund mittags in der Sonne bleiben will?|
+ete-668|Was kostet deiner Meinung nach eine Box mit sechs Bechern handgemachtem Eis?|Was kostet deiner Meinung nach ein gefüllter Picknickkorb für vier Personen?|
+ete-669|Wie viel wärst du bereit, für einen wasserdichten Bluetooth-Lautsprecher auszugeben?|Wie viel wärst du bereit, für ein aufblasbares SUP-Board für Anfänger auszugeben?|
+ete-670|Wann wäre der beste Zeitpunkt, um einen Platz für den Sonnenuntergang auszusuchen?|Wann wäre der beste Zeitpunkt, um einen Spaziergang am Meer zu machen?|
+ete-671|Wann hättest du Lust, eine polarisierte Sonnenbrille einer gängigen Marke zu kaufen?|Wann hättest du Lust, ein Tagesticket für ein Open-Air-Musikfestival zu kaufen?|
+ete-672|Was würdest du sagen, wenn deine Sonnenbrille verschwindet?|Was würdest du sagen, wenn ein Kind im Schwimmbad deine Sachen nass spritzt?|
+ete-673|Welches Detail würdest du prüfen, bevor du einen Ausflug ins Schwimmbad planst?|Welches Detail würdest du prüfen, bevor du einen Salat für ein Essen draußen machst?|
+ete-674|Welche Tageszeit würdest du wählen, um einen Spieleabend draußen vorzubereiten?|Welche Tageszeit würdest du wählen, um die Sachen nach dem Strand wegzuräumen?|
+ete-675|Wann wäre der beste Zeitpunkt, um bei großer Hitze eine Aktivität zu finden?|Wann wäre der beste Zeitpunkt, um einen Grillabend vorzubereiten?|
+ete-676|Wer könnte dir den besten Rat geben, um eine Eissorte auszusuchen?|Wer könnte dir den besten Rat geben, um einen Spieleabend draußen vorzubereiten?|
+ete-677|Welches Detail würdest du prüfen, bevor du einen Festivaltag vorbereitest?|Welches Detail würdest du prüfen, bevor du ein Mittagessen auf dem Balkon organisierst?|
+ete-678|Wie viel würdest du maximal für hochwertige Badesachen einplanen?|Wie viel würdest du maximal für einen Sonnenhut einplanen?|
+ete-679|Was wäre deine erste Reaktion, wenn eine Welle dein Handy nass spritzt?|Was wäre deine erste Reaktion, wenn ein Festival eine Änderung im Zeitplan ankündigt?|
+ete-680|Was wäre dein erster Reflex, wenn du in letzter Minute eine Einladung an den Strand bekommst?|Was wäre dein erster Reflex, wenn das Strandrestaurant ausgebucht ist?|
+ete-681|Wie lange würdest du brauchen, um einen Ausflug auf den Sommermarkt zu planen?|Wie lange würdest du brauchen, um einen Platz für den Sonnenuntergang auszusuchen?|
+ete-682|Welcher Satz käme dir über die Lippen, wenn der Ventilator bei großer Hitze kaputtgeht?|Welcher Satz käme dir über die Lippen, wenn ein Nachbar dich zum Grillen einlädt?|
+ete-683|Welche Tageszeit würdest du wählen, um einen Abend auf der Terrasse vorzubereiten?|Welche Tageszeit würdest du wählen, um einen Tag am See zu organisieren?|
+ete-684|Welchen Preis stellst du dir für ein aufblasbares SUP-Board für Anfänger vor?|Welchen Preis stellst du dir für eine Open-Air-Kinovorstellung in einem Stadtpark vor?|
+ete-685|Wohin würdest du gehen, um eine Box mit sechs Bechern handgemachtem Eis zu kaufen?|Wohin würdest du gehen, um einen gefüllten Picknickkorb für vier Personen zu kaufen?|
+ete-686|Bis zu wie viel würdest du für einen Eintritt für Erwachsene ins Freibad zahlen?|Bis zu wie viel würdest du für eine faltbare Kühltasche zahlen?|
+ete-687|Zu welchem Anlass würdest du einen leisen Ventilator kaufen wollen?|Zu welchem Anlass würdest du einen wasserdichten Bluetooth-Lautsprecher kaufen wollen?|
+ete-688|Welcher Satz käme dir über die Lippen, wenn der Sand in all deine Sachen kommt?|Welcher Satz käme dir über die Lippen, wenn jemand aus deinem Umfeld seine Sonnencreme vergisst?|
+ete-689|In welcher Situation würdest du dich entscheiden, eine große Strandtasche zu kaufen?|In welcher Situation würdest du dich entscheiden, einen Eintritt für Erwachsene ins Freibad zu kaufen?|
+ete-690|Wo würdest du zuerst nach einem wasserdichten Bluetooth-Lautsprecher suchen?|Wo würdest du zuerst nach einem aufblasbaren SUP-Board für Anfänger suchen?|
+ete-691|Wen würdest du kontaktieren, damit er dir hilft, eine Wanderung im Kühlen zu planen?|Wen würdest du kontaktieren, damit er dir hilft, bei großer Hitze eine Aktivität zu finden?|
+ete-692|Was meinst du, wie lange braucht man, um ein schattiges Plätzchen auszusuchen?|Was meinst du, wie lange braucht man, um ein Sommerpicknick zu organisieren?|
+ete-693|In welcher Situation würdest du dich entscheiden, eine 200-ml-Tube Sonnencreme LSF 50 zu kaufen?|In welcher Situation würdest du dich entscheiden, ein Paar bequeme Sandalen zu kaufen?|
+ete-694|Wer könnte dir den besten Rat geben, um ein schattiges Plätzchen auszusuchen?|Wer könnte dir den besten Rat geben, um ein Sommerpicknick zu organisieren?|
+ete-695|In welcher Situation würdest du dich entscheiden, einen wasserdichten Bluetooth-Lautsprecher zu kaufen?|In welcher Situation würdest du dich entscheiden, ein aufblasbares SUP-Board für Anfänger zu kaufen?|
+ete-696|Wie viel wärst du bereit, für einen gefüllten Picknickkorb für vier Personen auszugeben?|Wie viel wärst du bereit, für einen Strandklappstuhl auszugeben?|
+ete-697|Wie viel Zeit würdest du einplanen, um die Fahrt ans Meer zu organisieren?|Wie viel Zeit würdest du einplanen, um einen Ausflug auf den Sommermarkt zu planen?|
+ete-698|Welche Tageszeit würdest du wählen, um ein Sommerpicknick zu organisieren?|Welche Tageszeit würdest du wählen, um einen Ausflug ins Schwimmbad zu planen?|
+ete-699|Zu welchem Anlass würdest du einen Sonnenschirm für den Strand kaufen wollen?|Zu welchem Anlass würdest du eine 200-ml-Tube Sonnencreme LSF 50 kaufen wollen?|
+ete-700|Wohin würdest du gehen, um ein Tagesticket für ein Open-Air-Musikfestival zu finden?|Wohin würdest du gehen, um einen leisen Ventilator zu finden?|
+ete-701|Auf welcher Website oder in welchem Laden würdest du nach einer polarisierten Sonnenbrille einer gängigen Marke suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Tagesticket für ein Open-Air-Musikfestival suchen?|
+ete-702|Welchen Preis stellst du dir für ein Paar bequeme Sandalen vor?|Welchen Preis stellst du dir für hochwertige Badesachen vor?|
+ete-703|Wie viel Zeit würdest du einplanen, um einen Ausflug ins Schwimmbad zu planen?|Wie viel Zeit würdest du einplanen, um einen Salat für ein Essen draußen zu machen?|
+ete-704|Welche Tageszeit wäre am praktischsten, um einen Tag am See zu organisieren?|Welche Tageszeit wäre am praktischsten, um eine Wanderung im Kühlen zu planen?|
+ete-705|Was wäre das Wichtigste, wenn du einen Spaziergang am Meer machst?|Was wäre das Wichtigste, wenn du einen Festivaltag vorbereitest?|
+ete-706|Wohin würdest du gehen, um eine Luftmatratze für den Pool zu kaufen?|Wohin würdest du gehen, um eine isolierte Trinkflasche zu kaufen?|
+ete-707|Welche Tageszeit würdest du wählen, um einen Spaziergang am Meer zu machen?|Welche Tageszeit würdest du wählen, um einen Festivaltag vorzubereiten?|
+ete-708|Wer aus deinem Umfeld könnte dir helfen, einen Spaziergang am Meer zu machen?|Wer aus deinem Umfeld könnte dir helfen, einen Festivaltag vorzubereiten?|
+ete-709|Was kostet deiner Meinung nach ein Sonnenhut?|Was kostet deiner Meinung nach eine große Strandtasche?|
+ete-710|Was meinst du, wie lange braucht man, um eine Eissorte auszusuchen?|Was meinst du, wie lange braucht man, um einen Spieleabend draußen vorzubereiten?|
+ete-711|In welcher Situation würdest du dich entscheiden, eine isolierte Trinkflasche zu kaufen?|In welcher Situation würdest du dich entscheiden, eine polarisierte Sonnenbrille einer gängigen Marke zu kaufen?|
+ete-712|Wer aus deinem Umfeld könnte dir helfen, einen Grillabend vorzubereiten?|Wer aus deinem Umfeld könnte dir helfen, die Fahrt ans Meer zu organisieren?|
+ete-713|Wann hättest du Lust, ein Paar bequeme Sandalen zu kaufen?|Wann hättest du Lust, hochwertige Badesachen zu kaufen?|
+ete-714|Welche Tageszeit würdest du wählen, um einen Grillabend vorzubereiten?|Welche Tageszeit würdest du wählen, um die Fahrt ans Meer zu organisieren?|
+ete-715|Was meinst du, wie lange braucht man, um einen Strand für den Tag auszusuchen?|Was meinst du, wie lange braucht man, um einen Abend auf der Terrasse vorzubereiten?|
+ete-716|Wenn du bei großer Hitze eine Aktivität finden müsstest, was wäre deine Priorität?|Wenn du einen Grillabend vorbereiten müsstest, was wäre deine Priorität?|
+ete-717|Welche Tageszeit wäre am praktischsten, um einen Festivaltag vorzubereiten?|Welche Tageszeit wäre am praktischsten, um ein Mittagessen auf dem Balkon zu organisieren?|
+ete-718|Wen würdest du um Hilfe bitten, um einen Festivaltag vorzubereiten?|Wen würdest du um Hilfe bitten, um ein Mittagessen auf dem Balkon zu organisieren?|
+ete-719|Wie viel würdest du maximal für eine faltbare Kühltasche einplanen?|Wie viel würdest du maximal für eine Luftmatratze für den Pool einplanen?|
+ete-720|Welches Detail würdest du prüfen, bevor du die Fahrt ans Meer organisierst?|Welches Detail würdest du prüfen, bevor du einen Ausflug auf den Sommermarkt planst?|
+ete-721|Wie schnell könntest du einen Spaziergang am Meer machen?|Wie schnell könntest du einen Festivaltag vorbereiten?|
+ete-722|Wie viel würdest du maximal für ein hochwertiges Strandtuch einplanen?|Wie viel würdest du maximal für einen Sonnenschirm für den Strand einplanen?|
+ete-723|Wie schnell könntest du einen Grillabend vorbereiten?|Wie schnell könntest du die Fahrt ans Meer organisieren?|
+ete-724|Wer könnte dir den besten Rat geben, um einen Platz für den Sonnenuntergang auszusuchen?|Wer könnte dir den besten Rat geben, um einen Spaziergang am Meer zu machen?|
+ete-725|Wie würdest du reagieren, wenn du auf dem Weg zum Strand dein Handtuch vergisst?|Wie würdest du reagieren, wenn ein Gewitterschauer das Picknick unterbricht?|
+ete-726|Welche Tageszeit wäre am praktischsten, um einen Ausflug ins Schwimmbad zu planen?|Welche Tageszeit wäre am praktischsten, um einen Salat für ein Essen draußen zu machen?|
+ete-727|Wie schnell könntest du einen Spieleabend draußen vorbereiten?|Wie schnell könntest du die Sachen nach dem Strand wegräumen?|
+ete-728|Ab welchem Preis würdest du zögern, einen Sonnenschirm für den Strand zu kaufen?|Ab welchem Preis würdest du zögern, eine 200-ml-Tube Sonnencreme LSF 50 zu kaufen?|
+ete-729|Wen würdest du um Hilfe bitten, um die Fahrt ans Meer zu organisieren?|Wen würdest du um Hilfe bitten, um einen Ausflug auf den Sommermarkt zu planen?|
+ete-730|Welcher Satz käme dir über die Lippen, wenn ein Kind im Schwimmbad deine Sachen nass spritzt?|Welcher Satz käme dir über die Lippen, wenn du in letzter Minute eine Einladung an den Strand bekommst?|
+ete-731|Was kostet deiner Meinung nach eine Luftmatratze für den Pool?|Was kostet deiner Meinung nach eine isolierte Trinkflasche?|
+ete-732|Wann wäre der beste Zeitpunkt, um ein schattiges Plätzchen auszusuchen?|Wann wäre der beste Zeitpunkt, um ein Sommerpicknick zu organisieren?|
+ete-733|Was wäre das Wichtigste, wenn du einen Grillabend vorbereitest?|Was wäre das Wichtigste, wenn du die Fahrt ans Meer organisierst?|
+ete-734|Was würdest du als Erstes tun, wenn ein Festival eine Änderung im Zeitplan ankündigt?|Was würdest du als Erstes tun, wenn du bei Sonnenuntergang einen super Aussichtspunkt entdeckst?|
+ete-735|Wie viel würdest du maximal für eine Open-Air-Kinovorstellung in einem Stadtpark einplanen?|Wie viel würdest du maximal für eine Box mit sechs Bechern handgemachtem Eis einplanen?|
+ete-736|Was wäre dein erster Reflex, wenn ein Nachbar dich zum Grillen einlädt?|Was wäre dein erster Reflex, wenn ein Freund mitten in einer Hitzewelle wandern gehen will?|
+ete-737|Was meinst du, wie viel kostet ein hochwertiges Strandtuch?|Was meinst du, wie viel kostet ein Sonnenschirm für den Strand?|
+ete-738|Welche Tageszeit wäre am praktischsten, um die Fahrt ans Meer zu organisieren?|Welche Tageszeit wäre am praktischsten, um einen Ausflug auf den Sommermarkt zu planen?|
+ete-739|Welchen Preis stellst du dir für einen Strandklappstuhl vor?|Welchen Preis stellst du dir für ein hochwertiges Strandtuch vor?|
+ete-740|Wie würdest du antworten, wenn ein Nachbar dich zum Grillen einlädt?|Wie würdest du antworten, wenn ein Freund mitten in einer Hitzewelle wandern gehen will?|
+ete-741|Was würde dich dazu bringen, ein Tagesticket für ein Open-Air-Musikfestival zu kaufen?|Was würde dich dazu bringen, einen leisen Ventilator zu kaufen?|
+ete-742|Welches Detail würdest du prüfen, bevor du einen Tag am See organisierst?|Welches Detail würdest du prüfen, bevor du eine Wanderung im Kühlen planst?|
+ete-743|Wenn du eine Eissorte aussuchen müsstest, was wäre deine Priorität?|Wenn du einen Spieleabend draußen vorbereiten müsstest, was wäre deine Priorität?|
+ete-744|Was wäre deine größte Schwierigkeit dabei, einen Salat für ein Essen draußen zu machen?|Was wäre deine größte Schwierigkeit dabei, einen Strand für den Tag auszusuchen?|
+ete-745|Bis zu wie viel würdest du für einen Strandklappstuhl zahlen?|Bis zu wie viel würdest du für ein hochwertiges Strandtuch zahlen?|
+ete-746|Zu welchem Anlass würdest du eine Luftmatratze für den Pool kaufen wollen?|Zu welchem Anlass würdest du eine isolierte Trinkflasche kaufen wollen?|
+ete-747|Was würde dich dazu bringen, eine Karte für eine Open-Air-Kinovorstellung in einem Stadtpark zu kaufen?|Was würde dich dazu bringen, eine Box mit sechs Bechern handgemachtem Eis zu kaufen?|
+ete-748|Wann in der Woche würdest du am liebsten eine Strandtasche packen?|Wann in der Woche würdest du am liebsten ein schattiges Plätzchen aussuchen?|
+ete-749|Bis zu wie viel würdest du für ein Paar bequeme Sandalen zahlen?|Bis zu wie viel würdest du für hochwertige Badesachen zahlen?|
+ete-750|Was wäre deine erste Reaktion, wenn ein Freund vorschlägt, um sieben Uhr morgens schwimmen zu gehen?|Was wäre deine erste Reaktion, wenn kein Platz mehr im Schatten ist?|
+ete-751|Wen würdest du um Hilfe bitten, um die Sachen nach dem Strand wegzuräumen?|Wen würdest du um Hilfe bitten, um eine Strandtasche zu packen?|
+ete-752|Wen würdest du kontaktieren, damit er dir hilft, ein Mittagessen auf dem Balkon zu organisieren?|Wen würdest du kontaktieren, damit er dir hilft, eine Eissorte auszusuchen?|
+ete-753|Wie viel Zeit würdest du einplanen, um einen Tag am See zu organisieren?|Wie viel Zeit würdest du einplanen, um eine Wanderung im Kühlen zu planen?|
+ete-754|Wie lange würdest du brauchen, um eine Wanderung im Kühlen zu planen?|Wie lange würdest du brauchen, um bei großer Hitze eine Aktivität zu finden?|
+ete-755|In welcher Situation würdest du dich entscheiden, einen gefüllten Picknickkorb für vier Personen zu kaufen?|In welcher Situation würdest du dich entscheiden, einen Strandklappstuhl zu kaufen?|
+ete-756|Wo würdest du zuerst nach einer großen Strandtasche suchen?|Wo würdest du zuerst nach einem Eintritt für Erwachsene ins Freibad suchen?|
+ete-757|Was wäre deine erste Reaktion, wenn ein Freund mitten in einer Hitzewelle wandern gehen will?|Was wäre deine erste Reaktion, wenn deine Sonnenbrille verschwindet?|
+ete-758|Wie würdest du antworten, wenn du in letzter Minute eine Einladung an den Strand bekommst?|Wie würdest du antworten, wenn das Strandrestaurant ausgebucht ist?|
+ete-759|Zu welchem Anlass würdest du eine Box mit sechs Bechern handgemachtem Eis kaufen wollen?|Zu welchem Anlass würdest du einen gefüllten Picknickkorb für vier Personen kaufen wollen?|
+ete-760|Was glaubst du, wie viel eine isolierte Trinkflasche wert ist?|Was glaubst du, wie viel eine polarisierte Sonnenbrille einer gängigen Marke wert ist?|
+ete-761|Wen würdest du kontaktieren, damit er dir hilft, eine Strandtasche zu packen?|Wen würdest du kontaktieren, damit er dir hilft, ein schattiges Plätzchen auszusuchen?|
+ete-762|Wann in der Woche würdest du am liebsten eine Wanderung im Kühlen planen?|Wann in der Woche würdest du am liebsten bei großer Hitze eine Aktivität finden?|
+ete-763|Wo würdest du zuerst nach einem gefüllten Picknickkorb für vier Personen suchen?|Wo würdest du zuerst nach einem Strandklappstuhl suchen?|
+ete-764|Was meinst du, wie viel kostet ein Tagesticket für ein Open-Air-Musikfestival?|Was meinst du, wie viel kostet ein leiser Ventilator?|
+ete-765|Was wäre dein erster Reflex, wenn das Schwimmbad früher als geplant schließt?|Was wäre dein erster Reflex, wenn ein Freund mittags in der Sonne bleiben will?|
+ete-766|Was würdest du spontan sagen, wenn eine Welle dein Handy nass spritzt?|Was würdest du spontan sagen, wenn ein Festival eine Änderung im Zeitplan ankündigt?|
+ete-767|Welchen Preis stellst du dir für eine polarisierte Sonnenbrille einer gängigen Marke vor?|Welchen Preis stellst du dir für ein Tagesticket für ein Open-Air-Musikfestival vor?|
+ete-768|Wie viel wärst du bereit, für eine große Strandtasche auszugeben?|Wie viel wärst du bereit, für einen Eintritt für Erwachsene ins Freibad auszugeben?|
+ete-769|Wen würdest du kontaktieren, damit er dir hilft, einen Salat für ein Essen draußen zu machen?|Wen würdest du kontaktieren, damit er dir hilft, einen Strand für den Tag auszusuchen?|
+ete-770|Wohin würdest du gehen, um einen leisen Ventilator zu kaufen?|Wohin würdest du gehen, um einen wasserdichten Bluetooth-Lautsprecher zu kaufen?|
+ete-771|Ab welchem Preis würdest du zögern, eine Box mit sechs Bechern handgemachtem Eis zu kaufen?|Ab welchem Preis würdest du zögern, einen gefüllten Picknickkorb für vier Personen zu kaufen?|
+ete-772|Was würdest du als Erstes tun, wenn kein Platz mehr im Schatten ist?|Was würdest du als Erstes tun, wenn der Sand in all deine Sachen kommt?|
+ete-773|Was würdest du als Erstes tun, wenn während eines Spaziergangs ein Gewitter losbricht?|Was würdest du als Erstes tun, wenn der Ventilator bei großer Hitze kaputtgeht?|
+ete-774|Was glaubst du, wie viel eine große Strandtasche wert ist?|Was glaubst du, wie viel ein Eintritt für Erwachsene ins Freibad wert ist?|
+ete-775|Ab welchem Preis würdest du zögern, einen leisen Ventilator zu kaufen?|Ab welchem Preis würdest du zögern, einen wasserdichten Bluetooth-Lautsprecher zu kaufen?|
+ete-776|Was würdest du spontan sagen, wenn das Strandrestaurant ausgebucht ist?|Was würdest du spontan sagen, wenn deine Eisdiele deine Lieblingssorte nicht mehr hat?|
+ete-777|Wann wäre der beste Zeitpunkt, um einen Strand für den Tag auszusuchen?|Wann wäre der beste Zeitpunkt, um einen Abend auf der Terrasse vorzubereiten?|
+ete-778|Wie viel wärst du bereit, für eine isolierte Trinkflasche auszugeben?|Wie viel wärst du bereit, für eine polarisierte Sonnenbrille einer gängigen Marke auszugeben?|
+ete-779|Was würdest du sagen, wenn ein Festival eine Änderung im Zeitplan ankündigt?|Was würdest du sagen, wenn du bei Sonnenuntergang einen super Aussichtspunkt entdeckst?|
+ete-780|Was würdest du spontan sagen, wenn ein Freund mittags in der Sonne bleiben will?|Was würdest du spontan sagen, wenn während eines Spaziergangs ein Gewitter losbricht?|
+ete-781|Wie viel Zeit würdest du einplanen, um die Sachen nach dem Strand wegzuräumen?|Wie viel Zeit würdest du einplanen, um eine Strandtasche zu packen?|
+ete-782|Bis zu wie viel würdest du für eine polarisierte Sonnenbrille einer gängigen Marke zahlen?|Bis zu wie viel würdest du für ein Tagesticket für ein Open-Air-Musikfestival zahlen?|
+ete-783|Was würdest du sagen, wenn deine Eisdiele deine Lieblingssorte nicht mehr hat?|Was würdest du sagen, wenn du auf dem Weg zum Strand dein Handtuch vergisst?|
+ete-784|Was meinst du, wie lange braucht man, um bei großer Hitze eine Aktivität zu finden?|Was meinst du, wie lange braucht man, um einen Grillabend vorzubereiten?|
+ete-785|Welcher Satz käme dir über die Lippen, wenn du auf dem Weg zum Strand dein Handtuch vergisst?|Welcher Satz käme dir über die Lippen, wenn ein Gewitterschauer das Picknick unterbricht?|
+ete-786|Was glaubst du, wie viel ein wasserdichter Bluetooth-Lautsprecher wert ist?|Was glaubst du, wie viel ein aufblasbares SUP-Board für Anfänger wert ist?|
+ete-787|Was wäre deine größte Schwierigkeit dabei, einen Ausflug auf den Sommermarkt zu planen?|Was wäre deine größte Schwierigkeit dabei, einen Platz für den Sonnenuntergang auszusuchen?|
+ete-788|Was wäre das Wichtigste, wenn du ein Sommerpicknick organisierst?|Was wäre das Wichtigste, wenn du einen Ausflug ins Schwimmbad planst?|
+ete-789|Wer könnte dir den besten Rat geben, um bei großer Hitze eine Aktivität zu finden?|Wer könnte dir den besten Rat geben, um einen Grillabend vorzubereiten?|
+ete-790|Wie würdest du reagieren, wenn der Sand in all deine Sachen kommt?|Wie würdest du reagieren, wenn jemand aus deinem Umfeld seine Sonnencreme vergisst?|
+ete-791|Wie würdest du antworten, wenn ein Gewitterschauer das Picknick unterbricht?|Wie würdest du antworten, wenn ein Freund vorschlägt, um sieben Uhr morgens schwimmen zu gehen?|
+ete-792|Ab welchem Preis würdest du zögern, eine Luftmatratze für den Pool zu kaufen?|Ab welchem Preis würdest du zögern, eine isolierte Trinkflasche zu kaufen?|
+ete-793|Wann in der Woche würdest du am liebsten einen Ausflug auf den Sommermarkt planen?|Wann in der Woche würdest du am liebsten einen Platz für den Sonnenuntergang aussuchen?|
+ete-794|Wie lange würdest du brauchen, um eine Strandtasche zu packen?|Wie lange würdest du brauchen, um ein schattiges Plätzchen auszusuchen?|
+ete-795|Wann hättest du Lust, ein aufblasbares SUP-Board für Anfänger zu kaufen?|Wann hättest du Lust, eine Karte für eine Open-Air-Kinovorstellung in einem Stadtpark zu kaufen?|
+ete-796|Was wäre deine größte Schwierigkeit dabei, eine Strandtasche zu packen?|Was wäre deine größte Schwierigkeit dabei, ein schattiges Plätzchen auszusuchen?|
+ete-797|Was glaubst du, wie viel eine 200-ml-Tube Sonnencreme LSF 50 wert ist?|Was glaubst du, wie viel ein Paar bequeme Sandalen wert ist?|
+ete-798|Was wäre deine größte Schwierigkeit dabei, ein Mittagessen auf dem Balkon zu organisieren?|Was wäre deine größte Schwierigkeit dabei, eine Eissorte auszusuchen?|
+ete-799|Was wäre das Wichtigste, wenn du einen Abend auf der Terrasse vorbereitest?|Was wäre das Wichtigste, wenn du einen Tag am See organisierst?|
+ete-800|Wann in der Woche würdest du am liebsten einen Salat für ein Essen draußen machen?|Wann in der Woche würdest du am liebsten einen Strand für den Tag aussuchen?|
+ete-801|Wie würdest du antworten, wenn jemand aus deinem Umfeld seine Sonnencreme vergisst?|Wie würdest du antworten, wenn eine Welle dein Handy nass spritzt?|
+ete-802|Ab welchem Preis würdest du zögern, einen Sonnenhut zu kaufen?|Ab welchem Preis würdest du zögern, eine große Strandtasche zu kaufen?|
+ete-803|Was wäre dein erster Reflex, wenn jemand aus deinem Umfeld seine Sonnencreme vergisst?|Was wäre dein erster Reflex, wenn eine Welle dein Handy nass spritzt?|
+ete-804|Wo würdest du zuerst nach einer 200-ml-Tube Sonnencreme LSF 50 suchen?|Wo würdest du zuerst nach einem Paar bequemer Sandalen suchen?|
+ete-805|Wie würdest du reagieren, wenn du bei Sonnenuntergang einen super Aussichtspunkt entdeckst?|Wie würdest du reagieren, wenn das Schwimmbad früher als geplant schließt?|
+ete-806|Was wäre das Wichtigste, wenn du einen Spieleabend draußen vorbereitest?|Was wäre das Wichtigste, wenn du die Sachen nach dem Strand wegräumst?|
+ete-807|Auf welcher Website oder in welchem Laden würdest du nach einem Paar bequemer Sandalen suchen?|Auf welcher Website oder in welchem Laden würdest du nach hochwertigen Badesachen suchen?|
+ete-808|Wen würdest du kontaktieren, damit er dir hilft, einen Ausflug auf den Sommermarkt zu planen?|Wen würdest du kontaktieren, damit er dir hilft, einen Platz für den Sonnenuntergang auszusuchen?|
+ete-809|Wie viel Zeit würdest du einplanen, um einen Festivaltag vorzubereiten?|Wie viel Zeit würdest du einplanen, um ein Mittagessen auf dem Balkon zu organisieren?|
+ete-810|Was würdest du spontan sagen, wenn ein Freund mitten in einer Hitzewelle wandern gehen will?|Was würdest du spontan sagen, wenn deine Sonnenbrille verschwindet?|
+ete-811|Wie würdest du reagieren, wenn ein Kind im Schwimmbad deine Sachen nass spritzt?|Wie würdest du reagieren, wenn du in letzter Minute eine Einladung an den Strand bekommst?|
+ete-812|Was kostet deiner Meinung nach ein leiser Ventilator?|Was kostet deiner Meinung nach ein wasserdichter Bluetooth-Lautsprecher?|

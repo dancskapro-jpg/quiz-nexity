@@ -98,3 +98,102 @@ miroir-693|Quale fascia della giornata sarebbe la più comoda per organizzare un
 miroir-694|In quale situazione decideresti di prenotare una notte in un hotel tre stelle in settimana?|In quale situazione decideresti di prenotare una notte in un hotel tre stelle nel weekend?|
 miroir-695|Fino a quanto pagheresti un posto in piedi nel parterre per un concerto al Forum di Assago?|Fino a quanto pagheresti un posto in tribuna per un concerto in un grande palazzetto?|Accor Arena → Forum di Assago
 miroir-696|Quale strumento sceglieresti per camminare due chilometri?|Quale strumento sceglieresti per camminare tre chilometri?|
+miroir-697|Quale sarebbe la tua difficoltà principale nel mettere in ordine una cameretta?|Quale sarebbe la tua difficoltà principale nel mettere in ordine un grande salotto?|
+miroir-698|In quale occasione vorresti comprare un biglietto di sola andata Milano–Roma in seconda classe per venerdì?|In quale occasione vorresti comprare un biglietto di sola andata Milano–Roma in seconda classe per sabato?|Paris–Lyon → Milano–Roma
+miroir-699|In quanto tempo riusciresti a scegliere una foto tra dieci?|In quanto tempo riusciresti a scegliere una foto tra venti?|
+miroir-700|In quale situazione decideresti di comprare un trolley da cabina morbido da 55 cm?|In quale situazione decideresti di comprare un trolley da cabina rigido da 55 cm?|
+miroir-701|In quale situazione decideresti di comprare un posto in piedi nel parterre per un concerto al Forum di Assago?|In quale situazione decideresti di comprare un posto in tribuna per un concerto in un grande palazzetto?|Accor Arena → Forum di Assago
+miroir-702|Cosa ti spingerebbe a comprare un abbonamento in palestra per un mese?|Cosa ti spingerebbe a comprare un abbonamento in palestra per tre mesi?|
+miroir-703|Su quale sito o in quale negozio cercheresti un posto in piedi nel parterre per un concerto al Forum di Assago?|Su quale sito o in quale negozio cercheresti un posto in tribuna per un concerto in un grande palazzetto?|Accor Arena → Forum di Assago
+miroir-704|Quale sarebbe il tuo primo istinto se un amico disdicesse la mattina stessa?|Quale sarebbe il tuo primo istinto se un amico disdicesse la sera prima?|
+miroir-705|Quale sarebbe la tua prima reazione se trovassi una banconota da dieci euro?|Quale sarebbe la tua prima reazione se trovassi una banconota da venti euro?|
+miroir-706|Che prezzo immagini per una notte in un hotel tre stelle in settimana?|Che prezzo immagini per una notte in un hotel tre stelle nel weekend?|
+miroir-707|Quanto tempo ti servirebbe per mettere in ordine una cameretta?|Quanto tempo ti servirebbe per mettere in ordine un grande salotto?|
+miroir-708|Se dovessi preparare un pasto per due, quale sarebbe la tua priorità?|Se dovessi preparare un pasto per quattro, quale sarebbe la tua priorità?|
+miroir-709|Oltre quale prezzo esiteresti a comprare un mazzo di cinque rose dal fiorista?|Oltre quale prezzo esiteresti a comprare un mazzo di quindici rose dal fiorista?|
+miroir-710|Cosa diresti sul momento se ti proponessero un caffè prima del lavoro?|Cosa diresti sul momento se ti proponessero un caffè dopo il lavoro?|
+miroir-711|In quanto tempo riusciresti a organizzare un’uscita di due ore?|In quanto tempo riusciresti a organizzare un’uscita di tre ore?|
+miroir-712|Quale accessorio ti sarebbe utile per preparare lo zaino per una giornata?|Quale accessorio ti sarebbe utile per preparare lo zaino per due giorni?|
+miroir-713|Di cosa avresti bisogno per leggere dieci pagine di un libro?|Di cosa avresti bisogno per leggere venti pagine di un libro?|
+miroir-714|Quanto tempo ti servirebbe per preparare lo zaino per una giornata?|Quanto tempo ti servirebbe per preparare lo zaino per due giorni?|
+miroir-715|Quale momento della giornata sceglieresti per leggere dieci pagine di un libro?|Quale momento della giornata sceglieresti per leggere venti pagine di un libro?|
+miroir-716|Che prezzo immagini per un posto in piedi nel parterre per un concerto al Forum di Assago?|Che prezzo immagini per un posto in tribuna per un concerto in un grande palazzetto?|Accor Arena → Forum di Assago
+miroir-717|Secondo te, qual è il prezzo di un biglietto di sola andata Milano–Roma in seconda classe per venerdì?|Secondo te, qual è il prezzo di un biglietto di sola andata Milano–Roma in seconda classe per sabato?|Paris–Lyon → Milano–Roma
+miroir-718|Quale budget massimo metteresti in conto per un pranzo in trattoria per due persone?|Quale budget massimo metteresti in conto per un pranzo in trattoria per tre persone?|brasserie → trattoria
+miroir-719|Cosa ti spingerebbe a comprare un mazzo di cinque rose dal fiorista?|Cosa ti spingerebbe a comprare un mazzo di quindici rose dal fiorista?|
+miroir-720|Quale fascia della giornata sarebbe la più comoda per fare la spesa per due pasti?|Quale fascia della giornata sarebbe la più comoda per fare la spesa per tre pasti?|
+miroir-721|Dove cercheresti per prima cosa un paio di sneakers da città nuove?|Dove cercheresti per prima cosa un paio di sneakers da città usate in buono stato?|
+miroir-722|Su quale sito o in quale negozio cercheresti un trolley da cabina morbido da 55 cm?|Su quale sito o in quale negozio cercheresti un trolley da cabina rigido da 55 cm?|
+miroir-723|Quale sarebbe l’aspetto più importante per organizzare un’uscita di due ore?|Quale sarebbe l’aspetto più importante per organizzare un’uscita di tre ore?|
+miroir-724|Quale sarebbe il tuo primo istinto se il tuo treno partisse tra dieci minuti?|Quale sarebbe il tuo primo istinto se il tuo treno partisse tra venti minuti?|
+miroir-725|In quale occasione vorresti comprare un mazzo di cinque rose dal fiorista?|In quale occasione vorresti comprare un mazzo di quindici rose dal fiorista?|
+miroir-726|Come reagiresti se un amico arrivasse con cinque minuti di ritardo?|Come reagiresti se un amico arrivasse con quindici minuti di ritardo?|
+miroir-727|Cosa faresti per prima cosa se ricevessi un invito per domani?|Cosa faresti per prima cosa se ricevessi un invito per stasera?|
+miroir-728|In quale momento della settimana preferiresti trovare un regalo per un amico?|In quale momento della settimana preferiresti trovare un regalo per due amici?|
+miroir-729|In quanto tempo riusciresti a rispondere a cinque messaggi?|In quanto tempo riusciresti a rispondere a dieci messaggi?|
+miroir-730|Quale fascia della giornata sarebbe la più comoda per scegliere una foto tra dieci?|Quale fascia della giornata sarebbe la più comoda per scegliere una foto tra venti?|
+miroir-731|In quale momento della settimana preferiresti preparare lo zaino per una giornata?|In quale momento della settimana preferiresti preparare lo zaino per due giorni?|
+miroir-732|Secondo te, quanto tempo ci vuole per preparare un pasto per due?|Secondo te, quanto tempo ci vuole per preparare un pasto per quattro?|
+miroir-733|Cosa faresti per prima cosa se il tuo amico dimenticasse il portafoglio?|Cosa faresti per prima cosa se il tuo amico dimenticasse il telefono?|
+miroir-734|Quale oggetto potrebbe aiutarti a fare la spesa per due pasti?|Quale oggetto potrebbe aiutarti a fare la spesa per tre pasti?|
+miroir-735|Quanto pensi che valga un paio di sneakers da città nuove?|Quanto pensi che valga un paio di sneakers da città usate in buono stato?|
+miroir-736|Quale sarebbe il momento migliore per preparare lo zaino per una giornata?|Quale sarebbe il momento migliore per preparare lo zaino per due giorni?|
+miroir-737|Quanto tempo ti servirebbe per trovare un regalo per un amico?|Quanto tempo ti servirebbe per trovare un regalo per due amici?|
+miroir-738|Quale frase ti uscirebbe di bocca se ricevessi un invito per domani?|Quale frase ti uscirebbe di bocca se ricevessi un invito per stasera?|
+miroir-739|Quale frase ti uscirebbe di bocca se un ristorante ti facesse aspettare dieci minuti?|Quale frase ti uscirebbe di bocca se un ristorante ti facesse aspettare trenta minuti?|
+miroir-740|Quale dettaglio controlleresti prima di rispondere a cinque messaggi?|Quale dettaglio controlleresti prima di rispondere a dieci messaggi?|
+miroir-741|Dove andresti a prenotare un pranzo in trattoria per due persone?|Dove andresti a prenotare un pranzo in trattoria per tre persone?|brasserie → trattoria
+miroir-742|In quale momento ti verrebbe voglia di comprare un biglietto del cinema a prezzo intero per uno spettacolo di mattina?|In quale momento ti verrebbe voglia di comprare un biglietto del cinema a prezzo intero per uno spettacolo di sera?|
+miroir-743|In quale posto andresti per trovare un abbonamento in palestra per un mese?|In quale posto andresti per trovare un abbonamento in palestra per tre mesi?|
+miroir-744|Quale sarebbe l’aspetto più importante per fare la spesa per due pasti?|Quale sarebbe l’aspetto più importante per fare la spesa per tre pasti?|
+miroir-745|Cosa diresti se un amico volesse andarsene alle otto di sera?|Cosa diresti se un amico volesse andarsene alle dieci di sera?|
+miroir-746|Quale accessorio ti sarebbe utile per trovare un regalo per un amico?|Quale accessorio ti sarebbe utile per trovare un regalo per due amici?|
+miroir-747|Oltre quale prezzo esiteresti a comprare un biglietto di sola andata Milano–Roma in seconda classe per venerdì?|Oltre quale prezzo esiteresti a comprare un biglietto di sola andata Milano–Roma in seconda classe per sabato?|Paris–Lyon → Milano–Roma
+miroir-748|Quanto saresti disposto a spendere per un trolley da cabina morbido da 55 cm?|Quanto saresti disposto a spendere per un trolley da cabina rigido da 55 cm?|
+miroir-749|Se dovessi preparare lo zaino per una giornata, quale sarebbe la tua priorità?|Se dovessi preparare lo zaino per due giorni, quale sarebbe la tua priorità?|
+miroir-750|Cosa diresti sul momento se la riunione venisse anticipata di quindici minuti?|Cosa diresti sul momento se la riunione venisse posticipata di quindici minuti?|
+miroir-751|In quale momento ti verrebbe voglia di comprare un paio di sneakers da città nuove?|In quale momento ti verrebbe voglia di comprare un paio di sneakers da città usate in buono stato?|
+miroir-752|Cosa faresti per prima cosa se un amico arrivasse con cinque minuti di ritardo?|Cosa faresti per prima cosa se un amico arrivasse con quindici minuti di ritardo?|
+miroir-753|Cosa ti spingerebbe a prenotare un pranzo in trattoria per due persone?|Cosa ti spingerebbe a prenotare un pranzo in trattoria per tre persone?|brasserie → trattoria
+miroir-754|Quale dettaglio controlleresti prima di leggere dieci pagine di un libro?|Quale dettaglio controlleresti prima di leggere venti pagine di un libro?|
+miroir-755|Quanto pensi che valga una notte in un hotel tre stelle in settimana?|Quanto pensi che valga una notte in un hotel tre stelle nel weekend?|
+miroir-756|Quanto tempo metteresti in conto per rispondere a cinque messaggi?|Quanto tempo metteresti in conto per rispondere a dieci messaggi?|
+miroir-757|Quale accessorio ti sarebbe utile per mettere in ordine una cameretta?|Quale accessorio ti sarebbe utile per mettere in ordine un grande salotto?|
+miroir-758|Di cosa avresti bisogno per organizzare un’uscita di due ore?|Di cosa avresti bisogno per organizzare un’uscita di tre ore?|
+miroir-759|Quale sarebbe il momento migliore per mettere in ordine una cameretta?|Quale sarebbe il momento migliore per mettere in ordine un grande salotto?|
+miroir-760|Quale dettaglio controlleresti prima di organizzare un’uscita di due ore?|Quale dettaglio controlleresti prima di organizzare un’uscita di tre ore?|
+miroir-761|Come risponderesti se la riunione venisse anticipata di quindici minuti?|Come risponderesti se la riunione venisse posticipata di quindici minuti?|
+miroir-762|Quale sarebbe il momento migliore per preparare un pasto per due?|Quale sarebbe il momento migliore per preparare un pasto per quattro?|
+miroir-763|Secondo te, qual è il prezzo di un mazzo di cinque rose dal fiorista?|Secondo te, qual è il prezzo di un mazzo di quindici rose dal fiorista?|
+miroir-764|In quale momento ti verrebbe voglia di comprare un posto in piedi nel parterre per un concerto al Forum di Assago?|In quale momento ti verrebbe voglia di comprare un posto in tribuna per un concerto in un grande palazzetto?|Accor Arena → Forum di Assago
+miroir-765|Quale sarebbe la tua difficoltà principale nel preparare un pasto per due?|Quale sarebbe la tua difficoltà principale nel preparare un pasto per quattro?|
+miroir-766|Quanto tempo metteresti in conto per leggere dieci pagine di un libro?|Quanto tempo metteresti in conto per leggere venti pagine di un libro?|
+miroir-767|Quale strumento sceglieresti per mettere in ordine una cameretta?|Quale strumento sceglieresti per mettere in ordine un grande salotto?|
+miroir-768|Quale dettaglio controlleresti prima di fare la spesa per due pasti?|Quale dettaglio controlleresti prima di fare la spesa per tre pasti?|
+miroir-769|Quale momento della giornata sceglieresti per organizzare un’uscita di due ore?|Quale momento della giornata sceglieresti per organizzare un’uscita di tre ore?|
+miroir-770|Dove andresti a comprare un caffè lungo da bere al bar?|Dove andresti a comprare un caffè lungo da asporto?|
+miroir-771|Fino a quanto pagheresti un trolley da cabina morbido da 55 cm?|Fino a quanto pagheresti un trolley da cabina rigido da 55 cm?|
+miroir-772|Quale sarebbe la tua prima reazione se il tuo treno partisse tra dieci minuti?|Quale sarebbe la tua prima reazione se il tuo treno partisse tra venti minuti?|
+miroir-773|In quale momento della settimana preferiresti mettere in ordine una cameretta?|In quale momento della settimana preferiresti mettere in ordine un grande salotto?|
+miroir-774|Dove andresti a comprare un abbonamento in palestra per un mese?|Dove andresti a comprare un abbonamento in palestra per tre mesi?|
+miroir-775|Di cosa avresti bisogno per fare la spesa per due pasti?|Di cosa avresti bisogno per fare la spesa per tre pasti?|
+miroir-776|Quale sarebbe l’aspetto più importante per rispondere a cinque messaggi?|Quale sarebbe l’aspetto più importante per rispondere a dieci messaggi?|
+miroir-777|Quale sarebbe la tua difficoltà principale nel trovare un regalo per un amico?|Quale sarebbe la tua difficoltà principale nel trovare un regalo per due amici?|
+miroir-778|In quale posto andresti per trovare un mazzo di cinque rose dal fiorista?|In quale posto andresti per trovare un mazzo di quindici rose dal fiorista?|
+miroir-779|Cosa diresti se il tuo amico dimenticasse il portafoglio?|Cosa diresti se il tuo amico dimenticasse il telefono?|
+miroir-780|Dove cercheresti per prima cosa un posto in piedi nel parterre per un concerto al Forum di Assago?|Dove cercheresti per prima cosa un posto in tribuna per un concerto in un grande palazzetto?|Accor Arena → Forum di Assago
+miroir-781|Secondo te, quanto costa un caffè lungo da bere al bar?|Secondo te, quanto costa un caffè lungo da asporto?|
+miroir-782|Secondo te, quanto costa un pranzo in trattoria per due persone?|Secondo te, quanto costa un pranzo in trattoria per tre persone?|brasserie → trattoria
+miroir-783|Quanto pensi che valga un biglietto del cinema a prezzo intero per uno spettacolo di mattina?|Quanto pensi che valga un biglietto del cinema a prezzo intero per uno spettacolo di sera?|
+miroir-784|Cosa diresti se ricevessi un invito per domani?|Cosa diresti se ricevessi un invito per stasera?|
+miroir-785|Quale sarebbe la tua prima reazione se la riunione venisse anticipata di quindici minuti?|Quale sarebbe la tua prima reazione se la riunione venisse posticipata di quindici minuti?|
+miroir-786|In quale momento della settimana preferiresti preparare un pasto per due?|In quale momento della settimana preferiresti preparare un pasto per quattro?|
+miroir-787|Che prezzo immagini per un biglietto del cinema a prezzo intero per uno spettacolo di mattina?|Che prezzo immagini per un biglietto del cinema a prezzo intero per uno spettacolo di sera?|
+miroir-788|In quanto tempo riusciresti a fare la spesa per due pasti?|In quanto tempo riusciresti a fare la spesa per tre pasti?|
+miroir-789|In quale situazione decideresti di comprare un paio di sneakers da città nuove?|In quale situazione decideresti di comprare un paio di sneakers da città usate in buono stato?|
+miroir-790|Se dovessi trovare un regalo per un amico, quale sarebbe la tua priorità?|Se dovessi trovare un regalo per due amici, quale sarebbe la tua priorità?|
+miroir-791|Che prezzo immagini per un paio di sneakers da città nuove?|Che prezzo immagini per un paio di sneakers da città usate in buono stato?|
+miroir-792|Oltre quale prezzo esiteresti a comprare un caffè lungo da bere al bar?|Oltre quale prezzo esiteresti a comprare un caffè lungo da asporto?|
+miroir-793|Che prezzo immagini per un trolley da cabina morbido da 55 cm?|Che prezzo immagini per un trolley da cabina rigido da 55 cm?|
+miroir-794|Quanto saresti disposto a spendere per un biglietto del cinema a prezzo intero per uno spettacolo di mattina?|Quanto saresti disposto a spendere per un biglietto del cinema a prezzo intero per uno spettacolo di sera?|
+miroir-795|Cosa faresti per prima cosa se un ristorante ti facesse aspettare dieci minuti?|Cosa faresti per prima cosa se un ristorante ti facesse aspettare trenta minuti?|

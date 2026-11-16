@@ -397,3 +397,103 @@ dilemmes-898|¿Cuánto tiempo crees que hace falta para decidir entre salir o de
 dilemmes-899|¿Qué harías primero si dudas entre hacer un regalo útil o uno original del mismo precio?|¿Qué harías primero si un amigo quiere cambiar un viaje dos días antes de salir?|
 dilemmes-900|¿Adónde irías para encontrar una escapada de dos noches en una casa rural cerca de casa?|¿Adónde irías para encontrar un jersey de lana de buena calidad?|gîte → casa rural
 dilemmes-901|¿Para qué ocasión querrías comprar una entrada de cine premium?|¿Para qué ocasión querrías contratar un seguro de viaje completo?|
+dilemmes-902|¿Adónde irías para comprar una entrada de cine premium?|¿Adónde irías para contratar un seguro de viaje completo?|
+spicy-001|¿Qué contestas si tu crush te escribe «Te echo de menos» a medianoche?|¿Qué contestas si tu crush te propone quedar esta noche, en el último momento?|
+spicy-002|¿Qué detalle de alguien te hace caer rendido en los primeros minutos?|¿Qué detalle puede cortarte el rollo ya en una primera cita?|
+spicy-003|¿Qué te delata cuando alguien te gusta en una fiesta?|¿Qué te delata cuando intentas esconder tus celos?|
+spicy-004|¿Qué piropo te gustaría recibir de tu crush?|¿Qué piropo no te atreverías a decirle a alguien que te gusta?|
+spicy-005|¿Qué sitio elegirías para un primer beso?|¿Qué sitio evitarías a toda costa para declararte?|
+spicy-006|¿Después de cuántas citas te atreverías a decir que te estás pillando?|¿Después de cuántas citas le presentarías a alguien a tus amigos?|
+spicy-007|¿Qué gesto discreto te hace darte cuenta de que alguien está ligando contigo?|¿Qué gesto discreto haces tú cuando alguien te gusta?|
+spicy-008|¿Qué canción pondrías para crear un ambiente romántico?|¿Qué canción evitarías durante una cita romántica?|
+spicy-009|¿A quién le contarías primero que tienes un nuevo crush?|¿A quién le pedirías consejo antes de escribirle a tu crush?|
+spicy-010|¿Qué sería lo primero que harías si tu crush te cogiera de la mano?|¿Qué sería lo primero que harías si tu crush te besara por sorpresa?|
+spicy-011|¿Qué restaurante elegirías para una primera cita en Madrid?|¿Qué restaurante evitarías para una cena romántica en Madrid?|Paris → Madrid
+spicy-012|¿Qué ropa elegirías para una primera cita en un restaurante?|¿Qué ropa no te atreverías a ponerte para una cita con tu crush?|
+spicy-013|¿Cuántos minutos de retraso aceptarías en una primera cita?|¿Cuántos minutos esperarías antes de escribir a alguien que no aparece?|
+spicy-014|¿Qué tema sacarías para romper el hielo en una primera cita?|¿Qué tema evitarías sacar durante los diez primeros minutos?|
+spicy-015|¿Qué excusa pondrías para acortar una cita que va fatal?|¿Qué excusa te inventarías para alargar una cita que va genial?|
+spicy-016|¿Qué dirías si la otra persona llegara con un ramo de flores?|¿Qué dirías si la otra persona propusiera pagar a medias?|
+spicy-017|¿Qué presupuesto calcularías para una primera cita en pareja, sin contar el transporte?|¿Qué presupuesto calcularías para una cena romántica en pareja, sin contar las bebidas?|
+spicy-018|¿Qué actividad propondrías para una segunda cita original pero sencilla?|¿Qué actividad rechazarías para una primera cita?|
+spicy-019|¿En qué momento de una cita te atreves a dar el primer paso?|¿En qué momento de una cita sabes que te quieres ir?|
+spicy-020|¿Qué señal te demuestra que una primera cita ha ido bien?|¿Qué señal te demuestra que la otra persona querría acortar la cita?|
+spicy-021|¿Cuánto tiempo esperas antes de escribir después de una buena cita?|¿Cuánto tiempo esperas antes de volver a escribir a un crush que ya no contesta?|
+spicy-022|¿Qué contestarías a un «¿Qué haces esta noche?» de tu crush?|¿Qué contestarías a un «Estaba pensando en ti» de tu ex?|
+spicy-023|¿Qué emoji mandarías para ligar sin ser demasiado directo?|¿Qué emoji no le mandarías nunca a un crush al principio?|
+spicy-024|¿Qué mensaje podrías mandar para proponer una cita sin presionar?|¿Qué mensaje podrías mandar para rechazar una cita con amabilidad?|
+spicy-025|¿Qué foto elegirías para llamar la atención de tu crush en Instagram?|¿Qué foto evitarías publicar cuando estás empezando a conocer a alguien?|
+spicy-026|¿Qué dirías si le mandaras un corazón a la persona equivocada?|¿Qué dirías si tu crush viera un mensaje que querías borrar?|
+spicy-027|¿Después de cuántos mensajes sueles proponer quedar?|¿Después de cuántos días sin respuesta das la conversación por terminada?|
+spicy-028|¿Qué detalle de un perfil de citas te da ganas de escribir?|¿Qué detalle de un perfil de citas te hace pasar al siguiente al instante?|
+spicy-029|¿Cómo reaccionarías a un «Visto» sin respuesta durante todo un día?|¿Cómo reaccionarías a un mensaje de tu crush enviado a las 3 de la mañana?|
+spicy-030|¿A quién le enseñarías una conversación ambigua para pedirle su opinión?|¿A quién le pedirías que revisara un mensaje importante antes de enviarlo?|
+spicy-031|¿Dónde prefieres conocer a alguien: en un bar, en una cafetería o en una fiesta?|¿Dónde no te gustaría nada encontrarte con tu ex un sábado por la noche?|
+spicy-032|¿Qué frase usarías para entrarle a alguien en una fiesta?|¿Qué frase te haría salir corriendo si alguien te entrara en una fiesta?|
+spicy-033|¿Qué podría hacer que te quedaras más tiempo en una fiesta?|¿Qué haría que te fueras de una fiesta antes de medianoche?|
+spicy-034|¿Qué canción te daría ganas de bailar con tu crush?|¿Qué canción te haría salir de la pista de baile al instante?|
+spicy-035|¿Qué bebida pedirías al tomar algo por primera vez con tu crush?|¿Qué bebida rechazarías antes de ir a hablar con alguien que te gusta?|
+spicy-036|¿A qué amigo le confesarías que has visto a alguien guapo?|¿A qué amigo le pedirías que viniera a rescatarte de una conversación incómoda?|
+spicy-037|¿Qué harías si un amigo intentara presentarte a alguien que no te gusta?|¿Qué harías si dos personas te propusieran bailar a la vez?|
+spicy-038|¿Qué complemento llevarías para sentirte atractivo en una fiesta?|¿Qué complemento podría arruinar por completo tu look de fiesta?|
+spicy-039|¿Qué baile te atreverías a hacer delante de alguien que te gusta?|¿Qué baile te negarías a hacer delante de toda la fiesta?|
+spicy-040|¿Qué tema sacarías para ligar en una cola?|¿Qué tema sacarías para cortar a alguien que intenta ligar contigo con insistencia?|
+spicy-041|¿Qué rasgo de carácter te seduce más que el físico?|¿Qué rasgo de carácter te hace perder el interés al instante?|
+spicy-042|¿Qué cualidad de alguien te da ganas de volver a verle?|¿Qué cualidad de alguien te hace sentir en confianza?|
+spicy-043|¿Qué mirada te hace darte cuenta de que hay química?|¿Qué mirada te incomodaría en una cita?|
+spicy-044|¿Qué detalle físico te fijas primero en alguien que te gusta?|¿Qué detalle del estilo de alguien te atrae más?|
+spicy-045|¿Qué perfume u olor te recuerda a una cita memorable?|¿Qué perfume u olor te haría caer rendido en una primera cita?|
+spicy-046|¿Qué detalle romántico vale más que un regalo caro?|¿Qué detalle romántico te incomodaría en público?|
+spicy-047|¿Qué dirías si te dijeran «Tienes una sonrisa increíble»?|¿Qué dirías si te dijeran «Esta noche he soñado contigo»?|
+spicy-048|¿Qué apodo cariñoso te haría sonreír?|¿Qué apodo cariñoso te haría poner mala cara?|
+spicy-049|¿Qué prenda te da más seguridad para seducir?|¿Qué prenda te parece la más elegante para una cita?|
+spicy-050|¿Qué pequeño gesto te hace sentir deseado sin que haga falta decir nada?|¿Qué pequeño gesto usas para mostrar interés sin confesarlo?|
+spicy-051|¿Qué frase te saldría si llamaras a tu crush por un nombre que no es el suyo?|¿Qué frase te saldría si tropezaras al llegar a una cita?|
+spicy-052|¿Qué harías si te encontraras con tu ex en el restaurante durante una primera cita?|¿Qué harías si tus padres aparecieran en el mismo bar que tu cita?|
+spicy-053|¿Cuál sería tu reacción si tu crush descubriera tus fotos de perfil antiguas?|¿Cuál sería tu reacción si un amigo contara delante de tu crush las peores calabazas que te han dado?|
+spicy-054|¿Qué mentirijilla podrías decir después de tirar una copa en la mesa?|¿Qué mentirijilla podrías decir después de olvidarte de la hora de la cita?|
+spicy-055|¿Qué dirías si un camarero llamara a tu cita «su pareja» en la primera cita?|¿Qué dirías si un desconocido os preguntara cuánto tiempo lleváis juntos?|
+spicy-056|¿Qué objeto sería el más vergonzoso que se te cayera del bolso delante de un crush?|¿Qué objeto sería el más vergonzoso que te dejaras en casa de alguien después de una cita?|
+spicy-057|¿De qué tema intentarías cambiar si alguien cercano contara una anécdota vergonzosa?|¿De qué tema intentarías cambiar si te preguntaran por tu peor recuerdo amoroso?|
+spicy-058|¿Qué ruido te incomodaría más durante una cena romántica?|¿Qué ruido te incomodaría más durante un silencio con tu crush?|
+spicy-059|¿A quién le mandarías un SOS si te quedaras atrapado en una cita interminable?|¿A quién le contarías una metedura de pata monumental en una cita?|
+spicy-060|¿Qué excusa pondrías para justificar una mancha en la camisa en plena cita?|¿Qué excusa pondrías si olvidaras el nombre de la persona a la que acabas de besar?|
+spicy-061|¿Qué contestarías si tu ex te escribiera «¿Podemos hablar?» después de un año?|¿Qué contestarías si tu ex te propusiera tomar un café justo antes de tu cumpleaños?|
+spicy-062|¿En qué sitio evitarías volver a cruzarte con tu ex y su nueva pareja?|¿En qué sitio te sorprendería más encontrarte con un antiguo crush?|
+spicy-063|¿Qué canción te recuerda a una relación pasada?|¿Qué canción no querrías oír durante una nueva cita?|
+spicy-064|¿Qué objeto podrías seguir guardando de una relación pasada?|¿Qué objeto te costaría devolver después de una ruptura?|
+spicy-065|¿Cuánto tiempo esperarías después de una ruptura antes de tener una nueva cita?|¿Cuánto tiempo esperarías después de una ruptura antes de borrar las fotos de pareja?|
+spicy-066|¿Qué pregunta te negarías a hacerle a tu ex si te lo volvieras a cruzar?|¿Qué pregunta te atreverías a hacerle a un antiguo crush años después?|
+spicy-067|¿Qué harías si tu ex te pidiera ayuda para elegir un regalo para su nueva pareja?|¿Qué harías si tu ex de repente diera like a todas tus fotos antiguas?|
+spicy-068|¿A qué amigo le pedirías consejo antes de contestar a tu ex?|¿A qué amigo le contarías un encuentro inesperado con tu ex?|
+spicy-069|¿Qué comportamiento te convencería de no volver a darle nunca otra oportunidad a un ex?|¿Qué comportamiento te convencería de que una persona ha cambiado de verdad?|
+spicy-070|¿Qué recuerdo de una cita pasada todavía te haría reír hoy?|¿Qué recuerdo de una cita pasada todavía te haría ponerte rojo hoy?|
+spicy-071|¿Qué actitud te da ganas de terminar una cita de inmediato?|¿Qué actitud te incomodaría en una cena entre parejas?|
+spicy-072|¿Qué dirías si alguien insistiera en besarte cuando no te apetece?|¿Qué dirías si alguien quisiera cotillear tu móvil?|
+spicy-073|¿Qué tema prefieres mantener en privado al principio de una relación?|¿Qué tema prefieres hablar antes de empezar una relación?|
+spicy-074|¿Qué límite le pondrías a alguien que te manda cincuenta mensajes al día?|¿Qué límite le pondrías a alguien que quiere saber todas tus contraseñas?|
+spicy-075|¿Qué comportamiento demuestra que una persona respeta tu espacio?|¿Qué comportamiento demuestra que una persona sabe aceptar un no?|
+spicy-076|¿Qué señal te indicaría que es hora de volver a casa después de una fiesta?|¿Qué señal te indicaría que una cita no te hace sentir cómodo?|
+spicy-077|¿Qué frase usarías para decir «Prefiero ir con calma»?|¿Qué frase usarías para decir «No quiero ir más allá»?|
+spicy-078|¿Qué sacrificio estarías dispuesto a hacer por una relación a distancia?|¿Qué sacrificio te negarías a hacer por una nueva relación?|
+spicy-079|¿Qué información personal no darías en una primera cita?|¿Qué información personal no publicarías nunca en una app de citas?|
+spicy-080|¿A quién llamarías si una cita fuera fatal?|¿A quién llamarías si quisieras irte de una fiesta sin explicar por qué?|
+spicy-081|¿Qué pequeño ritual te gustaría tener con tu pareja cada mañana?|¿Qué pequeño ritual te gustaría compartir los domingos por la noche?|
+spicy-082|¿Qué sorpresa organizarías para un aniversario de pareja?|¿Qué sorpresa organizarías después de una semana difícil?|
+spicy-083|¿Qué actividad te gustaría probar con tu pareja un viernes por la noche?|¿Qué actividad evitarías hacer juntos en un primer fin de semana?|
+spicy-084|¿Qué defecto del día a día podrías aceptar fácilmente en alguien?|¿Qué defecto del día a día te haría perder la paciencia enseguida?|
+spicy-085|¿Qué plato cocinarías para impresionar a tu pareja?|¿Qué plato evitarías servir en una cena romántica en casa?|
+spicy-086|¿Qué rincón de la casa elegirías para una cena con velas?|¿Qué rincón de la casa elegirías para hablar con calma después de una discusión?|
+spicy-087|¿A qué hora te gustaría recibir un mensaje cariñoso de tu pareja?|¿A qué hora te gustaría salir para un fin de semana sorpresa en pareja?|
+spicy-088|¿Qué gesto podría reconciliar a una pareja después de una pequeña discusión?|¿Qué gesto podría estropear una reconciliación que iba bien encaminada?|
+spicy-089|¿Qué regalo personal harías después de seis meses de relación?|¿Qué regalo evitarías hacer después de solo dos semanas?|
+spicy-090|¿Qué costumbre de pareja te parece especialmente mona?|¿Qué costumbre de pareja te parecería agobiante?|
+spicy-091|¿Qué primera frase te engancharía en una app de citas?|¿Qué primera frase te daría ganas de cerrar la conversación?|
+spicy-092|¿Qué foto pondrías la primera en tu perfil de citas?|¿Qué foto borrarías al instante de un perfil de citas?|
+spicy-093|¿Cuántos días hablarías por una app antes de proponer un café?|¿Cuántos días aceptarías hablar sin llegar nunca a quedar?|
+spicy-094|¿Qué detalle de una bio de citas te haría sonreír?|¿Qué detalle de una bio de citas te haría pasar al siguiente perfil?|
+spicy-095|¿Qué contestarías a un «No busco nada serio»?|¿Qué contestarías a un «Quiero ir muy rápido»?|
+spicy-096|¿Qué lugar público propondrías para conocer a una persona con la que has hablado en internet?|¿Qué lugar público evitarías para una primerísima cita?|
+spicy-097|¿Qué filtro de búsqueda usarías primero en una app de citas?|¿Qué criterio de perfil te parece el menos importante?|
+spicy-098|¿En qué momento dejarías de hablar con varias personas a la vez?|¿En qué momento borrarías una app de citas?|
+spicy-099|¿Qué mensaje mandarías después de una cita agradable para proponer volver a veros?|¿Qué mensaje mandarías después de una cita sin química para quedar bien?|
