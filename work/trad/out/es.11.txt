@@ -98,3 +98,103 @@ luxe-reve-097|¿Qué regalo de lujo le harías a alguien cercano apasionado de l
 luxe-reve-098|¿En qué te gastarías primero un presupuesto excepcional para comprar una casa frente al mar?|¿En qué gasto te centrarías para montar el despacho de tus sueños en casa con un presupuesto enorme?|
 luxe-reve-099|¿Cuánto dinero estarías dispuesto a dedicar a una cata privada para cuatro comensales?|¿Qué presupuesto reservarías para una noche en una suite con jacuzzi privado?|
 luxe-reve-100|¿Qué experiencia soñarías con vivir durante una estancia en Bora Bora?|¿Qué actividad excepcional te gustaría probar durante un viaje por la costa amalfitana?|
+luxe-reve-101|¿Cuánto es lo máximo que pagarías por un frasco de 100 ml de perfume de nicho?|¿Cuánto podrías gastarte en una noche en una villa privada en Maldivas si tu presupuesto lo permitiera?|
+luxe-reve-102|¿Qué elegirías si te dieran a elegir entre una suite con vistas al mar y una villa en plena selva?|¿Qué opción preferirías si te ofrecieran una bodega de vinos de alta gama o una cocina de chef?|
+luxe-reve-103|¿En qué ciudad te gustaría pasar una noche en una azotea exclusiva?|¿Qué ciudad elegirías para pasar una Nochevieja en un sitio excepcional?|
+luxe-reve-104|¿Qué dirías si una marca te invitara a una presentación privada de su colección?|¿Qué frase te saldría si un hotel te subiera gratis de categoría a su mejor suite?|
+luxe-reve-105|¿Cuántos días te gustaría dedicar a una estancia en un chalet con spa en Courchevel?|¿Qué duración ideal planearías para una expedición de lujo para ver auroras boreales?|
+luxe-reve-106|¿Qué detalle te haría más ilusión en un fin de semana en un castillo-hotel?|¿Qué detalle te marcaría más durante una sesión de estilismo en una casa de alta costura?|
+luxe-reve-107|¿Qué regalo de lujo le harías a un hermano que sueña con aprender a pilotar?|¿Qué regalo excepcional le harías a un amigo que colecciona objetos vintage?|
+luxe-reve-108|¿En qué te gastarías primero un presupuesto excepcional para organizar un fin de semana de fiesta para veinte personas?|¿En qué gasto te centrarías para organizar una boda de cincuenta invitados con un presupuesto enorme?|
+luxe-reve-109|¿Cuánto dinero estarías dispuesto a dedicar a alquilar un descapotable de alta gama durante dos días?|¿Qué presupuesto reservarías para un día de golf en un complejo de prestigio?|
+luxe-reve-110|¿Qué experiencia soñarías con vivir durante un viaje por el norte de Italia?|¿Qué actividad excepcional te gustaría probar durante una estancia en una isla de las Seychelles?|
+luxe-reve-111|¿Cuánto es lo máximo que pagarías por una entrada VIP con acceso al backstage de un concierto?|¿Cuánto podrías gastarte en un trayecto de larga distancia en un tren de lujo si tu presupuesto lo permitiera?|
+luxe-reve-112|¿Qué elegirías si te regalaran una cena con un chef famoso o una clase privada con él?|¿Qué opción preferirías si te regalaran un espectáculo privado o un viaje sorpresa para dos?|
+luxe-reve-113|¿En qué ciudad te gustaría vivir durante un mes en un alojamiento excepcional?|¿Qué ciudad elegirías para pasar una semana en un hotel de cinco estrellas?|
+luxe-reve-114|¿Qué dirías si te regalaran una noche en una suite con una terraza enorme?|¿Qué frase te saldría si un chófer viniera a recogerte en limusina?|
+luxe-reve-115|¿Cuántos días te gustaría dedicar a una escapada en yate por la costa amalfitana?|¿Qué duración ideal planearías para una escapada por los hoteles de gran lujo de Londres?|
+luxe-reve-116|¿Qué detalle te haría más ilusión en una cena preparada por un chef a domicilio?|¿Qué detalle te marcaría más durante una Nochevieja con servicio de conserjería?|
+luxe-reve-117|¿Qué regalo de lujo le harías a una pareja que acaba de comprarse una casa?|¿Qué regalo excepcional les harías a tus padres por sus treinta años de casados?|
+luxe-reve-118|¿En qué te gastarías primero un presupuesto excepcional para reformar una casa de campo antigua?|¿En qué gasto te centrarías para reformar un piso de 100 m² con un presupuesto enorme?|
+luxe-reve-119|¿Cuánto dinero estarías dispuesto a dedicar a un día en barco con patrón?|¿Qué presupuesto reservarías para una experiencia gastronómica con chef a domicilio para seis?|
+luxe-reve-120|¿Qué experiencia soñarías con vivir durante una escapada a un hotel de gran lujo en París?|¿Qué actividad excepcional te gustaría probar durante un viaje gastronómico a Barcelona?|
+luxe-reve-121|¿Cuánto es lo máximo que pagarías por una estancia de tres noches en un chalet de lujo?|¿Cuánto podrías gastarte en un bolso de una casa de alta costura si tu presupuesto lo permitiera?|
+luxe-reve-122|¿Qué elegirías si te ofrecieran un fin de semana en Mónaco o una semana en los Alpes?|¿Qué opción preferirías si te regalaran una semana en un hotel de gran lujo o un mes en un piso precioso?|
+luxe-reve-123|¿En qué ciudad te gustaría reservar una sesión de compras con estilista?|¿Qué ciudad elegirías para pasar un día de compras con presupuesto ilimitado?|
+luxe-reve-124|¿Qué dirías si un chef te propusiera crear un plato con tu nombre?|¿Qué frase te saldría si un camarero te anunciara un menú sorpresa de 500 €?|
+luxe-reve-125|¿Cuántos días te gustaría dedicar a un viaje a Dubái con visitas y excursiones privadas?|¿Qué duración ideal planearías para una estancia en Bora Bora en un bungalow sobre el agua?|
+luxe-reve-126|¿Qué detalle te haría más ilusión en un vuelo panorámico en helicóptero?|¿Qué detalle te marcaría más durante una estancia en una suite de hotel por un cumpleaños importante?|
+luxe-reve-127|¿Qué regalo de lujo le harías a un amigo al que le encantan los hoteles históricos?|¿Qué regalo excepcional le harías a un amigo que acaba de montar su empresa?|
+luxe-reve-128|¿En qué te gastarías primero un presupuesto excepcional para preparar una sorpresa a toda tu familia?|¿En qué gasto te centrarías para preparar una luna de miel de dos semanas con un presupuesto enorme?|
+luxe-reve-129|¿Cuánto dinero estarías dispuesto a dedicar a una semana en un chalet con piscina?|¿Qué presupuesto reservarías para una estancia de tres días en una capital europea?|
+luxe-reve-130|¿Qué experiencia soñarías con vivir durante una estancia en los viñedos de Burdeos?|¿Qué actividad excepcional te gustaría probar durante una estancia de lujo en Nueva York?|
+luxe-reve-131|¿Cuánto es lo máximo que pagarías por una cata privada en una gran bodega?|¿Cuánto podrías gastarte en una noche con desayuno en un hotel de gran lujo de Madrid si tu presupuesto lo permitiera?|palace parisien → hotel de gran lujo de Madrid
+luxe-reve-132|¿Qué elegirías si te regalaran un superdeportivo para un día o un descapotable para una semana?|¿Qué opción preferirías si te ofrecieran un coche de colección o un deportivo nuevo?|
+luxe-reve-133|¿En qué ciudad te gustaría asistir a un desfile de moda importante?|¿Qué ciudad elegirías para reservar mesa en un gran restaurante gastronómico?|
+luxe-reve-134|¿Qué dirías si un joyero te propusiera diseñar una joya única?|¿Qué frase te saldría si un amigo te invitara a su villa con piscina infinita?|
+luxe-reve-135|¿Cuántos días te gustaría dedicar a una estancia en un lodge de lujo en Namibia?|¿Qué duración ideal planearías para una estancia en una villa con piscina en Santorini?|
+luxe-reve-136|¿Qué detalle te haría más ilusión en una excursión privada en barco?|¿Qué detalle te marcaría más durante una cena en un restaurante gastronómico?|
+luxe-reve-137|¿Qué regalo de lujo le harías a alguien que trabaja mucho y quiere descansar?|¿Qué regalo excepcional le harías a una hermana que cumple treinta años?|
+luxe-reve-138|¿En qué te gastarías primero un presupuesto excepcional para convertir tu salón en una sala de cine?|¿En qué gasto te centrarías para organizar un cumpleaños para cuarenta amigos con un presupuesto enorme?|
+luxe-reve-139|¿Cuánto dinero estarías dispuesto a dedicar a un brunch en un gran hotel para cuatro personas?|¿Qué presupuesto reservarías para un fin de semana romántico en un hotel de cinco estrellas?|
+luxe-reve-140|¿Qué experiencia soñarías con vivir durante una semana en las islas griegas?|¿Qué actividad excepcional te gustaría probar durante una semana en una villa en Bali?|
+luxe-reve-141|¿Cuánto es lo máximo que pagarías por un traje hecho totalmente a medida?|¿Cuánto podrías gastarte en una cena de menú degustación en un restaurante con estrella si tu presupuesto lo permitiera?|
+luxe-reve-142|¿Qué elegirías si te ofrecieran un piso señorial de época o un loft moderno?|¿Qué opción preferirías si te regalaran un viaje en primera clase o una estancia más larga en turista?|appartement haussmannien → piso señorial de época
+luxe-reve-143|¿A qué ciudad chic te gustaría irte con tu mejor amigo?|¿Qué ciudad elegirías para alquilar una suite con vistas espectaculares por tu cumpleaños?|
+luxe-reve-144|¿Qué dirías si un dependiente te contara que hay dos años de espera para un bolso muy codiciado?|¿Qué frase te saldría si una tienda te propusiera probarte un reloj de 80.000 €?|
+luxe-reve-145|¿Cuántos días te gustaría dedicar a una ruta por villas balinesas frente al mar?|¿Qué duración ideal planearías para un road trip en coche de lujo por la costa italiana?|
+luxe-reve-146|¿Qué detalle te haría más ilusión en un viaje sorpresa organizado por tus seres queridos?|¿Qué detalle te marcaría más durante un vuelo de doce horas en primera clase?|
+luxe-reve-147|¿Qué regalo de lujo le harías a alguien cercano que sueña con ver auroras boreales?|¿Qué regalo excepcional le harías a tu pareja por un aniversario especial?|
+luxe-reve-148|¿En qué te gastarías primero un presupuesto excepcional para diseñar una terraza con vistas a la ciudad?|¿En qué gasto te centrarías para montar el jardín de una casa con un presupuesto enorme?|
+luxe-reve-149|¿Cuánto dinero estarías dispuesto a dedicar a una visita privada a un museo para dos personas?|¿Qué presupuesto reservarías para una cena gastronómica para dos personas?|
+luxe-reve-150|¿Qué experiencia soñarías con vivir durante un viaje a Dubái con hotel de cinco estrellas?|¿Qué actividad excepcional te gustaría probar durante un viaje privado a Egipto?|
+luxe-reve-151|¿Cuánto es lo máximo que pagarías por un vuelo panorámico de treinta minutos en helicóptero?|¿Cuánto podrías gastarte en un vuelo solo de ida Madrid–Tokio en business si tu presupuesto lo permitiera?|Paris–Tokyo → Madrid–Tokio
+luxe-reve-152|¿Qué elegirías si te regalaran una piscina climatizada o un cine privado en casa?|¿Qué opción preferirías si te dieran a elegir entre una villa con piscina y un ático en la ciudad?|
+luxe-reve-153|¿En qué ciudad te gustaría reservar una cena privada con vistas a la ciudad?|¿Qué ciudad elegirías para ir a una gala elegante?|
+luxe-reve-154|¿Qué dirías si un amigo te enseñara un garaje lleno de coches exclusivos?|¿Qué frase te saldría si un piloto te anunciara que te suben a primera clase?|
+luxe-reve-155|¿Cuántos días te gustaría dedicar a un viaje fotográfico de alta gama por Islandia?|¿Qué duración ideal planearías para un crucero privado por las islas griegas?|
+luxe-reve-156|¿Qué detalle te haría más ilusión en una cata privada con un sumiller?|¿Qué detalle te marcaría más durante una estancia en una villa de vacaciones con personal propio?|
+luxe-reve-157|¿Qué regalo de lujo le harías a una amiga apasionada de la decoración de interiores?|¿Qué regalo excepcional le harías a una amiga a la que le encanta viajar?|
+luxe-reve-158|¿En qué te gastarías primero un presupuesto excepcional para organizar una gran cena gastronómica en casa?|¿En qué gasto te centrarías para diseñar una cocina digna de un restaurante con un presupuesto enorme?|
+luxe-reve-159|¿Cuánto dinero estarías dispuesto a dedicar a un cumpleaños sorpresa en una villa alquilada?|¿Qué presupuesto reservarías para un día entero con chófer privado?|
+luxe-reve-160|¿Qué experiencia soñarías con vivir durante una estancia en Los Ángeles con coche de alquiler?|¿Qué actividad excepcional te gustaría probar durante una escapada a los Alpes suizos?|
+luxe-reve-161|¿Cuánto es lo máximo que pagarías por un anillo de oro personalizado por un artesano?|¿Cuánto podrías gastarte en un reloj mecánico de una gran marca si tu presupuesto lo permitiera?|
+luxe-reve-162|¿Qué elegirías si te ofrecieran un safari fotográfico de lujo o un crucero por los fiordos?|¿Qué opción preferirías si te regalaran un chef privado a domicilio o una mesa en un restaurante con estrella?|
+luxe-reve-163|¿En qué ciudad te gustaría pasar la Navidad en un hotel decorado con mimo?|¿Qué ciudad elegirías para dar una vuelta en coche de lujo con chófer?|
+luxe-reve-164|¿Qué dirías si un organizador te invitara a un palco privado para una final?|¿Qué frase te saldría si un conserje te dijera que puede organizar cualquier sorpresa?|
+luxe-reve-165|¿Cuántos días te gustaría dedicar a una estancia en un hotel histórico de Venecia?|¿Qué duración ideal planearías para un safari de alta gama en Kenia?|
+luxe-reve-166|¿Qué detalle te haría más ilusión en una noche en un hotel de gran lujo con vistas al mar?|¿Qué detalle te marcaría más durante una experiencia de compras privada?|
+luxe-reve-167|¿Qué regalo de lujo le harías a un amigo al que le encantan los grandes conciertos?|¿Qué regalo excepcional le harías a alguien cercano apasionado de los coches?|
+luxe-reve-168|¿En qué te gastarías primero un presupuesto excepcional para montar una zona de bienestar en casa?|¿En qué gasto te centrarías para crear un armario para todo el año con un presupuesto enorme?|
+luxe-reve-169|¿Cuánto dinero estarías dispuesto a dedicar a una noche en una suite con jacuzzi privado?|¿Qué presupuesto reservarías para una sesión de compras con personal shopper?|
+luxe-reve-170|¿Qué experiencia soñarías con vivir durante una escapada de lujo a Escocia?|¿Qué actividad excepcional te gustaría probar durante un crucero por el Mediterráneo?|
+luxe-reve-171|¿Cuánto es lo máximo que pagarías por una noche en una villa privada en Maldivas?|¿Cuánto podrías gastarte en una bolsa de viaje de piel hecha a mano si tu presupuesto lo permitiera?|
+luxe-reve-172|¿Qué elegirías si te regalaran un vestido de diseñador o un conjunto totalmente personalizado?|¿Qué opción preferirías si te ofrecieran un reloj de colección o una joya única?|
+luxe-reve-173|¿En qué ciudad te gustaría organizar una fiesta elegante para veinte personas?|¿Qué ciudad elegirías para comprarte un piso con terraza panorámica?|
+luxe-reve-174|¿Qué dirías si un hotel te anunciara que el desayuno te lo sirve un mayordomo?|¿Qué frase te saldría si un restaurante te propusiera reservar un salón entero solo para ti?|
+luxe-reve-175|¿Cuántos días te gustaría dedicar a una expedición de lujo para ver auroras boreales?|¿Qué duración ideal planearías para un viaje en tren de lujo por Europa?|
+luxe-reve-176|¿Qué detalle te haría más ilusión en una visita guiada exclusiva a un museo?|¿Qué detalle te marcaría más durante un día de spa en un hotel de lujo?|
+luxe-reve-177|¿Qué regalo de lujo le harías a alguien a quien le encantan las joyas personalizadas?|¿Qué regalo excepcional le harías a alguien que colecciona relojes?|
+luxe-reve-178|¿En qué te gastarías primero un presupuesto excepcional para hacer un viaje en tren por varios continentes?|¿En qué gasto te centrarías para tomarte seis meses sabáticos con un presupuesto enorme?|
+luxe-reve-179|¿Cuánto dinero estarías dispuesto a dedicar a un día de golf en un complejo de prestigio?|¿Qué presupuesto reservarías para una fiesta privada en una azotea?|
+luxe-reve-180|¿Qué experiencia soñarías con vivir durante un viaje por la costa amalfitana?|¿Qué actividad excepcional te gustaría probar durante un safari de alta gama en Tanzania?|
+luxe-reve-181|¿Cuánto es lo máximo que pagarías por un trayecto de larga distancia en un tren de lujo?|¿Cuánto podrías gastarte en una noche en una suite con piscina privada en Bali si tu presupuesto lo permitiera?|
+luxe-reve-182|¿Qué elegirías si te ofrecieran una bodega de vinos de alta gama o una cocina de chef?|¿Qué opción preferirías si te regalaran un yate con tripulación o una casa de vacaciones aislada?|
+luxe-reve-183|¿En qué ciudad te gustaría alquilar un piso de lujo con servicio de conserjería?|¿Qué ciudad elegirías para que tus padres conocieran un hotel de gran lujo?|
+luxe-reve-184|¿Qué dirías si te propusieran un viaje en jet privado por tu cumpleaños?|¿Qué frase te saldría si un anfitrión te prestara un deportivo para el fin de semana?|
+luxe-reve-185|¿Cuántos días te gustaría dedicar a una escapada por los hoteles de gran lujo de Londres?|¿Qué duración ideal planearías para una estancia de bienestar en un hotel de gran lujo en Suiza?|
+luxe-reve-186|¿Qué detalle te haría más ilusión en una sesión de estilismo en una casa de alta costura?|¿Qué detalle te marcaría más durante un crucero privado de tres días?|
+luxe-reve-187|¿Qué regalo de lujo le harías a una pareja que celebra diez años juntos?|¿Qué regalo excepcional le harías a un amigo amante de la buena cocina?|
+luxe-reve-188|¿En qué te gastarías primero un presupuesto excepcional para preparar una luna de miel en las islas?|¿En qué gasto te centrarías para irte a recorrer el mundo durante un año con un presupuesto enorme?|
+luxe-reve-189|¿Cuánto dinero estarías dispuesto a dedicar a una experiencia gastronómica con chef a domicilio para seis?|¿Qué presupuesto reservarías para una noche en un bungalow sobre el agua?|
+luxe-reve-190|¿Qué experiencia soñarías con vivir durante una estancia en una isla de las Seychelles?|¿Qué actividad excepcional te gustaría probar durante un fin de semana elegante en Mónaco?|
+luxe-reve-191|¿Cuánto es lo máximo que pagarías por un bolso de una casa de alta costura?|¿Cuánto podrías gastarte en una sesión de fotos con un fotógrafo de moda reconocido si tu presupuesto lo permitiera?|
+luxe-reve-192|¿Qué elegirías si te regalaran un espectáculo privado o un viaje sorpresa para dos?|¿Qué opción preferirías si te ofrecieran entradas VIP para un festival o para una final deportiva?|
+luxe-reve-193|¿En qué ciudad te gustaría pasar una Nochevieja en un sitio excepcional?|¿Qué ciudad elegirías para pasar un fin de semana en un spa de renombre?|
+luxe-reve-194|¿Qué dirías si alguien cercano te contara que ha reservado una villa entera para vosotros?|¿Qué frase te saldría si un hotel te hubiera preparado una sorpresa por tu cumpleaños?|
+luxe-reve-195|¿Cuántos días te gustaría dedicar a una estancia en Bora Bora en un bungalow sobre el agua?|¿Qué duración ideal planearías para descubrir los mejores restaurantes de Tokio?|
+luxe-reve-196|¿Qué detalle te haría más ilusión en una Nochevieja con servicio de conserjería?|¿Qué detalle te marcaría más durante una escapada romántica en un chalet?|
+luxe-reve-197|¿Qué regalo de lujo le harías a un amigo que colecciona objetos vintage?|¿Qué regalo excepcional le harías a una amiga a la que le interesa la moda?|
+luxe-reve-198|¿En qué te gastarías primero un presupuesto excepcional para montar el despacho de tus sueños en casa?|¿En qué gasto te centrarías para comprar una casa frente al mar con un presupuesto enorme?|
+luxe-reve-199|¿Cuánto dinero estarías dispuesto a dedicar a una estancia de tres días en una capital europea?|¿Qué presupuesto reservarías para un vuelo Madrid–Palma con asiento premium?|Paris–Nice → Madrid–Palma
+luxe-reve-200|¿Qué experiencia soñarías con vivir durante un viaje gastronómico a Barcelona?|¿Qué actividad excepcional te gustaría probar durante un viaje de lujo a Tokio?|

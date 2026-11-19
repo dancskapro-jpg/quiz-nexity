@@ -98,3 +98,103 @@ miroir-693|Welches Zeitfenster am Tag wäre am praktischsten, um einen zweistün
 miroir-694|In welcher Situation würdest du dich entscheiden, eine Übernachtung in einem Drei-Sterne-Hotel unter der Woche zu buchen?|In welcher Situation würdest du dich entscheiden, eine Übernachtung in einem Drei-Sterne-Hotel am Wochenende zu buchen?|
 miroir-695|Bis zu wie viel würdest du für einen Stehplatz im Innenraum bei einem Konzert in der Lanxess Arena zahlen?|Bis zu wie viel würdest du für einen Tribünenplatz bei einem Konzert in einer großen Halle zahlen?|Accor Arena → Lanxess Arena
 miroir-696|Welches Hilfsmittel würdest du wählen, um zwei Kilometer zu Fuß zu gehen?|Welches Hilfsmittel würdest du wählen, um drei Kilometer zu Fuß zu gehen?|
+miroir-697|Was wäre für dich die größte Schwierigkeit beim Aufräumen eines kleinen Zimmers?|Was wäre für dich die größte Schwierigkeit beim Aufräumen eines großen Wohnzimmers?|
+miroir-698|Zu welchem Anlass würdest du eine einfache Fahrt Berlin–München in der zweiten Klasse für Freitag kaufen wollen?|Zu welchem Anlass würdest du eine einfache Fahrt Berlin–München in der zweiten Klasse für Samstag kaufen wollen?|Paris–Lyon → Berlin–München
+miroir-699|Wie schnell könntest du ein Foto aus zehn auswählen?|Wie schnell könntest du ein Foto aus zwanzig auswählen?|
+miroir-700|In welcher Situation würdest du dich entscheiden, einen weichen 55-cm-Handgepäckkoffer zu kaufen?|In welcher Situation würdest du dich entscheiden, einen 55-cm-Hartschalen-Handgepäckkoffer zu kaufen?|
+miroir-701|In welcher Situation würdest du dich entscheiden, einen Stehplatz im Innenraum bei einem Konzert in der Lanxess Arena zu kaufen?|In welcher Situation würdest du dich entscheiden, einen Tribünenplatz bei einem Konzert in einer großen Halle zu kaufen?|Accor Arena → Lanxess Arena
+miroir-702|Was würde dich dazu bringen, eine Fitnessstudio-Mitgliedschaft für einen Monat abzuschließen?|Was würde dich dazu bringen, eine Fitnessstudio-Mitgliedschaft für drei Monate abzuschließen?|
+miroir-703|Auf welcher Website oder in welchem Laden würdest du nach einem Stehplatz im Innenraum bei einem Konzert in der Lanxess Arena suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem Tribünenplatz bei einem Konzert in einer großen Halle suchen?|Accor Arena → Lanxess Arena
+miroir-704|Was wäre dein erster Reflex, wenn ein Freund am selben Morgen absagt?|Was wäre dein erster Reflex, wenn ein Freund am Vorabend absagt?|
+miroir-705|Was wäre deine erste Reaktion, wenn du einen Zehn-Euro-Schein findest?|Was wäre deine erste Reaktion, wenn du einen Zwanzig-Euro-Schein findest?|
+miroir-706|Welchen Preis stellst du dir für eine Übernachtung in einem Drei-Sterne-Hotel unter der Woche vor?|Welchen Preis stellst du dir für eine Übernachtung in einem Drei-Sterne-Hotel am Wochenende vor?|
+miroir-707|Wie lange würdest du brauchen, um ein kleines Zimmer aufzuräumen?|Wie lange würdest du brauchen, um ein großes Wohnzimmer aufzuräumen?|
+miroir-708|Wenn du ein Essen für zwei zubereiten müsstest, was wäre deine Priorität?|Wenn du ein Essen für vier zubereiten müsstest, was wäre deine Priorität?|
+miroir-709|Ab welchem Preis würdest du zögern, einen Strauß mit fünf Rosen beim Floristen zu kaufen?|Ab welchem Preis würdest du zögern, einen Strauß mit fünfzehn Rosen beim Floristen zu kaufen?|
+miroir-710|Was würdest du spontan sagen, wenn dir jemand vor der Arbeit einen Kaffee anbietet?|Was würdest du spontan sagen, wenn dir jemand nach der Arbeit einen Kaffee anbietet?|
+miroir-711|Wie schnell könntest du einen zweistündigen Ausflug organisieren?|Wie schnell könntest du einen dreistündigen Ausflug organisieren?|
+miroir-712|Welches Zubehör wäre für dich nützlich, um deine Tasche für einen Tag zu packen?|Welches Zubehör wäre für dich nützlich, um deine Tasche für zwei Tage zu packen?|
+miroir-713|Was würdest du brauchen, um zehn Seiten in einem Buch zu lesen?|Was würdest du brauchen, um zwanzig Seiten in einem Buch zu lesen?|
+miroir-714|Wie lange würdest du brauchen, um deine Tasche für einen Tag zu packen?|Wie lange würdest du brauchen, um deine Tasche für zwei Tage zu packen?|
+miroir-715|Welche Tageszeit würdest du wählen, um zehn Seiten in einem Buch zu lesen?|Welche Tageszeit würdest du wählen, um zwanzig Seiten in einem Buch zu lesen?|
+miroir-716|Welchen Preis stellst du dir für einen Stehplatz im Innenraum bei einem Konzert in der Lanxess Arena vor?|Welchen Preis stellst du dir für einen Tribünenplatz bei einem Konzert in einer großen Halle vor?|Accor Arena → Lanxess Arena
+miroir-717|Was ist deiner Meinung nach der Preis für eine einfache Fahrt Berlin–München in der zweiten Klasse für Freitag?|Was ist deiner Meinung nach der Preis für eine einfache Fahrt Berlin–München in der zweiten Klasse für Samstag?|Paris–Lyon → Berlin–München
+miroir-718|Wie viel würdest du höchstens für ein Mittagessen im Wirtshaus für zwei Personen einplanen?|Wie viel würdest du höchstens für ein Mittagessen im Wirtshaus für drei Personen einplanen?|brasserie → Wirtshaus
+miroir-719|Was würde dich dazu bringen, einen Strauß mit fünf Rosen beim Floristen zu kaufen?|Was würde dich dazu bringen, einen Strauß mit fünfzehn Rosen beim Floristen zu kaufen?|
+miroir-720|Welches Zeitfenster am Tag wäre am praktischsten, um für zwei Mahlzeiten einzukaufen?|Welches Zeitfenster am Tag wäre am praktischsten, um für drei Mahlzeiten einzukaufen?|
+miroir-721|Wo würdest du zuerst nach einem Paar neuen Alltagssneakern suchen?|Wo würdest du zuerst nach einem Paar gebrauchten Alltagssneakern in gutem Zustand suchen?|
+miroir-722|Auf welcher Website oder in welchem Laden würdest du nach einem weichen 55-cm-Handgepäckkoffer suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem 55-cm-Hartschalen-Handgepäckkoffer suchen?|
+miroir-723|Worauf käme es am meisten an, um einen zweistündigen Ausflug zu organisieren?|Worauf käme es am meisten an, um einen dreistündigen Ausflug zu organisieren?|
+miroir-724|Was wäre dein erster Reflex, wenn dein Zug in zehn Minuten abfährt?|Was wäre dein erster Reflex, wenn dein Zug in zwanzig Minuten abfährt?|
+miroir-725|Zu welchem Anlass würdest du einen Strauß mit fünf Rosen beim Floristen kaufen wollen?|Zu welchem Anlass würdest du einen Strauß mit fünfzehn Rosen beim Floristen kaufen wollen?|
+miroir-726|Wie würdest du reagieren, wenn ein Freund fünf Minuten zu spät kommt?|Wie würdest du reagieren, wenn ein Freund fünfzehn Minuten zu spät kommt?|
+miroir-727|Was würdest du als Erstes tun, wenn du eine Einladung für morgen bekommst?|Was würdest du als Erstes tun, wenn du eine Einladung für heute Abend bekommst?|
+miroir-728|Wann in der Woche würdest du am liebsten ein Geschenk für einen Freund suchen?|Wann in der Woche würdest du am liebsten ein Geschenk für zwei Freunde suchen?|
+miroir-729|Wie schnell könntest du auf fünf Nachrichten antworten?|Wie schnell könntest du auf zehn Nachrichten antworten?|
+miroir-730|Welches Zeitfenster am Tag wäre am praktischsten, um ein Foto aus zehn auszuwählen?|Welches Zeitfenster am Tag wäre am praktischsten, um ein Foto aus zwanzig auszuwählen?|
+miroir-731|Wann in der Woche würdest du am liebsten deine Tasche für einen Tag packen?|Wann in der Woche würdest du am liebsten deine Tasche für zwei Tage packen?|
+miroir-732|Was meinst du, wie lange braucht man, um ein Essen für zwei zuzubereiten?|Was meinst du, wie lange braucht man, um ein Essen für vier zuzubereiten?|
+miroir-733|Was würdest du als Erstes tun, wenn dein Freund sein Portemonnaie vergisst?|Was würdest du als Erstes tun, wenn dein Freund sein Handy vergisst?|
+miroir-734|Welcher Gegenstand könnte dir helfen, für zwei Mahlzeiten einzukaufen?|Welcher Gegenstand könnte dir helfen, für drei Mahlzeiten einzukaufen?|
+miroir-735|Was glaubst du, wie viel ein Paar neue Alltagssneaker wert ist?|Was glaubst du, wie viel ein Paar gebrauchte Alltagssneaker in gutem Zustand wert ist?|
+miroir-736|Wann wäre der beste Zeitpunkt, um deine Tasche für einen Tag zu packen?|Wann wäre der beste Zeitpunkt, um deine Tasche für zwei Tage zu packen?|
+miroir-737|Wie lange würdest du brauchen, um ein Geschenk für einen Freund zu finden?|Wie lange würdest du brauchen, um ein Geschenk für zwei Freunde zu finden?|
+miroir-738|Welcher Satz würde dir rausrutschen, wenn du eine Einladung für morgen bekommst?|Welcher Satz würde dir rausrutschen, wenn du eine Einladung für heute Abend bekommst?|
+miroir-739|Welcher Satz würde dir rausrutschen, wenn dich ein Restaurant zehn Minuten warten lässt?|Welcher Satz würde dir rausrutschen, wenn dich ein Restaurant dreißig Minuten warten lässt?|
+miroir-740|Welches Detail würdest du prüfen, bevor du auf fünf Nachrichten antwortest?|Welches Detail würdest du prüfen, bevor du auf zehn Nachrichten antwortest?|
+miroir-741|Wo würdest du hingehen, um ein Mittagessen im Wirtshaus für zwei Personen zu reservieren?|Wo würdest du hingehen, um ein Mittagessen im Wirtshaus für drei Personen zu reservieren?|brasserie → Wirtshaus
+miroir-742|Wann hättest du Lust, ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Vormittag zu kaufen?|Wann hättest du Lust, ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Abend zu kaufen?|
+miroir-743|Wohin würdest du gehen, um eine Fitnessstudio-Mitgliedschaft für einen Monat zu finden?|Wohin würdest du gehen, um eine Fitnessstudio-Mitgliedschaft für drei Monate zu finden?|
+miroir-744|Worauf käme es am meisten an, um für zwei Mahlzeiten einzukaufen?|Worauf käme es am meisten an, um für drei Mahlzeiten einzukaufen?|
+miroir-745|Was würdest du sagen, wenn ein Freund um 20 Uhr gehen will?|Was würdest du sagen, wenn ein Freund um 22 Uhr gehen will?|
+miroir-746|Welches Zubehör wäre für dich nützlich, um ein Geschenk für einen Freund zu finden?|Welches Zubehör wäre für dich nützlich, um ein Geschenk für zwei Freunde zu finden?|
+miroir-747|Ab welchem Preis würdest du zögern, eine einfache Fahrt Berlin–München in der zweiten Klasse für Freitag zu kaufen?|Ab welchem Preis würdest du zögern, eine einfache Fahrt Berlin–München in der zweiten Klasse für Samstag zu kaufen?|Paris–Lyon → Berlin–München
+miroir-748|Wie viel wärst du bereit, für einen weichen 55-cm-Handgepäckkoffer auszugeben?|Wie viel wärst du bereit, für einen 55-cm-Hartschalen-Handgepäckkoffer auszugeben?|
+miroir-749|Wenn du deine Tasche für einen Tag packen müsstest, was wäre deine Priorität?|Wenn du deine Tasche für zwei Tage packen müsstest, was wäre deine Priorität?|
+miroir-750|Was würdest du spontan sagen, wenn das Meeting um fünfzehn Minuten vorverlegt wird?|Was würdest du spontan sagen, wenn das Meeting um fünfzehn Minuten nach hinten verschoben wird?|
+miroir-751|Wann hättest du Lust, ein Paar neue Alltagssneaker zu kaufen?|Wann hättest du Lust, ein Paar gebrauchte Alltagssneaker in gutem Zustand zu kaufen?|
+miroir-752|Was würdest du als Erstes tun, wenn ein Freund fünf Minuten zu spät kommt?|Was würdest du als Erstes tun, wenn ein Freund fünfzehn Minuten zu spät kommt?|
+miroir-753|Was würde dich dazu bringen, ein Mittagessen im Wirtshaus für zwei Personen zu reservieren?|Was würde dich dazu bringen, ein Mittagessen im Wirtshaus für drei Personen zu reservieren?|brasserie → Wirtshaus
+miroir-754|Welches Detail würdest du prüfen, bevor du zehn Seiten in einem Buch liest?|Welches Detail würdest du prüfen, bevor du zwanzig Seiten in einem Buch liest?|
+miroir-755|Was glaubst du, wie viel eine Übernachtung in einem Drei-Sterne-Hotel unter der Woche wert ist?|Was glaubst du, wie viel eine Übernachtung in einem Drei-Sterne-Hotel am Wochenende wert ist?|
+miroir-756|Wie viel Zeit würdest du einplanen, um auf fünf Nachrichten zu antworten?|Wie viel Zeit würdest du einplanen, um auf zehn Nachrichten zu antworten?|
+miroir-757|Welches Zubehör wäre für dich nützlich, um ein kleines Zimmer aufzuräumen?|Welches Zubehör wäre für dich nützlich, um ein großes Wohnzimmer aufzuräumen?|
+miroir-758|Was würdest du brauchen, um einen zweistündigen Ausflug zu organisieren?|Was würdest du brauchen, um einen dreistündigen Ausflug zu organisieren?|
+miroir-759|Wann wäre der beste Zeitpunkt, um ein kleines Zimmer aufzuräumen?|Wann wäre der beste Zeitpunkt, um ein großes Wohnzimmer aufzuräumen?|
+miroir-760|Welches Detail würdest du prüfen, bevor du einen zweistündigen Ausflug organisierst?|Welches Detail würdest du prüfen, bevor du einen dreistündigen Ausflug organisierst?|
+miroir-761|Wie würdest du antworten, wenn das Meeting um fünfzehn Minuten vorverlegt wird?|Wie würdest du antworten, wenn das Meeting um fünfzehn Minuten nach hinten verschoben wird?|
+miroir-762|Wann wäre der beste Zeitpunkt, um ein Essen für zwei zuzubereiten?|Wann wäre der beste Zeitpunkt, um ein Essen für vier zuzubereiten?|
+miroir-763|Was ist deiner Meinung nach der Preis für einen Strauß mit fünf Rosen beim Floristen?|Was ist deiner Meinung nach der Preis für einen Strauß mit fünfzehn Rosen beim Floristen?|
+miroir-764|Wann hättest du Lust, einen Stehplatz im Innenraum bei einem Konzert in der Lanxess Arena zu kaufen?|Wann hättest du Lust, einen Tribünenplatz bei einem Konzert in einer großen Halle zu kaufen?|Accor Arena → Lanxess Arena
+miroir-765|Was wäre für dich die größte Schwierigkeit beim Zubereiten eines Essens für zwei?|Was wäre für dich die größte Schwierigkeit beim Zubereiten eines Essens für vier?|
+miroir-766|Wie viel Zeit würdest du einplanen, um zehn Seiten in einem Buch zu lesen?|Wie viel Zeit würdest du einplanen, um zwanzig Seiten in einem Buch zu lesen?|
+miroir-767|Welches Hilfsmittel würdest du wählen, um ein kleines Zimmer aufzuräumen?|Welches Hilfsmittel würdest du wählen, um ein großes Wohnzimmer aufzuräumen?|
+miroir-768|Welches Detail würdest du prüfen, bevor du für zwei Mahlzeiten einkaufst?|Welches Detail würdest du prüfen, bevor du für drei Mahlzeiten einkaufst?|
+miroir-769|Welche Tageszeit würdest du wählen, um einen zweistündigen Ausflug zu organisieren?|Welche Tageszeit würdest du wählen, um einen dreistündigen Ausflug zu organisieren?|
+miroir-770|Wo würdest du hingehen, um einen Café Crema zum Hiertrinken zu kaufen?|Wo würdest du hingehen, um einen Café Crema zum Mitnehmen zu kaufen?|café allongé → Café Crema
+miroir-771|Bis zu wie viel würdest du für einen weichen 55-cm-Handgepäckkoffer zahlen?|Bis zu wie viel würdest du für einen 55-cm-Hartschalen-Handgepäckkoffer zahlen?|
+miroir-772|Was wäre deine erste Reaktion, wenn dein Zug in zehn Minuten abfährt?|Was wäre deine erste Reaktion, wenn dein Zug in zwanzig Minuten abfährt?|
+miroir-773|Wann in der Woche würdest du am liebsten ein kleines Zimmer aufräumen?|Wann in der Woche würdest du am liebsten ein großes Wohnzimmer aufräumen?|
+miroir-774|Wo würdest du hingehen, um eine Fitnessstudio-Mitgliedschaft für einen Monat abzuschließen?|Wo würdest du hingehen, um eine Fitnessstudio-Mitgliedschaft für drei Monate abzuschließen?|
+miroir-775|Was würdest du brauchen, um für zwei Mahlzeiten einzukaufen?|Was würdest du brauchen, um für drei Mahlzeiten einzukaufen?|
+miroir-776|Worauf käme es am meisten an, um auf fünf Nachrichten zu antworten?|Worauf käme es am meisten an, um auf zehn Nachrichten zu antworten?|
+miroir-777|Was wäre für dich die größte Schwierigkeit, ein Geschenk für einen Freund zu finden?|Was wäre für dich die größte Schwierigkeit, ein Geschenk für zwei Freunde zu finden?|
+miroir-778|Wohin würdest du gehen, um einen Strauß mit fünf Rosen beim Floristen zu finden?|Wohin würdest du gehen, um einen Strauß mit fünfzehn Rosen beim Floristen zu finden?|
+miroir-779|Was würdest du sagen, wenn dein Freund sein Portemonnaie vergisst?|Was würdest du sagen, wenn dein Freund sein Handy vergisst?|
+miroir-780|Wo würdest du zuerst nach einem Stehplatz im Innenraum bei einem Konzert in der Lanxess Arena suchen?|Wo würdest du zuerst nach einem Tribünenplatz bei einem Konzert in einer großen Halle suchen?|Accor Arena → Lanxess Arena
+miroir-781|Was meinst du, wie viel kostet ein Café Crema zum Hiertrinken?|Was meinst du, wie viel kostet ein Café Crema zum Mitnehmen?|café allongé → Café Crema
+miroir-782|Was meinst du, wie viel kostet ein Mittagessen im Wirtshaus für zwei Personen?|Was meinst du, wie viel kostet ein Mittagessen im Wirtshaus für drei Personen?|brasserie → Wirtshaus
+miroir-783|Was glaubst du, wie viel ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Vormittag wert ist?|Was glaubst du, wie viel ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Abend wert ist?|
+miroir-784|Was würdest du sagen, wenn du eine Einladung für morgen bekommst?|Was würdest du sagen, wenn du eine Einladung für heute Abend bekommst?|
+miroir-785|Was wäre deine erste Reaktion, wenn das Meeting um fünfzehn Minuten vorverlegt wird?|Was wäre deine erste Reaktion, wenn das Meeting um fünfzehn Minuten nach hinten verschoben wird?|
+miroir-786|Wann in der Woche würdest du am liebsten ein Essen für zwei zubereiten?|Wann in der Woche würdest du am liebsten ein Essen für vier zubereiten?|
+miroir-787|Welchen Preis stellst du dir für ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Vormittag vor?|Welchen Preis stellst du dir für ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Abend vor?|
+miroir-788|Wie schnell könntest du für zwei Mahlzeiten einkaufen?|Wie schnell könntest du für drei Mahlzeiten einkaufen?|
+miroir-789|In welcher Situation würdest du dich entscheiden, ein Paar neue Alltagssneaker zu kaufen?|In welcher Situation würdest du dich entscheiden, ein Paar gebrauchte Alltagssneaker in gutem Zustand zu kaufen?|
+miroir-790|Wenn du ein Geschenk für einen Freund finden müsstest, was wäre deine Priorität?|Wenn du ein Geschenk für zwei Freunde finden müsstest, was wäre deine Priorität?|
+miroir-791|Welchen Preis stellst du dir für ein Paar neue Alltagssneaker vor?|Welchen Preis stellst du dir für ein Paar gebrauchte Alltagssneaker in gutem Zustand vor?|
+miroir-792|Ab welchem Preis würdest du zögern, einen Café Crema zum Hiertrinken zu kaufen?|Ab welchem Preis würdest du zögern, einen Café Crema zum Mitnehmen zu kaufen?|café allongé → Café Crema
+miroir-793|Welchen Preis stellst du dir für einen weichen 55-cm-Handgepäckkoffer vor?|Welchen Preis stellst du dir für einen 55-cm-Hartschalen-Handgepäckkoffer vor?|
+miroir-794|Wie viel wärst du bereit, für ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Vormittag auszugeben?|Wie viel wärst du bereit, für ein Kinoticket zum Erwachsenenpreis für eine Vorstellung am Abend auszugeben?|
+miroir-795|Was würdest du als Erstes tun, wenn dich ein Restaurant zehn Minuten warten lässt?|Was würdest du als Erstes tun, wenn dich ein Restaurant dreißig Minuten warten lässt?|
+miroir-796|Wie viel Zeit würdest du einplanen, um für zwei Mahlzeiten einzukaufen?|Wie viel Zeit würdest du einplanen, um für drei Mahlzeiten einzukaufen?|

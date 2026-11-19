@@ -297,3 +297,103 @@ dilemmes-798|Wenn du im Team einen Kompromiss finden müsstest, was hätte für 
 dilemmes-799|Wie viel Zeit würdest du einplanen, um eine Aktivität für einen freien Tag auszusuchen?|Wie viel Zeit würdest du einplanen, um Ausgaben unter Freunden aufzuteilen?|
 dilemmes-800|Wer könnte dir den besten Rat geben, um eine Reise mit Freunden zu buchen?|Wer könnte dir den besten Rat geben, um eine Abreise ganz früh am Morgen vorzubereiten?|
 dilemmes-801|Wen würdest du fragen, dir bei der Wahl zwischen zwei Restaurants zu helfen?|Wen würdest du fragen, dir zu helfen, gemeinsam mit anderen eine Entscheidung zu treffen?|
+dilemmes-802|Wie viel Zeit würdest du einplanen, um für eine bessere Work-Life-Balance den Job zu wechseln?|Wie viel Zeit würdest du einplanen, um dich zwischen zwei Restaurants zu entscheiden?|
+dilemmes-803|Was würdest du sagen, wenn du jetzt kaufen oder auf ein Angebot warten kannst?|Was würdest du sagen, wenn du einem Freund eine Entscheidung mitteilen musst, die ihm nicht gefällt?|
+dilemmes-804|Welches Höchstbudget würdest du für einen zertifizierten Onlinekurs mit zwanzig Stunden einplanen?|Welches Höchstbudget würdest du für ein Premium-Kinoticket einplanen?|
+dilemmes-805|Wie würdest du reagieren, wenn dich jemand aus deinem Umfeld an deinem freien Tag um einen Gefallen bittet?|Wie würdest du reagieren, wenn du sparen kannst, indem du eine viel längere Strecke nimmst?|
+dilemmes-806|Was meinst du, wie viel kostet ein Zugticket erster Klasse für eine zweistündige Fahrt?|Was meinst du, wie viel kostet ein Expressversand innerhalb Deutschlands in 24 Stunden für ein 2-kg-Paket?|Frankreich → Deutschland
+dilemmes-807|Welche Tageszeit wäre am praktischsten, um einen Abend ohne Handy vorzubereiten?|Welche Tageszeit wäre am praktischsten, um dich für einen Abendkurs zu entscheiden?|
+dilemmes-808|Bis zu wie viel würdest du für einen ultraleichten Laptop zahlen?|Bis zu wie viel würdest du für ein gebrauchtes E-Bike für die Stadt in gutem Zustand zahlen?|
+dilemmes-809|Auf welcher Website oder in welchem Laden würdest du nach einem ultraleichten Laptop suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem gebrauchten E-Bike für die Stadt in gutem Zustand suchen?|
+dilemmes-810|Wer könnte dir den besten Rat geben, um einen Familienurlaub zu organisieren?|Wer könnte dir den besten Rat geben, um einen Gefallen zuzusagen oder abzulehnen?|
+dilemmes-811|Welche Tageszeit wäre am praktischsten, um ein Urlaubsziel auszusuchen?|Welche Tageszeit wäre am praktischsten, um ein Wochenende mit kleinem Budget zu organisieren?|
+dilemmes-812|Wen würdest du um Hilfe bitten, um dich für einen Last-Minute-Urlaub zu entscheiden?|Wen würdest du um Hilfe bitten, um zwischen zwei Einladungen am selben Abend zu wählen?|
+dilemmes-813|Welche Tageszeit wäre am praktischsten, um für eine bessere Work-Life-Balance den Job zu wechseln?|Welche Tageszeit wäre am praktischsten, um dich zwischen zwei Restaurants zu entscheiden?|
+dilemmes-814|Wo würdest du hingehen, um ein flexibles Zugticket zu finden?|Wo würdest du hingehen, um eine Hotelnacht mit kostenloser Stornierung zu finden?|
+dilemmes-815|Welchen Preis stellst du dir für einen Platz in der ersten Reihe bei einer Show vor?|Welchen Preis stellst du dir für ein flexibles Zugticket vor?|
+dilemmes-816|Welche Tageszeit würdest du wählen, um zwischen Komfort und Sparen zu wählen?|Welche Tageszeit würdest du wählen, um dich für einen Last-Minute-Urlaub zu entscheiden?|
+dilemmes-817|Wie würdest du reagieren, wenn ein schöner Ausflug doppelt so viel kostet wie geplant?|Wie würdest du reagieren, wenn deine Gruppe zwischen einem Plan drinnen und draußen schwankt?|
+dilemmes-818|Welche Tageszeit würdest du wählen, um auf eine Überraschungseinladung zu antworten?|Welche Tageszeit würdest du wählen, um ein Urlaubsziel auszusuchen?|
+dilemmes-819|Was meinst du, wie viel kostet ein Premium-Kinoticket?|Was meinst du, wie viel kostet eine umfassende Reiseversicherung?|
+dilemmes-820|Wann wäre der beste Zeitpunkt, um im Team einen Kompromiss zu finden?|Wann wäre der beste Zeitpunkt, um zwischen Komfort und Sparen zu wählen?|
+dilemmes-821|Worauf käme es am meisten an, um einen Gefallen zuzusagen oder abzulehnen?|Worauf käme es am meisten an, um eine Aktivität für einen freien Tag auszusuchen?|
+dilemmes-822|Welchen Preis stellst du dir für ein werbefreies Musik-Abo vor?|Welchen Preis stellst du dir für zwei Nächte in einem Ferienhaus in deiner Nähe vor?|
+dilemmes-823|Was wäre für dich die größte Schwierigkeit, dich für einen Abendkurs zu entscheiden?|Was wäre für dich die größte Schwierigkeit, einen Familienurlaub zu organisieren?|
+dilemmes-824|Wie lange würdest du brauchen, um ein Wochenende mit kleinem Budget zu organisieren?|Wie lange würdest du brauchen, um zwischen Ausgehen und Ausruhen abzuwägen?|
+dilemmes-825|Auf welcher Website oder in welchem Laden würdest du nach einem werbefreien Musik-Abo suchen?|Auf welcher Website oder in welchem Laden würdest du nach zwei Nächten in einem Ferienhaus in deiner Nähe suchen?|
+dilemmes-826|Wann in der Woche würdest du dich am liebsten zwischen zwei Restaurants entscheiden?|Wann in der Woche würdest du am liebsten gemeinsam mit anderen eine Entscheidung treffen?|
+dilemmes-827|Wen würdest du um Hilfe bitten, um für eine bessere Work-Life-Balance den Job zu wechseln?|Wen würdest du um Hilfe bitten, um dich zwischen zwei Restaurants zu entscheiden?|
+dilemmes-828|Was wäre dein erster Reflex, wenn du zwischen einer kurzen Luxusreise und einer langen Sparreise schwankst?|Was wäre dein erster Reflex, wenn du dich für eine einzige von mehreren Veranstaltungen entscheiden musst?|
+dilemmes-829|Was glaubst du, wie viel eine Nacht in einem zentral gelegenen Hotel in der Innenstadt wert ist?|Was glaubst du, wie viel ein Platz in der ersten Reihe bei einer Show wert ist?|
+dilemmes-830|Wie viel Zeit würdest du einplanen, um einen Abend ohne Handy vorzubereiten?|Wie viel Zeit würdest du einplanen, um dich für einen Abendkurs zu entscheiden?|
+dilemmes-831|Wie schnell könntest du auf eine Überraschungseinladung antworten?|Wie schnell könntest du ein Urlaubsziel aussuchen?|
+dilemmes-832|Welcher Satz käme dir über die Lippen, wenn du zögerst, ob du einem Freund hilfst oder eine Verpflichtung einhältst?|Welcher Satz käme dir über die Lippen, wenn dich jemand aus deinem Umfeld an deinem freien Tag um einen Gefallen bittet?|
+dilemmes-833|In welcher Situation würdest du beschließen, ein Fitness-Abo ohne Vertragsbindung abzuschließen?|In welcher Situation würdest du beschließen, ein generalüberholtes Smartphone mit 128 GB in sehr gutem Zustand zu kaufen?|
+dilemmes-834|Was meinst du, wie viel kostet ein gebrauchtes E-Bike für die Stadt in gutem Zustand?|Was meinst du, wie viel kostet ein Zugticket erster Klasse für eine zweistündige Fahrt?|
+dilemmes-835|Wie würdest du reagieren, wenn du zwischen einer kurzen Luxusreise und einer langen Sparreise schwankst?|Wie würdest du reagieren, wenn du dich für eine einzige von mehreren Veranstaltungen entscheiden musst?|
+dilemmes-836|Welcher Satz käme dir über die Lippen, wenn ein Freund zwei Tage vor der Abreise eine Reise ändern will?|Welcher Satz käme dir über die Lippen, wenn du eine Aktivität aussuchen musst, die nicht allen gefallen wird?|
+dilemmes-837|Wie würdest du reagieren, wenn du für eine begrenzte Einladung zwischen zwei Personen wählen musst?|Wie würdest du reagieren, wenn ein schöner Ausflug doppelt so viel kostet wie geplant?|
+dilemmes-838|Was würdest du spontan sagen, wenn du dich für eine einzige von mehreren Veranstaltungen entscheiden musst?|Was würdest du spontan sagen, wenn du dich zwischen zwei Geburtstagen am selben Abend entscheiden musst?|
+dilemmes-839|Wie viel wärst du bereit, für einen Expressversand innerhalb Deutschlands in 24 Stunden für ein 2-kg-Paket auszugeben?|Wie viel wärst du bereit, für ein werbefreies Musik-Abo auszugeben?|Frankreich → Deutschland
+dilemmes-840|Welche Tageszeit würdest du wählen, um gemeinsam ein Geschenk auszusuchen?|Welche Tageszeit würdest du wählen, um einen Abend ohne Handy vorzubereiten?|
+dilemmes-841|Was würdest du überprüfen, bevor du eine Aktivität für einen freien Tag aussuchst?|Was würdest du überprüfen, bevor du Ausgaben unter Freunden aufteilst?|
+dilemmes-842|Welche Tageszeit würdest du wählen, um einen Gefallen zuzusagen oder abzulehnen?|Welche Tageszeit würdest du wählen, um eine Aktivität für einen freien Tag auszusuchen?|
+dilemmes-843|Wie viel wärst du bereit, für eine Nacht in einem zentral gelegenen Hotel in der Innenstadt auszugeben?|Wie viel wärst du bereit, für einen Platz in der ersten Reihe bei einer Show auszugeben?|
+dilemmes-844|Wann wäre der beste Zeitpunkt, um einen Familienurlaub zu organisieren?|Wann wäre der beste Zeitpunkt, um einen Gefallen zuzusagen oder abzulehnen?|
+dilemmes-845|Wen würdest du kontaktieren, damit er dir hilft, Ausgaben unter Freunden aufzuteilen?|Wen würdest du kontaktieren, damit er dir hilft, im Team einen Kompromiss zu finden?|
+dilemmes-846|Was würdest du sagen, wenn du zögerst, ob du ein nützliches oder ein originelles Geschenk zum gleichen Preis schenkst?|Was würdest du sagen, wenn ein Freund zwei Tage vor der Abreise eine Reise ändern will?|
+dilemmes-847|Auf welcher Website oder in welchem Laden würdest du nach einem Platz in der ersten Reihe bei einer Show suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem flexiblen Zugticket suchen?|
+dilemmes-848|Wie würdest du reagieren, wenn man dir einen besser bezahlten Job anbietet, aber mit einer Stunde mehr Arbeitsweg pro Tag?|Wie würdest du reagieren, wenn deine Freunde ein Restaurant aussuchen, das du nicht magst?|
+dilemmes-849|Wann in der Woche würdest du am liebsten Ausgaben unter Freunden aufteilen?|Wann in der Woche würdest du am liebsten im Team einen Kompromiss finden?|
+dilemmes-850|Worauf käme es am meisten an, um zwischen Komfort und Sparen zu wählen?|Worauf käme es am meisten an, um dich für einen Last-Minute-Urlaub zu entscheiden?|
+dilemmes-851|Was würde dich dazu bringen, ein Familienauto als Mietwagen für drei Tage in München zu buchen?|Was würde dich dazu bringen, ein Konzertticket mit guter Sicht zu kaufen?|Lyon → München
+dilemmes-852|Wann hättest du Lust, einen Platz in der ersten Reihe bei einer Show zu kaufen?|Wann hättest du Lust, ein flexibles Zugticket zu kaufen?|
+dilemmes-853|Was würdest du spontan sagen, wenn deine Freunde ein Restaurant aussuchen, das du nicht magst?|Was würdest du spontan sagen, wenn du früher gehen kannst, dafür aber das Ende einer Veranstaltung verpasst?|
+dilemmes-854|Ab welchem Preis würdest du zögern, ein Zugticket erster Klasse für eine zweistündige Fahrt zu kaufen?|Ab welchem Preis würdest du zögern, einen Expressversand innerhalb Deutschlands in 24 Stunden für ein 2-kg-Paket zu buchen?|Frankreich → Deutschland
+dilemmes-855|Welchen Preis stellst du dir für ein personalisiertes Geschenk zum Geburtstag eines lieben Menschen vor?|Welchen Preis stellst du dir für einen zertifizierten Onlinekurs mit zwanzig Stunden vor?|
+dilemmes-856|Was meinst du, wie viel kostet ein Familienauto als Mietwagen für drei Tage in München?|Was meinst du, wie viel kostet ein Konzertticket mit guter Sicht?|Lyon → München
+dilemmes-857|Was würdest du als Erstes tun, wenn du dich zwischen zwei Geburtstagen am selben Abend entscheiden musst?|Was würdest du als Erstes tun, wenn dir ein Freund ein Konzertticket schenkt, du aber am nächsten Tag arbeitest?|
+dilemmes-858|Wo würdest du zuerst nach einem Expressversand innerhalb Deutschlands in 24 Stunden für ein 2-kg-Paket suchen?|Wo würdest du zuerst nach einem werbefreien Musik-Abo suchen?|Frankreich → Deutschland
+dilemmes-859|Was wäre deine erste Reaktion, wenn du dich für eine einzige von mehreren Veranstaltungen entscheiden musst?|Was wäre deine erste Reaktion, wenn du dich zwischen zwei Geburtstagen am selben Abend entscheiden musst?|
+dilemmes-860|Ab welchem Preis würdest du zögern, ein Premium-Kinoticket zu kaufen?|Ab welchem Preis würdest du zögern, eine umfassende Reiseversicherung abzuschließen?|
+dilemmes-861|Ab welchem Preis würdest du zögern, eine Hotelnacht mit kostenloser Stornierung zu buchen?|Ab welchem Preis würdest du zögern, ein Fitness-Abo ohne Vertragsbindung abzuschließen?|
+dilemmes-862|Wie lange würdest du brauchen, um dich zwischen zwei Restaurants zu entscheiden?|Wie lange würdest du brauchen, um gemeinsam mit anderen eine Entscheidung zu treffen?|
+dilemmes-863|Wie würdest du reagieren, wenn du eine Aktivität aussuchen musst, die nicht allen gefallen wird?|Wie würdest du reagieren, wenn du fürs Wochenende zwei gleich interessante Möglichkeiten hast?|
+dilemmes-864|Was meinst du, wie viel kostet ein Konzertticket mit guter Sicht?|Was meinst du, wie viel kostet ein Essen in einem kleinen, bekannten Restaurant?|
+dilemmes-865|Was meinst du, wie viel kostet eine Hotelnacht mit kostenloser Stornierung?|Was meinst du, wie viel kostet ein Fitness-Abo ohne Vertragsbindung?|
+dilemmes-866|Was meinst du, wie viel kostet ein flexibles Zugticket?|Was meinst du, wie viel kostet eine Hotelnacht mit kostenloser Stornierung?|
+dilemmes-867|Wer könnte dir den besten Rat geben, um gemeinsam mit anderen eine Entscheidung zu treffen?|Wer könnte dir den besten Rat geben, um auf eine Überraschungseinladung zu antworten?|
+dilemmes-868|Wie schnell könntest du gemeinsam ein Geschenk aussuchen?|Wie schnell könntest du einen Abend ohne Handy vorbereiten?|
+dilemmes-869|Was wäre deine erste Reaktion, wenn du fürs Wochenende zwei gleich interessante Möglichkeiten hast?|Was wäre deine erste Reaktion, wenn man dir in letzter Minute eine Planänderung vorschlägt?|
+dilemmes-870|Was wäre dein erster Reflex, wenn man dir einen besser bezahlten Job anbietet, aber mit einer Stunde mehr Arbeitsweg pro Tag?|Was wäre dein erster Reflex, wenn deine Freunde ein Restaurant aussuchen, das du nicht magst?|
+dilemmes-871|Wie würdest du reagieren, wenn dir ein Freund ein Konzertticket schenkt, du aber am nächsten Tag arbeitest?|Wie würdest du reagieren, wenn man dir einen besser bezahlten Job anbietet, aber mit einer Stunde mehr Arbeitsweg pro Tag?|
+dilemmes-872|Was würde dich dazu bringen, ein gebrauchtes E-Bike für die Stadt in gutem Zustand zu kaufen?|Was würde dich dazu bringen, ein Zugticket erster Klasse für eine zweistündige Fahrt zu kaufen?|
+dilemmes-873|In welcher Situation würdest du beschließen, eine Nacht in einem zentral gelegenen Hotel in der Innenstadt zu buchen?|In welcher Situation würdest du beschließen, einen Platz in der ersten Reihe bei einer Show zu kaufen?|
+dilemmes-874|Zu welchem Anlass würdest du gern ein Konzertticket mit guter Sicht kaufen?|Zu welchem Anlass würdest du gern ein Essen in einem kleinen, bekannten Restaurant reservieren?|
+dilemmes-875|Wo würdest du hingehen, um eine Hotelnacht mit kostenloser Stornierung zu buchen?|Wo würdest du hingehen, um ein Fitness-Abo ohne Vertragsbindung abzuschließen?|
+dilemmes-876|Auf welcher Website oder in welchem Laden würdest du nach einem personalisierten Geschenk zum Geburtstag eines lieben Menschen suchen?|Auf welcher Website oder in welchem Laden würdest du nach einem zertifizierten Onlinekurs mit zwanzig Stunden suchen?|
+dilemmes-877|Bis zu wie viel würdest du für ein personalisiertes Geschenk zum Geburtstag eines lieben Menschen zahlen?|Bis zu wie viel würdest du für einen zertifizierten Onlinekurs mit zwanzig Stunden zahlen?|
+dilemmes-878|Was wäre deine erste Reaktion, wenn du sparen kannst, indem du eine viel längere Strecke nimmst?|Was wäre deine erste Reaktion, wenn du zögerst, ob du ein nützliches oder ein originelles Geschenk zum gleichen Preis schenkst?|
+dilemmes-879|Wen würdest du kontaktieren, damit er dir hilft, dich für einen Abendkurs zu entscheiden?|Wen würdest du kontaktieren, damit er dir hilft, einen Familienurlaub zu organisieren?|
+dilemmes-880|Wer aus deinem Umfeld könnte dir helfen, einen Gefallen zuzusagen oder abzulehnen?|Wer aus deinem Umfeld könnte dir helfen, eine Aktivität für einen freien Tag auszusuchen?|
+dilemmes-881|Was wäre deine erste Reaktion, wenn deine Gruppe zwischen einem Plan drinnen und draußen schwankt?|Was wäre deine erste Reaktion, wenn du jetzt kaufen oder auf ein Angebot warten kannst?|
+dilemmes-882|Wie schnell könntest du eine Abreise ganz früh am Morgen vorbereiten?|Wie schnell könntest du für eine bessere Work-Life-Balance den Job wechseln?|
+dilemmes-883|Zu welchem Anlass würdest du gern einen hochwertigen Wollpullover kaufen?|Zu welchem Anlass würdest du gern eine Nacht in einem zentral gelegenen Hotel in der Innenstadt buchen?|
+dilemmes-884|Ab welchem Preis würdest du zögern, einen hochwertigen Wollpullover zu kaufen?|Ab welchem Preis würdest du zögern, eine Nacht in einem zentral gelegenen Hotel in der Innenstadt zu buchen?|
+dilemmes-885|Was würdest du spontan sagen, wenn du sparen kannst, indem du eine viel längere Strecke nimmst?|Was würdest du spontan sagen, wenn du zögerst, ob du ein nützliches oder ein originelles Geschenk zum gleichen Preis schenkst?|
+dilemmes-886|Was meinst du, wie viel kostet ein hochwertiger Wollpullover?|Was meinst du, wie viel kostet eine Nacht in einem zentral gelegenen Hotel in der Innenstadt?|
+dilemmes-887|Was wäre für dich die größte Schwierigkeit, dich zwischen zwei Restaurants zu entscheiden?|Was wäre für dich die größte Schwierigkeit, gemeinsam mit anderen eine Entscheidung zu treffen?|
+dilemmes-888|Wo würdest du hingehen, um ein Familienauto als Mietwagen für drei Tage in München zu finden?|Wo würdest du hingehen, um ein Konzertticket mit guter Sicht zu finden?|Lyon → München
+dilemmes-889|Welches Höchstbudget würdest du für zwei Nächte in einem Ferienhaus in deiner Nähe einplanen?|Welches Höchstbudget würdest du für einen hochwertigen Wollpullover einplanen?|
+dilemmes-890|Wen würdest du um Hilfe bitten, um eine Aktivität für einen freien Tag auszusuchen?|Wen würdest du um Hilfe bitten, um Ausgaben unter Freunden aufzuteilen?|
+dilemmes-891|Welcher Satz käme dir über die Lippen, wenn du einem Freund eine Entscheidung mitteilen musst, die ihm nicht gefällt?|Welcher Satz käme dir über die Lippen, wenn du zwischen einer kurzen Luxusreise und einer langen Sparreise schwankst?|
+dilemmes-892|Was würdest du überprüfen, bevor du ein Urlaubsziel aussuchst?|Was würdest du überprüfen, bevor du ein Wochenende mit kleinem Budget organisierst?|
+dilemmes-893|In welcher Situation würdest du beschließen, eine umfassende Reiseversicherung abzuschließen?|In welcher Situation würdest du beschließen, einen ultraleichten Laptop zu kaufen?|
+dilemmes-894|Was glaubst du, wie viel ein Expressversand innerhalb Deutschlands in 24 Stunden für ein 2-kg-Paket wert ist?|Was glaubst du, wie viel ein werbefreies Musik-Abo wert ist?|Frankreich → Deutschland
+dilemmes-895|Wann hättest du Lust, ein werbefreies Musik-Abo abzuschließen?|Wann hättest du Lust, zwei Nächte in einem Ferienhaus in deiner Nähe zu buchen?|
+dilemmes-896|Was würdest du überprüfen, bevor du einen Abend ohne Handy vorbereitest?|Was würdest du überprüfen, bevor du dich für einen Abendkurs entscheidest?|
+dilemmes-897|Wie würdest du reagieren, wenn du einem Freund eine Entscheidung mitteilen musst, die ihm nicht gefällt?|Wie würdest du reagieren, wenn du zwischen einer kurzen Luxusreise und einer langen Sparreise schwankst?|
+dilemmes-898|Was meinst du, wie lange braucht man, um zwischen Ausgehen und Ausruhen abzuwägen?|Was meinst du, wie lange braucht man, um gemeinsam ein Geschenk auszusuchen?|
+dilemmes-899|Was würdest du als Erstes tun, wenn du zögerst, ob du ein nützliches oder ein originelles Geschenk zum gleichen Preis schenkst?|Was würdest du als Erstes tun, wenn ein Freund zwei Tage vor der Abreise eine Reise ändern will?|
+dilemmes-900|Wo würdest du hingehen, um zwei Nächte in einem Ferienhaus in deiner Nähe zu finden?|Wo würdest du hingehen, um einen hochwertigen Wollpullover zu finden?|
+dilemmes-901|Zu welchem Anlass würdest du gern ein Premium-Kinoticket kaufen?|Zu welchem Anlass würdest du gern eine umfassende Reiseversicherung abschließen?|
