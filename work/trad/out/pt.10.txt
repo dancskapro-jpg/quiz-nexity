@@ -348,3 +348,53 @@ argent-shopping-147|Que presente você daria para uma amiga que gosta de plantas
 argent-shopping-148|Quanto tempo você passaria comparando os planos de duas academias antes de se decidir?|Quanto tempo você dedicaria a comparar duas ofertas de seguro residencial antes de escolher?|
 argent-shopping-149|Quanto você separaria para comprar produtos de limpeza para um mês?|Qual orçamento total você definiria para organizar uma noite de petiscos em casa para oito pessoas?|apéro dînatoire → noite de petiscos
 argent-shopping-150|Qual seria seu primeiro reflexo se o banco bloqueasse seu cartão durante uma viagem?|O que você faria primeiro se um produto pago pela internet nunca fosse enviado?|
+argent-shopping-151|Que preço te pareceria razoável para uma câmera instantânea com filme incluso?|Quanto você estaria disposto a pagar por um par de tênis para caminhar todos os dias?|
+argent-shopping-152|A partir de que preço você acharia caro demais um almoço com prato e sobremesa num restaurante de bairro?|Qual preço máximo você aceitaria por um pacote de macarrão de 500 g no supermercado?|brasserie → restaurante de bairro
+argent-shopping-153|Quanto você guardaria por mês para bancar uma viagem para a praia em janeiro?|Quanto você economizaria por mês pensando na carteira de motorista de alguém próximo?|août → janvier (été au Brésil)
+argent-shopping-154|O que você responderia se um pedido fosse cancelado na véspera de um aniversário?|Qual seria sua primeira frase se um amigo te pedisse para emprestar R$ 500?|prix en reais
+argent-shopping-155|Em que loja você procuraria primeiro uma geladeira econômica em energia?|Em qual site ou loja você compararia um casaco quente por menos de R$ 400?|prix en reais
+argent-shopping-156|O que você escolheria se pudesse escolher entre uma assinatura anual e um plano mensal?|Que opção você escolheria se só sobrasse o modelo de mostruário com desconto?|
+argent-shopping-157|Que presente você daria para um primo que está começando na fotografia com um orçamento de R$ 100?|O que você compraria para alguém próximo que adora jogos de tabuleiro sem passar de R$ 100?|prix en reais
+argent-shopping-158|Quanto tempo você passaria preparando uma lista de presentes de Natal antes de se decidir?|Quanto tempo você dedicaria a procurar um presente de última hora para o seu pai antes de escolher?|
+argent-shopping-159|Quanto você separaria para organizar um churrasco para dez pessoas?|Qual orçamento total você definiria para comprar o material do início do semestre na faculdade?|soirée raclette → churrasco ; rentrée universitaire → início do semestre
+argent-shopping-160|Qual seria seu primeiro reflexo se um lojista recusasse uma troca mesmo com um defeito evidente?|O que você faria primeiro se o caixa cobrasse um preço diferente do da prateleira?|
+argent-shopping-161|Que preço te pareceria razoável para um celular recondicionado com bateria nova?|Quanto você estaria disposto a pagar por uma mala de bordo resistente com quatro rodinhas?|
+argent-shopping-162|A partir de que preço você acharia cara demais uma caixa com dez cápsulas de café?|Qual preço máximo você aceitaria pela taxa de bagagem de mão num voo curto?|
+argent-shopping-163|Quanto você guardaria por mês para bancar a troca da sua máquina de lavar?|Quanto você economizaria por mês pensando num sofá novo para a sua sala?|
+argent-shopping-164|O que você responderia se um entregador dissesse que entregou a encomenda mas você não recebeu nada?|Qual seria sua primeira frase se um vendedor te falasse de um desconto só para clientes novos?|
+argent-shopping-165|Em que loja você procuraria primeiro uma bolsa de viagem aceita como bagagem de mão?|Em qual site ou loja você compararia um colchão de 140 × 190 cm com entrega?|
+argent-shopping-166|O que você escolheria se uma promoção exigisse comprar três produtos em vez de um?|Que opção você escolheria se tivesse um orçamento limitado para se equipar para o home office?|
+argent-shopping-167|Que presente você daria para um amigo que acabou de terminar as provas com um orçamento de R$ 100?|O que você compraria para uma irmã que está começando num emprego novo sem passar de R$ 100?|prix en reais
+argent-shopping-168|Quanto tempo você passaria procurando uma boa oferta durante as liquidações antes de se decidir?|Quanto tempo você dedicaria a escolher um destino para as férias de verão antes de escolher?|
+argent-shopping-169|Quanto você separaria para se equipar para o primeiro acampamento?|Qual orçamento total você definiria para montar um cantinho de escritório numa quitinete?|
+argent-shopping-170|Qual seria seu primeiro reflexo se aparecesse um débito desconhecido na sua conta?|O que você faria primeiro se perdesse a nota fiscal de um aparelho ainda na garantia?|
+argent-shopping-171|Que preço te pareceria razoável para um leitor de livros digitais com luz embutida?|Quanto você estaria disposto a pagar por um robô aspirador para um apartamento de 50 m²?|
+argent-shopping-172|A partir de que preço você acharia caro demais o conserto da tela de um celular recente?|Qual preço máximo você aceitaria por uma entrega em casa em menos de duas horas?|
+argent-shopping-173|Quanto você guardaria por mês para bancar uma varanda decorada com móveis para área externa?|Quanto você economizaria por mês pensando numa câmera para aprender fotografia?|
+argent-shopping-174|O que você responderia se um vendedor te oferecesse parcelar em quatro vezes sem você pedir?|Qual seria sua primeira frase se um restaurante te cobrasse uma sobremesa que você não pediu?|
+argent-shopping-175|Em que loja você procuraria primeiro um patinete elétrico com boa autonomia?|Em qual site ou loja você compararia um presente de aniversário por menos de R$ 80?|prix en reais
+argent-shopping-176|O que você escolheria se pudesse comprar um jogo de videogame novo ou esperar o preço baixar?|Que opção você escolheria se achasse a mesma roupa nova ou usada em ótimo estado?|
+argent-shopping-177|Que presente você daria para um vizinho que te fez um grande favor com um orçamento de R$ 100?|O que você compraria para um amigo que vai correr sua primeira maratona sem passar de R$ 100?|prix en reais
+argent-shopping-178|Quanto tempo você passaria escolhendo um par de óculos novo antes de se decidir?|Quanto tempo você dedicaria a comparar os preços de cinco supermercados online antes de escolher?|
+argent-shopping-179|Quanto você separaria para as refeições de quatro dias viajando a trabalho?|Qual orçamento total você definiria para dar três presentes de Natal para adultos?|
+argent-shopping-180|Qual seria seu primeiro reflexo se uma compra parcelada fosse cobrada de uma vez só?|O que você faria primeiro se um caixa eletrônico debitasse da sua conta sem liberar o dinheiro?|
+argent-shopping-181|Que preço te pareceria razoável para um colchão de casal de qualidade?|Quanto você estaria disposto a pagar por um smartwatch com monitoramento do sono?|
+argent-shopping-182|A partir de que preço você acharia cara demais uma lavagem completa do carro, por dentro e por fora?|Qual preço máximo você aceitaria por um ingresso de cinema no sábado à noite?|
+argent-shopping-183|Quanto você guardaria por mês para bancar um grande festival de música no próximo verão?|Quanto você economizaria por mês pensando numa semana de esqui com três amigos?|
+argent-shopping-184|O que você responderia se um lojista te cobrasse duas vezes pelo mesmo produto?|Qual seria sua primeira frase se o atendimento ao cliente oferecesse um crédito na loja em vez de um reembolso?|
+argent-shopping-185|Em que loja você procuraria primeiro um livro usado em ótimo estado?|Em qual site ou loja você compararia um notebook para editar vídeos?|
+argent-shopping-186|O que você escolheria se tivesse que decidir entre uma mala grande e duas bagagens de mão?|Que opção você escolheria se estivesse em dúvida entre alugar uma ferramenta por um dia e comprá-la?|
+argent-shopping-187|Que presente você daria para uma pessoa que coleciona canecas com um orçamento de R$ 100?|O que você compraria para uma pessoa que gosta muito de ler sem passar de R$ 100?|prix en reais
+argent-shopping-188|Quanto tempo você passaria comparando os provedores de internet antes de se decidir?|Quanto tempo você dedicaria a procurar um sofá adequado para a sua sala antes de escolher?|
+argent-shopping-189|Quanto você separaria para comprar enfeites para uma árvore de Natal?|Qual orçamento total você definiria para organizar um aniversário surpresa para doze amigos?|
+argent-shopping-190|Qual seria seu primeiro reflexo se o preço de um hotel subisse logo antes de você reservar?|O que você faria primeiro se uma compra aparecesse duas vezes no seu extrato?|
+argent-shopping-191|Que preço te pareceria razoável para uma caixinha de som Bluetooth à prova d’água?|Quanto você estaria disposto a pagar por uma boa mochila para ir trabalhar?|
+argent-shopping-192|A partir de que preço você acharia cara demais a entrada inteira de um museu em São Paulo?|Qual preço máximo você aceitaria por duas horas de estacionamento no centro?|musée parisien → museu em São Paulo
+argent-shopping-193|Quanto você guardaria por mês para bancar um casamento no civil com trinta convidados?|Quanto você economizaria por mês pensando na mudança para um apartamento maior?|
+argent-shopping-194|O que você responderia se um amigo te propusesse comprar juntos um objeto inútil?|Qual seria sua primeira frase se alguém próximo criticasse um presente que você escolheu para ele?|
+argent-shopping-195|Em que loja você procuraria primeiro uma máquina de lavar com retirada do aparelho antigo?|Em qual site ou loja você compararia uma bota de trilha para iniciantes?|
+argent-shopping-196|O que você escolheria se uma loja te oferecesse um tamanho não ideal pela metade do preço?|Que opção você escolheria se pudesse pagar um móvel à vista ou em três parcelas?|
+argent-shopping-197|Que presente você daria para um amigo que gosta de receber gente para jantar com um orçamento de R$ 100?|O que você compraria para um colega que acabou de ter um filho sem passar de R$ 100?|prix en reais
+argent-shopping-198|Quanto tempo você passaria procurando uma casa para alugar num fim de semana a quatro antes de se decidir?|Quanto tempo você dedicaria a montar a lista de compras da semana antes de escolher?|
+argent-shopping-199|Quanto você separaria para fazer um jantar em casa para quatro convidados?|Qual orçamento total você definiria para passar dois dias em Curitiba sem contar o transporte?|Lille → Curitiba
+argent-shopping-200|Qual seria seu primeiro reflexo se uma encomenda frágil chegasse sem proteção e quebrada?|O que você faria primeiro se um vendedor mandasse o modelo errado de sapato?|

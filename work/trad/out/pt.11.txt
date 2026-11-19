@@ -197,3 +197,103 @@ luxe-reve-196|Que detalhe te deixaria mais feliz num réveillon com serviço de 
 luxe-reve-197|Que presente de luxo você daria a um amigo que coleciona objetos vintage?|Que presente excepcional você daria a uma amiga que se interessa por moda?|
 luxe-reve-198|Com o que você gastaria primeiro um orçamento excepcional para montar o escritório dos sonhos em casa?|Que gasto você priorizaria para comprar uma casa à beira-mar com um orçamento enorme?|
 luxe-reve-199|Quanto você estaria disposto a gastar numa estadia de três dias numa capital europeia?|Que orçamento você reservaria para um voo São Paulo–Rio com assento premium?|Paris–Nice → São Paulo–Rio
+luxe-reve-200|Que experiência você sonharia em viver durante uma viagem gastronômica a Barcelona?|Que atividade excepcional você gostaria de experimentar durante uma viagem de luxo a Tóquio?|
+galeres-debrouille-001|O que você diria se o seu trem fosse cancelado justo quando você tem um compromisso importante?|Qual seria a sua primeira frase se a máquina do estacionamento engolisse o seu tíquete bem na hora de sair?|
+galeres-debrouille-002|Qual seria o seu primeiro reflexo se você esquecesse a carteira em casa e só percebesse no restaurante?|O que você faria primeiro se o pneu da sua bicicleta esvaziasse no caminho para o trabalho?|
+galeres-debrouille-003|A quem você pediria ajuda se ficasse trancado do lado de fora sem as chaves?|Para quem você ligaria primeiro se o vento quebrasse uma janela da sua casa?|
+galeres-debrouille-004|Que objeto poderia te salvar se a bateria do seu celular acabasse durante uma trilha?|Que acessório você gostaria de ter à mão se o zíper da sua mala travasse?|
+galeres-debrouille-005|Quanto tempo você esperaria antes de agir se o ônibus previsto para dali a cinco minutos não chegasse?|Depois de quanto tempo você procuraria outra solução se uma encomenda expressa ficasse parada no centro de distribuição?|
+galeres-debrouille-006|Aonde você iria primeiro se perdesse o carregador numa cidade desconhecida?|Em que lugar você procuraria uma solução se a bateria do seu celular acabasse na estação?|
+galeres-debrouille-007|Que opção você escolheria se perdesse o último trem para voltar para casa?|Como você se viraria se o espetáculo a que você ia assistir fosse adiado em uma semana?|
+galeres-debrouille-008|Que precaução você tomaria para não esquecer o passaporte antes de uma viagem internacional?|Como você se organizaria para não ficar sem guarda-chuva durante um passeio?|
+galeres-debrouille-009|Que orçamento de emergência você separaria para substituir um celular quebrado em viagem?|Quantos reais você guardaria para consertar uma máquina de lavar que está vazando?|euros → reais
+galeres-debrouille-010|Qual seria a sua reação se você achasse uma passagem de trem presa embaixo de um assento depois de procurar por toda parte?|Como você reagiria se um motorista parasse para te ajudar com um pneu furado?|
+galeres-debrouille-011|O que você diria se um táxi te levasse para o endereço errado?|Qual seria a sua primeira frase se o vizinho de cima fizesse barulho às três da manhã?|
+galeres-debrouille-012|Qual seria o seu primeiro reflexo se a bateria do seu carro arriasse num estacionamento?|O que você faria primeiro se o zíper da sua mala quebrasse no aeroporto?|
+galeres-debrouille-013|A quem você pediria ajuda se o motor do seu carro não pegasse mais?|Para quem você ligaria primeiro se o aquecedor parasse de funcionar em pleno julho?|dezembro → julho (inverno no Brasil)
+galeres-debrouille-014|Que objeto poderia te salvar se o zíper de uma bolsa quebrasse no meio da rua?|Que acessório você gostaria de ter à mão se o quarto de hotel tivesse poucas tomadas?|
+galeres-debrouille-015|Quanto tempo você esperaria antes de agir se um restaurante demorasse para preparar um pedido para viagem?|Depois de quanto tempo você procuraria outra solução se o carregador de um carro elétrico não funcionasse?|
+galeres-debrouille-016|Aonde você iria primeiro se precisasse imprimir um documento num domingo?|Em que lugar você procuraria uma solução se precisasse escanear um documento importante?|
+galeres-debrouille-017|Que opção você escolheria se o restaurante escolhido para o seu aniversário estivesse fechado?|Como você se viraria se uma greve interrompesse o seu trajeto de sempre até o trabalho?|
+galeres-debrouille-018|Que precaução você tomaria para não perder as chaves durante um festival?|Como você se organizaria para que a sua mala não passasse do peso permitido?|
+galeres-debrouille-019|Que orçamento de emergência você separaria para uma noite de hotel imprevista depois de um trem cancelado?|Quantos reais você guardaria para trocar a tela de um notebook?|euros → reais
+galeres-debrouille-020|Qual seria a sua reação se um desconhecido encontrasse a sua carteira e te devolvesse?|Como você reagiria se a empresa de trem te oferecesse um táxi depois do cancelamento do último trem?|SNCF → empresa de trem
+galeres-debrouille-021|O que você diria se a porta do seu apartamento batesse com as chaves lá dentro?|Qual seria a sua primeira frase se um vendedor te dissesse que o conserto vai levar três semanas?|
+galeres-debrouille-022|Qual seria o seu primeiro reflexo se o cano embaixo da pia começasse a vazar?|O que você faria primeiro se a geladeira quebrasse em pleno janeiro?|agosto → janeiro (verão no Brasil)
+galeres-debrouille-023|A quem você pediria ajuda se a pia da cozinha entupisse completamente?|Para quem você ligaria primeiro se um site cobrasse duas vezes na sua conta?|
+galeres-debrouille-024|Que objeto poderia te salvar se chovesse durante um passeio sem lugar para se abrigar?|Que acessório você gostaria de ter à mão se precisasse desmontar um móvel montado pela metade?|
+galeres-debrouille-025|Quanto tempo você esperaria antes de agir se o motorista de aplicativo ficasse parado no mapa?|Depois de quanto tempo você procuraria outra solução se a lava-louças ficasse travada no mesmo programa?|
+galeres-debrouille-026|Aonde você iria primeiro se o pneu da sua bicicleta furasse longe de casa?|Em que lugar você procuraria uma solução se precisasse de uma mala nova depois de quebrar a sua?|
+galeres-debrouille-027|Que opção você escolheria se o carro alugado quebrasse a cem quilômetros do hotel?|Como você se viraria se a praia aonde você queria ir estivesse fechada?|
+galeres-debrouille-028|Que precaução você tomaria para não ficar sem bateria durante uma trilha?|Como você se organizaria para não ficar sem combustível na rodovia?|
+galeres-debrouille-029|Que orçamento de emergência você separaria para chamar um guincho na rodovia?|Quantos reais você guardaria para pagar a volta para casa depois de uma greve?|euros → reais
+galeres-debrouille-030|Qual seria a sua reação se um vizinho consertasse o seu vazamento antes de o encanador chegar?|Como você reagiria se um hotel te oferecesse o café da manhã depois de um problema no quarto?|
+galeres-debrouille-031|O que você diria se desse de cara com um engarrafamento enorme na estrada indo viajar?|Qual seria a sua primeira frase se um amigo esquecesse a sua bolsa num ônibus?|
+galeres-debrouille-032|Qual seria o seu primeiro reflexo se uma chave quebrasse dentro da fechadura da sua porta?|O que você faria primeiro se uma encomenda frágil chegasse completamente amassada?|
+galeres-debrouille-033|A quem você pediria ajuda se um vizinho estivesse fora durante um vazamento na casa dele?|Para quem você ligaria primeiro se esquecesse o passaporte a poucos dias de um voo?|
+galeres-debrouille-034|Que objeto poderia te salvar se a sola do seu tênis começasse a descolar?|Que acessório você gostaria de ter à mão se uma chuva repentina encharcasse a sua ecobag?|
+galeres-debrouille-035|Quanto tempo você esperaria antes de agir se um amigo estivesse vinte minutos atrasado sem responder?|Depois de quanto tempo você procuraria outra solução se um trem regional fosse anunciado atrasado sem previsão?|
+galeres-debrouille-036|Aonde você iria primeiro se precisasse comprar um guarda-chuva durante um temporal?|Em que lugar você procuraria uma solução se precisasse comprar uma lâmpada tarde da noite?|
+galeres-debrouille-037|Que opção você escolheria se uma tempestade cancelasse o piquenique da sua turma?|Como você se viraria se o bolo encomendado para uma festa não estivesse pronto?|
+galeres-debrouille-038|Que precaução você tomaria para não confundir duas reservas de hotel?|Como você se organizaria para não esquecer de fazer backup das fotos das suas férias?|
+galeres-debrouille-039|Que orçamento de emergência você separaria para trocar dois pneus estragados do seu carro?|Quantos reais você guardaria para comprar roupas básicas se ficasse sem bagagem?|euros → reais
+galeres-debrouille-040|Qual seria a sua reação se um garçom te trouxesse um prato de graça depois de um erro?|Como você reagiria se uma caixa percebesse um erro a seu favor e o corrigisse?|
+galeres-debrouille-041|O que você diria se o restaurante tivesse perdido a sua reserva para oito pessoas?|Qual seria a sua primeira frase se o cartão do quarto de hotel parasse de funcionar no meio da noite?|
+galeres-debrouille-042|Qual seria o seu primeiro reflexo se você perdesse a conexão por causa de um trem atrasado?|O que você faria primeiro se um ingresso de show sumisse do seu aplicativo?|
+galeres-debrouille-043|A quem você pediria ajuda se tivesse perdido o cartão do banco nas férias?|Para quem você ligaria primeiro se uma encomenda importante fosse entregue no endereço errado?|
+galeres-debrouille-044|Que objeto poderia te salvar se um botão da sua camisa caísse antes de uma entrevista?|Que acessório você gostaria de ter à mão se um sapato te fizesse uma bolha durante um passeio?|
+galeres-debrouille-045|Quanto tempo você esperaria antes de agir se o atendimento ao cliente te deixasse esperando no telefone?|Depois de quanto tempo você procuraria outra solução se um garçom não viesse anotar o seu pedido?|
+galeres-debrouille-046|Aonde você iria primeiro se precisasse de pilhas para um controle remoto à noite?|Em que lugar você procuraria uma solução se a mangueira do chuveiro quebrasse em pleno fim de semana?|
+galeres-debrouille-047|Que opção você escolheria se a hospedagem reservada estivesse inacessível no dia da chegada?|Como você se viraria se uma loja não tivesse mais o presente que você procurava?|
+galeres-debrouille-048|Que precaução você tomaria para não esquecer um remédio indispensável durante uma viagem?|Como você se organizaria para não errar o endereço de um compromisso importante?|
+galeres-debrouille-049|Que orçamento de emergência você separaria para pegar um táxi às pressas até o aeroporto?|Quantos reais você guardaria para substituir um par de óculos quebrado?|euros → reais
+galeres-debrouille-050|Qual seria a sua reação se o atendimento ao cliente reembolsasse na hora uma encomenda perdida?|Como você reagiria se um desconhecido te emprestasse o carregador dele no aeroporto?|
+galeres-debrouille-051|O que você diria se um entregador marcasse a sua encomenda como entregue sem você ter recebido nada?|Qual seria a sua primeira frase se o mecânico te ligasse para avisar que o problema é bem mais grave?|
+galeres-debrouille-052|Qual seria o seu primeiro reflexo se você perdesse o celular num shopping?|O que você faria primeiro se o GPS parasse de funcionar numa cidade desconhecida?|
+galeres-debrouille-053|A quem você pediria ajuda se um móvel grande não passasse pela escada?|Para quem você ligaria primeiro se a bateria do seu celular inchasse de um jeito estranho?|
+galeres-debrouille-054|Que objeto poderia te salvar se a luz apagasse num porão?|Que acessório você gostaria de ter à mão se a alça de uma bolsa soltasse no metrô?|
+galeres-debrouille-055|Quanto tempo você esperaria antes de agir se a água quente não voltasse depois de uma pane?|Depois de quanto tempo você procuraria outra solução se a fila de um brinquedo andasse muito devagar?|
+galeres-debrouille-056|Aonde você iria primeiro se tivesse esquecido o nécessaire no hotel?|Em que lugar você procuraria uma solução se precisasse de um adaptador de tomada no exterior?|
+galeres-debrouille-057|Que opção você escolheria se o seu computador quebrasse na véspera de uma entrega?|Como você se viraria se os ingressos para um jogo tivessem sido emitidos no nome errado?|
+galeres-debrouille-058|Que precaução você tomaria para não ficar sem dinheiro vivo numa feira local?|Como você se organizaria para que a sua bicicleta não fosse roubada na frente de uma loja?|
+galeres-debrouille-059|Que orçamento de emergência você separaria para chamar um chaveiro e abrir uma porta que bateu?|Quantos reais você guardaria para consertar um vazamento num domingo?|euros → reais
+galeres-debrouille-060|Qual seria a sua reação se um motorista fizesse um desvio para te devolver o celular esquecido?|Como você reagiria se um entregador voltasse só para te entregar uma encomenda?|
+galeres-debrouille-061|O que você diria se o hotel dissesse que não encontra a sua reserva?|Qual seria a sua primeira frase se o caixa de autoatendimento registrasse o seu produto duas vezes?|
+galeres-debrouille-062|Qual seria o seu primeiro reflexo se a luz caísse enquanto você cozinhava?|O que você faria primeiro se a sola do seu sapato descolasse antes de uma cerimônia?|
+galeres-debrouille-063|A quem você pediria ajuda se ficasse sem internet na véspera de uma prova?|Para quem você ligaria primeiro se um elevador parasse entre dois andares?|
+galeres-debrouille-064|Que objeto poderia te salvar se um cabo de carregador parasse de funcionar em viagem?|Que acessório você gostaria de ter à mão se o sol estivesse muito forte enquanto você espera numa fila?|
+galeres-debrouille-065|Quanto tempo você esperaria antes de agir se um hotel demorasse para liberar o seu quarto depois do horário previsto?|Depois de quanto tempo você procuraria outra solução se o Wi-Fi de um café não funcionasse?|
+galeres-debrouille-066|Aonde você iria primeiro se precisasse fazer uma cópia de chave com urgência?|Em que lugar você procuraria uma solução se precisasse de uma farmácia 24 horas à noite?|
+galeres-debrouille-067|Que opção você escolheria se as compras para o seu jantar chegassem com duas horas de atraso?|Como você se viraria se uma queda de energia te impedisse de cozinhar o jantar?|
+galeres-debrouille-068|Que precaução você tomaria para não perder uma conexão de trem apertada?|Como você se organizaria para não ir acampar sem equipamento para chuva?|
+galeres-debrouille-069|Que orçamento de emergência você separaria para comprar uma mala nova durante uma viagem?|Quantos reais você guardaria para trocar a bateria de um carro antigo?|euros → reais
+galeres-debrouille-070|Qual seria a sua reação se um amigo chegasse com ferramentas bem na hora em que o seu móvel quebrou?|Como você reagiria se um amigo encontrasse as suas chaves no bolso da jaqueta dele?|
+galeres-debrouille-071|O que você diria se a máquina do estacionamento engolisse o seu tíquete bem na hora de sair?|Qual seria a sua primeira frase se a locadora não tivesse mais nenhum carro disponível?|
+galeres-debrouille-072|Qual seria o seu primeiro reflexo se um amigo se machucasse de leve durante uma trilha?|O que você faria primeiro se aparecesse uma mancha de café na sua camisa logo antes de uma reunião?|
+galeres-debrouille-073|A quem você pediria ajuda se o cadeado da sua bicicleta travasse?|Para quem você ligaria primeiro se aparecesse uma infiltração no teto da sua sala?|
+galeres-debrouille-074|Que objeto poderia te salvar se a bateria do seu carro arriasse num lugar isolado?|Que acessório você gostaria de ter à mão se os mosquitos invadissem a sua casa de férias?|
+galeres-debrouille-075|Quanto tempo você esperaria antes de agir se uma encomenda expressa ficasse parada no centro de distribuição?|Depois de quanto tempo você procuraria outra solução se um técnico que viria fazer um conserto não aparecesse?|
+galeres-debrouille-076|Aonde você iria primeiro se uma roupa rasgasse logo antes de uma festa?|Em que lugar você procuraria uma solução se precisasse trocar um cabo HDMI antes de uma apresentação?|
+galeres-debrouille-077|Que opção você escolheria se um amigo cancelasse a carona em cima da hora?|Como você se viraria se a chuva tornasse impossível uma trilha programada?|
+galeres-debrouille-078|Que precaução você tomaria para não deixar as compras perecíveis tempo demais no carro?|Como você se organizaria para não ficar sem água numa trilha longa?|
+galeres-debrouille-079|Que orçamento de emergência você separaria para consertar uma máquina de lavar que está vazando?|Quantos reais você guardaria para reservar uma hospedagem de última hora?|euros → reais
+galeres-debrouille-080|Qual seria a sua reação se uma pessoa te ajudasse espontaneamente a subir a sua mala?|Como você reagiria se um mecânico te dissesse que o conserto ficou bem mais barato?|
+galeres-debrouille-081|O que você diria se o vizinho de cima fizesse barulho às três da manhã?|Qual seria a sua primeira frase se o garçom derramasse água na sua jaqueta?|
+galeres-debrouille-082|Qual seria o seu primeiro reflexo se o pneu da sua bicicleta esvaziasse no caminho para o trabalho?|O que você faria primeiro se encontrasse o para-brisa trincado de manhã?|
+galeres-debrouille-083|A quem você pediria ajuda se um amigo torcesse o tornozelo durante um passeio?|Para quem você ligaria primeiro se o sistema de reservas de um hotel parecesse travado?|
+galeres-debrouille-084|Que objeto poderia te salvar se alguém sofresse um pequeno corte durante um piquenique?|Que acessório você gostaria de ter à mão se a energia acabasse durante um acampamento na floresta?|
+galeres-debrouille-085|Quanto tempo você esperaria antes de agir se o carregador de um carro elétrico não funcionasse?|Depois de quanto tempo você procuraria outra solução se um aplicativo de táxi ficasse procurando motorista sem parar?|
+galeres-debrouille-086|Aonde você iria primeiro se a bateria do seu celular acabasse na estação?|Em que lugar você procuraria uma solução se precisasse de uma oficina aberta num sábado à tarde?|
+galeres-debrouille-087|Que opção você escolheria se o museu escolhido estivesse lotado quando você chegasse?|Como você se viraria se a encomenda com a sua roupa de festa não chegasse?|
+galeres-debrouille-088|Que precaução você tomaria para não perder os seus arquivos num computador quebrado?|Como você se organizaria para não confundir os horários de uma sessão de espetáculo?|
+galeres-debrouille-089|Que orçamento de emergência você separaria para trocar a tela de um notebook?|Quantos reais você guardaria para consertar uma bicicleta que você usa todo dia?|euros → reais
+galeres-debrouille-090|Qual seria a sua reação se um motorista parasse para te ajudar com um pneu furado?|Como você reagiria se alguém na rua te indicasse um caminho alternativo por causa de uma obra?|
+galeres-debrouille-091|O que você diria se um vendedor te dissesse que o conserto vai levar três semanas?|Qual seria a sua primeira frase se um presente encomendado chegasse depois da data do aniversário?|
+galeres-debrouille-092|Qual seria o seu primeiro reflexo se o zíper da sua mala quebrasse no aeroporto?|O que você faria primeiro se o trem partisse com a sua bolsa esquecida na plataforma?|
+galeres-debrouille-093|A quem você pediria ajuda se o vento quebrasse uma janela da sua casa?|Para quem você ligaria primeiro se uma queda de energia atingisse só o seu apartamento?|
+galeres-debrouille-094|Que objeto poderia te salvar se você precisasse abrir uma caixa de papelão sem tesoura?|Que acessório você gostaria de ter à mão se um parafuso afrouxasse na sua bicicleta durante um passeio?|
+galeres-debrouille-095|Quanto tempo você esperaria antes de agir se a lava-louças ficasse travada no mesmo programa?|Depois de quanto tempo você procuraria outra solução se uma cabine de pedágio recusasse todos os cartões?|
+galeres-debrouille-096|Aonde você iria primeiro se precisasse escanear um documento importante?|Em que lugar você procuraria uma solução se quisesse mandar lavar uma roupa manchada com urgência?|
+galeres-debrouille-097|Que opção você escolheria se o espetáculo a que você ia assistir fosse adiado em uma semana?|Como você se viraria se o único cinema perto da sua casa cancelasse a sessão?|
+galeres-debrouille-098|Que precaução você tomaria para não esquecer o prazo para devolver um produto?|Como você se organizaria para não deixar uma encomenda importante do lado de fora enquanto você está fora?|
+galeres-debrouille-099|Que orçamento de emergência você separaria para pagar a volta para casa depois de uma greve?|Quantos reais você guardaria para substituir uma geladeira que quebrou?|euros → reais

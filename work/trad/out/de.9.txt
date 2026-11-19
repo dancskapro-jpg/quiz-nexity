@@ -436,7 +436,7 @@ spicy-035|Welches Getränk würdest du beim ersten Drink mit einem Crush bestell
 spicy-036|Welchem Freund würdest du anvertrauen, dass du jemand Süßes entdeckt hast?|Welchen Freund würdest du bitten, dich aus einem peinlichen Gespräch zu retten?|
 spicy-037|Was würdest du tun, wenn ein Freund versuchen würde, dich mit jemandem zu verkuppeln, der dir nicht gefällt?|Was würdest du tun, wenn dich zwei Personen gleichzeitig zum Tanzen auffordern würden?|
 spicy-038|Welches Accessoire würdest du tragen, um dich auf einer Party verführerisch zu fühlen?|Welches Accessoire könnte deinen Party-Look komplett ruinieren?|
-spicy-039|Welchen Tanz würdest du dich vor jemandem trauen, der dir gefällt?|Welchen Tanz würdest du dich weigern, vor der ganzen Party zu machen?|
+spicy-039|Welchen Tanz würdest du dich trauen, vor jemandem zu tanzen, der dir gefällt?|Welchen Tanz würdest du dich weigern, vor der ganzen Party zu tanzen?|
 spicy-040|Mit welchem Thema würdest du in einer Warteschlange flirten?|Welches Thema würdest du ansprechen, um eine aufdringliche Anmache abzuwürgen?|
 spicy-041|Welche Charaktereigenschaft zieht dich mehr an als das Aussehen?|Welche Charaktereigenschaft lässt dich sofort das Interesse verlieren?|
 spicy-042|Welche Eigenschaft an jemandem gibt dir Lust, die Person wiederzusehen?|Welche Eigenschaft an jemandem gibt dir ein Gefühl von Vertrauen?|
@@ -497,3 +497,104 @@ spicy-096|Welchen öffentlichen Ort würdest du vorschlagen, um jemanden aus dem
 spicy-097|Welchen Suchfilter würdest du in einer Dating-App als Erstes benutzen?|Welches Profilkriterium findest du am unwichtigsten?|
 spicy-098|Ab wann würdest du aufhören, mit mehreren Leuten gleichzeitig zu schreiben?|Ab wann würdest du eine Dating-App löschen?|
 spicy-099|Welche Nachricht würdest du nach einem schönen Date schicken, um ein Wiedersehen vorzuschlagen?|Welche Nachricht würdest du nach einem Date ohne Funken schicken, um respektvoll zu bleiben?|
+spicy-100|Welche Frage würdest du vor einem ersten Date mit jemandem aus dem Internet stellen?|Welche Frage würdest du stellen, um zu prüfen, ob ihr dieselben Erwartungen habt?|
+spicy-101|An welchem Punkt eines Dates würde sich ein erster Kuss für dich natürlich anfühlen?|An welchem Punkt eines Dates würde sich eine Umarmung für dich natürlich anfühlen?|
+spicy-102|Welchen Ort findest du romantisch für einen Kuss?|Welchen Ort findest du peinlich für einen Kuss?|
+spicy-103|Bei welcher zärtlichen Geste würdest du im Kino dahinschmelzen?|Bei welcher zärtlichen Geste würdest du bei einem Spaziergang dahinschmelzen?|
+spicy-104|Welchen Song würdest du für einen ruhigen, intimen Abend auswählen?|Welchen Song würdest du an einem intimen Abend sofort ausmachen?|
+spicy-105|Was würdest du sagen, wenn dein Crush dich „Darf ich dich küssen?“ fragen würde?|Was würdest du sagen, wenn dein Crush dich „Darf ich dich in den Arm nehmen?“ fragen würde?|
+spicy-106|Wie lange dauert für dich die perfekte Umarmung?|Wie lange würdest du beim Wiedersehen gern umarmt bleiben?|
+spicy-107|Welches Kompliment würdest du jemandem, der dir gefällt, ins Ohr flüstern?|Welches Kompliment würdest du gern von deinem Partner ins Ohr geflüstert bekommen?|
+spicy-108|Welches Detail macht einen Kuss besonders unvergesslich?|Welches Detail kann einen romantischen Moment ruinieren?|
+spicy-109|Welchen Ort würdest du für einen ruhigen Abend zu zweit wählen?|Welchen Ort würdest du für ein intimes Gespräch meiden?|
+spicy-110|Welche kleine Aufmerksamkeit würde einen romantischen Abend besonders machen?|Bei welcher kleinen Aufmerksamkeit würdest du merken, dass die andere Person an dich denkt?|
+spicy-111|Wer von deinen Freunden würde sich trauen, beim Karaoke seine Liebe zu gestehen?|Wer von deinen Freunden würde das romantischste Date organisieren?|
+spicy-112|Wer von deinen Freunden würde sich auf einer Reise verlieben?|Wer von deinen Freunden würde jemanden in einer Warteschlange kennenlernen?|
+spicy-113|Wer von deinen Freunden würde seinem Ex um 2 Uhr nachts schreiben?|Wer von deinen Freunden würde die Nummer seines Ex sofort löschen?|
+spicy-114|Wer von deinen Freunden würde für jede Nachricht an seinen Crush um Rat fragen?|Wer von deinen Freunden würde sich ohne Zögern trauen, den ersten Schritt zu machen?|
+spicy-115|Wer von deinen Freunden würde eine Rede vorbereiten, um seine Gefühle zu gestehen?|Wer von deinen Freunden würde vor seinem Crush komplett vergessen, was er sagen wollte?|
+spicy-116|Wer von deinen Freunden könnte einen ganzen Abend lang flirten?|Wer von deinen Freunden würde als Erster nach Hause gehen, um eine Serie zu schauen?|
+spicy-117|Wer von deinen Freunden würde spontan in Las Vegas heiraten?|Wer von deinen Freunden würde seine Hochzeit drei Jahre im Voraus planen?|
+spicy-118|Wer von deinen Freunden wäre am verschwiegensten, was sein Liebesleben angeht?|Wer von deinen Freunden würde alle Details von seinem ersten Date erzählen?|
+spicy-119|Wer von deinen Freunden hätte den Mut, ein Date abzusagen, auf das er keine Lust hat?|Wer von deinen Freunden hätte den Mut, einen Fremden auf einen Kaffee einzuladen?|
+spicy-120|Wer von deinen Freunden würde eine neue Beziehung einen Monat lang geheim halten?|Wer von deinen Freunden würde schon am nächsten Tag von einem neuen Crush erzählen?|
+spicy-121|Wie viel würdest du maximal für Blumen zu einem ersten Date ausgeben?|Wie viel würdest du maximal für eine Schachtel Pralinen für einen Crush ausgeben?|
+spicy-122|Wie viel würdest du für ein romantisches Abendessen zu zweit in einem Berliner Restaurant ausgeben?|Wie viel würdest du für einen Brunch zu zweit in einem Berliner Café ausgeben?|Paris → Berlin
+spicy-123|Welches Budget würdest du für ein romantisches Wochenende mit zwei Nächten in Deutschland einplanen, ohne Anreise?|Welches Budget würdest du für eine Nacht in einem Hotel mit Spa in Deutschland einplanen, für zwei?|Frankreich → Deutschland
+spicy-124|Wie viel wärst du bereit, bei einem Date für zwei Kinokarten zu zahlen?|Wie viel wärst du bereit, bei einem Date für zwei Tickets für eine Comedy-Show zu zahlen?|
+spicy-125|Ab welchem Preis fändest du einen Versprechensring zu teuer?|Ab welchem Preis fändest du ein Partnerarmband zu teuer?|
+spicy-126|Welches Höchstbudget würdest du für einen Blumenstrauß einplanen, der zu deinem Partner nach Hause geliefert wird?|Welches Höchstbudget würdest du für ein geliefertes Frühstück zu zweit einplanen?|
+spicy-127|Wie viel würdest du nach drei Monaten Beziehung für ein Valentinstagsgeschenk ausgeben?|Wie viel würdest du nach drei Monaten Beziehung für ein Geburtstagsgeschenk ausgeben?|
+spicy-128|Welchen Preis stellst du dir für ein einstündiges Pärchen-Fotoshooting in Berlin vor?|Welchen Preis stellst du dir für eine einstündige Paarmassage in einem Spa in Berlin vor?|Paris → Berlin
+spicy-129|Wie viel würdest du für zwei Cocktails in einer Bar in Berlin zahlen?|Wie viel würdest du für zwei Desserts in einem Berliner Café zahlen?|Paris → Berlin
+spicy-130|Wie viel wärst du bereit, für eine spontane romantische Überraschung auszugeben?|Wie viel wärst du bereit auszugeben, um ein Geschenk noch am selben Tag liefern zu lassen?|
+spicy-131|Wie viele Minuten würdest du brauchen, um dich für ein wichtiges Date fertig zu machen?|Wie viele Minuten würdest du damit verbringen, dein Outfit für einen Abend mit deinem Crush auszusuchen?|
+spicy-132|Wie oft pro Woche würdest du jemanden am Anfang einer Beziehung gern sehen?|Wie oft pro Woche würdest du gern mit jemandem telefonieren, mit dem du dich gerade triffst?|
+spicy-133|Wie viele Tage würdest du warten, bevor du ein zweites Date vorschlägst?|Wie viele Tage würdest du warten, bevor du deinen Crush deinen Freunden vorstellst?|
+spicy-134|Wie viele Minuten könnte dein erstes Telefonat mit einem Crush dauern?|Wie viele Minuten könnte ein nächtliches Gespräch mit deinem Partner dauern?|
+spicy-135|Wie viele Monate Beziehung würdest du warten, bevor ihr zum ersten Mal zusammen verreist?|Wie viele Monate Beziehung würdest du warten, bevor du ans Zusammenziehen denkst?|
+spicy-136|Wie viele Fotos würdest du an einem romantischen Wochenende machen?|Wie viele Fotos würdest du an einem romantischen Wochenende posten?|
+spicy-137|Wie oft könntest du an einem einzigen Abend „Gute Nacht“ schreiben?|Wie oft könntest du aufs Handy schauen, während du auf eine wichtige Antwort wartest?|
+spicy-138|Wie lange würdest du brauchen, um dich zu trauen, jemanden zu küssen, der dir gefällt?|Wie lange würdest du brauchen, um dich zu trauen, jemanden zum Abendessen einzuladen?|
+spicy-139|Wie viele Tage im Voraus würdest du einen Jahrestag planen?|Wie viele Tage im Voraus würdest du ein Restaurant für den Valentinstag reservieren?|
+spicy-140|Wie viele Stunden Fahrt würdest du in Kauf nehmen, um einen Crush für ein Wochenende zu sehen?|Wie viele Stunden Fahrt würdest du für einen romantischen Überraschungstrip in Kauf nehmen?|
+spicy-141|Was würdest du sagen, wenn dich jemand vor all deinen Freunden nach deiner Nummer fragen würde?|Was würdest du sagen, wenn dir jemand vor seinen Kollegen ein Date vorschlagen würde?|
+spicy-142|Was würdest du sagen, wenn ein Fremder zu dir sagen würde: „Ich hab dich schon in meinen Träumen gesehen“?|Was würdest du sagen, wenn ein Fremder zu dir sagen würde: „Ich hab das Gefühl, wir kennen uns“?|
+spicy-143|Was würdest du sagen, wenn dein Crush dich auffordern würde, in einer menschenleeren Straße zu tanzen?|Was würdest du sagen, wenn dein Crush dich auffordern würde, beim Karaoke ein Duett zu singen?|
+spicy-144|Was würdest du sagen, wenn jemand zu dir sagen würde: „Ich glaube, ich gefalle dir“?|Was würdest du sagen, wenn jemand zu dir sagen würde: „Sieht so aus, als würdest du mich anmachen“?|
+spicy-145|Was würdest du sagen, wenn dein Crush schon beim zweiten Date deine Freunde kennenlernen wollte?|Was würdest du sagen, wenn dein Crush dich nach zwei Wochen seinen Eltern vorstellen wollte?|
+spicy-146|Was würdest du sagen, wenn dein Crush dir schon beim ersten Date ein sehr persönliches Geschenk machen würde?|Was würdest du sagen, wenn dein Crush dir nach nur drei Tagen einen Brief schreiben würde?|
+spicy-147|Was würdest du sagen, wenn dein Crush dich auf einem alten, peinlichen Foto erkennen würde?|Was würdest du sagen, wenn dein Crush deinen alten Nicknamen in einem Forum finden würde?|
+spicy-148|Was würdest du sagen, wenn dein Partner vorschlagen würde, heute Abend für zwei Tage ans Meer zu fahren?|Was würdest du sagen, wenn dein Partner einen Tisch reservieren würde, ohne dir zu sagen, wo?|
+spicy-149|Was würdest du sagen, wenn dir jemand, der dir gefällt, gestehen würde, dass er sehr schüchtern ist?|Was würdest du sagen, wenn dir jemand, der dir gefällt, gestehen würde, dass er noch nie ein Date hatte?|
+spicy-150|Was würdest du sagen, wenn dein Crush dich direkt fragen würde, was du suchst?|Was würdest du sagen, wenn dein Crush dich fragen würde, ob du noch mit anderen schreibst?|
+spicy-151|Welche lustige Sache versteckst du, wenn du einen Crush beeindrucken willst?|Welche lustige Sache versteckst du, wenn du die Eltern von jemandem kennenlernst?|
+spicy-152|Welche indiskrete Frage würdest du deinem besten Freund gern über sein Liebesleben stellen?|Welche indiskrete Frage würdest du gern einem alten Crush stellen?|
+spicy-153|Welche Erinnerung an deinen ersten Kuss bringt dich heute zum Lachen?|Welche Erinnerung an ein erstes Date würdest du gern löschen?|
+spicy-154|Welche etwas lächerliche Angewohnheit hast du, wenn du auf eine Nachricht wartest?|Welche etwas lächerliche Angewohnheit hast du vor einem Date?|
+spicy-155|Welches Wort rutscht dir raus, wenn dir jemand ein unerwartetes Kompliment macht?|Welches Wort rutscht dir raus, wenn du deinem Crush unvorbereitet über den Weg läufst?|
+spicy-156|Welche kleine romantische Sache magst du, gibst es aber nur ungern zu?|Welche kleine romantische Sache wärst du bereit, einmal auszuprobieren?|
+spicy-157|Welche Art von Nachricht speicherst du heimlich in deinen Favoriten?|Welche Art von Foto hebst du heimlich in deiner Galerie auf?|
+spicy-158|Bei welchem Liebesthema würdest du bei einem Geständnisspiel unter Freunden rot werden?|Bei welchem Liebesthema würdest du bei einem Geständnisspiel unter Freunden lachen?|
+spicy-159|Welche Frage würdest du dir vor einem ersten Kuss gern stellen lassen?|Welche Frage würdest du dir vor einer ersten gemeinsamen Nacht gern stellen lassen?|
+spicy-160|Welches harmlose Geheimnis würdest du einem Crush gern verraten?|Welches harmlose Geheimnis würdest du dir fürs dritte Date aufheben?|
+spicy-161|Hättest du lieber ein erstes Date im Kino oder in einem Café?|Hättest du lieber ein Date im Restaurant oder bei einem Spaziergang?|
+spicy-162|Bekommst du lieber eine handgeschriebene liebe Notiz oder eine Sprachnachricht?|Schenkst du lieber einen Blumenstrauß oder ein selbst gemachtes Geschenk?|
+spicy-163|Küsst du lieber im Regen oder bei Sonnenuntergang?|Kuschelst du lieber vor einem Film oder bei einem Spaziergang?|
+spicy-164|Magst du lieber eine romantische Überraschung in der Öffentlichkeit oder privat?|Magst du lieber eine Liebeserklärung per Nachricht oder von Angesicht zu Angesicht?|
+spicy-165|Wirst du lieber auf einer Party angesprochen oder machst du den ersten Schritt?|Lernst du lieber jemanden über Freunde oder durch Zufall kennen?|
+spicy-166|Bekommst du lieber viele kleine Nachrichten oder abends einen langen Anruf?|Siehst du deinen Partner lieber oft oder planst du lieber große Wiedersehen?|
+spicy-167|Fährst du mit deinem Crush lieber übers Wochenende ans Meer oder in die Berge?|Hättest du lieber eine ausgefallene Nacht in einer Hütte oder ein Hotel mit Spa zu zweit?|
+spicy-168|Hättest du lieber einen sehr zärtlichen oder eher zurückhaltenden Partner?|Hättest du lieber jemanden, der spontan ist, oder jemanden, der alles plant?|
+spicy-169|Magst du lieber einen spontanen ersten Kuss oder einen angekündigten?|Magst du lieber eine direkte Date-Anfrage oder eine voller Andeutungen?|
+spicy-170|Würdest du bei einem Date lieber den ganzen Abend lachen oder ein sehr tiefes Gespräch führen?|Würdest du bei einem Date lieber zu zweit tanzen oder zusammen kochen?|
+spicy-171|Welches Verhalten würde dich ein zweites Date absagen lassen?|Welches Verhalten würde dich eine Dating-App verlassen lassen?|
+spicy-172|Welche Eigenschaft gibt dir schon vor dem ersten Kuss Vertrauen?|Welche Eigenschaft weckt in dir den Wunsch, mit jemandem etwas aufzubauen?|
+spicy-173|Welches Detail wäre dir bei einem Abendessen zu zweit unangenehm?|Welches Detail wäre dir bei einem Abend bei jemandem zu Hause unangenehm?|
+spicy-174|Bei welcher Geste würdest du sagen: „Diese Person ist aufmerksam“?|Bei welcher Geste würdest du sagen: „Diese Person ist respektlos“?|
+spicy-175|Welcher Satz wäre schon beim ersten Date ein Alarmsignal?|Welcher Satz wäre schon beim ersten Date ein super Zeichen?|
+spicy-176|Welche Kommunikationsgewohnheit findest du in einer Beziehung unverzichtbar?|Welche Kommunikationsgewohnheit findest du in einer Beziehung unerträglich?|
+spicy-177|Welches Verhalten in den sozialen Medien wäre ein echter Abtörner?|Welches Verhalten in den sozialen Medien fändest du beruhigend?|
+spicy-178|Welchen Fehler würdest du bei jemandem akzeptieren, der dir sehr gefällt?|Welchen Fehler würdest du nicht akzeptieren, selbst bei jemandem, der dir sehr gefällt?|
+spicy-179|Woran merkst du, dass die andere Person dir wirklich zuhört?|Woran merkst du, dass die andere Person nur so tut, als würde sie dir zuhören?|
+spicy-180|Welche Frage würdest du stellen, um die Absichten eines Crushs herauszufinden?|Welche Frage würdest du stellen, um herauszufinden, ob ihr dieselben Werte habt?|
+spicy-181|Wer von deinen Freunden würde sich trauen, vor allen sein schlimmstes Date zu erzählen?|Wer von deinen Freunden würde sich trauen, bei einem Spiel einen geheimen Crush zu gestehen?|
+spicy-182|Welche etwas gewagte Frage würdest du jemandem stellen, mit dem du dich seit einem Monat triffst?|Welche etwas gewagte Frage würdest du dir für einen Abend zu zweit aufheben?|
+spicy-183|Welchen ungewöhnlichen Ort fändest du romantisch für einen Kuss?|Welchen ungewöhnlichen Ort fändest du für einen Kuss viel zu peinlich?|
+spicy-184|Bei welchem etwas gewagten Kompliment würdest du rot werden?|Welches etwas gewagte Kompliment würdest du dich trauen, deinem Crush zuzuflüstern?|
+spicy-185|Welche Flirt-Challenge würdest du bei einem Spiel unter einverstandenen Erwachsenen annehmen?|Welche Flirt-Challenge würdest du ablehnen, selbst mit jemandem, der dir gefällt?|
+spicy-186|Welches Detail kann einen eigentlich perfekten Flirtmoment ruinieren?|Welches Detail kann einen einfachen Blick sehr verführerisch machen?|
+spicy-187|Welche Frage würdest du stellen, bevor du die erste Nacht mit jemandem verbringst?|Welche Frage würdest du stellen, um die Grenzen deines Partners zu kennen?|
+spicy-188|Welcher Freund würde sich trauen, seinem Crush eine sehr direkte Liebeserklärung zu machen?|Welcher Freund würde vor jemandem, der ihm gefällt, kein Wort herausbringen?|
+spicy-189|Welche Wahrheit über dein Liebesleben würdest du dich trauen, bei einem Spiel unter Freunden zu verraten?|Welche Wahrheit über deinen letzten Crush würdest du nur deinen engsten Leuten erzählen?|
+spicy-190|Bei welchem Satz könntest du beim Flirten schwach werden?|Bei welchem Satz würdest du sofort jede Lust aufs Flirten verlieren?|
+spicy-191|Was würdest du antworten, wenn dein Crush dir „Ich hab Lust, dich zu küssen“ zuflüstern würde?|Was würdest du antworten, wenn dein Crush dich „Treffen wir uns nur zu zweit?“ fragen würde?|
+spicy-192|Was würdest du für ein besonders romantisches Date bei dir zu Hause anziehen?|Was würdest du anziehen, um deinen Partner bei einem Abend zu zweit zu überraschen?|
+spicy-193|Welche Aufmerksamkeit würde dich in romantische Stimmung bringen?|Welche Aufmerksamkeit würde dich einen schlechten Tag sofort vergessen lassen?|
+spicy-194|Was würdest du tun, wenn dein Partner im letzten Moment einen Gang zurückschalten wollte?|Was würdest du tun, wenn dein Partner dir sagen würde, dass er sich für einen Kuss noch nicht bereit fühlt?|
+spicy-195|Welches intime Thema fändest du wichtig, bevor ihr miteinander schlaft?|Welches intime Thema würdest du lieber erst nach mehreren Dates ansprechen?|
+spicy-196|Woran würdest du merken, dass die Anziehung gegenseitig ist?|Woran würdest du merken, dass du lieber keine Annäherung versuchen solltest?|
+spicy-197|Was würdest du sagen, wenn dein Crush dir zu eurem Jahrestag eine Nacht im Hotel vorschlagen würde?|Was würdest du sagen, wenn dein Crush dir vorschlagen würde, zum ersten Mal den Abend bei ihm zu verbringen?|
+spicy-198|Welchen Ort in Deutschland würdest du für eine romantische Nacht zu zweit wählen?|Welchen Ort würdest du für eine erste Nacht zu zweit meiden?|Frankreich → Deutschland
+spicy-199|Welchen Song würdest du in einem sehr romantischen Moment zu zweit auflegen?|Welchen Song würdest du ausmachen, wenn er bei einem ersten Kuss laufen würde?|
+spicy-200|Was würdest du tun, wenn dein Crush dich bitten würde, offen über eure Wünsche zu reden?|Was würdest du tun, wenn dein Crush dir eine wichtige Grenze verraten würde?|
