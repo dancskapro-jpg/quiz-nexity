@@ -397,3 +397,204 @@ dilemmes-898|Hoeveel tijd kost het volgens jou om te kiezen tussen uitgaan en ui
 dilemmes-899|Wat zou je als eerste doen als je twijfelt tussen een nuttig cadeau en een origineel cadeau van dezelfde prijs?|Wat zou je als eerste doen als een vriend twee dagen voor vertrek een reis wil omgooien?|
 dilemmes-900|Waar zou je heen gaan om twee nachten in een vakantiehuisje bij jou in de buurt te vinden?|Waar zou je heen gaan om een goede wollen trui te vinden?|
 dilemmes-901|Bij welke gelegenheid zou je een premium bioscoopkaartje willen kopen?|Bij welke gelegenheid zou je een allriskreisverzekering willen afsluiten?|
+dilemmes-902|Waar zou je heen gaan om een premium bioscoopkaartje te kopen?|Waar zou je heen gaan om een allriskreisverzekering af te sluiten?|
+spicy-001|Wat antwoord je als je crush je om middernacht „Ik mis je” stuurt?|Wat antwoord je als je crush op het laatste moment voorstelt om vanavond af te spreken?|
+spicy-002|Welk detail aan iemand doet je meteen in de eerste minuten smelten?|Welk detail kan je bij een eerste date al meteen afknappen?|
+spicy-003|Waardoor verraad je jezelf als je iemand leuk vindt op een feestje?|Waardoor verraad je jezelf als je je jaloezie probeert te verbergen?|
+spicy-004|Welk compliment zou je graag van een crush krijgen?|Welk compliment zou je niet durven geven aan iemand die je leuk vindt?|
+spicy-005|Welke plek zou je kiezen voor een eerste kus?|Welke plek zou je absoluut vermijden om je liefde te verklaren?|
+spicy-006|Na hoeveel dates zou je durven zeggen dat je gehecht raakt?|Na hoeveel dates zou je iemand aan je vrienden voorstellen?|
+spicy-007|Aan welk subtiel gebaar merk je dat iemand met je flirt?|Welk subtiel gebaar gebruik jij als je iemand leuk vindt?|
+spicy-008|Welk nummer zou je opzetten voor een romantische sfeer?|Welk nummer zou je vermijden tijdens een romantische date?|
+spicy-009|Aan wie zou je als eerste vertellen dat je een nieuwe crush hebt?|Aan wie zou je advies vragen voordat je je crush een bericht stuurt?|
+spicy-010|Wat zou je eerste reflex zijn als je crush je hand vastpakt?|Wat zou je eerste reflex zijn als je crush je onverwacht zoent?|
+spicy-011|Welk restaurant zou je kiezen voor een eerste date in Amsterdam?|Welk restaurant zou je vermijden voor een romantisch etentje in Amsterdam?|Paris → Amsterdam
+spicy-012|Welke kleding zou je kiezen voor een eerste date in een restaurant?|Welke kleding zou je niet durven dragen op een date met je crush?|
+spicy-013|Hoeveel minuten te laat komen zou je accepteren bij een eerste date?|Hoeveel minuten zou je wachten voordat je iemand die niet komt een berichtje stuurt?|
+spicy-014|Over welk onderwerp zou je beginnen om het ijs te breken op een eerste date?|Welk onderwerp zou je in de eerste tien minuten vermijden?|
+spicy-015|Welk excuus zou je geven om een mislukte date in te korten?|Welk excuus zou je verzinnen om een geslaagde date te rekken?|
+spicy-016|Wat zou je zeggen als de ander met een bos bloemen aan kwam zetten?|Wat zou je zeggen als de ander voorstelde om de rekening te delen?|
+spicy-017|Welk budget zou je uittrekken voor een eerste date met z’n tweeën, zonder vervoer?|Welk budget zou je uittrekken voor een romantisch etentje met z’n tweeën, zonder drankjes?|
+spicy-018|Welke activiteit zou je voorstellen voor een originele maar simpele tweede date?|Welke activiteit zou je weigeren voor een eerste date?|
+spicy-019|Op welk moment van een date durf je de eerste stap te zetten?|Op welk moment van een date weet je dat je weg wilt?|
+spicy-020|Aan welk teken zie je dat een eerste date goed is gegaan?|Aan welk teken zie je dat de ander de date liever wil inkorten?|
+spicy-021|Hoe lang wacht je met een bericht sturen na een goede date?|Hoe lang wacht je voordat je een crush die niet meer reageert opnieuw een bericht stuurt?|
+spicy-022|Wat zou je antwoorden op „Wat doe je vanavond?” van je crush?|Wat zou je antwoorden op „Ik zat aan je te denken” van je ex?|
+spicy-023|Welke emoji zou je sturen om te flirten zonder te direct te zijn?|Welke emoji zou je in het begin nooit naar een crush sturen?|
+spicy-024|Welk bericht zou je kunnen sturen om zonder druk een date voor te stellen?|Welk bericht zou je kunnen sturen om vriendelijk een date af te slaan?|
+spicy-025|Welke foto zou je kiezen om de aandacht van je crush te trekken op Instagram?|Welke foto zou je liever niet posten als je net iemand hebt leren kennen?|
+spicy-026|Wat zou je zeggen als je per ongeluk een hartje naar de verkeerde persoon stuurde?|Wat zou je zeggen als je crush een bericht zag dat je wilde verwijderen?|
+spicy-027|Na hoeveel berichten stel je meestal voor om af te spreken?|Na hoeveel dagen zonder antwoord vind je dat het gesprek voorbij is?|
+spicy-028|Van welk detail in een datingprofiel krijg je zin om een bericht te sturen?|Door welk detail in een datingprofiel swipe je meteen door?|
+spicy-029|Hoe zou je reageren als je een hele dag op „gelezen” blijft staan zonder antwoord?|Hoe zou je reageren op een bericht van je crush om 3 uur ’s nachts?|
+spicy-030|Aan wie zou je een dubbelzinnig gesprek laten zien om zijn of haar mening te vragen?|Aan wie zou je vragen een belangrijk bericht na te lezen voordat je het verstuurt?|
+spicy-031|Waar ontmoet je iemand het liefst: in een bar, een café of op een feestje?|Waar zou je op zaterdagavond absoluut niet je ex tegen het lijf willen lopen?|
+spicy-032|Met welke zin zou je iemand aanspreken op een feestje?|Van welke zin zou je wegrennen als iemand je ermee aansprak op een feestje?|
+spicy-033|Waardoor zou je langer op een feestje blijven?|Waardoor zou je een feestje voor middernacht verlaten?|
+spicy-034|Op welk nummer zou je met je crush willen dansen?|Door welk nummer zou je meteen de dansvloer aflopen?|
+spicy-035|Welk drankje zou je bestellen bij een eerste drankje met een crush?|Welk drankje zou je afslaan voordat je iemand gaat aanspreken die je leuk vindt?|
+spicy-036|Aan welke vriend zou je vertellen dat je iemand schattigs hebt gespot?|Welke vriend zou je vragen je te komen redden uit een ongemakkelijk gesprek?|
+spicy-037|Wat zou je doen als een vriend je probeerde te koppelen aan iemand die je niet leuk vindt?|Wat zou je doen als twee mensen je tegelijk ten dans vroegen?|
+spicy-038|Welk accessoire zou je dragen om je aantrekkelijk te voelen op een feestje?|Welk accessoire zou je feestlook compleet kunnen verpesten?|
+spicy-039|Welke dans zou je durven doen voor iemand die je leuk vindt?|Welke dans zou je weigeren te doen voor het hele feest?|
+spicy-040|Over welk onderwerp zou je beginnen om te flirten in een rij?|Over welk onderwerp zou je beginnen om opdringerig versierwerk af te kappen?|
+spicy-041|Welke karaktereigenschap vind je aantrekkelijker dan uiterlijk?|Door welke karaktereigenschap verlies je meteen je interesse?|
+spicy-042|Door welke eigenschap van iemand wil je diegene nog eens zien?|Door welke eigenschap van iemand voel je je op je gemak?|
+spicy-043|Aan welke blik merk je dat het klikt?|Van welke blik zou je je ongemakkelijk voelen op een date?|
+spicy-044|Welk fysiek detail valt je als eerste op bij iemand die je leuk vindt?|Welk detail van iemands stijl trekt je het meest aan?|
+spicy-045|Welk parfum of welke geur doet je denken aan een bijzondere date?|Van welk parfum of welke geur zou je smelten op een eerste date?|
+spicy-046|Welk romantisch gebaar is meer waard dan een duur cadeau?|Van welk romantisch gebaar zou je je in het openbaar ongemakkelijk voelen?|
+spicy-047|Wat zou je zeggen als iemand tegen je zei: „Je hebt een geweldige glimlach”?|Wat zou je zeggen als iemand tegen je zei: „Ik heb vannacht over je gedroomd”?|
+spicy-048|Van welk koosnaampje zou je moeten glimlachen?|Van welk koosnaampje zou je een grimas trekken?|
+spicy-049|In welke kleding voel je je het zelfverzekerdst om te versieren?|Welke kleding vind je het elegantst op een date?|
+spicy-050|Door welk klein gebaar voel je je begeerd zonder dat er een woord wordt gezegd?|Welk klein gebaar gebruik jij om je interesse te tonen zonder het toe te geven?|
+spicy-051|Wat zou je eruit flappen als je je crush bij de verkeerde naam noemde?|Wat zou je eruit flappen als je struikelde bij aankomst op een date?|
+spicy-052|Wat zou je doen als je tijdens een eerste date je ex tegenkwam in het restaurant?|Wat zou je doen als je ouders opdoken in dezelfde bar als jij en je date?|
+spicy-053|Hoe zou je reageren als je crush je oude profielfoto’s ontdekte?|Hoe zou je reageren als een vriend je ergste blauwtje vertelde waar je crush bij was?|
+spicy-054|Welke onschuldige leugen zou je kunnen vertellen nadat je een glas over tafel hebt gegooid?|Welke onschuldige leugen zou je kunnen vertellen nadat je de tijd van je date was vergeten?|
+spicy-055|Wat zou je zeggen als een ober je date bij de eerste date „uw partner” noemde?|Wat zou je zeggen als een onbekende vroeg hoe lang jullie al samen zijn?|
+spicy-056|Welk voorwerp zou het gênantst zijn om uit je tas te laten vallen waar je crush bij is?|Welk voorwerp zou het gênantst zijn om na een date bij iemand te laten liggen?|
+spicy-057|Van welk onderwerp zou je proberen af te stappen als iemand die je na staat een gênant verhaal vertelde?|Van welk onderwerp zou je proberen af te stappen als iemand naar je ergste liefdesherinnering vroeg?|
+spicy-058|Van welk geluid zou je je het ongemakkelijkst voelen tijdens een romantisch etentje?|Van welk geluid zou je je het ongemakkelijkst voelen tijdens een stilte met je crush?|
+spicy-059|Naar wie zou je een SOS sturen als je vastzat op een eindeloze date?|Aan wie zou je een enorme blunder op een date vertellen?|
+spicy-060|Welk excuus zou je verzinnen voor een vlek op je overhemd midden op een date?|Welk excuus zou je verzinnen als je de naam vergat van de persoon die je net hebt gezoend?|
+spicy-061|Wat zou je antwoorden als je ex je na een jaar „Kunnen we praten?” stuurde?|Wat zou je antwoorden als je ex vlak voor je verjaardag voorstelde om koffie te drinken?|
+spicy-062|Op welke plek zou je je ex met zijn of haar nieuwe partner liever niet tegenkomen?|Op welke plek zou je het meest verbaasd zijn om een oude crush tegen te komen?|
+spicy-063|Welk nummer doet je denken aan een oude relatie?|Welk nummer zou je niet willen horen tijdens een nieuwe date?|
+spicy-064|Welk voorwerp van een oude relatie zou je nog kunnen bewaren?|Welk voorwerp zou je na een breuk moeilijk kunnen teruggeven?|
+spicy-065|Hoe lang na een breuk zou je wachten met een nieuwe date?|Hoe lang na een breuk zou je wachten met het verwijderen van stelletjesfoto’s?|
+spicy-066|Welke vraag zou je weigeren aan je ex te stellen als je hem of haar weer tegenkwam?|Welke vraag zou je jaren later aan een oude crush durven stellen?|
+spicy-067|Wat zou je doen als je ex je om hulp vroeg bij het kiezen van een cadeau voor zijn of haar nieuwe partner?|Wat zou je doen als je ex ineens al je oude foto’s ging liken?|
+spicy-068|Aan welke vriend zou je advies vragen voordat je je ex antwoordt?|Aan welke vriend zou je vertellen dat je onverwacht je ex bent tegengekomen?|
+spicy-069|Welk gedrag zou je ervan overtuigen een ex nooit meer een kans te geven?|Welk gedrag zou je ervan overtuigen dat iemand echt veranderd is?|
+spicy-070|Om welke herinnering aan een oude date zou je nu nog moeten lachen?|Van welke herinnering aan een oude date zou je nu nog blozen?|
+spicy-071|Door welke houding wil je een date meteen beëindigen?|Van welke houding zou je je ongemakkelijk voelen op een avondje met stelletjes?|
+spicy-072|Wat zou je zeggen als iemand bleef aandringen om je te zoenen terwijl je daar geen zin in hebt?|Wat zou je zeggen als iemand in je telefoon wilde snuffelen?|
+spicy-073|Welk onderwerp houd je liever privé aan het begin van een relatie?|Welk onderwerp bespreek je liever voordat je een relatie begint?|
+spicy-074|Welke grens zou je stellen bij iemand die vijftig berichten per dag stuurt?|Welke grens zou je stellen bij iemand die al je wachtwoorden wil weten?|
+spicy-075|Aan welk gedrag zie je dat iemand je ruimte respecteert?|Aan welk gedrag zie je dat iemand een nee kan accepteren?|
+spicy-076|Aan welk teken zou je merken dat het tijd is om na een feestje naar huis te gaan?|Aan welk teken zou je merken dat je je niet op je gemak voelt op een date?|
+spicy-077|Welke zin zou je gebruiken om te zeggen: „Ik neem liever de tijd”?|Welke zin zou je gebruiken om te zeggen: „Ik wil niet verder gaan”?|
+spicy-078|Welk compromis zou je willen sluiten voor een langeafstandsrelatie?|Welk compromis zou je weigeren te sluiten voor een nieuwe relatie?|
+spicy-079|Welke persoonlijke informatie zou je niet geven op een eerste date?|Welke persoonlijke informatie zou je nooit op een datingapp zetten?|
+spicy-080|Wie zou je bellen als een date echt helemaal misliep?|Wie zou je bellen als je van een feestje naar huis wilde zonder uit te leggen waarom?|
+spicy-081|Welk klein ritueel zou je elke ochtend met je partner willen hebben?|Welk klein ritueel zou je op zondagavond willen delen?|
+spicy-082|Welke verrassing zou je regelen voor jullie jubileum als stel?|Welke verrassing zou je regelen na een zware week?|
+spicy-083|Welke activiteit zou je op een vrijdagavond met je partner willen uitproberen?|Welke activiteit zou je samen vermijden tijdens een eerste weekendje weg?|
+spicy-084|Welk alledaags minpuntje zou je makkelijk kunnen accepteren bij iemand?|Van welk alledaags minpuntje zou je snel je geduld verliezen?|
+spicy-085|Welk gerecht zou je koken om indruk te maken op je partner?|Welk gerecht zou je niet serveren bij een romantisch etentje thuis?|
+spicy-086|Welke plek in huis zou je kiezen voor een diner bij kaarslicht?|Welke plek in huis zou je kiezen om na een ruzie rustig te praten?|
+spicy-087|Hoe laat zou je graag een lief berichtje van je partner krijgen?|Hoe laat zou je graag vertrekken voor een verrassingsweekendje met z’n tweeën?|
+spicy-088|Welk gebaar zou een stel na een kleine ruzie weer kunnen verzoenen?|Welk gebaar zou een goed op gang gekomen verzoening kunnen verpesten?|
+spicy-089|Welk persoonlijk cadeau zou je geven na zes maanden relatie?|Welk cadeau zou je liever niet geven na pas twee weken?|
+spicy-090|Welke stelletjesgewoonte vind je echt schattig?|Welke stelletjesgewoonte zou je verstikkend vinden?|
+spicy-091|Welke openingszin zou je pakken op een datingapp?|Van welke openingszin zou je het gesprek meteen willen sluiten?|
+spicy-092|Welke foto zou je als eerste op je datingprofiel zetten?|Welke foto zou je meteen van een datingprofiel verwijderen?|
+spicy-093|Hoeveel dagen zou je op een app chatten voordat je voorstelt koffie te drinken?|Hoeveel dagen zou je blijven praten zonder ooit een date te plannen?|
+spicy-094|Van welk detail in een datingbio zou je moeten glimlachen?|Door welk detail in een datingbio zou je doorgaan naar het volgende profiel?|
+spicy-095|Wat zou je antwoorden op „Ik zoek niets serieus”?|Wat zou je antwoorden op „Ik wil het heel snel laten gaan”?|
+spicy-096|Welke openbare plek zou je voorstellen om iemand te ontmoeten die je online hebt leren kennen?|Welke openbare plek zou je vermijden voor een allereerste date?|
+spicy-097|Welk zoekfilter zou je als eerste gebruiken op een datingapp?|Welk profielcriterium vind je het minst belangrijk?|
+spicy-098|Op welk moment zou je stoppen met tegelijk met meerdere mensen chatten?|Op welk moment zou je een datingapp verwijderen?|
+spicy-099|Welk bericht zou je na een leuke date sturen om voor te stellen elkaar weer te zien?|Welk bericht zou je na een date zonder klik sturen om respectvol te blijven?|
+spicy-100|Welke vraag zou je stellen voor een eerste date met iemand die je online hebt leren kennen?|Welke vraag zou je stellen om te checken of jullie dezelfde verwachtingen hebben?|
+spicy-101|Op welk moment van een date zou een eerste kus natuurlijk voelen?|Op welk moment van een date zou een knuffel natuurlijk voelen?|
+spicy-102|Welke plek vind je romantisch om elkaar te zoenen?|Welke plek vind je gênant om elkaar te zoenen?|
+spicy-103|Van welk teder gebaar zou je smelten in de bioscoop?|Van welk teder gebaar zou je smelten tijdens een wandeling?|
+spicy-104|Welk nummer zou je kiezen voor een intieme, rustige avond?|Welk nummer zou je meteen uitzetten tijdens een intieme avond?|
+spicy-105|Wat zou je zeggen als je crush je vroeg: „Mag ik je zoenen?”|Wat zou je zeggen als je crush je vroeg: „Mag ik je knuffelen?”|
+spicy-106|Hoe lang duurt een perfecte knuffel volgens jou?|Hoe lang zou je in elkaars armen willen blijven als jullie elkaar weer zien?|
+spicy-107|Welk compliment zou je in het oor fluisteren van iemand die je leuk vindt?|Welk compliment zou je graag van je partner in je oor horen?|
+spicy-108|Door welk detail wordt een kus extra onvergetelijk?|Welk detail kan een romantisch moment verpesten?|
+spicy-109|Welke plek zou je kiezen voor een rustige avond met z’n tweeën?|Welke plek zou je vermijden voor een intiem gesprek?|
+spicy-110|Welk klein gebaar zou een romantisch avondje bijzonder maken?|Door welk klein gebaar zou je voelen dat de ander aan je denkt?|
+spicy-111|Wie van je vrienden zou durven zijn liefde te verklaren bij karaoke?|Wie van je vrienden zou de romantischste date organiseren?|
+spicy-112|Wie van je vrienden zou verliefd worden tijdens een reis?|Wie van je vrienden zou iemand ontmoeten in een rij?|
+spicy-113|Wie van je vrienden zou om 2 uur ’s nachts zijn ex appen?|Wie van je vrienden zou meteen het nummer van zijn ex verwijderen?|
+spicy-114|Wie van je vrienden zou bij elk bericht aan zijn crush om advies vragen?|Wie van je vrienden zou zonder aarzelen de eerste stap durven zetten?|
+spicy-115|Wie van je vrienden zou een speech voorbereiden om zijn gevoelens op te biechten?|Wie van je vrienden zou tegenover zijn crush helemaal vergeten wat hij wilde zeggen?|
+spicy-116|Wie van je vrienden zou een hele avond kunnen flirten?|Wie van je vrienden zou als eerste naar huis gaan om een serie te kijken?|
+spicy-117|Wie van je vrienden zou in een opwelling in Las Vegas trouwen?|Wie van je vrienden zou zijn bruiloft drie jaar van tevoren plannen?|
+spicy-118|Wie van je vrienden zou het meest geheimzinnig zijn over zijn liefdesleven?|Wie van je vrienden zou alle details van zijn eerste date vertellen?|
+spicy-119|Wie van je vrienden zou de moed hebben om een date af te slaan die hem niet bevalt?|Wie van je vrienden zou de moed hebben om een onbekende op koffie uit te nodigen?|
+spicy-120|Wie van je vrienden zou een nieuwe relatie een maand geheimhouden?|Wie van je vrienden zou de dag erna al een nieuwe crush aankondigen?|
+spicy-121|Hoeveel zou je maximaal betalen voor bloemen die je op een eerste date geeft?|Hoeveel zou je maximaal betalen voor een doos bonbons die je aan een crush geeft?|
+spicy-122|Hoeveel zou je uitgeven aan een romantisch etentje met z’n tweeën in een Amsterdams eetcafé?|Hoeveel zou je uitgeven aan een brunch met z’n tweeën in een Amsterdams café?|bistrot parisien → eetcafé à Amsterdam
+spicy-123|Welk budget zou je uittrekken voor een romantisch weekend van twee nachten in Nederland, zonder vervoer?|Welk budget zou je uittrekken voor een nacht in een hotel met spa in Nederland, voor twee?|France → Pays-Bas
+spicy-124|Hoeveel zou je willen betalen voor twee bioscoopkaartjes op een date?|Hoeveel zou je willen betalen voor twee kaartjes voor een comedyshow op een date?|
+spicy-125|Vanaf welke prijs zou je een belofte-ring te duur vinden?|Vanaf welke prijs zou je een koppelarmband te duur vinden?|
+spicy-126|Wat zou je maximale budget zijn voor een boeket dat bij je partner thuis wordt bezorgd?|Wat zou je maximale budget zijn voor een ontbijt voor twee dat wordt bezorgd?|
+spicy-127|Hoeveel zou je uitgeven aan een Valentijnscadeau na drie maanden relatie?|Hoeveel zou je uitgeven aan een verjaardagscadeau na drie maanden relatie?|
+spicy-128|Hoeveel denk je dat een fotoshoot van een uur als stel in Amsterdam kost?|Hoeveel denk je dat een duomassage van een uur in een spa in Amsterdam kost?|Paris → Amsterdam
+spicy-129|Hoeveel zou je betalen voor twee cocktails in een bar in Amsterdam?|Hoeveel zou je betalen voor twee desserts in een theesalon in Amsterdam?|Paris → Amsterdam
+spicy-130|Hoeveel zou je willen uitgeven aan een spontane romantische verrassing?|Hoeveel zou je willen uitgeven om een cadeau dezelfde dag te laten bezorgen?|
+spicy-131|Hoeveel minuten zou je nodig hebben om je klaar te maken voor een belangrijke date?|Hoeveel minuten zou je besteden aan het kiezen van je outfit voor een avond met je crush?|
+spicy-132|Hoe vaak per week zou je iemand willen zien in het begin van een relatie?|Hoe vaak per week zou je iemand met wie je iets hebt willen bellen?|
+spicy-133|Hoeveel dagen zou je wachten voordat je een tweede date voorstelt?|Hoeveel dagen zou je wachten voordat je je crush aan je vrienden voorstelt?|
+spicy-134|Hoeveel minuten zou je eerste telefoongesprek met een crush kunnen duren?|Hoeveel minuten zou een nachtelijk gesprek met je partner kunnen duren?|
+spicy-135|Hoeveel maanden relatie zou je wachten voordat je voor het eerst samen op reis gaat?|Hoeveel maanden relatie zou je wachten voordat je overweegt samen te gaan wonen?|
+spicy-136|Hoeveel foto’s zou je maken tijdens een romantisch weekend?|Hoeveel foto’s zou je posten tijdens een romantisch weekend?|
+spicy-137|Hoe vaak zou je op één avond „welterusten” kunnen sturen?|Hoe vaak zou je op je telefoon kunnen kijken terwijl je op een belangrijk antwoord wacht?|
+spicy-138|Hoe lang zou je nodig hebben om te besluiten iemand die je leuk vindt te zoenen?|Hoe lang zou je nodig hebben om te besluiten iemand uit eten te vragen?|
+spicy-139|Hoeveel dagen van tevoren zou je jullie jubileum als stel organiseren?|Hoeveel dagen van tevoren zou je een restaurant reserveren voor Valentijnsdag?|
+spicy-140|Hoeveel uur reizen zou je ervoor overhebben om een crush een weekend te zien?|Hoeveel uur reizen zou je ervoor overhebben voor een romantisch verrassingsuitje?|
+spicy-141|Wat zou je zeggen als iemand waar al je vrienden bij zijn om je nummer vroeg?|Wat zou je zeggen als iemand je waar zijn collega’s bij zijn mee uit vroeg?|
+spicy-142|Wat zou je zeggen als een onbekende tegen je zei: „Ik heb je al eens in mijn dromen gezien”?|Wat zou je zeggen als een onbekende tegen je zei: „Ik heb het gevoel dat we elkaar kennen”?|
+spicy-143|Wat zou je zeggen als je crush je vroeg om te dansen in een verlaten straat?|Wat zou je zeggen als je crush je vroeg om een duet te zingen bij karaoke?|
+spicy-144|Wat zou je zeggen als iemand tegen je zei: „Volgens mij vind je mij leuk”?|Wat zou je zeggen als iemand tegen je zei: „Het lijkt wel alsof je me probeert te versieren”?|
+spicy-145|Wat zou je zeggen als je crush bij de tweede date al je vrienden wilde ontmoeten?|Wat zou je zeggen als je crush je na twee weken aan zijn ouders wilde voorstellen?|
+spicy-146|Wat zou je zeggen als je crush je bij de eerste date al een heel persoonlijk cadeau gaf?|Wat zou je zeggen als je crush je na pas drie dagen een brief schreef?|
+spicy-147|Wat zou je zeggen als je crush je herkende op een oude, gênante foto?|Wat zou je zeggen als je crush je oude gebruikersnaam op een forum vond?|
+spicy-148|Wat zou je zeggen als je partner voorstelde om vanavond voor twee dagen naar zee te gaan?|Wat zou je zeggen als je partner een tafel voor je reserveerde zonder te zeggen waar?|
+spicy-149|Wat zou je zeggen als iemand die je leuk vindt opbiechtte dat hij heel verlegen is?|Wat zou je zeggen als iemand die je leuk vindt opbiechtte dat hij nog nooit een date heeft gehad?|
+spicy-150|Wat zou je zeggen als je crush je eerlijk vroeg wat je zoekt?|Wat zou je zeggen als je crush vroeg of je ook met anderen praat?|
+spicy-151|Welk grappig ding verberg je als je indruk wilt maken op een crush?|Welk grappig ding verberg je als je iemands ouders ontmoet?|
+spicy-152|Welke indiscrete vraag zou je je beste vriend willen stellen over zijn liefdesleven?|Welke indiscrete vraag zou je een oude crush willen stellen?|
+spicy-153|Om welke herinnering aan een eerste kus zou je nu moeten lachen?|Welke herinnering aan een eerste date zou je willen kunnen wissen?|
+spicy-154|Welke ietwat belachelijke gewoonte heb je als je op een bericht wacht?|Welke ietwat belachelijke gewoonte heb je voor een date?|
+spicy-155|Welk woord flap je eruit als iemand je een onverwacht compliment geeft?|Welk woord flap je eruit als je je crush onvoorbereid tegenkomt?|
+spicy-156|Van welk klein romantisch ding geef je niet graag toe dat je het leuk vindt?|Welk klein romantisch ding zou je één keer willen proberen?|
+spicy-157|Wat voor bericht bewaar je stiekem bij je favorieten?|Wat voor foto bewaar je stiekem in je galerij?|
+spicy-158|Van welk liefdesonderwerp zou je blozen bij een spelletje bekentenissen met vrienden?|Om welk liefdesonderwerp zou je moeten lachen bij een spelletje bekentenissen met vrienden?|
+spicy-159|Welke vraag zou je graag gesteld krijgen voor een eerste kus?|Welke vraag zou je graag gesteld krijgen voor een eerste nacht samen?|
+spicy-160|Welk onschuldig geheim zou je graag aan een crush opbiechten?|Welk onschuldig geheim zou je bewaren tot de derde date?|
+spicy-161|Heb je liever een eerste date in de bioscoop of in een café?|Heb je liever een date in een restaurant of tijdens een wandeling?|
+spicy-162|Krijg je liever een handgeschreven liefdesbriefje of een spraakbericht?|Geef je liever een bos bloemen of een zelfgemaakt cadeau?|
+spicy-163|Zoen je liever in de regen of bij zonsondergang?|Knuffel je liever voor een film of tijdens een wandeling?|
+spicy-164|Heb je liever een romantische verrassing in het openbaar of privé?|Krijg je liever een liefdesverklaring via een bericht of face to face?|
+spicy-165|Word je liever aangesproken op een feestje of zet je liever zelf de eerste stap?|Leer je liever iemand kennen via vrienden of toevallig?|
+spicy-166|Krijg je liever veel kleine berichtjes of één lang telefoontje ’s avonds?|Zie je je partner liever vaak of plan je liever grote weerzienmomenten?|
+spicy-167|Ga je met je crush liever een weekend naar zee of naar de bergen?|Heb je liever een bijzondere nacht in een boomhut of een hotel met spa voor twee?|
+spicy-168|Heb je liever een partner die heel aanhalig is of eerder terughoudend?|Heb je liever iemand die spontaan is of iemand die alles plant?|
+spicy-169|Heb je liever een spontane eerste kus of een aangekondigde eerste kus?|Krijg je liever een directe vraag voor een date of een vraag vol toespelingen?|
+spicy-170|Lach je liever de hele avond of heb je liever een heel diepgaand gesprek?|Dans je liever samen of kook je liever samen op een date?|
+spicy-171|Door welk gedrag zou je een tweede date afzeggen?|Door welk gedrag zou je een datingapp verlaten?|
+spicy-172|Door welke eigenschap krijg je al vertrouwen nog voor de eerste kus?|Door welke eigenschap krijg je zin om iets met iemand op te bouwen?|
+spicy-173|Van welk detail zou je je ongemakkelijk voelen tijdens een etentje met z’n tweeën?|Van welk detail zou je je ongemakkelijk voelen tijdens een avond bij iemand thuis?|
+spicy-174|Door welk gebaar zou je zeggen: „Die persoon is attent”?|Door welk gebaar zou je zeggen: „Die persoon heeft geen respect”?|
+spicy-175|Welke zin zou bij een eerste date meteen een alarmsignaal zijn?|Welke zin zou bij een eerste date meteen een heel goed teken zijn?|
+spicy-176|Welke communicatiegewoonte vind je onmisbaar in een relatie?|Welke communicatiegewoonte vind je onverdraaglijk in een relatie?|
+spicy-177|Welk gedrag op social media zou een echte turn-off zijn?|Welk gedrag op social media zou je geruststellend vinden?|
+spicy-178|Welk minpunt zou je accepteren bij iemand die je heel leuk vindt?|Welk minpunt zou je niet accepteren, zelfs niet bij iemand die je heel leuk vindt?|
+spicy-179|Aan welk teken zie je dat de ander echt luistert naar wat je vertelt?|Aan welk teken zie je dat de ander alleen maar doet alsof hij luistert?|
+spicy-180|Welke vraag zou je stellen om de bedoelingen van een crush te weten te komen?|Welke vraag zou je stellen om te weten of jullie dezelfde waarden hebben?|
+spicy-181|Wie van je vrienden zou zijn ergste date waar iedereen bij is durven vertellen?|Wie van je vrienden zou tijdens een spelletje een geheime crush durven opbiechten?|
+spicy-182|Welke ietwat gewaagde vraag zou je stellen aan iemand met wie je al een maand iets hebt?|Welke ietwat gewaagde vraag zou je bewaren voor een avond met z’n tweeën?|
+spicy-183|Welke ongewone plek zou je romantisch vinden voor een kus?|Welke ongewone plek zou je veel te gênant vinden voor een kus?|
+spicy-184|Van welk ietwat gedurfd compliment zou je blozen?|Welk ietwat gedurfd compliment zou je je crush durven toefluisteren?|
+spicy-185|Welke flirtuitdaging zou je accepteren in een spelletje tussen instemmende volwassenen?|Welke flirtuitdaging zou je weigeren, zelfs met iemand die je leuk vindt?|
+spicy-186|Welk detail kan een verder perfect verleidingsmoment verpesten?|Welk detail kan een simpele blik heel verleidelijk maken?|
+spicy-187|Welke vraag zou je stellen voordat je een eerste nacht met iemand doorbrengt?|Welke vraag zou je stellen om de grenzen van je partner te leren kennen?|
+spicy-188|Welke vriend zou een heel directe liefdesverklaring aan zijn crush durven doen?|Welke vriend zou geen woord kunnen uitbrengen bij iemand die hij leuk vindt?|
+spicy-189|Welke waarheid over je liefdesleven zou je durven onthullen tijdens een spelletje met vrienden?|Welke waarheid over je laatste crush zou je alleen voor je naasten bewaren?|
+spicy-190|Van welke zin zou je smelten tijdens het flirten?|Van welke zin zou je direct geen zin meer hebben om te flirten?|
+spicy-191|Wat zou je antwoorden als je crush fluisterde: „Ik wil je zoenen”?|Wat zou je antwoorden als je crush vroeg: „Zullen we met z’n tweetjes afspreken?”|
+spicy-192|Welke kleding zou je kiezen voor een extra romantische date bij jou thuis?|Welke kleding zou je kiezen om je partner te verrassen tijdens een avondje met z’n tweeën?|
+spicy-193|Door welk gebaar zou je in de stemming komen voor een romantische avond?|Door welk gebaar zou je een slechte dag meteen vergeten?|
+spicy-194|Wat zou je doen als je partner het op het laatste moment rustiger aan wilde doen?|Wat zou je doen als je partner zei dat hij nog niet klaar is voor een kus?|
+spicy-195|Welk intiem onderwerp zou je belangrijk vinden om te bespreken voordat jullie samen slapen?|Welk intiem onderwerp bespreek je liever pas na een paar dates?|
+spicy-196|Aan welk teken zou je merken dat de aantrekkingskracht wederzijds is?|Aan welk teken zou je merken dat je beter geen toenadering kunt zoeken?|
+spicy-197|Wat zou je zeggen als je crush voor jullie jubileum een nacht in een hotel voorstelde?|Wat zou je zeggen als je crush voorstelde om voor het eerst de avond bij hem thuis door te brengen?|
+spicy-198|Welke plek zou je kiezen voor een romantische nacht met z’n tweeën in Nederland?|Welke plek zou je vermijden voor een eerste nacht met z’n tweeën?|France → Pays-Bas
+spicy-199|Welk nummer zou je opzetten tijdens een heel romantisch moment met z’n tweeën?|Welk nummer zou je uitzetten als het tijdens een eerste kus opkwam?|
+spicy-200|Wat zou je doen als je crush je vroeg om eerlijk over jullie verlangens te praten?|Wat zou je doen als je crush je een belangrijke grens van hem vertelde?|

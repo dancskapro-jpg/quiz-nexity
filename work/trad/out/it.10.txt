@@ -234,7 +234,7 @@ argent-shopping-033|Quanto metteresti da parte ogni mese per pagarti un viaggio 
 argent-shopping-034|Cosa risponderesti se scoprissi un articolo a meno subito dopo averlo comprato?|Quale sarebbe la tua prima frase se un negozio rifiutasse un'offerta che però è esposta sullo scaffale?|
 argent-shopping-035|In quale negozio cercheresti per primo un materasso 140 × 190 cm con consegna?|Su quale sito o in quale negozio confronteresti un mazzo di fiori consegnato il giorno dopo?|
 argent-shopping-036|Cosa sceglieresti se rimanesse solo il modello da esposizione a prezzo scontato?|Quale opzione prenderesti se un biglietto per un concerto offrisse un posto a sedere o un posto in piedi?|
-argent-shopping-037|Che regalo faresti a un'amica appassionata di cucina giapponese con un budget di 30 euro?|Cosa compreresti per una persona che sta imparando a disegnare senza superare i 30 euro?|cuisine italienne → giapponese
+argent-shopping-037|Che regalo faresti a un'amica appassionata di cucina italiana con un budget di 30 euro?|Cosa compreresti per una persona che sta imparando a disegnare senza superare i 30 euro?|
 argent-shopping-038|Quanto tempo passeresti a provare diverse paia di scarpe da corsa prima di decidere?|Quanto tempo dedicheresti a scegliere un ristorante per una cena importante prima di scegliere?|
 argent-shopping-039|Quanto prevederesti per allestire un angolo ufficio in un monolocale?|Che budget totale fisseresti per passare un weekend di trekking in montagna?|
 argent-shopping-040|Quale sarebbe il tuo primo istinto se alla cassa ti facessero un prezzo diverso da quello sullo scaffale?|Cosa faresti per prima cosa se un apparecchio nuovo non si accendesse appena tolto dalla scatola?|
@@ -297,3 +297,103 @@ argent-shopping-096|Cosa sceglieresti se trovassi due hotel allo stesso prezzo i
 argent-shopping-097|Che regalo faresti a un amico che adora fare trekking con un budget di 30 euro?|Cosa compreresti per una persona che colleziona tazze senza superare i 30 euro?|
 argent-shopping-098|Quanto tempo passeresti a preparare la lista della spesa per la settimana prima di decidere?|Quanto tempo dedicheresti a trovare un alloggio per un weekend in quattro prima di scegliere?|
 argent-shopping-099|Quanto prevederesti per preparare un picnic per sei persone?|Che budget totale fisseresti per attrezzarti per il tuo primo campeggio?|
+argent-shopping-100|Quale sarebbe il tuo primo istinto se il pagamento di un biglietto del treno non andasse a buon fine senza spiegazioni?|Cosa faresti per prima cosa se un acquisto a rate ti venisse addebitato tutto in una volta?|
+argent-shopping-101|Che prezzo ti sembrerebbe ragionevole per un paio di occhiali da sole di marca?|Quanto saresti disposto a pagare per un e-reader con luce integrata?|
+argent-shopping-102|Oltre quale prezzo troveresti troppo caro un menù hamburger, patatine e bibita da asporto?|Qual è il prezzo massimo che accetteresti per un lavaggio auto interno ed esterno?|
+argent-shopping-103|Quanto metteresti da parte ogni mese per pagarti un corso di formazione professionale di sei mesi?|Quanto risparmieresti al mese per un matrimonio civile con trenta invitati?|
+argent-shopping-104|Cosa risponderesti se un sito segnalasse che il prodotto è esaurito dopo il pagamento?|Quale sarebbe la tua prima frase se un commesso insistesse per farti prendere una garanzia da 90 euro?|
+argent-shopping-105|In quale negozio cercheresti per primo un mazzo di fiori consegnato il giorno dopo?|Su quale sito o in quale negozio confronteresti un monopattino elettrico con una buona autonomia?|
+argent-shopping-106|Cosa sceglieresti se fossi indeciso tra il treno diretto e un viaggio più economico con cambio?|Quale opzione prenderesti se dovessi scegliere tra una valigia grande e due bagagli a mano?|
+argent-shopping-107|Che regalo faresti a un'amica che ha appena adottato un gatto con un budget di 30 euro?|Cosa compreresti per un amico a cui piace invitare gente a cena senza superare i 30 euro?|
+argent-shopping-108|Quanto tempo passeresti a cercare un'auto usata affidabile prima di decidere?|Quanto tempo dedicheresti a confrontare tre preventivi per cambiare le finestre prima di scegliere?|
+argent-shopping-109|Quanto prevederesti per passare un weekend di trekking in montagna?|Che budget totale fisseresti per i pasti di quattro giorni in trasferta?|
+argent-shopping-110|Quale sarebbe il tuo primo istinto se un amico ti mandasse una richiesta di rimborso sbagliata?|Cosa faresti per prima cosa se il prezzo di un hotel aumentasse proprio prima della prenotazione?|
+argent-shopping-111|Che prezzo ti sembrerebbe ragionevole per una sedia da ufficio ergonomica?|Quanto saresti disposto a pagare per un materasso matrimoniale di qualità?|
+argent-shopping-112|Oltre quale prezzo troveresti troppo caro un abbonamento mensile a un'app di sport?|Qual è il prezzo massimo che accetteresti per un biglietto intero per un museo di Roma?|musée parisien → museo di Roma
+argent-shopping-113|Quanto metteresti da parte ogni mese per pagarti un viaggio di cinque giorni a New York?|Quanto risparmieresti al mese per un weekend a Lisbona in primavera?|
+argent-shopping-114|Cosa risponderesti se un commesso ti consigliasse un modello che costa il doppio?|Quale sarebbe la tua prima frase se un sito aggiungesse 12 euro di spese all'ultimo momento?|
+argent-shopping-115|In quale negozio cercheresti per prima una lampada da scrivania con luce regolabile?|Su quale sito o in quale negozio confronteresti un libro usato in ottime condizioni?|
+argent-shopping-116|Cosa sceglieresti se un biglietto per un concerto offrisse un posto a sedere o un posto in piedi?|Quale opzione prenderesti se un negozio ti proponesse una taglia non perfetta a metà prezzo?|
+argent-shopping-117|Che regalo faresti a una persona cara appassionata di cinema con un budget di 30 euro?|Cosa compreresti per un amico che va a vivere nel suo primo appartamento senza superare i 30 euro?|
+argent-shopping-118|Quanto tempo passeresti a scegliere un computer per riprendere gli studi prima di decidere?|Quanto tempo dedicheresti a cercare un biglietto aereo per una settimana in Grecia prima di scegliere?|Italie → Grèce
+argent-shopping-119|Quanto prevederesti per sostituire i piccoli elettrodomestici di una cucina?|Che budget totale fisseresti per comprare le decorazioni per un albero di Natale?|
+argent-shopping-120|Quale sarebbe il tuo primo istinto se un apparecchio nuovo non si accendesse appena tolto dalla scatola?|Cosa faresti per prima cosa se un pacco fragile arrivasse senza imballaggio protettivo e rotto?|
+argent-shopping-121|Che prezzo ti sembrerebbe ragionevole per un profumo da 100 ml da usare tutti i giorni?|Quanto saresti disposto a pagare per una piccola cassa Bluetooth impermeabile?|
+argent-shopping-122|Oltre quale prezzo troveresti troppo caro un mazzo di dieci rose dal fioraio?|Qual è il prezzo massimo che accetteresti per un caffè lungo da asporto vicino a una stazione?|
+argent-shopping-123|Quanto metteresti da parte ogni mese per costituire un fondo di emergenza per gli imprevisti?|Quanto risparmieresti al mese per una bici elettrica per i tuoi spostamenti quotidiani?|
+argent-shopping-124|Cosa risponderesti se un abbonamento aumentasse il prezzo senza una spiegazione chiara?|Quale sarebbe la tua prima frase se il tuo pacco arrivasse dopo la data promessa?|
+argent-shopping-125|In quale negozio cercheresti per primo un paio di occhiali da vista detraibili?|Su quale sito o in quale negozio confronteresti una lavatrice con ritiro dell'usato?|remboursable (mutuelle) → detraibili
+argent-shopping-126|Cosa sceglieresti se un ristorante proponesse un menù fisso o piatti alla carta?|Quale opzione prenderesti se fossi indeciso tra riparare il telefono e sostituirlo?|
+argent-shopping-127|Che regalo faresti a una persona che sta imparando a disegnare con un budget di 30 euro?|Cosa compreresti per una collega che lascia il team dopo cinque anni senza superare i 30 euro?|
+argent-shopping-128|Quanto tempo passeresti a controllare le caratteristiche di una nuova macchina fotografica prima di decidere?|Quanto tempo dedicheresti a leggere le recensioni prima di comprare un nuovo telefono prima di scegliere?|
+argent-shopping-129|Quanto prevederesti per ospitare due amici a casa tua per tre giorni?|Che budget totale fisseresti per una cena fatta in casa per quattro ospiti?|
+argent-shopping-130|Quale sarebbe il tuo primo istinto se un sito di e-commerce smettesse di rispondere ai tuoi messaggi?|Cosa faresti per prima cosa se la tua carta venisse rifiutata pur avendo soldi sul conto?|
+argent-shopping-131|Che prezzo ti sembrerebbe ragionevole per una giacca impermeabile per la mezza stagione?|Quanto saresti disposto a pagare per delle cuffie wireless con cancellazione del rumore?|
+argent-shopping-132|Oltre quale prezzo troveresti troppo caro un posto in piedi sotto il palco in un piccolo locale?|Qual è il prezzo massimo che accetteresti per un panino prosciutto e formaggio al bar?|boulangerie → bar
+argent-shopping-133|Quanto metteresti da parte ogni mese per pagarti un'auto usata affidabile?|Quanto risparmieresti al mese per un portatile per i tuoi progetti personali?|
+argent-shopping-134|Cosa risponderesti se un negozio rifiutasse un'offerta che però è esposta sullo scaffale?|Quale sarebbe la tua prima frase se scoprissi un articolo a meno subito dopo averlo comprato?|
+argent-shopping-135|In quale negozio cercheresti per primo un divano letto per un monolocale?|Su quale sito o in quale negozio confronteresti uno smartphone ricondizionato con garanzia di due anni?|
+argent-shopping-136|Cosa sceglieresti se dovessi decidere tra una gift card e un regalo a sorpresa?|Quale opzione prenderesti se ti proponessero uno sconto immediato del 15% o un buono acquisto da 25 euro?|
+argent-shopping-137|Che regalo faresti a un amico che passa molto tempo in treno con un budget di 30 euro?|Cosa compreresti per un cugino che ha appena preso la patente senza superare i 30 euro?|
+argent-shopping-138|Quanto tempo passeresti a scegliere un ristorante per una cena importante prima di decidere?|Quanto tempo dedicheresti a provare diverse paia di scarpe da corsa prima di scegliere?|
+argent-shopping-139|Quanto prevederesti per passare una giornata in un parco divertimenti?|Che budget totale fisseresti per fare la spesa alimentare di una persona per una settimana?|
+argent-shopping-140|Quale sarebbe il tuo primo istinto se il corriere lasciasse il tuo pacco a uno sconosciuto?|Cosa faresti per prima cosa se ti arrivasse una bolletta del telefono doppia del solito?|
+argent-shopping-141|Che prezzo ti sembrerebbe ragionevole per un tavolo allungabile da quattro a sei persone?|Quanto saresti disposto a pagare per un cappotto invernale che duri diversi anni?|
+argent-shopping-142|Oltre quale prezzo troveresti troppo cara una corsa in taxi di quindici minuti il venerdì sera?|Qual è il prezzo massimo che accetteresti per una bottiglietta d'acqua da mezzo litro in aeroporto?|VTC → taxi
+argent-shopping-143|Quanto metteresti da parte ogni mese per pagarti una festa di compleanno per venti persone?|Quanto risparmieresti al mese per un viaggio di due settimane in Giappone?|
+argent-shopping-144|Cosa risponderesti se un amico si dimenticasse di ridarti la sua parte del conto?|Quale sarebbe la tua prima frase se un negoziante si rifiutasse di riprendere un articolo difettoso?|
+argent-shopping-145|In quale negozio cercheresti per primo un outfit per un matrimonio a giugno?|Su quale sito o in quale negozio confronteresti una scrivania regolabile in altezza a meno di 300 euro?|
+argent-shopping-146|Cosa sceglieresti se fossi indeciso tra una marca famosa e un prodotto senza marca con recensioni migliori?|Quale opzione prenderesti se dovessi scegliere tra una spedizione gratuita lenta e una spedizione rapida a pagamento?|
+argent-shopping-147|Che regalo faresti a un'amica che ama le piante da appartamento con un budget di 30 euro?|Cosa compreresti per un'amica appassionata di cucina italiana senza superare i 30 euro?|
+argent-shopping-148|Quanto tempo passeresti a confrontare gli abbonamenti di due palestre prima di decidere?|Quanto tempo dedicheresti a confrontare due offerte di assicurazione sulla casa prima di scegliere?|
+argent-shopping-149|Quanto prevederesti per comprare i prodotti per la pulizia di un mese?|Che budget totale fisseresti per organizzare un'apericena per otto persone?|
+argent-shopping-150|Quale sarebbe il tuo primo istinto se la banca ti bloccasse la carta durante un viaggio?|Cosa faresti per prima cosa se un articolo pagato online non venisse mai spedito?|
+argent-shopping-151|Che prezzo ti sembrerebbe ragionevole per una fotocamera istantanea con pellicola inclusa?|Quanto saresti disposto a pagare per un paio di sneakers per camminare tutti i giorni?|
+argent-shopping-152|Oltre quale prezzo troveresti troppo caro un pranzo con piatto e dolce in una trattoria?|Qual è il prezzo massimo che accetteresti per un pacco di pasta da 500 g al supermercato?|brasserie → trattoria
+argent-shopping-153|Quanto metteresti da parte ogni mese per pagarti una vacanza al mare ad agosto?|Quanto risparmieresti al mese per pagare la patente a una persona cara?|
+argent-shopping-154|Cosa risponderesti se un ordine venisse annullato il giorno prima di un compleanno?|Quale sarebbe la tua prima frase se un amico ti chiedesse di prestargli 200 euro?|
+argent-shopping-155|In quale negozio cercheresti per primo un frigorifero a basso consumo energetico?|Su quale sito o in quale negozio confronteresti un cappotto caldo a meno di 120 euro?|
+argent-shopping-156|Cosa sceglieresti se avessi la scelta tra un abbonamento annuale e uno mensile?|Quale opzione prenderesti se rimanesse solo il modello da esposizione a prezzo scontato?|
+argent-shopping-157|Che regalo faresti a un cugino che ha appena iniziato con la fotografia con un budget di 30 euro?|Cosa compreresti per una persona cara che adora i giochi da tavolo senza superare i 30 euro?|
+argent-shopping-158|Quanto tempo passeresti a preparare una lista di regali di Natale prima di decidere?|Quanto tempo dedicheresti a trovare un regalo dell'ultimo minuto per tuo padre prima di scegliere?|
+argent-shopping-159|Quanto prevederesti per organizzare una serata raclette per dieci persone?|Che budget totale fisseresti per comprare il materiale per l'inizio dell'anno universitario?|
+argent-shopping-160|Quale sarebbe il tuo primo istinto se un negoziante rifiutasse un cambio nonostante un difetto evidente?|Cosa faresti per prima cosa se alla cassa ti facessero un prezzo diverso da quello sullo scaffale?|
+argent-shopping-161|Che prezzo ti sembrerebbe ragionevole per un telefono ricondizionato con batteria nuova?|Quanto saresti disposto a pagare per un trolley da cabina robusto con quattro ruote?|
+argent-shopping-162|Oltre quale prezzo troveresti troppo cara una confezione da dieci capsule di caffè?|Qual è il prezzo massimo che accetteresti per il supplemento per il bagaglio a mano su un volo breve?|
+argent-shopping-163|Quanto metteresti da parte ogni mese per sostituire la lavatrice?|Quanto risparmieresti al mese per un nuovo divano per il soggiorno?|
+argent-shopping-164|Cosa risponderesti se un corriere dicesse di averti consegnato il pacco ma tu non avessi ricevuto niente?|Quale sarebbe la tua prima frase se un commesso ti annunciasse uno sconto riservato ai nuovi clienti?|
+argent-shopping-165|In quale negozio cercheresti per prima una borsa da viaggio accettata come bagaglio a mano?|Su quale sito o in quale negozio confronteresti un materasso 140 × 190 cm con consegna?|
+argent-shopping-166|Cosa sceglieresti se un'offerta richiedesse l'acquisto di tre prodotti invece di uno?|Quale opzione prenderesti se avessi un budget limitato per attrezzarti per lo smart working?|
+argent-shopping-167|Che regalo faresti a un amico che ha appena finito gli esami con un budget di 30 euro?|Cosa compreresti per una sorella che inizia un nuovo lavoro senza superare i 30 euro?|
+argent-shopping-168|Quanto tempo passeresti a cercare un affare durante i saldi prima di decidere?|Quanto tempo dedicheresti a scegliere una meta per le vacanze estive prima di scegliere?|
+argent-shopping-169|Quanto prevederesti per attrezzarti per il tuo primo campeggio?|Che budget totale fisseresti per allestire un angolo ufficio in un monolocale?|
+argent-shopping-170|Quale sarebbe il tuo primo istinto se sul tuo conto comparisse un addebito sconosciuto?|Cosa faresti per prima cosa se perdessi lo scontrino di un apparecchio ancora in garanzia?|
+argent-shopping-171|Che prezzo ti sembrerebbe ragionevole per un e-reader con luce integrata?|Quanto saresti disposto a pagare per un robot aspirapolvere per un appartamento di 50 m²?|
+argent-shopping-172|Oltre quale prezzo troveresti troppo cara la riparazione dello schermo di un telefono recente?|Qual è il prezzo massimo che accetteresti per una consegna a domicilio in meno di due ore?|
+argent-shopping-173|Quanto metteresti da parte ogni mese per pagarti un terrazzo arredato con mobili da esterno?|Quanto risparmieresti al mese per una macchina fotografica per imparare la fotografia?|
+argent-shopping-174|Cosa risponderesti se un commesso ti proponesse un pagamento in quattro rate senza che tu l'abbia chiesto?|Quale sarebbe la tua prima frase se un ristorante ti facesse pagare un dolce che non hai ordinato?|
+argent-shopping-175|In quale negozio cercheresti per primo un monopattino elettrico con una buona autonomia?|Su quale sito o in quale negozio confronteresti un regalo di compleanno a meno di 25 euro?|
+argent-shopping-176|Cosa sceglieresti se potessi comprare un videogioco nuovo o aspettare che cali di prezzo?|Quale opzione prenderesti se trovassi lo stesso capo nuovo oppure usato in ottimo stato?|
+argent-shopping-177|Che regalo faresti a un vicino che ti ha fatto un grosso favore con un budget di 30 euro?|Cosa compreresti per un amico che corre la sua prima maratona senza superare i 30 euro?|
+argent-shopping-178|Quanto tempo passeresti a scegliere un nuovo paio di occhiali prima di decidere?|Quanto tempo dedicheresti a confrontare i prezzi di cinque supermercati online prima di scegliere?|
+argent-shopping-179|Quanto prevederesti per i pasti di quattro giorni in trasferta?|Che budget totale fisseresti per fare tre regali di Natale a degli adulti?|
+argent-shopping-180|Quale sarebbe il tuo primo istinto se un acquisto a rate ti venisse addebitato tutto in una volta?|Cosa faresti per prima cosa se un bancomat ti addebitasse i soldi senza darteli?|
+argent-shopping-181|Che prezzo ti sembrerebbe ragionevole per un materasso matrimoniale di qualità?|Quanto saresti disposto a pagare per uno smartwatch con monitoraggio del sonno?|
+argent-shopping-182|Oltre quale prezzo troveresti troppo caro un lavaggio auto interno ed esterno?|Qual è il prezzo massimo che accetteresti per un biglietto del cinema il sabato sera?|
+argent-shopping-183|Quanto metteresti da parte ogni mese per pagarti un grande festival musicale la prossima estate?|Quanto risparmieresti al mese per una settimana sulla neve con tre amici?|
+argent-shopping-184|Cosa risponderesti se un negoziante ti facesse pagare due volte lo stesso prodotto?|Quale sarebbe la tua prima frase se un servizio clienti ti proponesse un buono invece di un rimborso?|
+argent-shopping-185|In quale negozio cercheresti per primo un libro usato in ottime condizioni?|Su quale sito o in quale negozio confronteresti un portatile per fare montaggio video?|
+argent-shopping-186|Cosa sceglieresti se dovessi decidere tra una valigia grande e due bagagli a mano?|Quale opzione prenderesti se fossi indeciso tra noleggiare un attrezzo per un giorno e comprarlo?|
+argent-shopping-187|Che regalo faresti a una persona che colleziona tazze con un budget di 30 euro?|Cosa compreresti per una persona a cui piace tanto leggere senza superare i 30 euro?|
+argent-shopping-188|Quanto tempo passeresti a confrontare i fornitori di internet prima di decidere?|Quanto tempo dedicheresti a trovare un divano adatto al tuo soggiorno prima di scegliere?|
+argent-shopping-189|Quanto prevederesti per comprare le decorazioni per un albero di Natale?|Che budget totale fisseresti per organizzare un compleanno a sorpresa per dodici amici?|
+argent-shopping-190|Quale sarebbe il tuo primo istinto se il prezzo di un hotel aumentasse proprio prima della prenotazione?|Cosa faresti per prima cosa se un acquisto comparisse due volte sul tuo estratto conto?|
+argent-shopping-191|Che prezzo ti sembrerebbe ragionevole per una piccola cassa Bluetooth impermeabile?|Quanto saresti disposto a pagare per un buon zaino per andare al lavoro?|
+argent-shopping-192|Oltre quale prezzo troveresti troppo caro un biglietto intero per un museo di Roma?|Qual è il prezzo massimo che accetteresti per un parcheggio per due ore in centro?|musée parisien → museo di Roma
+argent-shopping-193|Quanto metteresti da parte ogni mese per pagarti un matrimonio civile con trenta invitati?|Quanto risparmieresti al mese per il trasloco in un appartamento più grande?|
+argent-shopping-194|Cosa risponderesti se un amico ti proponesse di comprare insieme un oggetto inutile?|Quale sarebbe la tua prima frase se una persona cara criticasse un regalo che hai scelto per lei?|
+argent-shopping-195|In quale negozio cercheresti per prima una lavatrice con ritiro dell'usato?|Su quale sito o in quale negozio confronteresti delle scarpe da trekking per principianti?|
+argent-shopping-196|Cosa sceglieresti se un negozio ti proponesse una taglia non perfetta a metà prezzo?|Quale opzione prenderesti se potessi pagare un mobile in un'unica soluzione o in tre rate?|
+argent-shopping-197|Che regalo faresti a un amico a cui piace invitare gente a cena con un budget di 30 euro?|Cosa compreresti per un collega che ha appena avuto un figlio senza superare i 30 euro?|
+argent-shopping-198|Quanto tempo passeresti a trovare un alloggio per un weekend in quattro prima di decidere?|Quanto tempo dedicheresti a preparare la lista della spesa per la settimana prima di scegliere?|
+argent-shopping-199|Quanto prevederesti per una cena fatta in casa per quattro ospiti?|Che budget totale fisseresti per due giorni a Torino senza contare il viaggio?|Lille → Torino

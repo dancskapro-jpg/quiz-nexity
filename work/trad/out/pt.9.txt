@@ -297,3 +297,203 @@ dilemmes-798|Se você tivesse que chegar a um meio-termo em equipe, qual seria s
 dilemmes-799|Quanto tempo você reservaria para escolher uma atividade para um dia livre?|Quanto tempo você reservaria para dividir as despesas entre amigos?|
 dilemmes-800|Quem poderia te dar o melhor conselho para reservar uma viagem com amigos?|Quem poderia te dar o melhor conselho para se preparar para sair de madrugada?|
 dilemmes-801|Com quem você falaria para te ajudar a escolher entre dois restaurantes?|Com quem você falaria para te ajudar a tomar uma decisão em grupo?|
+dilemmes-802|Quanto tempo você reservaria para mudar de emprego para ter mais equilíbrio?|Quanto tempo você reservaria para escolher entre dois restaurantes?|
+dilemmes-803|O que você diria se pudesse comprar agora ou esperar uma promoção?|O que você diria se tivesse que anunciar uma decisão que desagrada a um amigo?|
+dilemmes-804|Qual orçamento máximo você reservaria para um curso online com certificado de vinte horas?|Qual orçamento máximo você reservaria para um ingresso de cinema premium?|
+dilemmes-805|Como você responderia se alguém próximo te pedisse um favor no seu dia de folga?|Como você responderia se pudesse economizar fazendo um trajeto muito mais longo?|
+dilemmes-806|Para você, qual é o preço de uma passagem de ônibus executivo para uma viagem de duas horas?|Para você, qual é o preço de um envio expresso no Brasil em até 24 horas para um pacote de 2 kg?|train 1re classe → ônibus executivo, France → Brasil
+dilemmes-807|Que horário do dia seria mais prático para preparar uma noite sem celular?|Que horário do dia seria mais prático para decidir fazer um curso noturno?|
+dilemmes-808|Até quanto você pagaria por um notebook ultraleve?|Até quanto você pagaria por uma bicicleta elétrica urbana usada em bom estado?|
+dilemmes-809|Em que site ou loja você procuraria um notebook ultraleve?|Em que site ou loja você procuraria uma bicicleta elétrica urbana usada em bom estado?|
+dilemmes-810|Quem poderia te dar o melhor conselho para organizar férias em família?|Quem poderia te dar o melhor conselho para aceitar ou recusar um favor?|
+dilemmes-811|Que horário do dia seria mais prático para escolher um destino de férias?|Que horário do dia seria mais prático para organizar um fim de semana com pouco dinheiro?|
+dilemmes-812|A quem você pediria ajuda para decidir viajar de férias em cima da hora?|A quem você pediria ajuda para escolher entre dois convites na mesma noite?|
+dilemmes-813|Que horário do dia seria mais prático para mudar de emprego para ter mais equilíbrio?|Que horário do dia seria mais prático para escolher entre dois restaurantes?|
+dilemmes-814|Aonde você iria para encontrar uma passagem de ônibus flexível?|Aonde você iria para encontrar uma noite de hotel com cancelamento grátis?|train → ônibus
+dilemmes-815|Que preço você imagina para um lugar na primeira fila de um espetáculo?|Que preço você imagina para uma passagem de ônibus flexível?|train → ônibus
+dilemmes-816|Que hora do dia você preferiria para escolher entre conforto e economia?|Que hora do dia você preferiria para decidir viajar de férias em cima da hora?|
+dilemmes-817|Como você responderia se um passeio legal custasse o dobro do previsto?|Como você responderia se o seu grupo estivesse em dúvida entre um programa em lugar fechado ou ao ar livre?|
+dilemmes-818|Que hora do dia você preferiria para responder a um convite surpresa?|Que hora do dia você preferiria para escolher um destino de férias?|
+dilemmes-819|Para você, qual é o preço de um ingresso de cinema premium?|Para você, qual é o preço de um seguro-viagem completo?|
+dilemmes-820|Qual seria o melhor momento para chegar a um meio-termo em equipe?|Qual seria o melhor momento para escolher entre conforto e economia?|
+dilemmes-821|Qual seria o ponto mais importante para aceitar ou recusar um favor?|Qual seria o ponto mais importante para escolher uma atividade para um dia livre?|
+dilemmes-822|Que preço você imagina para uma assinatura de música sem anúncios?|Que preço você imagina para uma estadia de duas noites numa casa de campo perto de onde você mora?|
+dilemmes-823|Qual seria sua maior dificuldade para decidir fazer um curso noturno?|Qual seria sua maior dificuldade para organizar férias em família?|
+dilemmes-824|Quanto tempo você levaria para organizar um fim de semana com pouco dinheiro?|Quanto tempo você levaria para decidir entre sair e descansar?|
+dilemmes-825|Em que site ou loja você procuraria uma assinatura de música sem anúncios?|Em que site ou loja você procuraria uma estadia de duas noites numa casa de campo perto de onde você mora?|
+dilemmes-826|Em que momento da semana você preferiria escolher entre dois restaurantes?|Em que momento da semana você preferiria tomar uma decisão em grupo?|
+dilemmes-827|A quem você pediria ajuda para mudar de emprego para ter mais equilíbrio?|A quem você pediria ajuda para escolher entre dois restaurantes?|
+dilemmes-828|Qual seria seu primeiro reflexo se ficasse em dúvida entre uma viagem curta de luxo e uma longa econômica?|Qual seria seu primeiro reflexo se tivesse que escolher um só evento entre vários?|
+dilemmes-829|Quanto você acha que vale uma noite num hotel bem localizado no centro da cidade?|Quanto você acha que vale um lugar na primeira fila de um espetáculo?|
+dilemmes-830|Quanto tempo você reservaria para preparar uma noite sem celular?|Quanto tempo você reservaria para decidir fazer um curso noturno?|
+dilemmes-831|Em quanto tempo você conseguiria responder a um convite surpresa?|Em quanto tempo você conseguiria escolher um destino de férias?|
+dilemmes-832|Que frase sairia da sua boca se ficasse dividido entre ajudar um amigo e cumprir um compromisso?|Que frase sairia da sua boca se alguém próximo te pedisse um favor no seu dia de folga?|
+dilemmes-833|Em que situação você decidiria assinar um plano de academia sem fidelidade?|Em que situação você decidiria comprar um smartphone recondicionado de 128 GB em ótimo estado?|
+dilemmes-834|Na sua opinião, quanto custa uma bicicleta elétrica urbana usada em bom estado?|Na sua opinião, quanto custa uma passagem de ônibus executivo para uma viagem de duas horas?|train 1re classe → ônibus executivo
+dilemmes-835|Como você responderia se ficasse em dúvida entre uma viagem curta de luxo e uma longa econômica?|Como você responderia se tivesse que escolher um só evento entre vários?|
+dilemmes-836|Que frase sairia da sua boca se um amigo quisesse mudar uma viagem dois dias antes da partida?|Que frase sairia da sua boca se tivesse que escolher uma atividade que não vai agradar a todo mundo?|
+dilemmes-837|Como você reagiria se tivesse que escolher entre duas pessoas para um convite limitado?|Como você reagiria se um passeio legal custasse o dobro do previsto?|
+dilemmes-838|O que você diria na hora se tivesse que escolher um só evento entre vários?|O que você diria na hora se tivesse que escolher entre dois aniversários na mesma noite?|
+dilemmes-839|Quanto você estaria disposto a gastar com um envio expresso no Brasil em até 24 horas para um pacote de 2 kg?|Quanto você estaria disposto a gastar com uma assinatura de música sem anúncios?|France → Brasil
+dilemmes-840|Que hora do dia você preferiria para escolher um presente a dois?|Que hora do dia você preferiria para preparar uma noite sem celular?|
+dilemmes-841|Que detalhe você verificaria antes de escolher uma atividade para um dia livre?|Que detalhe você verificaria antes de dividir as despesas entre amigos?|
+dilemmes-842|Que hora do dia você preferiria para aceitar ou recusar um favor?|Que hora do dia você preferiria para escolher uma atividade para um dia livre?|
+dilemmes-843|Quanto você estaria disposto a gastar com uma noite num hotel bem localizado no centro da cidade?|Quanto você estaria disposto a gastar com um lugar na primeira fila de um espetáculo?|
+dilemmes-844|Qual seria o melhor momento para organizar férias em família?|Qual seria o melhor momento para aceitar ou recusar um favor?|
+dilemmes-845|Quem você chamaria para te ajudar a dividir as despesas entre amigos?|Quem você chamaria para te ajudar a chegar a um meio-termo em equipe?|
+dilemmes-846|O que você diria se ficasse em dúvida entre dar um presente útil ou um presente original do mesmo preço?|O que você diria se um amigo quisesse mudar uma viagem dois dias antes da partida?|
+dilemmes-847|Em que site ou loja você procuraria um lugar na primeira fila de um espetáculo?|Em que site ou loja você procuraria uma passagem de ônibus flexível?|train → ônibus
+dilemmes-848|Como você responderia se te oferecessem um cargo com salário melhor, mas com uma hora a mais de trajeto todo dia?|Como você responderia se seus amigos escolhessem um restaurante de que você não gosta?|
+dilemmes-849|Em que momento da semana você preferiria dividir as despesas entre amigos?|Em que momento da semana você preferiria chegar a um meio-termo em equipe?|
+dilemmes-850|Qual seria o ponto mais importante para escolher entre conforto e economia?|Qual seria o ponto mais importante para decidir viajar de férias em cima da hora?|
+dilemmes-851|O que te levaria a alugar um carro familiar por três dias em Belo Horizonte?|O que te levaria a comprar um ingresso de show com boa visão do palco?|Lyon → Belo Horizonte
+dilemmes-852|Em que momento você teria vontade de comprar um lugar na primeira fila de um espetáculo?|Em que momento você teria vontade de comprar uma passagem de ônibus flexível?|train → ônibus
+dilemmes-853|O que você diria na hora se seus amigos escolhessem um restaurante de que você não gosta?|O que você diria na hora se pudesse ir embora mais cedo, mas perdesse o final de um evento?|
+dilemmes-854|A partir de que preço você hesitaria em comprar uma passagem de ônibus executivo para uma viagem de duas horas?|A partir de que preço você hesitaria em contratar um envio expresso no Brasil em até 24 horas para um pacote de 2 kg?|train 1re classe → ônibus executivo, France → Brasil
+dilemmes-855|Que preço você imagina para um presente personalizado para o aniversário de alguém próximo?|Que preço você imagina para um curso online com certificado de vinte horas?|
+dilemmes-856|Na sua opinião, quanto custa um carro familiar alugado por três dias em Belo Horizonte?|Na sua opinião, quanto custa um ingresso de show com boa visão do palco?|Lyon → Belo Horizonte
+dilemmes-857|O que você faria primeiro se tivesse que escolher entre dois aniversários na mesma noite?|O que você faria primeiro se um amigo te desse um ingresso para um show, mas você trabalhasse no dia seguinte?|
+dilemmes-858|Onde você procuraria primeiro um envio expresso no Brasil em até 24 horas para um pacote de 2 kg?|Onde você procuraria primeiro uma assinatura de música sem anúncios?|France → Brasil
+dilemmes-859|Qual seria sua primeira reação se tivesse que escolher um só evento entre vários?|Qual seria sua primeira reação se tivesse que escolher entre dois aniversários na mesma noite?|
+dilemmes-860|A partir de que preço você hesitaria em comprar um ingresso de cinema premium?|A partir de que preço você hesitaria em contratar um seguro-viagem completo?|
+dilemmes-861|A partir de que preço você hesitaria em reservar uma noite de hotel com cancelamento grátis?|A partir de que preço você hesitaria em assinar um plano de academia sem fidelidade?|
+dilemmes-862|Quanto tempo você levaria para escolher entre dois restaurantes?|Quanto tempo você levaria para tomar uma decisão em grupo?|
+dilemmes-863|Como você responderia se tivesse que escolher uma atividade que não vai agradar a todo mundo?|Como você responderia se tivesse duas opções igualmente interessantes para o fim de semana?|
+dilemmes-864|Para você, qual é o preço de um ingresso de show com boa visão do palco?|Para você, qual é o preço de uma refeição num restaurantezinho famoso?|
+dilemmes-865|Para você, qual é o preço de uma noite de hotel com cancelamento grátis?|Para você, qual é o preço de um plano de academia sem fidelidade?|
+dilemmes-866|Na sua opinião, quanto custa uma passagem de ônibus flexível?|Na sua opinião, quanto custa uma noite de hotel com cancelamento grátis?|train → ônibus
+dilemmes-867|Quem poderia te dar o melhor conselho para tomar uma decisão em grupo?|Quem poderia te dar o melhor conselho para responder a um convite surpresa?|
+dilemmes-868|Em quanto tempo você conseguiria escolher um presente a dois?|Em quanto tempo você conseguiria preparar uma noite sem celular?|
+dilemmes-869|Qual seria sua primeira reação se tivesse duas opções igualmente interessantes para o fim de semana?|Qual seria sua primeira reação se te propusessem uma mudança de planos em cima da hora?|
+dilemmes-870|Qual seria seu primeiro reflexo se te oferecessem um cargo com salário melhor, mas com uma hora a mais de trajeto todo dia?|Qual seria seu primeiro reflexo se seus amigos escolhessem um restaurante de que você não gosta?|
+dilemmes-871|Como você reagiria se um amigo te desse um ingresso para um show, mas você trabalhasse no dia seguinte?|Como você reagiria se te oferecessem um cargo com salário melhor, mas com uma hora a mais de trajeto todo dia?|
+dilemmes-872|O que te levaria a comprar uma bicicleta elétrica urbana usada em bom estado?|O que te levaria a comprar uma passagem de ônibus executivo para uma viagem de duas horas?|train 1re classe → ônibus executivo
+dilemmes-873|Em que situação você decidiria reservar uma noite num hotel bem localizado no centro da cidade?|Em que situação você decidiria comprar um lugar na primeira fila de um espetáculo?|
+dilemmes-874|Em que ocasião você compraria um ingresso de show com boa visão do palco?|Em que ocasião você reservaria uma refeição num restaurantezinho famoso?|
+dilemmes-875|Aonde você iria para reservar uma noite de hotel com cancelamento grátis?|Aonde você iria para assinar um plano de academia sem fidelidade?|
+dilemmes-876|Em que site ou loja você procuraria um presente personalizado para o aniversário de alguém próximo?|Em que site ou loja você procuraria um curso online com certificado de vinte horas?|
+dilemmes-877|Até quanto você pagaria por um presente personalizado para o aniversário de alguém próximo?|Até quanto você pagaria por um curso online com certificado de vinte horas?|
+dilemmes-878|Qual seria sua primeira reação se pudesse economizar fazendo um trajeto muito mais longo?|Qual seria sua primeira reação se ficasse em dúvida entre dar um presente útil ou um presente original do mesmo preço?|
+dilemmes-879|Quem você chamaria para te ajudar a decidir fazer um curso noturno?|Quem você chamaria para te ajudar a organizar férias em família?|
+dilemmes-880|Que pessoa próxima de você poderia te ajudar a aceitar ou recusar um favor?|Que pessoa próxima de você poderia te ajudar a escolher uma atividade para um dia livre?|
+dilemmes-881|Qual seria sua primeira reação se o seu grupo estivesse em dúvida entre um programa em lugar fechado ou ao ar livre?|Qual seria sua primeira reação se pudesse comprar agora ou esperar uma promoção?|
+dilemmes-882|Em quanto tempo você conseguiria se preparar para sair de madrugada?|Em quanto tempo você conseguiria mudar de emprego para ter mais equilíbrio?|
+dilemmes-883|Em que ocasião você compraria um suéter de lã de boa qualidade?|Em que ocasião você reservaria uma noite num hotel bem localizado no centro da cidade?|
+dilemmes-884|A partir de que preço você hesitaria em comprar um suéter de lã de boa qualidade?|A partir de que preço você hesitaria em reservar uma noite num hotel bem localizado no centro da cidade?|
+dilemmes-885|O que você diria na hora se pudesse economizar fazendo um trajeto muito mais longo?|O que você diria na hora se ficasse em dúvida entre dar um presente útil ou um presente original do mesmo preço?|
+dilemmes-886|Para você, qual é o preço de um suéter de lã de boa qualidade?|Para você, qual é o preço de uma noite num hotel bem localizado no centro da cidade?|
+dilemmes-887|Qual seria sua maior dificuldade para escolher entre dois restaurantes?|Qual seria sua maior dificuldade para tomar uma decisão em grupo?|
+dilemmes-888|Aonde você iria para encontrar um carro familiar para alugar por três dias em Belo Horizonte?|Aonde você iria para encontrar um ingresso de show com boa visão do palco?|Lyon → Belo Horizonte
+dilemmes-889|Qual orçamento máximo você reservaria para uma estadia de duas noites numa casa de campo perto de onde você mora?|Qual orçamento máximo você reservaria para um suéter de lã de boa qualidade?|
+dilemmes-890|A quem você pediria ajuda para escolher uma atividade para um dia livre?|A quem você pediria ajuda para dividir as despesas entre amigos?|
+dilemmes-891|Que frase sairia da sua boca se tivesse que anunciar uma decisão que desagrada a um amigo?|Que frase sairia da sua boca se ficasse em dúvida entre uma viagem curta de luxo e uma longa econômica?|
+dilemmes-892|Que detalhe você verificaria antes de escolher um destino de férias?|Que detalhe você verificaria antes de organizar um fim de semana com pouco dinheiro?|
+dilemmes-893|Em que situação você decidiria contratar um seguro-viagem completo?|Em que situação você decidiria comprar um notebook ultraleve?|
+dilemmes-894|Quanto você acha que vale um envio expresso no Brasil em até 24 horas para um pacote de 2 kg?|Quanto você acha que vale uma assinatura de música sem anúncios?|France → Brasil
+dilemmes-895|Em que momento você teria vontade de assinar um serviço de música sem anúncios?|Em que momento você teria vontade de reservar uma estadia de duas noites numa casa de campo perto de onde você mora?|
+dilemmes-896|Que detalhe você verificaria antes de preparar uma noite sem celular?|Que detalhe você verificaria antes de decidir fazer um curso noturno?|
+dilemmes-897|Como você reagiria se tivesse que anunciar uma decisão que desagrada a um amigo?|Como você reagiria se ficasse em dúvida entre uma viagem curta de luxo e uma longa econômica?|
+dilemmes-898|Na sua opinião, quanto tempo leva para decidir entre sair e descansar?|Na sua opinião, quanto tempo leva para escolher um presente a dois?|
+dilemmes-899|O que você faria primeiro se ficasse em dúvida entre dar um presente útil ou um presente original do mesmo preço?|O que você faria primeiro se um amigo quisesse mudar uma viagem dois dias antes da partida?|
+dilemmes-900|Aonde você iria para encontrar uma estadia de duas noites numa casa de campo perto de onde você mora?|Aonde você iria para encontrar um suéter de lã de boa qualidade?|
+dilemmes-901|Em que ocasião você compraria um ingresso de cinema premium?|Em que ocasião você contrataria um seguro-viagem completo?|
+dilemmes-902|Aonde você iria para comprar um ingresso de cinema premium?|Aonde você iria para contratar um seguro-viagem completo?|
+spicy-001|O que você responde se o seu crush te manda “Tô com saudade” à meia-noite?|O que você responde se o seu crush propõe se verem hoje à noite, em cima da hora?|
+spicy-002|Que detalhe faz você se encantar por alguém logo nos primeiros minutos?|Que detalhe pode te desanimar logo num primeiro encontro?|
+spicy-003|O que te entrega quando alguém te atrai numa festa?|O que te entrega quando você tenta esconder o seu ciúme?|
+spicy-004|Que elogio você gostaria de receber de um crush?|Que elogio você não teria coragem de fazer para alguém de quem você está a fim?|
+spicy-005|Que lugar você escolheria para um primeiro beijo?|Que lugar você evitaria de jeito nenhum para se declarar?|
+spicy-006|Depois de quantos encontros você teria coragem de dizer que está se apegando?|Depois de quantos encontros você apresentaria alguém aos seus amigos?|
+spicy-007|Que gesto discreto te faz perceber que alguém está flertando com você?|Que gesto discreto você usa quando está a fim de alguém?|
+spicy-008|Que música você colocaria para criar um clima romântico?|Que música você evitaria durante um encontro romântico?|
+spicy-009|Para quem você contaria primeiro que tem um crush novo?|A quem você pediria conselho antes de mandar uma mensagem para o seu crush?|
+spicy-010|Qual seria seu primeiro reflexo se o seu crush pegasse na sua mão?|Qual seria seu primeiro reflexo se o seu crush te beijasse de surpresa?|
+spicy-011|Que restaurante você escolheria para um primeiro encontro em São Paulo?|Que restaurante você evitaria para um jantar romântico em São Paulo?|Paris → São Paulo
+spicy-012|Que roupa você escolheria para um primeiro encontro num restaurante?|Que roupa você não teria coragem de usar num encontro com o seu crush?|
+spicy-013|Quantos minutos de atraso você aceitaria num primeiro encontro?|Quantos minutos você esperaria antes de mandar mensagem para alguém que não aparece?|
+spicy-014|Que assunto você puxaria para quebrar o gelo num primeiro date?|Que assunto você evitaria nos primeiros dez minutos?|
+spicy-015|Que desculpa você daria para encurtar um encontro que deu errado?|Que desculpa você inventaria para prolongar um encontro que deu certo?|
+spicy-016|O que você diria se a outra pessoa chegasse com um buquê de flores?|O que você diria se a outra pessoa propusesse dividir a conta?|
+spicy-017|Que orçamento você reservaria para um primeiro encontro a dois, sem contar o transporte?|Que orçamento você reservaria para um jantar romântico a dois, sem contar as bebidas?|
+spicy-018|Que atividade você proporia para um segundo encontro original, mas simples?|Que atividade você recusaria para um primeiro encontro?|
+spicy-019|Em que momento de um encontro você tem coragem de dar o primeiro passo?|Em que momento de um encontro você sabe que quer ir embora?|
+spicy-020|Que sinal te mostra que um primeiro encontro foi bom?|Que sinal te mostra que a outra pessoa gostaria de encurtar o encontro?|
+spicy-021|Quanto tempo você espera antes de mandar mensagem depois de um encontro bom?|Quanto tempo você espera antes de chamar de novo um crush que parou de responder?|
+spicy-022|O que você responderia a um “O que você vai fazer hoje à noite?” vindo do seu crush?|O que você responderia a um “Tava pensando em você” vindo do seu ex?|
+spicy-023|Que emoji você mandaria para flertar sem ser direto demais?|Que emoji você nunca mandaria para um crush no começo?|
+spicy-024|Que mensagem você poderia mandar para chamar alguém para sair sem pressão?|Que mensagem você poderia mandar para recusar um encontro com gentileza?|
+spicy-025|Que foto você escolheria para chamar a atenção do seu crush no Instagram?|Que foto você evitaria postar enquanto está conhecendo alguém novo?|
+spicy-026|O que você diria se mandasse um coração para a pessoa errada?|O que você diria se o seu crush visse uma mensagem que você queria apagar?|
+spicy-027|Depois de quantas mensagens você normalmente propõe se encontrarem?|Depois de quantos dias sem resposta você considera que a conversa acabou?|
+spicy-028|Que detalhe de um perfil de app de namoro te dá vontade de puxar conversa?|Que detalhe de um perfil de app de namoro te faz passar na hora?|
+spicy-029|Como você reagiria se ficasse no visto, sem resposta, o dia inteiro?|Como você reagiria a uma mensagem do seu crush às 3 da manhã?|
+spicy-030|Para quem você mostraria uma conversa ambígua para pedir opinião?|A quem você pediria para reler uma mensagem importante antes de mandar?|
+spicy-031|Onde você prefere conhecer alguém: num bar, num café ou numa festa?|Onde você não gostaria de jeito nenhum de dar de cara com o seu ex num sábado à noite?|
+spicy-032|Que frase você usaria para chegar em alguém numa festa?|Que frase te faria fugir se alguém chegasse em você numa festa?|
+spicy-033|O que poderia te fazer ficar mais tempo numa festa?|O que te faria ir embora de uma festa antes da meia-noite?|
+spicy-034|Que música te daria vontade de dançar com o seu crush?|Que música te faria sair da pista de dança na hora?|
+spicy-035|Que bebida você pediria num primeiro drink com um crush?|Que bebida você recusaria antes de ir falar com alguém de quem você está a fim?|
+spicy-036|Para qual amigo você contaria que viu alguém bonito?|Que amigo você chamaria para te salvar de uma conversa constrangedora?|
+spicy-037|O que você faria se um amigo tentasse te apresentar alguém que não te atrai?|O que você faria se duas pessoas te chamassem para dançar ao mesmo tempo?|
+spicy-038|Que acessório você usaria para se sentir atraente numa festa?|Que acessório poderia estragar completamente o seu look de festa?|
+spicy-039|Que dança você teria coragem de fazer na frente de alguém de quem você está a fim?|Que dança você se recusaria a fazer na frente da festa inteira?|
+spicy-040|Que assunto você puxaria para flertar numa fila?|Que assunto você puxaria para cortar uma paquera insistente?|
+spicy-041|Que traço de personalidade te conquista mais do que a aparência?|Que traço de personalidade te faz perder o interesse na hora?|
+spicy-042|Que qualidade em alguém te dá vontade de ver a pessoa de novo?|Que qualidade em alguém te faz sentir confiança?|
+spicy-043|Que olhar te faz perceber que rolou química?|Que olhar te deixaria desconfortável num encontro?|
+spicy-044|Que detalhe físico você repara primeiro em alguém que te atrai?|Que detalhe do estilo de alguém mais te atrai?|
+spicy-045|Que perfume ou cheiro te lembra um encontro marcante?|Que perfume ou cheiro te deixaria encantado num primeiro date?|
+spicy-046|Que gesto romântico vale mais do que um presente caro?|Que gesto romântico te deixaria desconfortável em público?|
+spicy-047|O que você diria se alguém te dissesse “Você tem um sorriso incrível”?|O que você diria se alguém te dissesse “Sonhei com você esta noite”?|
+spicy-048|Que apelido carinhoso te faria sorrir?|Que apelido carinhoso te faria fazer careta?|
+spicy-049|Que roupa te dá mais confiança para seduzir?|Que roupa te parece a mais elegante para um encontro?|
+spicy-050|Que pequeno gesto te faz se sentir desejado sem que nenhuma palavra seja dita?|Que pequeno gesto você usa para mostrar interesse sem admitir?|
+spicy-051|Que frase sairia da sua boca se você chamasse o seu crush pelo nome errado?|Que frase sairia da sua boca se você tropeçasse ao chegar num encontro?|
+spicy-052|O que você faria se encontrasse o seu ex no restaurante durante um primeiro encontro?|O que você faria se os seus pais aparecessem no mesmo bar que você e o seu date?|
+spicy-053|Qual seria sua reação se o seu crush descobrisse suas fotos de perfil antigas?|Qual seria sua reação se um amigo contasse o pior fora que você já levou na frente do seu crush?|
+spicy-054|Que mentirinha inofensiva você poderia contar depois de derrubar um copo na mesa?|Que mentirinha inofensiva você poderia contar depois de esquecer o horário do encontro?|
+spicy-055|O que você diria se um garçom chamasse o seu date de “seu marido” ou “sua esposa” no primeiro encontro?|O que você diria se um desconhecido perguntasse há quanto tempo vocês estão juntos?|
+spicy-056|Que objeto seria o mais constrangedor de deixar cair da bolsa na frente de um crush?|Que objeto seria o mais constrangedor de esquecer na casa de alguém depois de um encontro?|
+spicy-057|Que assunto você tentaria mudar se alguém próximo contasse uma história constrangedora?|Que assunto você tentaria mudar se te perguntassem a sua pior lembrança amorosa?|
+spicy-058|Que barulho te deixaria mais desconfortável durante um jantar romântico?|Que barulho te deixaria mais desconfortável durante um momento de silêncio com o seu crush?|
+spicy-059|Para quem você mandaria um SOS se ficasse preso num encontro que não acaba nunca?|Para quem você contaria uma mancada gigante que você deu num date?|
+spicy-060|Que desculpa você daria para justificar uma mancha na camisa no meio de um encontro?|Que desculpa você daria se esquecesse o nome da pessoa que você acabou de beijar?|
+spicy-061|O que você responderia se o seu ex te mandasse “Podemos conversar?” depois de um ano?|O que você responderia se o seu ex te chamasse para um café logo antes do seu aniversário?|
+spicy-062|Em que lugar você evitaria dar de cara com o seu ex e a nova pessoa dele?|Em que lugar você ficaria mais surpreso de reencontrar um antigo crush?|
+spicy-063|Que música te lembra um relacionamento antigo?|Que música você não gostaria de ouvir durante um encontro novo?|
+spicy-064|Que objeto de um relacionamento antigo você ainda poderia guardar?|Que objeto você teria dificuldade de devolver depois de um término?|
+spicy-065|Quanto tempo depois de um término você esperaria antes de um novo encontro?|Quanto tempo depois de um término você esperaria antes de apagar as fotos de casal?|
+spicy-066|Que pergunta você se recusaria a fazer ao seu ex ao reencontrá-lo?|Que pergunta você teria coragem de fazer a um antigo crush anos depois?|
+spicy-067|O que você faria se o seu ex te pedisse ajuda para escolher um presente para a nova pessoa dele?|O que você faria se o seu ex de repente curtisse todas as suas fotos antigas?|
+spicy-068|A que amigo você pediria conselho antes de responder ao seu ex?|Para qual amigo você contaria um encontro inesperado com o seu ex?|
+spicy-069|Que comportamento te convenceria a nunca dar outra chance a um ex?|Que comportamento te convenceria de que uma pessoa realmente mudou?|
+spicy-070|Que lembrança de um encontro antigo ainda te faria rir hoje?|Que lembrança de um encontro antigo ainda te faria corar hoje?|
+spicy-071|Que atitude te dá vontade imediata de encerrar um encontro?|Que atitude te deixaria desconfortável numa noite entre casais?|
+spicy-072|O que você diria se alguém insistisse em te beijar quando você não está a fim?|O que você diria se alguém quisesse mexer no seu celular?|
+spicy-073|Que assunto você prefere manter em particular no começo de um relacionamento?|Que assunto você prefere conversar antes de começar a namorar?|
+spicy-074|Que limite você colocaria para alguém que manda cinquenta mensagens por dia?|Que limite você colocaria para alguém que quer saber todas as suas senhas?|
+spicy-075|Que comportamento mostra que uma pessoa respeita o seu espaço?|Que comportamento mostra que uma pessoa sabe ouvir um não?|
+spicy-076|Que sinal te mostraria que está na hora de voltar para casa depois de uma festa?|Que sinal te mostraria que um encontro não está te deixando à vontade?|
+spicy-077|Que frase você usaria para dizer “Prefiro ir com calma”?|Que frase você usaria para dizer “Não quero ir além disso”?|
+spicy-078|Que concessão você estaria disposto a fazer por um relacionamento à distância?|Que concessão você se recusaria a fazer por um relacionamento novo?|
+spicy-079|Que informação pessoal você não daria num primeiro date?|Que informação pessoal você nunca colocaria num app de namoro?|
+spicy-080|Para quem você ligaria se um encontro estivesse dando muito errado?|Para quem você ligaria se quisesse ir embora de uma festa sem explicar por quê?|
+spicy-081|Que pequeno ritual você gostaria de ter com o seu parceiro toda manhã?|Que pequeno ritual você gostaria de compartilhar no domingo à noite?|
+spicy-082|Que surpresa você prepararia para um aniversário de namoro?|Que surpresa você prepararia depois de uma semana difícil?|
+spicy-083|Que atividade você gostaria de experimentar com o seu parceiro numa sexta à noite?|Que atividade você evitaria fazer juntos num primeiro fim de semana?|
+spicy-084|Que defeito do dia a dia você aceitaria facilmente em alguém?|Que defeito do dia a dia te faria perder a paciência rapidinho?|
+spicy-085|Que prato você cozinharia para impressionar o seu parceiro?|Que prato você evitaria servir num jantar romântico em casa?|
+spicy-086|Que lugar da casa você escolheria para um jantar à luz de velas?|Que lugar da casa você escolheria para conversar com calma depois de uma briga?|
+spicy-087|A que horas você gostaria de receber uma mensagem carinhosa do seu parceiro?|A que horas você gostaria de sair para um fim de semana surpresa a dois?|
+spicy-088|Que gesto poderia reconciliar um casal depois de uma briguinha?|Que gesto poderia estragar uma reconciliação que estava indo bem?|
+spicy-089|Que presente pessoal você daria depois de seis meses de relacionamento?|Que presente você evitaria dar depois de só duas semanas?|
+spicy-090|Que hábito de casal te parece especialmente fofo?|Que hábito de casal te pareceria sufocante?|
+spicy-091|Que primeira frase te fisgaria num app de namoro?|Que primeira frase te daria vontade de encerrar a conversa?|
+spicy-092|Que foto você colocaria primeiro no seu perfil de app de namoro?|Que foto você tiraria na hora de um perfil de app de namoro?|
+spicy-093|Por quantos dias você conversaria num app antes de chamar para um café?|Por quantos dias você aceitaria conversar sem nunca marcar um encontro?|
+spicy-094|Que detalhe de uma bio de app de namoro te faria sorrir?|Que detalhe de uma bio de app de namoro te faria passar para o próximo perfil?|
+spicy-095|O que você responderia a “Não tô procurando nada sério”?|O que você responderia a “Quero ir bem rápido”?|
+spicy-096|Que lugar público você sugeriria para conhecer pessoalmente alguém que conheceu na internet?|Que lugar público você evitaria para um primeiríssimo encontro?|
+spicy-097|Que filtro de busca você usaria primeiro num app de namoro?|Que critério de perfil te parece o menos importante?|
+spicy-098|Em que momento você pararia de conversar com várias pessoas ao mesmo tempo?|Em que momento você apagaria um app de namoro?|
+spicy-099|Que mensagem você mandaria depois de um date legal para propor se verem de novo?|Que mensagem você mandaria depois de um date sem química para continuar respeitoso?|
