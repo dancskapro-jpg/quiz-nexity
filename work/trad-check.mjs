@@ -15,7 +15,7 @@ lines.forEach((line, i) => {
   byId.set(p[0], p);
 });
 const FR = lang === 'it' ? /\b(combien|est-ce|qu’est|qu'est|pourrais-tu|serais-tu|ferais-tu|dirais-tu|aujourd’hui|toujours|jamais)\b/i : /\b(combien|quel|quelle|quels|est-ce|qu’est|qu'est|pourrais-tu|serais-tu|ferais-tu|dirais-tu|aujourd’hui|toujours|jamais)\b/i;
-const QS = { es: /^¿/ };
+const QS = { es: /¿/ };
 inp.forEach(([id, fa, fb], i) => {
   const p = byId.get(id);
   if (!p) { errors.push(`id manquant : ${id} (ligne ${i + 1} de l'entrée)`); return; }
@@ -25,9 +25,9 @@ inp.forEach(([id, fa, fb], i) => {
     if (!q) { errors.push(`${id} ${s} vide`); continue; }
     if (/`/.test(q)) errors.push(`${id} ${s} : backtick interdit`);
     const end = fq.trim().slice(-1);
-    if (end === '?' && !/\?$/.test(q)) errors.push(`${id} ${s} doit finir par « ? » : ${q}`);
+    if (end === '?' && !/\?["”»’']?$/.test(q)) errors.push(`${id} ${s} doit finir par « ? » : ${q}`);
     if (end !== '?' && /\?$/.test(q) && refl) errors.push(`${id} ${s} est une consigne, pas de « ? » : ${q}`);
-    if (lang === 'es' && end === '?' && !QS.es.test(q)) errors.push(`${id} ${s} doit commencer par « ¿ » : ${q}`);
+    if (lang === 'es' && end === '?' && !QS.es.test(q)) errors.push(`${id} ${s} doit contenir « ¿ » : ${q}`);
     if (lang !== 'fr' && FR.test(q)) errors.push(`${id} ${s} contient du français : ${q}`);
     if (q.length < fq.length * 0.4 || q.length > fq.length * 2.2) errors.push(`${id} ${s} longueur suspecte (${q.length} vs ${fq.length} en FR) : ${q}`);
   }

@@ -21,7 +21,7 @@ Pour chaque paire :
 
 Pays et monnaie, selon la langue : `en` = Royaume-Uni (anglais britannique, pounds £) ; `es` = Espagne (euros) ; `it` = Italie (euros) ; `de` = Allemagne (Euro) ; `pt` = Brésil (portugais du Brésil, reais R$) ; `nl` = Pays-Bas (euro). Si la monnaie est l'euro, garde « euros ».
 
-Paires dont l'id commence par `reflexe-` : ce sont des consignes (« Réponds du tac au tac : … », « Cite … »), qui se terminent par un point, jamais par « ? ». Toutes les autres se terminent par « ? ». En espagnol, les questions commencent par « ¿ ».
+Paires dont l'id commence par `reflexe-` : ce sont des consignes (« Réponds du tac au tac : … », « Cite … »), qui se terminent par un point, jamais par « ? ». Toutes les autres se terminent par « ? ». En espagnol, chaque question contient le « ¿ » d’ouverture (au début, ou après une subordonnée : « Si tuvieras que…, ¿cuál…? »).
 
 ## Fichier d'entrée
 `/home/claude/hs-work/trad/in/<n>.txt`, une ligne par paire : `id|FR question A|FR question B` (600 lignes).
