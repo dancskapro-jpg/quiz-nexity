@@ -498,3 +498,103 @@ psychologie-personnalite-097|¿En qué detalle te fijarías primero en alguien q
 psychologie-personnalite-098|¿En qué sitio preferirías darle las gracias a alguien que ha sido importante para ti?|¿Dónde te sentirías mejor para pasar un rato tranquilo antes de un evento estresante?|
 psychologie-personnalite-099|¿Qué señal te haría darte cuenta de que una decisión tomada con prisas merece replantearse?|¿Cómo sabrías que te comparas demasiado a menudo con los demás?|
 psychologie-personnalite-100|¿Qué límite pondrías si alguien cercano insistiera en que cambiaras de opinión?|¿Qué norma personal recordarías si un compañero de trabajo te encargara tareas fuera de tu horario?|
+psychologie-personnalite-101|¿Qué responderías si alguien cercano te preguntara qué recuerdo te tranquiliza?|¿Qué frase elegirías si un amigo te dijera que le cuesta pedir ayuda?|
+psychologie-personnalite-102|¿Cuál sería tu primera reacción si un amigo te pidiera una opinión sinceramente crítica?|¿Cómo reaccionarías en el momento si alguien te pidiera improvisar delante de un grupo?|
+psychologie-personnalite-103|¿Qué elegirías si un proyecto exigiera trabajar solo o en pareja?|¿Qué opción te iría mejor si te propusieran una actividad en la que serías principiante delante de todos?|
+psychologie-personnalite-104|¿Qué pequeño ritual te ayudaría a disfrutar más de un fin de semana tranquilo?|¿Qué hábito adoptarías para empezar el día con menos estrés?|
+psychologie-personnalite-105|¿Cuánto tiempo necesitarías para sentirte en casa en un piso nuevo?|¿Cuánto tiempo crees que necesitarías para elegir un conjunto cuando quieres causar buena impresión?|
+psychologie-personnalite-106|¿Con quién hablarías primero si dudaras en cambiar por completo de profesión?|¿A quién acudirías primero si tuvieras miedo de decepcionar a alguien que aprecias?|
+psychologie-personnalite-107|¿En qué detalle te fijarías primero en alguien que cuenta un recuerdo muy importante para ella?|¿A qué señal prestarías atención en alguien que acaba de superar un reto personal importante?|
+psychologie-personnalite-108|¿En qué sitio preferirías trabajar en un proyecto que requiere creatividad?|¿Dónde te sentirías mejor para tener una conversación importante con un amigo?|
+psychologie-personnalite-109|¿Qué señal te haría darte cuenta de que estás preparado para afrontar un nuevo reto?|¿Cómo sabrías que alguien intenta integrarte en su grupo?|
+psychologie-personnalite-110|¿Qué límite pondrías si alguien se negara sistemáticamente a escuchar tus argumentos?|¿Qué norma personal recordarías si un amigo presionara para elegir todos vuestros planes?|
+psychologie-personnalite-111|¿Qué responderías si un compañero de trabajo te preguntara cómo llevas una crítica?|¿Qué frase elegirías si alguien te preguntara qué valoras de la gente?|
+psychologie-personnalite-112|¿Cuál sería tu primera reacción si te anunciaran un día libre en mitad de una semana cargada?|¿Cómo reaccionarías en el momento si un proyecto del que estás orgulloso recibiera muy pocas reacciones?|
+psychologie-personnalite-113|¿Qué elegirías si te propusieran un día sin móvil ni redes sociales?|¿Qué opción te iría mejor si tuvieras un día libre sin ninguna obligación?|
+psychologie-personnalite-114|¿Qué pequeño ritual te ayudaría a no dejarlo todo para mañana?|¿Qué hábito adoptarías para concentrarte antes de un examen importante?|
+psychologie-personnalite-115|¿Cuánto tiempo necesitarías para calmarte después de un desacuerdo con alguien cercano?|¿Cuánto tiempo crees que necesitarías para concentrarte antes de empezar un trabajo largo?|
+psychologie-personnalite-116|¿Con quién hablarías primero si te sintieras incomprendido después de una discusión?|¿A quién acudirías primero si quisieras pedir consejo sobre una persona que acabas de conocer?|
+psychologie-personnalite-117|¿En qué detalle te fijarías primero en alguien que acaba de entrar en un equipo nuevo?|¿A qué señal prestarías atención en alguien que llega por primera vez a un grupo de amigos?|
+psychologie-personnalite-118|¿En qué sitio preferirías sincerarte con una persona de confianza?|¿Dónde te sentirías mejor para reflexionar a solas sobre una decisión vital?|
+psychologie-personnalite-119|¿Qué señal te haría darte cuenta de que alguien respeta de verdad tus límites?|¿Cómo sabrías que estás orgulloso de un avance, aunque sea pequeño?|
+psychologie-personnalite-120|¿Qué límite pondrías si un compañero de trabajo cogiera tus cosas sin preguntar?|¿Qué norma personal recordarías si alguien te pidiera el móvil para leer una conversación?|
+psychologie-personnalite-121|¿Qué responderías si un amigo te confesara que tiene miedo de que lo juzguen?|¿Qué frase elegirías si alguien cercano te preguntara cómo puede escucharte mejor?|
+psychologie-personnalite-122|¿Cuál sería tu primera reacción si alguien olvidara un detalle importante de tu vida?|¿Cómo reaccionarías en el momento si recibieras un cumplido delante de todo tu grupo de amigos?|
+psychologie-personnalite-123|¿Qué elegirías si pudieras escoger entre una competición amistosa y una actividad en equipo?|¿Qué opción te iría mejor si te propusieran una fiesta con diez personas o una cena para dos?|
+psychologie-personnalite-124|¿Qué pequeño ritual te ayudaría a recuperar una buena actitud después de un fracaso?|¿Qué hábito adoptarías para desconectar mejor del trabajo por la noche?|
+psychologie-personnalite-125|¿Cuánto tiempo necesitarías para preparar una decisión importante sin precipitarte?|¿Cuánto tiempo crees que necesitarías para volver a ponerte a trabajar después de una mala noticia?|
+psychologie-personnalite-126|¿Con quién hablarías primero si quisieras celebrar un pequeño avance personal?|¿A quién acudirías primero si dudaras de una decisión profesional importante?|
+psychologie-personnalite-127|¿En qué detalle te fijarías primero en alguien que quiere terminar una conversación incómoda?|¿A qué señal prestarías atención en alguien que intenta ocultar sus nervios antes de una entrevista?|
+psychologie-personnalite-128|¿En qué sitio preferirías pasar un día entero sin pantallas?|¿Dónde te sentirías mejor para recuperarte después de una semana con mucha vida social?|
+psychologie-personnalite-129|¿Qué señal te haría darte cuenta de que necesitas un fin de semana sin obligaciones?|¿Cómo sabrías que un plan no encaja con tu estado de ánimo del momento?|
+psychologie-personnalite-130|¿Qué límite pondrías si un amigo esperara que estuvieras disponible todas las noches?|¿Qué norma personal recordarías si un compañero de trabajo te escribiera a menudo tarde por la noche?|
+psychologie-personnalite-131|¿Qué responderías si alguien te preguntara qué te gustaría aprender de nuevo?|¿Qué frase elegirías si un compañero de trabajo te preguntara por qué estás tan callado hoy?|
+psychologie-personnalite-132|¿Cuál sería tu primera reacción si un compañero de trabajo te felicitara por un éxito de equipo?|¿Cómo reaccionarías en el momento si alguien cuestionara tu idea en una reunión?|
+psychologie-personnalite-133|¿Qué elegirías si un amigo te propusiera hablar de un problema en persona o por teléfono?|¿Qué opción te iría mejor si un trabajo nuevo te ofreciera más autonomía pero menos estructura?|
+psychologie-personnalite-134|¿Qué pequeño ritual te ayudaría a recuperar la calma después de un trayecto horrible?|¿Qué hábito adoptarías para tomar distancia después de una pelea?|
+psychologie-personnalite-135|¿Cuánto tiempo necesitarías para armarte de valor y pedir un favor delicado?|¿Cuánto tiempo crees que necesitarías para recuperar la confianza después de un pequeño error en el trabajo?|
+psychologie-personnalite-136|¿Con quién hablarías primero si te costara decir que no a una petición?|¿A quién acudirías primero si una amistad se volviera distante de repente?|
+psychologie-personnalite-137|¿En qué detalle te fijarías primero en alguien que está muy feliz de reencontrarse con un ser querido?|¿A qué señal prestarías atención en alguien que presenta una idea que le importa mucho?|
+psychologie-personnalite-138|¿En qué sitio preferirías preparar una entrevista importante?|¿Dónde te sentirías mejor para conocer por primera vez a un grupo de desconocidos?|
+psychologie-personnalite-139|¿Qué señal te haría darte cuenta de que un trabajo nuevo te va mejor que el anterior?|¿Cómo sabrías que necesitas bajar el ritmo esta semana?|
+psychologie-personnalite-140|¿Qué límite pondrías si alguien usara tus confidencias en tu contra?|¿Qué norma personal recordarías si un amigo insistiera en conocer un secreto personal tuyo?|
+psychologie-personnalite-141|¿Qué responderías si alguien cercano te dijera que necesita más espacio?|¿Qué frase elegirías si un amigo te dijera que te tomas las cosas demasiado a pecho?|
+psychologie-personnalite-142|¿Cuál sería tu primera reacción si te organizaran una fiesta sorpresa?|¿Cómo reaccionarías en el momento si un amigo cambiara el plan previsto en el último momento?|
+psychologie-personnalite-143|¿Qué elegirías si dudaras entre un entorno muy tranquilo y un ambiente animado?|¿Qué opción te iría mejor si dudaras entre un proyecto arriesgado y una opción segura?|
+psychologie-personnalite-144|¿Qué pequeño ritual te ayudaría a tener ganas de leer más a menudo?|¿Qué hábito adoptarías para motivarte a hacer deporte por la mañana?|
+psychologie-personnalite-145|¿Cuánto tiempo necesitarías para prepararte para un día con mucha gente?|¿Cuánto tiempo crees que necesitarías para sentirte cómodo en una fiesta donde no conoces a nadie?|
+psychologie-personnalite-146|¿Con quién hablarías primero si te plantearas volver a estudiar?|¿A quién acudirías primero si quisieras contar una buena noticia personal?|
+psychologie-personnalite-147|¿En qué detalle te fijarías primero en alguien que está pendiente de una persona tímida?|¿A qué señal prestarías atención en alguien que no se atreve a hablar en la mesa?|
+psychologie-personnalite-148|¿En qué sitio preferirías meditar o respirar unos minutos tranquilamente?|¿Dónde te sentirías mejor para aprender una nueva habilidad por tu cuenta?|
+psychologie-personnalite-149|¿Qué señal te haría darte cuenta de que te tomas un comentario demasiado a lo personal?|¿Cómo sabrías que una nueva amistad se está volviendo realmente sólida?|
+psychologie-personnalite-150|¿Qué límite pondrías si alguien cercano minimizara a menudo lo que sientes?|¿Qué norma personal recordarías si alguien cercano decidiera tus planes sin consultarte?|
+psychologie-personnalite-151|¿Qué responderías si un amigo te preguntara si prefieres los planes o la espontaneidad?|¿Qué frase elegirías si alguien cercano te preguntara qué te hace sentir realmente orgulloso?|
+psychologie-personnalite-152|¿Cuál sería tu primera reacción si alguien cercano te pidiera contar un recuerdo vergonzoso?|¿Cómo reaccionarías en el momento si te propusieran hablar delante de cincuenta personas?|
+psychologie-personnalite-153|¿Qué elegirías si te ofrecieran un trabajo estable o un proyecto creativo de seis meses?|¿Qué opción te iría mejor si te propusieran irte de viaje solo o con un grupo?|
+psychologie-personnalite-154|¿Qué pequeño ritual te ayudaría a atreverte a hablar en un grupo?|¿Qué hábito adoptarías para sentirte cómodo antes de una primera cita?|
+psychologie-personnalite-155|¿Cuánto tiempo necesitarías para volver a escribir después de varios meses sin practicar?|¿Cuánto tiempo crees que necesitarías para preparar mentalmente un discurso de cinco minutos?|
+psychologie-personnalite-156|¿Con quién hablarías primero si tuvieras que anunciar una decisión que sorprenderá a tus seres queridos?|¿A quién acudirías primero si necesitaras una opinión externa sobre un conflicto?|
+psychologie-personnalite-157|¿En qué detalle te fijarías primero en alguien que está deseando anunciar una sorpresa?|¿A qué señal prestarías atención en alguien que se siente especialmente cómodo en una fiesta?|
+psychologie-personnalite-158|¿En qué sitio preferirías reencontrarte con un viejo amigo después de varios años?|¿Dónde te sentirías mejor para tomar distancia después de una pelea?|
+psychologie-personnalite-159|¿Qué señal te haría darte cuenta de que un hábito empieza a sentarte bien?|¿Cómo sabrías que una actividad ya no te gusta tanto como antes?|
+psychologie-personnalite-160|¿Qué límite pondrías si un amigo insistiera en que contaras una experiencia vergonzosa?|¿Qué norma personal recordarías si alguien criticara tus decisiones delante de todo el mundo?|
+psychologie-personnalite-161|¿Qué responderías si alguien te preguntara cómo reaccionas ante el estrés?|¿Qué frase elegirías si alguien a quien apenas conoces te hiciera un cumplido sincero?|
+psychologie-personnalite-162|¿Cuál sería tu primera reacción si alguien rechazara con educación una propuesta que te importaba mucho?|¿Cómo reaccionarías en el momento si alguien te reconociera después de diez años sin veros?|
+psychologie-personnalite-163|¿Qué elegirías si pudieras pasar una noche descubriendo una película nueva o volviendo a ver tu favorita?|¿Qué opción te iría mejor si surgiera la ocasión de retomar una actividad que dejaste?|
+psychologie-personnalite-164|¿Qué pequeño ritual te ayudaría a dormir mejor antes de un día intenso?|¿Qué hábito adoptarías para organizarte durante una semana cargada?|
+psychologie-personnalite-165|¿Cuánto tiempo necesitarías para coger el ritmo en un equipo nuevo?|¿Cuánto tiempo crees que necesitarías para recuperar la concentración después de una interrupción?|
+psychologie-personnalite-166|¿Con quién hablarías primero si sintieras la necesidad de centrarte en ti?|¿A quién acudirías primero si te plantearas irte a vivir al extranjero?|
+psychologie-personnalite-167|¿En qué detalle te fijarías primero en alguien que intenta seguir siendo educada a pesar de estar molesta?|¿A qué señal prestarías atención en alguien que acaba de recibir una muy buena noticia?|
+psychologie-personnalite-168|¿En qué sitio preferirías hacer una actividad que se salga de tu rutina?|¿Dónde te sentirías mejor para celebrar un pequeño logro personal?|
+psychologie-personnalite-169|¿Qué señal te haría darte cuenta de que te comparas demasiado a menudo con los demás?|¿Cómo sabrías que por fin te sientes cómodo en un grupo nuevo?|
+psychologie-personnalite-170|¿Qué límite pondrías si alguien te interrumpiera en cada conversación?|¿Qué norma personal recordarías si un amigo quisiera hablar cuando tú necesitas descansar?|
+psychologie-personnalite-171|¿Qué responderías si un amigo te dijera que le cuesta pedir ayuda?|¿Qué frase elegirías si un amigo te preguntara si necesitas estar solo esta noche?|
+psychologie-personnalite-172|¿Cuál sería tu primera reacción si un amigo te confesara que te admira por una cualidad concreta?|¿Cómo reaccionarías en el momento si un compañero de trabajo te enviara un mensaje muy seco sin explicación?|
+psychologie-personnalite-173|¿Qué elegirías si tuvieras que escoger entre un hábito práctico y una novedad que te motive?|¿Qué opción te iría mejor si pudieras aprender una habilidad útil o una afición solo por gusto?|
+psychologie-personnalite-174|¿Qué pequeño ritual te ayudaría a revisar tus objetivos con regularidad?|¿Qué hábito adoptarías para preparar una conversación difícil?|
+psychologie-personnalite-175|¿Cuánto tiempo necesitarías para elegir un conjunto cuando quieres causar buena impresión?|¿Cuánto tiempo crees que necesitarías para decidirte entre dos destinos de vacaciones?|
+psychologie-personnalite-176|¿Con quién hablarías primero si quisieras entender una reacción que has tenido?|¿A quién acudirías primero si quisieras trabajar tu confianza en ti mismo?|
+psychologie-personnalite-177|¿En qué detalle te fijarías primero en alguien que tiene ganas de participar pero no se atreve?|¿A qué señal prestarías atención en alguien que parece necesitar calma en un sitio ruidoso?|
+psychologie-personnalite-178|¿En qué sitio preferirías pensar en un cambio de trabajo?|¿Dónde te sentirías mejor para leer durante dos horas sin distracciones?|
+psychologie-personnalite-179|¿Qué señal te haría darte cuenta de que alguien intenta integrarte en su grupo?|¿Cómo sabrías que empiezas a dormir poco?|
+psychologie-personnalite-180|¿Qué límite pondrías si un compañero de trabajo te encargara tareas fuera de tu horario?|¿Qué norma personal recordarías si un compañero de trabajo se llevara todo el mérito de un trabajo en común?|
+psychologie-personnalite-181|¿Qué responderías si alguien te preguntara qué valoras de la gente?|¿Qué frase elegirías si un compañero de trabajo te reprochara que quieres organizarlo todo?|
+psychologie-personnalite-182|¿Cuál sería tu primera reacción si alguien te pidiera improvisar delante de un grupo?|¿Cómo reaccionarías en el momento si alguien cercano te diera una buena noticia inesperada?|
+psychologie-personnalite-183|¿Qué elegirías si un viaje pudiera estar totalmente planificado o improvisado?|¿Qué opción te iría mejor si un amigo te propusiera un plan improvisado en el último momento?|
+psychologie-personnalite-184|¿Qué pequeño ritual te ayudaría a disfrutar más de los pequeños momentos del día a día?|¿Qué hábito adoptarías para reducir el tiempo que pasas con el móvil?|
+psychologie-personnalite-185|¿Cuánto tiempo necesitarías para concentrarte antes de empezar un trabajo largo?|¿Cuánto tiempo crees que necesitarías para relajarte después de un día especialmente estresante?|
+psychologie-personnalite-186|¿Con quién hablarías primero si tuvieras miedo de decepcionar a alguien que aprecias?|¿A quién acudirías primero si tuvieras que presentar un proyecto un poco loco?|
+psychologie-personnalite-187|¿En qué detalle te fijarías primero en alguien que está cansada después de una semana cargada?|¿A qué señal prestarías atención en alguien que intenta causar buena impresión al conocer a alguien?|
+psychologie-personnalite-188|¿En qué sitio preferirías escribir una carta personal?|¿Dónde te sentirías mejor para hacer balance de tus objetivos del año?|
+psychologie-personnalite-189|¿Qué señal te haría darte cuenta de que estás orgulloso de un avance, aunque sea pequeño?|¿Cómo sabrías que un amigo necesita que lo escuchen sin darle consejos?|
+psychologie-personnalite-190|¿Qué límite pondrías si un amigo presionara para elegir todos vuestros planes?|¿Qué norma personal recordarías si alguien cercano siempre te exigiera respuestas inmediatas?|
+psychologie-personnalite-191|¿Qué responderías si alguien cercano te preguntara cómo puede escucharte mejor?|¿Qué frase elegirías si alguien cercano te preguntara por qué cambias tan a menudo de opinión?|
+psychologie-personnalite-192|¿Cuál sería tu primera reacción si un proyecto del que estás orgulloso recibiera muy pocas reacciones?|¿Cómo reaccionarías en el momento si un desconocido te diera las gracias por un pequeño gesto?|
+psychologie-personnalite-193|¿Qué elegirías si te propusieran una actividad en la que serías principiante delante de todos?|¿Qué opción te iría mejor si dudaras entre terminar una tarea y descansar una hora?|
+psychologie-personnalite-194|¿Qué pequeño ritual te ayudaría a hacer una pausa de verdad durante una jornada de trabajo?|¿Qué hábito adoptarías para ganar confianza antes de hablar en público?|
+psychologie-personnalite-195|¿Cuánto tiempo necesitarías para volver a ponerte a trabajar después de una mala noticia?|¿Cuánto tiempo crees que necesitarías para hacer una pausa después de una conversación intensa?|
+psychologie-personnalite-196|¿Con quién hablarías primero si quisieras pedir consejo sobre una persona que acabas de conocer?|¿A quién acudirías primero si temieras haber hecho daño a alguien sin querer?|
+psychologie-personnalite-197|¿En qué detalle te fijarías primero en alguien que acaba de superar un reto personal importante?|¿A qué señal prestarías atención en alguien que defiende a un amigo en público?|
+psychologie-personnalite-198|¿En qué sitio preferirías pasar un rato tranquilo antes de un evento estresante?|¿Dónde te sentirías mejor para darle las gracias a alguien que ha sido importante para ti?|
+psychologie-personnalite-199|¿Qué señal te haría darte cuenta de que un plan no encaja con tu estado de ánimo del momento?|¿Cómo sabrías que estás mejorando en una habilidad difícil?|
+psychologie-personnalite-200|¿Qué límite pondrías si alguien te pidiera el móvil para leer una conversación?|¿Qué norma personal recordarías si alguien hiciera a menudo bromas sobre tu aspecto?|

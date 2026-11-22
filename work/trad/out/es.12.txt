@@ -297,3 +297,103 @@ beaute-apparence-096|Entre un corte clásico fácil de mantener y un corte origi
 beaute-apparence-097|Si tuvieras que decidir, ¿sería un perfume discreto o un perfume muy intenso?|¿Qué priorizarías: una manicura sobria o una manicura con dibujos?|
 beaute-apparence-098|¿Qué elegirías: invertir en unos buenos zapatos o invertir en un buen abrigo?|Si solo pudieras elegir una opción, ¿qué cogerías: probar un nuevo color de pelo o mantener tu color natural?|
 beaute-apparence-099|Entre una cita en la peluquería y un tratamiento facial, ¿qué preferirías?|¿Qué te apetece más: preparar la ropa la noche anterior o elegirla por la mañana?|
+beaute-apparence-100|Si tuvieras que decidir, ¿sería una rutina de belleza de tres productos o una rutina de ocho productos?|¿Qué priorizarías: una barba corta o la cara bien afeitada?|
+beaute-apparence-101|¿Cuántos minutos necesitarías para peinarte antes de una cita importante?|¿Cuánto tiempo, en minutos, calcularías para probarte varios conjuntos antes de una fiesta?|
+beaute-apparence-102|¿Cuántos minutos pasarías eligiendo tu ropa para ir de invitado a una boda?|¿Cuántos minutos tardarías en limpiar unas zapatillas blancas?|
+beaute-apparence-103|¿Cuántos minutos dedicarías a arreglarte el pelo antes de salir después del trabajo?|Normalmente, ¿cuántos minutos tardarías en planchar una camisa arrugada?|
+beaute-apparence-104|¿Cuántos minutos necesitarías para afeitarte con cuidado antes de una ceremonia?|¿Cuánto tiempo, en minutos, calcularías para arreglarte antes de una foto de grupo?|
+beaute-apparence-105|¿Cuántos minutos pasarías haciéndote un maquillaje sencillo para salir a cenar?|¿Cuántos minutos tardarías en elegir un perfume en una perfumería?|
+beaute-apparence-106|¿Cuántos minutos dedicarías a ordenar un neceser de maquillaje antes de un viaje?|Normalmente, ¿cuántos minutos tardarías en hacerte un brushing en casa?|
+beaute-apparence-107|¿Cuántos minutos necesitarías para elegir los complementos de un look elegante?|¿Cuánto tiempo, en minutos, calcularías para quitarte un esmalte estropeado y volver a pintarte las uñas?|
+beaute-apparence-108|¿Cuántos minutos pasarías arreglándote por la mañana antes de una entrevista de trabajo?|¿Cuántos minutos tardarías en comparar productos de cuidado en una tienda?|
+beaute-apparence-109|¿Cuántos minutos dedicarías a hacer una rutina de cuidado de noche?|Normalmente, ¿cuántos minutos tardarías en elegir un corte en el catálogo de la peluquería?|
+beaute-apparence-110|¿Cuántos minutos necesitarías para probarte varios conjuntos antes de una fiesta?|¿Cuánto tiempo, en minutos, calcularías para preparar la ropa de un fin de semana?|
+beaute-apparence-111|¿Cuántos minutos pasarías limpiando unas zapatillas blancas?|¿Cuántos minutos tardarías en lavarte y secarte el pelo antes de salir?|
+beaute-apparence-112|¿Cuántos minutos dedicarías a planchar una camisa arrugada?|Normalmente, ¿cuántos minutos tardarías en peinarte antes de una cita importante?|
+beaute-apparence-113|¿Cuántos minutos necesitarías para arreglarte antes de una foto de grupo?|¿Cuánto tiempo, en minutos, calcularías para elegir tu ropa para ir de invitado a una boda?|
+beaute-apparence-114|¿Cuántos minutos pasarías eligiendo un perfume en una perfumería?|¿Cuántos minutos tardarías en arreglarte el pelo antes de salir después del trabajo?|
+beaute-apparence-115|¿Cuántos minutos dedicarías a hacerte un brushing en casa?|Normalmente, ¿cuántos minutos tardarías en afeitarte con cuidado antes de una ceremonia?|
+beaute-apparence-116|¿Cuántos minutos necesitarías para quitarte un esmalte estropeado y volver a pintarte las uñas?|¿Cuánto tiempo, en minutos, calcularías para hacerte un maquillaje sencillo para salir a cenar?|
+beaute-apparence-117|¿Cuántos minutos pasarías comparando productos de cuidado en una tienda?|¿Cuántos minutos tardarías en ordenar un neceser de maquillaje antes de un viaje?|
+beaute-apparence-118|¿Cuántos minutos dedicarías a elegir un corte en el catálogo de la peluquería?|Normalmente, ¿cuántos minutos tardarías en elegir los complementos de un look elegante?|
+beaute-apparence-119|¿Cuántos minutos necesitarías para preparar la ropa de un fin de semana?|¿Cuánto tiempo, en minutos, calcularías para arreglarte por la mañana antes de una entrevista de trabajo?|
+beaute-apparence-120|¿Cuántos minutos pasarías lavándote y secándote el pelo antes de salir?|¿Cuántos minutos tardarías en hacer una rutina de cuidado de noche?|
+beaute-apparence-121|¿Cuántos minutos pasarías peinándote antes de una cita importante?|¿Cuántos minutos tardarías en probarte varios conjuntos antes de una fiesta?|
+beaute-apparence-122|¿Cuántos minutos dedicarías a elegir tu ropa para ir de invitado a una boda?|Normalmente, ¿cuántos minutos tardarías en limpiar unas zapatillas blancas?|
+beaute-apparence-123|¿Cuántos minutos necesitarías para arreglarte el pelo antes de salir después del trabajo?|¿Cuánto tiempo, en minutos, calcularías para planchar una camisa arrugada?|
+beaute-apparence-124|¿Cuántos minutos pasarías afeitándote con cuidado antes de una ceremonia?|¿Cuántos minutos tardarías en arreglarte antes de una foto de grupo?|
+beaute-apparence-125|¿Cuántos minutos dedicarías a hacerte un maquillaje sencillo para salir a cenar?|Normalmente, ¿cuántos minutos tardarías en elegir un perfume en una perfumería?|
+beaute-apparence-126|¿A quién le pedirías consejo para elegir un corte que favorezca la forma de tu cara?|¿A quién llamarías para elegir la ropa para un evento elegante?|
+beaute-apparence-127|¿A quién contactarías primero para encontrar una rutina para el pelo seco?|¿A quién le pedirías opinión para organizar un intercambio de ropa entre amigos?|
+beaute-apparence-128|¿A quién recurrirías para elegir la ropa para una entrevista de trabajo?|¿Con quién hablarías primero para probar un maquillaje para una sesión de fotos?|
+beaute-apparence-129|¿A quién le pedirías consejo para que te diera su opinión sobre un nuevo color de pelo?|¿A quién llamarías para comprar unos zapatos para estar de pie todo el día?|
+beaute-apparence-130|¿A quién contactarías primero para aprender a planchar bien una camisa?|¿A quién le pedirías opinión para saber si un traje necesita arreglos?|
+beaute-apparence-131|¿A quién recurrirías para encontrar un perfume para regalar?|¿Con quién hablarías primero para buscar consejos para cuidar unas zapatillas?|
+beaute-apparence-132|¿A quién le pedirías consejo para elegir unas gafas adaptadas a tu vista?|¿A quién llamarías para elegir un peinado fácil de mantener?|
+beaute-apparence-133|¿A quién contactarías primero para pedir consejo sobre un producto para piel sensible?|¿A quién le pedirías opinión para encontrar un barbero en un barrio nuevo?|
+beaute-apparence-134|¿A quién recurrirías para encontrar una peluquería de confianza antes de una boda?|¿Con quién hablarías primero para comprobar la composición de un producto cosmético?|
+beaute-apparence-135|¿A quién le pedirías consejo para elegir la ropa para un evento elegante?|¿A quién llamarías para elegir un color de esmalte para una ceremonia?|
+beaute-apparence-136|¿A quién contactarías primero para organizar un intercambio de ropa entre amigos?|¿A quién le pedirías opinión para encontrar un complemento que combine con un conjunto?|
+beaute-apparence-137|¿A quién recurrirías para probar un maquillaje para una sesión de fotos?|¿Con quién hablarías primero para elegir un corte que favorezca la forma de tu cara?|
+beaute-apparence-138|¿A quién le pedirías consejo para comprar unos zapatos para estar de pie todo el día?|¿A quién llamarías para encontrar una rutina para el pelo seco?|
+beaute-apparence-139|¿A quién contactarías primero para saber si un traje necesita arreglos?|¿A quién le pedirías opinión para elegir la ropa para una entrevista de trabajo?|
+beaute-apparence-140|¿A quién recurrirías para buscar consejos para cuidar unas zapatillas?|¿Con quién hablarías primero para que te diera su opinión sobre un nuevo color de pelo?|
+beaute-apparence-141|¿A quién le pedirías consejo para elegir un peinado fácil de mantener?|¿A quién llamarías para aprender a planchar bien una camisa?|
+beaute-apparence-142|¿A quién contactarías primero para encontrar un barbero en un barrio nuevo?|¿A quién le pedirías opinión para encontrar un perfume para regalar?|
+beaute-apparence-143|¿A quién recurrirías para comprobar la composición de un producto cosmético?|¿Con quién hablarías primero para elegir unas gafas adaptadas a tu vista?|
+beaute-apparence-144|¿A quién le pedirías consejo para elegir un color de esmalte para una ceremonia?|¿A quién llamarías para pedir consejo sobre un producto para piel sensible?|
+beaute-apparence-145|¿A quién contactarías primero para encontrar un complemento que combine con un conjunto?|¿A quién le pedirías opinión para encontrar una peluquería de confianza antes de una boda?|
+beaute-apparence-146|¿A quién contactarías primero para elegir un corte que favorezca la forma de tu cara?|¿A quién le pedirías opinión para elegir la ropa para un evento elegante?|
+beaute-apparence-147|¿A quién recurrirías para encontrar una rutina para el pelo seco?|¿Con quién hablarías primero para organizar un intercambio de ropa entre amigos?|
+beaute-apparence-148|¿A quién le pedirías consejo para elegir la ropa para una entrevista de trabajo?|¿A quién llamarías para probar un maquillaje para una sesión de fotos?|
+beaute-apparence-149|¿A quién contactarías primero para que te diera su opinión sobre un nuevo color de pelo?|¿A quién le pedirías opinión para comprar unos zapatos para estar de pie todo el día?|
+beaute-apparence-150|¿A quién recurrirías para aprender a planchar bien una camisa?|¿Con quién hablarías primero para saber si un traje necesita arreglos?|
+beaute-apparence-151|¿Adónde irías para que te arreglaran un pantalón demasiado largo?|¿En qué sitio querrías encontrar un regalo de cuidado de la piel?|
+beaute-apparence-152|¿En qué sitio preferirías comprar un perfume antes de irte de vacaciones?|¿Dónde decidirías llevar a arreglar una cremallera?|
+beaute-apparence-153|¿En qué sitio te gustaría probarte un traje para una boda?|¿Dónde elegirías probarte gafas de sol con alguien que te asesore?|
+beaute-apparence-154|¿Adónde irías para comprar un cepillo de buena calidad?|¿En qué sitio querrías comparar pintalabios en persona?|
+beaute-apparence-155|¿En qué sitio preferirías que te ajustaran unas gafas?|¿Dónde decidirías comprar un producto para el pelo rizado?|
+beaute-apparence-156|¿En qué sitio te gustaría encontrar una peluquería abierta los sábados?|¿Dónde elegirías que te peinaran antes de una ceremonia?|
+beaute-apparence-157|¿Adónde irías para comprar ropa para una entrevista de trabajo?|¿En qué sitio querrías que te ajustaran un vestido de fiesta?|
+beaute-apparence-158|¿En qué sitio preferirías llevar a limpiar una chaqueta delicada?|¿Dónde decidirías comprar un neceser antes de un viaje?|
+beaute-apparence-159|¿En qué sitio te gustaría probarte varios pares de zapatos cómodos?|¿Dónde elegirías probar una crema con una muestra?|
+beaute-apparence-160|¿Adónde irías para encontrar un regalo de cuidado de la piel?|¿En qué sitio querrías que te hicieran un diagnóstico capilar serio?|
+beaute-apparence-161|¿En qué sitio preferirías llevar a arreglar una cremallera?|¿Dónde decidirías buscar un reloj elegante y discreto?|
+beaute-apparence-162|¿En qué sitio te gustaría probarte gafas de sol con alguien que te asesore?|¿Dónde elegirías que te arreglaran un pantalón demasiado largo?|
+beaute-apparence-163|¿Adónde irías para comparar pintalabios en persona?|¿En qué sitio querrías comprar un perfume antes de irte de vacaciones?|
+beaute-apparence-164|¿En qué sitio preferirías comprar un producto para el pelo rizado?|¿Dónde decidirías probarte un traje para una boda?|
+beaute-apparence-165|¿En qué sitio te gustaría que te peinaran antes de una ceremonia?|¿Dónde elegirías comprar un cepillo de buena calidad?|
+beaute-apparence-166|¿Adónde irías para que te ajustaran un vestido de fiesta?|¿En qué sitio querrías que te ajustaran unas gafas?|
+beaute-apparence-167|¿En qué sitio preferirías comprar un neceser antes de un viaje?|¿Dónde decidirías encontrar una peluquería abierta los sábados?|
+beaute-apparence-168|¿En qué sitio te gustaría probar una crema con una muestra?|¿Dónde elegirías comprar ropa para una entrevista de trabajo?|
+beaute-apparence-169|¿Adónde irías para que te hicieran un diagnóstico capilar serio?|¿En qué sitio querrías llevar a limpiar una chaqueta delicada?|
+beaute-apparence-170|¿En qué sitio preferirías buscar un reloj elegante y discreto?|¿Dónde decidirías probarte varios pares de zapatos cómodos?|
+beaute-apparence-171|¿En qué sitio preferirías que te arreglaran un pantalón demasiado largo?|¿Dónde decidirías encontrar un regalo de cuidado de la piel?|
+beaute-apparence-172|¿En qué sitio te gustaría comprar un perfume antes de irte de vacaciones?|¿Dónde elegirías llevar a arreglar una cremallera?|
+beaute-apparence-173|¿Adónde irías para probarte un traje para una boda?|¿En qué sitio querrías probarte gafas de sol con alguien que te asesore?|
+beaute-apparence-174|¿En qué sitio preferirías comprar un cepillo de buena calidad?|¿Dónde decidirías comparar pintalabios en persona?|
+beaute-apparence-175|¿En qué sitio te gustaría que te ajustaran unas gafas?|¿Dónde elegirías comprar un producto para el pelo rizado?|
+beaute-apparence-176|¿Qué criterio sería el más importante para ti al elegir una crema para piel sensible?|¿En qué serías más exigente al llevar a arreglar un traje de vestir?|
+beaute-apparence-177|¿Qué mirarías primero al comprar unos zapatos para caminar todo el día?|¿Cuál sería tu prioridad al elegir un cepillo para el pelo?|
+beaute-apparence-178|¿Qué sería innegociable al elegir un perfume para el día a día?|¿Qué detalle comprobarías antes de comprar una afeitadora eléctrica?|
+beaute-apparence-179|¿Qué criterio sería el más importante para ti al comprar una chaqueta de invierno?|¿En qué serías más exigente al elegir un centro de estética?|
+beaute-apparence-180|¿Qué mirarías primero al buscar una peluquería antes de un evento importante?|¿Cuál sería tu prioridad al elegir unas gafas graduadas?|
+beaute-apparence-181|¿Qué sería innegociable al elegir un champú para uso diario?|¿Qué detalle comprobarías antes de comprar unas botas impermeables?|
+beaute-apparence-182|¿Qué criterio sería el más importante para ti al invertir en un secador de pelo?|¿En qué serías más exigente al elegir un desodorante para hacer deporte?|
+beaute-apparence-183|¿Qué mirarías primero al comprar un bolso para ir a trabajar?|¿Cuál sería tu prioridad al buscar un corte fácil de peinar?|
+beaute-apparence-184|¿Qué sería innegociable al elegir una base de maquillaje en tienda?|¿Qué detalle comprobarías antes de elegir una prenda para viajar ligero?|
+beaute-apparence-185|¿Qué criterio sería el más importante para ti al llevar a arreglar un traje de vestir?|¿En qué serías más exigente al comprar un espejo con luz para el baño?|
+beaute-apparence-186|¿Qué mirarías primero al elegir un cepillo para el pelo?|¿Cuál sería tu prioridad al elegir un maquillaje para una ceremonia?|
+beaute-apparence-187|¿Qué sería innegociable al comprar una afeitadora eléctrica?|¿Qué detalle comprobarías antes de elegir una crema para piel sensible?|
+beaute-apparence-188|¿Qué criterio sería el más importante para ti al elegir un centro de estética?|¿En qué serías más exigente al comprar unos zapatos para caminar todo el día?|
+beaute-apparence-189|¿Qué mirarías primero al elegir unas gafas graduadas?|¿Cuál sería tu prioridad al elegir un perfume para el día a día?|
+beaute-apparence-190|¿Qué sería innegociable al comprar unas botas impermeables?|¿Qué detalle comprobarías antes de comprar una chaqueta de invierno?|
+beaute-apparence-191|¿Qué criterio sería el más importante para ti al elegir un desodorante para hacer deporte?|¿En qué serías más exigente al buscar una peluquería antes de un evento importante?|
+beaute-apparence-192|¿Qué mirarías primero al buscar un corte fácil de peinar?|¿Cuál sería tu prioridad al elegir un champú para uso diario?|
+beaute-apparence-193|¿Qué sería innegociable al elegir una prenda para viajar ligero?|¿Qué detalle comprobarías antes de invertir en un secador de pelo?|
+beaute-apparence-194|¿Qué criterio sería el más importante para ti al comprar un espejo con luz para el baño?|¿En qué serías más exigente al comprar un bolso para ir a trabajar?|
+beaute-apparence-195|¿Qué mirarías primero al elegir un maquillaje para una ceremonia?|¿Cuál sería tu prioridad al elegir una base de maquillaje en tienda?|
+beaute-apparence-196|¿Qué mirarías primero al elegir una crema para piel sensible?|¿Cuál sería tu prioridad al llevar a arreglar un traje de vestir?|
+beaute-apparence-197|¿Qué sería innegociable al comprar unos zapatos para caminar todo el día?|¿Qué detalle comprobarías antes de elegir un cepillo para el pelo?|
+beaute-apparence-198|¿Qué criterio sería el más importante para ti al elegir un perfume para el día a día?|¿En qué serías más exigente al comprar una afeitadora eléctrica?|
+beaute-apparence-199|¿Qué mirarías primero al comprar una chaqueta de invierno?|¿Cuál sería tu prioridad al elegir un centro de estética?|

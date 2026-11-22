@@ -98,3 +98,103 @@ animaux-compagnie-097|Si tuvieras que decidir, ¿sería vivir con un perro tranq
 animaux-compagnie-098|¿Qué elegirías: pasear a tu perro por el parque o llevarlo al bosque?|Si solo pudieras elegir una opción, ¿qué cogerías: adoptar dos gatos juntos o adoptar un solo gato?|
 animaux-compagnie-099|Entre cuidar a un animal en tu casa y que te lo cuiden en la casa de su dueño, ¿qué preferirías?|¿Qué te apetece más: tener un animal muy juguetón o tener un animal muy tranquilo?|
 animaux-compagnie-100|Si tuvieras que decidir, ¿sería elegir un arnés o elegir un collar clásico?|¿Qué priorizarías: un perro de pelo corto o un perro de pelo largo?|
+animaux-compagnie-101|¿Cuántos minutos necesitarías para preparar la comida de un perro cada mañana?|¿Cuánto tiempo, en minutos, calcularías para limpiar el arenero de un gato?|
+animaux-compagnie-102|¿Cuántos minutos te pasarías cepillando a un gato de pelo largo antes de una visita?|¿Cuántos minutos tardarías en comparar seguros de salud para mascotas?|
+animaux-compagnie-103|¿Cuántos minutos dedicarías a limpiar la jaula de una cobaya?|En general, ¿cuántos minutos te llevaría enseñar a un perro a quedarse tranquilo antes de salir?|
+animaux-compagnie-104|¿Cuántos minutos necesitarías para preparar una bolsa para sacar a pasear al perro?|¿Cuánto tiempo, en minutos, calcularías para preparar un transportín para una cita en el veterinario?|
+animaux-compagnie-105|¿Cuántos minutos te pasarías eligiendo en la tienda un juguete adecuado para un cachorro?|¿Cuántos minutos tardarías en montar un espacio seguro para un conejo?|
+animaux-compagnie-106|¿Cuántos minutos dedicarías a llenar y limpiar un acuario pequeño?|En general, ¿cuántos minutos te llevaría cepillar a un perro después de un paseo lleno de barro?|
+animaux-compagnie-107|¿Cuántos minutos necesitarías para buscar una residencia de mascotas fiable antes de las vacaciones?|¿Cuánto tiempo, en minutos, calcularías para quitar los pelos del sofá después de una visita?|
+animaux-compagnie-108|¿Cuántos minutos te pasarías preparando un rincón de descanso para un gato recién adoptado?|¿Cuántos minutos tardarías en revisar los accesorios de un acuario?|
+animaux-compagnie-109|¿Cuántos minutos dedicarías a hacer una sesión corta de adiestramiento canino?|En general, ¿cuántos minutos te llevaría llenar los comederos antes de ausentarte dos horas?|
+animaux-compagnie-110|¿Cuántos minutos necesitarías para limpiar el arenero de un gato?|¿Cuánto tiempo, en minutos, calcularías para elegir un pienso adecuado con un dependiente especializado?|
+animaux-compagnie-111|¿Cuántos minutos te pasarías comparando seguros de salud para mascotas?|¿Cuántos minutos tardarías en preparar a tu mascota para un viaje en coche?|
+animaux-compagnie-112|¿Cuántos minutos dedicarías a enseñar a un perro a quedarse tranquilo antes de salir?|En general, ¿cuántos minutos te llevaría preparar la comida de un perro cada mañana?|
+animaux-compagnie-113|¿Cuántos minutos necesitarías para preparar un transportín para una cita en el veterinario?|¿Cuánto tiempo, en minutos, calcularías para cepillar a un gato de pelo largo antes de una visita?|
+animaux-compagnie-114|¿Cuántos minutos te pasarías montando un espacio seguro para un conejo?|¿Cuántos minutos tardarías en limpiar la jaula de una cobaya?|
+animaux-compagnie-115|¿Cuántos minutos dedicarías a cepillar a un perro después de un paseo lleno de barro?|En general, ¿cuántos minutos te llevaría preparar una bolsa para sacar a pasear al perro?|
+animaux-compagnie-116|¿Cuántos minutos necesitarías para quitar los pelos del sofá después de una visita?|¿Cuánto tiempo, en minutos, calcularías para elegir en la tienda un juguete adecuado para un cachorro?|
+animaux-compagnie-117|¿Cuántos minutos te pasarías revisando los accesorios de un acuario?|¿Cuántos minutos tardarías en llenar y limpiar un acuario pequeño?|
+animaux-compagnie-118|¿Cuántos minutos dedicarías a llenar los comederos antes de ausentarte dos horas?|En general, ¿cuántos minutos te llevaría buscar una residencia de mascotas fiable antes de las vacaciones?|
+animaux-compagnie-119|¿Cuántos minutos necesitarías para elegir un pienso adecuado con un dependiente especializado?|¿Cuánto tiempo, en minutos, calcularías para preparar un rincón de descanso para un gato recién adoptado?|
+animaux-compagnie-120|¿Cuántos minutos te pasarías preparando a tu mascota para un viaje en coche?|¿Cuántos minutos tardarías en hacer una sesión corta de adiestramiento canino?|
+animaux-compagnie-121|¿Cuántos minutos te pasarías preparando la comida de un perro cada mañana?|¿Cuántos minutos tardarías en limpiar el arenero de un gato?|
+animaux-compagnie-122|¿Cuántos minutos dedicarías a cepillar a un gato de pelo largo antes de una visita?|En general, ¿cuántos minutos te llevaría comparar seguros de salud para mascotas?|
+animaux-compagnie-123|¿Cuántos minutos necesitarías para limpiar la jaula de una cobaya?|¿Cuánto tiempo, en minutos, calcularías para enseñar a un perro a quedarse tranquilo antes de salir?|
+animaux-compagnie-124|¿Cuántos minutos te pasarías preparando una bolsa para sacar a pasear al perro?|¿Cuántos minutos tardarías en preparar un transportín para una cita en el veterinario?|
+animaux-compagnie-125|¿Cuántos minutos dedicarías a elegir en la tienda un juguete adecuado para un cachorro?|En general, ¿cuántos minutos te llevaría montar un espacio seguro para un conejo?|
+animaux-compagnie-126|¿A quién pedirías consejo para encontrar un adiestrador para un cachorro muy enérgico?|¿A quién llamarías para entender el comportamiento de un perro ansioso?|
+animaux-compagnie-127|¿A quién contactarías primero para que cuide de tu perro durante una jornada de trabajo?|¿A quién le pedirías opinión para organizar una visita al veterinario para un gato mayor?|
+animaux-compagnie-128|¿A quién recurrirías para que te aconseje sobre la alimentación de un gato?|¿Con quién hablarías primero para montar un acuario por primera vez?|
+animaux-compagnie-129|¿A quién pedirías consejo para elegir un animal adecuado para un piso pequeño?|¿A quién llamarías para aprender a coger una cobaya con suavidad?|
+animaux-compagnie-130|¿A quién contactarías primero para saber si tu gato necesita una revisión en el veterinario?|¿A quién le pedirías opinión para encontrar un peluquero canino para un perro de pelo largo?|
+animaux-compagnie-131|¿A quién recurrirías para pedir consejo antes de adoptar un conejo?|¿Con quién hablarías primero para solucionar un problema de arañazos en los muebles?|
+animaux-compagnie-132|¿A quién pedirías consejo para encontrar una residencia canina fiable?|¿A quién llamarías para entender las obligaciones que conlleva adoptar un perro?|
+animaux-compagnie-133|¿A quién contactarías primero para elegir un arnés cómodo para tu perro?|¿A quién le pedirías opinión para comprobar si una planta es tóxica para un gato?|
+animaux-compagnie-134|¿A quién recurrirías para que te cuide un pez durante una semana de vacaciones?|¿Con quién hablarías primero para elegir un juguete adecuado al tamaño de un cachorro?|
+animaux-compagnie-135|¿A quién pedirías consejo para entender el comportamiento de un perro ansioso?|¿A quién llamarías para saber qué hacer con un pájaro herido?|
+animaux-compagnie-136|¿A quién contactarías primero para organizar una visita al veterinario para un gato mayor?|¿A quién le pedirías opinión para organizar un paseo para un perro mayor?|
+animaux-compagnie-137|¿A quién recurrirías para montar un acuario por primera vez?|¿Con quién hablarías primero para encontrar un adiestrador para un cachorro muy enérgico?|
+animaux-compagnie-138|¿A quién pedirías consejo para aprender a coger una cobaya con suavidad?|¿A quién llamarías para que cuide de tu perro durante una jornada de trabajo?|
+animaux-compagnie-139|¿A quién contactarías primero para encontrar un peluquero canino para un perro de pelo largo?|¿A quién le pedirías opinión sobre la alimentación de un gato?|
+animaux-compagnie-140|¿A quién recurrirías para solucionar un problema de arañazos en los muebles?|¿Con quién hablarías primero para elegir un animal adecuado para un piso pequeño?|
+animaux-compagnie-141|¿A quién pedirías consejo para entender las obligaciones que conlleva adoptar un perro?|¿A quién llamarías para saber si tu gato necesita una revisión en el veterinario?|
+animaux-compagnie-142|¿A quién contactarías primero para comprobar si una planta es tóxica para un gato?|¿A quién le pedirías opinión antes de adoptar un conejo?|
+animaux-compagnie-143|¿A quién recurrirías para elegir un juguete adecuado al tamaño de un cachorro?|¿Con quién hablarías primero para encontrar una residencia canina fiable?|
+animaux-compagnie-144|¿A quién pedirías consejo para saber qué hacer con un pájaro herido?|¿A quién llamarías para elegir un arnés cómodo para tu perro?|
+animaux-compagnie-145|¿A quién contactarías primero para organizar un paseo para un perro mayor?|¿A quién le pedirías opinión para que te cuide un pez durante una semana de vacaciones?|
+animaux-compagnie-146|¿A quién contactarías primero para encontrar un adiestrador para un cachorro muy enérgico?|¿A quién le pedirías opinión para entender el comportamiento de un perro ansioso?|
+animaux-compagnie-147|¿A quién recurrirías para que cuide de tu perro durante una jornada de trabajo?|¿Con quién hablarías primero para organizar una visita al veterinario para un gato mayor?|
+animaux-compagnie-148|¿A quién pedirías consejo sobre la alimentación de un gato?|¿A quién llamarías para montar un acuario por primera vez?|
+animaux-compagnie-149|¿A quién contactarías primero para elegir un animal adecuado para un piso pequeño?|¿A quién le pedirías opinión para aprender a coger una cobaya con suavidad?|
+animaux-compagnie-150|¿A quién recurrirías para saber si tu gato necesita una revisión en el veterinario?|¿Con quién hablarías primero para encontrar un peluquero canino para un perro de pelo largo?|
+animaux-compagnie-151|¿Adónde irías para pasear a un perro sin coche un domingo por la mañana?|¿En qué lugar querrías comprar un transportín homologado?|
+animaux-compagnie-152|¿En qué sitio preferirías comprar accesorios para un gato recién adoptado?|¿A qué sitio decidirías llevar a un perro a desfogarse sin peligro?|
+animaux-compagnie-153|¿En qué lugar te gustaría dejar a un perro al cuidado de alguien durante un fin de semana?|¿Dónde elegirías reunirte con un especialista en comportamiento animal?|
+animaux-compagnie-154|¿Adónde irías para encontrar un veterinario de guardia un domingo?|¿En qué lugar querrías llevar a un perro grande a la peluquería?|
+animaux-compagnie-155|¿En qué sitio tranquilo preferirías hacerle fotos a tu perro?|¿Dónde decidirías buscar una tienda de animales con buen asesoramiento?|
+animaux-compagnie-156|¿A qué lugar te gustaría llevar a un cachorro a descubrir olores nuevos?|¿Dónde elegirías pasar una hora con animales en adopción?|
+animaux-compagnie-157|¿Adónde irías para comprar arena adecuada para gatos sensibles?|¿En qué lugar querrías poner un acuario lejos del sol directo?|
+animaux-compagnie-158|¿En qué sitio preferirías apuntarte a una clase de adiestramiento canino?|¿Dónde decidirías dejar que un gato se esconda tranquilo?|
+animaux-compagnie-159|¿En qué lugar te gustaría adoptar un animal a través de una protectora seria?|¿Dónde elegirías dejar que un perro descanse después de un paseo?|
+animaux-compagnie-160|¿Adónde irías para comprar un transportín homologado?|¿En qué lugar querrías encontrar un paseo con sombra en verano?|
+animaux-compagnie-161|¿A qué sitio preferirías llevar a un perro a desfogarse sin peligro?|¿Dónde decidirías llevar a revisar a un animal que acabas de recoger?|
+animaux-compagnie-162|¿En qué lugar te gustaría reunirte con un especialista en comportamiento animal?|¿Dónde elegirías pasear a un perro sin coche un domingo por la mañana?|
+animaux-compagnie-163|¿Adónde irías para llevar a un perro grande a la peluquería?|¿En qué lugar querrías comprar accesorios para un gato recién adoptado?|
+animaux-compagnie-164|¿En qué sitio preferirías buscar una tienda de animales con buen asesoramiento?|¿Dónde decidirías dejar a un perro al cuidado de alguien durante un fin de semana?|
+animaux-compagnie-165|¿En qué lugar te gustaría pasar una hora con animales en adopción?|¿Dónde elegirías buscar un veterinario de guardia un domingo?|
+animaux-compagnie-166|¿Dónde pondrías un acuario lejos del sol directo?|¿En qué sitio tranquilo querrías hacerle fotos a tu perro?|
+animaux-compagnie-167|¿En qué sitio preferirías dejar que un gato se esconda tranquilo?|¿A qué sitio decidirías llevar a un cachorro a descubrir olores nuevos?|
+animaux-compagnie-168|¿En qué lugar te gustaría dejar que un perro descanse después de un paseo?|¿Dónde elegirías comprar arena adecuada para gatos sensibles?|
+animaux-compagnie-169|¿Adónde irías para encontrar un paseo con sombra en verano?|¿En qué lugar querrías apuntarte a una clase de adiestramiento canino?|
+animaux-compagnie-170|¿A qué sitio preferirías llevar a revisar a un animal que acabas de recoger?|¿Dónde decidirías adoptar un animal a través de una protectora seria?|
+animaux-compagnie-171|¿En qué sitio preferirías pasear a un perro sin coche un domingo por la mañana?|¿Dónde decidirías comprar un transportín homologado?|
+animaux-compagnie-172|¿En qué lugar te gustaría comprar accesorios para un gato recién adoptado?|¿A qué sitio elegirías llevar a un perro a desfogarse sin peligro?|
+animaux-compagnie-173|¿Adónde irías para dejar a un perro al cuidado de alguien durante un fin de semana?|¿En qué lugar querrías reunirte con un especialista en comportamiento animal?|
+animaux-compagnie-174|¿En qué sitio preferirías buscar un veterinario de guardia un domingo?|¿Dónde decidirías llevar a un perro grande a la peluquería?|
+animaux-compagnie-175|¿En qué sitio tranquilo te gustaría hacerle fotos a tu perro?|¿Dónde elegirías buscar una tienda de animales con buen asesoramiento?|
+animaux-compagnie-176|¿Qué objeto te llevarías para entretener a un perro durante una ausencia corta?|¿Qué accesorio usarías para acostumbrar a un cachorro a dormir en su rincón?|
+animaux-compagnie-177|¿Qué accesorio elegirías para llevar a un gato al veterinario?|¿Con qué objeto querrías quitar los pelos de una chaqueta negra?|
+animaux-compagnie-178|¿Qué objeto te parecería imprescindible para recoger las cacas durante un paseo?|¿Qué objeto cogerías primero para estimular a un gato que vive en un piso?|
+animaux-compagnie-179|¿Qué objeto te llevarías para calmar a un animal durante una tormenta?|¿Qué accesorio usarías para comprobar la temperatura de un acuario?|
+animaux-compagnie-180|¿Qué accesorio elegirías para cepillar a un perro después de un paseo por el bosque?|¿Con qué objeto querrías tener a un conejo seguro en una habitación?|
+animaux-compagnie-181|¿Qué objeto te parecería imprescindible para proteger el asiento del coche en un viaje con un perro?|¿Qué objeto cogerías primero para conservar el pienso fresco en casa?|
+animaux-compagnie-182|¿Qué objeto te llevarías para montar un rincón de juegos para un gato?|¿Qué accesorio usarías para ayudar a un perro a subir al coche?|
+animaux-compagnie-183|¿Qué accesorio elegirías para darle agua al perro durante un paseo largo?|¿Con qué objeto querrías jugar con un gato sin usar las manos?|
+animaux-compagnie-184|¿Qué objeto te parecería imprescindible para localizar a un perro en la oscuridad?|¿Qué objeto cogerías primero para entretener a un animal durante un trayecto corto?|
+animaux-compagnie-185|¿Qué objeto te llevarías para acostumbrar a un cachorro a dormir en su rincón?|¿Qué accesorio usarías para guardar los juguetes del perro en el salón?|
+animaux-compagnie-186|¿Qué accesorio elegirías para quitar los pelos de una chaqueta negra?|¿Con qué objeto querrías preparar un paseo con el perro bajo la lluvia?|
+animaux-compagnie-187|¿Qué objeto te parecería imprescindible para estimular a un gato que vive en un piso?|¿Qué objeto cogerías primero para entretener a un perro durante una ausencia corta?|
+animaux-compagnie-188|¿Qué objeto te llevarías para comprobar la temperatura de un acuario?|¿Qué accesorio usarías para llevar a un gato al veterinario?|
+animaux-compagnie-189|¿Qué accesorio elegirías para tener a un conejo seguro en una habitación?|¿Con qué objeto querrías recoger las cacas durante un paseo?|
+animaux-compagnie-190|¿Qué objeto te parecería imprescindible para conservar el pienso fresco en casa?|¿Qué objeto cogerías primero para calmar a un animal durante una tormenta?|
+animaux-compagnie-191|¿Qué objeto te llevarías para ayudar a un perro a subir al coche?|¿Qué accesorio usarías para cepillar a un perro después de un paseo por el bosque?|
+animaux-compagnie-192|¿Qué accesorio elegirías para jugar con un gato sin usar las manos?|¿Con qué objeto querrías proteger el asiento del coche en un viaje con un perro?|
+animaux-compagnie-193|¿Qué objeto te parecería imprescindible para entretener a un animal durante un trayecto corto?|¿Qué objeto cogerías primero para montar un rincón de juegos para un gato?|
+animaux-compagnie-194|¿Qué objeto te llevarías para guardar los juguetes del perro en el salón?|¿Qué accesorio usarías para darle agua al perro durante un paseo largo?|
+animaux-compagnie-195|¿Qué accesorio elegirías para preparar un paseo con el perro bajo la lluvia?|¿Con qué objeto querrías localizar a un perro en la oscuridad?|
+animaux-compagnie-196|¿Qué accesorio elegirías para entretener a un perro durante una ausencia corta?|¿Con qué objeto querrías acostumbrar a un cachorro a dormir en su rincón?|
+animaux-compagnie-197|¿Qué objeto te parecería imprescindible para llevar a un gato al veterinario?|¿Qué objeto cogerías primero para quitar los pelos de una chaqueta negra?|
+animaux-compagnie-198|¿Qué objeto te llevarías para recoger las cacas durante un paseo?|¿Qué accesorio usarías para estimular a un gato que vive en un piso?|
+animaux-compagnie-199|¿Qué accesorio elegirías para calmar a un animal durante una tormenta?|¿Con qué objeto querrías comprobar la temperatura de un acuario?|
+animaux-compagnie-200|¿Qué objeto te parecería imprescindible para cepillar a un perro después de un paseo por el bosque?|¿Qué objeto cogerías primero para tener a un conejo seguro en una habitación?|
