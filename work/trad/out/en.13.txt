@@ -498,3 +498,103 @@ ecole-etudes-097|How many minutes would you spend packing your bag before a day 
 ecole-etudes-098|How many minutes would it take you to understand a difficult maths exercise?|How much time, in minutes, would you allow for setting up your computer before an online class?|
 ecole-etudes-099|How many minutes would you spend choosing the topic for a five-minute presentation?|How many minutes would you spend sorting out a term's worth of documents?|
 ecole-etudes-100|How many minutes would you spend revising a ten-page history chapter?|Generally, how many minutes would it take you to prepare a question to ask a teacher?|
+ecole-etudes-101|Who would you ask for advice on understanding a tricky essay question?|Who would you call to find a reliable partner for a project?|
+ecole-etudes-102|Who would you contact first to choose between two degree courses?|Who would you ask for an opinion on choosing an option?|
+ecole-etudes-103|Who would you turn to for checking a calculation before a test?|Who's the first person you'd talk to about learning to handle exam stress better?|
+ecole-etudes-104|Who would you ask for advice on a compulsory work placement?|Who would you call to read over a personal statement for a university application?|lettre de motivation → personal statement
+ecole-etudes-105|Who would you contact first to go over a grammar point you didn't understand?|Who would you ask for an opinion on finding past papers from previous years?|
+ecole-etudes-106|Who would you turn to for sorting out a conflict in a group project?|Who's the first person you'd talk to about catching up on a lesson you missed through illness?|
+ecole-etudes-107|Who would you ask for advice on preparing for an admissions interview?|Who would you call to ask for a reference for an application?|
+ecole-etudes-108|Who would you contact first to find out the job prospects of a degree?|Who would you ask for an opinion on checking whether a course is accredited?|
+ecole-etudes-109|Who would you turn to for an opinion on a dissertation topic?|Who's the first person you'd talk to about getting feedback on a mock oral?|
+ecole-etudes-110|Who would you ask for advice on finding a reliable partner for a project?|Who would you call to understand the plagiarism rules for a written assignment?|
+ecole-etudes-111|Who would you contact first for advice on choosing an option?|Who would you ask for an opinion on organising an effective revision session?|
+ecole-etudes-112|Who would you turn to for learning to handle exam stress better?|Who's the first person you'd talk to about understanding a tricky essay question?|
+ecole-etudes-113|Who would you ask for advice on reading over a personal statement for a university application?|Who would you call to choose between two degree courses?|lettre de motivation → personal statement
+ecole-etudes-114|Who would you contact first to find past papers from previous years?|Who would you ask for an opinion on checking a calculation before a test?|
+ecole-etudes-115|Who would you turn to for catching up on a lesson you missed through illness?|Who's the first person you'd talk to about getting advice on a compulsory work placement?|
+ecole-etudes-116|Who would you ask for advice on asking for a reference for an application?|Who would you call to go over a grammar point you didn't understand?|
+ecole-etudes-117|Who would you contact first to check whether a course is accredited?|Who would you ask for an opinion on sorting out a conflict in a group project?|
+ecole-etudes-118|Who would you turn to for feedback on a mock oral?|Who's the first person you'd talk to about preparing for an admissions interview?|
+ecole-etudes-119|Who would you ask for advice on understanding the plagiarism rules for a written assignment?|Who would you call to find out the job prospects of a degree?|
+ecole-etudes-120|Who would you contact first to organise an effective revision session?|Who would you ask for an opinion on a dissertation topic?|
+ecole-etudes-121|Who would you contact first to understand a tricky essay question?|Who would you ask for an opinion on finding a reliable partner for a project?|
+ecole-etudes-122|Who would you turn to for choosing between two degree courses?|Who's the first person you'd talk to about getting advice on choosing an option?|
+ecole-etudes-123|Who would you ask for advice on checking a calculation before a test?|Who would you call to learn to handle exam stress better?|
+ecole-etudes-124|Who would you contact first for advice on a compulsory work placement?|Who would you ask for an opinion on reading over a personal statement for a university application?|lettre de motivation → personal statement
+ecole-etudes-125|Who would you turn to for going over a grammar point you didn't understand?|Who's the first person you'd talk to about finding past papers from previous years?|
+ecole-etudes-126|Where would you go to revise in peace for three hours?|Where would you want to work on a Sunday when your place is noisy?|
+ecole-etudes-127|Where would you rather print a report the day before a deadline?|Where would you decide to buy a calculator that's allowed in exams?|
+ecole-etudes-128|Where would you like to find a study group near campus?|Where would you choose to hold a rehearsal for a presentation?|
+ecole-etudes-129|Where would you go to read a book in silence after class?|Where would you want to meet up with a friend to revise together?|
+ecole-etudes-130|Where would you rather buy a notebook before the start of term?|Where would you decide to look at archives for a history presentation?|
+ecole-etudes-131|Where would you like to borrow a textbook that's hard to find?|Where would you choose to photocopy an article you need for a class?|
+ecole-etudes-132|Where would you go to make an important call between two classes?|Where would you want to ask for information about a course?|
+ecole-etudes-133|Where would you rather prepare a presentation as a team?|Where would you decide to find a desk with a computer?|
+ecole-etudes-134|Where would you like to meet a teacher during their office hours?|Where would you choose to prepare for an internship interview?|
+ecole-etudes-135|Where would you go to work on a Sunday when your place is noisy?|Where would you want to do a supervised practical session?|
+ecole-etudes-136|Where would you rather buy a calculator that's allowed in exams?|Where would you decide to focus for an hour before an exam?|
+ecole-etudes-137|Where would you like to hold a rehearsal for a presentation?|Where would you choose to revise in peace for three hours?|
+ecole-etudes-138|Where would you go to meet up with a friend to revise together?|Where would you want to print a report the day before a deadline?|
+ecole-etudes-139|Where would you rather look at archives for a history presentation?|Where would you decide to find a study group near campus?|
+ecole-etudes-140|Where would you like to photocopy an article you need for a class?|Where would you choose to read a book in silence after class?|
+ecole-etudes-141|Where would you go to ask for information about a course?|Where would you want to buy a notebook before the start of term?|
+ecole-etudes-142|Where would you rather find a desk with a computer?|Where would you decide to borrow a textbook that's hard to find?|
+ecole-etudes-143|Where would you like to prepare for an internship interview?|Where would you choose to make an important call between two classes?|
+ecole-etudes-144|Where would you go to do a supervised practical session?|Where would you want to prepare a presentation as a team?|
+ecole-etudes-145|Where would you rather focus for an hour before an exam?|Where would you decide to meet a teacher during their office hours?|
+ecole-etudes-146|Where would you rather revise in peace for three hours?|Where would you decide to work on a Sunday when your place is noisy?|
+ecole-etudes-147|Where would you like to print a report the day before a deadline?|Where would you choose to buy a calculator that's allowed in exams?|
+ecole-etudes-148|Where would you go to find a study group near campus?|Where would you want to hold a rehearsal for a presentation?|
+ecole-etudes-149|Where would you rather read a book in silence after class?|Where would you decide to meet up with a friend to revise together?|
+ecole-etudes-150|Where would you like to buy a notebook before the start of term?|Where would you choose to look at archives for a history presentation?|
+ecole-etudes-151|What item would you take to take notes during a three-hour lecture?|What accessory would you use to practise pronunciation in a foreign language?|
+ecole-etudes-152|What accessory would you choose to give a presentation without your own laptop?|What would you want to use to read a textbook on a train journey?|
+ecole-etudes-153|What item would seem essential to you for keeping track of all the semester's deadlines?|What item would you pick first to explain a diagram to a classmate?|
+ecole-etudes-154|What item would you take to memorise maps?|What accessory would you use to keep a whole year's revision cards?|
+ecole-etudes-155|What accessory would you choose to carry heavy books to campus?|What would you want to use to present a graph on the board?|
+ecole-etudes-156|What item would seem essential to you for marking maths exercises?|What item would you pick first to do an accurate geometry exercise?|
+ecole-etudes-157|What item would you take to annotate a ten-page literary text?|What accessory would you use to work in a library with no plug sockets?|
+ecole-etudes-158|What accessory would you choose to study in a really bright room?|What would you want to use to carry a laptop in the rain?|
+ecole-etudes-159|What item would seem essential to you for revising without an internet connection?|What item would you pick first to record ideas for an essay?|
+ecole-etudes-160|What item would you take to practise pronunciation in a foreign language?|What accessory would you use to organise a group project remotely?|
+ecole-etudes-161|What accessory would you choose to read a textbook on a train journey?|What would you want to use to find a definition quickly while revising?|
+ecole-etudes-162|What item would seem essential to you for explaining a diagram to a classmate?|What item would you pick first to take notes during a three-hour lecture?|
+ecole-etudes-163|What item would you take to keep a whole year's revision cards?|What accessory would you use to give a presentation without your own laptop?|
+ecole-etudes-164|What accessory would you choose to present a graph on the board?|What would you want to use to keep track of all the semester's deadlines?|
+ecole-etudes-165|What item would seem essential to you for doing an accurate geometry exercise?|What item would you pick first to memorise maps?|
+ecole-etudes-166|What item would you take to work in a library with no plug sockets?|What accessory would you use to carry heavy books to campus?|
+ecole-etudes-167|What accessory would you choose to carry a laptop in the rain?|What would you want to use to mark maths exercises?|
+ecole-etudes-168|What item would seem essential to you for recording ideas for an essay?|What item would you pick first to annotate a ten-page literary text?|
+ecole-etudes-169|What item would you take to organise a group project remotely?|What accessory would you use to study in a really bright room?|
+ecole-etudes-170|What accessory would you choose to find a definition quickly while revising?|What would you want to use to revise without an internet connection?|
+ecole-etudes-171|What accessory would you choose to take notes during a three-hour lecture?|What would you want to use to practise pronunciation in a foreign language?|
+ecole-etudes-172|What item would seem essential to you for giving a presentation without your own laptop?|What item would you pick first to read a textbook on a train journey?|
+ecole-etudes-173|What item would you take to keep track of all the semester's deadlines?|What accessory would you use to explain a diagram to a classmate?|
+ecole-etudes-174|What accessory would you choose to memorise maps?|What would you want to use to keep a whole year's revision cards?|
+ecole-etudes-175|What item would seem essential to you for carrying heavy books to campus?|What item would you pick first to present a graph on the board?|
+ecole-etudes-176|How many times a month could you make revision cards after an important lesson?|In a normal month, how many times would you choose to watch an educational video on top of your lessons?|
+ecole-etudes-177|How many times in a month would you like to study in a library rather than at home?|In your opinion, how many times a month would it be reasonable to practise a foreign language with a friend?|
+ecole-etudes-178|In a month, how many times could you revise with another student?|In an ordinary month, how many times would you like to look up articles to go deeper into a subject?|
+ecole-etudes-179|How many times a month could you review your study goals?|In a normal month, how many times would you choose to take breaks during a long revision session?|
+ecole-etudes-180|How many times in a month would you like to work on a presentation as a group?|In your opinion, how many times a month would it be reasonable to go to a talk at your school or university?|
+ecole-etudes-181|In a month, how many times could you ask a teacher for feedback?|In an ordinary month, how many times would you like to book an appointment with a careers adviser?|
+ecole-etudes-182|How many times a month could you reread an old marked assignment?|In a normal month, how many times would you choose to read a chapter ahead of the syllabus?|
+ecole-etudes-183|How many times in a month would you like to get your things ready the night before a class?|In your opinion, how many times a month would it be reasonable to redo an exercise you got wrong to improve?|
+ecole-etudes-184|In a month, how many times could you use flashcards to revise?|In an ordinary month, how many times would you like to learn a new memorisation technique?|
+ecole-etudes-185|How many times a month could you watch an educational video on top of your lessons?|In a normal month, how many times would you choose to plan your revision in a diary?|
+ecole-etudes-186|How many times in a month would you like to practise a foreign language with a friend?|In your opinion, how many times a month would it be reasonable to test yourself with a practice quiz?|
+ecole-etudes-187|In a month, how many times could you look up articles to go deeper into a subject?|In an ordinary month, how many times would you like to make revision cards after an important lesson?|
+ecole-etudes-188|How many times a month could you take breaks during a long revision session?|In a normal month, how many times would you choose to study in a library rather than at home?|
+ecole-etudes-189|How many times in a month would you like to go to a talk at your school or university?|In your opinion, how many times a month would it be reasonable to revise with another student?|
+ecole-etudes-190|In a month, how many times could you book an appointment with a careers adviser?|In an ordinary month, how many times would you like to review your study goals?|
+ecole-etudes-191|How many times a month could you read a chapter ahead of the syllabus?|In a normal month, how many times would you choose to work on a presentation as a group?|
+ecole-etudes-192|How many times in a month would you like to redo an exercise you got wrong to improve?|In your opinion, how many times a month would it be reasonable to ask a teacher for feedback?|
+ecole-etudes-193|In a month, how many times could you learn a new memorisation technique?|In an ordinary month, how many times would you like to reread an old marked assignment?|
+ecole-etudes-194|How many times a month could you plan your revision in a diary?|In a normal month, how many times would you choose to get your things ready the night before a class?|
+ecole-etudes-195|How many times in a month would you like to test yourself with a practice quiz?|In your opinion, how many times a month would it be reasonable to use flashcards to revise?|
+ecole-etudes-196|How many times in a month would you like to make revision cards after an important lesson?|In your opinion, how many times a month would it be reasonable to watch an educational video on top of your lessons?|
+ecole-etudes-197|In a month, how many times could you study in a library rather than at home?|In an ordinary month, how many times would you like to practise a foreign language with a friend?|
+ecole-etudes-198|How many times a month could you revise with another student?|In a normal month, how many times would you choose to look up articles to go deeper into a subject?|
+ecole-etudes-199|How many times in a month would you like to review your study goals?|In your opinion, how many times a month would it be reasonable to take breaks during a long revision session?|
+ecole-etudes-200|In a month, how many times could you work on a presentation as a group?|In an ordinary month, how many times would you like to go to a talk at your school or university?|

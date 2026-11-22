@@ -1,0 +1,100 @@
+voisins-societe-001|Quanto você pagaria no máximo por um serviço de limpeza das áreas comuns durante um mês?|Que preço te pareceria razoável para um sistema de iluminação na entrada do prédio?|
+voisins-societe-002|Quanto você estaria disposto a gastar com uma cópia da tag de acesso de um prédio?|Em reais, qual seria seu limite para um presentinho para agradecer um vizinho prestativo?|euros → reais
+voisins-societe-003|Quanto você separaria no orçamento para uma fechadura reforçada para a porta do seu apartamento?|A partir de quanto você acharia caro demais um tapete antivibração para uma máquina de lavar barulhenta?|
+voisins-societe-004|Quanto você pagaria no máximo por um detector de fumaça inteligente para casa?|Que preço te pareceria razoável para o aluguel de uma vaga de estacionamento por uma semana?|
+voisins-societe-005|Quanto você estaria disposto a gastar com uma ajuda pontual para montar um móvel pesado?|Em reais, qual seria seu limite para chamar um chaveiro de emergência à noite?|euros → reais
+voisins-societe-006|Quanto você separaria no orçamento para uma entrega de compras no quarto andar sem elevador?|A partir de quanto você acharia caro demais o conserto da campainha do apartamento?|
+voisins-societe-007|Quanto você pagaria no máximo por uma noite de babá com um vizinho de confiança?|Que preço te pareceria razoável para uma fechadura inteligente sem assinatura?|
+voisins-societe-008|Quanto você estaria disposto a gastar com a limpeza de uma sacada pequena depois de uma obra?|Em reais, qual seria seu limite para um bicicletário seguro num pátio comum?|euros → reais
+voisins-societe-009|Quanto você separaria no orçamento para uma vaga de estacionamento reservada para um fim de semana?|A partir de quanto você acharia caro demais levar alguns móveis de um andar para outro?|
+voisins-societe-010|Quanto você pagaria no máximo por um sistema de iluminação na entrada do prédio?|Que preço te pareceria razoável para uma sessão de mediação entre vizinhos?|
+voisins-societe-011|Quanto você estaria disposto a gastar com um presentinho para agradecer um vizinho prestativo?|Em reais, qual seria seu limite para um serviço de recebimento de encomendas durante uma semana?|euros → reais
+voisins-societe-012|Quanto você separaria no orçamento para um tapete antivibração para uma máquina de lavar barulhenta?|A partir de quanto você acharia caro demais um serviço de limpeza das áreas comuns durante um mês?|
+voisins-societe-013|Quanto você pagaria no máximo pelo aluguel de uma vaga de estacionamento por uma semana?|Que preço te pareceria razoável para uma cópia da tag de acesso de um prédio?|
+voisins-societe-014|Quanto você estaria disposto a gastar para chamar um chaveiro de emergência à noite?|Em reais, qual seria seu limite para uma fechadura reforçada para a porta do seu apartamento?|euros → reais
+voisins-societe-015|Quanto você separaria no orçamento para o conserto da campainha do apartamento?|A partir de quanto você acharia caro demais um detector de fumaça inteligente para casa?|
+voisins-societe-016|Quanto você pagaria no máximo por uma fechadura inteligente sem assinatura?|Que preço te pareceria razoável para uma ajuda pontual para montar um móvel pesado?|
+voisins-societe-017|Quanto você estaria disposto a gastar com um bicicletário seguro num pátio comum?|Em reais, qual seria seu limite para uma entrega de compras no quarto andar sem elevador?|euros → reais
+voisins-societe-018|Quanto você separaria no orçamento para levar alguns móveis de um andar para outro?|A partir de quanto você acharia caro demais uma noite de babá com um vizinho de confiança?|
+voisins-societe-019|Quanto você pagaria no máximo por uma sessão de mediação entre vizinhos?|Que preço te pareceria razoável para a limpeza de uma sacada pequena depois de uma obra?|
+voisins-societe-020|Quanto você estaria disposto a gastar com um serviço de recebimento de encomendas durante uma semana?|Em reais, qual seria seu limite para uma vaga de estacionamento reservada para um fim de semana?|euros → reais
+voisins-societe-021|Quanto você estaria disposto a gastar com um serviço de limpeza das áreas comuns durante um mês?|Em reais, qual seria seu limite para um sistema de iluminação na entrada do prédio?|euros → reais
+voisins-societe-022|Quanto você separaria no orçamento para uma cópia da tag de acesso de um prédio?|A partir de quanto você acharia caro demais um presentinho para agradecer um vizinho prestativo?|
+voisins-societe-023|Quanto você pagaria no máximo por uma fechadura reforçada para a porta do seu apartamento?|Que preço te pareceria razoável para um tapete antivibração para uma máquina de lavar barulhenta?|
+voisins-societe-024|Quanto você estaria disposto a gastar com um detector de fumaça inteligente para casa?|Em reais, qual seria seu limite para o aluguel de uma vaga de estacionamento por uma semana?|euros → reais
+voisins-societe-025|Quanto você separaria no orçamento para uma ajuda pontual para montar um móvel pesado?|A partir de quanto você acharia caro demais chamar um chaveiro de emergência à noite?|
+voisins-societe-026|O que você responderia se um vizinho ligasse a furadeira às oito da manhã de um domingo?|Como você responderia se alguém te pedisse para ficar de olho no apartamento dele por dez dias?|
+voisins-societe-027|Qual seria sua primeira frase se o vizinho de cima reclamasse que você pisa forte demais?|O que você falaria se seu vizinho dissesse que ouve sua televisão toda noite?|
+voisins-societe-028|O que você diria se um vizinho te pedisse para abaixar a música às nove da noite?|Que palavras você usaria se um morador deixasse uma bicicleta no meio da escada?|
+voisins-societe-029|O que você responderia se alguém estacionasse o carro na frente da sua garagem?|Como você responderia se um vizinho te pedisse uma furadeira emprestada?|
+voisins-societe-030|Qual seria sua primeira frase se seu vizinho se recusasse a buscar uma encomenda entregue na casa dele?|O que você falaria se alguém propusesse mudar o horário de abertura do portão?|
+voisins-societe-031|O que você diria se uma vizinha propusesse uma festa no pátio comum?|Que palavras você usaria se um vizinho fizesse um churrasco embaixo da sua janela?|
+voisins-societe-032|O que você responderia se um vizinho dissesse que seus convidados fazem barulho demais?|Como você responderia se uma vizinha te acusasse de ter pegado a encomenda dela por engano?|
+voisins-societe-033|Qual seria sua primeira frase se alguém te pedisse para levar as compras dele até o quinto andar?|O que você falaria se o porteiro te pedisse para tirar seu capacho?|
+voisins-societe-034|O que você diria se um vizinho deixasse o lixo dele na frente da sua porta?|Que palavras você usaria se um vizinho te chamasse para uma reunião de condomínio improvisada?|
+voisins-societe-035|O que você responderia se alguém te pedisse para ficar de olho no apartamento dele por dez dias?|Como você responderia se alguém usasse sua vaga de garagem sem avisar?|
+voisins-societe-036|Qual seria sua primeira frase se seu vizinho dissesse que ouve sua televisão toda noite?|O que você falaria se um vizinho te agradecesse por um favor que você fez no inverno passado?|
+voisins-societe-037|O que você diria se um morador deixasse uma bicicleta no meio da escada?|Que palavras você usaria se um vizinho ligasse a furadeira às oito da manhã de um domingo?|
+voisins-societe-038|O que você responderia se um vizinho te pedisse uma furadeira emprestada?|Como você responderia se o vizinho de cima reclamasse que você pisa forte demais?|
+voisins-societe-039|Qual seria sua primeira frase se alguém propusesse mudar o horário de abertura do portão?|O que você falaria se um vizinho te pedisse para abaixar a música às nove da noite?|
+voisins-societe-040|O que você diria se um vizinho fizesse um churrasco embaixo da sua janela?|Que palavras você usaria se alguém estacionasse o carro na frente da sua garagem?|
+voisins-societe-041|O que você responderia se uma vizinha te acusasse de ter pegado a encomenda dela por engano?|Como você responderia se seu vizinho se recusasse a buscar uma encomenda entregue na casa dele?|
+voisins-societe-042|Qual seria sua primeira frase se o porteiro te pedisse para tirar seu capacho?|O que você falaria se uma vizinha propusesse uma festa no pátio comum?|
+voisins-societe-043|O que você diria se um vizinho te chamasse para uma reunião de condomínio improvisada?|Que palavras você usaria se um vizinho dissesse que seus convidados fazem barulho demais?|
+voisins-societe-044|O que você responderia se alguém usasse sua vaga de garagem sem avisar?|Como você responderia se alguém te pedisse para levar as compras dele até o quinto andar?|
+voisins-societe-045|Qual seria sua primeira frase se um vizinho te agradecesse por um favor que você fez no inverno passado?|O que você falaria se um vizinho deixasse o lixo dele na frente da sua porta?|
+voisins-societe-046|Qual seria sua primeira frase se um vizinho ligasse a furadeira às oito da manhã de um domingo?|O que você falaria se alguém te pedisse para ficar de olho no apartamento dele por dez dias?|
+voisins-societe-047|O que você diria se o vizinho de cima reclamasse que você pisa forte demais?|Que palavras você usaria se seu vizinho dissesse que ouve sua televisão toda noite?|
+voisins-societe-048|O que você responderia se um vizinho te pedisse para abaixar a música às nove da noite?|Como você responderia se um morador deixasse uma bicicleta no meio da escada?|
+voisins-societe-049|Qual seria sua primeira frase se alguém estacionasse o carro na frente da sua garagem?|O que você falaria se um vizinho te pedisse uma furadeira emprestada?|
+voisins-societe-050|O que você diria se seu vizinho se recusasse a buscar uma encomenda entregue na casa dele?|Que palavras você usaria se alguém propusesse mudar o horário de abertura do portão?|
+voisins-societe-051|O que você faria primeiro se encontrasse água escorrendo do teto num sábado à noite?|O que você decidiria fazer antes de tudo se o portão do prédio ficasse aberto a noite toda?|
+voisins-societe-052|Qual seria seu primeiro reflexo se um alarme de carro estivesse tocando havia uma hora na rua?|Como você agiria primeiro se um vizinho caísse na escada e pedisse ajuda?|
+voisins-societe-053|Por onde você começaria se o vizinho de cima colocasse música alta à meia-noite?|Qual seria sua primeira ação se você ouvisse um cachorro latindo sozinho havia várias horas?|
+voisins-societe-054|O que você faria primeiro se uma encomenda no seu nome chegasse no vizinho errado?|O que você decidiria fazer antes de tudo se viesse um cheiro de queimado de um apartamento vizinho?|
+voisins-societe-055|Qual seria seu primeiro reflexo se você encontrasse uma chave no corredor do seu prédio?|Como você agiria primeiro se alguém largasse caixas de papelão na frente das lixeiras?|
+voisins-societe-056|Por onde você começaria se um carrinho de bebê bloqueasse a saída de emergência?|Qual seria sua primeira ação se seu vizinho batesse na sua porta durante uma reunião por vídeo?|
+voisins-societe-057|O que você faria primeiro se uma pessoa idosa ficasse sem luz no seu prédio?|O que você decidiria fazer antes de tudo se aparecesse um vazamento de água nas áreas comuns?|
+voisins-societe-058|Qual seria seu primeiro reflexo se uma bicicleta parecesse abandonada na frente da entrada do prédio?|Como você agiria primeiro se convidados ocupassem todas as vagas de visitante?|
+voisins-societe-059|Por onde você começaria se encontrasse um bilhete agressivo colado na sua porta?|Qual seria sua primeira ação se a luz do corredor estivesse sem funcionar havia uma semana?|
+voisins-societe-060|O que você faria primeiro se o portão do prédio ficasse aberto a noite toda?|O que você decidiria fazer antes de tudo se visse uma encomenda frágil largada na chuva?|
+voisins-societe-061|Qual seria seu primeiro reflexo se um vizinho caísse na escada e pedisse ajuda?|Como você agiria primeiro se um desconhecido insistisse em entrar no prédio atrás de você?|
+voisins-societe-062|Por onde você começaria se ouvisse um cachorro latindo sozinho havia várias horas?|Qual seria sua primeira ação se você encontrasse água escorrendo do teto num sábado à noite?|
+voisins-societe-063|O que você faria primeiro se viesse um cheiro de queimado de um apartamento vizinho?|O que você decidiria fazer antes de tudo se um alarme de carro estivesse tocando havia uma hora na rua?|
+voisins-societe-064|Qual seria seu primeiro reflexo se alguém largasse caixas de papelão na frente das lixeiras?|Como você agiria primeiro se o vizinho de cima colocasse música alta à meia-noite?|
+voisins-societe-065|Por onde você começaria se seu vizinho batesse na sua porta durante uma reunião por vídeo?|Qual seria sua primeira ação se uma encomenda no seu nome chegasse no vizinho errado?|
+voisins-societe-066|O que você faria primeiro se aparecesse um vazamento de água nas áreas comuns?|O que você decidiria fazer antes de tudo se encontrasse uma chave no corredor do seu prédio?|
+voisins-societe-067|Qual seria seu primeiro reflexo se convidados ocupassem todas as vagas de visitante?|Como você agiria primeiro se um carrinho de bebê bloqueasse a saída de emergência?|
+voisins-societe-068|Por onde você começaria se a luz do corredor estivesse sem funcionar havia uma semana?|Qual seria sua primeira ação se uma pessoa idosa ficasse sem luz no seu prédio?|
+voisins-societe-069|O que você faria primeiro se visse uma encomenda frágil largada na chuva?|O que você decidiria fazer antes de tudo se uma bicicleta parecesse abandonada na frente da entrada do prédio?|
+voisins-societe-070|Qual seria seu primeiro reflexo se um desconhecido insistisse em entrar no prédio atrás de você?|Como você agiria primeiro se encontrasse um bilhete agressivo colado na sua porta?|
+voisins-societe-071|Qual seria seu primeiro reflexo se você encontrasse água escorrendo do teto num sábado à noite?|Como você agiria primeiro se o portão do prédio ficasse aberto a noite toda?|
+voisins-societe-072|Por onde você começaria se um alarme de carro estivesse tocando havia uma hora na rua?|Qual seria sua primeira ação se um vizinho caísse na escada e pedisse ajuda?|
+voisins-societe-073|O que você faria primeiro se o vizinho de cima colocasse música alta à meia-noite?|O que você decidiria fazer antes de tudo se ouvisse um cachorro latindo sozinho havia várias horas?|
+voisins-societe-074|Qual seria seu primeiro reflexo se uma encomenda no seu nome chegasse no vizinho errado?|Como você agiria primeiro se viesse um cheiro de queimado de um apartamento vizinho?|
+voisins-societe-075|Por onde você começaria se encontrasse uma chave no corredor do seu prédio?|Qual seria sua primeira ação se alguém largasse caixas de papelão na frente das lixeiras?|
+voisins-societe-076|Você escolheria um prédio bem tranquilo mas afastado ou um prédio movimentado perto do metrô?|Se só pudesse escolher uma opção, você ficaria com um prédio com elevador ou um prédio com bicicletário?|
+voisins-societe-077|Entre conhecer todos os seus vizinhos e ser discreto com cada um, o que você preferiria?|Qual dos dois te atrai mais: uma entrada com senha no portão ou uma entrada com porteiro?|
+voisins-societe-078|Se tivesse que decidir, seria um pátio interno compartilhado ou um jardim privativo menor?|O que você priorizaria: ficar perto de uma rua de comércio ou ficar perto de um parque grande?|
+voisins-societe-079|Você escolheria uma festa anual entre vizinhos ou pequenos encontros frequentes?|Se só pudesse escolher uma opção, você ficaria com vizinhos muito sociáveis ou vizinhos muito discretos?|
+voisins-societe-080|Entre resolver um problema cara a cara e escrever uma mensagem educada, o que você preferiria?|Qual dos dois te atrai mais: organizar almoços com o bairro ou só se conhecer no corredor?|
+voisins-societe-081|Se tivesse que decidir, seria um apartamento no último andar ou um apartamento no térreo?|O que você priorizaria: estacionar o carro no subsolo ou numa rua residencial?|
+voisins-societe-082|Você escolheria ter uma sacada ou ter um depósito grande no subsolo?|Se só pudesse escolher uma opção, você ficaria com um apartamento claro mas barulhento ou um apartamento escuro mas tranquilo?|
+voisins-societe-083|Entre morar em condomínio e alugar uma casinha, o que você preferiria?|Qual dos dois te atrai mais: uma cozinha americana ou uma cozinha fechada?|
+voisins-societe-084|Se tivesse que decidir, seria receber as encomendas na portaria ou usar um ponto de retirada?|O que você priorizaria: áreas comuns bem decoradas ou áreas comuns fáceis de manter?|
+voisins-societe-085|Você escolheria um prédio com elevador ou um prédio com bicicletário?|Se só pudesse escolher uma opção, você ficaria com morar no centro de uma cidade grande ou numa cidade pequena e tranquila?|
+voisins-societe-086|Entre uma entrada com senha no portão e uma entrada com porteiro, o que você preferiria?|Qual dos dois te atrai mais: discutir os problemas em grupo ou chamar o síndico?|
+voisins-societe-087|Se tivesse que decidir, seria ficar perto de uma rua de comércio ou ficar perto de um parque grande?|O que você priorizaria: um prédio bem tranquilo mas afastado ou um prédio movimentado perto do metrô?|
+voisins-societe-088|Você escolheria vizinhos muito sociáveis ou vizinhos muito discretos?|Se só pudesse escolher uma opção, você ficaria com conhecer todos os seus vizinhos ou ser discreto com cada um?|
+voisins-societe-089|Entre organizar almoços com o bairro e só se conhecer no corredor, o que você preferiria?|Qual dos dois te atrai mais: um pátio interno compartilhado ou um jardim privativo menor?|
+voisins-societe-090|Se tivesse que decidir, seria estacionar o carro no subsolo ou numa rua residencial?|O que você priorizaria: uma festa anual entre vizinhos ou pequenos encontros frequentes?|
+voisins-societe-091|Você escolheria um apartamento claro mas barulhento ou um apartamento escuro mas tranquilo?|Se só pudesse escolher uma opção, você ficaria com resolver um problema cara a cara ou escrever uma mensagem educada?|
+voisins-societe-092|Entre uma cozinha americana e uma cozinha fechada, o que você preferiria?|Qual dos dois te atrai mais: um apartamento no último andar ou um apartamento no térreo?|
+voisins-societe-093|Se tivesse que decidir, seria áreas comuns bem decoradas ou áreas comuns fáceis de manter?|O que você priorizaria: ter uma sacada ou ter um depósito grande no subsolo?|
+voisins-societe-094|Você escolheria morar no centro de uma cidade grande ou numa cidade pequena e tranquila?|Se só pudesse escolher uma opção, você ficaria com morar em condomínio ou alugar uma casinha?|
+voisins-societe-095|Entre discutir os problemas em grupo e chamar o síndico, o que você preferiria?|Qual dos dois te atrai mais: receber as encomendas na portaria ou usar um ponto de retirada?|
+voisins-societe-096|Entre um prédio bem tranquilo mas afastado e um prédio movimentado perto do metrô, o que você preferiria?|Qual dos dois te atrai mais: um prédio com elevador ou um prédio com bicicletário?|
+voisins-societe-097|Se tivesse que decidir, seria conhecer todos os seus vizinhos ou ser discreto com cada um?|O que você priorizaria: uma entrada com senha no portão ou uma entrada com porteiro?|
+voisins-societe-098|Você escolheria um pátio interno compartilhado ou um jardim privativo menor?|Se só pudesse escolher uma opção, você ficaria com ficar perto de uma rua de comércio ou ficar perto de um parque grande?|
+voisins-societe-099|Entre uma festa anual entre vizinhos e pequenos encontros frequentes, o que você preferiria?|Qual dos dois te atrai mais: vizinhos muito sociáveis ou vizinhos muito discretos?|
+voisins-societe-100|Se tivesse que decidir, seria resolver um problema cara a cara ou escrever uma mensagem educada?|O que você priorizaria: organizar almoços com o bairro ou só se conhecer no corredor?|
