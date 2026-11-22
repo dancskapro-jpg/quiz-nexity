@@ -198,3 +198,103 @@ amour-couple-197|In one month, how many times could you make a surprise dinner f
 amour-couple-198|How many times a month could you suggest a cultural outing as a couple?|In a normal month, how many times would you choose to plan an outing without telling your partner?|
 amour-couple-199|How many times in a month would you like to spend a whole day with no plans as a couple?|In your view, how many times a month would it be reasonable to plan a romantic date after work?|
 amour-couple-200|In one month, how many times could you go out for a meal with your partner?|In an ordinary month, how many times would you like to go for a walk together on a Sunday?|
+beaute-apparence-001|What's the most you'd pay for a haircut at your local salon?|What price would seem reasonable to you for a one-hour personal styling consultation?|
+beaute-apparence-002|How much would you be willing to spend on a one-hour facial at a beauty salon?|In pounds, what would your limit be for a complete routine for curly hair?|euros → livres
+beaute-apparence-003|What budget would you set aside for a 50 ml bottle of designer perfume?|At what price would you find a high-end deodorant too expensive?|
+beaute-apparence-004|What's the most you'd pay for a full colour at the hairdresser's?|What price would seem reasonable to you for a skincare gift set?|
+beaute-apparence-005|How much would you be willing to spend on a 50 ml moisturiser?|In pounds, what would your limit be for a rechargeable electric toothbrush?|euros → livres
+beaute-apparence-006|What budget would you set aside for professional make-up for a night out?|At what price would you find a leg wax at a beauty salon too expensive?|
+beaute-apparence-007|What's the most you'd pay for a simple gel manicure?|What price would seem reasonable to you for a cut and blow-dry at a well-known salon?|
+beaute-apparence-008|How much would you be willing to spend on a beard trim at a barber's?|In pounds, what would your limit be for a light-up make-up mirror?|euros → livres
+beaute-apparence-009|What budget would you set aside for a good-quality pair of sunglasses?|At what price would you find an electric beard trimmer too expensive?|
+beaute-apparence-010|What's the most you'd pay for a one-hour personal styling consultation?|What price would seem reasonable to you for a scalp treatment session?|
+beaute-apparence-011|How much would you be willing to spend on a complete routine for curly hair?|In pounds, what would your limit be for a sturdy travel toiletry bag?|euros → livres
+beaute-apparence-012|What budget would you set aside for a high-end deodorant?|At what price would you find a haircut at your local salon too expensive?|
+beaute-apparence-013|What's the most you'd pay for a skincare gift set?|What price would seem reasonable to you for a one-hour facial at a beauty salon?|
+beaute-apparence-014|How much would you be willing to spend on a rechargeable electric toothbrush?|In pounds, what would your limit be for a 50 ml bottle of designer perfume?|euros → livres
+beaute-apparence-015|What budget would you set aside for a leg wax at a beauty salon?|At what price would you find a full colour at the hairdresser's too expensive?|
+beaute-apparence-016|What's the most you'd pay for a cut and blow-dry at a well-known salon?|What price would seem reasonable to you for a 50 ml moisturiser?|
+beaute-apparence-017|How much would you be willing to spend on a light-up make-up mirror?|In pounds, what would your limit be for professional make-up for a night out?|euros → livres
+beaute-apparence-018|What budget would you set aside for an electric beard trimmer?|At what price would you find a simple gel manicure too expensive?|
+beaute-apparence-019|What's the most you'd pay for a scalp treatment session?|What price would seem reasonable to you for a beard trim at a barber's?|
+beaute-apparence-020|How much would you be willing to spend on a sturdy travel toiletry bag?|In pounds, what would your limit be for a good-quality pair of sunglasses?|euros → livres
+beaute-apparence-021|How much would you be willing to spend on a haircut at your local salon?|In pounds, what would your limit be for a one-hour personal styling consultation?|euros → livres
+beaute-apparence-022|What budget would you set aside for a one-hour facial at a beauty salon?|At what price would you find a complete routine for curly hair too expensive?|
+beaute-apparence-023|What's the most you'd pay for a 50 ml bottle of designer perfume?|What price would seem reasonable to you for a high-end deodorant?|
+beaute-apparence-024|How much would you be willing to spend on a full colour at the hairdresser's?|In pounds, what would your limit be for a skincare gift set?|euros → livres
+beaute-apparence-025|What budget would you set aside for a 50 ml moisturiser?|At what price would you find a rechargeable electric toothbrush too expensive?|
+beaute-apparence-026|What would you reply if your hairdresser suggested a very different cut from the one you asked for?|How would you respond if someone criticised your outfit as you arrived at a party?|
+beaute-apparence-027|What would be the first thing you'd say if a friend asked for your honest opinion on their new hair colour?|What would you say if the people around you asked whether you'd got new glasses?|
+beaute-apparence-028|What would you say if someone told you your style had changed over the past year?|What words would you use if a hairdresser offered you a treatment you hadn't planned on?|
+beaute-apparence-029|What would you reply if a sales assistant kept pushing you to buy a beauty product?|How would you respond if a friend turned up with a hairstyle they already regret?|
+beaute-apparence-030|What would be the first thing you'd say if someone close to you asked why you take so long to get ready?|What would you say if a sales assistant quoted a much higher price than the one in the window?|
+beaute-apparence-031|What would you say if a stranger complimented your perfume on the Tube?|What words would you use if someone asked you for advice on choosing a perfume?|métro → Tube
+beaute-apparence-032|What would you reply if the hairdresser told you they were running an hour late for your appointment?|How would you respond if your partner asked what you thought of their make-up?|
+beaute-apparence-033|What would be the first thing you'd say if a friend asked whether his suit was too big?|What would you say if someone noticed your shoes were new?|
+beaute-apparence-034|What would you say if a friend was hesitating about cutting her hair really short?|What words would you use if a friend asked whether she should keep her fringe?|
+beaute-apparence-035|What would you reply if someone criticised your outfit as you arrived at a party?|How would you respond if a photographer asked you to change your pose?|
+beaute-apparence-036|What would be the first thing you'd say if the people around you asked whether you'd got new glasses?|What would you say if a friend insisted on lending you an outfit that's way too flashy?|
+beaute-apparence-037|What would you say if a hairdresser offered you a treatment you hadn't planned on?|What words would you use if your hairdresser suggested a very different cut from the one you asked for?|
+beaute-apparence-038|What would you reply if a friend turned up with a hairstyle they already regret?|How would you respond if a friend asked for your honest opinion on their new hair colour?|
+beaute-apparence-039|What would be the first thing you'd say if a sales assistant quoted a much higher price than the one in the window?|What would you say if someone told you your style had changed over the past year?|
+beaute-apparence-040|What would you say if someone asked you for advice on choosing a perfume?|What words would you use if a sales assistant kept pushing you to buy a beauty product?|
+beaute-apparence-041|What would you reply if your partner asked what you thought of their make-up?|How would you respond if someone close to you asked why you take so long to get ready?|
+beaute-apparence-042|What would be the first thing you'd say if someone noticed your shoes were new?|What would you say if a stranger complimented your perfume on the Tube?|métro → Tube
+beaute-apparence-043|What would you say if a friend asked whether she should keep her fringe?|What words would you use if the hairdresser told you they were running an hour late for your appointment?|
+beaute-apparence-044|What would you reply if a photographer asked you to change your pose?|How would you respond if a friend asked whether his suit was too big?|
+beaute-apparence-045|What would be the first thing you'd say if a friend insisted on lending you an outfit that's way too flashy?|What would you say if a friend was hesitating about cutting her hair really short?|
+beaute-apparence-046|What would be the first thing you'd say if your hairdresser suggested a very different cut from the one you asked for?|What would you say if someone criticised your outfit as you arrived at a party?|
+beaute-apparence-047|What would you say if a friend asked for your honest opinion on their new hair colour?|What words would you use if the people around you asked whether you'd got new glasses?|
+beaute-apparence-048|What would you reply if someone told you your style had changed over the past year?|How would you respond if a hairdresser offered you a treatment you hadn't planned on?|
+beaute-apparence-049|What would be the first thing you'd say if a sales assistant kept pushing you to buy a beauty product?|What would you say if a friend turned up with a hairstyle they already regret?|
+beaute-apparence-050|What would you say if someone close to you asked why you take so long to get ready?|What words would you use if a sales assistant quoted a much higher price than the one in the window?|
+beaute-apparence-051|What would you do first if you woke up with hair you couldn't fix before a job interview?|What would you decide to do first if you lost an earring on a night out?|
+beaute-apparence-052|What would your first instinct be if a spot appeared on your face the morning of a party?|How would you react first if the hair colour you'd chosen looked nothing like the photo?|
+beaute-apparence-053|What would you start with if you spilt coffee on your outfit just before leaving?|What would your first move be if you realised your foundation no longer matched your skin?|
+beaute-apparence-054|What would you do first if the hairdresser cut it much shorter than planned?|What would you decide to do first if you had to get ready for a party in ten minutes?|
+beaute-apparence-055|What would your first instinct be if you forgot your toiletry bag for a weekend away?|How would you react first if a sudden downpour ruined your hair before a photo?|
+beaute-apparence-056|What would you start with if a zip broke during a party?|What would your first move be if you realised your trousers were too long?|
+beaute-apparence-057|What would you do first if your new shoes were hurting after fifteen minutes?|What would you decide to do first if your trimmer packed up halfway through?|
+beaute-apparence-058|What would your first instinct be if you'd run out of perfume before a big date?|How would you react first if you got an invitation with an unexpected dress code?|
+beaute-apparence-059|What would you start with if you found a stain on your shirt as you got to work?|What would your first move be if your glasses broke the day before your holiday?|
+beaute-apparence-060|What would you do first if you lost an earring on a night out?|What would you decide to do first if your lipstick left a mark on your white collar?|
+beaute-apparence-061|What would your first instinct be if the hair colour you'd chosen looked nothing like the photo?|How would you react first if you forgot to take a visible tag off your outfit?|
+beaute-apparence-062|What would you start with if you realised your foundation no longer matched your skin?|What would your first move be if you woke up with hair you couldn't fix before a job interview?|
+beaute-apparence-063|What would you do first if you had to get ready for a party in ten minutes?|What would you decide to do first if a spot appeared on your face the morning of a party?|
+beaute-apparence-064|What would your first instinct be if a sudden downpour ruined your hair before a photo?|How would you react first if you spilt coffee on your outfit just before leaving?|
+beaute-apparence-065|What would you start with if you realised your trousers were too long?|What would your first move be if the hairdresser cut it much shorter than planned?|
+beaute-apparence-066|What would you do first if your trimmer packed up halfway through?|What would you decide to do first if you forgot your toiletry bag for a weekend away?|
+beaute-apparence-067|What would your first instinct be if you got an invitation with an unexpected dress code?|How would you react first if a zip broke during a party?|
+beaute-apparence-068|What would you start with if your glasses broke the day before your holiday?|What would your first move be if your new shoes were hurting after fifteen minutes?|
+beaute-apparence-069|What would you do first if your lipstick left a mark on your white collar?|What would you decide to do first if you'd run out of perfume before a big date?|
+beaute-apparence-070|What would your first instinct be if you forgot to take a visible tag off your outfit?|How would you react first if you found a stain on your shirt as you got to work?|
+beaute-apparence-071|What would your first instinct be if you woke up with hair you couldn't fix before a job interview?|How would you react first if you lost an earring on a night out?|
+beaute-apparence-072|What would you start with if a spot appeared on your face the morning of a party?|What would your first move be if the hair colour you'd chosen looked nothing like the photo?|
+beaute-apparence-073|What would you do first if you spilt coffee on your outfit just before leaving?|What would you decide to do first if you realised your foundation no longer matched your skin?|
+beaute-apparence-074|What would your first instinct be if the hairdresser cut it much shorter than planned?|How would you react first if you had to get ready for a party in ten minutes?|
+beaute-apparence-075|What would you start with if you forgot your toiletry bag for a weekend away?|What would your first move be if a sudden downpour ruined your hair before a photo?|
+beaute-apparence-076|Would you rather have a classic cut that's easy to maintain or an original cut you have to style every morning?|If you could only pick one, would you go for a well-known salon or a small local hairdresser?|
+beaute-apparence-077|Between a subtle perfume and a really strong perfume, which would you prefer?|Which tempts you more: a simple manicure or a manicure with nail art?|
+beaute-apparence-078|If you had to decide, would it be investing in good shoes or investing in a good coat?|Would you go for trying a new hair colour or keeping your natural colour?|
+beaute-apparence-079|Would you rather have a hairdresser's appointment or a facial?|If you could only pick one, would you go for getting your outfit ready the night before or choosing it in the morning?|
+beaute-apparence-080|Between a three-product beauty routine and an eight-product routine, which would you prefer?|Which tempts you more: a short beard or a clean-shaven face?|
+beaute-apparence-081|If you had to decide, would it be an all-black outfit or a colourful outfit?|Would you go for a practical bag or a really elegant bag?|
+beaute-apparence-082|Would you rather buy one designer piece or buy three affordable pieces?|If you could only pick one, would you go for a pair of plain trainers or smart shoes?|
+beaute-apparence-083|Between a very short cut and mid-length hair, which would you prefer?|Which tempts you more: a discreet watch or a flashy bracelet?|
+beaute-apparence-084|If you had to decide, would it be natural make-up or bolder make-up?|Would you go for a shampoo from the chemist's or a salon shampoo?|
+beaute-apparence-085|Would you rather go to a well-known salon or a small local hairdresser?|If you could only pick one, would you go for a candid photo or a carefully posed photo?|
+beaute-apparence-086|Between a simple manicure and a manicure with nail art, which would you prefer?|Which tempts you more: an appointment at the barber's or buying a better trimmer?|
+beaute-apparence-087|If you had to decide, would it be trying a new hair colour or keeping your natural colour?|Would you go for a classic cut that's easy to maintain or an original cut you have to style every morning?|
+beaute-apparence-088|Would you rather get your outfit ready the night before or choose it in the morning?|If you could only pick one, would you go for a subtle perfume or a really strong perfume?|
+beaute-apparence-089|Between a short beard and a clean-shaven face, which would you prefer?|Which tempts you more: investing in good shoes or investing in a good coat?|
+beaute-apparence-090|If you had to decide, would it be a practical bag or a really elegant bag?|Would you go for a hairdresser's appointment or a facial?|
+beaute-apparence-091|Would you rather have a pair of plain trainers or smart shoes?|If you could only pick one, would you go for a three-product beauty routine or an eight-product routine?|
+beaute-apparence-092|Between a discreet watch and a flashy bracelet, which would you prefer?|Which tempts you more: an all-black outfit or a colourful outfit?|
+beaute-apparence-093|If you had to decide, would it be a shampoo from the chemist's or a salon shampoo?|Would you go for buying one designer piece or buying three affordable pieces?|
+beaute-apparence-094|Would you rather have a candid photo or a carefully posed photo?|If you could only pick one, would you go for a very short cut or mid-length hair?|
+beaute-apparence-095|Between an appointment at the barber's and buying a better trimmer, which would you prefer?|Which tempts you more: natural make-up or bolder make-up?|
+beaute-apparence-096|Between a classic cut that's easy to maintain and an original cut you have to style every morning, which would you prefer?|Which tempts you more: a well-known salon or a small local hairdresser?|
+beaute-apparence-097|If you had to decide, would it be a subtle perfume or a really strong perfume?|Would you go for a simple manicure or a manicure with nail art?|
+beaute-apparence-098|Would you rather invest in good shoes or invest in a good coat?|If you could only pick one, would you go for trying a new hair colour or keeping your natural colour?|
+beaute-apparence-099|Between a hairdresser's appointment and a facial, which would you prefer?|Which tempts you more: getting your outfit ready the night before or choosing it in the morning?|
+beaute-apparence-100|If you had to decide, would it be a three-product beauty routine or an eight-product routine?|Would you go for a short beard or a clean-shaven face?|

@@ -198,3 +198,103 @@ amour-couple-197|Em um mês, quantas vezes você conseguiria preparar um jantar 
 amour-couple-198|Quantas vezes por mês você conseguiria propor um programa cultural romântico?|Num mês normal, quantas vezes você escolheria planejar um passeio sem avisar o seu parceiro?|
 amour-couple-199|Quantas vezes num mês você gostaria de passar um dia inteiro sem programação com o seu parceiro?|Na sua opinião, quantas vezes por mês seria razoável marcar um encontro romântico depois do trabalho?|
 amour-couple-200|Em um mês, quantas vezes você conseguiria ir a um restaurante com o seu parceiro?|Num mês comum, quantas vezes você gostaria de dar uma volta juntos no domingo?|
+beaute-apparence-001|Qual o preço máximo que você pagaria por um corte de cabelo num salão de bairro?|Que preço te pareceria razoável por uma consultoria de imagem de uma hora?|
+beaute-apparence-002|Quanto você estaria disposto a gastar numa limpeza de pele de uma hora num centro de estética?|Em reais, qual seria o seu limite para uma rotina completa para cabelos cacheados?|prix en reais
+beaute-apparence-003|Quanto você reservaria para um perfume de 50 ml de uma grande marca?|A partir de que preço você acharia caro demais um desodorante de alta qualidade?|
+beaute-apparence-004|Qual o preço máximo que você pagaria por uma coloração completa no cabeleireiro?|Que preço te pareceria razoável por um kit de cuidados para a pele?|
+beaute-apparence-005|Quanto você estaria disposto a gastar num hidratante de 50 ml?|Em reais, qual seria o seu limite para uma escova de dentes elétrica recarregável?|prix en reais
+beaute-apparence-006|Quanto você reservaria para uma maquiagem profissional para uma festa?|A partir de que preço você acharia cara demais uma depilação das pernas num centro de estética?|
+beaute-apparence-007|Qual o preço máximo que você pagaria por uma manicure simples com esmalte em gel?|Que preço te pareceria razoável por um corte e escova num salão renomado?|
+beaute-apparence-008|Quanto você estaria disposto a gastar para aparar a barba numa barbearia?|Em reais, qual seria o seu limite para um espelho com luz para se maquiar?|prix en reais
+beaute-apparence-009|Quanto você reservaria para um par de óculos de sol de qualidade?|A partir de que preço você acharia cara demais uma máquina elétrica de aparar barba?|
+beaute-apparence-010|Qual o preço máximo que você pagaria por uma consultoria de imagem de uma hora?|Que preço te pareceria razoável por uma sessão de tratamento do couro cabeludo?|
+beaute-apparence-011|Quanto você estaria disposto a gastar numa rotina completa para cabelos cacheados?|Em reais, qual seria o seu limite para uma nécessaire resistente para viajar?|prix en reais
+beaute-apparence-012|Quanto você reservaria para um desodorante de alta qualidade?|A partir de que preço você acharia caro demais um corte de cabelo num salão de bairro?|
+beaute-apparence-013|Qual o preço máximo que você pagaria por um kit de cuidados para a pele?|Que preço te pareceria razoável por uma limpeza de pele de uma hora num centro de estética?|
+beaute-apparence-014|Quanto você estaria disposto a gastar numa escova de dentes elétrica recarregável?|Em reais, qual seria o seu limite para um perfume de 50 ml de uma grande marca?|prix en reais
+beaute-apparence-015|Quanto você reservaria para uma depilação das pernas num centro de estética?|A partir de que preço você acharia cara demais uma coloração completa no cabeleireiro?|
+beaute-apparence-016|Qual o preço máximo que você pagaria por um corte e escova num salão renomado?|Que preço te pareceria razoável por um hidratante de 50 ml?|
+beaute-apparence-017|Quanto você estaria disposto a gastar num espelho com luz para se maquiar?|Em reais, qual seria o seu limite para uma maquiagem profissional para uma festa?|prix en reais
+beaute-apparence-018|Quanto você reservaria para uma máquina elétrica de aparar barba?|A partir de que preço você acharia cara demais uma manicure simples com esmalte em gel?|
+beaute-apparence-019|Qual o preço máximo que você pagaria por uma sessão de tratamento do couro cabeludo?|Que preço te pareceria razoável para aparar a barba numa barbearia?|
+beaute-apparence-020|Quanto você estaria disposto a gastar numa nécessaire resistente para viajar?|Em reais, qual seria o seu limite para um par de óculos de sol de qualidade?|prix en reais
+beaute-apparence-021|Quanto você estaria disposto a gastar num corte de cabelo num salão de bairro?|Em reais, qual seria o seu limite para uma consultoria de imagem de uma hora?|prix en reais
+beaute-apparence-022|Quanto você reservaria para uma limpeza de pele de uma hora num centro de estética?|A partir de que preço você acharia cara demais uma rotina completa para cabelos cacheados?|
+beaute-apparence-023|Qual o preço máximo que você pagaria por um perfume de 50 ml de uma grande marca?|Que preço te pareceria razoável por um desodorante de alta qualidade?|
+beaute-apparence-024|Quanto você estaria disposto a gastar numa coloração completa no cabeleireiro?|Em reais, qual seria o seu limite para um kit de cuidados para a pele?|prix en reais
+beaute-apparence-025|Quanto você reservaria para um hidratante de 50 ml?|A partir de que preço você acharia cara demais uma escova de dentes elétrica recarregável?|
+beaute-apparence-026|O que você responderia se o seu cabeleireiro sugerisse um corte bem diferente do que você pediu?|Como você responderia se criticassem a sua roupa na entrada de uma festa?|
+beaute-apparence-027|Qual seria a sua primeira frase se um amigo te pedisse uma opinião sincera sobre a nova cor de cabelo dele?|O que você diria se as pessoas próximas te perguntassem se você trocou de óculos?|
+beaute-apparence-028|O que você diria se alguém te dissesse que você mudou de estilo de um ano pra cá?|Que palavras você usaria se um cabeleireiro te oferecesse um tratamento que não estava previsto?|
+beaute-apparence-029|O que você responderia se um vendedor insistisse para você comprar um produto de beleza?|Como você responderia se um amigo aparecesse com um penteado do qual ele já se arrepende?|
+beaute-apparence-030|Qual seria a sua primeira frase se alguém próximo te perguntasse por que você demora tanto para se arrumar?|O que você diria se um vendedor anunciasse um preço bem mais alto do que o da vitrine?|
+beaute-apparence-031|O que você diria se um desconhecido elogiasse o seu perfume no metrô?|Que palavras você usaria se alguém te pedisse uma dica para escolher um perfume?|
+beaute-apparence-032|O que você responderia se o cabeleireiro avisasse que vai atrasar uma hora o seu horário?|Como você responderia se o seu parceiro te pedisse uma opinião sobre a maquiagem dele?|
+beaute-apparence-033|Qual seria a sua primeira frase se um amigo te perguntasse se o terno dele está grande demais?|O que você diria se alguém notasse que os seus sapatos são novos?|
+beaute-apparence-034|O que você diria se uma amiga estivesse em dúvida sobre cortar o cabelo bem curtinho?|Que palavras você usaria se uma amiga te perguntasse se deve manter a franja?|
+beaute-apparence-035|O que você responderia se criticassem a sua roupa na entrada de uma festa?|Como você responderia se um fotógrafo te pedisse para mudar de pose?|
+beaute-apparence-036|Qual seria a sua primeira frase se as pessoas próximas te perguntassem se você trocou de óculos?|O que você diria se um amigo insistisse em te emprestar uma roupa chamativa demais?|
+beaute-apparence-037|O que você diria se um cabeleireiro te oferecesse um tratamento que não estava previsto?|Que palavras você usaria se o seu cabeleireiro sugerisse um corte bem diferente do que você pediu?|
+beaute-apparence-038|O que você responderia se um amigo aparecesse com um penteado do qual ele já se arrepende?|Como você responderia se um amigo te pedisse uma opinião sincera sobre a nova cor de cabelo dele?|
+beaute-apparence-039|Qual seria a sua primeira frase se um vendedor anunciasse um preço bem mais alto do que o da vitrine?|O que você diria se alguém te dissesse que você mudou de estilo de um ano pra cá?|
+beaute-apparence-040|O que você diria se alguém te pedisse uma dica para escolher um perfume?|Que palavras você usaria se um vendedor insistisse para você comprar um produto de beleza?|
+beaute-apparence-041|O que você responderia se o seu parceiro te pedisse uma opinião sobre a maquiagem dele?|Como você responderia se alguém próximo te perguntasse por que você demora tanto para se arrumar?|
+beaute-apparence-042|Qual seria a sua primeira frase se alguém notasse que os seus sapatos são novos?|O que você diria se um desconhecido elogiasse o seu perfume no metrô?|
+beaute-apparence-043|O que você diria se uma amiga te perguntasse se deve manter a franja?|Que palavras você usaria se o cabeleireiro avisasse que vai atrasar uma hora o seu horário?|
+beaute-apparence-044|O que você responderia se um fotógrafo te pedisse para mudar de pose?|Como você responderia se um amigo te perguntasse se o terno dele está grande demais?|
+beaute-apparence-045|Qual seria a sua primeira frase se um amigo insistisse em te emprestar uma roupa chamativa demais?|O que você diria se uma amiga estivesse em dúvida sobre cortar o cabelo bem curtinho?|
+beaute-apparence-046|Qual seria a sua primeira frase se o seu cabeleireiro sugerisse um corte bem diferente do que você pediu?|O que você diria se criticassem a sua roupa na entrada de uma festa?|
+beaute-apparence-047|O que você diria se um amigo te pedisse uma opinião sincera sobre a nova cor de cabelo dele?|Que palavras você usaria se as pessoas próximas te perguntassem se você trocou de óculos?|
+beaute-apparence-048|O que você responderia se alguém te dissesse que você mudou de estilo de um ano pra cá?|Como você responderia se um cabeleireiro te oferecesse um tratamento que não estava previsto?|
+beaute-apparence-049|Qual seria a sua primeira frase se um vendedor insistisse para você comprar um produto de beleza?|O que você diria se um amigo aparecesse com um penteado do qual ele já se arrepende?|
+beaute-apparence-050|O que você diria se alguém próximo te perguntasse por que você demora tanto para se arrumar?|Que palavras você usaria se um vendedor anunciasse um preço bem mais alto do que o da vitrine?|
+beaute-apparence-051|O que você faria primeiro se acordasse com o cabelo impossível de arrumar antes de uma entrevista?|O que você decidiria fazer primeiro se perdesse um brinco num passeio?|
+beaute-apparence-052|Qual seria a sua primeira reação se aparecesse uma espinha no seu rosto na manhã de uma festa?|Como você agiria primeiro se a cor de cabelo escolhida não ficasse parecida com a da foto?|
+beaute-apparence-053|Por onde você começaria se derrubasse café na roupa logo antes de sair?|Qual seria a sua primeira atitude se percebesse que a sua base não combina mais com a sua pele?|
+beaute-apparence-054|O que você faria primeiro se o cabeleireiro cortasse muito mais curto do que o combinado?|O que você decidiria fazer primeiro se tivesse que se arrumar para uma festa em dez minutos?|
+beaute-apparence-055|Qual seria a sua primeira reação se esquecesse a sua nécessaire num fim de semana fora?|Como você agiria primeiro se uma chuva repentina estragasse o seu cabelo antes de uma foto?|
+beaute-apparence-056|Por onde você começaria se um zíper estourasse no meio de uma festa?|Qual seria a sua primeira atitude se percebesse que a sua calça está comprida demais?|
+beaute-apparence-057|O que você faria primeiro se os seus sapatos novos começassem a machucar depois de quinze minutos?|O que você decidiria fazer primeiro se a sua máquina de cortar cabelo quebrasse no meio do uso?|
+beaute-apparence-058|Qual seria a sua primeira reação se o seu perfume acabasse antes de um encontro importante?|Como você agiria primeiro se recebesse um convite com um dress code inesperado?|
+beaute-apparence-059|Por onde você começaria se descobrisse uma mancha na camisa ao chegar no trabalho?|Qual seria a sua primeira atitude se os seus óculos quebrassem na véspera das férias?|
+beaute-apparence-060|O que você faria primeiro se perdesse um brinco num passeio?|O que você decidiria fazer primeiro se o seu batom manchasse a sua gola branca?|
+beaute-apparence-061|Qual seria a sua primeira reação se a cor de cabelo escolhida não ficasse parecida com a da foto?|Como você agiria primeiro se esquecesse de tirar uma etiqueta visível da sua roupa?|
+beaute-apparence-062|Por onde você começaria se percebesse que a sua base não combina mais com a sua pele?|Qual seria a sua primeira atitude se acordasse com o cabelo impossível de arrumar antes de uma entrevista?|
+beaute-apparence-063|O que você faria primeiro se tivesse que se arrumar para uma festa em dez minutos?|O que você decidiria fazer primeiro se aparecesse uma espinha no seu rosto na manhã de uma festa?|
+beaute-apparence-064|Qual seria a sua primeira reação se uma chuva repentina estragasse o seu cabelo antes de uma foto?|Como você agiria primeiro se derrubasse café na roupa logo antes de sair?|
+beaute-apparence-065|Por onde você começaria se percebesse que a sua calça está comprida demais?|Qual seria a sua primeira atitude se o cabeleireiro cortasse muito mais curto do que o combinado?|
+beaute-apparence-066|O que você faria primeiro se a sua máquina de cortar cabelo quebrasse no meio do uso?|O que você decidiria fazer primeiro se esquecesse a sua nécessaire num fim de semana fora?|
+beaute-apparence-067|Qual seria a sua primeira reação se recebesse um convite com um dress code inesperado?|Como você agiria primeiro se um zíper estourasse no meio de uma festa?|
+beaute-apparence-068|Por onde você começaria se os seus óculos quebrassem na véspera das férias?|Qual seria a sua primeira atitude se os seus sapatos novos começassem a machucar depois de quinze minutos?|
+beaute-apparence-069|O que você faria primeiro se o seu batom manchasse a sua gola branca?|O que você decidiria fazer primeiro se o seu perfume acabasse antes de um encontro importante?|
+beaute-apparence-070|Qual seria a sua primeira reação se esquecesse de tirar uma etiqueta visível da sua roupa?|Como você agiria primeiro se descobrisse uma mancha na camisa ao chegar no trabalho?|
+beaute-apparence-071|Qual seria a sua primeira reação se acordasse com o cabelo impossível de arrumar antes de uma entrevista?|Como você agiria primeiro se perdesse um brinco num passeio?|
+beaute-apparence-072|Por onde você começaria se aparecesse uma espinha no seu rosto na manhã de uma festa?|Qual seria a sua primeira atitude se a cor de cabelo escolhida não ficasse parecida com a da foto?|
+beaute-apparence-073|O que você faria primeiro se derrubasse café na roupa logo antes de sair?|O que você decidiria fazer primeiro se percebesse que a sua base não combina mais com a sua pele?|
+beaute-apparence-074|Qual seria a sua primeira reação se o cabeleireiro cortasse muito mais curto do que o combinado?|Como você agiria primeiro se tivesse que se arrumar para uma festa em dez minutos?|
+beaute-apparence-075|Por onde você começaria se esquecesse a sua nécessaire num fim de semana fora?|Qual seria a sua primeira atitude se uma chuva repentina estragasse o seu cabelo antes de uma foto?|
+beaute-apparence-076|Você escolheria um corte clássico fácil de manter ou um corte diferentão para pentear toda manhã?|Se você só tivesse direito a uma opção, escolheria um salão famoso ou um cabeleireiro pequeno de bairro?|
+beaute-apparence-077|Entre um perfume discreto e um perfume bem marcante, o que você preferiria?|Qual dos dois te atrai mais: uma manicure discreta ou uma manicure com desenhos?|
+beaute-apparence-078|Se você tivesse que decidir, seria investir em bons sapatos ou investir num bom casaco?|Você priorizaria experimentar uma nova cor de cabelo ou manter a sua cor natural?|
+beaute-apparence-079|Você escolheria um horário no cabeleireiro ou uma limpeza de pele?|Se você só tivesse direito a uma opção, escolheria separar a roupa na véspera ou escolher de manhã?|
+beaute-apparence-080|Entre uma rotina de beleza com três produtos e uma com oito produtos, o que você preferiria?|Qual dos dois te atrai mais: uma barba curta ou o rosto bem barbeado?|
+beaute-apparence-081|Se você tivesse que decidir, seria um look todo preto ou um look colorido?|Você priorizaria uma bolsa prática ou uma bolsa muito elegante?|
+beaute-apparence-082|Você escolheria comprar uma peça de marca ou comprar três peças baratinhas?|Se você só tivesse direito a uma opção, escolheria um tênis básico ou um sapato social?|
+beaute-apparence-083|Entre um corte bem curto e cabelo na altura dos ombros, o que você preferiria?|Qual dos dois te atrai mais: um relógio discreto ou uma pulseira chamativa?|
+beaute-apparence-084|Se você tivesse que decidir, seria uma maquiagem natural ou uma maquiagem mais marcante?|Você priorizaria um xampu de farmácia ou um xampu de salão?|
+beaute-apparence-085|Você escolheria um salão famoso ou um cabeleireiro pequeno de bairro?|Se você só tivesse direito a uma opção, escolheria uma foto espontânea ou uma foto bem posada?|
+beaute-apparence-086|Entre uma manicure discreta e uma manicure com desenhos, o que você preferiria?|Qual dos dois te atrai mais: ir a um barbeiro ou comprar uma máquina de barbear melhor?|
+beaute-apparence-087|Se você tivesse que decidir, seria experimentar uma nova cor de cabelo ou manter a sua cor natural?|Você priorizaria um corte clássico fácil de manter ou um corte diferentão para pentear toda manhã?|
+beaute-apparence-088|Você escolheria separar a roupa na véspera ou escolher de manhã?|Se você só tivesse direito a uma opção, escolheria um perfume discreto ou um perfume bem marcante?|
+beaute-apparence-089|Entre uma barba curta e o rosto bem barbeado, o que você preferiria?|Qual dos dois te atrai mais: investir em bons sapatos ou investir num bom casaco?|
+beaute-apparence-090|Se você tivesse que decidir, seria uma bolsa prática ou uma bolsa muito elegante?|Você priorizaria um horário no cabeleireiro ou uma limpeza de pele?|
+beaute-apparence-091|Você escolheria um tênis básico ou um sapato social?|Se você só tivesse direito a uma opção, escolheria uma rotina de beleza com três produtos ou uma com oito produtos?|
+beaute-apparence-092|Entre um relógio discreto e uma pulseira chamativa, o que você preferiria?|Qual dos dois te atrai mais: um look todo preto ou um look colorido?|
+beaute-apparence-093|Se você tivesse que decidir, seria um xampu de farmácia ou um xampu de salão?|Você priorizaria comprar uma peça de marca ou comprar três peças baratinhas?|
+beaute-apparence-094|Você escolheria uma foto espontânea ou uma foto bem posada?|Se você só tivesse direito a uma opção, escolheria um corte bem curto ou cabelo na altura dos ombros?|
+beaute-apparence-095|Entre ir a um barbeiro e comprar uma máquina de barbear melhor, o que você preferiria?|Qual dos dois te atrai mais: uma maquiagem natural ou uma maquiagem mais marcante?|
+beaute-apparence-096|Entre um corte clássico fácil de manter e um corte diferentão para pentear toda manhã, o que você preferiria?|Qual dos dois te atrai mais: um salão famoso ou um cabeleireiro pequeno de bairro?|
+beaute-apparence-097|Se você tivesse que decidir, seria um perfume discreto ou um perfume bem marcante?|Você priorizaria uma manicure discreta ou uma manicure com desenhos?|
+beaute-apparence-098|Você escolheria investir em bons sapatos ou investir num bom casaco?|Se você só tivesse direito a uma opção, escolheria experimentar uma nova cor de cabelo ou manter a sua cor natural?|
+beaute-apparence-099|Entre um horário no cabeleireiro e uma limpeza de pele, o que você preferiria?|Qual dos dois te atrai mais: separar a roupa na véspera ou escolher de manhã?|
+beaute-apparence-100|Se você tivesse que decidir, seria uma rotina de beleza com três produtos ou uma com oito produtos?|Você priorizaria uma barba curta ou o rosto bem barbeado?|
