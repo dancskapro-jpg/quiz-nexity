@@ -98,3 +98,202 @@ voisins-societe-097|If you had to choose, would it be knowing all your neighbour
 voisins-societe-098|Would you rather go for a shared inner courtyard or a smaller private garden?|If you could only have one, would you pick being close to a high street or being near a big park?|
 voisins-societe-099|Between a yearly street party and small regular get-togethers, which would you prefer?|Which of the two tempts you more: really sociable neighbours or really discreet neighbours?|fête des voisins → street party
 voisins-societe-100|If you had to choose, would it be sorting out a problem face to face or writing a polite message?|Would you go for organising neighbourhood meals or just getting to know people on the landing?|
+voisins-societe-101|How many minutes would it take you to calmly explain a noise complaint to a neighbour?|How much time, in minutes, would you set aside to clean a mark off the shared staircase?|
+voisins-societe-102|How many minutes would you spend filling in a form to report something to the managing agent?|How many minutes would you take to say hello to the neighbours at a building party?|syndic → managing agent
+voisins-societe-103|How many minutes would you devote to tidying up the cardboard boxes before the bin men come?|Usually, how many minutes would you take to prepare the topics for a residents' meeting?|réunion de copropriété → residents' meeting
+voisins-societe-104|How many minutes would it take you to welcome a new neighbour over a coffee?|How much time, in minutes, would you set aside to clean your balcony after a storm?|
+voisins-societe-105|How many minutes would you spend helping a neighbour carry a light piece of furniture?|How many minutes would you take to carry a small parcel up to the top floor?|
+voisins-societe-106|How many minutes would you devote to picking up a parcel from the building next door?|Usually, how many minutes would you take to find the number of an emergency plumber?|
+voisins-societe-107|How many minutes would it take you to write a note warning people about building work?|How much time, in minutes, would you set aside to look up information on recycling?|
+voisins-societe-108|How many minutes would you spend checking a leak under a sink before calling someone?|How many minutes would you take to discuss a parking space someone's taken?|
+voisins-societe-109|How many minutes would you devote to putting a soundproofing mat under a piece of furniture?|Usually, how many minutes would you take to meet a delivery driver when the intercom isn't working?|
+voisins-societe-110|How many minutes would it take you to clean a mark off the shared staircase?|How much time, in minutes, would you set aside to make a poster for a street party?|fête des voisins → street party
+voisins-societe-111|How many minutes would you spend saying hello to the neighbours at a building party?|How many minutes would you take to write a clear message to your landlord?|
+voisins-societe-112|How many minutes would you devote to preparing the topics for a residents' meeting?|Usually, how many minutes would you take to calmly explain a noise complaint to a neighbour?|réunion de copropriété → residents' meeting
+voisins-societe-113|How many minutes would it take you to clean your balcony after a storm?|How much time, in minutes, would you set aside to fill in a form to report something to the managing agent?|syndic → managing agent
+voisins-societe-114|How many minutes would you spend carrying a small parcel up to the top floor?|How many minutes would you take to tidy up the cardboard boxes before the bin men come?|
+voisins-societe-115|How many minutes would you devote to finding the number of an emergency plumber?|Usually, how many minutes would you take to welcome a new neighbour over a coffee?|
+voisins-societe-116|How many minutes would it take you to look up information on recycling?|How much time, in minutes, would you set aside to help a neighbour carry a light piece of furniture?|
+voisins-societe-117|How many minutes would you spend discussing a parking space someone's taken?|How many minutes would you take to pick up a parcel from the building next door?|
+voisins-societe-118|How many minutes would you devote to meeting a delivery driver when the intercom isn't working?|Usually, how many minutes would you take to write a note warning people about building work?|
+voisins-societe-119|How many minutes would it take you to make a poster for a street party?|How much time, in minutes, would you set aside to check a leak under a sink before calling someone?|fête des voisins → street party
+voisins-societe-120|How many minutes would you spend writing a clear message to your landlord?|How many minutes would you take to put a soundproofing mat under a piece of furniture?|
+voisins-societe-121|How many minutes would you spend calmly explaining a noise complaint to a neighbour?|How many minutes would you take to clean a mark off the shared staircase?|
+voisins-societe-122|How many minutes would you devote to filling in a form to report something to the managing agent?|Usually, how many minutes would you take to say hello to the neighbours at a building party?|syndic → managing agent
+voisins-societe-123|How many minutes would it take you to tidy up the cardboard boxes before the bin men come?|How much time, in minutes, would you set aside to prepare the topics for a residents' meeting?|réunion de copropriété → residents' meeting
+voisins-societe-124|How many minutes would you spend welcoming a new neighbour over a coffee?|How many minutes would you take to clean your balcony after a storm?|
+voisins-societe-125|How many minutes would you devote to helping a neighbour carry a light piece of furniture?|Usually, how many minutes would you take to carry a small parcel up to the top floor?|
+voisins-societe-126|Who would you ask for advice on settling a dispute about noise on Sundays?|Who would you call to ask permission to put up a bike rack?|
+voisins-societe-127|Who would you contact first to report a water leak in the communal areas?|Who would you ask for an opinion to understand a service charge bill?|charges collectives → service charge
+voisins-societe-128|Who would you turn to to organise a street party?|Who would you speak to first to get your flat's intercom fixed?|fête des voisins → street party
+voisins-societe-129|Who would you ask for advice on the permitted hours for building work?|Who would you call to get advice on soundproofing?|
+voisins-societe-130|Who would you contact first to get a second entry fob for the building?|Who would you ask for an opinion to report a cleanliness problem in the bin store?|
+voisins-societe-131|Who would you turn to to ask for a communal light to be repaired?|Who would you speak to first to arrange watering the plants of a neighbour who's away?|
+voisins-societe-132|Who would you ask for advice on solving a shared parking problem?|Who would you call to ask for a one-off bit of help carrying a piece of furniture?|
+voisins-societe-133|Who would you contact first to track down the right person for a misdelivered parcel?|Who would you ask for an opinion on dealing with a dispute about a noisy pet?|
+voisins-societe-134|Who would you turn to to suggest improving the security of the entrance?|Who would you speak to first to find out the rules for using the courtyard?|
+voisins-societe-135|Who would you ask for advice on getting permission to put up a bike rack?|Who would you call to suggest some work on a building's entrance hall?|
+voisins-societe-136|Who would you contact first to understand a service charge bill?|Who would you ask for an opinion to find out when the bulky waste collection is?|charges collectives → service charge
+voisins-societe-137|Who would you turn to to get your flat's intercom fixed?|Who would you speak to first to settle a dispute about noise on Sundays?|
+voisins-societe-138|Who would you ask for advice on soundproofing?|Who would you call to report a water leak in the communal areas?|
+voisins-societe-139|Who would you contact first to report a cleanliness problem in the bin store?|Who would you ask for an opinion to organise a street party?|fête des voisins → street party
+voisins-societe-140|Who would you turn to to arrange watering the plants of a neighbour who's away?|Who would you speak to first to understand the permitted hours for building work?|
+voisins-societe-141|Who would you ask for advice on getting a one-off bit of help carrying a piece of furniture?|Who would you call to get a second entry fob for the building?|
+voisins-societe-142|Who would you contact first to deal with a dispute about a noisy pet?|Who would you ask for an opinion to get a communal light repaired?|
+voisins-societe-143|Who would you turn to to find out the rules for using the courtyard?|Who would you speak to first to solve a shared parking problem?|
+voisins-societe-144|Who would you ask for advice on suggesting some work on a building's entrance hall?|Who would you call to track down the right person for a misdelivered parcel?|
+voisins-societe-145|Who would you contact first to find out when the bulky waste collection is?|Who would you ask for an opinion to suggest improving the security of the entrance?|
+voisins-societe-146|Who would you contact first to settle a dispute about noise on Sundays?|Who would you ask for an opinion to get permission to put up a bike rack?|
+voisins-societe-147|Who would you turn to to report a water leak in the communal areas?|Who would you speak to first to understand a service charge bill?|charges collectives → service charge
+voisins-societe-148|Who would you ask for advice on organising a street party?|Who would you call to get your flat's intercom fixed?|fête des voisins → street party
+voisins-societe-149|Who would you contact first to understand the permitted hours for building work?|Who would you ask for an opinion to get advice on soundproofing?|
+voisins-societe-150|Who would you turn to to get a second entry fob for the building?|Who would you speak to first to report a cleanliness problem in the bin store?|
+voisins-societe-151|Where would you go to have a quiet chat with a neighbour you don't know very well?|Where would you want to put a communal compost bin, with permission?|
+voisins-societe-152|Where would you prefer to hold a street party for twenty people?|Where would you decide to wait for a friend without blocking the building's entrance?|fête des voisins → street party
+voisins-societe-153|Where would you like to put up a notice that's useful to residents?|Where would you choose to clean a pair of muddy shoes?|
+voisins-societe-154|Where would you go to store a bike without blocking the way?|Where would you want to dry a blanket without bothering anyone?|
+voisins-societe-155|Where would you prefer to leave a parcel meant for a neighbour who's away?|Where would you decide to meet up after an incident in the building?|
+voisins-societe-156|Where would you like to discuss a noise problem without making a public scene?|Where would you choose to set up a neighbourhood little free library?|
+voisins-societe-157|Where would you go to host a residents' meeting?|Where would you want to put up a poster for a lost cat?|
+voisins-societe-158|Where would you prefer to temporarily store a bulky item?|Where would you decide to organise a coffee morning for new neighbours?|
+voisins-societe-159|Where would you like a delivery driver to leave things while you're away?|Where would you choose to report a safety defect in the building?|
+voisins-societe-160|Where would you go to put a communal compost bin, with permission?|Where would you want to set up a clothes swap between residents?|
+voisins-societe-161|Where would you prefer to wait for a friend without blocking the building's entrance?|Where would you decide to discuss a plan for planting in the courtyard?|
+voisins-societe-162|Where would you like to clean a pair of muddy shoes?|Where would you choose to have a quiet chat with a neighbour you don't know very well?|
+voisins-societe-163|Where would you go to dry a blanket without bothering anyone?|Where would you want to hold a street party for twenty people?|fête des voisins → street party
+voisins-societe-164|Where would you prefer to meet up after an incident in the building?|Where would you decide to put up a notice that's useful to residents?|
+voisins-societe-165|Where would you like to set up a neighbourhood little free library?|Where would you choose to store a bike without blocking the way?|
+voisins-societe-166|Where would you go to put up a poster for a lost cat?|Where would you want to leave a parcel meant for a neighbour who's away?|
+voisins-societe-167|Where would you prefer to organise a coffee morning for new neighbours?|Where would you decide to discuss a noise problem without making a public scene?|
+voisins-societe-168|Where would you like to report a safety defect in the building?|Where would you choose to host a residents' meeting?|
+voisins-societe-169|Where would you go to set up a clothes swap between residents?|Where would you want to temporarily store a bulky item?|
+voisins-societe-170|Where would you prefer to discuss a plan for planting in the courtyard?|Where would you decide to have a delivery driver leave things while you're away?|
+voisins-societe-171|Where would you prefer to have a quiet chat with a neighbour you don't know very well?|Where would you decide to put a communal compost bin, with permission?|
+voisins-societe-172|Where would you like to hold a street party for twenty people?|Where would you choose to wait for a friend without blocking the building's entrance?|fête des voisins → street party
+voisins-societe-173|Where would you go to put up a notice that's useful to residents?|Where would you want to clean a pair of muddy shoes?|
+voisins-societe-174|Where would you prefer to store a bike without blocking the way?|Where would you decide to dry a blanket without bothering anyone?|
+voisins-societe-175|Where would you like to leave a parcel meant for a neighbour who's away?|Where would you choose to meet up after an incident in the building?|
+voisins-societe-176|What criterion would matter most to you when choosing a flat in an old block?|What would you be most demanding about when installing a parcel box in the entrance hall?|
+voisins-societe-177|What's the first thing you'd look at when installing a camera at the shared entrance, with permission?|What would be your priority when moving to a street full of shops?|
+voisins-societe-178|What would be non-negotiable when buying an underground parking space?|What detail would you check before looking for a home near a school?|
+voisins-societe-179|What criterion would matter most to you when renting a flat above a shop?|What would you be most demanding about when improving the lighting in a stairwell?|
+voisins-societe-180|What's the first thing you'd look at when picking a company to clean the building?|What would be your priority when buying a smoke alarm for your home?|
+voisins-societe-181|What would be non-negotiable when organising a street party in spring?|What detail would you check before renting a garage in the area?|fête des voisins → street party
+voisins-societe-182|What criterion would matter most to you when creating a bike storage area in the courtyard?|What would you be most demanding about when suggesting a rule for using the courtyard?|
+voisins-societe-183|What's the first thing you'd look at when planning noisy work in a flat?|What would be your priority when setting up a group chat for neighbours?|
+voisins-societe-184|What would be non-negotiable when choosing a building with a concierge?|What detail would you check before choosing a ground-floor flat?|
+voisins-societe-185|What criterion would matter most to you when installing a parcel box in the entrance hall?|What would you be most demanding about when installing a shared EV charging point?|
+voisins-societe-186|What's the first thing you'd look at when moving to a street full of shops?|What would be your priority when thinking about better waste management?|
+voisins-societe-187|What would be non-negotiable when looking for a home near a school?|What detail would you check before choosing a flat in an old block?|
+voisins-societe-188|What criterion would matter most to you when improving the lighting in a stairwell?|What would you be most demanding about when installing a camera at the shared entrance, with permission?|
+voisins-societe-189|What's the first thing you'd look at when buying a smoke alarm for your home?|What would be your priority when buying an underground parking space?|
+voisins-societe-190|What would be non-negotiable when renting a garage in the area?|What detail would you check before renting a flat above a shop?|
+voisins-societe-191|What criterion would matter most to you when suggesting a rule for using the courtyard?|What would you be most demanding about when picking a company to clean the building?|
+voisins-societe-192|What's the first thing you'd look at when setting up a group chat for neighbours?|What would be your priority when organising a street party in spring?|fête des voisins → street party
+voisins-societe-193|What would be non-negotiable when choosing a ground-floor flat?|What detail would you check before creating a bike storage area in the courtyard?|
+voisins-societe-194|What criterion would matter most to you when installing a shared EV charging point?|What would you be most demanding about when planning noisy work in a flat?|
+voisins-societe-195|What's the first thing you'd look at when thinking about better waste management?|What would be your priority when choosing a building with a concierge?|
+voisins-societe-196|What's the first thing you'd look at when choosing a flat in an old block?|What would be your priority when installing a parcel box in the entrance hall?|
+voisins-societe-197|What would be non-negotiable when installing a camera at the shared entrance, with permission?|What detail would you check before moving to a street full of shops?|
+voisins-societe-198|What criterion would matter most to you when buying an underground parking space?|What would you be most demanding about when looking for a home near a school?|
+voisins-societe-199|What's the first thing you'd look at when renting a flat above a shop?|What would be your priority when improving the lighting in a stairwell?|
+voisins-societe-200|What would be non-negotiable when picking a company to clean the building?|What detail would you check before buying a smoke alarm for your home?|
+mariages-occasions-001|What's the most you'd pay for a full guest outfit for a summer wedding?|What price would seem reasonable to you for hiring a car for a ceremony?|
+mariages-occasions-002|How much would you be willing to spend on a wedding present for close friends?|In pounds, what would your limit be for a made-to-measure suit for a ceremony?|euros → livres
+mariages-occasions-003|What budget would you set aside for a night in a hotel after a reception in the countryside?|At what price would you find a good-quality evening dress too expensive?|
+mariages-occasions-004|What's the most you'd pay for having your hair done professionally for a ceremony?|What price would seem reasonable to you for a videographer to film a wedding day?|
+mariages-occasions-005|How much would you be willing to spend per guest on a wedding meal in a nice venue?|In pounds, what would your limit be for printing a hundred personalised wedding invitations?|euros → livres
+mariages-occasions-006|What budget would you set aside for simple flower arrangements for ten tables?|At what price would you find a DJ for six hours of a reception too expensive?|
+mariages-occasions-007|What's the most you'd pay for hiring a venue for fifty people?|What price would seem reasonable to you for a make-up session on a wedding day?|
+mariages-occasions-008|How much would you be willing to spend on a photographer for six hours of a wedding?|In pounds, what would your limit be for a next-day brunch for thirty guests?|euros → livres
+mariages-occasions-009|What budget would you set aside for a tiered wedding cake for eighty guests?|At what price would you find a bridal bouquet from a professional florist too expensive?|pièce montée → tiered wedding cake
+mariages-occasions-010|What's the most you'd pay for hiring a car for a ceremony?|What price would seem reasonable to you for a photo shoot before a graduation ceremony?|
+mariages-occasions-011|How much would you be willing to spend on a made-to-measure suit for a ceremony?|In pounds, what would your limit be for a simple gold engagement ring?|euros → livres
+mariages-occasions-012|What budget would you set aside for a good-quality evening dress?|At what price would you find a full guest outfit for a summer wedding too expensive?|
+mariages-occasions-013|What's the most you'd pay for a videographer to film a wedding day?|What price would seem reasonable to you for a wedding present for close friends?|
+mariages-occasions-014|How much would you be willing to spend on printing a hundred personalised wedding invitations?|In pounds, what would your limit be for a night in a hotel after a reception in the countryside?|euros → livres
+mariages-occasions-015|What budget would you set aside for a DJ for six hours of a reception?|At what price would you find having your hair done professionally for a ceremony too expensive?|
+mariages-occasions-016|What's the most you'd pay for a make-up session on a wedding day?|What price would seem reasonable to you per guest for a wedding meal in a nice venue?|
+mariages-occasions-017|How much would you be willing to spend on a next-day brunch for thirty guests?|In pounds, what would your limit be for simple flower arrangements for ten tables?|euros → livres
+mariages-occasions-018|What budget would you set aside for a bridal bouquet from a professional florist?|At what price would you find hiring a venue for fifty people too expensive?|
+mariages-occasions-019|What's the most you'd pay for a photo shoot before a graduation ceremony?|What price would seem reasonable to you for a photographer for six hours of a wedding?|
+mariages-occasions-020|How much would you be willing to spend on a simple gold engagement ring?|In pounds, what would your limit be for a tiered wedding cake for eighty guests?|euros → livres ; pièce montée → tiered wedding cake
+mariages-occasions-021|How much would you be willing to spend on a full guest outfit for a summer wedding?|In pounds, what would your limit be for hiring a car for a ceremony?|euros → livres
+mariages-occasions-022|What budget would you set aside for a wedding present for close friends?|At what price would you find a made-to-measure suit for a ceremony too expensive?|
+mariages-occasions-023|What's the most you'd pay for a night in a hotel after a reception in the countryside?|What price would seem reasonable to you for a good-quality evening dress?|
+mariages-occasions-024|How much would you be willing to spend on having your hair done professionally for a ceremony?|In pounds, what would your limit be for a videographer to film a wedding day?|euros → livres
+mariages-occasions-025|What budget would you set aside per guest for a wedding meal in a nice venue?|At what price would you find printing a hundred personalised wedding invitations too expensive?|
+mariages-occasions-026|What would you say back if a guest announced they were bringing a plus-one without asking?|How would you respond if you were asked to move tables just before the meal?|
+mariages-occasions-027|What would be your first sentence if the couple asked you to make a speech at the last minute?|What would you say if the DJ asked you to suggest a song for the first dance?|
+mariages-occasions-028|What would you say if someone suggested you wear white to a wedding?|What words would you use if a friend wanted to make a personal announcement during a wedding?|
+mariages-occasions-029|What would you say back if a friend pulled out the day before the ceremony?|How would you respond if the best man asked you to keep a surprise secret?|témoin → best man
+mariages-occasions-030|What would be your first sentence if a guest complained they didn't know any of the other guests?|What would you say if someone gave you an unexpected graduation present?|
+mariages-occasions-031|What would you say if the person getting married asked what you thought of their outfit?|What words would you use if someone close to you asked you to join in a surprise dance?|
+mariages-occasions-032|What would you say back if someone close to you said the reception was too expensive?|How would you respond if you were told that children aren't invited?|
+mariages-occasions-033|What would be your first sentence if someone told you off for arriving after the ceremony had started?|What would you say if a guest wanted to borrow your outfit for another ceremony?|
+mariages-occasions-034|What would you say if a guest criticised the menu in front of the couple?|What words would you use if an organiser asked you to cut your speech short?|
+mariages-occasions-035|What would you say back if you were asked to move tables just before the meal?|How would you respond if a friend wanted to leave before dessert?|
+mariages-occasions-036|What would be your first sentence if the DJ asked you to suggest a song for the first dance?|What would you say if the couple asked everyone to put their phones away?|
+mariages-occasions-037|What would you say if a friend wanted to make a personal announcement during a wedding?|What words would you use if a guest announced they were bringing a plus-one without asking?|
+mariages-occasions-038|What would you say back if the best man asked you to keep a surprise secret?|How would you respond if the couple asked you to make a speech at the last minute?|témoin → best man
+mariages-occasions-039|What would be your first sentence if someone gave you an unexpected graduation present?|What would you say if someone suggested you wear white to a wedding?|
+mariages-occasions-040|What would you say if someone close to you asked you to join in a surprise dance?|What words would you use if a friend pulled out the day before the ceremony?|
+mariages-occasions-041|What would you say back if you were told that children aren't invited?|How would you respond if a guest complained they didn't know any of the other guests?|
+mariages-occasions-042|What would be your first sentence if a guest wanted to borrow your outfit for another ceremony?|What would you say if the person getting married asked what you thought of their outfit?|
+mariages-occasions-043|What would you say if an organiser asked you to cut your speech short?|What words would you use if someone close to you said the reception was too expensive?|
+mariages-occasions-044|What would you say back if a friend wanted to leave before dessert?|How would you respond if someone told you off for arriving after the ceremony had started?|
+mariages-occasions-045|What would be your first sentence if the couple asked everyone to put their phones away?|What would you say if a guest criticised the menu in front of the couple?|
+mariages-occasions-046|What would be your first sentence if a guest announced they were bringing a plus-one without asking?|What would you say if you were asked to move tables just before the meal?|
+mariages-occasions-047|What would you say if the couple asked you to make a speech at the last minute?|What words would you use if the DJ asked you to suggest a song for the first dance?|
+mariages-occasions-048|What would you say back if someone suggested you wear white to a wedding?|How would you respond if a friend wanted to make a personal announcement during a wedding?|
+mariages-occasions-049|What would be your first sentence if a friend pulled out the day before the ceremony?|What would you say if the best man asked you to keep a surprise secret?|témoin → best man
+mariages-occasions-050|What would you say if a guest complained they didn't know any of the other guests?|What words would you use if someone gave you an unexpected graduation present?|
+mariages-occasions-051|What would you do first if it started raining just before an outdoor ceremony?|What would you decide to do first if your train was cancelled on the morning of a wedding?|
+mariages-occasions-052|What would be your first instinct if you left your best man's speech in a taxi?|How would you act first if the bouquet you'd ordered wasn't ready at the florist's?|témoin → best man
+mariages-occasions-053|Where would you start if the photographer was an hour late to the reception?|What would be your first move if a sound system failure stopped the speeches from starting?|
+mariages-occasions-054|What would you do first if the caterer announced a change of menu that same morning?|What would you decide to do first if the wedding rings couldn't be found five minutes before the ceremony?|
+mariages-occasions-055|What would be your first instinct if you got a stain on your suit just before going into the registry office?|How would you act first if a guest felt unwell during the reception?|mairie → registry office
+mariages-occasions-056|Where would you start if a guest dropped the reception cake?|What would be your first move if the venue announced a stricter finishing time?|
+mariages-occasions-057|What would you do first if you lost the envelope with your wedding present in it?|What would you decide to do first if your prepared speech ran way over the time allowed?|
+mariages-occasions-058|What would be your first instinct if the DJ fell ill on the day of the party?|How would you act first if the decorations you'd ordered arrived in the wrong colour?|
+mariages-occasions-059|Where would you start if you found two guests sitting in the same seat?|What would be your first move if a child knocked a glass over on the top table's tablecloth?|
+mariages-occasions-060|What would you do first if your train was cancelled on the morning of a wedding?|What would you decide to do first if the person in charge of photos had forgotten their battery?|
+mariages-occasions-061|What would be your first instinct if the bouquet you'd ordered wasn't ready at the florist's?|How would you act first if the booking for the next-day brunch couldn't be found?|
+mariages-occasions-062|Where would you start if a sound system failure stopped the speeches from starting?|What would be your first move if it started raining just before an outdoor ceremony?|
+mariages-occasions-063|What would you do first if the wedding rings couldn't be found five minutes before the ceremony?|What would you decide to do first if you left your best man's speech in a taxi?|témoin → best man
+mariages-occasions-064|What would be your first instinct if a guest felt unwell during the reception?|How would you act first if the photographer was an hour late to the reception?|
+mariages-occasions-065|Where would you start if the venue announced a stricter finishing time?|What would be your first move if the caterer announced a change of menu that same morning?|
+mariages-occasions-066|What would you do first if your prepared speech ran way over the time allowed?|What would you decide to do first if you got a stain on your suit just before going into the registry office?|mairie → registry office
+mariages-occasions-067|What would be your first instinct if the decorations you'd ordered arrived in the wrong colour?|How would you act first if a guest dropped the reception cake?|
+mariages-occasions-068|Where would you start if a child knocked a glass over on the top table's tablecloth?|What would be your first move if you lost the envelope with your wedding present in it?|
+mariages-occasions-069|What would you do first if the person in charge of photos had forgotten their battery?|What would you decide to do first if the DJ fell ill on the day of the party?|
+mariages-occasions-070|What would be your first instinct if the booking for the next-day brunch couldn't be found?|How would you act first if you found two guests sitting in the same seat?|
+mariages-occasions-071|What would be your first instinct if it started raining just before an outdoor ceremony?|How would you act first if your train was cancelled on the morning of a wedding?|
+mariages-occasions-072|Where would you start if you left your best man's speech in a taxi?|What would be your first move if the bouquet you'd ordered wasn't ready at the florist's?|témoin → best man
+mariages-occasions-073|What would you do first if the photographer was an hour late to the reception?|What would you decide to do first if a sound system failure stopped the speeches from starting?|
+mariages-occasions-074|What would be your first instinct if the caterer announced a change of menu that same morning?|How would you act first if the wedding rings couldn't be found five minutes before the ceremony?|
+mariages-occasions-075|Where would you start if you got a stain on your suit just before going into the registry office?|What would be your first move if a guest felt unwell during the reception?|mairie → registry office
+mariages-occasions-076|Would you rather go for an intimate ceremony with twenty people or a big party with a hundred guests?|If you could only have one, would you pick a present from the gift list or an envelope with cash?|
+mariages-occasions-077|Between a summer wedding and a winter wedding, which would you prefer?|Which of the two tempts you more: a discreet photographer or a full photo and video team?|
+mariages-occasions-078|If you had to choose, would it be a reception in the countryside or a reception in the town centre?|Would you go for really simple decorations or decorations full of flowers?|
+mariages-occasions-079|Would you rather go for a relaxed buffet or a sit-down meal?|If you could only have one, would you pick a Saturday wedding or a Friday wedding?|
+mariages-occasions-080|Between a traditional outfit and a really modern outfit, which would you prefer?|Which of the two tempts you more: a reception with children or an adults-only reception?|
+mariages-occasions-081|If you had to choose, would it be a live band or a DJ all evening?|Would you go for a brunch the next day or a party that carries on late on the day itself?|
+mariages-occasions-082|Would you rather go for a paper invitation or a digital invitation?|If you could only have one, would you pick a tiered wedding cake or a selection of individual desserts?|pièce montée → tiered wedding cake
+mariages-occasions-083|Between an outdoor ceremony and a ceremony in a beautiful venue, which would you prefer?|Which of the two tempts you more: a moving speech or a speech full of humour?|
+mariages-occasions-084|If you had to choose, would it be a rehearsed first dance or an improvised dance?|Would you go for giving the couple an experience or giving them something for their home?|
+mariages-occasions-085|Would you rather go for a present from the gift list or an envelope with cash?|If you could only have one, would you pick a set seating plan or free seating?|
+mariages-occasions-086|Between a discreet photographer and a full photo and video team, which would you prefer?|Which of the two tempts you more: a party in a historic venue or a party in a private garden?|
+mariages-occasions-087|If you had to choose, would it be really simple decorations or decorations full of flowers?|Would you go for an intimate ceremony with twenty people or a big party with a hundred guests?|
+mariages-occasions-088|Would you rather go for a Saturday wedding or a Friday wedding?|If you could only have one, would you pick a summer wedding or a winter wedding?|
+mariages-occasions-089|Between a reception with children and an adults-only reception, which would you prefer?|Which of the two tempts you more: a reception in the countryside or a reception in the town centre?|
+mariages-occasions-090|If you had to choose, would it be a brunch the next day or a party that carries on late on the day itself?|Would you go for a relaxed buffet or a sit-down meal?|
+mariages-occasions-091|Would you rather go for a tiered wedding cake or a selection of individual desserts?|If you could only have one, would you pick a traditional outfit or a really modern outfit?|pièce montée → tiered wedding cake
+mariages-occasions-092|Between a moving speech and a speech full of humour, which would you prefer?|Which of the two tempts you more: a live band or a DJ all evening?|
+mariages-occasions-093|If you had to choose, would it be giving the couple an experience or giving them something for their home?|Would you go for a paper invitation or a digital invitation?|
+mariages-occasions-094|Would you rather go for a set seating plan or free seating?|If you could only have one, would you pick an outdoor ceremony or a ceremony in a beautiful venue?|
+mariages-occasions-095|Between a party in a historic venue and a party in a private garden, which would you prefer?|Which of the two tempts you more: a rehearsed first dance or an improvised dance?|
+mariages-occasions-096|Between an intimate ceremony with twenty people and a big party with a hundred guests, which would you prefer?|Which of the two tempts you more: a present from the gift list or an envelope with cash?|
+mariages-occasions-097|If you had to choose, would it be a summer wedding or a winter wedding?|Would you go for a discreet photographer or a full photo and video team?|
+mariages-occasions-098|Would you rather go for a reception in the countryside or a reception in the town centre?|If you could only have one, would you pick really simple decorations or decorations full of flowers?|
+mariages-occasions-099|Between a relaxed buffet and a sit-down meal, which would you prefer?|Which of the two tempts you more: a Saturday wedding or a Friday wedding?|

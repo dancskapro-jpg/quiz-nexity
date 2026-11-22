@@ -298,3 +298,103 @@ beaute-apparence-097|If you had to decide, would it be a subtle perfume or a rea
 beaute-apparence-098|Would you rather invest in good shoes or invest in a good coat?|If you could only pick one, would you go for trying a new hair colour or keeping your natural colour?|
 beaute-apparence-099|Between a hairdresser's appointment and a facial, which would you prefer?|Which tempts you more: getting your outfit ready the night before or choosing it in the morning?|
 beaute-apparence-100|If you had to decide, would it be a three-product beauty routine or an eight-product routine?|Would you go for a short beard or a clean-shaven face?|
+beaute-apparence-101|How many minutes would it take you to do your hair before an important date?|How much time, in minutes, would you set aside to try on several outfits before a party?|
+beaute-apparence-102|How many minutes would you spend choosing your outfit for a wedding as a guest?|How many minutes would you take to clean a pair of white trainers?|
+beaute-apparence-103|How many minutes would you devote to getting your hair ready before going out after work?|Generally, how many minutes would you need to iron a creased shirt?|
+beaute-apparence-104|How many minutes would it take you to shave carefully before a ceremony?|How much time, in minutes, would you set aside to get ready for a group photo?|
+beaute-apparence-105|How many minutes would you spend doing simple make-up to go out for dinner?|How many minutes would you take to choose a perfume in a perfume shop?|
+beaute-apparence-106|How many minutes would you devote to packing a make-up bag before a trip?|Generally, how many minutes would you need to do a blow-dry at home?|
+beaute-apparence-107|How many minutes would it take you to choose the accessories for a smart outfit?|How much time, in minutes, would you set aside to take off and redo chipped nail varnish?|
+beaute-apparence-108|How many minutes would you spend getting ready in the morning before a job interview?|How many minutes would you take to compare skincare products in a shop?|
+beaute-apparence-109|How many minutes would you devote to doing your evening skincare routine?|Generally, how many minutes would you need to choose a cut from the hairdresser's lookbook?|
+beaute-apparence-110|How many minutes would it take you to try on several outfits before a party?|How much time, in minutes, would you set aside to put together an outfit for a weekend away?|
+beaute-apparence-111|How many minutes would you spend cleaning a pair of white trainers?|How many minutes would you take to wash and dry your hair before going out?|
+beaute-apparence-112|How many minutes would you devote to ironing a creased shirt?|Generally, how many minutes would you need to do your hair before an important date?|
+beaute-apparence-113|How many minutes would it take you to get ready for a group photo?|How much time, in minutes, would you set aside to choose your outfit for a wedding as a guest?|
+beaute-apparence-114|How many minutes would you spend choosing a perfume in a perfume shop?|How many minutes would you take to get your hair ready before going out after work?|
+beaute-apparence-115|How many minutes would you devote to doing a blow-dry at home?|Generally, how many minutes would you need to shave carefully before a ceremony?|
+beaute-apparence-116|How many minutes would it take you to take off and redo chipped nail varnish?|How much time, in minutes, would you set aside to do simple make-up to go out for dinner?|
+beaute-apparence-117|How many minutes would you spend comparing skincare products in a shop?|How many minutes would you take to pack a make-up bag before a trip?|
+beaute-apparence-118|How many minutes would you devote to choosing a cut from the hairdresser's lookbook?|Generally, how many minutes would you need to choose the accessories for a smart outfit?|
+beaute-apparence-119|How many minutes would it take you to put together an outfit for a weekend away?|How much time, in minutes, would you set aside to get ready in the morning before a job interview?|
+beaute-apparence-120|How many minutes would you spend washing and drying your hair before going out?|How many minutes would you take to do your evening skincare routine?|
+beaute-apparence-121|How many minutes would you spend doing your hair before an important date?|How many minutes would you take to try on several outfits before a party?|
+beaute-apparence-122|How many minutes would you devote to choosing your outfit for a wedding as a guest?|Generally, how many minutes would you need to clean a pair of white trainers?|
+beaute-apparence-123|How many minutes would it take you to get your hair ready before going out after work?|How much time, in minutes, would you set aside to iron a creased shirt?|
+beaute-apparence-124|How many minutes would you spend shaving carefully before a ceremony?|How many minutes would you take to get ready for a group photo?|
+beaute-apparence-125|How many minutes would you devote to doing simple make-up to go out for dinner?|Generally, how many minutes would you need to choose a perfume in a perfume shop?|
+beaute-apparence-126|Who would you go to for advice on choosing a cut that suits your face shape?|Who would you call to help you choose an outfit for a posh event?|
+beaute-apparence-127|Who would you contact first to help you find a routine for dry hair?|Whose opinion would you ask to organise a clothes swap with friends?|
+beaute-apparence-128|Who would you turn to for help picking an outfit for a job interview?|Who's the first person you'd talk to about trying out a make-up look for a photoshoot?|
+beaute-apparence-129|Who would you go to for advice on a new hair colour?|Who would you call to help you buy shoes you can stand in all day?|
+beaute-apparence-130|Who would you contact first to learn how to iron a shirt properly?|Whose opinion would you ask to check whether a suit needs altering?|
+beaute-apparence-131|Who would you turn to for help finding a perfume as a present?|Who's the first person you'd talk to about getting tips on looking after trainers?|
+beaute-apparence-132|Who would you go to for advice on choosing glasses that suit your eyesight?|Who would you call to help you choose a hairstyle that's easy to maintain?|
+beaute-apparence-133|Who would you contact first for advice on a product for sensitive skin?|Whose opinion would you ask to find a barber in a new area?|
+beaute-apparence-134|Who would you turn to for help finding a reliable hairdresser before a wedding?|Who's the first person you'd talk to about checking the ingredients of a skincare product?|
+beaute-apparence-135|Who would you go to for advice on choosing an outfit for a posh event?|Who would you call to help you choose a nail varnish colour for a ceremony?|
+beaute-apparence-136|Who would you contact first to organise a clothes swap with friends?|Whose opinion would you ask to find an accessory that goes with an outfit?|
+beaute-apparence-137|Who would you turn to for help trying out a make-up look for a photoshoot?|Who's the first person you'd talk to about choosing a cut that suits your face shape?|
+beaute-apparence-138|Who would you go to for advice on buying shoes you can stand in all day?|Who would you call to help you find a routine for dry hair?|
+beaute-apparence-139|Who would you contact first to check whether a suit needs altering?|Whose opinion would you ask to pick an outfit for a job interview?|
+beaute-apparence-140|Who would you turn to for tips on looking after trainers?|Who's the first person you'd talk to about getting an opinion on a new hair colour?|
+beaute-apparence-141|Who would you go to for advice on choosing a hairstyle that's easy to maintain?|Who would you call to learn how to iron a shirt properly?|
+beaute-apparence-142|Who would you contact first to help you find a barber in a new area?|Whose opinion would you ask to find a perfume as a present?|
+beaute-apparence-143|Who would you turn to for help checking the ingredients of a skincare product?|Who's the first person you'd talk to about choosing glasses that suit your eyesight?|
+beaute-apparence-144|Who would you go to for advice on choosing a nail varnish colour for a ceremony?|Who would you call for advice on a product for sensitive skin?|
+beaute-apparence-145|Who would you contact first to help you find an accessory that goes with an outfit?|Whose opinion would you ask to find a reliable hairdresser before a wedding?|
+beaute-apparence-146|Who would you contact first to help you choose a cut that suits your face shape?|Whose opinion would you ask to choose an outfit for a posh event?|
+beaute-apparence-147|Who would you turn to for help finding a routine for dry hair?|Who's the first person you'd talk to about organising a clothes swap with friends?|
+beaute-apparence-148|Who would you go to for advice on picking an outfit for a job interview?|Who would you call to help you try out a make-up look for a photoshoot?|
+beaute-apparence-149|Who would you contact first to get an opinion on a new hair colour?|Whose opinion would you ask to buy shoes you can stand in all day?|
+beaute-apparence-150|Who would you turn to for help learning to iron a shirt properly?|Who's the first person you'd talk to about checking whether a suit needs altering?|
+beaute-apparence-151|Where would you go to get trousers that are too long taken up?|What place would you pick to find a skincare present?|
+beaute-apparence-152|Where would you rather buy perfume before going on holiday?|Where would you decide to get a zip repaired?|
+beaute-apparence-153|Where would you like to try on a suit for a wedding?|Where would you choose to try on sunglasses with someone to advise you?|
+beaute-apparence-154|Where would you go to buy a good-quality brush?|What place would you pick to compare lipsticks in person?|
+beaute-apparence-155|Where would you rather get a pair of glasses adjusted?|Where would you decide to buy a product for curly hair?|
+beaute-apparence-156|Where would you like to find a hairdresser who's free on Saturdays?|Where would you choose to get your hair done before a ceremony?|
+beaute-apparence-157|Where would you go to buy an outfit for a job interview?|What place would you pick to get an evening dress altered?|
+beaute-apparence-158|Where would you rather get a delicate jacket cleaned?|Where would you decide to buy a toiletry bag before a trip?|
+beaute-apparence-159|Where would you like to try on several pairs of comfortable shoes?|Where would you choose to test a cream with a sample?|
+beaute-apparence-160|Where would you go to find a skincare present?|What place would you pick to get a proper hair analysis?|
+beaute-apparence-161|Where would you rather get a zip repaired?|Where would you decide to look for an elegant, understated watch?|
+beaute-apparence-162|Where would you like to try on sunglasses with someone to advise you?|Where would you choose to get trousers that are too long taken up?|
+beaute-apparence-163|Where would you go to compare lipsticks in person?|What place would you pick to buy perfume before going on holiday?|
+beaute-apparence-164|Where would you rather buy a product for curly hair?|Where would you decide to try on a suit for a wedding?|
+beaute-apparence-165|Where would you like to get your hair done before a ceremony?|Where would you choose to buy a good-quality brush?|
+beaute-apparence-166|Where would you go to get an evening dress altered?|What place would you pick to get a pair of glasses adjusted?|
+beaute-apparence-167|Where would you rather buy a toiletry bag before a trip?|Where would you decide to find a hairdresser who's free on Saturdays?|
+beaute-apparence-168|Where would you like to test a cream with a sample?|Where would you choose to buy an outfit for a job interview?|
+beaute-apparence-169|Where would you go to get a proper hair analysis?|What place would you pick to get a delicate jacket cleaned?|
+beaute-apparence-170|Where would you rather look for an elegant, understated watch?|Where would you decide to try on several pairs of comfortable shoes?|
+beaute-apparence-171|Where would you rather get trousers that are too long taken up?|Where would you decide to find a skincare present?|
+beaute-apparence-172|Where would you like to buy perfume before going on holiday?|Where would you choose to get a zip repaired?|
+beaute-apparence-173|Where would you go to try on a suit for a wedding?|What place would you pick to try on sunglasses with someone to advise you?|
+beaute-apparence-174|Where would you rather buy a good-quality brush?|Where would you decide to compare lipsticks in person?|
+beaute-apparence-175|Where would you like to get a pair of glasses adjusted?|Where would you choose to buy a product for curly hair?|
+beaute-apparence-176|What would matter most to you when choosing a cream for sensitive skin?|What would you be fussiest about when getting a smart outfit altered?|
+beaute-apparence-177|What's the first thing you'd look at when buying shoes for walking all day?|What would your priority be when choosing a hairbrush?|
+beaute-apparence-178|What would be non-negotiable for you when picking a perfume for every day?|What detail would you check before buying an electric razor?|
+beaute-apparence-179|What would matter most to you when buying a winter jacket?|What would you be fussiest about when choosing a beauty salon?|
+beaute-apparence-180|What's the first thing you'd look at when finding a hairdresser before a big event?|What would your priority be when choosing a pair of prescription glasses?|
+beaute-apparence-181|What would be non-negotiable for you when choosing a shampoo for daily use?|What detail would you check before buying a pair of waterproof boots?|
+beaute-apparence-182|What would matter most to you when investing in a hairdryer?|What would you be fussiest about when choosing a deodorant for sport?|
+beaute-apparence-183|What's the first thing you'd look at when buying a bag for work?|What would your priority be when finding a cut that's easy to style?|
+beaute-apparence-184|What would be non-negotiable for you when choosing a foundation in a shop?|What detail would you check before choosing clothes for travelling light?|
+beaute-apparence-185|What would matter most to you when getting a smart outfit altered?|What would you be fussiest about when buying a light-up mirror for a bathroom?|
+beaute-apparence-186|What's the first thing you'd look at when choosing a hairbrush?|What would your priority be when choosing make-up for a ceremony?|
+beaute-apparence-187|What would be non-negotiable for you when buying an electric razor?|What detail would you check before choosing a cream for sensitive skin?|
+beaute-apparence-188|What would matter most to you when choosing a beauty salon?|What would you be fussiest about when buying shoes for walking all day?|
+beaute-apparence-189|What's the first thing you'd look at when choosing a pair of prescription glasses?|What would your priority be when picking a perfume for every day?|
+beaute-apparence-190|What would be non-negotiable for you when buying a pair of waterproof boots?|What detail would you check before buying a winter jacket?|
+beaute-apparence-191|What would matter most to you when choosing a deodorant for sport?|What would you be fussiest about when finding a hairdresser before a big event?|
+beaute-apparence-192|What's the first thing you'd look at when finding a cut that's easy to style?|What would your priority be when choosing a shampoo for daily use?|
+beaute-apparence-193|What would be non-negotiable for you when choosing clothes for travelling light?|What detail would you check before investing in a hairdryer?|
+beaute-apparence-194|What would matter most to you when buying a light-up mirror for a bathroom?|What would you be fussiest about when buying a bag for work?|
+beaute-apparence-195|What's the first thing you'd look at when choosing make-up for a ceremony?|What would your priority be when choosing a foundation in a shop?|
+beaute-apparence-196|What's the first thing you'd look at when choosing a cream for sensitive skin?|What would your priority be when getting a smart outfit altered?|
+beaute-apparence-197|What would be non-negotiable for you when buying shoes for walking all day?|What detail would you check before choosing a hairbrush?|
+beaute-apparence-198|What would matter most to you when picking a perfume for every day?|What would you be fussiest about when buying an electric razor?|
+beaute-apparence-199|What's the first thing you'd look at when buying a winter jacket?|What would your priority be when choosing a beauty salon?|
+beaute-apparence-200|What would be non-negotiable for you when finding a hairdresser before a big event?|What detail would you check before choosing a pair of prescription glasses?|

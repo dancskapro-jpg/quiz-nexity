@@ -398,3 +398,103 @@ cadeaux-surprises-197|On what occasion would you think it normal to organise a s
 cadeaux-surprises-198|For what occasion might you buy a symbolic watch?|For what event would you consider buying a book with a personal inscription?|
 cadeaux-surprises-199|For what event would you like to give a potted plant with a note?|At what important moment in your life would you want to give a box of fine pastries?|
 cadeaux-surprises-200|On what occasion would you think it normal to put together a group present with colleagues?|In what circumstances would you decide to throw a surprise party in a flat?|
+ecole-etudes-001|What would you say if a teacher accused you of chatting when you'd been silent?|How would you answer if a friend asked you to explain a whole chapter to them in five minutes?|
+ecole-etudes-002|What would be the first thing you'd say if your group told you they'd prepared nothing for tomorrow's presentation?|What would you say if a teacher told you they'd made a marking mistake on your work?|
+ecole-etudes-003|What would you say if a classmate asked you to send them your whole assignment?|What words would you use if a classmate asked you to save them a seat in the lecture theatre?|
+ecole-etudes-004|What would you say if a teacher postponed a test right after you'd revised for it?|How would you answer if your parents asked why you got back from the library so late?|
+ecole-etudes-005|What would be the first thing you'd say if a friend said they don't need to revise to pass?|What would you say if a teacher refused to push back a deadline?|
+ecole-etudes-006|What would you say if a teacher asked you to come up to the board without warning?|What words would you use if a friend found your choice of studies surprising?|
+ecole-etudes-007|What would you say if a classmate made fun of your presentation in front of the class?|How would you answer if your group suggested a work meeting on a Sunday morning?|
+ecole-etudes-008|What would be the first thing you'd say if a teacher noticed you'd forgotten your exercise book?|What would you say if a teacher asked you for an example without giving you time to think?|
+ecole-etudes-009|What would you say if your project partner wanted to change topic the day before the deadline?|What words would you use if a classmate told you they'd lost the shared file?|
+ecole-etudes-010|What would you say if a friend asked you to explain a whole chapter to them in five minutes?|How would you answer if a teacher made a comment about your handwriting?|
+ecole-etudes-011|What would be the first thing you'd say if a teacher told you they'd made a marking mistake on your work?|What would you say if a friend suggested revising all night before the exam?|
+ecole-etudes-012|What would you say if a classmate asked you to save them a seat in the lecture theatre?|What words would you use if a teacher accused you of chatting when you'd been silent?|
+ecole-etudes-013|What would you say if your parents asked why you got back from the library so late?|How would you answer if your group told you they'd prepared nothing for tomorrow's presentation?|
+ecole-etudes-014|What would be the first thing you'd say if a teacher refused to push back a deadline?|What would you say if a classmate asked you to send them your whole assignment?|
+ecole-etudes-015|What would you say if a friend found your choice of studies surprising?|What words would you use if a teacher postponed a test right after you'd revised for it?|
+ecole-etudes-016|What would you say if your group suggested a work meeting on a Sunday morning?|How would you answer if a friend said they don't need to revise to pass?|
+ecole-etudes-017|What would be the first thing you'd say if a teacher asked you for an example without giving you time to think?|What would you say if a teacher asked you to come up to the board without warning?|
+ecole-etudes-018|What would you say if a classmate told you they'd lost the shared file?|What words would you use if a classmate made fun of your presentation in front of the class?|
+ecole-etudes-019|What would you say if a teacher made a comment about your handwriting?|How would you answer if a teacher noticed you'd forgotten your exercise book?|
+ecole-etudes-020|What would be the first thing you'd say if a friend suggested revising all night before the exam?|What would you say if your project partner wanted to change topic the day before the deadline?|
+ecole-etudes-021|What would be the first thing you'd say if a teacher accused you of chatting when you'd been silent?|What would you say if a friend asked you to explain a whole chapter to them in five minutes?|
+ecole-etudes-022|What would you say if your group told you they'd prepared nothing for tomorrow's presentation?|What words would you use if a teacher told you they'd made a marking mistake on your work?|
+ecole-etudes-023|What would you say if a classmate asked you to send them your whole assignment?|How would you answer if a classmate asked you to save them a seat in the lecture theatre?|
+ecole-etudes-024|What would be the first thing you'd say if a teacher postponed a test right after you'd revised for it?|What would you say if your parents asked why you got back from the library so late?|
+ecole-etudes-025|What would you say if a friend said they don't need to revise to pass?|What words would you use if a teacher refused to push back a deadline?|
+ecole-etudes-026|What would you do first if you got to sixth form without your calculator on the day of a test?|What would you decide to do first if your teacher changed the room at the last minute?|lycée → sixth form
+ecole-etudes-027|What would your first instinct be if your computer switched off during an online mock exam?|How would you react first if you got two important assignments due on the same day?|
+ecole-etudes-028|What would you start with if you realised you had a presentation in an hour?|What would your first move be if a classmate gave you conflicting information about the test?|
+ecole-etudes-029|What would you do first if a classmate was absent on the day of your presentation?|What would you decide to do first if the internet went down while you were submitting work online?|
+ecole-etudes-030|What would your first instinct be if you lost the USB stick with the group project on it?|How would you react first if you found your old notebook with a teacher's contact details in it?|
+ecole-etudes-031|What would you start with if the library closed earlier than planned in the middle of revising?|What would your first move be if your group spotted a mistake on the first slide?|
+ecole-etudes-032|What would you do first if you forgot the sign-up date for an important optional module?|What would you decide to do first if a required book was on loan in every library?|
+ecole-etudes-033|What would your first instinct be if you found a mistake in a document you'd already handed in?|How would you react first if a student fell asleep while you were working in pairs?|
+ecole-etudes-034|What would you start with if your bus was late on the morning of an exam?|What would your first move be if you found your alarm hadn't gone off before an oral exam?|
+ecole-etudes-035|What would you do first if your teacher changed the room at the last minute?|What would you decide to do first if you didn't understand any of the instructions on a handout?|
+ecole-etudes-036|What would your first instinct be if you got two important assignments due on the same day?|How would you react first if your presentation wouldn't open on the classroom computer?|
+ecole-etudes-037|What would you start with if a classmate gave you conflicting information about the test?|What would your first move be if you got to sixth form without your calculator on the day of a test?|lycée → sixth form
+ecole-etudes-038|What would you do first if the internet went down while you were submitting work online?|What would you decide to do first if your computer switched off during an online mock exam?|
+ecole-etudes-039|What would your first instinct be if you found your old notebook with a teacher's contact details in it?|How would you react first if you realised you had a presentation in an hour?|
+ecole-etudes-040|What would you start with if your group spotted a mistake on the first slide?|What would your first move be if a classmate was absent on the day of your presentation?|
+ecole-etudes-041|What would you do first if a required book was on loan in every library?|What would you decide to do first if you lost the USB stick with the group project on it?|
+ecole-etudes-042|What would your first instinct be if a student fell asleep while you were working in pairs?|How would you react first if the library closed earlier than planned in the middle of revising?|
+ecole-etudes-043|What would you start with if you found your alarm hadn't gone off before an oral exam?|What would your first move be if you forgot the sign-up date for an important optional module?|
+ecole-etudes-044|What would you do first if you didn't understand any of the instructions on a handout?|What would you decide to do first if you found a mistake in a document you'd already handed in?|
+ecole-etudes-045|What would your first instinct be if your presentation wouldn't open on the classroom computer?|How would you react first if your bus was late on the morning of an exam?|
+ecole-etudes-046|What would your first instinct be if you got to sixth form without your calculator on the day of a test?|How would you react first if your teacher changed the room at the last minute?|lycée → sixth form
+ecole-etudes-047|What would you start with if your computer switched off during an online mock exam?|What would your first move be if you got two important assignments due on the same day?|
+ecole-etudes-048|What would you do first if you realised you had a presentation in an hour?|What would you decide to do first if a classmate gave you conflicting information about the test?|
+ecole-etudes-049|What would your first instinct be if a classmate was absent on the day of your presentation?|How would you react first if the internet went down while you were submitting work online?|
+ecole-etudes-050|What would you start with if you lost the USB stick with the group project on it?|What would your first move be if you found your old notebook with a teacher's contact details in it?|
+ecole-etudes-051|Would you rather revise alone at home or revise with two friends?|If you could only have one option, would you go for doing an internship at a company or taking part in a charity project?|
+ecole-etudes-052|Between doing an oral exam and handing in a written report, which would you prefer?|Which of the two tempts you more: studying early in the morning or studying late at night?|
+ecole-etudes-053|If you had to decide, would it be having lessons at eight o'clock or finishing lessons at seven in the evening?|Would you go for having a demanding teacher or a really easy-going teacher?|
+ecole-etudes-054|Would you rather learn an extra language or take an arts option?|If you could only have one option, would you go for reading a paper textbook or using a digital textbook?|
+ecole-etudes-055|Between working in a library and working in a quiet café, which would you prefer?|Which of the two tempts you more: preparing a group project or handing in individual work?|
+ecole-etudes-056|If you had to decide, would it be preparing a presentation on a topic of your choice or answering a set question?|Would you go for choosing a very theoretical course or a very practical course?|
+ecole-etudes-057|Would you rather have regular assessments or one big final exam?|If you could only have one option, would you go for in-person classes or hybrid classes?|
+ecole-etudes-058|Between taking notes on a tablet and writing in a notebook, which would you prefer?|Which of the two tempts you more: working at the last minute or planning over several weeks?|
+ecole-etudes-059|If you had to decide, would it be studying at a big university or studying at a small institution?|Would you go for spending a semester abroad or doing two internships in the UK?|France → Royaume-Uni
+ecole-etudes-060|Would you rather do an internship at a company or take part in a charity project?|If you could only have one option, would you go for studying sciences or studying humanities?|
+ecole-etudes-061|Between studying early in the morning and studying late at night, which would you prefer?|Which of the two tempts you more: learning with exercises or learning with videos?|
+ecole-etudes-062|If you had to decide, would it be having a demanding teacher or a really easy-going teacher?|Would you go for revising alone at home or revising with two friends?|
+ecole-etudes-063|Would you rather read a paper textbook or use a digital textbook?|If you could only have one option, would you go for doing an oral exam or handing in a written report?|
+ecole-etudes-064|Between preparing a group project and handing in individual work, which would you prefer?|Which of the two tempts you more: having lessons at eight o'clock or finishing lessons at seven in the evening?|
+ecole-etudes-065|If you had to decide, would it be choosing a very theoretical course or a very practical course?|Would you go for learning an extra language or taking an arts option?|
+ecole-etudes-066|Would you rather go to in-person classes or hybrid classes?|If you could only have one option, would you go for working in a library or working in a quiet café?|
+ecole-etudes-067|Between working at the last minute and planning over several weeks, which would you prefer?|Which of the two tempts you more: preparing a presentation on a topic of your choice or answering a set question?|
+ecole-etudes-068|If you had to decide, would it be spending a semester abroad or doing two internships in the UK?|Would you go for regular assessments or one big final exam?|France → Royaume-Uni
+ecole-etudes-069|Would you rather study sciences or study humanities?|If you could only have one option, would you go for taking notes on a tablet or writing in a notebook?|
+ecole-etudes-070|Between learning with exercises and learning with videos, which would you prefer?|Which of the two tempts you more: studying at a big university or studying at a small institution?|
+ecole-etudes-071|Between revising alone at home and revising with two friends, which would you prefer?|Which of the two tempts you more: doing an internship at a company or taking part in a charity project?|
+ecole-etudes-072|If you had to decide, would it be doing an oral exam or handing in a written report?|Would you go for studying early in the morning or studying late at night?|
+ecole-etudes-073|Would you rather have lessons at eight o'clock or finish lessons at seven in the evening?|If you could only have one option, would you go for having a demanding teacher or a really easy-going teacher?|
+ecole-etudes-074|Between learning an extra language and taking an arts option, which would you prefer?|Which of the two tempts you more: reading a paper textbook or using a digital textbook?|
+ecole-etudes-075|If you had to decide, would it be working in a library or working in a quiet café?|Would you go for preparing a group project or handing in individual work?|
+ecole-etudes-076|How many minutes would it take you to go over your notes after a two-hour lesson?|How much time, in minutes, would you allow for correcting the mistakes in a group presentation?|
+ecole-etudes-077|How many minutes would you spend packing your bag before a day of classes?|How many minutes would you spend choosing an option for next semester?|
+ecole-etudes-078|How many minutes would you spend understanding a difficult maths exercise?|Generally, how many minutes would it take you to set up your computer before an online class?|
+ecole-etudes-079|How many minutes would it take you to choose the topic for a five-minute presentation?|How much time, in minutes, would you allow for sorting out a term's worth of documents?|
+ecole-etudes-080|How many minutes would you spend revising a ten-page history chapter?|How many minutes would you spend preparing a question to ask a teacher?|
+ecole-etudes-081|How many minutes would you spend making your revision cards before a test?|Generally, how many minutes would it take you to reread a text for a close reading essay?|commentaire composé → close reading essay
+ecole-etudes-082|How many minutes would it take you to look up a reference in the library?|How much time, in minutes, would you allow for going over physics formulas before a test?|
+ecole-etudes-083|How many minutes would you spend checking an assignment before sending it?|How many minutes would you spend looking for a concrete example for a presentation?|
+ecole-etudes-084|How many minutes would you spend rehearsing an oral presentation?|Generally, how many minutes would it take you to write a three-part essay plan?|
+ecole-etudes-085|How many minutes would it take you to correct the mistakes in a group presentation?|How much time, in minutes, would you allow for reading twenty pages of a set book?|
+ecole-etudes-086|How many minutes would you spend choosing an option for next semester?|How many minutes would you spend organising a revision timetable for a week?|
+ecole-etudes-087|How many minutes would you spend setting up your computer before an online class?|Generally, how many minutes would it take you to go over your notes after a two-hour lesson?|
+ecole-etudes-088|How many minutes would it take you to sort out a term's worth of documents?|How much time, in minutes, would you allow for packing your bag before a day of classes?|
+ecole-etudes-089|How many minutes would you spend preparing a question to ask a teacher?|How many minutes would you spend understanding a difficult maths exercise?|
+ecole-etudes-090|How many minutes would you spend rereading a text for a close reading essay?|Generally, how many minutes would it take you to choose the topic for a five-minute presentation?|commentaire composé → close reading essay
+ecole-etudes-091|How many minutes would it take you to go over physics formulas before a test?|How much time, in minutes, would you allow for revising a ten-page history chapter?|
+ecole-etudes-092|How many minutes would you spend looking for a concrete example for a presentation?|How many minutes would you spend making your revision cards before a test?|
+ecole-etudes-093|How many minutes would you spend writing a three-part essay plan?|Generally, how many minutes would it take you to look up a reference in the library?|
+ecole-etudes-094|How many minutes would it take you to read twenty pages of a set book?|How much time, in minutes, would you allow for checking an assignment before sending it?|
+ecole-etudes-095|How many minutes would you spend organising a revision timetable for a week?|How many minutes would you spend rehearsing an oral presentation?|
+ecole-etudes-096|How many minutes would you spend going over your notes after a two-hour lesson?|How many minutes would you spend correcting the mistakes in a group presentation?|
+ecole-etudes-097|How many minutes would you spend packing your bag before a day of classes?|Generally, how many minutes would it take you to choose an option for next semester?|
+ecole-etudes-098|How many minutes would it take you to understand a difficult maths exercise?|How much time, in minutes, would you allow for setting up your computer before an online class?|
+ecole-etudes-099|How many minutes would you spend choosing the topic for a five-minute presentation?|How many minutes would you spend sorting out a term's worth of documents?|
+ecole-etudes-100|How many minutes would you spend revising a ten-page history chapter?|Generally, how many minutes would it take you to prepare a question to ask a teacher?|
