@@ -398,3 +398,53 @@ argent-shopping-197|Que presente você daria para um amigo que gosta de receber 
 argent-shopping-198|Quanto tempo você passaria procurando uma casa para alugar num fim de semana a quatro antes de se decidir?|Quanto tempo você dedicaria a montar a lista de compras da semana antes de escolher?|
 argent-shopping-199|Quanto você separaria para fazer um jantar em casa para quatro convidados?|Qual orçamento total você definiria para passar dois dias em Curitiba sem contar o transporte?|Lille → Curitiba
 argent-shopping-200|Qual seria seu primeiro reflexo se uma encomenda frágil chegasse sem proteção e quebrada?|O que você faria primeiro se um vendedor mandasse o modelo errado de sapato?|
+amitie-confidences-001|O que você responderia se um amigo te perguntasse se o novo corte de cabelo dele ficou bom mesmo?|Que frase você diria se um amigo confessasse que tem inveja do seu sucesso?|
+amitie-confidences-002|Qual seria seu primeiro reflexo se um amigo saísse de uma festa sem se despedir?|O que você faria primeiro se um amigo chegasse numa festa sem conhecer ninguém?|
+amitie-confidences-003|A qual amigo você pediria conselho para escolher uma roupa para um primeiro encontro?|A que pessoa do seu círculo você recorreria para revisar uma mensagem delicada antes de enviar?|
+amitie-confidences-004|Que atividade você proporia para reencontrar um amigo que você não vê há um ano?|O que você teria vontade de organizar para apresentar dois grupos de amigos um ao outro?|
+amitie-confidences-005|Quanto tempo você aceitaria esperar na porta do cinema por um amigo atrasado?|Quanto tempo você conseguiria dedicar a ajudar a preparar o aniversário dele para fazer um favor?|
+amitie-confidences-006|Onde você organizaria um jantar de reencontro com quatro amigos?|Em que lugar você gostaria de fazer uma despedida para um amigo que vai se mudar?|
+amitie-confidences-007|Que presente você daria para um amigo que voltou a correr por uns R$ 80?|O que você gostaria de comprar para alguém próximo que vai estudar no exterior com R$ 80?|prix en reais
+amitie-confidences-008|Que objeto você levaria para um fim de semana de trilha com os amigos?|Que acessório você levaria para um churrasco na casa de um amigo que não preparou nada?|
+amitie-confidences-009|O que mais te incomodaria se um amigo vivesse contando os segredos que você contou para ele?|Que comportamento te irritaria primeiro se alguém postasse fotos suas sem a sua permissão?|
+amitie-confidences-010|Que limite você colocaria se um amigo te pedisse a senha do seu celular?|Que regra você pediria para respeitar se um amigo quisesse chamar um desconhecido para a sua casa?|
+amitie-confidences-011|O que você responderia se uma amiga confessasse que esqueceu seu aniversário?|Que frase você diria se uma amiga te pedisse sua opinião sobre o ex dela?|
+amitie-confidences-012|Qual seria seu primeiro reflexo se uma amiga estivesse chorando discretamente durante um jantar?|O que você faria primeiro se começasse uma briga durante um fim de semana entre amigos?|
+amitie-confidences-013|A qual amigo você pediria conselho para preparar um discurso de casamento?|A que pessoa do seu círculo você recorreria para te tranquilizar antes de um compromisso importante?|
+amitie-confidences-014|Que atividade você proporia para um domingo chuvoso com três amigos?|O que você teria vontade de organizar para criar boas lembranças num fim de semana num sítio?|gîte → sítio
+amitie-confidences-015|Quanto tempo você aceitaria passar ajudando um amigo na mudança num sábado de manhã?|Quanto tempo você conseguiria passar ajudando a montar os móveis dele depois do trabalho para fazer um favor?|
+amitie-confidences-016|Onde você organizaria um aniversário surpresa para quinze pessoas?|Em que lugar você gostaria de fazer uma noite para apresentar dois grupos de amigos?|
+amitie-confidences-017|Que presente você daria para uma amiga que acabou de começar a morar sozinha por uns R$ 80?|O que você gostaria de comprar para uma amiga que desenha todos os dias com R$ 80?|prix en reais
+amitie-confidences-018|Que objeto você levaria para uma noite de jogos de tabuleiro na casa de um amigo?|Que acessório você levaria para uma sessão de fotos improvisada pela cidade?|
+amitie-confidences-019|O que mais te incomodaria se alguém próximo ficasse mexendo no celular enquanto vocês conversam?|Que comportamento te irritaria primeiro se um amigo vivesse te interrompendo no restaurante?|
+amitie-confidences-020|Que limite você colocaria se alguém próximo quisesse aparecer na sua casa sem avisar?|Que regra você pediria para respeitar se alguém próximo te pedisse para esconder uma informação importante?|
+amitie-confidences-021|O que você responderia se um amigo contasse que vai se mudar para o exterior?|Que frase você diria se um amigo contasse que reencontrou um antigo colega de escola?|
+amitie-confidences-022|Qual seria seu primeiro reflexo se um amigo chegasse atrasado no próprio aniversário?|O que você faria primeiro se um amigo estivesse com muito frio esperando o último metrô?|train → metrô
+amitie-confidences-023|A qual amigo você pediria conselho para decidir entre duas ofertas de emprego?|A que pessoa do seu círculo você recorreria para aprender a dirigir na estrada?|
+amitie-confidences-024|Que atividade você proporia para comemorar a aprovação numa prova sem gastar muito?|O que você teria vontade de organizar para um reencontro depois de dez anos?|
+amitie-confidences-025|Quanto tempo você aceitaria passar ouvindo um amigo ensaiar uma apresentação importante?|Quanto tempo você conseguiria passar acompanhando ele nas lojas atrás de um presente para fazer um favor?|
+amitie-confidences-026|Onde você marcaria uma conversa tranquila com um amigo preocupado?|Em que lugar você gostaria de marcar um encontro antes de pegarem o ônibus de viagem juntos?|train → ônibus
+amitie-confidences-027|Que presente você daria para alguém próximo apaixonado por jogos de tabuleiro por uns R$ 80?|O que você gostaria de comprar para um amigo que faz muitas viagens longas de ônibus com R$ 80?|prix en reais ; train → ônibus
+amitie-confidences-028|Que objeto você levaria para um piquenique no parque para seis pessoas?|Que acessório você levaria para um show ao ar livre no verão?|
+amitie-confidences-029|O que mais te incomodaria se um amigo sempre aparecesse na sua casa sem avisar?|Que comportamento te irritaria primeiro se alguém próximo nunca ajudasse a organizar os rolês?|
+amitie-confidences-030|Que limite você colocaria se um amigo contasse um segredo seu na frente de outras pessoas?|Que regra você pediria para respeitar se um amigo insistisse para você beber numa festa?|
+amitie-confidences-031|O que você responderia se uma amiga te pedisse para guardar um segredo delicado?|Que frase você diria se um amigo pedisse para dormir na sua casa depois de uma briga?|
+amitie-confidences-032|Qual seria seu primeiro reflexo se alguém próximo parasse de responder no grupo há várias semanas?|O que você faria primeiro se uma amiga perdesse o começo de um espetáculo que vocês reservaram juntos?|
+amitie-confidences-033|A qual amigo você pediria conselho para organizar uma festa surpresa sem ser descoberto?|A que pessoa do seu círculo você recorreria para consertar um computador que não liga mais?|
+amitie-confidences-034|Que atividade você proporia para passar uma noite sem celular com a turma?|O que você teria vontade de organizar para aproveitar uma hora antes de uma viagem de ônibus?|train → ônibus
+amitie-confidences-035|Quanto tempo você aceitaria gastar levando um amigo ao aeroporto bem cedinho?|Quanto tempo você conseguiria passar explicando para ele uma matéria que ele não entendeu para fazer um favor?|
+amitie-confidences-036|Onde você organizaria um passeio a seis num sábado à tarde?|Em que lugar você gostaria de fazer uma comemoração depois de uma formatura?|
+amitie-confidences-037|Que presente você daria para um amigo que adora cozinhar para os outros por uns R$ 80?|O que você gostaria de comprar para uma pessoa que está se preparando para a primeira meia maratona com R$ 80?|prix en reais
+amitie-confidences-038|Que objeto você levaria para uma viagem de ônibus de cinco horas a dois?|Que acessório você levaria para um dia de esqui com iniciantes?|train → ônibus
+amitie-confidences-039|O que mais te incomodaria se uma pessoa sempre convidasse outras pessoas sem perguntar?|Que comportamento te irritaria primeiro se um amigo pegasse suas coisas emprestadas sem pedir?|
+amitie-confidences-040|Que limite você colocaria se um amigo te pedisse uma quantia alta emprestada?|Que regra você pediria para respeitar se alguém próximo vivesse te atrapalhando no trabalho?|
+amitie-confidences-041|O que você responderia se um amigo cancelasse o cinema de vocês pela terceira vez?|Que frase você diria se uma amiga te escrevesse dizendo que precisa conversar hoje à noite?|
+amitie-confidences-042|Qual seria seu primeiro reflexo se um amigo parecesse desconfortável com uma piada da turma?|O que você faria primeiro se um amigo pedisse para ir embora mais cedo de uma festa?|
+amitie-confidences-043|A qual amigo você pediria conselho para escolher um presente para alguém difícil de agradar?|A que pessoa do seu círculo você recorreria para montar um móvel complicado num domingo?|
+amitie-confidences-044|Que atividade você proporia para mostrar sua cidade a um amigo estrangeiro?|O que você teria vontade de organizar para comemorar um apartamento novo com quatro pessoas próximas?|
+amitie-confidences-045|Quanto tempo você aceitaria passar ajudando um amigo a procurar chaves perdidas na rua?|Quanto tempo você conseguiria esperar enquanto ele se arruma para sair para fazer um favor?|
+amitie-confidences-046|Onde você organizaria uma noite de jogos de tabuleiro para oito amigos?|Em que lugar você gostaria de fazer uma tarde de culinária entre amigos?|
+amitie-confidences-047|Que presente você daria para uma amiga que está começando na fotografia por uns R$ 80?|O que você gostaria de comprar para um amigo que gosta de documentários com R$ 80?|prix en reais
+amitie-confidences-048|Que objeto você levaria para uma noite numa casa sem Wi-Fi?|Que acessório você levaria para um passeio de bicicleta com um amigo pouco equipado?|
+amitie-confidences-049|O que mais te incomodaria se um amigo zoasse seus gostos na frente da turma?|Que comportamento te irritaria primeiro se alguém monopolizasse a conversa em todo jantar?|
+amitie-confidences-050|Que limite você colocaria se um amigo usasse suas fotos nas redes sem pedir?|Que regra você pediria para respeitar se uma pessoa te pedisse para escolher entre duas amizades?|

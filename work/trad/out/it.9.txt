@@ -498,3 +498,103 @@ spicy-097|Quale filtro di ricerca useresti per primo su un’app di incontri?|Qu
 spicy-098|In quale momento smetteresti di chattare con più persone contemporaneamente?|In quale momento cancelleresti un’app di incontri?|
 spicy-099|Quale messaggio manderesti dopo un appuntamento piacevole per proporre di rivedervi?|Quale messaggio manderesti dopo un appuntamento senza feeling per restare rispettoso?|
 spicy-100|Quale domanda faresti prima di un primo appuntamento con qualcuno conosciuto online?|Quale domanda faresti per verificare che avete le stesse aspettative?|
+spicy-101|In quale momento di un appuntamento un primo bacio ti sembrerebbe naturale?|In quale momento di un appuntamento un abbraccio ti sembrerebbe naturale?|
+spicy-102|Quale posto ti sembra romantico per scambiarsi un bacio?|Quale posto ti sembra imbarazzante per scambiarsi un bacio?|
+spicy-103|Quale gesto tenero ti farebbe sciogliere al cinema?|Quale gesto tenero ti farebbe sciogliere durante una passeggiata?|
+spicy-104|Quale canzone sceglieresti per una serata intima e tranquilla?|Quale canzone toglieresti subito durante una serata intima?|
+spicy-105|Cosa diresti se la tua crush ti chiedesse «Posso baciarti?»?|Cosa diresti se la tua crush ti chiedesse «Posso abbracciarti?»?|
+spicy-106|Secondo te, quanto potrebbe durare un abbraccio perfetto?|Quanto tempo ti piacerebbe restare abbracciato quando vi rivedete?|
+spicy-107|Quale complimento sussurreresti all’orecchio di qualcuno che ti piace?|Quale complimento ti piacerebbe sentirti sussurrare all’orecchio dal tuo partner?|
+spicy-108|Quale dettaglio rende un bacio particolarmente memorabile?|Quale dettaglio può rovinare un momento romantico?|
+spicy-109|Quale posto sceglieresti per passare una serata a tu per tu in tranquillità?|Quale posto eviteresti per avere una conversazione intima?|
+spicy-110|Quale piccola attenzione renderebbe speciale una serata da innamorati?|Quale piccola attenzione ti farebbe sentire che l’altra persona pensa a te?|
+spicy-111|Chi dei tuoi amici avrebbe il coraggio di dichiararsi a un karaoke?|Chi dei tuoi amici organizzerebbe l’appuntamento più romantico?|
+spicy-112|Chi dei tuoi amici si innamorerebbe durante un viaggio?|Chi dei tuoi amici conoscerebbe qualcuno mentre è in fila?|
+spicy-113|Chi dei tuoi amici manderebbe un messaggio al suo ex alle 2 di notte?|Chi dei tuoi amici cancellerebbe subito il numero del suo ex?|
+spicy-114|Chi dei tuoi amici chiederebbe consiglio per ogni messaggio mandato alla sua crush?|Chi dei tuoi amici avrebbe il coraggio di fare il primo passo senza esitare?|
+spicy-115|Chi dei tuoi amici preparerebbe un discorso per confessare i suoi sentimenti?|Chi dei tuoi amici dimenticherebbe del tutto cosa voleva dire davanti alla sua crush?|
+spicy-116|Chi dei tuoi amici potrebbe passare un’intera serata a flirtare?|Chi dei tuoi amici tornerebbe a casa per primo per guardare una serie?|
+spicy-117|Chi dei tuoi amici si sposerebbe d’impulso a Las Vegas?|Chi dei tuoi amici pianificherebbe il suo matrimonio con tre anni di anticipo?|
+spicy-118|Chi dei tuoi amici sarebbe il più riservato sulla sua vita sentimentale?|Chi dei tuoi amici racconterebbe ogni dettaglio del suo primo appuntamento?|
+spicy-119|Chi dei tuoi amici avrebbe il coraggio di rifiutare un appuntamento che non gli va?|Chi dei tuoi amici avrebbe il coraggio di invitare uno sconosciuto a prendere un caffè?|
+spicy-120|Chi dei tuoi amici terrebbe segreta una nuova relazione per un mese?|Chi dei tuoi amici annuncerebbe una nuova crush già il giorno dopo?|
+spicy-121|Quale prezzo massimo pagheresti per dei fiori da regalare a un primo appuntamento?|Quale prezzo massimo pagheresti per una scatola di cioccolatini da regalare a una crush?|
+spicy-122|Quanto spenderesti per una cena romantica in due in una trattoria di Milano?|Quanto spenderesti per un brunch in due in un caffè di Milano?|bistrot/café parisien → Milano
+spicy-123|Che budget metteresti in conto per un weekend romantico di due notti in Italia, trasporti esclusi?|Che budget metteresti in conto per una notte in un hotel con spa in Italia, per due?|France → Italia
+spicy-124|Quanto saresti disposto a pagare per due biglietti del cinema durante un appuntamento?|Quanto saresti disposto a pagare per due ingressi a uno spettacolo comico durante un appuntamento?|
+spicy-125|Oltre quale prezzo troveresti troppo cara una promise ring?|Oltre quale prezzo troveresti troppo caro un braccialetto di coppia?|
+spicy-126|Quale budget massimo prevederesti per un mazzo di fiori consegnato a casa del tuo partner?|Quale budget massimo prevederesti per una colazione per due consegnata a domicilio?|
+spicy-127|Quanto spenderesti per un regalo di San Valentino dopo tre mesi di relazione?|Quanto spenderesti per un regalo di compleanno dopo tre mesi di relazione?|
+spicy-128|Che prezzo immagini per un servizio fotografico di coppia di un’ora a Milano?|Che prezzo immagini per un massaggio di coppia di un’ora in una spa a Milano?|Paris → Milano
+spicy-129|Quanto pagheresti per due cocktail in un bar a Milano?|Quanto pagheresti per due dolci in una sala da tè di Milano?|Paris → Milano
+spicy-130|Quale cifra accetteresti di spendere per una sorpresa romantica improvvisata?|Quale cifra accetteresti di spendere per far consegnare un regalo in giornata?|
+spicy-131|Quanti minuti ci metteresti a prepararti per un appuntamento importante?|Quanti minuti passeresti a scegliere cosa mettere per una serata con la tua crush?|
+spicy-132|Quante volte a settimana ti piacerebbe vedere qualcuno all’inizio di una relazione?|Quante volte a settimana ti piacerebbe telefonare a qualcuno che stai frequentando?|
+spicy-133|Quanti giorni aspetteresti prima di proporre un secondo appuntamento?|Quanti giorni aspetteresti prima di presentare la tua crush ai tuoi amici?|
+spicy-134|Quanti minuti potrebbe durare la tua prima chiamata con una crush?|Quanti minuti potrebbe durare una conversazione notturna con il tuo partner?|
+spicy-135|Quanti mesi di relazione aspetteresti prima di un primo viaggio in due?|Quanti mesi di relazione aspetteresti prima di pensare di andare a vivere insieme?|
+spicy-136|Quante foto scatteresti durante un weekend romantico?|Quante foto pubblicheresti durante un weekend romantico?|
+spicy-137|Quante volte potresti scrivere «buonanotte» nella stessa serata?|Quante volte potresti guardare il telefono aspettando una risposta importante?|
+spicy-138|Quanto tempo ti servirebbe per deciderti a baciare qualcuno che ti piace?|Quanto tempo ti servirebbe per deciderti a invitare qualcuno a cena?|
+spicy-139|Con quanti giorni di anticipo organizzeresti un anniversario di coppia?|Con quanti giorni di anticipo prenoteresti un ristorante per San Valentino?|
+spicy-140|Quante ore di viaggio accetteresti per raggiungere una crush per un weekend?|Quante ore di viaggio accetteresti per una fuga romantica a sorpresa?|
+spicy-141|Cosa diresti se qualcuno ti chiedesse il numero davanti a tutti i tuoi amici?|Cosa diresti se qualcuno ti proponesse un appuntamento davanti ai suoi colleghi?|
+spicy-142|Cosa diresti se uno sconosciuto ti dicesse «Ti ho già visto nei miei sogni»?|Cosa diresti se uno sconosciuto ti dicesse «Ho l’impressione che ci conosciamo»?|
+spicy-143|Cosa diresti se la tua crush ti invitasse a ballare in una strada deserta?|Cosa diresti se la tua crush ti invitasse a cantare un duetto al karaoke?|
+spicy-144|Cosa diresti se qualcuno ti dicesse «Credo di piacerti»?|Cosa diresti se qualcuno ti dicesse «Sembra che tu ci stia provando con me»?|
+spicy-145|Cosa diresti se la tua crush volesse conoscere i tuoi amici già al secondo appuntamento?|Cosa diresti se la tua crush volesse presentarti i suoi genitori dopo due settimane?|
+spicy-146|Cosa diresti se la tua crush ti facesse un regalo molto personale già al primo appuntamento?|Cosa diresti se la tua crush ti scrivesse una lettera dopo appena tre giorni?|
+spicy-147|Cosa diresti se la tua crush ti riconoscesse in una vecchia foto imbarazzante?|Cosa diresti se la tua crush ritrovasse il tuo vecchio nickname su un forum?|
+spicy-148|Cosa diresti se il tuo partner ti proponesse di partire stasera per due giorni al mare?|Cosa diresti se il tuo partner ti prenotasse un tavolo senza dirti dove?|
+spicy-149|Cosa diresti se qualcuno che ti piace ti confessasse di essere molto timido?|Cosa diresti se qualcuno che ti piace ti confessasse di non aver mai avuto un appuntamento?|
+spicy-150|Cosa diresti se la tua crush ti chiedesse senza giri di parole cosa cerchi?|Cosa diresti se la tua crush ti chiedesse se stai sentendo altre persone?|
+spicy-151|Quale cosa buffa nascondi quando vuoi fare colpo su una crush?|Quale cosa buffa nascondi quando conosci i genitori di qualcuno?|
+spicy-152|Quale domanda indiscreta vorresti fare al tuo migliore amico sulla sua vita sentimentale?|Quale domanda indiscreta vorresti fare a una vecchia crush?|
+spicy-153|Quale ricordo del primo bacio ti farebbe ridere oggi?|Quale ricordo di un primo appuntamento vorresti poter cancellare?|
+spicy-154|Quale abitudine un po’ ridicola prendi quando aspetti un messaggio?|Quale abitudine un po’ ridicola prendi prima di un appuntamento?|
+spicy-155|Quale parola ti scappa quando qualcuno ti fa un complimento inaspettato?|Quale parola ti scappa quando incroci la tua crush senza essere preparato?|
+spicy-156|Quale piccola cosa romantica fai fatica ad ammettere che ti piace?|Quale piccola cosa romantica saresti disposto a provare una volta?|
+spicy-157|Che tipo di messaggio tieni segretamente tra i preferiti?|Che tipo di foto tieni segretamente nella tua galleria?|
+spicy-158|Quale argomento sentimentale ti farebbe arrossire in un gioco di confidenze tra amici?|Quale argomento sentimentale ti farebbe ridere in un gioco di confidenze tra amici?|
+spicy-159|Quale domanda vorresti che ti facessero prima di un primo bacio?|Quale domanda vorresti che ti facessero prima di una prima notte insieme?|
+spicy-160|Quale segreto innocente confesseresti volentieri a una crush?|Quale segreto innocente terresti per il terzo appuntamento?|
+spicy-161|Preferisci un primo appuntamento al cinema o in un bar?|Preferisci un appuntamento al ristorante o durante una passeggiata?|
+spicy-162|Preferisci ricevere un bigliettino dolce scritto a mano o un vocale?|Preferisci regalare un mazzo di fiori o un regalo fatto in casa?|
+spicy-163|Preferisci baciarti sotto la pioggia o al tramonto?|Preferisci un abbraccio davanti a un film o durante una passeggiata?|
+spicy-164|Preferisci una sorpresa romantica in pubblico o in privato?|Preferisci una dichiarazione d’amore per messaggio o faccia a faccia?|
+spicy-165|Preferisci essere avvicinato a una festa o fare tu il primo passo?|Preferisci conoscere qualcuno tramite amici o per caso?|
+spicy-166|Preferisci ricevere tanti piccoli messaggi o una lunga chiamata la sera?|Preferisci vedere spesso il tuo partner o organizzare grandi rimpatriate?|
+spicy-167|Preferisci un weekend al mare o in montagna con la tua crush?|Preferisci una notte insolita in una casetta sull’albero o un hotel con spa in due?|
+spicy-168|Preferisci un partner molto espansivo o piuttosto riservato?|Preferisci qualcuno spontaneo o qualcuno che pianifica tutto?|
+spicy-169|Preferisci un primo bacio spontaneo o un primo bacio annunciato?|Preferisci un invito a uscire diretto o pieno di sottintesi?|
+spicy-170|Preferisci ridere tutta la sera o avere una conversazione molto profonda?|Preferisci ballare in due o cucinare insieme durante un appuntamento?|
+spicy-171|Quale comportamento ti farebbe annullare un secondo appuntamento?|Quale comportamento ti farebbe abbandonare un’app di incontri?|
+spicy-172|Quale qualità ti dà fiducia ancora prima del primo bacio?|Quale qualità ti fa venire voglia di costruire qualcosa con qualcuno?|
+spicy-173|Quale dettaglio ti metterebbe a disagio durante una cena a tu per tu?|Quale dettaglio ti metterebbe a disagio durante una serata a casa di qualcuno?|
+spicy-174|Quale gesto ti farebbe dire «Questa persona è premurosa»?|Quale gesto ti farebbe dire «Questa persona manca di rispetto»?|
+spicy-175|Quale frase sarebbe un campanello d’allarme già al primo appuntamento?|Quale frase sarebbe un ottimo segnale già al primo appuntamento?|
+spicy-176|Quale abitudine di comunicazione ti sembra indispensabile in una coppia?|Quale abitudine di comunicazione ti sembra insopportabile in una coppia?|
+spicy-177|Quale comportamento sui social sarebbe un vero ammazza-passione?|Quale comportamento sui social ti sembrerebbe rassicurante?|
+spicy-178|Quale difetto accetteresti in una persona che ti piace molto?|Quale difetto non accetteresti nemmeno in una persona che ti piace molto?|
+spicy-179|Quale segnale dimostra che l’altra persona ascolta davvero quello che racconti?|Quale segnale dimostra che l’altra persona fa finta di ascoltarti?|
+spicy-180|Quale domanda faresti per capire le intenzioni di una crush?|Quale domanda faresti per sapere se avete gli stessi valori?|
+spicy-181|Chi tra i tuoi amici avrebbe il coraggio di raccontare il suo peggior appuntamento davanti a tutti?|Chi tra i tuoi amici avrebbe il coraggio di confessare una crush segreta durante un gioco?|
+spicy-182|Quale domanda un po’ audace faresti a qualcuno che frequenti da un mese?|Quale domanda un po’ audace terresti per una serata a tu per tu?|
+spicy-183|Quale posto insolito ti sembrerebbe romantico per un bacio?|Quale posto insolito ti sembrerebbe davvero troppo imbarazzante per un bacio?|
+spicy-184|Quale complimento un po’ audace ti farebbe arrossire?|Quale complimento un po’ audace avresti il coraggio di sussurrare alla tua crush?|
+spicy-185|Quale sfida di flirt accetteresti in un gioco tra adulti consenzienti?|Quale sfida di flirt rifiuteresti anche con qualcuno che ti piace?|
+spicy-186|Quale dettaglio può rovinare un momento di seduzione altrimenti perfetto?|Quale dettaglio può rendere molto seducente un semplice sguardo?|
+spicy-187|Quale domanda faresti prima di passare una prima notte con qualcuno?|Quale domanda faresti per conoscere i limiti del tuo partner?|
+spicy-188|Quale amico avrebbe il coraggio di tentare una dichiarazione molto diretta davanti alla sua crush?|Quale amico non riuscirebbe a dire una parola davanti a una persona che gli piace?|
+spicy-189|Quale verità sulla tua vita sentimentale avresti il coraggio di rivelare durante un gioco tra amici?|Quale verità sulla tua ultima crush terresti per le persone più vicine?|
+spicy-190|Quale frase potrebbe farti perdere la testa durante un flirt?|Quale frase ti farebbe passare all’istante ogni voglia di flirtare?|
+spicy-191|Cosa risponderesti se la tua crush ti sussurrasse «Ho voglia di baciarti»?|Cosa risponderesti se la tua crush ti chiedesse «Ci vediamo solo noi due?»?|
+spicy-192|Cosa ti metteresti per un appuntamento particolarmente romantico a casa tua?|Cosa ti metteresti per sorprendere il tuo partner durante una serata a due?|
+spicy-193|Quale attenzione ti metterebbe nell’atmosfera giusta per una serata romantica?|Quale attenzione ti farebbe dimenticare subito una brutta giornata?|
+spicy-194|Cosa faresti se il tuo partner volesse rallentare le cose all’ultimo momento?|Cosa faresti se il tuo partner ti dicesse che non si sente pronto per un bacio?|
+spicy-195|Quale argomento intimo ti sembrerebbe importante affrontare prima di dormire insieme?|Quale argomento intimo preferiresti affrontare dopo diversi appuntamenti?|
+spicy-196|Quale segnale ti farebbe capire che l’attrazione è reciproca?|Quale segnale ti farebbe capire che è meglio non tentare un avvicinamento?|
+spicy-197|Cosa diresti se la tua crush ti proponesse una notte in hotel per il vostro anniversario?|Cosa diresti se la tua crush ti proponesse di passare la serata a casa sua per la prima volta?|
+spicy-198|Quale posto sceglieresti per una notte romantica in due in Italia?|Quale posto eviteresti per una prima notte in due?|France → Italia
+spicy-199|Quale canzone metteresti durante un momento molto romantico in due?|Quale canzone toglieresti se partisse durante un primo bacio?|
+spicy-200|Cosa faresti se la tua crush ti chiedesse di parlare apertamente dei vostri desideri?|Cosa faresti se la tua crush ti rivelasse un limite importante per lei?|

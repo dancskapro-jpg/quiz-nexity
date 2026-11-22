@@ -497,3 +497,104 @@ amitie-confidences-096|¿Dónde organizarías una fiesta para presentar a dos gr
 amitie-confidences-097|¿Qué regalo le harías a alguien cercano que se va a estudiar al extranjero por unos 25 euros?|¿Qué te gustaría comprarle a una amiga que vuelve a dar clases de baile con 25 euros?|
 amitie-confidences-098|¿Qué objeto te llevarías para dos noches de acampada en el bosque?|¿Qué accesorio llevarías para una salida en barco con amigos?|
 amitie-confidences-099|¿Qué es lo que más te molestaría si alguien cercano nunca ayudara a organizar los planes?|¿Qué comportamiento te molestaría antes que nada si alguien cercano convirtiera cada conversación en una competición?|
+amitie-confidences-100|¿Qué límite pondrías si alguien cercano te pidiera ocultar una información importante?|¿Qué norma pedirías que se respetara si alguien cercano se burlara de algo que te hace daño?|
+amitie-confidences-101|¿Qué responderías si un amigo te pidiera dormir en tu casa después de una pelea?|¿Qué frase dirías si un amigo te pidiera que eligieras entre dos conjuntos?|
+amitie-confidences-102|¿Qué sería lo primero que harías si un amigo estuviera muerto de frío esperando el último tren?|¿Qué harías primero si a un amigo le entrara el pánico antes de hablar en público?|
+amitie-confidences-103|¿A qué amigo le pedirías consejo para tranquilizarte antes de una cita importante?|¿A quién de tu entorno recurrirías para recuperar la confianza después de un fracaso?|
+amitie-confidences-104|¿Qué actividad propondrías para que dos grupos de amigos se conozcan?|¿Qué te apetecería organizar para reencontrarte con un amigo al que no ves desde hace un año?|
+amitie-confidences-105|¿Cuánto tiempo estarías dispuesto a pasar explicándole a un amigo una lección que no ha entendido?|¿Cuánto tiempo podrías acompañarle mientras se prueba ropa para echarle una mano?|
+amitie-confidences-106|¿Dónde quedarías antes de coger un tren juntos?|¿En qué sitio te gustaría montar una fiesta con poco presupuesto en invierno?|
+amitie-confidences-107|¿Qué regalo le harías a una amiga que dibuja todos los días por unos 25 euros?|¿Qué te gustaría comprarle a un amigo que se pasa los fines de semana haciendo bricolaje con 25 euros?|
+amitie-confidences-108|¿Qué objeto te llevarías a una barbacoa en casa de un amigo que no ha preparado nada?|¿Qué accesorio llevarías a un fin de semana de senderismo con amigos?|
+amitie-confidences-109|¿Qué es lo que más te molestaría si un amigo cogiera tus cosas sin pedírtelas?|¿Qué comportamiento te molestaría antes que nada si alguien no respetara los horarios acordados?|
+amitie-confidences-110|¿Qué límite pondrías si un amigo insistiera en que bebieras en una fiesta?|¿Qué norma pedirías que se respetara si un amigo insistiera en saber todos los detalles de tu vida?|
+amitie-confidences-111|¿Qué responderías si una amiga te escribiera que necesita hablar esta noche?|¿Qué frase dirías si una amiga te dijera que teme perder vuestra complicidad?|
+amitie-confidences-112|¿Qué sería lo primero que harías si una amiga se perdiera el principio de un espectáculo que habíais reservado juntas?|¿Qué harías primero si una amiga hubiera perdido las llaves del alojamiento que habéis alquilado juntas?|
+amitie-confidences-113|¿A qué amigo le pedirías consejo para aprender a conducir por autopista?|¿A quién de tu entorno recurrirías para elegir la ropa de una primera cita?|
+amitie-confidences-114|¿Qué actividad propondrías para crear buenos recuerdos durante un fin de semana en una casa rural?|¿Qué te apetecería organizar para llenar un domingo lluvioso con tres amigos?|gîte → casa rural
+amitie-confidences-115|¿Cuánto tiempo estarías dispuesto a esperar a un amigo mientras se arregla para salir?|¿Cuánto tiempo podrías pasar revisando su solicitud antes de que la envíe para echarle una mano?|
+amitie-confidences-116|¿Dónde organizarías una celebración después de una graduación?|¿En qué sitio te gustaría quedar a solas con alguien para hablar sin que os molesten?|
+amitie-confidences-117|¿Qué regalo le harías a un amigo que hace a menudo trayectos largos en tren por unos 25 euros?|¿Qué te gustaría comprarle a un amigo que ha vuelto a salir a correr con 25 euros?|
+amitie-confidences-118|¿Qué objeto te llevarías a una sesión de fotos improvisada por la ciudad?|¿Qué accesorio llevarías a una noche de juegos de mesa en casa de un colega?|
+amitie-confidences-119|¿Qué es lo que más te molestaría si alguien acaparara la conversación en cada cena?|¿Qué comportamiento te molestaría antes que nada si un amigo se negara a reconocer un error evidente?|
+amitie-confidences-120|¿Qué límite pondrías si alguien cercano te molestara constantemente en el trabajo?|¿Qué norma pedirías que se respetara si alguien hiciera comentarios hirientes sobre tu pareja?|
+amitie-confidences-121|¿Qué responderías si un amigo te contara que ha mentido a sus padres?|¿Qué frase dirías si un amigo te confesara que se le ha olvidado una cita importante?|
+amitie-confidences-122|¿Qué sería lo primero que harías si un amigo pidiera irse antes de una fiesta?|¿Qué harías primero si un amigo se fuera de una fiesta sin despedirse?|
+amitie-confidences-123|¿A qué amigo le pedirías consejo para arreglar un ordenador que ya no arranca?|¿A quién de tu entorno recurrirías para preparar un discurso de boda?|
+amitie-confidences-124|¿Qué actividad propondrías para un reencuentro después de diez años?|¿Qué te apetecería organizar para celebrar que alguien ha aprobado un examen sin gastar mucho?|
+amitie-confidences-125|¿Cuánto tiempo estarías dispuesto a esperar a un amigo en la estación después de que le cancelen el tren?|¿Cuánto tiempo podrías buscar con él un hotel para un viaje juntos para echarle una mano?|
+amitie-confidences-126|¿Dónde organizarías una tarde de cocina entre amigos?|¿En qué sitio te gustaría montar una cena de reencuentro con cuatro amigos?|
+amitie-confidences-127|¿Qué regalo le harías a alguien que prepara su primera media maratón por unos 25 euros?|¿Qué te gustaría comprarle a una amiga que acaba de irse a vivir sola con 25 euros?|
+amitie-confidences-128|¿Qué objeto te llevarías a un concierto al aire libre en verano?|¿Qué accesorio llevarías a un pícnic en el parque para seis personas?|
+amitie-confidences-129|¿Qué es lo que más te molestaría si alguien cercano cambiara todos los planes una hora antes?|¿Qué comportamiento te molestaría antes que nada si alguien insistiera en leer tus mensajes privados?|
+amitie-confidences-130|¿Qué límite pondrías si alguien te pidiera elegir entre dos amistades?|¿Qué norma pedirías que se respetara si un amigo te pidiera la contraseña del móvil?|
+amitie-confidences-131|¿Qué responderías si una amiga te pidiera que la cubrieras para una sorpresa?|¿Qué frase dirías si un amigo te preguntara si de verdad le queda bien su nuevo corte de pelo?|
+amitie-confidences-132|¿Qué sería lo primero que harías si una amiga quisiera estar sola después de una conversación tensa?|¿Qué harías primero si una amiga llorara a escondidas durante una cena?|
+amitie-confidences-133|¿A qué amigo le pedirías consejo para montar un mueble complicado un domingo?|¿A quién de tu entorno recurrirías para decidirte entre dos ofertas de trabajo?|
+amitie-confidences-134|¿Qué actividad propondrías para aprovechar una hora antes de coger un tren?|¿Qué te apetecería organizar para pasar una noche sin móviles con el grupo?|
+amitie-confidences-135|¿Cuánto tiempo estarías dispuesto a dar vueltas por el barrio buscando el perro de un amigo?|¿Cuánto tiempo podrías esperarle en la puerta del cine si llega tarde para echarle una mano?|
+amitie-confidences-136|¿Dónde organizarías un plan con un amigo que apenas conoce Madrid?|¿En qué sitio te gustaría montar un cumpleaños sorpresa para quince personas?|Paris → Madrid
+amitie-confidences-137|¿Qué regalo le harías a un amigo al que le gustan los documentales por unos 25 euros?|¿Qué te gustaría comprarle a alguien cercano muy aficionado a los juegos de mesa con 25 euros?|
+amitie-confidences-138|¿Qué objeto te llevarías para un día de esquí con principiantes?|¿Qué accesorio llevarías para un viaje en tren de cinco horas entre dos?|
+amitie-confidences-139|¿Qué es lo que más te molestaría si un amigo se olvidara de avisarte de un plan en grupo?|¿Qué comportamiento te molestaría antes que nada si un amigo contara a menudo lo que le confías?|
+amitie-confidences-140|¿Qué límite pondrías si un colega te cogiera ropa prestada y no te la devolviera?|¿Qué norma pedirías que se respetara si alguien cercano quisiera presentarse en tu casa sin avisar?|
+amitie-confidences-141|¿Qué responderías si un amigo te dijera que se arrepiente de un comentario hiriente?|¿Qué frase dirías si una amiga te confesara que se le ha olvidado tu cumpleaños?|
+amitie-confidences-142|¿Qué sería lo primero que harías si un amigo te pidiera ayuda con la mudanza en el último momento?|¿Qué harías primero si un amigo llegara tarde a su propio cumpleaños?|
+amitie-confidences-143|¿A qué amigo le pedirías consejo para organizar tu presupuesto después de una mudanza?|¿A quién de tu entorno recurrirías para organizar una fiesta sorpresa sin que te pillen?|
+amitie-confidences-144|¿Qué actividad propondrías para celebrar un piso nuevo con cuatro personas cercanas?|¿Qué te apetecería organizar para enseñarle tu ciudad a un amigo extranjero?|
+amitie-confidences-145|¿Cuánto tiempo estarías dispuesto a ayudar a un amigo a vaciar un trastero antes de una mudanza?|¿Cuánto tiempo podrías ayudarle con la mudanza un sábado por la mañana para echarle una mano?|
+amitie-confidences-146|¿Dónde organizarías una proyección privada de vuestra peli favorita?|¿En qué sitio te gustaría tener una charla tranquila con un amigo preocupado?|
+amitie-confidences-147|¿Qué regalo le harías a una amiga que colecciona libros de cocina por unos 25 euros?|¿Qué te gustaría comprarle a un amigo al que le encanta cocinar para los demás con 25 euros?|
+amitie-confidences-148|¿Qué objeto te llevarías para una salida en bici con un amigo poco equipado?|¿Qué accesorio llevarías para pasar una noche en una casa sin wifi?|
+amitie-confidences-149|¿Qué es lo que más te molestaría si alguien criticara a tus otros amigos en privado?|¿Qué comportamiento te molestaría antes que nada si alguien cercano mirara el móvil mientras habláis?|
+amitie-confidences-150|¿Qué límite pondrías si alguien cercano te pidiera tomar partido en una discusión?|¿Qué norma pedirías que se respetara si un amigo contara algo que le confiaste delante de otras personas?|
+amitie-confidences-151|¿Qué responderías si un amigo te propusiera retomar el contacto después de varios años?|¿Qué frase dirías si un amigo te dijera que se va a vivir al extranjero?|
+amitie-confidences-152|¿Qué sería lo primero que harías si alguien cercano se quedara solo durante una comida en grupo?|¿Qué harías primero si alguien cercano llevara varias semanas sin contestar en el grupo?|
+amitie-confidences-153|¿A qué amigo le pedirías consejo para encontrar un plan para un fin de semana lluvioso?|¿A quién de tu entorno recurrirías para elegir un regalo para alguien difícil?|
+amitie-confidences-154|¿Qué actividad propondrías para pasar tiempo con un amigo que no puede caminar mucho?|¿Qué te apetecería organizar para cambiar la rutina de los viernes por la noche?|
+amitie-confidences-155|¿Cuánto tiempo estarías dispuesto a pasar en transporte público para ir a ver a un amigo después de un mal día?|¿Cuánto tiempo podrías escucharle ensayar una presentación importante para echarle una mano?|
+amitie-confidences-156|¿Dónde organizarías una noche tranquila después de una semana cargada?|¿En qué sitio te gustaría montar un plan para seis un sábado por la tarde?|
+amitie-confidences-157|¿Qué regalo le harías a un amigo que acaba de sacarse el carnet de conducir por unos 25 euros?|¿Qué te gustaría comprarle a una amiga que empieza con la fotografía con 25 euros?|
+amitie-confidences-158|¿Qué objeto te llevarías para un viaje nocturno en autobús con colegas?|¿Qué accesorio llevarías a una noche de karaoke en casa?|
+amitie-confidences-159|¿Qué es lo que más te molestaría si un amigo siempre llevara las bromas demasiado lejos?|¿Qué comportamiento te molestaría antes que nada si un amigo siempre se presentara en tu casa sin avisar?|
+amitie-confidences-160|¿Qué límite pondrías si un amigo quisiera compartir tus conversaciones privadas?|¿Qué norma pedirías que se respetara si un colega te pidiera que le prestaras mucho dinero?|
+amitie-confidences-161|¿Qué responderías si una amiga te contara que cambia por completo de profesión?|¿Qué frase dirías si una amiga te pidiera que guardaras un secreto delicado?|
+amitie-confidences-162|¿Qué sería lo primero que harías si un amigo descubriera que han publicado una foto vergonzosa suya?|¿Qué harías primero si un amigo pareciera incómodo con una broma del grupo?|
+amitie-confidences-163|¿A qué amigo le pedirías consejo para tomar una decisión que podría decepcionar a alguien cercano?|¿A quién de tu entorno recurrirías para encontrar las palabras después de una pelea?|
+amitie-confidences-164|¿Qué actividad propondrías para proponerle un plan a un amigo al que no le gustan las multitudes?|¿Qué te apetecería organizar para pasar una tarde con un amigo muy tímido?|
+amitie-confidences-165|¿Cuánto tiempo estarías dispuesto a ayudar a un amigo a preparar una comida para sus invitados?|¿Cuánto tiempo podrías dedicar a llevarle al aeropuerto de madrugada para echarle una mano?|
+amitie-confidences-166|¿Dónde organizarías un plan para amigos que no beben?|¿En qué sitio te gustaría montar una noche de juegos de mesa para ocho amigos?|
+amitie-confidences-167|¿Qué regalo le harías a una amiga a la que le encanta tener invitados a cenar por unos 25 euros?|¿Qué te gustaría comprarle a un colega que ha adoptado un perro con 25 euros?|
+amitie-confidences-168|¿Qué objeto te llevarías a una noche de cine en un jardín?|¿Qué accesorio llevarías a una tarde de playa con cuatro amigos?|
+amitie-confidences-169|¿Qué es lo que más te molestaría si alguien cercano convirtiera cada conversación en una competición?|¿Qué comportamiento te molestaría antes que nada si alguien invitara siempre a más gente sin preguntar?|
+amitie-confidences-170|¿Qué límite pondrías si un amigo se apuntara siempre a tus planes a solas con alguien?|¿Qué norma pedirías que se respetara si un amigo usara tus fotos en redes sin preguntarte?|
+amitie-confidences-171|¿Qué responderías si un amigo te pidiera que eligieras entre dos conjuntos?|¿Qué frase dirías si un amigo cancelara vuestro plan de cine por tercera vez?|
+amitie-confidences-172|¿Qué sería lo primero que harías si una amiga se dejara un objeto de valor en tu casa?|¿Qué harías primero si una amiga perdiera la cartera mientras estáis por ahí?|
+amitie-confidences-173|¿A qué amigo le pedirías consejo para preparar una disculpa después de meter la pata?|¿A quién de tu entorno recurrirías para reservar un restaurante para diez personas?|
+amitie-confidences-174|¿Qué actividad propondrías para entreteneros durante una escala larga entre dos?|¿Qué te apetecería organizar para celebrar un cumpleaños sin alcohol?|
+amitie-confidences-175|¿Cuánto tiempo estarías dispuesto a acompañar a un amigo mientras se prueba ropa?|¿Cuánto tiempo podrías ayudarle a buscar unas llaves perdidas en la calle para echarle una mano?|
+amitie-confidences-176|¿Dónde organizarías un brunch de reencuentro entre cinco?|¿En qué sitio te gustaría montar un pícnic de primavera con gente cercana?|
+amitie-confidences-177|¿Qué regalo le harías a un colega al que le interesa el café de especialidad por unos 25 euros?|¿Qué te gustaría comprarle a una amiga que está aprendiendo un idioma nuevo con 25 euros?|
+amitie-confidences-178|¿Qué objeto te llevarías a una ruta de senderismo en la que todos comparten la comida?|¿Qué accesorio llevarías a una escapada en coche bajo la lluvia?|
+amitie-confidences-179|¿Qué es lo que más te molestaría si alguien no respetara los horarios acordados?|¿Qué comportamiento te molestaría antes que nada si un amigo se burlara de tus gustos delante del grupo?|
+amitie-confidences-180|¿Qué límite pondrías si alguien cercano se burlara de algo que te hace daño?|¿Qué norma pedirías que se respetara si alguien cercano te mandara mensajes toda la noche?|
+amitie-confidences-181|¿Qué responderías si una amiga te dijera que teme perder vuestra complicidad?|¿Qué frase dirías si un amigo te propusiera un road trip sin planificar nada?|
+amitie-confidences-182|¿Qué sería lo primero que harías si a un amigo le entrara el pánico antes de hablar en público?|¿Qué harías primero si un amigo se dejara el móvil en un taxi?|
+amitie-confidences-183|¿A qué amigo le pedirías consejo para encontrar una idea original de cumpleaños?|¿A quién de tu entorno recurrirías para preparar tu primera entrevista de trabajo?|
+amitie-confidences-184|¿Qué actividad propondrías para hacer algo original con tu mejor amigo?|¿Qué te apetecería organizar para aprovechar un día de sol con dos amigos?|
+amitie-confidences-185|¿Cuánto tiempo estarías dispuesto a pasar revisando la solicitud de un amigo antes de que la envíe?|¿Cuánto tiempo podrías hacer cola para comprarle entradas de concierto para echarle una mano?|
+amitie-confidences-186|¿Dónde organizarías una fiesta con poco presupuesto en invierno?|¿En qué sitio te gustaría montar una sesión de fotos de recuerdo con tu grupo?|
+amitie-confidences-187|¿Qué regalo le harías a una amiga que vuelve a dar clases de baile por unos 25 euros?|¿Qué te gustaría comprarle a un amigo al que le gusta ir de camping con 25 euros?|
+amitie-confidences-188|¿Qué objeto te llevarías a una cena en la que cada uno trae un plato?|¿Qué accesorio llevarías a una fiesta sorpresa en un piso?|
+amitie-confidences-189|¿Qué es lo que más te molestaría si un amigo se negara a reconocer un error evidente?|¿Qué comportamiento te molestaría antes que nada si alguien cercano cancelara vuestros planes en el último momento?|
+amitie-confidences-190|¿Qué límite pondrías si un amigo insistiera en saber todos los detalles de tu vida?|¿Qué norma pedirías que se respetara si un amigo te hiciera sentir culpable a menudo por decir que no?|
+amitie-confidences-191|¿Qué responderías si un amigo te confesara que se le ha olvidado una cita importante?|¿Qué frase dirías si una amiga te dijera que se siente apartada del grupo?|
+amitie-confidences-192|¿Qué sería lo primero que harías si una amiga hubiera perdido las llaves del alojamiento que habéis alquilado juntas?|¿Qué harías primero si una amiga recibiera una mala noticia durante las vacaciones?|
+amitie-confidences-193|¿A qué amigo le pedirías consejo para recuperar la confianza después de un fracaso?|¿A quién de tu entorno recurrirías para elegir un destino de vacaciones en grupo?|
+amitie-confidences-194|¿Qué actividad propondrías para pasar un rato tranquilo con un amigo cansado?|¿Qué te apetecería organizar para animar a un amigo después de una semana difícil?|
+amitie-confidences-195|¿Cuánto tiempo estarías dispuesto a buscar con un amigo un hotel para un viaje juntos?|¿Cuánto tiempo podrías acompañarle a una cita que le estresa para echarle una mano?|
+amitie-confidences-196|¿Dónde quedarías a solas con alguien para hablar sin que os molesten?|¿En qué sitio te gustaría montar un desayuno para reencontrarte con tu mejor amigo?|
+amitie-confidences-197|¿Qué regalo le harías a un amigo que se pasa los fines de semana haciendo bricolaje por unos 25 euros?|¿Qué te gustaría comprarle a alguien del grupo al que le encantan las plantas con 25 euros?|
+amitie-confidences-198|¿Qué objeto te llevarías para una salida en barco con amigos?|¿Qué accesorio llevarías para dos noches de acampada en el bosque?|
+amitie-confidences-199|¿Qué es lo que más te molestaría si alguien insistiera en leer tus mensajes privados?|¿Qué comportamiento te molestaría antes que nada si un amigo te pidiera que tomaras partido después de una pelea?|
+amitie-confidences-200|¿Qué límite pondrías si alguien hiciera comentarios hirientes sobre tu pareja?|¿Qué norma pedirías que se respetara si un colega quisiera conducir tu coche sin el seguro adecuado?|
