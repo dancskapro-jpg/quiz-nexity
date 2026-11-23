@@ -498,3 +498,103 @@ restaurants-service-097|Se dovessi decidere, sceglieresti un dehors al sole o un
 restaurants-service-098|Sceglieresti piuttosto il menù del giorno o scegliere alla carta?|Se potessi scegliere una sola opzione, prenderesti un cameriere che consiglia molto o un cameriere che ti lascia scegliere in pace?|
 restaurants-service-099|Tra un servizio velocissimo e un servizio più attento, cosa preferiresti?|Quale delle due opzioni ti attira di più: una pizzeria tradizionale o un ristorante di pasta fresca?|
 restaurants-service-100|Se dovessi decidere, sceglieresti mangiare sul posto o prendere da asporto?|Privilegeresti pagare alla cassa o pagare direttamente al tavolo?|
+restaurants-service-101|Quanti minuti ti servirebbero per scegliere un piatto da un menù con trenta proposte?|Quanto tempo, in minuti, metteresti in conto per decidere il menù pranzo prima del lavoro?|
+restaurants-service-102|Quanti minuti passeresti a decidere il ristorante per una cena in quattro?|Quanti minuti ci metteresti a scegliere un piatto adatto a un'allergia dichiarata?|
+restaurants-service-103|Quanti minuti dedicheresti ad aspettare prima di richiamare il cameriere per il conto?|In genere, quanti minuti ti prenderesti per aspettare un piatto che sarebbe dovuto arrivare già da trenta minuti?|
+restaurants-service-104|Quanti minuti ti servirebbero per controllare il conto di un gruppo di sei persone?|Quanto tempo, in minuti, metteresti in conto per spiegare un errore di consegna al servizio clienti?|
+restaurants-service-105|Quanti minuti passeresti a confrontare i menù di due ristoranti su Internet?|Quanti minuti ci metteresti a controllare un rimborso su un'app?|
+restaurants-service-106|Quanti minuti dedicheresti a scegliere un dolce dopo un pasto abbondante?|In genere, quanti minuti ti prenderesti per confrontare i prezzi dei piatti da asporto in zona?|
+restaurants-service-107|Quanti minuti ti servirebbero per fare un reclamo educato per un ordine incompleto?|Quanto tempo, in minuti, metteresti in conto per preparare un ordine di cibo per cinque persone?|
+restaurants-service-108|Quanti minuti passeresti a ordinare in un bar pieno di gente?|Quanti minuti ci metteresti a ritrovare il numero di una prenotazione persa?|
+restaurants-service-109|Quanti minuti dedicheresti a leggere le recensioni prima di prenotare un ristorante?|In genere, quanti minuti ti prenderesti per scrivere una recensione costruttiva dopo un pessimo servizio?|
+restaurants-service-110|Quanti minuti ti servirebbero per decidere il menù pranzo prima del lavoro?|Quanto tempo, in minuti, metteresti in conto per aspettare all'ingresso di una trattoria senza prenotazione?|brasserie → trattoria
+restaurants-service-111|Quanti minuti passeresti a scegliere un piatto adatto a un'allergia dichiarata?|Quanti minuti ci metteresti a scegliere una bevanda da abbinare a un piatto piccante?|
+restaurants-service-112|Quanti minuti dedicheresti ad aspettare un piatto che sarebbe dovuto arrivare già da trenta minuti?|In genere, quanti minuti ti prenderesti per scegliere un piatto da un menù con trenta proposte?|
+restaurants-service-113|Quanti minuti ti servirebbero per spiegare un errore di consegna al servizio clienti?|Quanto tempo, in minuti, metteresti in conto per decidere il ristorante per una cena in quattro?|
+restaurants-service-114|Quanti minuti passeresti a controllare un rimborso su un'app?|Quanti minuti ci metteresti ad aspettare prima di richiamare il cameriere per il conto?|
+restaurants-service-115|Quanti minuti dedicheresti a confrontare i prezzi dei piatti da asporto in zona?|In genere, quanti minuti ti prenderesti per controllare il conto di un gruppo di sei persone?|
+restaurants-service-116|Quanti minuti ti servirebbero per preparare un ordine di cibo per cinque persone?|Quanto tempo, in minuti, metteresti in conto per confrontare i menù di due ristoranti su Internet?|
+restaurants-service-117|Quanti minuti passeresti a ritrovare il numero di una prenotazione persa?|Quanti minuti ci metteresti a scegliere un dolce dopo un pasto abbondante?|
+restaurants-service-118|Quanti minuti dedicheresti a scrivere una recensione costruttiva dopo un pessimo servizio?|In genere, quanti minuti ti prenderesti per fare un reclamo educato per un ordine incompleto?|
+restaurants-service-119|Quanti minuti ti servirebbero per aspettare all'ingresso di una trattoria senza prenotazione?|Quanto tempo, in minuti, metteresti in conto per ordinare in un bar pieno di gente?|brasserie → trattoria
+restaurants-service-120|Quanti minuti passeresti a scegliere una bevanda da abbinare a un piatto piccante?|Quanti minuti ci metteresti a leggere le recensioni prima di prenotare un ristorante?|
+restaurants-service-121|Quanti minuti passeresti a scegliere un piatto da un menù con trenta proposte?|Quanti minuti ci metteresti a decidere il menù pranzo prima del lavoro?|
+restaurants-service-122|Quanti minuti dedicheresti a decidere il ristorante per una cena in quattro?|In genere, quanti minuti ti prenderesti per scegliere un piatto adatto a un'allergia dichiarata?|
+restaurants-service-123|Quanti minuti ti servirebbero per aspettare prima di richiamare il cameriere per il conto?|Quanto tempo, in minuti, metteresti in conto per aspettare un piatto che sarebbe dovuto arrivare già da trenta minuti?|
+restaurants-service-124|Quanti minuti passeresti a controllare il conto di un gruppo di sei persone?|Quanti minuti ci metteresti a spiegare un errore di consegna al servizio clienti?|
+restaurants-service-125|Quanti minuti dedicheresti a confrontare i menù di due ristoranti su Internet?|In genere, quanti minuti ti prenderesti per controllare un rimborso su un'app?|
+restaurants-service-126|A chi chiederesti consiglio per segnalare un errore sul conto al ristorante?|Chi chiameresti per sapere se un piatto contiene noci?|
+restaurants-service-127|Chi contatteresti per primo per chiedere un piatto senza un allergene specifico?|A chi chiederesti un parere per ottenere una fattura per un pranzo di lavoro?|
+restaurants-service-128|A chi ti rivolgeresti per ottenere un rimborso dopo una consegna incompleta?|Con chi parleresti prima di tutto per far riparare un apparecchio ancora in garanzia?|
+restaurants-service-129|A chi chiederesti consiglio per trovare un buon posto per una cena in famiglia?|Chi chiameresti per organizzare un tavolo per dodici persone?|
+restaurants-service-130|Chi contatteresti per primo per conoscere la composizione esatta di un dolce?|A chi chiederesti un parere per segnalare un servizio particolarmente premuroso?|
+restaurants-service-131|A chi ti rivolgeresti per risolvere un problema con una prenotazione online?|Con chi parleresti prima di tutto per ritrovare un oggetto dimenticato in un bar?|
+restaurants-service-132|A chi chiederesti consiglio per chiedere la sostituzione di un prodotto danneggiato?|Chi chiameresti per chiedere una modifica all'ordine prima della spedizione?|
+restaurants-service-133|Chi contatteresti per primo per capire un supplemento aggiunto senza spiegazioni?|A chi chiederesti un parere per scegliere un menù vegetariano per un ospite?|
+restaurants-service-134|A chi ti rivolgeresti per scegliere un ristorante accessibile in sedia a rotelle?|Con chi parleresti prima di tutto per reclamare uno sconto indicato ma non applicato?|
+restaurants-service-135|A chi chiederesti consiglio per sapere se un piatto contiene noci?|Chi chiameresti per segnalare che un piatto è freddo?|
+restaurants-service-136|Chi contatteresti per primo per ottenere una fattura per un pranzo di lavoro?|A chi chiederesti un parere per prenotare una torta di compleanno al ristorante?|
+restaurants-service-137|A chi ti rivolgeresti per far riparare un apparecchio ancora in garanzia?|Con chi parleresti prima di tutto per segnalare un errore sul conto al ristorante?|
+restaurants-service-138|A chi chiederesti consiglio per organizzare un tavolo per dodici persone?|Chi chiameresti per chiedere un piatto senza un allergene specifico?|
+restaurants-service-139|Chi contatteresti per primo per segnalare un servizio particolarmente premuroso?|A chi chiederesti un parere per ottenere un rimborso dopo una consegna incompleta?|
+restaurants-service-140|A chi ti rivolgeresti per ritrovare un oggetto dimenticato in un bar?|Con chi parleresti prima di tutto per trovare un buon posto per una cena in famiglia?|
+restaurants-service-141|A chi chiederesti consiglio per chiedere una modifica all'ordine prima della spedizione?|Chi chiameresti per conoscere la composizione esatta di un dolce?|
+restaurants-service-142|Chi contatteresti per primo per scegliere un menù vegetariano per un ospite?|A chi chiederesti un parere per risolvere un problema con una prenotazione online?|
+restaurants-service-143|A chi ti rivolgeresti per reclamare uno sconto indicato ma non applicato?|Con chi parleresti prima di tutto per chiedere la sostituzione di un prodotto danneggiato?|
+restaurants-service-144|A chi chiederesti consiglio per segnalare che un piatto è freddo?|Chi chiameresti per capire un supplemento aggiunto senza spiegazioni?|
+restaurants-service-145|Chi contatteresti per primo per prenotare una torta di compleanno al ristorante?|A chi chiederesti un parere per scegliere un ristorante accessibile in sedia a rotelle?|
+restaurants-service-146|Chi contatteresti per primo per segnalare un errore sul conto al ristorante?|A chi chiederesti un parere per sapere se un piatto contiene noci?|
+restaurants-service-147|A chi ti rivolgeresti per chiedere un piatto senza un allergene specifico?|Con chi parleresti prima di tutto per ottenere una fattura per un pranzo di lavoro?|
+restaurants-service-148|A chi chiederesti consiglio per ottenere un rimborso dopo una consegna incompleta?|Chi chiameresti per far riparare un apparecchio ancora in garanzia?|
+restaurants-service-149|Chi contatteresti per primo per trovare un buon posto per una cena in famiglia?|A chi chiederesti un parere per organizzare un tavolo per dodici persone?|
+restaurants-service-150|A chi ti rivolgeresti per conoscere la composizione esatta di un dolce?|Con chi parleresti prima di tutto per segnalare un servizio particolarmente premuroso?|
+restaurants-service-151|Dove andresti per fare un pranzo veloce prima di una riunione?|In che posto vorresti trovare un ristorante aperto dopo le undici di sera?|
+restaurants-service-152|In quale posto preferiresti mangiare pasta fresca un sabato sera?|In che posto decideresti di fare un pasto in famiglia con il passeggino?|
+restaurants-service-153|In che posto ti piacerebbe invitare degli amici in un ristorante tranquillo?|Dove sceglieresti di mangiare all'aperto senza prenotazione una sera d'estate?|
+restaurants-service-154|Dove andresti per pranzare vegetariano vicino a una stazione?|In che posto vorresti vedere un amico davanti a una cioccolata calda?|
+restaurants-service-155|In quale posto preferiresti prendere un buon caffè da asporto la mattina?|In che posto decideresti di fare un pasto adatto a un'allergia alimentare?|
+restaurants-service-156|In che posto ti piacerebbe gustare un dolce artigianale nel tardo pomeriggio?|Dove sceglieresti di festeggiare una promozione con una cena?|
+restaurants-service-157|Dove andresti per ordinare un vassoio di sushi da condividere?|In che posto vorresti trovare un panificio dove si può pranzare sul posto?|
+restaurants-service-158|In quale posto preferiresti fare un brunch in due la domenica?|In che posto decideresti di ordinare un piatto caldo prima di prendere il treno?|
+restaurants-service-159|In che posto ti piacerebbe mangiare il pesce del giorno in una zona turistica?|Dove sceglieresti di bere un tè in un ambiente tranquillo?|
+restaurants-service-160|Dove andresti per trovare un ristorante aperto dopo le undici di sera?|In che posto vorresti cenare con una persona che non mangia carne?|
+restaurants-service-161|In quale posto preferiresti fare un pasto in famiglia con il passeggino?|In che posto decideresti di mangiare vicino a un cinema prima di uno spettacolo?|
+restaurants-service-162|In che posto ti piacerebbe mangiare all'aperto senza prenotazione una sera d'estate?|Dove sceglieresti di fare un pranzo veloce prima di una riunione?|
+restaurants-service-163|Dove andresti per vedere un amico davanti a una cioccolata calda?|In che posto vorresti mangiare pasta fresca un sabato sera?|
+restaurants-service-164|In quale posto preferiresti fare un pasto adatto a un'allergia alimentare?|In che posto decideresti di invitare degli amici in un ristorante tranquillo?|
+restaurants-service-165|In che posto ti piacerebbe festeggiare una promozione con una cena?|Dove sceglieresti di pranzare vegetariano vicino a una stazione?|
+restaurants-service-166|Dove andresti per trovare un panificio dove si può pranzare sul posto?|In che posto vorresti prendere un buon caffè da asporto la mattina?|
+restaurants-service-167|In quale posto preferiresti ordinare un piatto caldo prima di prendere il treno?|In che posto decideresti di gustare un dolce artigianale nel tardo pomeriggio?|
+restaurants-service-168|In che posto ti piacerebbe bere un tè in un ambiente tranquillo?|Dove sceglieresti di ordinare un vassoio di sushi da condividere?|
+restaurants-service-169|Dove andresti per cenare con una persona che non mangia carne?|In che posto vorresti fare un brunch in due la domenica?|
+restaurants-service-170|In quale posto preferiresti mangiare vicino a un cinema prima di uno spettacolo?|In che posto decideresti di mangiare il pesce del giorno in una zona turistica?|
+restaurants-service-171|In quale posto preferiresti fare un pranzo veloce prima di una riunione?|In che posto decideresti di trovare un ristorante aperto dopo le undici di sera?|
+restaurants-service-172|In che posto ti piacerebbe mangiare pasta fresca un sabato sera?|Dove sceglieresti di fare un pasto in famiglia con il passeggino?|
+restaurants-service-173|Dove andresti per invitare degli amici in un ristorante tranquillo?|In che posto vorresti mangiare all'aperto senza prenotazione una sera d'estate?|
+restaurants-service-174|In quale posto preferiresti pranzare vegetariano vicino a una stazione?|In che posto decideresti di vedere un amico davanti a una cioccolata calda?|
+restaurants-service-175|In che posto ti piacerebbe prendere un buon caffè da asporto la mattina?|Dove sceglieresti di fare un pasto adatto a un'allergia alimentare?|
+restaurants-service-176|Che piatto ordineresti se andassi in una trattoria la domenica a pranzo?|Dal menù, che piatto sceglieresti se entrassi in un ristorante messicano?|brasserie → trattoria
+restaurants-service-177|Cosa sceglieresti come piatto se pranzassi in un ristorante di cucina italiana tradizionale?|Cosa mangeresti se andassi in una pizzeria con forno a legna?|
+restaurants-service-178|Che piatto ti andrebbe se mangiassi in un ristorante di pesce?|Che piatto preferiresti se mangiassi in un ristorante thailandese?|
+restaurants-service-179|Che piatto ordineresti se cenassi in un ristorante giapponese?|Dal menù, che piatto sceglieresti se ordinassi in un ristorante vietnamita?|
+restaurants-service-180|Cosa sceglieresti come piatto se scoprissi un ristorante vegetariano?|Cosa mangeresti se pranzassi in un ristorante greco?|
+restaurants-service-181|Che piatto ti andrebbe se pranzassi in riva al mare?|Che piatto preferiresti se andassi in un rifugio di montagna?|
+restaurants-service-182|Che piatto ordineresti se scegliessi alla mensa aziendale?|Dal menù, che piatto sceglieresti se passassi da una paninoteca artigianale?|
+restaurants-service-183|Cosa sceglieresti come piatto se andassi in un ristorante libanese?|Cosa mangeresti se scegliessi un piatto in un ristorante coreano?|
+restaurants-service-184|Che piatto ti andrebbe se mangiassi in una piadineria romagnola?|Che piatto preferiresti se entrassi in un ristorante indiano?|crêperie bretonne → piadineria romagnola
+restaurants-service-185|Che piatto ordineresti se entrassi in un ristorante messicano?|Dal menù, che piatto sceglieresti se andassi in un localino di quartiere?|
+restaurants-service-186|Cosa sceglieresti come piatto se andassi in una pizzeria con forno a legna?|Cosa mangeresti se cenassi in un ristorante mediterraneo?|
+restaurants-service-187|Che piatto ti andrebbe se mangiassi in un ristorante thailandese?|Che piatto preferiresti se andassi in una trattoria la domenica a pranzo?|brasserie → trattoria
+restaurants-service-188|Che piatto ordineresti se fossi in un ristorante vietnamita?|Dal menù, che piatto sceglieresti se pranzassi in un ristorante di cucina italiana tradizionale?|
+restaurants-service-189|Cosa sceglieresti come piatto se pranzassi in un ristorante greco?|Cosa mangeresti se mangiassi in un ristorante di pesce?|
+restaurants-service-190|Che piatto ti andrebbe se andassi in un rifugio di montagna?|Che piatto preferiresti se cenassi in un ristorante giapponese?|
+restaurants-service-191|Che piatto ordineresti se passassi da una paninoteca artigianale?|Dal menù, che piatto sceglieresti se scoprissi un ristorante vegetariano?|
+restaurants-service-192|Cosa sceglieresti come piatto se fossi in un ristorante coreano?|Cosa mangeresti se pranzassi in riva al mare?|
+restaurants-service-193|Che piatto ti andrebbe se entrassi in un ristorante indiano?|Che piatto preferiresti se scegliessi alla mensa aziendale?|
+restaurants-service-194|Che piatto ordineresti se andassi in un localino di quartiere?|Dal menù, che piatto sceglieresti se andassi in un ristorante libanese?|
+restaurants-service-195|Cosa sceglieresti come piatto se cenassi in un ristorante mediterraneo?|Cosa mangeresti se mangiassi in una piadineria romagnola?|crêperie bretonne → piadineria romagnola
+restaurants-service-196|Cosa sceglieresti come piatto se andassi in una trattoria la domenica a pranzo?|Cosa mangeresti se entrassi in un ristorante messicano?|brasserie → trattoria
+restaurants-service-197|Che piatto ti andrebbe se pranzassi in un ristorante di cucina italiana tradizionale?|Che piatto preferiresti se andassi in una pizzeria con forno a legna?|
+restaurants-service-198|Che piatto ordineresti se mangiassi in un ristorante di pesce?|Dal menù, che piatto sceglieresti se mangiassi in un ristorante thailandese?|
+restaurants-service-199|Cosa sceglieresti come piatto se cenassi in un ristorante giapponese?|Cosa mangeresti se ordinassi in un ristorante vietnamita?|
+restaurants-service-200|Che piatto ti andrebbe se scoprissi un ristorante vegetariano?|Che piatto preferiresti se pranzassi in un ristorante greco?|
