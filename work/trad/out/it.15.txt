@@ -1,0 +1,600 @@
+vie-adulte-admin-001|Quanto pagheresti al massimo per un anno di assicurazione casa per un monolocale di 25 m²?|Che prezzo ti sembrerebbe ragionevole per il tagliando annuale di una piccola citycar?|
+vie-adulte-admin-002|Quanto saresti disposto a spendere per un aiuto per il trasloco di un monolocale nell'hinterland milanese?|In euro, quale sarebbe il tuo tetto massimo per un attestato di prestazione energetica (APE) prima di affittare?|région parisienne → hinterland milanese; diagnostic énergétique (DPE) → APE
+vie-adulte-admin-003|Che budget metteresti in conto per un idraulico d'urgenza di sabato sera?|Oltre quale prezzo diresti che la riparazione di un frigorifero fuori garanzia costa troppo?|
+vie-adulte-admin-004|Quanto pagheresti al massimo per la manutenzione annuale di una caldaia autonoma?|Che prezzo ti sembrerebbe ragionevole per il noleggio di un furgone da 12 m³ per una giornata?|
+vie-adulte-admin-005|Quanto saresti disposto a spendere per una consulenza dal commercialista per una dichiarazione dei redditi semplice?|In euro, quale sarebbe il tuo tetto massimo per un aiuto per montare dei mobili per due ore?|
+vie-adulte-admin-006|Che budget metteresti in conto per un servizio di pulizia completa di un appartamento di 50 m²?|Oltre quale prezzo diresti che la stampa di cinquanta documenti amministrativi costa troppo?|
+vie-adulte-admin-007|Quanto pagheresti al massimo per l'affitto di un deposito mobili di 5 m² per un mese?|Che prezzo ti sembrerebbe ragionevole per un'assicurazione di responsabilità civile per uno studente per un anno?|
+vie-adulte-admin-008|Quanto saresti disposto a spendere per un fabbro che viene di giorno per una porta chiusa con le chiavi dentro?|In euro, quale sarebbe il tuo tetto massimo per una manutenzione completa del condizionatore di casa?|
+vie-adulte-admin-009|Che budget metteresti in conto per un mese di abbonamento Internet casa in fibra?|Oltre quale prezzo diresti che un servizio di inoltro della posta per sei mesi costa troppo?|
+vie-adulte-admin-010|Quanto pagheresti al massimo per il tagliando annuale di una piccola citycar?|Che prezzo ti sembrerebbe ragionevole per un intervento dell'elettricista per cambiare una presa?|
+vie-adulte-admin-011|Quanto saresti disposto a spendere per un attestato di prestazione energetica (APE) prima di affittare?|In euro, quale sarebbe il tuo tetto massimo per un box di deposito sicuro per un mese?|diagnostic énergétique (DPE) → APE
+vie-adulte-admin-012|Che budget metteresti in conto per la riparazione di un frigorifero fuori garanzia?|Oltre quale prezzo diresti che un anno di assicurazione casa per un monolocale di 25 m² costa troppo?|
+vie-adulte-admin-013|Quanto pagheresti al massimo per il noleggio di un furgone da 12 m³ per una giornata?|Che prezzo ti sembrerebbe ragionevole per un aiuto per il trasloco di un monolocale nell'hinterland milanese?|région parisienne → hinterland milanese
+vie-adulte-admin-014|Quanto saresti disposto a spendere per un aiuto per montare dei mobili per due ore?|In euro, quale sarebbe il tuo tetto massimo per un idraulico d'urgenza di sabato sera?|
+vie-adulte-admin-015|Che budget metteresti in conto per la stampa di cinquanta documenti amministrativi?|Oltre quale prezzo diresti che la manutenzione annuale di una caldaia autonoma costa troppo?|
+vie-adulte-admin-016|Quanto pagheresti al massimo per un'assicurazione di responsabilità civile per uno studente per un anno?|Che prezzo ti sembrerebbe ragionevole per una consulenza dal commercialista per una dichiarazione dei redditi semplice?|
+vie-adulte-admin-017|Quanto saresti disposto a spendere per una manutenzione completa del condizionatore di casa?|In euro, quale sarebbe il tuo tetto massimo per un servizio di pulizia completa di un appartamento di 50 m²?|
+vie-adulte-admin-018|Che budget metteresti in conto per un servizio di inoltro della posta per sei mesi?|Oltre quale prezzo diresti che l'affitto di un deposito mobili di 5 m² per un mese costa troppo?|
+vie-adulte-admin-019|Quanto pagheresti al massimo per un intervento dell'elettricista per cambiare una presa?|Che prezzo ti sembrerebbe ragionevole per un fabbro che viene di giorno per una porta chiusa con le chiavi dentro?|
+vie-adulte-admin-020|Quanto saresti disposto a spendere per un box di deposito sicuro per un mese?|In euro, quale sarebbe il tuo tetto massimo per un mese di abbonamento Internet casa in fibra?|
+vie-adulte-admin-021|Quanto saresti disposto a spendere per un anno di assicurazione casa per un monolocale di 25 m²?|In euro, quale sarebbe il tuo tetto massimo per il tagliando annuale di una piccola citycar?|
+vie-adulte-admin-022|Che budget metteresti in conto per un aiuto per il trasloco di un monolocale nell'hinterland milanese?|Oltre quale prezzo diresti che un attestato di prestazione energetica (APE) prima di affittare costa troppo?|région parisienne → hinterland milanese; diagnostic énergétique (DPE) → APE
+vie-adulte-admin-023|Quanto pagheresti al massimo per un idraulico d'urgenza di sabato sera?|Che prezzo ti sembrerebbe ragionevole per la riparazione di un frigorifero fuori garanzia?|
+vie-adulte-admin-024|Quanto saresti disposto a spendere per la manutenzione annuale di una caldaia autonoma?|In euro, quale sarebbe il tuo tetto massimo per il noleggio di un furgone da 12 m³ per una giornata?|
+vie-adulte-admin-025|Che budget metteresti in conto per una consulenza dal commercialista per una dichiarazione dei redditi semplice?|Oltre quale prezzo diresti che un aiuto per montare dei mobili per due ore costa troppo?|
+vie-adulte-admin-026|Cosa risponderesti se il tuo padrone di casa ti annunciasse un aumento delle spese senza dettagli?|Come risponderesti se il tuo operatore ti proponesse un'offerta più cara del previsto?|
+vie-adulte-admin-027|Quale sarebbe la tua prima frase se la tua assicurazione ti chiedesse un documento già inviato due volte?|Cosa diresti se il proprietario volesse visitare il tuo appartamento senza fissare un appuntamento?|
+vie-adulte-admin-028|Che diresti se il servizio clienti ti dicesse che manca una firma sulla tua pratica?|Che parole useresti se un consulente ti dicesse che la tua pratica è «in attesa» da un mese?|
+vie-adulte-admin-029|Cosa risponderesti se un artigiano disdicesse l'appuntamento due ore prima?|Come risponderesti se una persona cara ti rimproverasse di rimandare troppo le tue pratiche?|
+vie-adulte-admin-030|Quale sarebbe la tua prima frase se la tua agenzia immobiliare si rifiutasse di specificare le spese di pratica?|Cosa diresti se un impiegato ti dicesse che devi prendere un altro appuntamento per un documento mancante?|
+vie-adulte-admin-031|Che diresti se il tuo consulente bancario ti chiamasse per un addebito insolito?|Che parole useresti se la tua assicurazione rifiutasse un rimborso senza una spiegazione chiara?|
+vie-adulte-admin-032|Cosa risponderesti se un vicino ti chiedesse se hai pagato le spese condominiali?|Come risponderesti se un artigiano ti proponesse dei lavori extra non previsti?|
+vie-adulte-admin-033|Quale sarebbe la tua prima frase se un commesso ti dicesse che la garanzia è appena scaduta?|Cosa diresti se la ditta di traslochi annunciasse un aumento del prezzo il giorno stesso?|
+vie-adulte-admin-034|Che diresti se un impiegato allo sportello ti chiedesse di rifare una fotocopia che è perfettamente leggibile?|Che parole useresti se un consulente ti chiedesse di aspettare un'altra settimana?|
+vie-adulte-admin-035|Cosa risponderesti se il tuo operatore ti proponesse un'offerta più cara del previsto?|Come risponderesti se un corriere si rifiutasse di portarti su un pacco pesante?|
+vie-adulte-admin-036|Quale sarebbe la tua prima frase se il proprietario volesse visitare il tuo appartamento senza fissare un appuntamento?|Cosa diresti se il tuo operatore ti addebitasse un servizio mai richiesto?|
+vie-adulte-admin-037|Che diresti se un consulente ti dicesse che la tua pratica è «in attesa» da un mese?|Che parole useresti se il tuo padrone di casa ti annunciasse un aumento delle spese senza dettagli?|
+vie-adulte-admin-038|Cosa risponderesti se una persona cara ti rimproverasse di rimandare troppo le tue pratiche?|Come risponderesti se la tua assicurazione ti chiedesse un documento già inviato due volte?|
+vie-adulte-admin-039|Quale sarebbe la tua prima frase se un impiegato ti dicesse che devi prendere un altro appuntamento per un documento mancante?|Cosa diresti se il servizio clienti ti dicesse che manca una firma sulla tua pratica?|
+vie-adulte-admin-040|Che diresti se la tua assicurazione rifiutasse un rimborso senza una spiegazione chiara?|Che parole useresti se un artigiano disdicesse l'appuntamento due ore prima?|
+vie-adulte-admin-041|Cosa risponderesti se un artigiano ti proponesse dei lavori extra non previsti?|Come risponderesti se la tua agenzia immobiliare si rifiutasse di specificare le spese di pratica?|
+vie-adulte-admin-042|Quale sarebbe la tua prima frase se la ditta di traslochi annunciasse un aumento del prezzo il giorno stesso?|Cosa diresti se il tuo consulente bancario ti chiamasse per un addebito insolito?|
+vie-adulte-admin-043|Che diresti se un consulente ti chiedesse di aspettare un'altra settimana?|Che parole useresti se un vicino ti chiedesse se hai pagato le spese condominiali?|
+vie-adulte-admin-044|Cosa risponderesti se un corriere si rifiutasse di portarti su un pacco pesante?|Come risponderesti se un commesso ti dicesse che la garanzia è appena scaduta?|
+vie-adulte-admin-045|Quale sarebbe la tua prima frase se il tuo operatore ti addebitasse un servizio mai richiesto?|Cosa diresti se un impiegato allo sportello ti chiedesse di rifare una fotocopia che è perfettamente leggibile?|
+vie-adulte-admin-046|Quale sarebbe la tua prima frase se il tuo padrone di casa ti annunciasse un aumento delle spese senza dettagli?|Cosa diresti se il tuo operatore ti proponesse un'offerta più cara del previsto?|
+vie-adulte-admin-047|Che diresti se la tua assicurazione ti chiedesse un documento già inviato due volte?|Che parole useresti se il proprietario volesse visitare il tuo appartamento senza fissare un appuntamento?|
+vie-adulte-admin-048|Cosa risponderesti se il servizio clienti ti dicesse che manca una firma sulla tua pratica?|Come risponderesti se un consulente ti dicesse che la tua pratica è «in attesa» da un mese?|
+vie-adulte-admin-049|Quale sarebbe la tua prima frase se un artigiano disdicesse l'appuntamento due ore prima?|Cosa diresti se una persona cara ti rimproverasse di rimandare troppo le tue pratiche?|
+vie-adulte-admin-050|Che diresti se la tua agenzia immobiliare si rifiutasse di specificare le spese di pratica?|Che parole useresti se un impiegato ti dicesse che devi prendere un altro appuntamento per un documento mancante?|
+vie-adulte-admin-051|Cosa faresti per prima cosa se perdessi il bancomat il giorno prima di partire?|Cosa decideresti di fare prima di tutto se la lavatrice si rompesse di domenica sera?|
+vie-adulte-admin-052|Quale sarebbe la tua prima reazione se una bolletta della luce fosse il doppio del solito?|Come ti muoveresti per prima cosa se ti arrivasse una raccomandata mentre sei in vacanza?|
+vie-adulte-admin-053|Da cosa cominceresti se il tuo padrone di casa non rispondesse per un problema al riscaldamento?|Quale sarebbe la tua prima mossa se l'agenzia rimandasse la consegna delle chiavi del nuovo appartamento?|
+vie-adulte-admin-054|Cosa faresti per prima cosa se ricevessi un sollecito per una fattura già pagata?|Cosa decideresti di fare prima di tutto se il tuo contratto d'assicurazione riportasse un indirizzo sbagliato?|
+vie-adulte-admin-055|Quale sarebbe la tua prima reazione se la tua domanda d'affitto venisse respinta per un documento mancante?|Come ti muoveresti per prima cosa se un pacco con dentro un elettrodomestico arrivasse danneggiato?|
+vie-adulte-admin-056|Da cosa cominceresti se scoprissi una perdita d'acqua nel tuo appartamento?|Quale sarebbe la tua prima mossa se il tuo contratto d'affitto riportasse una data di uscita sbagliata?|
+vie-adulte-admin-057|Cosa faresti per prima cosa se notassi un addebito sconosciuto sul tuo conto?|Cosa decideresti di fare prima di tutto se il tuo cambio di indirizzo non fosse stato registrato?|
+vie-adulte-admin-058|Quale sarebbe la tua prima reazione se scoprissi che la tua carta d'identità scade prima di un viaggio?|Come ti muoveresti per prima cosa se il riscaldamento si guastasse all'inizio dell'inverno?|
+vie-adulte-admin-059|Da cosa cominceresti se la connessione Internet saltasse in pieno smart working?|Quale sarebbe la tua prima mossa se perdessi i documenti necessari per una dichiarazione?|
+vie-adulte-admin-060|Cosa faresti per prima cosa se la lavatrice si rompesse di domenica sera?|Cosa decideresti di fare prima di tutto se la tua macchina non partisse prima di un appuntamento importante?|
+vie-adulte-admin-061|Quale sarebbe la tua prima reazione se ti arrivasse una raccomandata mentre sei in vacanza?|Come ti muoveresti per prima cosa se un rimborso atteso da tre settimane non fosse ancora arrivato?|
+vie-adulte-admin-062|Da cosa cominceresti se l'agenzia rimandasse la consegna delle chiavi del nuovo appartamento?|Quale sarebbe la tua prima mossa se perdessi il bancomat il giorno prima di partire?|
+vie-adulte-admin-063|Cosa faresti per prima cosa se il tuo contratto d'assicurazione riportasse un indirizzo sbagliato?|Cosa decideresti di fare prima di tutto se una bolletta della luce fosse il doppio del solito?|
+vie-adulte-admin-064|Quale sarebbe la tua prima reazione se un pacco con dentro un elettrodomestico arrivasse danneggiato?|Come ti muoveresti per prima cosa se il tuo padrone di casa non rispondesse per un problema al riscaldamento?|
+vie-adulte-admin-065|Da cosa cominceresti se il tuo contratto d'affitto riportasse una data di uscita sbagliata?|Quale sarebbe la tua prima mossa se ricevessi un sollecito per una fattura già pagata?|
+vie-adulte-admin-066|Cosa faresti per prima cosa se il tuo cambio di indirizzo non fosse stato registrato?|Cosa decideresti di fare prima di tutto se la tua domanda d'affitto venisse respinta per un documento mancante?|
+vie-adulte-admin-067|Quale sarebbe la tua prima reazione se il riscaldamento si guastasse all'inizio dell'inverno?|Come ti muoveresti per prima cosa se scoprissi una perdita d'acqua nel tuo appartamento?|
+vie-adulte-admin-068|Da cosa cominceresti se perdessi i documenti necessari per una dichiarazione?|Quale sarebbe la tua prima mossa se notassi un addebito sconosciuto sul tuo conto?|
+vie-adulte-admin-069|Cosa faresti per prima cosa se la tua macchina non partisse prima di un appuntamento importante?|Cosa decideresti di fare prima di tutto se scoprissi che la tua carta d'identità scade prima di un viaggio?|
+vie-adulte-admin-070|Quale sarebbe la tua prima reazione se un rimborso atteso da tre settimane non fosse ancora arrivato?|Come ti muoveresti per prima cosa se la connessione Internet saltasse in pieno smart working?|
+vie-adulte-admin-071|Quale sarebbe la tua prima reazione se perdessi il bancomat il giorno prima di partire?|Come ti muoveresti per prima cosa se la lavatrice si rompesse di domenica sera?|
+vie-adulte-admin-072|Da cosa cominceresti se una bolletta della luce fosse il doppio del solito?|Quale sarebbe la tua prima mossa se ti arrivasse una raccomandata mentre sei in vacanza?|
+vie-adulte-admin-073|Cosa faresti per prima cosa se il tuo padrone di casa non rispondesse per un problema al riscaldamento?|Cosa decideresti di fare prima di tutto se l'agenzia rimandasse la consegna delle chiavi del nuovo appartamento?|
+vie-adulte-admin-074|Quale sarebbe la tua prima reazione se ricevessi un sollecito per una fattura già pagata?|Come ti muoveresti per prima cosa se il tuo contratto d'assicurazione riportasse un indirizzo sbagliato?|
+vie-adulte-admin-075|Da cosa cominceresti se la tua domanda d'affitto venisse respinta per un documento mancante?|Quale sarebbe la tua prima mossa se un pacco con dentro un elettrodomestico arrivasse danneggiato?|
+vie-adulte-admin-076|Sceglieresti piuttosto affittare un appartamento arredato o affittare un appartamento vuoto?|Se avessi una sola possibilità, quale prenderesti: chiamare una ditta di traslochi o traslocare con l'aiuto di amici e parenti?|
+vie-adulte-admin-077|Tra fare un'assicurazione completa e scegliere una copertura minima su misura, cosa preferiresti?|Quale delle due ti attira di più: comprare una lavatrice o andare in lavanderia a gettoni per un po'?|
+vie-adulte-admin-078|Se dovessi decidere, sarebbe comprare un mobile in negozio o farselo consegnare a casa?|Opteresti per vivere da solo in un monolocale o per condividere un appartamento più grande?|
+vie-adulte-admin-079|Sceglieresti piuttosto fare le pratiche online o prendere un appuntamento di persona?|Se avessi una sola possibilità, quale prenderesti: pagare le bollette con addebito automatico o pagarle a mano alla scadenza?|
+vie-adulte-admin-080|Tra vivere vicino al lavoro e spendere meno in periferia, cosa preferiresti?|Quale delle due ti attira di più: scegliere una banca online o scegliere una banca con filiale?|
+vie-adulte-admin-081|Se dovessi decidere, sarebbe mettere da parte un po' ogni settimana o risparmiare una volta al mese?|Opteresti per comprare un computer nuovo o per comprare un computer ricondizionato?|
+vie-adulte-admin-082|Sceglieresti piuttosto comprare un'auto usata o usare i mezzi pubblici?|Se avessi una sola possibilità, quale prenderesti: riparare un piccolo elettrodomestico o sostituirlo se è fuori garanzia?|
+vie-adulte-admin-083|Tra pagare un abbonamento annuale e pagare mese per mese senza vincoli, cosa preferiresti?|Quale delle due ti attira di più: tenere i documenti in un raccoglitore o scansionarli e archiviarli?|
+vie-adulte-admin-084|Se dovessi decidere, sarebbe gestire il budget con un'app o usare un semplice foglio di calcolo?|Opteresti per vivere senza auto o per noleggiarne una quando serve?|
+vie-adulte-admin-085|Sceglieresti piuttosto chiamare una ditta di traslochi o traslocare con l'aiuto di amici e parenti?|Se avessi una sola possibilità, quale prenderesti: fare le pulizie da solo o pagare un servizio ogni tanto?|
+vie-adulte-admin-086|Tra comprare una lavatrice e andare in lavanderia a gettoni per un po', cosa preferiresti?|Quale delle due ti attira di più: pianificare i pasti o improvvisare ogni giorno?|
+vie-adulte-admin-087|Se dovessi decidere, sarebbe vivere da solo in un monolocale o condividere un appartamento più grande?|Opteresti per affittare un appartamento arredato o per affittare un appartamento vuoto?|
+vie-adulte-admin-088|Sceglieresti piuttosto pagare le bollette con addebito automatico o pagarle a mano alla scadenza?|Se avessi una sola possibilità, quale prenderesti: fare un'assicurazione completa o scegliere una copertura minima su misura?|
+vie-adulte-admin-089|Tra scegliere una banca online e scegliere una banca con filiale, cosa preferiresti?|Quale delle due ti attira di più: comprare un mobile in negozio o farselo consegnare a casa?|
+vie-adulte-admin-090|Se dovessi decidere, sarebbe comprare un computer nuovo o comprare un computer ricondizionato?|Opteresti per fare le pratiche online o per prendere un appuntamento di persona?|
+vie-adulte-admin-091|Sceglieresti piuttosto riparare un piccolo elettrodomestico o sostituirlo se è fuori garanzia?|Se avessi una sola possibilità, quale prenderesti: vivere vicino al lavoro o spendere meno in periferia?|
+vie-adulte-admin-092|Tra tenere i documenti in un raccoglitore e scansionarli e archiviarli, cosa preferiresti?|Quale delle due ti attira di più: mettere da parte un po' ogni settimana o risparmiare una volta al mese?|
+vie-adulte-admin-093|Se dovessi decidere, sarebbe vivere senza auto o noleggiarne una quando serve?|Opteresti per comprare un'auto usata o per usare i mezzi pubblici?|
+vie-adulte-admin-094|Sceglieresti piuttosto fare le pulizie da solo o pagare un servizio ogni tanto?|Se avessi una sola possibilità, quale prenderesti: pagare un abbonamento annuale o pagare mese per mese senza vincoli?|
+vie-adulte-admin-095|Tra pianificare i pasti e improvvisare ogni giorno, cosa preferiresti?|Quale delle due ti attira di più: gestire il budget con un'app o usare un semplice foglio di calcolo?|
+vie-adulte-admin-096|Tra affittare un appartamento arredato e affittare un appartamento vuoto, cosa preferiresti?|Quale delle due ti attira di più: chiamare una ditta di traslochi o traslocare con l'aiuto di amici e parenti?|
+vie-adulte-admin-097|Se dovessi decidere, sarebbe fare un'assicurazione completa o scegliere una copertura minima su misura?|Opteresti per comprare una lavatrice o per andare in lavanderia a gettoni per un po'?|
+vie-adulte-admin-098|Sceglieresti piuttosto comprare un mobile in negozio o farselo consegnare a casa?|Se avessi una sola possibilità, quale prenderesti: vivere da solo in un monolocale o condividere un appartamento più grande?|
+vie-adulte-admin-099|Tra fare le pratiche online e prendere un appuntamento di persona, cosa preferiresti?|Quale delle due ti attira di più: pagare le bollette con addebito automatico o pagarle a mano alla scadenza?|
+vie-adulte-admin-100|Se dovessi decidere, sarebbe vivere vicino al lavoro o spendere meno in periferia?|Opteresti per scegliere una banca online o per scegliere una banca con filiale?|
+vie-adulte-admin-101|Quanti minuti ti servirebbero per compilare online una richiesta di cambio di indirizzo?|Quanto tempo, in minuti, metteresti in conto per smistare la posta accumulata?|
+vie-adulte-admin-102|Quanti minuti passeresti ad archiviare le fatture di un mese?|Quanti minuti ci metteresti ad aggiornare i tuoi dati bancari presso un ente?|
+vie-adulte-admin-103|Quanti minuti dedicheresti a leggere un preventivo di lavori di due pagine?|In genere, quanti minuti ti prenderesti per segnalare un problema di consegna al servizio clienti?|
+vie-adulte-admin-104|Quanti minuti ti servirebbero per controllare una bolletta del telefono dettagliata?|Quanto tempo, in minuti, metteresti in conto per preparare uno scatolone di libri per un trasloco?|
+vie-adulte-admin-105|Quanti minuti passeresti a preparare una semplice domanda d'affitto?|Quanti minuti ci metteresti a cercare un artigiano disponibile vicino a casa?|
+vie-adulte-admin-106|Quanti minuti dedicheresti a confrontare tre offerte di assicurazione casa?|In genere, quanti minuti ti prenderesti per confrontare i consumi di due elettrodomestici?|
+vie-adulte-admin-107|Quanti minuti ti servirebbero per organizzare un budget per il mese prossimo?|Quanto tempo, in minuti, metteresti in conto per fare una lista dei mobili prima di un trasloco?|
+vie-adulte-admin-108|Quanti minuti passeresti a scrivere una mail al padrone di casa?|Quanti minuti ci metteresti a prendere appuntamento per rinnovare un documento?|
+vie-adulte-admin-109|Quanti minuti dedicheresti a preparare i documenti prima di un appuntamento in un ufficio pubblico?|In genere, quanti minuti ti prenderesti per compilare un semplice modulo di rimborso?|
+vie-adulte-admin-110|Quanti minuti ti servirebbero per smistare la posta accumulata?|Quanto tempo, in minuti, metteresti in conto per controllare le date di scadenza dei tuoi abbonamenti?|
+vie-adulte-admin-111|Quanti minuti passeresti ad aggiornare i tuoi dati bancari presso un ente?|Quanti minuti ci metteresti a ripulire la casella mail dalle fatture già gestite?|
+vie-adulte-admin-112|Quanti minuti dedicheresti a segnalare un problema di consegna al servizio clienti?|In genere, quanti minuti ti prenderesti per compilare online una richiesta di cambio di indirizzo?|
+vie-adulte-admin-113|Quanti minuti ti servirebbero per preparare uno scatolone di libri per un trasloco?|Quanto tempo, in minuti, metteresti in conto per archiviare le fatture di un mese?|
+vie-adulte-admin-114|Quanti minuti passeresti a cercare un artigiano disponibile vicino a casa?|Quanti minuti ci metteresti a leggere un preventivo di lavori di due pagine?|
+vie-adulte-admin-115|Quanti minuti dedicheresti a confrontare i consumi di due elettrodomestici?|In genere, quanti minuti ti prenderesti per controllare una bolletta del telefono dettagliata?|
+vie-adulte-admin-116|Quanti minuti ti servirebbero per fare una lista dei mobili prima di un trasloco?|Quanto tempo, in minuti, metteresti in conto per preparare una semplice domanda d'affitto?|
+vie-adulte-admin-117|Quanti minuti passeresti a prendere appuntamento per rinnovare un documento?|Quanti minuti ci metteresti a confrontare tre offerte di assicurazione casa?|
+vie-adulte-admin-118|Quanti minuti dedicheresti a compilare un semplice modulo di rimborso?|In genere, quanti minuti ti prenderesti per organizzare un budget per il mese prossimo?|
+vie-adulte-admin-119|Quanti minuti ti servirebbero per controllare le date di scadenza dei tuoi abbonamenti?|Quanto tempo, in minuti, metteresti in conto per scrivere una mail al padrone di casa?|
+vie-adulte-admin-120|Quanti minuti passeresti a ripulire la casella mail dalle fatture già gestite?|Quanti minuti ci metteresti a preparare i documenti prima di un appuntamento in un ufficio pubblico?|
+vie-adulte-admin-121|Quanti minuti passeresti a compilare online una richiesta di cambio di indirizzo?|Quanti minuti ci metteresti a smistare la posta accumulata?|
+vie-adulte-admin-122|Quanti minuti dedicheresti ad archiviare le fatture di un mese?|In genere, quanti minuti ti prenderesti per aggiornare i tuoi dati bancari presso un ente?|
+vie-adulte-admin-123|Quanti minuti ti servirebbero per leggere un preventivo di lavori di due pagine?|Quanto tempo, in minuti, metteresti in conto per segnalare un problema di consegna al servizio clienti?|
+vie-adulte-admin-124|Quanti minuti passeresti a controllare una bolletta del telefono dettagliata?|Quanti minuti ci metteresti a preparare uno scatolone di libri per un trasloco?|
+vie-adulte-admin-125|Quanti minuti dedicheresti a preparare una semplice domanda d'affitto?|In genere, quanti minuti ti prenderesti per cercare un artigiano disponibile vicino a casa?|
+vie-adulte-admin-126|A chi chiederesti consiglio per capire una bolletta della luce stranamente alta?|Chi chiameresti per trovare un idraulico per una perdita urgente?|
+vie-adulte-admin-127|Chi contatteresti per primo per avere un consiglio su un'assicurazione per la casa?|A chi chiederesti un parere per risolvere un problema con la restituzione della caparra?|
+vie-adulte-admin-128|A chi ti rivolgeresti per segnalare un guasto al riscaldamento in una casa in affitto?|Con chi parleresti prima di tutto per organizzare la consegna delle chiavi di un appartamento?|
+vie-adulte-admin-129|A chi chiederesti consiglio per chiedere un preventivo per un trasloco?|Chi chiameresti per chiedere una prova di pagamento delle spese condominiali?|
+vie-adulte-admin-130|Chi contatteresti per primo per chiarire una clausola di un contratto d'affitto?|A chi chiederesti un parere per capire i costi di un abbonamento telefonico?|
+vie-adulte-admin-131|A chi ti rivolgeresti per contestare un addebito bancario sconosciuto?|Con chi parleresti prima di tutto per far riparare una lavatrice?|
+vie-adulte-admin-132|A chi chiederesti consiglio per controllare un preventivo di lavori prima di accettare?|Chi chiameresti per conoscere gli aiuti possibili per uno studente in affitto?|
+vie-adulte-admin-133|Chi contatteresti per primo per capire le pratiche per il cambio di indirizzo?|A chi chiederesti un parere per controllare le condizioni di disdetta di un'assicurazione?|
+vie-adulte-admin-134|A chi ti rivolgeresti per avere informazioni sulla dichiarazione dei redditi?|Con chi parleresti prima di tutto per trovare un consulente per un credito al consumo?|
+vie-adulte-admin-135|A chi chiederesti consiglio per trovare un idraulico per una perdita urgente?|Chi chiameresti per ottenere il duplicato di una fattura?|
+vie-adulte-admin-136|Chi contatteresti per primo per risolvere un problema con la restituzione della caparra?|A chi chiederesti un parere per segnalare un errore in un contratto di luce e gas?|
+vie-adulte-admin-137|A chi ti rivolgeresti per organizzare la consegna delle chiavi di un appartamento?|Con chi parleresti prima di tutto per capire una bolletta della luce stranamente alta?|
+vie-adulte-admin-138|A chi chiederesti consiglio per chiedere una prova di pagamento delle spese condominiali?|Chi chiameresti per avere un consiglio su un'assicurazione per la casa?|
+vie-adulte-admin-139|Chi contatteresti per primo per capire i costi di un abbonamento telefonico?|A chi chiederesti un parere per segnalare un guasto al riscaldamento in una casa in affitto?|
+vie-adulte-admin-140|A chi ti rivolgeresti per far riparare una lavatrice?|Con chi parleresti prima di tutto per chiedere un preventivo per un trasloco?|
+vie-adulte-admin-141|A chi chiederesti consiglio per conoscere gli aiuti possibili per uno studente in affitto?|Chi chiameresti per chiarire una clausola di un contratto d'affitto?|
+vie-adulte-admin-142|Chi contatteresti per primo per controllare le condizioni di disdetta di un'assicurazione?|A chi chiederesti un parere per contestare un addebito bancario sconosciuto?|
+vie-adulte-admin-143|A chi ti rivolgeresti per trovare un consulente per un credito al consumo?|Con chi parleresti prima di tutto per controllare un preventivo di lavori prima di accettare?|
+vie-adulte-admin-144|A chi chiederesti consiglio per ottenere il duplicato di una fattura?|Chi chiameresti per capire le pratiche per il cambio di indirizzo?|
+vie-adulte-admin-145|Chi contatteresti per primo per segnalare un errore in un contratto di luce e gas?|A chi chiederesti un parere per avere informazioni sulla dichiarazione dei redditi?|
+vie-adulte-admin-146|Chi contatteresti per primo per capire una bolletta della luce stranamente alta?|A chi chiederesti un parere per trovare un idraulico per una perdita urgente?|
+vie-adulte-admin-147|A chi ti rivolgeresti per avere un consiglio su un'assicurazione per la casa?|Con chi parleresti prima di tutto per risolvere un problema con la restituzione della caparra?|
+vie-adulte-admin-148|A chi chiederesti consiglio per segnalare un guasto al riscaldamento in una casa in affitto?|Chi chiameresti per organizzare la consegna delle chiavi di un appartamento?|
+vie-adulte-admin-149|Chi contatteresti per primo per chiedere un preventivo per un trasloco?|A chi chiederesti un parere per chiedere una prova di pagamento delle spese condominiali?|
+vie-adulte-admin-150|A chi ti rivolgeresti per chiarire una clausola di un contratto d'affitto?|Con chi parleresti prima di tutto per capire i costi di un abbonamento telefonico?|
+vie-adulte-admin-151|Dove andresti per fare delle fotocopie al volo prima di un appuntamento?|In che posto vorresti trovare aiuto per la dichiarazione dei redditi?|
+vie-adulte-admin-152|In quale posto preferiresti comprare degli scatoloni per un trasloco?|In che luogo decideresti di incontrare un consulente bancario di persona?|
+vie-adulte-admin-153|In quale luogo ti piacerebbe fare un duplicato delle chiavi di casa?|Dove sceglieresti di riparare un piccolo elettrodomestico?|
+vie-adulte-admin-154|Dove andresti per spedire un pacco di reso di medie dimensioni?|In che posto vorresti comprare delle buste per raccomandata?|
+vie-adulte-admin-155|In quale posto preferiresti chiedere consiglio su un'assicurazione auto?|In che luogo decideresti di avere consigli per la prima casa?|
+vie-adulte-admin-156|In quale luogo ti piacerebbe ritirare un documento amministrativo pronto?|Dove sceglieresti di trovare una scatola per riporre i documenti?|
+vie-adulte-admin-157|Dove andresti per comprare una ciabatta elettrica di qualità?|In che posto vorresti comprare delle lampadine a basso consumo?|
+vie-adulte-admin-158|In quale posto preferiresti noleggiare un furgoncino per qualche ora?|In che luogo decideresti di far controllare una caldaia autonoma?|
+vie-adulte-admin-159|In quale luogo ti piacerebbe far controllare un impianto elettrico?|Dove sceglieresti di far ritirare un vecchio materasso?|
+vie-adulte-admin-160|Dove andresti per trovare aiuto per la dichiarazione dei redditi?|In che posto vorresti portare dei vecchi elettrodomestici al riciclo?|
+vie-adulte-admin-161|In quale posto preferiresti incontrare un consulente bancario di persona?|In che luogo decideresti di trovare un deposito per due mesi?|
+vie-adulte-admin-162|In quale luogo ti piacerebbe riparare un piccolo elettrodomestico?|Dove sceglieresti di fare delle fotocopie al volo prima di un appuntamento?|
+vie-adulte-admin-163|Dove andresti per comprare delle buste per raccomandata?|In che posto vorresti comprare degli scatoloni per un trasloco?|
+vie-adulte-admin-164|In quale posto preferiresti avere consigli per la prima casa?|In che luogo decideresti di fare un duplicato delle chiavi di casa?|
+vie-adulte-admin-165|In quale luogo ti piacerebbe trovare una scatola per riporre i documenti?|Dove sceglieresti di spedire un pacco di reso di medie dimensioni?|
+vie-adulte-admin-166|Dove andresti per comprare delle lampadine a basso consumo?|In che posto vorresti chiedere consiglio su un'assicurazione auto?|
+vie-adulte-admin-167|In quale posto preferiresti far controllare una caldaia autonoma?|In che luogo decideresti di ritirare un documento amministrativo pronto?|
+vie-adulte-admin-168|In quale luogo ti piacerebbe far ritirare un vecchio materasso?|Dove sceglieresti di comprare una ciabatta elettrica di qualità?|
+vie-adulte-admin-169|Dove andresti per portare dei vecchi elettrodomestici al riciclo?|In che posto vorresti noleggiare un furgoncino per qualche ora?|
+vie-adulte-admin-170|In quale posto preferiresti trovare un deposito per due mesi?|In che luogo decideresti di far controllare un impianto elettrico?|
+vie-adulte-admin-171|In quale posto preferiresti fare delle fotocopie al volo prima di un appuntamento?|In che luogo decideresti di trovare aiuto per la dichiarazione dei redditi?|
+vie-adulte-admin-172|In quale luogo ti piacerebbe comprare degli scatoloni per un trasloco?|Dove sceglieresti di incontrare un consulente bancario di persona?|
+vie-adulte-admin-173|Dove andresti per fare un duplicato delle chiavi di casa?|In che posto vorresti riparare un piccolo elettrodomestico?|
+vie-adulte-admin-174|In quale posto preferiresti spedire un pacco di reso di medie dimensioni?|In che luogo decideresti di comprare delle buste per raccomandata?|
+vie-adulte-admin-175|In quale luogo ti piacerebbe chiedere consiglio su un'assicurazione auto?|Dove sceglieresti di avere consigli per la prima casa?|
+vie-adulte-admin-176|Per scegliere un'assicurazione casa per la prima abitazione, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per scegliere una polizza sanitaria integrativa?|complémentaire santé → polizza sanitaria integrativa
+vie-adulte-admin-177|Quale elemento guarderesti per primo per firmare un contratto d'affitto?|Quale sarebbe la tua priorità per installare una serratura sulla porta d'ingresso?|
+vie-adulte-admin-178|Cosa sarebbe non negoziabile per scegliere una ditta di traslochi professionale?|Quale dettaglio controlleresti prima di prendere una garanzia per un computer costoso?|
+vie-adulte-admin-179|Per comprare una lavatrice, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per affittare un monolocale in una nuova città?|
+vie-adulte-admin-180|Quale elemento guarderesti per primo per scegliere la banca principale?|Quale sarebbe la tua priorità per scegliere un artigiano per una piccola ristrutturazione?|
+vie-adulte-admin-181|Cosa sarebbe non negoziabile per chiedere un preventivo a un idraulico?|Quale dettaglio controlleresti prima di scegliere un sistema per archiviare i documenti?|
+vie-adulte-admin-182|Per scegliere un abbonamento Internet, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per comprare un divano per un piccolo soggiorno?|
+vie-adulte-admin-183|Quale elemento guarderesti per primo per confrontare dei fornitori di luce?|Quale sarebbe la tua priorità per scegliere un'offerta telefonica senza vincoli?|
+vie-adulte-admin-184|Cosa sarebbe non negoziabile per comprare un'auto usata?|Quale dettaglio controlleresti prima di noleggiare un veicolo per un trasloco?|
+vie-adulte-admin-185|Per scegliere una polizza sanitaria integrativa, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per cambiare contratto d'assicurazione?|complémentaire santé → polizza sanitaria integrativa
+vie-adulte-admin-186|Quale elemento guarderesti per primo per installare una serratura sulla porta d'ingresso?|Quale sarebbe la tua priorità per scegliere un servizio di pulizie occasionale?|
+vie-adulte-admin-187|Cosa sarebbe non negoziabile per prendere una garanzia per un computer costoso?|Quale dettaglio controlleresti prima di scegliere un'assicurazione casa per la prima abitazione?|
+vie-adulte-admin-188|Per affittare un monolocale in una nuova città, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per firmare un contratto d'affitto?|
+vie-adulte-admin-189|Quale elemento guarderesti per primo per scegliere un artigiano per una piccola ristrutturazione?|Quale sarebbe la tua priorità per scegliere una ditta di traslochi professionale?|
+vie-adulte-admin-190|Cosa sarebbe non negoziabile per scegliere un sistema per archiviare i documenti?|Quale dettaglio controlleresti prima di comprare una lavatrice?|
+vie-adulte-admin-191|Per comprare un divano per un piccolo soggiorno, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per scegliere la banca principale?|
+vie-adulte-admin-192|Quale elemento guarderesti per primo per scegliere un'offerta telefonica senza vincoli?|Quale sarebbe la tua priorità per chiedere un preventivo a un idraulico?|
+vie-adulte-admin-193|Cosa sarebbe non negoziabile per noleggiare un veicolo per un trasloco?|Quale dettaglio controlleresti prima di scegliere un abbonamento Internet?|
+vie-adulte-admin-194|Per cambiare contratto d'assicurazione, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per confrontare dei fornitori di luce?|
+vie-adulte-admin-195|Quale elemento guarderesti per primo per scegliere un servizio di pulizie occasionale?|Quale sarebbe la tua priorità per comprare un'auto usata?|
+vie-adulte-admin-196|Quale elemento guarderesti per primo per scegliere un'assicurazione casa per la prima abitazione?|Quale sarebbe la tua priorità per scegliere una polizza sanitaria integrativa?|complémentaire santé → polizza sanitaria integrativa
+vie-adulte-admin-197|Cosa sarebbe non negoziabile per firmare un contratto d'affitto?|Quale dettaglio controlleresti prima di installare una serratura sulla porta d'ingresso?|
+vie-adulte-admin-198|Per scegliere una ditta di traslochi professionale, quale criterio conterebbe di più per te?|Su cosa saresti più esigente per prendere una garanzia per un computer costoso?|
+vie-adulte-admin-199|Quale elemento guarderesti per primo per comprare una lavatrice?|Quale sarebbe la tua priorità per affittare un monolocale in una nuova città?|
+vie-adulte-admin-200|Cosa sarebbe non negoziabile per scegliere la banca principale?|Quale dettaglio controlleresti prima di scegliere un artigiano per una piccola ristrutturazione?|
+transports-deplacements-001|Quanto pagheresti al massimo per una corsa in taxi di venti minuti dopo mezzanotte?|Che prezzo ti sembrerebbe ragionevole per il noleggio di una citycar per un weekend?|
+transports-deplacements-002|Quanto saresti disposto a spendere per un biglietto del Frecciarossa Milano-Roma prenotato una settimana prima?|In euro, quale sarebbe il tuo tetto massimo per un parcheggio custodito vicino a un aeroporto per tre giorni?|TGV Paris-Lyon → Frecciarossa Milano-Roma
+transports-deplacements-003|Che budget metteresti in conto per un biglietto del pullman per tre ore di viaggio tra due città?|Oltre quale prezzo diresti che un biglietto di prima classe per un viaggio di due ore costa troppo?|
+transports-deplacements-004|Quanto pagheresti al massimo per una corsa di dieci chilometri con Uber di sabato sera?|Che prezzo ti sembrerebbe ragionevole per un posto con bagaglio a mano su un volo breve?|VTC → Uber
+transports-deplacements-005|Quanto saresti disposto a spendere per un abbonamento mensile alla metro in una grande città?|In euro, quale sarebbe il tuo tetto massimo per una navetta tra l'aeroporto e il centro città?|
+transports-deplacements-006|Che budget metteresti in conto per un posto auto per sei ore vicino a una stazione?|Oltre quale prezzo diresti che un abbonamento annuale al bike sharing costa troppo?|
+transports-deplacements-007|Quanto pagheresti al massimo per il noleggio di una bici elettrica per una giornata?|Che prezzo ti sembrerebbe ragionevole per un posto auto per residenti per un mese?|
+transports-deplacements-008|Quanto saresti disposto a spendere per una corsa di venti minuti in monopattino elettrico in sharing?|In euro, quale sarebbe il tuo tetto massimo per una pulizia completa degli interni di un'auto?|
+transports-deplacements-009|Che budget metteresti in conto per un biglietto del regionale per cinquanta chilometri?|Oltre quale prezzo diresti che un pieno di benzina per una piccola citycar costa troppo?|
+transports-deplacements-010|Quanto pagheresti al massimo per il noleggio di una citycar per un weekend?|Che prezzo ti sembrerebbe ragionevole per una consegna bagagli tra una stazione e un hotel?|
+transports-deplacements-011|Quanto saresti disposto a spendere per un parcheggio custodito vicino a un aeroporto per tre giorni?|In euro, quale sarebbe il tuo tetto massimo per un transfer privato dall'aeroporto a un hotel per due persone?|
+transports-deplacements-012|Che budget metteresti in conto per un biglietto di prima classe per un viaggio di due ore?|Oltre quale prezzo diresti che una corsa in taxi di venti minuti dopo mezzanotte costa troppo?|
+transports-deplacements-013|Quanto pagheresti al massimo per un posto con bagaglio a mano su un volo breve?|Che prezzo ti sembrerebbe ragionevole per un biglietto del Frecciarossa Milano-Roma prenotato una settimana prima?|TGV Paris-Lyon → Frecciarossa Milano-Roma
+transports-deplacements-014|Quanto saresti disposto a spendere per una navetta tra l'aeroporto e il centro città?|In euro, quale sarebbe il tuo tetto massimo per un biglietto del pullman per tre ore di viaggio tra due città?|
+transports-deplacements-015|Che budget metteresti in conto per un abbonamento annuale al bike sharing?|Oltre quale prezzo diresti che una corsa di dieci chilometri con Uber di sabato sera costa troppo?|VTC → Uber
+transports-deplacements-016|Quanto pagheresti al massimo per un posto auto per residenti per un mese?|Che prezzo ti sembrerebbe ragionevole per un abbonamento mensile alla metro in una grande città?|
+transports-deplacements-017|Quanto saresti disposto a spendere per una pulizia completa degli interni di un'auto?|In euro, quale sarebbe il tuo tetto massimo per un posto auto per sei ore vicino a una stazione?|
+transports-deplacements-018|Che budget metteresti in conto per un pieno di benzina per una piccola citycar?|Oltre quale prezzo diresti che il noleggio di una bici elettrica per una giornata costa troppo?|
+transports-deplacements-019|Quanto pagheresti al massimo per una consegna bagagli tra una stazione e un hotel?|Che prezzo ti sembrerebbe ragionevole per una corsa di venti minuti in monopattino elettrico in sharing?|
+transports-deplacements-020|Quanto saresti disposto a spendere per un transfer privato dall'aeroporto a un hotel per due persone?|In euro, quale sarebbe il tuo tetto massimo per un biglietto del regionale per cinquanta chilometri?|
+transports-deplacements-021|Quanto saresti disposto a spendere per una corsa in taxi di venti minuti dopo mezzanotte?|In euro, quale sarebbe il tuo tetto massimo per il noleggio di una citycar per un weekend?|
+transports-deplacements-022|Che budget metteresti in conto per un biglietto del Frecciarossa Milano-Roma prenotato una settimana prima?|Oltre quale prezzo diresti che un parcheggio custodito vicino a un aeroporto per tre giorni costa troppo?|TGV Paris-Lyon → Frecciarossa Milano-Roma
+transports-deplacements-023|Quanto pagheresti al massimo per un biglietto del pullman per tre ore di viaggio tra due città?|Che prezzo ti sembrerebbe ragionevole per un biglietto di prima classe per un viaggio di due ore?|
+transports-deplacements-024|Quanto saresti disposto a spendere per una corsa di dieci chilometri con Uber di sabato sera?|In euro, quale sarebbe il tuo tetto massimo per un posto con bagaglio a mano su un volo breve?|VTC → Uber
+transports-deplacements-025|Che budget metteresti in conto per un abbonamento mensile alla metro in una grande città?|Oltre quale prezzo diresti che una navetta tra l'aeroporto e il centro città costa troppo?|
+transports-deplacements-026|Cosa risponderesti se un tassista rifiutasse una corsa brevissima?|Come risponderesti se un addetto della stazione annunciasse altri trenta minuti di ritardo?|
+transports-deplacements-027|Quale sarebbe la tua prima frase se qualcuno occupasse il tuo posto prenotato sul treno?|Cosa diresti se un passeggero ti chiedesse indicazioni in una città che non conosci?|
+transports-deplacements-028|Che diresti se un passeggero guardasse un video a tutto volume sull'autobus?|Che parole useresti se qualcuno saltasse tutta la fila per l'autobus?|
+transports-deplacements-029|Cosa risponderesti se il controllore ti chiedesse un biglietto che non trovi più?|Come risponderesti se un amico proponesse di prendere la sua macchina anche se è stanco?|
+transports-deplacements-030|Quale sarebbe la tua prima frase se un autista Uber volesse annullare dopo essere arrivato?|Cosa diresti se un viaggiatore sbagliasse carrozza e occupasse il tuo posto?|VTC → Uber
+transports-deplacements-031|Che diresti se un passeggero ti chiedesse di cedergli il tuo posto a sedere?|Che parole useresti se l'autista dell'autobus ti chiudesse le porte in faccia?|
+transports-deplacements-032|Cosa risponderesti se un automobilista ti suonasse il clacson mentre il semaforo è rosso?|Come risponderesti se una persona ti chiedesse di tenere d'occhio la sua valigia sul treno?|
+transports-deplacements-033|Quale sarebbe la tua prima frase se un passeggero mettesse la valigia sul sedile accanto?|Cosa diresti se un autista ti proponesse una deviazione non prevista dall'app?|
+transports-deplacements-034|Che diresti se un autista si rifiutasse di chiudere il finestrino durante il viaggio?|Che parole useresti se un amico ti dicesse che arriverà di nuovo in ritardo all'appuntamento?|
+transports-deplacements-035|Cosa risponderesti se un addetto della stazione annunciasse altri trenta minuti di ritardo?|Come risponderesti se un passeggero ti chiedesse di scendere prima per farlo passare?|
+transports-deplacements-036|Quale sarebbe la tua prima frase se un passeggero ti chiedesse indicazioni in una città che non conosci?|Cosa diresti se un addetto ti dicesse che il tuo biglietto non è più valido?|
+transports-deplacements-037|Che diresti se qualcuno saltasse tutta la fila per l'autobus?|Che parole useresti se un tassista rifiutasse una corsa brevissima?|
+transports-deplacements-038|Cosa risponderesti se un amico proponesse di prendere la sua macchina anche se è stanco?|Come risponderesti se qualcuno occupasse il tuo posto prenotato sul treno?|
+transports-deplacements-039|Quale sarebbe la tua prima frase se un viaggiatore sbagliasse carrozza e occupasse il tuo posto?|Cosa diresti se un passeggero guardasse un video a tutto volume sull'autobus?|
+transports-deplacements-040|Che diresti se l'autista dell'autobus ti chiudesse le porte in faccia?|Che parole useresti se il controllore ti chiedesse un biglietto che non trovi più?|
+transports-deplacements-041|Cosa risponderesti se una persona ti chiedesse di tenere d'occhio la sua valigia sul treno?|Come risponderesti se un autista Uber volesse annullare dopo essere arrivato?|VTC → Uber
+transports-deplacements-042|Quale sarebbe la tua prima frase se un autista ti proponesse una deviazione non prevista dall'app?|Cosa diresti se un passeggero ti chiedesse di cedergli il tuo posto a sedere?|
+transports-deplacements-043|Che diresti se un amico ti dicesse che arriverà di nuovo in ritardo all'appuntamento?|Che parole useresti se un automobilista ti suonasse il clacson mentre il semaforo è rosso?|
+transports-deplacements-044|Cosa risponderesti se un passeggero ti chiedesse di scendere prima per farlo passare?|Come risponderesti se un passeggero mettesse la valigia sul sedile accanto?|
+transports-deplacements-045|Quale sarebbe la tua prima frase se un addetto ti dicesse che il tuo biglietto non è più valido?|Cosa diresti se un autista si rifiutasse di chiudere il finestrino durante il viaggio?|
+transports-deplacements-046|Quale sarebbe la tua prima frase se un tassista rifiutasse una corsa brevissima?|Cosa diresti se un addetto della stazione annunciasse altri trenta minuti di ritardo?|
+transports-deplacements-047|Che diresti se qualcuno occupasse il tuo posto prenotato sul treno?|Che parole useresti se un passeggero ti chiedesse indicazioni in una città che non conosci?|
+transports-deplacements-048|Cosa risponderesti se un passeggero guardasse un video a tutto volume sull'autobus?|Come risponderesti se qualcuno saltasse tutta la fila per l'autobus?|
+transports-deplacements-049|Quale sarebbe la tua prima frase se il controllore ti chiedesse un biglietto che non trovi più?|Cosa diresti se un amico proponesse di prendere la sua macchina anche se è stanco?|
+transports-deplacements-050|Che diresti se un autista Uber volesse annullare dopo essere arrivato?|Che parole useresti se un viaggiatore sbagliasse carrozza e occupasse il tuo posto?|VTC → Uber
+transports-deplacements-051|Cosa faresti per prima cosa se il tuo treno venisse cancellato trenta minuti prima della partenza?|Cosa decideresti di fare prima di tutto se l'autista Uber annullasse la corsa dopo dieci minuti di attesa?|VTC → Uber
+transports-deplacements-052|Quale sarebbe la tua prima reazione se dimenticassi la borsa su un autobus?|Come ti muoveresti per prima cosa se trovassi un graffio sulla macchina tornando al parcheggio?|
+transports-deplacements-053|Da cosa cominceresti se arrivassi alla stazione sbagliata per una partenza importante?|Quale sarebbe la tua prima mossa se la tua tessera dei trasporti smettesse di funzionare al tornello?|
+transports-deplacements-054|Cosa faresti per prima cosa se la tua macchina non partisse nel parcheggio di un supermercato?|Cosa decideresti di fare prima di tutto se avessi perso la coincidenza per andare a un colloquio?|
+transports-deplacements-055|Quale sarebbe la tua prima reazione se ti accorgessi che l'ultima metro è appena partita?|Come ti muoveresti per prima cosa se la stazione del bike sharing fosse completamente vuota?|
+transports-deplacements-056|Da cosa cominceresti se bucassi una gomma della bici andando al lavoro?|Quale sarebbe la tua prima mossa se l'auto a noleggio avesse una spia di allarme accesa?|
+transports-deplacements-057|Cosa faresti per prima cosa se il telefono si scaricasse prima di mostrare il biglietto elettronico?|Cosa decideresti di fare prima di tutto se un ingorgo imprevisto aggiungesse un'ora al tuo viaggio?|
+transports-deplacements-058|Quale sarebbe la tua prima reazione se ti ritrovassi sul binario sbagliato a cinque minuti dalla partenza?|Come ti muoveresti per prima cosa se dimenticassi a che piano del parcheggio hai lasciato la macchina?|
+transports-deplacements-059|Da cosa cominceresti se un incidente bloccasse l'autostrada durante il tuo viaggio?|Quale sarebbe la tua prima mossa se la colonnina di ricarica della tua auto fosse fuori servizio?|
+transports-deplacements-060|Cosa faresti per prima cosa se l'autista Uber annullasse la corsa dopo dieci minuti di attesa?|Cosa decideresti di fare prima di tutto se un passeggero ti rovesciasse del caffè sulla borsa in treno?|VTC → Uber
+transports-deplacements-061|Quale sarebbe la tua prima reazione se trovassi un graffio sulla macchina tornando al parcheggio?|Come ti muoveresti per prima cosa se ti accorgessi di essere salito su un treno diretto nel posto sbagliato?|
+transports-deplacements-062|Da cosa cominceresti se la tua tessera dei trasporti smettesse di funzionare al tornello?|Quale sarebbe la tua prima mossa se il tuo treno venisse cancellato trenta minuti prima della partenza?|
+transports-deplacements-063|Cosa faresti per prima cosa se avessi perso la coincidenza per andare a un colloquio?|Cosa decideresti di fare prima di tutto se dimenticassi la borsa su un autobus?|
+transports-deplacements-064|Quale sarebbe la tua prima reazione se la stazione del bike sharing fosse completamente vuota?|Come ti muoveresti per prima cosa se arrivassi alla stazione sbagliata per una partenza importante?|
+transports-deplacements-065|Da cosa cominceresti se l'auto a noleggio avesse una spia di allarme accesa?|Quale sarebbe la tua prima mossa se la tua macchina non partisse nel parcheggio di un supermercato?|
+transports-deplacements-066|Cosa faresti per prima cosa se un ingorgo imprevisto aggiungesse un'ora al tuo viaggio?|Cosa decideresti di fare prima di tutto se ti accorgessi che l'ultima metro è appena partita?|
+transports-deplacements-067|Quale sarebbe la tua prima reazione se dimenticassi a che piano del parcheggio hai lasciato la macchina?|Come ti muoveresti per prima cosa se bucassi una gomma della bici andando al lavoro?|
+transports-deplacements-068|Da cosa cominceresti se la colonnina di ricarica della tua auto fosse fuori servizio?|Quale sarebbe la tua prima mossa se il telefono si scaricasse prima di mostrare il biglietto elettronico?|
+transports-deplacements-069|Cosa faresti per prima cosa se un passeggero ti rovesciasse del caffè sulla borsa in treno?|Cosa decideresti di fare prima di tutto se ti ritrovassi sul binario sbagliato a cinque minuti dalla partenza?|
+transports-deplacements-070|Quale sarebbe la tua prima reazione se ti accorgessi di essere salito su un treno diretto nel posto sbagliato?|Come ti muoveresti per prima cosa se un incidente bloccasse l'autostrada durante il tuo viaggio?|
+transports-deplacements-071|Quale sarebbe la tua prima reazione se il tuo treno venisse cancellato trenta minuti prima della partenza?|Come ti muoveresti per prima cosa se l'autista Uber annullasse la corsa dopo dieci minuti di attesa?|VTC → Uber
+transports-deplacements-072|Da cosa cominceresti se dimenticassi la borsa su un autobus?|Quale sarebbe la tua prima mossa se trovassi un graffio sulla macchina tornando al parcheggio?|
+transports-deplacements-073|Cosa faresti per prima cosa se arrivassi alla stazione sbagliata per una partenza importante?|Cosa decideresti di fare prima di tutto se la tua tessera dei trasporti smettesse di funzionare al tornello?|
+transports-deplacements-074|Quale sarebbe la tua prima reazione se la tua macchina non partisse nel parcheggio di un supermercato?|Come ti muoveresti per prima cosa se avessi perso la coincidenza per andare a un colloquio?|
+transports-deplacements-075|Da cosa cominceresti se ti accorgessi che l'ultima metro è appena partita?|Quale sarebbe la tua prima mossa se la stazione del bike sharing fosse completamente vuota?|
+transports-deplacements-076|Sceglieresti piuttosto un treno diretto più caro o un treno con cambio più economico?|Se avessi una sola possibilità, quale prenderesti: partire alle sei del mattino o arrivare a tarda sera?|
+transports-deplacements-077|Tra camminare venticinque minuti e fare dieci minuti di autobus, cosa preferiresti?|Quale delle due ti attira di più: viaggiare leggero con uno zaino o portare un trolley da cabina?|
+transports-deplacements-078|Se dovessi decidere, sarebbe noleggiare una bici o usare la metro per una giornata in giro per la città?|Opteresti per andare al lavoro in bici o per prendere i mezzi pubblici?|
+transports-deplacements-079|Sceglieresti piuttosto un posto lato finestrino o un posto lato corridoio sul treno?|Se avessi una sola possibilità, quale prenderesti: parcheggiare vicino al centro o camminare da un parcheggio gratuito?|
+transports-deplacements-080|Tra arrivare in stazione con molto anticipo e arrivare giusto in tempo, cosa preferiresti?|Quale delle due ti attira di più: un'auto ibrida o una piccola auto elettrica?|
+transports-deplacements-081|Se dovessi decidere, sarebbe prendere l'autostrada a pagamento o passare per le strade statali?|Opteresti per un volo diretto la mattina presto o per un volo con scalo più tardi?|
+transports-deplacements-082|Sceglieresti piuttosto prendere un Uber o dividere un taxi con gli amici?|Se avessi una sola possibilità, quale prenderesti: un viaggio in treno notturno o una giornata intera in treno?|VTC → Uber
+transports-deplacements-083|Tra fare carpooling e prendere un pullman, cosa preferiresti?|Quale delle due ti attira di più: uno scooter elettrico o una bici a pedalata assistita?|
+transports-deplacements-084|Se dovessi decidere, sarebbe un biglietto flessibile o un biglietto non modificabile più economico?|Opteresti per ascoltare musica o per leggere durante un viaggio?|
+transports-deplacements-085|Sceglieresti piuttosto partire alle sei del mattino o arrivare a tarda sera?|Se avessi una sola possibilità, quale prenderesti: un abbonamento mensile ai mezzi o dei biglietti singoli?|
+transports-deplacements-086|Tra viaggiare leggero con uno zaino e portare un trolley da cabina, cosa preferiresti?|Quale delle due ti attira di più: darsi il cambio alla guida o guidare da solo per tutto il viaggio?|
+transports-deplacements-087|Se dovessi decidere, sarebbe andare al lavoro in bici o prendere i mezzi pubblici?|Opteresti per un treno diretto più caro o per un treno con cambio più economico?|
+transports-deplacements-088|Sceglieresti piuttosto parcheggiare vicino al centro o camminare da un parcheggio gratuito?|Se avessi una sola possibilità, quale prenderesti: camminare venticinque minuti o fare dieci minuti di autobus?|
+transports-deplacements-089|Tra un'auto ibrida e una piccola auto elettrica, cosa preferiresti?|Quale delle due ti attira di più: noleggiare una bici o usare la metro per una giornata in giro per la città?|
+transports-deplacements-090|Se dovessi decidere, sarebbe un volo diretto la mattina presto o un volo con scalo più tardi?|Opteresti per un posto lato finestrino o per un posto lato corridoio sul treno?|
+transports-deplacements-091|Sceglieresti piuttosto un viaggio in treno notturno o una giornata intera in treno?|Se avessi una sola possibilità, quale prenderesti: arrivare in stazione con molto anticipo o arrivare giusto in tempo?|
+transports-deplacements-092|Tra uno scooter elettrico e una bici a pedalata assistita, cosa preferiresti?|Quale delle due ti attira di più: prendere l'autostrada a pagamento o passare per le strade statali?|
+transports-deplacements-093|Se dovessi decidere, sarebbe ascoltare musica o leggere durante un viaggio?|Opteresti per prendere un Uber o per dividere un taxi con gli amici?|VTC → Uber
+transports-deplacements-094|Sceglieresti piuttosto un abbonamento mensile ai mezzi o dei biglietti singoli?|Se avessi una sola possibilità, quale prenderesti: fare carpooling o prendere un pullman?|
+transports-deplacements-095|Tra darsi il cambio alla guida e guidare da solo per tutto il viaggio, cosa preferiresti?|Quale delle due ti attira di più: un biglietto flessibile o un biglietto non modificabile più economico?|
+transports-deplacements-096|Tra un treno diretto più caro e un treno con cambio più economico, cosa preferiresti?|Quale delle due ti attira di più: partire alle sei del mattino o arrivare a tarda sera?|
+transports-deplacements-097|Se dovessi decidere, sarebbe camminare venticinque minuti o fare dieci minuti di autobus?|Opteresti per viaggiare leggero con uno zaino o per portare un trolley da cabina?|
+transports-deplacements-098|Sceglieresti piuttosto noleggiare una bici o usare la metro per una giornata in giro per la città?|Se avessi una sola possibilità, quale prenderesti: andare al lavoro in bici o prendere i mezzi pubblici?|
+transports-deplacements-099|Tra un posto lato finestrino e un posto lato corridoio sul treno, cosa preferiresti?|Quale delle due ti attira di più: parcheggiare vicino al centro o camminare da un parcheggio gratuito?|
+transports-deplacements-100|Se dovessi decidere, sarebbe arrivare in stazione con molto anticipo o arrivare giusto in tempo?|Opteresti per un'auto ibrida o per una piccola auto elettrica?|
+transports-deplacements-101|Quanti minuti ti servirebbero per cercare parcheggio in una via piena di negozi?|Quanto tempo, in minuti, metteresti in conto per compilare un modulo di reclamo per un treno cancellato?|
+transports-deplacements-102|Quanti minuti passeresti ad aspettare un autobus segnalato in ritardo?|Quanti minuti ci metteresti a cercare un percorso accessibile con un passeggino?|
+transports-deplacements-103|Quanti minuti dedicheresti a preparare la borsa per un viaggio in treno di tre ore?|In genere, quanti minuti ti prenderesti per montare un seggiolino per bambini in macchina?|
+transports-deplacements-104|Quanti minuti ti servirebbero per controllare gli orari di una coincidenza ferroviaria?|Quanto tempo, in minuti, metteresti in conto per preparare la macchina prima di un lungo viaggio?|
+transports-deplacements-105|Quanti minuti passeresti a trovare una colonnina di ricarica libera lungo il tuo percorso?|Quanti minuti ci metteresti a pazientare prima di chiamare un Uber che risulta in ritardo?|VTC → Uber
+transports-deplacements-106|Quanti minuti dedicheresti a confrontare due percorsi in macchina prima di partire?|In genere, quanti minuti ti prenderesti per comprare un biglietto del treno dal telefono?|
+transports-deplacements-107|Quanti minuti ti servirebbero per scendere dal treno con una valigia grande?|Quanto tempo, in minuti, metteresti in conto per ritrovare il punto in cui hai parcheggiato la macchina?|
+transports-deplacements-108|Quanti minuti passeresti a raggiungere il tuo binario in una stazione che non conosci?|Quanti minuti ci metteresti a controllare la pressione delle gomme prima di prendere l'autostrada?|
+transports-deplacements-109|Quanti minuti dedicheresti a trovare l'uscita di una grande stazione della metro?|In genere, quanti minuti ti prenderesti per sistemare i bagagli nel bagagliaio prima di partire?|
+transports-deplacements-110|Quanti minuti ti servirebbero per compilare un modulo di reclamo per un treno cancellato?|Quanto tempo, in minuti, metteresti in conto per scegliere un posto su un treno a lunga percorrenza?|
+transports-deplacements-111|Quanti minuti passeresti a cercare un percorso accessibile con un passeggino?|Quanti minuti ci metteresti a chiedere informazioni dopo la cancellazione di un treno?|
+transports-deplacements-112|Quanti minuti dedicheresti a montare un seggiolino per bambini in macchina?|In genere, quanti minuti ti prenderesti per cercare parcheggio in una via piena di negozi?|
+transports-deplacements-113|Quanti minuti ti servirebbero per preparare la macchina prima di un lungo viaggio?|Quanto tempo, in minuti, metteresti in conto per aspettare un autobus segnalato in ritardo?|
+transports-deplacements-114|Quanti minuti passeresti a pazientare prima di chiamare un Uber che risulta in ritardo?|Quanti minuti ci metteresti a preparare la borsa per un viaggio in treno di tre ore?|VTC → Uber
+transports-deplacements-115|Quanti minuti dedicheresti a comprare un biglietto del treno dal telefono?|In genere, quanti minuti ti prenderesti per controllare gli orari di una coincidenza ferroviaria?|
+transports-deplacements-116|Quanti minuti ti servirebbero per ritrovare il punto in cui hai parcheggiato la macchina?|Quanto tempo, in minuti, metteresti in conto per trovare una colonnina di ricarica libera lungo il tuo percorso?|
+transports-deplacements-117|Quanti minuti passeresti a controllare la pressione delle gomme prima di prendere l'autostrada?|Quanti minuti ci metteresti a confrontare due percorsi in macchina prima di partire?|
+transports-deplacements-118|Quanti minuti dedicheresti a sistemare i bagagli nel bagagliaio prima di partire?|In genere, quanti minuti ti prenderesti per scendere dal treno con una valigia grande?|
+transports-deplacements-119|Quanti minuti ti servirebbero per scegliere un posto su un treno a lunga percorrenza?|Quanto tempo, in minuti, metteresti in conto per raggiungere il tuo binario in una stazione che non conosci?|
+transports-deplacements-120|Quanti minuti passeresti a chiedere informazioni dopo la cancellazione di un treno?|Quanti minuti ci metteresti a trovare l'uscita di una grande stazione della metro?|
+transports-deplacements-121|Quanti minuti passeresti a cercare parcheggio in una via piena di negozi?|Quanti minuti ci metteresti a compilare un modulo di reclamo per un treno cancellato?|
+transports-deplacements-122|Quanti minuti dedicheresti ad aspettare un autobus segnalato in ritardo?|In genere, quanti minuti ti prenderesti per cercare un percorso accessibile con un passeggino?|
+transports-deplacements-123|Quanti minuti ti servirebbero per preparare la borsa per un viaggio in treno di tre ore?|Quanto tempo, in minuti, metteresti in conto per montare un seggiolino per bambini in macchina?|
+transports-deplacements-124|Quanti minuti passeresti a controllare gli orari di una coincidenza ferroviaria?|Quanti minuti ci metteresti a preparare la macchina prima di un lungo viaggio?|
+transports-deplacements-125|Quanti minuti dedicheresti a trovare una colonnina di ricarica libera lungo il tuo percorso?|In genere, quanti minuti ti prenderesti per pazientare prima di chiamare un Uber che risulta in ritardo?|VTC → Uber
+transports-deplacements-126|A chi chiederesti consiglio per informarti su un treno cancellato?|Chi chiameresti per chiedere aiuto per una macchina che non parte?|
+transports-deplacements-127|Chi contatteresti per primo per recuperare un oggetto dimenticato su un autobus?|A chi chiederesti un parere per segnalare una biglietteria automatica guasta?|
+transports-deplacements-128|A chi ti rivolgeresti per segnalare un guasto su un treno della metro?|Con chi parleresti prima di tutto per far riparare una bici dopo una foratura?|
+transports-deplacements-129|A chi chiederesti consiglio per avere aiuto in una stazione senza ascensore?|Chi chiameresti per controllare un contratto di noleggio auto?|
+transports-deplacements-130|Chi contatteresti per primo per farti consigliare sull'acquisto di una bici da città?|A chi chiederesti un parere per trovare un servizio navetta per l'aeroporto?|
+transports-deplacements-131|A chi ti rivolgeresti per risolvere un problema con un biglietto elettronico?|Con chi parleresti prima di tutto per avere informazioni su un abbonamento ai mezzi?|
+transports-deplacements-132|A chi chiederesti consiglio per sapere come contestare una multa per divieto di sosta?|Chi chiameresti per chiedere il rimborso di un viaggio cancellato?|
+transports-deplacements-133|Chi contatteresti per primo per controllare un percorso stradale complicato?|A chi chiederesti un parere per segnalare un problema di sicurezza in una stazione?|
+transports-deplacements-134|A chi ti rivolgeresti per trovare una soluzione dopo un volo in ritardo?|Con chi parleresti prima di tutto per pianificare un viaggio in sedia a rotelle?|
+transports-deplacements-135|A chi chiederesti consiglio per chiedere aiuto per una macchina che non parte?|Chi chiameresti per chiedere assistenza per dei bagagli ingombranti?|
+transports-deplacements-136|Chi contatteresti per primo per segnalare una biglietteria automatica guasta?|A chi chiederesti un parere per scegliere un posto adatto su un pullman?|
+transports-deplacements-137|A chi ti rivolgeresti per far riparare una bici dopo una foratura?|Con chi parleresti prima di tutto per informarti su un treno cancellato?|
+transports-deplacements-138|A chi chiederesti consiglio per controllare un contratto di noleggio auto?|Chi chiameresti per recuperare un oggetto dimenticato su un autobus?|
+transports-deplacements-139|Chi contatteresti per primo per trovare un servizio navetta per l'aeroporto?|A chi chiederesti un parere per segnalare un guasto su un treno della metro?|
+transports-deplacements-140|A chi ti rivolgeresti per avere informazioni su un abbonamento ai mezzi?|Con chi parleresti prima di tutto per avere aiuto in una stazione senza ascensore?|
+transports-deplacements-141|A chi chiederesti consiglio per chiedere il rimborso di un viaggio cancellato?|Chi chiameresti per farti consigliare sull'acquisto di una bici da città?|
+transports-deplacements-142|Chi contatteresti per primo per segnalare un problema di sicurezza in una stazione?|A chi chiederesti un parere per risolvere un problema con un biglietto elettronico?|
+transports-deplacements-143|A chi ti rivolgeresti per pianificare un viaggio in sedia a rotelle?|Con chi parleresti prima di tutto per sapere come contestare una multa per divieto di sosta?|
+transports-deplacements-144|A chi chiederesti consiglio per chiedere assistenza per dei bagagli ingombranti?|Chi chiameresti per controllare un percorso stradale complicato?|
+transports-deplacements-145|Chi contatteresti per primo per scegliere un posto adatto su un pullman?|A chi chiederesti un parere per trovare una soluzione dopo un volo in ritardo?|
+transports-deplacements-146|Chi contatteresti per primo per informarti su un treno cancellato?|A chi chiederesti un parere per chiedere aiuto per una macchina che non parte?|
+transports-deplacements-147|A chi ti rivolgeresti per recuperare un oggetto dimenticato su un autobus?|Con chi parleresti prima di tutto per segnalare una biglietteria automatica guasta?|
+transports-deplacements-148|A chi chiederesti consiglio per segnalare un guasto su un treno della metro?|Chi chiameresti per far riparare una bici dopo una foratura?|
+transports-deplacements-149|Chi contatteresti per primo per avere aiuto in una stazione senza ascensore?|A chi chiederesti un parere per controllare un contratto di noleggio auto?|
+transports-deplacements-150|A chi ti rivolgeresti per farti consigliare sull'acquisto di una bici da città?|Con chi parleresti prima di tutto per trovare un servizio navetta per l'aeroporto?|
+transports-deplacements-151|Dove andresti per parcheggiare la macchina per due ore vicino al centro?|In che posto vorresti lasciare qualcuno con una valigia grande?|
+transports-deplacements-152|In quale posto preferiresti aspettare un passaggio in carpooling in sicurezza la sera?|In che luogo decideresti di cambiare una gomma della bici d'urgenza?|
+transports-deplacements-153|In quale luogo ti piacerebbe comprare un biglietto dell'autobus all'ultimo minuto?|Dove sceglieresti di fare una pausa dopo due ore di strada?|
+transports-deplacements-154|Dove andresti per prendere un taxi dopo uno spettacolo che finisce tardi?|In che posto vorresti comprare una tessera dei trasporti all'arrivo?|
+transports-deplacements-155|In quale posto preferiresti noleggiare una bici per visitare una città?|In che luogo decideresti di controllare la bici prima di un lungo giro?|
+transports-deplacements-156|In quale luogo ti piacerebbe ricaricare un'auto elettrica durante il pranzo?|Dove sceglieresti di lasciare un bagaglio per qualche ora?|
+transports-deplacements-157|Dove andresti per parcheggiare uno scooter vicino a una stazione?|In che posto vorresti incontrare un amico all'uscita di un aeroporto?|
+transports-deplacements-158|In quale posto preferiresti aspettare un treno in ritardo al caldo d'inverno?|In che luogo decideresti di fare colazione prima di una partenza alle sei?|
+transports-deplacements-159|In quale luogo ti piacerebbe incontrare il conducente di un carpooling?|Dove sceglieresti di fare una pausa senza uscire dall'autostrada?|
+transports-deplacements-160|Dove andresti per lasciare qualcuno con una valigia grande?|In che posto vorresti ritirare un'auto a noleggio in una città?|
+transports-deplacements-161|In quale posto preferiresti cambiare una gomma della bici d'urgenza?|In che luogo decideresti di aspettare un autobus notturno in sicurezza?|
+transports-deplacements-162|In quale luogo ti piacerebbe fare una pausa dopo due ore di strada?|Dove sceglieresti di parcheggiare la macchina per due ore vicino al centro?|
+transports-deplacements-163|Dove andresti per comprare una tessera dei trasporti all'arrivo?|In che posto vorresti aspettare un passaggio in carpooling in sicurezza la sera?|
+transports-deplacements-164|In quale posto preferiresti controllare la bici prima di un lungo giro?|In che luogo decideresti di comprare un biglietto dell'autobus all'ultimo minuto?|
+transports-deplacements-165|In quale luogo ti piacerebbe lasciare un bagaglio per qualche ora?|Dove sceglieresti di prendere un taxi dopo uno spettacolo che finisce tardi?|
+transports-deplacements-166|Dove andresti per incontrare un amico all'uscita di un aeroporto?|In che posto vorresti noleggiare una bici per visitare una città?|
+transports-deplacements-167|In quale posto preferiresti fare colazione prima di una partenza alle sei?|In che luogo decideresti di ricaricare un'auto elettrica durante il pranzo?|
+transports-deplacements-168|In quale luogo ti piacerebbe fare una pausa senza uscire dall'autostrada?|Dove sceglieresti di parcheggiare uno scooter vicino a una stazione?|
+transports-deplacements-169|Dove andresti per ritirare un'auto a noleggio in una città?|In che posto vorresti aspettare un treno in ritardo al caldo d'inverno?|
+transports-deplacements-170|In quale posto preferiresti aspettare un autobus notturno in sicurezza?|In che luogo decideresti di incontrare il conducente di un carpooling?|
+transports-deplacements-171|In quale posto preferiresti parcheggiare la macchina per due ore vicino al centro?|In che luogo decideresti di lasciare qualcuno con una valigia grande?|
+transports-deplacements-172|In quale luogo ti piacerebbe aspettare un passaggio in carpooling in sicurezza la sera?|Dove sceglieresti di cambiare una gomma della bici d'urgenza?|
+transports-deplacements-173|Dove andresti per comprare un biglietto dell'autobus all'ultimo minuto?|In che posto vorresti fare una pausa dopo due ore di strada?|
+transports-deplacements-174|In quale posto preferiresti prendere un taxi dopo uno spettacolo che finisce tardi?|In che luogo decideresti di comprare una tessera dei trasporti all'arrivo?|
+transports-deplacements-175|In quale luogo ti piacerebbe noleggiare una bici per visitare una città?|Dove sceglieresti di controllare la bici prima di un lungo giro?|
+transports-deplacements-176|Che oggetto porteresti con te per ricaricare il telefono durante un lungo viaggio in treno?|Quale accessorio useresti per rendere visibile la tua bici parcheggiata di notte?|
+transports-deplacements-177|Quale accessorio sceglieresti per ritrovare facilmente i tuoi bagagli su un pullman?|Con quale oggetto vorresti riconoscere la tua valigia sul nastro dell'aeroporto?|
+transports-deplacements-178|Quale oggetto ti sembrerebbe indispensabile per restare all'asciutto mentre aspetti l'autobus sotto la pioggia?|Che oggetto prenderesti per primo per portare una piccola valigia su per diverse rampe di scale?|
+transports-deplacements-179|Che oggetto porteresti con te per leggere comodamente su un treno notturno?|Quale accessorio useresti per restare visibile in bici dopo il tramonto?|
+transports-deplacements-180|Quale accessorio sceglieresti per tenere fermo il telefono come navigatore in macchina?|Con quale oggetto vorresti sistemare comodo un bambino addormentato durante un lungo viaggio?|
+transports-deplacements-181|Quale oggetto ti sembrerebbe indispensabile per portare una bottiglia d'acqua in bici?|Che oggetto prenderesti per primo per tenere in ordine i biglietti del casello in vacanza?|
+transports-deplacements-182|Che oggetto porteresti con te per tenere il biglietto a portata di mano per il controllo?|Quale accessorio useresti per avere un po' di luce in una macchina in panne?|
+transports-deplacements-183|Quale accessorio sceglieresti per proteggere la borsa durante un acquazzone in scooter?|Con quale oggetto vorresti tenere delle monetine per il parchimetro?|
+transports-deplacements-184|Quale oggetto ti sembrerebbe indispensabile per ascoltare un podcast senza disturbare gli altri passeggeri?|Che oggetto prenderesti per primo per agganciare il casco della bici durante una pausa?|
+transports-deplacements-185|Che oggetto porteresti con te per rendere visibile la tua bici parcheggiata di notte?|Quale accessorio useresti per ridurre il mal d'auto su una strada piena di curve?|
+transports-deplacements-186|Quale accessorio sceglieresti per riconoscere la tua valigia sul nastro dell'aeroporto?|Con quale oggetto vorresti avere le mani libere quando viaggi con i bagagli?|
+transports-deplacements-187|Quale oggetto ti sembrerebbe indispensabile per portare una piccola valigia su per diverse rampe di scale?|Che oggetto prenderesti per primo per ricaricare il telefono durante un lungo viaggio in treno?|
+transports-deplacements-188|Che oggetto porteresti con te per restare visibile in bici dopo il tramonto?|Quale accessorio useresti per ritrovare facilmente i tuoi bagagli su un pullman?|
+transports-deplacements-189|Quale accessorio sceglieresti per sistemare comodo un bambino addormentato durante un lungo viaggio?|Con quale oggetto vorresti restare all'asciutto mentre aspetti l'autobus sotto la pioggia?|
+transports-deplacements-190|Quale oggetto ti sembrerebbe indispensabile per tenere in ordine i biglietti del casello in vacanza?|Che oggetto prenderesti per primo per leggere comodamente su un treno notturno?|
+transports-deplacements-191|Che oggetto porteresti con te per avere un po' di luce in una macchina in panne?|Quale accessorio useresti per tenere fermo il telefono come navigatore in macchina?|
+transports-deplacements-192|Quale accessorio sceglieresti per tenere delle monetine per il parchimetro?|Con quale oggetto vorresti portare una bottiglia d'acqua in bici?|
+transports-deplacements-193|Quale oggetto ti sembrerebbe indispensabile per agganciare il casco della bici durante una pausa?|Che oggetto prenderesti per primo per tenere il biglietto a portata di mano per il controllo?|
+transports-deplacements-194|Che oggetto porteresti con te per ridurre il mal d'auto su una strada piena di curve?|Quale accessorio useresti per proteggere la borsa durante un acquazzone in scooter?|
+transports-deplacements-195|Quale accessorio sceglieresti per avere le mani libere quando viaggi con i bagagli?|Con quale oggetto vorresti ascoltare un podcast senza disturbare gli altri passeggeri?|
+transports-deplacements-196|Quale accessorio sceglieresti per ricaricare il telefono durante un lungo viaggio in treno?|Con quale oggetto vorresti rendere visibile la tua bici parcheggiata di notte?|
+transports-deplacements-197|Quale oggetto ti sembrerebbe indispensabile per ritrovare facilmente i tuoi bagagli su un pullman?|Che oggetto prenderesti per primo per riconoscere la tua valigia sul nastro dell'aeroporto?|
+transports-deplacements-198|Che oggetto porteresti con te per restare all'asciutto mentre aspetti l'autobus sotto la pioggia?|Quale accessorio useresti per portare una piccola valigia su per diverse rampe di scale?|
+transports-deplacements-199|Quale accessorio sceglieresti per leggere comodamente su un treno notturno?|Con quale oggetto vorresti restare visibile in bici dopo il tramonto?|
+transports-deplacements-200|Quale oggetto ti sembrerebbe indispensabile per tenere fermo il telefono come navigatore in macchina?|Che oggetto prenderesti per primo per sistemare comodo un bambino addormentato durante un lungo viaggio?|
+peurs-courage-001|Cosa ti farebbe più paura in un primo lancio col paracadute con un istruttore?|Quale aspetto ti farebbe esitare davanti a una discesa in corda doppia da una parete rocciosa con istruttore?|
+peurs-courage-002|Quale dettaglio ti preoccuperebbe di più in un discorso davanti a duecento persone?|Cosa potrebbe metterti più ansia in un viaggio da solo in un paese di cui non parli la lingua?|
+peurs-courage-003|Quale sarebbe il tuo timore più grande davanti a un'escursione notturna nel bosco con una guida?|Quale parte di un discorso improvvisato a un matrimonio ti sembrerebbe la più stressante?|
+peurs-courage-004|Cosa ti farebbe più paura in un volo durante una forte turbolenza?|Quale aspetto ti farebbe esitare davanti a un attraversamento di un ponte sospeso altissimo?|
+peurs-courage-005|Quale dettaglio ti preoccuperebbe di più in un'immersione con le bombole per principianti?|Cosa potrebbe metterti più ansia in una nuotata in mare lontano dalla spiaggia?|
+peurs-courage-006|Quale sarebbe il tuo timore più grande davanti a un colloquio di lavoro per un posto importante?|Quale parte di un primo giro in moto come passeggero ti sembrerebbe la più stressante?|
+peurs-courage-007|Cosa ti farebbe più paura in un'attrazione velocissima in un parco divertimenti?|Quale aspetto ti farebbe esitare davanti a una discussione difficile con il tuo responsabile?|
+peurs-courage-008|Quale dettaglio ti preoccuperebbe di più in una notte da solo in una casa isolata in campagna?|Cosa potrebbe metterti più ansia in la presentazione di un progetto davanti a una commissione?|
+peurs-courage-009|Quale sarebbe il tuo timore più grande davanti a una visita medica di cui aspetti i risultati?|Quale parte di un trasloco in una città dove non conosci nessuno ti sembrerebbe la più stressante?|
+peurs-courage-010|Cosa ti farebbe più paura in una discesa in corda doppia da una parete rocciosa con istruttore?|Quale aspetto ti farebbe esitare davanti a una gara sportiva davanti a un pubblico numeroso?|
+peurs-courage-011|Quale dettaglio ti preoccuperebbe di più in un viaggio da solo in un paese di cui non parli la lingua?|Cosa potrebbe metterti più ansia in una funivia altissima sopra una valle?|
+peurs-courage-012|Quale sarebbe il tuo timore più grande davanti a un discorso improvvisato a un matrimonio?|Quale parte di un primo lancio col paracadute con un istruttore ti sembrerebbe la più stressante?|
+peurs-courage-013|Cosa ti farebbe più paura in un attraversamento di un ponte sospeso altissimo?|Quale aspetto ti farebbe esitare davanti a un discorso davanti a duecento persone?|
+peurs-courage-014|Quale dettaglio ti preoccuperebbe di più in una nuotata in mare lontano dalla spiaggia?|Cosa potrebbe metterti più ansia in un'escursione notturna nel bosco con una guida?|
+peurs-courage-015|Quale sarebbe il tuo timore più grande davanti a un primo giro in moto come passeggero?|Quale parte di un volo durante una forte turbolenza ti sembrerebbe la più stressante?|
+peurs-courage-016|Cosa ti farebbe più paura in una discussione difficile con il tuo responsabile?|Quale aspetto ti farebbe esitare davanti a un'immersione con le bombole per principianti?|
+peurs-courage-017|Quale dettaglio ti preoccuperebbe di più in la presentazione di un progetto davanti a una commissione?|Cosa potrebbe metterti più ansia in un colloquio di lavoro per un posto importante?|
+peurs-courage-018|Quale sarebbe il tuo timore più grande davanti a un trasloco in una città dove non conosci nessuno?|Quale parte di un'attrazione velocissima in un parco divertimenti ti sembrerebbe la più stressante?|
+peurs-courage-019|Cosa ti farebbe più paura in una gara sportiva davanti a un pubblico numeroso?|Quale aspetto ti farebbe esitare davanti a una notte da solo in una casa isolata in campagna?|
+peurs-courage-020|Quale dettaglio ti preoccuperebbe di più in una funivia altissima sopra una valle?|Cosa potrebbe metterti più ansia in una visita medica di cui aspetti i risultati?|
+peurs-courage-021|Quale dettaglio ti preoccuperebbe di più in un primo lancio col paracadute con un istruttore?|Cosa potrebbe metterti più ansia in una discesa in corda doppia da una parete rocciosa con istruttore?|
+peurs-courage-022|Quale sarebbe il tuo timore più grande davanti a un discorso davanti a duecento persone?|Quale parte di un viaggio da solo in un paese di cui non parli la lingua ti sembrerebbe la più stressante?|
+peurs-courage-023|Cosa ti farebbe più paura in un'escursione notturna nel bosco con una guida?|Quale aspetto ti farebbe esitare davanti a un discorso improvvisato a un matrimonio?|
+peurs-courage-024|Quale dettaglio ti preoccuperebbe di più in un volo durante una forte turbolenza?|Cosa potrebbe metterti più ansia in un attraversamento di un ponte sospeso altissimo?|
+peurs-courage-025|Quale sarebbe il tuo timore più grande davanti a un'immersione con le bombole per principianti?|Quale parte di una nuotata in mare lontano dalla spiaggia ti sembrerebbe la più stressante?|
+peurs-courage-026|Cosa risponderesti se un amico ti proponesse di fare bungee jumping insieme?|Come risponderesti se un familiare ti rimproverasse di non rischiare mai?|
+peurs-courage-027|Quale sarebbe la tua prima frase se qualcuno ti dicesse «sei sempre troppo prudente»?|Cosa diresti se un amico esitasse a parlare davanti a tutta la classe?|
+peurs-courage-028|Che diresti se una persona cara ti confessasse di avere molta paura dell'aereo?|Che parole useresti se qualcuno ti proponesse un'escursione notturna con una guida?|
+peurs-courage-029|Cosa risponderesti se un collega ti chiedesse di condurre una riunione improvvisata?|Come risponderesti se il tuo partner ti dicesse di avere paura di dormire da solo?|
+peurs-courage-030|Quale sarebbe la tua prima frase se un amico ti prendesse in giro per la tua paura dell'altezza?|Cosa diresti se un amico ti dicesse di voler affrontare la sua paura di nuotare?|
+peurs-courage-031|Che diresti se qualcuno ti invitasse su un'attrazione che ti terrorizza?|Che parole useresti se un collega ti chiedesse di andare a parlare col direttore al posto suo?|
+peurs-courage-032|Cosa risponderesti se una persona cara ti chiedesse di accompagnarla dal dentista?|Come risponderesti se un amico ti dicesse che non ha il coraggio di chiedere un aumento?|
+peurs-courage-033|Quale sarebbe la tua prima frase se un amico ti dicesse che non vuole più provare a prendere la patente?|Cosa diresti se qualcuno volesse convincerti a provare l'arrampicata?|
+peurs-courage-034|Che diresti se uno sconosciuto ti chiedesse di raccontare la tua sfida più grande?|Che parole useresti se una persona cara ti chiedesse come restare calmi prima di un esame?|
+peurs-courage-035|Cosa risponderesti se un familiare ti rimproverasse di non rischiare mai?|Come risponderesti se un amico ti rivelasse una paura di cui non avevi mai sentito parlare?|
+peurs-courage-036|Quale sarebbe la tua prima frase se un amico esitasse a parlare davanti a tutta la classe?|Cosa diresti se qualcuno ti chiedesse se il coraggio vuol dire non avere mai paura?|
+peurs-courage-037|Che diresti se qualcuno ti proponesse un'escursione notturna con una guida?|Che parole useresti se un amico ti proponesse di fare bungee jumping insieme?|
+peurs-courage-038|Cosa risponderesti se il tuo partner ti dicesse di avere paura di dormire da solo?|Come risponderesti se qualcuno ti dicesse «sei sempre troppo prudente»?|
+peurs-courage-039|Quale sarebbe la tua prima frase se un amico ti dicesse di voler affrontare la sua paura di nuotare?|Cosa diresti se una persona cara ti confessasse di avere molta paura dell'aereo?|
+peurs-courage-040|Che diresti se un collega ti chiedesse di andare a parlare col direttore al posto suo?|Che parole useresti se un collega ti chiedesse di condurre una riunione improvvisata?|
+peurs-courage-041|Cosa risponderesti se un amico ti dicesse che non ha il coraggio di chiedere un aumento?|Come risponderesti se un amico ti prendesse in giro per la tua paura dell'altezza?|
+peurs-courage-042|Quale sarebbe la tua prima frase se qualcuno volesse convincerti a provare l'arrampicata?|Cosa diresti se qualcuno ti invitasse su un'attrazione che ti terrorizza?|
+peurs-courage-043|Che diresti se una persona cara ti chiedesse come restare calmi prima di un esame?|Che parole useresti se una persona cara ti chiedesse di accompagnarla dal dentista?|
+peurs-courage-044|Cosa risponderesti se un amico ti rivelasse una paura di cui non avevi mai sentito parlare?|Come risponderesti se un amico ti dicesse che non vuole più provare a prendere la patente?|
+peurs-courage-045|Quale sarebbe la tua prima frase se qualcuno ti chiedesse se il coraggio vuol dire non avere mai paura?|Cosa diresti se uno sconosciuto ti chiedesse di raccontare la tua sfida più grande?|
+peurs-courage-046|Quale sarebbe la tua prima frase se un amico ti proponesse di fare bungee jumping insieme?|Cosa diresti se un familiare ti rimproverasse di non rischiare mai?|
+peurs-courage-047|Che diresti se qualcuno ti dicesse «sei sempre troppo prudente»?|Che parole useresti se un amico esitasse a parlare davanti a tutta la classe?|
+peurs-courage-048|Cosa risponderesti se una persona cara ti confessasse di avere molta paura dell'aereo?|Come risponderesti se qualcuno ti proponesse un'escursione notturna con una guida?|
+peurs-courage-049|Quale sarebbe la tua prima frase se un collega ti chiedesse di condurre una riunione improvvisata?|Cosa diresti se il tuo partner ti dicesse di avere paura di dormire da solo?|
+peurs-courage-050|Che diresti se un amico ti prendesse in giro per la tua paura dell'altezza?|Che parole useresti se un amico ti dicesse di voler affrontare la sua paura di nuotare?|
+peurs-courage-051|Cosa faresti per prima cosa se rimanessi bloccato in un ascensore per cinque minuti?|Cosa decideresti di fare prima di tutto se assistessi a una lite verbale in metro?|
+peurs-courage-052|Quale sarebbe la tua prima reazione se perdessi il tuo gruppo durante un'escursione su un sentiero segnato?|Come ti muoveresti per prima cosa se vedessi un amico andare nel panico prima di parlare in pubblico?|
+peurs-courage-053|Da cosa cominceresti se dovessi presentare un lavoro senza averlo provato?|Quale sarebbe la tua prima mossa se ti accorgessi di aver sbagliato strada in un parco naturale?|
+peurs-courage-054|Cosa faresti per prima cosa se un'attrazione si fermasse per qualche istante in alto?|Cosa decideresti di fare prima di tutto se un membro della tua squadra si rifiutasse di salire sul palco?|
+peurs-courage-055|Quale sarebbe la tua prima reazione se sentissi un rumore strano mentre sei solo in casa?|Come ti muoveresti per prima cosa se trovassi un insetto enorme in camera tua?|
+peurs-courage-056|Da cosa cominceresti se ti ritrovassi davanti a un grosso cane che abbaia?|Quale sarebbe la tua prima mossa se dovessi entrare da solo in una sala piena di sconosciuti?|
+peurs-courage-057|Cosa faresti per prima cosa se saltasse la corrente di notte in una casa di campagna?|Cosa decideresti di fare prima di tutto se il telefono si guastasse mentre sei in giro in una città sconosciuta?|
+peurs-courage-058|Quale sarebbe la tua prima reazione se il tuo aereo attraversasse una zona di turbolenza?|Come ti muoveresti per prima cosa se sentissi un tuono vicinissimo durante un'escursione?|
+peurs-courage-059|Da cosa cominceresti se dovessi fare una domanda davanti a una grande platea?|Quale sarebbe la tua prima mossa se ti accorgessi in aeroporto che il passaporto non è più nella borsa?|
+peurs-courage-060|Cosa faresti per prima cosa se assistessi a una lite verbale in metro?|Cosa decideresti di fare prima di tutto se scattasse l'allarme antincendio durante una riunione?|
+peurs-courage-061|Quale sarebbe la tua prima reazione se vedessi un amico andare nel panico prima di parlare in pubblico?|Come ti muoveresti per prima cosa se dovessi spiegare un errore importante a un responsabile?|
+peurs-courage-062|Da cosa cominceresti se ti accorgessi di aver sbagliato strada in un parco naturale?|Quale sarebbe la tua prima mossa se rimanessi bloccato in un ascensore per cinque minuti?|
+peurs-courage-063|Cosa faresti per prima cosa se un membro della tua squadra si rifiutasse di salire sul palco?|Cosa decideresti di fare prima di tutto se perdessi il tuo gruppo durante un'escursione su un sentiero segnato?|
+peurs-courage-064|Quale sarebbe la tua prima reazione se trovassi un insetto enorme in camera tua?|Come ti muoveresti per prima cosa se dovessi presentare un lavoro senza averlo provato?|
+peurs-courage-065|Da cosa cominceresti se dovessi entrare da solo in una sala piena di sconosciuti?|Quale sarebbe la tua prima mossa se un'attrazione si fermasse per qualche istante in alto?|
+peurs-courage-066|Cosa faresti per prima cosa se il telefono si guastasse mentre sei in giro in una città sconosciuta?|Cosa decideresti di fare prima di tutto se sentissi un rumore strano mentre sei solo in casa?|
+peurs-courage-067|Quale sarebbe la tua prima reazione se sentissi un tuono vicinissimo durante un'escursione?|Come ti muoveresti per prima cosa se ti ritrovassi davanti a un grosso cane che abbaia?|
+peurs-courage-068|Da cosa cominceresti se ti accorgessi in aeroporto che il passaporto non è più nella borsa?|Quale sarebbe la tua prima mossa se saltasse la corrente di notte in una casa di campagna?|
+peurs-courage-069|Cosa faresti per prima cosa se scattasse l'allarme antincendio durante una riunione?|Cosa decideresti di fare prima di tutto se il tuo aereo attraversasse una zona di turbolenza?|
+peurs-courage-070|Quale sarebbe la tua prima reazione se dovessi spiegare un errore importante a un responsabile?|Come ti muoveresti per prima cosa se dovessi fare una domanda davanti a una grande platea?|
+peurs-courage-071|Quale sarebbe la tua prima reazione se rimanessi bloccato in un ascensore per cinque minuti?|Come ti muoveresti per prima cosa se assistessi a una lite verbale in metro?|
+peurs-courage-072|Da cosa cominceresti se perdessi il tuo gruppo durante un'escursione su un sentiero segnato?|Quale sarebbe la tua prima mossa se vedessi un amico andare nel panico prima di parlare in pubblico?|
+peurs-courage-073|Cosa faresti per prima cosa se dovessi presentare un lavoro senza averlo provato?|Cosa decideresti di fare prima di tutto se ti accorgessi di aver sbagliato strada in un parco naturale?|
+peurs-courage-074|Quale sarebbe la tua prima reazione se un'attrazione si fermasse per qualche istante in alto?|Come ti muoveresti per prima cosa se un membro della tua squadra si rifiutasse di salire sul palco?|
+peurs-courage-075|Da cosa cominceresti se sentissi un rumore strano mentre sei solo in casa?|Quale sarebbe la tua prima mossa se trovassi un insetto enorme in camera tua?|
+peurs-courage-076|Sceglieresti piuttosto salire su una ruota panoramica o provare delle montagne russe velocissime?|Se avessi una sola possibilità, quale prenderesti: dare una brutta notizia o fare una domanda imbarazzante?|
+peurs-courage-077|Tra parlare davanti a cinquanta persone e cantare davanti a dieci amici, cosa preferiresti?|Quale delle due ti attira di più: andare a cavallo per la prima volta o fare kayak su un fiume tranquillo?|
+peurs-courage-078|Se dovessi decidere, sarebbe fare un'escursione in montagna o fare un'uscita in mare?|Opteresti per guidare di notte sotto la pioggia o per guidare su un'autostrada trafficata?|
+peurs-courage-079|Sceglieresti piuttosto viaggiare da solo per tre giorni o viaggiare con un gruppo di sconosciuti?|Se avessi una sola possibilità, quale prenderesti: chiedere un aumento o fare un colloquio di lavoro?|
+peurs-courage-080|Tra affrontare un esame orale difficile e affrontare una prova fisica intensa, cosa preferiresti?|Quale delle due ti attira di più: partire per un paese sconosciuto o imparare a guidare in una grande città?|
+peurs-courage-081|Se dovessi decidere, sarebbe provare l'arrampicata in palestra o fare un percorso in un parco avventura?|Opteresti per fare parapendio in tandem o per fare un'escursione in alta quota?|
+peurs-courage-082|Sceglieresti piuttosto dormire in tenda sotto le stelle o dormire in una baita isolata?|Se avessi una sola possibilità, quale prenderesti: raccontare un aneddoto in pubblico o improvvisare un breve discorso?|
+peurs-courage-083|Tra attraversare un ponte sospeso e salire su una funivia vetrata, cosa preferiresti?|Quale delle due ti attira di più: partecipare a una gara o essere giudicato in un concorso?|
+peurs-courage-084|Se dovessi decidere, sarebbe fare un battesimo subacqueo o seguire un corso di surf?|Opteresti per dire di no a un amico stretto o per contraddire un collega in riunione?|
+peurs-courage-085|Sceglieresti piuttosto dare una brutta notizia o fare una domanda imbarazzante?|Se avessi una sola possibilità, quale prenderesti: visitare una grotta con una guida o esplorare un tunnel turistico?|
+peurs-courage-086|Tra andare a cavallo per la prima volta e fare kayak su un fiume tranquillo, cosa preferiresti?|Quale delle due ti attira di più: nuotare in una piscina profonda o fare snorkeling con il mare calmo?|
+peurs-courage-087|Se dovessi decidere, sarebbe guidare di notte sotto la pioggia o guidare su un'autostrada trafficata?|Opteresti per salire su una ruota panoramica o per provare delle montagne russe velocissime?|
+peurs-courage-088|Sceglieresti piuttosto chiedere un aumento o fare un colloquio di lavoro?|Se avessi una sola possibilità, quale prenderesti: parlare davanti a cinquanta persone o cantare davanti a dieci amici?|
+peurs-courage-089|Tra partire per un paese sconosciuto e imparare a guidare in una grande città, cosa preferiresti?|Quale delle due ti attira di più: fare un'escursione in montagna o fare un'uscita in mare?|
+peurs-courage-090|Se dovessi decidere, sarebbe fare parapendio in tandem o fare un'escursione in alta quota?|Opteresti per viaggiare da solo per tre giorni o per viaggiare con un gruppo di sconosciuti?|
+peurs-courage-091|Sceglieresti piuttosto raccontare un aneddoto in pubblico o improvvisare un breve discorso?|Se avessi una sola possibilità, quale prenderesti: affrontare un esame orale difficile o affrontare una prova fisica intensa?|
+peurs-courage-092|Tra partecipare a una gara e essere giudicato in un concorso, cosa preferiresti?|Quale delle due ti attira di più: provare l'arrampicata in palestra o fare un percorso in un parco avventura?|
+peurs-courage-093|Se dovessi decidere, sarebbe dire di no a un amico stretto o contraddire un collega in riunione?|Opteresti per dormire in tenda sotto le stelle o per dormire in una baita isolata?|
+peurs-courage-094|Sceglieresti piuttosto visitare una grotta con una guida o esplorare un tunnel turistico?|Se avessi una sola possibilità, quale prenderesti: attraversare un ponte sospeso o salire su una funivia vetrata?|
+peurs-courage-095|Tra nuotare in una piscina profonda e fare snorkeling con il mare calmo, cosa preferiresti?|Quale delle due ti attira di più: fare un battesimo subacqueo o seguire un corso di surf?|
+peurs-courage-096|Tra salire su una ruota panoramica e provare delle montagne russe velocissime, cosa preferiresti?|Quale delle due ti attira di più: dare una brutta notizia o fare una domanda imbarazzante?|
+peurs-courage-097|Se dovessi decidere, sarebbe parlare davanti a cinquanta persone o cantare davanti a dieci amici?|Opteresti per andare a cavallo per la prima volta o per fare kayak su un fiume tranquillo?|
+peurs-courage-098|Sceglieresti piuttosto fare un'escursione in montagna o fare un'uscita in mare?|Se avessi una sola possibilità, quale prenderesti: guidare di notte sotto la pioggia o guidare su un'autostrada trafficata?|
+peurs-courage-099|Tra viaggiare da solo per tre giorni e viaggiare con un gruppo di sconosciuti, cosa preferiresti?|Quale delle due ti attira di più: chiedere un aumento o fare un colloquio di lavoro?|
+peurs-courage-100|Se dovessi decidere, sarebbe affrontare un esame orale difficile o affrontare una prova fisica intensa?|Opteresti per partire per un paese sconosciuto o per imparare a guidare in una grande città?|
+peurs-courage-101|Quanti minuti ti servirebbero per ritrovare la calma dopo un grosso spavento in macchina?|Quanto tempo, in minuti, metteresti in conto per osservare un ragno prima di farlo uscire?|
+peurs-courage-102|Quanti minuti passeresti a prepararti mentalmente prima di un esame orale importante?|Quanti minuti ci metteresti a calmarti dopo esserti perso in un quartiere sconosciuto?|
+peurs-courage-103|Quanti minuti dedicheresti a deciderti a salire su un'attrazione adrenalinica?|In genere, quanti minuti ti prenderesti per chiedere aiuto in una situazione stressante?|
+peurs-courage-104|Quanti minuti ti servirebbero per rassicurare un amico che ha paura di prendere l'aereo?|Quanto tempo, in minuti, metteresti in conto per riprendere fiato dopo uno sforzo in alta quota?|
+peurs-courage-105|Quanti minuti passeresti a respirare con calma dopo una brutta sorpresa?|Quanti minuti ci metteresti ad abituarti al rumore di un'attrazione prima di salire?|
+peurs-courage-106|Quanti minuti dedicheresti ad accettare di parlare davanti alla classe?|In genere, quanti minuti ti prenderesti per rileggere i tuoi appunti prima di un discorso in pubblico?|
+peurs-courage-107|Quanti minuti ti servirebbero per spiegare una paura a una persona cara senza sentirti giudicato?|Quanto tempo, in minuti, metteresti in conto per sentirti a tuo agio in una riunione dove non conosci nessuno?|
+peurs-courage-108|Quanti minuti passeresti a valutare se attraversare una passerella altissima?|Quanti minuti ci metteresti a riflettere prima di una decisione che ti intimorisce?|
+peurs-courage-109|Quanti minuti dedicheresti a farti coraggio prima di una telefonata difficile?|In genere, quanti minuti ti prenderesti per prepararti prima di una prima visita da uno specialista?|
+peurs-courage-110|Quanti minuti ti servirebbero per osservare un ragno prima di farlo uscire?|Quanto tempo, in minuti, metteresti in conto per provare un discorso per un evento importante?|
+peurs-courage-111|Quanti minuti passeresti a calmarti dopo esserti perso in un quartiere sconosciuto?|Quanti minuti ci metteresti a deciderti a provare un corso di arrampicata per principianti?|
+peurs-courage-112|Quanti minuti dedicheresti a chiedere aiuto in una situazione stressante?|In genere, quanti minuti ti prenderesti per ritrovare la calma dopo un grosso spavento in macchina?|
+peurs-courage-113|Quanti minuti ti servirebbero per riprendere fiato dopo uno sforzo in alta quota?|Quanto tempo, in minuti, metteresti in conto per prepararti mentalmente prima di un esame orale importante?|
+peurs-courage-114|Quanti minuti passeresti ad abituarti al rumore di un'attrazione prima di salire?|Quanti minuti ci metteresti a deciderti a salire su un'attrazione adrenalinica?|
+peurs-courage-115|Quanti minuti dedicheresti a rileggere i tuoi appunti prima di un discorso in pubblico?|In genere, quanti minuti ti prenderesti per rassicurare un amico che ha paura di prendere l'aereo?|
+peurs-courage-116|Quanti minuti ti servirebbero per sentirti a tuo agio in una riunione dove non conosci nessuno?|Quanto tempo, in minuti, metteresti in conto per respirare con calma dopo una brutta sorpresa?|
+peurs-courage-117|Quanti minuti passeresti a riflettere prima di una decisione che ti intimorisce?|Quanti minuti ci metteresti ad accettare di parlare davanti alla classe?|
+peurs-courage-118|Quanti minuti dedicheresti a prepararti prima di una prima visita da uno specialista?|In genere, quanti minuti ti prenderesti per spiegare una paura a una persona cara senza sentirti giudicato?|
+peurs-courage-119|Quanti minuti ti servirebbero per provare un discorso per un evento importante?|Quanto tempo, in minuti, metteresti in conto per valutare se attraversare una passerella altissima?|
+peurs-courage-120|Quanti minuti passeresti a deciderti a provare un corso di arrampicata per principianti?|Quanti minuti ci metteresti a farti coraggio prima di una telefonata difficile?|
+peurs-courage-121|Quanti minuti passeresti a ritrovare la calma dopo un grosso spavento in macchina?|Quanti minuti ci metteresti a osservare un ragno prima di farlo uscire?|
+peurs-courage-122|Quanti minuti dedicheresti a prepararti mentalmente prima di un esame orale importante?|In genere, quanti minuti ti prenderesti per calmarti dopo esserti perso in un quartiere sconosciuto?|
+peurs-courage-123|Quanti minuti ti servirebbero per deciderti a salire su un'attrazione adrenalinica?|Quanto tempo, in minuti, metteresti in conto per chiedere aiuto in una situazione stressante?|
+peurs-courage-124|Quanti minuti passeresti a rassicurare un amico che ha paura di prendere l'aereo?|Quanti minuti ci metteresti a riprendere fiato dopo uno sforzo in alta quota?|
+peurs-courage-125|Quanti minuti dedicheresti a respirare con calma dopo una brutta sorpresa?|In genere, quanti minuti ti prenderesti per abituarti al rumore di un'attrazione prima di salire?|
+peurs-courage-126|A chi chiederesti consiglio per parlare della paura dell'aereo prima di un viaggio?|Chi chiameresti per ritrovare fiducia dopo un esame andato male?|
+peurs-courage-127|Chi contatteresti per primo per imparare a nuotare in tutta sicurezza?|A chi chiederesti un parere per organizzare una prova di arrampicata con istruttore?|
+peurs-courage-128|A chi ti rivolgeresti per trovare il coraggio di parlare davanti a un gruppo?|Con chi parleresti prima di tutto per riprovare a guidare dopo una lunga pausa?|
+peurs-courage-129|A chi chiederesti consiglio per avere un consiglio prima di un colloquio stressante?|Chi chiameresti per avere sostegno prima di un intervento in pubblico?|
+peurs-courage-130|Chi contatteresti per primo per preparare una prima uscita in montagna?|A chi chiederesti un parere per capire le regole di sicurezza di un'attività in acqua?|
+peurs-courage-131|A chi ti rivolgeresti per avere un parere su uno sport estremo?|Con chi parleresti prima di tutto per farti aiutare a parlare di un conflitto che ti preoccupa?|
+peurs-courage-132|A chi chiederesti consiglio per capire meglio una paura persistente degli ascensori?|Chi chiameresti per preparare un'escursione senza esperienza?|
+peurs-courage-133|Chi contatteresti per primo per trovare un'attività graduale per vincere le vertigini?|A chi chiederesti un parere per chiedere informazioni su un'attrazione adrenalinica?|
+peurs-courage-134|A chi ti rivolgeresti per prepararti a una presentazione di lavoro?|Con chi parleresti prima di tutto per imparare a reagire con calma davanti a un cane aggressivo?|
+peurs-courage-135|A chi chiederesti consiglio per ritrovare fiducia dopo un esame andato male?|Chi chiameresti per trovare un metodo di rilassamento prima di un volo?|
+peurs-courage-136|Chi contatteresti per primo per organizzare una prova di arrampicata con istruttore?|A chi chiederesti un parere per parlare del tuo stress davanti a un cambiamento di vita?|
+peurs-courage-137|A chi ti rivolgeresti per riprovare a guidare dopo una lunga pausa?|Con chi parleresti prima di tutto per parlare della paura dell'aereo prima di un viaggio?|
+peurs-courage-138|A chi chiederesti consiglio per avere sostegno prima di un intervento in pubblico?|Chi chiameresti per imparare a nuotare in tutta sicurezza?|
+peurs-courage-139|Chi contatteresti per primo per capire le regole di sicurezza di un'attività in acqua?|A chi chiederesti un parere per trovare il coraggio di parlare davanti a un gruppo?|
+peurs-courage-140|A chi ti rivolgeresti per farti aiutare a parlare di un conflitto che ti preoccupa?|Con chi parleresti prima di tutto per avere un consiglio prima di un colloquio stressante?|
+peurs-courage-141|A chi chiederesti consiglio per preparare un'escursione senza esperienza?|Chi chiameresti per preparare una prima uscita in montagna?|
+peurs-courage-142|Chi contatteresti per primo per chiedere informazioni su un'attrazione adrenalinica?|A chi chiederesti un parere per avere un parere su uno sport estremo?|
+peurs-courage-143|A chi ti rivolgeresti per imparare a reagire con calma davanti a un cane aggressivo?|Con chi parleresti prima di tutto per capire meglio una paura persistente degli ascensori?|
+peurs-courage-144|A chi chiederesti consiglio per trovare un metodo di rilassamento prima di un volo?|Chi chiameresti per trovare un'attività graduale per vincere le vertigini?|
+peurs-courage-145|Chi contatteresti per primo per parlare del tuo stress davanti a un cambiamento di vita?|A chi chiederesti un parere per prepararti a una presentazione di lavoro?|
+peurs-courage-146|Chi contatteresti per primo per parlare della paura dell'aereo prima di un viaggio?|A chi chiederesti un parere per ritrovare fiducia dopo un esame andato male?|
+peurs-courage-147|A chi ti rivolgeresti per imparare a nuotare in tutta sicurezza?|Con chi parleresti prima di tutto per organizzare una prova di arrampicata con istruttore?|
+peurs-courage-148|A chi chiederesti consiglio per trovare il coraggio di parlare davanti a un gruppo?|Chi chiameresti per riprovare a guidare dopo una lunga pausa?|
+peurs-courage-149|Chi contatteresti per primo per avere un consiglio prima di un colloquio stressante?|A chi chiederesti un parere per avere sostegno prima di un intervento in pubblico?|
+peurs-courage-150|A chi ti rivolgeresti per preparare una prima uscita in montagna?|Con chi parleresti prima di tutto per capire le regole di sicurezza di un'attività in acqua?|
+peurs-courage-151|Dove andresti per provare l'arrampicata senza correre rischi inutili?|In che posto vorresti parlare con calma di una situazione che ti preoccupa?|
+peurs-courage-152|In quale posto preferiresti imparare a gestire meglio la tua paura dell'acqua?|In che luogo decideresti di prepararti prima di un colloquio decisivo?|
+peurs-courage-153|In quale luogo ti piacerebbe allenarti a parlare davanti a un pubblico benevolo?|Dove sceglieresti di imparare a nuotare da adulto?|
+peurs-courage-154|Dove andresti per scoprire un'attività adrenalinica sotto supervisione?|In che posto vorresti iscriverti a un corso di public speaking?|
+peurs-courage-155|In quale posto preferiresti fare un'escursione facile con una guida?|In che luogo decideresti di fare un'uscita nella natura in sicurezza, in gruppo?|
+peurs-courage-156|In quale luogo ti piacerebbe provare una ruota panoramica per la prima volta?|Dove sceglieresti di ritrovare fiducia dopo una caduta in bici?|
+peurs-courage-157|Dove andresti per seguire un corso introduttivo di immersione?|In che posto vorresti provare il kayak con un istruttore?|
+peurs-courage-158|In quale posto preferiresti esercitarti alla guida dopo diversi mesi di pausa?|In che luogo decideresti di imparare a usare una parete d'arrampicata?|
+peurs-courage-159|In quale luogo ti piacerebbe imparare le tecniche di primo soccorso?|Dove sceglieresti di conoscere delle persone prima di un primo viaggio di gruppo?|
+peurs-courage-160|Dove andresti per parlare con calma di una situazione che ti preoccupa?|In che posto vorresti fare sport per gestire meglio il tuo stress?|
+peurs-courage-161|In quale posto preferiresti prepararti prima di un colloquio decisivo?|In che luogo decideresti di informarti sui rischi di un'attività con istruttore?|
+peurs-courage-162|In quale luogo ti piacerebbe imparare a nuotare da adulto?|Dove sceglieresti di provare l'arrampicata senza correre rischi inutili?|
+peurs-courage-163|Dove andresti per iscriverti a un corso di public speaking?|In che posto vorresti imparare a gestire meglio la tua paura dell'acqua?|
+peurs-courage-164|In quale posto preferiresti fare un'uscita nella natura in sicurezza, in gruppo?|In che luogo decideresti di allenarti a parlare davanti a un pubblico benevolo?|
+peurs-courage-165|In quale luogo ti piacerebbe ritrovare fiducia dopo una caduta in bici?|Dove sceglieresti di scoprire un'attività adrenalinica sotto supervisione?|
+peurs-courage-166|Dove andresti per provare il kayak con un istruttore?|In che posto vorresti fare un'escursione facile con una guida?|
+peurs-courage-167|In quale posto preferiresti imparare a usare una parete d'arrampicata?|In che luogo decideresti di provare una ruota panoramica per la prima volta?|
+peurs-courage-168|In quale luogo ti piacerebbe conoscere delle persone prima di un primo viaggio di gruppo?|Dove sceglieresti di seguire un corso introduttivo di immersione?|
+peurs-courage-169|Dove andresti per fare sport per gestire meglio il tuo stress?|In che posto vorresti esercitarti alla guida dopo diversi mesi di pausa?|
+peurs-courage-170|In quale posto preferiresti informarti sui rischi di un'attività con istruttore?|In che luogo decideresti di imparare le tecniche di primo soccorso?|
+peurs-courage-171|In quale posto preferiresti provare l'arrampicata senza correre rischi inutili?|In che luogo decideresti di parlare con calma di una situazione che ti preoccupa?|
+peurs-courage-172|In quale luogo ti piacerebbe imparare a gestire meglio la tua paura dell'acqua?|Dove sceglieresti di prepararti prima di un colloquio decisivo?|
+peurs-courage-173|Dove andresti per allenarti a parlare davanti a un pubblico benevolo?|In che posto vorresti imparare a nuotare da adulto?|
+peurs-courage-174|In quale posto preferiresti scoprire un'attività adrenalinica sotto supervisione?|In che luogo decideresti di iscriverti a un corso di public speaking?|
+peurs-courage-175|In quale luogo ti piacerebbe fare un'escursione facile con una guida?|Dove sceglieresti di fare un'uscita nella natura in sicurezza, in gruppo?|
+peurs-courage-176|Che consiglio daresti a una persona che ha molta paura di prendere la metro all'ora di punta?|Cosa suggeriresti a una persona che teme il giudizio degli altri durante una gara?|
+peurs-courage-177|Cosa consiglieresti a un amico che teme il suo primo discorso davanti ai compagni di corso?|Quale consiglio ti sembrerebbe utile per qualcuno che non vuole provare un'attrazione altissima?|
+peurs-courage-178|Quale sarebbe la tua prima raccomandazione per qualcuno che esita a provare l'arrampicata per paura di cadere?|Che consiglio concreto daresti a qualcuno che esita a fare il suo primo viaggio in solitaria?|
+peurs-courage-179|Che consiglio daresti a una persona che va in ansia prima di salire su un aereo?|Cosa suggeriresti a una persona che si sente in soggezione in una grande riunione?|
+peurs-courage-180|Cosa consiglieresti a un amico che non osa chiedere informazioni in stazione?|Quale consiglio ti sembrerebbe utile per qualcuno che ha paura dei cani fin dall'infanzia?|
+peurs-courage-181|Quale sarebbe la tua prima raccomandazione per qualcuno che soffre di vertigini sui ponti sospesi?|Che consiglio concreto daresti a qualcuno che teme una visita dal dentista?|
+peurs-courage-182|Che consiglio daresti a una persona che è in ansia per la prima uscita in bici in città?|Cosa suggeriresti a una persona che non sa come reagire davanti a un pubblico?|
+peurs-courage-183|Cosa consiglieresti a un amico che non riesce a dire di no a un amico insistente?|Quale consiglio ti sembrerebbe utile per qualcuno che ha paura di fare una figuraccia a un corso di danza?|
+peurs-courage-184|Quale sarebbe la tua prima raccomandazione per qualcuno che va nel panico all'idea di fare un colloquio?|Che consiglio concreto daresti a qualcuno che esita a chiedere aiuto a uno sconosciuto?|
+peurs-courage-185|Che consiglio daresti a una persona che teme il giudizio degli altri durante una gara?|Cosa suggeriresti a una persona che si preoccupa prima di un'escursione in montagna?|
+peurs-courage-186|Cosa consiglieresti a un amico che non vuole provare un'attrazione altissima?|Quale consiglio ti sembrerebbe utile per qualcuno che si sente a disagio a una festa piena di sconosciuti?|
+peurs-courage-187|Quale sarebbe la tua prima raccomandazione per qualcuno che esita a fare il suo primo viaggio in solitaria?|Che consiglio concreto daresti a qualcuno che ha molta paura di prendere la metro all'ora di punta?|
+peurs-courage-188|Che consiglio daresti a una persona che si sente in soggezione in una grande riunione?|Cosa suggeriresti a una persona che teme il suo primo discorso davanti ai compagni di corso?|
+peurs-courage-189|Cosa consiglieresti a un amico che ha paura dei cani fin dall'infanzia?|Quale consiglio ti sembrerebbe utile per qualcuno che esita a provare l'arrampicata per paura di cadere?|
+peurs-courage-190|Quale sarebbe la tua prima raccomandazione per qualcuno che teme una visita dal dentista?|Che consiglio concreto daresti a qualcuno che va in ansia prima di salire su un aereo?|
+peurs-courage-191|Che consiglio daresti a una persona che non sa come reagire davanti a un pubblico?|Cosa suggeriresti a una persona che non osa chiedere informazioni in stazione?|
+peurs-courage-192|Cosa consiglieresti a un amico che ha paura di fare una figuraccia a un corso di danza?|Quale consiglio ti sembrerebbe utile per qualcuno che soffre di vertigini sui ponti sospesi?|
+peurs-courage-193|Quale sarebbe la tua prima raccomandazione per qualcuno che esita a chiedere aiuto a uno sconosciuto?|Che consiglio concreto daresti a qualcuno che è in ansia per la prima uscita in bici in città?|
+peurs-courage-194|Che consiglio daresti a una persona che si preoccupa prima di un'escursione in montagna?|Cosa suggeriresti a una persona che non riesce a dire di no a un amico insistente?|
+peurs-courage-195|Cosa consiglieresti a un amico che si sente a disagio a una festa piena di sconosciuti?|Quale consiglio ti sembrerebbe utile per qualcuno che va nel panico all'idea di fare un colloquio?|
+peurs-courage-196|Cosa consiglieresti a un amico che ha molta paura di prendere la metro all'ora di punta?|Quale consiglio ti sembrerebbe utile per qualcuno che teme il giudizio degli altri durante una gara?|
+peurs-courage-197|Quale sarebbe la tua prima raccomandazione per qualcuno che teme il suo primo discorso davanti ai compagni di corso?|Che consiglio concreto daresti a qualcuno che non vuole provare un'attrazione altissima?|
+peurs-courage-198|Che consiglio daresti a una persona che esita a provare l'arrampicata per paura di cadere?|Cosa suggeriresti a una persona che esita a fare il suo primo viaggio in solitaria?|
+peurs-courage-199|Cosa consiglieresti a un amico che va in ansia prima di salire su un aereo?|Quale consiglio ti sembrerebbe utile per qualcuno che si sente in soggezione in una grande riunione?|
+peurs-courage-200|Quale sarebbe la tua prima raccomandazione per qualcuno che non osa chiedere informazioni in stazione?|Che consiglio concreto daresti a qualcuno che ha paura dei cani fin dall'infanzia?|
