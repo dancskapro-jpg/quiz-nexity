@@ -1,0 +1,399 @@
+vie-adulte-admin-001|¿Cuánto pagarías como máximo por un año de seguro de hogar para un estudio de 25 m²?|¿Qué precio te parecería razonable por la revisión anual de un coche pequeño de ciudad?|
+vie-adulte-admin-002|¿Cuánto estarías dispuesto a gastarte en ayuda para la mudanza de un estudio en la zona de Madrid?|En euros, ¿cuál sería tu tope para un certificado energético antes de alquilar un piso?|région parisienne → zona de Madrid
+vie-adulte-admin-003|¿Qué presupuesto calcularías para un fontanero de urgencia un sábado por la noche?|¿A partir de qué precio te parecería demasiado cara la reparación de una nevera fuera de garantía?|
+vie-adulte-admin-004|¿Cuánto pagarías como máximo por la revisión anual de una caldera individual?|¿Qué precio te parecería razonable por el alquiler de una furgoneta de 12 m³ durante un día?|
+vie-adulte-admin-005|¿Cuánto estarías dispuesto a gastarte en una consulta con un gestor para una declaración sencilla?|En euros, ¿cuál sería tu tope para dos horas de ayuda para montar muebles?|
+vie-adulte-admin-006|¿Qué presupuesto calcularías para un servicio de limpieza completa de un piso de 50 m²?|¿A partir de qué precio te parecería demasiado caro imprimir cincuenta documentos administrativos?|
+vie-adulte-admin-007|¿Cuánto pagarías como máximo por el alquiler de un guardamuebles de 5 m² durante un mes?|¿Qué precio te parecería razonable por un seguro de responsabilidad civil para un estudiante durante un año?|
+vie-adulte-admin-008|¿Cuánto estarías dispuesto a gastarte en un cerrajero para abrir una puerta que se te ha cerrado de golpe, de día?|En euros, ¿cuál sería tu tope para un mantenimiento completo del aire acondicionado de casa?|
+vie-adulte-admin-009|¿Qué presupuesto calcularías para un mes de Internet con fibra en casa?|¿A partir de qué precio te parecería demasiado caro un servicio de reenvío de correo durante seis meses?|
+vie-adulte-admin-010|¿Cuánto pagarías como máximo por la revisión anual de un coche pequeño de ciudad?|¿Qué precio te parecería razonable por un electricista para cambiar un enchufe?|
+vie-adulte-admin-011|¿Cuánto estarías dispuesto a gastarte en un certificado energético antes de alquilar un piso?|En euros, ¿cuál sería tu tope para un trastero de alquiler con seguridad durante un mes?|
+vie-adulte-admin-012|¿Qué presupuesto calcularías para la reparación de una nevera fuera de garantía?|¿A partir de qué precio te parecería demasiado caro un año de seguro de hogar para un estudio de 25 m²?|
+vie-adulte-admin-013|¿Cuánto pagarías como máximo por el alquiler de una furgoneta de 12 m³ durante un día?|¿Qué precio te parecería razonable por ayuda para la mudanza de un estudio en la zona de Madrid?|région parisienne → zona de Madrid
+vie-adulte-admin-014|¿Cuánto estarías dispuesto a gastarte en dos horas de ayuda para montar muebles?|En euros, ¿cuál sería tu tope para un fontanero de urgencia un sábado por la noche?|
+vie-adulte-admin-015|¿Qué presupuesto calcularías para imprimir cincuenta documentos administrativos?|¿A partir de qué precio te parecería demasiado cara la revisión anual de una caldera individual?|
+vie-adulte-admin-016|¿Cuánto pagarías como máximo por un seguro de responsabilidad civil para un estudiante durante un año?|¿Qué precio te parecería razonable por una consulta con un gestor para una declaración sencilla?|
+vie-adulte-admin-017|¿Cuánto estarías dispuesto a gastarte en un mantenimiento completo del aire acondicionado de casa?|En euros, ¿cuál sería tu tope para un servicio de limpieza completa de un piso de 50 m²?|
+vie-adulte-admin-018|¿Qué presupuesto calcularías para un servicio de reenvío de correo durante seis meses?|¿A partir de qué precio te parecería demasiado caro el alquiler de un guardamuebles de 5 m² durante un mes?|
+vie-adulte-admin-019|¿Cuánto pagarías como máximo por un electricista para cambiar un enchufe?|¿Qué precio te parecería razonable por un cerrajero para abrir una puerta que se te ha cerrado de golpe, de día?|
+vie-adulte-admin-020|¿Cuánto estarías dispuesto a gastarte en un trastero de alquiler con seguridad durante un mes?|En euros, ¿cuál sería tu tope para un mes de Internet con fibra en casa?|
+vie-adulte-admin-021|¿Cuánto estarías dispuesto a gastarte en un año de seguro de hogar para un estudio de 25 m²?|En euros, ¿cuál sería tu tope para la revisión anual de un coche pequeño de ciudad?|
+vie-adulte-admin-022|¿Qué presupuesto calcularías para ayuda con la mudanza de un estudio en la zona de Madrid?|¿A partir de qué precio te parecería demasiado caro un certificado energético antes de alquilar un piso?|région parisienne → zona de Madrid
+vie-adulte-admin-023|¿Cuánto pagarías como máximo por un fontanero de urgencia un sábado por la noche?|¿Qué precio te parecería razonable por la reparación de una nevera fuera de garantía?|
+vie-adulte-admin-024|¿Cuánto estarías dispuesto a gastarte en la revisión anual de una caldera individual?|En euros, ¿cuál sería tu tope para el alquiler de una furgoneta de 12 m³ durante un día?|
+vie-adulte-admin-025|¿Qué presupuesto calcularías para una consulta con un gestor para una declaración sencilla?|¿A partir de qué precio te parecerían demasiado caras dos horas de ayuda para montar muebles?|
+vie-adulte-admin-026|¿Qué contestarías si tu casero te anunciara una subida de gastos sin dar detalles?|¿Cómo responderías si tu compañía de teléfono te ofreciera una tarifa más cara de lo previsto?|
+vie-adulte-admin-027|¿Cuál sería tu primera frase si tu aseguradora te pidiera un documento que ya has enviado dos veces?|¿Tú qué dirías si el casero quisiera entrar a ver tu piso sin proponerte una cita?|
+vie-adulte-admin-028|¿Qué dirías si atención al cliente te dijera que falta una firma en tu expediente?|¿Qué palabras usarías si un asesor te dijera que tu expediente lleva un mes «en espera»?|
+vie-adulte-admin-029|¿Qué contestarías si un operario cancelara su visita dos horas antes?|¿Cómo responderías si alguien cercano te echara en cara que aplazas demasiado tus trámites?|
+vie-adulte-admin-030|¿Cuál sería tu primera frase si tu inmobiliaria se negara a detallar los gastos de gestión?|¿Tú qué dirías si un empleado te dijera que tienes que pedir cita otra vez por un documento que falta?|
+vie-adulte-admin-031|¿Qué dirías si tu banco te llamara por un cargo inusual?|¿Qué palabras usarías si tu aseguradora rechazara un reembolso sin una explicación clara?|
+vie-adulte-admin-032|¿Qué contestarías si un vecino te preguntara si has pagado las cuotas de la comunidad?|¿Cómo responderías si un operario te propusiera obras extra que no estaban previstas?|
+vie-adulte-admin-033|¿Cuál sería tu primera frase si un vendedor te dijera que la garantía acaba de caducar?|¿Tú qué dirías si la empresa de mudanzas te subiera el precio el mismo día de la mudanza?|
+vie-adulte-admin-034|¿Qué dirías si un funcionario te pidiera repetir una fotocopia que se lee perfectamente?|¿Qué palabras usarías si un asesor te pidiera que esperaras una semana más?|
+vie-adulte-admin-035|¿Qué contestarías si tu compañía de teléfono te ofreciera una tarifa más cara de lo previsto?|¿Cómo responderías si un repartidor se negara a subirte un paquete pesado hasta el piso?|
+vie-adulte-admin-036|¿Cuál sería tu primera frase si el casero quisiera entrar a ver tu piso sin proponerte una cita?|¿Tú qué dirías si tu compañía de teléfono te cobrara un servicio que nunca pediste?|
+vie-adulte-admin-037|¿Qué dirías si un asesor te dijera que tu expediente lleva un mes «en espera»?|¿Qué palabras usarías si tu casero te anunciara una subida de gastos sin dar detalles?|
+vie-adulte-admin-038|¿Qué contestarías si alguien cercano te echara en cara que aplazas demasiado tus trámites?|¿Cómo responderías si tu aseguradora te pidiera un documento que ya has enviado dos veces?|
+vie-adulte-admin-039|¿Cuál sería tu primera frase si un empleado te dijera que tienes que pedir cita otra vez por un documento que falta?|¿Tú qué dirías si atención al cliente te dijera que falta una firma en tu expediente?|
+vie-adulte-admin-040|¿Qué dirías si tu aseguradora rechazara un reembolso sin una explicación clara?|¿Qué palabras usarías si un operario cancelara su visita dos horas antes?|
+vie-adulte-admin-041|¿Qué contestarías si un operario te propusiera obras extra que no estaban previstas?|¿Cómo responderías si tu inmobiliaria se negara a detallar los gastos de gestión?|
+vie-adulte-admin-042|¿Cuál sería tu primera frase si la empresa de mudanzas te subiera el precio el mismo día de la mudanza?|¿Tú qué dirías si tu banco te llamara por un cargo inusual?|
+vie-adulte-admin-043|¿Qué dirías si un asesor te pidiera que esperaras una semana más?|¿Qué palabras usarías si un vecino te preguntara si has pagado las cuotas de la comunidad?|
+vie-adulte-admin-044|¿Qué contestarías si un repartidor se negara a subirte un paquete pesado hasta el piso?|¿Cómo responderías si un vendedor te dijera que la garantía acaba de caducar?|
+vie-adulte-admin-045|¿Cuál sería tu primera frase si tu compañía de teléfono te cobrara un servicio que nunca pediste?|¿Tú qué dirías si un funcionario te pidiera repetir una fotocopia que se lee perfectamente?|
+vie-adulte-admin-046|¿Cuál sería tu primera frase si tu casero te anunciara una subida de gastos sin dar detalles?|¿Tú qué dirías si tu compañía de teléfono te ofreciera una tarifa más cara de lo previsto?|
+vie-adulte-admin-047|¿Qué dirías si tu aseguradora te pidiera un documento que ya has enviado dos veces?|¿Qué palabras usarías si el casero quisiera entrar a ver tu piso sin proponerte una cita?|
+vie-adulte-admin-048|¿Qué contestarías si atención al cliente te dijera que falta una firma en tu expediente?|¿Cómo responderías si un asesor te dijera que tu expediente lleva un mes «en espera»?|
+vie-adulte-admin-049|¿Cuál sería tu primera frase si un operario cancelara su visita dos horas antes?|¿Tú qué dirías si alguien cercano te echara en cara que aplazas demasiado tus trámites?|
+vie-adulte-admin-050|¿Qué dirías si tu inmobiliaria se negara a detallar los gastos de gestión?|¿Qué palabras usarías si un empleado te dijera que tienes que pedir cita otra vez por un documento que falta?|
+vie-adulte-admin-051|¿Qué harías primero si perdieras la tarjeta del banco la víspera de un viaje?|¿Qué decidirías hacer antes de nada si se estropeara la lavadora un domingo por la noche?|
+vie-adulte-admin-052|¿Cuál sería tu primer reflejo si una factura de la luz fuera el doble de lo habitual?|¿Cómo actuarías primero si te llegara una carta certificada estando de vacaciones?|
+vie-adulte-admin-053|¿Por dónde empezarías si tu casero no respondiera ante un problema con la calefacción?|¿Qué sería lo primero que harías si la inmobiliaria retrasara la entrega de llaves del piso nuevo?|
+vie-adulte-admin-054|¿Qué harías primero si te reclamaran una factura que ya has pagado?|¿Qué decidirías hacer antes de nada si en tu póliza de seguro apareciera una dirección equivocada?|
+vie-adulte-admin-055|¿Cuál sería tu primer reflejo si te rechazaran la solicitud de alquiler por un documento que falta?|¿Cómo actuarías primero si un paquete con un electrodoméstico llegara dañado?|
+vie-adulte-admin-056|¿Por dónde empezarías si descubrieras una fuga de agua en tu piso?|¿Qué sería lo primero que harías si tu contrato de alquiler indicara una fecha de salida errónea?|
+vie-adulte-admin-057|¿Qué harías primero si vieras un cargo desconocido en tu cuenta?|¿Qué decidirías hacer antes de nada si no hubieran registrado tu cambio de dirección?|
+vie-adulte-admin-058|¿Cuál sería tu primer reflejo si descubrieras que tu DNI caduca antes de un viaje?|¿Cómo actuarías primero si se estropeara la calefacción a principios del invierno?|carte d'identité → DNI
+vie-adulte-admin-059|¿Por dónde empezarías si se te cayera Internet en pleno teletrabajo?|¿Qué sería lo primero que harías si perdieras los justificantes necesarios para una declaración?|
+vie-adulte-admin-060|¿Qué harías primero si se estropeara la lavadora un domingo por la noche?|¿Qué decidirías hacer antes de nada si tu coche no arrancara antes de una cita importante?|
+vie-adulte-admin-061|¿Cuál sería tu primer reflejo si te llegara una carta certificada estando de vacaciones?|¿Cómo actuarías primero si un reembolso que esperas desde hace tres semanas siguiera sin llegar?|
+vie-adulte-admin-062|¿Por dónde empezarías si la inmobiliaria retrasara la entrega de llaves del piso nuevo?|¿Qué sería lo primero que harías si perdieras la tarjeta del banco la víspera de un viaje?|
+vie-adulte-admin-063|¿Qué harías primero si en tu póliza de seguro apareciera una dirección equivocada?|¿Qué decidirías hacer antes de nada si una factura de la luz fuera el doble de lo habitual?|
+vie-adulte-admin-064|¿Cuál sería tu primer reflejo si un paquete con un electrodoméstico llegara dañado?|¿Cómo actuarías primero si tu casero no respondiera ante un problema con la calefacción?|
+vie-adulte-admin-065|¿Por dónde empezarías si tu contrato de alquiler indicara una fecha de salida errónea?|¿Qué sería lo primero que harías si te reclamaran una factura que ya has pagado?|
+vie-adulte-admin-066|¿Qué harías primero si no hubieran registrado tu cambio de dirección?|¿Qué decidirías hacer antes de nada si te rechazaran la solicitud de alquiler por un documento que falta?|
+vie-adulte-admin-067|¿Cuál sería tu primer reflejo si se estropeara la calefacción a principios del invierno?|¿Cómo actuarías primero si descubrieras una fuga de agua en tu piso?|
+vie-adulte-admin-068|¿Por dónde empezarías si perdieras los justificantes necesarios para una declaración?|¿Qué sería lo primero que harías si vieras un cargo desconocido en tu cuenta?|
+vie-adulte-admin-069|¿Qué harías primero si tu coche no arrancara antes de una cita importante?|¿Qué decidirías hacer antes de nada si descubrieras que tu DNI caduca antes de un viaje?|carte d'identité → DNI
+vie-adulte-admin-070|¿Cuál sería tu primer reflejo si un reembolso que esperas desde hace tres semanas siguiera sin llegar?|¿Cómo actuarías primero si se te cayera Internet en pleno teletrabajo?|
+vie-adulte-admin-071|¿Cuál sería tu primer reflejo si perdieras la tarjeta del banco la víspera de un viaje?|¿Cómo actuarías primero si se estropeara la lavadora un domingo por la noche?|
+vie-adulte-admin-072|¿Por dónde empezarías si una factura de la luz fuera el doble de lo habitual?|¿Qué sería lo primero que harías si te llegara una carta certificada estando de vacaciones?|
+vie-adulte-admin-073|¿Qué harías primero si tu casero no respondiera ante un problema con la calefacción?|¿Qué decidirías hacer antes de nada si la inmobiliaria retrasara la entrega de llaves del piso nuevo?|
+vie-adulte-admin-074|¿Cuál sería tu primer reflejo si te reclamaran una factura que ya has pagado?|¿Cómo actuarías primero si en tu póliza de seguro apareciera una dirección equivocada?|
+vie-adulte-admin-075|¿Por dónde empezarías si te rechazaran la solicitud de alquiler por un documento que falta?|¿Qué sería lo primero que harías si un paquete con un electrodoméstico llegara dañado?|
+vie-adulte-admin-076|¿Qué elegirías, alquilar un piso amueblado o alquilar un piso sin amueblar?|Si solo pudieras quedarte con una opción, ¿contratar una empresa de mudanzas o mudarte con ayuda de tu gente?|
+vie-adulte-admin-077|Entre contratar un seguro a todo riesgo y elegir una cobertura mínima adaptada, ¿qué preferirías?|¿Qué te tienta más: comprar una lavadora o ir a una lavandería durante un tiempo?|
+vie-adulte-admin-078|Si tuvieras que decidir, ¿comprar un mueble en la tienda o pedir que te lo traigan a casa?|¿Te decantarías por vivir solo en un estudio o por compartir un piso más grande?|
+vie-adulte-admin-079|¿Qué elegirías, hacer los trámites por Internet o pedir cita presencial?|Si solo pudieras quedarte con una opción, ¿domiciliar los recibos o pagarlos a mano cuando vencen?|
+vie-adulte-admin-080|Entre vivir cerca del trabajo y pagar menos en las afueras, ¿qué preferirías?|¿Qué te tienta más: elegir un banco online o elegir un banco con oficinas?|
+vie-adulte-admin-081|Si tuvieras que decidir, ¿ahorrar un poco cada semana o ahorrar una vez al mes?|¿Te decantarías por comprar un ordenador nuevo o por comprar uno reacondicionado?|
+vie-adulte-admin-082|¿Qué elegirías, comprar un coche de segunda mano o usar el transporte público?|Si solo pudieras quedarte con una opción, ¿reparar un aparato pequeño o cambiarlo si ya no tiene garantía?|
+vie-adulte-admin-083|Entre pagar una suscripción anual y pagar mes a mes sin permanencia, ¿qué preferirías?|¿Qué te tienta más: guardar los papeles en un archivador o escanearlos y ordenarlos?|
+vie-adulte-admin-084|Si tuvieras que decidir, ¿llevar las cuentas con una app o con una simple hoja de cálculo?|¿Te decantarías por vivir sin coche o por alquilar uno cuando haga falta?|
+vie-adulte-admin-085|¿Qué elegirías, contratar una empresa de mudanzas o mudarte con ayuda de tu gente?|Si solo pudieras quedarte con una opción, ¿limpiar tú mismo o pagar un servicio de limpieza puntual?|
+vie-adulte-admin-086|Entre comprar una lavadora e ir a una lavandería durante un tiempo, ¿qué preferirías?|¿Qué te tienta más: planificar tus comidas o improvisar cada día?|
+vie-adulte-admin-087|Si tuvieras que decidir, ¿vivir solo en un estudio o compartir un piso más grande?|¿Te decantarías por alquilar un piso amueblado o por alquilar uno sin amueblar?|
+vie-adulte-admin-088|¿Qué elegirías, domiciliar los recibos o pagarlos a mano cuando vencen?|Si solo pudieras quedarte con una opción, ¿contratar un seguro a todo riesgo o elegir una cobertura mínima adaptada?|
+vie-adulte-admin-089|Entre elegir un banco online y elegir un banco con oficinas, ¿qué preferirías?|¿Qué te tienta más: comprar un mueble en la tienda o pedir que te lo traigan a casa?|
+vie-adulte-admin-090|Si tuvieras que decidir, ¿comprar un ordenador nuevo o comprar uno reacondicionado?|¿Te decantarías por hacer los trámites por Internet o por pedir cita presencial?|
+vie-adulte-admin-091|¿Qué elegirías, reparar un aparato pequeño o cambiarlo si ya no tiene garantía?|Si solo pudieras quedarte con una opción, ¿vivir cerca del trabajo o pagar menos en las afueras?|
+vie-adulte-admin-092|Entre guardar los papeles en un archivador y escanearlos y ordenarlos, ¿qué preferirías?|¿Qué te tienta más: ahorrar un poco cada semana o ahorrar una vez al mes?|
+vie-adulte-admin-093|Si tuvieras que decidir, ¿vivir sin coche o alquilar uno cuando haga falta?|¿Te decantarías por comprar un coche de segunda mano o por usar el transporte público?|
+vie-adulte-admin-094|¿Qué elegirías, limpiar tú mismo o pagar un servicio de limpieza puntual?|Si solo pudieras quedarte con una opción, ¿pagar una suscripción anual o pagar mes a mes sin permanencia?|
+vie-adulte-admin-095|Entre planificar tus comidas e improvisar cada día, ¿qué preferirías?|¿Qué te tienta más: llevar las cuentas con una app o con una simple hoja de cálculo?|
+vie-adulte-admin-096|Entre alquilar un piso amueblado y alquilar un piso sin amueblar, ¿qué preferirías?|¿Qué te tienta más: contratar una empresa de mudanzas o mudarte con ayuda de tu gente?|
+vie-adulte-admin-097|Si tuvieras que decidir, ¿contratar un seguro a todo riesgo o elegir una cobertura mínima adaptada?|¿Te decantarías por comprar una lavadora o por ir a una lavandería durante un tiempo?|
+vie-adulte-admin-098|¿Qué elegirías, comprar un mueble en la tienda o pedir que te lo traigan a casa?|Si solo pudieras quedarte con una opción, ¿vivir solo en un estudio o compartir un piso más grande?|
+vie-adulte-admin-099|Entre hacer los trámites por Internet y pedir cita presencial, ¿qué preferirías?|¿Qué te tienta más: domiciliar los recibos o pagarlos a mano cuando vencen?|
+vie-adulte-admin-100|Si tuvieras que decidir, ¿vivir cerca del trabajo o pagar menos en las afueras?|¿Te decantarías por elegir un banco online o por elegir un banco con oficinas?|
+vie-adulte-admin-101|¿Cuántos minutos necesitarías para rellenar una solicitud de cambio de dirección por Internet?|¿Cuánto tiempo, en minutos, calcularías para ordenar el correo acumulado?|
+vie-adulte-admin-102|¿Cuántos minutos te pasarías archivando las facturas de un mes?|¿Cuántos minutos tardarías en actualizar tus datos bancarios en un organismo?|
+vie-adulte-admin-103|¿Cuántos minutos le dedicarías a leer un presupuesto de obra de dos páginas?|Por lo general, ¿cuántos minutos te llevaría avisar a atención al cliente de un problema con una entrega?|
+vie-adulte-admin-104|¿Cuántos minutos necesitarías para revisar una factura de teléfono detallada?|¿Cuánto tiempo, en minutos, calcularías para preparar una caja de libros para una mudanza?|
+vie-adulte-admin-105|¿Cuántos minutos te pasarías preparando la documentación básica para alquilar un piso?|¿Cuántos minutos tardarías en buscar un operario disponible cerca de casa?|
+vie-adulte-admin-106|¿Cuántos minutos le dedicarías a comparar tres ofertas de seguro de hogar?|Por lo general, ¿cuántos minutos te llevaría comparar el consumo de dos electrodomésticos?|
+vie-adulte-admin-107|¿Cuántos minutos necesitarías para organizar el presupuesto del mes que viene?|¿Cuánto tiempo, en minutos, calcularías para hacer una lista de los muebles antes de una mudanza?|
+vie-adulte-admin-108|¿Cuántos minutos te pasarías escribiéndole un correo a tu casero?|¿Cuántos minutos tardarías en pedir cita para renovar un documento?|
+vie-adulte-admin-109|¿Cuántos minutos le dedicarías a preparar los papeles antes de una cita administrativa?|Por lo general, ¿cuántos minutos te llevaría rellenar un formulario de reembolso sencillo?|
+vie-adulte-admin-110|¿Cuántos minutos necesitarías para ordenar el correo acumulado?|¿Cuánto tiempo, en minutos, calcularías para comprobar cuándo vencen tus suscripciones?|
+vie-adulte-admin-111|¿Cuántos minutos te pasarías actualizando tus datos bancarios en un organismo?|¿Cuántos minutos tardarías en limpiar tu correo electrónico de facturas ya gestionadas?|
+vie-adulte-admin-112|¿Cuántos minutos le dedicarías a avisar a atención al cliente de un problema con una entrega?|Por lo general, ¿cuántos minutos te llevaría rellenar una solicitud de cambio de dirección por Internet?|
+vie-adulte-admin-113|¿Cuántos minutos necesitarías para preparar una caja de libros para una mudanza?|¿Cuánto tiempo, en minutos, calcularías para archivar las facturas de un mes?|
+vie-adulte-admin-114|¿Cuántos minutos te pasarías buscando un operario disponible cerca de casa?|¿Cuántos minutos tardarías en leer un presupuesto de obra de dos páginas?|
+vie-adulte-admin-115|¿Cuántos minutos le dedicarías a comparar el consumo de dos electrodomésticos?|Por lo general, ¿cuántos minutos te llevaría revisar una factura de teléfono detallada?|
+vie-adulte-admin-116|¿Cuántos minutos necesitarías para hacer una lista de los muebles antes de una mudanza?|¿Cuánto tiempo, en minutos, calcularías para preparar la documentación básica para alquilar un piso?|
+vie-adulte-admin-117|¿Cuántos minutos te pasarías pidiendo cita para renovar un documento?|¿Cuántos minutos tardarías en comparar tres ofertas de seguro de hogar?|
+vie-adulte-admin-118|¿Cuántos minutos le dedicarías a rellenar un formulario de reembolso sencillo?|Por lo general, ¿cuántos minutos te llevaría organizar el presupuesto del mes que viene?|
+vie-adulte-admin-119|¿Cuántos minutos necesitarías para comprobar cuándo vencen tus suscripciones?|¿Cuánto tiempo, en minutos, calcularías para escribirle un correo a tu casero?|
+vie-adulte-admin-120|¿Cuántos minutos te pasarías limpiando tu correo electrónico de facturas ya gestionadas?|¿Cuántos minutos tardarías en preparar los papeles antes de una cita administrativa?|
+vie-adulte-admin-121|¿Cuántos minutos te pasarías rellenando una solicitud de cambio de dirección por Internet?|¿Cuántos minutos tardarías en ordenar el correo acumulado?|
+vie-adulte-admin-122|¿Cuántos minutos le dedicarías a archivar las facturas de un mes?|Por lo general, ¿cuántos minutos te llevaría actualizar tus datos bancarios en un organismo?|
+vie-adulte-admin-123|¿Cuántos minutos necesitarías para leer un presupuesto de obra de dos páginas?|¿Cuánto tiempo, en minutos, calcularías para avisar a atención al cliente de un problema con una entrega?|
+vie-adulte-admin-124|¿Cuántos minutos te pasarías revisando una factura de teléfono detallada?|¿Cuántos minutos tardarías en preparar una caja de libros para una mudanza?|
+vie-adulte-admin-125|¿Cuántos minutos le dedicarías a preparar la documentación básica para alquilar un piso?|Por lo general, ¿cuántos minutos te llevaría buscar un operario disponible cerca de casa?|
+vie-adulte-admin-126|¿A quién le pedirías consejo para entender una factura de la luz anormalmente alta?|¿A quién llamarías para encontrar un fontanero para una fuga urgente?|
+vie-adulte-admin-127|¿Con quién contactarías primero para que te aconsejen sobre un seguro de hogar?|¿A quién le pedirías opinión para resolver un problema con la devolución de la fianza?|
+vie-adulte-admin-128|¿A quién recurrirías para avisar de un fallo de la calefacción en un piso de alquiler?|¿Con qué persona hablarías primero para organizar la entrega de llaves de un piso?|
+vie-adulte-admin-129|¿A quién le pedirías consejo para pedir un presupuesto de mudanza?|¿A quién llamarías para pedir un justificante de pago de los gastos de comunidad?|
+vie-adulte-admin-130|¿Con quién contactarías primero para aclarar una cláusula de un contrato de alquiler?|¿A quién le pedirías opinión para entender los cargos de tu tarifa de teléfono?|
+vie-adulte-admin-131|¿A quién recurrirías para reclamar un cargo bancario desconocido?|¿Con qué persona hablarías primero para que te arreglen la lavadora?|
+vie-adulte-admin-132|¿A quién le pedirías consejo para revisar un presupuesto de obra antes de aceptarlo?|¿A quién llamarías para conocer las ayudas posibles para un estudiante que vive de alquiler?|
+vie-adulte-admin-133|¿Con quién contactarías primero para entender los trámites de un cambio de dirección?|¿A quién le pedirías opinión para comprobar las condiciones para dar de baja un seguro?|
+vie-adulte-admin-134|¿A quién recurrirías para informarte sobre la declaración de la renta?|¿Con qué persona hablarías primero para encontrar un asesor para un préstamo personal?|
+vie-adulte-admin-135|¿A quién le pedirías consejo para encontrar un fontanero para una fuga urgente?|¿A quién llamarías para conseguir un duplicado de una factura?|
+vie-adulte-admin-136|¿Con quién contactarías primero para resolver un problema con la devolución de la fianza?|¿A quién le pedirías opinión para avisar de un error en un contrato de luz o gas?|
+vie-adulte-admin-137|¿A quién recurrirías para organizar la entrega de llaves de un piso?|¿Con qué persona hablarías primero para entender una factura de la luz anormalmente alta?|
+vie-adulte-admin-138|¿A quién le pedirías consejo para pedir un justificante de pago de los gastos de comunidad?|¿A quién llamarías para que te aconsejen sobre un seguro de hogar?|
+vie-adulte-admin-139|¿Con quién contactarías primero para entender los cargos de tu tarifa de teléfono?|¿A quién le pedirías opinión para avisar de un fallo de la calefacción en un piso de alquiler?|
+vie-adulte-admin-140|¿A quién recurrirías para que te arreglen la lavadora?|¿Con qué persona hablarías primero para pedir un presupuesto de mudanza?|
+vie-adulte-admin-141|¿A quién le pedirías consejo para conocer las ayudas posibles para un estudiante que vive de alquiler?|¿A quién llamarías para aclarar una cláusula de un contrato de alquiler?|
+vie-adulte-admin-142|¿Con quién contactarías primero para comprobar las condiciones para dar de baja un seguro?|¿A quién le pedirías opinión para reclamar un cargo bancario desconocido?|
+vie-adulte-admin-143|¿A quién recurrirías para encontrar un asesor para un préstamo personal?|¿Con qué persona hablarías primero para revisar un presupuesto de obra antes de aceptarlo?|
+vie-adulte-admin-144|¿A quién le pedirías consejo para conseguir un duplicado de una factura?|¿A quién llamarías para entender los trámites de un cambio de dirección?|
+vie-adulte-admin-145|¿Con quién contactarías primero para avisar de un error en un contrato de luz o gas?|¿A quién le pedirías opinión para informarte sobre la declaración de la renta?|
+vie-adulte-admin-146|¿Con quién contactarías primero para entender una factura de la luz anormalmente alta?|¿A quién le pedirías opinión para encontrar un fontanero para una fuga urgente?|
+vie-adulte-admin-147|¿A quién recurrirías para que te aconsejen sobre un seguro de hogar?|¿Con qué persona hablarías primero para resolver un problema con la devolución de la fianza?|
+vie-adulte-admin-148|¿A quién le pedirías consejo para avisar de un fallo de la calefacción en un piso de alquiler?|¿A quién llamarías para organizar la entrega de llaves de un piso?|
+vie-adulte-admin-149|¿Con quién contactarías primero para pedir un presupuesto de mudanza?|¿A quién le pedirías opinión para pedir un justificante de pago de los gastos de comunidad?|
+vie-adulte-admin-150|¿A quién recurrirías para aclarar una cláusula de un contrato de alquiler?|¿Con qué persona hablarías primero para entender los cargos de tu tarifa de teléfono?|
+vie-adulte-admin-151|¿Adónde irías para hacer fotocopias rápido antes de una cita?|¿En qué sitio querrías encontrar ayuda con la declaración de la renta?|
+vie-adulte-admin-152|¿En qué lugar preferirías comprar cajas para una mudanza?|¿Dónde decidirías reunirte en persona con un asesor del banco?|
+vie-adulte-admin-153|¿En qué sitio te gustaría hacer copias de las llaves de casa?|¿Dónde elegirías reparar un pequeño electrodoméstico?|
+vie-adulte-admin-154|¿Adónde irías para dejar un paquete de devolución de tamaño mediano?|¿En qué sitio querrías comprar sobres para enviar cartas certificadas?|
+vie-adulte-admin-155|¿En qué lugar preferirías pedir consejo sobre un seguro de coche?|¿Dónde decidirías buscar consejos para tu primer piso?|
+vie-adulte-admin-156|¿En qué sitio te gustaría recoger un documento administrativo que ya está listo?|¿Dónde elegirías comprar una caja para guardar los papeles?|
+vie-adulte-admin-157|¿Adónde irías para comprar una regleta de buena calidad?|¿En qué sitio querrías comprar bombillas de bajo consumo?|
+vie-adulte-admin-158|¿En qué lugar preferirías alquilar una furgoneta para unas horas?|¿Dónde decidirías pedir una revisión de una caldera individual?|
+vie-adulte-admin-159|¿En qué sitio te gustaría pedir una revisión de una instalación eléctrica?|¿Dónde elegirías deshacerte de un colchón viejo para que se lo lleven?|
+vie-adulte-admin-160|¿Adónde irías para encontrar ayuda con la declaración de la renta?|¿En qué sitio querrías llevar aparatos viejos a reciclar?|
+vie-adulte-admin-161|¿En qué lugar preferirías reunirte en persona con un asesor del banco?|¿Dónde decidirías buscar un trastero para dos meses?|
+vie-adulte-admin-162|¿En qué sitio te gustaría reparar un pequeño electrodoméstico?|¿Dónde elegirías hacer fotocopias rápido antes de una cita?|
+vie-adulte-admin-163|¿Adónde irías para comprar sobres para enviar cartas certificadas?|¿En qué sitio querrías comprar cajas para una mudanza?|
+vie-adulte-admin-164|¿En qué lugar preferirías buscar consejos para tu primer piso?|¿Dónde decidirías hacer copias de las llaves de casa?|
+vie-adulte-admin-165|¿En qué sitio te gustaría comprar una caja para guardar los papeles?|¿Dónde elegirías dejar un paquete de devolución de tamaño mediano?|
+vie-adulte-admin-166|¿Adónde irías para comprar bombillas de bajo consumo?|¿En qué sitio querrías pedir consejo sobre un seguro de coche?|
+vie-adulte-admin-167|¿En qué lugar preferirías pedir una revisión de una caldera individual?|¿Dónde decidirías recoger un documento administrativo que ya está listo?|
+vie-adulte-admin-168|¿En qué sitio te gustaría deshacerte de un colchón viejo para que se lo lleven?|¿Dónde elegirías comprar una regleta de buena calidad?|
+vie-adulte-admin-169|¿Adónde irías para llevar aparatos viejos a reciclar?|¿En qué sitio querrías alquilar una furgoneta para unas horas?|
+vie-adulte-admin-170|¿En qué lugar preferirías buscar un trastero para dos meses?|¿Dónde decidirías pedir una revisión de una instalación eléctrica?|
+vie-adulte-admin-171|¿En qué lugar preferirías hacer fotocopias rápido antes de una cita?|¿Dónde decidirías buscar ayuda con la declaración de la renta?|
+vie-adulte-admin-172|¿En qué sitio te gustaría comprar cajas para una mudanza?|¿Dónde elegirías reunirte en persona con un asesor del banco?|
+vie-adulte-admin-173|¿Adónde irías para hacer copias de las llaves de casa?|¿En qué sitio querrías reparar un pequeño electrodoméstico?|
+vie-adulte-admin-174|¿En qué lugar preferirías dejar un paquete de devolución de tamaño mediano?|¿Dónde decidirías comprar sobres para enviar cartas certificadas?|
+vie-adulte-admin-175|¿En qué sitio te gustaría pedir consejo sobre un seguro de coche?|¿Dónde elegirías buscar consejos para tu primer piso?|
+vie-adulte-admin-176|¿Qué criterio sería el más importante para ti al elegir un seguro de hogar para tu primer piso?|¿En qué serías más exigente al elegir un seguro médico privado?|complémentaire santé → seguro médico privado
+vie-adulte-admin-177|¿Qué es lo primero que mirarías al firmar el contrato de alquiler de un piso?|¿Cuál sería tu prioridad al poner una cerradura en la puerta de entrada?|
+vie-adulte-admin-178|¿Qué sería innegociable para ti al elegir una empresa de mudanzas?|¿Qué detalle comprobarías antes de contratar una garantía para un ordenador caro?|
+vie-adulte-admin-179|¿Qué criterio sería el más importante para ti al comprar una lavadora?|¿En qué serías más exigente al alquilar un estudio en una ciudad nueva?|
+vie-adulte-admin-180|¿Qué es lo primero que mirarías al elegir tu banco principal?|¿Cuál sería tu prioridad al elegir a un profesional para una pequeña reforma?|
+vie-adulte-admin-181|¿Qué sería innegociable para ti al pedirle presupuesto a un fontanero?|¿Qué detalle comprobarías antes de elegir un sistema para ordenar documentos?|
+vie-adulte-admin-182|¿Qué criterio sería el más importante para ti al elegir una tarifa de Internet?|¿En qué serías más exigente al comprar un sofá para un salón pequeño?|
+vie-adulte-admin-183|¿Qué es lo primero que mirarías al comparar compañías eléctricas?|¿Cuál sería tu prioridad al elegir una tarifa de móvil sin permanencia?|
+vie-adulte-admin-184|¿Qué sería innegociable para ti al comprar un coche de segunda mano?|¿Qué detalle comprobarías antes de alquilar un vehículo para una mudanza?|
+vie-adulte-admin-185|¿Qué criterio sería el más importante para ti al elegir un seguro médico privado?|¿En qué serías más exigente al cambiar de seguro?|complémentaire santé → seguro médico privado
+vie-adulte-admin-186|¿Qué es lo primero que mirarías al poner una cerradura en la puerta de entrada?|¿Cuál sería tu prioridad al elegir un servicio de limpieza puntual?|
+vie-adulte-admin-187|¿Qué sería innegociable para ti al contratar una garantía para un ordenador caro?|¿Qué detalle comprobarías antes de elegir un seguro de hogar para tu primer piso?|
+vie-adulte-admin-188|¿Qué criterio sería el más importante para ti al alquilar un estudio en una ciudad nueva?|¿En qué serías más exigente al firmar el contrato de alquiler de un piso?|
+vie-adulte-admin-189|¿Qué es lo primero que mirarías al elegir a un profesional para una pequeña reforma?|¿Cuál sería tu prioridad al elegir una empresa de mudanzas?|
+vie-adulte-admin-190|¿Qué sería innegociable para ti al elegir un sistema para ordenar documentos?|¿Qué detalle comprobarías antes de comprar una lavadora?|
+vie-adulte-admin-191|¿Qué criterio sería el más importante para ti al comprar un sofá para un salón pequeño?|¿En qué serías más exigente al elegir tu banco principal?|
+vie-adulte-admin-192|¿Qué es lo primero que mirarías al elegir una tarifa de móvil sin permanencia?|¿Cuál sería tu prioridad al pedirle presupuesto a un fontanero?|
+vie-adulte-admin-193|¿Qué sería innegociable para ti al alquilar un vehículo para una mudanza?|¿Qué detalle comprobarías antes de elegir una tarifa de Internet?|
+vie-adulte-admin-194|¿Qué criterio sería el más importante para ti al cambiar de seguro?|¿En qué serías más exigente al comparar compañías eléctricas?|
+vie-adulte-admin-195|¿Qué es lo primero que mirarías al elegir un servicio de limpieza puntual?|¿Cuál sería tu prioridad al comprar un coche de segunda mano?|
+vie-adulte-admin-196|¿Qué es lo primero que mirarías al elegir un seguro de hogar para tu primer piso?|¿Cuál sería tu prioridad al elegir un seguro médico privado?|complémentaire santé → seguro médico privado
+vie-adulte-admin-197|¿Qué sería innegociable para ti al firmar el contrato de alquiler de un piso?|¿Qué detalle comprobarías antes de poner una cerradura en la puerta de entrada?|
+vie-adulte-admin-198|¿Qué criterio sería el más importante para ti al elegir una empresa de mudanzas?|¿En qué serías más exigente al contratar una garantía para un ordenador caro?|
+vie-adulte-admin-199|¿Qué es lo primero que mirarías al comprar una lavadora?|¿Cuál sería tu prioridad al alquilar un estudio en una ciudad nueva?|
+vie-adulte-admin-200|¿Qué sería innegociable para ti al elegir tu banco principal?|¿Qué detalle comprobarías antes de elegir a un profesional para una pequeña reforma?|
+transports-deplacements-001|¿Cuánto pagarías como máximo por un trayecto de taxi de veinte minutos pasada la medianoche?|¿Qué precio te parecería razonable por alquilar un coche pequeño un fin de semana?|
+transports-deplacements-002|¿Cuánto estarías dispuesto a gastarte en un billete de AVE Madrid-Barcelona comprado con una semana de antelación?|En euros, ¿cuál sería tu tope para un parking vigilado cerca de un aeropuerto durante tres días?|TGV Paris-Lyon → AVE Madrid-Barcelona
+transports-deplacements-003|¿Qué presupuesto calcularías para un billete de autobús de tres horas entre dos ciudades?|¿A partir de qué precio te parecería demasiado caro un billete de primera clase para un trayecto de dos horas?|
+transports-deplacements-004|¿Cuánto pagarías como máximo por un trayecto de diez kilómetros en VTC un sábado por la noche?|¿Qué precio te parecería razonable por un asiento con maleta de cabina en un vuelo corto?|
+transports-deplacements-005|¿Cuánto estarías dispuesto a gastarte en un abono mensual de metro en una gran ciudad?|En euros, ¿cuál sería tu tope para un autobús lanzadera entre el aeropuerto y el centro?|
+transports-deplacements-006|¿Qué presupuesto calcularías para una plaza de aparcamiento durante seis horas cerca de una estación?|¿A partir de qué precio te parecería demasiado caro un abono anual de bici compartida?|
+transports-deplacements-007|¿Cuánto pagarías como máximo por alquilar una bici eléctrica durante un día?|¿Qué precio te parecería razonable por una plaza de aparcamiento para residentes durante un mes?|
+transports-deplacements-008|¿Cuánto estarías dispuesto a gastarte en un trayecto de veinte minutos en patinete eléctrico compartido?|En euros, ¿cuál sería tu tope para una limpieza interior completa de un coche?|
+transports-deplacements-009|¿Qué presupuesto calcularías para un billete de tren regional para cincuenta kilómetros?|¿A partir de qué precio te parecería demasiado caro llenar el depósito de un coche pequeño de ciudad?|
+transports-deplacements-010|¿Cuánto pagarías como máximo por alquilar un coche pequeño un fin de semana?|¿Qué precio te parecería razonable por un servicio de entrega de equipaje entre una estación y un hotel?|
+transports-deplacements-011|¿Cuánto estarías dispuesto a gastarte en un parking vigilado cerca de un aeropuerto durante tres días?|En euros, ¿cuál sería tu tope para un traslado privado del aeropuerto a un hotel para dos personas?|
+transports-deplacements-012|¿Qué presupuesto calcularías para un billete de primera clase para un trayecto de dos horas?|¿A partir de qué precio te parecería demasiado caro un trayecto de taxi de veinte minutos pasada la medianoche?|
+transports-deplacements-013|¿Cuánto pagarías como máximo por un asiento con maleta de cabina en un vuelo corto?|¿Qué precio te parecería razonable por un billete de AVE Madrid-Barcelona comprado con una semana de antelación?|TGV Paris-Lyon → AVE Madrid-Barcelona
+transports-deplacements-014|¿Cuánto estarías dispuesto a gastarte en un autobús lanzadera entre el aeropuerto y el centro?|En euros, ¿cuál sería tu tope para un billete de autobús de tres horas entre dos ciudades?|
+transports-deplacements-015|¿Qué presupuesto calcularías para un abono anual de bici compartida?|¿A partir de qué precio te parecería demasiado caro un trayecto de diez kilómetros en VTC un sábado por la noche?|
+transports-deplacements-016|¿Cuánto pagarías como máximo por una plaza de aparcamiento para residentes durante un mes?|¿Qué precio te parecería razonable por un abono mensual de metro en una gran ciudad?|
+transports-deplacements-017|¿Cuánto estarías dispuesto a gastarte en una limpieza interior completa de un coche?|En euros, ¿cuál sería tu tope para una plaza de aparcamiento durante seis horas cerca de una estación?|
+transports-deplacements-018|¿Qué presupuesto calcularías para llenar el depósito de un coche pequeño de ciudad?|¿A partir de qué precio te parecería demasiado caro alquilar una bici eléctrica durante un día?|
+transports-deplacements-019|¿Cuánto pagarías como máximo por un servicio de entrega de equipaje entre una estación y un hotel?|¿Qué precio te parecería razonable por un trayecto de veinte minutos en patinete eléctrico compartido?|
+transports-deplacements-020|¿Cuánto estarías dispuesto a gastarte en un traslado privado del aeropuerto a un hotel para dos personas?|En euros, ¿cuál sería tu tope para un billete de tren regional para cincuenta kilómetros?|
+transports-deplacements-021|¿Cuánto estarías dispuesto a gastarte en un trayecto de taxi de veinte minutos pasada la medianoche?|En euros, ¿cuál sería tu tope para alquilar un coche pequeño un fin de semana?|
+transports-deplacements-022|¿Qué presupuesto calcularías para un billete de AVE Madrid-Barcelona comprado con una semana de antelación?|¿A partir de qué precio te parecería demasiado caro un parking vigilado cerca de un aeropuerto durante tres días?|TGV Paris-Lyon → AVE Madrid-Barcelona
+transports-deplacements-023|¿Cuánto pagarías como máximo por un billete de autobús de tres horas entre dos ciudades?|¿Qué precio te parecería razonable por un billete de primera clase para un trayecto de dos horas?|
+transports-deplacements-024|¿Cuánto estarías dispuesto a gastarte en un trayecto de diez kilómetros en VTC un sábado por la noche?|En euros, ¿cuál sería tu tope para un asiento con maleta de cabina en un vuelo corto?|
+transports-deplacements-025|¿Qué presupuesto calcularías para un abono mensual de metro en una gran ciudad?|¿A partir de qué precio te parecería demasiado caro un autobús lanzadera entre el aeropuerto y el centro?|
+transports-deplacements-026|¿Qué contestarías si un taxista se negara a hacerte un trayecto muy corto?|¿Cómo responderías si un empleado de la estación anunciara treinta minutos más de retraso?|
+transports-deplacements-027|¿Cuál sería tu primera frase si alguien se sentara en tu asiento reservado en el tren?|¿Tú qué dirías si un pasajero te preguntara cómo llegar a un sitio en una ciudad que no conoces?|
+transports-deplacements-028|¿Qué dirías si un pasajero viera un vídeo a todo volumen en el autobús?|¿Qué palabras usarías si alguien se colara delante de toda la cola del autobús?|
+transports-deplacements-029|¿Qué contestarías si el revisor te pidiera un billete que no encuentras?|¿Cómo responderías si un amigo propusiera coger su coche a pesar de estar cansado?|
+transports-deplacements-030|¿Cuál sería tu primera frase si un conductor de VTC quisiera cancelar después de haber llegado?|¿Tú qué dirías si un viajero se equivocara de vagón y ocupara tu asiento?|
+transports-deplacements-031|¿Qué dirías si un pasajero te pidiera que le dejaras tu asiento?|¿Qué palabras usarías si el conductor del autobús te cerrara las puertas justo delante?|
+transports-deplacements-032|¿Qué contestarías si un conductor te pitara con el semáforo en rojo?|¿Cómo responderías si alguien te pidiera que le vigilaras la maleta en el tren?|
+transports-deplacements-033|¿Cuál sería tu primera frase si un pasajero pusiera su maleta en el asiento de al lado?|¿Tú qué dirías si un conductor te propusiera un desvío que no marca la aplicación?|
+transports-deplacements-034|¿Qué dirías si un conductor se negara a cerrar la ventanilla durante un trayecto?|¿Qué palabras usarías si un amigo te dijera que va a llegar tarde otra vez a la cita?|
+transports-deplacements-035|¿Qué contestarías si un empleado de la estación anunciara treinta minutos más de retraso?|¿Cómo responderías si un pasajero te pidiera que te bajaras antes para dejarle pasar?|
+transports-deplacements-036|¿Cuál sería tu primera frase si un pasajero te preguntara cómo llegar a un sitio en una ciudad que no conoces?|¿Tú qué dirías si un empleado te dijera que tu billete de transporte ya no es válido?|
+transports-deplacements-037|¿Qué dirías si alguien se colara delante de toda la cola del autobús?|¿Qué palabras usarías si un taxista se negara a hacerte un trayecto muy corto?|
+transports-deplacements-038|¿Qué contestarías si un amigo propusiera coger su coche a pesar de estar cansado?|¿Cómo responderías si alguien se sentara en tu asiento reservado en el tren?|
+transports-deplacements-039|¿Cuál sería tu primera frase si un viajero se equivocara de vagón y ocupara tu asiento?|¿Tú qué dirías si un pasajero viera un vídeo a todo volumen en el autobús?|
+transports-deplacements-040|¿Qué dirías si el conductor del autobús te cerrara las puertas justo delante?|¿Qué palabras usarías si el revisor te pidiera un billete que no encuentras?|
+transports-deplacements-041|¿Qué contestarías si alguien te pidiera que le vigilaras la maleta en el tren?|¿Cómo responderías si un conductor de VTC quisiera cancelar después de haber llegado?|
+transports-deplacements-042|¿Cuál sería tu primera frase si un conductor te propusiera un desvío que no marca la aplicación?|¿Tú qué dirías si un pasajero te pidiera que le dejaras tu asiento?|
+transports-deplacements-043|¿Qué dirías si un amigo te dijera que va a llegar tarde otra vez a la cita?|¿Qué palabras usarías si un conductor te pitara con el semáforo en rojo?|
+transports-deplacements-044|¿Qué contestarías si un pasajero te pidiera que te bajaras antes para dejarle pasar?|¿Cómo responderías si un pasajero pusiera su maleta en el asiento de al lado?|
+transports-deplacements-045|¿Cuál sería tu primera frase si un empleado te dijera que tu billete de transporte ya no es válido?|¿Tú qué dirías si un conductor se negara a cerrar la ventanilla durante un trayecto?|
+transports-deplacements-046|¿Cuál sería tu primera frase si un taxista se negara a hacerte un trayecto muy corto?|¿Tú qué dirías si un empleado de la estación anunciara treinta minutos más de retraso?|
+transports-deplacements-047|¿Qué dirías si alguien se sentara en tu asiento reservado en el tren?|¿Qué palabras usarías si un pasajero te preguntara cómo llegar a un sitio en una ciudad que no conoces?|
+transports-deplacements-048|¿Qué contestarías si un pasajero viera un vídeo a todo volumen en el autobús?|¿Cómo responderías si alguien se colara delante de toda la cola del autobús?|
+transports-deplacements-049|¿Cuál sería tu primera frase si el revisor te pidiera un billete que no encuentras?|¿Tú qué dirías si un amigo propusiera coger su coche a pesar de estar cansado?|
+transports-deplacements-050|¿Qué dirías si un conductor de VTC quisiera cancelar después de haber llegado?|¿Qué palabras usarías si un viajero se equivocara de vagón y ocupara tu asiento?|
+transports-deplacements-051|¿Qué harías primero si te cancelaran el tren treinta minutos antes de la salida?|¿Qué decidirías hacer antes de nada si el conductor de VTC cancelara después de diez minutos esperando?|
+transports-deplacements-052|¿Cuál sería tu primer reflejo si te dejaras la bolsa en un autobús?|¿Cómo actuarías primero si descubrieras un arañazo en tu coche al volver al aparcamiento?|
+transports-deplacements-053|¿Por dónde empezarías si llegaras a la estación equivocada para un viaje importante?|¿Qué sería lo primero que harías si tu tarjeta de transporte dejara de funcionar en un torniquete?|
+transports-deplacements-054|¿Qué harías primero si tu coche no arrancara en el aparcamiento de un supermercado?|¿Qué decidirías hacer antes de nada si perdieras el transbordo para llegar a una entrevista?|
+transports-deplacements-055|¿Cuál sería tu primer reflejo si vieras que el último metro acaba de irse?|¿Cómo actuarías primero si la estación de bicis compartidas estuviera completamente vacía?|
+transports-deplacements-056|¿Por dónde empezarías si pincharas con la bici yendo al trabajo?|¿Qué sería lo primero que harías si el coche de alquiler tuviera un testigo de aviso encendido?|
+transports-deplacements-057|¿Qué harías primero si se te descargara el móvil antes de enseñar tu billete electrónico?|¿Qué decidirías hacer antes de nada si un atasco imprevisto añadiera una hora a tu trayecto?|
+transports-deplacements-058|¿Cuál sería tu primer reflejo si te vieras en el andén equivocado a cinco minutos de la salida?|¿Cómo actuarías primero si olvidaras en qué planta del parking has dejado el coche?|
+transports-deplacements-059|¿Por dónde empezarías si un accidente cortara la autopista durante tu trayecto?|¿Qué sería lo primero que harías si el punto de recarga de tu coche estuviera fuera de servicio?|
+transports-deplacements-060|¿Qué harías primero si el conductor de VTC cancelara después de diez minutos esperando?|¿Qué decidirías hacer antes de nada si un pasajero te tirara café en la bolsa en el tren?|
+transports-deplacements-061|¿Cuál sería tu primer reflejo si descubrieras un arañazo en tu coche al volver al aparcamiento?|¿Cómo actuarías primero si te dieras cuenta de que te has subido a un tren que va a otro destino?|
+transports-deplacements-062|¿Por dónde empezarías si tu tarjeta de transporte dejara de funcionar en un torniquete?|¿Qué sería lo primero que harías si te cancelaran el tren treinta minutos antes de la salida?|
+transports-deplacements-063|¿Qué harías primero si perdieras el transbordo para llegar a una entrevista?|¿Qué decidirías hacer antes de nada si te dejaras la bolsa en un autobús?|
+transports-deplacements-064|¿Cuál sería tu primer reflejo si la estación de bicis compartidas estuviera completamente vacía?|¿Cómo actuarías primero si llegaras a la estación equivocada para un viaje importante?|
+transports-deplacements-065|¿Por dónde empezarías si el coche de alquiler tuviera un testigo de aviso encendido?|¿Qué sería lo primero que harías si tu coche no arrancara en el aparcamiento de un supermercado?|
+transports-deplacements-066|¿Qué harías primero si un atasco imprevisto añadiera una hora a tu trayecto?|¿Qué decidirías hacer antes de nada si vieras que el último metro acaba de irse?|
+transports-deplacements-067|¿Cuál sería tu primer reflejo si olvidaras en qué planta del parking has dejado el coche?|¿Cómo actuarías primero si pincharas con la bici yendo al trabajo?|
+transports-deplacements-068|¿Por dónde empezarías si el punto de recarga de tu coche estuviera fuera de servicio?|¿Qué sería lo primero que harías si se te descargara el móvil antes de enseñar tu billete electrónico?|
+transports-deplacements-069|¿Qué harías primero si un pasajero te tirara café en la bolsa en el tren?|¿Qué decidirías hacer antes de nada si te vieras en el andén equivocado a cinco minutos de la salida?|
+transports-deplacements-070|¿Cuál sería tu primer reflejo si te dieras cuenta de que te has subido a un tren que va a otro destino?|¿Cómo actuarías primero si un accidente cortara la autopista durante tu trayecto?|
+transports-deplacements-071|¿Cuál sería tu primer reflejo si te cancelaran el tren treinta minutos antes de la salida?|¿Cómo actuarías primero si el conductor de VTC cancelara después de diez minutos esperando?|
+transports-deplacements-072|¿Por dónde empezarías si te dejaras la bolsa en un autobús?|¿Qué sería lo primero que harías si descubrieras un arañazo en tu coche al volver al aparcamiento?|
+transports-deplacements-073|¿Qué harías primero si llegaras a la estación equivocada para un viaje importante?|¿Qué decidirías hacer antes de nada si tu tarjeta de transporte dejara de funcionar en un torniquete?|
+transports-deplacements-074|¿Cuál sería tu primer reflejo si tu coche no arrancara en el aparcamiento de un supermercado?|¿Cómo actuarías primero si perdieras el transbordo para llegar a una entrevista?|
+transports-deplacements-075|¿Por dónde empezarías si vieras que el último metro acaba de irse?|¿Qué sería lo primero que harías si la estación de bicis compartidas estuviera completamente vacía?|
+transports-deplacements-076|¿Qué elegirías, un tren directo más caro o un tren con transbordo más barato?|Si solo pudieras quedarte con una opción, ¿salir a las seis de la mañana o llegar tarde por la noche?|
+transports-deplacements-077|Entre andar veinticinco minutos y coger el autobús diez minutos, ¿qué preferirías?|¿Qué te tienta más: viajar ligero con una mochila o llevar una maleta de cabina?|
+transports-deplacements-078|Si tuvieras que decidir, ¿alquilar una bici o usar el metro para un día de turismo?|¿Te decantarías por ir al trabajo en bici o por usar el transporte público?|
+transports-deplacements-079|¿Qué elegirías, un asiento de ventanilla o un asiento de pasillo en el tren?|Si solo pudieras quedarte con una opción, ¿aparcar cerca del centro o ir andando desde un aparcamiento gratuito?|
+transports-deplacements-080|Entre llegar a la estación con mucha antelación y llegar justo a tiempo, ¿qué preferirías?|¿Qué te tienta más: un coche híbrido o un coche eléctrico pequeño?|
+transports-deplacements-081|Si tuvieras que decidir, ¿ir por autopista de peaje o por carreteras nacionales?|¿Te decantarías por un vuelo directo a primera hora o por un vuelo con escala más tarde?|
+transports-deplacements-082|¿Qué elegirías, coger un VTC o compartir un taxi con amigos?|Si solo pudieras quedarte con una opción, ¿un viaje en tren nocturno o un día entero de tren?|
+transports-deplacements-083|Entre compartir coche con desconocidos y coger un autobús de línea, ¿qué preferirías?|¿Qué te tienta más: una moto eléctrica o una bici eléctrica?|
+transports-deplacements-084|Si tuvieras que decidir, ¿un billete flexible o un billete sin cambios más barato?|¿Te decantarías por escuchar música o por leer durante un trayecto?|
+transports-deplacements-085|¿Qué elegirías, salir a las seis de la mañana o llegar tarde por la noche?|Si solo pudieras quedarte con una opción, ¿un abono mensual de transporte o billetes sueltos?|
+transports-deplacements-086|Entre viajar ligero con una mochila y llevar una maleta de cabina, ¿qué preferirías?|¿Qué te tienta más: turnarte al volante o conducir tú solo todo el trayecto?|
+transports-deplacements-087|Si tuvieras que decidir, ¿ir al trabajo en bici o usar el transporte público?|¿Te decantarías por un tren directo más caro o por un tren con transbordo más barato?|
+transports-deplacements-088|¿Qué elegirías, aparcar cerca del centro o ir andando desde un aparcamiento gratuito?|Si solo pudieras quedarte con una opción, ¿andar veinticinco minutos o coger el autobús diez minutos?|
+transports-deplacements-089|Entre un coche híbrido y un coche eléctrico pequeño, ¿qué preferirías?|¿Qué te tienta más: alquilar una bici o usar el metro para un día de turismo?|
+transports-deplacements-090|Si tuvieras que decidir, ¿un vuelo directo a primera hora o un vuelo con escala más tarde?|¿Te decantarías por un asiento de ventanilla o por uno de pasillo en el tren?|
+transports-deplacements-091|¿Qué elegirías, un viaje en tren nocturno o un día entero de tren?|Si solo pudieras quedarte con una opción, ¿llegar a la estación con mucha antelación o llegar justo a tiempo?|
+transports-deplacements-092|Entre una moto eléctrica y una bici eléctrica, ¿qué preferirías?|¿Qué te tienta más: ir por autopista de peaje o por carreteras nacionales?|
+transports-deplacements-093|Si tuvieras que decidir, ¿escuchar música o leer durante un trayecto?|¿Te decantarías por coger un VTC o por compartir un taxi con amigos?|
+transports-deplacements-094|¿Qué elegirías, un abono mensual de transporte o billetes sueltos?|Si solo pudieras quedarte con una opción, ¿compartir coche con desconocidos o coger un autobús de línea?|
+transports-deplacements-095|Entre turnarte al volante y conducir tú solo todo el trayecto, ¿qué preferirías?|¿Qué te tienta más: un billete flexible o un billete sin cambios más barato?|
+transports-deplacements-096|Entre un tren directo más caro y un tren con transbordo más barato, ¿qué preferirías?|¿Qué te tienta más: salir a las seis de la mañana o llegar tarde por la noche?|
+transports-deplacements-097|Si tuvieras que decidir, ¿andar veinticinco minutos o coger el autobús diez minutos?|¿Te decantarías por viajar ligero con una mochila o por llevar una maleta de cabina?|
+transports-deplacements-098|¿Qué elegirías, alquilar una bici o usar el metro para un día de turismo?|Si solo pudieras quedarte con una opción, ¿ir al trabajo en bici o usar el transporte público?|
+transports-deplacements-099|Entre un asiento de ventanilla y un asiento de pasillo en el tren, ¿qué preferirías?|¿Qué te tienta más: aparcar cerca del centro o ir andando desde un aparcamiento gratuito?|
+transports-deplacements-100|Si tuvieras que decidir, ¿llegar a la estación con mucha antelación o llegar justo a tiempo?|¿Te decantarías por un coche híbrido o por un coche eléctrico pequeño?|
+transports-deplacements-101|¿Cuántos minutos necesitarías para buscar aparcamiento en una calle comercial?|¿Cuánto tiempo, en minutos, calcularías para rellenar un formulario de reclamación por un tren cancelado?|
+transports-deplacements-102|¿Cuántos minutos te pasarías esperando un autobús que anuncian con retraso?|¿Cuántos minutos tardarías en buscar una ruta accesible con un carrito de bebé?|
+transports-deplacements-103|¿Cuántos minutos le dedicarías a preparar la bolsa para un viaje en tren de tres horas?|Por lo general, ¿cuántos minutos te llevaría instalar una sillita infantil en un coche?|
+transports-deplacements-104|¿Cuántos minutos necesitarías para comprobar los horarios de un transbordo de tren?|¿Cuánto tiempo, en minutos, calcularías para poner a punto un coche antes de un viaje largo?|
+transports-deplacements-105|¿Cuántos minutos te pasarías buscando un punto de recarga libre en tu ruta?|¿Cuántos minutos tardarías en llamar a un VTC que llega con retraso, antes de perder la paciencia?|
+transports-deplacements-106|¿Cuántos minutos le dedicarías a comparar dos rutas en coche antes de salir?|Por lo general, ¿cuántos minutos te llevaría comprar un billete de tren en el móvil?|
+transports-deplacements-107|¿Cuántos minutos necesitarías para bajar del tren con una maleta grande?|¿Cuánto tiempo, en minutos, calcularías para encontrar dónde has aparcado el coche?|
+transports-deplacements-108|¿Cuántos minutos te pasarías buscando tu andén en una estación que no conoces?|¿Cuántos minutos tardarías en comprobar la presión de los neumáticos antes de coger la autopista?|
+transports-deplacements-109|¿Cuántos minutos le dedicarías a encontrar la salida de una gran estación de metro?|Por lo general, ¿cuántos minutos te llevaría colocar el equipaje en el maletero antes de salir?|
+transports-deplacements-110|¿Cuántos minutos necesitarías para rellenar un formulario de reclamación por un tren cancelado?|¿Cuánto tiempo, en minutos, calcularías para elegir asiento en un tren de larga distancia?|
+transports-deplacements-111|¿Cuántos minutos te pasarías buscando una ruta accesible con un carrito de bebé?|¿Cuántos minutos tardarías en pedir información después de que cancelen un tren?|
+transports-deplacements-112|¿Cuántos minutos le dedicarías a instalar una sillita infantil en un coche?|Por lo general, ¿cuántos minutos te llevaría buscar aparcamiento en una calle comercial?|
+transports-deplacements-113|¿Cuántos minutos necesitarías para poner a punto un coche antes de un viaje largo?|¿Cuánto tiempo, en minutos, calcularías para esperar un autobús que anuncian con retraso?|
+transports-deplacements-114|¿Cuántos minutos te pasarías esperando a un VTC que llega con retraso antes de llamarlo?|¿Cuántos minutos tardarías en preparar la bolsa para un viaje en tren de tres horas?|
+transports-deplacements-115|¿Cuántos minutos le dedicarías a comprar un billete de tren en el móvil?|Por lo general, ¿cuántos minutos te llevaría comprobar los horarios de un transbordo de tren?|
+transports-deplacements-116|¿Cuántos minutos necesitarías para encontrar dónde has aparcado el coche?|¿Cuánto tiempo, en minutos, calcularías para encontrar un punto de recarga libre en tu ruta?|
+transports-deplacements-117|¿Cuántos minutos te pasarías comprobando la presión de los neumáticos antes de coger la autopista?|¿Cuántos minutos tardarías en comparar dos rutas en coche antes de salir?|
+transports-deplacements-118|¿Cuántos minutos le dedicarías a colocar el equipaje en el maletero antes de salir?|Por lo general, ¿cuántos minutos te llevaría bajar del tren con una maleta grande?|
+transports-deplacements-119|¿Cuántos minutos necesitarías para elegir asiento en un tren de larga distancia?|¿Cuánto tiempo, en minutos, calcularías para llegar a tu andén en una estación que no conoces?|
+transports-deplacements-120|¿Cuántos minutos te pasarías pidiendo información después de que cancelen un tren?|¿Cuántos minutos tardarías en encontrar la salida de una gran estación de metro?|
+transports-deplacements-121|¿Cuántos minutos te pasarías buscando aparcamiento en una calle comercial?|¿Cuántos minutos tardarías en rellenar un formulario de reclamación por un tren cancelado?|
+transports-deplacements-122|¿Cuántos minutos le dedicarías a esperar un autobús que anuncian con retraso?|Por lo general, ¿cuántos minutos te llevaría buscar una ruta accesible con un carrito de bebé?|
+transports-deplacements-123|¿Cuántos minutos necesitarías para preparar la bolsa para un viaje en tren de tres horas?|¿Cuánto tiempo, en minutos, calcularías para instalar una sillita infantil en un coche?|
+transports-deplacements-124|¿Cuántos minutos te pasarías comprobando los horarios de un transbordo de tren?|¿Cuántos minutos tardarías en poner a punto un coche antes de un viaje largo?|
+transports-deplacements-125|¿Cuántos minutos le dedicarías a encontrar un punto de recarga libre en tu ruta?|Por lo general, ¿cuántos minutos esperarías a un VTC que llega con retraso antes de llamarlo?|
+transports-deplacements-126|¿A quién le pedirías consejo para informarte sobre un tren cancelado?|¿A quién llamarías para pedir ayuda con un coche que no arranca?|
+transports-deplacements-127|¿Con quién contactarías primero para recuperar algo que te has dejado en un autobús?|¿A quién le pedirías opinión para avisar de que una máquina de billetes no funciona?|
+transports-deplacements-128|¿A quién recurrirías para avisar de una avería en un vagón de metro?|¿Con qué persona hablarías primero para que te arreglen la bici después de un pinchazo?|
+transports-deplacements-129|¿A quién le pedirías consejo para conseguir ayuda en una estación sin ascensor?|¿A quién llamarías para revisar un contrato de alquiler de coche?|
+transports-deplacements-130|¿Con quién contactarías primero para que te aconsejen sobre la compra de una bici de ciudad?|¿A quién le pedirías opinión para encontrar un servicio de lanzadera al aeropuerto?|
+transports-deplacements-131|¿A quién recurrirías para resolver un problema con un billete electrónico?|¿Con qué persona hablarías primero para obtener información sobre un abono de transporte?|
+transports-deplacements-132|¿A quién le pedirías consejo para saber cómo recurrir una multa de aparcamiento?|¿A quién llamarías para reclamar el reembolso de un viaje cancelado?|
+transports-deplacements-133|¿Con quién contactarías primero para comprobar una ruta por carretera complicada?|¿A quién le pedirías opinión para avisar de un problema de seguridad en una estación?|
+transports-deplacements-134|¿A quién recurrirías para encontrar una solución tras el retraso de un vuelo?|¿Con qué persona hablarías primero para planificar un trayecto en silla de ruedas?|
+transports-deplacements-135|¿A quién le pedirías consejo para pedir ayuda con un coche que no arranca?|¿A quién llamarías para pedir asistencia con un equipaje voluminoso?|
+transports-deplacements-136|¿Con quién contactarías primero para avisar de que una máquina de billetes no funciona?|¿A quién le pedirías opinión para elegir un asiento adecuado en un autobús de largo recorrido?|
+transports-deplacements-137|¿A quién recurrirías para que te arreglen la bici después de un pinchazo?|¿Con qué persona hablarías primero para informarte sobre un tren cancelado?|
+transports-deplacements-138|¿A quién le pedirías consejo para revisar un contrato de alquiler de coche?|¿A quién llamarías para recuperar algo que te has dejado en un autobús?|
+transports-deplacements-139|¿Con quién contactarías primero para encontrar un servicio de lanzadera al aeropuerto?|¿A quién le pedirías opinión para avisar de una avería en un vagón de metro?|
+transports-deplacements-140|¿A quién recurrirías para obtener información sobre un abono de transporte?|¿Con qué persona hablarías primero para conseguir ayuda en una estación sin ascensor?|
+transports-deplacements-141|¿A quién le pedirías consejo para reclamar el reembolso de un viaje cancelado?|¿A quién llamarías para que te aconsejen sobre la compra de una bici de ciudad?|
+transports-deplacements-142|¿Con quién contactarías primero para avisar de un problema de seguridad en una estación?|¿A quién le pedirías opinión para resolver un problema con un billete electrónico?|
+transports-deplacements-143|¿A quién recurrirías para planificar un trayecto en silla de ruedas?|¿Con qué persona hablarías primero para saber cómo recurrir una multa de aparcamiento?|
+transports-deplacements-144|¿A quién le pedirías consejo para pedir asistencia con un equipaje voluminoso?|¿A quién llamarías para comprobar una ruta por carretera complicada?|
+transports-deplacements-145|¿Con quién contactarías primero para elegir un asiento adecuado en un autobús de largo recorrido?|¿A quién le pedirías opinión para encontrar una solución tras el retraso de un vuelo?|
+transports-deplacements-146|¿Con quién contactarías primero para informarte sobre un tren cancelado?|¿A quién le pedirías opinión para pedir ayuda con un coche que no arranca?|
+transports-deplacements-147|¿A quién recurrirías para recuperar algo que te has dejado en un autobús?|¿Con qué persona hablarías primero para avisar de que una máquina de billetes no funciona?|
+transports-deplacements-148|¿A quién le pedirías consejo para avisar de una avería en un vagón de metro?|¿A quién llamarías para que te arreglen la bici después de un pinchazo?|
+transports-deplacements-149|¿Con quién contactarías primero para conseguir ayuda en una estación sin ascensor?|¿A quién le pedirías opinión para revisar un contrato de alquiler de coche?|
+transports-deplacements-150|¿A quién recurrirías para que te aconsejen sobre la compra de una bici de ciudad?|¿Con qué persona hablarías primero para encontrar un servicio de lanzadera al aeropuerto?|
+transports-deplacements-151|¿Adónde irías para aparcar un coche dos horas cerca del centro?|¿En qué sitio querrías dejar a alguien que lleva una maleta grande?|
+transports-deplacements-152|¿En qué lugar preferirías esperar un coche compartido sin peligro por la noche?|¿Dónde decidirías cambiar una rueda de bici de urgencia?|
+transports-deplacements-153|¿En qué sitio te gustaría comprar un billete de autobús a última hora?|¿Dónde elegirías parar a descansar después de dos horas de carretera?|
+transports-deplacements-154|¿Adónde irías para coger un taxi después de un espectáculo que acaba tarde?|¿En qué sitio querrías comprar una tarjeta de transporte al llegar?|
+transports-deplacements-155|¿En qué lugar preferirías alquilar una bici para visitar una ciudad?|¿Dónde decidirías revisar una bici antes de una ruta larga?|
+transports-deplacements-156|¿En qué sitio te gustaría cargar un coche eléctrico mientras comes?|¿Dónde elegirías dejar una maleta unas horas?|
+transports-deplacements-157|¿Adónde irías para aparcar una moto cerca de una estación?|¿En qué sitio querrías quedar con un amigo a la salida de un aeropuerto?|
+transports-deplacements-158|¿En qué lugar preferirías esperar un tren con retraso sin pasar frío en invierno?|¿Dónde decidirías desayunar antes de salir a las seis de la mañana?|
+transports-deplacements-159|¿En qué sitio te gustaría encontrarte con el conductor de un coche compartido?|¿Dónde elegirías parar a descansar sin salir de la autopista?|
+transports-deplacements-160|¿Adónde irías para dejar a alguien que lleva una maleta grande?|¿En qué sitio querrías recoger un coche de alquiler en una ciudad?|
+transports-deplacements-161|¿En qué lugar preferirías cambiar una rueda de bici de urgencia?|¿Dónde decidirías esperar un autobús nocturno sin peligro?|
+transports-deplacements-162|¿En qué sitio te gustaría parar a descansar después de dos horas de carretera?|¿Dónde elegirías aparcar un coche dos horas cerca del centro?|
+transports-deplacements-163|¿Adónde irías para comprar una tarjeta de transporte al llegar?|¿En qué sitio querrías esperar un coche compartido sin peligro por la noche?|
+transports-deplacements-164|¿En qué lugar preferirías revisar una bici antes de una ruta larga?|¿Dónde decidirías comprar un billete de autobús a última hora?|
+transports-deplacements-165|¿En qué sitio te gustaría dejar una maleta unas horas?|¿Dónde elegirías coger un taxi después de un espectáculo que acaba tarde?|
+transports-deplacements-166|¿Adónde irías para quedar con un amigo a la salida de un aeropuerto?|¿En qué sitio querrías alquilar una bici para visitar una ciudad?|
+transports-deplacements-167|¿En qué lugar preferirías desayunar antes de salir a las seis de la mañana?|¿Dónde decidirías cargar un coche eléctrico mientras comes?|
+transports-deplacements-168|¿En qué sitio te gustaría parar a descansar sin salir de la autopista?|¿Dónde elegirías aparcar una moto cerca de una estación?|
+transports-deplacements-169|¿Adónde irías para recoger un coche de alquiler en una ciudad?|¿En qué sitio querrías esperar un tren con retraso sin pasar frío en invierno?|
+transports-deplacements-170|¿En qué lugar preferirías esperar un autobús nocturno sin peligro?|¿Dónde decidirías encontrarte con el conductor de un coche compartido?|
+transports-deplacements-171|¿En qué lugar preferirías aparcar un coche dos horas cerca del centro?|¿Dónde decidirías dejar a alguien que lleva una maleta grande?|
+transports-deplacements-172|¿En qué sitio te gustaría esperar un coche compartido sin peligro por la noche?|¿Dónde elegirías cambiar una rueda de bici de urgencia?|
+transports-deplacements-173|¿Adónde irías para comprar un billete de autobús a última hora?|¿En qué sitio querrías parar a descansar después de dos horas de carretera?|
+transports-deplacements-174|¿En qué lugar preferirías coger un taxi después de un espectáculo que acaba tarde?|¿Dónde decidirías comprar una tarjeta de transporte al llegar?|
+transports-deplacements-175|¿En qué sitio te gustaría alquilar una bici para visitar una ciudad?|¿Dónde elegirías revisar una bici antes de una ruta larga?|
+transports-deplacements-176|¿Qué objeto llevarías para cargar el móvil durante un viaje largo en tren?|¿Qué accesorio usarías para que se vea tu bici aparcada de noche?|
+transports-deplacements-177|¿Qué accesorio elegirías para encontrar fácilmente tu equipaje en un autobús de largo recorrido?|¿Con qué objeto querrías reconocer tu maleta en la cinta del aeropuerto?|
+transports-deplacements-178|¿Qué objeto te parecería imprescindible para no mojarte mientras esperas el autobús bajo la lluvia?|¿Qué objeto cogerías antes que nada para subir una maleta pequeña por varios tramos de escaleras?|
+transports-deplacements-179|¿Qué objeto llevarías para leer cómodamente en un tren nocturno?|¿Qué accesorio usarías para que te vean en bici cuando anochece?|
+transports-deplacements-180|¿Qué accesorio elegirías para sujetar el móvil como GPS en el coche?|¿Con qué objeto querrías acomodar a un niño dormido durante un viaje largo?|
+transports-deplacements-181|¿Qué objeto te parecería imprescindible para llevar una botella de agua en la bici?|¿Qué objeto cogerías antes que nada para guardar los tiques del peaje en las vacaciones?|
+transports-deplacements-182|¿Qué objeto llevarías para tener el billete a mano cuando pase el revisor?|¿Qué accesorio usarías para tener algo de luz en un coche averiado?|
+transports-deplacements-183|¿Qué accesorio elegirías para proteger tu bolsa durante un chaparrón en moto?|¿Con qué objeto querrías llevar monedas para el parquímetro?|
+transports-deplacements-184|¿Qué objeto te parecería imprescindible para escuchar un pódcast sin molestar a los demás viajeros?|¿Qué objeto cogerías antes que nada para dejar atado el casco de la bici durante una parada?|
+transports-deplacements-185|¿Qué objeto llevarías para que se vea tu bici aparcada de noche?|¿Qué accesorio usarías para reducir el mareo en una carretera con muchas curvas?|
+transports-deplacements-186|¿Qué accesorio elegirías para reconocer tu maleta en la cinta del aeropuerto?|¿Con qué objeto querrías tener las manos libres cuando vas cargado con equipaje?|
+transports-deplacements-187|¿Qué objeto te parecería imprescindible para subir una maleta pequeña por varios tramos de escaleras?|¿Qué objeto cogerías antes que nada para cargar el móvil durante un viaje largo en tren?|
+transports-deplacements-188|¿Qué objeto llevarías para que te vean en bici cuando anochece?|¿Qué accesorio usarías para encontrar fácilmente tu equipaje en un autobús de largo recorrido?|
+transports-deplacements-189|¿Qué accesorio elegirías para acomodar a un niño dormido durante un viaje largo?|¿Con qué objeto querrías no mojarte mientras esperas el autobús bajo la lluvia?|
+transports-deplacements-190|¿Qué objeto te parecería imprescindible para guardar los tiques del peaje en las vacaciones?|¿Qué objeto cogerías antes que nada para leer cómodamente en un tren nocturno?|
+transports-deplacements-191|¿Qué objeto llevarías para tener algo de luz en un coche averiado?|¿Qué accesorio usarías para sujetar el móvil como GPS en el coche?|
+transports-deplacements-192|¿Qué accesorio elegirías para llevar monedas para el parquímetro?|¿Con qué objeto querrías llevar una botella de agua en la bici?|
+transports-deplacements-193|¿Qué objeto te parecería imprescindible para dejar atado el casco de la bici durante una parada?|¿Qué objeto cogerías antes que nada para tener el billete a mano cuando pase el revisor?|
+transports-deplacements-194|¿Qué objeto llevarías para reducir el mareo en una carretera con muchas curvas?|¿Qué accesorio usarías para proteger tu bolsa durante un chaparrón en moto?|
+transports-deplacements-195|¿Qué accesorio elegirías para tener las manos libres cuando vas cargado con equipaje?|¿Con qué objeto querrías escuchar un pódcast sin molestar a los demás viajeros?|
+transports-deplacements-196|¿Qué accesorio elegirías para cargar el móvil durante un viaje largo en tren?|¿Con qué objeto querrías que se vea tu bici aparcada de noche?|
+transports-deplacements-197|¿Qué objeto te parecería imprescindible para encontrar fácilmente tu equipaje en un autobús de largo recorrido?|¿Qué objeto cogerías antes que nada para reconocer tu maleta en la cinta del aeropuerto?|
+transports-deplacements-198|¿Qué objeto llevarías para no mojarte mientras esperas el autobús bajo la lluvia?|¿Qué accesorio usarías para subir una maleta pequeña por varios tramos de escaleras?|
+transports-deplacements-199|¿Qué accesorio elegirías para leer cómodamente en un tren nocturno?|¿Con qué objeto querrías que te vean en bici cuando anochece?|

@@ -398,3 +398,203 @@ cadeaux-surprises-197|¿En qué ocasión te parecería normal organizar un desay
 cadeaux-surprises-198|¿En qué ocasión podrías comprar un reloj simbólico?|¿Para qué evento te plantearías comprar un libro con una dedicatoria personal?|
 cadeaux-surprises-199|¿En qué evento te gustaría regalar una planta en maceta con una nota?|¿En qué momento importante de tu vida querrías regalar una caja de pasteles finos?|
 cadeaux-surprises-200|¿En qué ocasión te parecería normal preparar un regalo de grupo con tus compañeros de trabajo?|¿En qué circunstancias decidirías preparar una fiesta sorpresa en un piso?|
+ecole-etudes-001|¿Qué responderías si un profesor te acusara de estar hablando cuando estabas callado?|¿Cómo responderías si un amigo te pidiera que le explicaras un tema entero en cinco minutos?|
+ecole-etudes-002|¿Cuál sería tu primera frase si tu grupo te dijera que no ha preparado nada para la exposición de mañana?|¿Qué dirías si un profesor te dijera que se equivocó al corregir tu trabajo?|
+ecole-etudes-003|¿Qué dirías si un compañero te pidiera que le pasaras tu trabajo entero?|¿Qué palabras usarías si un compañero te pidiera que le guardaras un sitio en el aula?|
+ecole-etudes-004|¿Qué responderías si un profesor aplazara un examen justo después de que hubieras estudiado?|¿Cómo responderías si tus padres te preguntaran por qué has vuelto tan tarde de la biblioteca?|
+ecole-etudes-005|¿Cuál sería tu primera frase si un amigo dijera que no necesita estudiar para aprobar?|¿Qué dirías si un profesor se negara a ampliar un plazo de entrega?|
+ecole-etudes-006|¿Qué dirías si un profesor te sacara a la pizarra sin avisar?|¿Qué palabras usarías si a un amigo le sorprendiera lo que has elegido estudiar?|
+ecole-etudes-007|¿Qué responderías si un compañero se burlara de tu exposición delante de toda la clase?|¿Cómo responderías si tu grupo propusiera quedar para trabajar un domingo por la mañana?|
+ecole-etudes-008|¿Cuál sería tu primera frase si un profesor se diera cuenta de que te has olvidado el cuaderno?|¿Qué dirías si un profesor te pidiera un ejemplo sin dejarte pensar?|
+ecole-etudes-009|¿Qué dirías si tu compañero de proyecto quisiera cambiar de tema la víspera de la entrega?|¿Qué palabras usarías si un compañero te dijera que ha perdido el archivo común?|
+ecole-etudes-010|¿Qué responderías si un amigo te pidiera que le explicaras un tema entero en cinco minutos?|¿Cómo responderías si un profesor te hiciera un comentario sobre tu letra?|
+ecole-etudes-011|¿Cuál sería tu primera frase si un profesor te dijera que se equivocó al corregir tu trabajo?|¿Qué dirías si un amigo te propusiera estudiar toda la noche antes del examen?|
+ecole-etudes-012|¿Qué dirías si un compañero te pidiera que le guardaras un sitio en el aula?|¿Qué palabras usarías si un profesor te acusara de estar hablando cuando estabas callado?|
+ecole-etudes-013|¿Qué responderías si tus padres te preguntaran por qué has vuelto tan tarde de la biblioteca?|¿Cómo responderías si tu grupo te dijera que no ha preparado nada para la exposición de mañana?|
+ecole-etudes-014|¿Cuál sería tu primera frase si un profesor se negara a ampliar un plazo de entrega?|¿Qué dirías si un compañero te pidiera que le pasaras tu trabajo entero?|
+ecole-etudes-015|¿Qué dirías si a un amigo le sorprendiera lo que has elegido estudiar?|¿Qué palabras usarías si un profesor aplazara un examen justo después de que hubieras estudiado?|
+ecole-etudes-016|¿Qué responderías si tu grupo propusiera quedar para trabajar un domingo por la mañana?|¿Cómo responderías si un amigo dijera que no necesita estudiar para aprobar?|
+ecole-etudes-017|¿Cuál sería tu primera frase si un profesor te pidiera un ejemplo sin dejarte pensar?|¿Qué dirías si un profesor te sacara a la pizarra sin avisar?|
+ecole-etudes-018|¿Qué dirías si un compañero te dijera que ha perdido el archivo común?|¿Qué palabras usarías si un compañero se burlara de tu exposición delante de toda la clase?|
+ecole-etudes-019|¿Qué responderías si un profesor te hiciera un comentario sobre tu letra?|¿Cómo responderías si un profesor se diera cuenta de que te has olvidado el cuaderno?|
+ecole-etudes-020|¿Cuál sería tu primera frase si un amigo te propusiera estudiar toda la noche antes del examen?|¿Qué dirías si tu compañero de proyecto quisiera cambiar de tema la víspera de la entrega?|
+ecole-etudes-021|¿Cuál sería tu primera frase si un profesor te acusara de estar hablando cuando estabas callado?|¿Qué dirías si un amigo te pidiera que le explicaras un tema entero en cinco minutos?|
+ecole-etudes-022|¿Qué dirías si tu grupo te dijera que no ha preparado nada para la exposición de mañana?|¿Qué palabras usarías si un profesor te dijera que se equivocó al corregir tu trabajo?|
+ecole-etudes-023|¿Qué responderías si un compañero te pidiera que le pasaras tu trabajo entero?|¿Cómo responderías si un compañero te pidiera que le guardaras un sitio en el aula?|
+ecole-etudes-024|¿Cuál sería tu primera frase si un profesor aplazara un examen justo después de que hubieras estudiado?|¿Qué dirías si tus padres te preguntaran por qué has vuelto tan tarde de la biblioteca?|
+ecole-etudes-025|¿Qué dirías si un amigo dijera que no necesita estudiar para aprobar?|¿Qué palabras usarías si un profesor se negara a ampliar un plazo de entrega?|
+ecole-etudes-026|¿Qué harías primero si llegaras al instituto sin la calculadora el día de un examen?|¿Qué decidirías hacer antes de nada si tu profesor cambiara de aula en el último momento?|lycée → instituto
+ecole-etudes-027|¿Cuál sería tu primer reflejo si se te apagara el ordenador en mitad de un simulacro de examen online?|¿Cómo actuarías primero si te mandaran dos trabajos importantes para entregar el mismo día?|
+ecole-etudes-028|¿Por dónde empezarías si te dieras cuenta de que tienes una exposición dentro de una hora?|¿Qué sería lo primero que harías si un compañero te diera información contradictoria sobre el examen?|
+ecole-etudes-029|¿Qué harías primero si un compañero faltara el día de vuestra presentación?|¿Qué decidirías hacer antes de nada si se cayera internet durante una entrega online?|
+ecole-etudes-030|¿Cuál sería tu primer reflejo si perdieras el pendrive con el trabajo de grupo?|¿Cómo actuarías primero si encontraras tu antigua libreta con los datos de contacto de un profesor?|
+ecole-etudes-031|¿Por dónde empezarías si la biblioteca cerrara antes de lo previsto en plena sesión de estudio?|¿Qué sería lo primero que harías si tu grupo descubriera un error en la primera diapositiva?|
+ecole-etudes-032|¿Qué harías primero si se te olvidara la fecha de inscripción de una optativa importante?|¿Qué decidirías hacer antes de nada si un libro obligatorio estuviera prestado en todas las bibliotecas?|
+ecole-etudes-033|¿Cuál sería tu primer reflejo si encontraras un error en un documento ya entregado?|¿Cómo actuarías primero si un estudiante se quedara dormido mientras trabajáis en pareja?|
+ecole-etudes-034|¿Por dónde empezarías si tu autobús fuera con retraso la mañana de un examen?|¿Qué sería lo primero que harías si vieras que no te ha sonado el despertador antes de un examen oral?|
+ecole-etudes-035|¿Qué harías primero si tu profesor cambiara de aula en el último momento?|¿Qué decidirías hacer antes de nada si no entendieras ninguna instrucción de un ejercicio que os han repartido?|
+ecole-etudes-036|¿Cuál sería tu primer reflejo si te mandaran dos trabajos importantes para entregar el mismo día?|¿Cómo actuarías primero si tu presentación no se abriera en el ordenador de clase?|
+ecole-etudes-037|¿Por dónde empezarías si un compañero te diera información contradictoria sobre el examen?|¿Qué sería lo primero que harías si llegaras al instituto sin la calculadora el día de un examen?|lycée → instituto
+ecole-etudes-038|¿Qué harías primero si se cayera internet durante una entrega online?|¿Qué decidirías hacer antes de nada si se te apagara el ordenador en mitad de un simulacro de examen online?|
+ecole-etudes-039|¿Cuál sería tu primer reflejo si encontraras tu antigua libreta con los datos de contacto de un profesor?|¿Cómo actuarías primero si te dieras cuenta de que tienes una exposición dentro de una hora?|
+ecole-etudes-040|¿Por dónde empezarías si tu grupo descubriera un error en la primera diapositiva?|¿Qué sería lo primero que harías si un compañero faltara el día de vuestra presentación?|
+ecole-etudes-041|¿Qué harías primero si un libro obligatorio estuviera prestado en todas las bibliotecas?|¿Qué decidirías hacer antes de nada si perdieras el pendrive con el trabajo de grupo?|
+ecole-etudes-042|¿Cuál sería tu primer reflejo si un estudiante se quedara dormido mientras trabajáis en pareja?|¿Cómo actuarías primero si la biblioteca cerrara antes de lo previsto en plena sesión de estudio?|
+ecole-etudes-043|¿Por dónde empezarías si vieras que no te ha sonado el despertador antes de un examen oral?|¿Qué sería lo primero que harías si se te olvidara la fecha de inscripción de una optativa importante?|
+ecole-etudes-044|¿Qué harías primero si no entendieras ninguna instrucción de un ejercicio que os han repartido?|¿Qué decidirías hacer antes de nada si encontraras un error en un documento ya entregado?|
+ecole-etudes-045|¿Cuál sería tu primer reflejo si tu presentación no se abriera en el ordenador de clase?|¿Cómo actuarías primero si tu autobús fuera con retraso la mañana de un examen?|
+ecole-etudes-046|¿Cuál sería tu primer reflejo si llegaras al instituto sin la calculadora el día de un examen?|¿Cómo actuarías primero si tu profesor cambiara de aula en el último momento?|lycée → instituto
+ecole-etudes-047|¿Por dónde empezarías si se te apagara el ordenador en mitad de un simulacro de examen online?|¿Qué sería lo primero que harías si te mandaran dos trabajos importantes para entregar el mismo día?|
+ecole-etudes-048|¿Qué harías primero si te dieras cuenta de que tienes una exposición dentro de una hora?|¿Qué decidirías hacer antes de nada si un compañero te diera información contradictoria sobre el examen?|
+ecole-etudes-049|¿Cuál sería tu primer reflejo si un compañero faltara el día de vuestra presentación?|¿Cómo actuarías primero si se cayera internet durante una entrega online?|
+ecole-etudes-050|¿Por dónde empezarías si perdieras el pendrive con el trabajo de grupo?|¿Qué sería lo primero que harías si encontraras tu antigua libreta con los datos de contacto de un profesor?|
+ecole-etudes-051|¿Qué elegirías: estudiar solo en casa o estudiar con dos amigos?|Si solo pudieras elegir una opción, ¿hacer prácticas en una empresa o participar en el proyecto de una asociación?|
+ecole-etudes-052|Entre hacer un examen oral y entregar un trabajo escrito, ¿qué preferirías?|¿Qué te apetece más: estudiar temprano por la mañana o estudiar tarde por la noche?|
+ecole-etudes-053|Si tuvieras que decidirte, ¿tener clase a las ocho de la mañana o acabar las clases a las siete de la tarde?|¿Con qué te quedarías: tener un profesor exigente o tener un profesor muy flexible?|
+ecole-etudes-054|¿Qué elegirías: aprender un idioma más o cursar una optativa artística?|Si solo pudieras elegir una opción, ¿leer un libro de texto en papel o consultar un libro de texto digital?|
+ecole-etudes-055|Entre trabajar en la biblioteca y trabajar en una cafetería tranquila, ¿qué preferirías?|¿Qué te apetece más: preparar un proyecto en grupo o entregar un trabajo individual?|
+ecole-etudes-056|Si tuvieras que decidirte, ¿preparar una exposición sobre un tema libre o responder a un tema impuesto?|¿Con qué te quedarías: elegir una formación muy teórica o una formación muy práctica?|
+ecole-etudes-057|¿Qué elegirías: evaluaciones periódicas o un gran examen final?|Si solo pudieras elegir una opción, ¿ir a clases presenciales o seguir clases híbridas?|
+ecole-etudes-058|Entre tomar apuntes en la tablet y escribir en un cuaderno, ¿qué preferirías?|¿Qué te apetece más: dejarlo todo para el último minuto o planificarlo con varias semanas?|
+ecole-etudes-059|Si tuvieras que decidirte, ¿estudiar en una gran universidad o estudiar en un centro pequeño?|¿Con qué te quedarías: pasar un semestre en el extranjero o hacer dos prácticas en España?|France → España
+ecole-etudes-060|¿Qué elegirías: hacer prácticas en una empresa o participar en el proyecto de una asociación?|Si solo pudieras elegir una opción, ¿estudiar ciencias o estudiar letras?|
+ecole-etudes-061|Entre estudiar temprano por la mañana y estudiar tarde por la noche, ¿qué preferirías?|¿Qué te apetece más: aprender con ejercicios o aprender con vídeos?|
+ecole-etudes-062|Si tuvieras que decidirte, ¿tener un profesor exigente o tener un profesor muy flexible?|¿Con qué te quedarías: estudiar solo en casa o estudiar con dos amigos?|
+ecole-etudes-063|¿Qué elegirías: leer un libro de texto en papel o consultar un libro de texto digital?|Si solo pudieras elegir una opción, ¿hacer un examen oral o entregar un trabajo escrito?|
+ecole-etudes-064|Entre preparar un proyecto en grupo y entregar un trabajo individual, ¿qué preferirías?|¿Qué te apetece más: tener clase a las ocho de la mañana o acabar las clases a las siete de la tarde?|
+ecole-etudes-065|Si tuvieras que decidirte, ¿elegir una formación muy teórica o una formación muy práctica?|¿Con qué te quedarías: aprender un idioma más o cursar una optativa artística?|
+ecole-etudes-066|¿Qué elegirías: ir a clases presenciales o seguir clases híbridas?|Si solo pudieras elegir una opción, ¿trabajar en la biblioteca o trabajar en una cafetería tranquila?|
+ecole-etudes-067|Entre dejarlo todo para el último minuto y planificarlo con varias semanas, ¿qué preferirías?|¿Qué te apetece más: preparar una exposición sobre un tema libre o responder a un tema impuesto?|
+ecole-etudes-068|Si tuvieras que decidirte, ¿pasar un semestre en el extranjero o hacer dos prácticas en España?|¿Con qué te quedarías: evaluaciones periódicas o un gran examen final?|France → España
+ecole-etudes-069|¿Qué elegirías: estudiar ciencias o estudiar letras?|Si solo pudieras elegir una opción, ¿tomar apuntes en la tablet o escribir en un cuaderno?|
+ecole-etudes-070|Entre aprender con ejercicios y aprender con vídeos, ¿qué preferirías?|¿Qué te apetece más: estudiar en una gran universidad o estudiar en un centro pequeño?|
+ecole-etudes-071|Entre estudiar solo en casa y estudiar con dos amigos, ¿qué preferirías?|¿Qué te apetece más: hacer prácticas en una empresa o participar en el proyecto de una asociación?|
+ecole-etudes-072|Si tuvieras que decidirte, ¿hacer un examen oral o entregar un trabajo escrito?|¿Con qué te quedarías: estudiar temprano por la mañana o estudiar tarde por la noche?|
+ecole-etudes-073|¿Qué elegirías: tener clase a las ocho de la mañana o acabar las clases a las siete de la tarde?|Si solo pudieras elegir una opción, ¿tener un profesor exigente o tener un profesor muy flexible?|
+ecole-etudes-074|Entre aprender un idioma más y cursar una optativa artística, ¿qué preferirías?|¿Qué te apetece más: leer un libro de texto en papel o consultar un libro de texto digital?|
+ecole-etudes-075|Si tuvieras que decidirte, ¿trabajar en la biblioteca o trabajar en una cafetería tranquila?|¿Con qué te quedarías: preparar un proyecto en grupo o entregar un trabajo individual?|
+ecole-etudes-076|¿Cuántos minutos necesitarías para repasar tus apuntes después de una clase de dos horas?|¿Cuánto tiempo, en minutos, calcularías para corregir las faltas de una exposición en grupo?|
+ecole-etudes-077|¿Cuántos minutos pasarías preparando la mochila antes de un día de clase?|¿Cuántos minutos tardarías en elegir una optativa para el semestre siguiente?|
+ecole-etudes-078|¿Cuántos minutos dedicarías a entender un ejercicio difícil de matemáticas?|Normalmente, ¿cuántos minutos te llevaría preparar el ordenador antes de una clase online?|
+ecole-etudes-079|¿Cuántos minutos necesitarías para elegir el tema de una exposición de cinco minutos?|¿Cuánto tiempo, en minutos, calcularías para ordenar los documentos de un trimestre?|
+ecole-etudes-080|¿Cuántos minutos pasarías estudiando un tema de historia de diez páginas?|¿Cuántos minutos tardarías en preparar una pregunta para hacerle a un profesor?|
+ecole-etudes-081|¿Cuántos minutos dedicarías a hacer tus fichas antes de un examen?|Normalmente, ¿cuántos minutos te llevaría releer un texto para un comentario de texto?|commentaire composé → comentario de texto
+ecole-etudes-082|¿Cuántos minutos necesitarías para buscar una referencia en la biblioteca?|¿Cuánto tiempo, en minutos, calcularías para repasar fórmulas de física antes de un examen?|
+ecole-etudes-083|¿Cuántos minutos pasarías releyendo un trabajo antes de enviarlo?|¿Cuántos minutos tardarías en buscar un ejemplo concreto para una exposición?|
+ecole-etudes-084|¿Cuántos minutos dedicarías a ensayar una presentación oral?|Normalmente, ¿cuántos minutos te llevaría hacer el esquema de una redacción en tres partes?|dissertation → redacción
+ecole-etudes-085|¿Cuántos minutos necesitarías para corregir las faltas de una exposición en grupo?|¿Cuánto tiempo, en minutos, calcularías para leer veinte páginas de una lectura obligatoria?|
+ecole-etudes-086|¿Cuántos minutos pasarías eligiendo una optativa para el semestre siguiente?|¿Cuántos minutos tardarías en organizar un calendario de estudio para una semana?|
+ecole-etudes-087|¿Cuántos minutos dedicarías a preparar el ordenador antes de una clase online?|Normalmente, ¿cuántos minutos te llevaría repasar tus apuntes después de una clase de dos horas?|
+ecole-etudes-088|¿Cuántos minutos necesitarías para ordenar los documentos de un trimestre?|¿Cuánto tiempo, en minutos, calcularías para preparar la mochila antes de un día de clase?|
+ecole-etudes-089|¿Cuántos minutos pasarías preparando una pregunta para hacerle a un profesor?|¿Cuántos minutos tardarías en entender un ejercicio difícil de matemáticas?|
+ecole-etudes-090|¿Cuántos minutos dedicarías a releer un texto para un comentario de texto?|Normalmente, ¿cuántos minutos te llevaría elegir el tema de una exposición de cinco minutos?|commentaire composé → comentario de texto
+ecole-etudes-091|¿Cuántos minutos necesitarías para repasar fórmulas de física antes de un examen?|¿Cuánto tiempo, en minutos, calcularías para estudiar un tema de historia de diez páginas?|
+ecole-etudes-092|¿Cuántos minutos pasarías buscando un ejemplo concreto para una exposición?|¿Cuántos minutos tardarías en hacer tus fichas antes de un examen?|
+ecole-etudes-093|¿Cuántos minutos dedicarías a hacer el esquema de una redacción en tres partes?|Normalmente, ¿cuántos minutos te llevaría buscar una referencia en la biblioteca?|dissertation → redacción
+ecole-etudes-094|¿Cuántos minutos necesitarías para leer veinte páginas de una lectura obligatoria?|¿Cuánto tiempo, en minutos, calcularías para releer un trabajo antes de enviarlo?|
+ecole-etudes-095|¿Cuántos minutos pasarías organizando un calendario de estudio para una semana?|¿Cuántos minutos tardarías en ensayar una presentación oral?|
+ecole-etudes-096|¿Cuántos minutos pasarías repasando tus apuntes después de una clase de dos horas?|¿Cuántos minutos tardarías en corregir las faltas de una exposición en grupo?|
+ecole-etudes-097|¿Cuántos minutos dedicarías a preparar la mochila antes de un día de clase?|Normalmente, ¿cuántos minutos te llevaría elegir una optativa para el semestre siguiente?|
+ecole-etudes-098|¿Cuántos minutos necesitarías para entender un ejercicio difícil de matemáticas?|¿Cuánto tiempo, en minutos, calcularías para preparar el ordenador antes de una clase online?|
+ecole-etudes-099|¿Cuántos minutos pasarías eligiendo el tema de una exposición de cinco minutos?|¿Cuántos minutos tardarías en ordenar los documentos de un trimestre?|
+ecole-etudes-100|¿Cuántos minutos dedicarías a estudiar un tema de historia de diez páginas?|Normalmente, ¿cuántos minutos te llevaría preparar una pregunta para hacerle a un profesor?|
+ecole-etudes-101|¿A quién le pedirías consejo para entender el enunciado difícil de una redacción?|¿A quién llamarías para encontrar un compañero fiable para un proyecto?|dissertation → redacción
+ecole-etudes-102|¿Con quién contactarías primero para elegir entre dos carreras?|¿A quién le pedirías opinión para que te aconsejara sobre qué optativa elegir?|
+ecole-etudes-103|¿A quién acudirías para comprobar el resultado de un cálculo antes de un examen?|¿Con qué persona hablarías primero para aprender a gestionar mejor el estrés de los exámenes?|
+ecole-etudes-104|¿A quién le pedirías consejo sobre unas prácticas obligatorias?|¿A quién llamarías para que te revisara una carta de motivación para una escuela?|
+ecole-etudes-105|¿Con quién contactarías primero para repasar un punto de gramática que no entendiste bien?|¿A quién le pedirías opinión para encontrar exámenes de años anteriores?|
+ecole-etudes-106|¿A quién acudirías para resolver un conflicto en un trabajo de grupo?|¿Con qué persona hablarías primero para recuperar una clase que perdiste por estar enfermo?|
+ecole-etudes-107|¿A quién le pedirías consejo para preparar una entrevista de admisión en una escuela?|¿A quién llamarías para pedir una carta de recomendación para una solicitud?|
+ecole-etudes-108|¿Con quién contactarías primero para conocer las salidas profesionales de una titulación?|¿A quién le pedirías opinión para comprobar si unos estudios están reconocidos?|
+ecole-etudes-109|¿A quién acudirías para pedir opinión sobre el tema de tu TFG?|¿Con qué persona hablarías primero para recibir comentarios sobre un simulacro de examen oral?|mémoire → TFG
+ecole-etudes-110|¿A quién le pedirías consejo para encontrar un compañero fiable para un proyecto?|¿A quién llamarías para entender las normas sobre plagio en un trabajo?|
+ecole-etudes-111|¿Con quién contactarías primero para que te aconsejara sobre qué optativa elegir?|¿A quién le pedirías opinión para organizar una sesión de estudio eficaz?|
+ecole-etudes-112|¿A quién acudirías para aprender a gestionar mejor el estrés de los exámenes?|¿Con qué persona hablarías primero para entender el enunciado difícil de una redacción?|dissertation → redacción
+ecole-etudes-113|¿A quién le pedirías consejo para que te revisara una carta de motivación para una escuela?|¿A quién llamarías para elegir entre dos carreras?|
+ecole-etudes-114|¿Con quién contactarías primero para encontrar exámenes de años anteriores?|¿A quién le pedirías opinión para comprobar el resultado de un cálculo antes de un examen?|
+ecole-etudes-115|¿A quién acudirías para recuperar una clase que perdiste por estar enfermo?|¿Con qué persona hablarías primero para que te aconsejara sobre unas prácticas obligatorias?|
+ecole-etudes-116|¿A quién le pedirías consejo para pedir una carta de recomendación para una solicitud?|¿A quién llamarías para repasar un punto de gramática que no entendiste bien?|
+ecole-etudes-117|¿Con quién contactarías primero para comprobar si unos estudios están reconocidos?|¿A quién le pedirías opinión para resolver un conflicto en un trabajo de grupo?|
+ecole-etudes-118|¿A quién acudirías para recibir comentarios sobre un simulacro de examen oral?|¿Con qué persona hablarías primero para preparar una entrevista de admisión en una escuela?|
+ecole-etudes-119|¿A quién le pedirías consejo para entender las normas sobre plagio en un trabajo?|¿A quién llamarías para conocer las salidas profesionales de una titulación?|
+ecole-etudes-120|¿Con quién contactarías primero para organizar una sesión de estudio eficaz?|¿A quién le pedirías opinión sobre el tema de tu TFG?|mémoire → TFG
+ecole-etudes-121|¿Con quién contactarías primero para entender el enunciado difícil de una redacción?|¿A quién le pedirías opinión para encontrar un compañero fiable para un proyecto?|dissertation → redacción
+ecole-etudes-122|¿A quién acudirías para elegir entre dos carreras?|¿Con qué persona hablarías primero para que te aconsejara sobre qué optativa elegir?|
+ecole-etudes-123|¿A quién le pedirías consejo para comprobar el resultado de un cálculo antes de un examen?|¿A quién llamarías para aprender a gestionar mejor el estrés de los exámenes?|
+ecole-etudes-124|¿Con quién contactarías primero para que te aconsejara sobre unas prácticas obligatorias?|¿A quién le pedirías opinión para revisar una carta de motivación para una escuela?|
+ecole-etudes-125|¿A quién acudirías para repasar un punto de gramática que no entendiste bien?|¿Con qué persona hablarías primero para encontrar exámenes de años anteriores?|
+ecole-etudes-126|¿Adónde irías para estudiar tranquilo durante tres horas?|¿En qué sitio querrías trabajar un domingo cuando hay mucho ruido en tu casa?|
+ecole-etudes-127|¿En qué lugar preferirías imprimir un trabajo la víspera de una entrega?|¿Dónde decidirías comprar una calculadora permitida en los exámenes?|
+ecole-etudes-128|¿En qué lugar te gustaría encontrar un grupo de estudio cerca del campus?|¿Dónde elegirías organizar un ensayo de una presentación?|
+ecole-etudes-129|¿Adónde irías para leer un libro sin ruido después de clase?|¿En qué sitio querrías quedar con un amigo para estudiar juntos?|
+ecole-etudes-130|¿En qué lugar preferirías comprar una libreta antes de la vuelta a clase?|¿Dónde decidirías consultar archivos para una exposición de historia?|
+ecole-etudes-131|¿En qué lugar te gustaría tomar prestado un libro de texto difícil de encontrar?|¿Dónde elegirías fotocopiar un artículo que necesitas para una clase?|
+ecole-etudes-132|¿Adónde irías para hacer una llamada importante entre dos clases?|¿En qué sitio querrías pedir información sobre unos estudios?|
+ecole-etudes-133|¿En qué lugar preferirías preparar una exposición en equipo?|¿Dónde decidirías buscar un puesto con ordenador?|
+ecole-etudes-134|¿En qué lugar te gustaría ver a un profesor en sus horas de tutoría?|¿Dónde elegirías preparar una entrevista para unas prácticas?|
+ecole-etudes-135|¿Adónde irías para trabajar un domingo cuando hay mucho ruido en tu casa?|¿En qué sitio querrías hacer una práctica supervisada?|
+ecole-etudes-136|¿En qué lugar preferirías comprar una calculadora permitida en los exámenes?|¿Dónde decidirías concentrarte una hora antes de un examen?|
+ecole-etudes-137|¿En qué lugar te gustaría organizar un ensayo de una presentación?|¿Dónde elegirías estudiar tranquilo durante tres horas?|
+ecole-etudes-138|¿Adónde irías para quedar con un amigo para estudiar juntos?|¿En qué sitio querrías imprimir un trabajo la víspera de una entrega?|
+ecole-etudes-139|¿En qué lugar preferirías consultar archivos para una exposición de historia?|¿Dónde decidirías buscar un grupo de estudio cerca del campus?|
+ecole-etudes-140|¿En qué lugar te gustaría fotocopiar un artículo que necesitas para una clase?|¿Dónde elegirías leer un libro sin ruido después de clase?|
+ecole-etudes-141|¿Adónde irías para pedir información sobre unos estudios?|¿En qué sitio querrías comprar una libreta antes de la vuelta a clase?|
+ecole-etudes-142|¿En qué lugar preferirías buscar un puesto con ordenador?|¿Dónde decidirías tomar prestado un libro de texto difícil de encontrar?|
+ecole-etudes-143|¿En qué lugar te gustaría preparar una entrevista para unas prácticas?|¿Dónde elegirías hacer una llamada importante entre dos clases?|
+ecole-etudes-144|¿Adónde irías para hacer una práctica supervisada?|¿En qué sitio querrías preparar una exposición en equipo?|
+ecole-etudes-145|¿En qué lugar preferirías concentrarte una hora antes de un examen?|¿Dónde decidirías ver a un profesor en sus horas de tutoría?|
+ecole-etudes-146|¿En qué lugar preferirías estudiar tranquilo durante tres horas?|¿Dónde decidirías trabajar un domingo cuando hay mucho ruido en tu casa?|
+ecole-etudes-147|¿En qué lugar te gustaría imprimir un trabajo la víspera de una entrega?|¿Dónde elegirías comprar una calculadora permitida en los exámenes?|
+ecole-etudes-148|¿Adónde irías para encontrar un grupo de estudio cerca del campus?|¿En qué sitio querrías organizar un ensayo de una presentación?|
+ecole-etudes-149|¿En qué lugar preferirías leer un libro sin ruido después de clase?|¿Dónde decidirías quedar con un amigo para estudiar juntos?|
+ecole-etudes-150|¿En qué lugar te gustaría comprar una libreta antes de la vuelta a clase?|¿Dónde elegirías consultar archivos para una exposición de historia?|
+ecole-etudes-151|¿Qué objeto te llevarías para tomar apuntes durante una clase de tres horas?|¿Qué accesorio usarías para practicar la pronunciación de un idioma extranjero?|
+ecole-etudes-152|¿Qué accesorio elegirías para hacer una exposición sin ordenador propio?|¿Con qué objeto querrías leer un libro de texto durante un viaje en tren?|
+ecole-etudes-153|¿Qué objeto te parecería imprescindible para organizar todas las fechas de entrega del semestre?|¿Qué objeto cogerías antes que nada para explicarle un esquema a un compañero?|
+ecole-etudes-154|¿Qué objeto te llevarías para memorizar mapas?|¿Qué accesorio usarías para guardar las fichas de estudio de todo un año?|
+ecole-etudes-155|¿Qué accesorio elegirías para llevar libros pesados hasta el campus?|¿Con qué objeto querrías presentar un gráfico en la pizarra?|
+ecole-etudes-156|¿Qué objeto te parecería imprescindible para corregir ejercicios de matemáticas?|¿Qué objeto cogerías antes que nada para hacer un ejercicio de geometría con precisión?|
+ecole-etudes-157|¿Qué objeto te llevarías para anotar un texto literario de diez páginas?|¿Qué accesorio usarías para trabajar en una biblioteca sin enchufes?|
+ecole-etudes-158|¿Qué accesorio elegirías para estudiar en una sala con muchísima luz?|¿Con qué objeto querrías llevar un ordenador bajo la lluvia?|
+ecole-etudes-159|¿Qué objeto te parecería imprescindible para estudiar sin conexión a internet?|¿Qué objeto cogerías antes que nada para grabar ideas para una redacción?|dissertation → redacción
+ecole-etudes-160|¿Qué objeto te llevarías para practicar la pronunciación de un idioma extranjero?|¿Qué accesorio usarías para organizar un proyecto de grupo a distancia?|
+ecole-etudes-161|¿Qué accesorio elegirías para leer un libro de texto durante un viaje en tren?|¿Con qué objeto querrías encontrar rápido una definición mientras estudias?|
+ecole-etudes-162|¿Qué objeto te parecería imprescindible para explicarle un esquema a un compañero?|¿Qué objeto cogerías antes que nada para tomar apuntes durante una clase de tres horas?|
+ecole-etudes-163|¿Qué objeto te llevarías para guardar las fichas de estudio de todo un año?|¿Qué accesorio usarías para hacer una exposición sin ordenador propio?|
+ecole-etudes-164|¿Qué accesorio elegirías para presentar un gráfico en la pizarra?|¿Con qué objeto querrías organizar todas las fechas de entrega del semestre?|
+ecole-etudes-165|¿Qué objeto te parecería imprescindible para hacer un ejercicio de geometría con precisión?|¿Qué objeto cogerías antes que nada para memorizar mapas?|
+ecole-etudes-166|¿Qué objeto te llevarías para trabajar en una biblioteca sin enchufes?|¿Qué accesorio usarías para llevar libros pesados hasta el campus?|
+ecole-etudes-167|¿Qué accesorio elegirías para llevar un ordenador bajo la lluvia?|¿Con qué objeto querrías corregir ejercicios de matemáticas?|
+ecole-etudes-168|¿Qué objeto te parecería imprescindible para grabar ideas para una redacción?|¿Qué objeto cogerías antes que nada para anotar un texto literario de diez páginas?|dissertation → redacción
+ecole-etudes-169|¿Qué objeto te llevarías para organizar un proyecto de grupo a distancia?|¿Qué accesorio usarías para estudiar en una sala con muchísima luz?|
+ecole-etudes-170|¿Qué accesorio elegirías para encontrar rápido una definición mientras estudias?|¿Con qué objeto querrías estudiar sin conexión a internet?|
+ecole-etudes-171|¿Qué accesorio elegirías para tomar apuntes durante una clase de tres horas?|¿Con qué objeto querrías practicar la pronunciación de un idioma extranjero?|
+ecole-etudes-172|¿Qué objeto te parecería imprescindible para hacer una exposición sin ordenador propio?|¿Qué objeto cogerías antes que nada para leer un libro de texto durante un viaje en tren?|
+ecole-etudes-173|¿Qué objeto te llevarías para organizar todas las fechas de entrega del semestre?|¿Qué accesorio usarías para explicarle un esquema a un compañero?|
+ecole-etudes-174|¿Qué accesorio elegirías para memorizar mapas?|¿Con qué objeto querrías guardar las fichas de estudio de todo un año?|
+ecole-etudes-175|¿Qué objeto te parecería imprescindible para llevar libros pesados hasta el campus?|¿Qué objeto cogerías antes que nada para presentar un gráfico en la pizarra?|
+ecole-etudes-176|¿Cuántas veces al mes podrías hacer fichas después de una clase importante?|En un mes normal, ¿cuántas veces elegirías ver un vídeo educativo como complemento?|
+ecole-etudes-177|¿Cuántas veces al mes te gustaría estudiar en una biblioteca en vez de en casa?|En tu opinión, ¿cuántas veces al mes sería razonable practicar un idioma extranjero con un amigo?|
+ecole-etudes-178|En un mes, ¿cuántas veces podrías estudiar con otro estudiante?|En un mes cualquiera, ¿cuántas veces te gustaría buscar artículos para profundizar en una asignatura?|
+ecole-etudes-179|¿Cuántas veces al mes podrías revisar tus objetivos de estudio?|En un mes normal, ¿cuántas veces elegirías hacer pausas durante una larga sesión de estudio?|
+ecole-etudes-180|¿Cuántas veces al mes te gustaría trabajar en grupo en una exposición?|En tu opinión, ¿cuántas veces al mes sería razonable asistir a una conferencia de tu centro?|
+ecole-etudes-181|En un mes, ¿cuántas veces podrías pedirle a un profesor que valorara tu trabajo?|En un mes cualquiera, ¿cuántas veces te gustaría pedir cita con un orientador?|
+ecole-etudes-182|¿Cuántas veces al mes podrías releer un trabajo antiguo ya corregido?|En un mes normal, ¿cuántas veces elegirías leer un tema adelantándote al temario?|
+ecole-etudes-183|¿Cuántas veces al mes te gustaría preparar tus cosas la noche antes de una clase?|En tu opinión, ¿cuántas veces al mes sería razonable repetir un ejercicio que te salió mal para mejorar?|
+ecole-etudes-184|En un mes, ¿cuántas veces podrías usar tarjetas de memoria para estudiar?|En un mes cualquiera, ¿cuántas veces te gustaría aprender un nuevo método de memorización?|
+ecole-etudes-185|¿Cuántas veces al mes podrías ver un vídeo educativo como complemento?|En un mes normal, ¿cuántas veces elegirías planificar tu estudio en una agenda?|
+ecole-etudes-186|¿Cuántas veces al mes te gustaría practicar un idioma extranjero con un amigo?|En tu opinión, ¿cuántas veces al mes sería razonable ponerte a prueba con un test de práctica?|
+ecole-etudes-187|En un mes, ¿cuántas veces podrías buscar artículos para profundizar en una asignatura?|En un mes cualquiera, ¿cuántas veces te gustaría hacer fichas después de una clase importante?|
+ecole-etudes-188|¿Cuántas veces al mes podrías hacer pausas durante una larga sesión de estudio?|En un mes normal, ¿cuántas veces elegirías estudiar en una biblioteca en vez de en casa?|
+ecole-etudes-189|¿Cuántas veces al mes te gustaría asistir a una conferencia de tu centro?|En tu opinión, ¿cuántas veces al mes sería razonable estudiar con otro estudiante?|
+ecole-etudes-190|En un mes, ¿cuántas veces podrías pedir cita con un orientador?|En un mes cualquiera, ¿cuántas veces te gustaría revisar tus objetivos de estudio?|
+ecole-etudes-191|¿Cuántas veces al mes podrías leer un tema adelantándote al temario?|En un mes normal, ¿cuántas veces elegirías trabajar en grupo en una exposición?|
+ecole-etudes-192|¿Cuántas veces al mes te gustaría repetir un ejercicio que te salió mal para mejorar?|En tu opinión, ¿cuántas veces al mes sería razonable pedirle a un profesor que valorara tu trabajo?|
+ecole-etudes-193|En un mes, ¿cuántas veces podrías aprender un nuevo método de memorización?|En un mes cualquiera, ¿cuántas veces te gustaría releer un trabajo antiguo ya corregido?|
+ecole-etudes-194|¿Cuántas veces al mes podrías planificar tu estudio en una agenda?|En un mes normal, ¿cuántas veces elegirías preparar tus cosas la noche antes de una clase?|
+ecole-etudes-195|¿Cuántas veces al mes te gustaría ponerte a prueba con un test de práctica?|En tu opinión, ¿cuántas veces al mes sería razonable usar tarjetas de memoria para estudiar?|
+ecole-etudes-196|¿Cuántas veces al mes te gustaría hacer fichas después de una clase importante?|En tu opinión, ¿cuántas veces al mes sería razonable ver un vídeo educativo como complemento?|
+ecole-etudes-197|En un mes, ¿cuántas veces podrías estudiar en una biblioteca en vez de en casa?|En un mes cualquiera, ¿cuántas veces te gustaría practicar un idioma extranjero con un amigo?|
+ecole-etudes-198|¿Cuántas veces al mes podrías estudiar con otro estudiante?|En un mes normal, ¿cuántas veces elegirías buscar artículos para profundizar en una asignatura?|
+ecole-etudes-199|¿Cuántas veces al mes te gustaría revisar tus objetivos de estudio?|En tu opinión, ¿cuántas veces al mes sería razonable hacer pausas durante una larga sesión de estudio?|
+ecole-etudes-200|En un mes, ¿cuántas veces podrías trabajar en grupo en una exposición?|En un mes cualquiera, ¿cuántas veces te gustaría asistir a una conferencia de tu centro?|

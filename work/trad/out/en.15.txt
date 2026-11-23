@@ -197,3 +197,404 @@ vie-adulte-admin-196|What would you look at first when choosing home insurance f
 vie-adulte-admin-197|What would be non-negotiable when signing a tenancy agreement for a flat?|What detail would you check before fitting a lock on a front door?|
 vie-adulte-admin-198|What would matter most to you when picking a professional removals company?|What would you be most demanding about when taking out a warranty on an expensive computer?|
 vie-adulte-admin-199|What would you look at first when buying a washing machine?|What would be your priority when renting a studio flat in a new city?|
+vie-adulte-admin-200|What would be non-negotiable when choosing your main bank?|What detail would you check before choosing a tradesperson for a light renovation job?|
+transports-deplacements-001|What's the most you'd pay for a twenty-minute taxi ride after midnight?|What price would seem reasonable to you for renting a small city car for a weekend?|
+transports-deplacements-002|How much would you be willing to spend on a London–Manchester train ticket booked a week ahead?|In pounds, what would your limit be for secure parking near an airport for three days?|TGV Paris-Lyon → train London–Manchester ; euros → livres
+transports-deplacements-003|What budget would you set aside for a three-hour coach ticket between two cities?|At what price would you find a first-class ticket for a two-hour journey too expensive?|
+transports-deplacements-004|What's the most you'd pay for a ten-kilometre Uber ride on a Saturday night?|What price would seem reasonable to you for a seat with cabin luggage on a short flight?|VTC → Uber
+transports-deplacements-005|How much would you be willing to spend on a monthly metro pass in a big city?|In pounds, what would your limit be for a shuttle between the airport and the city centre?|euros → livres
+transports-deplacements-006|What budget would you set aside for a parking space for six hours near a train station?|At what price would you find an annual bike-share membership too expensive?|
+transports-deplacements-007|What's the most you'd pay for hiring an e-bike for a day?|What price would seem reasonable to you for a residents' parking space for a month?|
+transports-deplacements-008|How much would you be willing to spend on a twenty-minute ride on a shared e-scooter?|In pounds, what would your limit be for a full interior valet of a car?|euros → livres
+transports-deplacements-009|What budget would you set aside for a regional train ticket for fifty kilometres?|At what price would you find a full tank of petrol for a small city car too expensive?|
+transports-deplacements-010|What's the most you'd pay for renting a small city car for a weekend?|What price would seem reasonable to you for having your luggage delivered from a train station to a hotel?|
+transports-deplacements-011|How much would you be willing to spend on secure parking near an airport for three days?|In pounds, what would your limit be for a private transfer from the airport to a hotel for two?|euros → livres
+transports-deplacements-012|What budget would you set aside for a first-class ticket for a two-hour journey?|At what price would you find a twenty-minute taxi ride after midnight too expensive?|
+transports-deplacements-013|What's the most you'd pay for a seat with cabin luggage on a short flight?|What price would seem reasonable to you for a London–Manchester train ticket booked a week ahead?|TGV Paris-Lyon → train London–Manchester
+transports-deplacements-014|How much would you be willing to spend on a shuttle between the airport and the city centre?|In pounds, what would your limit be for a three-hour coach ticket between two cities?|euros → livres
+transports-deplacements-015|What budget would you set aside for an annual bike-share membership?|At what price would you find a ten-kilometre Uber ride on a Saturday night too expensive?|VTC → Uber
+transports-deplacements-016|What's the most you'd pay for a residents' parking space for a month?|What price would seem reasonable to you for a monthly metro pass in a big city?|
+transports-deplacements-017|How much would you be willing to spend on a full interior valet of a car?|In pounds, what would your limit be for a parking space for six hours near a train station?|euros → livres
+transports-deplacements-018|What budget would you set aside for a full tank of petrol for a small city car?|At what price would you find hiring an e-bike for a day too expensive?|
+transports-deplacements-019|What's the most you'd pay for having your luggage delivered from a train station to a hotel?|What price would seem reasonable to you for a twenty-minute ride on a shared e-scooter?|
+transports-deplacements-020|How much would you be willing to spend on a private transfer from the airport to a hotel for two?|In pounds, what would your limit be for a regional train ticket for fifty kilometres?|euros → livres
+transports-deplacements-021|How much would you be willing to spend on a twenty-minute taxi ride after midnight?|In pounds, what would your limit be for renting a small city car for a weekend?|euros → livres
+transports-deplacements-022|What budget would you set aside for a London–Manchester train ticket booked a week ahead?|At what price would you find secure parking near an airport for three days too expensive?|TGV Paris-Lyon → train London–Manchester
+transports-deplacements-023|What's the most you'd pay for a three-hour coach ticket between two cities?|What price would seem reasonable to you for a first-class ticket for a two-hour journey?|
+transports-deplacements-024|How much would you be willing to spend on a ten-kilometre Uber ride on a Saturday night?|In pounds, what would your limit be for a seat with cabin luggage on a short flight?|VTC → Uber ; euros → livres
+transports-deplacements-025|What budget would you set aside for a monthly metro pass in a big city?|At what price would you find a shuttle between the airport and the city centre too expensive?|
+transports-deplacements-026|What would you say back if a taxi driver refused a really short journey?|How would you respond if a station worker announced another thirty minutes' delay?|
+transports-deplacements-027|What would be your first sentence if someone took your reserved seat on the train?|What would you say if a passenger asked you for directions in a city you don't know?|
+transports-deplacements-028|What would you say if a passenger was playing a video at full volume on the bus?|What words would you use if someone pushed in front of the whole bus queue?|
+transports-deplacements-029|What would you say back if the ticket inspector asked for a ticket you can't find?|How would you respond if a friend offered to take their car even though they're tired?|
+transports-deplacements-030|What would be your first sentence if an Uber driver wanted to cancel after arriving?|What would you say if a passenger got the wrong carriage and was sitting in your seat?|VTC → Uber
+transports-deplacements-031|What would you say if a passenger asked you to give up your seat for them?|What words would you use if the bus driver closed the doors right in front of you?|
+transports-deplacements-032|What would you say back if a driver beeped at you while the light was red?|How would you respond if someone asked you to keep an eye on their suitcase on the train?|
+transports-deplacements-033|What would be your first sentence if a passenger put their suitcase on the seat next to you?|What would you say if a driver suggested a detour the app hadn't planned?|
+transports-deplacements-034|What would you say if a driver refused to close their window during a journey?|What words would you use if a friend said they'll be late to meet you yet again?|
+transports-deplacements-035|What would you say back if a station worker announced another thirty minutes' delay?|How would you respond if a passenger asked you to get off earlier to let them through?|
+transports-deplacements-036|What would be your first sentence if a passenger asked you for directions in a city you don't know?|What would you say if a member of staff told you your ticket isn't valid any more?|
+transports-deplacements-037|What would you say if someone pushed in front of the whole bus queue?|What words would you use if a taxi driver refused a really short journey?|
+transports-deplacements-038|What would you say back if a friend offered to take their car even though they're tired?|How would you respond if someone took your reserved seat on the train?|
+transports-deplacements-039|What would be your first sentence if a passenger got the wrong carriage and was sitting in your seat?|What would you say if a passenger was playing a video at full volume on the bus?|
+transports-deplacements-040|What would you say if the bus driver closed the doors right in front of you?|What words would you use if the ticket inspector asked for a ticket you can't find?|
+transports-deplacements-041|What would you say back if someone asked you to keep an eye on their suitcase on the train?|How would you respond if an Uber driver wanted to cancel after arriving?|VTC → Uber
+transports-deplacements-042|What would be your first sentence if a driver suggested a detour the app hadn't planned?|What would you say if a passenger asked you to give up your seat for them?|
+transports-deplacements-043|What would you say if a friend said they'll be late to meet you yet again?|What words would you use if a driver beeped at you while the light was red?|
+transports-deplacements-044|What would you say back if a passenger asked you to get off earlier to let them through?|How would you respond if a passenger put their suitcase on the seat next to you?|
+transports-deplacements-045|What would be your first sentence if a member of staff told you your ticket isn't valid any more?|What would you say if a driver refused to close their window during a journey?|
+transports-deplacements-046|What would be your first sentence if a taxi driver refused a really short journey?|What would you say if a station worker announced another thirty minutes' delay?|
+transports-deplacements-047|What would you say if someone took your reserved seat on the train?|What words would you use if a passenger asked you for directions in a city you don't know?|
+transports-deplacements-048|What would you say back if a passenger was playing a video at full volume on the bus?|How would you respond if someone pushed in front of the whole bus queue?|
+transports-deplacements-049|What would be your first sentence if the ticket inspector asked for a ticket you can't find?|What would you say if a friend offered to take their car even though they're tired?|
+transports-deplacements-050|What would you say if an Uber driver wanted to cancel after arriving?|What words would you use if a passenger got the wrong carriage and was sitting in your seat?|VTC → Uber
+transports-deplacements-051|What would you do first if your train was cancelled thirty minutes before departure?|What would you decide to do first if the Uber driver cancelled after you'd waited ten minutes?|VTC → Uber
+transports-deplacements-052|What would be your first instinct if you left your bag on a bus?|How would you act first if you found a scratch on your car when you got back to the car park?|
+transports-deplacements-053|Where would you start if you turned up at the wrong station for an important departure?|What would be your first move if your travel card stopped working at a ticket barrier?|
+transports-deplacements-054|What would you do first if your car wouldn't start in a supermarket car park?|What would you decide to do first if you'd missed your connection for a job interview?|
+transports-deplacements-055|What would be your first instinct if you realised the last metro train had just left?|How would you act first if the bike-share station was completely empty?|
+transports-deplacements-056|Where would you start if you got a puncture on your bike on the way to work?|What would be your first move if the hire car had a warning light on?|
+transports-deplacements-057|What would you do first if your phone died before you could show your e-ticket?|What would you decide to do first if an unexpected traffic jam added an hour to your journey?|
+transports-deplacements-058|What would be your first instinct if you found yourself on the wrong platform five minutes before departure?|How would you act first if you forgot which floor you'd parked on in the car park?|
+transports-deplacements-059|Where would you start if an accident blocked the motorway during your journey?|What would be your first move if your car's charging point was out of order?|
+transports-deplacements-060|What would you do first if the Uber driver cancelled after you'd waited ten minutes?|What would you decide to do first if a passenger spilt coffee on your bag on the train?|VTC → Uber
+transports-deplacements-061|What would be your first instinct if you found a scratch on your car when you got back to the car park?|How would you act first if you realised you'd got on a train going to the wrong destination?|
+transports-deplacements-062|Where would you start if your travel card stopped working at a ticket barrier?|What would be your first move if your train was cancelled thirty minutes before departure?|
+transports-deplacements-063|What would you do first if you'd missed your connection for a job interview?|What would you decide to do first if you left your bag on a bus?|
+transports-deplacements-064|What would be your first instinct if the bike-share station was completely empty?|How would you act first if you turned up at the wrong station for an important departure?|
+transports-deplacements-065|Where would you start if the hire car had a warning light on?|What would be your first move if your car wouldn't start in a supermarket car park?|
+transports-deplacements-066|What would you do first if an unexpected traffic jam added an hour to your journey?|What would you decide to do first if you realised the last metro train had just left?|
+transports-deplacements-067|What would be your first instinct if you forgot which floor you'd parked on in the car park?|How would you act first if you got a puncture on your bike on the way to work?|
+transports-deplacements-068|Where would you start if your car's charging point was out of order?|What would be your first move if your phone died before you could show your e-ticket?|
+transports-deplacements-069|What would you do first if a passenger spilt coffee on your bag on the train?|What would you decide to do first if you found yourself on the wrong platform five minutes before departure?|
+transports-deplacements-070|What would be your first instinct if you realised you'd got on a train going to the wrong destination?|How would you act first if an accident blocked the motorway during your journey?|
+transports-deplacements-071|What would be your first instinct if your train was cancelled thirty minutes before departure?|How would you act first if the Uber driver cancelled after you'd waited ten minutes?|VTC → Uber
+transports-deplacements-072|Where would you start if you left your bag on a bus?|What would be your first move if you found a scratch on your car when you got back to the car park?|
+transports-deplacements-073|What would you do first if you turned up at the wrong station for an important departure?|What would you decide to do first if your travel card stopped working at a ticket barrier?|
+transports-deplacements-074|What would be your first instinct if your car wouldn't start in a supermarket car park?|How would you act first if you'd missed your connection for a job interview?|
+transports-deplacements-075|Where would you start if you realised the last metro train had just left?|What would be your first move if the bike-share station was completely empty?|
+transports-deplacements-076|Would you rather go for a more expensive direct train or a cheaper train with a change?|If you could only have one, would you pick leaving at six in the morning or arriving late in the evening?|
+transports-deplacements-077|Between walking for twenty-five minutes and taking a ten-minute bus, which would you prefer?|Which of the two tempts you more: travelling light with a backpack or taking a cabin suitcase?|
+transports-deplacements-078|If you had to choose, would it be hiring a bike or using the metro for a day of sightseeing?|Would you go for cycling to work or taking public transport?|
+transports-deplacements-079|Would you rather go for a window seat or an aisle seat on the train?|If you could only have one, would you pick parking near the centre or walking from a free car park?|
+transports-deplacements-080|Between getting to the station really early and arriving just on time, which would you prefer?|Which of the two tempts you more: a hybrid car or a small electric car?|
+transports-deplacements-081|If you had to choose, would it be driving on a toll motorway or taking the A-roads?|Would you go for an early-morning direct flight or a later flight with a stopover?|routes nationales → A-roads
+transports-deplacements-082|Would you rather go for getting an Uber or sharing a taxi with friends?|If you could only have one, would you pick an overnight train journey or a whole day on the train?|VTC → Uber
+transports-deplacements-083|Between car-sharing and taking a coach, which would you prefer?|Which of the two tempts you more: an electric scooter or an e-bike?|
+transports-deplacements-084|If you had to choose, would it be a flexible ticket or a cheaper non-refundable ticket?|Would you go for listening to music or reading on a journey?|
+transports-deplacements-085|Would you rather go for leaving at six in the morning or arriving late in the evening?|If you could only have one, would you pick a monthly travel pass or single tickets?|
+transports-deplacements-086|Between travelling light with a backpack and taking a cabin suitcase, which would you prefer?|Which of the two tempts you more: sharing the driving or driving alone for the whole journey?|
+transports-deplacements-087|If you had to choose, would it be cycling to work or taking public transport?|Would you go for a more expensive direct train or a cheaper train with a change?|
+transports-deplacements-088|Would you rather go for parking near the centre or walking from a free car park?|If you could only have one, would you pick walking for twenty-five minutes or taking a ten-minute bus?|
+transports-deplacements-089|Between a hybrid car and a small electric car, which would you prefer?|Which of the two tempts you more: hiring a bike or using the metro for a day of sightseeing?|
+transports-deplacements-090|If you had to choose, would it be an early-morning direct flight or a later flight with a stopover?|Would you go for a window seat or an aisle seat on the train?|
+transports-deplacements-091|Would you rather go for an overnight train journey or a whole day on the train?|If you could only have one, would you pick getting to the station really early or arriving just on time?|
+transports-deplacements-092|Between an electric scooter and an e-bike, which would you prefer?|Which of the two tempts you more: driving on a toll motorway or taking the A-roads?|routes nationales → A-roads
+transports-deplacements-093|If you had to choose, would it be listening to music or reading on a journey?|Would you go for getting an Uber or sharing a taxi with friends?|VTC → Uber
+transports-deplacements-094|Would you rather go for a monthly travel pass or single tickets?|If you could only have one, would you pick car-sharing or taking a coach?|
+transports-deplacements-095|Between sharing the driving and driving alone for the whole journey, which would you prefer?|Which of the two tempts you more: a flexible ticket or a cheaper non-refundable ticket?|
+transports-deplacements-096|Between a more expensive direct train and a cheaper train with a change, which would you prefer?|Which of the two tempts you more: leaving at six in the morning or arriving late in the evening?|
+transports-deplacements-097|If you had to choose, would it be walking for twenty-five minutes or taking a ten-minute bus?|Would you go for travelling light with a backpack or taking a cabin suitcase?|
+transports-deplacements-098|Would you rather go for hiring a bike or using the metro for a day of sightseeing?|If you could only have one, would you pick cycling to work or taking public transport?|
+transports-deplacements-099|Between a window seat and an aisle seat on the train, which would you prefer?|Which of the two tempts you more: parking near the centre or walking from a free car park?|
+transports-deplacements-100|If you had to choose, would it be getting to the station really early or arriving just on time?|Would you go for a hybrid car or a small electric car?|
+transports-deplacements-101|How many minutes would it take you to find a parking space on a high street?|How much time, in minutes, would you set aside to fill in a complaint form for a cancelled train?|
+transports-deplacements-102|How many minutes would you spend waiting for a bus that's been announced as late?|How many minutes would you take to find a step-free route with a pushchair?|
+transports-deplacements-103|How many minutes would you devote to packing your bag for a three-hour train journey?|Usually, how many minutes would you take to fit a child seat in a car?|
+transports-deplacements-104|How many minutes would it take you to check the times for a train connection?|How much time, in minutes, would you set aside to get a car ready before a long trip?|
+transports-deplacements-105|How many minutes would you spend finding a free charging point on your route?|How many minutes would you take waiting before calling an Uber that's running late?|VTC → Uber
+transports-deplacements-106|How many minutes would you devote to comparing two driving routes before setting off?|Usually, how many minutes would you take to buy a train ticket on your phone?|
+transports-deplacements-107|How many minutes would it take you to get off the train with a big suitcase?|How much time, in minutes, would you set aside to find where you parked your car?|
+transports-deplacements-108|How many minutes would you spend getting to your platform in a station you don't know?|How many minutes would you take to check your tyre pressure before getting on the motorway?|
+transports-deplacements-109|How many minutes would you devote to finding the way out of a big metro station?|Usually, how many minutes would you take to load the luggage into the boot before setting off?|
+transports-deplacements-110|How many minutes would it take you to fill in a complaint form for a cancelled train?|How much time, in minutes, would you set aside to choose a seat on a long-distance train?|
+transports-deplacements-111|How many minutes would you spend finding a step-free route with a pushchair?|How many minutes would you take to ask for information after a train was cancelled?|
+transports-deplacements-112|How many minutes would you devote to fitting a child seat in a car?|Usually, how many minutes would you take to find a parking space on a high street?|
+transports-deplacements-113|How many minutes would it take you to get a car ready before a long trip?|How much time, in minutes, would you set aside to wait for a bus that's been announced as late?|
+transports-deplacements-114|How many minutes would you spend waiting before calling an Uber that's running late?|How many minutes would you take to pack your bag for a three-hour train journey?|VTC → Uber
+transports-deplacements-115|How many minutes would you devote to buying a train ticket on your phone?|Usually, how many minutes would you take to check the times for a train connection?|
+transports-deplacements-116|How many minutes would it take you to find where you parked your car?|How much time, in minutes, would you set aside to find a free charging point on your route?|
+transports-deplacements-117|How many minutes would you spend checking your tyre pressure before getting on the motorway?|How many minutes would you take to compare two driving routes before setting off?|
+transports-deplacements-118|How many minutes would you devote to loading the luggage into the boot before setting off?|Usually, how many minutes would you take to get off the train with a big suitcase?|
+transports-deplacements-119|How many minutes would it take you to choose a seat on a long-distance train?|How much time, in minutes, would you set aside to get to your platform in a station you don't know?|
+transports-deplacements-120|How many minutes would you spend asking for information after a train was cancelled?|How many minutes would you take to find the way out of a big metro station?|
+transports-deplacements-121|How many minutes would you spend finding a parking space on a high street?|How many minutes would you take to fill in a complaint form for a cancelled train?|
+transports-deplacements-122|How many minutes would you devote to waiting for a bus that's been announced as late?|Usually, how many minutes would you take to find a step-free route with a pushchair?|
+transports-deplacements-123|How many minutes would it take you to pack your bag for a three-hour train journey?|How much time, in minutes, would you set aside to fit a child seat in a car?|
+transports-deplacements-124|How many minutes would you spend checking the times for a train connection?|How many minutes would you take to get a car ready before a long trip?|
+transports-deplacements-125|How many minutes would you devote to finding a free charging point on your route?|Usually, how many minutes would you take waiting before calling an Uber that's running late?|VTC → Uber
+transports-deplacements-126|Who would you ask for advice to find out about a cancelled train?|Who would you call to ask for help with a car that won't start?|
+transports-deplacements-127|Who would you contact first to get back something you left on a bus?|Who would you ask for an opinion to report a broken ticket machine?|
+transports-deplacements-128|Who would you turn to to report a fault on a metro train?|Who would you speak to first to get a bike fixed after a puncture?|
+transports-deplacements-129|Who would you ask for advice to get help at a station with no lift?|Who would you call to check a car hire contract?|
+transports-deplacements-130|Who would you contact first to get advice on buying a city bike?|Who would you ask for an opinion to find an airport shuttle service?|
+transports-deplacements-131|Who would you turn to to sort out a problem with an e-ticket?|Who would you speak to first to get information about a travel pass?|
+transports-deplacements-132|Who would you ask for advice to find out how to appeal a parking fine?|Who would you call to claim a refund for a cancelled journey?|
+transports-deplacements-133|Who would you contact first to check a complicated road route?|Who would you ask for an opinion to report a safety problem at a station?|
+transports-deplacements-134|Who would you turn to to find a solution after a delayed flight?|Who would you speak to first to plan a journey with a wheelchair?|
+transports-deplacements-135|Who would you ask for advice to get help with a car that won't start?|Who would you call to ask for assistance with bulky luggage?|
+transports-deplacements-136|Who would you contact first to report a broken ticket machine?|Who would you ask for an opinion to choose a suitable seat on a coach?|
+transports-deplacements-137|Who would you turn to to get a bike fixed after a puncture?|Who would you speak to first to find out about a cancelled train?|
+transports-deplacements-138|Who would you ask for advice to check a car hire contract?|Who would you call to get back something you left on a bus?|
+transports-deplacements-139|Who would you contact first to find an airport shuttle service?|Who would you ask for an opinion to report a fault on a metro train?|
+transports-deplacements-140|Who would you turn to to get information about a travel pass?|Who would you speak to first to get help at a station with no lift?|
+transports-deplacements-141|Who would you ask for advice to claim a refund for a cancelled journey?|Who would you call to get advice on buying a city bike?|
+transports-deplacements-142|Who would you contact first to report a safety problem at a station?|Who would you ask for an opinion to sort out a problem with an e-ticket?|
+transports-deplacements-143|Who would you turn to to plan a journey with a wheelchair?|Who would you speak to first to find out how to appeal a parking fine?|
+transports-deplacements-144|Who would you ask for advice to get assistance with bulky luggage?|Who would you call to check a complicated road route?|
+transports-deplacements-145|Who would you contact first to choose a suitable seat on a coach?|Who would you ask for an opinion to find a solution after a delayed flight?|
+transports-deplacements-146|Who would you contact first to find out about a cancelled train?|Who would you ask for an opinion to get help with a car that won't start?|
+transports-deplacements-147|Who would you turn to to get back something you left on a bus?|Who would you speak to first to report a broken ticket machine?|
+transports-deplacements-148|Who would you ask for advice to report a fault on a metro train?|Who would you call to get a bike fixed after a puncture?|
+transports-deplacements-149|Who would you contact first to get help at a station with no lift?|Who would you ask for an opinion to check a car hire contract?|
+transports-deplacements-150|Who would you turn to to get advice on buying a city bike?|Who would you speak to first to find an airport shuttle service?|
+transports-deplacements-151|Where would you go to park a car for two hours near a town centre?|Where would you want to drop off someone with a big suitcase?|
+transports-deplacements-152|Where would you prefer to wait safely for a lift-share in the evening?|Where would you decide to change a bike tyre in an emergency?|
+transports-deplacements-153|Where would you like to buy a bus ticket at the last minute?|Where would you choose to take a break after two hours of driving?|
+transports-deplacements-154|Where would you go to get a taxi after a late show?|Where would you want to buy a travel card when you arrive?|
+transports-deplacements-155|Where would you prefer to hire a bike to explore a city?|Where would you decide to check over a bike before a long ride?|
+transports-deplacements-156|Where would you like to charge an electric car during lunch?|Where would you choose to leave your luggage for a few hours?|
+transports-deplacements-157|Where would you go to park a scooter near a train station?|Where would you want to meet a friend outside an airport?|
+transports-deplacements-158|Where would you prefer to wait somewhere warm for a delayed train in winter?|Where would you decide to have breakfast before a six o'clock departure?|
+transports-deplacements-159|Where would you like to meet a lift-share driver?|Where would you choose to take a break without leaving the motorway?|
+transports-deplacements-160|Where would you go to drop off someone with a big suitcase?|Where would you want to pick up a hire car in a city?|
+transports-deplacements-161|Where would you prefer to change a bike tyre in an emergency?|Where would you decide to wait safely for a night bus?|
+transports-deplacements-162|Where would you like to take a break after two hours of driving?|Where would you choose to park a car for two hours near a town centre?|
+transports-deplacements-163|Where would you go to buy a travel card when you arrive?|Where would you want to wait safely for a lift-share in the evening?|
+transports-deplacements-164|Where would you prefer to check over a bike before a long ride?|Where would you decide to buy a bus ticket at the last minute?|
+transports-deplacements-165|Where would you like to leave your luggage for a few hours?|Where would you choose to get a taxi after a late show?|
+transports-deplacements-166|Where would you go to meet a friend outside an airport?|Where would you want to hire a bike to explore a city?|
+transports-deplacements-167|Where would you prefer to have breakfast before a six o'clock departure?|Where would you decide to charge an electric car during lunch?|
+transports-deplacements-168|Where would you like to take a break without leaving the motorway?|Where would you choose to park a scooter near a train station?|
+transports-deplacements-169|Where would you go to pick up a hire car in a city?|Where would you want to wait somewhere warm for a delayed train in winter?|
+transports-deplacements-170|Where would you prefer to wait safely for a night bus?|Where would you decide to meet a lift-share driver?|
+transports-deplacements-171|Where would you prefer to park a car for two hours near a town centre?|Where would you decide to drop off someone with a big suitcase?|
+transports-deplacements-172|Where would you like to wait safely for a lift-share in the evening?|Where would you choose to change a bike tyre in an emergency?|
+transports-deplacements-173|Where would you go to buy a bus ticket at the last minute?|Where would you want to take a break after two hours of driving?|
+transports-deplacements-174|Where would you prefer to get a taxi after a late show?|Where would you decide to buy a travel card when you arrive?|
+transports-deplacements-175|Where would you like to hire a bike to explore a city?|Where would you choose to check over a bike before a long ride?|
+transports-deplacements-176|What item would you take to charge your phone on a long train journey?|What accessory would you use to make your bike visible when it's parked at night?|
+transports-deplacements-177|What accessory would you choose to find your luggage easily on a coach?|What would you want to use to spot your suitcase on an airport carousel?|
+transports-deplacements-178|What item would seem essential to you for staying dry while waiting for a bus in the rain?|What item would you pick first to carry a small suitcase up several flights of stairs?|
+transports-deplacements-179|What item would you take to read comfortably on a night train?|What accessory would you use to stay visible on a bike after dark?|
+transports-deplacements-180|What accessory would you choose to hold your phone steady as a satnav in the car?|What would you want to use to prop up a sleeping child on a long journey?|
+transports-deplacements-181|What item would seem essential to you for carrying a bottle of water on a bike?|What item would you pick first to keep your toll tickets together on a holiday road trip?|
+transports-deplacements-182|What item would you take to keep your ticket handy for the inspector?|What accessory would you use to get a bit of light in a broken-down car?|
+transports-deplacements-183|What accessory would you choose to protect your bag in a downpour on a scooter?|What would you want to use to hold coins for a parking meter?|
+transports-deplacements-184|What item would seem essential to you for listening to a podcast without disturbing other passengers?|What item would you pick first to lock up your bike helmet during a break?|
+transports-deplacements-185|What item would you take to make your bike visible when it's parked at night?|What accessory would you use to ease travel sickness on a winding road?|
+transports-deplacements-186|What accessory would you choose to spot your suitcase on an airport carousel?|What would you want to use to keep your hands free when travelling with luggage?|
+transports-deplacements-187|What item would seem essential to you for carrying a small suitcase up several flights of stairs?|What item would you pick first to charge your phone on a long train journey?|
+transports-deplacements-188|What item would you take to stay visible on a bike after dark?|What accessory would you use to find your luggage easily on a coach?|
+transports-deplacements-189|What accessory would you choose to prop up a sleeping child on a long journey?|What would you want to use to stay dry while waiting for a bus in the rain?|
+transports-deplacements-190|What item would seem essential to you for keeping your toll tickets together on a holiday road trip?|What item would you pick first to read comfortably on a night train?|
+transports-deplacements-191|What item would you take to get a bit of light in a broken-down car?|What accessory would you use to hold your phone steady as a satnav in the car?|
+transports-deplacements-192|What accessory would you choose to hold coins for a parking meter?|What would you want to use to carry a bottle of water on a bike?|
+transports-deplacements-193|What item would seem essential to you for locking up your bike helmet during a break?|What item would you pick first to keep your ticket handy for the inspector?|
+transports-deplacements-194|What item would you take to ease travel sickness on a winding road?|What accessory would you use to protect your bag in a downpour on a scooter?|
+transports-deplacements-195|What accessory would you choose to keep your hands free when travelling with luggage?|What would you want to use to listen to a podcast without disturbing other passengers?|
+transports-deplacements-196|What accessory would you choose to charge your phone on a long train journey?|What would you want to use to make your bike visible when it's parked at night?|
+transports-deplacements-197|What item would seem essential to you for finding your luggage easily on a coach?|What item would you pick first to spot your suitcase on an airport carousel?|
+transports-deplacements-198|What item would you take to stay dry while waiting for a bus in the rain?|What accessory would you use to carry a small suitcase up several flights of stairs?|
+transports-deplacements-199|What accessory would you choose to read comfortably on a night train?|What would you want to use to stay visible on a bike after dark?|
+transports-deplacements-200|What item would seem essential to you for holding your phone steady as a satnav in the car?|What item would you pick first to prop up a sleeping child on a long journey?|
+peurs-courage-001|What would scare you most about your first skydive with an instructor?|What would make you think twice about a supervised abseil down a cliff?|
+peurs-courage-002|What detail would worry you most about speaking in front of two hundred people?|What could make you most anxious about travelling alone in a country where you don't speak the language?|
+peurs-courage-003|What would be your biggest fear about a guided night hike in a forest?|What part of an improvised speech at a wedding would seem the most stressful to you?|
+peurs-courage-004|What would scare you most about a flight during heavy turbulence?|What would make you think twice about crossing a very high suspension bridge?|
+peurs-courage-005|What detail would worry you most about a beginner's scuba dive?|What could make you most anxious about swimming in the sea far from the beach?|
+peurs-courage-006|What would be your biggest fear about a job interview for an important position?|What part of your first motorbike ride as a passenger would seem the most stressful to you?|
+peurs-courage-007|What would scare you most about a really fast ride at a theme park?|What would make you think twice about having a difficult conversation with your manager?|
+peurs-courage-008|What detail would worry you most about a night alone in an isolated house in the countryside?|What could make you most anxious about presenting a project to a panel?|
+peurs-courage-009|What would be your biggest fear about a medical appointment where you're waiting for results?|What part of moving to a city where you don't know anyone would seem the most stressful to you?|
+peurs-courage-010|What would scare you most about a supervised abseil down a cliff?|What would make you think twice about a sports competition in front of a big crowd?|
+peurs-courage-011|What detail would worry you most about travelling alone in a country where you don't speak the language?|What could make you most anxious about a cable car very high above a valley?|
+peurs-courage-012|What would be your biggest fear about an improvised speech at a wedding?|What part of your first skydive with an instructor would seem the most stressful to you?|
+peurs-courage-013|What would scare you most about crossing a very high suspension bridge?|What would make you think twice about speaking in front of two hundred people?|
+peurs-courage-014|What detail would worry you most about swimming in the sea far from the beach?|What could make you most anxious about a guided night hike in a forest?|
+peurs-courage-015|What would be your biggest fear about your first motorbike ride as a passenger?|What part of a flight during heavy turbulence would seem the most stressful to you?|
+peurs-courage-016|What would scare you most about a difficult conversation with your manager?|What would make you think twice about a beginner's scuba dive?|
+peurs-courage-017|What detail would worry you most about presenting a project to a panel?|What could make you most anxious about a job interview for an important position?|
+peurs-courage-018|What would be your biggest fear about moving to a city where you don't know anyone?|What part of a really fast ride at a theme park would seem the most stressful to you?|
+peurs-courage-019|What would scare you most about a sports competition in front of a big crowd?|What would make you think twice about spending a night alone in an isolated house in the countryside?|
+peurs-courage-020|What detail would worry you most about a cable car very high above a valley?|What could make you most anxious about a medical appointment where you're waiting for results?|
+peurs-courage-021|What detail would worry you most about your first skydive with an instructor?|What could make you most anxious about a supervised abseil down a cliff?|
+peurs-courage-022|What would be your biggest fear about speaking in front of two hundred people?|What part of travelling alone in a country where you don't speak the language would seem the most stressful to you?|
+peurs-courage-023|What would scare you most about a guided night hike in a forest?|What would make you think twice about giving an improvised speech at a wedding?|
+peurs-courage-024|What detail would worry you most about a flight during heavy turbulence?|What could make you most anxious about crossing a very high suspension bridge?|
+peurs-courage-025|What would be your biggest fear about a beginner's scuba dive?|What part of swimming in the sea far from the beach would seem the most stressful to you?|
+peurs-courage-026|What would you say back if a friend suggested doing a bungee jump together?|How would you respond if a family member criticised you for never taking risks?|
+peurs-courage-027|What would be your first sentence if someone told you "you're always too careful"?|What would you say if a friend was nervous about speaking in front of their whole class?|
+peurs-courage-028|What would you say if someone close to you admitted they're really scared of flying?|What words would you use if someone suggested a guided night hike?|
+peurs-courage-029|What would you say back if a colleague asked you to run an unplanned meeting?|How would you respond if your partner said they're scared of sleeping alone?|
+peurs-courage-030|What would be your first sentence if a friend made fun of your fear of heights?|What would you say if a friend told you they want to face their fear of swimming?|
+peurs-courage-031|What would you say if someone invited you on a ride that terrifies you?|What words would you use if a colleague asked you to go and talk to the director for them?|
+peurs-courage-032|What would you say back if someone close to you asked you to go to the dentist with them?|How would you respond if a friend said they don't dare ask for a pay rise?|
+peurs-courage-033|What would be your first sentence if a friend said they don't want to try their driving test again?|What would you say if someone wanted to convince you to try climbing?|
+peurs-courage-034|What would you say if a stranger asked you to tell them about your biggest challenge?|What words would you use if someone close to you asked how to stay calm before an exam?|
+peurs-courage-035|What would you say back if a family member criticised you for never taking risks?|How would you respond if a friend revealed a fear you'd never heard of?|
+peurs-courage-036|What would be your first sentence if a friend was nervous about speaking in front of their whole class?|What would you say if someone asked you whether courage means never being afraid?|
+peurs-courage-037|What would you say if someone suggested a guided night hike?|What words would you use if a friend suggested doing a bungee jump together?|
+peurs-courage-038|What would you say back if your partner said they're scared of sleeping alone?|How would you respond if someone told you "you're always too careful"?|
+peurs-courage-039|What would be your first sentence if a friend told you they want to face their fear of swimming?|What would you say if someone close to you admitted they're really scared of flying?|
+peurs-courage-040|What would you say if a colleague asked you to go and talk to the director for them?|What words would you use if a colleague asked you to run an unplanned meeting?|
+peurs-courage-041|What would you say back if a friend said they don't dare ask for a pay rise?|How would you respond if a friend made fun of your fear of heights?|
+peurs-courage-042|What would be your first sentence if someone wanted to convince you to try climbing?|What would you say if someone invited you on a ride that terrifies you?|
+peurs-courage-043|What would you say if someone close to you asked how to stay calm before an exam?|What words would you use if someone close to you asked you to go to the dentist with them?|
+peurs-courage-044|What would you say back if a friend revealed a fear you'd never heard of?|How would you respond if a friend said they don't want to try their driving test again?|
+peurs-courage-045|What would be your first sentence if someone asked you whether courage means never being afraid?|What would you say if a stranger asked you to tell them about your biggest challenge?|
+peurs-courage-046|What would be your first sentence if a friend suggested doing a bungee jump together?|What would you say if a family member criticised you for never taking risks?|
+peurs-courage-047|What would you say if someone told you "you're always too careful"?|What words would you use if a friend was nervous about speaking in front of their whole class?|
+peurs-courage-048|What would you say back if someone close to you admitted they're really scared of flying?|How would you respond if someone suggested a guided night hike?|
+peurs-courage-049|What would be your first sentence if a colleague asked you to run an unplanned meeting?|What would you say if your partner said they're scared of sleeping alone?|
+peurs-courage-050|What would you say if a friend made fun of your fear of heights?|What words would you use if a friend told you they want to face their fear of swimming?|
+peurs-courage-051|What would you do first if you got stuck in a lift for five minutes?|What would you decide to do first if you saw a heated argument on the metro?|
+peurs-courage-052|What would be your first instinct if you lost your group on a waymarked hike?|How would you act first if you saw a friend panicking before giving a speech?|
+peurs-courage-053|Where would you start if you had to present some work without having rehearsed it?|What would be your first move if you realised you'd taken the wrong path in a nature park?|
+peurs-courage-054|What would you do first if a ride stopped for a few moments high up?|What would you decide to do first if someone in your team refused to go on stage?|
+peurs-courage-055|What would be your first instinct if you heard a strange noise while you're home alone?|How would you act first if you found a really scary-looking insect in your bedroom?|
+peurs-courage-056|Where would you start if you came face to face with a big barking dog?|What would be your first move if you had to walk alone into a room full of strangers?|
+peurs-courage-057|What would you do first if the power went off in a country house at night?|What would you decide to do first if your phone died while you were out in a city you don't know?|
+peurs-courage-058|What would be your first instinct if your plane went through some turbulence?|How would you act first if you heard thunder really close by during a hike?|
+peurs-courage-059|Where would you start if you had to ask a question in front of a big audience?|What would be your first move if you realised your passport wasn't in your bag any more at the airport?|
+peurs-courage-060|What would you do first if you saw a heated argument on the metro?|What would you decide to do first if a fire alarm went off during a meeting?|
+peurs-courage-061|What would be your first instinct if you saw a friend panicking before giving a speech?|How would you act first if you had to explain a major mistake to a manager?|
+peurs-courage-062|Where would you start if you realised you'd taken the wrong path in a nature park?|What would be your first move if you got stuck in a lift for five minutes?|
+peurs-courage-063|What would you do first if someone in your team refused to go on stage?|What would you decide to do first if you lost your group on a waymarked hike?|
+peurs-courage-064|What would be your first instinct if you found a really scary-looking insect in your bedroom?|How would you act first if you had to present some work without having rehearsed it?|
+peurs-courage-065|Where would you start if you had to walk alone into a room full of strangers?|What would be your first move if a ride stopped for a few moments high up?|
+peurs-courage-066|What would you do first if your phone died while you were out in a city you don't know?|What would you decide to do first if you heard a strange noise while you're home alone?|
+peurs-courage-067|What would be your first instinct if you heard thunder really close by during a hike?|How would you act first if you came face to face with a big barking dog?|
+peurs-courage-068|Where would you start if you realised your passport wasn't in your bag any more at the airport?|What would be your first move if the power went off in a country house at night?|
+peurs-courage-069|What would you do first if a fire alarm went off during a meeting?|What would you decide to do first if your plane went through some turbulence?|
+peurs-courage-070|What would be your first instinct if you had to explain a major mistake to a manager?|How would you act first if you had to ask a question in front of a big audience?|
+peurs-courage-071|What would be your first instinct if you got stuck in a lift for five minutes?|How would you act first if you saw a heated argument on the metro?|
+peurs-courage-072|Where would you start if you lost your group on a waymarked hike?|What would be your first move if you saw a friend panicking before giving a speech?|
+peurs-courage-073|What would you do first if you had to present some work without having rehearsed it?|What would you decide to do first if you realised you'd taken the wrong path in a nature park?|
+peurs-courage-074|What would be your first instinct if a ride stopped for a few moments high up?|How would you act first if someone in your team refused to go on stage?|
+peurs-courage-075|Where would you start if you heard a strange noise while you're home alone?|What would be your first move if you found a really scary-looking insect in your bedroom?|
+peurs-courage-076|Would you rather go on a big wheel or try a fast roller coaster?|If you could only have one, would you pick breaking some bad news or asking an awkward question?|
+peurs-courage-077|Between speaking in front of fifty people and singing in front of ten friends, which would you prefer?|Which of the two tempts you more: riding a horse for the first time or kayaking on a calm river?|
+peurs-courage-078|If you had to choose, would it be a hike in the mountains or a trip out to sea?|Would you go for driving at night in the rain or driving on a busy motorway?|
+peurs-courage-079|Would you rather go for travelling alone for three days or travelling with a group of strangers?|If you could only have one, would you pick asking for a pay rise or doing a job interview?|
+peurs-courage-080|Between sitting a tough oral exam and doing an intense physical test, which would you prefer?|Which of the two tempts you more: going to a country you don't know or learning to drive in a big city?|
+peurs-courage-081|If you had to choose, would it be trying indoor climbing or doing a treetop adventure course?|Would you go for tandem paragliding or a high-altitude hike?|
+peurs-courage-082|Would you rather go for sleeping in a tent under the stars or sleeping in an isolated cabin?|If you could only have one, would you pick telling a story in public or improvising a short speech?|
+peurs-courage-083|Between crossing a suspension bridge and going up in a glass cable car, which would you prefer?|Which of the two tempts you more: taking part in a competition or being judged in a contest?|
+peurs-courage-084|If you had to choose, would it be a taster scuba dive or a surfing lesson?|Would you go for saying no to a close friend or contradicting a colleague in a meeting?|
+peurs-courage-085|Would you rather go for breaking some bad news or asking an awkward question?|If you could only have one, would you pick a guided cave visit or exploring a tunnel open to tourists?|
+peurs-courage-086|Between riding a horse for the first time and kayaking on a calm river, which would you prefer?|Which of the two tempts you more: swimming in a deep pool or snorkelling in a calm sea?|
+peurs-courage-087|If you had to choose, would it be driving at night in the rain or driving on a busy motorway?|Would you go for going on a big wheel or trying a fast roller coaster?|
+peurs-courage-088|Would you rather go for asking for a pay rise or doing a job interview?|If you could only have one, would you pick speaking in front of fifty people or singing in front of ten friends?|
+peurs-courage-089|Between going to a country you don't know and learning to drive in a big city, which would you prefer?|Which of the two tempts you more: a hike in the mountains or a trip out to sea?|
+peurs-courage-090|If you had to choose, would it be tandem paragliding or a high-altitude hike?|Would you go for travelling alone for three days or travelling with a group of strangers?|
+peurs-courage-091|Would you rather go for telling a story in public or improvising a short speech?|If you could only have one, would you pick sitting a tough oral exam or doing an intense physical test?|
+peurs-courage-092|Between taking part in a competition and being judged in a contest, which would you prefer?|Which of the two tempts you more: trying indoor climbing or doing a treetop adventure course?|
+peurs-courage-093|If you had to choose, would it be saying no to a close friend or contradicting a colleague in a meeting?|Would you go for sleeping in a tent under the stars or sleeping in an isolated cabin?|
+peurs-courage-094|Would you rather go for a guided cave visit or exploring a tunnel open to tourists?|If you could only have one, would you pick crossing a suspension bridge or going up in a glass cable car?|
+peurs-courage-095|Between swimming in a deep pool and snorkelling in a calm sea, which would you prefer?|Which of the two tempts you more: a taster scuba dive or a surfing lesson?|
+peurs-courage-096|Between going on a big wheel and trying a fast roller coaster, which would you prefer?|Which of the two tempts you more: breaking some bad news or asking an awkward question?|
+peurs-courage-097|If you had to choose, would it be speaking in front of fifty people or singing in front of ten friends?|Would you go for riding a horse for the first time or kayaking on a calm river?|
+peurs-courage-098|Would you rather go for a hike in the mountains or a trip out to sea?|If you could only have one, would you pick driving at night in the rain or driving on a busy motorway?|
+peurs-courage-099|Between travelling alone for three days and travelling with a group of strangers, which would you prefer?|Which of the two tempts you more: asking for a pay rise or doing a job interview?|
+peurs-courage-100|If you had to choose, would it be sitting a tough oral exam or doing an intense physical test?|Would you go for going to a country you don't know or learning to drive in a big city?|
+peurs-courage-101|How many minutes would it take you to calm down after a big scare in the car?|How much time, in minutes, would you set aside to watch a spider before putting it outside?|
+peurs-courage-102|How many minutes would you spend getting mentally ready before an important oral exam?|How many minutes would you take to calm down after getting lost in an area you don't know?|
+peurs-courage-103|How many minutes would you devote to making up your mind to go on a thrill ride?|Usually, how many minutes would you take to ask for help in a stressful situation?|
+peurs-courage-104|How many minutes would it take you to reassure a friend who's scared of flying?|How much time, in minutes, would you set aside to get your breath back after exerting yourself at altitude?|
+peurs-courage-105|How many minutes would you spend breathing calmly after a nasty surprise?|How many minutes would you take to get used to the noise of a ride before getting on?|
+peurs-courage-106|How many minutes would you devote to agreeing to speak in front of the class?|Usually, how many minutes would you take to reread your notes before a speech in front of an audience?|
+peurs-courage-107|How many minutes would it take you to explain a fear to someone close to you without feeling judged?|How much time, in minutes, would you set aside to feel at ease in a meeting where you don't know anyone?|
+peurs-courage-108|How many minutes would you spend thinking about crossing a really high footbridge?|How many minutes would you take to think before a decision that intimidates you?|
+peurs-courage-109|How many minutes would you devote to plucking up the courage before a difficult phone call?|Usually, how many minutes would you take to get ready before a first appointment with a specialist?|
+peurs-courage-110|How many minutes would it take you to watch a spider before putting it outside?|How much time, in minutes, would you set aside to rehearse a speech for an important event?|
+peurs-courage-111|How many minutes would you spend calming down after getting lost in an area you don't know?|How many minutes would you take to make up your mind to try a beginners' climbing class?|
+peurs-courage-112|How many minutes would you devote to asking for help in a stressful situation?|Usually, how many minutes would you take to calm down after a big scare in the car?|
+peurs-courage-113|How many minutes would it take you to get your breath back after exerting yourself at altitude?|How much time, in minutes, would you set aside to get mentally ready before an important oral exam?|
+peurs-courage-114|How many minutes would you spend getting used to the noise of a ride before getting on?|How many minutes would you take to make up your mind to go on a thrill ride?|
+peurs-courage-115|How many minutes would you devote to rereading your notes before a speech in front of an audience?|Usually, how many minutes would you take to reassure a friend who's scared of flying?|
+peurs-courage-116|How many minutes would it take you to feel at ease in a meeting where you don't know anyone?|How much time, in minutes, would you set aside to breathe calmly after a nasty surprise?|
+peurs-courage-117|How many minutes would you spend thinking before a decision that intimidates you?|How many minutes would you take to agree to speak in front of the class?|
+peurs-courage-118|How many minutes would you devote to getting ready before a first appointment with a specialist?|Usually, how many minutes would you take to explain a fear to someone close to you without feeling judged?|
+peurs-courage-119|How many minutes would it take you to rehearse a speech for an important event?|How much time, in minutes, would you set aside to think about crossing a really high footbridge?|
+peurs-courage-120|How many minutes would you spend making up your mind to try a beginners' climbing class?|How many minutes would you take to pluck up the courage before a difficult phone call?|
+peurs-courage-121|How many minutes would you spend calming down after a big scare in the car?|How many minutes would you take to watch a spider before putting it outside?|
+peurs-courage-122|How many minutes would you devote to getting mentally ready before an important oral exam?|Usually, how many minutes would you take to calm down after getting lost in an area you don't know?|
+peurs-courage-123|How many minutes would it take you to make up your mind to go on a thrill ride?|How much time, in minutes, would you set aside to ask for help in a stressful situation?|
+peurs-courage-124|How many minutes would you spend reassuring a friend who's scared of flying?|How many minutes would you take to get your breath back after exerting yourself at altitude?|
+peurs-courage-125|How many minutes would you devote to breathing calmly after a nasty surprise?|Usually, how many minutes would you take to get used to the noise of a ride before getting on?|
+peurs-courage-126|Who would you ask for advice to talk about a fear of flying before a trip?|Who would you call to get your confidence back after failing an exam?|
+peurs-courage-127|Who would you contact first to learn to swim safely?|Who would you ask for an opinion to organise a supervised taster climbing session?|
+peurs-courage-128|Who would you turn to to find the nerve to speak in front of a group?|Who would you speak to first to try driving again after a long break?|
+peurs-courage-129|Who would you ask for advice before a stressful interview?|Who would you call to get support before giving a talk?|
+peurs-courage-130|Who would you contact first to prepare for your first trip to the mountains?|Who would you ask for an opinion to understand the safety rules for a water sport?|
+peurs-courage-131|Who would you turn to to get an opinion on an extreme sport?|Who would you speak to first to help you talk about a conflict that's worrying you?|
+peurs-courage-132|Who would you ask for advice to better understand a lasting fear of lifts?|Who would you call to plan a hike with no experience?|
+peurs-courage-133|Who would you contact first to find a gradual activity to get over your fear of heights?|Who would you ask for an opinion to get information about a thrill ride?|
+peurs-courage-134|Who would you turn to to prepare for a work presentation?|Who would you speak to first to learn to react calmly to an aggressive dog?|
+peurs-courage-135|Who would you ask for advice to get your confidence back after failing an exam?|Who would you call to find a relaxation technique before a flight?|
+peurs-courage-136|Who would you contact first to organise a supervised taster climbing session?|Who would you ask for an opinion to talk about your stress over a big life change?|
+peurs-courage-137|Who would you turn to to try driving again after a long break?|Who would you speak to first to talk about a fear of flying before a trip?|
+peurs-courage-138|Who would you ask for advice to get support before giving a talk?|Who would you call to learn to swim safely?|
+peurs-courage-139|Who would you contact first to understand the safety rules for a water sport?|Who would you ask for an opinion to find the nerve to speak in front of a group?|
+peurs-courage-140|Who would you turn to to help you talk about a conflict that's worrying you?|Who would you speak to first to get advice before a stressful interview?|
+peurs-courage-141|Who would you ask for advice to plan a hike with no experience?|Who would you call to prepare for your first trip to the mountains?|
+peurs-courage-142|Who would you contact first to get information about a thrill ride?|Who would you ask for an opinion on an extreme sport?|
+peurs-courage-143|Who would you turn to to learn to react calmly to an aggressive dog?|Who would you speak to first to better understand a lasting fear of lifts?|
+peurs-courage-144|Who would you ask for advice to find a relaxation technique before a flight?|Who would you call to find a gradual activity to get over your fear of heights?|
+peurs-courage-145|Who would you contact first to talk about your stress over a big life change?|Who would you ask for an opinion to prepare for a work presentation?|
+peurs-courage-146|Who would you contact first to talk about a fear of flying before a trip?|Who would you ask for an opinion to get your confidence back after failing an exam?|
+peurs-courage-147|Who would you turn to to learn to swim safely?|Who would you speak to first to organise a supervised taster climbing session?|
+peurs-courage-148|Who would you ask for advice to find the nerve to speak in front of a group?|Who would you call to try driving again after a long break?|
+peurs-courage-149|Who would you contact first to get advice before a stressful interview?|Who would you ask for an opinion to get support before giving a talk?|
+peurs-courage-150|Who would you turn to to prepare for your first trip to the mountains?|Who would you speak to first to understand the safety rules for a water sport?|
+peurs-courage-151|Where would you go to try climbing without taking any unnecessary risks?|Where would you want to talk calmly about a situation that's worrying you?|
+peurs-courage-152|Where would you prefer to learn to handle your fear of water better?|Where would you decide to get ready before a crucial interview?|
+peurs-courage-153|Where would you like to practise speaking in front of a supportive audience?|Where would you choose to learn to swim as an adult?|
+peurs-courage-154|Where would you go to try a supervised thrill activity?|Where would you want to sign up for a public speaking workshop?|
+peurs-courage-155|Where would you prefer to go on an easy hike with a guide?|Where would you decide to go on a safe group nature outing?|
+peurs-courage-156|Where would you like to try a big wheel for the first time?|Where would you choose to get your confidence back after falling off your bike?|
+peurs-courage-157|Where would you go to take a beginner's diving course?|Where would you want to try kayaking with an instructor?|
+peurs-courage-158|Where would you prefer to practise driving after several months off?|Where would you decide to learn how to use a climbing wall?|
+peurs-courage-159|Where would you like to learn first aid techniques?|Where would you choose to meet people before your first group trip?|
+peurs-courage-160|Where would you go to talk calmly about a situation that's worrying you?|Where would you want to do sport to handle your stress better?|
+peurs-courage-161|Where would you prefer to get ready before a crucial interview?|Where would you decide to find out about the risks of a supervised activity?|
+peurs-courage-162|Where would you like to learn to swim as an adult?|Where would you choose to try climbing without taking any unnecessary risks?|
+peurs-courage-163|Where would you go to sign up for a public speaking workshop?|Where would you want to learn to handle your fear of water better?|
+peurs-courage-164|Where would you prefer to go on a safe group nature outing?|Where would you decide to practise speaking in front of a supportive audience?|
+peurs-courage-165|Where would you like to get your confidence back after falling off your bike?|Where would you choose to try a supervised thrill activity?|
+peurs-courage-166|Where would you go to try kayaking with an instructor?|Where would you want to go on an easy hike with a guide?|
+peurs-courage-167|Where would you prefer to learn how to use a climbing wall?|Where would you decide to try a big wheel for the first time?|
+peurs-courage-168|Where would you like to meet people before your first group trip?|Where would you choose to take a beginner's diving course?|
+peurs-courage-169|Where would you go to do sport to handle your stress better?|Where would you want to practise driving after several months off?|
+peurs-courage-170|Where would you prefer to find out about the risks of a supervised activity?|Where would you decide to learn first aid techniques?|
+peurs-courage-171|Where would you prefer to try climbing without taking any unnecessary risks?|Where would you decide to talk calmly about a situation that's worrying you?|
+peurs-courage-172|Where would you like to learn to handle your fear of water better?|Where would you choose to get ready before a crucial interview?|
+peurs-courage-173|Where would you go to practise speaking in front of a supportive audience?|Where would you want to learn to swim as an adult?|
+peurs-courage-174|Where would you prefer to try a supervised thrill activity?|Where would you decide to sign up for a public speaking workshop?|
+peurs-courage-175|Where would you like to go on an easy hike with a guide?|Where would you choose to go on a safe group nature outing?|
+peurs-courage-176|What advice would you give someone who's really scared of taking the metro at rush hour?|What would you suggest to someone who's afraid of being judged during a competition?|
+peurs-courage-177|What would you recommend to a friend who's dreading their first speech in front of their whole year?|What advice would seem useful to you for someone who doesn't want to try a really high ride?|
+peurs-courage-178|What would be your first recommendation to someone who's hesitant to try climbing because they're scared of falling?|What practical advice would you offer someone who's hesitant to travel alone for the first time?|
+peurs-courage-179|What advice would you give someone who feels anxious before getting on a plane?|What would you suggest to someone who feels intimidated by a big meeting?|
+peurs-courage-180|What would you recommend to a friend who doesn't dare ask for information at a train station?|What advice would seem useful to you for someone who's been scared of dogs since childhood?|
+peurs-courage-181|What would be your first recommendation to someone who gets vertigo on suspension bridges?|What practical advice would you offer someone who's dreading a trip to the dentist?|
+peurs-courage-182|What advice would you give someone who's nervous about their first bike ride in the city?|What would you suggest to someone who doesn't know how to react in front of an audience?|
+peurs-courage-183|What would you recommend to a friend who can't say no to a pushy friend?|What advice would seem useful to you for someone who's scared of looking silly in a dance class?|
+peurs-courage-184|What would be your first recommendation to someone who panics at the thought of a job interview?|What practical advice would you offer someone who's hesitant to ask a stranger for help?|
+peurs-courage-185|What advice would you give someone who's afraid of being judged during a competition?|What would you suggest to someone who's worried before a mountain hike?|
+peurs-courage-186|What would you recommend to a friend who doesn't want to try a really high ride?|What advice would seem useful to you for someone who feels uncomfortable at a party full of strangers?|
+peurs-courage-187|What would be your first recommendation to someone who's hesitant to travel alone for the first time?|What practical advice would you offer someone who's really scared of taking the metro at rush hour?|
+peurs-courage-188|What advice would you give someone who feels intimidated by a big meeting?|What would you suggest to someone who's dreading their first speech in front of their whole year?|
+peurs-courage-189|What would you recommend to a friend who's been scared of dogs since childhood?|What advice would seem useful to you for someone who's hesitant to try climbing because they're scared of falling?|
+peurs-courage-190|What would be your first recommendation to someone who's dreading a trip to the dentist?|What practical advice would you offer someone who feels anxious before getting on a plane?|
+peurs-courage-191|What advice would you give someone who doesn't know how to react in front of an audience?|What would you suggest to someone who doesn't dare ask for information at a train station?|
+peurs-courage-192|What would you recommend to a friend who's scared of looking silly in a dance class?|What advice would seem useful to you for someone who gets vertigo on suspension bridges?|
+peurs-courage-193|What would be your first recommendation to someone who's hesitant to ask a stranger for help?|What practical advice would you offer someone who's nervous about their first bike ride in the city?|
+peurs-courage-194|What advice would you give someone who's worried before a mountain hike?|What would you suggest to someone who can't say no to a pushy friend?|
+peurs-courage-195|What would you recommend to a friend who feels uncomfortable at a party full of strangers?|What advice would seem useful to you for someone who panics at the thought of a job interview?|
+peurs-courage-196|What would you recommend to a friend who's really scared of taking the metro at rush hour?|What advice would seem useful to you for someone who's afraid of being judged during a competition?|
+peurs-courage-197|What would be your first recommendation to someone who's dreading their first speech in front of their whole year?|What practical advice would you offer someone who doesn't want to try a really high ride?|
+peurs-courage-198|What advice would you give someone who's hesitant to try climbing because they're scared of falling?|What would you suggest to someone who's hesitant to travel alone for the first time?|
+peurs-courage-199|What would you recommend to a friend who feels anxious before getting on a plane?|What advice would seem useful to you for someone who feels intimidated by a big meeting?|
+peurs-courage-200|What would be your first recommendation to someone who doesn't dare ask for information at a train station?|What practical advice would you offer someone who's been scared of dogs since childhood?|

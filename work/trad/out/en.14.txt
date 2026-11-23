@@ -497,3 +497,104 @@ restaurants-service-096|Between a really good little restaurant that's noisy and
 restaurants-service-097|If you had to choose, would it be a sunny terrace or a comfy air-conditioned dining room?|Would you go for a short menu that changes often or a big permanent menu?|
 restaurants-service-098|Would you rather go for the set menu of the day or ordering à la carte?|If you could only have one, would you pick a waiter who gives lots of recommendations or a waiter who lets you choose in peace?|
 restaurants-service-099|Between really fast service and more attentive service, which would you prefer?|Which of the two tempts you more: a traditional pizzeria or a fresh pasta restaurant?|
+restaurants-service-100|If you had to choose, would it be eating in or getting takeaway?|Would you rather pay at the till or settle up directly at the table?|
+restaurants-service-101|How many minutes would it take you to choose a dish from a menu with thirty options?|How long, in minutes, would you allow to decide on a lunch deal before work?|
+restaurants-service-102|How many minutes would you spend deciding on a restaurant for dinner for four?|How many minutes would it take you to choose a dish suitable for an allergy you've flagged?|
+restaurants-service-103|How many minutes would you wait before chasing a waiter for the bill?|Usually, how many minutes would you wait for a dish that should have arrived thirty minutes ago?|
+restaurants-service-104|How many minutes would it take you to check the bill for a group of six?|How long, in minutes, would you allow to explain a delivery mistake to customer service?|
+restaurants-service-105|How many minutes would you spend comparing two restaurant menus online?|How many minutes would it take you to check a refund on an app?|
+restaurants-service-106|How many minutes would you spend choosing a dessert after a big meal?|Usually, how many minutes would you take to compare takeaway prices around you?|
+restaurants-service-107|How many minutes would it take you to make a polite complaint about an incomplete order?|How long, in minutes, would you allow to put together a food order for five people?|
+restaurants-service-108|How many minutes would you spend ordering in a really busy café?|How many minutes would it take you to find the number of a lost booking?|
+restaurants-service-109|How many minutes would you spend reading reviews before booking a restaurant?|Usually, how many minutes would you take to write a constructive review after bad service?|
+restaurants-service-110|How many minutes would it take you to decide on a lunch deal before work?|How long, in minutes, would you allow to wait at the entrance of a brasserie without a booking?|
+restaurants-service-111|How many minutes would you spend choosing a dish suitable for an allergy you've flagged?|How many minutes would it take you to pick a drink to go with a spicy dish?|
+restaurants-service-112|How many minutes would you wait for a dish that should have arrived thirty minutes ago?|Usually, how many minutes would you take to choose a dish from a menu with thirty options?|
+restaurants-service-113|How many minutes would it take you to explain a delivery mistake to customer service?|How long, in minutes, would you allow to decide on a restaurant for dinner for four?|
+restaurants-service-114|How many minutes would you spend checking a refund on an app?|How many minutes would you hold out before chasing a waiter for the bill?|
+restaurants-service-115|How many minutes would you spend comparing takeaway prices around you?|Usually, how many minutes would you take to check the bill for a group of six?|
+restaurants-service-116|How many minutes would it take you to put together a food order for five people?|How long, in minutes, would you allow to compare two restaurant menus online?|
+restaurants-service-117|How many minutes would you spend finding the number of a lost booking?|How many minutes would it take you to choose a dessert after a big meal?|
+restaurants-service-118|How many minutes would you spend writing a constructive review after bad service?|Usually, how many minutes would you take to make a polite complaint about an incomplete order?|
+restaurants-service-119|How many minutes would you be willing to wait at the entrance of a brasserie without a booking?|How long, in minutes, would you allow to order in a really busy café?|
+restaurants-service-120|How many minutes would you spend picking a drink to go with a spicy dish?|How many minutes would it take you to read the reviews before booking a restaurant?|
+restaurants-service-121|How many minutes would you spend choosing a dish from a menu with thirty options?|How many minutes would it take you to decide on a lunch deal before work?|
+restaurants-service-122|How many minutes would you spend deciding on a restaurant for dinner for four?|Usually, how many minutes would you take to choose a dish suitable for an allergy you've flagged?|
+restaurants-service-123|How many minutes would you wait before chasing a waiter for the bill?|How long, in minutes, would you allow to wait for a dish that should have arrived thirty minutes ago?|
+restaurants-service-124|How many minutes would you spend checking the bill for a group of six?|How many minutes would it take you to explain a delivery mistake to customer service?|
+restaurants-service-125|How many minutes would you spend comparing two restaurant menus online?|Usually, how many minutes would you take to check a refund on an app?|
+restaurants-service-126|Who would you ask for advice about pointing out a mistake on the bill at a restaurant?|Who would you call to find out if a dish contains nuts?|
+restaurants-service-127|Who would you contact first to ask for a dish without a specific allergen?|Who would you ask for an opinion about getting an invoice for a business meal?|
+restaurants-service-128|Who would you turn to for a refund after an incomplete delivery?|Who would you talk to first to get an appliance repaired that's still under warranty?|
+restaurants-service-129|Who would you ask for advice about finding a good place for a family dinner?|Who would you call to organise a table for twelve people?|
+restaurants-service-130|Who would you contact first to find out exactly what's in a dessert?|Who would you ask for an opinion about praising particularly attentive service?|
+restaurants-service-131|Who would you turn to for sorting out a problem with an online booking?|Who would you talk to first to get back something you left behind in a café?|
+restaurants-service-132|Who would you ask for advice about getting a replacement for a damaged product?|Who would you call to ask for a change to an order before it's sent?|
+restaurants-service-133|Who would you contact first to understand an extra charge added without explanation?|Who would you ask for an opinion about choosing a vegetarian menu for a guest?|
+restaurants-service-134|Who would you turn to for choosing a wheelchair-accessible restaurant?|Who would you talk to first to claim a discount that was advertised but not applied?|
+restaurants-service-135|Who would you ask for advice about finding out if a dish contains nuts?|Who would you call to complain that a dish is cold?|
+restaurants-service-136|Who would you contact first to get an invoice for a business meal?|Who would you ask for an opinion about ordering a birthday cake at a restaurant?|
+restaurants-service-137|Who would you turn to for getting an appliance repaired that's still under warranty?|Who would you talk to first to point out a mistake on the bill at a restaurant?|
+restaurants-service-138|Who would you ask for advice about organising a table for twelve people?|Who would you call to ask for a dish without a specific allergen?|
+restaurants-service-139|Who would you contact first to praise particularly attentive service?|Who would you ask for an opinion about getting a refund after an incomplete delivery?|
+restaurants-service-140|Who would you turn to for getting back something you left behind in a café?|Who would you talk to first to find a good place for a family dinner?|
+restaurants-service-141|Who would you ask for advice about requesting a change to an order before it's sent?|Who would you call to find out exactly what's in a dessert?|
+restaurants-service-142|Who would you contact first to choose a vegetarian menu for a guest?|Who would you ask for an opinion about sorting out a problem with an online booking?|
+restaurants-service-143|Who would you turn to for claiming a discount that was advertised but not applied?|Who would you talk to first to get a replacement for a damaged product?|
+restaurants-service-144|Who would you ask for advice about complaining that a dish is cold?|Who would you call to understand an extra charge added without explanation?|
+restaurants-service-145|Who would you contact first to order a birthday cake at a restaurant?|Who would you ask for an opinion about choosing a wheelchair-accessible restaurant?|
+restaurants-service-146|Who would you contact first to point out a mistake on the bill at a restaurant?|Who would you ask for an opinion about finding out if a dish contains nuts?|
+restaurants-service-147|Who would you turn to for asking for a dish without a specific allergen?|Who would you talk to first to get an invoice for a business meal?|
+restaurants-service-148|Who would you ask for advice about getting a refund after an incomplete delivery?|Who would you call to get an appliance repaired that's still under warranty?|
+restaurants-service-149|Who would you contact first to find a good place for a family dinner?|Who would you ask for an opinion about organising a table for twelve people?|
+restaurants-service-150|Who would you turn to for finding out exactly what's in a dessert?|Who would you talk to first to praise particularly attentive service?|
+restaurants-service-151|Where would you go for a quick lunch before a meeting?|Where would you want to find a restaurant open after 11pm?|
+restaurants-service-152|Where would you prefer to eat fresh pasta on a Saturday night?|Where would you decide to have a family meal with a pushchair?|
+restaurants-service-153|Where would you like to take friends to a quiet restaurant?|Where would you choose to eat outside without a booking on a summer evening?|
+restaurants-service-154|Where would you go for a vegetarian lunch near a train station?|Where would you want to meet a friend for a hot chocolate?|
+restaurants-service-155|Where would you prefer to buy a good takeaway coffee in the morning?|Where would you decide to have a meal suited to a food allergy?|
+restaurants-service-156|Where would you like to enjoy a handmade dessert in the late afternoon?|Where would you choose to celebrate a promotion with a dinner?|
+restaurants-service-157|Where would you go to order a sushi platter to share?|Where would you want to find a bakery that does lunch to eat in?|
+restaurants-service-158|Where would you prefer to have brunch for two on a Sunday?|Where would you decide to order a hot meal before catching a train?|
+restaurants-service-159|Where would you like to eat the catch of the day in a touristy area?|Where would you choose to have a cup of tea somewhere quiet?|
+restaurants-service-160|Where would you go to find a restaurant open after 11pm?|Where would you want to have dinner with someone who doesn't eat meat?|
+restaurants-service-161|Where would you prefer to have a family meal with a pushchair?|Where would you decide to eat near a cinema before a film?|
+restaurants-service-162|Where would you like to eat outside without a booking on a summer evening?|Where would you choose to have a quick lunch before a meeting?|
+restaurants-service-163|Where would you go to meet a friend for a hot chocolate?|Where would you want to eat fresh pasta on a Saturday night?|
+restaurants-service-164|Where would you prefer to have a meal suited to a food allergy?|Where would you decide to take friends to a quiet restaurant?|
+restaurants-service-165|Where would you like to celebrate a promotion with a dinner?|Where would you choose to have a vegetarian lunch near a train station?|
+restaurants-service-166|Where would you go to find a bakery that does lunch to eat in?|Where would you want to buy a good takeaway coffee in the morning?|
+restaurants-service-167|Where would you prefer to order a hot meal before catching a train?|Where would you decide to enjoy a handmade dessert in the late afternoon?|
+restaurants-service-168|Where would you like to have a cup of tea somewhere quiet?|Where would you choose to order a sushi platter to share?|
+restaurants-service-169|Where would you go to have dinner with someone who doesn't eat meat?|Where would you want to have brunch for two on a Sunday?|
+restaurants-service-170|Where would you prefer to eat near a cinema before a film?|Where would you decide to eat the catch of the day in a touristy area?|
+restaurants-service-171|Where would you prefer to have a quick lunch before a meeting?|Where would you decide to look for a restaurant open after 11pm?|
+restaurants-service-172|Where would you like to eat fresh pasta on a Saturday night?|Where would you choose to have a family meal with a pushchair?|
+restaurants-service-173|Where would you go to take friends to a quiet restaurant?|Where would you want to eat outside without a booking on a summer evening?|
+restaurants-service-174|Where would you prefer to have a vegetarian lunch near a train station?|Where would you decide to meet a friend for a hot chocolate?|
+restaurants-service-175|Where would you like to buy a good takeaway coffee in the morning?|Where would you choose to have a meal suited to a food allergy?|
+restaurants-service-176|What dish would you order if you went to a brasserie for Sunday lunch?|What would you pick from the menu if you walked into a Mexican restaurant?|
+restaurants-service-177|What dish would you choose if you had lunch in a traditional Italian restaurant?|What would you eat if you went to a wood-fired pizzeria?|
+restaurants-service-178|What dish would you fancy if you ate at a seafood bistro?|What dish would you go for if you ate at a Thai restaurant?|
+restaurants-service-179|What dish would you order if you had dinner at a Japanese restaurant?|What would you pick from the menu if you ordered at a Vietnamese restaurant?|
+restaurants-service-180|What dish would you choose if you tried out a vegetarian restaurant?|What would you eat if you had lunch at a Greek restaurant?|
+restaurants-service-181|What dish would you fancy if you had lunch by the sea?|What dish would you go for if you went to a mountain inn?|
+restaurants-service-182|What dish would you order if you were choosing in an office canteen?|What would you pick from the menu if you stopped at an independent sandwich shop?|
+restaurants-service-183|What dish would you choose if you went to a Lebanese restaurant?|What would you eat if you picked a dish at a Korean restaurant?|
+restaurants-service-184|What dish would you fancy if you had a meal at a Breton crêperie?|What dish would you go for if you walked into an Indian restaurant?|
+restaurants-service-185|What dish would you order if you walked into a Mexican restaurant?|What would you pick from the menu if you went to a little local spot?|
+restaurants-service-186|What dish would you choose if you went to a wood-fired pizzeria?|What would you eat if you had dinner at a Mediterranean restaurant?|
+restaurants-service-187|What dish would you fancy if you ate at a Thai restaurant?|What dish would you go for if you went to a brasserie for Sunday lunch?|
+restaurants-service-188|What dish would you order if you ate at a Vietnamese restaurant?|What would you pick from the menu if you had lunch in a traditional Italian restaurant?|
+restaurants-service-189|What dish would you choose if you had lunch at a Greek restaurant?|What would you eat if you ate at a seafood bistro?|
+restaurants-service-190|What dish would you fancy if you went to a mountain inn?|What dish would you go for if you had dinner at a Japanese restaurant?|
+restaurants-service-191|What dish would you order if you stopped at an independent sandwich shop?|What would you pick from the menu if you tried out a vegetarian restaurant?|
+restaurants-service-192|What dish would you choose if you picked a dish at a Korean restaurant?|What would you eat if you had lunch by the sea?|
+restaurants-service-193|What dish would you fancy if you walked into an Indian restaurant?|What dish would you go for if you were choosing in an office canteen?|
+restaurants-service-194|What dish would you order if you went to a little local spot?|What would you pick from the menu if you went to a Lebanese restaurant?|
+restaurants-service-195|What dish would you choose if you had dinner at a Mediterranean restaurant?|What would you eat if you had a meal at a Breton crêperie?|
+restaurants-service-196|What dish would you choose if you went to a brasserie for Sunday lunch?|What would you eat if you walked into a Mexican restaurant?|
+restaurants-service-197|What dish would you fancy if you had lunch in a traditional Italian restaurant?|What dish would you go for if you went to a wood-fired pizzeria?|
+restaurants-service-198|What dish would you order if you ate at a seafood bistro?|What would you pick from the menu if you ate at a Thai restaurant?|
+restaurants-service-199|What dish would you choose if you had dinner at a Japanese restaurant?|What would you eat if you ordered at a Vietnamese restaurant?|
+restaurants-service-200|What dish would you fancy if you tried out a vegetarian restaurant?|What dish would you go for if you had lunch at a Greek restaurant?|

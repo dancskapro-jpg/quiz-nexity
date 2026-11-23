@@ -497,3 +497,104 @@ ecole-etudes-096|Quanti minuti passeresti a rileggere gli appunti dopo una lezio
 ecole-etudes-097|Quanti minuti dedicheresti a preparare lo zaino prima di una giornata di studio?|Di solito, quanti minuti ti servirebbero per scegliere un corso a scelta per il semestre successivo?|
 ecole-etudes-098|Quanti minuti ti servirebbero per capire un esercizio difficile di matematica?|Quanto tempo, in minuti, metteresti in conto per sistemare il computer prima di una lezione online?|
 ecole-etudes-099|Quanti minuti passeresti a scegliere l’argomento di una presentazione di cinque minuti?|Quanti minuti ci metteresti a riordinare i documenti di un trimestre?|
+ecole-etudes-100|Quanti minuti dedicheresti a ripassare un capitolo di storia di dieci pagine?|Di solito, quanti minuti ti servirebbero per preparare una domanda da fare a un professore?|
+ecole-etudes-101|A chi chiederesti consiglio per capire una traccia di tema difficile?|Chi chiameresti per trovare un compagno affidabile per un progetto in coppia?|
+ecole-etudes-102|Chi contatteresti per primo per scegliere tra due percorsi di studio?|A chi chiederesti un parere per avere un consiglio sulla scelta di una materia opzionale?|
+ecole-etudes-103|A chi ti rivolgeresti per controllare il risultato di un calcolo prima di una verifica?|Con chi parleresti per primo per imparare a gestire meglio l’ansia degli esami?|
+ecole-etudes-104|A chi chiederesti consiglio per avere un parere su un tirocinio obbligatorio?|Chi chiameresti per farti rileggere una lettera di motivazione per una scuola?|
+ecole-etudes-105|Chi contatteresti per primo per ripassare una regola di grammatica che non hai capito bene?|A chi chiederesti un parere per trovare le prove d’esame degli anni precedenti?|
+ecole-etudes-106|A chi ti rivolgeresti per risolvere un conflitto in un lavoro di gruppo?|Con chi parleresti per primo per recuperare una lezione persa per malattia?|
+ecole-etudes-107|A chi chiederesti consiglio per prepararti a un colloquio di ammissione a una scuola?|Chi chiameresti per chiedere una lettera di referenze per una candidatura?|
+ecole-etudes-108|Chi contatteresti per primo per conoscere gli sbocchi lavorativi di un titolo di studio?|A chi chiederesti un parere per verificare se un corso di studi è riconosciuto?|
+ecole-etudes-109|A chi ti rivolgeresti per un parere sull’argomento della tesi?|Con chi parleresti per primo per avere un riscontro su una simulazione d’esame orale?|
+ecole-etudes-110|A chi chiederesti consiglio per trovare un compagno affidabile per un progetto in coppia?|Chi chiameresti per capire le regole sul plagio in un elaborato?|
+ecole-etudes-111|Chi contatteresti per primo per avere un consiglio sulla scelta di una materia opzionale?|A chi chiederesti un parere per organizzare una sessione di ripasso efficace?|
+ecole-etudes-112|A chi ti rivolgeresti per imparare a gestire meglio l’ansia degli esami?|Con chi parleresti per primo per capire una traccia di tema difficile?|
+ecole-etudes-113|A chi chiederesti consiglio per farti rileggere una lettera di motivazione per una scuola?|Chi chiameresti per scegliere tra due percorsi di studio?|
+ecole-etudes-114|Chi contatteresti per primo per trovare le prove d’esame degli anni precedenti?|A chi chiederesti un parere per controllare il risultato di un calcolo prima di una verifica?|
+ecole-etudes-115|A chi ti rivolgeresti per recuperare una lezione persa per malattia?|Con chi parleresti per primo per avere un parere su un tirocinio obbligatorio?|
+ecole-etudes-116|A chi chiederesti consiglio per chiedere una lettera di referenze per una candidatura?|Chi chiameresti per ripassare una regola di grammatica che non hai capito bene?|
+ecole-etudes-117|Chi contatteresti per primo per verificare se un corso di studi è riconosciuto?|A chi chiederesti un parere per risolvere un conflitto in un lavoro di gruppo?|
+ecole-etudes-118|A chi ti rivolgeresti per avere un riscontro su una simulazione d’esame orale?|Con chi parleresti per primo per prepararti a un colloquio di ammissione a una scuola?|
+ecole-etudes-119|A chi chiederesti consiglio per capire le regole sul plagio in un elaborato?|Chi chiameresti per conoscere gli sbocchi lavorativi di un titolo di studio?|
+ecole-etudes-120|Chi contatteresti per primo per organizzare una sessione di ripasso efficace?|A chi chiederesti un parere sull’argomento della tesi?|
+ecole-etudes-121|Chi contatteresti per primo per capire una traccia di tema difficile?|A chi chiederesti un parere per trovare un compagno affidabile per un progetto in coppia?|
+ecole-etudes-122|A chi ti rivolgeresti per scegliere tra due percorsi di studio?|Con chi parleresti per primo per avere un consiglio sulla scelta di una materia opzionale?|
+ecole-etudes-123|A chi chiederesti consiglio per controllare il risultato di un calcolo prima di una verifica?|Chi chiameresti per imparare a gestire meglio l’ansia degli esami?|
+ecole-etudes-124|Chi contatteresti per primo per avere un parere su un tirocinio obbligatorio?|A chi chiederesti un parere per farti rileggere una lettera di motivazione per una scuola?|
+ecole-etudes-125|A chi ti rivolgeresti per ripassare una regola di grammatica che non hai capito bene?|Con chi parleresti per primo per trovare le prove d’esame degli anni precedenti?|
+ecole-etudes-126|Dove andresti per studiare in tranquillità per tre ore?|In quale posto vorresti studiare di domenica quando a casa tua c’è troppo rumore?|
+ecole-etudes-127|In quale posto preferiresti stampare un elaborato il giorno prima della consegna?|Dove decideresti di comprare una calcolatrice ammessa agli esami?|
+ecole-etudes-128|In quale posto ti piacerebbe trovare un gruppo di studio vicino al campus?|Dove sceglieresti di fare le prove di una presentazione?|
+ecole-etudes-129|Dove andresti per leggere un libro in silenzio dopo le lezioni?|In quale posto vorresti vederti con un amico per studiare in due?|
+ecole-etudes-130|In quale posto preferiresti comprare un quaderno prima dell’inizio della scuola?|Dove decideresti di consultare degli archivi per una ricerca di storia?|
+ecole-etudes-131|In quale posto ti piacerebbe prendere in prestito un libro di testo difficile da trovare?|Dove sceglieresti di fotocopiare un articolo che ti serve per un corso?|
+ecole-etudes-132|Dove andresti per fare una telefonata importante tra due lezioni?|In quale posto vorresti chiedere informazioni su un corso di studi?|
+ecole-etudes-133|In quale posto preferiresti preparare una presentazione di gruppo?|Dove decideresti di cercare una postazione con un computer?|
+ecole-etudes-134|In quale posto ti piacerebbe incontrare un professore durante l’orario di ricevimento?|Dove sceglieresti di prepararti a un colloquio per un tirocinio?|
+ecole-etudes-135|Dove andresti per studiare di domenica quando a casa tua c’è troppo rumore?|In quale posto vorresti fare un’esercitazione pratica con un tutor?|
+ecole-etudes-136|In quale posto preferiresti comprare una calcolatrice ammessa agli esami?|Dove decideresti di concentrarti per un’ora prima di un esame?|
+ecole-etudes-137|In quale posto ti piacerebbe fare le prove di una presentazione?|Dove sceglieresti di studiare in tranquillità per tre ore?|
+ecole-etudes-138|Dove andresti per vederti con un amico per studiare in due?|In quale posto vorresti stampare un elaborato il giorno prima della consegna?|
+ecole-etudes-139|In quale posto preferiresti consultare degli archivi per una ricerca di storia?|Dove decideresti di trovare un gruppo di studio vicino al campus?|
+ecole-etudes-140|In quale posto ti piacerebbe fotocopiare un articolo che ti serve per un corso?|Dove sceglieresti di leggere un libro in silenzio dopo le lezioni?|
+ecole-etudes-141|Dove andresti per chiedere informazioni su un corso di studi?|In quale posto vorresti comprare un quaderno prima dell’inizio della scuola?|
+ecole-etudes-142|In quale posto preferiresti cercare una postazione con un computer?|Dove decideresti di prendere in prestito un libro di testo difficile da trovare?|
+ecole-etudes-143|In quale posto ti piacerebbe prepararti a un colloquio per un tirocinio?|Dove sceglieresti di fare una telefonata importante tra due lezioni?|
+ecole-etudes-144|Dove andresti per fare un’esercitazione pratica con un tutor?|In quale posto vorresti preparare una presentazione di gruppo?|
+ecole-etudes-145|In quale posto preferiresti concentrarti per un’ora prima di un esame?|Dove decideresti di incontrare un professore durante l’orario di ricevimento?|
+ecole-etudes-146|In quale posto preferiresti studiare in tranquillità per tre ore?|Dove decideresti di studiare di domenica quando a casa tua c’è troppo rumore?|
+ecole-etudes-147|In quale posto ti piacerebbe stampare un elaborato il giorno prima della consegna?|Dove sceglieresti di comprare una calcolatrice ammessa agli esami?|
+ecole-etudes-148|Dove andresti per trovare un gruppo di studio vicino al campus?|In quale posto vorresti fare le prove di una presentazione?|
+ecole-etudes-149|In quale posto preferiresti leggere un libro in silenzio dopo le lezioni?|Dove decideresti di vederti con un amico per studiare in due?|
+ecole-etudes-150|In quale posto ti piacerebbe comprare un quaderno prima dell’inizio della scuola?|Dove sceglieresti di consultare degli archivi per una ricerca di storia?|
+ecole-etudes-151|Quale oggetto porteresti per prendere appunti durante una lezione di tre ore?|Quale accessorio useresti per esercitarti nella pronuncia di una lingua straniera?|
+ecole-etudes-152|Quale accessorio sceglieresti per fare una presentazione senza un computer tuo?|Con quale oggetto vorresti leggere un libro di testo durante un viaggio in treno?|
+ecole-etudes-153|Quale oggetto ti sembrerebbe indispensabile per organizzare tutte le scadenze di consegna del semestre?|Quale oggetto prenderesti per primo per spiegare uno schema a un compagno?|
+ecole-etudes-154|Quale oggetto porteresti per memorizzare le cartine geografiche?|Quale accessorio useresti per conservare gli schemi di ripasso di un intero anno?|
+ecole-etudes-155|Quale accessorio sceglieresti per portare libri pesanti fino al campus?|Con quale oggetto vorresti presentare un grafico alla lavagna?|
+ecole-etudes-156|Quale oggetto ti sembrerebbe indispensabile per correggere degli esercizi di matematica?|Quale oggetto prenderesti per primo per fare un esercizio di geometria preciso?|
+ecole-etudes-157|Quale oggetto porteresti per annotare un testo letterario di dieci pagine?|Quale accessorio useresti per studiare in una biblioteca senza prese elettriche?|
+ecole-etudes-158|Quale accessorio sceglieresti per studiare in un’aula molto luminosa?|Con quale oggetto vorresti portare un computer sotto la pioggia?|
+ecole-etudes-159|Quale oggetto ti sembrerebbe indispensabile per ripassare senza connessione a Internet?|Quale oggetto prenderesti per primo per registrare idee per un tema?|
+ecole-etudes-160|Quale oggetto porteresti per esercitarti nella pronuncia di una lingua straniera?|Quale accessorio useresti per organizzare un progetto di gruppo a distanza?|
+ecole-etudes-161|Quale accessorio sceglieresti per leggere un libro di testo durante un viaggio in treno?|Con quale oggetto vorresti ritrovare in fretta una definizione mentre ripassi?|
+ecole-etudes-162|Quale oggetto ti sembrerebbe indispensabile per spiegare uno schema a un compagno?|Quale oggetto prenderesti per primo per prendere appunti durante una lezione di tre ore?|
+ecole-etudes-163|Quale oggetto porteresti per conservare gli schemi di ripasso di un intero anno?|Quale accessorio useresti per fare una presentazione senza un computer tuo?|
+ecole-etudes-164|Quale accessorio sceglieresti per presentare un grafico alla lavagna?|Con quale oggetto vorresti organizzare tutte le scadenze di consegna del semestre?|
+ecole-etudes-165|Quale oggetto ti sembrerebbe indispensabile per fare un esercizio di geometria preciso?|Quale oggetto prenderesti per primo per memorizzare le cartine geografiche?|
+ecole-etudes-166|Quale oggetto porteresti per studiare in una biblioteca senza prese elettriche?|Quale accessorio useresti per portare libri pesanti fino al campus?|
+ecole-etudes-167|Quale accessorio sceglieresti per portare un computer sotto la pioggia?|Con quale oggetto vorresti correggere degli esercizi di matematica?|
+ecole-etudes-168|Quale oggetto ti sembrerebbe indispensabile per registrare idee per un tema?|Quale oggetto prenderesti per primo per annotare un testo letterario di dieci pagine?|
+ecole-etudes-169|Quale oggetto porteresti per organizzare un progetto di gruppo a distanza?|Quale accessorio useresti per studiare in un’aula molto luminosa?|
+ecole-etudes-170|Quale accessorio sceglieresti per ritrovare in fretta una definizione mentre ripassi?|Con quale oggetto vorresti ripassare senza connessione a Internet?|
+ecole-etudes-171|Quale accessorio sceglieresti per prendere appunti durante una lezione di tre ore?|Con quale oggetto vorresti esercitarti nella pronuncia di una lingua straniera?|
+ecole-etudes-172|Quale oggetto ti sembrerebbe indispensabile per fare una presentazione senza un computer tuo?|Quale oggetto prenderesti per primo per leggere un libro di testo durante un viaggio in treno?|
+ecole-etudes-173|Quale oggetto porteresti per organizzare tutte le scadenze di consegna del semestre?|Quale accessorio useresti per spiegare uno schema a un compagno?|
+ecole-etudes-174|Quale accessorio sceglieresti per memorizzare le cartine geografiche?|Con quale oggetto vorresti conservare gli schemi di ripasso di un intero anno?|
+ecole-etudes-175|Quale oggetto ti sembrerebbe indispensabile per portare libri pesanti fino al campus?|Quale oggetto prenderesti per primo per presentare un grafico alla lavagna?|
+ecole-etudes-176|Quante volte al mese potresti fare degli schemi dopo una lezione importante?|In un mese normale, quante volte sceglieresti di guardare un video didattico per approfondire?|
+ecole-etudes-177|Quante volte in un mese ti piacerebbe studiare in biblioteca invece che a casa?|Secondo te, quante volte al mese sarebbe ragionevole esercitarti in una lingua straniera con un amico?|
+ecole-etudes-178|In un mese, quante volte potresti ripassare con un altro studente?|In un mese qualsiasi, quante volte ti piacerebbe cercare articoli per approfondire un corso?|
+ecole-etudes-179|Quante volte al mese potresti rivedere i tuoi obiettivi di studio?|In un mese normale, quante volte sceglieresti di fare delle pause durante un lungo ripasso?|
+ecole-etudes-180|Quante volte in un mese ti piacerebbe lavorare in gruppo su una presentazione?|Secondo te, quante volte al mese sarebbe ragionevole partecipare a una conferenza della tua scuola o università?|
+ecole-etudes-181|In un mese, quante volte potresti chiedere un riscontro a un professore?|In un mese qualsiasi, quante volte ti piacerebbe prendere appuntamento con un orientatore?|
+ecole-etudes-182|Quante volte al mese potresti rileggere un vecchio compito corretto?|In un mese normale, quante volte sceglieresti di leggere un capitolo più avanti rispetto al programma?|
+ecole-etudes-183|Quante volte in un mese ti piacerebbe preparare le tue cose la sera prima di una lezione?|Secondo te, quante volte al mese sarebbe ragionevole rifare un esercizio sbagliato per migliorare?|
+ecole-etudes-184|In un mese, quante volte potresti usare le flashcard per ripassare?|In un mese qualsiasi, quante volte ti piacerebbe imparare un nuovo metodo di memorizzazione?|
+ecole-etudes-185|Quante volte al mese potresti guardare un video didattico per approfondire?|In un mese normale, quante volte sceglieresti di pianificare il ripasso su un’agenda?|
+ecole-etudes-186|Quante volte in un mese ti piacerebbe esercitarti in una lingua straniera con un amico?|Secondo te, quante volte al mese sarebbe ragionevole metterti alla prova con un quiz di allenamento?|
+ecole-etudes-187|In un mese, quante volte potresti cercare articoli per approfondire un corso?|In un mese qualsiasi, quante volte ti piacerebbe fare degli schemi dopo una lezione importante?|
+ecole-etudes-188|Quante volte al mese potresti fare delle pause durante un lungo ripasso?|In un mese normale, quante volte sceglieresti di studiare in biblioteca invece che a casa?|
+ecole-etudes-189|Quante volte in un mese ti piacerebbe partecipare a una conferenza della tua scuola o università?|Secondo te, quante volte al mese sarebbe ragionevole ripassare con un altro studente?|
+ecole-etudes-190|In un mese, quante volte potresti prendere appuntamento con un orientatore?|In un mese qualsiasi, quante volte ti piacerebbe rivedere i tuoi obiettivi di studio?|
+ecole-etudes-191|Quante volte al mese potresti leggere un capitolo più avanti rispetto al programma?|In un mese normale, quante volte sceglieresti di lavorare in gruppo su una presentazione?|
+ecole-etudes-192|Quante volte in un mese ti piacerebbe rifare un esercizio sbagliato per migliorare?|Secondo te, quante volte al mese sarebbe ragionevole chiedere un riscontro a un professore?|
+ecole-etudes-193|In un mese, quante volte potresti imparare un nuovo metodo di memorizzazione?|In un mese qualsiasi, quante volte ti piacerebbe rileggere un vecchio compito corretto?|
+ecole-etudes-194|Quante volte al mese potresti pianificare il ripasso su un’agenda?|In un mese normale, quante volte sceglieresti di preparare le tue cose la sera prima di una lezione?|
+ecole-etudes-195|Quante volte in un mese ti piacerebbe metterti alla prova con un quiz di allenamento?|Secondo te, quante volte al mese sarebbe ragionevole usare le flashcard per ripassare?|
+ecole-etudes-196|Quante volte in un mese ti piacerebbe fare degli schemi dopo una lezione importante?|Secondo te, quante volte al mese sarebbe ragionevole guardare un video didattico per approfondire?|
+ecole-etudes-197|In un mese, quante volte potresti studiare in biblioteca invece che a casa?|In un mese qualsiasi, quante volte ti piacerebbe esercitarti in una lingua straniera con un amico?|
+ecole-etudes-198|Quante volte al mese potresti ripassare con un altro studente?|In un mese normale, quante volte sceglieresti di cercare articoli per approfondire un corso?|
+ecole-etudes-199|Quante volte in un mese ti piacerebbe rivedere i tuoi obiettivi di studio?|Secondo te, quante volte al mese sarebbe ragionevole fare delle pause durante un lungo ripasso?|
+ecole-etudes-200|In un mese, quante volte potresti lavorare in gruppo su una presentazione?|In un mese qualsiasi, quante volte ti piacerebbe partecipare a una conferenza della tua scuola o università?|

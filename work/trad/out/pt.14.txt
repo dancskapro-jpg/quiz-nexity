@@ -98,3 +98,503 @@ voisins-societe-097|Se tivesse que decidir, seria conhecer todos os seus vizinho
 voisins-societe-098|Você escolheria um pátio interno compartilhado ou um jardim privativo menor?|Se só pudesse escolher uma opção, você ficaria com ficar perto de uma rua de comércio ou ficar perto de um parque grande?|
 voisins-societe-099|Entre uma festa anual entre vizinhos e pequenos encontros frequentes, o que você preferiria?|Qual dos dois te atrai mais: vizinhos muito sociáveis ou vizinhos muito discretos?|
 voisins-societe-100|Se tivesse que decidir, seria resolver um problema cara a cara ou escrever uma mensagem educada?|O que você priorizaria: organizar almoços com o bairro ou só se conhecer no corredor?|
+voisins-societe-101|Quantos minutos você levaria para explicar com calma uma reclamação de barulho a um vizinho?|Quanto tempo, em minutos, você reservaria para limpar uma mancha na escada do prédio?|
+voisins-societe-102|Quantos minutos você gastaria para preencher um formulário de ocorrência para o síndico?|Você demoraria quantos minutos para cumprimentar os vizinhos numa festa do prédio?|
+voisins-societe-103|Quantos minutos você dedicaria a organizar as caixas de papelão antes da coleta de lixo?|Em geral, quantos minutos você levaria para preparar a pauta de uma reunião de condomínio?|
+voisins-societe-104|Quantos minutos você levaria para receber um vizinho novo com um cafezinho?|Quanto tempo, em minutos, você reservaria para limpar sua sacada depois de uma tempestade?|
+voisins-societe-105|Quantos minutos você gastaria para ajudar um vizinho a carregar um móvel leve?|Você demoraria quantos minutos para subir uma encomenda pequena até o último andar?|
+voisins-societe-106|Quantos minutos você dedicaria a buscar uma encomenda no prédio vizinho?|Em geral, quantos minutos você levaria para achar o número de um encanador de plantão?|
+voisins-societe-107|Quantos minutos você levaria para escrever um bilhete avisando sobre uma obra?|Quanto tempo, em minutos, você reservaria para procurar informações sobre a separação do lixo?|
+voisins-societe-108|Quantos minutos você gastaria para verificar um vazamento embaixo da pia antes de ligar para alguém?|Você demoraria quantos minutos para discutir sobre uma vaga de garagem ocupada?|
+voisins-societe-109|Quantos minutos você dedicaria a colocar um tapete antirruído embaixo de um móvel?|Em geral, quantos minutos você levaria para atender um entregador quando o interfone não funciona?|
+voisins-societe-110|Quantos minutos você levaria para limpar uma mancha na escada do prédio?|Quanto tempo, em minutos, você reservaria para preparar um cartaz para uma festa entre vizinhos?|
+voisins-societe-111|Quantos minutos você gastaria para cumprimentar os vizinhos numa festa do prédio?|Você demoraria quantos minutos para escrever uma mensagem clara para o proprietário do seu apartamento?|
+voisins-societe-112|Quantos minutos você dedicaria a preparar a pauta de uma reunião de condomínio?|Em geral, quantos minutos você levaria para explicar com calma uma reclamação de barulho a um vizinho?|
+voisins-societe-113|Quantos minutos você levaria para limpar sua sacada depois de uma tempestade?|Quanto tempo, em minutos, você reservaria para preencher um formulário de ocorrência para o síndico?|
+voisins-societe-114|Quantos minutos você gastaria para subir uma encomenda pequena até o último andar?|Você demoraria quantos minutos para organizar as caixas de papelão antes da coleta de lixo?|
+voisins-societe-115|Quantos minutos você dedicaria a achar o número de um encanador de plantão?|Em geral, quantos minutos você levaria para receber um vizinho novo com um cafezinho?|
+voisins-societe-116|Quantos minutos você levaria para procurar informações sobre a separação do lixo?|Quanto tempo, em minutos, você reservaria para ajudar um vizinho a carregar um móvel leve?|
+voisins-societe-117|Quantos minutos você gastaria para discutir sobre uma vaga de garagem ocupada?|Você demoraria quantos minutos para buscar uma encomenda no prédio vizinho?|
+voisins-societe-118|Quantos minutos você dedicaria a atender um entregador quando o interfone não funciona?|Em geral, quantos minutos você levaria para escrever um bilhete avisando sobre uma obra?|
+voisins-societe-119|Quantos minutos você levaria para preparar um cartaz para uma festa entre vizinhos?|Quanto tempo, em minutos, você reservaria para verificar um vazamento embaixo da pia antes de ligar para alguém?|
+voisins-societe-120|Quantos minutos você gastaria para escrever uma mensagem clara para o proprietário do seu apartamento?|Você demoraria quantos minutos para colocar um tapete antirruído embaixo de um móvel?|
+voisins-societe-121|Quantos minutos você gastaria para explicar com calma uma reclamação de barulho a um vizinho?|Você demoraria quantos minutos para limpar uma mancha na escada do prédio?|
+voisins-societe-122|Quantos minutos você dedicaria a preencher um formulário de ocorrência para o síndico?|Em geral, quantos minutos você levaria para cumprimentar os vizinhos numa festa do prédio?|
+voisins-societe-123|Quantos minutos você levaria para organizar as caixas de papelão antes da coleta de lixo?|Quanto tempo, em minutos, você reservaria para preparar a pauta de uma reunião de condomínio?|
+voisins-societe-124|Quantos minutos você gastaria para receber um vizinho novo com um cafezinho?|Você demoraria quantos minutos para limpar sua sacada depois de uma tempestade?|
+voisins-societe-125|Quantos minutos você dedicaria a ajudar um vizinho a carregar um móvel leve?|Em geral, quantos minutos você levaria para subir uma encomenda pequena até o último andar?|
+voisins-societe-126|A quem você pediria conselho para resolver uma briga sobre barulho no domingo?|Para quem você ligaria para pedir autorização para instalar um suporte de bicicletas?|
+voisins-societe-127|Quem você contataria primeiro para avisar sobre um vazamento de água nas áreas comuns?|A quem você pediria uma opinião para entender uma conta de despesas do condomínio?|
+voisins-societe-128|A quem você recorreria para organizar uma festa entre vizinhos?|Com quem você falaria primeiro para consertar o interfone do seu apartamento?|
+voisins-societe-129|A quem você pediria conselho para entender os horários permitidos para obras?|Para quem você ligaria para conseguir dicas sobre isolamento acústico?|
+voisins-societe-130|Quem você contataria primeiro para conseguir uma segunda tag de acesso do prédio?|A quem você pediria uma opinião para avisar sobre um problema de limpeza na lixeira do prédio?|
+voisins-societe-131|A quem você recorreria para pedir o conserto da iluminação das áreas comuns?|Com quem você falaria primeiro para combinar quem rega as plantas de um vizinho que está viajando?|
+voisins-societe-132|A quem você pediria conselho para resolver um problema de vagas de garagem compartilhadas?|Para quem você ligaria para pedir uma ajudinha para carregar um móvel?|
+voisins-societe-133|Quem você contataria primeiro para achar o destinatário de uma encomenda entregue errado?|A quem você pediria uma opinião para lidar com um conflito por causa de um animal barulhento?|
+voisins-societe-134|A quem você recorreria para propor uma melhoria na segurança da entrada?|Com quem você falaria primeiro para saber as regras de uso do pátio?|
+voisins-societe-135|A quem você pediria conselho para pedir autorização para instalar um suporte de bicicletas?|Para quem você ligaria para propor uma reforma no hall do prédio?|
+voisins-societe-136|Quem você contataria primeiro para entender uma conta de despesas do condomínio?|A quem você pediria uma opinião para saber os horários da coleta de móveis e objetos grandes?|
+voisins-societe-137|A quem você recorreria para consertar o interfone do seu apartamento?|Com quem você falaria primeiro para resolver uma briga sobre barulho no domingo?|
+voisins-societe-138|A quem você pediria conselho para conseguir dicas sobre isolamento acústico?|Para quem você ligaria para avisar sobre um vazamento de água nas áreas comuns?|
+voisins-societe-139|Quem você contataria primeiro para avisar sobre um problema de limpeza na lixeira do prédio?|A quem você pediria uma opinião para organizar uma festa entre vizinhos?|
+voisins-societe-140|A quem você recorreria para combinar quem rega as plantas de um vizinho que está viajando?|Com quem você falaria primeiro para entender os horários permitidos para obras?|
+voisins-societe-141|A quem você pediria conselho para pedir uma ajudinha para carregar um móvel?|Para quem você ligaria para conseguir uma segunda tag de acesso do prédio?|
+voisins-societe-142|Quem você contataria primeiro para lidar com um conflito por causa de um animal barulhento?|A quem você pediria uma opinião para pedir o conserto da iluminação das áreas comuns?|
+voisins-societe-143|A quem você recorreria para saber as regras de uso do pátio?|Com quem você falaria primeiro para resolver um problema de vagas de garagem compartilhadas?|
+voisins-societe-144|A quem você pediria conselho para propor uma reforma no hall do prédio?|Para quem você ligaria para achar o destinatário de uma encomenda entregue errado?|
+voisins-societe-145|Quem você contataria primeiro para saber os horários da coleta de móveis e objetos grandes?|A quem você pediria uma opinião para propor uma melhoria na segurança da entrada?|
+voisins-societe-146|Quem você contataria primeiro para resolver uma briga sobre barulho no domingo?|A quem você pediria uma opinião para pedir autorização para instalar um suporte de bicicletas?|
+voisins-societe-147|A quem você recorreria para avisar sobre um vazamento de água nas áreas comuns?|Com quem você falaria primeiro para entender uma conta de despesas do condomínio?|
+voisins-societe-148|A quem você pediria conselho para organizar uma festa entre vizinhos?|Para quem você ligaria para consertar o interfone do seu apartamento?|
+voisins-societe-149|Quem você contataria primeiro para entender os horários permitidos para obras?|A quem você pediria uma opinião para conseguir dicas sobre isolamento acústico?|
+voisins-societe-150|A quem você recorreria para conseguir uma segunda tag de acesso do prédio?|Com quem você falaria primeiro para avisar sobre um problema de limpeza na lixeira do prédio?|
+voisins-societe-151|Aonde você iria para conversar com calma com um vizinho que você mal conhece?|Em que lugar você gostaria de instalar uma composteira coletiva com autorização?|
+voisins-societe-152|Em que lugar você preferiria fazer uma festa entre vizinhos para vinte pessoas?|Onde você decidiria esperar um amigo sem bloquear a entrada do prédio?|
+voisins-societe-153|Onde você gostaria de colocar um aviso útil para os moradores?|Onde você escolheria limpar um par de sapatos enlameados?|
+voisins-societe-154|Aonde você iria para guardar uma bicicleta sem atrapalhar a passagem?|Em que lugar você gostaria de secar um cobertor sem incomodar ninguém?|
+voisins-societe-155|Em que lugar você preferiria deixar uma encomenda para um vizinho que não está em casa?|Onde você decidiria se reunir depois de um incidente no condomínio?|
+voisins-societe-156|Onde você gostaria de conversar sobre um problema de barulho sem fazer escândalo?|Onde você escolheria instalar uma caixinha de troca de livros do bairro?|
+voisins-societe-157|Aonde você iria para fazer uma reunião de moradores?|Em que lugar você gostaria de colocar um cartaz de gato perdido?|
+voisins-societe-158|Em que lugar você preferiria guardar temporariamente um objeto volumoso?|Onde você decidiria organizar um café entre vizinhos novos?|
+voisins-societe-159|Onde você gostaria de receber um entregador quando não está em casa?|Onde você escolheria relatar uma falha de segurança no prédio?|
+voisins-societe-160|Aonde você iria para instalar uma composteira coletiva com autorização?|Em que lugar você gostaria de organizar uma troca de roupas entre moradores?|
+voisins-societe-161|Em que lugar você preferiria esperar um amigo sem bloquear a entrada do prédio?|Onde você decidiria conversar sobre um projeto de plantio no pátio?|
+voisins-societe-162|Onde você gostaria de limpar um par de sapatos enlameados?|Onde você escolheria conversar com calma com um vizinho que você mal conhece?|
+voisins-societe-163|Aonde você iria para secar um cobertor sem incomodar ninguém?|Em que lugar você gostaria de fazer uma festa entre vizinhos para vinte pessoas?|
+voisins-societe-164|Em que lugar você preferiria se reunir depois de um incidente no condomínio?|Onde você decidiria colocar um aviso útil para os moradores?|
+voisins-societe-165|Onde você gostaria de instalar uma caixinha de troca de livros do bairro?|Onde você escolheria guardar uma bicicleta sem atrapalhar a passagem?|
+voisins-societe-166|Aonde você iria para colocar um cartaz de gato perdido?|Em que lugar você gostaria de deixar uma encomenda para um vizinho que não está em casa?|
+voisins-societe-167|Em que lugar você preferiria organizar um café entre vizinhos novos?|Onde você decidiria conversar sobre um problema de barulho sem fazer escândalo?|
+voisins-societe-168|Onde você gostaria de relatar uma falha de segurança no prédio?|Onde você escolheria fazer uma reunião de moradores?|
+voisins-societe-169|Aonde você iria para organizar uma troca de roupas entre moradores?|Em que lugar você gostaria de guardar temporariamente um objeto volumoso?|
+voisins-societe-170|Em que lugar você preferiria conversar sobre um projeto de plantio no pátio?|Onde você decidiria receber um entregador quando não está em casa?|
+voisins-societe-171|Em que lugar você preferiria conversar com calma com um vizinho que você mal conhece?|Onde você decidiria instalar uma composteira coletiva com autorização?|
+voisins-societe-172|Onde você gostaria de fazer uma festa entre vizinhos para vinte pessoas?|Onde você escolheria esperar um amigo sem bloquear a entrada do prédio?|
+voisins-societe-173|Aonde você iria para colocar um aviso útil para os moradores?|Em que lugar você gostaria de limpar um par de sapatos enlameados?|
+voisins-societe-174|Em que lugar você preferiria guardar uma bicicleta sem atrapalhar a passagem?|Onde você decidiria secar um cobertor sem incomodar ninguém?|
+voisins-societe-175|Onde você gostaria de deixar uma encomenda para um vizinho que não está em casa?|Onde você escolheria se reunir depois de um incidente no condomínio?|
+voisins-societe-176|Que critério pesaria mais para você na hora de escolher um apartamento num condomínio antigo?|Em que você seria mais exigente na hora de instalar uma caixa de encomendas no hall?|
+voisins-societe-177|O que você olharia primeiro na hora de instalar uma câmera na entrada comum com autorização?|Qual seria sua prioridade na hora de se mudar para uma rua comercial?|
+voisins-societe-178|O que seria inegociável para você na hora de comprar uma vaga de garagem no subsolo?|Que detalhe você verificaria antes de procurar um lugar para morar perto de uma escola?|
+voisins-societe-179|Que critério pesaria mais para você na hora de alugar um apartamento em cima de uma loja?|Em que você seria mais exigente na hora de melhorar a iluminação da escada do prédio?|
+voisins-societe-180|O que você olharia primeiro na hora de escolher uma empresa para limpar o prédio?|Qual seria sua prioridade na hora de comprar um detector de fumaça para sua casa?|
+voisins-societe-181|O que seria inegociável para você na hora de organizar uma festa entre vizinhos na primavera?|Que detalhe você verificaria antes de alugar uma garagem no bairro?|
+voisins-societe-182|Que critério pesaria mais para você na hora de criar um espaço para bicicletas no pátio?|Em que você seria mais exigente na hora de propor uma regra para o uso do pátio?|
+voisins-societe-183|O que você olharia primeiro na hora de planejar uma obra barulhenta num apartamento?|Qual seria sua prioridade na hora de criar um grupo de conversa entre vizinhos?|
+voisins-societe-184|O que seria inegociável para você na hora de escolher um prédio com porteiro?|Que detalhe você verificaria antes de escolher um apartamento no térreo?|
+voisins-societe-185|Que critério pesaria mais para você na hora de instalar uma caixa de encomendas no hall?|Em que você seria mais exigente na hora de instalar um ponto de recarga coletivo para carros elétricos?|
+voisins-societe-186|O que você olharia primeiro na hora de se mudar para uma rua comercial?|Qual seria sua prioridade na hora de pensar numa forma melhor de cuidar do lixo?|
+voisins-societe-187|O que seria inegociável para você na hora de procurar um lugar para morar perto de uma escola?|Que detalhe você verificaria antes de escolher um apartamento num condomínio antigo?|
+voisins-societe-188|Que critério pesaria mais para você na hora de melhorar a iluminação da escada do prédio?|Em que você seria mais exigente na hora de instalar uma câmera na entrada comum com autorização?|
+voisins-societe-189|O que você olharia primeiro na hora de comprar um detector de fumaça para sua casa?|Qual seria sua prioridade na hora de comprar uma vaga de garagem no subsolo?|
+voisins-societe-190|O que seria inegociável para você na hora de alugar uma garagem no bairro?|Que detalhe você verificaria antes de alugar um apartamento em cima de uma loja?|
+voisins-societe-191|Que critério pesaria mais para você na hora de propor uma regra para o uso do pátio?|Em que você seria mais exigente na hora de escolher uma empresa para limpar o prédio?|
+voisins-societe-192|O que você olharia primeiro na hora de criar um grupo de conversa entre vizinhos?|Qual seria sua prioridade na hora de organizar uma festa entre vizinhos na primavera?|
+voisins-societe-193|O que seria inegociável para você na hora de escolher um apartamento no térreo?|Que detalhe você verificaria antes de criar um espaço para bicicletas no pátio?|
+voisins-societe-194|Que critério pesaria mais para você na hora de instalar um ponto de recarga coletivo para carros elétricos?|Em que você seria mais exigente na hora de planejar uma obra barulhenta num apartamento?|
+voisins-societe-195|O que você olharia primeiro na hora de pensar numa forma melhor de cuidar do lixo?|Qual seria sua prioridade na hora de escolher um prédio com porteiro?|
+voisins-societe-196|O que você olharia primeiro na hora de escolher um apartamento num condomínio antigo?|Qual seria sua prioridade na hora de instalar uma caixa de encomendas no hall?|
+voisins-societe-197|O que seria inegociável para você na hora de instalar uma câmera na entrada comum com autorização?|Que detalhe você verificaria antes de se mudar para uma rua comercial?|
+voisins-societe-198|Que critério pesaria mais para você na hora de comprar uma vaga de garagem no subsolo?|Em que você seria mais exigente na hora de procurar um lugar para morar perto de uma escola?|
+voisins-societe-199|O que você olharia primeiro na hora de alugar um apartamento em cima de uma loja?|Qual seria sua prioridade na hora de melhorar a iluminação da escada do prédio?|
+voisins-societe-200|O que seria inegociável para você na hora de escolher uma empresa para limpar o prédio?|Que detalhe você verificaria antes de comprar um detector de fumaça para sua casa?|
+mariages-occasions-001|Quanto você pagaria no máximo por um traje completo de convidado para um casamento de verão?|Que preço te pareceria razoável para o aluguel de um carro para uma cerimônia?|
+mariages-occasions-002|Quanto você estaria disposto a gastar com um presente de casamento para amigos próximos?|Em reais, qual seria seu limite para um terno sob medida para uma cerimônia?|euros → reais
+mariages-occasions-003|Quanto você separaria no orçamento para uma noite de hotel depois de uma festa no campo?|A partir de quanto você acharia caro demais um vestido de festa de boa qualidade?|
+mariages-occasions-004|Quanto você pagaria no máximo por um penteado profissional para uma cerimônia?|Que preço te pareceria razoável para um videomaker filmar um dia de casamento?|
+mariages-occasions-005|Quanto você estaria disposto a gastar com a refeição de casamento por convidado num salão bonito?|Em reais, qual seria seu limite para a impressão de cem convites personalizados?|euros → reais
+mariages-occasions-006|Quanto você separaria no orçamento para uma decoração floral simples para dez mesas?|A partir de quanto você acharia caro demais um DJ para animar seis horas de festa?|
+mariages-occasions-007|Quanto você pagaria no máximo pelo aluguel de um salão para cinquenta pessoas?|Que preço te pareceria razoável para uma maquiagem no dia de um casamento?|
+mariages-occasions-008|Quanto você estaria disposto a gastar com um fotógrafo para seis horas de casamento?|Em reais, qual seria seu limite para um brunch no dia seguinte para trinta convidados?|euros → reais
+mariages-occasions-009|Quanto você separaria no orçamento para um bolo de casamento para oitenta convidados?|A partir de quanto você acharia caro demais um buquê de noiva feito por um florista profissional?|pièce montée → bolo de casamento
+mariages-occasions-010|Quanto você pagaria no máximo pelo aluguel de um carro para uma cerimônia?|Que preço te pareceria razoável para um ensaio fotográfico antes de uma formatura?|
+mariages-occasions-011|Quanto você estaria disposto a gastar com um terno sob medida para uma cerimônia?|Em reais, qual seria seu limite para um anel de noivado simples de ouro?|euros → reais
+mariages-occasions-012|Quanto você separaria no orçamento para um vestido de festa de boa qualidade?|A partir de quanto você acharia caro demais um traje completo de convidado para um casamento de verão?|
+mariages-occasions-013|Quanto você pagaria no máximo por um videomaker para filmar um dia de casamento?|Que preço te pareceria razoável para um presente de casamento para amigos próximos?|
+mariages-occasions-014|Quanto você estaria disposto a gastar com a impressão de cem convites personalizados?|Em reais, qual seria seu limite para uma noite de hotel depois de uma festa no campo?|euros → reais
+mariages-occasions-015|Quanto você separaria no orçamento para um DJ para animar seis horas de festa?|A partir de quanto você acharia caro demais um penteado profissional para uma cerimônia?|
+mariages-occasions-016|Quanto você pagaria no máximo por uma maquiagem no dia de um casamento?|Que preço te pareceria razoável para a refeição de casamento por convidado num salão bonito?|
+mariages-occasions-017|Quanto você estaria disposto a gastar com um brunch no dia seguinte para trinta convidados?|Em reais, qual seria seu limite para uma decoração floral simples para dez mesas?|euros → reais
+mariages-occasions-018|Quanto você separaria no orçamento para um buquê de noiva feito por um florista profissional?|A partir de quanto você acharia caro demais o aluguel de um salão para cinquenta pessoas?|
+mariages-occasions-019|Quanto você pagaria no máximo por um ensaio fotográfico antes de uma formatura?|Que preço te pareceria razoável para um fotógrafo para seis horas de casamento?|
+mariages-occasions-020|Quanto você estaria disposto a gastar com um anel de noivado simples de ouro?|Em reais, qual seria seu limite para um bolo de casamento para oitenta convidados?|euros → reais, pièce montée → bolo de casamento
+mariages-occasions-021|Quanto você estaria disposto a gastar com um traje completo de convidado para um casamento de verão?|Em reais, qual seria seu limite para o aluguel de um carro para uma cerimônia?|euros → reais
+mariages-occasions-022|Quanto você separaria no orçamento para um presente de casamento para amigos próximos?|A partir de quanto você acharia caro demais um terno sob medida para uma cerimônia?|
+mariages-occasions-023|Quanto você pagaria no máximo por uma noite de hotel depois de uma festa no campo?|Que preço te pareceria razoável para um vestido de festa de boa qualidade?|
+mariages-occasions-024|Quanto você estaria disposto a gastar com um penteado profissional para uma cerimônia?|Em reais, qual seria seu limite para um videomaker filmar um dia de casamento?|euros → reais
+mariages-occasions-025|Quanto você separaria no orçamento para a refeição de casamento por convidado num salão bonito?|A partir de quanto você acharia caro demais a impressão de cem convites personalizados?|
+mariages-occasions-026|O que você responderia se um convidado avisasse que vai levar acompanhante sem ter perguntado?|Como você responderia se te pedissem para trocar de mesa logo antes da refeição?|
+mariages-occasions-027|Qual seria sua primeira frase se os noivos te pedissem para fazer um discurso em cima da hora?|O que você diria se o DJ te pedisse para sugerir uma música para a abertura?|
+mariages-occasions-028|O que você falaria se alguém te sugerisse usar branco num casamento?|Que palavras você usaria se um amigo quisesse fazer um anúncio pessoal durante um casamento?|
+mariages-occasions-029|O que você responderia se um amigo cancelasse a presença na véspera da cerimônia?|Como você responderia se um padrinho te pedisse para guardar segredo sobre uma surpresa?|témoin → padrinho
+mariages-occasions-030|Qual seria sua primeira frase se um convidado reclamasse de não conhecer os outros convidados?|O que você diria se alguém te desse um presente de formatura inesperado?|
+mariages-occasions-031|O que você falaria se a pessoa que vai se casar te pedisse sua opinião sobre a roupa dela?|Que palavras você usaria se alguém próximo te pedisse para participar de uma dança surpresa?|
+mariages-occasions-032|O que você responderia se alguém próximo dissesse que a festa está cara demais?|Como você responderia se te avisassem que crianças não são convidadas?|
+mariages-occasions-033|Qual seria sua primeira frase se alguém te criticasse por ter chegado depois do início da cerimônia?|O que você diria se um convidado quisesse pegar sua roupa emprestada para outra cerimônia?|
+mariages-occasions-034|O que você falaria se um convidado criticasse o cardápio na frente dos noivos?|Que palavras você usaria se um organizador te pedisse para encurtar seu discurso?|
+mariages-occasions-035|O que você responderia se te pedissem para trocar de mesa logo antes da refeição?|Como você responderia se um amigo quisesse ir embora antes da sobremesa?|
+mariages-occasions-036|Qual seria sua primeira frase se o DJ te pedisse para sugerir uma música para a abertura?|O que você diria se os noivos pedissem para todo mundo guardar o celular?|
+mariages-occasions-037|O que você falaria se um amigo quisesse fazer um anúncio pessoal durante um casamento?|Que palavras você usaria se um convidado avisasse que vai levar acompanhante sem ter perguntado?|
+mariages-occasions-038|O que você responderia se um padrinho te pedisse para guardar segredo sobre uma surpresa?|Como você responderia se os noivos te pedissem para fazer um discurso em cima da hora?|témoin → padrinho
+mariages-occasions-039|Qual seria sua primeira frase se alguém te desse um presente de formatura inesperado?|O que você diria se alguém te sugerisse usar branco num casamento?|
+mariages-occasions-040|O que você falaria se alguém próximo te pedisse para participar de uma dança surpresa?|Que palavras você usaria se um amigo cancelasse a presença na véspera da cerimônia?|
+mariages-occasions-041|O que você responderia se te avisassem que crianças não são convidadas?|Como você responderia se um convidado reclamasse de não conhecer os outros convidados?|
+mariages-occasions-042|Qual seria sua primeira frase se um convidado quisesse pegar sua roupa emprestada para outra cerimônia?|O que você diria se a pessoa que vai se casar te pedisse sua opinião sobre a roupa dela?|
+mariages-occasions-043|O que você falaria se um organizador te pedisse para encurtar seu discurso?|Que palavras você usaria se alguém próximo dissesse que a festa está cara demais?|
+mariages-occasions-044|O que você responderia se um amigo quisesse ir embora antes da sobremesa?|Como você responderia se alguém te criticasse por ter chegado depois do início da cerimônia?|
+mariages-occasions-045|Qual seria sua primeira frase se os noivos pedissem para todo mundo guardar o celular?|O que você diria se um convidado criticasse o cardápio na frente dos noivos?|
+mariages-occasions-046|Qual seria sua primeira frase se um convidado avisasse que vai levar acompanhante sem ter perguntado?|O que você diria se te pedissem para trocar de mesa logo antes da refeição?|
+mariages-occasions-047|O que você falaria se os noivos te pedissem para fazer um discurso em cima da hora?|Que palavras você usaria se o DJ te pedisse para sugerir uma música para a abertura?|
+mariages-occasions-048|O que você responderia se alguém te sugerisse usar branco num casamento?|Como você responderia se um amigo quisesse fazer um anúncio pessoal durante um casamento?|
+mariages-occasions-049|Qual seria sua primeira frase se um amigo cancelasse a presença na véspera da cerimônia?|O que você diria se um padrinho te pedisse para guardar segredo sobre uma surpresa?|témoin → padrinho
+mariages-occasions-050|O que você falaria se um convidado reclamasse de não conhecer os outros convidados?|Que palavras você usaria se alguém te desse um presente de formatura inesperado?|
+mariages-occasions-051|O que você faria primeiro se começasse a chover logo antes de uma cerimônia ao ar livre?|O que você decidiria fazer antes de tudo se seu ônibus fosse cancelado na manhã de um casamento?|train → ônibus
+mariages-occasions-052|Qual seria seu primeiro reflexo se você esquecesse seu discurso de padrinho num táxi?|Como você agiria primeiro se o buquê reservado não estivesse pronto na floricultura?|témoin → padrinho
+mariages-occasions-053|Por onde você começaria se o fotógrafo estivesse uma hora atrasado para a festa?|Qual seria sua primeira ação se uma falha no som impedisse o início dos discursos?|
+mariages-occasions-054|O que você faria primeiro se o bufê anunciasse uma mudança no cardápio na mesma manhã?|O que você decidiria fazer antes de tudo se as alianças sumissem cinco minutos antes da cerimônia?|
+mariages-occasions-055|Qual seria seu primeiro reflexo se seu terno manchasse antes da entrada no cartório?|Como você agiria primeiro se um convidado passasse mal durante a festa?|mairie → cartório
+mariages-occasions-056|Por onde você começaria se um convidado derrubasse o bolo da festa?|Qual seria sua primeira ação se o salão anunciasse um limite de horário mais rígido?|
+mariages-occasions-057|O que você faria primeiro se perdesse o envelope com o seu presente de casamento?|O que você decidiria fazer antes de tudo se o discurso preparado passasse muito do tempo previsto?|
+mariages-occasions-058|Qual seria seu primeiro reflexo se o DJ ficasse doente no dia da festa?|Como você agiria primeiro se as decorações encomendadas chegassem na cor errada?|
+mariages-occasions-059|Por onde você começaria se encontrasse dois convidados sentados no mesmo lugar?|Qual seria sua primeira ação se uma criança derrubasse um copo na toalha da mesa principal?|
+mariages-occasions-060|O que você faria primeiro se seu ônibus fosse cancelado na manhã de um casamento?|O que você decidiria fazer antes de tudo se a pessoa responsável pelas fotos tivesse esquecido a bateria?|train → ônibus
+mariages-occasions-061|Qual seria seu primeiro reflexo se o buquê reservado não estivesse pronto na floricultura?|Como você agiria primeiro se ninguém encontrasse a reserva do brunch do dia seguinte?|
+mariages-occasions-062|Por onde você começaria se uma falha no som impedisse o início dos discursos?|Qual seria sua primeira ação se começasse a chover logo antes de uma cerimônia ao ar livre?|
+mariages-occasions-063|O que você faria primeiro se as alianças sumissem cinco minutos antes da cerimônia?|O que você decidiria fazer antes de tudo se esquecesse seu discurso de padrinho num táxi?|témoin → padrinho
+mariages-occasions-064|Qual seria seu primeiro reflexo se um convidado passasse mal durante a festa?|Como você agiria primeiro se o fotógrafo estivesse uma hora atrasado para a festa?|
+mariages-occasions-065|Por onde você começaria se o salão anunciasse um limite de horário mais rígido?|Qual seria sua primeira ação se o bufê anunciasse uma mudança no cardápio na mesma manhã?|
+mariages-occasions-066|O que você faria primeiro se o discurso preparado passasse muito do tempo previsto?|O que você decidiria fazer antes de tudo se seu terno manchasse antes da entrada no cartório?|mairie → cartório
+mariages-occasions-067|Qual seria seu primeiro reflexo se as decorações encomendadas chegassem na cor errada?|Como você agiria primeiro se um convidado derrubasse o bolo da festa?|
+mariages-occasions-068|Por onde você começaria se uma criança derrubasse um copo na toalha da mesa principal?|Qual seria sua primeira ação se perdesse o envelope com o seu presente de casamento?|
+mariages-occasions-069|O que você faria primeiro se a pessoa responsável pelas fotos tivesse esquecido a bateria?|O que você decidiria fazer antes de tudo se o DJ ficasse doente no dia da festa?|
+mariages-occasions-070|Qual seria seu primeiro reflexo se ninguém encontrasse a reserva do brunch do dia seguinte?|Como você agiria primeiro se encontrasse dois convidados sentados no mesmo lugar?|
+mariages-occasions-071|Qual seria seu primeiro reflexo se começasse a chover logo antes de uma cerimônia ao ar livre?|Como você agiria primeiro se seu ônibus fosse cancelado na manhã de um casamento?|train → ônibus
+mariages-occasions-072|Por onde você começaria se esquecesse seu discurso de padrinho num táxi?|Qual seria sua primeira ação se o buquê reservado não estivesse pronto na floricultura?|témoin → padrinho
+mariages-occasions-073|O que você faria primeiro se o fotógrafo estivesse uma hora atrasado para a festa?|O que você decidiria fazer antes de tudo se uma falha no som impedisse o início dos discursos?|
+mariages-occasions-074|Qual seria seu primeiro reflexo se o bufê anunciasse uma mudança no cardápio na mesma manhã?|Como você agiria primeiro se as alianças sumissem cinco minutos antes da cerimônia?|
+mariages-occasions-075|Por onde você começaria se seu terno manchasse antes da entrada no cartório?|Qual seria sua primeira ação se um convidado passasse mal durante a festa?|mairie → cartório
+mariages-occasions-076|Você escolheria uma cerimônia íntima para vinte pessoas ou uma festa grande com cem convidados?|Se só pudesse escolher uma opção, você ficaria com um presente da lista ou um envelope com dinheiro?|
+mariages-occasions-077|Entre um casamento no verão e um casamento no inverno, o que você preferiria?|Qual dos dois te atrai mais: um fotógrafo discreto ou uma equipe completa de foto e vídeo?|
+mariages-occasions-078|Se tivesse que decidir, seria uma festa no campo ou uma festa no centro da cidade?|O que você priorizaria: uma decoração bem sóbria ou uma decoração cheia de flores?|
+mariages-occasions-079|Você escolheria um bufê descontraído ou um jantar servido à mesa?|Se só pudesse escolher uma opção, você ficaria com um casamento no sábado ou um casamento numa sexta-feira?|
+mariages-occasions-080|Entre um traje tradicional e um traje bem moderno, o que você preferiria?|Qual dos dois te atrai mais: uma festa com crianças ou uma festa só para adultos?|
+mariages-occasions-081|Se tivesse que decidir, seria uma banda ao vivo ou um DJ a noite toda?|O que você priorizaria: um brunch no dia seguinte ou uma festa que vai até tarde no mesmo dia?|
+mariages-occasions-082|Você escolheria um convite de papel ou um convite digital?|Se só pudesse escolher uma opção, você ficaria com um bolo de casamento ou uma seleção de docinhos individuais?|pièce montée → bolo de casamento
+mariages-occasions-083|Entre uma cerimônia ao ar livre e uma cerimônia num salão bonito, o que você preferiria?|Qual dos dois te atrai mais: um discurso emocionante ou um discurso cheio de humor?|
+mariages-occasions-084|Se tivesse que decidir, seria uma primeira dança ensaiada ou uma dança improvisada?|O que você priorizaria: dar uma experiência aos noivos ou dar um objeto para a casa deles?|
+mariages-occasions-085|Você escolheria um presente da lista ou um envelope com dinheiro?|Se só pudesse escolher uma opção, você ficaria com lugares marcados nas mesas ou lugares livres?|
+mariages-occasions-086|Entre um fotógrafo discreto e uma equipe completa de foto e vídeo, o que você preferiria?|Qual dos dois te atrai mais: uma festa num salão histórico ou uma festa num jardim particular?|
+mariages-occasions-087|Se tivesse que decidir, seria uma decoração bem sóbria ou uma decoração cheia de flores?|O que você priorizaria: uma cerimônia íntima para vinte pessoas ou uma festa grande com cem convidados?|
+mariages-occasions-088|Você escolheria um casamento no sábado ou um casamento numa sexta-feira?|Se só pudesse escolher uma opção, você ficaria com um casamento no verão ou um casamento no inverno?|
+mariages-occasions-089|Entre uma festa com crianças e uma festa só para adultos, o que você preferiria?|Qual dos dois te atrai mais: uma festa no campo ou uma festa no centro da cidade?|
+mariages-occasions-090|Se tivesse que decidir, seria um brunch no dia seguinte ou uma festa que vai até tarde no mesmo dia?|O que você priorizaria: um bufê descontraído ou um jantar servido à mesa?|
+mariages-occasions-091|Você escolheria um bolo de casamento ou uma seleção de docinhos individuais?|Se só pudesse escolher uma opção, você ficaria com um traje tradicional ou um traje bem moderno?|pièce montée → bolo de casamento
+mariages-occasions-092|Entre um discurso emocionante e um discurso cheio de humor, o que você preferiria?|Qual dos dois te atrai mais: uma banda ao vivo ou um DJ a noite toda?|
+mariages-occasions-093|Se tivesse que decidir, seria dar uma experiência aos noivos ou dar um objeto para a casa deles?|O que você priorizaria: um convite de papel ou um convite digital?|
+mariages-occasions-094|Você escolheria lugares marcados nas mesas ou lugares livres?|Se só pudesse escolher uma opção, você ficaria com uma cerimônia ao ar livre ou uma cerimônia num salão bonito?|
+mariages-occasions-095|Entre uma festa num salão histórico e uma festa num jardim particular, o que você preferiria?|Qual dos dois te atrai mais: uma primeira dança ensaiada ou uma dança improvisada?|
+mariages-occasions-096|Entre uma cerimônia íntima para vinte pessoas e uma festa grande com cem convidados, o que você preferiria?|Qual dos dois te atrai mais: um presente da lista ou um envelope com dinheiro?|
+mariages-occasions-097|Se tivesse que decidir, seria um casamento no verão ou um casamento no inverno?|O que você priorizaria: um fotógrafo discreto ou uma equipe completa de foto e vídeo?|
+mariages-occasions-098|Você escolheria uma festa no campo ou uma festa no centro da cidade?|Se só pudesse escolher uma opção, você ficaria com uma decoração bem sóbria ou uma decoração cheia de flores?|
+mariages-occasions-099|Entre um bufê descontraído e um jantar servido à mesa, o que você preferiria?|Qual dos dois te atrai mais: um casamento no sábado ou um casamento numa sexta-feira?|
+mariages-occasions-100|Se tivesse que decidir, seria um traje tradicional ou um traje bem moderno?|O que você priorizaria: uma festa com crianças ou uma festa só para adultos?|
+mariages-occasions-101|Quantos minutos você levaria para preparar um discurso de padrinho de três minutos?|Quanto tempo, em minutos, você reservaria para achar o caminho até o salão do casamento?|témoin → padrinho
+mariages-occasions-102|Quantos minutos você gastaria para escolher uma roupa para um casamento no campo?|Você demoraria quantos minutos para arrumar uma bolsa para uma cerimônia que dura o dia inteiro?|
+mariages-occasions-103|Quantos minutos você dedicaria a escrever uma mensagem no livro de assinaturas?|Em geral, quantos minutos você levaria para fazer o cabelo antes de uma festa?|
+mariages-occasions-104|Quantos minutos você levaria para escolher um presente da lista de casamento?|Quanto tempo, em minutos, você reservaria para escolher flores para um pequeno arranjo de mesa?|
+mariages-occasions-105|Quantos minutos você gastaria para se arrumar antes de uma cerimônia no começo da tarde?|Você demoraria quantos minutos para montar a decoração num salão?|
+mariages-occasions-106|Quantos minutos você dedicaria a fazer o mapa de mesas para vinte convidados?|Em geral, quantos minutos você levaria para receber os convidados de uma cerimônia de formatura?|
+mariages-occasions-107|Quantos minutos você levaria para escolher as músicas de entrada de uma festa?|Quanto tempo, em minutos, você reservaria para escrever um convite para uma festa de noivado?|
+mariages-occasions-108|Quantos minutos você gastaria para organizar uma sessão de fotos em família?|Você demoraria quantos minutos para escolher o tipo de cardápio de uma festa?|
+mariages-occasions-109|Quantos minutos você dedicaria a escrever uma mensagem de parabéns para os noivos?|Em geral, quantos minutos você levaria para decorar o carro da cerimônia?|
+mariages-occasions-110|Quantos minutos você levaria para achar o caminho até o salão do casamento?|Quanto tempo, em minutos, você reservaria para montar um cantinho de fotos para os convidados?|
+mariages-occasions-111|Quantos minutos você gastaria para arrumar uma bolsa para uma cerimônia que dura o dia inteiro?|Você demoraria quantos minutos para ensaiar uma fala curta no microfone?|
+mariages-occasions-112|Quantos minutos você dedicaria a fazer o cabelo antes de uma festa?|Em geral, quantos minutos você levaria para preparar um discurso de padrinho de três minutos?|témoin → padrinho
+mariages-occasions-113|Quantos minutos você levaria para escolher flores para um pequeno arranjo de mesa?|Quanto tempo, em minutos, você reservaria para escolher uma roupa para um casamento no campo?|
+mariages-occasions-114|Quantos minutos você gastaria para montar a decoração num salão?|Você demoraria quantos minutos para escrever uma mensagem no livro de assinaturas?|
+mariages-occasions-115|Quantos minutos você dedicaria a receber os convidados de uma cerimônia de formatura?|Em geral, quantos minutos você levaria para escolher um presente da lista de casamento?|
+mariages-occasions-116|Quantos minutos você levaria para escrever um convite para uma festa de noivado?|Quanto tempo, em minutos, você reservaria para se arrumar antes de uma cerimônia no começo da tarde?|
+mariages-occasions-117|Quantos minutos você gastaria para escolher o tipo de cardápio de uma festa?|Você demoraria quantos minutos para fazer o mapa de mesas para vinte convidados?|
+mariages-occasions-118|Quantos minutos você dedicaria a decorar o carro da cerimônia?|Em geral, quantos minutos você levaria para escolher as músicas de entrada de uma festa?|
+mariages-occasions-119|Quantos minutos você levaria para montar um cantinho de fotos para os convidados?|Quanto tempo, em minutos, você reservaria para organizar uma sessão de fotos em família?|
+mariages-occasions-120|Quantos minutos você gastaria para ensaiar uma fala curta no microfone?|Você demoraria quantos minutos para escrever uma mensagem de parabéns para os noivos?|
+mariages-occasions-121|Quantos minutos você gastaria para preparar um discurso de padrinho de três minutos?|Você demoraria quantos minutos para achar o caminho até o salão do casamento?|témoin → padrinho
+mariages-occasions-122|Quantos minutos você dedicaria a escolher uma roupa para um casamento no campo?|Em geral, quantos minutos você levaria para arrumar uma bolsa para uma cerimônia que dura o dia inteiro?|
+mariages-occasions-123|Quantos minutos você levaria para escrever uma mensagem no livro de assinaturas?|Quanto tempo, em minutos, você reservaria para fazer o cabelo antes de uma festa?|
+mariages-occasions-124|Quantos minutos você gastaria para escolher um presente da lista de casamento?|Você demoraria quantos minutos para escolher flores para um pequeno arranjo de mesa?|
+mariages-occasions-125|Quantos minutos você dedicaria a se arrumar antes de uma cerimônia no começo da tarde?|Em geral, quantos minutos você levaria para montar a decoração num salão?|
+mariages-occasions-126|A quem você pediria conselho para preparar um discurso de padrinho original?|Para quem você ligaria para achar um bom DJ para uma festa de família?|témoin → padrinho
+mariages-occasions-127|Quem você contataria primeiro para saber o traje esperado para uma cerimônia?|A quem você pediria uma opinião para cuidar das crianças durante os discursos?|
+mariages-occasions-128|A quem você recorreria para achar um fotógrafo confiável para um casamento?|Com quem você falaria primeiro para confirmar os horários de uma cerimônia religiosa?|
+mariages-occasions-129|A quem você pediria conselho para organizar o transporte dos convidados sem carro?|Para quem você ligaria para escolher uma música para a entrada dos noivos?|
+mariages-occasions-130|Quem você contataria primeiro para escolher o vinho certo para uma refeição de festa?|A quem você pediria uma opinião para pedir conselhos sobre um mapa de mesas complicado?|
+mariages-occasions-131|A quem você recorreria para reservar um florista especializado em casamentos?|Com quem você falaria primeiro para encontrar um plano B em caso de chuva?|
+mariages-occasions-132|A quem você pediria conselho para achar um salão para uma formatura?|Para quem você ligaria para escolher um terno adequado para uma cerimônia de verão?|
+mariages-occasions-133|Quem você contataria primeiro para fazer uma decoração floral com pouco dinheiro?|A quem você pediria uma opinião para cuidar da chegada de convidados que vêm de longe?|
+mariages-occasions-134|A quem você recorreria para saber as alergias dos convidados antes da festa?|Com quem você falaria primeiro para preparar uma surpresa para os futuros noivos?|
+mariages-occasions-135|A quem você pediria conselho para achar um bom DJ para uma festa de família?|Para quem você ligaria para coordenar a comida de uma festa de família?|
+mariages-occasions-136|Quem você contataria primeiro para cuidar das crianças durante os discursos?|A quem você pediria uma opinião para preparar um brunch no dia seguinte a um casamento?|
+mariages-occasions-137|A quem você recorreria para confirmar os horários de uma cerimônia religiosa?|Com quem você falaria primeiro para preparar um discurso de padrinho original?|témoin → padrinho
+mariages-occasions-138|A quem você pediria conselho para escolher uma música para a entrada dos noivos?|Para quem você ligaria para saber o traje esperado para uma cerimônia?|
+mariages-occasions-139|Quem você contataria primeiro para pedir conselhos sobre um mapa de mesas complicado?|A quem você pediria uma opinião para achar um fotógrafo confiável para um casamento?|
+mariages-occasions-140|A quem você recorreria para encontrar um plano B em caso de chuva?|Com quem você falaria primeiro para organizar o transporte dos convidados sem carro?|
+mariages-occasions-141|A quem você pediria conselho para escolher um terno adequado para uma cerimônia de verão?|Para quem você ligaria para escolher o vinho certo para uma refeição de festa?|
+mariages-occasions-142|Quem você contataria primeiro para cuidar da chegada de convidados que vêm de longe?|A quem você pediria uma opinião para reservar um florista especializado em casamentos?|
+mariages-occasions-143|A quem você recorreria para preparar uma surpresa para os futuros noivos?|Com quem você falaria primeiro para achar um salão para uma formatura?|
+mariages-occasions-144|A quem você pediria conselho para coordenar a comida de uma festa de família?|Para quem você ligaria para fazer uma decoração floral com pouco dinheiro?|
+mariages-occasions-145|Quem você contataria primeiro para preparar um brunch no dia seguinte a um casamento?|A quem você pediria uma opinião para saber as alergias dos convidados antes da festa?|
+mariages-occasions-146|Quem você contataria primeiro para preparar um discurso de padrinho original?|A quem você pediria uma opinião para achar um bom DJ para uma festa de família?|témoin → padrinho
+mariages-occasions-147|A quem você recorreria para saber o traje esperado para uma cerimônia?|Com quem você falaria primeiro para cuidar das crianças durante os discursos?|
+mariages-occasions-148|A quem você pediria conselho para achar um fotógrafo confiável para um casamento?|Para quem você ligaria para confirmar os horários de uma cerimônia religiosa?|
+mariages-occasions-149|Quem você contataria primeiro para organizar o transporte dos convidados sem carro?|A quem você pediria uma opinião para escolher uma música para a entrada dos noivos?|
+mariages-occasions-150|A quem você recorreria para escolher o vinho certo para uma refeição de festa?|Com quem você falaria primeiro para pedir conselhos sobre um mapa de mesas complicado?|
+mariages-occasions-151|Aonde você iria para organizar uma festa de família para trinta pessoas?|Em que lugar você gostaria de comprar flores frescas para uma festa?|
+mariages-occasions-152|Em que lugar você preferiria celebrar um casamento civil só com os mais próximos?|Onde você decidiria hospedar convidados vindos de outras cidades?|province → outras cidades
+mariages-occasions-153|Onde você gostaria de tirar fotos da cerimônia em caso de chuva?|Onde você escolheria fazer um discurso sem incomodar os outros?|
+mariages-occasions-154|Aonde você iria para receber convidados para um brunch no dia seguinte?|Em que lugar você gostaria de fazer um grupo de sessenta pessoas dançar?|
+mariages-occasions-155|Em que lugar você preferiria encontrar um vestido de festa com ajustes incluídos?|Onde você decidiria comemorar uma formatura com as pessoas mais próximas?|
+mariages-occasions-156|Onde você gostaria de fazer um teste de penteado antes do casamento?|Onde você escolheria organizar uma cerimônia simbólica ao ar livre?|
+mariages-occasions-157|Aonde você iria para fazer um ensaio fotográfico de noivado?|Em que lugar você gostaria de preparar uma festa de casamento no inverno?|
+mariages-occasions-158|Em que lugar você preferiria reunir os amigos para uma despedida de solteiro?|Onde você decidiria montar um cantinho de fotos para os convidados?|
+mariages-occasions-159|Onde você gostaria de encomendar um bolo para cinquenta convidados?|Onde você escolheria provar vários cardápios antes de fechar uma reserva?|
+mariages-occasions-160|Aonde você iria para comprar flores frescas para uma festa?|Em que lugar você gostaria de mandar ajustar um terno comprado pela internet?|
+mariages-occasions-161|Em que lugar você preferiria hospedar convidados vindos de outras cidades?|Onde você decidiria comemorar um aniversário de casamento importante?|province → outras cidades
+mariages-occasions-162|Onde você gostaria de fazer um discurso sem incomodar os outros?|Onde você escolheria organizar uma festa de família para trinta pessoas?|
+mariages-occasions-163|Aonde você iria para fazer um grupo de sessenta pessoas dançar?|Em que lugar você gostaria de celebrar um casamento civil só com os mais próximos?|
+mariages-occasions-164|Em que lugar você preferiria comemorar uma formatura com as pessoas mais próximas?|Onde você decidiria tirar fotos da cerimônia em caso de chuva?|
+mariages-occasions-165|Onde você gostaria de organizar uma cerimônia simbólica ao ar livre?|Onde você escolheria receber convidados para um brunch no dia seguinte?|
+mariages-occasions-166|Aonde você iria para preparar uma festa de casamento no inverno?|Em que lugar você gostaria de encontrar um vestido de festa com ajustes incluídos?|
+mariages-occasions-167|Em que lugar você preferiria montar um cantinho de fotos para os convidados?|Onde você decidiria fazer um teste de penteado antes do casamento?|
+mariages-occasions-168|Onde você gostaria de provar vários cardápios antes de fechar uma reserva?|Onde você escolheria fazer um ensaio fotográfico de noivado?|
+mariages-occasions-169|Aonde você iria para mandar ajustar um terno comprado pela internet?|Em que lugar você gostaria de reunir os amigos para uma despedida de solteiro?|
+mariages-occasions-170|Em que lugar você preferiria comemorar um aniversário de casamento importante?|Onde você decidiria encomendar um bolo para cinquenta convidados?|
+mariages-occasions-171|Em que lugar você preferiria organizar uma festa de família para trinta pessoas?|Onde você decidiria comprar flores frescas para uma festa?|
+mariages-occasions-172|Onde você gostaria de celebrar um casamento civil só com os mais próximos?|Onde você escolheria hospedar convidados vindos de outras cidades?|province → outras cidades
+mariages-occasions-173|Aonde você iria para tirar fotos da cerimônia em caso de chuva?|Em que lugar você gostaria de fazer um discurso sem incomodar os outros?|
+mariages-occasions-174|Em que lugar você preferiria receber convidados para um brunch no dia seguinte?|Onde você decidiria fazer um grupo de sessenta pessoas dançar?|
+mariages-occasions-175|Onde você gostaria de encontrar um vestido de festa com ajustes incluídos?|Onde você escolheria comemorar uma formatura com as pessoas mais próximas?|
+mariages-occasions-176|Que objeto você levaria para fazer um discurso sem perder o fio da meada?|Que acessório você usaria para fazer uma surpresa durante um jantar de festa?|
+mariages-occasions-177|Que acessório você escolheria para guardar as lembranças de uma festa?|Com que objeto você gostaria de decorar as mesas sem atrapalhar os convidados?|
+mariages-occasions-178|Que objeto te pareceria indispensável para organizar os lugares numa refeição de casamento?|Que objeto você pegaria primeiro para passar fotos de recordação num telão?|
+mariages-occasions-179|Que objeto você levaria para distrair crianças pequenas durante os discursos?|Que acessório você usaria para carregar vários buquês de flores?|
+mariages-occasions-180|Que acessório você escolheria para consertar um pequeno rasgo na roupa antes de uma cerimônia?|Com que objeto você gostaria de entregar um presente coletivo durante uma festa?|
+mariages-occasions-181|Que objeto te pareceria indispensável para mostrar o cardápio na entrada de um salão?|Que objeto você pegaria primeiro para gravar um discurso importante?|
+mariages-occasions-182|Que objeto você levaria para recolher as mensagens dos convidados?|Que acessório você usaria para guiar os convidados até um salão de festas?|
+mariages-occasions-183|Que acessório você escolheria para transportar um bolo frágil de carro?|Com que objeto você gostaria de preparar um cantinho de fotos para os convidados?|
+mariages-occasions-184|Que objeto te pareceria indispensável para proteger um traje de cerimônia da chuva?|Que objeto você pegaria primeiro para guardar as alianças em lugar seguro antes da cerimônia?|
+mariages-occasions-185|Que objeto você levaria para fazer uma surpresa durante um jantar de festa?|Que acessório você usaria para identificar os lugares à mesa?|
+mariages-occasions-186|Que acessório você escolheria para decorar as mesas sem atrapalhar os convidados?|Com que objeto você gostaria de guardar um par de sapatos reserva durante a festa?|
+mariages-occasions-187|Que objeto te pareceria indispensável para passar fotos de recordação num telão?|Que objeto você pegaria primeiro para fazer um discurso sem perder o fio da meada?|
+mariages-occasions-188|Que objeto você levaria para carregar vários buquês de flores?|Que acessório você usaria para guardar as lembranças de uma festa?|
+mariages-occasions-189|Que acessório você escolheria para entregar um presente coletivo durante uma festa?|Com que objeto você gostaria de organizar os lugares numa refeição de casamento?|
+mariages-occasions-190|Que objeto te pareceria indispensável para gravar um discurso importante?|Que objeto você pegaria primeiro para distrair crianças pequenas durante os discursos?|
+mariages-occasions-191|Que objeto você levaria para guiar os convidados até um salão de festas?|Que acessório você usaria para consertar um pequeno rasgo na roupa antes de uma cerimônia?|
+mariages-occasions-192|Que acessório você escolheria para preparar um cantinho de fotos para os convidados?|Com que objeto você gostaria de mostrar o cardápio na entrada de um salão?|
+mariages-occasions-193|Que objeto te pareceria indispensável para guardar as alianças em lugar seguro antes da cerimônia?|Que objeto você pegaria primeiro para recolher as mensagens dos convidados?|
+mariages-occasions-194|Que objeto você levaria para identificar os lugares à mesa?|Que acessório você usaria para transportar um bolo frágil de carro?|
+mariages-occasions-195|Que acessório você escolheria para guardar um par de sapatos reserva durante a festa?|Com que objeto você gostaria de proteger um traje de cerimônia da chuva?|
+mariages-occasions-196|Que acessório você escolheria para fazer um discurso sem perder o fio da meada?|Com que objeto você gostaria de fazer uma surpresa durante um jantar de festa?|
+mariages-occasions-197|Que objeto te pareceria indispensável para guardar as lembranças de uma festa?|Que objeto você pegaria primeiro para decorar as mesas sem atrapalhar os convidados?|
+mariages-occasions-198|Que objeto você levaria para organizar os lugares numa refeição de casamento?|Que acessório você usaria para passar fotos de recordação num telão?|
+mariages-occasions-199|Que acessório você escolheria para distrair crianças pequenas durante os discursos?|Com que objeto você gostaria de carregar vários buquês de flores?|
+mariages-occasions-200|Que objeto te pareceria indispensável para consertar um pequeno rasgo na roupa antes de uma cerimônia?|Que objeto você pegaria primeiro para entregar um presente coletivo durante uma festa?|
+restaurants-service-001|Quanto você pagaria no máximo por um almoço executivo com entrada e prato principal num bistrô de São Paulo?|Que preço te pareceria razoável para uma salada completa grande no almoço?|brasserie parisienne → bistrô de São Paulo
+restaurants-service-002|Quanto você estaria disposto a gastar com uma pizza margherita num restaurante italiano?|Em reais, qual seria seu limite para um prato de massa fresca numa cantina italiana?|euros → reais
+restaurants-service-003|Quanto você separaria no orçamento para um hambúrguer com fritas num restaurante do bairro?|A partir de quanto você acharia caro demais um jantar a dois com prato principal e sobremesa, sem bebida alcoólica?|
+restaurants-service-004|Quanto você pagaria no máximo por um café expresso longo servido numa mesinha na calçada no centro de São Paulo?|Que preço te pareceria razoável para uma barca de sushi com vinte peças?|Paris → São Paulo
+restaurants-service-005|Quanto você estaria disposto a gastar com um brunch completo para uma pessoa?|Em reais, qual seria seu limite para uma sopa e um sanduíche num café?|euros → reais
+restaurants-service-006|Quanto você separaria no orçamento para um menu degustação de cinco pratos sem bebidas?|A partir de quanto você acharia caro demais uma taça de sorvete com três sabores na área externa?|
+restaurants-service-007|Quanto você pagaria no máximo pela entrega em casa de dois pratos quentes?|Que preço te pareceria razoável para uma porção de batata frita caseira para dividir?|
+restaurants-service-008|Quanto você estaria disposto a gastar com uma garrafa de um litro de água com gás no restaurante?|Em reais, qual seria seu limite para um bife vegetal com acompanhamento no restaurante?|euros → reais
+restaurants-service-009|Quanto você separaria no orçamento para uma sobremesa caseira num bistrô?|A partir de quanto você acharia caro demais um combo de café da manhã com bebida quente e croissant?|brasserie → bistrô
+restaurants-service-010|Quanto você pagaria no máximo por uma salada completa grande no almoço?|Que preço te pareceria razoável para um prato de peixe do dia com legumes?|
+restaurants-service-011|Quanto você estaria disposto a gastar com um prato de massa fresca numa cantina italiana?|Em reais, qual seria seu limite para uma refeição para viagem para duas pessoas?|euros → reais
+restaurants-service-012|Quanto você separaria no orçamento para um jantar a dois com prato principal e sobremesa, sem bebida alcoólica?|A partir de quanto você acharia caro demais um almoço executivo com entrada e prato principal num bistrô de São Paulo?|brasserie parisienne → bistrô de São Paulo
+restaurants-service-013|Quanto você pagaria no máximo por uma barca de sushi com vinte peças?|Que preço te pareceria razoável para uma pizza margherita num restaurante italiano?|
+restaurants-service-014|Quanto você estaria disposto a gastar com uma sopa e um sanduíche num café?|Em reais, qual seria seu limite para um hambúrguer com fritas num restaurante do bairro?|euros → reais
+restaurants-service-015|Quanto você separaria no orçamento para uma taça de sorvete com três sabores na área externa?|A partir de quanto você acharia caro demais um café expresso longo servido numa mesinha na calçada no centro de São Paulo?|Paris → São Paulo
+restaurants-service-016|Quanto você pagaria no máximo por uma porção de batata frita caseira para dividir?|Que preço te pareceria razoável para um brunch completo para uma pessoa?|
+restaurants-service-017|Quanto você estaria disposto a gastar com um bife vegetal com acompanhamento no restaurante?|Em reais, qual seria seu limite para um menu degustação de cinco pratos sem bebidas?|euros → reais
+restaurants-service-018|Quanto você separaria no orçamento para um combo de café da manhã com bebida quente e croissant?|A partir de quanto você acharia caro demais a entrega em casa de dois pratos quentes?|
+restaurants-service-019|Quanto você pagaria no máximo por um prato de peixe do dia com legumes?|Que preço te pareceria razoável para uma garrafa de um litro de água com gás no restaurante?|
+restaurants-service-020|Quanto você estaria disposto a gastar com uma refeição para viagem para duas pessoas?|Em reais, qual seria seu limite para uma sobremesa caseira num bistrô?|euros → reais, brasserie → bistrô
+restaurants-service-021|Quanto você estaria disposto a gastar com um almoço executivo com entrada e prato principal num bistrô de São Paulo?|Em reais, qual seria seu limite para uma salada completa grande no almoço?|euros → reais, brasserie parisienne → bistrô de São Paulo
+restaurants-service-022|Quanto você separaria no orçamento para uma pizza margherita num restaurante italiano?|A partir de quanto você acharia caro demais um prato de massa fresca numa cantina italiana?|
+restaurants-service-023|Quanto você pagaria no máximo por um hambúrguer com fritas num restaurante do bairro?|Que preço te pareceria razoável para um jantar a dois com prato principal e sobremesa, sem bebida alcoólica?|
+restaurants-service-024|Quanto você estaria disposto a gastar com um café expresso longo servido numa mesinha na calçada no centro de São Paulo?|Em reais, qual seria seu limite para uma barca de sushi com vinte peças?|euros → reais, Paris → São Paulo
+restaurants-service-025|Quanto você separaria no orçamento para um brunch completo para uma pessoa?|A partir de quanto você acharia caro demais uma sopa e um sanduíche num café?|
+restaurants-service-026|O que você responderia se o garçom trouxesse um prato diferente do que você pediu?|Como você responderia se um vendedor te pedisse para pagar duas vezes pelo mesmo produto?|
+restaurants-service-027|Qual seria sua primeira frase se o restaurante te anunciasse de repente uma espera de uma hora?|O que você diria se o entregador deixasse um pedido na porta errada?|
+restaurants-service-028|O que você falaria se o garçom te cobrasse uma sobremesa que você não pediu?|Que palavras você usaria se um comerciante se recusasse a cobrar o preço anunciado?|
+restaurants-service-029|O que você responderia se o café servido estivesse completamente frio?|Como você responderia se um garçom te dissesse que a área externa fecha em dez minutos?|
+restaurants-service-030|Qual seria sua primeira frase se um funcionário te pedisse para liberar a mesa antes da sobremesa?|O que você diria se a equipe dissesse que sua reserva não existe?|
+restaurants-service-031|O que você falaria se o garçom te avisasse que o prato que você escolheu acabou?|Que palavras você usaria se um funcionário te pedisse para enfrentar uma fila longa de novo apesar da sua senha?|
+restaurants-service-032|O que você responderia se o dono do restaurante se recusasse a fazer um reembolso depois de um erro evidente?|Como você responderia se o restaurante te oferecesse uma sobremesa para se desculpar pelo atraso?|
+restaurants-service-033|Qual seria sua primeira frase se a equipe esquecesse a alergia que você avisou antes de fazer o pedido?|O que você diria se um garçom derramasse um pouco de água no seu casaco?|
+restaurants-service-034|O que você falaria se um garçom te oferecesse um adicional que você não pediu?|Que palavras você usaria se o dono do restaurante te apresentasse um cardápio diferente do publicado na internet?|
+restaurants-service-035|O que você responderia se um vendedor te pedisse para pagar duas vezes pelo mesmo produto?|Como você responderia se um vendedor afirmasse que um produto com defeito é “normal”?|
+restaurants-service-036|Qual seria sua primeira frase se o entregador deixasse um pedido na porta errada?|O que você diria se um garçom te pedisse uma opinião sendo que você não gostou do prato?|
+restaurants-service-037|O que você falaria se um comerciante se recusasse a cobrar o preço anunciado?|Que palavras você usaria se o garçom trouxesse um prato diferente do que você pediu?|
+restaurants-service-038|O que você responderia se um garçom te dissesse que a área externa fecha em dez minutos?|Como você responderia se o restaurante te anunciasse de repente uma espera de uma hora?|
+restaurants-service-039|Qual seria sua primeira frase se a equipe dissesse que sua reserva não existe?|O que você diria se o garçom te cobrasse uma sobremesa que você não pediu?|
+restaurants-service-040|O que você falaria se um funcionário te pedisse para enfrentar uma fila longa de novo apesar da sua senha?|Que palavras você usaria se o café servido estivesse completamente frio?|
+restaurants-service-041|O que você responderia se o restaurante te oferecesse uma sobremesa para se desculpar pelo atraso?|Como você responderia se um funcionário te pedisse para liberar a mesa antes da sobremesa?|
+restaurants-service-042|Qual seria sua primeira frase se um garçom derramasse um pouco de água no seu casaco?|O que você diria se o garçom te avisasse que o prato que você escolheu acabou?|
+restaurants-service-043|O que você falaria se o dono do restaurante te apresentasse um cardápio diferente do publicado na internet?|Que palavras você usaria se o dono do restaurante se recusasse a fazer um reembolso depois de um erro evidente?|
+restaurants-service-044|O que você responderia se um vendedor afirmasse que um produto com defeito é “normal”?|Como você responderia se a equipe esquecesse a alergia que você avisou antes de fazer o pedido?|
+restaurants-service-045|Qual seria sua primeira frase se um garçom te pedisse uma opinião sendo que você não gostou do prato?|O que você diria se um garçom te oferecesse um adicional que você não pediu?|
+restaurants-service-046|Qual seria sua primeira frase se o garçom trouxesse um prato diferente do que você pediu?|O que você diria se um vendedor te pedisse para pagar duas vezes pelo mesmo produto?|
+restaurants-service-047|O que você falaria se o restaurante te anunciasse de repente uma espera de uma hora?|Que palavras você usaria se o entregador deixasse um pedido na porta errada?|
+restaurants-service-048|O que você responderia se o garçom te cobrasse uma sobremesa que você não pediu?|Como você responderia se um comerciante se recusasse a cobrar o preço anunciado?|
+restaurants-service-049|Qual seria sua primeira frase se o café servido estivesse completamente frio?|O que você diria se um garçom te dissesse que a área externa fecha em dez minutos?|
+restaurants-service-050|O que você falaria se um funcionário te pedisse para liberar a mesa antes da sobremesa?|Que palavras você usaria se a equipe dissesse que sua reserva não existe?|
+restaurants-service-051|O que você faria primeiro se encontrasse um fio de cabelo no seu prato no restaurante?|O que você decidiria fazer antes de tudo se percebesse um erro de preço no caixa do supermercado?|
+restaurants-service-052|Qual seria seu primeiro reflexo se seu pedido entregue viesse sem a sobremesa que você pagou?|Como você agiria primeiro se sua refeição, pedida sem um ingrediente, viesse com ele no fim das contas?|
+restaurants-service-053|Por onde você começaria se você chegasse e o restaurante tivesse perdido sua reserva?|Qual seria sua primeira ação se o restaurante estivesse lotado apesar de uma confirmação por e-mail?|
+restaurants-service-054|O que você faria primeiro se a conta tivesse quatro bebidas em vez de duas?|O que você decidiria fazer antes de tudo se um garçom trouxesse o prato principal antes da entrada?|
+restaurants-service-055|Qual seria seu primeiro reflexo se seu prato chegasse frio depois de quarenta minutos de espera?|Como você agiria primeiro se seu café para viagem derramasse por causa de uma tampa mal fechada?|
+restaurants-service-056|Por onde você começaria se um restaurante avisasse, depois da refeição, que só aceita dinheiro?|Qual seria sua primeira ação se seu cupom fiscal mostrasse um desconto que não foi aplicado?|
+restaurants-service-057|O que você faria primeiro se recebesse um produto quebrado numa encomenda nova?|O que você decidiria fazer antes de tudo se uma entrega chegasse com uma hora de atraso?|
+restaurants-service-058|Qual seria seu primeiro reflexo se sua encomenda aparecesse como entregue mas você não tivesse recebido nada?|Como você agiria primeiro se percebesse que um produto que você comprou está com a validade vencida?|
+restaurants-service-059|Por onde você começaria se a maquininha de cartão mostrasse a transação duas vezes?|Qual seria sua primeira ação se o garçom te trouxesse a conta da mesa errada?|
+restaurants-service-060|O que você faria primeiro se percebesse um erro de preço no caixa do supermercado?|O que você decidiria fazer antes de tudo se um comerciante encontrasse a carteira que você esqueceu no dia anterior?|
+restaurants-service-061|Qual seria seu primeiro reflexo se sua refeição, pedida sem um ingrediente, viesse com ele no fim das contas?|Como você agiria primeiro se o cardápio anunciasse um prato que, no fim, não está mais disponível?|
+restaurants-service-062|Por onde você começaria se o restaurante estivesse lotado apesar de uma confirmação por e-mail?|Qual seria sua primeira ação se encontrasse um fio de cabelo no seu prato no restaurante?|
+restaurants-service-063|O que você faria primeiro se um garçom trouxesse o prato principal antes da entrada?|O que você decidiria fazer antes de tudo se seu pedido entregue viesse sem a sobremesa que você pagou?|
+restaurants-service-064|Qual seria seu primeiro reflexo se seu café para viagem derramasse por causa de uma tampa mal fechada?|Como você agiria primeiro se você chegasse e o restaurante tivesse perdido sua reserva?|
+restaurants-service-065|Por onde você começaria se seu cupom fiscal mostrasse um desconto que não foi aplicado?|Qual seria sua primeira ação se a conta tivesse quatro bebidas em vez de duas?|
+restaurants-service-066|O que você faria primeiro se uma entrega chegasse com uma hora de atraso?|O que você decidiria fazer antes de tudo se seu prato chegasse frio depois de quarenta minutos de espera?|
+restaurants-service-067|Qual seria seu primeiro reflexo se percebesse que um produto que você comprou está com a validade vencida?|Como você agiria primeiro se um restaurante avisasse, depois da refeição, que só aceita dinheiro?|
+restaurants-service-068|Por onde você começaria se o garçom te trouxesse a conta da mesa errada?|Qual seria sua primeira ação se recebesse um produto quebrado numa encomenda nova?|
+restaurants-service-069|O que você faria primeiro se um comerciante encontrasse a carteira que você esqueceu no dia anterior?|O que você decidiria fazer antes de tudo se sua encomenda aparecesse como entregue mas você não tivesse recebido nada?|
+restaurants-service-070|Qual seria seu primeiro reflexo se o cardápio anunciasse um prato que, no fim, não está mais disponível?|Como você agiria primeiro se a maquininha de cartão mostrasse a transação duas vezes?|
+restaurants-service-071|Qual seria seu primeiro reflexo se encontrasse um fio de cabelo no seu prato no restaurante?|Como você agiria primeiro se percebesse um erro de preço no caixa do supermercado?|
+restaurants-service-072|Por onde você começaria se seu pedido entregue viesse sem a sobremesa que você pagou?|Qual seria sua primeira ação se sua refeição, pedida sem um ingrediente, viesse com ele no fim das contas?|
+restaurants-service-073|O que você faria primeiro se chegasse e o restaurante tivesse perdido sua reserva?|O que você decidiria fazer antes de tudo se o restaurante estivesse lotado apesar de uma confirmação por e-mail?|
+restaurants-service-074|Qual seria seu primeiro reflexo se a conta tivesse quatro bebidas em vez de duas?|Como você agiria primeiro se um garçom trouxesse o prato principal antes da entrada?|
+restaurants-service-075|Por onde você começaria se seu prato chegasse frio depois de quarenta minutos de espera?|Qual seria sua primeira ação se seu café para viagem derramasse por causa de uma tampa mal fechada?|
+restaurants-service-076|Você escolheria um restaurantezinho muito bom mas barulhento ou um restaurante tranquilo mas comum?|Se só pudesse escolher uma opção, você ficaria com um restaurante famoso ou um lugarzinho pouco frequentado?|
+restaurants-service-077|Entre uma área externa ensolarada e um salão confortável com ar-condicionado, o que você preferiria?|Qual dos dois te atrai mais: um cardápio curto que muda sempre ou um cardápio grande e fixo?|
+restaurants-service-078|Se tivesse que decidir, seria o prato do dia ou escolher à la carte?|O que você priorizaria: um garçom que dá muitas sugestões ou um garçom que te deixa escolher em paz?|
+restaurants-service-079|Você escolheria um atendimento muito rápido ou um atendimento mais atencioso?|Se só pudesse escolher uma opção, você ficaria com uma pizzaria tradicional ou um restaurante de massas frescas?|
+restaurants-service-080|Entre comer no local e pedir para viagem, o que você preferiria?|Qual dos dois te atrai mais: pagar no caixa ou pagar direto na mesa?|
+restaurants-service-081|Se tivesse que decidir, seria uma cozinha aberta ou uma cozinha escondida?|O que você priorizaria: uma mesa perto da janela ou uma mesa no fundo do salão?|
+restaurants-service-082|Você escolheria um brunch doce ou um brunch salgado?|Se só pudesse escolher uma opção, você ficaria com entrada e prato principal ou prato principal e sobremesa?|
+restaurants-service-083|Entre pratos para dividir e cada um com seu prato, o que você preferiria?|Qual dos dois te atrai mais: uma entrega rápida mas cara ou retirar a pé de graça?|
+restaurants-service-084|Se tivesse que decidir, seria reservar com vários dias de antecedência ou decidir o restaurante na mesma noite?|O que você priorizaria: uma refeição simples com produtos locais ou um menu bem elaborado?|
+restaurants-service-085|Você escolheria um restaurante famoso ou um lugarzinho pouco frequentado?|Se só pudesse escolher uma opção, você ficaria com um almoço cedo ou um jantar tarde?|
+restaurants-service-086|Entre um cardápio curto que muda sempre e um cardápio grande e fixo, o que você preferiria?|Qual dos dois te atrai mais: um restaurante onde você conhece a equipe ou um lugar novo para descobrir?|
+restaurants-service-087|Se tivesse que decidir, seria um garçom que dá muitas sugestões ou um garçom que te deixa escolher em paz?|O que você priorizaria: um restaurantezinho muito bom mas barulhento ou um restaurante tranquilo mas comum?|
+restaurants-service-088|Você escolheria uma pizzaria tradicional ou um restaurante de massas frescas?|Se só pudesse escolher uma opção, você ficaria com uma área externa ensolarada ou um salão confortável com ar-condicionado?|
+restaurants-service-089|Entre pagar no caixa e pagar direto na mesa, o que você preferiria?|Qual dos dois te atrai mais: o prato do dia ou escolher à la carte?|
+restaurants-service-090|Se tivesse que decidir, seria uma mesa perto da janela ou uma mesa no fundo do salão?|O que você priorizaria: um atendimento muito rápido ou um atendimento mais atencioso?|
+restaurants-service-091|Você escolheria entrada e prato principal ou prato principal e sobremesa?|Se só pudesse escolher uma opção, seria comer no local ou pedir para viagem?|
+restaurants-service-092|Entre uma entrega rápida mas cara e retirar a pé de graça, o que você preferiria?|Qual dos dois te atrai mais: uma cozinha aberta ou uma cozinha escondida?|
+restaurants-service-093|Se tivesse que decidir, seria uma refeição simples com produtos locais ou um menu bem elaborado?|O que você priorizaria: um brunch doce ou um brunch salgado?|
+restaurants-service-094|Você escolheria um almoço cedo ou um jantar tarde?|Se só pudesse escolher uma opção, você ficaria com pratos para dividir ou cada um com seu prato?|
+restaurants-service-095|Entre um restaurante onde você conhece a equipe e um lugar novo para descobrir, o que você preferiria?|Qual dos dois te atrai mais: reservar com vários dias de antecedência ou decidir o restaurante na mesma noite?|
+restaurants-service-096|Entre um restaurantezinho muito bom mas barulhento e um restaurante tranquilo mas comum, o que você preferiria?|Qual dos dois te atrai mais: um restaurante famoso ou um lugarzinho pouco frequentado?|
+restaurants-service-097|Se tivesse que decidir, seria uma área externa ensolarada ou um salão confortável com ar-condicionado?|O que você priorizaria: um cardápio curto que muda sempre ou um cardápio grande e fixo?|
+restaurants-service-098|Você escolheria o prato do dia ou escolher à la carte?|Se só pudesse escolher uma opção, você ficaria com um garçom que dá muitas sugestões ou um garçom que te deixa escolher em paz?|
+restaurants-service-099|Entre um atendimento muito rápido e um atendimento mais atencioso, o que você preferiria?|Qual dos dois te atrai mais: uma pizzaria tradicional ou um restaurante de massas frescas?|
+restaurants-service-100|Se tivesse que decidir, seria comer no local ou pedir para viagem?|O que você priorizaria: pagar no caixa ou pagar direto na mesa?|
+restaurants-service-101|Quantos minutos você levaria para escolher um prato num cardápio com trinta opções?|Quanto tempo, em minutos, você reservaria para escolher um almoço executivo antes do trabalho?|
+restaurants-service-102|Quantos minutos você gastaria para decidir um restaurante para jantar em quatro?|Você demoraria quantos minutos para escolher um prato adequado a uma alergia informada?|
+restaurants-service-103|Quantos minutos você dedicaria a esperar antes de chamar o garçom de novo para pedir a conta?|Em geral, quantos minutos você levaria para esperar um prato que deveria ter chegado há trinta minutos?|
+restaurants-service-104|Quantos minutos você levaria para conferir a conta de um grupo de seis pessoas?|Quanto tempo, em minutos, você reservaria para explicar um erro na entrega para o atendimento ao cliente?|
+restaurants-service-105|Quantos minutos você gastaria para comparar dois cardápios de restaurante na internet?|Você demoraria quantos minutos para conferir um reembolso num aplicativo?|
+restaurants-service-106|Quantos minutos você dedicaria a escolher uma sobremesa depois de uma refeição farta?|Em geral, quantos minutos você levaria para comparar os preços das comidas para viagem perto de você?|
+restaurants-service-107|Quantos minutos você levaria para fazer uma reclamação educada por um pedido incompleto?|Quanto tempo, em minutos, você reservaria para montar um pedido de comida para cinco pessoas?|
+restaurants-service-108|Quantos minutos você gastaria para fazer o pedido num café lotado?|Você demoraria quantos minutos para achar o número de uma reserva perdida?|
+restaurants-service-109|Quantos minutos você dedicaria a ler as avaliações antes de reservar um restaurante?|Em geral, quantos minutos você levaria para escrever uma avaliação construtiva depois de um atendimento ruim?|
+restaurants-service-110|Quantos minutos você levaria para escolher um almoço executivo antes do trabalho?|Quanto tempo, em minutos, você reservaria para esperar na porta de um bistrô sem reserva?|brasserie → bistrô
+restaurants-service-111|Quantos minutos você gastaria para escolher um prato adequado a uma alergia informada?|Você demoraria quantos minutos para escolher uma bebida para acompanhar um prato apimentado?|
+restaurants-service-112|Quantos minutos você dedicaria a esperar um prato que deveria ter chegado há trinta minutos?|Em geral, quantos minutos você levaria para escolher um prato num cardápio com trinta opções?|
+restaurants-service-113|Quantos minutos você levaria para explicar um erro na entrega para o atendimento ao cliente?|Quanto tempo, em minutos, você reservaria para decidir um restaurante para jantar em quatro?|
+restaurants-service-114|Quantos minutos você gastaria para conferir um reembolso num aplicativo?|Você demoraria quantos minutos para esperar antes de chamar o garçom de novo para pedir a conta?|
+restaurants-service-115|Quantos minutos você dedicaria a comparar os preços das comidas para viagem perto de você?|Em geral, quantos minutos você levaria para conferir a conta de um grupo de seis pessoas?|
+restaurants-service-116|Quantos minutos você levaria para montar um pedido de comida para cinco pessoas?|Quanto tempo, em minutos, você reservaria para comparar dois cardápios de restaurante na internet?|
+restaurants-service-117|Quantos minutos você gastaria para achar o número de uma reserva perdida?|Você demoraria quantos minutos para escolher uma sobremesa depois de uma refeição farta?|
+restaurants-service-118|Quantos minutos você dedicaria a escrever uma avaliação construtiva depois de um atendimento ruim?|Em geral, quantos minutos você levaria para fazer uma reclamação educada por um pedido incompleto?|
+restaurants-service-119|Quantos minutos você levaria para esperar na porta de um bistrô sem reserva?|Quanto tempo, em minutos, você reservaria para fazer o pedido num café lotado?|brasserie → bistrô
+restaurants-service-120|Quantos minutos você gastaria para escolher uma bebida para acompanhar um prato apimentado?|Você demoraria quantos minutos para ler as avaliações antes de reservar um restaurante?|
+restaurants-service-121|Quantos minutos você gastaria para escolher um prato num cardápio com trinta opções?|Você demoraria quantos minutos para escolher um almoço executivo antes do trabalho?|
+restaurants-service-122|Quantos minutos você dedicaria a decidir um restaurante para jantar em quatro?|Em geral, quantos minutos você levaria para escolher um prato adequado a uma alergia informada?|
+restaurants-service-123|Quantos minutos você levaria para esperar antes de chamar o garçom de novo para pedir a conta?|Quanto tempo, em minutos, você reservaria para esperar um prato que deveria ter chegado há trinta minutos?|
+restaurants-service-124|Quantos minutos você gastaria para conferir a conta de um grupo de seis pessoas?|Você demoraria quantos minutos para explicar um erro na entrega para o atendimento ao cliente?|
+restaurants-service-125|Quantos minutos você dedicaria a comparar dois cardápios de restaurante na internet?|Em geral, quantos minutos você levaria para conferir um reembolso num aplicativo?|
+restaurants-service-126|A quem você pediria conselho para avisar sobre um erro na conta no restaurante?|Para quem você ligaria para saber se um prato tem nozes?|
+restaurants-service-127|Quem você contataria primeiro para pedir um prato sem um alérgeno específico?|A quem você pediria uma opinião para conseguir uma nota fiscal de um almoço de trabalho?|
+restaurants-service-128|A quem você recorreria para conseguir um reembolso depois de uma entrega incompleta?|Com quem você falaria primeiro para consertar um aparelho ainda na garantia?|
+restaurants-service-129|A quem você pediria conselho para achar um bom lugar para um jantar em família?|Para quem você ligaria para organizar uma mesa para doze pessoas?|
+restaurants-service-130|Quem você contataria primeiro para saber a composição exata de uma sobremesa?|A quem você pediria uma opinião para elogiar um atendimento especialmente atencioso?|
+restaurants-service-131|A quem você recorreria para resolver um problema com uma reserva on-line?|Com quem você falaria primeiro para recuperar um objeto esquecido num café?|
+restaurants-service-132|A quem você pediria conselho para pedir a troca de um produto danificado?|Para quem você ligaria para pedir uma alteração no pedido antes do envio?|
+restaurants-service-133|Quem você contataria primeiro para entender uma taxa extra cobrada sem explicação?|A quem você pediria uma opinião para escolher um menu vegetariano para um convidado?|
+restaurants-service-134|A quem você recorreria para escolher um restaurante acessível para cadeira de rodas?|Com quem você falaria primeiro para reclamar um desconto anunciado mas não aplicado?|
+restaurants-service-135|A quem você pediria conselho para saber se um prato tem nozes?|Para quem você ligaria para avisar que um prato está frio?|
+restaurants-service-136|Quem você contataria primeiro para conseguir uma nota fiscal de um almoço de trabalho?|A quem você pediria uma opinião para encomendar um bolo de aniversário no restaurante?|
+restaurants-service-137|A quem você recorreria para consertar um aparelho ainda na garantia?|Com quem você falaria primeiro para avisar sobre um erro na conta no restaurante?|
+restaurants-service-138|A quem você pediria conselho para organizar uma mesa para doze pessoas?|Para quem você ligaria para pedir um prato sem um alérgeno específico?|
+restaurants-service-139|Quem você contataria primeiro para elogiar um atendimento especialmente atencioso?|A quem você pediria uma opinião para conseguir um reembolso depois de uma entrega incompleta?|
+restaurants-service-140|A quem você recorreria para recuperar um objeto esquecido num café?|Com quem você falaria primeiro para achar um bom lugar para um jantar em família?|
+restaurants-service-141|A quem você pediria conselho para pedir uma alteração no pedido antes do envio?|Para quem você ligaria para saber a composição exata de uma sobremesa?|
+restaurants-service-142|Quem você contataria primeiro para escolher um menu vegetariano para um convidado?|A quem você pediria uma opinião para resolver um problema com uma reserva on-line?|
+restaurants-service-143|A quem você recorreria para reclamar um desconto anunciado mas não aplicado?|Com quem você falaria primeiro para pedir a troca de um produto danificado?|
+restaurants-service-144|A quem você pediria conselho para avisar que um prato está frio?|Para quem você ligaria para entender uma taxa extra cobrada sem explicação?|
+restaurants-service-145|Quem você contataria primeiro para encomendar um bolo de aniversário no restaurante?|A quem você pediria uma opinião para escolher um restaurante acessível para cadeira de rodas?|
+restaurants-service-146|Quem você contataria primeiro para avisar sobre um erro na conta no restaurante?|A quem você pediria uma opinião para saber se um prato tem nozes?|
+restaurants-service-147|A quem você recorreria para pedir um prato sem um alérgeno específico?|Com quem você falaria primeiro para conseguir uma nota fiscal de um almoço de trabalho?|
+restaurants-service-148|A quem você pediria conselho para conseguir um reembolso depois de uma entrega incompleta?|Para quem você ligaria para consertar um aparelho ainda na garantia?|
+restaurants-service-149|Quem você contataria primeiro para achar um bom lugar para um jantar em família?|A quem você pediria uma opinião para organizar uma mesa para doze pessoas?|
+restaurants-service-150|A quem você recorreria para saber a composição exata de uma sobremesa?|Com quem você falaria primeiro para elogiar um atendimento especialmente atencioso?|
+restaurants-service-151|Aonde você iria para almoçar rápido antes de uma reunião?|Em que lugar você gostaria de encontrar um restaurante aberto depois das onze da noite?|
+restaurants-service-152|Em que lugar você preferiria comer massa fresca num sábado à noite?|Onde você decidiria fazer uma refeição em família com um carrinho de bebê?|
+restaurants-service-153|Onde você gostaria de levar amigos a um restaurante tranquilo?|Onde você escolheria comer ao ar livre sem reserva numa noite de verão?|
+restaurants-service-154|Aonde você iria para almoçar comida vegetariana perto de uma estação de metrô?|Em que lugar você gostaria de encontrar um amigo para tomar um chocolate quente?|gare → estação de metrô
+restaurants-service-155|Em que lugar você preferiria comprar um bom café para viagem de manhã?|Onde você decidiria fazer uma refeição adequada a uma alergia alimentar?|
+restaurants-service-156|Onde você gostaria de saborear uma sobremesa artesanal no fim da tarde?|Onde você escolheria comemorar uma promoção com um jantar?|
+restaurants-service-157|Aonde você iria para pedir uma barca de sushi para dividir?|Em que lugar você gostaria de encontrar uma padaria que sirva almoço no local?|
+restaurants-service-158|Em que lugar você preferiria tomar um brunch a dois no domingo?|Onde você decidiria pedir um prato quente antes de pegar o metrô?|train → metrô
+restaurants-service-159|Onde você gostaria de comer um peixe do dia num bairro turístico?|Onde você escolheria tomar um chá num lugar tranquilo?|
+restaurants-service-160|Aonde você iria para encontrar um restaurante aberto depois das onze da noite?|Em que lugar você gostaria de jantar com uma pessoa que não come carne?|
+restaurants-service-161|Em que lugar você preferiria fazer uma refeição em família com um carrinho de bebê?|Onde você decidiria comer perto de um cinema antes de uma sessão?|
+restaurants-service-162|Onde você gostaria de comer ao ar livre sem reserva numa noite de verão?|Onde você escolheria almoçar rápido antes de uma reunião?|
+restaurants-service-163|Aonde você iria para encontrar um amigo para tomar um chocolate quente?|Em que lugar você gostaria de comer massa fresca num sábado à noite?|
+restaurants-service-164|Em que lugar você preferiria fazer uma refeição adequada a uma alergia alimentar?|Onde você decidiria levar amigos a um restaurante tranquilo?|
+restaurants-service-165|Onde você gostaria de comemorar uma promoção com um jantar?|Onde você escolheria almoçar comida vegetariana perto de uma estação de metrô?|gare → estação de metrô
+restaurants-service-166|Aonde você iria para encontrar uma padaria que sirva almoço no local?|Em que lugar você gostaria de comprar um bom café para viagem de manhã?|
+restaurants-service-167|Em que lugar você preferiria pedir um prato quente antes de pegar o metrô?|Onde você decidiria saborear uma sobremesa artesanal no fim da tarde?|train → metrô
+restaurants-service-168|Onde você gostaria de tomar um chá num lugar tranquilo?|Onde você escolheria pedir uma barca de sushi para dividir?|
+restaurants-service-169|Aonde você iria para jantar com uma pessoa que não come carne?|Em que lugar você gostaria de tomar um brunch a dois no domingo?|
+restaurants-service-170|Em que lugar você preferiria comer perto de um cinema antes de uma sessão?|Onde você decidiria comer um peixe do dia num bairro turístico?|
+restaurants-service-171|Em que lugar você preferiria almoçar rápido antes de uma reunião?|Onde você decidiria encontrar um restaurante aberto depois das onze da noite?|
+restaurants-service-172|Onde você gostaria de comer massa fresca num sábado à noite?|Onde você escolheria fazer uma refeição em família com um carrinho de bebê?|
+restaurants-service-173|Aonde você iria para levar amigos a um restaurante tranquilo?|Em que lugar você gostaria de comer ao ar livre sem reserva numa noite de verão?|
+restaurants-service-174|Em que lugar você preferiria almoçar comida vegetariana perto de uma estação de metrô?|Onde você decidiria encontrar um amigo para tomar um chocolate quente?|gare → estação de metrô
+restaurants-service-175|Onde você gostaria de comprar um bom café para viagem de manhã?|Onde você escolheria fazer uma refeição adequada a uma alergia alimentar?|
+restaurants-service-176|Que prato você pediria se fosse a um bistrô num domingo na hora do almoço?|No cardápio, que prato você escolheria se entrasse num restaurante mexicano?|brasserie → bistrô
+restaurants-service-177|O que você escolheria de prato se almoçasse num restaurante italiano tradicional?|O que você comeria se fosse a uma pizzaria com forno a lenha?|
+restaurants-service-178|Que prato te agradaria se estivesse num restaurante de peixes?|Que prato você priorizaria se comesse num restaurante tailandês?|
+restaurants-service-179|Que prato você pediria se jantasse num restaurante japonês?|No cardápio, que prato você escolheria se pedisse comida num restaurante vietnamita?|
+restaurants-service-180|O que você escolheria de prato se conhecesse um restaurante vegetariano?|O que você comeria se almoçasse num restaurante grego?|
+restaurants-service-181|Que prato te agradaria se almoçasse à beira-mar?|Que prato você priorizaria se fosse a uma pousada na serra?|
+restaurants-service-182|Que prato você pediria se escolhesse no refeitório do trabalho?|No cardápio, que prato você escolheria se passasse numa sanduicheria artesanal?|
+restaurants-service-183|O que você escolheria de prato se fosse a um restaurante libanês?|O que você comeria se escolhesse um prato num restaurante coreano?|
+restaurants-service-184|Que prato te agradaria se fizesse uma refeição numa creperia?|Que prato você priorizaria se entrasse num restaurante indiano?|crêperie bretonne → creperia
+restaurants-service-185|Que prato você pediria se entrasse num restaurante mexicano?|No cardápio, que prato você escolheria se fosse a um restaurantezinho do bairro?|
+restaurants-service-186|O que você escolheria de prato se fosse a uma pizzaria com forno a lenha?|O que você comeria se jantasse num restaurante mediterrâneo?|
+restaurants-service-187|Que prato te agradaria se comesse num restaurante tailandês?|Que prato você priorizaria se fosse a um bistrô num domingo na hora do almoço?|brasserie → bistrô
+restaurants-service-188|Que prato você pediria se estivesse num restaurante vietnamita?|No cardápio, que prato você escolheria se almoçasse num restaurante italiano tradicional?|
+restaurants-service-189|O que você escolheria de prato se almoçasse num restaurante grego?|O que você comeria se estivesse num restaurante de peixes?|
+restaurants-service-190|Que prato te agradaria se fosse a uma pousada na serra?|Que prato você priorizaria se jantasse num restaurante japonês?|
+restaurants-service-191|Que prato você pediria se passasse numa sanduicheria artesanal?|No cardápio, que prato você escolheria se conhecesse um restaurante vegetariano?|
+restaurants-service-192|O que você escolheria de prato se fosse a um restaurante coreano?|O que você comeria se almoçasse à beira-mar?|
+restaurants-service-193|Que prato te agradaria se entrasse num restaurante indiano?|Que prato você priorizaria se escolhesse no refeitório do trabalho?|
+restaurants-service-194|Que prato você pediria se fosse a um restaurantezinho do bairro?|No cardápio, que prato você escolheria se fosse a um restaurante libanês?|
+restaurants-service-195|O que você escolheria de prato se jantasse num restaurante mediterrâneo?|O que você comeria se fizesse uma refeição numa creperia?|crêperie bretonne → creperia
+restaurants-service-196|O que você escolheria de prato se fosse a um bistrô num domingo na hora do almoço?|O que você comeria se entrasse num restaurante mexicano?|brasserie → bistrô
+restaurants-service-197|Que prato te agradaria se almoçasse num restaurante italiano tradicional?|Que prato você priorizaria se fosse a uma pizzaria com forno a lenha?|
+restaurants-service-198|Que prato você pediria se estivesse num restaurante de peixes?|No cardápio, que prato você escolheria se comesse num restaurante tailandês?|
+restaurants-service-199|O que você escolheria de prato se jantasse num restaurante japonês?|O que você comeria se pedisse comida num restaurante vietnamita?|
+restaurants-service-200|Que prato te agradaria se conhecesse um restaurante vegetariano?|Que prato você priorizaria se almoçasse num restaurante grego?|
