@@ -98,3 +98,102 @@ voisins-societe-097|Si tuvieras que decidir, ¿sería conocer a todos tus vecino
 voisins-societe-098|¿Qué elegirías: un patio interior compartido o un jardín privado más pequeño?|Si solo pudieras elegir una opción, ¿qué cogerías: estar cerca de una calle comercial o estar cerca de un gran parque?|
 voisins-societe-099|Entre una fiesta de vecinos al año y pequeños encuentros frecuentes, ¿qué preferirías?|¿Qué te apetece más: vecinos muy sociables o vecinos muy discretos?|
 voisins-societe-100|Si tuvieras que decidir, ¿sería resolver un problema cara a cara o escribir un mensaje educado?|¿Qué priorizarías: organizar comidas de barrio o conoceros solo de cruzaros en el rellano?|
+voisins-societe-101|¿Cuántos minutos necesitarías para explicarle con calma a un vecino una queja por ruido?|¿Cuánto tiempo, en minutos, calcularías para limpiar una mancha en la escalera comunitaria?|
+voisins-societe-102|¿Cuántos minutos te pasarías rellenando un formulario de incidencia para el administrador de fincas?|¿Cuántos minutos tardarías en saludar a los vecinos en una fiesta del edificio?|syndic → administrador de fincas
+voisins-societe-103|¿Cuántos minutos dedicarías a recoger las cajas de cartón antes de que pase el camión de la basura?|En general, ¿cuántos minutos te llevaría preparar los temas de una junta de vecinos?|
+voisins-societe-104|¿Cuántos minutos necesitarías para recibir a un vecino nuevo con un café?|¿Cuánto tiempo, en minutos, calcularías para limpiar tu balcón después de una tormenta?|
+voisins-societe-105|¿Cuántos minutos te pasarías ayudando a un vecino a cargar con un mueble ligero?|¿Cuántos minutos tardarías en subir un paquete pequeño hasta la última planta?|
+voisins-societe-106|¿Cuántos minutos dedicarías a recoger un paquete en el edificio de al lado?|En general, ¿cuántos minutos te llevaría encontrar el número de un fontanero de guardia?|
+voisins-societe-107|¿Cuántos minutos necesitarías para preparar una nota avisando de unas obras?|¿Cuánto tiempo, en minutos, calcularías para buscar información sobre cómo separar la basura?|
+voisins-societe-108|¿Cuántos minutos te pasarías revisando una fuga bajo el fregadero antes de llamar a alguien?|¿Cuántos minutos tardarías en hablar de una plaza de aparcamiento ocupada?|
+voisins-societe-109|¿Cuántos minutos dedicarías a poner una alfombrilla antirruido debajo de un mueble?|En general, ¿cuántos minutos te llevaría atender a un repartidor cuando el telefonillo no funciona?|
+voisins-societe-110|¿Cuántos minutos necesitarías para limpiar una mancha en la escalera comunitaria?|¿Cuánto tiempo, en minutos, calcularías para preparar un cartel para una fiesta de vecinos?|
+voisins-societe-111|¿Cuántos minutos te pasarías saludando a los vecinos en una fiesta del edificio?|¿Cuántos minutos tardarías en redactar un mensaje claro para tu casero?|
+voisins-societe-112|¿Cuántos minutos dedicarías a preparar los temas de una junta de vecinos?|En general, ¿cuántos minutos te llevaría explicarle con calma a un vecino una queja por ruido?|
+voisins-societe-113|¿Cuántos minutos necesitarías para limpiar tu balcón después de una tormenta?|¿Cuánto tiempo, en minutos, calcularías para rellenar un formulario de incidencia para el administrador de fincas?|syndic → administrador de fincas
+voisins-societe-114|¿Cuántos minutos te pasarías subiendo un paquete pequeño hasta la última planta?|¿Cuántos minutos tardarías en recoger las cajas de cartón antes de que pase el camión de la basura?|
+voisins-societe-115|¿Cuántos minutos dedicarías a encontrar el número de un fontanero de guardia?|En general, ¿cuántos minutos te llevaría recibir a un vecino nuevo con un café?|
+voisins-societe-116|¿Cuántos minutos necesitarías para buscar información sobre cómo separar la basura?|¿Cuánto tiempo, en minutos, calcularías para ayudar a un vecino a cargar con un mueble ligero?|
+voisins-societe-117|¿Cuántos minutos te pasarías hablando de una plaza de aparcamiento ocupada?|¿Cuántos minutos tardarías en recoger un paquete en el edificio de al lado?|
+voisins-societe-118|¿Cuántos minutos dedicarías a atender a un repartidor cuando el telefonillo no funciona?|En general, ¿cuántos minutos te llevaría preparar una nota avisando de unas obras?|
+voisins-societe-119|¿Cuántos minutos necesitarías para preparar un cartel para una fiesta de vecinos?|¿Cuánto tiempo, en minutos, calcularías para revisar una fuga bajo el fregadero antes de llamar a alguien?|
+voisins-societe-120|¿Cuántos minutos te pasarías redactando un mensaje claro para tu casero?|¿Cuántos minutos tardarías en poner una alfombrilla antirruido debajo de un mueble?|
+voisins-societe-121|¿Cuántos minutos te pasarías explicándole con calma a un vecino una queja por ruido?|¿Cuántos minutos tardarías en limpiar una mancha en la escalera comunitaria?|
+voisins-societe-122|¿Cuántos minutos dedicarías a rellenar un formulario de incidencia para el administrador de fincas?|En general, ¿cuántos minutos te llevaría saludar a los vecinos en una fiesta del edificio?|syndic → administrador de fincas
+voisins-societe-123|¿Cuántos minutos necesitarías para recoger las cajas de cartón antes de que pase el camión de la basura?|¿Cuánto tiempo, en minutos, calcularías para preparar los temas de una junta de vecinos?|
+voisins-societe-124|¿Cuántos minutos te pasarías recibiendo a un vecino nuevo con un café?|¿Cuántos minutos tardarías en limpiar tu balcón después de una tormenta?|
+voisins-societe-125|¿Cuántos minutos dedicarías a ayudar a un vecino a cargar con un mueble ligero?|En general, ¿cuántos minutos te llevaría subir un paquete pequeño hasta la última planta?|
+voisins-societe-126|¿A quién pedirías consejo para resolver un desacuerdo por el ruido los domingos?|¿A quién llamarías para pedir permiso para poner un aparcabicis?|
+voisins-societe-127|¿A quién contactarías primero para avisar de una fuga de agua en las zonas comunes?|¿A quién le pedirías opinión para entender un recibo de gastos de comunidad?|
+voisins-societe-128|¿A quién recurrirías para organizar una fiesta de vecinos?|¿Con quién hablarías primero para arreglar el telefonillo de tu piso?|
+voisins-societe-129|¿A quién pedirías consejo para saber en qué horario se pueden hacer obras?|¿A quién llamarías para que te aconsejara sobre aislamiento acústico?|
+voisins-societe-130|¿A quién contactarías primero para conseguir una segunda llave magnética del portal?|¿A quién le pedirías opinión para avisar de un problema de limpieza en el cuarto de basuras?|
+voisins-societe-131|¿A quién recurrirías para pedir que arreglen una luz de las zonas comunes?|¿Con quién hablarías primero para organizar el riego de las plantas de un vecino que está fuera?|
+voisins-societe-132|¿A quién pedirías consejo para resolver un problema con el aparcamiento compartido?|¿A quién llamarías para pedir una ayuda puntual para cargar con un mueble?|
+voisins-societe-133|¿A quién contactarías primero para encontrar al destinatario de un paquete mal entregado?|¿A quién le pedirías opinión para gestionar un conflicto por un animal ruidoso?|
+voisins-societe-134|¿A quién recurrirías para proponer una mejora de la seguridad del portal?|¿Con quién hablarías primero para conocer las normas de uso del patio?|
+voisins-societe-135|¿A quién pedirías consejo para pedir permiso para poner un aparcabicis?|¿A quién llamarías para proponer obras en el portal de un edificio?|
+voisins-societe-136|¿A quién contactarías primero para entender un recibo de gastos de comunidad?|¿A quién le pedirías opinión para saber los horarios de recogida de muebles y trastos viejos?|
+voisins-societe-137|¿A quién recurrirías para arreglar el telefonillo de tu piso?|¿Con quién hablarías primero para resolver un desacuerdo por el ruido los domingos?|
+voisins-societe-138|¿A quién pedirías consejo sobre aislamiento acústico?|¿A quién llamarías para avisar de una fuga de agua en las zonas comunes?|
+voisins-societe-139|¿A quién contactarías primero para avisar de un problema de limpieza en el cuarto de basuras?|¿A quién le pedirías opinión para organizar una fiesta de vecinos?|
+voisins-societe-140|¿A quién recurrirías para organizar el riego de las plantas de un vecino que está fuera?|¿Con quién hablarías primero para saber en qué horario se pueden hacer obras?|
+voisins-societe-141|¿A quién pedirías consejo para pedir una ayuda puntual para cargar con un mueble?|¿A quién llamarías para conseguir una segunda llave magnética del portal?|
+voisins-societe-142|¿A quién contactarías primero para gestionar un conflicto por un animal ruidoso?|¿A quién le pedirías opinión para pedir que arreglen una luz de las zonas comunes?|
+voisins-societe-143|¿A quién recurrirías para conocer las normas de uso del patio?|¿Con quién hablarías primero para resolver un problema con el aparcamiento compartido?|
+voisins-societe-144|¿A quién pedirías consejo para proponer obras en el portal de un edificio?|¿A quién llamarías para encontrar al destinatario de un paquete mal entregado?|
+voisins-societe-145|¿A quién contactarías primero para saber los horarios de recogida de muebles y trastos viejos?|¿A quién le pedirías opinión para proponer una mejora de la seguridad del portal?|
+voisins-societe-146|¿A quién contactarías primero para resolver un desacuerdo por el ruido los domingos?|¿A quién le pedirías opinión para pedir permiso para poner un aparcabicis?|
+voisins-societe-147|¿A quién recurrirías para avisar de una fuga de agua en las zonas comunes?|¿Con quién hablarías primero para entender un recibo de gastos de comunidad?|
+voisins-societe-148|¿A quién pedirías consejo para organizar una fiesta de vecinos?|¿A quién llamarías para arreglar el telefonillo de tu piso?|
+voisins-societe-149|¿A quién contactarías primero para saber en qué horario se pueden hacer obras?|¿A quién le pedirías opinión sobre aislamiento acústico?|
+voisins-societe-150|¿A quién recurrirías para conseguir una segunda llave magnética del portal?|¿Con quién hablarías primero para avisar de un problema de limpieza en el cuarto de basuras?|
+voisins-societe-151|¿Adónde irías para charlar tranquilamente con un vecino al que apenas conoces?|¿En qué lugar querrías instalar un compostador comunitario con permiso?|
+voisins-societe-152|¿En qué sitio preferirías organizar una fiesta de vecinos de veinte personas?|¿En qué sitio decidirías esperar a un amigo sin bloquear la entrada del edificio?|
+voisins-societe-153|¿En qué lugar te gustaría colgar un aviso útil para los vecinos?|¿Dónde elegirías limpiar unos zapatos llenos de barro?|
+voisins-societe-154|¿Adónde irías para guardar una bici sin estorbar el paso?|¿En qué lugar querrías tender una manta sin molestar a nadie?|
+voisins-societe-155|¿En qué sitio preferirías dejar un paquete para un vecino que no está?|¿En qué sitio decidirías reuniros después de un incidente en la comunidad?|
+voisins-societe-156|¿En qué lugar te gustaría hablar de un problema de ruido sin montar una escena delante de todos?|¿Dónde elegirías poner una caja de intercambio de libros en el barrio?|
+voisins-societe-157|¿Adónde irías para acoger una reunión de vecinos?|¿En qué lugar querrías poner un cartel de gato perdido?|
+voisins-societe-158|¿En qué sitio preferirías guardar temporalmente un objeto voluminoso?|¿En qué sitio decidirías organizar un café entre vecinos nuevos?|
+voisins-societe-159|¿En qué lugar te gustaría que el repartidor te dejara un pedido cuando no estás?|¿Dónde elegirías avisar de un fallo de seguridad en el edificio?|
+voisins-societe-160|¿Adónde irías para instalar un compostador comunitario con permiso?|¿En qué lugar querrías preparar un trueque de ropa entre vecinos?|
+voisins-societe-161|¿En qué sitio preferirías esperar a un amigo sin bloquear la entrada del edificio?|¿En qué sitio decidirías hablar de un proyecto para poner plantas en el patio?|
+voisins-societe-162|¿En qué lugar te gustaría limpiar unos zapatos llenos de barro?|¿Dónde elegirías charlar tranquilamente con un vecino al que apenas conoces?|
+voisins-societe-163|¿Adónde irías para tender una manta sin molestar a nadie?|¿En qué lugar querrías organizar una fiesta de vecinos de veinte personas?|
+voisins-societe-164|¿En qué sitio preferirías reuniros después de un incidente en la comunidad?|¿En qué sitio decidirías colgar un aviso útil para los vecinos?|
+voisins-societe-165|¿En qué lugar te gustaría poner una caja de intercambio de libros en el barrio?|¿Dónde elegirías guardar una bici sin estorbar el paso?|
+voisins-societe-166|¿Adónde irías para poner un cartel de gato perdido?|¿En qué lugar querrías dejar un paquete para un vecino que no está?|
+voisins-societe-167|¿En qué sitio preferirías organizar un café entre vecinos nuevos?|¿En qué sitio decidirías hablar de un problema de ruido sin montar una escena delante de todos?|
+voisins-societe-168|¿En qué lugar te gustaría avisar de un fallo de seguridad en el edificio?|¿Dónde elegirías acoger una reunión de vecinos?|
+voisins-societe-169|¿Adónde irías para preparar un trueque de ropa entre vecinos?|¿En qué lugar querrías guardar temporalmente un objeto voluminoso?|
+voisins-societe-170|¿En qué sitio preferirías hablar de un proyecto para poner plantas en el patio?|¿En qué sitio decidirías que el repartidor te dejara un pedido cuando no estás?|
+voisins-societe-171|¿En qué sitio preferirías charlar tranquilamente con un vecino al que apenas conoces?|¿En qué sitio decidirías instalar un compostador comunitario con permiso?|
+voisins-societe-172|¿En qué lugar te gustaría organizar una fiesta de vecinos de veinte personas?|¿Dónde elegirías esperar a un amigo sin bloquear la entrada del edificio?|
+voisins-societe-173|¿Adónde irías para colgar un aviso útil para los vecinos?|¿En qué lugar querrías limpiar unos zapatos llenos de barro?|
+voisins-societe-174|¿En qué sitio preferirías guardar una bici sin estorbar el paso?|¿En qué sitio decidirías tender una manta sin molestar a nadie?|
+voisins-societe-175|¿En qué lugar te gustaría dejar un paquete para un vecino que no está?|¿Dónde elegirías reuniros después de un incidente en la comunidad?|
+voisins-societe-176|¿Qué criterio sería el más importante para ti a la hora de elegir un piso en un edificio antiguo?|¿En qué serías más exigente a la hora de instalar un buzón de paquetes en el portal?|
+voisins-societe-177|¿Qué sería lo primero que mirarías para instalar una cámara en la entrada común con permiso?|¿Cuál sería tu prioridad a la hora de mudarte a una calle comercial?|
+voisins-societe-178|¿Qué sería innegociable para ti a la hora de comprar una plaza de garaje subterránea?|¿Qué detalle comprobarías antes de buscar casa cerca de un colegio?|
+voisins-societe-179|¿Qué criterio sería el más importante para ti a la hora de alquilar un piso encima de un local comercial?|¿En qué serías más exigente a la hora de mejorar la iluminación de una escalera?|
+voisins-societe-180|¿Qué sería lo primero que mirarías para elegir una empresa que limpie el edificio?|¿Cuál sería tu prioridad a la hora de comprar un detector de humo para tu casa?|
+voisins-societe-181|¿Qué sería innegociable para ti a la hora de organizar una fiesta de vecinos en primavera?|¿Qué detalle comprobarías antes de alquilar un garaje en el barrio?|
+voisins-societe-182|¿Qué criterio sería el más importante para ti a la hora de crear un espacio para bicis en el patio?|¿En qué serías más exigente a la hora de proponer una norma para el uso del patio?|
+voisins-societe-183|¿Qué sería lo primero que mirarías para preparar unas obras ruidosas en un piso?|¿Cuál sería tu prioridad a la hora de crear un grupo de chat entre vecinos?|
+voisins-societe-184|¿Qué sería innegociable para ti a la hora de elegir una urbanización con portero?|¿Qué detalle comprobarías antes de elegir una vivienda en planta baja?|
+voisins-societe-185|¿Qué criterio sería el más importante para ti a la hora de instalar un buzón de paquetes en el portal?|¿En qué serías más exigente a la hora de instalar un punto de recarga comunitario?|
+voisins-societe-186|¿Qué sería lo primero que mirarías para mudarte a una calle comercial?|¿Cuál sería tu prioridad a la hora de pensar en una mejor gestión de la basura?|
+voisins-societe-187|¿Qué sería innegociable para ti a la hora de buscar casa cerca de un colegio?|¿Qué detalle comprobarías antes de elegir un piso en un edificio antiguo?|
+voisins-societe-188|¿Qué criterio sería el más importante para ti a la hora de mejorar la iluminación de una escalera?|¿En qué serías más exigente a la hora de instalar una cámara en la entrada común con permiso?|
+voisins-societe-189|¿Qué sería lo primero que mirarías para comprar un detector de humo para tu casa?|¿Cuál sería tu prioridad a la hora de comprar una plaza de garaje subterránea?|
+voisins-societe-190|¿Qué sería innegociable para ti a la hora de alquilar un garaje en el barrio?|¿Qué detalle comprobarías antes de alquilar un piso encima de un local comercial?|
+voisins-societe-191|¿Qué criterio sería el más importante para ti a la hora de proponer una norma para el uso del patio?|¿En qué serías más exigente a la hora de elegir una empresa que limpie el edificio?|
+voisins-societe-192|¿Qué sería lo primero que mirarías para crear un grupo de chat entre vecinos?|¿Cuál sería tu prioridad a la hora de organizar una fiesta de vecinos en primavera?|
+voisins-societe-193|¿Qué sería innegociable para ti a la hora de elegir una vivienda en planta baja?|¿Qué detalle comprobarías antes de crear un espacio para bicis en el patio?|
+voisins-societe-194|¿Qué criterio sería el más importante para ti a la hora de instalar un punto de recarga comunitario?|¿En qué serías más exigente a la hora de preparar unas obras ruidosas en un piso?|
+voisins-societe-195|¿Qué sería lo primero que mirarías para pensar en una mejor gestión de la basura?|¿Cuál sería tu prioridad a la hora de elegir una urbanización con portero?|
+voisins-societe-196|¿Qué sería lo primero que mirarías para elegir un piso en un edificio antiguo?|¿Cuál sería tu prioridad a la hora de instalar un buzón de paquetes en el portal?|
+voisins-societe-197|¿Qué sería innegociable para ti a la hora de instalar una cámara en la entrada común con permiso?|¿Qué detalle comprobarías antes de mudarte a una calle comercial?|
+voisins-societe-198|¿Qué criterio sería el más importante para ti a la hora de comprar una plaza de garaje subterránea?|¿En qué serías más exigente a la hora de buscar casa cerca de un colegio?|
+voisins-societe-199|¿Qué sería lo primero que mirarías para alquilar un piso encima de un local comercial?|¿Cuál sería tu prioridad a la hora de mejorar la iluminación de una escalera?|

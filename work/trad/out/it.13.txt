@@ -397,3 +397,103 @@ cadeaux-surprises-196|Per quale evento ti piacerebbe regalare un album fotografi
 cadeaux-surprises-197|In quale occasione troveresti normale organizzare una colazione a sorpresa a casa?|In quali circostanze decideresti di regalare un abbonamento in palestra?|
 cadeaux-surprises-198|In quale occasione potresti comprare un orologio simbolico?|Per quale evento penseresti di comprare un libro con una dedica personale?|
 cadeaux-surprises-199|Per quale evento ti piacerebbe regalare una pianta in vaso con un biglietto?|In quale momento importante della tua vita vorresti regalare una scatola di pasticcini raffinati?|
+cadeaux-surprises-200|In quale occasione troveresti normale preparare un regalo di gruppo con i colleghi?|In quali circostanze decideresti di preparare una festa a sorpresa in un appartamento?|
+ecole-etudes-001|Cosa risponderesti se un professore ti accusasse di aver chiacchierato mentre eri in silenzio?|Come risponderesti se un amico ti chiedesse di spiegargli un capitolo intero in cinque minuti?|
+ecole-etudes-002|Quale sarebbe la tua prima frase se il tuo gruppo ti dicesse che non ha preparato niente per la presentazione di domani?|Cosa diresti se un insegnante ti comunicasse un errore di correzione nel tuo compito?|
+ecole-etudes-003|Cosa diresti se un compagno ti chiedesse di mandargli tutto il tuo compito?|Che parole useresti se un compagno ti chiedesse di tenergli un posto in aula magna?|
+ecole-etudes-004|Cosa risponderesti se un professore rimandasse una verifica proprio dopo che hai finito di studiare?|Come risponderesti se i tuoi genitori ti chiedessero perché sei tornato così tardi dalla biblioteca?|
+ecole-etudes-005|Quale sarebbe la tua prima frase se un amico dicesse che non ha bisogno di studiare per passare?|Cosa diresti se un professore si rifiutasse di spostare una scadenza?|
+ecole-etudes-006|Cosa diresti se un insegnante ti chiamasse alla lavagna senza preavviso?|Che parole useresti se un amico trovasse sorprendente il tuo percorso di studi?|
+ecole-etudes-007|Cosa risponderesti se un compagno prendesse in giro la tua presentazione davanti alla classe?|Come risponderesti se il tuo gruppo proponesse una riunione di lavoro la domenica mattina?|
+ecole-etudes-008|Quale sarebbe la tua prima frase se un professore notasse che hai dimenticato il quaderno?|Cosa diresti se un professore ti chiedesse un esempio senza lasciarti il tempo di pensare?|
+ecole-etudes-009|Cosa diresti se il tuo compagno di lavoro volesse cambiare argomento il giorno prima della consegna?|Che parole useresti se un compagno ti dicesse di aver perso il file del lavoro comune?|
+ecole-etudes-010|Cosa risponderesti se un amico ti chiedesse di spiegargli un capitolo intero in cinque minuti?|Come risponderesti se un insegnante facesse un commento sulla tua calligrafia?|
+ecole-etudes-011|Quale sarebbe la tua prima frase se un insegnante ti comunicasse un errore di correzione nel tuo compito?|Cosa diresti se un amico ti proponesse di studiare tutta la notte prima dell’esame?|
+ecole-etudes-012|Cosa diresti se un compagno ti chiedesse di tenergli un posto in aula magna?|Che parole useresti se un professore ti accusasse di aver chiacchierato mentre eri in silenzio?|
+ecole-etudes-013|Cosa risponderesti se i tuoi genitori ti chiedessero perché sei tornato così tardi dalla biblioteca?|Come risponderesti se il tuo gruppo ti dicesse che non ha preparato niente per la presentazione di domani?|
+ecole-etudes-014|Quale sarebbe la tua prima frase se un professore si rifiutasse di spostare una scadenza?|Cosa diresti se un compagno ti chiedesse di mandargli tutto il tuo compito?|
+ecole-etudes-015|Cosa diresti se un amico trovasse sorprendente il tuo percorso di studi?|Che parole useresti se un professore rimandasse una verifica proprio dopo che hai finito di studiare?|
+ecole-etudes-016|Cosa risponderesti se il tuo gruppo proponesse una riunione di lavoro la domenica mattina?|Come risponderesti se un amico dicesse che non ha bisogno di studiare per passare?|
+ecole-etudes-017|Quale sarebbe la tua prima frase se un professore ti chiedesse un esempio senza lasciarti il tempo di pensare?|Cosa diresti se un insegnante ti chiamasse alla lavagna senza preavviso?|
+ecole-etudes-018|Cosa diresti se un compagno ti dicesse di aver perso il file del lavoro comune?|Che parole useresti se un compagno prendesse in giro la tua presentazione davanti alla classe?|
+ecole-etudes-019|Cosa risponderesti se un insegnante facesse un commento sulla tua calligrafia?|Come risponderesti se un professore notasse che hai dimenticato il quaderno?|
+ecole-etudes-020|Quale sarebbe la tua prima frase se un amico ti proponesse di studiare tutta la notte prima dell’esame?|Cosa diresti se il tuo compagno di lavoro volesse cambiare argomento il giorno prima della consegna?|
+ecole-etudes-021|Quale sarebbe la tua prima frase se un professore ti accusasse di aver chiacchierato mentre eri in silenzio?|Cosa diresti se un amico ti chiedesse di spiegargli un capitolo intero in cinque minuti?|
+ecole-etudes-022|Cosa diresti se il tuo gruppo ti dicesse che non ha preparato niente per la presentazione di domani?|Che parole useresti se un insegnante ti comunicasse un errore di correzione nel tuo compito?|
+ecole-etudes-023|Cosa risponderesti se un compagno ti chiedesse di mandargli tutto il tuo compito?|Come risponderesti se un compagno ti chiedesse di tenergli un posto in aula magna?|
+ecole-etudes-024|Quale sarebbe la tua prima frase se un professore rimandasse una verifica proprio dopo che hai finito di studiare?|Cosa diresti se i tuoi genitori ti chiedessero perché sei tornato così tardi dalla biblioteca?|
+ecole-etudes-025|Cosa diresti se un amico dicesse che non ha bisogno di studiare per passare?|Che parole useresti se un professore si rifiutasse di spostare una scadenza?|
+ecole-etudes-026|Cosa faresti per prima cosa se arrivassi al liceo senza calcolatrice il giorno di una verifica?|Cosa decideresti di fare prima di tutto se il professore cambiasse aula all’ultimo momento?|lycée → liceo
+ecole-etudes-027|Quale sarebbe il tuo primo istinto se il computer si spegnesse durante una simulazione d’esame online?|Come agiresti per prima cosa se ti assegnassero due compiti importanti da consegnare lo stesso giorno?|
+ecole-etudes-028|Da cosa cominceresti se ti rendessi conto che hai una presentazione tra un’ora?|Quale sarebbe la tua prima mossa se un compagno ti desse un’informazione contraddittoria sulla verifica?|
+ecole-etudes-029|Cosa faresti per prima cosa se un compagno fosse assente il giorno della vostra presentazione?|Cosa decideresti di fare prima di tutto se saltasse la connessione internet durante una consegna online?|
+ecole-etudes-030|Quale sarebbe il tuo primo istinto se perdessi la chiavetta USB con il lavoro di gruppo?|Come agiresti per prima cosa se ritrovassi il tuo vecchio taccuino con i contatti di un professore?|
+ecole-etudes-031|Da cosa cominceresti se la biblioteca chiudesse prima del previsto mentre stai studiando?|Quale sarebbe la tua prima mossa se il tuo gruppo scoprisse un errore nella prima slide?|
+ecole-etudes-032|Cosa faresti per prima cosa se ti dimenticassi la data di iscrizione a un corso a scelta importante?|Cosa decideresti di fare prima di tutto se un libro obbligatorio fosse in prestito in tutte le biblioteche?|
+ecole-etudes-033|Quale sarebbe il tuo primo istinto se trovassi un errore in un documento già consegnato?|Come agiresti per prima cosa se uno studente si addormentasse mentre lavorate in coppia?|
+ecole-etudes-034|Da cosa cominceresti se il tuo autobus fosse in ritardo la mattina di un esame?|Quale sarebbe la tua prima mossa se ti accorgessi che la sveglia non ha suonato prima di un orale?|
+ecole-etudes-035|Cosa faresti per prima cosa se il professore cambiasse aula all’ultimo momento?|Cosa decideresti di fare prima di tutto se non capissi nessuna consegna di un esercizio distribuito in classe?|
+ecole-etudes-036|Quale sarebbe il tuo primo istinto se ti assegnassero due compiti importanti da consegnare lo stesso giorno?|Come agiresti per prima cosa se la tua presentazione non si aprisse più sul computer della classe?|
+ecole-etudes-037|Da cosa cominceresti se un compagno ti desse un’informazione contraddittoria sulla verifica?|Quale sarebbe la tua prima mossa se arrivassi al liceo senza calcolatrice il giorno di una verifica?|lycée → liceo
+ecole-etudes-038|Cosa faresti per prima cosa se saltasse la connessione internet durante una consegna online?|Cosa decideresti di fare prima di tutto se il computer si spegnesse durante una simulazione d’esame online?|
+ecole-etudes-039|Quale sarebbe il tuo primo istinto se ritrovassi il tuo vecchio taccuino con i contatti di un professore?|Come agiresti per prima cosa se ti rendessi conto che hai una presentazione tra un’ora?|
+ecole-etudes-040|Da cosa cominceresti se il tuo gruppo scoprisse un errore nella prima slide?|Quale sarebbe la tua prima mossa se un compagno fosse assente il giorno della vostra presentazione?|
+ecole-etudes-041|Cosa faresti per prima cosa se un libro obbligatorio fosse in prestito in tutte le biblioteche?|Cosa decideresti di fare prima di tutto se perdessi la chiavetta USB con il lavoro di gruppo?|
+ecole-etudes-042|Quale sarebbe il tuo primo istinto se uno studente si addormentasse mentre lavorate in coppia?|Come agiresti per prima cosa se la biblioteca chiudesse prima del previsto mentre stai studiando?|
+ecole-etudes-043|Da cosa cominceresti se ti accorgessi che la sveglia non ha suonato prima di un orale?|Quale sarebbe la tua prima mossa se ti dimenticassi la data di iscrizione a un corso a scelta importante?|
+ecole-etudes-044|Cosa faresti per prima cosa se non capissi nessuna consegna di un esercizio distribuito in classe?|Cosa decideresti di fare prima di tutto se trovassi un errore in un documento già consegnato?|
+ecole-etudes-045|Quale sarebbe il tuo primo istinto se la tua presentazione non si aprisse più sul computer della classe?|Come agiresti per prima cosa se il tuo autobus fosse in ritardo la mattina di un esame?|
+ecole-etudes-046|Quale sarebbe il tuo primo istinto se arrivassi al liceo senza calcolatrice il giorno di una verifica?|Come agiresti per prima cosa se il professore cambiasse aula all’ultimo momento?|lycée → liceo
+ecole-etudes-047|Da cosa cominceresti se il computer si spegnesse durante una simulazione d’esame online?|Quale sarebbe la tua prima mossa se ti assegnassero due compiti importanti da consegnare lo stesso giorno?|
+ecole-etudes-048|Cosa faresti per prima cosa se ti rendessi conto che hai una presentazione tra un’ora?|Cosa decideresti di fare prima di tutto se un compagno ti desse un’informazione contraddittoria sulla verifica?|
+ecole-etudes-049|Quale sarebbe il tuo primo istinto se un compagno fosse assente il giorno della vostra presentazione?|Come agiresti per prima cosa se saltasse la connessione internet durante una consegna online?|
+ecole-etudes-050|Da cosa cominceresti se perdessi la chiavetta USB con il lavoro di gruppo?|Quale sarebbe la tua prima mossa se ritrovassi il tuo vecchio taccuino con i contatti di un professore?|
+ecole-etudes-051|Sceglieresti piuttosto di studiare da solo a casa o con due amici?|Se potessi scegliere una sola opzione, faresti un tirocinio in azienda o parteciperesti a un progetto di volontariato?|
+ecole-etudes-052|Tra fare un esame orale e consegnare un elaborato scritto, cosa preferiresti?|Quale delle due ti tenta di più: studiare presto la mattina o studiare tardi la sera?|
+ecole-etudes-053|Se dovessi decidere, preferiresti avere lezione alle otto o finire le lezioni alle sette di sera?|Preferiresti avere un professore esigente o un professore molto flessibile?|
+ecole-etudes-054|Sceglieresti piuttosto di imparare una lingua in più o di seguire un corso artistico a scelta?|Se potessi scegliere una sola opzione, leggeresti un manuale cartaceo o un manuale digitale?|
+ecole-etudes-055|Tra studiare in biblioteca e studiare in un bar tranquillo, cosa preferiresti?|Quale delle due ti tenta di più: preparare un progetto di gruppo o consegnare un lavoro individuale?|
+ecole-etudes-056|Se dovessi decidere, prepareresti una presentazione su un argomento libero o su un argomento assegnato?|Preferiresti scegliere un corso di studi molto teorico o uno molto pratico?|
+ecole-etudes-057|Sceglieresti piuttosto verifiche regolari o un grande esame finale?|Se potessi scegliere una sola opzione, seguiresti le lezioni in presenza o in modalità mista?|
+ecole-etudes-058|Tra prendere appunti sul tablet e scrivere su un quaderno, cosa preferiresti?|Quale delle due ti tenta di più: lavorare all’ultimo minuto o pianificare su più settimane?|
+ecole-etudes-059|Se dovessi decidere, studieresti in una grande università o in un piccolo istituto?|Preferiresti passare un semestre all’estero o fare due tirocini in Italia?|France → Italia
+ecole-etudes-060|Sceglieresti piuttosto di fare un tirocinio in azienda o di partecipare a un progetto di volontariato?|Se potessi scegliere una sola opzione, studieresti materie scientifiche o materie umanistiche?|
+ecole-etudes-061|Tra studiare presto la mattina e studiare tardi la sera, cosa preferiresti?|Quale delle due ti tenta di più: imparare con gli esercizi o imparare con i video?|
+ecole-etudes-062|Se dovessi decidere, preferiresti un professore esigente o un professore molto flessibile?|Preferiresti studiare da solo a casa o con due amici?|
+ecole-etudes-063|Sceglieresti piuttosto di leggere un manuale cartaceo o di consultare un manuale digitale?|Se potessi scegliere una sola opzione, faresti un esame orale o consegneresti un elaborato scritto?|
+ecole-etudes-064|Tra preparare un progetto di gruppo e consegnare un lavoro individuale, cosa preferiresti?|Quale delle due ti tenta di più: avere lezione alle otto o finire le lezioni alle sette di sera?|
+ecole-etudes-065|Se dovessi decidere, sceglieresti un corso di studi molto teorico o uno molto pratico?|Preferiresti imparare una lingua in più o seguire un corso artistico a scelta?|
+ecole-etudes-066|Sceglieresti piuttosto di seguire le lezioni in presenza o in modalità mista?|Se potessi scegliere una sola opzione, studieresti in biblioteca o in un bar tranquillo?|
+ecole-etudes-067|Tra lavorare all’ultimo minuto e pianificare su più settimane, cosa preferiresti?|Quale delle due ti tenta di più: preparare una presentazione su un argomento libero o su un argomento assegnato?|
+ecole-etudes-068|Se dovessi decidere, passeresti un semestre all’estero o faresti due tirocini in Italia?|Preferiresti verifiche regolari o un grande esame finale?|France → Italia
+ecole-etudes-069|Sceglieresti piuttosto di studiare materie scientifiche o materie umanistiche?|Se potessi scegliere una sola opzione, prenderesti appunti sul tablet o scriveresti su un quaderno?|
+ecole-etudes-070|Tra imparare con gli esercizi e imparare con i video, cosa preferiresti?|Quale delle due ti tenta di più: studiare in una grande università o in un piccolo istituto?|
+ecole-etudes-071|Tra studiare da solo a casa e studiare con due amici, cosa preferiresti?|Quale delle due ti tenta di più: fare un tirocinio in azienda o partecipare a un progetto di volontariato?|
+ecole-etudes-072|Se dovessi decidere, faresti un esame orale o consegneresti un elaborato scritto?|Preferiresti studiare presto la mattina o tardi la sera?|
+ecole-etudes-073|Sceglieresti piuttosto di avere lezione alle otto o di finire le lezioni alle sette di sera?|Se potessi scegliere una sola opzione, prenderesti un professore esigente o un professore molto flessibile?|
+ecole-etudes-074|Tra imparare una lingua in più e seguire un corso artistico a scelta, cosa preferiresti?|Quale delle due ti tenta di più: leggere un manuale cartaceo o consultare un manuale digitale?|
+ecole-etudes-075|Se dovessi decidere, studieresti in biblioteca o in un bar tranquillo?|Preferiresti preparare un progetto di gruppo o consegnare un lavoro individuale?|
+ecole-etudes-076|Quanti minuti ti servirebbero per rileggere gli appunti dopo una lezione di due ore?|Quanto tempo, in minuti, metteresti in conto per correggere gli errori di una presentazione di gruppo?|
+ecole-etudes-077|Quanti minuti passeresti a preparare lo zaino prima di una giornata di studio?|Quanti minuti ci metteresti a scegliere un corso a scelta per il semestre successivo?|
+ecole-etudes-078|Quanti minuti dedicheresti a capire un esercizio difficile di matematica?|Di solito, quanti minuti ti servirebbero per sistemare il computer prima di una lezione online?|
+ecole-etudes-079|Quanti minuti ti servirebbero per scegliere l’argomento di una presentazione di cinque minuti?|Quanto tempo, in minuti, metteresti in conto per riordinare i documenti di un trimestre?|
+ecole-etudes-080|Quanti minuti passeresti a ripassare un capitolo di storia di dieci pagine?|Quanti minuti ci metteresti a preparare una domanda da fare a un professore?|
+ecole-etudes-081|Quanti minuti dedicheresti a preparare i tuoi schemi prima di una verifica?|Di solito, quanti minuti ti servirebbero per rileggere un testo per un’analisi del testo?|commentaire composé → analisi del testo
+ecole-etudes-082|Quanti minuti ti servirebbero per cercare un testo in biblioteca?|Quanto tempo, in minuti, metteresti in conto per ripassare le formule di fisica prima di un compito?|
+ecole-etudes-083|Quanti minuti passeresti a rileggere un compito prima di mandarlo?|Quanti minuti ci metteresti a cercare un esempio concreto per una presentazione?|
+ecole-etudes-084|Quanti minuti dedicheresti a provare una presentazione orale?|Di solito, quanti minuti ti servirebbero per scrivere la scaletta di un tema?|dissertation en trois parties → scaletta di un tema
+ecole-etudes-085|Quanti minuti ti servirebbero per correggere gli errori di una presentazione di gruppo?|Quanto tempo, in minuti, metteresti in conto per leggere venti pagine di un libro obbligatorio?|
+ecole-etudes-086|Quanti minuti passeresti a scegliere un corso a scelta per il semestre successivo?|Quanti minuti ci metteresti a organizzare un calendario di studio su una settimana?|
+ecole-etudes-087|Quanti minuti dedicheresti a sistemare il computer prima di una lezione online?|Di solito, quanti minuti ti servirebbero per rileggere gli appunti dopo una lezione di due ore?|
+ecole-etudes-088|Quanti minuti ti servirebbero per riordinare i documenti di un trimestre?|Quanto tempo, in minuti, metteresti in conto per preparare lo zaino prima di una giornata di studio?|
+ecole-etudes-089|Quanti minuti passeresti a preparare una domanda da fare a un professore?|Quanti minuti ci metteresti a capire un esercizio difficile di matematica?|
+ecole-etudes-090|Quanti minuti dedicheresti a rileggere un testo per un’analisi del testo?|Di solito, quanti minuti ti servirebbero per scegliere l’argomento di una presentazione di cinque minuti?|commentaire composé → analisi del testo
+ecole-etudes-091|Quanti minuti ti servirebbero per ripassare le formule di fisica prima di un compito?|Quanto tempo, in minuti, metteresti in conto per ripassare un capitolo di storia di dieci pagine?|
+ecole-etudes-092|Quanti minuti passeresti a cercare un esempio concreto per una presentazione?|Quanti minuti ci metteresti a preparare i tuoi schemi prima di una verifica?|
+ecole-etudes-093|Quanti minuti dedicheresti a scrivere la scaletta di un tema?|Di solito, quanti minuti ti servirebbero per cercare un testo in biblioteca?|dissertation en trois parties → scaletta di un tema
+ecole-etudes-094|Quanti minuti ti servirebbero per leggere venti pagine di un libro obbligatorio?|Quanto tempo, in minuti, metteresti in conto per rileggere un compito prima di mandarlo?|
+ecole-etudes-095|Quanti minuti passeresti a organizzare un calendario di studio su una settimana?|Quanti minuti ci metteresti a provare una presentazione orale?|
+ecole-etudes-096|Quanti minuti passeresti a rileggere gli appunti dopo una lezione di due ore?|Quanti minuti ci metteresti a correggere gli errori di una presentazione di gruppo?|
+ecole-etudes-097|Quanti minuti dedicheresti a preparare lo zaino prima di una giornata di studio?|Di solito, quanti minuti ti servirebbero per scegliere un corso a scelta per il semestre successivo?|
+ecole-etudes-098|Quanti minuti ti servirebbero per capire un esercizio difficile di matematica?|Quanto tempo, in minuti, metteresti in conto per sistemare il computer prima di una lezione online?|
+ecole-etudes-099|Quanti minuti passeresti a scegliere l’argomento di una presentazione di cinque minuti?|Quanti minuti ci metteresti a riordinare i documenti di un trimestre?|

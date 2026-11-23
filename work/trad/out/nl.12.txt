@@ -298,3 +298,103 @@ beaute-apparence-097|Als je moest kiezen, zou het dan een subtiel parfum of een 
 beaute-apparence-098|Zou je eerder kiezen voor investeren in goede schoenen of investeren in een goede jas?|Als je maar één optie mocht kiezen, zou je dan gaan voor een nieuwe haarkleur proberen of je natuurlijke kleur houden?|
 beaute-apparence-099|Wat heeft je voorkeur: een afspraak bij de kapper of een gezichtsbehandeling?|Wat trekt je het meest: je outfit de avond ervoor klaarleggen of hem 's ochtends kiezen?|
 beaute-apparence-100|Als je moest kiezen, zou het dan een beautyroutine met drie producten of een routine met acht producten worden?|Zou je de voorkeur geven aan een korte baard of een gladgeschoren gezicht?|
+beaute-apparence-101|Hoeveel minuten zou je nodig hebben om je haar te doen voor een belangrijke afspraak?|Hoeveel tijd zou je in minuten uittrekken om verschillende outfits te passen voor een feest?|
+beaute-apparence-102|Hoeveel minuten zou je erin steken om je outfit te kiezen als gast op een bruiloft?|Hoeveel minuten zou je erover doen om een paar witte sneakers schoon te maken?|
+beaute-apparence-103|Hoeveel minuten zou je ervoor vrijmaken om je haar te stylen voordat je na het werk uitgaat?|Hoeveel minuten zou je er meestal voor nemen om een gekreukt overhemd te strijken?|
+beaute-apparence-104|Hoeveel minuten zou je nodig hebben om je zorgvuldig te scheren voor een ceremonie?|Hoeveel tijd zou je in minuten uittrekken om je klaar te maken voor een groepsfoto?|
+beaute-apparence-105|Hoeveel minuten zou je erin steken om een simpele make-up op te doen om uit eten te gaan?|Hoeveel minuten zou je erover doen om een parfum uit te kiezen in een parfumerie?|
+beaute-apparence-106|Hoeveel minuten zou je ervoor vrijmaken om je make-uptasje op orde te brengen voor een reis?|Hoeveel minuten zou je er meestal voor nemen om thuis je haar te föhnen?|
+beaute-apparence-107|Hoeveel minuten zou je nodig hebben om de accessoires te kiezen voor een nette outfit?|Hoeveel tijd zou je in minuten uittrekken om beschadigde nagellak te verwijderen en opnieuw aan te brengen?|
+beaute-apparence-108|Hoeveel minuten zou je erin steken om je 's ochtends klaar te maken voor een sollicitatiegesprek?|Hoeveel minuten zou je erover doen om verzorgingsproducten te vergelijken in de winkel?|
+beaute-apparence-109|Hoeveel minuten zou je ervoor vrijmaken om je huidverzorgingsroutine voor de avond te doen?|Hoeveel minuten zou je er meestal voor nemen om een kapsel uit te kiezen in het fotoboek van de kapper?|
+beaute-apparence-110|Hoeveel minuten zou je nodig hebben om verschillende outfits te passen voor een feest?|Hoeveel tijd zou je in minuten uittrekken om kleding klaar te leggen voor een weekend?|
+beaute-apparence-111|Hoeveel minuten zou je erin steken om een paar witte sneakers schoon te maken?|Hoeveel minuten zou je erover doen om je haar te wassen en te drogen voordat je uitgaat?|
+beaute-apparence-112|Hoeveel minuten zou je ervoor vrijmaken om een gekreukt overhemd te strijken?|Hoeveel minuten zou je er meestal voor nemen om je haar te doen voor een belangrijke afspraak?|
+beaute-apparence-113|Hoeveel minuten zou je nodig hebben om je klaar te maken voor een groepsfoto?|Hoeveel tijd zou je in minuten uittrekken om je outfit te kiezen als gast op een bruiloft?|
+beaute-apparence-114|Hoeveel minuten zou je erin steken om een parfum uit te kiezen in een parfumerie?|Hoeveel minuten zou je erover doen om je haar te stylen voordat je na het werk uitgaat?|
+beaute-apparence-115|Hoeveel minuten zou je ervoor vrijmaken om thuis je haar te föhnen?|Hoeveel minuten zou je er meestal voor nemen om je zorgvuldig te scheren voor een ceremonie?|
+beaute-apparence-116|Hoeveel minuten zou je nodig hebben om beschadigde nagellak te verwijderen en opnieuw aan te brengen?|Hoeveel tijd zou je in minuten uittrekken om een simpele make-up op te doen om uit eten te gaan?|
+beaute-apparence-117|Hoeveel minuten zou je erin steken om verzorgingsproducten te vergelijken in de winkel?|Hoeveel minuten zou je erover doen om je make-uptasje op orde te brengen voor een reis?|
+beaute-apparence-118|Hoeveel minuten zou je ervoor vrijmaken om een kapsel uit te kiezen in het fotoboek van de kapper?|Hoeveel minuten zou je er meestal voor nemen om de accessoires te kiezen voor een nette outfit?|
+beaute-apparence-119|Hoeveel minuten zou je nodig hebben om kleding klaar te leggen voor een weekend?|Hoeveel tijd zou je in minuten uittrekken om je 's ochtends klaar te maken voor een sollicitatiegesprek?|
+beaute-apparence-120|Hoeveel minuten zou je erin steken om je haar te wassen en te drogen voordat je uitgaat?|Hoeveel minuten zou je erover doen om je huidverzorgingsroutine voor de avond te doen?|
+beaute-apparence-121|Hoeveel minuten zou je erin steken om je haar te doen voor een belangrijke afspraak?|Hoeveel minuten zou je erover doen om verschillende outfits te passen voor een feest?|
+beaute-apparence-122|Hoeveel minuten zou je ervoor vrijmaken om je outfit te kiezen als gast op een bruiloft?|Hoeveel minuten zou je er meestal voor nemen om een paar witte sneakers schoon te maken?|
+beaute-apparence-123|Hoeveel minuten zou je nodig hebben om je haar te stylen voordat je na het werk uitgaat?|Hoeveel tijd zou je in minuten uittrekken om een gekreukt overhemd te strijken?|
+beaute-apparence-124|Hoeveel minuten zou je erin steken om je zorgvuldig te scheren voor een ceremonie?|Hoeveel minuten zou je erover doen om je klaar te maken voor een groepsfoto?|
+beaute-apparence-125|Hoeveel minuten zou je ervoor vrijmaken om een simpele make-up op te doen om uit eten te gaan?|Hoeveel minuten zou je er meestal voor nemen om een parfum uit te kiezen in een parfumerie?|
+beaute-apparence-126|Aan wie zou je advies vragen om een kapsel te kiezen dat bij je gezichtsvorm past?|Wie zou je bellen om een outfit te kiezen voor een chic evenement?|
+beaute-apparence-127|Wie zou je als eerste benaderen om een routine te vinden voor droog haar?|Wie zou je om een mening vragen om een kledingruil met vrienden te organiseren?|
+beaute-apparence-128|Bij wie zou je aankloppen om een outfit uit te kiezen voor een sollicitatiegesprek?|Met wie zou je als eerste praten om een make-up uit te proberen voor een fotoshoot?|
+beaute-apparence-129|Aan wie zou je advies vragen over een nieuwe haarkleur?|Wie zou je bellen om schoenen te kopen waarop je de hele dag kunt staan?|
+beaute-apparence-130|Wie zou je als eerste benaderen om te leren hoe je een overhemd goed strijkt?|Wie zou je om een mening vragen om te checken of een pak vermaakt moet worden?|
+beaute-apparence-131|Bij wie zou je aankloppen om een parfum te vinden om cadeau te geven?|Met wie zou je als eerste praten voor tips over het onderhouden van sneakers?|
+beaute-apparence-132|Aan wie zou je advies vragen om een bril met de juiste sterkte te kiezen?|Wie zou je bellen om een kapsel te kiezen dat makkelijk te onderhouden is?|
+beaute-apparence-133|Wie zou je als eerste benaderen voor advies over een product voor de gevoelige huid?|Wie zou je om een mening vragen om een barbier te vinden in een nieuwe buurt?|
+beaute-apparence-134|Bij wie zou je aankloppen om een betrouwbare kapper te vinden voor een bruiloft?|Met wie zou je als eerste praten om de ingrediënten van een verzorgingsproduct te checken?|
+beaute-apparence-135|Aan wie zou je advies vragen om een outfit te kiezen voor een chic evenement?|Wie zou je bellen om een nagellakkleur te kiezen voor een ceremonie?|
+beaute-apparence-136|Wie zou je als eerste benaderen om een kledingruil met vrienden te organiseren?|Wie zou je om een mening vragen om een accessoire te vinden dat bij een outfit past?|
+beaute-apparence-137|Bij wie zou je aankloppen om een make-up uit te proberen voor een fotoshoot?|Met wie zou je als eerste praten om een kapsel te kiezen dat bij je gezichtsvorm past?|
+beaute-apparence-138|Aan wie zou je advies vragen om schoenen te kopen waarop je de hele dag kunt staan?|Wie zou je bellen om een routine te vinden voor droog haar?|
+beaute-apparence-139|Wie zou je als eerste benaderen om te checken of een pak vermaakt moet worden?|Wie zou je om een mening vragen om een outfit uit te kiezen voor een sollicitatiegesprek?|
+beaute-apparence-140|Bij wie zou je aankloppen voor tips over het onderhouden van sneakers?|Met wie zou je als eerste praten voor een mening over een nieuwe haarkleur?|
+beaute-apparence-141|Aan wie zou je advies vragen om een kapsel te kiezen dat makkelijk te onderhouden is?|Wie zou je bellen om te leren hoe je een overhemd goed strijkt?|
+beaute-apparence-142|Wie zou je als eerste benaderen om een barbier te vinden in een nieuwe buurt?|Wie zou je om een mening vragen om een parfum te vinden om cadeau te geven?|
+beaute-apparence-143|Bij wie zou je aankloppen om de ingrediënten van een verzorgingsproduct te checken?|Met wie zou je als eerste praten om een bril met de juiste sterkte te kiezen?|
+beaute-apparence-144|Aan wie zou je advies vragen om een nagellakkleur te kiezen voor een ceremonie?|Wie zou je bellen voor advies over een product voor de gevoelige huid?|
+beaute-apparence-145|Wie zou je als eerste benaderen om een accessoire te vinden dat bij een outfit past?|Wie zou je om een mening vragen om een betrouwbare kapper te vinden voor een bruiloft?|
+beaute-apparence-146|Wie zou je als eerste benaderen om een kapsel te kiezen dat bij je gezichtsvorm past?|Wie zou je om een mening vragen om een outfit te kiezen voor een chic evenement?|
+beaute-apparence-147|Bij wie zou je aankloppen om een routine te vinden voor droog haar?|Met wie zou je als eerste praten om een kledingruil met vrienden te organiseren?|
+beaute-apparence-148|Aan wie zou je advies vragen om een outfit uit te kiezen voor een sollicitatiegesprek?|Wie zou je bellen om een make-up uit te proberen voor een fotoshoot?|
+beaute-apparence-149|Wie zou je als eerste benaderen voor een mening over een nieuwe haarkleur?|Wie zou je om een mening vragen om schoenen te kopen waarop je de hele dag kunt staan?|
+beaute-apparence-150|Bij wie zou je aankloppen om te leren hoe je een overhemd goed strijkt?|Met wie zou je als eerste praten om te checken of een pak vermaakt moet worden?|
+beaute-apparence-151|Waar zou je heen gaan om een te lange broek te laten inkorten?|Welke plek zou je kiezen om een huidverzorgingscadeau te vinden?|
+beaute-apparence-152|Waar zou je het liefst een parfum kopen voordat je op vakantie gaat?|Op welke plek zou je besluiten om een rits te laten repareren?|
+beaute-apparence-153|Waar zou je graag een pak passen voor een bruiloft?|Waar zou je ervoor kiezen om zonnebrillen te passen met advies erbij?|
+beaute-apparence-154|Waar zou je heen gaan om een goede haarborstel te kopen?|Welke plek zou je kiezen om lippenstiften in het echt te vergelijken?|
+beaute-apparence-155|Waar zou je het liefst een bril laten afstellen?|Op welke plek zou je besluiten om een product voor krullend haar te kopen?|
+beaute-apparence-156|Waar zou je graag een kapper vinden die op zaterdag plek heeft?|Waar zou je ervoor kiezen om je haar te laten doen voor een ceremonie?|
+beaute-apparence-157|Waar zou je heen gaan om een outfit te kopen voor een sollicitatiegesprek?|Welke plek zou je kiezen om een avondjurk te laten vermaken?|
+beaute-apparence-158|Waar zou je het liefst een kwetsbaar jasje laten reinigen?|Op welke plek zou je besluiten om een toilettas te kopen voordat je vertrekt?|
+beaute-apparence-159|Waar zou je graag meerdere paren comfortabele schoenen passen?|Waar zou je ervoor kiezen om een crème uit te proberen met een proefje?|
+beaute-apparence-160|Waar zou je heen gaan om een huidverzorgingscadeau te vinden?|Welke plek zou je kiezen om een serieuze haaranalyse te laten doen?|
+beaute-apparence-161|Waar zou je het liefst een rits laten repareren?|Op welke plek zou je besluiten om een elegant en subtiel horloge te zoeken?|
+beaute-apparence-162|Waar zou je graag zonnebrillen passen met advies erbij?|Waar zou je ervoor kiezen om een te lange broek te laten inkorten?|
+beaute-apparence-163|Waar zou je heen gaan om lippenstiften in het echt te vergelijken?|Welke plek zou je kiezen om een parfum te kopen voordat je op vakantie gaat?|
+beaute-apparence-164|Waar zou je het liefst een product voor krullend haar kopen?|Op welke plek zou je besluiten om een pak te passen voor een bruiloft?|
+beaute-apparence-165|Waar zou je graag je haar laten doen voor een ceremonie?|Waar zou je ervoor kiezen om een goede haarborstel te kopen?|
+beaute-apparence-166|Waar zou je heen gaan om een avondjurk te laten vermaken?|Welke plek zou je kiezen om een bril te laten afstellen?|
+beaute-apparence-167|Waar zou je het liefst een toilettas kopen voordat je vertrekt?|Op welke plek zou je besluiten om een kapper te zoeken die op zaterdag plek heeft?|
+beaute-apparence-168|Waar zou je graag een crème uitproberen met een proefje?|Waar zou je ervoor kiezen om een outfit te kopen voor een sollicitatiegesprek?|
+beaute-apparence-169|Waar zou je heen gaan om een serieuze haaranalyse te laten doen?|Welke plek zou je kiezen om een kwetsbaar jasje te laten reinigen?|
+beaute-apparence-170|Waar zou je het liefst een elegant en subtiel horloge zoeken?|Op welke plek zou je besluiten om meerdere paren comfortabele schoenen te passen?|
+beaute-apparence-171|Waar zou je het liefst een te lange broek laten inkorten?|Op welke plek zou je besluiten om een huidverzorgingscadeau te zoeken?|
+beaute-apparence-172|Waar zou je graag een parfum kopen voordat je op vakantie gaat?|Waar zou je ervoor kiezen om een rits te laten repareren?|
+beaute-apparence-173|Waar zou je heen gaan om een pak te passen voor een bruiloft?|Welke plek zou je kiezen om zonnebrillen te passen met advies erbij?|
+beaute-apparence-174|Waar zou je het liefst een goede haarborstel kopen?|Op welke plek zou je besluiten om lippenstiften in het echt te vergelijken?|
+beaute-apparence-175|Waar zou je graag een bril laten afstellen?|Waar zou je ervoor kiezen om een product voor krullend haar te kopen?|
+beaute-apparence-176|Welk criterium zou voor jou het zwaarst wegen bij het kiezen van een crème voor de gevoelige huid?|Waar zou je het strengst op letten bij het laten vermaken van een nette outfit?|
+beaute-apparence-177|Waar zou je als eerste naar kijken bij het kopen van schoenen om de hele dag op te lopen?|Wat zou je prioriteit zijn bij het kiezen van een haarborstel?|
+beaute-apparence-178|Wat zou voor jou niet onderhandelbaar zijn bij het uitkiezen van een parfum voor elke dag?|Welk detail zou je checken voordat je een elektrisch scheerapparaat koopt?|
+beaute-apparence-179|Welk criterium zou voor jou het zwaarst wegen bij het kopen van een winterjas?|Waar zou je het strengst op letten bij het uitkiezen van een schoonheidssalon?|
+beaute-apparence-180|Waar zou je als eerste naar kijken bij het vinden van een kapper voor een belangrijk evenement?|Wat zou je prioriteit zijn bij het kiezen van een bril?|
+beaute-apparence-181|Wat zou voor jou niet onderhandelbaar zijn bij het kiezen van een shampoo voor dagelijks gebruik?|Welk detail zou je checken voordat je waterdichte laarzen koopt?|
+beaute-apparence-182|Welk criterium zou voor jou het zwaarst wegen als je in een föhn investeert?|Waar zou je het strengst op letten bij het kiezen van een deodorant om mee te sporten?|
+beaute-apparence-183|Waar zou je als eerste naar kijken bij het kopen van een tas voor je werk?|Wat zou je prioriteit zijn bij het vinden van een kapsel dat makkelijk te stylen is?|
+beaute-apparence-184|Wat zou voor jou niet onderhandelbaar zijn bij het kiezen van een foundation in de winkel?|Welk detail zou je checken voordat je kleding kiest om licht te reizen?|
+beaute-apparence-185|Welk criterium zou voor jou het zwaarst wegen bij het laten vermaken van een nette outfit?|Waar zou je het strengst op letten bij het kopen van een verlichte spiegel voor de badkamer?|
+beaute-apparence-186|Waar zou je als eerste naar kijken bij het kiezen van een haarborstel?|Wat zou je prioriteit zijn bij het kiezen van make-up voor een ceremonie?|
+beaute-apparence-187|Wat zou voor jou niet onderhandelbaar zijn bij het kopen van een elektrisch scheerapparaat?|Welk detail zou je checken voordat je een crème voor de gevoelige huid kiest?|
+beaute-apparence-188|Welk criterium zou voor jou het zwaarst wegen bij het uitkiezen van een schoonheidssalon?|Waar zou je het strengst op letten bij het kopen van schoenen om de hele dag op te lopen?|
+beaute-apparence-189|Waar zou je als eerste naar kijken bij het kiezen van een bril?|Wat zou je prioriteit zijn bij het uitkiezen van een parfum voor elke dag?|
+beaute-apparence-190|Wat zou voor jou niet onderhandelbaar zijn bij het kopen van waterdichte laarzen?|Welk detail zou je checken voordat je een winterjas koopt?|
+beaute-apparence-191|Welk criterium zou voor jou het zwaarst wegen bij het kiezen van een deodorant om mee te sporten?|Waar zou je het strengst op letten bij het vinden van een kapper voor een belangrijk evenement?|
+beaute-apparence-192|Waar zou je als eerste naar kijken bij het vinden van een kapsel dat makkelijk te stylen is?|Wat zou je prioriteit zijn bij het kiezen van een shampoo voor dagelijks gebruik?|
+beaute-apparence-193|Wat zou voor jou niet onderhandelbaar zijn bij het kiezen van kleding om licht te reizen?|Welk detail zou je checken voordat je in een föhn investeert?|
+beaute-apparence-194|Welk criterium zou voor jou het zwaarst wegen bij het kopen van een verlichte spiegel voor de badkamer?|Waar zou je het strengst op letten bij het kopen van een tas voor je werk?|
+beaute-apparence-195|Waar zou je als eerste naar kijken bij het kiezen van make-up voor een ceremonie?|Wat zou je prioriteit zijn bij het kiezen van een foundation in de winkel?|
+beaute-apparence-196|Waar zou je als eerste naar kijken bij het kiezen van een crème voor de gevoelige huid?|Wat zou je prioriteit zijn bij het laten vermaken van een nette outfit?|
+beaute-apparence-197|Wat zou voor jou niet onderhandelbaar zijn bij het kopen van schoenen om de hele dag op te lopen?|Welk detail zou je checken voordat je een haarborstel kiest?|
+beaute-apparence-198|Welk criterium zou voor jou het zwaarst wegen bij het uitkiezen van een parfum voor elke dag?|Waar zou je het strengst op letten bij het kopen van een elektrisch scheerapparaat?|
+beaute-apparence-199|Waar zou je als eerste naar kijken bij het kopen van een winterjas?|Wat zou je prioriteit zijn bij het uitkiezen van een schoonheidssalon?|
+beaute-apparence-200|Wat zou voor jou niet onderhandelbaar zijn bij het vinden van een kapper voor een belangrijk evenement?|Welk detail zou je checken voordat je een bril kiest?|

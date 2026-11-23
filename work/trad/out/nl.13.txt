@@ -1,0 +1,600 @@
+animaux-compagnie-001|Hoeveel zou je maximaal betalen voor een comfortabele mand voor een middelgrote hond?|Welke prijs zou je redelijk vinden voor een goedgekeurde reistas voor een kat?|
+animaux-compagnie-002|Hoeveel zou je willen uitgeven aan een controlebezoek bij de dierenarts voor een kat?|Wat zou in euro's je grens zijn voor een jaarlijkse dierenverzekering voor een hond?|
+animaux-compagnie-003|Welk budget zou je uittrekken voor een stevige krabpaal van 150 cm?|Vanaf welke prijs zou je een orthopedisch bed voor een oude hond te duur vinden?|
+animaux-compagnie-004|Hoeveel zou je maximaal betalen voor een goede riem en een goed tuig voor een hond?|Welke prijs zou je redelijk vinden voor een hondentraining in een kleine groep?|
+animaux-compagnie-005|Hoeveel zou je willen uitgeven aan een volledig uitgerust aquarium van 60 liter?|Wat zou in euro's je grens zijn voor een elektrische drinkfontein voor een kat?|
+animaux-compagnie-006|Welk budget zou je uittrekken voor drie dagen hondenpension?|Vanaf welke prijs zou je een maand premium kattenvoer te duur vinden?|
+animaux-compagnie-007|Hoeveel zou je maximaal betalen voor een week kattenoppas aan huis?|Welke prijs zou je redelijk vinden voor een professionele fotoshoot met je huisdier?|
+animaux-compagnie-008|Hoeveel zou je willen uitgeven aan een geschikt hok voor twee cavia's?|Wat zou in euro's je grens zijn voor een automatische brokjesdispenser?|
+animaux-compagnie-009|Welk budget zou je uittrekken voor een speeltje om een energieke hond bezig te houden?|Vanaf welke prijs zou je een vachtborstel voor een langharige hond te duur vinden?|
+animaux-compagnie-010|Hoeveel zou je maximaal betalen voor een goedgekeurde reistas voor een kat?|Welke prijs zou je redelijk vinden voor een spoedconsult bij de dierenarts?|
+animaux-compagnie-011|Hoeveel zou je willen uitgeven aan een jaarlijkse dierenverzekering voor een hond?|Wat zou in euro's je grens zijn voor een geïsoleerd hondenhok voor een hond met toegang tot de tuin?|
+animaux-compagnie-012|Welk budget zou je uittrekken voor een orthopedisch bed voor een oude hond?|Vanaf welke prijs zou je een comfortabele mand voor een middelgrote hond te duur vinden?|
+animaux-compagnie-013|Hoeveel zou je maximaal betalen voor een hondentraining in een kleine groep?|Welke prijs zou je redelijk vinden voor een controlebezoek bij de dierenarts voor een kat?|
+animaux-compagnie-014|Hoeveel zou je willen uitgeven aan een elektrische drinkfontein voor een kat?|Wat zou in euro's je grens zijn voor een stevige krabpaal van 150 cm?|
+animaux-compagnie-015|Welk budget zou je uittrekken voor een maand premium kattenvoer?|Vanaf welke prijs zou je een goede riem en een goed tuig voor een hond te duur vinden?|
+animaux-compagnie-016|Hoeveel zou je maximaal betalen voor een professionele fotoshoot met je huisdier?|Welke prijs zou je redelijk vinden voor een volledig uitgerust aquarium van 60 liter?|
+animaux-compagnie-017|Hoeveel zou je willen uitgeven aan een automatische brokjesdispenser?|Wat zou in euro's je grens zijn voor drie dagen hondenpension?|
+animaux-compagnie-018|Welk budget zou je uittrekken voor een vachtborstel voor een langharige hond?|Vanaf welke prijs zou je een week kattenoppas aan huis te duur vinden?|
+animaux-compagnie-019|Hoeveel zou je maximaal betalen voor een spoedconsult bij de dierenarts?|Welke prijs zou je redelijk vinden voor een geschikt hok voor twee cavia's?|
+animaux-compagnie-020|Hoeveel zou je willen uitgeven aan een geïsoleerd hondenhok voor een hond met toegang tot de tuin?|Wat zou in euro's je grens zijn voor een speeltje om een energieke hond bezig te houden?|
+animaux-compagnie-021|Hoeveel zou je willen uitgeven aan een comfortabele mand voor een middelgrote hond?|Wat zou in euro's je grens zijn voor een goedgekeurde reistas voor een kat?|
+animaux-compagnie-022|Welk budget zou je uittrekken voor een controlebezoek bij de dierenarts voor een kat?|Vanaf welke prijs zou je een jaarlijkse dierenverzekering voor een hond te duur vinden?|
+animaux-compagnie-023|Hoeveel zou je maximaal betalen voor een stevige krabpaal van 150 cm?|Welke prijs zou je redelijk vinden voor een orthopedisch bed voor een oude hond?|
+animaux-compagnie-024|Hoeveel zou je willen uitgeven aan een goede riem en een goed tuig voor een hond?|Wat zou in euro's je grens zijn voor een hondentraining in een kleine groep?|
+animaux-compagnie-025|Welk budget zou je uittrekken voor een volledig uitgerust aquarium van 60 liter?|Vanaf welke prijs zou je een elektrische drinkfontein voor een kat te duur vinden?|
+animaux-compagnie-026|Wat zou je antwoorden als een buurman je vertelde dat je hond te veel blaft als je weg bent?|Hoe zou je reageren als een vriend je vroeg waarom je kat zo'n aparte naam heeft?|
+animaux-compagnie-027|Wat zou je eerste zin zijn als een vriend vroeg of zijn kat een weekend bij jou mag logeren?|Wat zou je zeggen als een voorbijganger vroeg of hij je hond mag aaien?|
+animaux-compagnie-028|Wat zou je terugzeggen als een kind vroeg waarom je geen huisdier wilt nemen?|Welke woorden zou je gebruiken als iemand je een puppy aanbood zonder je bedenktijd te geven?|
+animaux-compagnie-029|Wat zou je antwoorden als iemand zei bang te zijn voor je hond, hoewel die klein is?|Hoe zou je reageren als een vriend je vroeg of een goudvis makkelijk te verzorgen is?|
+animaux-compagnie-030|Wat zou je eerste zin zijn als een verhuurder je vertelde dat huisdieren in zijn woning verboden zijn?|Wat zou je zeggen als iemand die je na staat zei dat je kat hem lijkt te negeren?|
+animaux-compagnie-031|Wat zou je terugzeggen als een vriend je vroeg om tijdens de vakantie op zijn konijn te passen?|Welke woorden zou je gebruiken als de conciërge van je flat een moddervlek in de hal meldde?|
+animaux-compagnie-032|Wat zou je antwoorden als iemand die je na staat erop stond je hond restjes van tafel te geven?|Hoe zou je reageren als een vriend je vertelde dat hij zijn huisdier verloren heeft?|
+animaux-compagnie-033|Wat zou je eerste zin zijn als de dierenarts ander voer aanraadde?|Wat zou je zeggen als een kind je vroeg of alle honden van water houden?|
+animaux-compagnie-034|Wat zou je terugzeggen als een buurman klaagde over haren in de lift?|Welke woorden zou je gebruiken als een kennis een dier wilde nemen zonder te weten wat het nodig heeft?|
+animaux-compagnie-035|Wat zou je antwoorden als een vriend je vroeg waarom je kat zo'n aparte naam heeft?|Hoe zou je reageren als een buurman je vroeg om een dag lang zijn hond uit te laten?|
+animaux-compagnie-036|Wat zou je eerste zin zijn als een voorbijganger vroeg of hij je hond mag aaien?|Wat zou je zeggen als een vriend je vertelde dat hij bang is voor katten?|
+animaux-compagnie-037|Wat zou je terugzeggen als iemand je een puppy aanbood zonder je bedenktijd te geven?|Welke woorden zou je gebruiken als een buurman je vertelde dat je hond te veel blaft als je weg bent?|
+animaux-compagnie-038|Wat zou je antwoorden als een vriend je vroeg of een goudvis makkelijk te verzorgen is?|Hoe zou je reageren als een vriend vroeg of zijn kat een weekend bij jou mag logeren?|
+animaux-compagnie-039|Wat zou je eerste zin zijn als iemand die je na staat zei dat je kat hem lijkt te negeren?|Wat zou je zeggen als een kind vroeg waarom je geen huisdier wilt nemen?|
+animaux-compagnie-040|Wat zou je terugzeggen als de conciërge van je flat een moddervlek in de hal meldde?|Welke woorden zou je gebruiken als iemand zei bang te zijn voor je hond, hoewel die klein is?|
+animaux-compagnie-041|Wat zou je antwoorden als een vriend je vertelde dat hij zijn huisdier verloren heeft?|Hoe zou je reageren als een verhuurder je vertelde dat huisdieren in zijn woning verboden zijn?|
+animaux-compagnie-042|Wat zou je eerste zin zijn als een kind je vroeg of alle honden van water houden?|Wat zou je zeggen als een vriend je vroeg om tijdens de vakantie op zijn konijn te passen?|
+animaux-compagnie-043|Wat zou je terugzeggen als een kennis een dier wilde nemen zonder te weten wat het nodig heeft?|Welke woorden zou je gebruiken als iemand die je na staat erop stond je hond restjes van tafel te geven?|
+animaux-compagnie-044|Wat zou je antwoorden als een buurman je vroeg om een dag lang zijn hond uit te laten?|Hoe zou je reageren als de dierenarts ander voer aanraadde?|
+animaux-compagnie-045|Wat zou je eerste zin zijn als een vriend je vertelde dat hij bang is voor katten?|Wat zou je zeggen als een buurman klaagde over haren in de lift?|
+animaux-compagnie-046|Wat zou je eerste zin zijn als een buurman je vertelde dat je hond te veel blaft als je weg bent?|Wat zou je zeggen als een vriend je vroeg waarom je kat zo'n aparte naam heeft?|
+animaux-compagnie-047|Wat zou je terugzeggen als een vriend vroeg of zijn kat een weekend bij jou mag logeren?|Welke woorden zou je gebruiken als een voorbijganger vroeg of hij je hond mag aaien?|
+animaux-compagnie-048|Wat zou je antwoorden als een kind vroeg waarom je geen huisdier wilt nemen?|Hoe zou je reageren als iemand je een puppy aanbood zonder je bedenktijd te geven?|
+animaux-compagnie-049|Wat zou je eerste zin zijn als iemand zei bang te zijn voor je hond, hoewel die klein is?|Wat zou je zeggen als een vriend je vroeg of een goudvis makkelijk te verzorgen is?|
+animaux-compagnie-050|Wat zou je terugzeggen als een verhuurder je vertelde dat huisdieren in zijn woning verboden zijn?|Welke woorden zou je gebruiken als iemand die je na staat zei dat je kat hem lijkt te negeren?|
+animaux-compagnie-051|Wat zou je als eerste doen als je hond uit de tuin ontsnapte terwijl je aan het koken was?|Wat zou je eerst besluiten te doen als een vriend onaangekondigd met zijn hond langskwam?|
+animaux-compagnie-052|Wat zou je eerste reactie zijn als een onbekende kat je appartement binnenliep?|Hoe zou je eerst te werk gaan als je bij thuiskomst merkte dat de waterbak leeg is?|
+animaux-compagnie-053|Waarmee zou je beginnen als je huisdier ineens zijn gewone voer weigerde?|Wat zou je eerste actie zijn als je hond heel hard aan de riem begon te trekken?|
+animaux-compagnie-054|Wat zou je als eerste doen als je een hond in zijn eentje bij een drukke weg vond?|Wat zou je eerst besluiten te doen als een gevonden dier een halsband zonder penning droeg?|
+animaux-compagnie-055|Wat zou je eerste reactie zijn als de mand van je kat tijdens een verhuizing zoekraakte?|Hoe zou je eerst te werk gaan als je reservering bij het dierenpension de dag voor de vakantie werd geannuleerd?|
+animaux-compagnie-056|Waarmee zou je beginnen als een dier een glas water over je computer omstootte?|Wat zou je eerste actie zijn als je een kat zag die vastzat op het balkon van de buren?|
+animaux-compagnie-057|Wat zou je als eerste doen als je hond een schoen kapotmaakte die je net had gekocht?|Wat zou je eerst besluiten te doen als je hond overgaf vlak nadat hij andere brokjes had gekregen?|
+animaux-compagnie-058|Wat zou je eerste reactie zijn als je kat zich vlak voor een afspraak bij de dierenarts verstopte?|Hoe zou je eerst te werk gaan als je een konijn moest vervoeren zonder zijn gewone reismand?|
+animaux-compagnie-059|Waarmee zou je beginnen als je na een wandeling een teek op je hond ontdekte?|Wat zou je eerste actie zijn als je kat steeds aan dezelfde fauteuil krabde?|
+animaux-compagnie-060|Wat zou je als eerste doen als een vriend onaangekondigd met zijn hond langskwam?|Wat zou je eerst besluiten te doen als je een gewonde vogel in je tuin vond?|
+animaux-compagnie-061|Wat zou je eerste reactie zijn als je bij thuiskomst merkte dat de waterbak leeg is?|Hoe zou je eerst te werk gaan als je hond weigerde in de auto te stappen om naar het park te gaan?|
+animaux-compagnie-062|Waarmee zou je beginnen als je hond heel hard aan de riem begon te trekken?|Wat zou je eerste actie zijn als je hond uit de tuin ontsnapte terwijl je aan het koken was?|
+animaux-compagnie-063|Wat zou je als eerste doen als een gevonden dier een halsband zonder penning droeg?|Wat zou je eerst besluiten te doen als een onbekende kat je appartement binnenliep?|
+animaux-compagnie-064|Wat zou je eerste reactie zijn als je reservering bij het dierenpension de dag voor de vakantie werd geannuleerd?|Hoe zou je eerst te werk gaan als je huisdier ineens zijn gewone voer weigerde?|
+animaux-compagnie-065|Waarmee zou je beginnen als je een kat zag die vastzat op het balkon van de buren?|Wat zou je eerste actie zijn als je een hond in zijn eentje bij een drukke weg vond?|
+animaux-compagnie-066|Wat zou je als eerste doen als je hond overgaf vlak nadat hij andere brokjes had gekregen?|Wat zou je eerst besluiten te doen als de mand van je kat tijdens een verhuizing zoekraakte?|
+animaux-compagnie-067|Wat zou je eerste reactie zijn als je een konijn moest vervoeren zonder zijn gewone reismand?|Hoe zou je eerst te werk gaan als een dier een glas water over je computer omstootte?|
+animaux-compagnie-068|Waarmee zou je beginnen als je kat steeds aan dezelfde fauteuil krabde?|Wat zou je eerste actie zijn als je hond een schoen kapotmaakte die je net had gekocht?|
+animaux-compagnie-069|Wat zou je als eerste doen als je een gewonde vogel in je tuin vond?|Wat zou je eerst besluiten te doen als je kat zich vlak voor een afspraak bij de dierenarts verstopte?|
+animaux-compagnie-070|Wat zou je eerste reactie zijn als je hond weigerde in de auto te stappen om naar het park te gaan?|Hoe zou je eerst te werk gaan als je na een wandeling een teek op je hond ontdekte?|
+animaux-compagnie-071|Wat zou je eerste reactie zijn als je hond uit de tuin ontsnapte terwijl je aan het koken was?|Hoe zou je eerst te werk gaan als een vriend onaangekondigd met zijn hond langskwam?|
+animaux-compagnie-072|Waarmee zou je beginnen als een onbekende kat je appartement binnenliep?|Wat zou je eerste actie zijn als je bij thuiskomst merkte dat de waterbak leeg is?|
+animaux-compagnie-073|Wat zou je als eerste doen als je huisdier ineens zijn gewone voer weigerde?|Wat zou je eerst besluiten te doen als je hond heel hard aan de riem begon te trekken?|
+animaux-compagnie-074|Wat zou je eerste reactie zijn als je een hond in zijn eentje bij een drukke weg vond?|Hoe zou je eerst te werk gaan als een gevonden dier een halsband zonder penning droeg?|
+animaux-compagnie-075|Waarmee zou je beginnen als de mand van je kat tijdens een verhuizing zoekraakte?|Wat zou je eerste actie zijn als je reservering bij het dierenpension de dag voor de vakantie werd geannuleerd?|
+animaux-compagnie-076|Wat zou je eerder kiezen: een volwassen kat adopteren of een kitten adopteren?|Als je maar één optie had, wat zou het worden: met je hond op reis gaan of voor een hondenpension kiezen?|
+animaux-compagnie-077|Wat zou je liever willen: samenleven met een rustige hond of samenleven met een onafhankelijke kat?|Wat spreekt je het meest aan: een dier uit het asiel adopteren of via een verantwoorde fokker gaan?|
+animaux-compagnie-078|Als je de knoop moest doorhakken: je hond uitlaten in het park of hem meenemen naar het bos?|Waar zou je de voorkeur aan geven: twee katten samen adopteren of maar één kat adopteren?|
+animaux-compagnie-079|Wat zou je eerder kiezen: een dier bij jou thuis opvangen of het bij het baasje thuis laten verzorgen?|Als je maar één optie had, wat zou het worden: een heel speels huisdier hebben of een heel rustig huisdier hebben?|
+animaux-compagnie-080|Wat zou je liever willen: een tuigje kiezen of een gewone halsband kiezen?|Wat spreekt je het meest aan: een kortharige hond nemen of een langharige hond?|
+animaux-compagnie-081|Als je de knoop moest doorhakken: een kleine hond adopteren of een grote hond adopteren?|Waar zou je de voorkeur aan geven: vaak een korte wandeling of één lange wandeling per dag?|
+animaux-compagnie-082|Wat zou je eerder kiezen: je kat speeltjes geven of schuilplekjes inrichten?|Als je maar één optie had, wat zou het worden: een krabplank aan de muur hangen of een grote krabpaal?|
+animaux-compagnie-083|Wat zou je liever willen: een aquarium hebben of een terrarium hebben?|Wat spreekt je het meest aan: een gewone voerbak of een voerautomaat?|
+animaux-compagnie-084|Als je de knoop moest doorhakken: je kat op bed laten slapen of hem in zijn eigen mand laten slapen?|Waar zou je de voorkeur aan geven: je hond een nieuw kunstje leren of hem leren goed terug te komen als je roept?|
+animaux-compagnie-085|Wat zou je eerder kiezen: met je hond op reis gaan of voor een hondenpension kiezen?|Als je maar één optie had, wat zou het worden: je huisdier laten opvangen door iemand die je kent of een professional inschakelen?|
+animaux-compagnie-086|Wat zou je liever willen: een dier uit het asiel adopteren of via een verantwoorde fokker gaan?|Wat spreekt je het meest aan: een sociale kat kiezen of een wat terughoudendere kat?|
+animaux-compagnie-087|Als je de knoop moest doorhakken: twee katten samen adopteren of maar één kat adopteren?|Waar zou je de voorkeur aan geven: een volwassen kat adopteren of een kitten adopteren?|
+animaux-compagnie-088|Wat zou je eerder kiezen: een heel speels huisdier hebben of een heel rustig huisdier hebben?|Als je maar één optie had, wat zou het worden: samenleven met een rustige hond of samenleven met een onafhankelijke kat?|
+animaux-compagnie-089|Wat zou je liever willen: een kortharige hond nemen of een langharige hond?|Wat spreekt je het meest aan: je hond uitlaten in het park of hem meenemen naar het bos?|
+animaux-compagnie-090|Als je de knoop moest doorhakken: vaak een korte wandeling of één lange wandeling per dag?|Waar zou je de voorkeur aan geven: een dier bij jou thuis opvangen of het bij het baasje thuis laten verzorgen?|
+animaux-compagnie-091|Wat zou je eerder kiezen: een krabplank aan de muur hangen of een grote krabpaal?|Als je maar één optie had, wat zou het worden: een tuigje kiezen of een gewone halsband kiezen?|
+animaux-compagnie-092|Wat zou je liever willen: een gewone voerbak of een voerautomaat?|Wat spreekt je het meest aan: een kleine hond adopteren of een grote hond adopteren?|
+animaux-compagnie-093|Als je de knoop moest doorhakken: je hond een nieuw kunstje leren of hem leren goed terug te komen als je roept?|Waar zou je de voorkeur aan geven: je kat speeltjes geven of schuilplekjes inrichten?|
+animaux-compagnie-094|Wat zou je eerder kiezen: je huisdier laten opvangen door iemand die je kent of een professional inschakelen?|Als je maar één optie had, wat zou het worden: een aquarium hebben of een terrarium hebben?|
+animaux-compagnie-095|Wat zou je liever willen: een sociale kat kiezen of een wat terughoudendere kat?|Wat spreekt je het meest aan: je kat op bed laten slapen of hem in zijn eigen mand laten slapen?|
+animaux-compagnie-096|Wat zou je liever willen: een volwassen kat adopteren of een kitten adopteren?|Wat spreekt je het meest aan: met je hond op reis gaan of voor een hondenpension kiezen?|
+animaux-compagnie-097|Als je de knoop moest doorhakken: samenleven met een rustige hond of samenleven met een onafhankelijke kat?|Waar zou je de voorkeur aan geven: een dier uit het asiel adopteren of via een verantwoorde fokker gaan?|
+animaux-compagnie-098|Wat zou je eerder kiezen: je hond uitlaten in het park of hem meenemen naar het bos?|Als je maar één optie had, wat zou het worden: twee katten samen adopteren of maar één kat adopteren?|
+animaux-compagnie-099|Wat zou je liever willen: een dier bij jou thuis opvangen of het bij het baasje thuis laten verzorgen?|Wat spreekt je het meest aan: een heel speels huisdier hebben of een heel rustig huisdier hebben?|
+animaux-compagnie-100|Als je de knoop moest doorhakken: een tuigje kiezen of een gewone halsband kiezen?|Waar zou je de voorkeur aan geven: een kortharige hond nemen of een langharige hond?|
+animaux-compagnie-101|Hoeveel minuten zou je nodig hebben om elke ochtend het eten van een hond klaar te maken?|Hoeveel tijd zou je in minuten uittrekken om de kattenbak te verschonen?|
+animaux-compagnie-102|Hoeveel minuten zou je eraan besteden om een langharige kat te borstelen voordat er bezoek komt?|Hoeveel minuten zou je erover doen om dierenverzekeringen te vergelijken?|
+animaux-compagnie-103|Hoeveel minuten zou je ervoor vrijmaken om een caviahok schoon te maken?|Hoeveel minuten zou je er doorgaans over doen om een hond te leren rustig te blijven voor een wandeling?|
+animaux-compagnie-104|Hoeveel minuten zou je nodig hebben om een tas voor een hondenwandeling in te pakken?|Hoeveel tijd zou je in minuten uittrekken om een reismand klaar te zetten voor een afspraak bij de dierenarts?|
+animaux-compagnie-105|Hoeveel minuten zou je eraan besteden om in de winkel een geschikt speeltje voor een puppy uit te kiezen?|Hoeveel minuten zou je erover doen om een veilige ruimte voor een konijn in te richten?|
+animaux-compagnie-106|Hoeveel minuten zou je ervoor vrijmaken om een klein aquarium te vullen en schoon te maken?|Hoeveel minuten zou je er doorgaans over doen om een hond na een modderige wandeling te borstelen?|
+animaux-compagnie-107|Hoeveel minuten zou je nodig hebben om voor de vakantie een betrouwbaar dierenpension te zoeken?|Hoeveel tijd zou je in minuten uittrekken om na een bezoek de haren van de bank te halen?|
+animaux-compagnie-108|Hoeveel minuten zou je eraan besteden om een rustplekje voor een pas geadopteerde kat in te richten?|Hoeveel minuten zou je erover doen om de accessoires van een aquarium na te lopen?|
+animaux-compagnie-109|Hoeveel minuten zou je ervoor vrijmaken om een korte trainingssessie met een hond te doen?|Hoeveel minuten zou je er doorgaans over doen om de bakjes te vullen voordat je twee uur weggaat?|
+animaux-compagnie-110|Hoeveel minuten zou je nodig hebben om de kattenbak te verschonen?|Hoeveel tijd zou je in minuten uittrekken om samen met een gespecialiseerde verkoper geschikte brokjes uit te kiezen?|
+animaux-compagnie-111|Hoeveel minuten zou je eraan besteden om dierenverzekeringen te vergelijken?|Hoeveel minuten zou je erover doen om je huisdier voor te bereiden op een autorit?|
+animaux-compagnie-112|Hoeveel minuten zou je ervoor vrijmaken om een hond te leren rustig te blijven voor een wandeling?|Hoeveel minuten zou je er doorgaans over doen om elke ochtend het eten van een hond klaar te maken?|
+animaux-compagnie-113|Hoeveel minuten zou je nodig hebben om een reismand klaar te zetten voor een afspraak bij de dierenarts?|Hoeveel tijd zou je in minuten uittrekken om een langharige kat te borstelen voordat er bezoek komt?|
+animaux-compagnie-114|Hoeveel minuten zou je eraan besteden om een veilige ruimte voor een konijn in te richten?|Hoeveel minuten zou je erover doen om een caviahok schoon te maken?|
+animaux-compagnie-115|Hoeveel minuten zou je ervoor vrijmaken om een hond na een modderige wandeling te borstelen?|Hoeveel minuten zou je er doorgaans over doen om een tas voor een hondenwandeling in te pakken?|
+animaux-compagnie-116|Hoeveel minuten zou je nodig hebben om na een bezoek de haren van de bank te halen?|Hoeveel tijd zou je in minuten uittrekken om in de winkel een geschikt speeltje voor een puppy uit te kiezen?|
+animaux-compagnie-117|Hoeveel minuten zou je eraan besteden om de accessoires van een aquarium na te lopen?|Hoeveel minuten zou je erover doen om een klein aquarium te vullen en schoon te maken?|
+animaux-compagnie-118|Hoeveel minuten zou je ervoor vrijmaken om de bakjes te vullen voordat je twee uur weggaat?|Hoeveel minuten zou je er doorgaans over doen om voor de vakantie een betrouwbaar dierenpension te zoeken?|
+animaux-compagnie-119|Hoeveel minuten zou je nodig hebben om samen met een gespecialiseerde verkoper geschikte brokjes uit te kiezen?|Hoeveel tijd zou je in minuten uittrekken om een rustplekje voor een pas geadopteerde kat in te richten?|
+animaux-compagnie-120|Hoeveel minuten zou je eraan besteden om je huisdier voor te bereiden op een autorit?|Hoeveel minuten zou je erover doen om een korte trainingssessie met een hond te doen?|
+animaux-compagnie-121|Hoeveel minuten zou je eraan besteden om elke ochtend het eten van een hond klaar te maken?|Hoeveel minuten zou je erover doen om de kattenbak te verschonen?|
+animaux-compagnie-122|Hoeveel minuten zou je ervoor vrijmaken om een langharige kat te borstelen voordat er bezoek komt?|Hoeveel minuten zou je er doorgaans over doen om dierenverzekeringen te vergelijken?|
+animaux-compagnie-123|Hoeveel minuten zou je nodig hebben om een caviahok schoon te maken?|Hoeveel tijd zou je in minuten uittrekken om een hond te leren rustig te blijven voor een wandeling?|
+animaux-compagnie-124|Hoeveel minuten zou je eraan besteden om een tas voor een hondenwandeling in te pakken?|Hoeveel minuten zou je erover doen om een reismand klaar te zetten voor een afspraak bij de dierenarts?|
+animaux-compagnie-125|Hoeveel minuten zou je ervoor vrijmaken om in de winkel een geschikt speeltje voor een puppy uit te kiezen?|Hoeveel minuten zou je er doorgaans over doen om een veilige ruimte voor een konijn in te richten?|
+animaux-compagnie-126|Aan wie zou je advies vragen om een trainer voor een heel energieke puppy te vinden?|Wie zou je bellen om het gedrag van een angstige hond te begrijpen?|
+animaux-compagnie-127|Met wie zou je als eerste contact opnemen om tijdens een werkdag op je hond te passen?|Wie zou je om raad vragen om een bezoek aan de dierenarts voor een oude kat te regelen?|
+animaux-compagnie-128|Bij wie zou je aankloppen om advies over de voeding van een kat te krijgen?|Met wie zou je eerst praten om voor het eerst een aquarium in te richten?|
+animaux-compagnie-129|Aan wie zou je advies vragen om een huisdier te kiezen dat geschikt is voor een klein appartement?|Wie zou je bellen om te leren hoe je een cavia voorzichtig oppakt?|
+animaux-compagnie-130|Met wie zou je als eerste contact opnemen om te weten of je kat een controle bij de dierenarts nodig heeft?|Wie zou je om raad vragen om een trimsalon voor een langharige hond te vinden?|
+animaux-compagnie-131|Bij wie zou je aankloppen om advies te vragen voordat je een konijn neemt?|Met wie zou je eerst praten om een probleem met krabsporen op de meubels op te lossen?|
+animaux-compagnie-132|Aan wie zou je advies vragen om een betrouwbaar hondenpension te vinden?|Wie zou je bellen om te begrijpen welke verplichtingen bij het adopteren van een hond horen?|
+animaux-compagnie-133|Met wie zou je als eerste contact opnemen om een comfortabel tuig voor je hond uit te kiezen?|Wie zou je om raad vragen om na te gaan of een plant giftig is voor een kat?|
+animaux-compagnie-134|Bij wie zou je aankloppen om tijdens een week vakantie op een vis te passen?|Met wie zou je eerst praten om een speeltje te kiezen dat past bij de grootte van een puppy?|
+animaux-compagnie-135|Aan wie zou je advies vragen om het gedrag van een angstige hond te begrijpen?|Wie zou je bellen om te weten wat je moet doen met een gewonde vogel?|
+animaux-compagnie-136|Met wie zou je als eerste contact opnemen om een bezoek aan de dierenarts voor een oude kat te regelen?|Wie zou je om raad vragen om een wandeling voor een oude hond te regelen?|
+animaux-compagnie-137|Bij wie zou je aankloppen om voor het eerst een aquarium in te richten?|Met wie zou je eerst praten om een trainer voor een heel energieke puppy te vinden?|
+animaux-compagnie-138|Aan wie zou je advies vragen om te leren hoe je een cavia voorzichtig oppakt?|Wie zou je bellen om tijdens een werkdag op je hond te passen?|
+animaux-compagnie-139|Met wie zou je als eerste contact opnemen om een trimsalon voor een langharige hond te vinden?|Wie zou je om raad vragen om advies over de voeding van een kat te krijgen?|
+animaux-compagnie-140|Bij wie zou je aankloppen om een probleem met krabsporen op de meubels op te lossen?|Met wie zou je eerst praten om een huisdier te kiezen dat geschikt is voor een klein appartement?|
+animaux-compagnie-141|Aan wie zou je advies vragen om te begrijpen welke verplichtingen bij het adopteren van een hond horen?|Wie zou je bellen om te weten of je kat een controle bij de dierenarts nodig heeft?|
+animaux-compagnie-142|Met wie zou je als eerste contact opnemen om na te gaan of een plant giftig is voor een kat?|Wie zou je om raad vragen om advies te vragen voordat je een konijn neemt?|
+animaux-compagnie-143|Bij wie zou je aankloppen om een speeltje te kiezen dat past bij de grootte van een puppy?|Met wie zou je eerst praten om een betrouwbaar hondenpension te vinden?|
+animaux-compagnie-144|Aan wie zou je advies vragen om te weten wat je moet doen met een gewonde vogel?|Wie zou je bellen om een comfortabel tuig voor je hond uit te kiezen?|
+animaux-compagnie-145|Met wie zou je als eerste contact opnemen om een wandeling voor een oude hond te regelen?|Wie zou je om raad vragen om tijdens een week vakantie op een vis te passen?|
+animaux-compagnie-146|Met wie zou je als eerste contact opnemen om een trainer voor een heel energieke puppy te vinden?|Wie zou je om raad vragen om het gedrag van een angstige hond te begrijpen?|
+animaux-compagnie-147|Bij wie zou je aankloppen om tijdens een werkdag op je hond te passen?|Met wie zou je eerst praten om een bezoek aan de dierenarts voor een oude kat te regelen?|
+animaux-compagnie-148|Aan wie zou je advies vragen om advies over de voeding van een kat te krijgen?|Wie zou je bellen om voor het eerst een aquarium in te richten?|
+animaux-compagnie-149|Met wie zou je als eerste contact opnemen om een huisdier te kiezen dat geschikt is voor een klein appartement?|Wie zou je om raad vragen om te leren hoe je een cavia voorzichtig oppakt?|
+animaux-compagnie-150|Bij wie zou je aankloppen om te weten of je kat een controle bij de dierenarts nodig heeft?|Met wie zou je eerst praten om een trimsalon voor een langharige hond te vinden?|
+animaux-compagnie-151|Waar zou je heen gaan om op zondagochtend zonder auto een hond uit te laten?|Op welke plek zou je een goedgekeurde reismand willen kopen?|
+animaux-compagnie-152|Waar zou je het liefst spullen voor een pas geadopteerde kat kopen?|Welke plek zou je kiezen om een hond mee te nemen om zich veilig uit te leven?|
+animaux-compagnie-153|Op welke plek zou je graag een hond een weekend laten opvangen?|Waar zou je ervoor kiezen om een dierengedragsdeskundige te spreken?|
+animaux-compagnie-154|Waar zou je heen gaan om op zondag een dienstdoende dierenarts te vinden?|Op welke plek zou je een grote hond willen laten trimmen?|
+animaux-compagnie-155|Waar zou je het liefst je hond op een rustige plek fotograferen?|Welke plek zou je kiezen om een dierenwinkel met goed advies te vinden?|
+animaux-compagnie-156|Op welke plek zou je graag een puppy meenemen om nieuwe geuren te ontdekken?|Waar zou je ervoor kiezen om een uur door te brengen met dieren die een nieuw thuis zoeken?|
+animaux-compagnie-157|Waar zou je heen gaan om kattenbakvulling voor gevoelige katten te kopen?|Op welke plek zou je een aquarium uit de directe zon neer willen zetten?|
+animaux-compagnie-158|Waar zou je het liefst een hondencursus volgen?|Welke plek zou je kiezen om een kat rustig te laten wegkruipen?|
+animaux-compagnie-159|Op welke plek zou je graag een dier via een betrouwbare stichting adopteren?|Waar zou je ervoor kiezen om een hond na een wandeling te laten uitrusten?|
+animaux-compagnie-160|Waar zou je heen gaan om een goedgekeurde reismand te kopen?|Op welke plek zou je in de zomer een schaduwrijke wandelroute willen vinden?|
+animaux-compagnie-161|Waar zou je het liefst een hond meenemen om zich veilig uit te leven?|Welke plek zou je kiezen om een dier dat je net hebt opgevangen te laten onderzoeken?|
+animaux-compagnie-162|Op welke plek zou je graag een dierengedragsdeskundige spreken?|Waar zou je ervoor kiezen om op zondagochtend zonder auto een hond uit te laten?|
+animaux-compagnie-163|Waar zou je heen gaan om een grote hond te laten trimmen?|Op welke plek zou je spullen voor een pas geadopteerde kat willen kopen?|
+animaux-compagnie-164|Waar zou je het liefst een dierenwinkel met goed advies vinden?|Welke plek zou je kiezen om een hond een weekend te laten opvangen?|
+animaux-compagnie-165|Op welke plek zou je graag een uur doorbrengen met dieren die een nieuw thuis zoeken?|Waar zou je ervoor kiezen om op zondag een dienstdoende dierenarts te vinden?|
+animaux-compagnie-166|Waar zou je heen gaan om een aquarium uit de directe zon neer te zetten?|Op welke plek zou je je hond op een rustige plek willen fotograferen?|
+animaux-compagnie-167|Waar zou je het liefst een kat rustig laten wegkruipen?|Welke plek zou je kiezen om een puppy mee te nemen om nieuwe geuren te ontdekken?|
+animaux-compagnie-168|Op welke plek zou je graag een hond na een wandeling laten uitrusten?|Waar zou je ervoor kiezen om kattenbakvulling voor gevoelige katten te kopen?|
+animaux-compagnie-169|Waar zou je heen gaan om in de zomer een schaduwrijke wandelroute te vinden?|Op welke plek zou je een hondencursus willen volgen?|
+animaux-compagnie-170|Waar zou je het liefst een dier dat je net hebt opgevangen laten onderzoeken?|Welke plek zou je kiezen om een dier via een betrouwbare stichting te adopteren?|
+animaux-compagnie-171|Waar zou je het liefst op zondagochtend zonder auto een hond uitlaten?|Welke plek zou je kiezen om een goedgekeurde reismand te kopen?|
+animaux-compagnie-172|Op welke plek zou je graag spullen voor een pas geadopteerde kat kopen?|Waar zou je ervoor kiezen om een hond mee te nemen om zich veilig uit te leven?|
+animaux-compagnie-173|Waar zou je heen gaan om een hond een weekend te laten opvangen?|Op welke plek zou je een dierengedragsdeskundige willen spreken?|
+animaux-compagnie-174|Waar zou je het liefst op zondag een dienstdoende dierenarts vinden?|Welke plek zou je kiezen om een grote hond te laten trimmen?|
+animaux-compagnie-175|Op welke plek zou je graag je hond op een rustige plek fotograferen?|Waar zou je ervoor kiezen om een dierenwinkel met goed advies te vinden?|
+animaux-compagnie-176|Welk voorwerp zou je meenemen om een hond bezig te houden als je even weg bent?|Welk accessoire zou je gebruiken om een puppy te leren in zijn eigen hoekje te slapen?|
+animaux-compagnie-177|Welk accessoire zou je kiezen om een kat naar de dierenarts te brengen?|Met welk voorwerp zou je haren van een zwarte jas willen halen?|
+animaux-compagnie-178|Welk voorwerp zou je onmisbaar vinden om tijdens een wandeling de poep op te ruimen?|Welk voorwerp zou je als eerste pakken om een binnenkat te stimuleren?|
+animaux-compagnie-179|Welk voorwerp zou je meenemen om een dier tijdens onweer te kalmeren?|Welk accessoire zou je gebruiken om de temperatuur van een aquarium te controleren?|
+animaux-compagnie-180|Welk accessoire zou je kiezen om een hond na een boswandeling te borstelen?|Met welk voorwerp zou je een kamer konijnveilig willen maken?|
+animaux-compagnie-181|Welk voorwerp zou je onmisbaar vinden om een autostoel te beschermen tijdens een rit met een hond?|Welk voorwerp zou je als eerste pakken om brokjes thuis vers te houden?|
+animaux-compagnie-182|Welk voorwerp zou je meenemen om een speelhoek voor een kat in te richten?|Welk accessoire zou je gebruiken om een hond in de auto te helpen?|
+animaux-compagnie-183|Welk accessoire zou je kiezen om tijdens een lange wandeling water te geven?|Met welk voorwerp zou je met een kat willen spelen zonder je handen te gebruiken?|
+animaux-compagnie-184|Welk voorwerp zou je onmisbaar vinden om een hond in het donker te zien?|Welk voorwerp zou je als eerste pakken om een dier tijdens een korte rit bezig te houden?|
+animaux-compagnie-185|Welk voorwerp zou je meenemen om een puppy te leren in zijn eigen hoekje te slapen?|Welk accessoire zou je gebruiken om het speelgoed van een hond in de woonkamer op te bergen?|
+animaux-compagnie-186|Welk accessoire zou je kiezen om haren van een zwarte jas te halen?|Met welk voorwerp zou je je voor willen bereiden op een hondenwandeling in de regen?|
+animaux-compagnie-187|Welk voorwerp zou je onmisbaar vinden om een binnenkat te stimuleren?|Welk voorwerp zou je als eerste pakken om een hond bezig te houden als je even weg bent?|
+animaux-compagnie-188|Welk voorwerp zou je meenemen om de temperatuur van een aquarium te controleren?|Welk accessoire zou je gebruiken om een kat naar de dierenarts te brengen?|
+animaux-compagnie-189|Welk accessoire zou je kiezen om een kamer konijnveilig te maken?|Met welk voorwerp zou je tijdens een wandeling de poep op willen ruimen?|
+animaux-compagnie-190|Welk voorwerp zou je onmisbaar vinden om brokjes thuis vers te houden?|Welk voorwerp zou je als eerste pakken om een dier tijdens onweer te kalmeren?|
+animaux-compagnie-191|Welk voorwerp zou je meenemen om een hond in de auto te helpen?|Welk accessoire zou je gebruiken om een hond na een boswandeling te borstelen?|
+animaux-compagnie-192|Welk accessoire zou je kiezen om met een kat te spelen zonder je handen te gebruiken?|Met welk voorwerp zou je een autostoel willen beschermen tijdens een rit met een hond?|
+animaux-compagnie-193|Welk voorwerp zou je onmisbaar vinden om een dier tijdens een korte rit bezig te houden?|Welk voorwerp zou je als eerste pakken om een speelhoek voor een kat in te richten?|
+animaux-compagnie-194|Welk voorwerp zou je meenemen om het speelgoed van een hond in de woonkamer op te bergen?|Welk accessoire zou je gebruiken om tijdens een lange wandeling water te geven?|
+animaux-compagnie-195|Welk accessoire zou je kiezen om je voor te bereiden op een hondenwandeling in de regen?|Met welk voorwerp zou je een hond in het donker willen zien?|
+animaux-compagnie-196|Welk accessoire zou je kiezen om een hond bezig te houden als je even weg bent?|Met welk voorwerp zou je een puppy willen leren in zijn eigen hoekje te slapen?|
+animaux-compagnie-197|Welk voorwerp zou je onmisbaar vinden om een kat naar de dierenarts te brengen?|Welk voorwerp zou je als eerste pakken om haren van een zwarte jas te halen?|
+animaux-compagnie-198|Welk voorwerp zou je meenemen om tijdens een wandeling de poep op te ruimen?|Welk accessoire zou je gebruiken om een binnenkat te stimuleren?|
+animaux-compagnie-199|Welk accessoire zou je kiezen om een dier tijdens onweer te kalmeren?|Met welk voorwerp zou je de temperatuur van een aquarium willen controleren?|
+animaux-compagnie-200|Welk voorwerp zou je onmisbaar vinden om een hond na een boswandeling te borstelen?|Welk voorwerp zou je als eerste pakken om een kamer konijnveilig te maken?|
+cadeaux-surprises-001|Hoeveel zou je maximaal betalen voor een verjaardagscadeau voor een collega met wie je goed omgaat?|Welke prijs zou je redelijk vinden voor een subtiel sieraad voor een diploma-uitreiking?|
+cadeaux-surprises-002|Hoeveel zou je willen uitgeven aan een afscheidscadeau voor een geliefde manager?|Wat zou in euro's je grens zijn voor een belevenis voor twee die je aan je ouders geeft?|
+cadeaux-surprises-003|Welk budget zou je uittrekken voor een boeket dat je naar je moeder stuurt voor haar verjaardag?|Vanaf welke prijs zou je een housewarmingcadeau voor een bevriend stel te duur vinden?|
+cadeaux-surprises-004|Hoeveel zou je maximaal betalen voor een theedoos om een buur te bedanken?|Welke prijs zou je redelijk vinden voor een bluetoothspeaker voor een verjaardag?|
+cadeaux-surprises-005|Hoeveel zou je willen uitgeven aan een groepscadeau voor de dertigste verjaardag van een vriend?|Wat zou in euro's je grens zijn voor een gepersonaliseerd familiefotoalbum?|
+cadeaux-surprises-006|Welk budget zou je uittrekken voor een kraamcadeau voor een eerste kindje?|Vanaf welke prijs zou je een horloge voor een bijzondere verjaardag te duur vinden?|
+cadeaux-surprises-007|Hoeveel zou je maximaal betalen voor een huwelijkscadeau als je gewoon gast bent?|Welke prijs zou je redelijk vinden voor een abonnement van drie maanden op een e-bookdienst?|
+cadeaux-surprises-008|Hoeveel zou je willen uitgeven aan een kerstcadeau voor je beste vriend?|Wat zou in euro's je grens zijn voor een verrassingsdiner dat je voor twee vrienden betaalt?|
+cadeaux-surprises-009|Welk budget zou je uittrekken voor een cadeaupakket met ambachtelijke producten?|Vanaf welke prijs zou je een cadeaukaart voor iemand die moeilijk te verwennen is te duur vinden?|
+cadeaux-surprises-010|Hoeveel zou je maximaal betalen voor een subtiel sieraad voor een diploma-uitreiking?|Welke prijs zou je redelijk vinden voor een bezorging van gebak om iemand te bedanken?|
+cadeaux-surprises-011|Hoeveel zou je willen uitgeven aan een belevenis voor twee die je aan je ouders geeft?|Wat zou in euro's je grens zijn voor een voorwerp gegraveerd met een persoonlijke boodschap?|
+cadeaux-surprises-012|Welk budget zou je uittrekken voor een housewarmingcadeau voor een bevriend stel?|Vanaf welke prijs zou je een verjaardagscadeau voor een collega met wie je goed omgaat te duur vinden?|
+cadeaux-surprises-013|Hoeveel zou je maximaal betalen voor een bluetoothspeaker voor een verjaardag?|Welke prijs zou je redelijk vinden voor een afscheidscadeau voor een geliefde manager?|
+cadeaux-surprises-014|Hoeveel zou je willen uitgeven aan een gepersonaliseerd familiefotoalbum?|Wat zou in euro's je grens zijn voor een boeket dat je naar je moeder stuurt voor haar verjaardag?|
+cadeaux-surprises-015|Welk budget zou je uittrekken voor een horloge voor een bijzondere verjaardag?|Vanaf welke prijs zou je een theedoos om een buur te bedanken te duur vinden?|
+cadeaux-surprises-016|Hoeveel zou je maximaal betalen voor een abonnement van drie maanden op een e-bookdienst?|Welke prijs zou je redelijk vinden voor een groepscadeau voor de dertigste verjaardag van een vriend?|
+cadeaux-surprises-017|Hoeveel zou je willen uitgeven aan een verrassingsdiner dat je voor twee vrienden betaalt?|Wat zou in euro's je grens zijn voor een kraamcadeau voor een eerste kindje?|
+cadeaux-surprises-018|Welk budget zou je uittrekken voor een cadeaukaart voor iemand die moeilijk te verwennen is?|Vanaf welke prijs zou je een huwelijkscadeau als je gewoon gast bent te duur vinden?|
+cadeaux-surprises-019|Hoeveel zou je maximaal betalen voor een bezorging van gebak om iemand te bedanken?|Welke prijs zou je redelijk vinden voor een kerstcadeau voor je beste vriend?|
+cadeaux-surprises-020|Hoeveel zou je willen uitgeven aan een voorwerp gegraveerd met een persoonlijke boodschap?|Wat zou in euro's je grens zijn voor een cadeaupakket met ambachtelijke producten?|
+cadeaux-surprises-021|Hoeveel zou je willen uitgeven aan een verjaardagscadeau voor een collega met wie je goed omgaat?|Wat zou in euro's je grens zijn voor een subtiel sieraad voor een diploma-uitreiking?|
+cadeaux-surprises-022|Welk budget zou je uittrekken voor een afscheidscadeau voor een geliefde manager?|Vanaf welke prijs zou je een belevenis voor twee die je aan je ouders geeft te duur vinden?|
+cadeaux-surprises-023|Hoeveel zou je maximaal betalen voor een boeket dat je naar je moeder stuurt voor haar verjaardag?|Welke prijs zou je redelijk vinden voor een housewarmingcadeau voor een bevriend stel?|
+cadeaux-surprises-024|Hoeveel zou je willen uitgeven aan een theedoos om een buur te bedanken?|Wat zou in euro's je grens zijn voor een bluetoothspeaker voor een verjaardag?|
+cadeaux-surprises-025|Welk budget zou je uittrekken voor een groepscadeau voor de dertigste verjaardag van een vriend?|Vanaf welke prijs zou je een gepersonaliseerd familiefotoalbum te duur vinden?|
+cadeaux-surprises-026|Wat zou je antwoorden als je precies hetzelfde cadeau kreeg als vorig jaar?|Hoe zou je reageren als een vriend vroeg of je liever geld of iets tastbaars wilt?|
+cadeaux-surprises-027|Wat zou je eerste zin zijn als een vriend toegaf dat hij je cadeau niet leuk vond?|Wat zou je zeggen als iemand je een kledingstuk gaf dat twee maten te klein is?|
+cadeaux-surprises-028|Wat zou je terugzeggen als iemand die je na staat je cadeau openmaakte zonder enige reactie?|Welke woorden zou je gebruiken als iemand je cadeau openmaakte waar de hele groep bij was?|
+cadeaux-surprises-029|Wat zou je antwoorden als iemand je recht op de man af vroeg hoeveel je hebt uitgegeven?|Hoe zou je reageren als een gast om een precieze verlanglijst vroeg?|
+cadeaux-surprises-030|Wat zou je eerste zin zijn als een collega een te duur groepscadeau voorstelde?|Wat zou je zeggen als je beste vriend je verjaardag vergat en het daarna doorhad?|
+cadeaux-surprises-031|Wat zou je terugzeggen als een gast zonder cadeau op een verjaardag kwam?|Welke woorden zou je gebruiken als iemand je vertelde dat verrassingen hem een ongemakkelijk gevoel geven?|
+cadeaux-surprises-032|Wat zou je antwoorden als iemand je om de bon vroeg om je cadeau te ruilen?|Hoe zou je reageren als iemand die je na staat je cadeau wilde terugbetalen omdat hij het te gul vond?|
+cadeaux-surprises-033|Wat zou je eerste zin zijn als een vriend je bedankte voor een cadeau dat niet van jou was?|Wat zou je zeggen als een vriendin voorstelde om een nooit geopend cadeau door te geven?|
+cadeaux-surprises-034|Wat zou je terugzeggen als iemand die je na staat vertelde dat hij zijn verrassing al van tevoren had ontdekt?|Welke woorden zou je gebruiken als iemand je mening vroeg over een mislukte verrassing?|
+cadeaux-surprises-035|Wat zou je antwoorden als een vriend vroeg of je liever geld of iets tastbaars wilt?|Hoe zou je reageren als een collega je in het openbaar bedankte voor een gezamenlijk cadeau?|
+cadeaux-surprises-036|Wat zou je eerste zin zijn als iemand je een kledingstuk gaf dat twee maten te klein is?|Wat zou je zeggen als een vriend je vroeg om een week lang een cadeau bij jou te verstoppen?|
+cadeaux-surprises-037|Wat zou je terugzeggen als iemand je cadeau openmaakte waar de hele groep bij was?|Welke woorden zou je gebruiken als je precies hetzelfde cadeau kreeg als vorig jaar?|
+cadeaux-surprises-038|Wat zou je antwoorden als een gast om een precieze verlanglijst vroeg?|Hoe zou je reageren als een vriend toegaf dat hij je cadeau niet leuk vond?|
+cadeaux-surprises-039|Wat zou je eerste zin zijn als je beste vriend je verjaardag vergat en het daarna doorhad?|Wat zou je zeggen als iemand die je na staat je cadeau openmaakte zonder enige reactie?|
+cadeaux-surprises-040|Wat zou je terugzeggen als iemand je vertelde dat verrassingen hem een ongemakkelijk gevoel geven?|Welke woorden zou je gebruiken als iemand je recht op de man af vroeg hoeveel je hebt uitgegeven?|
+cadeaux-surprises-041|Wat zou je antwoorden als iemand die je na staat je cadeau wilde terugbetalen omdat hij het te gul vond?|Hoe zou je reageren als een collega een te duur groepscadeau voorstelde?|
+cadeaux-surprises-042|Wat zou je eerste zin zijn als een vriendin voorstelde om een nooit geopend cadeau door te geven?|Wat zou je zeggen als een gast zonder cadeau op een verjaardag kwam?|
+cadeaux-surprises-043|Wat zou je terugzeggen als iemand je mening vroeg over een mislukte verrassing?|Welke woorden zou je gebruiken als iemand je om de bon vroeg om je cadeau te ruilen?|
+cadeaux-surprises-044|Wat zou je antwoorden als een collega je in het openbaar bedankte voor een gezamenlijk cadeau?|Hoe zou je reageren als een vriend je bedankte voor een cadeau dat niet van jou was?|
+cadeaux-surprises-045|Wat zou je eerste zin zijn als een vriend je vroeg om een week lang een cadeau bij jou te verstoppen?|Wat zou je zeggen als iemand die je na staat vertelde dat hij zijn verrassing al van tevoren had ontdekt?|
+cadeaux-surprises-046|Wat zou je eerste zin zijn als je precies hetzelfde cadeau kreeg als vorig jaar?|Wat zou je zeggen als een vriend vroeg of je liever geld of iets tastbaars wilt?|
+cadeaux-surprises-047|Wat zou je terugzeggen als een vriend toegaf dat hij je cadeau niet leuk vond?|Welke woorden zou je gebruiken als iemand je een kledingstuk gaf dat twee maten te klein is?|
+cadeaux-surprises-048|Wat zou je antwoorden als iemand die je na staat je cadeau openmaakte zonder enige reactie?|Hoe zou je reageren als iemand je cadeau openmaakte waar de hele groep bij was?|
+cadeaux-surprises-049|Wat zou je eerste zin zijn als iemand je recht op de man af vroeg hoeveel je hebt uitgegeven?|Wat zou je zeggen als een gast om een precieze verlanglijst vroeg?|
+cadeaux-surprises-050|Wat zou je terugzeggen als een collega een te duur groepscadeau voorstelde?|Welke woorden zou je gebruiken als je beste vriend je verjaardag vergat en het daarna doorhad?|
+cadeaux-surprises-051|Wat zou je als eerste doen als je besefte dat een vriend morgen jarig is?|Wat zou je eerst besluiten te doen als je een cadeaupakket ontving dat voor je buurman bedoeld is?|
+cadeaux-surprises-052|Wat zou je eerste reactie zijn als een cadeau pas na het feest bezorgd zou worden?|Hoe zou je eerst te werk gaan als je vergat waar je het kerstcadeau hebt verstopt?|
+cadeaux-surprises-053|Waarmee zou je beginnen als je ontdekte dat de ontvanger het gekochte cadeau al heeft?|Wat zou je eerste actie zijn als het geplande cadeau ineens boven je budget uitkwam?|
+cadeaux-surprises-054|Wat zou je als eerste doen als je de kassabon kwijtraakte van een cadeau dat je wilt ruilen?|Wat zou je eerst besluiten te doen als je zag dat een vriend precies het cadeau kocht dat je hem wilde geven?|
+cadeaux-surprises-055|Wat zou je eerste reactie zijn als je per ongeluk een cadeau brak voordat je het had gegeven?|Hoe zou je eerst te werk gaan als een online gekochte cadeaukaart niet werkte?|
+cadeaux-surprises-056|Waarmee zou je beginnen als degene voor wie de verrassing is twee uur te vroeg aankwam?|Wat zou je eerste actie zijn als je doorhad dat de verrassingstaart de verkeerde smaak heeft?|
+cadeaux-surprises-057|Wat zou je als eerste doen als je de verkeerde naam op een gepersonaliseerd cadeau had gezet?|Wat zou je eerst besluiten te doen als de bloemist de geplande bezorging annuleerde?|
+cadeaux-surprises-058|Wat zou je eerste reactie zijn als twee gasten met hetzelfde cadeau aankwamen?|Hoe zou je eerst te werk gaan als je het adres van de ontvanger van het cadeau niet meer kon vinden?|
+cadeaux-surprises-059|Waarmee zou je beginnen als een ballon voor de verrassing knapte voordat de gasten er waren?|Wat zou je eerste actie zijn als degene die gevierd wordt je vroeg om niets te organiseren?|
+cadeaux-surprises-060|Wat zou je als eerste doen als je een cadeaupakket ontving dat voor je buurman bedoeld is?|Wat zou je eerst besluiten te doen als een verrassing die buiten gepland was door regen in het water dreigde te vallen?|
+cadeaux-surprises-061|Wat zou je eerste reactie zijn als je vergat waar je het kerstcadeau hebt verstopt?|Hoe zou je eerst te werk gaan als de webshop na je bestelling meldde dat het product uitverkocht is?|
+cadeaux-surprises-062|Waarmee zou je beginnen als het geplande cadeau ineens boven je budget uitkwam?|Wat zou je eerste actie zijn als je besefte dat een vriend morgen jarig is?|
+cadeaux-surprises-063|Wat zou je als eerste doen als je zag dat een vriend precies het cadeau kocht dat je hem wilde geven?|Wat zou je eerst besluiten te doen als een cadeau pas na het feest bezorgd zou worden?|
+cadeaux-surprises-064|Wat zou je eerste reactie zijn als een online gekochte cadeaukaart niet werkte?|Hoe zou je eerst te werk gaan als je ontdekte dat de ontvanger het gekochte cadeau al heeft?|
+cadeaux-surprises-065|Waarmee zou je beginnen als je doorhad dat de verrassingstaart de verkeerde smaak heeft?|Wat zou je eerste actie zijn als je de kassabon kwijtraakte van een cadeau dat je wilt ruilen?|
+cadeaux-surprises-066|Wat zou je als eerste doen als de bloemist de geplande bezorging annuleerde?|Wat zou je eerst besluiten te doen als je per ongeluk een cadeau brak voordat je het had gegeven?|
+cadeaux-surprises-067|Wat zou je eerste reactie zijn als je het adres van de ontvanger van het cadeau niet meer kon vinden?|Hoe zou je eerst te werk gaan als degene voor wie de verrassing is twee uur te vroeg aankwam?|
+cadeaux-surprises-068|Waarmee zou je beginnen als degene die gevierd wordt je vroeg om niets te organiseren?|Wat zou je eerste actie zijn als je de verkeerde naam op een gepersonaliseerd cadeau had gezet?|
+cadeaux-surprises-069|Wat zou je als eerste doen als een verrassing die buiten gepland was door regen in het water dreigde te vallen?|Wat zou je eerst besluiten te doen als twee gasten met hetzelfde cadeau aankwamen?|
+cadeaux-surprises-070|Wat zou je eerste reactie zijn als de webshop na je bestelling meldde dat het product uitverkocht is?|Hoe zou je eerst te werk gaan als een ballon voor de verrassing knapte voordat de gasten er waren?|
+cadeaux-surprises-071|Wat zou je eerste reactie zijn als je besefte dat een vriend morgen jarig is?|Hoe zou je eerst te werk gaan als je een cadeaupakket ontving dat voor je buurman bedoeld is?|
+cadeaux-surprises-072|Waarmee zou je beginnen als een cadeau pas na het feest bezorgd zou worden?|Wat zou je eerste actie zijn als je vergat waar je het kerstcadeau hebt verstopt?|
+cadeaux-surprises-073|Wat zou je als eerste doen als je ontdekte dat de ontvanger het gekochte cadeau al heeft?|Wat zou je eerst besluiten te doen als het geplande cadeau ineens boven je budget uitkwam?|
+cadeaux-surprises-074|Wat zou je eerste reactie zijn als je de kassabon kwijtraakte van een cadeau dat je wilt ruilen?|Hoe zou je eerst te werk gaan als je zag dat een vriend precies het cadeau kocht dat je hem wilde geven?|
+cadeaux-surprises-075|Waarmee zou je beginnen als je per ongeluk een cadeau brak voordat je het had gegeven?|Wat zou je eerste actie zijn als een online gekochte cadeaukaart niet werkte?|
+cadeaux-surprises-076|Wat zou je eerder kiezen: iets nuttigs geven of een onvergetelijke belevenis geven?|Als je maar één optie had, wat zou het worden: een fotoalbum geven of een gegraveerd voorwerp geven?|
+cadeaux-surprises-077|Wat zou je liever willen: een zorgvuldig uitgekozen boek krijgen of een cadeaukaart krijgen?|Wat spreekt je het meest aan: een verrassing die lang van tevoren is gepland of een geïmproviseerde verrassing?|
+cadeaux-surprises-078|Als je de knoop moest doorhakken: een verrassingsfeest organiseren of een intiem etentje klaarmaken?|Waar zou je de voorkeur aan geven: een sportieve belevenis geven of een culturele belevenis geven?|
+cadeaux-surprises-079|Wat zou je eerder kiezen: een zelfgemaakt cadeau geven of een merkcadeau kopen?|Als je maar één optie had, wat zou het worden: een heel verzorgde verpakking of een heel persoonlijke boodschap?|
+cadeaux-surprises-080|Wat zou je liever willen: een groepscadeau met vrienden of een paar kleine attenties?|Wat spreekt je het meest aan: een praktisch cadeau voor in huis of iets puur decoratiefs?|
+cadeaux-surprises-081|Als je de knoop moest doorhakken: een bos bloemen of een doos ambachtelijke bonbons?|Waar zou je de voorkeur aan geven: een handgeschreven brief of een video met herinneringen?|
+cadeaux-surprises-082|Wat zou je eerder kiezen: kaartjes voor een voorstelling geven of een etentje in een restaurant geven?|Als je maar één optie had, wat zou het worden: een duur cadeau dat je met een paar mensen koopt of een klein, heel persoonlijk cadeau?|
+cadeaux-surprises-083|Wat zou je liever willen: een verrassing krijgen of zelf je cadeau uitkiezen?|Wat spreekt je het meest aan: een culinair cadeaupakket of een abonnement op een activiteit?|
+cadeaux-surprises-084|Als je de knoop moest doorhakken: je cadeaus openmaken waar iedereen bij is of ze in alle rust openmaken?|Waar zou je de voorkeur aan geven: een zelfgekookte maaltijd krijgen of een georganiseerd uitje krijgen?|
+cadeaux-surprises-085|Wat zou je eerder kiezen: een fotoalbum geven of een gegraveerd voorwerp geven?|Als je maar één optie had, wat zou het worden: met kerst een cadeau geven of zomaar een verrassing geven?|
+cadeaux-surprises-086|Wat zou je liever willen: een verrassing die lang van tevoren is gepland of een geïmproviseerde verrassing?|Wat spreekt je het meest aan: een verrassing van tevoren aankondigen of het geheim tot het eind bewaren?|
+cadeaux-surprises-087|Als je de knoop moest doorhakken: een sportieve belevenis geven of een culturele belevenis geven?|Waar zou je de voorkeur aan geven: iets nuttigs geven of een onvergetelijke belevenis geven?|
+cadeaux-surprises-088|Wat zou je eerder kiezen: een heel verzorgde verpakking of een heel persoonlijke boodschap?|Als je maar één optie had, wat zou het worden: een zorgvuldig uitgekozen boek krijgen of een cadeaukaart krijgen?|
+cadeaux-surprises-089|Wat zou je liever willen: een praktisch cadeau voor in huis of iets puur decoratiefs?|Wat spreekt je het meest aan: een verrassingsfeest organiseren of een intiem etentje klaarmaken?|
+cadeaux-surprises-090|Als je de knoop moest doorhakken: een handgeschreven brief of een video met herinneringen?|Waar zou je de voorkeur aan geven: een zelfgemaakt cadeau geven of een merkcadeau kopen?|
+cadeaux-surprises-091|Wat zou je eerder kiezen: een duur cadeau dat je met een paar mensen koopt of een klein, heel persoonlijk cadeau?|Als je maar één optie had, wat zou het worden: een groepscadeau met vrienden of een paar kleine attenties?|
+cadeaux-surprises-092|Wat zou je liever willen: een culinair cadeaupakket of een abonnement op een activiteit?|Wat spreekt je het meest aan: een bos bloemen of een doos ambachtelijke bonbons?|
+cadeaux-surprises-093|Als je de knoop moest doorhakken: een zelfgekookte maaltijd krijgen of een georganiseerd uitje krijgen?|Waar zou je de voorkeur aan geven: kaartjes voor een voorstelling geven of een etentje in een restaurant geven?|
+cadeaux-surprises-094|Wat zou je eerder kiezen: met kerst een cadeau geven of zomaar een verrassing geven?|Als je maar één optie had, wat zou het worden: een verrassing krijgen of zelf je cadeau uitkiezen?|
+cadeaux-surprises-095|Wat zou je liever willen: een verrassing van tevoren aankondigen of het geheim tot het eind bewaren?|Wat spreekt je het meest aan: je cadeaus openmaken waar iedereen bij is of ze in alle rust openmaken?|
+cadeaux-surprises-096|Wat zou je liever willen: iets nuttigs geven of een onvergetelijke belevenis geven?|Wat spreekt je het meest aan: een fotoalbum geven of een gegraveerd voorwerp geven?|
+cadeaux-surprises-097|Als je de knoop moest doorhakken: een zorgvuldig uitgekozen boek krijgen of een cadeaukaart krijgen?|Waar zou je de voorkeur aan geven: een verrassing die lang van tevoren is gepland of een geïmproviseerde verrassing?|
+cadeaux-surprises-098|Wat zou je eerder kiezen: een verrassingsfeest organiseren of een intiem etentje klaarmaken?|Als je maar één optie had, wat zou het worden: een sportieve belevenis geven of een culturele belevenis geven?|
+cadeaux-surprises-099|Wat zou je liever willen: een zelfgemaakt cadeau geven of een merkcadeau kopen?|Wat spreekt je het meest aan: een heel verzorgde verpakking of een heel persoonlijke boodschap?|
+cadeaux-surprises-100|Als je de knoop moest doorhakken: een groepscadeau met vrienden of een paar kleine attenties?|Waar zou je de voorkeur aan geven: een praktisch cadeau voor in huis of iets puur decoratiefs?|
+cadeaux-surprises-101|Hoeveel minuten zou je nodig hebben om drie kerstcadeaus zorgvuldig in te pakken?|Hoeveel tijd zou je in minuten uittrekken om een fotoalbum van tien pagina's te maken?|
+cadeaux-surprises-102|Hoeveel minuten zou je eraan besteden om een cadeau te kiezen voor een vriend die gek is op koken?|Hoeveel minuten zou je erover doen om een kaartje bij een groepscadeau te schrijven?|
+cadeaux-surprises-103|Hoeveel minuten zou je ervoor vrijmaken om een persoonlijke verjaardagskaart te schrijven?|Hoeveel minuten zou je er doorgaans over doen om een cadeaukaart te kiezen die niet onpersoonlijk is?|
+cadeaux-surprises-104|Hoeveel minuten zou je nodig hebben om het overhandigen van een verrassingscadeau te organiseren?|Hoeveel tijd zou je in minuten uittrekken om een cadeau te vinden voor een collega die je nauwelijks kent?|
+cadeaux-surprises-105|Hoeveel minuten zou je eraan besteden om online cadeauboxen te vergelijken?|Hoeveel minuten zou je erover doen om een breekbaar pakketje klaar te maken om op te sturen?|
+cadeaux-surprises-106|Hoeveel minuten zou je ervoor vrijmaken om de tafel voor een verjaardag in kleine kring te dekken?|Hoeveel minuten zou je er doorgaans over doen om foto's voor een verjaardagsvideo uit te zoeken?|
+cadeaux-surprises-107|Hoeveel minuten zou je nodig hebben om de versiering voor een verrassingsfeest te verstoppen?|Hoeveel tijd zou je in minuten uittrekken om in het centrum een last-minute cadeau te kopen?|
+cadeaux-surprises-108|Hoeveel minuten zou je eraan besteden om een boeket uit te kiezen om iemand te bedanken?|Hoeveel minuten zou je erover doen om een kleine woonkamer voor een verrassing te versieren?|
+cadeaux-surprises-109|Hoeveel minuten zou je ervoor vrijmaken om een kleine speurtocht naar een cadeau voor te bereiden?|Hoeveel minuten zou je er doorgaans over doen om voor kerst een lijstje met cadeau-ideeën te maken?|
+cadeaux-surprises-110|Hoeveel minuten zou je nodig hebben om een fotoalbum van tien pagina's te maken?|Hoeveel tijd zou je in minuten uittrekken om een budget voor meerdere verjaardagen vast te stellen?|
+cadeaux-surprises-111|Hoeveel minuten zou je eraan besteden om een kaartje bij een groepscadeau te schrijven?|Hoeveel minuten zou je erover doen om een cadeau te kiezen voor iemand die al alles heeft?|
+cadeaux-surprises-112|Hoeveel minuten zou je ervoor vrijmaken om een cadeaukaart te kiezen die niet onpersoonlijk is?|Hoeveel minuten zou je er doorgaans over doen om drie kerstcadeaus zorgvuldig in te pakken?|
+cadeaux-surprises-113|Hoeveel minuten zou je nodig hebben om een cadeau te vinden voor een collega die je nauwelijks kent?|Hoeveel tijd zou je in minuten uittrekken om een cadeau te kiezen voor een vriend die gek is op koken?|
+cadeaux-surprises-114|Hoeveel minuten zou je eraan besteden om een breekbaar pakketje klaar te maken om op te sturen?|Hoeveel minuten zou je erover doen om een persoonlijke verjaardagskaart te schrijven?|
+cadeaux-surprises-115|Hoeveel minuten zou je ervoor vrijmaken om foto's voor een verjaardagsvideo uit te zoeken?|Hoeveel minuten zou je er doorgaans over doen om het overhandigen van een verrassingscadeau te organiseren?|
+cadeaux-surprises-116|Hoeveel minuten zou je nodig hebben om in het centrum een last-minute cadeau te kopen?|Hoeveel tijd zou je in minuten uittrekken om online cadeauboxen te vergelijken?|
+cadeaux-surprises-117|Hoeveel minuten zou je eraan besteden om een kleine woonkamer voor een verrassing te versieren?|Hoeveel minuten zou je erover doen om de tafel voor een verjaardag in kleine kring te dekken?|
+cadeaux-surprises-118|Hoeveel minuten zou je ervoor vrijmaken om voor kerst een lijstje met cadeau-ideeën te maken?|Hoeveel minuten zou je er doorgaans over doen om de versiering voor een verrassingsfeest te verstoppen?|
+cadeaux-surprises-119|Hoeveel minuten zou je nodig hebben om een budget voor meerdere verjaardagen vast te stellen?|Hoeveel tijd zou je in minuten uittrekken om een boeket uit te kiezen om iemand te bedanken?|
+cadeaux-surprises-120|Hoeveel minuten zou je eraan besteden om een cadeau te kiezen voor iemand die al alles heeft?|Hoeveel minuten zou je erover doen om een kleine speurtocht naar een cadeau voor te bereiden?|
+cadeaux-surprises-121|Hoeveel minuten zou je eraan besteden om drie kerstcadeaus zorgvuldig in te pakken?|Hoeveel minuten zou je erover doen om een fotoalbum van tien pagina's te maken?|
+cadeaux-surprises-122|Hoeveel minuten zou je ervoor vrijmaken om een cadeau te kiezen voor een vriend die gek is op koken?|Hoeveel minuten zou je er doorgaans over doen om een kaartje bij een groepscadeau te schrijven?|
+cadeaux-surprises-123|Hoeveel minuten zou je nodig hebben om een persoonlijke verjaardagskaart te schrijven?|Hoeveel tijd zou je in minuten uittrekken om een cadeaukaart te kiezen die niet onpersoonlijk is?|
+cadeaux-surprises-124|Hoeveel minuten zou je eraan besteden om het overhandigen van een verrassingscadeau te organiseren?|Hoeveel minuten zou je erover doen om een cadeau te vinden voor een collega die je nauwelijks kent?|
+cadeaux-surprises-125|Hoeveel minuten zou je ervoor vrijmaken om online cadeauboxen te vergelijken?|Hoeveel minuten zou je er doorgaans over doen om een breekbaar pakketje klaar te maken om op te sturen?|
+cadeaux-surprises-126|Aan wie zou je advies vragen om een cadeau te kiezen voor een ouder die heel moeilijk te verrassen is?|Wie zou je bellen om een belevenis te kiezen om aan grootouders te geven?|
+cadeaux-surprises-127|Met wie zou je als eerste contact opnemen om een idee voor een trouwdag te bedenken?|Wie zou je om raad vragen om discreet bloemen te laten bezorgen?|
+cadeaux-surprises-128|Bij wie zou je aankloppen om een verrassingsfeest voor te bereiden zonder dat de hoofdpersoon iets doorheeft?|Met wie zou je eerst praten om te weten welke activiteit een tienermeisje leuk zou vinden?|
+cadeaux-surprises-129|Aan wie zou je advies vragen om de smaak van een nieuwe vriend te leren kennen?|Wie zou je bellen om de muzieksmaak van een vriend te begrijpen?|
+cadeaux-surprises-130|Met wie zou je als eerste contact opnemen om een gepersonaliseerde verjaardagstaart te bestellen?|Wie zou je om raad vragen om een gezelschapsspel voor een gezin te kopen?|
+cadeaux-surprises-131|Bij wie zou je aankloppen om de maat na te gaan van een kledingstuk dat je wilt geven?|Met wie zou je eerst praten om een verrassing te plannen voor als iemand terugkomt van reis?|
+cadeaux-surprises-132|Aan wie zou je advies vragen om een sieraad te kiezen zonder de smaak van de ontvanger te kennen?|Wie zou je bellen om te weten welke allergieën iemand heeft voordat je bonbons geeft?|
+cadeaux-surprises-133|Met wie zou je als eerste contact opnemen om geld in te zamelen voor een groepscadeau?|Wie zou je om raad vragen om een notitieboekje met een naam te personaliseren?|
+cadeaux-surprises-134|Bij wie zou je aankloppen om een cadeau-idee voor een baby te bedenken?|Met wie zou je eerst praten om foto's op te vragen voor een herinneringsalbum?|
+cadeaux-surprises-135|Aan wie zou je advies vragen om een belevenis te kiezen om aan grootouders te geven?|Wie zou je bellen om de aankomst van gasten op een verrassingsfeest te regelen?|
+cadeaux-surprises-136|Met wie zou je als eerste contact opnemen om discreet bloemen te laten bezorgen?|Wie zou je om raad vragen om een afscheidscadeau voor een docent te kopen?|
+cadeaux-surprises-137|Bij wie zou je aankloppen om te weten welke activiteit een tienermeisje leuk zou vinden?|Met wie zou je eerst praten om een cadeau te kiezen voor een ouder die heel moeilijk te verrassen is?|
+cadeaux-surprises-138|Aan wie zou je advies vragen om de muzieksmaak van een vriend te begrijpen?|Wie zou je bellen om een idee voor een trouwdag te bedenken?|
+cadeaux-surprises-139|Met wie zou je als eerste contact opnemen om een gezelschapsspel voor een gezin te kopen?|Wie zou je om raad vragen om een verrassingsfeest voor te bereiden zonder dat de hoofdpersoon iets doorheeft?|
+cadeaux-surprises-140|Bij wie zou je aankloppen om een verrassing te plannen voor als iemand terugkomt van reis?|Met wie zou je eerst praten om de smaak van een nieuwe vriend te leren kennen?|
+cadeaux-surprises-141|Aan wie zou je advies vragen om te weten welke allergieën iemand heeft voordat je bonbons geeft?|Wie zou je bellen om een gepersonaliseerde verjaardagstaart te bestellen?|
+cadeaux-surprises-142|Met wie zou je als eerste contact opnemen om een notitieboekje met een naam te personaliseren?|Wie zou je om raad vragen om de maat na te gaan van een kledingstuk dat je wilt geven?|
+cadeaux-surprises-143|Bij wie zou je aankloppen om foto's op te vragen voor een herinneringsalbum?|Met wie zou je eerst praten om een sieraad te kiezen zonder de smaak van de ontvanger te kennen?|
+cadeaux-surprises-144|Aan wie zou je advies vragen om de aankomst van gasten op een verrassingsfeest te regelen?|Wie zou je bellen om geld in te zamelen voor een groepscadeau?|
+cadeaux-surprises-145|Met wie zou je als eerste contact opnemen om een afscheidscadeau voor een docent te kopen?|Wie zou je om raad vragen om een cadeau-idee voor een baby te bedenken?|
+cadeaux-surprises-146|Met wie zou je als eerste contact opnemen om een cadeau te kiezen voor een ouder die heel moeilijk te verrassen is?|Wie zou je om raad vragen om een belevenis te kiezen om aan grootouders te geven?|
+cadeaux-surprises-147|Bij wie zou je aankloppen om een idee voor een trouwdag te bedenken?|Met wie zou je eerst praten om discreet bloemen te laten bezorgen?|
+cadeaux-surprises-148|Aan wie zou je advies vragen om een verrassingsfeest voor te bereiden zonder dat de hoofdpersoon iets doorheeft?|Wie zou je bellen om te weten welke activiteit een tienermeisje leuk zou vinden?|
+cadeaux-surprises-149|Met wie zou je als eerste contact opnemen om de smaak van een nieuwe vriend te leren kennen?|Wie zou je om raad vragen om de muzieksmaak van een vriend te begrijpen?|
+cadeaux-surprises-150|Bij wie zou je aankloppen om een gepersonaliseerde verjaardagstaart te bestellen?|Met wie zou je eerst praten om een gezelschapsspel voor een gezin te kopen?|
+cadeaux-surprises-151|Waar zou je heen gaan om binnen een uur een origineel cadeau te kopen?|Op welke plek zou je met vrienden een verrassing in het centrum willen organiseren?|
+cadeaux-surprises-152|Waar zou je het liefst een armband met een datum laten graveren?|Welke plek zou je kiezen om voor een feest de versiering klaar te maken?|
+cadeaux-surprises-153|Op welke plek zou je graag op het laatste moment nog cadeaupapier vinden?|Waar zou je ervoor kiezen om cadeaus te verstoppen voor kerstavond?|
+cadeaux-surprises-154|Waar zou je heen gaan om een verjaardag in kleine kring te vieren?|Op welke plek zou je speelgoed voor een kind van zes uit willen kiezen?|
+cadeaux-surprises-155|Waar zou je het liefst een verrassing organiseren, ver weg van pottenkijkers?|Welke plek zou je kiezen om een oudere een fijn moment te bezorgen?|
+cadeaux-surprises-156|Op welke plek zou je graag een gesigneerd boek voor iemand die je na staat kopen?|Waar zou je ervoor kiezen om een groepsfoto voor een aandenken te maken?|
+cadeaux-surprises-157|Waar zou je heen gaan om een gepersonaliseerde taart te laten bezorgen?|Op welke plek zou je bonbons in een speciaalzaak willen kopen?|
+cadeaux-surprises-158|Waar zou je het liefst een ambachtelijk, lokaal gemaakt cadeau vinden?|Welke plek zou je kiezen om decoratie voor een housewarming op de kop te tikken?|
+cadeaux-surprises-159|Op welke plek zou je graag op zondag een bos bloemen kopen?|Waar zou je ervoor kiezen om een belevenis zonder vaste datum te vinden om cadeau te geven?|
+cadeaux-surprises-160|Waar zou je heen gaan om met vrienden een verrassing in het centrum te organiseren?|Op welke plek zou je een paar vrienden bij elkaar willen brengen om een cadeau te overhandigen?|
+cadeaux-surprises-161|Waar zou je het liefst voor een feest de versiering klaarmaken?|Welke plek zou je kiezen om een verrassingsdiploma-uitreiking te organiseren?|
+cadeaux-surprises-162|Op welke plek zou je graag cadeaus verstoppen voor kerstavond?|Waar zou je ervoor kiezen om binnen een uur een origineel cadeau te kopen?|
+cadeaux-surprises-163|Waar zou je heen gaan om speelgoed voor een kind van zes uit te kiezen?|Op welke plek zou je een armband met een datum willen laten graveren?|
+cadeaux-surprises-164|Waar zou je het liefst een oudere een fijn moment bezorgen?|Welke plek zou je kiezen om op het laatste moment nog cadeaupapier te vinden?|
+cadeaux-surprises-165|Op welke plek zou je graag een groepsfoto voor een aandenken maken?|Waar zou je ervoor kiezen om een verjaardag in kleine kring te vieren?|
+cadeaux-surprises-166|Waar zou je heen gaan om bonbons in een speciaalzaak te kopen?|Op welke plek zou je een verrassing willen organiseren, ver weg van pottenkijkers?|
+cadeaux-surprises-167|Waar zou je het liefst decoratie voor een housewarming op de kop tikken?|Welke plek zou je kiezen om een gesigneerd boek voor iemand die je na staat te kopen?|
+cadeaux-surprises-168|Op welke plek zou je graag een belevenis zonder vaste datum vinden om cadeau te geven?|Waar zou je ervoor kiezen om een gepersonaliseerde taart te laten bezorgen?|
+cadeaux-surprises-169|Waar zou je heen gaan om een paar vrienden bij elkaar te brengen om een cadeau te overhandigen?|Op welke plek zou je een ambachtelijk, lokaal gemaakt cadeau willen vinden?|
+cadeaux-surprises-170|Waar zou je het liefst een verrassingsdiploma-uitreiking organiseren?|Welke plek zou je kiezen om op zondag een bos bloemen te kopen?|
+cadeaux-surprises-171|Waar zou je het liefst binnen een uur een origineel cadeau kopen?|Welke plek zou je kiezen om met vrienden een verrassing in het centrum te organiseren?|
+cadeaux-surprises-172|Op welke plek zou je graag een armband met een datum laten graveren?|Waar zou je ervoor kiezen om voor een feest de versiering klaar te maken?|
+cadeaux-surprises-173|Waar zou je heen gaan om op het laatste moment nog cadeaupapier te vinden?|Op welke plek zou je cadeaus willen verstoppen voor kerstavond?|
+cadeaux-surprises-174|Waar zou je het liefst een verjaardag in kleine kring vieren?|Welke plek zou je kiezen om speelgoed voor een kind van zes uit te kiezen?|
+cadeaux-surprises-175|Op welke plek zou je graag een verrassing organiseren, ver weg van pottenkijkers?|Waar zou je ervoor kiezen om een oudere een fijn moment te bezorgen?|
+cadeaux-surprises-176|Bij welke gelegenheid zou je een familiefotoalbum kunnen geven?|Voor welk evenement zou je overwegen om een video met gedeelde herinneringen te maken?|
+cadeaux-surprises-177|Bij welk evenement zou je graag een verrassingsontbijt aan huis organiseren?|Op welk belangrijk moment in je leven zou je een sportschoolabonnement willen geven?|
+cadeaux-surprises-178|Bij welke gelegenheid zou je het normaal vinden om een symbolisch horloge te kopen?|In welke omstandigheden zou je besluiten om een boek met een persoonlijke opdracht te kopen?|
+cadeaux-surprises-179|Bij welke gelegenheid zou je een potplant met een kaartje kunnen geven?|Voor welk evenement zou je overwegen om een doos fijn gebak te geven?|
+cadeaux-surprises-180|Bij welk evenement zou je graag met collega's een gezamenlijk cadeau regelen?|Op welk belangrijk moment in je leven zou je een verrassingsfeest in een appartement voor willen bereiden?|
+cadeaux-surprises-181|Bij welke gelegenheid zou je het normaal vinden om onaangekondigd een boeket te sturen?|In welke omstandigheden zou je besluiten om een reiskoffer te geven?|
+cadeaux-surprises-182|Bij welke gelegenheid zou je een kookworkshop voor twee kunnen geven?|Voor welk evenement zou je overwegen om een pakket met streekproducten te geven?|
+cadeaux-surprises-183|Bij welk evenement zou je graag een etentje in een favoriet restaurant organiseren?|Op welk belangrijk moment in je leven zou je een hele dag vol activiteiten willen organiseren?|
+cadeaux-surprises-184|Bij welke gelegenheid zou je het normaal vinden om een ontroerende handgeschreven brief te overhandigen?|In welke omstandigheden zou je besluiten om op afstand een cadeau te sturen?|
+cadeaux-surprises-185|Bij welke gelegenheid zou je een video met gedeelde herinneringen kunnen maken?|Voor welk evenement zou je overwegen om een boekenbon te geven?|
+cadeaux-surprises-186|Bij welk evenement zou je graag een sportschoolabonnement geven?|Op welk belangrijk moment in je leven zou je een voorwerp met een naam erop willen laten maken?|
+cadeaux-surprises-187|Bij welke gelegenheid zou je het normaal vinden om een boek met een persoonlijke opdracht te kopen?|In welke omstandigheden zou je besluiten om een familiefotoalbum te geven?|
+cadeaux-surprises-188|Bij welke gelegenheid zou je een doos fijn gebak kunnen geven?|Voor welk evenement zou je overwegen om een verrassingsontbijt aan huis te organiseren?|
+cadeaux-surprises-189|Bij welk evenement zou je graag een verrassingsfeest in een appartement voorbereiden?|Op welk belangrijk moment in je leven zou je een symbolisch horloge willen kopen?|
+cadeaux-surprises-190|Bij welke gelegenheid zou je het normaal vinden om een reiskoffer te geven?|In welke omstandigheden zou je besluiten om een potplant met een kaartje te geven?|
+cadeaux-surprises-191|Bij welke gelegenheid zou je een pakket met streekproducten kunnen geven?|Voor welk evenement zou je overwegen om met collega's een gezamenlijk cadeau te regelen?|
+cadeaux-surprises-192|Bij welk evenement zou je graag een hele dag vol activiteiten organiseren?|Op welk belangrijk moment in je leven zou je onaangekondigd een boeket willen sturen?|
+cadeaux-surprises-193|Bij welke gelegenheid zou je het normaal vinden om op afstand een cadeau te sturen?|In welke omstandigheden zou je besluiten om een kookworkshop voor twee te geven?|
+cadeaux-surprises-194|Bij welke gelegenheid zou je een boekenbon kunnen geven?|Voor welk evenement zou je overwegen om een etentje in een favoriet restaurant te organiseren?|
+cadeaux-surprises-195|Bij welk evenement zou je graag een voorwerp met een naam erop laten maken?|Op welk belangrijk moment in je leven zou je een ontroerende handgeschreven brief willen overhandigen?|
+cadeaux-surprises-196|Bij welk evenement zou je graag een familiefotoalbum geven?|Op welk belangrijk moment in je leven zou je een video met gedeelde herinneringen willen maken?|
+cadeaux-surprises-197|Bij welke gelegenheid zou je het normaal vinden om een verrassingsontbijt aan huis te organiseren?|In welke omstandigheden zou je besluiten om een sportschoolabonnement te geven?|
+cadeaux-surprises-198|Bij welke gelegenheid zou je een symbolisch horloge kunnen kopen?|Voor welk evenement zou je overwegen om een boek met een persoonlijke opdracht te kopen?|
+cadeaux-surprises-199|Bij welk evenement zou je graag een potplant met een kaartje geven?|Op welk belangrijk moment in je leven zou je een doos fijn gebak willen geven?|
+cadeaux-surprises-200|Bij welke gelegenheid zou je het normaal vinden om met collega's een gezamenlijk cadeau te regelen?|In welke omstandigheden zou je besluiten om een verrassingsfeest in een appartement voor te bereiden?|
+ecole-etudes-001|Wat zou je antwoorden als een docent je ervan beschuldigde dat je zat te kletsen terwijl je stil was?|Hoe zou je reageren als een vriend je vroeg om hem in vijf minuten een heel hoofdstuk uit te leggen?|
+ecole-etudes-002|Wat zou je eerste zin zijn als je groep je vertelde dat ze niets hebben voorbereid voor de presentatie van morgen?|Wat zou je zeggen als een docent je vertelde dat er een fout zat in de beoordeling van je werk?|
+ecole-etudes-003|Wat zou je terugzeggen als een klasgenoot je vroeg om je hele opdracht naar hem te sturen?|Welke woorden zou je gebruiken als een medestudent je vroeg om een plek voor hem vrij te houden in de collegezaal?|
+ecole-etudes-004|Wat zou je antwoorden als een docent een toets uitstelde net nadat je ervoor had geleerd?|Hoe zou je reageren als je ouders vroegen waarom je zo laat thuiskwam uit de bibliotheek?|
+ecole-etudes-005|Wat zou je eerste zin zijn als een vriend zei dat hij niet hoeft te leren om te slagen?|Wat zou je zeggen als een docent weigerde een deadline te verschuiven?|
+ecole-etudes-006|Wat zou je terugzeggen als een docent je onverwacht naar het bord riep?|Welke woorden zou je gebruiken als een vriend je studiekeuze verrassend vond?|
+ecole-etudes-007|Wat zou je antwoorden als een klasgenoot je presentatie belachelijk maakte voor de klas?|Hoe zou je reageren als je groep voorstelde om op zondagochtend samen te komen om te werken?|
+ecole-etudes-008|Wat zou je eerste zin zijn als een docent merkte dat je je schrift bent vergeten?|Wat zou je zeggen als een docent je om een voorbeeld vroeg zonder je bedenktijd te geven?|
+ecole-etudes-009|Wat zou je terugzeggen als je projectpartner de dag voor de deadline van onderwerp wilde wisselen?|Welke woorden zou je gebruiken als een klasgenoot je vertelde dat hij het gezamenlijke werkstuk kwijt is?|
+ecole-etudes-010|Wat zou je antwoorden als een vriend je vroeg om hem in vijf minuten een heel hoofdstuk uit te leggen?|Hoe zou je reageren als een docent een opmerking maakte over je handschrift?|
+ecole-etudes-011|Wat zou je eerste zin zijn als een docent je vertelde dat er een fout zat in de beoordeling van je werk?|Wat zou je zeggen als een vriend voorstelde om de nacht voor het examen door te leren?|
+ecole-etudes-012|Wat zou je terugzeggen als een medestudent je vroeg om een plek voor hem vrij te houden in de collegezaal?|Welke woorden zou je gebruiken als een docent je ervan beschuldigde dat je zat te kletsen terwijl je stil was?|
+ecole-etudes-013|Wat zou je antwoorden als je ouders vroegen waarom je zo laat thuiskwam uit de bibliotheek?|Hoe zou je reageren als je groep je vertelde dat ze niets hebben voorbereid voor de presentatie van morgen?|
+ecole-etudes-014|Wat zou je eerste zin zijn als een docent weigerde een deadline te verschuiven?|Wat zou je zeggen als een klasgenoot je vroeg om je hele opdracht naar hem te sturen?|
+ecole-etudes-015|Wat zou je terugzeggen als een vriend je studiekeuze verrassend vond?|Welke woorden zou je gebruiken als een docent een toets uitstelde net nadat je ervoor had geleerd?|
+ecole-etudes-016|Wat zou je antwoorden als je groep voorstelde om op zondagochtend samen te komen om te werken?|Hoe zou je reageren als een vriend zei dat hij niet hoeft te leren om te slagen?|
+ecole-etudes-017|Wat zou je eerste zin zijn als een docent je om een voorbeeld vroeg zonder je bedenktijd te geven?|Wat zou je zeggen als een docent je onverwacht naar het bord riep?|
+ecole-etudes-018|Wat zou je terugzeggen als een klasgenoot je vertelde dat hij het gezamenlijke werkstuk kwijt is?|Welke woorden zou je gebruiken als een klasgenoot je presentatie belachelijk maakte voor de klas?|
+ecole-etudes-019|Wat zou je antwoorden als een docent een opmerking maakte over je handschrift?|Hoe zou je reageren als een docent merkte dat je je schrift bent vergeten?|
+ecole-etudes-020|Wat zou je eerste zin zijn als een vriend voorstelde om de nacht voor het examen door te leren?|Wat zou je zeggen als je projectpartner de dag voor de deadline van onderwerp wilde wisselen?|
+ecole-etudes-021|Wat zou je eerste zin zijn als een docent je ervan beschuldigde dat je zat te kletsen terwijl je stil was?|Wat zou je zeggen als een vriend je vroeg om hem in vijf minuten een heel hoofdstuk uit te leggen?|
+ecole-etudes-022|Wat zou je terugzeggen als je groep je vertelde dat ze niets hebben voorbereid voor de presentatie van morgen?|Welke woorden zou je gebruiken als een docent je vertelde dat er een fout zat in de beoordeling van je werk?|
+ecole-etudes-023|Wat zou je antwoorden als een klasgenoot je vroeg om je hele opdracht naar hem te sturen?|Hoe zou je reageren als een medestudent je vroeg om een plek voor hem vrij te houden in de collegezaal?|
+ecole-etudes-024|Wat zou je eerste zin zijn als een docent een toets uitstelde net nadat je ervoor had geleerd?|Wat zou je zeggen als je ouders vroegen waarom je zo laat thuiskwam uit de bibliotheek?|
+ecole-etudes-025|Wat zou je terugzeggen als een vriend zei dat hij niet hoeft te leren om te slagen?|Welke woorden zou je gebruiken als een docent weigerde een deadline te verschuiven?|
+ecole-etudes-026|Wat zou je als eerste doen als je op de dag van een toets zonder rekenmachine op school aankwam?|Wat zou je eerst besluiten te doen als je docent op het laatste moment van lokaal wisselde?|lycée → school
+ecole-etudes-027|Wat zou je eerste reactie zijn als je computer uitviel tijdens een online proefexamen?|Hoe zou je eerst te werk gaan als je twee belangrijke opdrachten kreeg die op dezelfde dag ingeleverd moeten worden?|
+ecole-etudes-028|Waarmee zou je beginnen als je besefte dat er over een uur een presentatie gepland staat?|Wat zou je eerste actie zijn als een klasgenoot je tegenstrijdige informatie over de toets gaf?|
+ecole-etudes-029|Wat zou je als eerste doen als een klasgenoot afwezig was op de dag van jullie presentatie?|Wat zou je eerst besluiten te doen als je internetverbinding uitviel terwijl je online iets moest inleveren?|
+ecole-etudes-030|Wat zou je eerste reactie zijn als je de usb-stick met het groepswerk kwijtraakte?|Hoe zou je eerst te werk gaan als je je oude notitieboekje terugvond met de contactgegevens van een docent?|
+ecole-etudes-031|Waarmee zou je beginnen als de bibliotheek midden in je studeersessie eerder dan gepland dichtging?|Wat zou je eerste actie zijn als je groep een fout ontdekte in de eerste dia?|
+ecole-etudes-032|Wat zou je als eerste doen als je de inschrijfdatum voor een belangrijk keuzevak vergat?|Wat zou je eerst besluiten te doen als een verplicht boek in alle bibliotheken uitgeleend was?|
+ecole-etudes-033|Wat zou je eerste reactie zijn als je een fout vond in een document dat je al had ingeleverd?|Hoe zou je eerst te werk gaan als een medestudent in slaap viel terwijl jullie met z'n tweeën aan het werk waren?|
+ecole-etudes-034|Waarmee zou je beginnen als je bus vertraging had op de ochtend van een examen?|Wat zou je eerste actie zijn als je merkte dat je wekker niet was afgegaan voor een mondeling?|
+ecole-etudes-035|Wat zou je als eerste doen als je docent op het laatste moment van lokaal wisselde?|Wat zou je eerst besluiten te doen als je geen enkele instructie van een uitgedeelde opdracht begreep?|
+ecole-etudes-036|Wat zou je eerste reactie zijn als je twee belangrijke opdrachten kreeg die op dezelfde dag ingeleverd moeten worden?|Hoe zou je eerst te werk gaan als je presentatie niet meer wilde openen op de computer in het lokaal?|
+ecole-etudes-037|Waarmee zou je beginnen als een klasgenoot je tegenstrijdige informatie over de toets gaf?|Wat zou je eerste actie zijn als je op de dag van een toets zonder rekenmachine op school aankwam?|lycée → school
+ecole-etudes-038|Wat zou je als eerste doen als je internetverbinding uitviel terwijl je online iets moest inleveren?|Wat zou je eerst besluiten te doen als je computer uitviel tijdens een online proefexamen?|
+ecole-etudes-039|Wat zou je eerste reactie zijn als je je oude notitieboekje terugvond met de contactgegevens van een docent?|Hoe zou je eerst te werk gaan als je besefte dat er over een uur een presentatie gepland staat?|
+ecole-etudes-040|Waarmee zou je beginnen als je groep een fout ontdekte in de eerste dia?|Wat zou je eerste actie zijn als een klasgenoot afwezig was op de dag van jullie presentatie?|
+ecole-etudes-041|Wat zou je als eerste doen als een verplicht boek in alle bibliotheken uitgeleend was?|Wat zou je eerst besluiten te doen als je de usb-stick met het groepswerk kwijtraakte?|
+ecole-etudes-042|Wat zou je eerste reactie zijn als een medestudent in slaap viel terwijl jullie met z'n tweeën aan het werk waren?|Hoe zou je eerst te werk gaan als de bibliotheek midden in je studeersessie eerder dan gepland dichtging?|
+ecole-etudes-043|Waarmee zou je beginnen als je merkte dat je wekker niet was afgegaan voor een mondeling?|Wat zou je eerste actie zijn als je de inschrijfdatum voor een belangrijk keuzevak vergat?|
+ecole-etudes-044|Wat zou je als eerste doen als je geen enkele instructie van een uitgedeelde opdracht begreep?|Wat zou je eerst besluiten te doen als je een fout vond in een document dat je al had ingeleverd?|
+ecole-etudes-045|Wat zou je eerste reactie zijn als je presentatie niet meer wilde openen op de computer in het lokaal?|Hoe zou je eerst te werk gaan als je bus vertraging had op de ochtend van een examen?|
+ecole-etudes-046|Wat zou je eerste reactie zijn als je op de dag van een toets zonder rekenmachine op school aankwam?|Hoe zou je eerst te werk gaan als je docent op het laatste moment van lokaal wisselde?|lycée → school
+ecole-etudes-047|Waarmee zou je beginnen als je computer uitviel tijdens een online proefexamen?|Wat zou je eerste actie zijn als je twee belangrijke opdrachten kreeg die op dezelfde dag ingeleverd moeten worden?|
+ecole-etudes-048|Wat zou je als eerste doen als je besefte dat er over een uur een presentatie gepland staat?|Wat zou je eerst besluiten te doen als een klasgenoot je tegenstrijdige informatie over de toets gaf?|
+ecole-etudes-049|Wat zou je eerste reactie zijn als een klasgenoot afwezig was op de dag van jullie presentatie?|Hoe zou je eerst te werk gaan als je internetverbinding uitviel terwijl je online iets moest inleveren?|
+ecole-etudes-050|Waarmee zou je beginnen als je de usb-stick met het groepswerk kwijtraakte?|Wat zou je eerste actie zijn als je je oude notitieboekje terugvond met de contactgegevens van een docent?|
+ecole-etudes-051|Wat zou je eerder kiezen: alleen thuis leren of met twee vrienden leren?|Als je maar één optie had, wat zou het worden: stagelopen bij een bedrijf of meedoen aan een vrijwilligersproject?|
+ecole-etudes-052|Wat zou je liever willen: een mondeling doen of een schriftelijk werkstuk inleveren?|Wat spreekt je het meest aan: vroeg in de ochtend studeren of laat op de avond studeren?|
+ecole-etudes-053|Als je de knoop moest doorhakken: om acht uur 's ochtends al les hebben of pas om zeven uur 's avonds uit zijn?|Waar zou je de voorkeur aan geven: een veeleisende docent hebben of een heel soepele docent hebben?|
+ecole-etudes-054|Wat zou je eerder kiezen: een extra taal leren of een creatief keuzevak volgen?|Als je maar één optie had, wat zou het worden: een papieren studieboek lezen of een digitaal studieboek gebruiken?|
+ecole-etudes-055|Wat zou je liever willen: in de bibliotheek werken of in een rustig café werken?|Wat spreekt je het meest aan: een groepsproject voorbereiden of een individuele opdracht inleveren?|
+ecole-etudes-056|Als je de knoop moest doorhakken: een presentatie over een vrij onderwerp voorbereiden of een opgelegd onderwerp behandelen?|Waar zou je de voorkeur aan geven: een heel theoretische opleiding kiezen of een heel praktische opleiding?|
+ecole-etudes-057|Wat zou je eerder kiezen: regelmatige toetsen of één groot eindexamen?|Als je maar één optie had, wat zou het worden: lessen op locatie volgen of hybride lessen volgen?|
+ecole-etudes-058|Wat zou je liever willen: aantekeningen maken op een tablet of in een schrift schrijven?|Wat spreekt je het meest aan: op het laatste moment aan de slag gaan of over meerdere weken plannen?|
+ecole-etudes-059|Als je de knoop moest doorhakken: aan een grote universiteit studeren of aan een kleine onderwijsinstelling studeren?|Waar zou je de voorkeur aan geven: een semester naar het buitenland gaan of twee stages in Nederland lopen?|France → Nederland
+ecole-etudes-060|Wat zou je eerder kiezen: stagelopen bij een bedrijf of meedoen aan een vrijwilligersproject?|Als je maar één optie had, wat zou het worden: exacte wetenschappen studeren of letteren studeren?|
+ecole-etudes-061|Wat zou je liever willen: vroeg in de ochtend studeren of laat op de avond studeren?|Wat spreekt je het meest aan: leren met oefeningen of leren met video's?|
+ecole-etudes-062|Als je de knoop moest doorhakken: een veeleisende docent hebben of een heel soepele docent hebben?|Waar zou je de voorkeur aan geven: alleen thuis leren of met twee vrienden leren?|
+ecole-etudes-063|Wat zou je eerder kiezen: een papieren studieboek lezen of een digitaal studieboek gebruiken?|Als je maar één optie had, wat zou het worden: een mondeling doen of een schriftelijk werkstuk inleveren?|
+ecole-etudes-064|Wat zou je liever willen: een groepsproject voorbereiden of een individuele opdracht inleveren?|Wat spreekt je het meest aan: om acht uur 's ochtends al les hebben of pas om zeven uur 's avonds uit zijn?|
+ecole-etudes-065|Als je de knoop moest doorhakken: een heel theoretische opleiding kiezen of een heel praktische opleiding?|Waar zou je de voorkeur aan geven: een extra taal leren of een creatief keuzevak volgen?|
+ecole-etudes-066|Wat zou je eerder kiezen: lessen op locatie volgen of hybride lessen volgen?|Als je maar één optie had, wat zou het worden: in de bibliotheek werken of in een rustig café werken?|
+ecole-etudes-067|Wat zou je liever willen: op het laatste moment aan de slag gaan of over meerdere weken plannen?|Wat spreekt je het meest aan: een presentatie over een vrij onderwerp voorbereiden of een opgelegd onderwerp behandelen?|
+ecole-etudes-068|Als je de knoop moest doorhakken: een semester naar het buitenland gaan of twee stages in Nederland lopen?|Waar zou je de voorkeur aan geven: regelmatige toetsen of één groot eindexamen?|France → Nederland
+ecole-etudes-069|Wat zou je eerder kiezen: exacte wetenschappen studeren of letteren studeren?|Als je maar één optie had, wat zou het worden: aantekeningen maken op een tablet of in een schrift schrijven?|
+ecole-etudes-070|Wat zou je liever willen: leren met oefeningen of leren met video's?|Wat spreekt je het meest aan: aan een grote universiteit studeren of aan een kleine onderwijsinstelling studeren?|
+ecole-etudes-071|Wat zou je liever willen: alleen thuis leren of met twee vrienden leren?|Wat spreekt je het meest aan: stagelopen bij een bedrijf of meedoen aan een vrijwilligersproject?|
+ecole-etudes-072|Als je de knoop moest doorhakken: een mondeling doen of een schriftelijk werkstuk inleveren?|Waar zou je de voorkeur aan geven: vroeg in de ochtend studeren of laat op de avond studeren?|
+ecole-etudes-073|Wat zou je eerder kiezen: om acht uur 's ochtends al les hebben of pas om zeven uur 's avonds uit zijn?|Als je maar één optie had, wat zou het worden: een veeleisende docent hebben of een heel soepele docent hebben?|
+ecole-etudes-074|Wat zou je liever willen: een extra taal leren of een creatief keuzevak volgen?|Wat spreekt je het meest aan: een papieren studieboek lezen of een digitaal studieboek gebruiken?|
+ecole-etudes-075|Als je de knoop moest doorhakken: in de bibliotheek werken of in een rustig café werken?|Waar zou je de voorkeur aan geven: een groepsproject voorbereiden of een individuele opdracht inleveren?|
+ecole-etudes-076|Hoeveel minuten zou je nodig hebben om je aantekeningen na een les van twee uur door te lezen?|Hoeveel tijd zou je in minuten uittrekken om de fouten uit een groepspresentatie te halen?|
+ecole-etudes-077|Hoeveel minuten zou je eraan besteden om je tas voor een studiedag in te pakken?|Hoeveel minuten zou je erover doen om een keuzevak voor het volgende semester te kiezen?|
+ecole-etudes-078|Hoeveel minuten zou je ervoor vrijmaken om een moeilijke wiskundeopgave te begrijpen?|Hoeveel minuten zou je er doorgaans over doen om je computer voor een online les klaar te zetten?|
+ecole-etudes-079|Hoeveel minuten zou je nodig hebben om het onderwerp van een presentatie van vijf minuten te kiezen?|Hoeveel tijd zou je in minuten uittrekken om de papieren van een heel trimester te ordenen?|
+ecole-etudes-080|Hoeveel minuten zou je eraan besteden om een geschiedenishoofdstuk van tien pagina's te leren?|Hoeveel minuten zou je erover doen om een vraag voor een docent voor te bereiden?|
+ecole-etudes-081|Hoeveel minuten zou je ervoor vrijmaken om je samenvattingen voor een toets te maken?|Hoeveel minuten zou je er doorgaans over doen om een tekst opnieuw te lezen voor een tekstanalyse?|commentaire composé → tekstanalyse
+ecole-etudes-082|Hoeveel minuten zou je nodig hebben om een bron in de bibliotheek op te zoeken?|Hoeveel tijd zou je in minuten uittrekken om natuurkundeformules te herhalen voor een toets?|
+ecole-etudes-083|Hoeveel minuten zou je eraan besteden om een opdracht nog eens door te lezen voordat je hem verstuurt?|Hoeveel minuten zou je erover doen om een concreet voorbeeld voor een presentatie te zoeken?|
+ecole-etudes-084|Hoeveel minuten zou je ervoor vrijmaken om een mondelinge presentatie te oefenen?|Hoeveel minuten zou je er doorgaans over doen om een opzet voor een essay in drie delen te schrijven?|dissertation → essay
+ecole-etudes-085|Hoeveel minuten zou je nodig hebben om de fouten uit een groepspresentatie te halen?|Hoeveel tijd zou je in minuten uittrekken om twintig pagina's van een verplicht boek te lezen?|
+ecole-etudes-086|Hoeveel minuten zou je eraan besteden om een keuzevak voor het volgende semester te kiezen?|Hoeveel minuten zou je erover doen om een studieplanning voor een week op te stellen?|
+ecole-etudes-087|Hoeveel minuten zou je ervoor vrijmaken om je computer voor een online les klaar te zetten?|Hoeveel minuten zou je er doorgaans over doen om je aantekeningen na een les van twee uur door te lezen?|
+ecole-etudes-088|Hoeveel minuten zou je nodig hebben om de papieren van een heel trimester te ordenen?|Hoeveel tijd zou je in minuten uittrekken om je tas voor een studiedag in te pakken?|
+ecole-etudes-089|Hoeveel minuten zou je eraan besteden om een vraag voor een docent voor te bereiden?|Hoeveel minuten zou je erover doen om een moeilijke wiskundeopgave te begrijpen?|
+ecole-etudes-090|Hoeveel minuten zou je ervoor vrijmaken om een tekst opnieuw te lezen voor een tekstanalyse?|Hoeveel minuten zou je er doorgaans over doen om het onderwerp van een presentatie van vijf minuten te kiezen?|commentaire composé → tekstanalyse
+ecole-etudes-091|Hoeveel minuten zou je nodig hebben om natuurkundeformules te herhalen voor een toets?|Hoeveel tijd zou je in minuten uittrekken om een geschiedenishoofdstuk van tien pagina's te leren?|
+ecole-etudes-092|Hoeveel minuten zou je eraan besteden om een concreet voorbeeld voor een presentatie te zoeken?|Hoeveel minuten zou je erover doen om je samenvattingen voor een toets te maken?|
+ecole-etudes-093|Hoeveel minuten zou je ervoor vrijmaken om een opzet voor een essay in drie delen te schrijven?|Hoeveel minuten zou je er doorgaans over doen om een bron in de bibliotheek op te zoeken?|dissertation → essay
+ecole-etudes-094|Hoeveel minuten zou je nodig hebben om twintig pagina's van een verplicht boek te lezen?|Hoeveel tijd zou je in minuten uittrekken om een opdracht nog eens door te lezen voordat je hem verstuurt?|
+ecole-etudes-095|Hoeveel minuten zou je eraan besteden om een studieplanning voor een week op te stellen?|Hoeveel minuten zou je erover doen om een mondelinge presentatie te oefenen?|
+ecole-etudes-096|Hoeveel minuten zou je eraan besteden om je aantekeningen na een les van twee uur door te lezen?|Hoeveel minuten zou je erover doen om de fouten uit een groepspresentatie te halen?|
+ecole-etudes-097|Hoeveel minuten zou je ervoor vrijmaken om je tas voor een studiedag in te pakken?|Hoeveel minuten zou je er doorgaans over doen om een keuzevak voor het volgende semester te kiezen?|
+ecole-etudes-098|Hoeveel minuten zou je nodig hebben om een moeilijke wiskundeopgave te begrijpen?|Hoeveel tijd zou je in minuten uittrekken om je computer voor een online les klaar te zetten?|
+ecole-etudes-099|Hoeveel minuten zou je eraan besteden om het onderwerp van een presentatie van vijf minuten te kiezen?|Hoeveel minuten zou je erover doen om de papieren van een heel trimester te ordenen?|
+ecole-etudes-100|Hoeveel minuten zou je ervoor vrijmaken om een geschiedenishoofdstuk van tien pagina's te leren?|Hoeveel minuten zou je er doorgaans over doen om een vraag voor een docent voor te bereiden?|
+ecole-etudes-101|Aan wie zou je advies vragen om een lastige essayopdracht te begrijpen?|Wie zou je bellen om een betrouwbare partner voor een project te vinden?|dissertation → essay
+ecole-etudes-102|Met wie zou je als eerste contact opnemen om tussen twee studierichtingen te kiezen?|Wie zou je om raad vragen om advies bij het kiezen van een keuzevak te krijgen?|
+ecole-etudes-103|Bij wie zou je aankloppen om een rekenuitkomst voor een toets te controleren?|Met wie zou je eerst praten om beter te leren omgaan met examenstress?|
+ecole-etudes-104|Aan wie zou je advies vragen om advies over een verplichte stage te krijgen?|Wie zou je bellen om een motivatiebrief voor een opleiding na te lezen?|
+ecole-etudes-105|Met wie zou je als eerste contact opnemen om een grammaticaregel die je niet goed snapt nog eens door te nemen?|Wie zou je om raad vragen om oude examens van vorige jaren te vinden?|
+ecole-etudes-106|Bij wie zou je aankloppen om een conflict in een groepsopdracht op te lossen?|Met wie zou je eerst praten om een les in te halen die je door ziekte hebt gemist?|
+ecole-etudes-107|Aan wie zou je advies vragen om een toelatingsgesprek voor een opleiding voor te bereiden?|Wie zou je bellen om een aanbeveling te vragen voor een sollicitatie?|
+ecole-etudes-108|Met wie zou je als eerste contact opnemen om te weten welk werk je met een diploma kunt vinden?|Wie zou je om raad vragen om na te gaan of een opleiding erkend is?|
+ecole-etudes-109|Bij wie zou je aankloppen om een mening te vragen over een scriptieonderwerp?|Met wie zou je eerst praten om feedback op een proefmondeling te krijgen?|
+ecole-etudes-110|Aan wie zou je advies vragen om een betrouwbare partner voor een project te vinden?|Wie zou je bellen om de regels rond plagiaat in een werkstuk te begrijpen?|
+ecole-etudes-111|Met wie zou je als eerste contact opnemen om advies bij het kiezen van een keuzevak te krijgen?|Wie zou je om raad vragen om een effectieve studiesessie te organiseren?|
+ecole-etudes-112|Bij wie zou je aankloppen om beter te leren omgaan met examenstress?|Met wie zou je eerst praten om een lastige essayopdracht te begrijpen?|dissertation → essay
+ecole-etudes-113|Aan wie zou je advies vragen om een motivatiebrief voor een opleiding na te lezen?|Wie zou je bellen om tussen twee studierichtingen te kiezen?|
+ecole-etudes-114|Met wie zou je als eerste contact opnemen om oude examens van vorige jaren te vinden?|Wie zou je om raad vragen om een rekenuitkomst voor een toets te controleren?|
+ecole-etudes-115|Bij wie zou je aankloppen om een les in te halen die je door ziekte hebt gemist?|Met wie zou je eerst praten om advies over een verplichte stage te krijgen?|
+ecole-etudes-116|Aan wie zou je advies vragen om een aanbeveling te vragen voor een sollicitatie?|Wie zou je bellen om een grammaticaregel die je niet goed snapt nog eens door te nemen?|
+ecole-etudes-117|Met wie zou je als eerste contact opnemen om na te gaan of een opleiding erkend is?|Wie zou je om raad vragen om een conflict in een groepsopdracht op te lossen?|
+ecole-etudes-118|Bij wie zou je aankloppen om feedback op een proefmondeling te krijgen?|Met wie zou je eerst praten om een toelatingsgesprek voor een opleiding voor te bereiden?|
+ecole-etudes-119|Aan wie zou je advies vragen om de regels rond plagiaat in een werkstuk te begrijpen?|Wie zou je bellen om te weten welk werk je met een diploma kunt vinden?|
+ecole-etudes-120|Met wie zou je als eerste contact opnemen om een effectieve studiesessie te organiseren?|Wie zou je om raad vragen om een mening te vragen over een scriptieonderwerp?|
+ecole-etudes-121|Met wie zou je als eerste contact opnemen om een lastige essayopdracht te begrijpen?|Wie zou je om raad vragen om een betrouwbare partner voor een project te vinden?|dissertation → essay
+ecole-etudes-122|Bij wie zou je aankloppen om tussen twee studierichtingen te kiezen?|Met wie zou je eerst praten om advies bij het kiezen van een keuzevak te krijgen?|
+ecole-etudes-123|Aan wie zou je advies vragen om een rekenuitkomst voor een toets te controleren?|Wie zou je bellen om beter te leren omgaan met examenstress?|
+ecole-etudes-124|Met wie zou je als eerste contact opnemen om advies over een verplichte stage te krijgen?|Wie zou je om raad vragen om een motivatiebrief voor een opleiding na te lezen?|
+ecole-etudes-125|Bij wie zou je aankloppen om een grammaticaregel die je niet goed snapt nog eens door te nemen?|Met wie zou je eerst praten om oude examens van vorige jaren te vinden?|
+ecole-etudes-126|Waar zou je heen gaan om drie uur lang in alle rust te studeren?|Op welke plek zou je op zondag willen werken als het thuis te lawaaiig is?|
+ecole-etudes-127|Waar zou je het liefst de dag voor de deadline een werkstuk printen?|Welke plek zou je kiezen om een rekenmachine te kopen die bij examens is toegestaan?|
+ecole-etudes-128|Op welke plek zou je graag een studiegroep vlak bij de campus vinden?|Waar zou je ervoor kiezen om een oefensessie voor een presentatie te houden?|
+ecole-etudes-129|Waar zou je heen gaan om na de lessen in alle rust een boek te lezen?|Op welke plek zou je met een vriend af willen spreken om samen te leren?|
+ecole-etudes-130|Waar zou je het liefst voor het begin van het schooljaar een notitieboekje kopen?|Welke plek zou je kiezen om archieven te raadplegen voor een geschiedenispresentatie?|
+ecole-etudes-131|Op welke plek zou je graag een moeilijk te vinden schoolboek lenen?|Waar zou je ervoor kiezen om een artikel dat je voor een vak nodig hebt te kopiëren?|
+ecole-etudes-132|Waar zou je heen gaan om tussen twee lessen door een belangrijk telefoontje te plegen?|Op welke plek zou je informatie over een opleiding op willen vragen?|
+ecole-etudes-133|Waar zou je het liefst met een team een presentatie voorbereiden?|Welke plek zou je kiezen om een werkplek met een computer te vinden?|
+ecole-etudes-134|Op welke plek zou je graag een docent tijdens zijn spreekuur spreken?|Waar zou je ervoor kiezen om een stagegesprek voor te bereiden?|
+ecole-etudes-135|Waar zou je heen gaan om op zondag te werken als het thuis te lawaaiig is?|Op welke plek zou je een begeleide practicumopdracht willen doen?|
+ecole-etudes-136|Waar zou je het liefst een rekenmachine kopen die bij examens is toegestaan?|Welke plek zou je kiezen om je een uur voor een examen te concentreren?|
+ecole-etudes-137|Op welke plek zou je graag een oefensessie voor een presentatie houden?|Waar zou je ervoor kiezen om drie uur lang in alle rust te studeren?|
+ecole-etudes-138|Waar zou je heen gaan om met een vriend af te spreken om samen te leren?|Op welke plek zou je de dag voor de deadline een werkstuk willen printen?|
+ecole-etudes-139|Waar zou je het liefst archieven raadplegen voor een geschiedenispresentatie?|Welke plek zou je kiezen om een studiegroep vlak bij de campus te vinden?|
+ecole-etudes-140|Op welke plek zou je graag een artikel dat je voor een vak nodig hebt kopiëren?|Waar zou je ervoor kiezen om na de lessen in alle rust een boek te lezen?|
+ecole-etudes-141|Waar zou je heen gaan om informatie over een opleiding op te vragen?|Op welke plek zou je voor het begin van het schooljaar een notitieboekje willen kopen?|
+ecole-etudes-142|Waar zou je het liefst een werkplek met een computer vinden?|Welke plek zou je kiezen om een moeilijk te vinden schoolboek te lenen?|
+ecole-etudes-143|Op welke plek zou je graag een stagegesprek voorbereiden?|Waar zou je ervoor kiezen om tussen twee lessen door een belangrijk telefoontje te plegen?|
+ecole-etudes-144|Waar zou je heen gaan om een begeleide practicumopdracht te doen?|Op welke plek zou je met een team een presentatie voor willen bereiden?|
+ecole-etudes-145|Waar zou je je het liefst een uur voor een examen concentreren?|Welke plek zou je kiezen om een docent tijdens zijn spreekuur te spreken?|
+ecole-etudes-146|Waar zou je het liefst drie uur lang in alle rust studeren?|Welke plek zou je kiezen om op zondag te werken als het thuis te lawaaiig is?|
+ecole-etudes-147|Op welke plek zou je graag de dag voor de deadline een werkstuk printen?|Waar zou je ervoor kiezen om een rekenmachine te kopen die bij examens is toegestaan?|
+ecole-etudes-148|Waar zou je heen gaan om een studiegroep vlak bij de campus te vinden?|Op welke plek zou je een oefensessie voor een presentatie willen houden?|
+ecole-etudes-149|Waar zou je het liefst na de lessen in alle rust een boek lezen?|Welke plek zou je kiezen om met een vriend af te spreken om samen te leren?|
+ecole-etudes-150|Op welke plek zou je graag voor het begin van het schooljaar een notitieboekje kopen?|Waar zou je ervoor kiezen om archieven te raadplegen voor een geschiedenispresentatie?|
+ecole-etudes-151|Welk voorwerp zou je meenemen om tijdens een les van drie uur aantekeningen te maken?|Welk accessoire zou je gebruiken om de uitspraak van een vreemde taal te oefenen?|
+ecole-etudes-152|Welk accessoire zou je kiezen om een presentatie te geven zonder eigen laptop?|Met welk voorwerp zou je in de trein een studieboek willen lezen?|
+ecole-etudes-153|Welk voorwerp zou je onmisbaar vinden om alle deadlines van het semester bij te houden?|Welk voorwerp zou je als eerste pakken om een schema aan een klasgenoot uit te leggen?|
+ecole-etudes-154|Welk voorwerp zou je meenemen om landkaarten uit je hoofd te leren?|Welk accessoire zou je gebruiken om de samenvattingen van een heel jaar te bewaren?|
+ecole-etudes-155|Welk accessoire zou je kiezen om zware boeken naar de campus te sjouwen?|Met welk voorwerp zou je een grafiek op het bord willen laten zien?|
+ecole-etudes-156|Welk voorwerp zou je onmisbaar vinden om wiskundeopgaven na te kijken?|Welk voorwerp zou je als eerste pakken om een precieze meetkundeopgave te maken?|
+ecole-etudes-157|Welk voorwerp zou je meenemen om aantekeningen te maken in een literaire tekst van tien pagina's?|Welk accessoire zou je gebruiken om in een bibliotheek zonder stopcontact te werken?|
+ecole-etudes-158|Welk accessoire zou je kiezen om in een heel lichte ruimte te studeren?|Met welk voorwerp zou je een laptop door de regen willen vervoeren?|
+ecole-etudes-159|Welk voorwerp zou je onmisbaar vinden om zonder internetverbinding te leren?|Welk voorwerp zou je als eerste pakken om ideeën voor een essay vast te leggen?|dissertation → essay
+ecole-etudes-160|Welk voorwerp zou je meenemen om de uitspraak van een vreemde taal te oefenen?|Welk accessoire zou je gebruiken om een groepsproject op afstand te organiseren?|
+ecole-etudes-161|Welk accessoire zou je kiezen om in de trein een studieboek te lezen?|Met welk voorwerp zou je tijdens het leren snel een definitie terug willen vinden?|
+ecole-etudes-162|Welk voorwerp zou je onmisbaar vinden om een schema aan een klasgenoot uit te leggen?|Welk voorwerp zou je als eerste pakken om tijdens een les van drie uur aantekeningen te maken?|
+ecole-etudes-163|Welk voorwerp zou je meenemen om de samenvattingen van een heel jaar te bewaren?|Welk accessoire zou je gebruiken om een presentatie te geven zonder eigen laptop?|
+ecole-etudes-164|Welk accessoire zou je kiezen om een grafiek op het bord te laten zien?|Met welk voorwerp zou je alle deadlines van het semester bij willen houden?|
+ecole-etudes-165|Welk voorwerp zou je onmisbaar vinden om een precieze meetkundeopgave te maken?|Welk voorwerp zou je als eerste pakken om landkaarten uit je hoofd te leren?|
+ecole-etudes-166|Welk voorwerp zou je meenemen om in een bibliotheek zonder stopcontact te werken?|Welk accessoire zou je gebruiken om zware boeken naar de campus te sjouwen?|
+ecole-etudes-167|Welk accessoire zou je kiezen om een laptop door de regen te vervoeren?|Met welk voorwerp zou je wiskundeopgaven na willen kijken?|
+ecole-etudes-168|Welk voorwerp zou je onmisbaar vinden om ideeën voor een essay vast te leggen?|Welk voorwerp zou je als eerste pakken om aantekeningen te maken in een literaire tekst van tien pagina's?|dissertation → essay
+ecole-etudes-169|Welk voorwerp zou je meenemen om een groepsproject op afstand te organiseren?|Welk accessoire zou je gebruiken om in een heel lichte ruimte te studeren?|
+ecole-etudes-170|Welk accessoire zou je kiezen om tijdens het leren snel een definitie terug te vinden?|Met welk voorwerp zou je zonder internetverbinding willen leren?|
+ecole-etudes-171|Welk accessoire zou je kiezen om tijdens een les van drie uur aantekeningen te maken?|Met welk voorwerp zou je de uitspraak van een vreemde taal willen oefenen?|
+ecole-etudes-172|Welk voorwerp zou je onmisbaar vinden om een presentatie te geven zonder eigen laptop?|Welk voorwerp zou je als eerste pakken om in de trein een studieboek te lezen?|
+ecole-etudes-173|Welk voorwerp zou je meenemen om alle deadlines van het semester bij te houden?|Welk accessoire zou je gebruiken om een schema aan een klasgenoot uit te leggen?|
+ecole-etudes-174|Welk accessoire zou je kiezen om landkaarten uit je hoofd te leren?|Met welk voorwerp zou je de samenvattingen van een heel jaar willen bewaren?|
+ecole-etudes-175|Welk voorwerp zou je onmisbaar vinden om zware boeken naar de campus te sjouwen?|Welk voorwerp zou je als eerste pakken om een grafiek op het bord te laten zien?|
+ecole-etudes-176|Hoe vaak per maand zou je na een belangrijke les een samenvatting kunnen maken?|Hoe vaak zou je er in een normale maand voor kiezen om een educatieve video als aanvulling te kijken?|
+ecole-etudes-177|Hoe vaak zou je in een maand graag in een bibliotheek studeren in plaats van thuis?|Hoe vaak per maand zou het volgens jou redelijk zijn om met een vriend een vreemde taal te oefenen?|
+ecole-etudes-178|Hoe vaak zou je in één maand samen met een andere student kunnen leren?|Hoe vaak zou je in een gewone maand artikelen willen zoeken om dieper op de lesstof in te gaan?|
+ecole-etudes-179|Hoe vaak per maand zou je je studiedoelen opnieuw kunnen bekijken?|Hoe vaak zou je er in een normale maand voor kiezen om pauzes te nemen tijdens een lange studiesessie?|
+ecole-etudes-180|Hoe vaak zou je in een maand graag in een groep aan een presentatie werken?|Hoe vaak per maand zou het volgens jou redelijk zijn om een lezing op je school of universiteit bij te wonen?|
+ecole-etudes-181|Hoe vaak zou je in één maand een docent om feedback kunnen vragen?|Hoe vaak zou je in een gewone maand een afspraak met een decaan willen maken?|conseiller d'orientation → decaan
+ecole-etudes-182|Hoe vaak per maand zou je een oude nagekeken opdracht opnieuw door kunnen lezen?|Hoe vaak zou je er in een normale maand voor kiezen om alvast een hoofdstuk verder te lezen dan de lesstof?|
+ecole-etudes-183|Hoe vaak zou je in een maand graag de avond voor een les je spullen klaarleggen?|Hoe vaak per maand zou het volgens jou redelijk zijn om een mislukte opgave opnieuw te maken om vooruit te gaan?|
+ecole-etudes-184|Hoe vaak zou je in één maand flashcards kunnen gebruiken om te leren?|Hoe vaak zou je in een gewone maand een nieuwe geheugentechniek willen leren?|
+ecole-etudes-185|Hoe vaak per maand zou je een educatieve video als aanvulling kunnen kijken?|Hoe vaak zou je er in een normale maand voor kiezen om je studiemomenten in een agenda in te plannen?|
+ecole-etudes-186|Hoe vaak zou je in een maand graag met een vriend een vreemde taal oefenen?|Hoe vaak per maand zou het volgens jou redelijk zijn om jezelf met een oefentoets te overhoren?|
+ecole-etudes-187|Hoe vaak zou je in één maand artikelen kunnen zoeken om dieper op de lesstof in te gaan?|Hoe vaak zou je in een gewone maand na een belangrijke les een samenvatting willen maken?|
+ecole-etudes-188|Hoe vaak per maand zou je pauzes kunnen nemen tijdens een lange studiesessie?|Hoe vaak zou je er in een normale maand voor kiezen om in een bibliotheek te studeren in plaats van thuis?|
+ecole-etudes-189|Hoe vaak zou je in een maand graag een lezing op je school of universiteit bijwonen?|Hoe vaak per maand zou het volgens jou redelijk zijn om samen met een andere student te leren?|
+ecole-etudes-190|Hoe vaak zou je in één maand een afspraak met een decaan kunnen maken?|Hoe vaak zou je in een gewone maand je studiedoelen opnieuw willen bekijken?|conseiller d'orientation → decaan
+ecole-etudes-191|Hoe vaak per maand zou je alvast een hoofdstuk verder kunnen lezen dan de lesstof?|Hoe vaak zou je er in een normale maand voor kiezen om in een groep aan een presentatie te werken?|
+ecole-etudes-192|Hoe vaak zou je in een maand graag een mislukte opgave opnieuw maken om vooruit te gaan?|Hoe vaak per maand zou het volgens jou redelijk zijn om een docent om feedback te vragen?|
+ecole-etudes-193|Hoe vaak zou je in één maand een nieuwe geheugentechniek kunnen leren?|Hoe vaak zou je in een gewone maand een oude nagekeken opdracht opnieuw door willen lezen?|
+ecole-etudes-194|Hoe vaak per maand zou je je studiemomenten in een agenda in kunnen plannen?|Hoe vaak zou je er in een normale maand voor kiezen om de avond voor een les je spullen klaar te leggen?|
+ecole-etudes-195|Hoe vaak zou je in een maand graag jezelf met een oefentoets overhoren?|Hoe vaak per maand zou het volgens jou redelijk zijn om flashcards te gebruiken om te leren?|
+ecole-etudes-196|Hoe vaak zou je in een maand graag na een belangrijke les een samenvatting maken?|Hoe vaak per maand zou het volgens jou redelijk zijn om een educatieve video als aanvulling te kijken?|
+ecole-etudes-197|Hoe vaak zou je in één maand in een bibliotheek kunnen studeren in plaats van thuis?|Hoe vaak zou je in een gewone maand met een vriend een vreemde taal willen oefenen?|
+ecole-etudes-198|Hoe vaak per maand zou je samen met een andere student kunnen leren?|Hoe vaak zou je er in een normale maand voor kiezen om artikelen te zoeken om dieper op de lesstof in te gaan?|
+ecole-etudes-199|Hoe vaak zou je in een maand graag je studiedoelen opnieuw bekijken?|Hoe vaak per maand zou het volgens jou redelijk zijn om pauzes te nemen tijdens een lange studiesessie?|
+ecole-etudes-200|Hoe vaak zou je in één maand in een groep aan een presentatie kunnen werken?|Hoe vaak zou je in een gewone maand een lezing op je school of universiteit bij willen wonen?|

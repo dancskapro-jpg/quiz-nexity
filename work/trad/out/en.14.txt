@@ -397,3 +397,103 @@ mariages-occasions-196|What accessory would you choose to give a speech without 
 mariages-occasions-197|What item would seem essential to you for keeping the memories of a reception?|What item would you take first to decorate tables without getting in the guests' way?|
 mariages-occasions-198|What item would you take with you to organise the seating at a wedding meal?|What accessory would you use to show souvenir photos on a screen?|
 mariages-occasions-199|What accessory would you choose to keep young children busy during the speeches?|What item would you want to use to carry several bouquets of flowers?|
+mariages-occasions-200|What item would seem essential to you for fixing a small tear in an outfit before a ceremony?|What item would you take first to hand over a group present during a party?|
+restaurants-service-001|What's the most you'd pay for a two-course lunch menu in a London brasserie?|What price would seem reasonable to you for a big mixed salad for lunch?|Paris → Londres
+restaurants-service-002|How much would you be willing to spend on a margherita pizza in an Italian restaurant?|In pounds, what would your limit be for a plate of fresh pasta in a trattoria?|euros → livres
+restaurants-service-003|What budget would you set aside for a burger and chips in a local restaurant?|At what price would you find a dinner for two with a main and dessert, no alcohol, too expensive?|
+restaurants-service-004|What's the most you'd pay for an Americano served on a café terrace in central London?|What price would seem reasonable to you for a platter of twenty pieces of sushi?|Paris → Londres
+restaurants-service-005|How much would you be willing to spend on a full brunch deal for one person?|In pounds, what would your limit be for a soup and sandwich in a café?|euros → livres
+restaurants-service-006|What budget would you set aside for a five-course tasting menu without drinks?|At what price would you find a three-scoop ice cream sundae on a terrace too expensive?|
+restaurants-service-007|What's the most you'd pay for home delivery of two hot meals?|What price would seem reasonable to you for a portion of homemade chips to share?|
+restaurants-service-008|How much would you be willing to spend on a one-litre bottle of sparkling water in a restaurant?|In pounds, what would your limit be for a plant-based steak with a side in a restaurant?|euros → livres
+restaurants-service-009|What budget would you set aside for a homemade dessert in a brasserie?|At what price would you find a breakfast deal with a hot drink and a pastry too expensive?|
+restaurants-service-010|What's the most you'd pay for a big mixed salad for lunch?|What price would seem reasonable to you for a plate of the fish of the day with vegetables?|
+restaurants-service-011|How much would you be willing to spend on a plate of fresh pasta in a trattoria?|In pounds, what would your limit be for a takeaway meal for two people?|euros → livres
+restaurants-service-012|What budget would you set aside for a dinner for two with a main and dessert, no alcohol?|At what price would you find a two-course lunch menu in a London brasserie too expensive?|Paris → Londres
+restaurants-service-013|What's the most you'd pay for a platter of twenty pieces of sushi?|What price would seem reasonable to you for a margherita pizza in an Italian restaurant?|
+restaurants-service-014|How much would you be willing to spend on a soup and sandwich in a café?|In pounds, what would your limit be for a burger and chips in a local restaurant?|euros → livres
+restaurants-service-015|What budget would you set aside for a three-scoop ice cream sundae on a terrace?|At what price would you find an Americano served on a café terrace in central London too expensive?|Paris → Londres
+restaurants-service-016|What's the most you'd pay for a portion of homemade chips to share?|What price would seem reasonable to you for a full brunch deal for one person?|
+restaurants-service-017|How much would you be willing to spend on a plant-based steak with a side in a restaurant?|In pounds, what would your limit be for a five-course tasting menu without drinks?|euros → livres
+restaurants-service-018|What budget would you set aside for a breakfast deal with a hot drink and a pastry?|At what price would you find home delivery of two hot meals too expensive?|
+restaurants-service-019|What's the most you'd pay for a plate of the fish of the day with vegetables?|What price would seem reasonable to you for a one-litre bottle of sparkling water in a restaurant?|
+restaurants-service-020|How much would you be willing to spend on a takeaway meal for two people?|In pounds, what would your limit be for a homemade dessert in a brasserie?|euros → livres
+restaurants-service-021|How much would you be willing to spend on a two-course lunch menu in a London brasserie?|In pounds, what would your limit be for a big mixed salad for lunch?|Paris → Londres ; euros → livres
+restaurants-service-022|What budget would you set aside for a margherita pizza in an Italian restaurant?|At what price would you find a plate of fresh pasta in a trattoria too expensive?|
+restaurants-service-023|What's the most you'd pay for a burger and chips in a local restaurant?|What price would seem reasonable to you for a dinner for two with a main and dessert, no alcohol?|
+restaurants-service-024|How much would you be willing to spend on an Americano served on a café terrace in central London?|In pounds, what would your limit be for a platter of twenty pieces of sushi?|Paris → Londres ; euros → livres
+restaurants-service-025|What budget would you set aside for a full brunch deal for one person?|At what price would you find a soup and sandwich in a café too expensive?|
+restaurants-service-026|What would you say back if the waiter brought a different dish from the one you ordered?|How would you respond if a shop assistant asked you to pay twice for the same item?|
+restaurants-service-027|What would be your first sentence if a restaurant owner suddenly told you there was an hour's wait?|What would you say if the delivery driver left an order at the wrong door?|
+restaurants-service-028|What would you say if the waiter charged you for a dessert you didn't have?|What words would you use if a shopkeeper refused to honour a displayed price?|
+restaurants-service-029|What would you say back if the coffee you were served was stone cold?|How would you respond if a waiter told you the terrace closes in ten minutes?|
+restaurants-service-030|What would be your first sentence if a member of staff asked you to give up the table before dessert?|What would you say if the staff told you your booking doesn't exist?|
+restaurants-service-031|What would you say if the waiter told you the dish you'd chosen had run out?|What words would you use if a member of staff asked you to queue again in a long line despite your ticket?|
+restaurants-service-032|What would you say back if a restaurant owner refused a refund after an obvious mistake?|How would you respond if the restaurant offered you a free dessert to apologise for a delay?|
+restaurants-service-033|What would be your first sentence if the staff forgot the allergy you'd mentioned before ordering?|What would you say if a waiter spilt a bit of water on your coat?|
+restaurants-service-034|What would you say if a waiter offered you an extra you hadn't asked for?|What words would you use if the restaurant owner told you the menu was different from the one online?|
+restaurants-service-035|What would you say back if a shop assistant asked you to pay twice for the same item?|How would you respond if a shop assistant claimed a faulty product was "normal"?|
+restaurants-service-036|What would be your first sentence if the delivery driver left an order at the wrong door?|What would you say if a waiter asked for your opinion when you didn't like the dish?|
+restaurants-service-037|What would you say if a shopkeeper refused to honour a displayed price?|What words would you use if the waiter brought a different dish from the one you ordered?|
+restaurants-service-038|What would you say back if a waiter told you the terrace closes in ten minutes?|How would you respond if a restaurant owner suddenly told you there was an hour's wait?|
+restaurants-service-039|What would be your first sentence if the staff told you your booking doesn't exist?|What would you say if the waiter charged you for a dessert you didn't have?|
+restaurants-service-040|What would you say if a member of staff asked you to queue again in a long line despite your ticket?|What words would you use if the coffee you were served was stone cold?|
+restaurants-service-041|What would you say back if the restaurant offered you a free dessert to apologise for a delay?|How would you respond if a member of staff asked you to give up the table before dessert?|
+restaurants-service-042|What would be your first sentence if a waiter spilt a bit of water on your coat?|What would you say if the waiter told you the dish you'd chosen had run out?|
+restaurants-service-043|What would you say if the restaurant owner told you the menu was different from the one online?|What words would you use if a restaurant owner refused a refund after an obvious mistake?|
+restaurants-service-044|What would you say back if a shop assistant claimed a faulty product was "normal"?|How would you respond if the staff forgot the allergy you'd mentioned before ordering?|
+restaurants-service-045|What would be your first sentence if a waiter asked for your opinion when you didn't like the dish?|What would you say if a waiter offered you an extra you hadn't asked for?|
+restaurants-service-046|What would be your first sentence if the waiter brought a different dish from the one you ordered?|What would you say if a shop assistant asked you to pay twice for the same item?|
+restaurants-service-047|What would you say if a restaurant owner suddenly told you there was an hour's wait?|What words would you use if the delivery driver left an order at the wrong door?|
+restaurants-service-048|What would you say back if the waiter charged you for a dessert you didn't have?|How would you respond if a shopkeeper refused to honour a displayed price?|
+restaurants-service-049|What would be your first sentence if the coffee you were served was stone cold?|What would you say if a waiter told you the terrace closes in ten minutes?|
+restaurants-service-050|What would you say if a member of staff asked you to give up the table before dessert?|What words would you use if the staff told you your booking doesn't exist?|
+restaurants-service-051|What would you do first if you found a hair in your food at a restaurant?|What would you decide to do first if you noticed a pricing mistake at the supermarket checkout?|
+restaurants-service-052|What would be your first instinct if your delivery order was missing the dessert you'd paid for?|How would you act first if the meal you'd ordered without an ingredient turned out to contain it?|
+restaurants-service-053|Where would you start if you turned up and the restaurant had lost your booking?|What would be your first move if the restaurant was full despite an email confirmation?|
+restaurants-service-054|What would you do first if the bill included four drinks instead of two?|What would you decide to do first if a waiter brought the main course before the starter?|
+restaurants-service-055|What would be your first instinct if your food arrived cold after a forty-minute wait?|How would you act first if your takeaway coffee spilt because the lid wasn't on properly?|
+restaurants-service-056|Where would you start if a restaurant announced after the meal that it only took cash?|What would be your first move if your receipt showed a discount had been missed?|
+restaurants-service-057|What would you do first if you received a broken item in a brand-new parcel?|What would you decide to do first if a delivery turned up an hour late?|
+restaurants-service-058|What would be your first instinct if your parcel showed as delivered but you hadn't received anything?|How would you act first if you noticed a product you'd bought was past its use-by date?|
+restaurants-service-059|Where would you start if the card machine showed the transaction twice?|What would be your first move if the waiter told you you'd been given the wrong table's bill?|
+restaurants-service-060|What would you do first if you noticed a pricing mistake at the supermarket checkout?|What would you decide to do first if a shopkeeper found the wallet you'd left behind the day before?|
+restaurants-service-061|What would be your first instinct if the meal you'd ordered without an ingredient turned out to contain it?|How would you act first if the menu listed a dish that turned out to be no longer available?|
+restaurants-service-062|Where would you start if the restaurant was full despite an email confirmation?|What would be your first move if you found a hair in your food at a restaurant?|
+restaurants-service-063|What would you do first if a waiter brought the main course before the starter?|What would you decide to do first if your delivery order was missing the dessert you'd paid for?|
+restaurants-service-064|What would be your first instinct if your takeaway coffee spilt because the lid wasn't on properly?|How would you act first if you turned up and the restaurant had lost your booking?|
+restaurants-service-065|Where would you start if your receipt showed a discount had been missed?|What would be your first move if the bill included four drinks instead of two?|
+restaurants-service-066|What would you do first if a delivery turned up an hour late?|What would you decide to do first if your food arrived cold after a forty-minute wait?|
+restaurants-service-067|What would be your first instinct if you noticed a product you'd bought was past its use-by date?|How would you act first if a restaurant announced after the meal that it only took cash?|
+restaurants-service-068|Where would you start if the waiter told you you'd been given the wrong table's bill?|What would be your first move if you received a broken item in a brand-new parcel?|
+restaurants-service-069|What would you do first if a shopkeeper found the wallet you'd left behind the day before?|What would you decide to do first if your parcel showed as delivered but you hadn't received anything?|
+restaurants-service-070|What would be your first instinct if the menu listed a dish that turned out to be no longer available?|How would you act first if the card machine showed the transaction twice?|
+restaurants-service-071|What would be your first instinct if you found a hair in your food at a restaurant?|How would you act first if you noticed a pricing mistake at the supermarket checkout?|
+restaurants-service-072|Where would you start if your delivery order was missing the dessert you'd paid for?|What would be your first move if the meal you'd ordered without an ingredient turned out to contain it?|
+restaurants-service-073|What would you do first if you turned up and the restaurant had lost your booking?|What would you decide to do first if the restaurant was full despite an email confirmation?|
+restaurants-service-074|What would be your first instinct if the bill included four drinks instead of two?|How would you act first if a waiter brought the main course before the starter?|
+restaurants-service-075|Where would you start if your food arrived cold after a forty-minute wait?|What would be your first move if your takeaway coffee spilt because the lid wasn't on properly?|
+restaurants-service-076|Would you rather go for a really good little restaurant that's noisy or a quiet but ordinary restaurant?|If you could only have one, would you pick a well-known restaurant or a little-known spot?|
+restaurants-service-077|Between a sunny terrace and a comfy air-conditioned dining room, which would you prefer?|Which of the two tempts you more: a short menu that changes often or a big permanent menu?|
+restaurants-service-078|If you had to choose, would it be the set menu of the day or ordering à la carte?|Would you go for a waiter who gives lots of recommendations or a waiter who lets you choose in peace?|
+restaurants-service-079|Would you rather go for really fast service or more attentive service?|If you could only have one, would you pick a traditional pizzeria or a fresh pasta restaurant?|
+restaurants-service-080|Between eating in and getting a takeaway, which would you prefer?|Which of the two tempts you more: paying at the till or paying at the table?|
+restaurants-service-081|If you had to choose, would it be an open kitchen or a hidden kitchen?|Would you go for a table by the window or a table at the back of the room?|
+restaurants-service-082|Would you rather go for a sweet brunch or a savoury brunch?|If you could only have one, would you pick a starter and main or a main and dessert?|
+restaurants-service-083|Between sharing plates and everyone having their own, which would you prefer?|Which of the two tempts you more: fast but pricey delivery or free collection on foot?|
+restaurants-service-084|If you had to choose, would it be booking several days in advance or picking the restaurant on the night?|Would you go for a simple meal with local produce or a really elaborate menu?|
+restaurants-service-085|Would you rather go for a well-known restaurant or a little-known spot?|If you could only have one, would you pick an early lunch or a late dinner?|
+restaurants-service-086|Between a short menu that changes often and a big permanent menu, which would you prefer?|Which of the two tempts you more: a restaurant where you know the staff or a new place to discover?|
+restaurants-service-087|If you had to choose, would it be a waiter who gives lots of recommendations or a waiter who lets you choose in peace?|Would you go for a really good little restaurant that's noisy or a quiet but ordinary restaurant?|
+restaurants-service-088|Would you rather go for a traditional pizzeria or a fresh pasta restaurant?|If you could only have one, would you pick a sunny terrace or a comfy air-conditioned dining room?|
+restaurants-service-089|Between paying at the till and paying at the table, which would you prefer?|Which of the two tempts you more: the set menu of the day or ordering à la carte?|
+restaurants-service-090|If you had to choose, would it be a table by the window or a table at the back of the room?|Would you go for really fast service or more attentive service?|
+restaurants-service-091|Would you rather go for a starter and main or a main and dessert?|If you could only have one, would you pick eating in or getting a takeaway?|
+restaurants-service-092|Between fast but pricey delivery and free collection on foot, which would you prefer?|Which of the two tempts you more: an open kitchen or a hidden kitchen?|
+restaurants-service-093|If you had to choose, would it be a simple meal with local produce or a really elaborate menu?|Would you go for a sweet brunch or a savoury brunch?|
+restaurants-service-094|Would you rather go for an early lunch or a late dinner?|If you could only have one, would you pick sharing plates or everyone having their own?|
+restaurants-service-095|Between a restaurant where you know the staff and a new place to discover, which would you prefer?|Which of the two tempts you more: booking several days in advance or picking the restaurant on the night?|
+restaurants-service-096|Between a really good little restaurant that's noisy and a quiet but ordinary restaurant, which would you prefer?|Which of the two tempts you more: a well-known restaurant or a little-known spot?|
+restaurants-service-097|If you had to choose, would it be a sunny terrace or a comfy air-conditioned dining room?|Would you go for a short menu that changes often or a big permanent menu?|
+restaurants-service-098|Would you rather go for the set menu of the day or ordering à la carte?|If you could only have one, would you pick a waiter who gives lots of recommendations or a waiter who lets you choose in peace?|
+restaurants-service-099|Between really fast service and more attentive service, which would you prefer?|Which of the two tempts you more: a traditional pizzeria or a fresh pasta restaurant?|

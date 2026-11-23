@@ -98,3 +98,102 @@ vie-adulte-admin-097|If you had to decide, would it be taking out comprehensive 
 vie-adulte-admin-098|Would you rather buy furniture in the shop or order it for delivery?|If you could only pick one option, would you live alone in a studio or share a bigger flat?|
 vie-adulte-admin-099|Between sorting out your paperwork online and booking an in-person appointment, which would you prefer?|Which of the two tempts you more: paying your bills by direct debit or paying them manually when they're due?|
 vie-adulte-admin-100|If you had to decide, would it be living close to work or paying less on the outskirts?|Would you go for choosing an online bank or choosing a bank with a branch?|
+vie-adulte-admin-101|How many minutes would it take you to fill in an online change-of-address request?|How long, in minutes, would you allow for sorting through a pile of post that's built up?|
+vie-adulte-admin-102|How many minutes would you spend filing a month's worth of bills?|How many minutes would it take you to update your bank details with an organisation?|
+vie-adulte-admin-103|How many minutes would you spend reading a two-page quote for building work?|Generally, how many minutes would you take to report a delivery problem to customer service?|
+vie-adulte-admin-104|How many minutes would it take you to check an itemised phone bill?|How long, in minutes, would you allow for packing a box of books for a move?|
+vie-adulte-admin-105|How many minutes would you spend putting together a simple rental application?|How many minutes would it take you to find a tradesman available near you?|
+vie-adulte-admin-106|How many minutes would you spend comparing three contents insurance quotes?|Generally, how many minutes would you take to compare the energy use of two household appliances?|
+vie-adulte-admin-107|How many minutes would it take you to plan a budget for next month?|How long, in minutes, would you allow for making a list of your furniture before a move?|
+vie-adulte-admin-108|How many minutes would you spend writing an email to your landlord?|How many minutes would it take you to book an appointment to renew a document?|
+vie-adulte-admin-109|How many minutes would you spend getting your documents ready before an appointment at a government office?|Generally, how many minutes would you take to fill in a simple refund form?|
+vie-adulte-admin-110|How many minutes would it take you to sort through a pile of post that's built up?|How long, in minutes, would you allow for checking when your subscriptions end?|
+vie-adulte-admin-111|How many minutes would you spend updating your bank details with an organisation?|How many minutes would it take you to clear your inbox of bills you've already dealt with?|
+vie-adulte-admin-112|How many minutes would you spend reporting a delivery problem to customer service?|Generally, how many minutes would you take to fill in an online change-of-address request?|
+vie-adulte-admin-113|How many minutes would it take you to pack a box of books for a move?|How long, in minutes, would you allow for filing a month's worth of bills?|
+vie-adulte-admin-114|How many minutes would you spend finding a tradesman available near you?|How many minutes would it take you to read a two-page quote for building work?|
+vie-adulte-admin-115|How many minutes would you spend comparing the energy use of two household appliances?|Generally, how many minutes would you take to check an itemised phone bill?|
+vie-adulte-admin-116|How many minutes would it take you to make a list of your furniture before a move?|How long, in minutes, would you allow for putting together a simple rental application?|
+vie-adulte-admin-117|How many minutes would you spend booking an appointment to renew a document?|How many minutes would it take you to compare three contents insurance quotes?|
+vie-adulte-admin-118|How many minutes would you spend filling in a simple refund form?|Generally, how many minutes would you take to plan a budget for next month?|
+vie-adulte-admin-119|How many minutes would it take you to check when your subscriptions end?|How long, in minutes, would you allow for writing an email to your landlord?|
+vie-adulte-admin-120|How many minutes would you spend clearing your inbox of bills you've already dealt with?|How many minutes would it take you to get your documents ready before an appointment at a government office?|
+vie-adulte-admin-121|How many minutes would you spend filling in an online change-of-address request?|How many minutes would it take you to sort through a pile of post that's built up?|
+vie-adulte-admin-122|How many minutes would you spend filing a month's worth of bills?|Generally, how many minutes would you take to update your bank details with an organisation?|
+vie-adulte-admin-123|How many minutes would it take you to read a two-page quote for building work?|How long, in minutes, would you allow for reporting a delivery problem to customer service?|
+vie-adulte-admin-124|How many minutes would you spend checking an itemised phone bill?|How many minutes would it take you to pack a box of books for a move?|
+vie-adulte-admin-125|How many minutes would you spend putting together a simple rental application?|Generally, how many minutes would you take to find a tradesman available near you?|
+vie-adulte-admin-126|Who would you ask for advice to make sense of an unusually high electricity bill?|Who would you call to find a plumber for an urgent leak?|
+vie-adulte-admin-127|Who would you contact first to get advice on home insurance?|Who would you ask for an opinion to sort out a problem getting your deposit back?|
+vie-adulte-admin-128|Who would you turn to to report a heating fault in a rented place?|Who would you speak to first to arrange handing over the keys to a flat?|
+vie-adulte-admin-129|Who would you ask for advice to get a quote for a move?|Who would you call to ask for proof that you've paid your service charges?|
+vie-adulte-admin-130|Who would you contact first to clarify a clause in a tenancy agreement?|Who would you ask for an opinion to understand the charges on a phone contract?|
+vie-adulte-admin-131|Who would you turn to to dispute an unknown payment taken from your bank account?|Who would you speak to first to get a washing machine repaired?|
+vie-adulte-admin-132|Who would you ask for advice to check a quote for building work before accepting it?|Who would you call to find out what financial help is available for a student renting a place?|
+vie-adulte-admin-133|Who would you contact first to understand how to change your address?|Who would you ask for an opinion to check the cancellation terms of an insurance policy?|
+vie-adulte-admin-134|Who would you turn to to get information about a tax return?|Who would you speak to first to find an adviser for a personal loan?|
+vie-adulte-admin-135|Who would you ask for advice to find a plumber for an urgent leak?|Who would you call to get a copy of a bill?|
+vie-adulte-admin-136|Who would you contact first to sort out a problem getting your deposit back?|Who would you ask for an opinion to report a mistake in an energy contract?|
+vie-adulte-admin-137|Who would you turn to to arrange handing over the keys to a flat?|Who would you speak to first to make sense of an unusually high electricity bill?|
+vie-adulte-admin-138|Who would you ask for advice to get proof that you've paid your service charges?|Who would you call to get advice on home insurance?|
+vie-adulte-admin-139|Who would you contact first to understand the charges on a phone contract?|Who would you ask for an opinion to report a heating fault in a rented place?|
+vie-adulte-admin-140|Who would you turn to to get a washing machine repaired?|Who would you speak to first to get a quote for a move?|
+vie-adulte-admin-141|Who would you ask for advice to find out what financial help is available for a student renting a place?|Who would you call to clarify a clause in a tenancy agreement?|
+vie-adulte-admin-142|Who would you contact first to check the cancellation terms of an insurance policy?|Who would you ask for an opinion to dispute an unknown payment taken from your bank account?|
+vie-adulte-admin-143|Who would you turn to to find an adviser for a personal loan?|Who would you speak to first to check a quote for building work before accepting it?|
+vie-adulte-admin-144|Who would you ask for advice to get a copy of a bill?|Who would you call to understand how to change your address?|
+vie-adulte-admin-145|Who would you contact first to report a mistake in an energy contract?|Who would you ask for an opinion to get information about a tax return?|
+vie-adulte-admin-146|Who would you contact first to make sense of an unusually high electricity bill?|Who would you ask for an opinion to find a plumber for an urgent leak?|
+vie-adulte-admin-147|Who would you turn to to get advice on home insurance?|Who would you speak to first to sort out a problem getting your deposit back?|
+vie-adulte-admin-148|Who would you ask for advice to report a heating fault in a rented place?|Who would you call to arrange handing over the keys to a flat?|
+vie-adulte-admin-149|Who would you contact first to get a quote for a move?|Who would you ask for an opinion to get proof that you've paid your service charges?|
+vie-adulte-admin-150|Who would you turn to to clarify a clause in a tenancy agreement?|Who would you speak to first to understand the charges on a phone contract?|
+vie-adulte-admin-151|Where would you go to get some photocopies done quickly before an appointment?|Where would you want to find help with your tax return?|
+vie-adulte-admin-152|Where would you prefer to buy boxes for a move?|Where would you decide to meet a bank adviser in person?|
+vie-adulte-admin-153|Where would you like to get copies of your flat keys cut?|Where would you choose to get a small household appliance repaired?|
+vie-adulte-admin-154|Where would you go to drop off a medium-sized parcel you're returning?|Where would you want to buy envelopes for sending things by recorded delivery?|
+vie-adulte-admin-155|Where would you prefer to get advice on car insurance?|Where would you decide to get advice on your first place of your own?|
+vie-adulte-admin-156|Where would you like to pick up an official document that's ready for collection?|Where would you choose to find a storage box for your paperwork?|
+vie-adulte-admin-157|Where would you go to buy a good-quality extension lead?|Where would you want to buy energy-saving light bulbs?|
+vie-adulte-admin-158|Where would you prefer to hire a van for a few hours?|Where would you decide to get your boiler checked?|
+vie-adulte-admin-159|Where would you like to get your electrics checked?|Where would you choose to get rid of an old mattress?|
+vie-adulte-admin-160|Where would you go to find help with your tax return?|Where would you want to take old appliances for recycling?|
+vie-adulte-admin-161|Where would you prefer to meet a bank adviser in person?|Where would you decide to find a storage space for two months?|
+vie-adulte-admin-162|Where would you like to get a small household appliance repaired?|Where would you choose to get some photocopies done quickly before an appointment?|
+vie-adulte-admin-163|Where would you go to buy envelopes for sending things by recorded delivery?|Where would you want to buy boxes for a move?|
+vie-adulte-admin-164|Where would you prefer to get advice on your first place of your own?|Where would you decide to get copies of your flat keys cut?|
+vie-adulte-admin-165|Where would you like to find a storage box for your paperwork?|Where would you choose to drop off a medium-sized parcel you're returning?|
+vie-adulte-admin-166|Where would you go to buy energy-saving light bulbs?|Where would you want to get advice on car insurance?|
+vie-adulte-admin-167|Where would you prefer to get your boiler checked?|Where would you decide to pick up an official document that's ready for collection?|
+vie-adulte-admin-168|Where would you like to get rid of an old mattress?|Where would you choose to buy a good-quality extension lead?|
+vie-adulte-admin-169|Where would you go to take old appliances for recycling?|Where would you want to hire a van for a few hours?|
+vie-adulte-admin-170|Where would you prefer to find a storage space for two months?|Where would you decide to get your electrics checked?|
+vie-adulte-admin-171|Where would you prefer to get some photocopies done quickly before an appointment?|Where would you decide to find help with your tax return?|
+vie-adulte-admin-172|Where would you like to buy boxes for a move?|Where would you choose to meet a bank adviser in person?|
+vie-adulte-admin-173|Where would you go to get copies of your flat keys cut?|Where would you want to get a small household appliance repaired?|
+vie-adulte-admin-174|Where would you prefer to drop off a medium-sized parcel you're returning?|Where would you decide to buy envelopes for sending things by recorded delivery?|
+vie-adulte-admin-175|Where would you like to get advice on car insurance?|Where would you choose to get advice on your first place of your own?|
+vie-adulte-admin-176|What would matter most to you when choosing home insurance for your first place?|What would you be most demanding about when choosing private health insurance?|complémentaire santé → private health insurance
+vie-adulte-admin-177|What would you look at first before signing a tenancy agreement for a flat?|What would be your priority when fitting a lock on a front door?|
+vie-adulte-admin-178|What would be non-negotiable when picking a professional removals company?|What detail would you check before taking out a warranty on an expensive computer?|
+vie-adulte-admin-179|What would matter most to you when buying a washing machine?|What would you be most demanding about when renting a studio flat in a new city?|
+vie-adulte-admin-180|What would you look at first when choosing your main bank?|What would be your priority when choosing a tradesman for some light renovation?|
+vie-adulte-admin-181|What would be non-negotiable when asking a plumber for a quote?|What detail would you check before picking a system for storing your documents?|
+vie-adulte-admin-182|What would matter most to you when picking a broadband deal?|What would you be most demanding about when buying a sofa for a small living room?|
+vie-adulte-admin-183|What would you look at first when comparing electricity suppliers?|What would be your priority when choosing a phone plan with no contract?|
+vie-adulte-admin-184|What would be non-negotiable when buying a second-hand car?|What detail would you check before hiring a vehicle for a move?|
+vie-adulte-admin-185|What would matter most to you when choosing private health insurance?|What would you be most demanding about when switching an insurance policy?|complémentaire santé → private health insurance
+vie-adulte-admin-186|What would you look at first when fitting a lock on a front door?|What would be your priority when choosing a one-off cleaning service?|
+vie-adulte-admin-187|What would be non-negotiable when taking out a warranty on an expensive computer?|What detail would you check before choosing home insurance for your first place?|
+vie-adulte-admin-188|What would matter most to you when renting a studio flat in a new city?|What would you be most demanding about when signing a tenancy agreement for a flat?|
+vie-adulte-admin-189|What would you look at first when choosing a tradesman for some light renovation?|What would be your priority when picking a professional removals company?|
+vie-adulte-admin-190|What would be non-negotiable when picking a system for storing your documents?|What detail would you check before buying a washing machine?|
+vie-adulte-admin-191|What would matter most to you when buying a sofa for a small living room?|What would you be most demanding about when choosing your main bank?|
+vie-adulte-admin-192|What would you look at first when choosing a phone plan with no contract?|What would be your priority when asking a plumber for a quote?|
+vie-adulte-admin-193|What would be non-negotiable when hiring a vehicle for a move?|What detail would you check before picking a broadband deal?|
+vie-adulte-admin-194|What would matter most to you when switching an insurance policy?|What would you be most demanding about when comparing electricity suppliers?|
+vie-adulte-admin-195|What would you look at first when choosing a one-off cleaning service?|What would be your priority when buying a second-hand car?|
+vie-adulte-admin-196|What would you look at first when choosing home insurance for your first place?|What would be your priority when choosing private health insurance?|complémentaire santé → private health insurance
+vie-adulte-admin-197|What would be non-negotiable when signing a tenancy agreement for a flat?|What detail would you check before fitting a lock on a front door?|
+vie-adulte-admin-198|What would matter most to you when picking a professional removals company?|What would you be most demanding about when taking out a warranty on an expensive computer?|
+vie-adulte-admin-199|What would you look at first when buying a washing machine?|What would be your priority when renting a studio flat in a new city?|

@@ -197,3 +197,103 @@ animaux-compagnie-196|Que acessório você escolheria para distrair um cachorro 
 animaux-compagnie-197|Que objeto você acharia indispensável para levar um gato até o veterinário?|Que objeto você pegaria primeiro para tirar os pelos de uma jaqueta preta?|
 animaux-compagnie-198|Que objeto você levaria para recolher o cocô durante um passeio?|Que acessório você usaria para estimular um gato que vive em apartamento?|
 animaux-compagnie-199|Que acessório você escolheria para acalmar um animal durante uma tempestade?|Com que objeto você gostaria de verificar a temperatura de um aquário?|
+animaux-compagnie-200|Que objeto você acharia indispensável para escovar um cachorro depois de um passeio na mata?|Que objeto você pegaria primeiro para deixar um coelho seguro num cômodo?|
+cadeaux-surprises-001|Quanto você pagaria no máximo por um presente de aniversário para um colega próximo?|Que preço você acharia razoável por uma joia discreta de presente de formatura?|
+cadeaux-surprises-002|Quanto você estaria disposto a gastar num presente de despedida para um chefe querido?|Em reais, qual seria o seu limite para uma experiência a dois de presente para os seus pais?|euros → reais
+cadeaux-surprises-003|Quanto você reservaria para um buquê enviado para a sua mãe no aniversário dela?|A partir de que preço você acharia caro demais um presente de casa nova para um casal de amigos?|
+cadeaux-surprises-004|Quanto você pagaria no máximo por uma caixa de chás para agradecer a um vizinho?|Que preço você acharia razoável por uma caixinha de som Bluetooth de presente de aniversário?|
+cadeaux-surprises-005|Quanto você estaria disposto a gastar num presente coletivo para os 30 anos de um amigo?|Em reais, qual seria o seu limite para um álbum de fotos de família personalizado?|euros → reais
+cadeaux-surprises-006|Quanto você reservaria para um presente para o primeiro bebê de alguém?|A partir de que preço você acharia caro demais um relógio para um aniversário especial?|
+cadeaux-surprises-007|Quanto você pagaria no máximo por um presente de casamento quando você é só convidado?|Que preço você acharia razoável por uma assinatura de três meses de um serviço de leitura?|
+cadeaux-surprises-008|Quanto você estaria disposto a gastar num presente de Natal para o seu melhor amigo?|Em reais, qual seria o seu limite para um jantar surpresa pago para dois amigos?|euros → reais
+cadeaux-surprises-009|Quanto você reservaria para uma cesta de produtos artesanais?|A partir de que preço você acharia caro demais um vale-presente para alguém difícil de agradar?|
+cadeaux-surprises-010|Quanto você pagaria no máximo por uma joia discreta de presente de formatura?|Que preço você acharia razoável por uma entrega de doces para agradecer alguém?|
+cadeaux-surprises-011|Quanto você estaria disposto a gastar numa experiência a dois de presente para os seus pais?|Em reais, qual seria o seu limite para um objeto gravado com uma mensagem pessoal?|euros → reais
+cadeaux-surprises-012|Quanto você reservaria para um presente de casa nova para um casal de amigos?|A partir de que preço você acharia caro demais um presente de aniversário para um colega próximo?|
+cadeaux-surprises-013|Quanto você pagaria no máximo por uma caixinha de som Bluetooth de presente de aniversário?|Que preço você acharia razoável por um presente de despedida para um chefe querido?|
+cadeaux-surprises-014|Quanto você estaria disposto a gastar num álbum de fotos de família personalizado?|Em reais, qual seria o seu limite para um buquê enviado para a sua mãe no aniversário dela?|euros → reais
+cadeaux-surprises-015|Quanto você reservaria para um relógio para um aniversário especial?|A partir de que preço você acharia cara demais uma caixa de chás para agradecer a um vizinho?|
+cadeaux-surprises-016|Quanto você pagaria no máximo por uma assinatura de três meses de um serviço de leitura?|Que preço você acharia razoável por um presente coletivo para os 30 anos de um amigo?|
+cadeaux-surprises-017|Quanto você estaria disposto a gastar num jantar surpresa pago para dois amigos?|Em reais, qual seria o seu limite para um presente para o primeiro bebê de alguém?|euros → reais
+cadeaux-surprises-018|Quanto você reservaria para um vale-presente para alguém difícil de agradar?|A partir de que preço você acharia caro demais um presente de casamento quando você é só convidado?|
+cadeaux-surprises-019|Quanto você pagaria no máximo por uma entrega de doces para agradecer alguém?|Que preço você acharia razoável por um presente de Natal para o seu melhor amigo?|
+cadeaux-surprises-020|Quanto você estaria disposto a gastar num objeto gravado com uma mensagem pessoal?|Em reais, qual seria o seu limite para uma cesta de produtos artesanais?|euros → reais
+cadeaux-surprises-021|Quanto você estaria disposto a gastar num presente de aniversário para um colega próximo?|Em reais, qual seria o seu limite para uma joia discreta de presente de formatura?|euros → reais
+cadeaux-surprises-022|Quanto você reservaria para um presente de despedida para um chefe querido?|A partir de que preço você acharia cara demais uma experiência a dois de presente para os seus pais?|
+cadeaux-surprises-023|Quanto você pagaria no máximo por um buquê enviado para a sua mãe no aniversário dela?|Que preço você acharia razoável por um presente de casa nova para um casal de amigos?|
+cadeaux-surprises-024|Quanto você estaria disposto a gastar numa caixa de chás para agradecer a um vizinho?|Em reais, qual seria o seu limite para uma caixinha de som Bluetooth de presente de aniversário?|euros → reais
+cadeaux-surprises-025|Quanto você reservaria para um presente coletivo para os 30 anos de um amigo?|A partir de que preço você acharia caro demais um álbum de fotos de família personalizado?|
+cadeaux-surprises-026|O que você responderia se alguém te desse exatamente o mesmo presente do ano passado?|Como você responderia se um amigo perguntasse se você prefere dinheiro ou um presente?|
+cadeaux-surprises-027|Qual seria a sua primeira frase se um amigo confessasse que não gostou do seu presente?|O que você diria se alguém te desse uma roupa dois números menor?|
+cadeaux-surprises-028|O que você diria se alguém próximo abrisse o seu presente sem nenhuma reação?|Que palavras você usaria se alguém abrisse o seu presente na frente de todo o grupo?|
+cadeaux-surprises-029|O que você responderia se alguém te perguntasse na lata quanto você gastou?|Como você responderia se um convidado pedisse uma lista de presentes bem específica?|
+cadeaux-surprises-030|Qual seria a sua primeira frase se um colega propusesse um presente coletivo caro demais?|O que você diria se o seu melhor amigo esquecesse o seu aniversário e depois se desse conta?|
+cadeaux-surprises-031|O que você diria se um convidado chegasse sem presente num aniversário?|Que palavras você usaria se alguém dissesse que surpresas o deixam desconfortável?|
+cadeaux-surprises-032|O que você responderia se alguém te pedisse a nota para trocar o seu presente?|Como você responderia se alguém próximo quisesse te devolver o dinheiro de um presente que achou generoso demais?|
+cadeaux-surprises-033|Qual seria a sua primeira frase se um amigo te agradecesse por um presente que você não deu?|O que você diria se uma amiga sugerisse repassar um presente que nunca foi aberto?|
+cadeaux-surprises-034|O que você diria se alguém próximo contasse que descobriu a surpresa antes da hora?|Que palavras você usaria se alguém pedisse a sua opinião sobre uma surpresa que deu errado?|
+cadeaux-surprises-035|O que você responderia se um amigo perguntasse se você prefere dinheiro ou um presente?|Como você responderia se um colega te agradecesse em público por um presente coletivo?|
+cadeaux-surprises-036|Qual seria a sua primeira frase se alguém te desse uma roupa dois números menor?|O que você diria se um amigo te pedisse para esconder um presente na sua casa durante uma semana?|
+cadeaux-surprises-037|O que você diria se alguém abrisse o seu presente na frente de todo o grupo?|Que palavras você usaria se alguém te desse exatamente o mesmo presente do ano passado?|
+cadeaux-surprises-038|O que você responderia se um convidado pedisse uma lista de presentes bem específica?|Como você responderia se um amigo confessasse que não gostou do seu presente?|
+cadeaux-surprises-039|Qual seria a sua primeira frase se o seu melhor amigo esquecesse o seu aniversário e depois se desse conta?|O que você diria se alguém próximo abrisse o seu presente sem nenhuma reação?|
+cadeaux-surprises-040|O que você diria se alguém dissesse que surpresas o deixam desconfortável?|Que palavras você usaria se alguém te perguntasse na lata quanto você gastou?|
+cadeaux-surprises-041|O que você responderia se alguém próximo quisesse te devolver o dinheiro de um presente que achou generoso demais?|Como você responderia se um colega propusesse um presente coletivo caro demais?|
+cadeaux-surprises-042|Qual seria a sua primeira frase se uma amiga sugerisse repassar um presente que nunca foi aberto?|O que você diria se um convidado chegasse sem presente num aniversário?|
+cadeaux-surprises-043|O que você diria se alguém pedisse a sua opinião sobre uma surpresa que deu errado?|Que palavras você usaria se alguém te pedisse a nota para trocar o seu presente?|
+cadeaux-surprises-044|O que você responderia se um colega te agradecesse em público por um presente coletivo?|Como você responderia se um amigo te agradecesse por um presente que você não deu?|
+cadeaux-surprises-045|Qual seria a sua primeira frase se um amigo te pedisse para esconder um presente na sua casa durante uma semana?|O que você diria se alguém próximo contasse que descobriu a surpresa antes da hora?|
+cadeaux-surprises-046|Qual seria a sua primeira frase se alguém te desse exatamente o mesmo presente do ano passado?|O que você diria se um amigo perguntasse se você prefere dinheiro ou um presente?|
+cadeaux-surprises-047|O que você diria se um amigo confessasse que não gostou do seu presente?|Que palavras você usaria se alguém te desse uma roupa dois números menor?|
+cadeaux-surprises-048|O que você responderia se alguém próximo abrisse o seu presente sem nenhuma reação?|Como você responderia se alguém abrisse o seu presente na frente de todo o grupo?|
+cadeaux-surprises-049|Qual seria a sua primeira frase se alguém te perguntasse na lata quanto você gastou?|O que você diria se um convidado pedisse uma lista de presentes bem específica?|
+cadeaux-surprises-050|O que você diria se um colega propusesse um presente coletivo caro demais?|Que palavras você usaria se o seu melhor amigo esquecesse o seu aniversário e depois se desse conta?|
+cadeaux-surprises-051|O que você faria primeiro se percebesse que o aniversário de um amigo é amanhã?|O que você decidiria fazer antes de tudo se recebesse um pacote de presente destinado ao seu vizinho?|
+cadeaux-surprises-052|Qual seria a sua primeira reação se a entrega de um presente estivesse prevista para depois da festa?|Como você agiria primeiro se esquecesse onde escondeu o presente de Natal?|
+cadeaux-surprises-053|Por onde você começaria se descobrisse que a pessoa já tem o que você comprou para ela?|Qual seria a sua primeira atitude se o presente planejado de repente passasse do seu orçamento?|
+cadeaux-surprises-054|O que você faria primeiro se perdesse a nota fiscal de um presente que precisa trocar?|O que você decidiria fazer antes de tudo se visse um amigo comprar o que você ia dar para ele?|
+cadeaux-surprises-055|Qual seria a sua primeira reação se quebrasse sem querer um presente antes de entregar?|Como você agiria primeiro se um vale-presente comprado online não funcionasse?|
+cadeaux-surprises-056|Por onde você começaria se a pessoa da surpresa chegasse duas horas antes do combinado?|Qual seria a sua primeira atitude se percebesse que o bolo surpresa é do sabor errado?|
+cadeaux-surprises-057|O que você faria primeiro se errasse o nome num presente personalizado?|O que você decidiria fazer antes de tudo se a floricultura cancelasse a entrega combinada?|
+cadeaux-surprises-058|Qual seria a sua primeira reação se dois convidados chegassem com o mesmo presente?|Como você agiria primeiro se não achasse mais o endereço de quem vai receber o presente?|
+cadeaux-surprises-059|Por onde você começaria se um balão da surpresa estourasse antes de os convidados chegarem?|Qual seria a sua primeira atitude se a pessoa homenageada te pedisse para não organizar nada?|
+cadeaux-surprises-060|O que você faria primeiro se recebesse um pacote de presente destinado ao seu vizinho?|O que você decidiria fazer antes de tudo se uma surpresa planejada ao ar livre estivesse ameaçada pela chuva?|
+cadeaux-surprises-061|Qual seria a sua primeira reação se esquecesse onde escondeu o presente de Natal?|Como você agiria primeiro se o site avisasse que o produto esgotou depois do seu pedido?|
+cadeaux-surprises-062|Por onde você começaria se o presente planejado de repente passasse do seu orçamento?|Qual seria a sua primeira atitude se percebesse que o aniversário de um amigo é amanhã?|
+cadeaux-surprises-063|O que você faria primeiro se visse um amigo comprar o que você ia dar para ele?|O que você decidiria fazer antes de tudo se a entrega de um presente estivesse prevista para depois da festa?|
+cadeaux-surprises-064|Qual seria a sua primeira reação se um vale-presente comprado online não funcionasse?|Como você agiria primeiro se descobrisse que a pessoa já tem o que você comprou para ela?|
+cadeaux-surprises-065|Por onde você começaria se percebesse que o bolo surpresa é do sabor errado?|Qual seria a sua primeira atitude se perdesse a nota fiscal de um presente que precisa trocar?|
+cadeaux-surprises-066|O que você faria primeiro se a floricultura cancelasse a entrega combinada?|O que você decidiria fazer antes de tudo se quebrasse sem querer um presente antes de entregar?|
+cadeaux-surprises-067|Qual seria a sua primeira reação se não achasse mais o endereço de quem vai receber o presente?|Como você agiria primeiro se a pessoa da surpresa chegasse duas horas antes do combinado?|
+cadeaux-surprises-068|Por onde você começaria se a pessoa homenageada te pedisse para não organizar nada?|Qual seria a sua primeira atitude se errasse o nome num presente personalizado?|
+cadeaux-surprises-069|O que você faria primeiro se uma surpresa planejada ao ar livre estivesse ameaçada pela chuva?|O que você decidiria fazer antes de tudo se dois convidados chegassem com o mesmo presente?|
+cadeaux-surprises-070|Qual seria a sua primeira reação se o site avisasse que o produto esgotou depois do seu pedido?|Como você agiria primeiro se um balão da surpresa estourasse antes de os convidados chegarem?|
+cadeaux-surprises-071|Qual seria a sua primeira reação se percebesse que o aniversário de um amigo é amanhã?|Como você agiria primeiro se recebesse um pacote de presente destinado ao seu vizinho?|
+cadeaux-surprises-072|Por onde você começaria se a entrega de um presente estivesse prevista para depois da festa?|Qual seria a sua primeira atitude se esquecesse onde escondeu o presente de Natal?|
+cadeaux-surprises-073|O que você faria primeiro se descobrisse que a pessoa já tem o que você comprou para ela?|O que você decidiria fazer antes de tudo se o presente planejado de repente passasse do seu orçamento?|
+cadeaux-surprises-074|Qual seria a sua primeira reação se perdesse a nota fiscal de um presente que precisa trocar?|Como você agiria primeiro se visse um amigo comprar o que você ia dar para ele?|
+cadeaux-surprises-075|Por onde você começaria se quebrasse sem querer um presente antes de entregar?|Qual seria a sua primeira atitude se um vale-presente comprado online não funcionasse?|
+cadeaux-surprises-076|Você escolheria dar um objeto útil ou dar uma experiência inesquecível?|Se só pudesse escolher uma opção, você ficaria com dar um álbum de fotos ou dar um objeto gravado?|
+cadeaux-surprises-077|Entre ganhar um livro escolhido com carinho e ganhar um vale-presente, o que você preferiria?|Qual das duas opções te atrai mais: uma surpresa organizada com muita antecedência ou uma surpresa improvisada?|
+cadeaux-surprises-078|Se tivesse que decidir, seria organizar uma festa surpresa ou preparar um jantar intimista?|Você daria preferência a dar uma experiência esportiva ou dar uma experiência cultural?|
+cadeaux-surprises-079|Você escolheria dar um presente feito em casa ou comprar um presente de marca?|Se só pudesse escolher uma opção, você ficaria com um embrulho bem caprichado ou uma mensagem bem pessoal?|
+cadeaux-surprises-080|Entre um presente coletivo entre amigos e vários pequenos mimos, o que você preferiria?|Qual das duas opções te atrai mais: um presente prático para a casa ou um objeto só decorativo?|
+cadeaux-surprises-081|Se tivesse que decidir, seria um buquê de flores ou uma caixa de chocolates artesanais?|Você daria preferência a uma carta escrita à mão ou a um vídeo de recordações?|
+cadeaux-surprises-082|Você escolheria dar ingressos para um show ou dar um jantar num restaurante?|Se só pudesse escolher uma opção, você ficaria com um presente caro comprado em grupo ou um presentinho bem pessoal?|
+cadeaux-surprises-083|Entre ganhar uma surpresa e escolher o próprio presente, o que você preferiria?|Qual das duas opções te atrai mais: uma cesta gourmet ou uma assinatura de alguma atividade?|
+cadeaux-surprises-084|Se tivesse que decidir, seria abrir os presentes na frente de todo mundo ou abrir com calma?|Você daria preferência a ganhar uma refeição caseira ou ganhar um passeio organizado?|
+cadeaux-surprises-085|Você escolheria dar um álbum de fotos ou dar um objeto gravado?|Se só pudesse escolher uma opção, você ficaria com dar um presente no Natal ou fazer uma surpresa sem motivo especial?|
+cadeaux-surprises-086|Entre uma surpresa organizada com muita antecedência e uma surpresa improvisada, o que você preferiria?|Qual das duas opções te atrai mais: avisar da surpresa com antecedência ou guardar segredo até o fim?|
+cadeaux-surprises-087|Se tivesse que decidir, seria dar uma experiência esportiva ou dar uma experiência cultural?|Você daria preferência a dar um objeto útil ou dar uma experiência inesquecível?|
+cadeaux-surprises-088|Você escolheria um embrulho bem caprichado ou uma mensagem bem pessoal?|Se só pudesse escolher uma opção, você ficaria com ganhar um livro escolhido com carinho ou ganhar um vale-presente?|
+cadeaux-surprises-089|Entre um presente prático para a casa e um objeto só decorativo, o que você preferiria?|Qual das duas opções te atrai mais: organizar uma festa surpresa ou preparar um jantar intimista?|
+cadeaux-surprises-090|Se tivesse que decidir, seria uma carta escrita à mão ou um vídeo de recordações?|Você daria preferência a dar um presente feito em casa ou comprar um presente de marca?|
+cadeaux-surprises-091|Você escolheria um presente caro comprado em grupo ou um presentinho bem pessoal?|Se só pudesse escolher uma opção, você ficaria com um presente coletivo entre amigos ou vários pequenos mimos?|
+cadeaux-surprises-092|Entre uma cesta gourmet e uma assinatura de alguma atividade, o que você preferiria?|Qual das duas opções te atrai mais: um buquê de flores ou uma caixa de chocolates artesanais?|
+cadeaux-surprises-093|Se tivesse que decidir, seria ganhar uma refeição caseira ou ganhar um passeio organizado?|Você daria preferência a dar ingressos para um show ou dar um jantar num restaurante?|
+cadeaux-surprises-094|Você escolheria dar um presente no Natal ou fazer uma surpresa sem motivo especial?|Se só pudesse escolher uma opção, você ficaria com ganhar uma surpresa ou escolher o próprio presente?|
+cadeaux-surprises-095|Entre avisar da surpresa com antecedência e guardar segredo até o fim, o que você preferiria?|Qual das duas opções te atrai mais: abrir os presentes na frente de todo mundo ou abrir com calma?|
+cadeaux-surprises-096|Entre dar um objeto útil e dar uma experiência inesquecível, o que você preferiria?|Qual das duas opções te atrai mais: dar um álbum de fotos ou dar um objeto gravado?|
+cadeaux-surprises-097|Se tivesse que decidir, seria ganhar um livro escolhido com carinho ou ganhar um vale-presente?|Você daria preferência a uma surpresa organizada com muita antecedência ou a uma surpresa improvisada?|
+cadeaux-surprises-098|Você escolheria organizar uma festa surpresa ou preparar um jantar intimista?|Se só pudesse escolher uma opção, você ficaria com dar uma experiência esportiva ou dar uma experiência cultural?|
+cadeaux-surprises-099|Entre dar um presente feito em casa e comprar um presente de marca, o que você preferiria?|Qual das duas opções te atrai mais: um embrulho bem caprichado ou uma mensagem bem pessoal?|
