@@ -1,0 +1,605 @@
+amitie-confidences-178|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une randonnée où tout le monde partage le repas ?|Quel accessoire prendrais-tu pour une escapade en voiture sous la pluie ?
+amitie-confidences-179|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si une personne ne respectait pas les horaires convenus ?|Quel comportement t’agacerait en premier si un ami se moquait de tes goûts devant le groupe ?
+amitie-confidences-180|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un proche se moquait d’une chose qui te blesse ?|Quelle règle demanderais-tu de respecter si un proche t’envoyait des messages toute la nuit ?
+amitie-confidences-181|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie te disait craindre de perdre votre complicité ?|Quelle phrase dirais-tu si un ami te proposait un road trip sans programme ?
+amitie-confidences-182|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami paniquait avant de prendre la parole en public ?|Que ferais-tu en premier si un ami oubliait son téléphone dans un taxi ?
+amitie-confidences-183|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour trouver une idée originale d’anniversaire ?|Vers quelle personne de ton entourage te tournerais-tu pour préparer ton premier entretien d’embauche ?
+amitie-confidences-184|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour faire quelque chose d’original avec ton meilleur ami ?|Qu’aurais-tu envie d’organiser pour profiter d’une journée ensoleillée avec deux amis ?
+amitie-confidences-185|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de relire son dossier de candidature avant l’envoi pour un ami ?|Combien de temps pourrais-tu faire la queue pour lui acheter des billets de concert pour rendre service ?
+amitie-confidences-186|Soirée & Amitié|nouvelle|Où organiserais-tu une fête à petit budget pendant l’hiver ?|Dans quel endroit aimerais-tu prévoir une séance photo souvenir avec ton groupe ?
+amitie-confidences-187|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une amie qui reprend des cours de danse pour environ 25 € ?|Qu’aimerais-tu acheter pour un ami qui aime faire du camping avec 25 € ?
+amitie-confidences-188|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un dîner où chacun apporte un plat ?|Quel accessoire prendrais-tu pour une fête surprise dans un appartement ?
+amitie-confidences-189|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami refusait de reconnaître une erreur évidente ?|Quel comportement t’agacerait en premier si un proche annulait vos projets au dernier moment ?
+amitie-confidences-190|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami insistait pour connaître tous les détails de ta vie ?|Quelle règle demanderais-tu de respecter si un ami te faisait régulièrement culpabiliser de dire non ?
+amitie-confidences-191|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami t’avouait avoir oublié un rendez-vous important ?|Quelle phrase dirais-tu si une amie disait se sentir mise à l’écart du groupe ?
+amitie-confidences-192|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une amie avait perdu les clés du logement loué ensemble ?|Que ferais-tu en premier si une amie recevait une mauvaise nouvelle pendant les vacances ?
+amitie-confidences-193|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour reprendre confiance après un échec ?|Vers quelle personne de ton entourage te tournerais-tu pour choisir une destination de vacances en groupe ?
+amitie-confidences-194|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour passer un moment tranquille avec un ami fatigué ?|Qu’aurais-tu envie d’organiser pour remonter le moral d’un ami après une semaine difficile ?
+amitie-confidences-195|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de chercher avec lui un hôtel pour un voyage commun pour un ami ?|Combien de temps pourrais-tu l’accompagner à un rendez-vous stressant pour rendre service ?
+amitie-confidences-196|Soirée & Amitié|nouvelle|Où organiserais-tu un moment à deux pour discuter sans être dérangés ?|Dans quel endroit aimerais-tu prévoir un petit-déjeuner pour retrouver ton meilleur ami ?
+amitie-confidences-197|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un ami qui passe ses week-ends à bricoler pour environ 25 € ?|Qu’aimerais-tu acheter pour une personne du groupe qui adore les plantes avec 25 € ?
+amitie-confidences-198|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une sortie en bateau avec des amis ?|Quel accessoire prendrais-tu pour un camping de deux nuits en forêt ?
+amitie-confidences-199|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si quelqu’un insistait pour lire tes messages privés ?|Quel comportement t’agacerait en premier si un ami te demandait de choisir un camp après une dispute ?
+amitie-confidences-200|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si quelqu’un faisait des remarques blessantes sur ton partenaire ?|Quelle règle demanderais-tu de respecter si un copain voulait conduire ta voiture sans assurance adaptée ?
+soiree-001|Soirée & Amitié|ancienne|À quelle heure arrives-tu à une soirée prévue à 20 h ?|À quelle heure commences-tu à bâiller en soirée ?
+soiree-002|Soirée & Amitié|ancienne|Combien de personnes faut-il pour une bonne soirée ?|Combien de personnes peux-tu recevoir chez toi ?
+soiree-003|Soirée & Amitié|ancienne|Qu’apportes-tu quand tu es invité ?|Que sers-tu à l’apéro ?
+soiree-004|Soirée & Amitié|ancienne|Combien de messages faut-il pour organiser une soirée en groupe ?|Combien de personnes répondent vraiment dans ton groupe d’amis ?
+soiree-005|Soirée & Amitié|ancienne|Combien de minutes te faut-il pour te préparer avant de sortir ?|Combien de minutes faut-il pour choisir un restaurant en groupe ?
+soiree-006|Soirée & Amitié|ancienne|Combien de jours à l’avance prévois-tu un anniversaire ?|Combien de jours à l’avance réserves-tu un restaurant ?
+soiree-007|Soirée & Amitié|ancienne|Quel objet ne doit jamais manquer en soirée ?|Quel objet oublie-t-on toujours en pique-nique ?
+soiree-008|Soirée & Amitié|ancienne|Quel déguisement porterais-tu à une soirée costumée ?|Quel déguisement as-tu déjà porté ?
+soiree-009|Soirée & Amitié|ancienne|Où organiser l’anniversaire parfait ?|Où passer le Nouvel An idéal ?
+soiree-010|Soirée & Amitié|ancienne|Quel type de lieu choisis-tu pour retrouver des amis ?|Quel type de lieu choisis-tu pour fêter une bonne nouvelle ?
+soiree-011|Soirée & Amitié|ancienne|Quel jour de la semaine est idéal pour une soirée ?|Quel jour de la semaine est idéal pour un brunch ?
+soiree-016|Soirée & Amitié|ancienne|Quel jeu proposes-tu en soirée ?|Quel jeu te fait le plus rire en soirée ?
+soiree-026|Soirée & Amitié|ancienne|Quel gâteau d’anniversaire choisis-tu ?|Quel gâteau sais-tu faire ?
+soiree-027|Soirée & Amitié|ancienne|Quel film regarder entre amis ?|Quel film fait toujours rire un groupe ?
+soiree-028|Soirée & Amitié|ancienne|Quelle série conseillerais-tu à tout le groupe ?|Quelle série regardes-tu en cachette ?
+soiree-029|Soirée & Amitié|ancienne|Que dis-tu pour partir discrètement d’une soirée ?|Que dis-tu en arrivant à une soirée ?
+soiree-030|Soirée & Amitié|ancienne|Quel nom donnerais-tu à ton groupe d’amis ?|Quel nom donnerais-tu à ton équipe de quiz ?
+soiree-031|Soirée & Amitié|ancienne|À quelle heure rentres-tu d’une bonne soirée ?|À quelle heure se termine un bon dîner entre amis ?
+soiree-032|Soirée & Amitié|ancienne|Combien d’heures dure un bon apéro ?|Combien d’heures dure une bonne partie de jeu de société ?
+soiree-033|Soirée & Amitié|ancienne|À quelle heure commence un bon apéro ?|À quelle heure faut-il allumer le barbecue ?
+soiree-034|Soirée & Amitié|ancienne|Combien de soirées fais-tu par mois ?|Combien de restaurants fais-tu par mois ?
+soiree-035|Soirée & Amitié|ancienne|Combien de jeux de société possèdes-tu ?|De combien de jeux de société connais-tu les règles par cœur ?
+soiree-038|Soirée & Amitié|ancienne|Combien d’invités maximum pour un dîner assis ?|Combien de chaises as-tu chez toi ?
+soiree-039|Soirée & Amitié|ancienne|Combien de photos de groupe faut-il prendre pour en avoir une bonne ?|Combien de photos prends-tu en soirée ?
+soiree-040|Soirée & Amitié|ancienne|Combien de fois par an reçois-tu chez toi ?|Combien de fois par an vas-tu à un concert ?
+soiree-041|Soirée & Amitié|ancienne|Combien de minutes passes-tu à ranger avant l’arrivée des invités ?|Combien de minutes passes-tu à ranger après le départ des invités ?
+soiree-044|Soirée & Amitié|ancienne|Combien de sacs-poubelle prévois-tu pour une soirée ?|Combien de sacs-poubelle remplis-tu après une soirée ?
+soiree-053|Soirée & Amitié|ancienne|Où caches-tu le bazar avant l’arrivée des invités ?|Où caches-tu les cadeaux pendant un anniversaire surprise ?
+soiree-054|Soirée & Amitié|ancienne|Combien de minutes attends-tu avant de relancer un invité en retard ?|Combien de minutes de retard sont acceptables pour une soirée ?
+soiree-060|Soirée & Amitié|ancienne|Que mets-tu sur un plateau apéro ?|Que pioches-tu en premier sur un plateau apéro ?
+soiree-064|Soirée & Amitié|ancienne|Quelle pizza commandes-tu pour tout un groupe ?|Quelle pizza évites-tu de commander pour un groupe ?
+soiree-066|Soirée & Amitié|ancienne|Quelle sauce sers-tu avec des nuggets ?|Quelle sauce sers-tu avec des frites ?
+soiree-075|Soirée & Amitié|ancienne|À quelle heure sors-tu les chips ?|À quelle heure passes-tu à table ?
+soiree-110|Soirée & Amitié|ancienne|Qui triche toujours aux jeux dans ton groupe ?|Qui perd toujours aux jeux dans ton groupe ?
+soiree-116|Soirée & Amitié|ancienne|Combien de joueurs faut-il pour un bon loup-garou ?|Combien de joueurs faut-il pour une bonne partie de cartes ?
+soiree-127|Soirée & Amitié|ancienne|Qui monopolise toujours l’enceinte en soirée ?|Qui choisit toujours le restaurant dans ton groupe ?
+soiree-154|Soirée & Amitié|ancienne|Combien de minutes cherches-tu une place pour te garer avant une soirée ?|Combien de minutes mets-tu à trouver le bon interphone avant une soirée ?
+soiree-155|Soirée & Amitié|ancienne|Quel cadeau apportes-tu à un hôte que tu connais peu ?|Quel cadeau apportes-tu à un ami pour sa crémaillère ?
+soiree-156|Soirée & Amitié|ancienne|Combien de bises fais-tu pour dire bonjour ?|Combien de personnes salues-tu avant d’enlever ton manteau ?
+soiree-157|Soirée & Amitié|ancienne|Que dis-tu quand tu arrives et que tu ne connais personne ?|Que dis-tu quand tu arrives le premier à une soirée ?
+soiree-166|Soirée & Amitié|ancienne|Combien de fois dis-tu « j’y vais » avant de vraiment partir ?|Combien de personnes salues-tu avant de partir d’une soirée ?
+soiree-171|Soirée & Amitié|ancienne|Que fais-tu en premier en rentrant de soirée ?|Que fais-tu en premier en te réveillant le lendemain d’une soirée ?
+soiree-175|Soirée & Amitié|ancienne|À quel moment sais-tu qu’il est temps de partir ?|À quel moment sais-tu qu’une soirée est réussie ?
+soiree-176|Soirée & Amitié|ancienne|Combien es-tu prêt à payer un taxi pour rentrer de soirée ?|Combien es-tu prêt à payer une place de concert ?
+soiree-177|Soirée & Amitié|ancienne|Quelle excuse donnes-tu pour partir tôt ?|Quelle excuse donnes-tu pour ne pas venir ?
+soiree-178|Soirée & Amitié|ancienne|À quelle heure es-tu rentré de ta soirée la plus longue ?|À quelle heure le soleil se lève-t-il en été ?
+soiree-183|Soirée & Amitié|ancienne|Quelle viennoiserie vas-tu chercher pour tout le monde ?|Quelle viennoiserie prends-tu juste pour toi ?
+soiree-187|Soirée & Amitié|ancienne|Combien d’heures dors-tu après une soirée ?|Combien d’heures de sieste fais-tu le lendemain d’une soirée ?
+soiree-213|Soirée & Amitié|ancienne|Quel plat fais-tu quand tu reçois des végétariens ?|Quel plat rates-tu à chaque fois ?
+soiree-217|Soirée & Amitié|ancienne|Quel plat se partage au milieu de la table ?|Quel plat est impossible à partager ?
+soiree-222|Soirée & Amitié|ancienne|Quel plat est trop risqué à tenter devant des invités ?|Quel plat as-tu toujours voulu apprendre à cuisiner ?
+soiree-225|Soirée & Amitié|ancienne|Combien de personnes faut-il pour garder une surprise secrète ?|Combien de personnes finissent par vendre la mèche ?
+soiree-227|Soirée & Amitié|ancienne|Combien donnes-tu pour un cadeau commun entre potes ?|Combien coûte un gâteau d’anniversaire pour vingt personnes ?
+soiree-229|Soirée & Amitié|ancienne|Combien de minutes d’avance prévois-tu pour une fête surprise ?|Combien de minutes peux-tu te retenir de rire ?
+soiree-230|Soirée & Amitié|ancienne|Combien de bougies mets-tu vraiment sur un gâteau ?|Combien de parts coupes-tu dans un gâteau d’anniversaire ?
+soiree-231|Soirée & Amitié|ancienne|Quelle activité offrirais-tu en cadeau d’anniversaire ?|Quelle activité ferais-tu pour fêter une bonne nouvelle au boulot ?
+soiree-233|Soirée & Amitié|ancienne|Où fais-tu croire qu’on va pour attirer quelqu’un à sa fête surprise ?|Où donnes-tu rendez-vous à un ami pour un simple café ?
+soiree-234|Soirée & Amitié|ancienne|Quelle décoration sors-tu pour un anniversaire ?|Quelle décoration laisses-tu en place toute l’année après une fête ?
+soiree-237|Soirée & Amitié|ancienne|Que dis-tu pour faire sourire tout le monde sur une photo ?|Que dis-tu pour lancer un compte à rebours ?
+soiree-240|Soirée & Amitié|ancienne|Où se fait la photo de groupe en soirée ?|Où ranges-tu tes vieilles photos ?
+soiree-241|Soirée & Amitié|ancienne|À quel moment de la soirée prend-on la photo de groupe ?|À quel moment de la soirée tout le monde est-il sur son téléphone ?
+soiree-251|Soirée & Amitié|ancienne|Combien d’invités annulent le jour même ?|Combien d’invités viennent avec quelqu’un d’imprévu ?
+soiree-253|Soirée & Amitié|ancienne|Combien demandes-tu à chacun pour les courses d’une soirée ?|Combien coûte une pizza à emporter ?
+soiree-259|Soirée & Amitié|ancienne|Que prends-tu pour être bien installé devant un film ?|Que prends-tu pour être bien installé en pique-nique ?
+soiree-262|Soirée & Amitié|ancienne|Que dis-tu quand quelqu’un parle pendant le film ?|Que dis-tu quand quelqu’un dévoile la fin d’une série ?
+soiree-290|Soirée & Amitié|ancienne|Que dis-tu en découvrant l’appartement d’un ami ?|Que dis-tu en goûtant un plat raté chez un ami ?
+soiree-294|Soirée & Amitié|ancienne|Combien de fois regardes-tu ton téléphone pendant une soirée ?|Combien de fois vas-tu à la cuisine pendant une soirée ?
+soiree-317|Soirée & Amitié|ancienne|Quelle excuse entends-tu le plus pour refuser une soirée ?|Quelle excuse utilises-tu le plus pour refuser une soirée ?
+soiree-330|Soirée & Amitié|ancienne|Combien dépenses-tu en décoration pour une soirée chez toi (en euros) ?|Combien dépenses-tu pour un cadeau d’anniversaire entre amis (en euros) ?
+soiree-420|Soirée & Amitié|ancienne|Combien coûte une boîte de bougies d’anniversaire (en euros) ?|Combien coûte une carte d’anniversaire en papeterie (en euros) ?
+soiree-427|Soirée & Amitié|ancienne|Combien d’appels reçois-tu le jour de ton anniversaire ?|Combien d’appels passes-tu pour souhaiter des anniversaires dans un mois ?
+soiree-430|Soirée & Amitié|ancienne|Quelle phrase dis-tu en tendant son cadeau à un ami ?|Quelle phrase dis-tu en apportant le gâteau ?
+soiree-431|Soirée & Amitié|ancienne|Combien de jours à l’avance achètes-tu un cadeau ?|Combien de jours après la date fêtes-tu un anniversaire en retard ?
+soiree-433|Soirée & Amitié|ancienne|Combien de minutes mets-tu à décorer une salle d’anniversaire ?|Combien de minutes mets-tu à gonfler tous les ballons ?
+soiree-455|Soirée & Amitié|ancienne|Que dis-tu quand le plat est trop salé ?|Que dis-tu quand on te ressert alors que tu n’as plus faim ?
+soiree-466|Soirée & Amitié|ancienne|Que dis-tu pour refuser poliment un plat ?|Que dis-tu pour demander une deuxième part ?
+soiree-474|Soirée & Amitié|ancienne|Quel sujet de conversation lances-tu quand il y a un blanc ?|Quel sujet de conversation évites-tu en soirée ?
+soiree-496|Soirée & Amitié|ancienne|Quelle phrase dis-tu pour convaincre un ami de partager un taxi ?|Quelle phrase dis-tu pour convaincre un ami de rentrer à pied ?
+soiree-498|Soirée & Amitié|ancienne|Jusqu’à quelle heure restes-tu à une soirée la veille d’un jour de travail ?|Jusqu’à quelle heure restes-tu à une soirée la veille d’un jour férié ?
+soiree-513|Soirée & Amitié|ancienne|Avec combien de personnes partages-tu un taxi en rentrant ?|Avec combien de personnes rentres-tu à pied ?
+soiree-542|Soirée & Amitié|ancienne|Vers quelle heure demandes-tu poliment aux invités de partir ?|Vers quelle heure commences-tu à ranger discrètement pendant la soirée ?
+soiree-544|Soirée & Amitié|ancienne|Combien de verres finissent sans propriétaire en fin de soirée ?|Combien de gobelets portent un prénom écrit au feutre ?
+soiree-554|Soirée & Amitié|ancienne|Combien de strikes fais-tu dans une partie de bowling ?|Combien de trous en un coup fais-tu dans une partie de minigolf ?
+soiree-555|Soirée & Amitié|ancienne|Quelle activité proposes-tu pour un groupe de dix personnes ?|Quelle activité proposes-tu pour une sortie à trois ?
+soiree-557|Soirée & Amitié|ancienne|Combien coûte une partie de bowling (en euros) ?|Combien coûte une place de cinéma (en euros) ?
+soiree-560|Soirée & Amitié|ancienne|À quelle heure réserves-tu une table pour un groupe ?|À quelle heure réserves-tu une séance de cinéma entre amis ?
+soiree-562|Soirée & Amitié|ancienne|Combien de personnes faut-il pour un escape game réussi ?|Combien de personnes faut-il pour une partie de laser game ?
+soiree-564|Soirée & Amitié|ancienne|Quelle sortie proposes-tu quand il pleut ?|Quelle sortie proposes-tu quand il fait beau ?
+soiree-593|Soirée & Amitié|ancienne|Quelle célébrité fait toujours réagir quand on la cite en soirée ?|Quelle célébrité imites-tu pour faire rire tes amis ?
+soiree-594|Soirée & Amitié|nouvelle|À ton avis, combien coûte un jeu de cartes ?|À ton avis, combien coûte un plateau de mini-sandwichs ?
+soiree-595|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un voisin demande de baisser le volume ?|Quel serait ton premier réflexe si la dernière part de gâteau disparaît ?
+soiree-596|Soirée & Amitié|nouvelle|Où irais-tu pour acheter un lot de verres assortis ?|Où irais-tu pour acheter un bouquet pour remercier l’hôte ?
+soiree-597|Soirée & Amitié|nouvelle|Quel prix imagines-tu pour une décoration d’anniversaire ?|Quel prix imagines-tu pour un gâteau à partager entre dix personnes ?
+soiree-598|Soirée & Amitié|nouvelle|À quel moment aurais-tu envie d’acheter un assortiment de chips ?|À quel moment aurais-tu envie d’acheter un jeu de cartes ?
+soiree-599|Soirée & Amitié|nouvelle|À quel moment aurais-tu envie d’acheter un paquet de gobelets réutilisables ?|À quel moment aurais-tu envie d’acheter une guirlande LED de dix mètres pour l’extérieur ?
+soiree-600|Soirée & Amitié|nouvelle|À quel endroit irais-tu pour trouver un gâteau à partager entre dix personnes ?|À quel endroit irais-tu pour trouver une nappe de fête ?
+soiree-601|Soirée & Amitié|nouvelle|Combien serais-tu prêt à dépenser pour la location d’un photobooth pour une soirée de quatre heures ?|Combien serais-tu prêt à dépenser pour une décoration d’anniversaire ?
+soiree-602|Soirée & Amitié|nouvelle|Pour quelle occasion voudrais-tu acheter un plateau de fromages pour six personnes ?|Pour quelle occasion voudrais-tu acheter un jeu d’ambiance ?
+soiree-603|Soirée & Amitié|nouvelle|À quelle fréquence t’arrive-t-il de choisir un jeu à plusieurs ?|À quelle fréquence t’arrive-t-il de préparer un karaoké improvisé ?
+soiree-604|Soirée & Amitié|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un assortiment de quatre pizzas à partager ?|Sur quel site ou dans quel magasin chercherais-tu une enceinte Bluetooth pour animer une soirée de vingt personnes ?
+soiree-605|Soirée & Amitié|nouvelle|Quel prix imagines-tu pour un projecteur portable ?|Quel prix imagines-tu pour une machine à pop-corn ?
+soiree-606|Soirée & Amitié|nouvelle|À quel moment de la semaine préférerais-tu organiser un repas partagé ?|À quel moment de la semaine préférerais-tu répartir les places autour d’une table ?
+soiree-607|Soirée & Amitié|nouvelle|Comment répondrais-tu si un ami s’endort sur le canapé ?|Comment répondrais-tu si tu reconnais une chanson que personne ne connaît ?
+soiree-608|Soirée & Amitié|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une décoration d’anniversaire ?|Sur quel site ou dans quel magasin chercherais-tu un gâteau à partager entre dix personnes ?
+soiree-609|Soirée & Amitié|nouvelle|Qui pourrait te donner le meilleur conseil pour prévoir les courses d’un apéro ?|Qui pourrait te donner le meilleur conseil pour réunir tout le monde pour une photo ?
+soiree-610|Soirée & Amitié|nouvelle|À quel endroit irais-tu pour trouver un jeu de cartes ?|À quel endroit irais-tu pour trouver un plateau de mini-sandwichs ?
+soiree-611|Soirée & Amitié|nouvelle|Combien de fois par mois as-tu l’occasion de ranger après une soirée ?|Combien de fois par mois as-tu l’occasion de prévoir les courses d’un apéro ?
+soiree-612|Soirée & Amitié|nouvelle|Quel serait le meilleur moment pour répartir les places autour d’une table ?|Quel serait le meilleur moment pour choisir un film à regarder entre amis ?
+soiree-613|Soirée & Amitié|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer un karaoké improvisé ?|Quelle personne de ton entourage pourrait t’aider à faire un récapitulatif des dépenses ?
+soiree-614|Soirée & Amitié|nouvelle|Combien de temps te faudrait-il pour accueillir les premiers invités ?|Combien de temps te faudrait-il pour choisir un jeu à plusieurs ?
+soiree-615|Soirée & Amitié|nouvelle|À ton avis, combien de temps faut-il pour choisir un jeu à plusieurs ?|À ton avis, combien de temps faut-il pour préparer un karaoké improvisé ?
+soiree-616|Soirée & Amitié|nouvelle|Selon toi, quel est le prix d’un assortiment de boissons sans alcool ?|Selon toi, quel est le prix d’une boîte de chocolats à partager ?
+soiree-617|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si la musique s’arrête au meilleur moment ?|Quel serait ton premier réflexe si quelqu’un renverse son verre sur la table ?
+soiree-618|Soirée & Amitié|nouvelle|Quel moment de la journée choisirais-tu pour préparer une playlist commune ?|Quel moment de la journée choisirais-tu pour décorer un salon pour une fête ?
+soiree-619|Soirée & Amitié|nouvelle|Combien de fois par an as-tu l’occasion de préparer un karaoké improvisé ?|Combien de fois par an as-tu l’occasion de faire un récapitulatif des dépenses ?
+soiree-620|Soirée & Amitié|nouvelle|Quel serait le meilleur moment pour choisir la musique d’une soirée ?|Quel serait le meilleur moment pour mettre la table pour des invités ?
+soiree-621|Soirée & Amitié|nouvelle|À quel moment aurais-tu envie d’acheter un projecteur portable ?|À quel moment aurais-tu envie d’acheter une machine à pop-corn ?
+soiree-622|Soirée & Amitié|nouvelle|Qu’est-ce que tu ferais en premier si on t’annonce une soirée déguisée une heure avant ?|Qu’est-ce que tu ferais en premier si ton ami te demande de lancer le karaoké ?
+soiree-623|Soirée & Amitié|nouvelle|En combien de temps pourrais-tu préparer une playlist commune ?|En combien de temps pourrais-tu décorer un salon pour une fête ?
+soiree-624|Soirée & Amitié|nouvelle|À ton avis, combien de temps faut-il pour répartir les places autour d’une table ?|À ton avis, combien de temps faut-il pour choisir un film à regarder entre amis ?
+soiree-625|Soirée & Amitié|nouvelle|Quel prix imagines-tu pour un assortiment de quatre pizzas à partager ?|Quel prix imagines-tu pour une enceinte Bluetooth pour animer une soirée de vingt personnes ?
+soiree-626|Soirée & Amitié|nouvelle|Quel créneau de la journée serait le plus pratique pour organiser un anniversaire surprise ?|Quel créneau de la journée serait le plus pratique pour convaincre des amis de sortir ?
+soiree-627|Soirée & Amitié|nouvelle|Qu’est-ce qui te pousserait à acheter une guirlande LED de dix mètres pour l’extérieur ?|Qu’est-ce qui te pousserait à acheter un assortiment de boissons sans alcool ?
+soiree-628|Soirée & Amitié|nouvelle|À quelle fréquence aimerais-tu organiser un brunch le lendemain ?|À quelle fréquence aimerais-tu accueillir les premiers invités ?
+soiree-629|Soirée & Amitié|nouvelle|Quelle serait ta première réaction si quelqu’un renverse son verre sur la table ?|Quelle serait ta première réaction si personne ne veut choisir le restaurant ?
+soiree-630|Soirée & Amitié|nouvelle|Quel budget maximal prévoirais-tu pour une machine à pop-corn ?|Quel budget maximal prévoirais-tu pour un lot de verres assortis ?
+soiree-631|Soirée & Amitié|nouvelle|Combien penses-tu que vaut la location d’un photobooth pour une soirée de quatre heures ?|Combien penses-tu que vaut une décoration d’anniversaire ?
+soiree-632|Soirée & Amitié|nouvelle|Qui contacterais-tu pour t’aider à accueillir les premiers invités ?|Qui contacterais-tu pour t’aider à choisir un jeu à plusieurs ?
+soiree-633|Soirée & Amitié|nouvelle|À ton avis, combien coûte une guirlande LED de dix mètres pour l’extérieur ?|À ton avis, combien coûte un assortiment de boissons sans alcool ?
+soiree-634|Soirée & Amitié|nouvelle|Combien serais-tu prêt à dépenser pour une boîte de chocolats à partager ?|Combien serais-tu prêt à dépenser pour un assortiment de chips ?
+soiree-635|Soirée & Amitié|nouvelle|À qui demanderais-tu de l’aide pour expliquer les règles d’un jeu ?|À qui demanderais-tu de l’aide pour organiser un repas partagé ?
+soiree-636|Soirée & Amitié|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un assortiment de boissons sans alcool ?|Au-delà de quel prix hésiterais-tu à acheter une boîte de chocolats à partager ?
+soiree-637|Soirée & Amitié|nouvelle|Dans quelle situation déciderais-tu de réserver la location d’un photobooth pour une soirée de quatre heures ?|Dans quelle situation déciderais-tu d’acheter une décoration d’anniversaire ?
+soiree-638|Soirée & Amitié|nouvelle|À ton avis, combien coûte une enceinte Bluetooth pour animer une soirée de vingt personnes ?|À ton avis, combien coûte un plateau de fromages pour six personnes ?
+soiree-639|Soirée & Amitié|nouvelle|Qu’est-ce qui te pousserait à acheter un gâteau à partager entre dix personnes ?|Qu’est-ce qui te pousserait à acheter une nappe de fête ?
+soiree-640|Soirée & Amitié|nouvelle|Quelle personne de ton entourage pourrait t’aider à réunir tout le monde pour une photo ?|Quelle personne de ton entourage pourrait t’aider à expliquer les règles d’un jeu ?
+soiree-641|Soirée & Amitié|nouvelle|À qui demanderais-tu de l’aide pour organiser un brunch le lendemain ?|À qui demanderais-tu de l’aide pour accueillir les premiers invités ?
+soiree-642|Soirée & Amitié|nouvelle|Quelle phrase sortirait de ta bouche si un ami arrive avec deux invités de plus ?|Quelle phrase sortirait de ta bouche si la musique s’arrête au meilleur moment ?
+soiree-643|Soirée & Amitié|nouvelle|À ton avis, combien coûte une machine à pop-corn ?|À ton avis, combien coûte un lot de verres assortis ?
+soiree-644|Soirée & Amitié|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une nappe de fête ?|Au-delà de quel prix hésiterais-tu à acheter un lot de ballons ?
+soiree-645|Soirée & Amitié|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un assortiment de chips ?|Sur quel site ou dans quel magasin chercherais-tu un jeu de cartes ?
+soiree-646|Soirée & Amitié|nouvelle|Où chercherais-tu un bouquet pour remercier l’hôte en premier ?|Où chercherais-tu un assortiment de quatre pizzas à partager en premier ?
+soiree-647|Soirée & Amitié|nouvelle|À quelle fréquence aimerais-tu faire un récapitulatif des dépenses ?|À quelle fréquence aimerais-tu préparer un apéritif pour dix personnes ?
+soiree-648|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un invité veut partir très tôt ?|Quel serait ton premier réflexe si deux amis veulent choisir des musiques opposées ?
+soiree-649|Soirée & Amitié|nouvelle|Comment réagirais-tu si un ami arrive avec deux invités de plus ?|Comment réagirais-tu si la musique s’arrête au meilleur moment ?
+soiree-650|Soirée & Amitié|nouvelle|Combien de fois par mois as-tu l’occasion de préparer un apéritif pour dix personnes ?|Combien de fois par mois as-tu l’occasion de choisir la musique d’une soirée ?
+soiree-651|Soirée & Amitié|nouvelle|Où irais-tu pour acheter un plateau de mini-sandwichs ?|Où irais-tu pour réserver la location d’un photobooth pour une soirée de quatre heures ?
+soiree-652|Soirée & Amitié|nouvelle|Qu’est-ce que tu dirais sur le moment si quelqu’un renverse son verre sur la table ?|Qu’est-ce que tu dirais sur le moment si personne ne veut choisir le restaurant ?
+soiree-653|Soirée & Amitié|nouvelle|Qu’est-ce que tu dirais sur le moment si tu reconnais une chanson que personne ne connaît ?|Qu’est-ce que tu dirais sur le moment si une personne veut changer les règles du jeu ?
+soiree-654|Soirée & Amitié|nouvelle|À quelle fréquence t’arrive-t-il de répartir les places autour d’une table ?|À quelle fréquence t’arrive-t-il de choisir un film à regarder entre amis ?
+soiree-655|Soirée & Amitié|nouvelle|Dans quelle situation déciderais-tu d’acheter une boîte de chocolats à partager ?|Dans quelle situation déciderais-tu d’acheter un assortiment de chips ?
+soiree-656|Soirée & Amitié|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un paquet de gobelets réutilisables ?|Sur quel site ou dans quel magasin chercherais-tu une guirlande LED de dix mètres pour l’extérieur ?
+soiree-657|Soirée & Amitié|nouvelle|Qu’est-ce que tu dirais sur le moment si deux amis veulent choisir des musiques opposées ?|Qu’est-ce que tu dirais sur le moment si on t’annonce une soirée déguisée une heure avant ?
+soiree-658|Soirée & Amitié|nouvelle|À quelle fréquence t’arrive-t-il de trouver un café proche de la gare pour retrouver tes amis ?|À quelle fréquence t’arrive-t-il de préparer une playlist commune ?
+soiree-659|Soirée & Amitié|nouvelle|Qu’est-ce que tu dirais sur le moment si ton ami t’invite à une autre soirée le même soir ?|Qu’est-ce que tu dirais sur le moment si tu ne connais personne à la soirée ?
+soiree-660|Soirée & Amitié|nouvelle|Où chercherais-tu un jeu d’ambiance en premier ?|Où chercherais-tu un paquet de gobelets réutilisables en premier ?
+soiree-661|Soirée & Amitié|nouvelle|Combien de temps prévoirais-tu pour organiser un brunch le lendemain ?|Combien de temps prévoirais-tu pour accueillir les premiers invités ?
+soiree-662|Soirée & Amitié|nouvelle|Qui pourrait te donner le meilleur conseil pour choisir un jeu à plusieurs ?|Qui pourrait te donner le meilleur conseil pour préparer un karaoké improvisé ?
+soiree-663|Soirée & Amitié|nouvelle|Qu’est-ce que tu dirais sur le moment si la dernière part de gâteau disparaît ?|Qu’est-ce que tu dirais sur le moment si on te propose un jeu que tu détestes ?
+soiree-664|Soirée & Amitié|nouvelle|À quelle fréquence aimerais-tu organiser un anniversaire surprise ?|À quelle fréquence aimerais-tu convaincre des amis de sortir ?
+soiree-665|Soirée & Amitié|nouvelle|Que dirais-tu si on t’annonce une soirée déguisée une heure avant ?|Que dirais-tu si ton ami te demande de lancer le karaoké ?
+soiree-666|Soirée & Amitié|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un plateau de fromages pour six personnes ?|Au-delà de quel prix hésiterais-tu à acheter un jeu d’ambiance ?
+soiree-667|Soirée & Amitié|nouvelle|Combien de temps prévoirais-tu pour faire un récapitulatif des dépenses ?|Combien de temps prévoirais-tu pour préparer un apéritif pour dix personnes ?
+soiree-668|Soirée & Amitié|nouvelle|Jusqu’à combien paierais-tu pour une décoration d’anniversaire ?|Jusqu’à combien paierais-tu pour un gâteau à partager entre dix personnes ?
+soiree-669|Soirée & Amitié|nouvelle|Qui pourrait te donner le meilleur conseil pour trouver un café proche de la gare pour retrouver tes amis ?|Qui pourrait te donner le meilleur conseil pour préparer une playlist commune ?
+soiree-670|Soirée & Amitié|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un lot de verres assortis ?|Au-delà de quel prix hésiterais-tu à acheter un bouquet pour remercier l’hôte ?
+soiree-671|Soirée & Amitié|nouvelle|Quelle phrase sortirait de ta bouche si quelqu’un veut faire une photo de groupe ?|Quelle phrase sortirait de ta bouche si un ami s’endort sur le canapé ?
+soiree-672|Soirée & Amitié|nouvelle|Quel prix imagines-tu pour un paquet de gobelets réutilisables ?|Quel prix imagines-tu pour une guirlande LED de dix mètres pour l’extérieur ?
+soiree-673|Soirée & Amitié|nouvelle|Quel créneau de la journée serait le plus pratique pour expliquer les règles d’un jeu ?|Quel créneau de la journée serait le plus pratique pour organiser un repas partagé ?
+soiree-674|Soirée & Amitié|nouvelle|Qui contacterais-tu pour t’aider à convaincre des amis de sortir ?|Qui contacterais-tu pour t’aider à trouver un café proche de la gare pour retrouver tes amis ?
+soiree-675|Soirée & Amitié|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer une playlist commune ?|Quelle personne de ton entourage pourrait t’aider à décorer un salon pour une fête ?
+soiree-676|Soirée & Amitié|nouvelle|À qui demanderais-tu de l’aide pour organiser un anniversaire surprise ?|À qui demanderais-tu de l’aide pour convaincre des amis de sortir ?
+soiree-677|Soirée & Amitié|nouvelle|Combien de temps te faudrait-il pour préparer un apéritif pour dix personnes ?|Combien de temps te faudrait-il pour choisir la musique d’une soirée ?
+soiree-678|Soirée & Amitié|nouvelle|Qu’est-ce que tu ferais en premier si une personne veut changer les règles du jeu ?|Qu’est-ce que tu ferais en premier si un invité insiste pour payer toute l’addition ?
+soiree-679|Soirée & Amitié|nouvelle|Quelle personne de ton entourage pourrait t’aider à choisir un film à regarder entre amis ?|Quelle personne de ton entourage pourrait t’aider à organiser un brunch le lendemain ?
+soiree-680|Soirée & Amitié|nouvelle|Qui contacterais-tu pour t’aider à préparer un apéritif pour dix personnes ?|Qui contacterais-tu pour t’aider à choisir la musique d’une soirée ?
+soiree-681|Soirée & Amitié|nouvelle|Selon toi, quel est le prix d’un plateau de fromages pour six personnes ?|Selon toi, quel est le prix d’un jeu d’ambiance ?
+soiree-682|Soirée & Amitié|nouvelle|Qu’est-ce que tu ferais en premier si tu ne connais personne à la soirée ?|Qu’est-ce que tu ferais en premier si un ami arrive avec deux invités de plus ?
+soiree-683|Soirée & Amitié|nouvelle|Pour quelle occasion voudrais-tu acheter un plateau de mini-sandwichs ?|Pour quelle occasion voudrais-tu réserver la location d’un photobooth pour une soirée de quatre heures ?
+soiree-684|Soirée & Amitié|nouvelle|Combien penses-tu que vaut un lot de ballons ?|Combien penses-tu que vaut un projecteur portable ?
+soiree-685|Soirée & Amitié|nouvelle|Quel créneau de la journée serait le plus pratique pour faire un récapitulatif des dépenses ?|Quel créneau de la journée serait le plus pratique pour préparer un apéritif pour dix personnes ?
+soiree-686|Soirée & Amitié|nouvelle|Qu’est-ce qui te pousserait à acheter une enceinte Bluetooth pour animer une soirée de vingt personnes ?|Qu’est-ce qui te pousserait à acheter un plateau de fromages pour six personnes ?
+soiree-687|Soirée & Amitié|nouvelle|À quel moment de la semaine préférerais-tu accueillir les premiers invités ?|À quel moment de la semaine préférerais-tu choisir un jeu à plusieurs ?
+soiree-688|Soirée & Amitié|nouvelle|Quel moment de la journée choisirais-tu pour réunir tout le monde pour une photo ?|Quel moment de la journée choisirais-tu pour expliquer les règles d’un jeu ?
+soiree-689|Soirée & Amitié|nouvelle|Combien de temps te faudrait-il pour ranger après une soirée ?|Combien de temps te faudrait-il pour prévoir les courses d’un apéro ?
+soiree-690|Soirée & Amitié|nouvelle|Comment répondrais-tu si un invité veut partir très tôt ?|Comment répondrais-tu si deux amis veulent choisir des musiques opposées ?
+soiree-691|Soirée & Amitié|nouvelle|Comment réagirais-tu si on te demande de faire un discours ?|Comment réagirais-tu si un invité veut partir très tôt ?
+soiree-692|Soirée & Amitié|nouvelle|Jusqu’à combien paierais-tu pour un assortiment de quatre pizzas à partager ?|Jusqu’à combien paierais-tu pour une enceinte Bluetooth pour animer une soirée de vingt personnes ?
+soiree-693|Soirée & Amitié|nouvelle|Comment répondrais-tu si un voisin demande de baisser le volume ?|Comment répondrais-tu si la dernière part de gâteau disparaît ?
+soiree-694|Soirée & Amitié|nouvelle|Quelle serait ta première réaction si la dernière part de gâteau disparaît ?|Quelle serait ta première réaction si on te propose un jeu que tu détestes ?
+soiree-695|Soirée & Amitié|nouvelle|Combien de fois par mois as-tu l’occasion d’accueillir les premiers invités ?|Combien de fois par mois as-tu l’occasion de choisir un jeu à plusieurs ?
+soiree-696|Soirée & Amitié|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un projecteur portable ?|Sur quel site ou dans quel magasin chercherais-tu une machine à pop-corn ?
+soiree-697|Soirée & Amitié|nouvelle|Combien de fois par an as-tu l’occasion de choisir un film à regarder entre amis ?|Combien de fois par an as-tu l’occasion d’organiser un brunch le lendemain ?
+soiree-698|Soirée & Amitié|nouvelle|Quel moment de la journée choisirais-tu pour mettre la table pour des invités ?|Quel moment de la journée choisirais-tu pour organiser un anniversaire surprise ?
+soiree-699|Soirée & Amitié|nouvelle|Qu’est-ce qui te pousserait à acheter un jeu de cartes ?|Qu’est-ce qui te pousserait à acheter un plateau de mini-sandwichs ?
+soiree-700|Soirée & Amitié|nouvelle|À qui demanderais-tu de l’aide pour faire un récapitulatif des dépenses ?|À qui demanderais-tu de l’aide pour préparer un apéritif pour dix personnes ?
+soiree-701|Soirée & Amitié|nouvelle|Jusqu’à combien paierais-tu pour un paquet de gobelets réutilisables ?|Jusqu’à combien paierais-tu pour une guirlande LED de dix mètres pour l’extérieur ?
+soiree-702|Soirée & Amitié|nouvelle|Combien de temps prévoirais-tu pour décorer un salon pour une fête ?|Combien de temps prévoirais-tu pour ranger après une soirée ?
+soiree-703|Soirée & Amitié|nouvelle|Combien de fois par an as-tu l’occasion de préparer une playlist commune ?|Combien de fois par an as-tu l’occasion de décorer un salon pour une fête ?
+soiree-704|Soirée & Amitié|nouvelle|Quel serait le meilleur moment pour trouver un café proche de la gare pour retrouver tes amis ?|Quel serait le meilleur moment pour préparer une playlist commune ?
+soiree-705|Soirée & Amitié|nouvelle|Quel créneau de la journée serait le plus pratique pour décorer un salon pour une fête ?|Quel créneau de la journée serait le plus pratique pour ranger après une soirée ?
+soiree-706|Soirée & Amitié|nouvelle|Qui pourrait te donner le meilleur conseil pour choisir la musique d’une soirée ?|Qui pourrait te donner le meilleur conseil pour mettre la table pour des invités ?
+soiree-707|Soirée & Amitié|nouvelle|Quel serait le meilleur moment pour choisir un jeu à plusieurs ?|Quel serait le meilleur moment pour préparer un karaoké improvisé ?
+soiree-708|Soirée & Amitié|nouvelle|Que dirais-tu si une personne veut changer les règles du jeu ?|Que dirais-tu si un invité insiste pour payer toute l’addition ?
+soiree-709|Soirée & Amitié|nouvelle|Comment réagirais-tu si un invité insiste pour payer toute l’addition ?|Comment réagirais-tu si le groupe se sépare au moment de rentrer ?
+soiree-710|Soirée & Amitié|nouvelle|Où irais-tu pour acheter un plateau de fromages pour six personnes ?|Où irais-tu pour acheter un jeu d’ambiance ?
+soiree-711|Soirée & Amitié|nouvelle|Combien de fois par mois as-tu l’occasion de convaincre des amis de sortir ?|Combien de fois par mois as-tu l’occasion de trouver un café proche de la gare pour retrouver tes amis ?
+soiree-712|Soirée & Amitié|nouvelle|Combien de temps prévoirais-tu pour expliquer les règles d’un jeu ?|Combien de temps prévoirais-tu pour organiser un repas partagé ?
+soiree-713|Soirée & Amitié|nouvelle|Jusqu’à combien paierais-tu pour un projecteur portable ?|Jusqu’à combien paierais-tu pour une machine à pop-corn ?
+soiree-714|Soirée & Amitié|nouvelle|Combien serais-tu prêt à dépenser pour un bouquet pour remercier l’hôte ?|Combien serais-tu prêt à dépenser pour un assortiment de quatre pizzas à partager ?
+soiree-715|Soirée & Amitié|nouvelle|Que dirais-tu si tu ne connais personne à la soirée ?|Que dirais-tu si un ami arrive avec deux invités de plus ?
+soiree-716|Soirée & Amitié|nouvelle|En combien de temps pourrais-tu choisir un film à regarder entre amis ?|En combien de temps pourrais-tu organiser un brunch le lendemain ?
+soiree-717|Soirée & Amitié|nouvelle|Qui contacterais-tu pour t’aider à organiser un repas partagé ?|Qui contacterais-tu pour t’aider à répartir les places autour d’une table ?
+soiree-718|Soirée & Amitié|nouvelle|Pour quelle occasion voudrais-tu acheter une nappe de fête ?|Pour quelle occasion voudrais-tu acheter un lot de ballons ?
+soiree-719|Soirée & Amitié|nouvelle|À quel moment aurais-tu envie d’acheter une décoration d’anniversaire ?|À quel moment aurais-tu envie d’acheter un gâteau à partager entre dix personnes ?
+soiree-720|Soirée & Amitié|nouvelle|Quelle serait ta première réaction si ton ami t’invite à une autre soirée le même soir ?|Quelle serait ta première réaction si tu ne connais personne à la soirée ?
+soiree-721|Soirée & Amitié|nouvelle|À ton avis, combien de temps faut-il pour prévoir les courses d’un apéro ?|À ton avis, combien de temps faut-il pour réunir tout le monde pour une photo ?
+soiree-722|Soirée & Amitié|nouvelle|Quelle serait ta première réaction si deux amis veulent choisir des musiques opposées ?|Quelle serait ta première réaction si on t’annonce une soirée déguisée une heure avant ?
+soiree-723|Soirée & Amitié|nouvelle|À quel moment aurais-tu envie d’acheter un assortiment de quatre pizzas à partager ?|À quel moment aurais-tu envie d’acheter une enceinte Bluetooth pour animer une soirée de vingt personnes ?
+soiree-724|Soirée & Amitié|nouvelle|Selon toi, quel est le prix d’une nappe de fête ?|Selon toi, quel est le prix d’un lot de ballons ?
+soiree-725|Soirée & Amitié|nouvelle|Combien penses-tu que vaut une boîte de chocolats à partager ?|Combien penses-tu que vaut un assortiment de chips ?
+soiree-726|Soirée & Amitié|nouvelle|Comment répondrais-tu si le groupe se sépare au moment de rentrer ?|Comment répondrais-tu si ton ami t’invite à une autre soirée le même soir ?
+soiree-727|Soirée & Amitié|nouvelle|Que dirais-tu si personne ne veut choisir le restaurant ?|Que dirais-tu si on te demande de faire un discours ?
+soiree-728|Soirée & Amitié|nouvelle|Pour quelle occasion voudrais-tu acheter un lot de verres assortis ?|Pour quelle occasion voudrais-tu acheter un bouquet pour remercier l’hôte ?
+soiree-729|Soirée & Amitié|nouvelle|Quel budget maximal prévoirais-tu pour un gâteau à partager entre dix personnes ?|Quel budget maximal prévoirais-tu pour une nappe de fête ?
+soiree-730|Soirée & Amitié|nouvelle|Quel budget maximal prévoirais-tu pour un jeu de cartes ?|Quel budget maximal prévoirais-tu pour un plateau de mini-sandwichs ?
+soiree-731|Soirée & Amitié|nouvelle|Que dirais-tu si on te propose un jeu que tu détestes ?|Que dirais-tu si quelqu’un veut faire une photo de groupe ?
+soiree-732|Soirée & Amitié|nouvelle|Où chercherais-tu une boîte de chocolats à partager en premier ?|Où chercherais-tu un assortiment de chips en premier ?
+soiree-733|Soirée & Amitié|nouvelle|Quel budget maximal prévoirais-tu pour une guirlande LED de dix mètres pour l’extérieur ?|Quel budget maximal prévoirais-tu pour un assortiment de boissons sans alcool ?
+soiree-734|Soirée & Amitié|nouvelle|Qui pourrait te donner le meilleur conseil pour répartir les places autour d’une table ?|Qui pourrait te donner le meilleur conseil pour choisir un film à regarder entre amis ?
+soiree-735|Soirée & Amitié|nouvelle|Comment réagirais-tu si quelqu’un veut faire une photo de groupe ?|Comment réagirais-tu si un ami s’endort sur le canapé ?
+soiree-736|Soirée & Amitié|nouvelle|Combien penses-tu que vaut un bouquet pour remercier l’hôte ?|Combien penses-tu que vaut un assortiment de quatre pizzas à partager ?
+soiree-737|Soirée & Amitié|nouvelle|À quel endroit irais-tu pour trouver une enceinte Bluetooth pour animer une soirée de vingt personnes ?|À quel endroit irais-tu pour trouver un plateau de fromages pour six personnes ?
+soiree-738|Soirée & Amitié|nouvelle|Jusqu’à combien paierais-tu pour un assortiment de chips ?|Jusqu’à combien paierais-tu pour un jeu de cartes ?
+soiree-739|Soirée & Amitié|nouvelle|Quelle phrase sortirait de ta bouche si on te demande de faire un discours ?|Quelle phrase sortirait de ta bouche si un invité veut partir très tôt ?
+soiree-740|Soirée & Amitié|nouvelle|Où chercherais-tu la location d’un photobooth pour une soirée de quatre heures en premier ?|Où chercherais-tu une décoration d’anniversaire en premier ?
+soiree-741|Soirée & Amitié|nouvelle|À quel endroit irais-tu pour trouver une guirlande LED de dix mètres pour l’extérieur ?|À quel endroit irais-tu pour trouver un assortiment de boissons sans alcool ?
+soiree-742|Soirée & Amitié|nouvelle|Combien de temps te faudrait-il pour organiser un repas partagé ?|Combien de temps te faudrait-il pour répartir les places autour d’une table ?
+soiree-743|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si le groupe se sépare au moment de rentrer ?|Quel serait ton premier réflexe si ton ami t’invite à une autre soirée le même soir ?
+soiree-744|Soirée & Amitié|nouvelle|Comment répondrais-tu si la musique s’arrête au meilleur moment ?|Comment répondrais-tu si quelqu’un renverse son verre sur la table ?
+soiree-745|Soirée & Amitié|nouvelle|Dans quelle situation déciderais-tu d’acheter un jeu d’ambiance ?|Dans quelle situation déciderais-tu d’acheter un paquet de gobelets réutilisables ?
+soiree-746|Soirée & Amitié|nouvelle|À quelle fréquence aimerais-tu décorer un salon pour une fête ?|À quelle fréquence aimerais-tu ranger après une soirée ?
+soiree-747|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami s’endort sur le canapé ?|Quel serait ton premier réflexe si tu reconnais une chanson que personne ne connaît ?
+soiree-748|Soirée & Amitié|nouvelle|Combien serais-tu prêt à dépenser pour un jeu d’ambiance ?|Combien serais-tu prêt à dépenser pour un paquet de gobelets réutilisables ?
+soiree-749|Soirée & Amitié|nouvelle|Combien de fois par an as-tu l’occasion de réunir tout le monde pour une photo ?|Combien de fois par an as-tu l’occasion d’expliquer les règles d’un jeu ?
+soiree-750|Soirée & Amitié|nouvelle|À ton avis, combien coûte un gâteau à partager entre dix personnes ?|À ton avis, combien coûte une nappe de fête ?
+soiree-751|Soirée & Amitié|nouvelle|Qu’est-ce que tu ferais en premier si on te propose un jeu que tu détestes ?|Qu’est-ce que tu ferais en premier si quelqu’un veut faire une photo de groupe ?
+soiree-752|Soirée & Amitié|nouvelle|Selon toi, quel est le prix d’un plateau de mini-sandwichs ?|Selon toi, quel est le prix de la location d’un photobooth pour une soirée de quatre heures ?
+soiree-753|Soirée & Amitié|nouvelle|À quelle fréquence t’arrive-t-il de prévoir les courses d’un apéro ?|À quelle fréquence t’arrive-t-il de réunir tout le monde pour une photo ?
+soiree-754|Soirée & Amitié|nouvelle|Combien de fois par mois as-tu l’occasion d’organiser un repas partagé ?|Combien de fois par mois as-tu l’occasion de répartir les places autour d’une table ?
+soiree-755|Soirée & Amitié|nouvelle|Où irais-tu pour acheter un assortiment de boissons sans alcool ?|Où irais-tu pour acheter une boîte de chocolats à partager ?
+soiree-756|Soirée & Amitié|nouvelle|À quelle fréquence t’arrive-t-il de choisir la musique d’une soirée ?|À quelle fréquence t’arrive-t-il de mettre la table pour des invités ?
+soiree-757|Soirée & Amitié|nouvelle|Comment réagirais-tu si ton ami te demande de lancer le karaoké ?|Comment réagirais-tu si un voisin demande de baisser le volume ?
+soiree-758|Soirée & Amitié|nouvelle|Combien serais-tu prêt à dépenser pour un lot de ballons ?|Combien serais-tu prêt à dépenser pour un projecteur portable ?
+soiree-759|Soirée & Amitié|nouvelle|Quelle phrase sortirait de ta bouche si un invité insiste pour payer toute l’addition ?|Quelle phrase sortirait de ta bouche si le groupe se sépare au moment de rentrer ?
+soiree-760|Soirée & Amitié|nouvelle|Selon toi, quel est le prix d’un lot de verres assortis ?|Selon toi, quel est le prix d’un bouquet pour remercier l’hôte ?
+soiree-761|Soirée & Amitié|nouvelle|À quel moment de la semaine préférerais-tu ranger après une soirée ?|À quel moment de la semaine préférerais-tu prévoir les courses d’un apéro ?
+soiree-762|Soirée & Amitié|nouvelle|Pour quelle occasion voudrais-tu acheter un assortiment de boissons sans alcool ?|Pour quelle occasion voudrais-tu acheter une boîte de chocolats à partager ?
+soiree-763|Soirée & Amitié|nouvelle|Où irais-tu pour acheter une nappe de fête ?|Où irais-tu pour acheter un lot de ballons ?
+soiree-764|Soirée & Amitié|nouvelle|Combien de temps te faudrait-il pour convaincre des amis de sortir ?|Combien de temps te faudrait-il pour trouver un café proche de la gare pour retrouver tes amis ?
+soiree-765|Soirée & Amitié|nouvelle|À quel endroit irais-tu pour trouver une machine à pop-corn ?|À quel endroit irais-tu pour trouver un lot de verres assortis ?
+soiree-766|Soirée & Amitié|nouvelle|Quel serait le meilleur moment pour prévoir les courses d’un apéro ?|Quel serait le meilleur moment pour réunir tout le monde pour une photo ?
+soiree-767|Soirée & Amitié|nouvelle|À quel moment de la semaine préférerais-tu convaincre des amis de sortir ?|À quel moment de la semaine préférerais-tu trouver un café proche de la gare pour retrouver tes amis ?
+soiree-768|Soirée & Amitié|nouvelle|Combien de temps prévoirais-tu pour organiser un anniversaire surprise ?|Combien de temps prévoirais-tu pour convaincre des amis de sortir ?
+soiree-769|Soirée & Amitié|nouvelle|Quel budget maximal prévoirais-tu pour une enceinte Bluetooth pour animer une soirée de vingt personnes ?|Quel budget maximal prévoirais-tu pour un plateau de fromages pour six personnes ?
+soiree-770|Soirée & Amitié|nouvelle|Combien de fois par an as-tu l’occasion de mettre la table pour des invités ?|Combien de fois par an as-tu l’occasion d’organiser un anniversaire surprise ?
+soiree-771|Soirée & Amitié|nouvelle|Où chercherais-tu un lot de ballons en premier ?|Où chercherais-tu un projecteur portable en premier ?
+soiree-772|Soirée & Amitié|nouvelle|Dans quelle situation déciderais-tu d’acheter un bouquet pour remercier l’hôte ?|Dans quelle situation déciderais-tu d’acheter un assortiment de quatre pizzas à partager ?
+soiree-773|Soirée & Amitié|nouvelle|Quelle personne de ton entourage pourrait t’aider à mettre la table pour des invités ?|Quelle personne de ton entourage pourrait t’aider à organiser un anniversaire surprise ?
+soiree-774|Soirée & Amitié|nouvelle|Quel moment de la journée choisirais-tu pour préparer un karaoké improvisé ?|Quel moment de la journée choisirais-tu pour faire un récapitulatif des dépenses ?
+soiree-775|Soirée & Amitié|nouvelle|Quelle serait ta première réaction si tu reconnais une chanson que personne ne connaît ?|Quelle serait ta première réaction si une personne veut changer les règles du jeu ?
+soiree-776|Soirée & Amitié|nouvelle|Qu’est-ce qui te pousserait à acheter une machine à pop-corn ?|Qu’est-ce qui te pousserait à acheter un lot de verres assortis ?
+soiree-777|Soirée & Amitié|nouvelle|Quel moment de la journée choisirais-tu pour choisir un film à regarder entre amis ?|Quel moment de la journée choisirais-tu pour organiser un brunch le lendemain ?
+soiree-778|Soirée & Amitié|nouvelle|En combien de temps pourrais-tu préparer un karaoké improvisé ?|En combien de temps pourrais-tu faire un récapitulatif des dépenses ?
+soiree-779|Soirée & Amitié|nouvelle|À quelle fréquence aimerais-tu expliquer les règles d’un jeu ?|À quelle fréquence aimerais-tu organiser un repas partagé ?
+soiree-780|Soirée & Amitié|nouvelle|En combien de temps pourrais-tu réunir tout le monde pour une photo ?|En combien de temps pourrais-tu expliquer les règles d’un jeu ?
+soiree-781|Soirée & Amitié|nouvelle|En combien de temps pourrais-tu mettre la table pour des invités ?|En combien de temps pourrais-tu organiser un anniversaire surprise ?
+soiree-782|Soirée & Amitié|nouvelle|Combien penses-tu que vaut un jeu d’ambiance ?|Combien penses-tu que vaut un paquet de gobelets réutilisables ?
+soiree-783|Soirée & Amitié|nouvelle|À quel moment de la semaine préférerais-tu préparer un apéritif pour dix personnes ?|À quel moment de la semaine préférerais-tu choisir la musique d’une soirée ?
+soiree-784|Soirée & Amitié|nouvelle|Quel créneau de la journée serait le plus pratique pour organiser un brunch le lendemain ?|Quel créneau de la journée serait le plus pratique pour accueillir les premiers invités ?
+soiree-785|Soirée & Amitié|nouvelle|Quel prix imagines-tu pour un assortiment de chips ?|Quel prix imagines-tu pour un jeu de cartes ?
+soiree-786|Soirée & Amitié|nouvelle|À ton avis, combien de temps faut-il pour trouver un café proche de la gare pour retrouver tes amis ?|À ton avis, combien de temps faut-il pour préparer une playlist commune ?
+soiree-787|Soirée & Amitié|nouvelle|À qui demanderais-tu de l’aide pour décorer un salon pour une fête ?|À qui demanderais-tu de l’aide pour ranger après une soirée ?
+soiree-788|Soirée & Amitié|nouvelle|Quelle phrase sortirait de ta bouche si ton ami te demande de lancer le karaoké ?|Quelle phrase sortirait de ta bouche si un voisin demande de baisser le volume ?
+soiree-789|Soirée & Amitié|nouvelle|Dans quelle situation déciderais-tu d’acheter un lot de ballons ?|Dans quelle situation déciderais-tu d’acheter un projecteur portable ?
+soiree-790|Soirée & Amitié|nouvelle|Qu’est-ce que tu ferais en premier si personne ne veut choisir le restaurant ?|Qu’est-ce que tu ferais en premier si on te demande de faire un discours ?
+soiree-791|Soirée & Amitié|nouvelle|À ton avis, combien de temps faut-il pour choisir la musique d’une soirée ?|À ton avis, combien de temps faut-il pour mettre la table pour des invités ?
+soiree-792|Soirée & Amitié|nouvelle|Qui contacterais-tu pour t’aider à ranger après une soirée ?|Qui contacterais-tu pour t’aider à prévoir les courses d’un apéro ?
+soiree-793|Soirée & Amitié|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un plateau de mini-sandwichs ?|Au-delà de quel prix hésiterais-tu à réserver la location d’un photobooth pour une soirée de quatre heures ?
+bouffe-001|Bouffe & Restos|ancienne|Quel plat commandes-tu le plus en livraison ?|Quel plat choisirais-tu pour ton dernier repas ?
+bouffe-004|Bouffe & Restos|ancienne|Quelle sauce accompagne le mieux des frites ?|Quelle sauce mettrais-tu sur absolument tout ?
+bouffe-005|Bouffe & Restos|ancienne|Quel dessert commandes-tu au restaurant ?|Quel dessert sais-tu préparer ?
+bouffe-006|Bouffe & Restos|ancienne|Quel ingrédient as-tu toujours dans ton frigo ?|Quel ingrédient oublies-tu toujours d’acheter ?
+bouffe-009|Bouffe & Restos|ancienne|Quel snack prends-tu au cinéma ?|Quel snack emportes-tu en randonnée ?
+bouffe-010|Bouffe & Restos|ancienne|Que mets-tu dans un sandwich parfait ?|Que mets-tu sur une tartine au petit-déjeuner ?
+bouffe-012|Bouffe & Restos|ancienne|Quelle boisson commandes-tu en terrasse ?|Quelle boisson prends-tu le matin ?
+bouffe-018|Bouffe & Restos|ancienne|Quel plat français ferais-tu goûter à un touriste ?|Quel plat français est le plus surcoté ?
+bouffe-029|Bouffe & Restos|ancienne|Quel ingrédient rendrait n’importe quel plat meilleur ?|Quel ingrédient ajoutes-tu dans des pâtes au dernier moment ?
+bouffe-031|Bouffe & Restos|ancienne|Combien de fois par mois vas-tu au restaurant ?|Combien de fois par mois te fais-tu livrer à manger ?
+bouffe-032|Bouffe & Restos|ancienne|Combien de minutes peux-tu attendre ton plat au restaurant ?|Combien de minutes mets-tu à préparer ton dîner en semaine ?
+bouffe-033|Bouffe & Restos|ancienne|Combien d’euros paierais-tu pour le meilleur burger du monde ?|Combien d’euros paierais-tu pour une part de gâteau dans un salon de thé chic ?
+bouffe-035|Bouffe & Restos|ancienne|Combien de grammes de pâtes prévois-tu par personne ?|Combien de grammes pèse une tablette de chocolat ?
+bouffe-036|Bouffe & Restos|ancienne|Combien de morceaux de sucre mets-tu dans ton café ou ton thé ?|Combien de tranches de pain manges-tu par jour ?
+bouffe-039|Bouffe & Restos|ancienne|Combien de crêpes peux-tu manger d’affilée ?|Combien de parts de pizza peux-tu manger d’affilée ?
+bouffe-041|Bouffe & Restos|ancienne|À quelle heure prends-tu ton petit-déjeuner en semaine ?|À quelle heure prends-tu ton petit-déjeuner pendant les vacances ?
+bouffe-044|Bouffe & Restos|ancienne|Que tartines-tu sur une biscotte ?|Que tartines-tu sur une crêpe ?
+bouffe-053|Bouffe & Restos|ancienne|Que prends-tu à la boulangerie à part du pain ?|Quelle pâtisserie rapportes-tu pour un dimanche en famille ?
+bouffe-055|Bouffe & Restos|ancienne|Combien de baguettes achètes-tu par semaine ?|Combien de croissants achètes-tu pour un petit-déjeuner à quatre ?
+bouffe-085|Bouffe & Restos|ancienne|Quel aliment mets-tu dans le caddie en dernier ?|Quel aliment poses-tu en haut du sac pour ne pas l’écraser ?
+bouffe-086|Bouffe & Restos|ancienne|Combien coûte un pot de pâte à tartiner selon toi ?|Combien coûte un paquet de café moulu selon toi ?
+bouffe-088|Bouffe & Restos|ancienne|Quel produit goûtes-tu en rentrant des courses, avant même de ranger ?|Quel produit disparaît en premier après les courses ?
+bouffe-092|Bouffe & Restos|ancienne|Combien de sacs de courses peux-tu porter d’un coup ?|Combien de sacs remplis-tu pour les courses de la semaine ?
+bouffe-098|Bouffe & Restos|ancienne|Quelle entrée commandes-tu le plus souvent au restaurant ?|Quelle entrée partages-tu volontiers avec toute la table ?
+bouffe-099|Bouffe & Restos|ancienne|Quel plat commandes-tu quand tu ne connais pas le restaurant ?|Quel plat commandes-tu dans un restaurant chic ?
+bouffe-100|Bouffe & Restos|ancienne|Combien de fois relis-tu la carte avant de choisir ?|Entre combien de plats hésites-tu avant de commander ?
+bouffe-101|Bouffe & Restos|ancienne|Combien de minutes mets-tu à choisir ton plat sur une carte ?|Combien de minutes faut-il attendre l’addition au restaurant ?
+bouffe-103|Bouffe & Restos|ancienne|Quel plat ne commandes-tu jamais au restaurant parce que tu le fais mieux ?|Quel plat ne manges-tu qu’au restaurant ?
+bouffe-104|Bouffe & Restos|ancienne|Combien d’euros trouves-tu raisonnable pour un menu du midi ?|Combien d’euros coûte un plat du jour selon toi ?
+bouffe-105|Bouffe & Restos|ancienne|Quel accompagnement choisis-tu avec une viande ?|Quel accompagnement demandes-tu à changer dans un menu ?
+bouffe-107|Bouffe & Restos|ancienne|Quel plat trouves-tu toujours décevant au restaurant ?|Quel plat trouves-tu trop cher au restaurant ?
+bouffe-113|Bouffe & Restos|ancienne|Quel plat choisis-tu dans une brasserie ?|Quel plat choisis-tu dans un restaurant d’autoroute ?
+bouffe-114|Bouffe & Restos|ancienne|Quelle pizza commandes-tu à la pizzeria ?|Quelle pizza surgelée achètes-tu ?
+bouffe-118|Bouffe & Restos|ancienne|Combien de minutes peux-tu attendre ta livraison ?|Combien de minutes mets-tu à choisir sur l’appli de livraison ?
+bouffe-122|Bouffe & Restos|ancienne|Combien d’euros coûte une portion de frites au fast-food ?|Combien d’euros coûte un kebab frites ?
+bouffe-128|Bouffe & Restos|ancienne|Quel pays a la meilleure cuisine du monde ?|Dans quel pays voudrais-tu voyager uniquement pour manger ?
+bouffe-148|Bouffe & Restos|ancienne|Quel en-cas salé préfères-tu ?|Quel en-cas salé ressors-tu pour l’apéro ?
+bouffe-156|Bouffe & Restos|ancienne|À quel moment de la journée grignotes-tu le plus ?|À quel moment de la journée as-tu le plus faim ?
+bouffe-177|Bouffe & Restos|ancienne|Quel dessert est meilleur fait maison ?|Quel dessert vaut-il mieux acheter que faire soi-même ?
+bouffe-187|Bouffe & Restos|ancienne|Combien d’euros coûte une pâtisserie individuelle selon toi ?|Combien d’euros coûte un grand gâteau pour six selon toi ?
+bouffe-195|Bouffe & Restos|ancienne|Quel amuse-bouche sers-tu à l’apéro ?|Quel amuse-bouche manges-tu en premier dans un buffet ?
+bouffe-198|Bouffe & Restos|ancienne|Que préfères-tu manger au barbecue ?|Que rates-tu toujours au barbecue ?
+bouffe-201|Bouffe & Restos|ancienne|Combien de tranches de fromage à raclette manges-tu ?|Combien de pommes de terre manges-tu avec une raclette ?
+bouffe-210|Bouffe & Restos|ancienne|Combien de sandwichs prépares-tu pour un pique-nique à quatre ?|Combien de paquets de chips faut-il pour un pique-nique à six ?
+bouffe-224|Bouffe & Restos|ancienne|Combien de pots de sauce entamés y a-t-il dans ton frigo ?|Combien de sortes de fromage y a-t-il dans ton frigo ?
+bouffe-225|Bouffe & Restos|ancienne|Quel aliment ne mets-tu jamais au frigo ?|Quel aliment met-on au frigo alors qu’il ne faudrait pas ?
+bouffe-226|Bouffe & Restos|ancienne|Combien de minutes réchauffes-tu une assiette au micro-ondes ?|Combien de minutes réchauffes-tu un bol de soupe au micro-ondes ?
+bouffe-227|Bouffe & Restos|ancienne|Quel soda commandes-tu au fast-food ?|Quel soda bois-tu pendant un film ?
+bouffe-235|Bouffe & Restos|ancienne|À quelle heure prends-tu un café au travail ?|À quelle heure prends-tu un chocolat chaud en hiver ?
+bouffe-239|Bouffe & Restos|ancienne|Combien de fois te ressers-tu quand c’est bon ?|Combien de serviettes utilises-tu pour manger des ailes de poulet ?
+bouffe-241|Bouffe & Restos|ancienne|Combien de minutes mets-tu à finir ton assiette ?|Combien de minutes restes-tu à table après avoir fini ?
+bouffe-242|Bouffe & Restos|ancienne|Quel aliment recouvres-tu de fromage râpé ?|Quel aliment noies-tu sous la sauce ?
+bouffe-254|Bouffe & Restos|ancienne|Combien de paquets de pâtes as-tu dans ton placard ?|Combien de boîtes de conserve as-tu dans ton placard ?
+bouffe-256|Bouffe & Restos|ancienne|Quelle recette as-tu apprise sur internet ?|Quelle recette t’a apprise quelqu’un de ta famille ?
+bouffe-264|Bouffe & Restos|ancienne|Combien coûte un kilo de tomates selon toi ?|Combien coûte un kilo de cerises selon toi ?
+bouffe-280|Bouffe & Restos|ancienne|Combien de glaces manges-tu pendant une semaine de vacances ?|Combien de restaurants fais-tu pendant une semaine de vacances ?
+bouffe-282|Bouffe & Restos|ancienne|Que manges-tu à la fête foraine ?|Que manges-tu au stade ou en concert ?
+bouffe-285|Bouffe & Restos|ancienne|Combien coûte une barbe à papa selon toi ?|Combien coûte une crêpe au sucre dans la rue selon toi ?
+bouffe-297|Bouffe & Restos|ancienne|Combien de pizzas faut-il commander pour six personnes ?|Combien de baguettes faut-il acheter pour dix personnes ?
+bouffe-300|Bouffe & Restos|ancienne|À quel âge un enfant peut-il faire des crêpes seul ?|À quel âge peut-on laisser un enfant utiliser un couteau de cuisine ?
+bouffe-308|Bouffe & Restos|ancienne|Quel métier de la restauration est le plus dur ?|Quel métier de la restauration testerais-tu pendant une journée ?
+bouffe-310|Bouffe & Restos|ancienne|Quel objet de cuisine offrirais-tu à quelqu’un qui emménage ?|Quel objet de cuisine as-tu en double ?
+bouffe-314|Bouffe & Restos|ancienne|Quel poisson manges-tu le plus souvent ?|Quel poisson commandes-tu au bord de la mer ?
+bouffe-319|Bouffe & Restos|ancienne|Combien de soirs par semaine cuisines-tu vraiment ?|Combien de soirs par semaine manges-tu devant un écran ?
+bouffe-323|Bouffe & Restos|ancienne|Combien coûte un dîner fait maison pour deux selon toi ?|Combien coûte un plat à emporter pour deux selon toi ?
+bouffe-325|Bouffe & Restos|ancienne|Quelle sauce fais-tu toi-même ?|Quelle sauce achètes-tu toute prête ?
+bouffe-328|Bouffe & Restos|ancienne|Où manges-tu le soir quand tu es seul ?|Où manges-tu le soir quand tu reçois un ami ?
+bouffe-332|Bouffe & Restos|ancienne|Par quel rayon commences-tu au supermarché ?|Dans quel rayon traînes-tu le plus longtemps au supermarché ?
+bouffe-333|Bouffe & Restos|ancienne|Quel produit mets-tu dans le chariot sans regarder le prix ?|Quel produit mets-tu dans le chariot sans qu’il soit sur la liste ?
+bouffe-334|Bouffe & Restos|ancienne|À combien estimes-tu un pot de pâte à tartiner ?|À combien estimes-tu un paquet de café moulu ?
+bouffe-341|Bouffe & Restos|ancienne|À quelle heure le supermarché est-il le plus calme selon toi ?|À quelle heure le marché est-il le plus animé selon toi ?
+bouffe-343|Bouffe & Restos|ancienne|Quelle phrase dis-tu en voyant le total à la caisse ?|Quelle phrase dis-tu en ouvrant un frigo vide ?
+bouffe-346|Bouffe & Restos|ancienne|Combien laisses-tu de pourboire après un bon repas ?|Combien coûte un dessert au restaurant selon toi ?
+bouffe-349|Bouffe & Restos|ancienne|Combien de minutes attends-tu avant de rappeler le serveur ?|Combien de minutes attends-tu une table sans réservation ?
+bouffe-352|Bouffe & Restos|ancienne|Quel dessert partages-tu à plusieurs cuillères ?|Quel dessert refuses-tu de partager ?
+bouffe-353|Bouffe & Restos|ancienne|Combien de personnes faut-il pour une bonne tablée au resto ?|Combien de personnes invites-tu pour fêter ton anniversaire au resto ?
+bouffe-358|Bouffe & Restos|ancienne|À partir de quel prix un burger te paraît-il cher ?|À partir de quel prix une pizza te paraît-elle chère ?
+bouffe-360|Bouffe & Restos|ancienne|À quelle heure réserves-tu une table le samedi soir ?|À quelle heure ferme la cuisine d’un restaurant selon toi ?
+bouffe-380|Bouffe & Restos|ancienne|Quelle street food mangerais-tu tous les jours ?|Quelle street food t’a déçu la première fois ?
+bouffe-384|Bouffe & Restos|ancienne|Que prends-tu à la place des frites dans un menu ?|Que prends-tu en plus des frites quand tu as très faim ?
+bouffe-385|Bouffe & Restos|ancienne|Quelle occasion justifie un fast-food selon toi ?|Quelle occasion justifie une pizza livrée selon toi ?
+bouffe-392|Bouffe & Restos|ancienne|Quel snack achètes-tu dans un distributeur ?|Quel snack achètes-tu dans une station-service ?
+bouffe-393|Bouffe & Restos|ancienne|Quelle appli ouvres-tu pour trouver une recette ?|Quelle appli ouvres-tu pour commander à manger ?
+bouffe-397|Bouffe & Restos|ancienne|Combien de bols de céréales peux-tu enchaîner ?|Combien de gaufres peux-tu enchaîner au goûter ?
+bouffe-398|Bouffe & Restos|ancienne|En combien de minutes avales-tu ton petit-déjeuner quand tu es en retard ?|En combien de minutes bois-tu ton café du matin ?
+bouffe-403|Bouffe & Restos|ancienne|Que bois-tu au réveil avant tout le reste ?|Que bois-tu en premier en arrivant au travail ou en cours ?
+bouffe-409|Bouffe & Restos|ancienne|Combien coûte un brunch correct selon toi ?|Combien coûte un petit-déjeuner à l’hôtel selon toi ?
+bouffe-416|Bouffe & Restos|ancienne|Quel parfum d’éclair choisis-tu ?|Quel parfum de tarte choisis-tu en part individuelle ?
+bouffe-417|Bouffe & Restos|ancienne|Combien de pains au chocolat achètes-tu pour toi seul ?|Combien de chouquettes manges-tu sur le chemin du retour ?
+bouffe-419|Bouffe & Restos|ancienne|Combien coûte un éclair au chocolat selon toi ?|Combien coûte une part de flan selon toi ?
+bouffe-425|Bouffe & Restos|ancienne|Combien de sortes de pain propose ta boulangerie ?|Combien de gâteaux différents vois-tu en vitrine ?
+bouffe-431|Bouffe & Restos|ancienne|Où ranges-tu le pain chez toi ?|Où ranges-tu les gâteaux secs chez toi ?
+bouffe-434|Bouffe & Restos|ancienne|Combien de baguettes achète-t-on pour un repas à huit ?|Combien de baguettes achète-t-on pour un barbecue à huit ?
+bouffe-435|Bouffe & Restos|ancienne|Quelle phrase dis-tu à la boulangère ?|Quelle phrase dis-tu au caissier du supermarché ?
+bouffe-441|Bouffe & Restos|ancienne|Combien de pincées de sel mets-tu dans l’eau des pâtes ?|Combien de cuillères de sucre mets-tu dans une pâte à crêpes ?
+bouffe-455|Bouffe & Restos|ancienne|Combien de recettes as-tu enregistrées sans jamais les faire ?|Combien de recettes as-tu testées ce mois-ci ?
+bouffe-456|Bouffe & Restos|ancienne|Que mets-tu en premier dans ton panier au marché ?|Que mets-tu en premier dans ton chariot au supermarché ?
+bouffe-457|Bouffe & Restos|ancienne|Combien de stands fais-tu au marché avant d’acheter ?|Combien de rayons traverses-tu pour trouver un seul produit ?
+bouffe-460|Bouffe & Restos|ancienne|Combien de minutes fais-tu la queue à la caisse sans râler ?|Combien de minutes fais-tu la queue chez le fromager ?
+bouffe-473|Bouffe & Restos|ancienne|Combien coûtent les courses d’une semaine pour une personne ?|Combien coûtent les courses d’une semaine pour quatre personnes ?
+bouffe-476|Bouffe & Restos|ancienne|Que réponds-tu quand le serveur demande si tout va bien ?|Que réponds-tu quand le serveur demande si tu as choisi ?
+bouffe-477|Bouffe & Restos|ancienne|Combien de minutes attends-tu avant d’appeler le serveur ?|Combien de minutes attends-tu ton dessert au restaurant ?
+bouffe-486|Bouffe & Restos|ancienne|Quelle remarque fais-tu en voyant l’addition ?|Quelle remarque fais-tu en voyant la taille de l’assiette ?
+bouffe-489|Bouffe & Restos|ancienne|Quel objet de table manque toujours au restaurant ?|Quel objet de table demandes-tu toujours en plus ?
+bouffe-519|Bouffe & Restos|ancienne|Combien de pots de moutarde as-tu chez toi ?|Combien de bouteilles de sauce piquante as-tu chez toi ?
+bouffe-520|Bouffe & Restos|ancienne|Quelle herbe fraîche parsèmes-tu sur des tomates ?|Quelle herbe fraîche parsèmes-tu sur un poisson ?
+bouffe-544|Bouffe & Restos|ancienne|Combien coûte une boîte de macarons selon toi ?|Combien coûte un pot de glace artisanale selon toi ?
+bouffe-552|Bouffe & Restos|ancienne|Combien de fromages faut-il sur un bon plateau ?|Combien de fromages différents peux-tu citer ?
+bouffe-560|Bouffe & Restos|ancienne|Comment décrirais-tu l’odeur d’un vieux fromage ?|Comment décrirais-tu l’odeur d’un marché le matin ?
+bouffe-563|Bouffe & Restos|ancienne|Quel produit du terroir offrirais-tu en cadeau ?|Quel produit du terroir achètes-tu sur une aire d’autoroute ?
+bouffe-572|Bouffe & Restos|ancienne|Combien de bananes achètes-tu d’un coup ?|Combien de pommes achètes-tu d’un coup ?
+bouffe-612|Bouffe & Restos|ancienne|Combien coûte un paquet de chips selon toi ?|Combien coûte un paquet de cacahuètes selon toi ?
+bouffe-618|Bouffe & Restos|ancienne|Que dis-tu quand quelqu’un finit le paquet de chips ?|Que dis-tu quand quelqu’un prend la dernière part ?
+bouffe-620|Bouffe & Restos|ancienne|Combien de personnes faut-il pour finir une grande pizza ?|Combien de personnes faut-il pour finir un saladier de chips ?
+bouffe-623|Bouffe & Restos|ancienne|Combien de fois te ressert-on à un repas de famille ?|Combien de plats goûtes-tu à un repas de famille ?
+bouffe-624|Bouffe & Restos|ancienne|Quelle phrase entend-on toujours à un repas de famille ?|Quelle phrase entend-on toujours en fin de repas ?
+bouffe-626|Bouffe & Restos|ancienne|Combien de minutes faut-il pour passer à table quand le repas est prêt ?|Combien de minutes faut-il pour débarrasser après un repas de famille ?
+bouffe-629|Bouffe & Restos|ancienne|Qui se ressert toujours en premier à table ?|Qui finit toujours les plats à table ?
+bouffe-633|Bouffe & Restos|ancienne|Combien de fois entend-on « à table » avant que tout le monde vienne ?|Combien de fois propose-t-on du rab à table ?
+bouffe-638|Bouffe & Restos|ancienne|Qui raconte toujours la même histoire à table ?|Qui donne toujours son avis sur la cuisine à table ?
+bouffe-640|Bouffe & Restos|ancienne|Combien de générations se retrouvent autour de ta table ?|Combien de chaises ajoute-t-on pour les grands repas ?
+bouffe-647|Bouffe & Restos|ancienne|Combien coûte un jus d’orange pressé en terrasse ?|Combien coûte un thé en terrasse selon toi ?
+bouffe-656|Bouffe & Restos|ancienne|Quelle boisson accompagne le mieux une crêpe ?|Quelle boisson accompagne le mieux une part de pizza ?
+bouffe-681|Bouffe & Restos|ancienne|Quel plat aimes-tu manger froid le lendemain ?|Quel plat est meilleur réchauffé ?
+bouffe-682|Bouffe & Restos|nouvelle|Combien de fois par an as-tu l’occasion de tester une recette trouvée en ligne ?|Combien de fois par an as-tu l’occasion de préparer une planche apéritive ?
+bouffe-683|Bouffe & Restos|nouvelle|Combien de fois par mois as-tu l’occasion d’organiser un pique-nique gourmand ?|Combien de fois par mois as-tu l’occasion de dresser une table pour six ?
+bouffe-684|Bouffe & Restos|nouvelle|Jusqu’à combien paierais-tu pour un brunch complet pour une personne dans un café ?|Jusqu’à combien paierais-tu pour un gâteau d’anniversaire artisanal ?
+bouffe-685|Bouffe & Restos|nouvelle|Combien de fois par mois as-tu l’occasion de préparer un dessert sans cuisson ?|Combien de fois par mois as-tu l’occasion de réchauffer un plat de la veille ?
+bouffe-686|Bouffe & Restos|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un panier de trois kilos de fruits de saison ?|Au-delà de quel prix hésiterais-tu à acheter un plat de pâtes au restaurant ?
+bouffe-687|Bouffe & Restos|nouvelle|Combien de fois par an as-tu l’occasion de préparer un petit-déjeuner au lit ?|Combien de fois par an as-tu l’occasion de choisir un restaurant pour quatre ?
+bouffe-688|Bouffe & Restos|nouvelle|Qu’est-ce qui te pousserait à acheter un kilo de fraises en saison ?|Qu’est-ce qui te pousserait à acheter un bon fromage affiné ?
+bouffe-689|Bouffe & Restos|nouvelle|Combien de temps prévoirais-tu pour préparer une planche apéritive ?|Combien de temps prévoirais-tu pour préparer un déjeuner à emporter ?
+bouffe-690|Bouffe & Restos|nouvelle|Qu’est-ce que tu ferais en premier si ton plat arrive froid au restaurant ?|Qu’est-ce que tu ferais en premier si on t’invite à dîner alors que tu as déjà mangé ?
+bouffe-691|Bouffe & Restos|nouvelle|Quel moment de la journée choisirais-tu pour préparer une vinaigrette maison ?|Quel moment de la journée choisirais-tu pour découper des légumes pour le dîner ?
+bouffe-692|Bouffe & Restos|nouvelle|Quelle serait ta première réaction si le restaurant refuse de modifier une recette ?|Quelle serait ta première réaction si tu brûles légèrement le gâteau ?
+bouffe-693|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un plat de pâtes au restaurant ?|Combien serais-tu prêt à dépenser pour un assortiment de six pâtisseries individuelles ?
+bouffe-694|Bouffe & Restos|nouvelle|Quelle personne de ton entourage pourrait t’aider à choisir une recette pour le soir ?|Quelle personne de ton entourage pourrait t’aider à faire une liste de courses ?
+bouffe-695|Bouffe & Restos|nouvelle|Où irais-tu pour acheter un smoothie frais ?|Où irais-tu pour acheter une salade composée au restaurant ?
+bouffe-696|Bouffe & Restos|nouvelle|Qui contacterais-tu pour t’aider à préparer un dessert sans cuisson ?|Qui contacterais-tu pour t’aider à réchauffer un plat de la veille ?
+bouffe-697|Bouffe & Restos|nouvelle|À quelle fréquence aimerais-tu préparer une planche apéritive ?|À quelle fréquence aimerais-tu préparer un déjeuner à emporter ?
+bouffe-698|Bouffe & Restos|nouvelle|Où chercherais-tu un paquet de 250 g de café de spécialité en premier ?|Où chercherais-tu une tablette de chocolat artisanal en premier ?
+bouffe-699|Bouffe & Restos|nouvelle|Combien penses-tu que vaut un plat de pâtes au restaurant ?|Combien penses-tu que vaut un assortiment de six pâtisseries individuelles ?
+bouffe-700|Bouffe & Restos|nouvelle|Qu’est-ce que tu dirais sur le moment si ton collègue critique ton déjeuner ?|Qu’est-ce que tu dirais sur le moment si le serveur apporte le mauvais dessert ?
+bouffe-701|Bouffe & Restos|nouvelle|Qui pourrait te donner le meilleur conseil pour faire une soupe maison ?|Qui pourrait te donner le meilleur conseil pour préparer une salade de fruits ?
+bouffe-702|Bouffe & Restos|nouvelle|Selon toi, quel est le prix d’une boîte de douze macarons ?|Selon toi, quel est le prix d’un repas livré pour deux ?
+bouffe-703|Bouffe & Restos|nouvelle|Pour quelle occasion voudrais-tu acheter un bon fromage affiné ?|Pour quelle occasion voudrais-tu acheter un paquet de 250 g de café de spécialité ?
+bouffe-704|Bouffe & Restos|nouvelle|Qu’est-ce qui te pousserait à acheter une bonne pizza à emporter ?|Qu’est-ce qui te pousserait à acheter un plateau de trente sushis à emporter ?
+bouffe-705|Bouffe & Restos|nouvelle|Jusqu’à combien paierais-tu pour une bouteille d’huile d’olive de qualité ?|Jusqu’à combien paierais-tu pour un kilo de fraises en saison ?
+bouffe-706|Bouffe & Restos|nouvelle|Que dirais-tu si ton plat arrive froid au restaurant ?|Que dirais-tu si on t’invite à dîner alors que tu as déjà mangé ?
+bouffe-707|Bouffe & Restos|nouvelle|Selon toi, quel est le prix d’un plateau de trente sushis à emporter ?|Selon toi, quel est le prix d’un burger végétarien ?
+bouffe-708|Bouffe & Restos|nouvelle|Quelle phrase sortirait de ta bouche si on te demande la recette de ton plat ?|Quelle phrase sortirait de ta bouche si un invité arrive avec un dessert supplémentaire ?
+bouffe-709|Bouffe & Restos|nouvelle|À quelle fréquence aimerais-tu faire une liste de courses ?|À quelle fréquence aimerais-tu préparer un dessert sans cuisson ?
+bouffe-710|Bouffe & Restos|nouvelle|Combien de fois par mois as-tu l’occasion de préparer un déjeuner à emporter ?|Combien de fois par mois as-tu l’occasion de cuisiner un plat pour des invités ?
+bouffe-711|Bouffe & Restos|nouvelle|Quelle serait ta première réaction si un invité annonce une allergie alimentaire ?|Quelle serait ta première réaction si un ami veut partager tous les plats ?
+bouffe-712|Bouffe & Restos|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un brunch complet pour une personne dans un café ?|Sur quel site ou dans quel magasin chercherais-tu un gâteau d’anniversaire artisanal ?
+bouffe-713|Bouffe & Restos|nouvelle|À qui demanderais-tu de l’aide pour cuisiner des pâtes pour plusieurs ?|À qui demanderais-tu de l’aide pour faire des courses pour un dîner ?
+bouffe-714|Bouffe & Restos|nouvelle|À quel moment de la semaine préférerais-tu préparer un dessert sans cuisson ?|À quel moment de la semaine préférerais-tu réchauffer un plat de la veille ?
+bouffe-715|Bouffe & Restos|nouvelle|Combien penses-tu que vaut une salade composée au restaurant ?|Combien penses-tu que vaut une crêpe salée complète ?
+bouffe-716|Bouffe & Restos|nouvelle|Qui pourrait te donner le meilleur conseil pour dresser une table pour six ?|Qui pourrait te donner le meilleur conseil pour préparer un petit-déjeuner au lit ?
+bouffe-717|Bouffe & Restos|nouvelle|Qu’est-ce que tu ferais en premier si tu brûles légèrement le gâteau ?|Qu’est-ce que tu ferais en premier si on te demande la recette de ton plat ?
+bouffe-718|Bouffe & Restos|nouvelle|En combien de temps pourrais-tu tester une recette trouvée en ligne ?|En combien de temps pourrais-tu préparer une planche apéritive ?
+bouffe-719|Bouffe & Restos|nouvelle|Que dirais-tu si le serveur apporte le mauvais dessert ?|Que dirais-tu si ton ami dit que ton plat est trop épicé ?
+bouffe-720|Bouffe & Restos|nouvelle|À quelle fréquence t’arrive-t-il de réchauffer un plat de la veille ?|À quelle fréquence t’arrive-t-il de préparer une vinaigrette maison ?
+bouffe-721|Bouffe & Restos|nouvelle|Quelle personne de ton entourage pourrait t’aider à tester une recette trouvée en ligne ?|Quelle personne de ton entourage pourrait t’aider à préparer une planche apéritive ?
+bouffe-722|Bouffe & Restos|nouvelle|En combien de temps pourrais-tu préparer un petit-déjeuner au lit ?|En combien de temps pourrais-tu choisir un restaurant pour quatre ?
+bouffe-723|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un burger végétarien ?|Combien serais-tu prêt à dépenser pour un brunch complet pour une personne dans un café ?
+bouffe-724|Bouffe & Restos|nouvelle|À quel endroit irais-tu pour trouver un bocal de pâte à tartiner ?|À quel endroit irais-tu pour trouver un panier de trois kilos de fruits de saison ?
+bouffe-725|Bouffe & Restos|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer une vinaigrette maison ?|Quelle personne de ton entourage pourrait t’aider à découper des légumes pour le dîner ?
+bouffe-726|Bouffe & Restos|nouvelle|Selon toi, quel est le prix d’un panier de trois kilos de fruits de saison ?|Selon toi, quel est le prix d’un plat de pâtes au restaurant ?
+bouffe-727|Bouffe & Restos|nouvelle|Qui contacterais-tu pour t’aider à faire des courses pour un dîner ?|Qui contacterais-tu pour t’aider à préparer un goûter pour des enfants ?
+bouffe-728|Bouffe & Restos|nouvelle|À ton avis, combien coûte un kilo de fraises en saison ?|À ton avis, combien coûte un bon fromage affiné ?
+bouffe-729|Bouffe & Restos|nouvelle|Que dirais-tu si ton ami veut manger à 18 heures ?|Que dirais-tu si on te sert une portion beaucoup trop grande ?
+bouffe-730|Bouffe & Restos|nouvelle|Quel créneau de la journée serait le plus pratique pour faire une liste de courses ?|Quel créneau de la journée serait le plus pratique pour préparer un dessert sans cuisson ?
+bouffe-731|Bouffe & Restos|nouvelle|À quelle fréquence t’arrive-t-il de faire une soupe maison ?|À quelle fréquence t’arrive-t-il de préparer une salade de fruits ?
+bouffe-732|Bouffe & Restos|nouvelle|À quel moment aurais-tu envie d’acheter un brunch complet pour une personne dans un café ?|À quel moment aurais-tu envie d’acheter un gâteau d’anniversaire artisanal ?
+bouffe-733|Bouffe & Restos|nouvelle|À quelle fréquence aimerais-tu choisir un restaurant pour quatre ?|À quelle fréquence aimerais-tu préparer un gâteau au chocolat ?
+bouffe-734|Bouffe & Restos|nouvelle|Qui contacterais-tu pour t’aider à préparer un déjeuner à emporter ?|Qui contacterais-tu pour t’aider à cuisiner un plat pour des invités ?
+bouffe-735|Bouffe & Restos|nouvelle|Dans quelle situation déciderais-tu d’acheter un paquet de 250 g de café de spécialité ?|Dans quelle situation déciderais-tu d’acheter une tablette de chocolat artisanal ?
+bouffe-736|Bouffe & Restos|nouvelle|En combien de temps pourrais-tu choisir une recette pour le soir ?|En combien de temps pourrais-tu faire une liste de courses ?
+bouffe-737|Bouffe & Restos|nouvelle|Qu’est-ce que tu ferais en premier si un ami veut partager tous les plats ?|Qu’est-ce que tu ferais en premier si tu découvres un cheveu dans ton assiette ?
+bouffe-738|Bouffe & Restos|nouvelle|À quel endroit irais-tu pour trouver un gâteau d’anniversaire artisanal ?|À quel endroit irais-tu pour trouver une boîte de douze macarons ?
+bouffe-739|Bouffe & Restos|nouvelle|Quelle phrase sortirait de ta bouche si on te sert une portion beaucoup trop grande ?|Quelle phrase sortirait de ta bouche si tu dois commander sans voir le menu ?
+bouffe-740|Bouffe & Restos|nouvelle|Combien de fois par an as-tu l’occasion de choisir une recette pour le soir ?|Combien de fois par an as-tu l’occasion de faire une liste de courses ?
+bouffe-741|Bouffe & Restos|nouvelle|Combien penses-tu que vaut un repas livré pour deux ?|Combien penses-tu que vaut une bouteille d’huile d’olive de qualité ?
+bouffe-742|Bouffe & Restos|nouvelle|À qui demanderais-tu de l’aide pour faire une liste de courses ?|À qui demanderais-tu de l’aide pour préparer un dessert sans cuisson ?
+bouffe-743|Bouffe & Restos|nouvelle|Comment réagirais-tu si ton ami dit que ton plat est trop épicé ?|Comment réagirais-tu s’il manque l’ingrédient principal de ta recette ?
+bouffe-744|Bouffe & Restos|nouvelle|Qui contacterais-tu pour t’aider à organiser un pique-nique gourmand ?|Qui contacterais-tu pour t’aider à dresser une table pour six ?
+bouffe-745|Bouffe & Restos|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer un goûter pour des enfants ?|Qui pourrait te donner le meilleur conseil pour tester une recette trouvée en ligne ?
+bouffe-746|Bouffe & Restos|nouvelle|Jusqu’à combien paierais-tu pour une crêpe salée complète ?|Jusqu’à combien paierais-tu pour un bocal de pâte à tartiner ?
+bouffe-747|Bouffe & Restos|nouvelle|Pour quelle occasion voudrais-tu acheter un panier de trois kilos de fruits de saison ?|Pour quelle occasion voudrais-tu acheter un plat de pâtes au restaurant ?
+bouffe-748|Bouffe & Restos|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un assortiment de six pâtisseries individuelles ?|Sur quel site ou dans quel magasin chercherais-tu une bonne pizza à emporter ?
+bouffe-749|Bouffe & Restos|nouvelle|Selon toi, quel est le prix d’un bon fromage affiné ?|Selon toi, quel est le prix d’un paquet de 250 g de café de spécialité ?
+bouffe-750|Bouffe & Restos|nouvelle|Quel moment de la journée choisirais-tu pour tester une recette trouvée en ligne ?|Quel moment de la journée choisirais-tu pour préparer une planche apéritive ?
+bouffe-751|Bouffe & Restos|nouvelle|À qui demanderais-tu de l’aide pour découper des légumes pour le dîner ?|À qui demanderais-tu de l’aide pour organiser un pique-nique gourmand ?
+bouffe-752|Bouffe & Restos|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une tablette de chocolat artisanal ?|Sur quel site ou dans quel magasin chercherais-tu une portion de frites maison ?
+bouffe-753|Bouffe & Restos|nouvelle|Quel serait le meilleur moment pour dresser une table pour six ?|Quel serait le meilleur moment pour préparer un petit-déjeuner au lit ?
+bouffe-754|Bouffe & Restos|nouvelle|Quel créneau de la journée serait le plus pratique pour découper des légumes pour le dîner ?|Quel créneau de la journée serait le plus pratique pour organiser un pique-nique gourmand ?
+bouffe-755|Bouffe & Restos|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un smoothie frais ?|Au-delà de quel prix hésiterais-tu à acheter une salade composée au restaurant ?
+bouffe-756|Bouffe & Restos|nouvelle|Comment réagirais-tu si on t’invite à dîner alors que tu as déjà mangé ?|Comment réagirais-tu si quelqu’un met du ketchup sur ton plat préféré ?
+bouffe-757|Bouffe & Restos|nouvelle|À ton avis, combien de temps faut-il pour faire une soupe maison ?|À ton avis, combien de temps faut-il pour préparer une salade de fruits ?
+bouffe-758|Bouffe & Restos|nouvelle|Quel budget maximal prévoirais-tu pour une bonne pizza à emporter ?|Quel budget maximal prévoirais-tu pour un plateau de trente sushis à emporter ?
+bouffe-759|Bouffe & Restos|nouvelle|Qu’est-ce que tu dirais sur le moment si on te propose de goûter un aliment inconnu ?|Qu’est-ce que tu dirais sur le moment si ton plat arrive froid au restaurant ?
+bouffe-760|Bouffe & Restos|nouvelle|Quel prix imagines-tu pour un assortiment de six pâtisseries individuelles ?|Quel prix imagines-tu pour une bonne pizza à emporter ?
+bouffe-761|Bouffe & Restos|nouvelle|Où irais-tu pour acheter un bon fromage affiné ?|Où irais-tu pour acheter un paquet de 250 g de café de spécialité ?
+bouffe-762|Bouffe & Restos|nouvelle|Quelle serait ta première réaction si le livreur a oublié une partie de la commande ?|Quelle serait ta première réaction si ton ami veut manger à 18 heures ?
+bouffe-763|Bouffe & Restos|nouvelle|À quel endroit irais-tu pour trouver une portion de frites maison ?|À quel endroit irais-tu pour trouver un smoothie frais ?
+bouffe-764|Bouffe & Restos|nouvelle|À quel moment de la semaine préférerais-tu préparer un déjeuner à emporter ?|À quel moment de la semaine préférerais-tu cuisiner un plat pour des invités ?
+bouffe-765|Bouffe & Restos|nouvelle|Dans quelle situation déciderais-tu d’acheter un plat de pâtes au restaurant ?|Dans quelle situation déciderais-tu d’acheter un assortiment de six pâtisseries individuelles ?
+bouffe-766|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si tu dois commander sans voir le menu ?|Quel serait ton premier réflexe si ton collègue critique ton déjeuner ?
+bouffe-767|Bouffe & Restos|nouvelle|Comment réagirais-tu si tu découvres un cheveu dans ton assiette ?|Comment réagirais-tu si un ami te demande de choisir pour lui ?
+bouffe-768|Bouffe & Restos|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer une salade de fruits ?|Quelle personne de ton entourage pourrait t’aider à cuisiner des pâtes pour plusieurs ?
+bouffe-769|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si quelqu’un met du ketchup sur ton plat préféré ?|Quel serait ton premier réflexe si un invité annonce une allergie alimentaire ?
+bouffe-770|Bouffe & Restos|nouvelle|Quel créneau de la journée serait le plus pratique pour cuisiner des pâtes pour plusieurs ?|Quel créneau de la journée serait le plus pratique pour faire des courses pour un dîner ?
+bouffe-771|Bouffe & Restos|nouvelle|Combien de temps te faudrait-il pour préparer un gâteau au chocolat ?|Combien de temps te faudrait-il pour faire une soupe maison ?
+bouffe-772|Bouffe & Restos|nouvelle|Combien de temps te faudrait-il pour préparer un dessert sans cuisson ?|Combien de temps te faudrait-il pour réchauffer un plat de la veille ?
+bouffe-773|Bouffe & Restos|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir un restaurant pour quatre ?|Quel créneau de la journée serait le plus pratique pour préparer un gâteau au chocolat ?
+bouffe-774|Bouffe & Restos|nouvelle|Qu’est-ce que tu ferais en premier si ton ami veut manger à 18 heures ?|Qu’est-ce que tu ferais en premier si on te sert une portion beaucoup trop grande ?
+bouffe-775|Bouffe & Restos|nouvelle|Quel budget maximal prévoirais-tu pour une portion de frites maison ?|Quel budget maximal prévoirais-tu pour un smoothie frais ?
+bouffe-776|Bouffe & Restos|nouvelle|Quel budget maximal prévoirais-tu pour un bocal de pâte à tartiner ?|Quel budget maximal prévoirais-tu pour un panier de trois kilos de fruits de saison ?
+bouffe-777|Bouffe & Restos|nouvelle|Combien de fois par an as-tu l’occasion de préparer une vinaigrette maison ?|Combien de fois par an as-tu l’occasion de découper des légumes pour le dîner ?
+bouffe-778|Bouffe & Restos|nouvelle|Où chercherais-tu un plat de pâtes au restaurant en premier ?|Où chercherais-tu un assortiment de six pâtisseries individuelles en premier ?
+bouffe-779|Bouffe & Restos|nouvelle|Quel serait le meilleur moment pour cuisiner un plat pour des invités ?|Quel serait le meilleur moment pour choisir une recette pour le soir ?
+bouffe-780|Bouffe & Restos|nouvelle|Quelle phrase sortirait de ta bouche si ton ami dit que ton plat est trop épicé ?|Quelle phrase sortirait de ta bouche s’il manque l’ingrédient principal de ta recette ?
+bouffe-781|Bouffe & Restos|nouvelle|En combien de temps pourrais-tu préparer une vinaigrette maison ?|En combien de temps pourrais-tu découper des légumes pour le dîner ?
+bouffe-782|Bouffe & Restos|nouvelle|Qu’est-ce qui te pousserait à acheter un bocal de pâte à tartiner ?|Qu’est-ce qui te pousserait à acheter un panier de trois kilos de fruits de saison ?
+bouffe-783|Bouffe & Restos|nouvelle|Quel moment de la journée choisirais-tu pour préparer une salade de fruits ?|Quel moment de la journée choisirais-tu pour cuisiner des pâtes pour plusieurs ?
+bouffe-784|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe s’il manque l’ingrédient principal de ta recette ?|Quel serait ton premier réflexe si on te propose de goûter un aliment inconnu ?
+bouffe-785|Bouffe & Restos|nouvelle|Où chercherais-tu un burger végétarien en premier ?|Où chercherais-tu un brunch complet pour une personne dans un café en premier ?
+bouffe-786|Bouffe & Restos|nouvelle|Combien de temps prévoirais-tu pour choisir un restaurant pour quatre ?|Combien de temps prévoirais-tu pour préparer un gâteau au chocolat ?
+bouffe-787|Bouffe & Restos|nouvelle|À ton avis, combien de temps faut-il pour dresser une table pour six ?|À ton avis, combien de temps faut-il pour préparer un petit-déjeuner au lit ?
+bouffe-788|Bouffe & Restos|nouvelle|À quel moment de la semaine préférerais-tu préparer un gâteau au chocolat ?|À quel moment de la semaine préférerais-tu faire une soupe maison ?
+bouffe-789|Bouffe & Restos|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une boîte de douze macarons ?|Au-delà de quel prix hésiterais-tu à acheter un repas livré pour deux ?
+bouffe-790|Bouffe & Restos|nouvelle|Quel prix imagines-tu pour un brunch complet pour une personne dans un café ?|Quel prix imagines-tu pour un gâteau d’anniversaire artisanal ?
+bouffe-791|Bouffe & Restos|nouvelle|Quel serait le meilleur moment pour préparer un goûter pour des enfants ?|Quel serait le meilleur moment pour tester une recette trouvée en ligne ?
+bouffe-792|Bouffe & Restos|nouvelle|À quelle fréquence t’arrive-t-il de cuisiner un plat pour des invités ?|À quelle fréquence t’arrive-t-il de choisir une recette pour le soir ?
+bouffe-793|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si un invité arrive avec un dessert supplémentaire ?|Quel serait ton premier réflexe si le livreur a oublié une partie de la commande ?
+bouffe-794|Bouffe & Restos|nouvelle|Quel moment de la journée choisirais-tu pour choisir une recette pour le soir ?|Quel moment de la journée choisirais-tu pour faire une liste de courses ?
+bouffe-795|Bouffe & Restos|nouvelle|À quel moment aurais-tu envie d’acheter un assortiment de six pâtisseries individuelles ?|À quel moment aurais-tu envie d’acheter une bonne pizza à emporter ?
+bouffe-796|Bouffe & Restos|nouvelle|À quel moment aurais-tu envie d’acheter une bouteille d’huile d’olive de qualité ?|À quel moment aurais-tu envie d’acheter un kilo de fraises en saison ?
+bouffe-797|Bouffe & Restos|nouvelle|Jusqu’à combien paierais-tu pour une tablette de chocolat artisanal ?|Jusqu’à combien paierais-tu pour une portion de frites maison ?
+bouffe-798|Bouffe & Restos|nouvelle|Quel moment de la journée choisirais-tu pour préparer un petit-déjeuner au lit ?|Quel moment de la journée choisirais-tu pour choisir un restaurant pour quatre ?
+bouffe-799|Bouffe & Restos|nouvelle|Où irais-tu pour acheter un plateau de trente sushis à emporter ?|Où irais-tu pour acheter un burger végétarien ?
+bouffe-800|Bouffe & Restos|nouvelle|Qu’est-ce qui te pousserait à acheter une portion de frites maison ?|Qu’est-ce qui te pousserait à acheter un smoothie frais ?
+bouffe-801|Bouffe & Restos|nouvelle|En combien de temps pourrais-tu préparer une salade de fruits ?|En combien de temps pourrais-tu cuisiner des pâtes pour plusieurs ?
+bouffe-802|Bouffe & Restos|nouvelle|À quel moment de la semaine préférerais-tu organiser un pique-nique gourmand ?|À quel moment de la semaine préférerais-tu dresser une table pour six ?
+bouffe-803|Bouffe & Restos|nouvelle|Qu’est-ce que tu dirais sur le moment si le livreur a oublié une partie de la commande ?|Qu’est-ce que tu dirais sur le moment si ton ami veut manger à 18 heures ?
+bouffe-804|Bouffe & Restos|nouvelle|Dans quelle situation déciderais-tu d’acheter une salade composée au restaurant ?|Dans quelle situation déciderais-tu d’acheter une crêpe salée complète ?
+bouffe-805|Bouffe & Restos|nouvelle|Quel budget maximal prévoirais-tu pour un gâteau d’anniversaire artisanal ?|Quel budget maximal prévoirais-tu pour une boîte de douze macarons ?
+bouffe-806|Bouffe & Restos|nouvelle|Que dirais-tu si un ami veut partager tous les plats ?|Que dirais-tu si tu découvres un cheveu dans ton assiette ?
+bouffe-807|Bouffe & Restos|nouvelle|Dans quelle situation déciderais-tu d’acheter un repas livré pour deux ?|Dans quelle situation déciderais-tu d’acheter une bouteille d’huile d’olive de qualité ?
+bouffe-808|Bouffe & Restos|nouvelle|À quel moment de la semaine préférerais-tu faire des courses pour un dîner ?|À quel moment de la semaine préférerais-tu préparer un goûter pour des enfants ?
+bouffe-809|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un repas livré pour deux ?|Combien serais-tu prêt à dépenser pour une bouteille d’huile d’olive de qualité ?
+bouffe-810|Bouffe & Restos|nouvelle|Quelle phrase sortirait de ta bouche si tu découvres un cheveu dans ton assiette ?|Quelle phrase sortirait de ta bouche si un ami te demande de choisir pour lui ?
+bouffe-811|Bouffe & Restos|nouvelle|À qui demanderais-tu de l’aide pour préparer une planche apéritive ?|À qui demanderais-tu de l’aide pour préparer un déjeuner à emporter ?
+bouffe-812|Bouffe & Restos|nouvelle|Qui contacterais-tu pour t’aider à préparer un gâteau au chocolat ?|Qui contacterais-tu pour t’aider à faire une soupe maison ?
+bouffe-813|Bouffe & Restos|nouvelle|Combien de temps te faudrait-il pour organiser un pique-nique gourmand ?|Combien de temps te faudrait-il pour dresser une table pour six ?
+bouffe-814|Bouffe & Restos|nouvelle|À ton avis, combien de temps faut-il pour préparer un goûter pour des enfants ?|À ton avis, combien de temps faut-il pour tester une recette trouvée en ligne ?
+bouffe-815|Bouffe & Restos|nouvelle|Quelle serait ta première réaction si on te propose de goûter un aliment inconnu ?|Quelle serait ta première réaction si ton plat arrive froid au restaurant ?
+bouffe-816|Bouffe & Restos|nouvelle|Comment répondrais-tu s’il manque l’ingrédient principal de ta recette ?|Comment répondrais-tu si on te propose de goûter un aliment inconnu ?
+bouffe-817|Bouffe & Restos|nouvelle|Quel prix imagines-tu pour une bouteille d’huile d’olive de qualité ?|Quel prix imagines-tu pour un kilo de fraises en saison ?
+bouffe-818|Bouffe & Restos|nouvelle|Comment répondrais-tu si quelqu’un met du ketchup sur ton plat préféré ?|Comment répondrais-tu si un invité annonce une allergie alimentaire ?
+bouffe-819|Bouffe & Restos|nouvelle|Selon toi, quel est le prix d’un smoothie frais ?|Selon toi, quel est le prix d’une salade composée au restaurant ?
+bouffe-820|Bouffe & Restos|nouvelle|Comment réagirais-tu si on te demande la recette de ton plat ?|Comment réagirais-tu si un invité arrive avec un dessert supplémentaire ?
+bouffe-821|Bouffe & Restos|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une bouteille d’huile d’olive de qualité ?|Sur quel site ou dans quel magasin chercherais-tu un kilo de fraises en saison ?
+bouffe-822|Bouffe & Restos|nouvelle|À quel endroit irais-tu pour trouver une bonne pizza à emporter ?|À quel endroit irais-tu pour trouver un plateau de trente sushis à emporter ?
+bouffe-823|Bouffe & Restos|nouvelle|À quel endroit irais-tu pour trouver un kilo de fraises en saison ?|À quel endroit irais-tu pour trouver un bon fromage affiné ?
+bouffe-824|Bouffe & Restos|nouvelle|Combien de fois par mois as-tu l’occasion de préparer un gâteau au chocolat ?|Combien de fois par mois as-tu l’occasion de faire une soupe maison ?
+bouffe-825|Bouffe & Restos|nouvelle|Combien penses-tu que vaut un paquet de 250 g de café de spécialité ?|Combien penses-tu que vaut une tablette de chocolat artisanal ?
+bouffe-826|Bouffe & Restos|nouvelle|Où chercherais-tu une salade composée au restaurant en premier ?|Où chercherais-tu une crêpe salée complète en premier ?
+bouffe-827|Bouffe & Restos|nouvelle|Combien de temps prévoirais-tu pour faire une liste de courses ?|Combien de temps prévoirais-tu pour préparer un dessert sans cuisson ?
+bouffe-828|Bouffe & Restos|nouvelle|Quel prix imagines-tu pour une tablette de chocolat artisanal ?|Quel prix imagines-tu pour une portion de frites maison ?
+bouffe-829|Bouffe & Restos|nouvelle|Quel budget maximal prévoirais-tu pour un kilo de fraises en saison ?|Quel budget maximal prévoirais-tu pour un bon fromage affiné ?
+bouffe-830|Bouffe & Restos|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer un petit-déjeuner au lit ?|Quelle personne de ton entourage pourrait t’aider à choisir un restaurant pour quatre ?
+bouffe-831|Bouffe & Restos|nouvelle|Pour quelle occasion voudrais-tu acheter un plateau de trente sushis à emporter ?|Pour quelle occasion voudrais-tu acheter un burger végétarien ?
+bouffe-832|Bouffe & Restos|nouvelle|Qu’est-ce qui te pousserait à acheter un gâteau d’anniversaire artisanal ?|Qu’est-ce qui te pousserait à acheter une boîte de douze macarons ?
+bouffe-833|Bouffe & Restos|nouvelle|Qu’est-ce que tu dirais sur le moment si le restaurant refuse de modifier une recette ?|Qu’est-ce que tu dirais sur le moment si tu brûles légèrement le gâteau ?
+bouffe-834|Bouffe & Restos|nouvelle|Combien de temps prévoirais-tu pour cuisiner des pâtes pour plusieurs ?|Combien de temps prévoirais-tu pour faire des courses pour un dîner ?
+bouffe-835|Bouffe & Restos|nouvelle|Qui pourrait te donner le meilleur conseil pour cuisiner un plat pour des invités ?|Qui pourrait te donner le meilleur conseil pour choisir une recette pour le soir ?
+bouffe-836|Bouffe & Restos|nouvelle|À quel moment aurais-tu envie d’acheter une tablette de chocolat artisanal ?|À quel moment aurais-tu envie d’acheter une portion de frites maison ?
+bouffe-837|Bouffe & Restos|nouvelle|Jusqu’à combien paierais-tu pour un assortiment de six pâtisseries individuelles ?|Jusqu’à combien paierais-tu pour une bonne pizza à emporter ?
+bouffe-838|Bouffe & Restos|nouvelle|Quel serait le meilleur moment pour réchauffer un plat de la veille ?|Quel serait le meilleur moment pour préparer une vinaigrette maison ?
+bouffe-839|Bouffe & Restos|nouvelle|Combien de fois par an as-tu l’occasion de préparer une salade de fruits ?|Combien de fois par an as-tu l’occasion de cuisiner des pâtes pour plusieurs ?
+bouffe-840|Bouffe & Restos|nouvelle|Combien penses-tu que vaut un burger végétarien ?|Combien penses-tu que vaut un brunch complet pour une personne dans un café ?
+bouffe-841|Bouffe & Restos|nouvelle|Qui pourrait te donner le meilleur conseil pour réchauffer un plat de la veille ?|Qui pourrait te donner le meilleur conseil pour préparer une vinaigrette maison ?
+bouffe-842|Bouffe & Restos|nouvelle|Où irais-tu pour acheter une boîte de douze macarons ?|Où irais-tu pour acheter un repas livré pour deux ?
+bouffe-843|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si un ami te demande de choisir pour lui ?|Quel serait ton premier réflexe si le restaurant refuse de modifier une recette ?
+bouffe-844|Bouffe & Restos|nouvelle|Combien de temps prévoirais-tu pour découper des légumes pour le dîner ?|Combien de temps prévoirais-tu pour organiser un pique-nique gourmand ?
+bouffe-845|Bouffe & Restos|nouvelle|À quelle fréquence t’arrive-t-il de dresser une table pour six ?|À quelle fréquence t’arrive-t-il de préparer un petit-déjeuner au lit ?
+bouffe-846|Bouffe & Restos|nouvelle|À ton avis, combien coûte un bocal de pâte à tartiner ?|À ton avis, combien coûte un panier de trois kilos de fruits de saison ?
+bouffe-847|Bouffe & Restos|nouvelle|Pour quelle occasion voudrais-tu acheter une boîte de douze macarons ?|Pour quelle occasion voudrais-tu acheter un repas livré pour deux ?
+bouffe-848|Bouffe & Restos|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un plateau de trente sushis à emporter ?|Au-delà de quel prix hésiterais-tu à acheter un burger végétarien ?
+bouffe-849|Bouffe & Restos|nouvelle|Combien de fois par mois as-tu l’occasion de faire des courses pour un dîner ?|Combien de fois par mois as-tu l’occasion de préparer un goûter pour des enfants ?
+bouffe-850|Bouffe & Restos|nouvelle|À quelle fréquence aimerais-tu découper des légumes pour le dîner ?|À quelle fréquence aimerais-tu organiser un pique-nique gourmand ?

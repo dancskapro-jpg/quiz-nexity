@@ -1,0 +1,605 @@
+classique-001|Classique|ancienne|Combien de minutes passes-tu sous la douche ?|Combien de minutes peux-tu attendre un bus sans t’énerver ?
+classique-002|Classique|ancienne|Combien de minutes te faut-il pour te préparer le matin ?|Combien de minutes passes-tu à choisir quoi regarder le soir ?
+classique-004|Classique|ancienne|À quelle heure te couches-tu un samedi soir ?|À quelle heure finit une soirée réussie selon toi ?
+classique-005|Classique|ancienne|Combien de fois par jour regardes-tu l’heure ?|Combien de fois par jour ouvres-tu ton frigo ?
+classique-006|Classique|ancienne|Combien de paires de chaussures possèdes-tu ?|Combien de tasses et de mugs y a-t-il chez toi ?
+classique-009|Classique|ancienne|Combien d’heures dors-tu une nuit normale ?|Combien d’heures pourrais-tu passer dans un avion sans craquer ?
+classique-010|Classique|ancienne|Combien de minutes dure ta sieste idéale ?|Combien de minutes peux-tu rester sans ton téléphone dans une salle d’attente ?
+classique-011|Classique|ancienne|En combien de minutes manges-tu ton déjeuner ?|Combien de minutes faut-il pour aller de chez toi à la boulangerie ?
+classique-012|Classique|ancienne|À quelle heure dînes-tu en général ?|À quelle heure arrêtes-tu de travailler en général ?
+classique-013|Classique|ancienne|Combien d’heures par jour passes-tu sur ton téléphone ?|Combien d’heures par semaine passes-tu à cuisiner ?
+classique-014|Classique|ancienne|Combien de fois par semaine manges-tu des pâtes ?|Combien de fois par semaine fais-tu du sport ?
+classique-016|Classique|ancienne|Combien de verres d’eau bois-tu par jour ?|Combien de fois par jour te laves-tu les mains ?
+classique-017|Classique|ancienne|Quel objet perds-tu le plus souvent ?|Quel objet vérifies-tu toujours avant de sortir ?
+classique-018|Classique|ancienne|Quel objet emporterais-tu sur une île déserte ?|Quel objet ne prêterais-tu jamais ?
+classique-019|Classique|ancienne|Quel objet traîne toujours sur ta table de nuit ?|Quel objet as-tu toujours dans ton sac ?
+classique-020|Classique|ancienne|Quel objet de ta maison pourrais-tu jeter sans regret ?|Quel objet emballerais-tu en premier lors d’un déménagement ?
+classique-021|Classique|ancienne|Quel cadeau aimerais-tu recevoir ?|Quel cadeau offres-tu le plus souvent ?
+classique-022|Classique|ancienne|Quel moyen de transport préfères-tu ?|Quel moyen de transport utilises-tu le plus ?
+classique-024|Classique|ancienne|Quel objet as-tu acheté et jamais utilisé ?|Quel objet as-tu acheté sur un coup de tête ?
+classique-025|Classique|ancienne|Quelle couleur domine dans ta garde-robe ?|Quelle couleur choisirais-tu pour repeindre ta chambre ?
+classique-027|Classique|ancienne|De quelle couleur serait ta voiture de rêve ?|Quelle couleur porterais-tu pour un mariage ?
+classique-030|Classique|ancienne|Quel animal trouves-tu le plus mignon ?|Quel animal aurais-tu peur de croiser en forêt ?
+classique-032|Classique|ancienne|Quel est ton plat préféré ?|Quel plat sais-tu cuisiner sans recette ?
+classique-033|Classique|ancienne|Quel fruit manges-tu le plus souvent ?|Quel fruit mettrais-tu dans une salade de fruits parfaite ?
+classique-034|Classique|ancienne|Que manges-tu au petit-déjeuner ?|Que manges-tu quand tu as un petit creux à 16 h ?
+classique-035|Classique|ancienne|Quel légume détestais-tu enfant ?|Quel légume manges-tu le plus aujourd’hui ?
+classique-036|Classique|ancienne|Quel parfum de glace choisis-tu toujours ?|Quel parfum de bonbon préfères-tu ?
+classique-037|Classique|ancienne|Quel pays a la meilleure cuisine selon toi ?|Dans quel pays aimerais-tu passer ta retraite ?
+classique-038|Classique|ancienne|Quel pays aimerais-tu voir gagner une Coupe du monde ?|Quel pays a les meilleurs sportifs selon toi ?
+classique-040|Classique|ancienne|Quelle application ouvres-tu le plus souvent ?|Quelle application pourrais-tu supprimer sans regret ?
+classique-042|Classique|ancienne|Quel sport aimerais-tu essayer ?|Quel sport regardes-tu volontiers à la télé ?
+classique-043|Classique|ancienne|Que fais-tu le dimanche après-midi ?|Que fais-tu quand il pleut toute la journée ?
+classique-046|Classique|ancienne|Que fais-tu en premier en rentrant chez toi ?|Que fais-tu en premier en te réveillant ?
+classique-048|Classique|ancienne|À quel jeu jouais-tu le plus dans la cour de récré ?|À quel jeu de ton enfance aimerais-tu rejouer ?
+classique-051|Classique|ancienne|Quelle série as-tu terminée le plus vite ?|Quelle série pourrais-tu recommencer depuis le début ?
+classique-053|Classique|ancienne|Quel instrument aimerais-tu savoir jouer ?|Quel instrument trouves-tu le plus agaçant ?
+classique-057|Classique|ancienne|Quel métier rêvais-tu de faire enfant ?|Quel métier pourrais-tu faire pendant un an juste pour essayer ?
+classique-058|Classique|ancienne|Quel métier te semble le plus difficile ?|Quel métier admires-tu le plus ?
+classique-061|Classique|ancienne|Quelle est ta saison préférée ?|Quelle saison passe le plus vite selon toi ?
+classique-062|Classique|ancienne|Quelle marque de vêtements portes-tu le plus ?|Quelle marque de chaussures te fait envie ?
+classique-063|Classique|ancienne|Quelle marque de voiture te fait rêver ?|Quelle marque de voiture croises-tu le plus dans ta rue ?
+classique-064|Classique|ancienne|Quel prénom aurais-tu aimé porter ?|Quel prénom donnerais-tu à un chat ?
+classique-065|Classique|ancienne|Quel personnage de fiction aimerais-tu rencontrer ?|Quel personnage de fiction te ressemble le plus ?
+classique-067|Classique|ancienne|Quelle pièce de la maison préfères-tu ?|Dans quelle pièce de la maison passes-tu le plus de temps ?
+classique-070|Classique|ancienne|Que dis-tu quand tu te cognes le petit orteil ?|Que dis-tu quand tu rates ton bus de justesse ?
+classique-071|Classique|ancienne|À quel âge as-tu eu ton premier téléphone ?|À quel âge as-tu pris l’avion pour la première fois ?
+classique-073|Classique|ancienne|Combien coûte un bon repas au restaurant selon toi (en euros) ?|Combien serais-tu prêt à payer pour un bon concert (en euros) ?
+classique-074|Classique|ancienne|À partir de combien d’euros un café devient-il trop cher ?|À partir de combien d’euros une baguette devient-elle trop chère ?
+classique-075|Classique|ancienne|Combien d’euros mets-tu dans un cadeau d’anniversaire ?|Combien d’euros dépenses-tu pour un repas à emporter ?
+classique-076|Classique|ancienne|Combien de pays as-tu visités ?|Combien de langues aimerais-tu parler ?
+classique-077|Classique|ancienne|Combien de personnes inviterais-tu à ton anniversaire idéal ?|Combien de personnes peut-on faire tenir dans ton salon ?
+classique-079|Classique|ancienne|Combien de livres lis-tu par an ?|Combien de fois vas-tu au cinéma par an ?
+classique-080|Classique|ancienne|Combien de jours peux-tu tenir sans sucre ?|Combien de jours peux-tu tenir sans réseaux sociaux ?
+classique-081|Classique|ancienne|Combien de groupes de discussion as-tu sur ton téléphone ?|Combien de personnes appelles-tu vraiment chaque mois ?
+classique-083|Classique|ancienne|Combien de degrés faut-il dans une chambre pour bien dormir ?|Combien de degrés faut-il dehors pour sortir en t-shirt ?
+classique-084|Classique|ancienne|Combien de minutes peux-tu rester dans un bain ?|Combien de minutes peux-tu faire la queue pour un bon restaurant ?
+classique-085|Classique|ancienne|Combien de kilomètres pourrais-tu marcher sans t’arrêter ?|Combien de kilomètres es-tu prêt à faire pour un bon restaurant ?
+classique-086|Classique|ancienne|Combien d’heures peux-tu passer devant une série d’affilée ?|Combien d’heures peux-tu passer dans un musée ?
+classique-087|Classique|ancienne|Combien d’épisodes regardes-tu d’affilée un soir de week-end ?|Combien d’épisodes laisses-tu à une série avant d’abandonner ?
+classique-088|Classique|ancienne|Combien de minutes faut-il pour qu’un film t’accroche ?|Combien de minutes de pubs peux-tu supporter avant un film ?
+classique-089|Classique|ancienne|Sur 10, à quel point es-tu du matin ?|Sur 10, à quel point aimes-tu les surprises ?
+classique-091|Classique|ancienne|Sur 10, à quel point aimes-tu le froid ?|Sur 10, à quel point aimes-tu la cuisine épicée ?
+classique-092|Classique|ancienne|Sur 10, quelle note donnerais-tu à ta semaine ?|Sur 10, quelle note donnerais-tu à ton dernier repas ?
+classique-094|Classique|ancienne|Sur 10, à quel point aimes-tu les films d’horreur ?|Sur 10, à quel point aimes-tu les montagnes russes ?
+classique-096|Classique|ancienne|Sur 10, à quel point aimes-tu faire les courses ?|Sur 10, à quel point aimes-tu faire le ménage ?
+classique-097|Classique|ancienne|Sur 10, à quel point es-tu bon perdant ?|Sur 10, à quel point es-tu compétitif ?
+classique-101|Classique|ancienne|À quelle heure sonne ton réveil en semaine ?|À quelle heure aimerais-tu te réveiller sans réveil ?
+classique-102|Classique|ancienne|Combien de minutes restes-tu au lit après la sonnerie du réveil ?|Combien de minutes te faut-il pour être vraiment réveillé ?
+classique-104|Classique|ancienne|Quel objet branches-tu en rentrant chez toi ?|Quel objet laisses-tu toujours dans l’entrée ?
+classique-105|Classique|ancienne|Combien de minutes mets-tu pour te préparer un jour de semaine ?|Combien de minutes mets-tu pour te préparer un jour de fête ?
+classique-106|Classique|ancienne|Que manges-tu le matin quand tu es pressé ?|Que manges-tu le matin quand tu as tout ton temps ?
+classique-109|Classique|ancienne|Combien de fois regardes-tu ton téléphone avant de sortir du lit ?|Combien de fois regardes-tu l’heure pendant que tu te prépares ?
+classique-110|Classique|ancienne|À quelle heure quittes-tu la maison le matin ?|À quelle heure arrives-tu à destination le matin ?
+classique-114|Classique|ancienne|Dans quelle pièce prends-tu ton petit-déjeuner ?|Dans quelle pièce passes-tu ton premier coup de fil de la journée ?
+classique-115|Classique|ancienne|À quelle heure te lèves-tu un jour de semaine ?|À quelle heure te lèves-tu pendant les vacances ?
+classique-116|Classique|ancienne|Que fais-tu dans les transports le matin ?|Que fais-tu dans une salle d’attente ?
+classique-118|Classique|ancienne|Quelle viennoiserie achètes-tu le dimanche matin ?|Quelle viennoiserie apporterais-tu à des collègues pour leur faire plaisir ?
+classique-119|Classique|ancienne|Combien de fois as-tu été en retard ce mois-ci ?|Combien de fois as-tu raté ton bus ou ton train ce mois-ci ?
+classique-122|Classique|ancienne|Combien de minutes mets-tu à t’endormir ?|Combien de minutes passes-tu sur ton téléphone une fois au lit ?
+classique-123|Classique|ancienne|Que manges-tu quand tu n’as pas envie de cuisiner le soir ?|Que manges-tu devant un bon film ?
+classique-126|Classique|ancienne|Combien d’oreillers as-tu sur ton lit ?|Combien de coussins as-tu sur ton canapé ?
+classique-129|Classique|ancienne|Que dis-tu pour quitter une soirée sans vexer personne ?|Que dis-tu pour terminer un appel qui s’éternise ?
+classique-132|Classique|ancienne|Combien d’heures de sommeil te faut-il pour être en forme ?|Combien d’heures de sommeil as-tu eues cette nuit ?
+classique-133|Classique|ancienne|Où dors-tu le mieux en dehors de ton lit ?|Où fais-tu tes meilleures siestes ?
+classique-135|Classique|ancienne|Quelle est la première chose que tu fais le samedi matin ?|Quelle est la première chose que tu fais en arrivant en vacances ?
+classique-140|Classique|ancienne|Que manges-tu quand tu es seul à la maison le soir ?|Que manges-tu quand tu rentres tard et affamé ?
+classique-141|Classique|ancienne|Combien de grasses matinées fais-tu par mois ?|Combien de fois par mois fais-tu un grand ménage ?
+classique-142|Classique|ancienne|Combien de jours devrait durer un week-end idéal ?|Combien de jours de vacances te faut-il pour vraiment décrocher ?
+classique-146|Classique|ancienne|Quel mot résume ton week-end idéal ?|Quel mot résume ton dernier week-end ?
+classique-148|Classique|ancienne|Combien d’heures peux-tu passer dans une brocante ?|Combien d’heures peux-tu passer dans un parc un jour de beau temps ?
+classique-150|Classique|ancienne|Combien d’applications utilises-tu vraiment chaque jour ?|Combien d’applications pourrais-tu supprimer sans rien perdre ?
+classique-151|Classique|ancienne|À partir de quel pourcentage de batterie commences-tu à stresser ?|À partir de quel pourcentage de batterie branches-tu ton téléphone ?
+classique-153|Classique|ancienne|Combien de minutes peux-tu attendre une réponse à un message avant de t’inquiéter ?|Combien de minutes mets-tu en général pour répondre à un message ?
+classique-154|Classique|ancienne|Quel emoji envoies-tu le plus souvent ?|Quel emoji utilises-tu quand tu ne sais pas quoi répondre ?
+classique-158|Classique|ancienne|Combien d’heures peux-tu tenir sans regarder ton téléphone ?|Combien d’heures peux-tu tenir sans parler à personne ?
+classique-159|Classique|ancienne|Combien de fois par jour consultes-tu la météo ?|Combien de fois par jour regardes-tu tes mails ?
+classique-160|Classique|ancienne|Quelle application garderais-tu si tu ne pouvais en garder qu’une ?|Quelle application te fait perdre le plus de temps ?
+classique-165|Classique|ancienne|Combien de magasins différents fais-tu pour tes courses de la semaine ?|Combien de boulangeries connais-tu autour de chez toi ?
+classique-166|Classique|ancienne|Quel produit achètes-tu à chaque fois que tu fais les courses ?|Quel produit oublies-tu toujours d’acheter ?
+classique-167|Classique|ancienne|Quel produit achètes-tu en grande quantité quand il est en promo ?|Quel produit as-tu toujours en réserve dans tes placards ?
+classique-168|Classique|ancienne|Combien de minutes passes-tu au supermarché en général ?|Combien de minutes es-tu prêt à faire la queue à la caisse ?
+classique-169|Classique|ancienne|Combien d’euros dépenses-tu pour les courses de la semaine ?|Combien d’euros dépenses-tu pour un plein d’essence ?
+classique-170|Classique|ancienne|Quel rayon du supermarché te donne envie de tout acheter ?|Quel rayon du supermarché traverses-tu sans t’arrêter ?
+classique-173|Classique|ancienne|Quel supermarché fréquentes-tu le plus ?|Quel supermarché trouves-tu le moins cher ?
+classique-176|Classique|ancienne|Quel jour de la semaine le supermarché est-il le plus bondé ?|Quel jour de la semaine les transports sont-ils les plus bondés ?
+classique-177|Classique|ancienne|Quel aliment finit dans ton caddie quand tu fais les courses en ayant faim ?|Quel aliment cachais-tu au fond du caddie quand tu étais petit ?
+classique-178|Classique|ancienne|Combien coûte un paquet de pâtes selon toi (en euros) ?|Combien coûte une plaquette de beurre selon toi (en euros) ?
+classique-180|Classique|ancienne|À partir de combien de degrés allumes-tu le chauffage ?|À partir de combien de degrés sors-tu le bonnet ?
+classique-181|Classique|ancienne|Quelle température fait-il dans ton salon en hiver (en degrés) ?|Quelle température faut-il pour dîner en terrasse (en degrés) ?
+classique-182|Classique|ancienne|Quel objet sors-tu dès les premiers rayons de soleil ?|Quel objet ranges-tu en premier à la fin de l’été ?
+classique-184|Classique|ancienne|Que fais-tu un après-midi de grosse chaleur ?|Que fais-tu un après-midi de grosse averse ?
+classique-186|Classique|ancienne|Quel mois de l’année est le meilleur pour partir en vacances ?|Quel mois de l’année est le meilleur pour rester chez soi ?
+classique-190|Classique|ancienne|Quel objet regrettes-tu toujours d’avoir oublié sous une averse ?|Quel objet perds-tu le plus souvent dans les transports ?
+classique-193|Classique|ancienne|Combien de jours de pluie peux-tu supporter d’affilée ?|Combien de jours de canicule peux-tu supporter d’affilée ?
+classique-194|Classique|ancienne|Que dis-tu quand tu sors et qu’il fait un froid glacial ?|Que dis-tu quand tu entres dans une pièce surchauffée ?
+classique-196|Classique|ancienne|Combien de minutes dure ton trajet le plus fréquent ?|Combien de minutes es-tu prêt à marcher pour éviter de prendre le bus ?
+classique-197|Classique|ancienne|Où t’assois-tu dans le bus ?|Où t’assois-tu dans une salle de cinéma ?
+classique-198|Classique|ancienne|Quel moyen de transport te met le plus de mauvaise humeur ?|Quel moyen de transport te rend le plus zen ?
+classique-199|Classique|ancienne|Combien de minutes d’avance prends-tu pour attraper un train ?|Combien de minutes de retard tolères-tu chez un ami ?
+classique-200|Classique|ancienne|Que fais-tu quand ton train a du retard ?|Que fais-tu quand tu attends quelqu’un qui est en retard ?
+classique-201|Classique|ancienne|Que dis-tu quand quelqu’un te bouscule dans le métro ?|Que dis-tu quand quelqu’un te double dans une file d’attente ?
+classique-204|Classique|ancienne|À quelle heure part le dernier bus ou métro près de chez toi ?|À quelle heure rentres-tu au plus tard d’une sortie en semaine ?
+classique-205|Classique|ancienne|Quel objet ne quitte jamais ta poche de manteau ?|Quel objet trouves-tu toujours au fond de ton sac ?
+classique-206|Classique|ancienne|Combien coûte un ticket de bus selon toi (en euros) ?|Combien coûte un magazine au kiosque selon toi (en euros) ?
+classique-207|Classique|ancienne|Combien de trajets en train as-tu faits cette année ?|Combien de week-ends as-tu passés hors de chez toi cette année ?
+classique-208|Classique|ancienne|Combien de minutes faut-il pour rejoindre ton arrêt de transport le plus proche ?|Combien de minutes faut-il pour aller à pied jusqu’au supermarché ?
+classique-210|Classique|ancienne|Combien de fois as-tu pris un taxi cette année ?|Combien de fois as-tu loué un vélo ou une trottinette cette année ?
+classique-211|Classique|ancienne|Combien de porte-clés accroches-tu à tes clés ?|Combien de cartes de fidélité as-tu ?
+classique-215|Classique|ancienne|Combien de miroirs y a-t-il chez toi ?|Combien d’horloges ou de pendules y a-t-il chez toi ?
+classique-216|Classique|ancienne|Combien de parapluies as-tu chez toi ?|Combien de bonnets as-tu chez toi ?
+classique-217|Classique|ancienne|Quel appareil de la maison fait le plus de bruit ?|Quel appareil de la maison tombe toujours en panne au mauvais moment ?
+classique-221|Classique|ancienne|Combien de câbles de chargeur as-tu chez toi ?|Combien de paires de lunettes de soleil as-tu chez toi ?
+classique-222|Classique|ancienne|À quelle heure entends-tu le plus tes voisins ?|À quelle heure ta rue est-elle la plus bruyante ?
+classique-223|Classique|ancienne|Dans quelle pièce de ta maison fait-il le plus froid ?|Dans quelle pièce de ta maison y a-t-il le plus de bazar ?
+classique-239|Classique|ancienne|Quel goûter te fait retomber en enfance ?|Quel dessert commandes-tu sans hésiter ?
+classique-240|Classique|ancienne|Quelle activité fais-tu pour te faire plaisir sans dépenser un euro ?|Quelle activité gratuite proposerais-tu à un ami qui s’ennuie ?
+classique-241|Classique|ancienne|Combien de bougies as-tu chez toi ?|Combien de plaids as-tu chez toi ?
+classique-242|Classique|ancienne|Quel objet cherches-tu partout alors qu’il est dans ta main ?|Quel objet retrouves-tu toujours dans la machine à laver ?
+classique-243|Classique|ancienne|Que dis-tu quand tu renverses ton café ?|Que dis-tu quand ton téléphone tombe par terre ?
+classique-244|Classique|ancienne|Combien de fois t’es-tu retrouvé dehors sans tes clés ?|Combien de fois as-tu cassé l’écran de ton téléphone ?
+classique-245|Classique|ancienne|Quel est le pire endroit pour tomber en panne de batterie ?|Quel est le pire endroit pour avoir un fou rire ?
+classique-246|Classique|ancienne|Quel objet casses-tu le plus souvent ?|Quel objet rachètes-tu le plus souvent ?
+classique-248|Classique|ancienne|Combien de minutes peux-tu rester en attente avec un service client ?|Combien de minutes peux-tu attendre ton plat au restaurant sans râler ?
+classique-249|Classique|ancienne|Quel est le pire moment pour recevoir un appel ?|Quel est le pire moment pour qu’on sonne à ta porte ?
+classique-250|Classique|ancienne|Quel vêtement taches-tu le plus souvent ?|Quel vêtement perds-tu le plus souvent ?
+classique-251|Classique|ancienne|Combien de fois par mois cliques-tu sur « mot de passe oublié » ?|Combien de fois par mois cherches-tu tes lunettes ou tes clés ?
+classique-253|Classique|ancienne|Que dis-tu à quelqu’un qui te marche sur le pied ?|Que dis-tu à quelqu’un qui te tient la porte ?
+classique-254|Classique|ancienne|Combien coûte une réparation d’écran de téléphone selon toi (en euros) ?|Combien coûte une paire de baskets correcte selon toi (en euros) ?
+classique-255|Classique|ancienne|Qui appelles-tu en premier pour annoncer une bonne nouvelle ?|Qui appelles-tu quand tu t’ennuies un dimanche ?
+classique-256|Classique|ancienne|Combien d’amis pourraient t’aider à déménager demain ?|Combien d’amis connaissent ton plat préféré ?
+classique-258|Classique|ancienne|Où retrouves-tu tes amis le plus souvent ?|Où donnerais-tu rendez-vous à quelqu’un que tu ne connais pas encore ?
+classique-259|Classique|ancienne|Combien de personnes faut-il pour une bonne soirée jeux ?|Combien de personnes peux-tu inviter à dîner sans stresser ?
+classique-260|Classique|ancienne|À quelle heure quittes-tu un dîner chez des amis ?|À quelle heure quittes-tu une fête d’anniversaire ?
+classique-261|Classique|ancienne|Quel petit nom donnes-tu à un bébé ?|Quel petit nom donnes-tu à un chiot ?
+classique-262|Classique|ancienne|Qu’apportes-tu quand tu es invité chez des amis ?|Que proposes-tu quand des amis passent à l’improviste ?
+classique-263|Classique|ancienne|Qui appellerais-tu pour t’aider à monter un meuble ?|Qui appellerais-tu pour t’aider à choisir une tenue ?
+classique-265|Classique|ancienne|Depuis combien d’années connais-tu ton meilleur ami ?|Depuis combien d’années habites-tu dans ta ville ?
+classique-266|Classique|ancienne|Quel jour de la semaine est idéal pour voir des amis ?|Quel jour de la semaine est idéal pour ne rien faire ?
+classique-271|Classique|ancienne|Quel objet touches-tu machinalement quand tu réfléchis ?|Quel objet mordilles-tu sans t’en rendre compte ?
+classique-274|Classique|ancienne|Que fais-tu de tes mains quand tu es au téléphone ?|Que fais-tu de tes mains quand tu attends quelqu’un ?
+classique-275|Classique|ancienne|Combien de sucres mets-tu dans ton café ?|Combien de glaçons mets-tu dans ton verre ?
+classique-278|Classique|ancienne|Quel vêtement mets-tu quand tu ne sais pas quoi mettre ?|Quel vêtement portes-tu jusqu’à ce qu’il soit troué ?
+classique-283|Classique|ancienne|Quelle ville d’Europe aimerais-tu découvrir en premier ?|Quelle ville d’Europe conseillerais-tu pour un week-end ?
+classique-284|Classique|ancienne|Quel métier trouves-tu le plus utile ?|Quel métier te faisait rêver à dix ans ?
+classique-286|Classique|ancienne|À quel âge devient-on vraiment adulte selon toi ?|À quel âge as-tu fait tes premières courses tout seul ?
+classique-294|Classique|ancienne|Combien de bocaux vides gardes-tu chez toi ?|Combien de boîtes en carton gardes-tu « au cas où » ?
+classique-295|Classique|ancienne|Combien de voisins connais-tu par leur prénom ?|Combien de commerçants te reconnaissent dans ton quartier ?
+classique-296|Classique|ancienne|Combien de jeux de société as-tu chez toi ?|Combien de puzzles as-tu déjà terminés ?
+classique-297|Classique|ancienne|Combien d’anniversaires connais-tu par cœur ?|Combien de digicodes connais-tu par cœur ?
+classique-298|Classique|ancienne|Combien de minutes mets-tu à faire ton lit ?|Combien de minutes mets-tu à faire la vaisselle ?
+classique-299|Classique|ancienne|Combien de téléphones as-tu eus dans ta vie ?|Combien d’ordinateurs as-tu eus dans ta vie ?
+classique-300|Classique|ancienne|Combien coûte une place de cinéma selon toi (en euros) ?|Combien coûte un menu au fast-food selon toi (en euros) ?
+classique-301|Classique|ancienne|Combien de bonnes résolutions prends-tu au Nouvel An ?|Combien de nouvelles habitudes as-tu réussi à garder cette année ?
+classique-302|Classique|ancienne|Combien de livres non lus attendent sur ton étagère ?|Combien de livres as-tu prêtés sans jamais les revoir ?
+classique-304|Classique|ancienne|Combien de fois par semaine cuisines-tu un vrai repas ?|Combien de fois par semaine manges-tu dehors ?
+classique-305|Classique|ancienne|Combien d’heures par semaine passes-tu dans les transports ?|Combien d’heures par semaine passes-tu à faire le ménage ?
+classique-306|Classique|ancienne|Combien de fenêtres donnent sur la rue chez toi ?|Combien de portes faut-il ouvrir pour aller de ton lit à la cuisine ?
+classique-307|Classique|ancienne|À quelle heure mets-tu ton réveil le lundi ?|À quelle heure mets-tu ton réveil le samedi ?
+classique-309|Classique|ancienne|Quel est le premier mot qui te vient quand ton réveil sonne ?|Quel est le premier mot qui te vient quand tu vois qu’il pleut ?
+classique-310|Classique|ancienne|Tu te lèves combien de minutes avant de partir ?|Tu arrives combien de minutes en avance à un rendez-vous ?
+classique-312|Classique|ancienne|Quel vêtement enfiles-tu en premier le matin ?|Quel vêtement retires-tu en premier en rentrant le soir ?
+classique-314|Classique|ancienne|Combien de minutes mets-tu à sortir du lit le dimanche ?|Combien de minutes mets-tu à sortir de la douche en hiver ?
+classique-317|Classique|ancienne|Que fais-tu quand tu te réveilles cinq minutes avant ton réveil ?|Que fais-tu quand tu te réveilles au milieu de la nuit ?
+classique-323|Classique|ancienne|Combien de cafés ou de thés bois-tu dans une journée ?|Combien de fois par jour remplis-tu ta bouteille d’eau ?
+classique-325|Classique|ancienne|Combien coûte un croissant dans ta boulangerie (en euros) ?|Combien coûte une baguette dans ta boulangerie (en euros) ?
+classique-329|Classique|ancienne|Vers quelle heure as-tu ton premier petit creux de la matinée ?|Vers quelle heure as-tu ton premier coup de fatigue de l’après-midi ?
+classique-330|Classique|ancienne|Quel objet mets-tu dans ta poche juste avant de sortir ?|Quel objet sors-tu de ta poche dès que tu rentres ?
+classique-333|Classique|ancienne|À quelle heure commences-tu à bâiller le soir ?|À quelle heure commences-tu à avoir faim le soir ?
+classique-334|Classique|ancienne|Qu’est-ce qu’il y a sous ton lit ?|Qu’est-ce qu’il y a au-dessus de ton armoire ?
+classique-335|Classique|ancienne|Que dis-tu à quelqu’un qui te réveille pour rien ?|Que dis-tu à quelqu’un qui ronfle à côté de toi ?
+classique-355|Classique|ancienne|Que retrouves-tu dans tes poches en lançant une machine ?|Que retrouves-tu au fond d’un vieux manteau l’hiver suivant ?
+classique-358|Classique|ancienne|Combien coûte un bon parapluie selon toi (en euros) ?|Combien coûte un bon sac à dos selon toi (en euros) ?
+classique-360|Classique|ancienne|Combien de clés y a-t-il sur ton trousseau ?|Combien de stylos y a-t-il dans ton sac ou ta trousse ?
+classique-365|Classique|ancienne|Combien de tickets de caisse traînent dans ton portefeuille ?|Combien de pièces de monnaie traînent dans ton portefeuille ?
+classique-373|Classique|ancienne|En combien de minutes te brosses-tu les dents ?|En combien de minutes te sèches-tu les cheveux ?
+classique-394|Classique|ancienne|Tu sais cuisiner combien de plats sans recette ?|Tu connais combien de recettes de gâteau par cœur ?
+classique-407|Classique|ancienne|À combien estimes-tu le prix d’un pot de pâte à tartiner ?|À combien estimes-tu le prix d’un paquet de céréales ?
+classique-414|Classique|ancienne|À partir de quelle réduction (en %) achètes-tu un truc inutile ?|À partir de quelle réduction (en %) parles-tu de bonne affaire ?
+classique-416|Classique|ancienne|Que dis-tu au vendeur qui te demande si tu cherches quelque chose ?|Que dis-tu quand on te demande si tu as la carte du magasin ?
+classique-417|Classique|ancienne|Quel prix maximum mettrais-tu dans un parapluie (en euros) ?|Quel prix maximum mettrais-tu dans une tasse (en euros) ?
+classique-419|Classique|ancienne|Tu reçois combien de colis par mois ?|Tu reçois combien de lettres par mois ?
+classique-422|Classique|ancienne|Que fais-tu dans le train pendant un long trajet ?|Que fais-tu dans la voiture quand tu n’es pas au volant ?
+classique-424|Classique|ancienne|Tu habites à combien de kilomètres de la mer ?|Tu habites à combien de kilomètres de la montagne la plus proche ?
+classique-426|Classique|ancienne|Que dis-tu quand le métro s’arrête entre deux stations ?|Que dis-tu quand ton GPS te fait faire demi-tour ?
+classique-427|Classique|ancienne|Tu peux faire combien d’heures de route sans pause ?|Tu peux faire combien d’heures de train sans t’ennuyer ?
+classique-428|Classique|ancienne|Tu as pris le train combien de fois l’an dernier ?|Tu as pris l’avion combien de fois l’an dernier ?
+classique-435|Classique|ancienne|Combien coûte un sandwich dans une gare (en euros) ?|Combien coûte un café dans une gare (en euros) ?
+classique-445|Classique|ancienne|Que fais-tu quand ton téléphone n’a plus de batterie ?|Que fais-tu quand tu oublies ton téléphone chez toi ?
+classique-452|Classique|ancienne|Tu dors avec combien d’oreillers ?|Tu dors avec combien de couvertures en hiver ?
+classique-458|Classique|ancienne|Une nuit de grasse matinée, tu dors combien d’heures ?|La veille d’un réveil très tôt, tu dors combien d’heures ?
+classique-482|Classique|ancienne|Combien coûte une entrée au musée selon toi (en euros) ?|Combien coûte une entrée à la piscine selon toi (en euros) ?
+classique-493|Classique|ancienne|Que dis-tu quand un invité arrive et que rien n’est rangé ?|Que dis-tu quand quelqu’un ouvre ton placard à bazar ?
+classique-494|Classique|ancienne|Un grand ménage chez toi prend combien d’heures ?|Monter un meuble en kit te prend combien d’heures ?
+classique-495|Classique|ancienne|Quel appareil ménager utilises-tu le plus ?|Quel appareil ménager achèterais-tu en premier en emménageant ?
+classique-505|Classique|ancienne|Combien de minutes passes-tu dans une cabine d’essayage ?|Combien de minutes passes-tu à repasser une chemise ?
+classique-517|Classique|ancienne|Quelle température faut-il pour que tu sortes en short (en degrés) ?|Quelle température faut-il pour te baigner dans la mer (en degrés) ?
+classique-520|Classique|ancienne|Que dis-tu quand il se met à pleuvoir pile quand tu sors ?|Que dis-tu quand le soleil revient pile quand tu rentres ?
+classique-534|Classique|ancienne|Que dis-tu à un voisin que tu croises dans l’ascenseur ?|Que dis-tu au facteur quand tu le croises ?
+classique-539|Classique|ancienne|Il y a combien d’étages dans ton immeuble ou ta maison ?|Il y a combien de boulangeries à moins de dix minutes de chez toi ?
+classique-548|Classique|ancienne|Quelle série regardes-tu en ce moment ?|Quelle série recommandes-tu à tout le monde ?
+classique-551|Classique|ancienne|Quel film regardes-tu chaque année à la même période ?|Quel film connais-tu presque par cœur ?
+classique-556|Classique|ancienne|Il y a combien d’écrans chez toi, téléphones compris ?|Il y a combien de télécommandes chez toi ?
+classique-569|Classique|ancienne|Quel est ton chiffre porte-bonheur ?|Quel numéro choisirais-tu pour un maillot de sport ?
+classique-573|Classique|ancienne|Combien serais-tu prêt à payer pour un bon croissant (en euros) ?|Combien serais-tu prêt à payer pour un bon café (en euros) ?
+classique-579|Classique|ancienne|Tu as combien de mots de passe différents, à peu près ?|Tu as combien de comptes en ligne, à peu près ?
+classique-600|Classique|ancienne|Comment salues-tu tes collègues le matin ?|Comment salues-tu tes amis en arrivant à une soirée ?
+classique-606|Classique|ancienne|À quelle heure commences-tu à avoir faim avant le déjeuner ?|À quelle heure commences-tu à regarder l’horloge au travail ?
+classique-607|Classique|ancienne|Que fais-tu en premier en arrivant au travail ?|Que fais-tu en premier en arrivant chez des amis ?
+classique-611|Classique|nouvelle|Quelle personne de ton entourage pourrait t’aider à choisir un film à regarder ?|Quelle personne de ton entourage pourrait t’aider à organiser une journée libre ?
+classique-612|Classique|nouvelle|En combien de temps pourrais-tu choisir des photos à garder ?|En combien de temps pourrais-tu planifier ton prochain week-end ?
+classique-613|Classique|nouvelle|Quel serait le meilleur moment pour ranger une chambre après des invités ?|Quel serait le meilleur moment pour faire les courses de la semaine ?
+classique-614|Classique|nouvelle|Combien de fois par an as-tu l’occasion de choisir des photos à garder ?|Combien de fois par an as-tu l’occasion de planifier ton prochain week-end ?
+classique-615|Classique|nouvelle|Combien de temps prévoirais-tu pour préparer ton petit-déjeuner ?|Combien de temps prévoirais-tu pour nettoyer ton téléphone ?
+classique-616|Classique|nouvelle|À qui demanderais-tu de l’aide pour préparer un repas pour quatre ?|À qui demanderais-tu de l’aide pour prendre un rendez-vous administratif ?
+classique-617|Classique|nouvelle|Où irais-tu pour acheter un oreiller de qualité ?|Où irais-tu pour acheter une bonne poêle ?
+classique-618|Classique|nouvelle|À ton avis, combien coûte une montre simple ?|À ton avis, combien coûte un oreiller de qualité ?
+classique-619|Classique|nouvelle|Quel budget maximal prévoirais-tu pour une paire de lunettes de soleil polarisées de marque courante ?|Quel budget maximal prévoirais-tu pour une veste de pluie ?
+classique-620|Classique|nouvelle|Quel serait le meilleur moment pour préparer tes affaires pour demain ?|Quel serait le meilleur moment pour choisir des photos à garder ?
+classique-621|Classique|nouvelle|Où irais-tu pour acheter une petite enceinte Bluetooth ?|Où irais-tu pour acheter un chargeur rapide USB-C de 30 W ?
+classique-622|Classique|nouvelle|À ton avis, combien de temps faut-il pour faire un grand tri dans tes affaires ?|À ton avis, combien de temps faut-il pour choisir un film à regarder ?
+classique-623|Classique|nouvelle|Qui contacterais-tu pour t’aider à préparer un sac pour le week-end ?|Qui contacterais-tu pour t’aider à ranger une chambre après des invités ?
+classique-624|Classique|nouvelle|Pour quelle occasion voudrais-tu acheter une valise cabine rigide de 55 cm ?|Pour quelle occasion voudrais-tu acheter un sac à dos solide ?
+classique-625|Classique|nouvelle|Que dirais-tu si tu croises un ancien camarade de collège perdu de vue depuis dix ans dans la rue ?|Que dirais-tu si tu reçois un cadeau qui ne te plaît pas ?
+classique-626|Classique|nouvelle|Combien de fois par an as-tu l’occasion de choisir un film à regarder ?|Combien de fois par an as-tu l’occasion d’organiser une journée libre ?
+classique-627|Classique|nouvelle|Selon toi, quel est le prix d’une valise cabine rigide de 55 cm ?|Selon toi, quel est le prix d’un sac à dos solide ?
+classique-628|Classique|nouvelle|Quel créneau de la journée serait le plus pratique pour planifier ton prochain week-end ?|Quel créneau de la journée serait le plus pratique pour préparer un sac pour le week-end ?
+classique-629|Classique|nouvelle|Pour quelle occasion voudrais-tu acheter une veste de pluie ?|Pour quelle occasion voudrais-tu acheter un casque audio sans fil de milieu de gamme ?
+classique-630|Classique|nouvelle|Jusqu’à combien paierais-tu pour un tapis de salon ?|Jusqu’à combien paierais-tu pour une parure de lit deux personnes en coton ?
+classique-631|Classique|nouvelle|À quel moment de la semaine préférerais-tu préparer un sac pour le week-end ?|À quel moment de la semaine préférerais-tu ranger une chambre après des invités ?
+classique-632|Classique|nouvelle|Comment réagirais-tu si tu oublies ton chargeur pour la journée ?|Comment réagirais-tu si un restaurant n’a plus ton plat préféré ?
+classique-633|Classique|nouvelle|À quel moment de la semaine préférerais-tu choisir une tenue pour sortir ?|À quel moment de la semaine préférerais-tu organiser un déjeuner entre amis ?
+classique-634|Classique|nouvelle|Quelle personne de ton entourage pourrait t’aider à faire les courses de la semaine ?|Quelle personne de ton entourage pourrait t’aider à répondre à tous tes messages ?
+classique-635|Classique|nouvelle|Dans quelle situation déciderais-tu d’acheter une bonne poêle ?|Dans quelle situation déciderais-tu d’acheter un tapis de salon ?
+classique-636|Classique|nouvelle|Quelle phrase sortirait de ta bouche si tu oublies ton chargeur pour la journée ?|Quelle phrase sortirait de ta bouche si un restaurant n’a plus ton plat préféré ?
+classique-637|Classique|nouvelle|Quel prix imagines-tu pour un fauteuil confortable pour un salon ?|Quel prix imagines-tu pour un parapluie résistant au vent ?
+classique-638|Classique|nouvelle|À quelle fréquence aimerais-tu préparer un repas pour quatre ?|À quelle fréquence aimerais-tu prendre un rendez-vous administratif ?
+classique-639|Classique|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une valise cabine rigide de 55 cm ?|Au-delà de quel prix hésiterais-tu à acheter un sac à dos solide ?
+classique-640|Classique|nouvelle|Combien de fois par an as-tu l’occasion de retrouver une copie de ta pièce d’identité ?|Combien de fois par an as-tu l’occasion de préparer ton petit-déjeuner ?
+classique-641|Classique|nouvelle|Quel budget maximal prévoirais-tu pour une paire de chaussures confortables ?|Quel budget maximal prévoirais-tu pour une batterie externe ?
+classique-642|Classique|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une lampe de bureau LED avec bras articulé ?|Sur quel site ou dans quel magasin chercherais-tu une paire de chaussures confortables ?
+classique-643|Classique|nouvelle|Quel serait ton premier réflexe si tu oublies un rendez-vous ?|Quel serait ton premier réflexe si un inconnu te demande ton chemin ?
+classique-644|Classique|nouvelle|Comment réagirais-tu si tu reçois un cadeau qui ne te plaît pas ?|Comment réagirais-tu si un voisin fait trop de bruit ?
+classique-645|Classique|nouvelle|Comment réagirais-tu si un ami annule au dernier moment ?|Comment réagirais-tu si quelqu’un oublie ton prénom ?
+classique-646|Classique|nouvelle|En combien de temps pourrais-tu retrouver une copie de ta pièce d’identité ?|En combien de temps pourrais-tu préparer ton petit-déjeuner ?
+classique-647|Classique|nouvelle|Comment répondrais-tu si tu te trompes de porte en arrivant ?|Comment répondrais-tu si un ami te prête quelque chose de fragile ?
+classique-648|Classique|nouvelle|À ton avis, combien coûte une parure de lit deux personnes en coton ?|À ton avis, combien coûte une petite enceinte Bluetooth ?
+classique-649|Classique|nouvelle|Dans quelle situation déciderais-tu d’acheter une gourde de qualité ?|Dans quelle situation déciderais-tu d’acheter un réveil lumineux ?
+classique-650|Classique|nouvelle|À quel endroit irais-tu pour trouver une paire de chaussures confortables ?|À quel endroit irais-tu pour trouver une batterie externe ?
+classique-651|Classique|nouvelle|À qui demanderais-tu de l’aide pour organiser une journée libre ?|À qui demanderais-tu de l’aide pour faire le ménage du salon ?
+classique-652|Classique|nouvelle|Qui pourrait te donner le meilleur conseil pour faire un grand tri dans tes affaires ?|Qui pourrait te donner le meilleur conseil pour choisir un film à regarder ?
+classique-653|Classique|nouvelle|Quel prix imagines-tu pour un réveil lumineux ?|Quel prix imagines-tu pour une montre simple ?
+classique-654|Classique|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un oreiller de qualité ?|Au-delà de quel prix hésiterais-tu à acheter une bonne poêle ?
+classique-655|Classique|nouvelle|Quelle phrase sortirait de ta bouche si quelqu’un coupe la file devant toi ?|Quelle phrase sortirait de ta bouche si tu te trompes de porte en arrivant ?
+classique-656|Classique|nouvelle|À quelle fréquence aimerais-tu organiser une journée libre ?|À quelle fréquence aimerais-tu faire le ménage du salon ?
+classique-657|Classique|nouvelle|Quelle phrase sortirait de ta bouche si un proche t’appelle pendant un film ?|Quelle phrase sortirait de ta bouche si tu oublies un rendez-vous ?
+classique-658|Classique|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer ton petit-déjeuner ?|Quel créneau de la journée serait le plus pratique pour nettoyer ton téléphone ?
+classique-659|Classique|nouvelle|Selon toi, quel est le prix d’un oreiller de qualité ?|Selon toi, quel est le prix d’une bonne poêle ?
+classique-660|Classique|nouvelle|Qui contacterais-tu pour t’aider à choisir une tenue pour sortir ?|Qui contacterais-tu pour t’aider à organiser un déjeuner entre amis ?
+classique-661|Classique|nouvelle|À quel moment aurais-tu envie d’acheter un tapis de salon ?|À quel moment aurais-tu envie d’acheter une parure de lit deux personnes en coton ?
+classique-662|Classique|nouvelle|Combien de temps te faudrait-il pour préparer un sac pour le week-end ?|Combien de temps te faudrait-il pour ranger une chambre après des invités ?
+classique-663|Classique|nouvelle|Comment répondrais-tu si un voisin fait trop de bruit ?|Comment répondrais-tu si tu trouves un billet dans une vieille poche ?
+classique-664|Classique|nouvelle|Jusqu’à combien paierais-tu pour un réveil lumineux ?|Jusqu’à combien paierais-tu pour une montre simple ?
+classique-665|Classique|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un tapis de salon ?|Sur quel site ou dans quel magasin chercherais-tu une parure de lit deux personnes en coton ?
+classique-666|Classique|nouvelle|Combien de temps prévoirais-tu pour préparer un repas pour quatre ?|Combien de temps prévoirais-tu pour prendre un rendez-vous administratif ?
+classique-667|Classique|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une veste de pluie ?|Au-delà de quel prix hésiterais-tu à acheter un casque audio sans fil de milieu de gamme ?
+classique-668|Classique|nouvelle|À quel endroit irais-tu pour trouver une parure de lit deux personnes en coton ?|À quel endroit irais-tu pour trouver une petite enceinte Bluetooth ?
+classique-669|Classique|nouvelle|À quel moment aurais-tu envie d’acheter un fauteuil confortable pour un salon ?|À quel moment aurais-tu envie d’acheter un parapluie résistant au vent ?
+classique-670|Classique|nouvelle|En combien de temps pourrais-tu changer les draps du lit ?|En combien de temps pourrais-tu préparer un repas pour quatre ?
+classique-671|Classique|nouvelle|Comment réagirais-tu si un proche t’appelle pendant un film ?|Comment réagirais-tu si tu oublies un rendez-vous ?
+classique-672|Classique|nouvelle|Quelle personne de ton entourage pourrait t’aider à retrouver une copie de ta pièce d’identité ?|Quelle personne de ton entourage pourrait t’aider à préparer ton petit-déjeuner ?
+classique-673|Classique|nouvelle|Combien de fois par mois as-tu l’occasion de faire le ménage du salon ?|Combien de fois par mois as-tu l’occasion de trouver une idée de cadeau à moins de 30 € pour un collègue ?
+classique-674|Classique|nouvelle|En combien de temps pourrais-tu choisir un film à regarder ?|En combien de temps pourrais-tu organiser une journée libre ?
+classique-675|Classique|nouvelle|Quel prix imagines-tu pour une lampe de bureau LED avec bras articulé ?|Quel prix imagines-tu pour une paire de chaussures confortables ?
+classique-676|Classique|nouvelle|À quelle fréquence aimerais-tu répondre à tous tes messages ?|À quelle fréquence aimerais-tu choisir une tenue pour sortir ?
+classique-677|Classique|nouvelle|Quel serait ton premier réflexe si quelqu’un oublie ton prénom ?|Quel serait ton premier réflexe si on te sert le mauvais plat ?
+classique-678|Classique|nouvelle|Qui contacterais-tu pour t’aider à prendre un rendez-vous administratif ?|Qui contacterais-tu pour t’aider à préparer tes affaires pour demain ?
+classique-679|Classique|nouvelle|Qu’est-ce que tu dirais sur le moment si on te propose un plan qui ne te tente pas ?|Qu’est-ce que tu dirais sur le moment si tu arrives à un rendez-vous dix minutes en avance ?
+classique-680|Classique|nouvelle|Où irais-tu pour acheter une valise cabine rigide de 55 cm ?|Où irais-tu pour acheter un sac à dos solide ?
+classique-681|Classique|nouvelle|Quel moment de la journée choisirais-tu pour retrouver une copie de ta pièce d’identité ?|Quel moment de la journée choisirais-tu pour préparer ton petit-déjeuner ?
+classique-682|Classique|nouvelle|Quel serait le meilleur moment pour faire un grand tri dans tes affaires ?|Quel serait le meilleur moment pour choisir un film à regarder ?
+classique-683|Classique|nouvelle|Quel prix imagines-tu pour un tapis de salon ?|Quel prix imagines-tu pour une parure de lit deux personnes en coton ?
+classique-684|Classique|nouvelle|Dans quelle situation déciderais-tu d’acheter un casque audio sans fil de milieu de gamme ?|Dans quelle situation déciderais-tu d’acheter une lampe de bureau LED avec bras articulé ?
+classique-685|Classique|nouvelle|Que dirais-tu si ton colis arrive abîmé ?|Que dirais-tu si quelqu’un coupe la file devant toi ?
+classique-686|Classique|nouvelle|Selon toi, quel est le prix d’une petite enceinte Bluetooth ?|Selon toi, quel est le prix d’un chargeur rapide USB-C de 30 W ?
+classique-687|Classique|nouvelle|Quel moment de la journée choisirais-tu pour changer les draps du lit ?|Quel moment de la journée choisirais-tu pour préparer un repas pour quatre ?
+classique-688|Classique|nouvelle|Qu’est-ce qui te pousserait à acheter une parure de lit deux personnes en coton ?|Qu’est-ce qui te pousserait à acheter une petite enceinte Bluetooth ?
+classique-689|Classique|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un fauteuil confortable pour un salon ?|Sur quel site ou dans quel magasin chercherais-tu un parapluie résistant au vent ?
+classique-690|Classique|nouvelle|Qu’est-ce qui te pousserait à acheter une paire de chaussures confortables ?|Qu’est-ce qui te pousserait à acheter une batterie externe ?
+classique-691|Classique|nouvelle|Jusqu’à combien paierais-tu pour une lampe de bureau LED avec bras articulé ?|Jusqu’à combien paierais-tu pour une paire de chaussures confortables ?
+classique-692|Classique|nouvelle|Quelle phrase sortirait de ta bouche si tu reçois un cadeau qui ne te plaît pas ?|Quelle phrase sortirait de ta bouche si un voisin fait trop de bruit ?
+classique-693|Classique|nouvelle|Qu’est-ce qui te pousserait à acheter une montre simple ?|Qu’est-ce qui te pousserait à acheter un oreiller de qualité ?
+classique-694|Classique|nouvelle|À quelle fréquence t’arrive-t-il de préparer tes affaires pour demain ?|À quelle fréquence t’arrive-t-il de choisir des photos à garder ?
+classique-695|Classique|nouvelle|Qu’est-ce que tu ferais en premier si on te demande de garder un secret ?|Qu’est-ce que tu ferais en premier si un proche t’appelle pendant un film ?
+classique-696|Classique|nouvelle|Quel moment de la journée choisirais-tu pour choisir un film à regarder ?|Quel moment de la journée choisirais-tu pour organiser une journée libre ?
+classique-697|Classique|nouvelle|À qui demanderais-tu de l’aide pour préparer ton petit-déjeuner ?|À qui demanderais-tu de l’aide pour nettoyer ton téléphone ?
+classique-698|Classique|nouvelle|Combien de temps te faudrait-il pour nettoyer ton téléphone ?|Combien de temps te faudrait-il pour faire un grand tri dans tes affaires ?
+classique-699|Classique|nouvelle|À quel moment de la semaine préférerais-tu faire le ménage du salon ?|À quel moment de la semaine préférerais-tu trouver une idée de cadeau à moins de 30 € pour un collègue ?
+classique-700|Classique|nouvelle|Comment répondrais-tu si tu oublies un rendez-vous ?|Comment répondrais-tu si un inconnu te demande ton chemin ?
+classique-701|Classique|nouvelle|Combien de fois par mois as-tu l’occasion de préparer un sac pour le week-end ?|Combien de fois par mois as-tu l’occasion de ranger une chambre après des invités ?
+classique-702|Classique|nouvelle|Que dirais-tu si on te demande de garder un secret ?|Que dirais-tu si un proche t’appelle pendant un film ?
+classique-703|Classique|nouvelle|Combien penses-tu que vaut un chargeur rapide USB-C de 30 W ?|Combien penses-tu que vaut un fauteuil confortable pour un salon ?
+classique-704|Classique|nouvelle|À qui demanderais-tu de l’aide pour répondre à tous tes messages ?|À qui demanderais-tu de l’aide pour choisir une tenue pour sortir ?
+classique-705|Classique|nouvelle|Où chercherais-tu une gourde de qualité en premier ?|Où chercherais-tu un réveil lumineux en premier ?
+classique-706|Classique|nouvelle|À quelle fréquence t’arrive-t-il de faire un grand tri dans tes affaires ?|À quelle fréquence t’arrive-t-il de choisir un film à regarder ?
+classique-707|Classique|nouvelle|Combien de fois par mois as-tu l’occasion de choisir une tenue pour sortir ?|Combien de fois par mois as-tu l’occasion d’organiser un déjeuner entre amis ?
+classique-708|Classique|nouvelle|Quel serait ton premier réflexe si un restaurant n’a plus ton plat préféré ?|Quel serait ton premier réflexe si on te propose un plan qui ne te tente pas ?
+classique-709|Classique|nouvelle|Comment répondrais-tu si un restaurant n’a plus ton plat préféré ?|Comment répondrais-tu si on te propose un plan qui ne te tente pas ?
+classique-710|Classique|nouvelle|Pour quelle occasion voudrais-tu acheter une petite enceinte Bluetooth ?|Pour quelle occasion voudrais-tu acheter un chargeur rapide USB-C de 30 W ?
+classique-711|Classique|nouvelle|Qu’est-ce que tu dirais sur le moment si un ami te prête quelque chose de fragile ?|Qu’est-ce que tu dirais sur le moment si tu reçois une invitation de dernière minute ?
+classique-712|Classique|nouvelle|À quelle fréquence t’arrive-t-il de ranger une chambre après des invités ?|À quelle fréquence t’arrive-t-il de faire les courses de la semaine ?
+classique-713|Classique|nouvelle|Qu’est-ce que tu ferais en premier si tu reçois une invitation de dernière minute ?|Qu’est-ce que tu ferais en premier si tu oublies ton chargeur pour la journée ?
+classique-714|Classique|nouvelle|Qui pourrait te donner le meilleur conseil pour ranger une chambre après des invités ?|Qui pourrait te donner le meilleur conseil pour faire les courses de la semaine ?
+classique-715|Classique|nouvelle|Qui contacterais-tu pour t’aider à nettoyer ton téléphone ?|Qui contacterais-tu pour t’aider à faire un grand tri dans tes affaires ?
+classique-716|Classique|nouvelle|Combien de fois par an as-tu l’occasion de changer les draps du lit ?|Combien de fois par an as-tu l’occasion de préparer un repas pour quatre ?
+classique-717|Classique|nouvelle|À quel endroit irais-tu pour trouver une montre simple ?|À quel endroit irais-tu pour trouver un oreiller de qualité ?
+classique-718|Classique|nouvelle|Quel serait le meilleur moment pour organiser un déjeuner entre amis ?|Quel serait le meilleur moment pour retrouver une copie de ta pièce d’identité ?
+classique-719|Classique|nouvelle|Combien de fois par an as-tu l’occasion de faire les courses de la semaine ?|Combien de fois par an as-tu l’occasion de répondre à tous tes messages ?
+classique-720|Classique|nouvelle|Quel budget maximal prévoirais-tu pour une parure de lit deux personnes en coton ?|Quel budget maximal prévoirais-tu pour une petite enceinte Bluetooth ?
+classique-721|Classique|nouvelle|Quelle serait ta première réaction si un ami te prête quelque chose de fragile ?|Quelle serait ta première réaction si tu reçois une invitation de dernière minute ?
+classique-722|Classique|nouvelle|Selon toi, quel est le prix d’une batterie externe ?|Selon toi, quel est le prix d’une gourde de qualité ?
+classique-723|Classique|nouvelle|Combien de fois par mois as-tu l’occasion de nettoyer ton téléphone ?|Combien de fois par mois as-tu l’occasion de faire un grand tri dans tes affaires ?
+classique-724|Classique|nouvelle|Qu’est-ce qui te pousserait à acheter une paire de lunettes de soleil polarisées de marque courante ?|Qu’est-ce qui te pousserait à acheter une veste de pluie ?
+classique-725|Classique|nouvelle|Qui contacterais-tu pour t’aider à faire le ménage du salon ?|Qui contacterais-tu pour t’aider à trouver une idée de cadeau à moins de 30 € pour un collègue ?
+classique-726|Classique|nouvelle|Combien serais-tu prêt à dépenser pour un chargeur rapide USB-C de 30 W ?|Combien serais-tu prêt à dépenser pour un fauteuil confortable pour un salon ?
+classique-727|Classique|nouvelle|À quelle fréquence aimerais-tu planifier ton prochain week-end ?|À quelle fréquence aimerais-tu préparer un sac pour le week-end ?
+classique-728|Classique|nouvelle|Où chercherais-tu un sac à dos solide en premier ?|Où chercherais-tu une bouteille isotherme en premier ?
+classique-729|Classique|nouvelle|Combien penses-tu que vaut une bonne poêle ?|Combien penses-tu que vaut un tapis de salon ?
+classique-730|Classique|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une petite enceinte Bluetooth ?|Au-delà de quel prix hésiterais-tu à acheter un chargeur rapide USB-C de 30 W ?
+classique-731|Classique|nouvelle|Quel prix imagines-tu pour une bouteille isotherme ?|Quel prix imagines-tu pour une paire de lunettes de soleil polarisées de marque courante ?
+classique-732|Classique|nouvelle|À ton avis, combien coûte une paire de chaussures confortables ?|À ton avis, combien coûte une batterie externe ?
+classique-733|Classique|nouvelle|Combien de temps prévoirais-tu pour organiser une journée libre ?|Combien de temps prévoirais-tu pour faire le ménage du salon ?
+classique-734|Classique|nouvelle|Où irais-tu pour acheter une batterie externe ?|Où irais-tu pour acheter une gourde de qualité ?
+classique-735|Classique|nouvelle|À ton avis, combien de temps faut-il pour ranger une chambre après des invités ?|À ton avis, combien de temps faut-il pour faire les courses de la semaine ?
+classique-736|Classique|nouvelle|À quel endroit irais-tu pour trouver une paire de lunettes de soleil polarisées de marque courante ?|À quel endroit irais-tu pour trouver une veste de pluie ?
+classique-737|Classique|nouvelle|En combien de temps pourrais-tu faire les courses de la semaine ?|En combien de temps pourrais-tu répondre à tous tes messages ?
+classique-738|Classique|nouvelle|À quelle fréquence t’arrive-t-il d’organiser un déjeuner entre amis ?|À quelle fréquence t’arrive-t-il de retrouver une copie de ta pièce d’identité ?
+classique-739|Classique|nouvelle|Où chercherais-tu un casque audio sans fil de milieu de gamme en premier ?|Où chercherais-tu une lampe de bureau LED avec bras articulé en premier ?
+classique-740|Classique|nouvelle|Jusqu’à combien paierais-tu pour une bouteille isotherme ?|Jusqu’à combien paierais-tu pour une paire de lunettes de soleil polarisées de marque courante ?
+classique-741|Classique|nouvelle|Quel serait le meilleur moment pour trouver une idée de cadeau à moins de 30 € pour un collègue ?|Quel serait le meilleur moment pour changer les draps du lit ?
+classique-742|Classique|nouvelle|À qui demanderais-tu de l’aide pour planifier ton prochain week-end ?|À qui demanderais-tu de l’aide pour préparer un sac pour le week-end ?
+classique-743|Classique|nouvelle|Quelle serait ta première réaction si on te sert le mauvais plat ?|Quelle serait ta première réaction si tu croises un ancien camarade de collège perdu de vue depuis dix ans dans la rue ?
+classique-744|Classique|nouvelle|Où irais-tu pour acheter une veste de pluie ?|Où irais-tu pour acheter un casque audio sans fil de milieu de gamme ?
+classique-745|Classique|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une batterie externe ?|Au-delà de quel prix hésiterais-tu à acheter une gourde de qualité ?
+classique-746|Classique|nouvelle|Combien penses-tu que vaut une gourde de qualité ?|Combien penses-tu que vaut un réveil lumineux ?
+classique-747|Classique|nouvelle|Quel moment de la journée choisirais-tu pour faire les courses de la semaine ?|Quel moment de la journée choisirais-tu pour répondre à tous tes messages ?
+classique-748|Classique|nouvelle|Combien penses-tu que vaut un casque audio sans fil de milieu de gamme ?|Combien penses-tu que vaut une lampe de bureau LED avec bras articulé ?
+classique-749|Classique|nouvelle|Quelle phrase sortirait de ta bouche si un ami annule au dernier moment ?|Quelle phrase sortirait de ta bouche si quelqu’un oublie ton prénom ?
+classique-750|Classique|nouvelle|Qu’est-ce que tu ferais en premier si ton colis arrive abîmé ?|Qu’est-ce que tu ferais en premier si quelqu’un coupe la file devant toi ?
+classique-751|Classique|nouvelle|Qu’est-ce que tu dirais sur le moment si un inconnu te demande ton chemin ?|Qu’est-ce que tu dirais sur le moment si ton colis arrive abîmé ?
+classique-752|Classique|nouvelle|Que dirais-tu si tu arrives à un rendez-vous dix minutes en avance ?|Que dirais-tu si un ami annule au dernier moment ?
+classique-753|Classique|nouvelle|Dans quelle situation déciderais-tu d’acheter un sac à dos solide ?|Dans quelle situation déciderais-tu d’acheter une bouteille isotherme ?
+classique-754|Classique|nouvelle|À quelle fréquence aimerais-tu préparer ton petit-déjeuner ?|À quelle fréquence aimerais-tu nettoyer ton téléphone ?
+classique-755|Classique|nouvelle|À ton avis, combien coûte un parapluie résistant au vent ?|À ton avis, combien coûte une valise cabine rigide de 55 cm ?
+classique-756|Classique|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une bouteille isotherme ?|Sur quel site ou dans quel magasin chercherais-tu une paire de lunettes de soleil polarisées de marque courante ?
+classique-757|Classique|nouvelle|Comment répondrais-tu si quelqu’un oublie ton prénom ?|Comment répondrais-tu si on te sert le mauvais plat ?
+classique-758|Classique|nouvelle|À quel moment aurais-tu envie d’acheter un réveil lumineux ?|À quel moment aurais-tu envie d’acheter une montre simple ?
+classique-759|Classique|nouvelle|Où chercherais-tu un chargeur rapide USB-C de 30 W en premier ?|Où chercherais-tu un fauteuil confortable pour un salon en premier ?
+classique-760|Classique|nouvelle|À ton avis, combien de temps faut-il pour préparer tes affaires pour demain ?|À ton avis, combien de temps faut-il pour choisir des photos à garder ?
+classique-761|Classique|nouvelle|À quel endroit irais-tu pour trouver un parapluie résistant au vent ?|À quel endroit irais-tu pour trouver une valise cabine rigide de 55 cm ?
+classique-762|Classique|nouvelle|À ton avis, combien de temps faut-il pour organiser un déjeuner entre amis ?|À ton avis, combien de temps faut-il pour retrouver une copie de ta pièce d’identité ?
+classique-763|Classique|nouvelle|Qui pourrait te donner le meilleur conseil pour organiser un déjeuner entre amis ?|Qui pourrait te donner le meilleur conseil pour retrouver une copie de ta pièce d’identité ?
+classique-764|Classique|nouvelle|Qu’est-ce que tu dirais sur le moment si tu trouves un billet dans une vieille poche ?|Qu’est-ce que tu dirais sur le moment si on te demande de garder un secret ?
+classique-765|Classique|nouvelle|Comment réagirais-tu si quelqu’un coupe la file devant toi ?|Comment réagirais-tu si tu te trompes de porte en arrivant ?
+classique-766|Classique|nouvelle|Quelle serait ta première réaction si on te propose un plan qui ne te tente pas ?|Quelle serait ta première réaction si tu arrives à un rendez-vous dix minutes en avance ?
+classique-767|Classique|nouvelle|Qu’est-ce qui te pousserait à acheter un parapluie résistant au vent ?|Qu’est-ce qui te pousserait à acheter une valise cabine rigide de 55 cm ?
+classique-768|Classique|nouvelle|Qu’est-ce que tu ferais en premier si tu arrives à un rendez-vous dix minutes en avance ?|Qu’est-ce que tu ferais en premier si un ami annule au dernier moment ?
+classique-769|Classique|nouvelle|Qu’est-ce que tu dirais sur le moment si on te sert le mauvais plat ?|Qu’est-ce que tu dirais sur le moment si tu croises un ancien camarade de collège perdu de vue depuis dix ans dans la rue ?
+classique-770|Classique|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un réveil lumineux ?|Sur quel site ou dans quel magasin chercherais-tu une montre simple ?
+classique-771|Classique|nouvelle|Où chercherais-tu une bonne poêle en premier ?|Où chercherais-tu un tapis de salon en premier ?
+classique-772|Classique|nouvelle|Combien de temps prévoirais-tu pour planifier ton prochain week-end ?|Combien de temps prévoirais-tu pour préparer un sac pour le week-end ?
+classique-773|Classique|nouvelle|Combien serais-tu prêt à dépenser pour une bonne poêle ?|Combien serais-tu prêt à dépenser pour un tapis de salon ?
+classique-774|Classique|nouvelle|Quelle serait ta première réaction si tu trouves un billet dans une vieille poche ?|Quelle serait ta première réaction si on te demande de garder un secret ?
+classique-775|Classique|nouvelle|Quelle personne de ton entourage pourrait t’aider à choisir des photos à garder ?|Quelle personne de ton entourage pourrait t’aider à planifier ton prochain week-end ?
+classique-776|Classique|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer tes affaires pour demain ?|Qui pourrait te donner le meilleur conseil pour choisir des photos à garder ?
+classique-777|Classique|nouvelle|À ton avis, combien de temps faut-il pour trouver une idée de cadeau à moins de 30 € pour un collègue ?|À ton avis, combien de temps faut-il pour changer les draps du lit ?
+classique-778|Classique|nouvelle|Combien de temps te faudrait-il pour prendre un rendez-vous administratif ?|Combien de temps te faudrait-il pour préparer tes affaires pour demain ?
+classique-779|Classique|nouvelle|À quel moment aurais-tu envie d’acheter une bouteille isotherme ?|À quel moment aurais-tu envie d’acheter une paire de lunettes de soleil polarisées de marque courante ?
+classique-780|Classique|nouvelle|Quel budget maximal prévoirais-tu pour une montre simple ?|Quel budget maximal prévoirais-tu pour un oreiller de qualité ?
+classique-781|Classique|nouvelle|Combien de temps te faudrait-il pour choisir une tenue pour sortir ?|Combien de temps te faudrait-il pour organiser un déjeuner entre amis ?
+classique-782|Classique|nouvelle|Jusqu’à combien paierais-tu pour un fauteuil confortable pour un salon ?|Jusqu’à combien paierais-tu pour un parapluie résistant au vent ?
+classique-783|Classique|nouvelle|À quel moment de la semaine préférerais-tu prendre un rendez-vous administratif ?|À quel moment de la semaine préférerais-tu préparer tes affaires pour demain ?
+classique-784|Classique|nouvelle|Quel budget maximal prévoirais-tu pour un parapluie résistant au vent ?|Quel budget maximal prévoirais-tu pour une valise cabine rigide de 55 cm ?
+classique-785|Classique|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer un repas pour quatre ?|Quel créneau de la journée serait le plus pratique pour prendre un rendez-vous administratif ?
+classique-786|Classique|nouvelle|À quelle fréquence t’arrive-t-il de trouver une idée de cadeau à moins de 30 € pour un collègue ?|À quelle fréquence t’arrive-t-il de changer les draps du lit ?
+classique-787|Classique|nouvelle|À ton avis, combien coûte une paire de lunettes de soleil polarisées de marque courante ?|À ton avis, combien coûte une veste de pluie ?
+classique-788|Classique|nouvelle|Pour quelle occasion voudrais-tu acheter un oreiller de qualité ?|Pour quelle occasion voudrais-tu acheter une bonne poêle ?
+classique-789|Classique|nouvelle|À quel moment de la semaine préférerais-tu nettoyer ton téléphone ?|À quel moment de la semaine préférerais-tu faire un grand tri dans tes affaires ?
+classique-790|Classique|nouvelle|Combien serais-tu prêt à dépenser pour un sac à dos solide ?|Combien serais-tu prêt à dépenser pour une bouteille isotherme ?
+classique-791|Classique|nouvelle|Combien penses-tu que vaut un sac à dos solide ?|Combien penses-tu que vaut une bouteille isotherme ?
+classique-792|Classique|nouvelle|Qui pourrait te donner le meilleur conseil pour trouver une idée de cadeau à moins de 30 € pour un collègue ?|Qui pourrait te donner le meilleur conseil pour changer les draps du lit ?
+classique-793|Classique|nouvelle|Pour quelle occasion voudrais-tu acheter une batterie externe ?|Pour quelle occasion voudrais-tu acheter une gourde de qualité ?
+classique-794|Classique|nouvelle|Quel serait ton premier réflexe si un voisin fait trop de bruit ?|Quel serait ton premier réflexe si tu trouves un billet dans une vieille poche ?
+classique-795|Classique|nouvelle|Selon toi, quel est le prix d’une veste de pluie ?|Selon toi, quel est le prix d’un casque audio sans fil de milieu de gamme ?
+classique-796|Classique|nouvelle|Quelle personne de ton entourage pourrait t’aider à changer les draps du lit ?|Quelle personne de ton entourage pourrait t’aider à préparer un repas pour quatre ?
+classique-797|Classique|nouvelle|Quel créneau de la journée serait le plus pratique pour organiser une journée libre ?|Quel créneau de la journée serait le plus pratique pour faire le ménage du salon ?
+classique-798|Classique|nouvelle|Combien de temps prévoirais-tu pour répondre à tous tes messages ?|Combien de temps prévoirais-tu pour choisir une tenue pour sortir ?
+classique-799|Classique|nouvelle|Quel moment de la journée choisirais-tu pour choisir des photos à garder ?|Quel moment de la journée choisirais-tu pour planifier ton prochain week-end ?
+classique-800|Classique|nouvelle|Combien serais-tu prêt à dépenser pour une gourde de qualité ?|Combien serais-tu prêt à dépenser pour un réveil lumineux ?
+classique-801|Classique|nouvelle|Quel serait ton premier réflexe si tu te trompes de porte en arrivant ?|Quel serait ton premier réflexe si un ami te prête quelque chose de fragile ?
+classique-802|Classique|nouvelle|Combien de fois par mois as-tu l’occasion de prendre un rendez-vous administratif ?|Combien de fois par mois as-tu l’occasion de préparer tes affaires pour demain ?
+classique-803|Classique|nouvelle|Quel créneau de la journée serait le plus pratique pour répondre à tous tes messages ?|Quel créneau de la journée serait le plus pratique pour choisir une tenue pour sortir ?
+classique-804|Classique|nouvelle|Quelle serait ta première réaction si un inconnu te demande ton chemin ?|Quelle serait ta première réaction si ton colis arrive abîmé ?
+classique-805|Classique|nouvelle|Combien de temps te faudrait-il pour faire le ménage du salon ?|Combien de temps te faudrait-il pour trouver une idée de cadeau à moins de 30 € pour un collègue ?
+classique-806|Classique|nouvelle|Combien serais-tu prêt à dépenser pour un casque audio sans fil de milieu de gamme ?|Combien serais-tu prêt à dépenser pour une lampe de bureau LED avec bras articulé ?
+classique-807|Classique|nouvelle|À quel moment aurais-tu envie d’acheter une lampe de bureau LED avec bras articulé ?|À quel moment aurais-tu envie d’acheter une paire de chaussures confortables ?
+classique-808|Classique|nouvelle|Que dirais-tu si tu reçois une invitation de dernière minute ?|Que dirais-tu si tu oublies ton chargeur pour la journée ?
+classique-809|Classique|nouvelle|Qu’est-ce que tu ferais en premier si tu croises un ancien camarade de collège perdu de vue depuis dix ans dans la rue ?|Qu’est-ce que tu ferais en premier si tu reçois un cadeau qui ne te plaît pas ?
+classique-810|Classique|nouvelle|Dans quelle situation déciderais-tu d’acheter un chargeur rapide USB-C de 30 W ?|Dans quelle situation déciderais-tu d’acheter un fauteuil confortable pour un salon ?
+amitie-confidences-001|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami te demandait si sa nouvelle coupe lui va vraiment ?|Quelle phrase dirais-tu si un ami t’avouait être jaloux de ta réussite ?
+amitie-confidences-002|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami quittait une soirée sans dire au revoir ?|Que ferais-tu en premier si un ami arrivait à une fête sans connaître personne ?
+amitie-confidences-003|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour choisir une tenue pour un premier rendez-vous ?|Vers quelle personne de ton entourage te tournerais-tu pour réviser un message délicat avant de l’envoyer ?
+amitie-confidences-004|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour retrouver un ami que tu n’as pas vu depuis un an ?|Qu’aurais-tu envie d’organiser pour faire connaissance entre deux groupes d’amis ?
+amitie-confidences-005|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu d’attendre devant un cinéma après son retard pour un ami ?|Combien de temps pourrais-tu participer à la préparation de son anniversaire pour rendre service ?
+amitie-confidences-006|Soirée & Amitié|nouvelle|Où organiserais-tu un dîner de retrouvailles avec quatre amis ?|Dans quel endroit aimerais-tu prévoir un pot de départ pour un ami qui déménage ?
+amitie-confidences-007|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un ami qui a repris la course à pied pour environ 25 € ?|Qu’aimerais-tu acheter pour un proche qui part étudier à l’étranger avec 25 € ?
+amitie-confidences-008|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un week-end de randonnée entre amis ?|Quel accessoire prendrais-tu pour un barbecue chez un ami qui n’a rien prévu ?
+amitie-confidences-009|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami racontait régulièrement tes confidences ?|Quel comportement t’agacerait en premier si quelqu’un postait des photos de toi sans ton accord ?
+amitie-confidences-010|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami te demandait ton mot de passe de téléphone ?|Quelle règle demanderais-tu de respecter si un ami voulait inviter une personne inconnue dans ton logement ?
+amitie-confidences-011|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie te confiait avoir oublié ton anniversaire ?|Quelle phrase dirais-tu si une amie te demandait ton avis sur son ex ?
+amitie-confidences-012|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une amie pleurait discrètement pendant un dîner ?|Que ferais-tu en premier si une dispute éclatait pendant un week-end entre amis ?
+amitie-confidences-013|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour préparer un discours pour un mariage ?|Vers quelle personne de ton entourage te tournerais-tu pour te rassurer avant un rendez-vous important ?
+amitie-confidences-014|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour occuper un dimanche pluvieux avec trois amis ?|Qu’aurais-tu envie d’organiser pour créer de bons souvenirs pendant un week-end en gîte ?
+amitie-confidences-015|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’aider à déménager un samedi matin pour un ami ?|Combien de temps pourrais-tu l’aider à monter ses meubles après le travail pour rendre service ?
+amitie-confidences-016|Soirée & Amitié|nouvelle|Où organiserais-tu un anniversaire surprise pour quinze personnes ?|Dans quel endroit aimerais-tu prévoir une soirée pour présenter deux groupes d’amis ?
+amitie-confidences-017|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une amie qui vient de s’installer seule pour environ 25 € ?|Qu’aimerais-tu acheter pour une amie qui dessine tous les jours avec 25 € ?
+amitie-confidences-018|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une soirée jeux de société chez un copain ?|Quel accessoire prendrais-tu pour une séance photo improvisée dans la ville ?
+amitie-confidences-019|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un proche consultait son téléphone pendant vos discussions ?|Quel comportement t’agacerait en premier si un ami te coupait souvent la parole au restaurant ?
+amitie-confidences-020|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un proche voulait venir chez toi sans prévenir ?|Quelle règle demanderais-tu de respecter si un proche te demandait de cacher une information importante ?
+amitie-confidences-021|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami t’annonçait qu’il déménage à l’étranger ?|Quelle phrase dirais-tu si un ami t’annonçait avoir retrouvé un ancien copain d’école ?
+amitie-confidences-022|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami arrivait en retard à son propre anniversaire ?|Que ferais-tu en premier si un ami avait trop froid en attendant le dernier train ?
+amitie-confidences-023|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour te décider entre deux offres d’emploi ?|Vers quelle personne de ton entourage te tournerais-tu pour apprendre à conduire sur autoroute ?
+amitie-confidences-024|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour fêter la réussite d’un examen sans dépenser beaucoup ?|Qu’aurais-tu envie d’organiser pour organiser des retrouvailles après dix ans ?
+amitie-confidences-025|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’écouter répéter une présentation importante pour un ami ?|Combien de temps pourrais-tu l’accompagner dans les magasins pour un cadeau pour rendre service ?
+amitie-confidences-026|Soirée & Amitié|nouvelle|Où organiserais-tu une discussion tranquille avec un ami inquiet ?|Dans quel endroit aimerais-tu prévoir un rendez-vous avant de prendre un train ensemble ?
+amitie-confidences-027|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un proche passionné de jeux de société pour environ 25 € ?|Qu’aimerais-tu acheter pour un ami qui fait souvent de longs trajets en train avec 25 € ?
+amitie-confidences-028|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un pique-nique au parc pour six personnes ?|Quel accessoire prendrais-tu pour un concert en plein air en été ?
+amitie-confidences-029|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami arrivait toujours sans prévenir chez toi ?|Quel comportement t’agacerait en premier si un proche ne participait jamais à l’organisation des sorties ?
+amitie-confidences-030|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami racontait une confidence devant d’autres personnes ?|Quelle règle demanderais-tu de respecter si un ami insistait pour que tu boives pendant une soirée ?
+amitie-confidences-031|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie te demandait de garder un secret délicat ?|Quelle phrase dirais-tu si un ami demandait à venir dormir chez toi après une dispute ?
+amitie-confidences-032|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un proche ne répondait plus au groupe depuis plusieurs semaines ?|Que ferais-tu en premier si une amie manquait le début d’un spectacle réservé ensemble ?
+amitie-confidences-033|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour organiser une fête surprise sans te faire repérer ?|Vers quelle personne de ton entourage te tournerais-tu pour réparer un ordinateur qui ne démarre plus ?
+amitie-confidences-034|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour passer une soirée sans téléphone avec le groupe ?|Qu’aurais-tu envie d’organiser pour profiter d’une heure avant un départ en train ?
+amitie-confidences-035|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de le conduire à l’aéroport très tôt pour un ami ?|Combien de temps pourrais-tu lui expliquer une leçon qu’il n’a pas comprise pour rendre service ?
+amitie-confidences-036|Soirée & Amitié|nouvelle|Où organiserais-tu une sortie à six un samedi après-midi ?|Dans quel endroit aimerais-tu prévoir une célébration après un diplôme ?
+amitie-confidences-037|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un ami qui adore cuisiner pour les autres pour environ 25 € ?|Qu’aimerais-tu acheter pour une personne qui prépare son premier semi-marathon avec 25 € ?
+amitie-confidences-038|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un trajet en train de cinq heures à deux ?|Quel accessoire prendrais-tu pour une journée au ski avec des débutants ?
+amitie-confidences-039|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si une personne invitait systématiquement d’autres gens sans demander ?|Quel comportement t’agacerait en premier si un ami empruntait tes affaires sans demander ?
+amitie-confidences-040|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un copain te demandait de lui prêter une grosse somme ?|Quelle règle demanderais-tu de respecter si un proche te dérangeait systématiquement au travail ?
+amitie-confidences-041|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami annulait votre cinéma pour la troisième fois ?|Quelle phrase dirais-tu si une amie t’écrivait qu’elle a besoin de parler ce soir ?
+amitie-confidences-042|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami semblait mal à l’aise avec une blague du groupe ?|Que ferais-tu en premier si un ami demandait à partir plus tôt d’une soirée ?
+amitie-confidences-043|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour choisir un cadeau pour quelqu’un de difficile ?|Vers quelle personne de ton entourage te tournerais-tu pour monter un meuble compliqué un dimanche ?
+amitie-confidences-044|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour faire découvrir ta ville à un ami étranger ?|Qu’aurais-tu envie d’organiser pour fêter un nouvel appartement avec quatre proches ?
+amitie-confidences-045|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’aider à chercher des clés perdues dehors pour un ami ?|Combien de temps pourrais-tu patienter pendant qu’il se prépare à sortir pour rendre service ?
+amitie-confidences-046|Soirée & Amitié|nouvelle|Où organiserais-tu une soirée jeux de société pour huit amis ?|Dans quel endroit aimerais-tu prévoir un après-midi cuisine entre amis ?
+amitie-confidences-047|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une amie qui commence la photographie pour environ 25 € ?|Qu’aimerais-tu acheter pour un ami qui aime les documentaires avec 25 € ?
+amitie-confidences-048|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une nuit dans une maison sans Wi-Fi ?|Quel accessoire prendrais-tu pour une sortie vélo avec un ami peu équipé ?
+amitie-confidences-049|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami se moquait de tes goûts devant le groupe ?|Quel comportement t’agacerait en premier si quelqu’un monopolisait la conversation pendant chaque dîner ?
+amitie-confidences-050|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami utilisait tes photos sur les réseaux sans demander ?|Quelle règle demanderais-tu de respecter si une personne te demandait de choisir entre deux amitiés ?
+amitie-confidences-051|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami te proposait un road trip sans programme ?|Quelle phrase dirais-tu si un ami te racontait qu’il a menti à ses parents ?
+amitie-confidences-052|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une amie perdait son portefeuille pendant votre sortie ?|Que ferais-tu en premier si une amie voulait s’isoler après une conversation tendue ?
+amitie-confidences-053|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour trouver les mots après une dispute ?|Vers quelle personne de ton entourage te tournerais-tu pour organiser ton budget après un déménagement ?
+amitie-confidences-054|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour changer des habitudes de sortie du vendredi soir ?|Qu’aurais-tu envie d’organiser pour passer du temps avec un ami qui ne peut pas beaucoup marcher ?
+amitie-confidences-055|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de faire la queue pour lui acheter des billets de concert pour un ami ?|Combien de temps pourrais-tu l’attendre à la gare après l’annulation de son train pour rendre service ?
+amitie-confidences-056|Soirée & Amitié|nouvelle|Où organiserais-tu un pique-nique de printemps entre proches ?|Dans quel endroit aimerais-tu prévoir une sortie avec un ami qui connaît mal Paris ?
+amitie-confidences-057|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un copain qui a adopté un chien pour environ 25 € ?|Qu’aimerais-tu acheter pour une amie qui collectionne les livres de cuisine avec 25 € ?
+amitie-confidences-058|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une soirée karaoké à la maison ?|Quel accessoire prendrais-tu pour un trajet de nuit en bus avec des copains ?
+amitie-confidences-059|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un proche annulait vos projets au dernier moment ?|Quel comportement t’agacerait en premier si un proche changeait tous les plans une heure avant ?
+amitie-confidences-060|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un proche t’envoyait des messages toute la nuit ?|Quelle règle demanderais-tu de respecter si un copain empruntait tes vêtements sans les rendre ?
+amitie-confidences-061|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie disait se sentir mise à l’écart du groupe ?|Quelle phrase dirais-tu si une amie te demandait de la couvrir pour une surprise ?
+amitie-confidences-062|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami oubliait son téléphone dans un taxi ?|Que ferais-tu en premier si un ami te demandait de l’aider à déménager au dernier moment ?
+amitie-confidences-063|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour réserver un restaurant pour dix personnes ?|Vers quelle personne de ton entourage te tournerais-tu pour trouver une activité pour un week-end pluvieux ?
+amitie-confidences-064|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour passer un après-midi avec un ami très timide ?|Qu’aurais-tu envie d’organiser pour proposer une sortie à un ami qui n’aime pas la foule ?
+amitie-confidences-065|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’accompagner à un rendez-vous stressant pour un ami ?|Combien de temps pourrais-tu faire le tour du quartier pour retrouver son chien pour rendre service ?
+amitie-confidences-066|Soirée & Amitié|nouvelle|Où organiserais-tu une séance photo souvenir avec ton groupe ?|Dans quel endroit aimerais-tu prévoir une projection privée de votre film préféré ?
+amitie-confidences-067|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une amie qui apprend une nouvelle langue pour environ 25 € ?|Qu’aimerais-tu acheter pour un ami qui a réussi son permis de conduire avec 25 € ?
+amitie-confidences-068|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un après-midi plage avec quatre amis ?|Quel accessoire prendrais-tu pour une soirée cinéma dans un jardin ?
+amitie-confidences-069|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami te demandait de choisir un camp après une dispute ?|Quel comportement t’agacerait en premier si un ami oubliait de te prévenir d’une sortie commune ?
+amitie-confidences-070|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami te faisait régulièrement culpabiliser de dire non ?|Quelle règle demanderais-tu de respecter si un proche te demandait de prendre parti dans une dispute ?
+amitie-confidences-071|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami t’avouait être jaloux de ta réussite ?|Quelle phrase dirais-tu si un ami disait regretter une remarque blessante ?
+amitie-confidences-072|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une amie recevait une mauvaise nouvelle pendant les vacances ?|Que ferais-tu en premier si un proche restait seul pendant un repas de groupe ?
+amitie-confidences-073|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour préparer ton premier entretien d’embauche ?|Vers quelle personne de ton entourage te tournerais-tu pour prendre une décision qui pourrait décevoir un proche ?
+amitie-confidences-074|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour célébrer un anniversaire sans alcool ?|Qu’aurais-tu envie d’organiser pour s’occuper pendant une longue escale à deux ?
+amitie-confidences-075|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de participer à la préparation de son anniversaire pour un ami ?|Combien de temps pourrais-tu l’aider à vider une cave avant un déménagement pour rendre service ?
+amitie-confidences-076|Soirée & Amitié|nouvelle|Où organiserais-tu un petit-déjeuner pour retrouver ton meilleur ami ?|Dans quel endroit aimerais-tu prévoir une soirée tranquille après une semaine chargée ?
+amitie-confidences-077|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un ami qui aime faire du camping pour environ 25 € ?|Qu’aimerais-tu acheter pour une amie qui adore recevoir du monde à dîner avec 25 € ?
+amitie-confidences-078|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une escapade en voiture sous la pluie ?|Quel accessoire prendrais-tu pour une randonnée où tout le monde partage le repas ?
+amitie-confidences-079|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si quelqu’un postait des photos de toi sans ton accord ?|Quel comportement t’agacerait en premier si une personne critiquait tes autres amis en privé ?
+amitie-confidences-080|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un copain voulait conduire ta voiture sans assurance adaptée ?|Quelle règle demanderais-tu de respecter si un ami voulait partager tes conversations privées ?
+amitie-confidences-081|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie te demandait ton avis sur son ex ?|Quelle phrase dirais-tu si un ami te proposait de renouer après plusieurs années ?
+amitie-confidences-082|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami arrivait à une fête sans connaître personne ?|Que ferais-tu en premier si un ami découvrait qu’une photo gênante avait été publiée ?
+amitie-confidences-083|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour choisir une destination de vacances en groupe ?|Vers quelle personne de ton entourage te tournerais-tu pour préparer des excuses après une maladresse ?
+amitie-confidences-084|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour profiter d’une journée ensoleillée avec deux amis ?|Qu’aurais-tu envie d’organiser pour faire quelque chose d’original avec ton meilleur ami ?
+amitie-confidences-085|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’aider à monter ses meubles après le travail pour un ami ?|Combien de temps pourrais-tu le rejoindre en transports après une mauvaise journée pour rendre service ?
+amitie-confidences-086|Soirée & Amitié|nouvelle|Où organiserais-tu un pot de départ pour un ami qui déménage ?|Dans quel endroit aimerais-tu prévoir une activité pour des amis qui ne boivent pas ?
+amitie-confidences-087|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une personne du groupe qui adore les plantes pour environ 25 € ?|Qu’aimerais-tu acheter pour un copain qui s’intéresse au café de spécialité avec 25 € ?
+amitie-confidences-088|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une fête surprise dans un appartement ?|Quel accessoire prendrais-tu pour un dîner où chacun apporte un plat ?
+amitie-confidences-089|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami te coupait souvent la parole au restaurant ?|Quel comportement t’agacerait en premier si un ami prenait toujours les blagues trop loin ?
+amitie-confidences-090|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami voulait inviter une personne inconnue dans ton logement ?|Quelle règle demanderais-tu de respecter si un ami s’invitait chaque fois à un rendez-vous à deux ?
+amitie-confidences-091|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami t’annonçait avoir retrouvé un ancien copain d’école ?|Quelle phrase dirais-tu si une amie t’annonçait qu’elle change complètement de métier ?
+amitie-confidences-092|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une dispute éclatait pendant un week-end entre amis ?|Que ferais-tu en premier si une amie oubliait un objet précieux chez toi ?
+amitie-confidences-093|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour réviser un message délicat avant de l’envoyer ?|Vers quelle personne de ton entourage te tournerais-tu pour trouver une idée originale d’anniversaire ?
+amitie-confidences-094|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour remonter le moral d’un ami après une semaine difficile ?|Qu’aurais-tu envie d’organiser pour passer un moment tranquille avec un ami fatigué ?
+amitie-confidences-095|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’accompagner dans les magasins pour un cadeau pour un ami ?|Combien de temps pourrais-tu l’aider à préparer un repas pour ses invités pour rendre service ?
+amitie-confidences-096|Soirée & Amitié|nouvelle|Où organiserais-tu une soirée pour présenter deux groupes d’amis ?|Dans quel endroit aimerais-tu prévoir un brunch de retrouvailles à cinq ?
+amitie-confidences-097|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un proche qui part étudier à l’étranger pour environ 25 € ?|Qu’aimerais-tu acheter pour une amie qui reprend des cours de danse avec 25 € ?
+amitie-confidences-098|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un camping de deux nuits en forêt ?|Quel accessoire prendrais-tu pour une sortie en bateau avec des amis ?
+amitie-confidences-099|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un proche ne participait jamais à l’organisation des sorties ?|Quel comportement t’agacerait en premier si un proche transformait chaque discussion en compétition ?
+amitie-confidences-100|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un proche te demandait de cacher une information importante ?|Quelle règle demanderais-tu de respecter si un proche se moquait d’une chose qui te blesse ?
+amitie-confidences-101|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami demandait à venir dormir chez toi après une dispute ?|Quelle phrase dirais-tu si un ami te demandait de choisir entre deux tenues ?
+amitie-confidences-102|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami avait trop froid en attendant le dernier train ?|Que ferais-tu en premier si un ami paniquait avant de prendre la parole en public ?
+amitie-confidences-103|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour te rassurer avant un rendez-vous important ?|Vers quelle personne de ton entourage te tournerais-tu pour reprendre confiance après un échec ?
+amitie-confidences-104|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour faire connaissance entre deux groupes d’amis ?|Qu’aurais-tu envie d’organiser pour retrouver un ami que tu n’as pas vu depuis un an ?
+amitie-confidences-105|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de lui expliquer une leçon qu’il n’a pas comprise pour un ami ?|Combien de temps pourrais-tu l’accompagner pendant ses essayages de vêtements pour rendre service ?
+amitie-confidences-106|Soirée & Amitié|nouvelle|Où organiserais-tu un rendez-vous avant de prendre un train ensemble ?|Dans quel endroit aimerais-tu prévoir une fête à petit budget pendant l’hiver ?
+amitie-confidences-107|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une amie qui dessine tous les jours pour environ 25 € ?|Qu’aimerais-tu acheter pour un ami qui passe ses week-ends à bricoler avec 25 € ?
+amitie-confidences-108|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un barbecue chez un ami qui n’a rien prévu ?|Quel accessoire prendrais-tu pour un week-end de randonnée entre amis ?
+amitie-confidences-109|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami empruntait tes affaires sans demander ?|Quel comportement t’agacerait en premier si une personne ne respectait pas les horaires convenus ?
+amitie-confidences-110|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami insistait pour que tu boives pendant une soirée ?|Quelle règle demanderais-tu de respecter si un ami insistait pour connaître tous les détails de ta vie ?
+amitie-confidences-111|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie t’écrivait qu’elle a besoin de parler ce soir ?|Quelle phrase dirais-tu si une amie te disait craindre de perdre votre complicité ?
+amitie-confidences-112|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une amie manquait le début d’un spectacle réservé ensemble ?|Que ferais-tu en premier si une amie avait perdu les clés du logement loué ensemble ?
+amitie-confidences-113|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour apprendre à conduire sur autoroute ?|Vers quelle personne de ton entourage te tournerais-tu pour choisir une tenue pour un premier rendez-vous ?
+amitie-confidences-114|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour créer de bons souvenirs pendant un week-end en gîte ?|Qu’aurais-tu envie d’organiser pour occuper un dimanche pluvieux avec trois amis ?
+amitie-confidences-115|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de patienter pendant qu’il se prépare à sortir pour un ami ?|Combien de temps pourrais-tu relire son dossier de candidature avant l’envoi pour rendre service ?
+amitie-confidences-116|Soirée & Amitié|nouvelle|Où organiserais-tu une célébration après un diplôme ?|Dans quel endroit aimerais-tu prévoir un moment à deux pour discuter sans être dérangés ?
+amitie-confidences-117|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un ami qui fait souvent de longs trajets en train pour environ 25 € ?|Qu’aimerais-tu acheter pour un ami qui a repris la course à pied avec 25 € ?
+amitie-confidences-118|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une séance photo improvisée dans la ville ?|Quel accessoire prendrais-tu pour une soirée jeux de société chez un copain ?
+amitie-confidences-119|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si quelqu’un monopolisait la conversation pendant chaque dîner ?|Quel comportement t’agacerait en premier si un ami refusait de reconnaître une erreur évidente ?
+amitie-confidences-120|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un proche te dérangeait systématiquement au travail ?|Quelle règle demanderais-tu de respecter si quelqu’un faisait des remarques blessantes sur ton partenaire ?
+amitie-confidences-121|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami te racontait qu’il a menti à ses parents ?|Quelle phrase dirais-tu si un ami t’avouait avoir oublié un rendez-vous important ?
+amitie-confidences-122|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami demandait à partir plus tôt d’une soirée ?|Que ferais-tu en premier si un ami quittait une soirée sans dire au revoir ?
+amitie-confidences-123|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour réparer un ordinateur qui ne démarre plus ?|Vers quelle personne de ton entourage te tournerais-tu pour préparer un discours pour un mariage ?
+amitie-confidences-124|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour organiser des retrouvailles après dix ans ?|Qu’aurais-tu envie d’organiser pour fêter la réussite d’un examen sans dépenser beaucoup ?
+amitie-confidences-125|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’attendre à la gare après l’annulation de son train pour un ami ?|Combien de temps pourrais-tu chercher avec lui un hôtel pour un voyage commun pour rendre service ?
+amitie-confidences-126|Soirée & Amitié|nouvelle|Où organiserais-tu un après-midi cuisine entre amis ?|Dans quel endroit aimerais-tu prévoir un dîner de retrouvailles avec quatre amis ?
+amitie-confidences-127|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une personne qui prépare son premier semi-marathon pour environ 25 € ?|Qu’aimerais-tu acheter pour une amie qui vient de s’installer seule avec 25 € ?
+amitie-confidences-128|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un concert en plein air en été ?|Quel accessoire prendrais-tu pour un pique-nique au parc pour six personnes ?
+amitie-confidences-129|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un proche changeait tous les plans une heure avant ?|Quel comportement t’agacerait en premier si quelqu’un insistait pour lire tes messages privés ?
+amitie-confidences-130|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si une personne te demandait de choisir entre deux amitiés ?|Quelle règle demanderais-tu de respecter si un ami te demandait ton mot de passe de téléphone ?
+amitie-confidences-131|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie te demandait de la couvrir pour une surprise ?|Quelle phrase dirais-tu si un ami te demandait si sa nouvelle coupe lui va vraiment ?
+amitie-confidences-132|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une amie voulait s’isoler après une conversation tendue ?|Que ferais-tu en premier si une amie pleurait discrètement pendant un dîner ?
+amitie-confidences-133|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour monter un meuble compliqué un dimanche ?|Vers quelle personne de ton entourage te tournerais-tu pour te décider entre deux offres d’emploi ?
+amitie-confidences-134|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour profiter d’une heure avant un départ en train ?|Qu’aurais-tu envie d’organiser pour passer une soirée sans téléphone avec le groupe ?
+amitie-confidences-135|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de faire le tour du quartier pour retrouver son chien pour un ami ?|Combien de temps pourrais-tu attendre devant un cinéma après son retard pour rendre service ?
+amitie-confidences-136|Soirée & Amitié|nouvelle|Où organiserais-tu une sortie avec un ami qui connaît mal Paris ?|Dans quel endroit aimerais-tu prévoir un anniversaire surprise pour quinze personnes ?
+amitie-confidences-137|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un ami qui aime les documentaires pour environ 25 € ?|Qu’aimerais-tu acheter pour un proche passionné de jeux de société avec 25 € ?
+amitie-confidences-138|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une journée au ski avec des débutants ?|Quel accessoire prendrais-tu pour un trajet en train de cinq heures à deux ?
+amitie-confidences-139|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami oubliait de te prévenir d’une sortie commune ?|Quel comportement t’agacerait en premier si un ami racontait régulièrement tes confidences ?
+amitie-confidences-140|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un copain empruntait tes vêtements sans les rendre ?|Quelle règle demanderais-tu de respecter si un proche voulait venir chez toi sans prévenir ?
+amitie-confidences-141|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami disait regretter une remarque blessante ?|Quelle phrase dirais-tu si une amie te confiait avoir oublié ton anniversaire ?
+amitie-confidences-142|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami te demandait de l’aider à déménager au dernier moment ?|Que ferais-tu en premier si un ami arrivait en retard à son propre anniversaire ?
+amitie-confidences-143|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour organiser ton budget après un déménagement ?|Vers quelle personne de ton entourage te tournerais-tu pour organiser une fête surprise sans te faire repérer ?
+amitie-confidences-144|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour fêter un nouvel appartement avec quatre proches ?|Qu’aurais-tu envie d’organiser pour faire découvrir ta ville à un ami étranger ?
+amitie-confidences-145|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’aider à vider une cave avant un déménagement pour un ami ?|Combien de temps pourrais-tu l’aider à déménager un samedi matin pour rendre service ?
+amitie-confidences-146|Soirée & Amitié|nouvelle|Où organiserais-tu une projection privée de votre film préféré ?|Dans quel endroit aimerais-tu prévoir une discussion tranquille avec un ami inquiet ?
+amitie-confidences-147|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une amie qui collectionne les livres de cuisine pour environ 25 € ?|Qu’aimerais-tu acheter pour un ami qui adore cuisiner pour les autres avec 25 € ?
+amitie-confidences-148|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une sortie vélo avec un ami peu équipé ?|Quel accessoire prendrais-tu pour une nuit dans une maison sans Wi-Fi ?
+amitie-confidences-149|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si une personne critiquait tes autres amis en privé ?|Quel comportement t’agacerait en premier si un proche consultait son téléphone pendant vos discussions ?
+amitie-confidences-150|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un proche te demandait de prendre parti dans une dispute ?|Quelle règle demanderais-tu de respecter si un ami racontait une confidence devant d’autres personnes ?
+amitie-confidences-151|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami te proposait de renouer après plusieurs années ?|Quelle phrase dirais-tu si un ami t’annonçait qu’il déménage à l’étranger ?
+amitie-confidences-152|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un proche restait seul pendant un repas de groupe ?|Que ferais-tu en premier si un proche ne répondait plus au groupe depuis plusieurs semaines ?
+amitie-confidences-153|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour trouver une activité pour un week-end pluvieux ?|Vers quelle personne de ton entourage te tournerais-tu pour choisir un cadeau pour quelqu’un de difficile ?
+amitie-confidences-154|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour passer du temps avec un ami qui ne peut pas beaucoup marcher ?|Qu’aurais-tu envie d’organiser pour changer des habitudes de sortie du vendredi soir ?
+amitie-confidences-155|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de le rejoindre en transports après une mauvaise journée pour un ami ?|Combien de temps pourrais-tu l’écouter répéter une présentation importante pour rendre service ?
+amitie-confidences-156|Soirée & Amitié|nouvelle|Où organiserais-tu une soirée tranquille après une semaine chargée ?|Dans quel endroit aimerais-tu prévoir une sortie à six un samedi après-midi ?
+amitie-confidences-157|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un ami qui a réussi son permis de conduire pour environ 25 € ?|Qu’aimerais-tu acheter pour une amie qui commence la photographie avec 25 € ?
+amitie-confidences-158|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour un trajet de nuit en bus avec des copains ?|Quel accessoire prendrais-tu pour une soirée karaoké à la maison ?
+amitie-confidences-159|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un ami prenait toujours les blagues trop loin ?|Quel comportement t’agacerait en premier si un ami arrivait toujours sans prévenir chez toi ?
+amitie-confidences-160|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami voulait partager tes conversations privées ?|Quelle règle demanderais-tu de respecter si un copain te demandait de lui prêter une grosse somme ?
+amitie-confidences-161|Soirée & Amitié|nouvelle|Que répondrais-tu si une amie t’annonçait qu’elle change complètement de métier ?|Quelle phrase dirais-tu si une amie te demandait de garder un secret délicat ?
+amitie-confidences-162|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si un ami découvrait qu’une photo gênante avait été publiée ?|Que ferais-tu en premier si un ami semblait mal à l’aise avec une blague du groupe ?
+amitie-confidences-163|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour prendre une décision qui pourrait décevoir un proche ?|Vers quelle personne de ton entourage te tournerais-tu pour trouver les mots après une dispute ?
+amitie-confidences-164|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour proposer une sortie à un ami qui n’aime pas la foule ?|Qu’aurais-tu envie d’organiser pour passer un après-midi avec un ami très timide ?
+amitie-confidences-165|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’aider à préparer un repas pour ses invités pour un ami ?|Combien de temps pourrais-tu le conduire à l’aéroport très tôt pour rendre service ?
+amitie-confidences-166|Soirée & Amitié|nouvelle|Où organiserais-tu une activité pour des amis qui ne boivent pas ?|Dans quel endroit aimerais-tu prévoir une soirée jeux de société pour huit amis ?
+amitie-confidences-167|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à une amie qui adore recevoir du monde à dîner pour environ 25 € ?|Qu’aimerais-tu acheter pour un copain qui a adopté un chien avec 25 € ?
+amitie-confidences-168|Soirée & Amitié|nouvelle|Quel objet emporterais-tu pour une soirée cinéma dans un jardin ?|Quel accessoire prendrais-tu pour un après-midi plage avec quatre amis ?
+amitie-confidences-169|Soirée & Amitié|nouvelle|Qu’est-ce qui te dérangerait le plus si un proche transformait chaque discussion en compétition ?|Quel comportement t’agacerait en premier si une personne invitait systématiquement d’autres gens sans demander ?
+amitie-confidences-170|Soirée & Amitié|nouvelle|Quelle limite poserais-tu si un ami s’invitait chaque fois à un rendez-vous à deux ?|Quelle règle demanderais-tu de respecter si un ami utilisait tes photos sur les réseaux sans demander ?
+amitie-confidences-171|Soirée & Amitié|nouvelle|Que répondrais-tu si un ami te demandait de choisir entre deux tenues ?|Quelle phrase dirais-tu si un ami annulait votre cinéma pour la troisième fois ?
+amitie-confidences-172|Soirée & Amitié|nouvelle|Quel serait ton premier réflexe si une amie oubliait un objet précieux chez toi ?|Que ferais-tu en premier si une amie perdait son portefeuille pendant votre sortie ?
+amitie-confidences-173|Soirée & Amitié|nouvelle|À quel ami demanderais-tu conseil pour préparer des excuses après une maladresse ?|Vers quelle personne de ton entourage te tournerais-tu pour réserver un restaurant pour dix personnes ?
+amitie-confidences-174|Soirée & Amitié|nouvelle|Quelle activité proposerais-tu pour s’occuper pendant une longue escale à deux ?|Qu’aurais-tu envie d’organiser pour célébrer un anniversaire sans alcool ?
+amitie-confidences-175|Soirée & Amitié|nouvelle|Combien de temps accepterais-tu de l’accompagner pendant ses essayages de vêtements pour un ami ?|Combien de temps pourrais-tu l’aider à chercher des clés perdues dehors pour rendre service ?
+amitie-confidences-176|Soirée & Amitié|nouvelle|Où organiserais-tu un brunch de retrouvailles à cinq ?|Dans quel endroit aimerais-tu prévoir un pique-nique de printemps entre proches ?
+amitie-confidences-177|Soirée & Amitié|nouvelle|Quel cadeau offrirais-tu à un copain qui s’intéresse au café de spécialité pour environ 25 € ?|Qu’aimerais-tu acheter pour une amie qui apprend une nouvelle langue avec 25 € ?

@@ -1,0 +1,605 @@
+ecole-etudes-072|École & Études|nouvelle|Si tu devais trancher, ce serait passer un oral ou rendre un dossier écrit ?|Tu privilégierais étudier tôt le matin ou étudier tard le soir ?
+ecole-etudes-073|École & Études|nouvelle|Tu choisirais plutôt avoir cours à huit heures ou finir les cours à dix-neuf heures ?|Si tu n’avais droit qu’à une option, tu prendrais avoir un professeur exigeant ou avoir un professeur très souple ?
+ecole-etudes-074|École & Études|nouvelle|Entre apprendre une langue supplémentaire et suivre une option artistique, que préférerais-tu ?|Lequel des deux te tente le plus : lire un manuel papier ou consulter un manuel numérique ?
+ecole-etudes-075|École & Études|nouvelle|Si tu devais trancher, ce serait travailler en bibliothèque ou travailler dans un café calme ?|Tu privilégierais préparer un projet collectif ou rendre un travail individuel ?
+ecole-etudes-076|École & Études|nouvelle|Combien de minutes te faudrait-il pour relire tes notes après un cours de deux heures ?|Quel temps, en minutes, prévoirais-tu pour corriger les fautes d'un exposé de groupe ?
+ecole-etudes-077|École & Études|nouvelle|Tu passerais combien de minutes à préparer ton sac avant une journée d'études ?|Tu mettrais combien de minutes à choisir une option pour le semestre suivant ?
+ecole-etudes-078|École & Études|nouvelle|Combien de minutes consacrerais-tu à comprendre un exercice difficile de mathématiques ?|En général, combien de minutes prendrais-tu pour installer ton ordinateur avant un cours en ligne ?
+ecole-etudes-079|École & Études|nouvelle|Combien de minutes te faudrait-il pour choisir le sujet d'un exposé de cinq minutes ?|Quel temps, en minutes, prévoirais-tu pour classer les documents d'un trimestre ?
+ecole-etudes-080|École & Études|nouvelle|Tu passerais combien de minutes à réviser un chapitre d'histoire de dix pages ?|Tu mettrais combien de minutes à préparer une question à poser à un professeur ?
+ecole-etudes-081|École & Études|nouvelle|Combien de minutes consacrerais-tu à préparer tes fiches avant un contrôle ?|En général, combien de minutes prendrais-tu pour relire un texte pour un commentaire composé ?
+ecole-etudes-082|École & Études|nouvelle|Combien de minutes te faudrait-il pour chercher une référence dans la bibliothèque ?|Quel temps, en minutes, prévoirais-tu pour revoir des formules de physique avant un devoir ?
+ecole-etudes-083|École & Études|nouvelle|Tu passerais combien de minutes à relire un devoir avant de l'envoyer ?|Tu mettrais combien de minutes à chercher un exemple concret pour un exposé ?
+ecole-etudes-084|École & Études|nouvelle|Combien de minutes consacrerais-tu à répéter un oral de présentation ?|En général, combien de minutes prendrais-tu pour écrire un plan de dissertation en trois parties ?
+ecole-etudes-085|École & Études|nouvelle|Combien de minutes te faudrait-il pour corriger les fautes d'un exposé de groupe ?|Quel temps, en minutes, prévoirais-tu pour lire vingt pages d'un livre imposé ?
+ecole-etudes-086|École & Études|nouvelle|Tu passerais combien de minutes à choisir une option pour le semestre suivant ?|Tu mettrais combien de minutes à organiser un calendrier de révisions sur une semaine ?
+ecole-etudes-087|École & Études|nouvelle|Combien de minutes consacrerais-tu à installer ton ordinateur avant un cours en ligne ?|En général, combien de minutes prendrais-tu pour relire tes notes après un cours de deux heures ?
+ecole-etudes-088|École & Études|nouvelle|Combien de minutes te faudrait-il pour classer les documents d'un trimestre ?|Quel temps, en minutes, prévoirais-tu pour préparer ton sac avant une journée d'études ?
+ecole-etudes-089|École & Études|nouvelle|Tu passerais combien de minutes à préparer une question à poser à un professeur ?|Tu mettrais combien de minutes à comprendre un exercice difficile de mathématiques ?
+ecole-etudes-090|École & Études|nouvelle|Combien de minutes consacrerais-tu à relire un texte pour un commentaire composé ?|En général, combien de minutes prendrais-tu pour choisir le sujet d'un exposé de cinq minutes ?
+ecole-etudes-091|École & Études|nouvelle|Combien de minutes te faudrait-il pour revoir des formules de physique avant un devoir ?|Quel temps, en minutes, prévoirais-tu pour réviser un chapitre d'histoire de dix pages ?
+ecole-etudes-092|École & Études|nouvelle|Tu passerais combien de minutes à chercher un exemple concret pour un exposé ?|Tu mettrais combien de minutes à préparer tes fiches avant un contrôle ?
+ecole-etudes-093|École & Études|nouvelle|Combien de minutes consacrerais-tu à écrire un plan de dissertation en trois parties ?|En général, combien de minutes prendrais-tu pour chercher une référence dans la bibliothèque ?
+ecole-etudes-094|École & Études|nouvelle|Combien de minutes te faudrait-il pour lire vingt pages d'un livre imposé ?|Quel temps, en minutes, prévoirais-tu pour relire un devoir avant de l'envoyer ?
+ecole-etudes-095|École & Études|nouvelle|Tu passerais combien de minutes à organiser un calendrier de révisions sur une semaine ?|Tu mettrais combien de minutes à répéter un oral de présentation ?
+ecole-etudes-096|École & Études|nouvelle|Tu passerais combien de minutes à relire tes notes après un cours de deux heures ?|Tu mettrais combien de minutes à corriger les fautes d'un exposé de groupe ?
+ecole-etudes-097|École & Études|nouvelle|Combien de minutes consacrerais-tu à préparer ton sac avant une journée d'études ?|En général, combien de minutes prendrais-tu pour choisir une option pour le semestre suivant ?
+ecole-etudes-098|École & Études|nouvelle|Combien de minutes te faudrait-il pour comprendre un exercice difficile de mathématiques ?|Quel temps, en minutes, prévoirais-tu pour installer ton ordinateur avant un cours en ligne ?
+ecole-etudes-099|École & Études|nouvelle|Tu passerais combien de minutes à choisir le sujet d'un exposé de cinq minutes ?|Tu mettrais combien de minutes à classer les documents d'un trimestre ?
+ecole-etudes-100|École & Études|nouvelle|Combien de minutes consacrerais-tu à réviser un chapitre d'histoire de dix pages ?|En général, combien de minutes prendrais-tu pour préparer une question à poser à un professeur ?
+ecole-etudes-101|École & Études|nouvelle|À qui demanderais-tu conseil pour comprendre une consigne de dissertation difficile ?|Qui appellerais-tu pour trouver un binôme fiable pour un projet ?
+ecole-etudes-102|École & Études|nouvelle|Qui contacterais-tu en priorité pour choisir entre deux filières d'études ?|À qui demanderais-tu un avis pour obtenir un conseil sur un choix d'option ?
+ecole-etudes-103|École & Études|nouvelle|Vers qui te tournerais-tu pour vérifier un résultat de calcul avant un contrôle ?|À quelle personne parlerais-tu d’abord pour apprendre à mieux gérer le stress des examens ?
+ecole-etudes-104|École & Études|nouvelle|À qui demanderais-tu conseil pour obtenir un conseil sur un stage obligatoire ?|Qui appellerais-tu pour relire une lettre de motivation pour une école ?
+ecole-etudes-105|École & Études|nouvelle|Qui contacterais-tu en priorité pour revoir une notion de grammaire mal comprise ?|À qui demanderais-tu un avis pour trouver des annales des années précédentes ?
+ecole-etudes-106|École & Études|nouvelle|Vers qui te tournerais-tu pour résoudre un conflit dans un travail de groupe ?|À quelle personne parlerais-tu d’abord pour reprendre un cours manqué pour maladie ?
+ecole-etudes-107|École & Études|nouvelle|À qui demanderais-tu conseil pour préparer un entretien d'entrée en école ?|Qui appellerais-tu pour demander une recommandation pour une candidature ?
+ecole-etudes-108|École & Études|nouvelle|Qui contacterais-tu en priorité pour connaître les débouchés d'un diplôme ?|À qui demanderais-tu un avis pour vérifier si une formation est reconnue ?
+ecole-etudes-109|École & Études|nouvelle|Vers qui te tournerais-tu pour demander un avis sur un sujet de mémoire ?|À quelle personne parlerais-tu d’abord pour avoir un retour sur un oral blanc ?
+ecole-etudes-110|École & Études|nouvelle|À qui demanderais-tu conseil pour trouver un binôme fiable pour un projet ?|Qui appellerais-tu pour comprendre les règles de plagiat dans un dossier ?
+ecole-etudes-111|École & Études|nouvelle|Qui contacterais-tu en priorité pour obtenir un conseil sur un choix d'option ?|À qui demanderais-tu un avis pour organiser une session de révisions efficace ?
+ecole-etudes-112|École & Études|nouvelle|Vers qui te tournerais-tu pour apprendre à mieux gérer le stress des examens ?|À quelle personne parlerais-tu d’abord pour comprendre une consigne de dissertation difficile ?
+ecole-etudes-113|École & Études|nouvelle|À qui demanderais-tu conseil pour relire une lettre de motivation pour une école ?|Qui appellerais-tu pour choisir entre deux filières d'études ?
+ecole-etudes-114|École & Études|nouvelle|Qui contacterais-tu en priorité pour trouver des annales des années précédentes ?|À qui demanderais-tu un avis pour vérifier un résultat de calcul avant un contrôle ?
+ecole-etudes-115|École & Études|nouvelle|Vers qui te tournerais-tu pour reprendre un cours manqué pour maladie ?|À quelle personne parlerais-tu d’abord pour obtenir un conseil sur un stage obligatoire ?
+ecole-etudes-116|École & Études|nouvelle|À qui demanderais-tu conseil pour demander une recommandation pour une candidature ?|Qui appellerais-tu pour revoir une notion de grammaire mal comprise ?
+ecole-etudes-117|École & Études|nouvelle|Qui contacterais-tu en priorité pour vérifier si une formation est reconnue ?|À qui demanderais-tu un avis pour résoudre un conflit dans un travail de groupe ?
+ecole-etudes-118|École & Études|nouvelle|Vers qui te tournerais-tu pour avoir un retour sur un oral blanc ?|À quelle personne parlerais-tu d’abord pour préparer un entretien d'entrée en école ?
+ecole-etudes-119|École & Études|nouvelle|À qui demanderais-tu conseil pour comprendre les règles de plagiat dans un dossier ?|Qui appellerais-tu pour connaître les débouchés d'un diplôme ?
+ecole-etudes-120|École & Études|nouvelle|Qui contacterais-tu en priorité pour organiser une session de révisions efficace ?|À qui demanderais-tu un avis pour demander un avis sur un sujet de mémoire ?
+ecole-etudes-121|École & Études|nouvelle|Qui contacterais-tu en priorité pour comprendre une consigne de dissertation difficile ?|À qui demanderais-tu un avis pour trouver un binôme fiable pour un projet ?
+ecole-etudes-122|École & Études|nouvelle|Vers qui te tournerais-tu pour choisir entre deux filières d'études ?|À quelle personne parlerais-tu d’abord pour obtenir un conseil sur un choix d'option ?
+ecole-etudes-123|École & Études|nouvelle|À qui demanderais-tu conseil pour vérifier un résultat de calcul avant un contrôle ?|Qui appellerais-tu pour apprendre à mieux gérer le stress des examens ?
+ecole-etudes-124|École & Études|nouvelle|Qui contacterais-tu en priorité pour obtenir un conseil sur un stage obligatoire ?|À qui demanderais-tu un avis pour relire une lettre de motivation pour une école ?
+ecole-etudes-125|École & Études|nouvelle|Vers qui te tournerais-tu pour revoir une notion de grammaire mal comprise ?|À quelle personne parlerais-tu d’abord pour trouver des annales des années précédentes ?
+ecole-etudes-126|École & Études|nouvelle|Où irais-tu pour réviser au calme pendant trois heures ?|Dans quel lieu voudrais-tu travailler un dimanche quand ton logement est bruyant ?
+ecole-etudes-127|École & Études|nouvelle|Dans quel endroit préférerais-tu imprimer un dossier la veille d'un rendu ?|À quel endroit déciderais-tu d’acheter une calculatrice autorisée aux examens ?
+ecole-etudes-128|École & Études|nouvelle|Dans quel lieu aimerais-tu trouver un groupe de travail près du campus ?|Où choisirais-tu d’organiser une répétition de présentation ?
+ecole-etudes-129|École & Études|nouvelle|Où irais-tu pour lire un livre sans bruit après les cours ?|Dans quel lieu voudrais-tu retrouver un ami pour réviser à deux ?
+ecole-etudes-130|École & Études|nouvelle|Dans quel endroit préférerais-tu acheter un carnet avant la rentrée ?|À quel endroit déciderais-tu de consulter des archives pour un exposé d'histoire ?
+ecole-etudes-131|École & Études|nouvelle|Dans quel lieu aimerais-tu emprunter un manuel scolaire difficile à trouver ?|Où choisirais-tu de photocopier un article nécessaire à un cours ?
+ecole-etudes-132|École & Études|nouvelle|Où irais-tu pour passer un appel important entre deux cours ?|Dans quel lieu voudrais-tu demander des informations sur une formation ?
+ecole-etudes-133|École & Études|nouvelle|Dans quel endroit préférerais-tu préparer un exposé en équipe ?|À quel endroit déciderais-tu de trouver un bureau équipé d'un ordinateur ?
+ecole-etudes-134|École & Études|nouvelle|Dans quel lieu aimerais-tu rencontrer un professeur pendant ses permanences ?|Où choisirais-tu de préparer un entretien de stage ?
+ecole-etudes-135|École & Études|nouvelle|Où irais-tu pour travailler un dimanche quand ton logement est bruyant ?|Dans quel lieu voudrais-tu faire un travail pratique encadré ?
+ecole-etudes-136|École & Études|nouvelle|Dans quel endroit préférerais-tu acheter une calculatrice autorisée aux examens ?|À quel endroit déciderais-tu de te concentrer une heure avant un examen ?
+ecole-etudes-137|École & Études|nouvelle|Dans quel lieu aimerais-tu organiser une répétition de présentation ?|Où choisirais-tu de réviser au calme pendant trois heures ?
+ecole-etudes-138|École & Études|nouvelle|Où irais-tu pour retrouver un ami pour réviser à deux ?|Dans quel lieu voudrais-tu imprimer un dossier la veille d'un rendu ?
+ecole-etudes-139|École & Études|nouvelle|Dans quel endroit préférerais-tu consulter des archives pour un exposé d'histoire ?|À quel endroit déciderais-tu de trouver un groupe de travail près du campus ?
+ecole-etudes-140|École & Études|nouvelle|Dans quel lieu aimerais-tu photocopier un article nécessaire à un cours ?|Où choisirais-tu de lire un livre sans bruit après les cours ?
+ecole-etudes-141|École & Études|nouvelle|Où irais-tu pour demander des informations sur une formation ?|Dans quel lieu voudrais-tu acheter un carnet avant la rentrée ?
+ecole-etudes-142|École & Études|nouvelle|Dans quel endroit préférerais-tu trouver un bureau équipé d'un ordinateur ?|À quel endroit déciderais-tu d’emprunter un manuel scolaire difficile à trouver ?
+ecole-etudes-143|École & Études|nouvelle|Dans quel lieu aimerais-tu préparer un entretien de stage ?|Où choisirais-tu de passer un appel important entre deux cours ?
+ecole-etudes-144|École & Études|nouvelle|Où irais-tu pour faire un travail pratique encadré ?|Dans quel lieu voudrais-tu préparer un exposé en équipe ?
+ecole-etudes-145|École & Études|nouvelle|Dans quel endroit préférerais-tu te concentrer une heure avant un examen ?|À quel endroit déciderais-tu de rencontrer un professeur pendant ses permanences ?
+ecole-etudes-146|École & Études|nouvelle|Dans quel endroit préférerais-tu réviser au calme pendant trois heures ?|À quel endroit déciderais-tu de travailler un dimanche quand ton logement est bruyant ?
+ecole-etudes-147|École & Études|nouvelle|Dans quel lieu aimerais-tu imprimer un dossier la veille d'un rendu ?|Où choisirais-tu d’acheter une calculatrice autorisée aux examens ?
+ecole-etudes-148|École & Études|nouvelle|Où irais-tu pour trouver un groupe de travail près du campus ?|Dans quel lieu voudrais-tu organiser une répétition de présentation ?
+ecole-etudes-149|École & Études|nouvelle|Dans quel endroit préférerais-tu lire un livre sans bruit après les cours ?|À quel endroit déciderais-tu de retrouver un ami pour réviser à deux ?
+ecole-etudes-150|École & Études|nouvelle|Dans quel lieu aimerais-tu acheter un carnet avant la rentrée ?|Où choisirais-tu de consulter des archives pour un exposé d'histoire ?
+ecole-etudes-151|École & Études|nouvelle|Quel objet emporterais-tu pour prendre des notes durant un cours de trois heures ?|Quel accessoire utiliserais-tu pour pratiquer la prononciation d'une langue étrangère ?
+ecole-etudes-152|École & Études|nouvelle|Quel accessoire choisirais-tu pour présenter un exposé sans ordinateur personnel ?|Avec quel objet voudrais-tu lire un manuel pendant un trajet en train ?
+ecole-etudes-153|École & Études|nouvelle|Quel objet te semblerait indispensable pour organiser toutes les dates de rendu du semestre ?|Quel objet prendrais-tu en priorité pour expliquer un schéma à un camarade ?
+ecole-etudes-154|École & Études|nouvelle|Quel objet emporterais-tu pour mémoriser des cartes géographiques ?|Quel accessoire utiliserais-tu pour conserver les fiches de révision d'une année ?
+ecole-etudes-155|École & Études|nouvelle|Quel accessoire choisirais-tu pour transporter des livres lourds jusqu'au campus ?|Avec quel objet voudrais-tu présenter un graphique au tableau ?
+ecole-etudes-156|École & Études|nouvelle|Quel objet te semblerait indispensable pour corriger des exercices de mathématiques ?|Quel objet prendrais-tu en priorité pour faire un exercice de géométrie précis ?
+ecole-etudes-157|École & Études|nouvelle|Quel objet emporterais-tu pour annoter un texte littéraire de dix pages ?|Quel accessoire utiliserais-tu pour travailler dans une bibliothèque sans prise électrique ?
+ecole-etudes-158|École & Études|nouvelle|Quel accessoire choisirais-tu pour étudier dans une salle très lumineuse ?|Avec quel objet voudrais-tu transporter un ordinateur sous la pluie ?
+ecole-etudes-159|École & Études|nouvelle|Quel objet te semblerait indispensable pour réviser sans connexion Internet ?|Quel objet prendrais-tu en priorité pour enregistrer des idées pour une dissertation ?
+ecole-etudes-160|École & Études|nouvelle|Quel objet emporterais-tu pour pratiquer la prononciation d'une langue étrangère ?|Quel accessoire utiliserais-tu pour organiser un projet de groupe à distance ?
+ecole-etudes-161|École & Études|nouvelle|Quel accessoire choisirais-tu pour lire un manuel pendant un trajet en train ?|Avec quel objet voudrais-tu retrouver rapidement une définition pendant des révisions ?
+ecole-etudes-162|École & Études|nouvelle|Quel objet te semblerait indispensable pour expliquer un schéma à un camarade ?|Quel objet prendrais-tu en priorité pour prendre des notes durant un cours de trois heures ?
+ecole-etudes-163|École & Études|nouvelle|Quel objet emporterais-tu pour conserver les fiches de révision d'une année ?|Quel accessoire utiliserais-tu pour présenter un exposé sans ordinateur personnel ?
+ecole-etudes-164|École & Études|nouvelle|Quel accessoire choisirais-tu pour présenter un graphique au tableau ?|Avec quel objet voudrais-tu organiser toutes les dates de rendu du semestre ?
+ecole-etudes-165|École & Études|nouvelle|Quel objet te semblerait indispensable pour faire un exercice de géométrie précis ?|Quel objet prendrais-tu en priorité pour mémoriser des cartes géographiques ?
+ecole-etudes-166|École & Études|nouvelle|Quel objet emporterais-tu pour travailler dans une bibliothèque sans prise électrique ?|Quel accessoire utiliserais-tu pour transporter des livres lourds jusqu'au campus ?
+ecole-etudes-167|École & Études|nouvelle|Quel accessoire choisirais-tu pour transporter un ordinateur sous la pluie ?|Avec quel objet voudrais-tu corriger des exercices de mathématiques ?
+ecole-etudes-168|École & Études|nouvelle|Quel objet te semblerait indispensable pour enregistrer des idées pour une dissertation ?|Quel objet prendrais-tu en priorité pour annoter un texte littéraire de dix pages ?
+ecole-etudes-169|École & Études|nouvelle|Quel objet emporterais-tu pour organiser un projet de groupe à distance ?|Quel accessoire utiliserais-tu pour étudier dans une salle très lumineuse ?
+ecole-etudes-170|École & Études|nouvelle|Quel accessoire choisirais-tu pour retrouver rapidement une définition pendant des révisions ?|Avec quel objet voudrais-tu réviser sans connexion Internet ?
+ecole-etudes-171|École & Études|nouvelle|Quel accessoire choisirais-tu pour prendre des notes durant un cours de trois heures ?|Avec quel objet voudrais-tu pratiquer la prononciation d'une langue étrangère ?
+ecole-etudes-172|École & Études|nouvelle|Quel objet te semblerait indispensable pour présenter un exposé sans ordinateur personnel ?|Quel objet prendrais-tu en priorité pour lire un manuel pendant un trajet en train ?
+ecole-etudes-173|École & Études|nouvelle|Quel objet emporterais-tu pour organiser toutes les dates de rendu du semestre ?|Quel accessoire utiliserais-tu pour expliquer un schéma à un camarade ?
+ecole-etudes-174|École & Études|nouvelle|Quel accessoire choisirais-tu pour mémoriser des cartes géographiques ?|Avec quel objet voudrais-tu conserver les fiches de révision d'une année ?
+ecole-etudes-175|École & Études|nouvelle|Quel objet te semblerait indispensable pour transporter des livres lourds jusqu'au campus ?|Quel objet prendrais-tu en priorité pour présenter un graphique au tableau ?
+ecole-etudes-176|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais faire des fiches après un cours important ?|Sur un mois normal, combien de fois choisirais-tu de regarder une vidéo pédagogique en complément ?
+ecole-etudes-177|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu étudier dans une bibliothèque plutôt qu'à la maison ?|Selon toi, combien de fois par mois serait-il raisonnable de pratiquer une langue étrangère avec un ami ?
+ecole-etudes-178|École & Études|nouvelle|En un mois, combien de fois pourrais-tu réviser avec un autre étudiant ?|Sur un mois ordinaire, combien de fois aimerais-tu chercher des articles pour approfondir un cours ?
+ecole-etudes-179|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais revoir tes objectifs d'études ?|Sur un mois normal, combien de fois choisirais-tu de faire des pauses pendant une longue révision ?
+ecole-etudes-180|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu travailler en groupe sur un exposé ?|Selon toi, combien de fois par mois serait-il raisonnable de participer à une conférence de ton établissement ?
+ecole-etudes-181|École & Études|nouvelle|En un mois, combien de fois pourrais-tu demander un retour à un professeur ?|Sur un mois ordinaire, combien de fois aimerais-tu prendre rendez-vous avec un conseiller d'orientation ?
+ecole-etudes-182|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais relire un ancien devoir corrigé ?|Sur un mois normal, combien de fois choisirais-tu de lire un chapitre en avance sur le programme ?
+ecole-etudes-183|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu préparer tes affaires la veille d'un cours ?|Selon toi, combien de fois par mois serait-il raisonnable de refaire un exercice raté pour progresser ?
+ecole-etudes-184|École & Études|nouvelle|En un mois, combien de fois pourrais-tu utiliser des cartes mémoire pour réviser ?|Sur un mois ordinaire, combien de fois aimerais-tu apprendre une nouvelle méthode de mémorisation ?
+ecole-etudes-185|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais regarder une vidéo pédagogique en complément ?|Sur un mois normal, combien de fois choisirais-tu de planifier tes révisions dans un agenda ?
+ecole-etudes-186|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu pratiquer une langue étrangère avec un ami ?|Selon toi, combien de fois par mois serait-il raisonnable de te tester avec un questionnaire d'entraînement ?
+ecole-etudes-187|École & Études|nouvelle|En un mois, combien de fois pourrais-tu chercher des articles pour approfondir un cours ?|Sur un mois ordinaire, combien de fois aimerais-tu faire des fiches après un cours important ?
+ecole-etudes-188|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais faire des pauses pendant une longue révision ?|Sur un mois normal, combien de fois choisirais-tu d’étudier dans une bibliothèque plutôt qu'à la maison ?
+ecole-etudes-189|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu participer à une conférence de ton établissement ?|Selon toi, combien de fois par mois serait-il raisonnable de réviser avec un autre étudiant ?
+ecole-etudes-190|École & Études|nouvelle|En un mois, combien de fois pourrais-tu prendre rendez-vous avec un conseiller d'orientation ?|Sur un mois ordinaire, combien de fois aimerais-tu revoir tes objectifs d'études ?
+ecole-etudes-191|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais lire un chapitre en avance sur le programme ?|Sur un mois normal, combien de fois choisirais-tu de travailler en groupe sur un exposé ?
+ecole-etudes-192|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu refaire un exercice raté pour progresser ?|Selon toi, combien de fois par mois serait-il raisonnable de demander un retour à un professeur ?
+ecole-etudes-193|École & Études|nouvelle|En un mois, combien de fois pourrais-tu apprendre une nouvelle méthode de mémorisation ?|Sur un mois ordinaire, combien de fois aimerais-tu relire un ancien devoir corrigé ?
+ecole-etudes-194|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais planifier tes révisions dans un agenda ?|Sur un mois normal, combien de fois choisirais-tu de préparer tes affaires la veille d'un cours ?
+ecole-etudes-195|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu te tester avec un questionnaire d'entraînement ?|Selon toi, combien de fois par mois serait-il raisonnable d’utiliser des cartes mémoire pour réviser ?
+ecole-etudes-196|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu faire des fiches après un cours important ?|Selon toi, combien de fois par mois serait-il raisonnable de regarder une vidéo pédagogique en complément ?
+ecole-etudes-197|École & Études|nouvelle|En un mois, combien de fois pourrais-tu étudier dans une bibliothèque plutôt qu'à la maison ?|Sur un mois ordinaire, combien de fois aimerais-tu pratiquer une langue étrangère avec un ami ?
+ecole-etudes-198|École & Études|nouvelle|Combien de fois par mois est-ce que tu pourrais réviser avec un autre étudiant ?|Sur un mois normal, combien de fois choisirais-tu de chercher des articles pour approfondir un cours ?
+ecole-etudes-199|École & Études|nouvelle|Combien de fois dans un mois aimerais-tu revoir tes objectifs d'études ?|Selon toi, combien de fois par mois serait-il raisonnable de faire des pauses pendant une longue révision ?
+ecole-etudes-200|École & Études|nouvelle|En un mois, combien de fois pourrais-tu travailler en groupe sur un exposé ?|Sur un mois ordinaire, combien de fois aimerais-tu participer à une conférence de ton établissement ?
+enfance-001|École & Études|ancienne|Quelle matière préférais-tu à l’école ?|Quelle matière aurais-tu aimé avoir à l’école ?
+enfance-002|École & Études|ancienne|Quelle matière te faisait le plus peur ?|Quelle matière te serait utile aujourd’hui ?
+enfance-003|École & Études|ancienne|Quel jouet as-tu gardé ?|Quel jouet voulais-tu absolument pour Noël ?
+enfance-004|École & Études|ancienne|Quel goûter mangeais-tu après l’école ?|Quel plat de cantine préférais-tu ?
+enfance-010|École & Études|ancienne|Combien d’élèves y avait-il dans ta classe de CM2 ?|Combien d’amis invitais-tu à tes anniversaires d’enfant ?
+enfance-015|École & Études|ancienne|À quelle heure te couchais-tu à dix ans ?|À quelle heure commençait l’école ?
+enfance-026|École & Études|ancienne|Quel cadeau d’anniversaire t’a le plus marqué enfant ?|Quel cadeau d’enfance as-tu toujours ?
+enfance-030|École & Études|ancienne|À quel âge as-tu arrêté de croire au père Noël ?|À quel âge as-tu eu ton premier argent de poche ?
+enfance-037|École & Études|ancienne|Combien de minutes durait ton repas à la cantine ?|Combien de minutes attendais-tu dans la file de la cantine ?
+enfance-040|École & Études|ancienne|Que criait-on quand quelqu’un faisait tomber son plateau ?|Que disait la dame de la cantine pour te faire finir ton assiette ?
+enfance-706|École & Études|nouvelle|Quelle personne de ton entourage pourrait t’aider à réviser une dictée ?|Quelle personne de ton entourage pourrait t’aider à ranger une chambre d’enfant ?
+enfance-707|École & Études|nouvelle|Comment répondrais-tu si tu reçois une bonne note inattendue ?|Comment répondrais-tu si ton meilleur ami est absent le jour de la rentrée ?
+enfance-708|École & Études|nouvelle|Selon toi, quel est le prix d’un réveil pour enfant ?|Selon toi, quel est le prix d’une boîte à goûter ?
+enfance-709|École & Études|nouvelle|Qui pourrait te donner le meilleur conseil pour organiser un anniversaire d’enfant ?|Qui pourrait te donner le meilleur conseil pour réviser une dictée ?
+enfance-710|École & Études|nouvelle|Jusqu’à combien paierais-tu pour un journal intime avec cadenas ?|Jusqu’à combien paierais-tu pour un jeu de cartes illustrées ?
+enfance-711|École & Études|nouvelle|Quel détail vérifierais-tu avant d’apprendre une poésie par cœur ?|Quel détail vérifierais-tu avant de préparer un exposé scolaire ?
+enfance-712|École & Études|nouvelle|Combien penses-tu que vaut une boîte de pâte à modeler ?|Combien penses-tu que vaut un journal intime avec cadenas ?
+enfance-713|École & Études|nouvelle|À quel endroit irais-tu pour trouver un vélo pour enfant de six à huit ans ?|À quel endroit irais-tu pour trouver un ballon de football pour jouer dans la cour ?
+enfance-714|École & Études|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un ballon de football pour jouer dans la cour ?|Au-delà de quel prix hésiterais-tu à acheter un album de bandes dessinées ?
+enfance-715|École & Études|nouvelle|Où irais-tu pour acheter un réveil pour enfant ?|Où irais-tu pour acheter une boîte à goûter ?
+enfance-716|École & Études|nouvelle|Combien de temps te faudrait-il pour faire un dessin pour un proche ?|Combien de temps te faudrait-il pour construire une cabane avec des coussins ?
+enfance-717|École & Études|nouvelle|Où chercherais-tu une boîte à goûter en premier ?|Où chercherais-tu une petite console de jeu portable en premier ?
+enfance-718|École & Études|nouvelle|Combien penses-tu que vaut un livre illustré pour enfant ?|Combien penses-tu que vaut une peluche de qualité ?
+enfance-719|École & Études|nouvelle|Quelle phrase sortirait de ta bouche si tu reçois un cadeau que tu possèdes déjà ?|Quelle phrase sortirait de ta bouche si tu te fais gronder pour avoir bavardé ?
+enfance-720|École & Études|nouvelle|Quelle phrase sortirait de ta bouche si un camarade te demande ton goûter ?|Quelle phrase sortirait de ta bouche si tu es choisi en dernier pour une équipe ?
+enfance-721|École & Études|nouvelle|Où irais-tu pour acheter un ballon de football pour jouer dans la cour ?|Où irais-tu pour acheter un album de bandes dessinées ?
+enfance-722|École & Études|nouvelle|À quel moment de la semaine préférerais-tu préparer un exposé scolaire ?|À quel moment de la semaine préférerais-tu organiser un anniversaire d’enfant ?
+enfance-723|École & Études|nouvelle|Si tu devais préparer ton goûter après l’école, quelle serait ta priorité ?|Si tu devais revoir les tables de multiplication, quelle serait ta priorité ?
+enfance-724|École & Études|nouvelle|Quel serait le meilleur moment pour faire tes devoirs après l’école ?|Quel serait le meilleur moment pour choisir un jeu pour la récréation ?
+enfance-725|École & Études|nouvelle|Qui contacterais-tu pour t’aider à faire un dessin pour un proche ?|Qui contacterais-tu pour t’aider à construire une cabane avec des coussins ?
+enfance-726|École & Études|nouvelle|Qu’est-ce que tu ferais en premier si ton professeur change de place tout le monde ?|Qu’est-ce que tu ferais en premier si tu oublies les paroles d’une chanson à la fête ?
+enfance-727|École & Études|nouvelle|Quel serait le point le plus important pour préparer une fête d’école ?|Quel serait le point le plus important pour choisir une activité du mercredi ?
+enfance-728|École & Études|nouvelle|Que dirais-tu si la récréation est annulée à cause de la pluie ?|Que dirais-tu si tu trouves une pièce dans la cour ?
+enfance-729|École & Études|nouvelle|Qu’est-ce que tu dirais sur le moment si un enfant refuse de partager un jouet ?|Qu’est-ce que tu dirais sur le moment si la récréation est annulée à cause de la pluie ?
+enfance-730|École & Études|nouvelle|Quelle serait ta principale difficulté pour décorer un cahier ?|Quelle serait ta principale difficulté pour choisir un livre à la bibliothèque ?
+enfance-731|École & Études|nouvelle|À ton avis, combien de temps faut-il pour construire une cabane avec des coussins ?|À ton avis, combien de temps faut-il pour préparer une fête d’école ?
+enfance-732|École & Études|nouvelle|En combien de temps pourrais-tu revoir les tables de multiplication ?|En combien de temps pourrais-tu préparer une sortie de classe ?
+enfance-733|École & Études|nouvelle|Où irais-tu pour acheter un puzzle de cent pièces ?|Où irais-tu pour acheter une boîte de pâte à modeler ?
+enfance-734|École & Études|nouvelle|Quel détail vérifierais-tu avant de ranger une chambre d’enfant ?|Quel détail vérifierais-tu avant d’apprendre à faire du vélo ?
+enfance-735|École & Études|nouvelle|Pour quelle occasion voudrais-tu acheter un jeu de société familial ?|Pour quelle occasion voudrais-tu acheter un livre illustré pour enfant ?
+enfance-736|École & Études|nouvelle|Quel serait le point le plus important pour préparer ton costume de carnaval ?|Quel serait le point le plus important pour apprendre à nager ?
+enfance-737|École & Études|nouvelle|À qui demanderais-tu de l’aide pour ranger une chambre d’enfant ?|À qui demanderais-tu de l’aide pour apprendre à faire du vélo ?
+enfance-738|École & Études|nouvelle|Combien de temps prévoirais-tu pour apprendre à nager ?|Combien de temps prévoirais-tu pour faire un dessin pour un proche ?
+enfance-739|École & Études|nouvelle|Quelle serait ta principale difficulté pour préparer ton cartable pour le lendemain ?|Quelle serait ta principale difficulté pour faire tes devoirs après l’école ?
+enfance-740|École & Études|nouvelle|Combien serais-tu prêt à dépenser pour une boîte à goûter ?|Combien serais-tu prêt à dépenser pour une petite console de jeu portable ?
+enfance-741|École & Études|nouvelle|Où chercherais-tu un album de bandes dessinées en premier ?|Où chercherais-tu un paquet de billes en premier ?
+enfance-742|École & Études|nouvelle|Comment répondrais-tu si tu es choisi en dernier pour une équipe ?|Comment répondrais-tu si le professeur te félicite devant toute la classe ?
+enfance-743|École & Études|nouvelle|Quel serait le meilleur moment pour construire une cabane avec des coussins ?|Quel serait le meilleur moment pour préparer une fête d’école ?
+enfance-744|École & Études|nouvelle|Quelle phrase sortirait de ta bouche si tu trouves une pièce dans la cour ?|Quelle phrase sortirait de ta bouche si tu reçois une bonne note inattendue ?
+enfance-745|École & Études|nouvelle|Comment répondrais-tu si tu te fais gronder pour avoir bavardé ?|Comment répondrais-tu si ton équipe gagne un jeu de cour ?
+enfance-746|École & Études|nouvelle|Qu’est-ce qui te pousserait à acheter un jeu de cartes illustrées ?|Qu’est-ce qui te pousserait à acheter un réveil pour enfant ?
+enfance-747|École & Études|nouvelle|À quel moment de la semaine préférerais-tu décorer un cahier ?|À quel moment de la semaine préférerais-tu choisir un livre à la bibliothèque ?
+enfance-748|École & Études|nouvelle|À ton avis, combien coûte un cartable pour l’école primaire ?|À ton avis, combien coûte une boîte de vingt-quatre crayons de couleur ?
+enfance-749|École & Études|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un journal intime avec cadenas ?|Sur quel site ou dans quel magasin chercherais-tu un jeu de cartes illustrées ?
+enfance-750|École & Études|nouvelle|Quel créneau de la journée serait le plus pratique pour apprendre une poésie par cœur ?|Quel créneau de la journée serait le plus pratique pour préparer un exposé scolaire ?
+enfance-751|École & Études|nouvelle|Quel serait le meilleur moment pour choisir un livre à la bibliothèque ?|Quel serait le meilleur moment pour préparer ton costume de carnaval ?
+enfance-752|École & Études|nouvelle|Quelle serait ta principale difficulté pour faire un dessin pour un proche ?|Quelle serait ta principale difficulté pour construire une cabane avec des coussins ?
+enfance-753|École & Études|nouvelle|Quel détail vérifierais-tu avant de choisir une activité du mercredi ?|Quel détail vérifierais-tu avant de préparer ton cartable pour le lendemain ?
+enfance-754|École & Études|nouvelle|À quel moment aurais-tu envie d’acheter un journal intime avec cadenas ?|À quel moment aurais-tu envie d’acheter un jeu de cartes illustrées ?
+enfance-755|École & Études|nouvelle|Qu’est-ce que tu ferais en premier si ton meilleur ami change d’école ?|Qu’est-ce que tu ferais en premier si tu reçois un cadeau que tu possèdes déjà ?
+enfance-756|École & Études|nouvelle|Selon toi, quel est le prix d’un jeu de société familial ?|Selon toi, quel est le prix d’un livre illustré pour enfant ?
+enfance-757|École & Études|nouvelle|Quelle serait ta première réaction si ton meilleur ami est absent le jour de la rentrée ?|Quelle serait ta première réaction si tu oublies ton cahier le jour du contrôle ?
+enfance-758|École & Études|nouvelle|Comment réagirais-tu si tu trouves une pièce dans la cour ?|Comment réagirais-tu si tu reçois une bonne note inattendue ?
+enfance-759|École & Études|nouvelle|Selon toi, quel est le prix d’une boîte de vingt-quatre crayons de couleur ?|Selon toi, quel est le prix d’un paquet de dix cartes à collectionner sous licence officielle ?
+enfance-760|École & Études|nouvelle|Qu’est-ce qui te pousserait à acheter une trousse d’école originale ?|Qu’est-ce qui te pousserait à acheter un jeu de société familial ?
+enfance-761|École & Études|nouvelle|Qui pourrait te donner le meilleur conseil pour faire tes devoirs après l’école ?|Qui pourrait te donner le meilleur conseil pour choisir un jeu pour la récréation ?
+enfance-762|École & Études|nouvelle|Qu’est-ce que tu ferais en premier si la récréation est annulée à cause de la pluie ?|Qu’est-ce que tu ferais en premier si tu trouves une pièce dans la cour ?
+enfance-763|École & Études|nouvelle|Quel moment de la journée choisirais-tu pour réviser une dictée ?|Quel moment de la journée choisirais-tu pour ranger une chambre d’enfant ?
+enfance-764|École & Études|nouvelle|Quel serait le meilleur moment pour préparer ton goûter après l’école ?|Quel serait le meilleur moment pour revoir les tables de multiplication ?
+enfance-765|École & Études|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un jeu de construction ?|Sur quel site ou dans quel magasin chercherais-tu un vélo pour enfant de six à huit ans ?
+enfance-766|École & Études|nouvelle|Dans quelle situation déciderais-tu d’acheter une boîte de pâte à modeler ?|Dans quelle situation déciderais-tu d’acheter un journal intime avec cadenas ?
+enfance-767|École & Études|nouvelle|Où chercherais-tu un paquet de dix cartes à collectionner sous licence officielle en premier ?|Où chercherais-tu un jeu de construction en premier ?
+enfance-768|École & Études|nouvelle|Quel budget maximal prévoirais-tu pour un jeu de cartes illustrées ?|Quel budget maximal prévoirais-tu pour un réveil pour enfant ?
+enfance-769|École & Études|nouvelle|Pour quelle occasion voudrais-tu acheter un puzzle de cent pièces ?|Pour quelle occasion voudrais-tu acheter une boîte de pâte à modeler ?
+enfance-770|École & Études|nouvelle|Comment réagirais-tu si un camarade te demande ton goûter ?|Comment réagirais-tu si tu es choisi en dernier pour une équipe ?
+enfance-771|École & Études|nouvelle|Quel moment de la journée choisirais-tu pour revoir les tables de multiplication ?|Quel moment de la journée choisirais-tu pour préparer une sortie de classe ?
+enfance-772|École & Études|nouvelle|Combien de temps prévoirais-tu pour apprendre une poésie par cœur ?|Combien de temps prévoirais-tu pour préparer un exposé scolaire ?
+enfance-773|École & Études|nouvelle|Qui pourrait te donner le meilleur conseil pour construire une cabane avec des coussins ?|Qui pourrait te donner le meilleur conseil pour préparer une fête d’école ?
+enfance-774|École & Études|nouvelle|Quelle serait ta première réaction si ton équipe gagne un jeu de cour ?|Quelle serait ta première réaction si un camarade casse ton crayon préféré ?
+enfance-775|École & Études|nouvelle|Combien penses-tu que vaut un album de bandes dessinées ?|Combien penses-tu que vaut un paquet de billes ?
+enfance-776|École & Études|nouvelle|Si tu devais construire une cabane avec des coussins, quelle serait ta priorité ?|Si tu devais préparer une fête d’école, quelle serait ta priorité ?
+enfance-777|École & Études|nouvelle|À quel endroit irais-tu pour trouver un jeu de cartes illustrées ?|À quel endroit irais-tu pour trouver un réveil pour enfant ?
+enfance-778|École & Études|nouvelle|En combien de temps pourrais-tu choisir un jeu pour la récréation ?|En combien de temps pourrais-tu apprendre une poésie par cœur ?
+enfance-779|École & Études|nouvelle|Qu’est-ce que tu ferais en premier si un camarade casse ton crayon préféré ?|Qu’est-ce que tu ferais en premier si on t’annonce une sortie scolaire surprise ?
+enfance-780|École & Études|nouvelle|Quelle serait ta première réaction si un ami veut échanger son goûter ?|Quelle serait ta première réaction si ton professeur change de place tout le monde ?
+enfance-781|École & Études|nouvelle|Qu’est-ce que tu dirais sur le moment si ton équipe gagne un jeu de cour ?|Qu’est-ce que tu dirais sur le moment si un camarade casse ton crayon préféré ?
+enfance-782|École & Études|nouvelle|Dans quelle situation déciderais-tu d’acheter un livre illustré pour enfant ?|Dans quelle situation déciderais-tu d’acheter une peluche de qualité ?
+enfance-783|École & Études|nouvelle|Où irais-tu pour acheter une boîte de vingt-quatre crayons de couleur ?|Où irais-tu pour acheter un paquet de dix cartes à collectionner sous licence officielle ?
+enfance-784|École & Études|nouvelle|Quel créneau de la journée serait le plus pratique pour ranger une chambre d’enfant ?|Quel créneau de la journée serait le plus pratique pour apprendre à faire du vélo ?
+enfance-785|École & Études|nouvelle|Qui contacterais-tu pour t’aider à apprendre à faire du vélo ?|Qui contacterais-tu pour t’aider à préparer ton goûter après l’école ?
+enfance-786|École & Études|nouvelle|Combien serais-tu prêt à dépenser pour un album de bandes dessinées ?|Combien serais-tu prêt à dépenser pour un paquet de billes ?
+enfance-787|École & Études|nouvelle|Si tu devais faire tes devoirs après l’école, quelle serait ta priorité ?|Si tu devais choisir un jeu pour la récréation, quelle serait ta priorité ?
+enfance-788|École & Études|nouvelle|Combien de temps prévoirais-tu pour préparer une sortie de classe ?|Combien de temps prévoirais-tu pour décorer un cahier ?
+enfance-789|École & Études|nouvelle|Combien serais-tu prêt à dépenser pour un paquet de dix cartes à collectionner sous licence officielle ?|Combien serais-tu prêt à dépenser pour un jeu de construction ?
+enfance-790|École & Études|nouvelle|Que dirais-tu si ton meilleur ami change d’école ?|Que dirais-tu si tu reçois un cadeau que tu possèdes déjà ?
+enfance-791|École & Études|nouvelle|Que dirais-tu si un camarade casse ton crayon préféré ?|Que dirais-tu si on t’annonce une sortie scolaire surprise ?
+enfance-792|École & Études|nouvelle|En combien de temps pourrais-tu préparer ton costume de carnaval ?|En combien de temps pourrais-tu apprendre à nager ?
+enfance-793|École & Études|nouvelle|Qu’est-ce que tu dirais sur le moment si le professeur te félicite devant toute la classe ?|Qu’est-ce que tu dirais sur le moment si ton meilleur ami change d’école ?
+enfance-794|École & Études|nouvelle|En combien de temps pourrais-tu réviser une dictée ?|En combien de temps pourrais-tu ranger une chambre d’enfant ?
+enfance-795|École & Études|nouvelle|À ton avis, combien de temps faut-il pour préparer ton goûter après l’école ?|À ton avis, combien de temps faut-il pour revoir les tables de multiplication ?
+enfance-796|École & Études|nouvelle|Pour quelle occasion voudrais-tu acheter un réveil pour enfant ?|Pour quelle occasion voudrais-tu acheter une boîte à goûter ?
+enfance-797|École & Études|nouvelle|Quel prix imagines-tu pour un jeu de construction ?|Quel prix imagines-tu pour un vélo pour enfant de six à huit ans ?
+enfance-798|École & Études|nouvelle|Quel serait ton premier réflexe si tu es choisi en dernier pour une équipe ?|Quel serait ton premier réflexe si le professeur te félicite devant toute la classe ?
+enfance-799|École & Études|nouvelle|Combien serais-tu prêt à dépenser pour un livre illustré pour enfant ?|Combien serais-tu prêt à dépenser pour une peluche de qualité ?
+enfance-800|École & Études|nouvelle|À ton avis, combien coûte un jeu de cartes illustrées ?|À ton avis, combien coûte un réveil pour enfant ?
+enfance-801|École & Études|nouvelle|Si tu devais organiser un anniversaire d’enfant, quelle serait ta priorité ?|Si tu devais réviser une dictée, quelle serait ta priorité ?
+enfance-802|École & Études|nouvelle|Quelle personne de ton entourage pourrait t’aider à choisir un jeu pour la récréation ?|Quelle personne de ton entourage pourrait t’aider à apprendre une poésie par cœur ?
+enfance-803|École & Études|nouvelle|À quel moment de la semaine préférerais-tu apprendre à faire du vélo ?|À quel moment de la semaine préférerais-tu préparer ton goûter après l’école ?
+enfance-804|École & Études|nouvelle|Quelle serait ta première réaction si le professeur te félicite devant toute la classe ?|Quelle serait ta première réaction si ton meilleur ami change d’école ?
+enfance-805|École & Études|nouvelle|Dans quelle situation déciderais-tu d’acheter un album de bandes dessinées ?|Dans quelle situation déciderais-tu d’acheter un paquet de billes ?
+enfance-806|École & Études|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer ton costume de carnaval ?|Quelle personne de ton entourage pourrait t’aider à apprendre à nager ?
+enfance-807|École & Études|nouvelle|Quel budget maximal prévoirais-tu pour une paire de rollers pour débutant ?|Quel budget maximal prévoirais-tu pour un puzzle de cent pièces ?
+enfance-808|École & Études|nouvelle|Qu’est-ce qui te pousserait à acheter une paire de rollers pour débutant ?|Qu’est-ce qui te pousserait à acheter un puzzle de cent pièces ?
+enfance-809|École & Études|nouvelle|Quel moment de la journée choisirais-tu pour choisir un jeu pour la récréation ?|Quel moment de la journée choisirais-tu pour apprendre une poésie par cœur ?
+enfance-810|École & Études|nouvelle|Quel serait le point le plus important pour choisir un jeu pour la récréation ?|Quel serait le point le plus important pour apprendre une poésie par cœur ?
+enfance-811|École & Études|nouvelle|À ton avis, combien de temps faut-il pour faire tes devoirs après l’école ?|À ton avis, combien de temps faut-il pour choisir un jeu pour la récréation ?
+enfance-812|École & Études|nouvelle|À quel moment aurais-tu envie d’acheter un jeu de construction ?|À quel moment aurais-tu envie d’acheter un vélo pour enfant de six à huit ans ?
+enfance-813|École & Études|nouvelle|Quelle serait ta principale difficulté pour apprendre à faire du vélo ?|Quelle serait ta principale difficulté pour préparer ton goûter après l’école ?
+enfance-814|École & Études|nouvelle|Combien de temps te faudrait-il pour décorer un cahier ?|Combien de temps te faudrait-il pour choisir un livre à la bibliothèque ?
+enfance-815|École & Études|nouvelle|À quel endroit irais-tu pour trouver une paire de rollers pour débutant ?|À quel endroit irais-tu pour trouver un puzzle de cent pièces ?
+enfance-816|École & Études|nouvelle|Qu’est-ce que tu ferais en premier si tu oublies ton cahier le jour du contrôle ?|Qu’est-ce que tu ferais en premier si un camarade te demande ton goûter ?
+enfance-817|École & Études|nouvelle|À quel moment aurais-tu envie d’acheter un paquet de billes ?|À quel moment aurais-tu envie d’acheter une trousse d’école originale ?
+enfance-818|École & Études|nouvelle|À qui demanderais-tu de l’aide pour apprendre une poésie par cœur ?|À qui demanderais-tu de l’aide pour préparer un exposé scolaire ?
+enfance-819|École & Études|nouvelle|Combien de temps te faudrait-il pour apprendre à faire du vélo ?|Combien de temps te faudrait-il pour préparer ton goûter après l’école ?
+enfance-820|École & Études|nouvelle|Jusqu’à combien paierais-tu pour un paquet de billes ?|Jusqu’à combien paierais-tu pour une trousse d’école originale ?
+enfance-821|École & Études|nouvelle|Qui contacterais-tu pour t’aider à décorer un cahier ?|Qui contacterais-tu pour t’aider à choisir un livre à la bibliothèque ?
+enfance-822|École & Études|nouvelle|Quel budget maximal prévoirais-tu pour une trousse d’école originale ?|Quel budget maximal prévoirais-tu pour un jeu de société familial ?
+enfance-823|École & Études|nouvelle|Qu’est-ce qui te pousserait à acheter un cartable pour l’école primaire ?|Qu’est-ce qui te pousserait à acheter une boîte de vingt-quatre crayons de couleur ?
+enfance-824|École & Études|nouvelle|Quel serait ton premier réflexe si tu dois réciter un poème devant la classe ?|Quel serait ton premier réflexe si un ami veut échanger son goûter ?
+enfance-825|École & Études|nouvelle|À quel moment aurais-tu envie d’acheter une peluche de qualité ?|À quel moment aurais-tu envie d’acheter une paire de rollers pour débutant ?
+enfance-826|École & Études|nouvelle|Quelle personne de ton entourage pourrait t’aider à revoir les tables de multiplication ?|Quelle personne de ton entourage pourrait t’aider à préparer une sortie de classe ?
+enfance-827|École & Études|nouvelle|Que dirais-tu si ton professeur change de place tout le monde ?|Que dirais-tu si tu oublies les paroles d’une chanson à la fête ?
+enfance-828|École & Études|nouvelle|À quel endroit irais-tu pour trouver une trousse d’école originale ?|À quel endroit irais-tu pour trouver un jeu de société familial ?
+enfance-829|École & Études|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un jeu de société familial ?|Au-delà de quel prix hésiterais-tu à acheter un livre illustré pour enfant ?
+enfance-830|École & Études|nouvelle|À qui demanderais-tu de l’aide pour choisir une activité du mercredi ?|À qui demanderais-tu de l’aide pour préparer ton cartable pour le lendemain ?
+enfance-831|École & Études|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer une fête d’école ?|Quelle personne de ton entourage pourrait t’aider à choisir une activité du mercredi ?
+enfance-832|École & Études|nouvelle|Quelle phrase sortirait de ta bouche si tu oublies les paroles d’une chanson à la fête ?|Quelle phrase sortirait de ta bouche si tes parents découvrent un dessin caché ?
+enfance-833|École & Études|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une boîte de vingt-quatre crayons de couleur ?|Au-delà de quel prix hésiterais-tu à acheter un paquet de dix cartes à collectionner sous licence officielle ?
+enfance-834|École & Études|nouvelle|Combien de temps te faudrait-il pour préparer ton cartable pour le lendemain ?|Combien de temps te faudrait-il pour faire tes devoirs après l’école ?
+enfance-835|École & Études|nouvelle|À ton avis, combien de temps faut-il pour organiser un anniversaire d’enfant ?|À ton avis, combien de temps faut-il pour réviser une dictée ?
+enfance-836|École & Études|nouvelle|Quel serait ton premier réflexe si tes parents découvrent un dessin caché ?|Quel serait ton premier réflexe si un enfant refuse de partager un jouet ?
+enfance-837|École & Études|nouvelle|Comment répondrais-tu si tes parents découvrent un dessin caché ?|Comment répondrais-tu si un enfant refuse de partager un jouet ?
+enfance-838|École & Études|nouvelle|Selon toi, quel est le prix d’un ballon de football pour jouer dans la cour ?|Selon toi, quel est le prix d’un album de bandes dessinées ?
+enfance-839|École & Études|nouvelle|Quel serait ton premier réflexe si tu te fais gronder pour avoir bavardé ?|Quel serait ton premier réflexe si ton équipe gagne un jeu de cour ?
+enfance-840|École & Études|nouvelle|Où irais-tu pour acheter un jeu de société familial ?|Où irais-tu pour acheter un livre illustré pour enfant ?
+enfance-841|École & Études|nouvelle|En combien de temps pourrais-tu préparer une fête d’école ?|En combien de temps pourrais-tu choisir une activité du mercredi ?
+enfance-842|École & Études|nouvelle|Si tu devais choisir un livre à la bibliothèque, quelle serait ta priorité ?|Si tu devais préparer ton costume de carnaval, quelle serait ta priorité ?
+enfance-843|École & Études|nouvelle|À ton avis, combien coûte un vélo pour enfant de six à huit ans ?|À ton avis, combien coûte un ballon de football pour jouer dans la cour ?
+enfance-844|École & Études|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir une activité du mercredi ?|Quel créneau de la journée serait le plus pratique pour préparer ton cartable pour le lendemain ?
+enfance-845|École & Études|nouvelle|À quel endroit irais-tu pour trouver un cartable pour l’école primaire ?|À quel endroit irais-tu pour trouver une boîte de vingt-quatre crayons de couleur ?
+enfance-846|École & Études|nouvelle|Quelle phrase sortirait de ta bouche si on t’annonce une sortie scolaire surprise ?|Quelle phrase sortirait de ta bouche si tu dois réciter un poème devant la classe ?
+enfance-847|École & Études|nouvelle|Comment réagirais-tu si on t’annonce une sortie scolaire surprise ?|Comment réagirais-tu si tu dois réciter un poème devant la classe ?
+enfance-848|École & Études|nouvelle|Quel prix imagines-tu pour un paquet de billes ?|Quel prix imagines-tu pour une trousse d’école originale ?
+enfance-849|École & Études|nouvelle|Quel prix imagines-tu pour un journal intime avec cadenas ?|Quel prix imagines-tu pour un jeu de cartes illustrées ?
+enfance-850|École & Études|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer ton goûter après l’école ?|Qui pourrait te donner le meilleur conseil pour revoir les tables de multiplication ?
+enfance-851|École & Études|nouvelle|Quel moment de la journée choisirais-tu pour préparer une fête d’école ?|Quel moment de la journée choisirais-tu pour choisir une activité du mercredi ?
+enfance-852|École & Études|nouvelle|Qu’est-ce que tu dirais sur le moment si ton meilleur ami est absent le jour de la rentrée ?|Qu’est-ce que tu dirais sur le moment si tu oublies ton cahier le jour du contrôle ?
+enfance-853|École & Études|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un puzzle de cent pièces ?|Au-delà de quel prix hésiterais-tu à acheter une boîte de pâte à modeler ?
+enfance-854|École & Études|nouvelle|Jusqu’à combien paierais-tu pour une petite console de jeu portable ?|Jusqu’à combien paierais-tu pour un cartable pour l’école primaire ?
+enfance-855|École & Études|nouvelle|Qui pourrait te donner le meilleur conseil pour choisir un livre à la bibliothèque ?|Qui pourrait te donner le meilleur conseil pour préparer ton costume de carnaval ?
+enfance-856|École & Études|nouvelle|Quel créneau de la journée serait le plus pratique pour apprendre à nager ?|Quel créneau de la journée serait le plus pratique pour faire un dessin pour un proche ?
+enfance-857|École & Études|nouvelle|À quel moment aurais-tu envie d’acheter une petite console de jeu portable ?|À quel moment aurais-tu envie d’acheter un cartable pour l’école primaire ?
+enfance-858|École & Études|nouvelle|À quel moment de la semaine préférerais-tu faire un dessin pour un proche ?|À quel moment de la semaine préférerais-tu construire une cabane avec des coussins ?
+enfance-859|École & Études|nouvelle|Quel budget maximal prévoirais-tu pour un cartable pour l’école primaire ?|Quel budget maximal prévoirais-tu pour une boîte de vingt-quatre crayons de couleur ?
+enfance-860|École & Études|nouvelle|Comment réagirais-tu si tu oublies les paroles d’une chanson à la fête ?|Comment réagirais-tu si tes parents découvrent un dessin caché ?
+enfance-861|École & Études|nouvelle|Quelle serait ta première réaction si un enfant refuse de partager un jouet ?|Quelle serait ta première réaction si la récréation est annulée à cause de la pluie ?
+enfance-862|École & Études|nouvelle|Combien de temps prévoirais-tu pour ranger une chambre d’enfant ?|Combien de temps prévoirais-tu pour apprendre à faire du vélo ?
+enfance-863|École & Études|nouvelle|Quel serait le point le plus important pour réviser une dictée ?|Quel serait le point le plus important pour ranger une chambre d’enfant ?
+enfance-864|École & Études|nouvelle|Quel moment de la journée choisirais-tu pour préparer ton costume de carnaval ?|Quel moment de la journée choisirais-tu pour apprendre à nager ?
+enfance-865|École & Études|nouvelle|Quel budget maximal prévoirais-tu pour un vélo pour enfant de six à huit ans ?|Quel budget maximal prévoirais-tu pour un ballon de football pour jouer dans la cour ?
+enfance-866|École & Études|nouvelle|Quelle serait ta principale difficulté pour préparer un exposé scolaire ?|Quelle serait ta principale difficulté pour organiser un anniversaire d’enfant ?
+enfance-867|École & Études|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une peluche de qualité ?|Sur quel site ou dans quel magasin chercherais-tu une paire de rollers pour débutant ?
+enfance-868|École & Études|nouvelle|Pour quelle occasion voudrais-tu acheter un ballon de football pour jouer dans la cour ?|Pour quelle occasion voudrais-tu acheter un album de bandes dessinées ?
+enfance-869|École & Études|nouvelle|Quel serait le meilleur moment pour organiser un anniversaire d’enfant ?|Quel serait le meilleur moment pour réviser une dictée ?
+enfance-870|École & Études|nouvelle|Quel serait ton premier réflexe si tu reçois une bonne note inattendue ?|Quel serait ton premier réflexe si ton meilleur ami est absent le jour de la rentrée ?
+enfance-871|École & Études|nouvelle|Dans quelle situation déciderais-tu d’acheter un paquet de dix cartes à collectionner sous licence officielle ?|Dans quelle situation déciderais-tu d’acheter un jeu de construction ?
+enfance-872|École & Études|nouvelle|À quel moment de la semaine préférerais-tu préparer ton cartable pour le lendemain ?|À quel moment de la semaine préférerais-tu faire tes devoirs après l’école ?
+enfance-873|École & Études|nouvelle|Jusqu’à combien paierais-tu pour une peluche de qualité ?|Jusqu’à combien paierais-tu pour une paire de rollers pour débutant ?
+enfance-874|École & Études|nouvelle|Où chercherais-tu une boîte de pâte à modeler en premier ?|Où chercherais-tu un journal intime avec cadenas en premier ?
+enfance-875|École & Études|nouvelle|Qu’est-ce qui te pousserait à acheter un vélo pour enfant de six à huit ans ?|Qu’est-ce qui te pousserait à acheter un ballon de football pour jouer dans la cour ?
+enfance-876|École & Études|nouvelle|Comment répondrais-tu si tu dois réciter un poème devant la classe ?|Comment répondrais-tu si un ami veut échanger son goûter ?
+enfance-877|École & Études|nouvelle|Jusqu’à combien paierais-tu pour un jeu de construction ?|Jusqu’à combien paierais-tu pour un vélo pour enfant de six à huit ans ?
+enfance-878|École & Études|nouvelle|À qui demanderais-tu de l’aide pour apprendre à nager ?|À qui demanderais-tu de l’aide pour faire un dessin pour un proche ?
+enfance-879|École & Études|nouvelle|Combien de temps prévoirais-tu pour choisir une activité du mercredi ?|Combien de temps prévoirais-tu pour préparer ton cartable pour le lendemain ?
+enfance-880|École & Études|nouvelle|Selon toi, quel est le prix d’un puzzle de cent pièces ?|Selon toi, quel est le prix d’une boîte de pâte à modeler ?
+enfance-881|École & Études|nouvelle|Combien penses-tu que vaut une boîte à goûter ?|Combien penses-tu que vaut une petite console de jeu portable ?
+enfance-882|École & Études|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une petite console de jeu portable ?|Sur quel site ou dans quel magasin chercherais-tu un cartable pour l’école primaire ?
+enfance-883|École & Études|nouvelle|Pour quelle occasion voudrais-tu acheter une boîte de vingt-quatre crayons de couleur ?|Pour quelle occasion voudrais-tu acheter un paquet de dix cartes à collectionner sous licence officielle ?
+enfance-884|École & Études|nouvelle|Dans quelle situation déciderais-tu d’acheter une boîte à goûter ?|Dans quelle situation déciderais-tu d’acheter une petite console de jeu portable ?
+enfance-885|École & Études|nouvelle|Combien serais-tu prêt à dépenser pour une boîte de pâte à modeler ?|Combien serais-tu prêt à dépenser pour un journal intime avec cadenas ?
+enfance-886|École & Études|nouvelle|Que dirais-tu si tu oublies ton cahier le jour du contrôle ?|Que dirais-tu si un camarade te demande ton goûter ?
+enfance-887|École & Études|nouvelle|Combien de temps te faudrait-il pour préparer un exposé scolaire ?|Combien de temps te faudrait-il pour organiser un anniversaire d’enfant ?
+enfance-888|École & Études|nouvelle|Quel prix imagines-tu pour une petite console de jeu portable ?|Quel prix imagines-tu pour un cartable pour l’école primaire ?
+enfance-889|École & Études|nouvelle|À ton avis, combien coûte une paire de rollers pour débutant ?|À ton avis, combien coûte un puzzle de cent pièces ?
+enfance-890|École & Études|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un réveil pour enfant ?|Au-delà de quel prix hésiterais-tu à acheter une boîte à goûter ?
+enfance-891|École & Études|nouvelle|Où chercherais-tu un livre illustré pour enfant en premier ?|Où chercherais-tu une peluche de qualité en premier ?
+enfance-892|École & Études|nouvelle|Qui contacterais-tu pour t’aider à préparer ton cartable pour le lendemain ?|Qui contacterais-tu pour t’aider à faire tes devoirs après l’école ?
+enfance-893|École & Études|nouvelle|Quel serait le point le plus important pour revoir les tables de multiplication ?|Quel serait le point le plus important pour préparer une sortie de classe ?
+enfance-894|École & Études|nouvelle|À qui demanderais-tu de l’aide pour préparer une sortie de classe ?|À qui demanderais-tu de l’aide pour décorer un cahier ?
+enfance-895|École & Études|nouvelle|Combien penses-tu que vaut un paquet de dix cartes à collectionner sous licence officielle ?|Combien penses-tu que vaut un jeu de construction ?
+enfance-896|École & Études|nouvelle|Qu’est-ce que tu dirais sur le moment si un ami veut échanger son goûter ?|Qu’est-ce que tu dirais sur le moment si ton professeur change de place tout le monde ?
+enfance-897|École & Études|nouvelle|Comment réagirais-tu si tu reçois un cadeau que tu possèdes déjà ?|Comment réagirais-tu si tu te fais gronder pour avoir bavardé ?
+enfance-898|École & Études|nouvelle|À ton avis, combien coûte une trousse d’école originale ?|À ton avis, combien coûte un jeu de société familial ?
+enfance-899|École & Études|nouvelle|À ton avis, combien de temps faut-il pour choisir un livre à la bibliothèque ?|À ton avis, combien de temps faut-il pour préparer ton costume de carnaval ?
+enfance-900|École & Études|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un paquet de billes ?|Sur quel site ou dans quel magasin chercherais-tu une trousse d’école originale ?
+enfance-901|École & Études|nouvelle|Quel détail vérifierais-tu avant de préparer une sortie de classe ?|Quel détail vérifierais-tu avant de décorer un cahier ?
+enfance-902|École & Études|nouvelle|Quel détail vérifierais-tu avant d’apprendre à nager ?|Quel détail vérifierais-tu avant de faire un dessin pour un proche ?
+enfance-903|École & Études|nouvelle|Quel prix imagines-tu pour une peluche de qualité ?|Quel prix imagines-tu pour une paire de rollers pour débutant ?
+enfance-904|École & Études|nouvelle|Qui contacterais-tu pour t’aider à préparer un exposé scolaire ?|Qui contacterais-tu pour t’aider à organiser un anniversaire d’enfant ?
+enfance-905|École & Études|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer une sortie de classe ?|Quel créneau de la journée serait le plus pratique pour décorer un cahier ?
+dilemmes-703|Dilemmes|nouvelle|À qui demanderais-tu de l’aide pour choisir une destination de vacances ?|À qui demanderais-tu de l’aide pour organiser un week-end avec un petit budget ?
+dilemmes-704|Dilemmes|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un smartphone reconditionné de 128 Go, en très bon état ?|Sur quel site ou dans quel magasin chercherais-tu une voiture familiale de location pour trois jours à Lyon ?
+dilemmes-705|Dilemmes|nouvelle|À ton avis, combien de temps faut-il pour prendre une décision à plusieurs ?|À ton avis, combien de temps faut-il pour répondre à une invitation surprise ?
+dilemmes-706|Dilemmes|nouvelle|Quel créneau de la journée serait le plus pratique pour décider de partir en vacances à la dernière minute ?|Quel créneau de la journée serait le plus pratique pour choisir entre deux invitations le même soir ?
+dilemmes-707|Dilemmes|nouvelle|Quelle serait ta principale difficulté pour organiser un week-end avec un petit budget ?|Quelle serait ta principale difficulté pour arbitrer entre sortir et se reposer ?
+dilemmes-708|Dilemmes|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir une activité pour un jour libre ?|Quel créneau de la journée serait le plus pratique pour répartir des dépenses entre amis ?
+dilemmes-709|Dilemmes|nouvelle|Où irais-tu pour acheter un billet de train en première classe pour un trajet de deux heures ?|Où irais-tu pour réserver un envoi express en France sous 24 heures pour un colis de 2 kg ?
+dilemmes-710|Dilemmes|nouvelle|Quel serait ton premier réflexe si un proche te demande un service pendant ton jour de repos ?|Quel serait ton premier réflexe si tu peux économiser en prenant un trajet beaucoup plus long ?
+dilemmes-711|Dilemmes|nouvelle|Combien de temps prévoirais-tu pour choisir une destination de vacances ?|Combien de temps prévoirais-tu pour organiser un week-end avec un petit budget ?
+dilemmes-712|Dilemmes|nouvelle|Quel budget maximal prévoirais-tu pour une voiture familiale de location pour trois jours à Lyon ?|Quel budget maximal prévoirais-tu pour un billet de concert avec bonne visibilité ?
+dilemmes-713|Dilemmes|nouvelle|Qui contacterais-tu pour t’aider à organiser un week-end avec un petit budget ?|Qui contacterais-tu pour t’aider à arbitrer entre sortir et se reposer ?
+dilemmes-714|Dilemmes|nouvelle|Quel serait ton premier réflexe si une sortie agréable coûte deux fois plus que prévu ?|Quel serait ton premier réflexe si ton groupe hésite entre un plan intérieur et extérieur ?
+dilemmes-715|Dilemmes|nouvelle|Quel serait le point le plus important pour répondre à une invitation surprise ?|Quel serait le point le plus important pour choisir une destination de vacances ?
+dilemmes-716|Dilemmes|nouvelle|À ton avis, combien de temps faut-il pour réserver un séjour avec des amis ?|À ton avis, combien de temps faut-il pour préparer un départ très matinal ?
+dilemmes-717|Dilemmes|nouvelle|Que dirais-tu si tu dois choisir entre deux anniversaires le même soir ?|Que dirais-tu si un ami t’offre un billet pour un concert mais tu travailles le lendemain ?
+dilemmes-718|Dilemmes|nouvelle|Quel prix imagines-tu pour un smartphone reconditionné de 128 Go, en très bon état ?|Quel prix imagines-tu pour une voiture familiale de location pour trois jours à Lyon ?
+dilemmes-719|Dilemmes|nouvelle|Quel serait le meilleur moment pour réserver un séjour avec des amis ?|Quel serait le meilleur moment pour préparer un départ très matinal ?
+dilemmes-720|Dilemmes|nouvelle|À quel moment aurais-tu envie d’acheter un cadeau personnalisé pour l’anniversaire d’un proche ?|À quel moment aurais-tu envie d’acheter une formation en ligne certifiante de vingt heures ?
+dilemmes-721|Dilemmes|nouvelle|Qui contacterais-tu pour t’aider à choisir entre deux invitations le même soir ?|Qui contacterais-tu pour t’aider à réserver un séjour avec des amis ?
+dilemmes-722|Dilemmes|nouvelle|Quel serait le meilleur moment pour prendre une décision à plusieurs ?|Quel serait le meilleur moment pour répondre à une invitation surprise ?
+dilemmes-723|Dilemmes|nouvelle|Où chercherais-tu un abonnement sportif sans engagement en premier ?|Où chercherais-tu un smartphone reconditionné de 128 Go, en très bon état en premier ?
+dilemmes-724|Dilemmes|nouvelle|Comment réagirais-tu si un ami veut modifier un voyage deux jours avant le départ ?|Comment réagirais-tu si tu dois choisir une activité qui ne plaira pas à tout le monde ?
+dilemmes-725|Dilemmes|nouvelle|À ton avis, combien de temps faut-il pour organiser des vacances en famille ?|À ton avis, combien de temps faut-il pour accepter ou refuser un service ?
+dilemmes-726|Dilemmes|nouvelle|Comment réagirais-tu si tu hésites entre aider un ami et tenir un engagement ?|Comment réagirais-tu si un proche te demande un service pendant ton jour de repos ?
+dilemmes-727|Dilemmes|nouvelle|Quel détail vérifierais-tu avant de changer de travail pour un meilleur équilibre ?|Quel détail vérifierais-tu avant de choisir entre deux restaurants ?
+dilemmes-728|Dilemmes|nouvelle|Où irais-tu pour acheter un billet de concert avec bonne visibilité ?|Où irais-tu pour réserver un repas dans un petit restaurant réputé ?
+dilemmes-729|Dilemmes|nouvelle|Que dirais-tu si tu peux partir plus tôt mais manquer la fin d’un événement ?|Que dirais-tu si tu hésites entre aider un ami et tenir un engagement ?
+dilemmes-730|Dilemmes|nouvelle|Quelle serait ta première réaction si tes amis choisissent un restaurant que tu n’aimes pas ?|Quelle serait ta première réaction si tu peux partir plus tôt mais manquer la fin d’un événement ?
+dilemmes-731|Dilemmes|nouvelle|Qu’est-ce que tu ferais en premier si on te propose un changement de programme à la dernière minute ?|Qu’est-ce que tu ferais en premier si tu dois choisir entre deux personnes pour une invitation limitée ?
+dilemmes-732|Dilemmes|nouvelle|À quel moment de la semaine préférerais-tu organiser un week-end avec un petit budget ?|À quel moment de la semaine préférerais-tu arbitrer entre sortir et se reposer ?
+dilemmes-733|Dilemmes|nouvelle|À quel endroit irais-tu pour trouver un vélo électrique urbain d’occasion en bon état ?|À quel endroit irais-tu pour trouver un billet de train en première classe pour un trajet de deux heures ?
+dilemmes-734|Dilemmes|nouvelle|Pour quelle occasion voudrais-tu acheter un billet de train en première classe pour un trajet de deux heures ?|Pour quelle occasion voudrais-tu réserver un envoi express en France sous 24 heures pour un colis de 2 kg ?
+dilemmes-735|Dilemmes|nouvelle|Qui pourrait te donner le meilleur conseil pour trouver un compromis en équipe ?|Qui pourrait te donner le meilleur conseil pour choisir entre confort et économie ?
+dilemmes-736|Dilemmes|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un billet de concert avec bonne visibilité ?|Au-delà de quel prix hésiterais-tu à réserver un repas dans un petit restaurant réputé ?
+dilemmes-737|Dilemmes|nouvelle|À ton avis, combien de temps faut-il pour trouver un compromis en équipe ?|À ton avis, combien de temps faut-il pour choisir entre confort et économie ?
+dilemmes-738|Dilemmes|nouvelle|Combien de temps te faudrait-il pour décider de suivre un cours du soir ?|Combien de temps te faudrait-il pour organiser des vacances en famille ?
+dilemmes-739|Dilemmes|nouvelle|Dans quelle situation déciderais-tu de réserver un repas dans un petit restaurant réputé ?|Dans quelle situation déciderais-tu d’acheter un cadeau personnalisé pour l’anniversaire d’un proche ?
+dilemmes-740|Dilemmes|nouvelle|À quel moment de la semaine préférerais-tu décider de suivre un cours du soir ?|À quel moment de la semaine préférerais-tu organiser des vacances en famille ?
+dilemmes-741|Dilemmes|nouvelle|Quel prix imagines-tu pour un ordinateur portable ultraléger ?|Quel prix imagines-tu pour un vélo électrique urbain d’occasion en bon état ?
+dilemmes-742|Dilemmes|nouvelle|Où chercherais-tu une nuit dans un hôtel bien situé en centre-ville en premier ?|Où chercherais-tu une place de spectacle au premier rang en premier ?
+dilemmes-743|Dilemmes|nouvelle|Quelle personne de ton entourage pourrait t’aider à choisir un cadeau à deux ?|Quelle personne de ton entourage pourrait t’aider à préparer une soirée sans téléphone ?
+dilemmes-744|Dilemmes|nouvelle|Jusqu’à combien paierais-tu pour un abonnement musical sans publicité ?|Jusqu’à combien paierais-tu pour un séjour de deux nuits dans un gîte près de chez toi ?
+dilemmes-745|Dilemmes|nouvelle|Combien serais-tu prêt à dépenser pour un repas dans un petit restaurant réputé ?|Combien serais-tu prêt à dépenser pour un cadeau personnalisé pour l’anniversaire d’un proche ?
+dilemmes-746|Dilemmes|nouvelle|Qu’est-ce que tu dirais sur le moment si tu as deux possibilités aussi intéressantes pour le week-end ?|Qu’est-ce que tu dirais sur le moment si on te propose un changement de programme à la dernière minute ?
+dilemmes-747|Dilemmes|nouvelle|Où chercherais-tu une assurance voyage complète en premier ?|Où chercherais-tu un ordinateur portable ultraléger en premier ?
+dilemmes-748|Dilemmes|nouvelle|À qui demanderais-tu de l’aide pour préparer une soirée sans téléphone ?|À qui demanderais-tu de l’aide pour décider de suivre un cours du soir ?
+dilemmes-749|Dilemmes|nouvelle|En combien de temps pourrais-tu accepter ou refuser un service ?|En combien de temps pourrais-tu choisir une activité pour un jour libre ?
+dilemmes-750|Dilemmes|nouvelle|Quel serait le point le plus important pour choisir un cadeau à deux ?|Quel serait le point le plus important pour préparer une soirée sans téléphone ?
+dilemmes-751|Dilemmes|nouvelle|Quelle serait ta principale difficulté pour répartir des dépenses entre amis ?|Quelle serait ta principale difficulté pour trouver un compromis en équipe ?
+dilemmes-752|Dilemmes|nouvelle|Qu’est-ce qui te pousserait à réserver un séjour de deux nuits dans un gîte près de chez toi ?|Qu’est-ce qui te pousserait à acheter un pull en laine de bonne qualité ?
+dilemmes-753|Dilemmes|nouvelle|Combien serais-tu prêt à dépenser pour un abonnement sportif sans engagement ?|Combien serais-tu prêt à dépenser pour un smartphone reconditionné de 128 Go, en très bon état ?
+dilemmes-754|Dilemmes|nouvelle|Qu’est-ce que tu ferais en premier si tu peux acheter maintenant ou attendre une promotion ?|Qu’est-ce que tu ferais en premier si tu dois annoncer une décision qui déplaît à un ami ?
+dilemmes-755|Dilemmes|nouvelle|Quel budget maximal prévoirais-tu pour un vélo électrique urbain d’occasion en bon état ?|Quel budget maximal prévoirais-tu pour un billet de train en première classe pour un trajet de deux heures ?
+dilemmes-756|Dilemmes|nouvelle|Qu’est-ce qui te pousserait à acheter une formation en ligne certifiante de vingt heures ?|Qu’est-ce qui te pousserait à acheter une place de cinéma premium ?
+dilemmes-757|Dilemmes|nouvelle|Quel moment de la journée choisirais-tu pour préparer un départ très matinal ?|Quel moment de la journée choisirais-tu pour changer de travail pour un meilleur équilibre ?
+dilemmes-758|Dilemmes|nouvelle|Combien penses-tu que vaut un abonnement sportif sans engagement ?|Combien penses-tu que vaut un smartphone reconditionné de 128 Go, en très bon état ?
+dilemmes-759|Dilemmes|nouvelle|Quelle phrase sortirait de ta bouche si tu dois choisir entre deux personnes pour une invitation limitée ?|Quelle phrase sortirait de ta bouche si une sortie agréable coûte deux fois plus que prévu ?
+dilemmes-760|Dilemmes|nouvelle|Quel serait le point le plus important pour préparer un départ très matinal ?|Quel serait le point le plus important pour changer de travail pour un meilleur équilibre ?
+dilemmes-761|Dilemmes|nouvelle|Jusqu’à combien paierais-tu pour un smartphone reconditionné de 128 Go, en très bon état ?|Jusqu’à combien paierais-tu pour une voiture familiale de location pour trois jours à Lyon ?
+dilemmes-762|Dilemmes|nouvelle|À quel moment aurais-tu envie d’acheter un smartphone reconditionné de 128 Go, en très bon état ?|À quel moment aurais-tu envie d’acheter une voiture familiale de location pour trois jours à Lyon ?
+dilemmes-763|Dilemmes|nouvelle|Que dirais-tu si on te propose un changement de programme à la dernière minute ?|Que dirais-tu si tu dois choisir entre deux personnes pour une invitation limitée ?
+dilemmes-764|Dilemmes|nouvelle|Quel budget maximal prévoirais-tu pour un billet de train flexible ?|Quel budget maximal prévoirais-tu pour une nuit d’hôtel avec annulation gratuite ?
+dilemmes-765|Dilemmes|nouvelle|Si tu devais prendre une décision à plusieurs, quelle serait ta priorité ?|Si tu devais répondre à une invitation surprise, quelle serait ta priorité ?
+dilemmes-766|Dilemmes|nouvelle|À ton avis, combien coûte une formation en ligne certifiante de vingt heures ?|À ton avis, combien coûte une place de cinéma premium ?
+dilemmes-767|Dilemmes|nouvelle|À quel moment de la semaine préférerais-tu choisir entre deux invitations le même soir ?|À quel moment de la semaine préférerais-tu réserver un séjour avec des amis ?
+dilemmes-768|Dilemmes|nouvelle|Qu’est-ce qui te pousserait à acheter un billet de train flexible ?|Qu’est-ce qui te pousserait à réserver une nuit d’hôtel avec annulation gratuite ?
+dilemmes-769|Dilemmes|nouvelle|Pour quelle occasion voudrais-tu réserver une nuit d’hôtel avec annulation gratuite ?|Pour quelle occasion voudrais-tu acheter un abonnement sportif sans engagement ?
+dilemmes-770|Dilemmes|nouvelle|Qu’est-ce que tu ferais en premier si tu peux partir plus tôt mais manquer la fin d’un événement ?|Qu’est-ce que tu ferais en premier si tu hésites entre aider un ami et tenir un engagement ?
+dilemmes-771|Dilemmes|nouvelle|Combien penses-tu que vaut un repas dans un petit restaurant réputé ?|Combien penses-tu que vaut un cadeau personnalisé pour l’anniversaire d’un proche ?
+dilemmes-772|Dilemmes|nouvelle|Qui pourrait te donner le meilleur conseil pour arbitrer entre sortir et se reposer ?|Qui pourrait te donner le meilleur conseil pour choisir un cadeau à deux ?
+dilemmes-773|Dilemmes|nouvelle|Combien penses-tu que vaut une assurance voyage complète ?|Combien penses-tu que vaut un ordinateur portable ultraléger ?
+dilemmes-774|Dilemmes|nouvelle|Dans quelle situation déciderais-tu d’réserver un envoi express en France sous 24 heures pour un colis de 2 kg ?|Dans quelle situation déciderais-tu d’acheter un abonnement musical sans publicité ?
+dilemmes-775|Dilemmes|nouvelle|Quelle phrase sortirait de ta bouche si un ami t’offre un billet pour un concert mais tu travailles le lendemain ?|Quelle phrase sortirait de ta bouche si on te propose un poste mieux payé, mais avec une heure de trajet supplémentaire chaque jour ?
+dilemmes-776|Dilemmes|nouvelle|Combien de temps te faudrait-il pour choisir entre deux invitations le même soir ?|Combien de temps te faudrait-il pour réserver un séjour avec des amis ?
+dilemmes-777|Dilemmes|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer un départ très matinal ?|Quelle personne de ton entourage pourrait t’aider à changer de travail pour un meilleur équilibre ?
+dilemmes-778|Dilemmes|nouvelle|Combien serais-tu prêt à dépenser pour une assurance voyage complète ?|Combien serais-tu prêt à dépenser pour un ordinateur portable ultraléger ?
+dilemmes-779|Dilemmes|nouvelle|Quelle personne de ton entourage pourrait t’aider à choisir entre confort et économie ?|Quelle personne de ton entourage pourrait t’aider à décider de partir en vacances à la dernière minute ?
+dilemmes-780|Dilemmes|nouvelle|En combien de temps pourrais-tu choisir entre confort et économie ?|En combien de temps pourrais-tu décider de partir en vacances à la dernière minute ?
+dilemmes-781|Dilemmes|nouvelle|Quelle serait ta principale difficulté pour choisir entre deux invitations le même soir ?|Quelle serait ta principale difficulté pour réserver un séjour avec des amis ?
+dilemmes-782|Dilemmes|nouvelle|Où irais-tu pour acheter un pull en laine de bonne qualité ?|Où irais-tu pour réserver une nuit dans un hôtel bien situé en centre-ville ?
+dilemmes-783|Dilemmes|nouvelle|Si tu devais arbitrer entre sortir et se reposer, quelle serait ta priorité ?|Si tu devais choisir un cadeau à deux, quelle serait ta priorité ?
+dilemmes-784|Dilemmes|nouvelle|Quel détail vérifierais-tu avant de décider de partir en vacances à la dernière minute ?|Quel détail vérifierais-tu avant de choisir entre deux invitations le même soir ?
+dilemmes-785|Dilemmes|nouvelle|Quel serait ton premier réflexe si tu dois choisir une activité qui ne plaira pas à tout le monde ?|Quel serait ton premier réflexe si tu as deux possibilités aussi intéressantes pour le week-end ?
+dilemmes-786|Dilemmes|nouvelle|Où chercherais-tu un repas dans un petit restaurant réputé en premier ?|Où chercherais-tu un cadeau personnalisé pour l’anniversaire d’un proche en premier ?
+dilemmes-787|Dilemmes|nouvelle|Quelle personne de ton entourage pourrait t’aider à répondre à une invitation surprise ?|Quelle personne de ton entourage pourrait t’aider à choisir une destination de vacances ?
+dilemmes-788|Dilemmes|nouvelle|Quel serait le meilleur moment pour arbitrer entre sortir et se reposer ?|Quel serait le meilleur moment pour choisir un cadeau à deux ?
+dilemmes-789|Dilemmes|nouvelle|À quel moment aurais-tu envie d’acheter un ordinateur portable ultraléger ?|À quel moment aurais-tu envie d’acheter un vélo électrique urbain d’occasion en bon état ?
+dilemmes-790|Dilemmes|nouvelle|À quel endroit irais-tu pour trouver une formation en ligne certifiante de vingt heures ?|À quel endroit irais-tu pour trouver une place de cinéma premium ?
+dilemmes-791|Dilemmes|nouvelle|Jusqu’à combien paierais-tu pour une place de spectacle au premier rang ?|Jusqu’à combien paierais-tu pour un billet de train flexible ?
+dilemmes-792|Dilemmes|nouvelle|Combien de temps prévoirais-tu pour décider de partir en vacances à la dernière minute ?|Combien de temps prévoirais-tu pour choisir entre deux invitations le même soir ?
+dilemmes-793|Dilemmes|nouvelle|À ton avis, combien coûte un séjour de deux nuits dans un gîte près de chez toi ?|À ton avis, combien coûte un pull en laine de bonne qualité ?
+dilemmes-794|Dilemmes|nouvelle|Qu’est-ce que tu dirais sur le moment si ton groupe hésite entre un plan intérieur et extérieur ?|Qu’est-ce que tu dirais sur le moment si tu peux acheter maintenant ou attendre une promotion ?
+dilemmes-795|Dilemmes|nouvelle|Si tu devais réserver un séjour avec des amis, quelle serait ta priorité ?|Si tu devais préparer un départ très matinal, quelle serait ta priorité ?
+dilemmes-796|Dilemmes|nouvelle|Combien de temps te faudrait-il pour répartir des dépenses entre amis ?|Combien de temps te faudrait-il pour trouver un compromis en équipe ?
+dilemmes-797|Dilemmes|nouvelle|Si tu devais organiser des vacances en famille, quelle serait ta priorité ?|Si tu devais accepter ou refuser un service, quelle serait ta priorité ?
+dilemmes-798|Dilemmes|nouvelle|Si tu devais trouver un compromis en équipe, quelle serait ta priorité ?|Si tu devais choisir entre confort et économie, quelle serait ta priorité ?
+dilemmes-799|Dilemmes|nouvelle|Combien de temps prévoirais-tu pour choisir une activité pour un jour libre ?|Combien de temps prévoirais-tu pour répartir des dépenses entre amis ?
+dilemmes-800|Dilemmes|nouvelle|Qui pourrait te donner le meilleur conseil pour réserver un séjour avec des amis ?|Qui pourrait te donner le meilleur conseil pour préparer un départ très matinal ?
+dilemmes-801|Dilemmes|nouvelle|Qui contacterais-tu pour t’aider à choisir entre deux restaurants ?|Qui contacterais-tu pour t’aider à prendre une décision à plusieurs ?
+dilemmes-802|Dilemmes|nouvelle|Combien de temps prévoirais-tu pour changer de travail pour un meilleur équilibre ?|Combien de temps prévoirais-tu pour choisir entre deux restaurants ?
+dilemmes-803|Dilemmes|nouvelle|Que dirais-tu si tu peux acheter maintenant ou attendre une promotion ?|Que dirais-tu si tu dois annoncer une décision qui déplaît à un ami ?
+dilemmes-804|Dilemmes|nouvelle|Quel budget maximal prévoirais-tu pour une formation en ligne certifiante de vingt heures ?|Quel budget maximal prévoirais-tu pour une place de cinéma premium ?
+dilemmes-805|Dilemmes|nouvelle|Comment répondrais-tu si un proche te demande un service pendant ton jour de repos ?|Comment répondrais-tu si tu peux économiser en prenant un trajet beaucoup plus long ?
+dilemmes-806|Dilemmes|nouvelle|Selon toi, quel est le prix d’un billet de train en première classe pour un trajet de deux heures ?|Selon toi, quel est le prix d’un envoi express en France sous 24 heures pour un colis de 2 kg ?
+dilemmes-807|Dilemmes|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer une soirée sans téléphone ?|Quel créneau de la journée serait le plus pratique pour décider de suivre un cours du soir ?
+dilemmes-808|Dilemmes|nouvelle|Jusqu’à combien paierais-tu pour un ordinateur portable ultraléger ?|Jusqu’à combien paierais-tu pour un vélo électrique urbain d’occasion en bon état ?
+dilemmes-809|Dilemmes|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un ordinateur portable ultraléger ?|Sur quel site ou dans quel magasin chercherais-tu un vélo électrique urbain d’occasion en bon état ?
+dilemmes-810|Dilemmes|nouvelle|Qui pourrait te donner le meilleur conseil pour organiser des vacances en famille ?|Qui pourrait te donner le meilleur conseil pour accepter ou refuser un service ?
+dilemmes-811|Dilemmes|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir une destination de vacances ?|Quel créneau de la journée serait le plus pratique pour organiser un week-end avec un petit budget ?
+dilemmes-812|Dilemmes|nouvelle|À qui demanderais-tu de l’aide pour décider de partir en vacances à la dernière minute ?|À qui demanderais-tu de l’aide pour choisir entre deux invitations le même soir ?
+dilemmes-813|Dilemmes|nouvelle|Quel créneau de la journée serait le plus pratique pour changer de travail pour un meilleur équilibre ?|Quel créneau de la journée serait le plus pratique pour choisir entre deux restaurants ?
+dilemmes-814|Dilemmes|nouvelle|À quel endroit irais-tu pour trouver un billet de train flexible ?|À quel endroit irais-tu pour trouver une nuit d’hôtel avec annulation gratuite ?
+dilemmes-815|Dilemmes|nouvelle|Quel prix imagines-tu pour une place de spectacle au premier rang ?|Quel prix imagines-tu pour un billet de train flexible ?
+dilemmes-816|Dilemmes|nouvelle|Quel moment de la journée choisirais-tu pour choisir entre confort et économie ?|Quel moment de la journée choisirais-tu pour décider de partir en vacances à la dernière minute ?
+dilemmes-817|Dilemmes|nouvelle|Comment répondrais-tu si une sortie agréable coûte deux fois plus que prévu ?|Comment répondrais-tu si ton groupe hésite entre un plan intérieur et extérieur ?
+dilemmes-818|Dilemmes|nouvelle|Quel moment de la journée choisirais-tu pour répondre à une invitation surprise ?|Quel moment de la journée choisirais-tu pour choisir une destination de vacances ?
+dilemmes-819|Dilemmes|nouvelle|Selon toi, quel est le prix d’une place de cinéma premium ?|Selon toi, quel est le prix d’une assurance voyage complète ?
+dilemmes-820|Dilemmes|nouvelle|Quel serait le meilleur moment pour trouver un compromis en équipe ?|Quel serait le meilleur moment pour choisir entre confort et économie ?
+dilemmes-821|Dilemmes|nouvelle|Quel serait le point le plus important pour accepter ou refuser un service ?|Quel serait le point le plus important pour choisir une activité pour un jour libre ?
+dilemmes-822|Dilemmes|nouvelle|Quel prix imagines-tu pour un abonnement musical sans publicité ?|Quel prix imagines-tu pour un séjour de deux nuits dans un gîte près de chez toi ?
+dilemmes-823|Dilemmes|nouvelle|Quelle serait ta principale difficulté pour décider de suivre un cours du soir ?|Quelle serait ta principale difficulté pour organiser des vacances en famille ?
+dilemmes-824|Dilemmes|nouvelle|Combien de temps te faudrait-il pour organiser un week-end avec un petit budget ?|Combien de temps te faudrait-il pour arbitrer entre sortir et se reposer ?
+dilemmes-825|Dilemmes|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un abonnement musical sans publicité ?|Sur quel site ou dans quel magasin chercherais-tu un séjour de deux nuits dans un gîte près de chez toi ?
+dilemmes-826|Dilemmes|nouvelle|À quel moment de la semaine préférerais-tu choisir entre deux restaurants ?|À quel moment de la semaine préférerais-tu prendre une décision à plusieurs ?
+dilemmes-827|Dilemmes|nouvelle|À qui demanderais-tu de l’aide pour changer de travail pour un meilleur équilibre ?|À qui demanderais-tu de l’aide pour choisir entre deux restaurants ?
+dilemmes-828|Dilemmes|nouvelle|Quel serait ton premier réflexe si tu hésites entre un voyage court luxueux et long économique ?|Quel serait ton premier réflexe si tu dois choisir un seul événement parmi plusieurs ?
+dilemmes-829|Dilemmes|nouvelle|Combien penses-tu que vaut une nuit dans un hôtel bien situé en centre-ville ?|Combien penses-tu que vaut une place de spectacle au premier rang ?
+dilemmes-830|Dilemmes|nouvelle|Combien de temps prévoirais-tu pour préparer une soirée sans téléphone ?|Combien de temps prévoirais-tu pour décider de suivre un cours du soir ?
+dilemmes-831|Dilemmes|nouvelle|En combien de temps pourrais-tu répondre à une invitation surprise ?|En combien de temps pourrais-tu choisir une destination de vacances ?
+dilemmes-832|Dilemmes|nouvelle|Quelle phrase sortirait de ta bouche si tu hésites entre aider un ami et tenir un engagement ?|Quelle phrase sortirait de ta bouche si un proche te demande un service pendant ton jour de repos ?
+dilemmes-833|Dilemmes|nouvelle|Dans quelle situation déciderais-tu d’acheter un abonnement sportif sans engagement ?|Dans quelle situation déciderais-tu d’acheter un smartphone reconditionné de 128 Go, en très bon état ?
+dilemmes-834|Dilemmes|nouvelle|À ton avis, combien coûte un vélo électrique urbain d’occasion en bon état ?|À ton avis, combien coûte un billet de train en première classe pour un trajet de deux heures ?
+dilemmes-835|Dilemmes|nouvelle|Comment répondrais-tu si tu hésites entre un voyage court luxueux et long économique ?|Comment répondrais-tu si tu dois choisir un seul événement parmi plusieurs ?
+dilemmes-836|Dilemmes|nouvelle|Quelle phrase sortirait de ta bouche si un ami veut modifier un voyage deux jours avant le départ ?|Quelle phrase sortirait de ta bouche si tu dois choisir une activité qui ne plaira pas à tout le monde ?
+dilemmes-837|Dilemmes|nouvelle|Comment réagirais-tu si tu dois choisir entre deux personnes pour une invitation limitée ?|Comment réagirais-tu si une sortie agréable coûte deux fois plus que prévu ?
+dilemmes-838|Dilemmes|nouvelle|Qu’est-ce que tu dirais sur le moment si tu dois choisir un seul événement parmi plusieurs ?|Qu’est-ce que tu dirais sur le moment si tu dois choisir entre deux anniversaires le même soir ?
+dilemmes-839|Dilemmes|nouvelle|Combien serais-tu prêt à dépenser pour un envoi express en France sous 24 heures pour un colis de 2 kg ?|Combien serais-tu prêt à dépenser pour un abonnement musical sans publicité ?
+dilemmes-840|Dilemmes|nouvelle|Quel moment de la journée choisirais-tu pour choisir un cadeau à deux ?|Quel moment de la journée choisirais-tu pour préparer une soirée sans téléphone ?
+dilemmes-841|Dilemmes|nouvelle|Quel détail vérifierais-tu avant de choisir une activité pour un jour libre ?|Quel détail vérifierais-tu avant de répartir des dépenses entre amis ?
+dilemmes-842|Dilemmes|nouvelle|Quel moment de la journée choisirais-tu pour accepter ou refuser un service ?|Quel moment de la journée choisirais-tu pour choisir une activité pour un jour libre ?
+dilemmes-843|Dilemmes|nouvelle|Combien serais-tu prêt à dépenser pour une nuit dans un hôtel bien situé en centre-ville ?|Combien serais-tu prêt à dépenser pour une place de spectacle au premier rang ?
+dilemmes-844|Dilemmes|nouvelle|Quel serait le meilleur moment pour organiser des vacances en famille ?|Quel serait le meilleur moment pour accepter ou refuser un service ?
+dilemmes-845|Dilemmes|nouvelle|Qui contacterais-tu pour t’aider à répartir des dépenses entre amis ?|Qui contacterais-tu pour t’aider à trouver un compromis en équipe ?
+dilemmes-846|Dilemmes|nouvelle|Que dirais-tu si tu hésites entre offrir un cadeau utile ou un cadeau original du même prix ?|Que dirais-tu si un ami veut modifier un voyage deux jours avant le départ ?
+dilemmes-847|Dilemmes|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une place de spectacle au premier rang ?|Sur quel site ou dans quel magasin chercherais-tu un billet de train flexible ?
+dilemmes-848|Dilemmes|nouvelle|Comment répondrais-tu si on te propose un poste mieux payé, mais avec une heure de trajet supplémentaire chaque jour ?|Comment répondrais-tu si tes amis choisissent un restaurant que tu n’aimes pas ?
+dilemmes-849|Dilemmes|nouvelle|À quel moment de la semaine préférerais-tu répartir des dépenses entre amis ?|À quel moment de la semaine préférerais-tu trouver un compromis en équipe ?
+dilemmes-850|Dilemmes|nouvelle|Quel serait le point le plus important pour choisir entre confort et économie ?|Quel serait le point le plus important pour décider de partir en vacances à la dernière minute ?
+dilemmes-851|Dilemmes|nouvelle|Qu’est-ce qui te pousserait à acheter une voiture familiale de location pour trois jours à Lyon ?|Qu’est-ce qui te pousserait à acheter un billet de concert avec bonne visibilité ?
+dilemmes-852|Dilemmes|nouvelle|À quel moment aurais-tu envie d’acheter une place de spectacle au premier rang ?|À quel moment aurais-tu envie d’acheter un billet de train flexible ?
+dilemmes-853|Dilemmes|nouvelle|Qu’est-ce que tu dirais sur le moment si tes amis choisissent un restaurant que tu n’aimes pas ?|Qu’est-ce que tu dirais sur le moment si tu peux partir plus tôt mais manquer la fin d’un événement ?
+dilemmes-854|Dilemmes|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un billet de train en première classe pour un trajet de deux heures ?|Au-delà de quel prix hésiterais-tu à réserver un envoi express en France sous 24 heures pour un colis de 2 kg ?
+dilemmes-855|Dilemmes|nouvelle|Quel prix imagines-tu pour un cadeau personnalisé pour l’anniversaire d’un proche ?|Quel prix imagines-tu pour une formation en ligne certifiante de vingt heures ?
+dilemmes-856|Dilemmes|nouvelle|À ton avis, combien coûte une voiture familiale de location pour trois jours à Lyon ?|À ton avis, combien coûte un billet de concert avec bonne visibilité ?
+dilemmes-857|Dilemmes|nouvelle|Qu’est-ce que tu ferais en premier si tu dois choisir entre deux anniversaires le même soir ?|Qu’est-ce que tu ferais en premier si un ami t’offre un billet pour un concert mais tu travailles le lendemain ?
+dilemmes-858|Dilemmes|nouvelle|Où chercherais-tu un envoi express en France sous 24 heures pour un colis de 2 kg en premier ?|Où chercherais-tu un abonnement musical sans publicité en premier ?
+dilemmes-859|Dilemmes|nouvelle|Quelle serait ta première réaction si tu dois choisir un seul événement parmi plusieurs ?|Quelle serait ta première réaction si tu dois choisir entre deux anniversaires le même soir ?
+dilemmes-860|Dilemmes|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une place de cinéma premium ?|Au-delà de quel prix hésiterais-tu à souscrire une assurance voyage complète ?
+dilemmes-861|Dilemmes|nouvelle|Au-delà de quel prix hésiterais-tu à réserver une nuit d’hôtel avec annulation gratuite ?|Au-delà de quel prix hésiterais-tu à acheter un abonnement sportif sans engagement ?
+dilemmes-862|Dilemmes|nouvelle|Combien de temps te faudrait-il pour choisir entre deux restaurants ?|Combien de temps te faudrait-il pour prendre une décision à plusieurs ?
+dilemmes-863|Dilemmes|nouvelle|Comment répondrais-tu si tu dois choisir une activité qui ne plaira pas à tout le monde ?|Comment répondrais-tu si tu as deux possibilités aussi intéressantes pour le week-end ?
+dilemmes-864|Dilemmes|nouvelle|Selon toi, quel est le prix d’un billet de concert avec bonne visibilité ?|Selon toi, quel est le prix d’un repas dans un petit restaurant réputé ?
+dilemmes-865|Dilemmes|nouvelle|Selon toi, quel est le prix d’une nuit d’hôtel avec annulation gratuite ?|Selon toi, quel est le prix d’un abonnement sportif sans engagement ?
+dilemmes-866|Dilemmes|nouvelle|À ton avis, combien coûte un billet de train flexible ?|À ton avis, combien coûte une nuit d’hôtel avec annulation gratuite ?
+dilemmes-867|Dilemmes|nouvelle|Qui pourrait te donner le meilleur conseil pour prendre une décision à plusieurs ?|Qui pourrait te donner le meilleur conseil pour répondre à une invitation surprise ?
+dilemmes-868|Dilemmes|nouvelle|En combien de temps pourrais-tu choisir un cadeau à deux ?|En combien de temps pourrais-tu préparer une soirée sans téléphone ?
+dilemmes-869|Dilemmes|nouvelle|Quelle serait ta première réaction si tu as deux possibilités aussi intéressantes pour le week-end ?|Quelle serait ta première réaction si on te propose un changement de programme à la dernière minute ?
+dilemmes-870|Dilemmes|nouvelle|Quel serait ton premier réflexe si on te propose un poste mieux payé, mais avec une heure de trajet supplémentaire chaque jour ?|Quel serait ton premier réflexe si tes amis choisissent un restaurant que tu n’aimes pas ?
+dilemmes-871|Dilemmes|nouvelle|Comment réagirais-tu si un ami t’offre un billet pour un concert mais tu travailles le lendemain ?|Comment réagirais-tu si on te propose un poste mieux payé, mais avec une heure de trajet supplémentaire chaque jour ?
+dilemmes-872|Dilemmes|nouvelle|Qu’est-ce qui te pousserait à acheter un vélo électrique urbain d’occasion en bon état ?|Qu’est-ce qui te pousserait à acheter un billet de train en première classe pour un trajet de deux heures ?
+dilemmes-873|Dilemmes|nouvelle|Dans quelle situation déciderais-tu de réserver une nuit dans un hôtel bien situé en centre-ville ?|Dans quelle situation déciderais-tu d’acheter une place de spectacle au premier rang ?
+dilemmes-874|Dilemmes|nouvelle|Pour quelle occasion voudrais-tu acheter un billet de concert avec bonne visibilité ?|Pour quelle occasion voudrais-tu réserver un repas dans un petit restaurant réputé ?
+dilemmes-875|Dilemmes|nouvelle|Où irais-tu pour réserver une nuit d’hôtel avec annulation gratuite ?|Où irais-tu pour acheter un abonnement sportif sans engagement ?
+dilemmes-876|Dilemmes|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un cadeau personnalisé pour l’anniversaire d’un proche ?|Sur quel site ou dans quel magasin chercherais-tu une formation en ligne certifiante de vingt heures ?
+dilemmes-877|Dilemmes|nouvelle|Jusqu’à combien paierais-tu pour un cadeau personnalisé pour l’anniversaire d’un proche ?|Jusqu’à combien paierais-tu pour une formation en ligne certifiante de vingt heures ?
+dilemmes-878|Dilemmes|nouvelle|Quelle serait ta première réaction si tu peux économiser en prenant un trajet beaucoup plus long ?|Quelle serait ta première réaction si tu hésites entre offrir un cadeau utile ou un cadeau original du même prix ?
+dilemmes-879|Dilemmes|nouvelle|Qui contacterais-tu pour t’aider à décider de suivre un cours du soir ?|Qui contacterais-tu pour t’aider à organiser des vacances en famille ?
+dilemmes-880|Dilemmes|nouvelle|Quelle personne de ton entourage pourrait t’aider à accepter ou refuser un service ?|Quelle personne de ton entourage pourrait t’aider à choisir une activité pour un jour libre ?
+dilemmes-881|Dilemmes|nouvelle|Quelle serait ta première réaction si ton groupe hésite entre un plan intérieur et extérieur ?|Quelle serait ta première réaction si tu peux acheter maintenant ou attendre une promotion ?
+dilemmes-882|Dilemmes|nouvelle|En combien de temps pourrais-tu préparer un départ très matinal ?|En combien de temps pourrais-tu changer de travail pour un meilleur équilibre ?
+dilemmes-883|Dilemmes|nouvelle|Pour quelle occasion voudrais-tu acheter un pull en laine de bonne qualité ?|Pour quelle occasion voudrais-tu réserver une nuit dans un hôtel bien situé en centre-ville ?
+dilemmes-884|Dilemmes|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un pull en laine de bonne qualité ?|Au-delà de quel prix hésiterais-tu à réserver une nuit dans un hôtel bien situé en centre-ville ?
+dilemmes-885|Dilemmes|nouvelle|Qu’est-ce que tu dirais sur le moment si tu peux économiser en prenant un trajet beaucoup plus long ?|Qu’est-ce que tu dirais sur le moment si tu hésites entre offrir un cadeau utile ou un cadeau original du même prix ?
+dilemmes-886|Dilemmes|nouvelle|Selon toi, quel est le prix d’un pull en laine de bonne qualité ?|Selon toi, quel est le prix d’une nuit dans un hôtel bien situé en centre-ville ?
+dilemmes-887|Dilemmes|nouvelle|Quelle serait ta principale difficulté pour choisir entre deux restaurants ?|Quelle serait ta principale difficulté pour prendre une décision à plusieurs ?
+dilemmes-888|Dilemmes|nouvelle|À quel endroit irais-tu pour trouver une voiture familiale de location pour trois jours à Lyon ?|À quel endroit irais-tu pour trouver un billet de concert avec bonne visibilité ?
+dilemmes-889|Dilemmes|nouvelle|Quel budget maximal prévoirais-tu pour un séjour de deux nuits dans un gîte près de chez toi ?|Quel budget maximal prévoirais-tu pour un pull en laine de bonne qualité ?
+dilemmes-890|Dilemmes|nouvelle|À qui demanderais-tu de l’aide pour choisir une activité pour un jour libre ?|À qui demanderais-tu de l’aide pour répartir des dépenses entre amis ?
+dilemmes-891|Dilemmes|nouvelle|Quelle phrase sortirait de ta bouche si tu dois annoncer une décision qui déplaît à un ami ?|Quelle phrase sortirait de ta bouche si tu hésites entre un voyage court luxueux et long économique ?
+dilemmes-892|Dilemmes|nouvelle|Quel détail vérifierais-tu avant de choisir une destination de vacances ?|Quel détail vérifierais-tu avant d’organiser un week-end avec un petit budget ?
+dilemmes-893|Dilemmes|nouvelle|Dans quelle situation déciderais-tu d’souscrire une assurance voyage complète ?|Dans quelle situation déciderais-tu d’acheter un ordinateur portable ultraléger ?
+dilemmes-894|Dilemmes|nouvelle|Combien penses-tu que vaut un envoi express en France sous 24 heures pour un colis de 2 kg ?|Combien penses-tu que vaut un abonnement musical sans publicité ?
+dilemmes-895|Dilemmes|nouvelle|À quel moment aurais-tu envie d’acheter un abonnement musical sans publicité ?|À quel moment aurais-tu envie de réserver un séjour de deux nuits dans un gîte près de chez toi ?
+dilemmes-896|Dilemmes|nouvelle|Quel détail vérifierais-tu avant de préparer une soirée sans téléphone ?|Quel détail vérifierais-tu avant de décider de suivre un cours du soir ?
+dilemmes-897|Dilemmes|nouvelle|Comment réagirais-tu si tu dois annoncer une décision qui déplaît à un ami ?|Comment réagirais-tu si tu hésites entre un voyage court luxueux et long économique ?
+dilemmes-898|Dilemmes|nouvelle|À ton avis, combien de temps faut-il pour arbitrer entre sortir et se reposer ?|À ton avis, combien de temps faut-il pour choisir un cadeau à deux ?
+dilemmes-899|Dilemmes|nouvelle|Qu’est-ce que tu ferais en premier si tu hésites entre offrir un cadeau utile ou un cadeau original du même prix ?|Qu’est-ce que tu ferais en premier si un ami veut modifier un voyage deux jours avant le départ ?
+dilemmes-900|Dilemmes|nouvelle|À quel endroit irais-tu pour trouver un séjour de deux nuits dans un gîte près de chez toi ?|À quel endroit irais-tu pour trouver un pull en laine de bonne qualité ?
+dilemmes-901|Dilemmes|nouvelle|Pour quelle occasion voudrais-tu acheter une place de cinéma premium ?|Pour quelle occasion voudrais-tu souscrire une assurance voyage complète ?
+dilemmes-902|Dilemmes|nouvelle|Où irais-tu pour acheter une place de cinéma premium ?|Où irais-tu pour souscrire une assurance voyage complète ?
+miroir-597|Miroir / Expert|nouvelle|Pour quelle occasion voudrais-tu acheter un café allongé servi sur place ?|Pour quelle occasion voudrais-tu acheter un café allongé à emporter ?
+miroir-598|Miroir / Expert|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une nuit dans un hôtel trois étoiles en semaine ?|Sur quel site ou dans quel magasin chercherais-tu une nuit dans un hôtel trois étoiles le week-end ?
+miroir-599|Miroir / Expert|nouvelle|À ton avis, combien de temps faut-il pour marcher deux kilomètres ?|À ton avis, combien de temps faut-il pour marcher trois kilomètres ?
+miroir-600|Miroir / Expert|nouvelle|Pour quelle occasion voudrais-tu acheter un abonnement à une salle de sport pendant un mois ?|Pour quelle occasion voudrais-tu acheter un abonnement à une salle de sport pendant trois mois ?
+miroir-601|Miroir / Expert|nouvelle|Quel serait ton premier réflexe si tu retrouves un billet de dix euros ?|Quel serait ton premier réflexe si tu retrouves un billet de vingt euros ?
+miroir-602|Miroir / Expert|nouvelle|Quel créneau de la journée serait le plus pratique pour répondre à cinq messages ?|Quel créneau de la journée serait le plus pratique pour répondre à dix messages ?
+miroir-603|Miroir / Expert|nouvelle|Combien serais-tu prêt à dépenser pour une place debout en fosse pour un concert à l’Accor Arena ?|Combien serais-tu prêt à dépenser pour une place en gradins pour un concert dans une grande salle ?
+miroir-604|Miroir / Expert|nouvelle|Quelle serait ta principale difficulté pour préparer ton sac pour une journée ?|Quelle serait ta principale difficulté pour préparer ton sac pour deux jours ?
+miroir-605|Miroir / Expert|nouvelle|À ton avis, combien de temps faut-il pour ranger une petite chambre ?|À ton avis, combien de temps faut-il pour ranger un grand salon ?
+miroir-606|Miroir / Expert|nouvelle|Combien de temps te faudrait-il pour préparer un repas pour deux ?|Combien de temps te faudrait-il pour préparer un repas pour quatre ?
+miroir-607|Miroir / Expert|nouvelle|À ton avis, combien de temps faut-il pour trouver un cadeau pour un ami ?|À ton avis, combien de temps faut-il pour trouver un cadeau pour deux amis ?
+miroir-608|Miroir / Expert|nouvelle|Comment répondrais-tu si ton train part dans dix minutes ?|Comment répondrais-tu si ton train part dans vingt minutes ?
+miroir-609|Miroir / Expert|nouvelle|En combien de temps pourrais-tu lire dix pages d’un livre ?|En combien de temps pourrais-tu lire vingt pages d’un livre ?
+miroir-610|Miroir / Expert|nouvelle|Jusqu’à combien paierais-tu pour une place de cinéma au tarif adulte pour une séance le matin ?|Jusqu’à combien paierais-tu pour une place de cinéma au tarif adulte pour une séance le soir ?
+miroir-611|Miroir / Expert|nouvelle|Que dirais-tu si un restaurant te fait attendre dix minutes ?|Que dirais-tu si un restaurant te fait attendre trente minutes ?
+miroir-612|Miroir / Expert|nouvelle|Combien de temps prévoirais-tu pour organiser une sortie de deux heures ?|Combien de temps prévoirais-tu pour organiser une sortie de trois heures ?
+miroir-613|Miroir / Expert|nouvelle|Quelle serait ta première réaction si un ami annule le matin même ?|Quelle serait ta première réaction si un ami annule la veille au soir ?
+miroir-614|Miroir / Expert|nouvelle|À quel endroit irais-tu pour trouver un café allongé servi sur place ?|À quel endroit irais-tu pour trouver un café allongé à emporter ?
+miroir-615|Miroir / Expert|nouvelle|Quel outil choisirais-tu pour préparer ton sac pour une journée ?|Quel outil choisirais-tu pour préparer ton sac pour deux jours ?
+miroir-616|Miroir / Expert|nouvelle|Où chercherais-tu une place de cinéma au tarif adulte pour une séance le matin en premier ?|Où chercherais-tu une place de cinéma au tarif adulte pour une séance le soir en premier ?
+miroir-617|Miroir / Expert|nouvelle|Quel accessoire te serait utile pour préparer un repas pour deux ?|Quel accessoire te serait utile pour préparer un repas pour quatre ?
+miroir-618|Miroir / Expert|nouvelle|Quel moment de la journée choisirais-tu pour répondre à cinq messages ?|Quel moment de la journée choisirais-tu pour répondre à dix messages ?
+miroir-619|Miroir / Expert|nouvelle|Comment réagirais-tu si tu reçois une invitation pour demain ?|Comment réagirais-tu si tu reçois une invitation pour ce soir ?
+miroir-620|Miroir / Expert|nouvelle|Qu’est-ce qui te pousserait à acheter un café allongé servi sur place ?|Qu’est-ce qui te pousserait à acheter un café allongé à emporter ?
+miroir-621|Miroir / Expert|nouvelle|Comment réagirais-tu si un ami veut partir à vingt heures ?|Comment réagirais-tu si un ami veut partir à vingt-deux heures ?
+miroir-622|Miroir / Expert|nouvelle|Quel accessoire te serait utile pour marcher deux kilomètres ?|Quel accessoire te serait utile pour marcher trois kilomètres ?
+miroir-623|Miroir / Expert|nouvelle|Qu’est-ce que tu ferais en premier si un ami veut partir à vingt heures ?|Qu’est-ce que tu ferais en premier si un ami veut partir à vingt-deux heures ?
+miroir-624|Miroir / Expert|nouvelle|Comment répondrais-tu si tu retrouves un billet de dix euros ?|Comment répondrais-tu si tu retrouves un billet de vingt euros ?
+miroir-625|Miroir / Expert|nouvelle|Dans quelle situation déciderais-tu d’acheter une place de cinéma au tarif adulte pour une séance le matin ?|Dans quelle situation déciderais-tu d’acheter une place de cinéma au tarif adulte pour une séance le soir ?
+miroir-626|Miroir / Expert|nouvelle|À quel moment aurais-tu envie de réserver une nuit dans un hôtel trois étoiles en semaine ?|À quel moment aurais-tu envie de réserver une nuit dans un hôtel trois étoiles le week-end ?
+miroir-627|Miroir / Expert|nouvelle|Si tu devais marcher deux kilomètres, quelle serait ta priorité ?|Si tu devais marcher trois kilomètres, quelle serait ta priorité ?
+miroir-628|Miroir / Expert|nouvelle|Pour quelle occasion voudrais-tu réserver un déjeuner en brasserie pour deux personnes ?|Pour quelle occasion voudrais-tu réserver un déjeuner en brasserie pour trois personnes ?
+miroir-629|Miroir / Expert|nouvelle|De quoi aurais-tu besoin pour répondre à cinq messages ?|De quoi aurais-tu besoin pour répondre à dix messages ?
+miroir-630|Miroir / Expert|nouvelle|Quelle serait ta première réaction si on te propose un café avant le travail ?|Quelle serait ta première réaction si on te propose un café après le travail ?
+miroir-631|Miroir / Expert|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une place de cinéma au tarif adulte pour une séance le matin ?|Sur quel site ou dans quel magasin chercherais-tu une place de cinéma au tarif adulte pour une séance le soir ?
+miroir-632|Miroir / Expert|nouvelle|Que dirais-tu si un ami arrive cinq minutes en retard ?|Que dirais-tu si un ami arrive quinze minutes en retard ?
+miroir-633|Miroir / Expert|nouvelle|Quel objet pourrait t’aider à répondre à cinq messages ?|Quel objet pourrait t’aider à répondre à dix messages ?
+miroir-634|Miroir / Expert|nouvelle|Où chercherais-tu une valise cabine souple de 55 cm en premier ?|Où chercherais-tu une valise cabine rigide de 55 cm en premier ?
+miroir-635|Miroir / Expert|nouvelle|À quel moment aurais-tu envie d’acheter une valise cabine souple de 55 cm ?|À quel moment aurais-tu envie d’acheter une valise cabine rigide de 55 cm ?
+miroir-636|Miroir / Expert|nouvelle|Combien serais-tu prêt à dépenser pour une paire de baskets de ville neuves ?|Combien serais-tu prêt à dépenser pour une paire de baskets de ville d’occasion en bon état ?
+miroir-637|Miroir / Expert|nouvelle|Comment répondrais-tu si on te propose un café avant le travail ?|Comment répondrais-tu si on te propose un café après le travail ?
+miroir-638|Miroir / Expert|nouvelle|Qu’est-ce qui te pousserait à acheter un aller simple Paris–Lyon en seconde classe pour vendredi ?|Qu’est-ce qui te pousserait à acheter un aller simple Paris–Lyon en seconde classe pour samedi ?
+miroir-639|Miroir / Expert|nouvelle|À quel moment de la semaine préférerais-tu marcher deux kilomètres ?|À quel moment de la semaine préférerais-tu marcher trois kilomètres ?
+miroir-640|Miroir / Expert|nouvelle|Qu’est-ce que tu dirais sur le moment si tu retrouves un billet de dix euros ?|Qu’est-ce que tu dirais sur le moment si tu retrouves un billet de vingt euros ?
+miroir-641|Miroir / Expert|nouvelle|Quel budget maximal prévoirais-tu pour un café allongé servi sur place ?|Quel budget maximal prévoirais-tu pour un café allongé à emporter ?
+miroir-642|Miroir / Expert|nouvelle|Si tu devais ranger une petite chambre, quelle serait ta priorité ?|Si tu devais ranger un grand salon, quelle serait ta priorité ?
+miroir-643|Miroir / Expert|nouvelle|Quel serait le meilleur moment pour trouver un cadeau pour un ami ?|Quel serait le meilleur moment pour trouver un cadeau pour deux amis ?
+miroir-644|Miroir / Expert|nouvelle|À ton avis, combien coûte un abonnement à une salle de sport pendant un mois ?|À ton avis, combien coûte un abonnement à une salle de sport pendant trois mois ?
+miroir-645|Miroir / Expert|nouvelle|Quel budget maximal prévoirais-tu pour un aller simple Paris–Lyon en seconde classe pour vendredi ?|Quel budget maximal prévoirais-tu pour un aller simple Paris–Lyon en seconde classe pour samedi ?
+miroir-646|Miroir / Expert|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un abonnement à une salle de sport pendant un mois ?|Au-delà de quel prix hésiterais-tu à acheter un abonnement à une salle de sport pendant trois mois ?
+miroir-647|Miroir / Expert|nouvelle|Quel outil choisirais-tu pour trouver un cadeau pour un ami ?|Quel outil choisirais-tu pour trouver un cadeau pour deux amis ?
+miroir-648|Miroir / Expert|nouvelle|Comment réagirais-tu si un restaurant te fait attendre dix minutes ?|Comment réagirais-tu si un restaurant te fait attendre trente minutes ?
+miroir-649|Miroir / Expert|nouvelle|Quel serait le meilleur moment pour marcher deux kilomètres ?|Quel serait le meilleur moment pour marcher trois kilomètres ?
+miroir-650|Miroir / Expert|nouvelle|Quel budget maximal prévoirais-tu pour un bouquet de cinq roses chez un fleuriste ?|Quel budget maximal prévoirais-tu pour un bouquet de quinze roses chez un fleuriste ?
+miroir-651|Miroir / Expert|nouvelle|Quel serait le point le plus important pour lire dix pages d’un livre ?|Quel serait le point le plus important pour lire vingt pages d’un livre ?
+miroir-652|Miroir / Expert|nouvelle|Comment répondrais-tu si un ami annule le matin même ?|Comment répondrais-tu si un ami annule la veille au soir ?
+miroir-653|Miroir / Expert|nouvelle|Selon toi, quel est le prix d’un café allongé servi sur place ?|Selon toi, quel est le prix d’un café allongé à emporter ?
+miroir-654|Miroir / Expert|nouvelle|Quel objet pourrait t’aider à choisir une photo parmi dix ?|Quel objet pourrait t’aider à choisir une photo parmi vingt ?
+miroir-655|Miroir / Expert|nouvelle|Où chercherais-tu une nuit dans un hôtel trois étoiles en semaine en premier ?|Où chercherais-tu une nuit dans un hôtel trois étoiles le week-end en premier ?
+miroir-656|Miroir / Expert|nouvelle|Quel outil choisirais-tu pour préparer un repas pour deux ?|Quel outil choisirais-tu pour préparer un repas pour quatre ?
+miroir-657|Miroir / Expert|nouvelle|Où irais-tu pour acheter un aller simple Paris–Lyon en seconde classe pour vendredi ?|Où irais-tu pour acheter un aller simple Paris–Lyon en seconde classe pour samedi ?
+miroir-658|Miroir / Expert|nouvelle|À ton avis, combien coûte un aller simple Paris–Lyon en seconde classe pour vendredi ?|À ton avis, combien coûte un aller simple Paris–Lyon en seconde classe pour samedi ?
+miroir-659|Miroir / Expert|nouvelle|Selon toi, quel est le prix d’un abonnement à une salle de sport pendant un mois ?|Selon toi, quel est le prix d’un abonnement à une salle de sport pendant trois mois ?
+miroir-660|Miroir / Expert|nouvelle|Qu’est-ce que tu dirais sur le moment si ton train part dans dix minutes ?|Qu’est-ce que tu dirais sur le moment si ton train part dans vingt minutes ?
+miroir-661|Miroir / Expert|nouvelle|À quel endroit irais-tu pour trouver un aller simple Paris–Lyon en seconde classe pour vendredi ?|À quel endroit irais-tu pour trouver un aller simple Paris–Lyon en seconde classe pour samedi ?
+miroir-662|Miroir / Expert|nouvelle|À ton avis, combien de temps faut-il pour préparer ton sac pour une journée ?|À ton avis, combien de temps faut-il pour préparer ton sac pour deux jours ?

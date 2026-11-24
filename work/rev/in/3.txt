@@ -1,0 +1,605 @@
+bouffe-851|Bouffe & Restos|nouvelle|Combien de temps te faudrait-il pour faire des courses pour un dîner ?|Combien de temps te faudrait-il pour préparer un goûter pour des enfants ?
+bouffe-852|Bouffe & Restos|nouvelle|À qui demanderais-tu de l’aide pour choisir un restaurant pour quatre ?|À qui demanderais-tu de l’aide pour préparer un gâteau au chocolat ?
+bouffe-853|Bouffe & Restos|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un bon fromage affiné ?|Au-delà de quel prix hésiterais-tu à acheter un paquet de 250 g de café de spécialité ?
+bouffe-854|Bouffe & Restos|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer une planche apéritive ?|Quel créneau de la journée serait le plus pratique pour préparer un déjeuner à emporter ?
+bouffe-855|Bouffe & Restos|nouvelle|À ton avis, combien coûte une portion de frites maison ?|À ton avis, combien coûte un smoothie frais ?
+bouffe-856|Bouffe & Restos|nouvelle|Où irais-tu pour acheter un panier de trois kilos de fruits de saison ?|Où irais-tu pour acheter un plat de pâtes au restaurant ?
+bouffe-857|Bouffe & Restos|nouvelle|Qu’est-ce que tu dirais sur le moment si un invité annonce une allergie alimentaire ?|Qu’est-ce que tu dirais sur le moment si un ami veut partager tous les plats ?
+bouffe-858|Bouffe & Restos|nouvelle|À ton avis, combien de temps faut-il pour réchauffer un plat de la veille ?|À ton avis, combien de temps faut-il pour préparer une vinaigrette maison ?
+bouffe-859|Bouffe & Restos|nouvelle|Comment réagirais-tu si on te sert une portion beaucoup trop grande ?|Comment réagirais-tu si tu dois commander sans voir le menu ?
+bouffe-860|Bouffe & Restos|nouvelle|À ton avis, combien coûte une bonne pizza à emporter ?|À ton avis, combien coûte un plateau de trente sushis à emporter ?
+bouffe-861|Bouffe & Restos|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une crêpe salée complète ?|Sur quel site ou dans quel magasin chercherais-tu un bocal de pâte à tartiner ?
+bouffe-862|Bouffe & Restos|nouvelle|À quelle fréquence t’arrive-t-il de préparer un goûter pour des enfants ?|À quelle fréquence t’arrive-t-il de tester une recette trouvée en ligne ?
+bouffe-863|Bouffe & Restos|nouvelle|À quel moment aurais-tu envie d’acheter une crêpe salée complète ?|À quel moment aurais-tu envie d’acheter un bocal de pâte à tartiner ?
+bouffe-864|Bouffe & Restos|nouvelle|Quel prix imagines-tu pour une crêpe salée complète ?|Quel prix imagines-tu pour un bocal de pâte à tartiner ?
+bouffe-865|Bouffe & Restos|nouvelle|Dans quelle situation déciderais-tu d’acheter un burger végétarien ?|Dans quelle situation déciderais-tu d’acheter un brunch complet pour une personne dans un café ?
+bouffe-866|Bouffe & Restos|nouvelle|Quelle phrase sortirait de ta bouche si on t’invite à dîner alors que tu as déjà mangé ?|Quelle phrase sortirait de ta bouche si quelqu’un met du ketchup sur ton plat préféré ?
+bouffe-867|Bouffe & Restos|nouvelle|À ton avis, combien de temps faut-il pour cuisiner un plat pour des invités ?|À ton avis, combien de temps faut-il pour choisir une recette pour le soir ?
+bouffe-868|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un paquet de 250 g de café de spécialité ?|Combien serais-tu prêt à dépenser pour une tablette de chocolat artisanal ?
+bouffe-869|Bouffe & Restos|nouvelle|Comment répondrais-tu si un invité arrive avec un dessert supplémentaire ?|Comment répondrais-tu si le livreur a oublié une partie de la commande ?
+bouffe-870|Bouffe & Restos|nouvelle|Où chercherais-tu un repas livré pour deux en premier ?|Où chercherais-tu une bouteille d’huile d’olive de qualité en premier ?
+bouffe-871|Bouffe & Restos|nouvelle|Comment répondrais-tu si tu dois commander sans voir le menu ?|Comment répondrais-tu si ton collègue critique ton déjeuner ?
+bouffe-872|Bouffe & Restos|nouvelle|Pour quelle occasion voudrais-tu acheter un smoothie frais ?|Pour quelle occasion voudrais-tu acheter une salade composée au restaurant ?
+bouffe-873|Bouffe & Restos|nouvelle|Que dirais-tu si tu brûles légèrement le gâteau ?|Que dirais-tu si on te demande la recette de ton plat ?
+bouffe-874|Bouffe & Restos|nouvelle|Quel serait le meilleur moment pour faire une soupe maison ?|Quel serait le meilleur moment pour préparer une salade de fruits ?
+bouffe-875|Bouffe & Restos|nouvelle|Qu’est-ce que tu ferais en premier si le serveur apporte le mauvais dessert ?|Qu’est-ce que tu ferais en premier si ton ami dit que ton plat est trop épicé ?
+bouffe-876|Bouffe & Restos|nouvelle|Quelle serait ta première réaction si ton collègue critique ton déjeuner ?|Quelle serait ta première réaction si le serveur apporte le mauvais dessert ?
+bouffe-877|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour une salade composée au restaurant ?|Combien serais-tu prêt à dépenser pour une crêpe salée complète ?
+bouffe-878|Bouffe & Restos|nouvelle|À quelle fréquence aimerais-tu cuisiner des pâtes pour plusieurs ?|À quelle fréquence aimerais-tu faire des courses pour un dîner ?
+bouffe-879|Bouffe & Restos|nouvelle|Comment répondrais-tu si un ami te demande de choisir pour lui ?|Comment répondrais-tu si le restaurant refuse de modifier une recette ?
+bouffe-880|Bouffe & Restos|nouvelle|À ton avis, combien coûte un gâteau d’anniversaire artisanal ?|À ton avis, combien coûte une boîte de douze macarons ?
+bouffe-881|Bouffe & Restos|nouvelle|Combien de temps te faudrait-il pour préparer un déjeuner à emporter ?|Combien de temps te faudrait-il pour cuisiner un plat pour des invités ?
+restaurants-service-001|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour un menu déjeuner entrée-plat dans une brasserie parisienne ?|Quel prix te semblerait raisonnable pour une grande salade composée pour un déjeuner ?
+restaurants-service-002|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour une pizza margherita dans un restaurant italien ?|En euros, quel serait ton plafond pour un plat de pâtes fraîches dans une trattoria ?
+restaurants-service-003|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour un burger avec frites dans un restaurant de quartier ?|À partir de quel prix trouverais-tu un dîner à deux avec plat et dessert sans alcool trop cher ?
+restaurants-service-004|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour un café allongé servi en terrasse dans le centre de Paris ?|Quel prix te semblerait raisonnable pour un plateau de sushis de vingt pièces ?
+restaurants-service-005|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour une formule brunch complète pour une personne ?|En euros, quel serait ton plafond pour une soupe et un sandwich dans un café ?
+restaurants-service-006|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour un menu dégustation de cinq plats sans boissons ?|À partir de quel prix trouverais-tu une coupe de glace avec trois parfums en terrasse trop cher ?
+restaurants-service-007|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour la livraison à domicile de deux plats chauds ?|Quel prix te semblerait raisonnable pour une portion de frites maison à partager ?
+restaurants-service-008|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour une bouteille d'eau pétillante d'un litre au restaurant ?|En euros, quel serait ton plafond pour un steak végétal avec accompagnement au restaurant ?
+restaurants-service-009|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour un dessert maison dans une brasserie ?|À partir de quel prix trouverais-tu une formule petit-déjeuner avec boisson chaude et viennoiserie trop cher ?
+restaurants-service-010|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour une grande salade composée pour un déjeuner ?|Quel prix te semblerait raisonnable pour une assiette de poisson du jour avec légumes ?
+restaurants-service-011|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un plat de pâtes fraîches dans une trattoria ?|En euros, quel serait ton plafond pour un repas à emporter pour deux personnes ?
+restaurants-service-012|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour un dîner à deux avec plat et dessert sans alcool ?|À partir de quel prix trouverais-tu un menu déjeuner entrée-plat dans une brasserie parisienne trop cher ?
+restaurants-service-013|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour un plateau de sushis de vingt pièces ?|Quel prix te semblerait raisonnable pour une pizza margherita dans un restaurant italien ?
+restaurants-service-014|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour une soupe et un sandwich dans un café ?|En euros, quel serait ton plafond pour un burger avec frites dans un restaurant de quartier ?
+restaurants-service-015|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour une coupe de glace avec trois parfums en terrasse ?|À partir de quel prix trouverais-tu un café allongé servi en terrasse dans le centre de Paris trop cher ?
+restaurants-service-016|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour une portion de frites maison à partager ?|Quel prix te semblerait raisonnable pour une formule brunch complète pour une personne ?
+restaurants-service-017|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un steak végétal avec accompagnement au restaurant ?|En euros, quel serait ton plafond pour un menu dégustation de cinq plats sans boissons ?
+restaurants-service-018|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour une formule petit-déjeuner avec boisson chaude et viennoiserie ?|À partir de quel prix trouverais-tu la livraison à domicile de deux plats chauds trop cher ?
+restaurants-service-019|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour une assiette de poisson du jour avec légumes ?|Quel prix te semblerait raisonnable pour une bouteille d'eau pétillante d'un litre au restaurant ?
+restaurants-service-020|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un repas à emporter pour deux personnes ?|En euros, quel serait ton plafond pour un dessert maison dans une brasserie ?
+restaurants-service-021|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un menu déjeuner entrée-plat dans une brasserie parisienne ?|En euros, quel serait ton plafond pour une grande salade composée pour un déjeuner ?
+restaurants-service-022|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour une pizza margherita dans un restaurant italien ?|À partir de quel prix trouverais-tu un plat de pâtes fraîches dans une trattoria trop cher ?
+restaurants-service-023|Bouffe & Restos|nouvelle|Quel prix maximum paierais-tu pour un burger avec frites dans un restaurant de quartier ?|Quel prix te semblerait raisonnable pour un dîner à deux avec plat et dessert sans alcool ?
+restaurants-service-024|Bouffe & Restos|nouvelle|Combien serais-tu prêt à dépenser pour un café allongé servi en terrasse dans le centre de Paris ?|En euros, quel serait ton plafond pour un plateau de sushis de vingt pièces ?
+restaurants-service-025|Bouffe & Restos|nouvelle|Quel budget prévoirais-tu pour une formule brunch complète pour une personne ?|À partir de quel prix trouverais-tu une soupe et un sandwich dans un café trop cher ?
+restaurants-service-026|Bouffe & Restos|nouvelle|Que répondrais-tu si le serveur apportait un plat différent de ta commande ?|Comment répondrais-tu si un vendeur te demandait de payer deux fois le même article ?
+restaurants-service-027|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si un restaurateur t'annonçait une attente d'une heure sans prévenir ?|Qu’est-ce que tu dirais si le livreur déposait une commande devant la mauvaise porte ?
+restaurants-service-028|Bouffe & Restos|nouvelle|Que dirais-tu si le serveur te facturait un dessert que tu n'as pas pris ?|Quels mots utiliserais-tu si un commerçant refusait d'appliquer un prix affiché ?
+restaurants-service-029|Bouffe & Restos|nouvelle|Que répondrais-tu si le café servi était complètement froid ?|Comment répondrais-tu si un serveur te disait que la terrasse ferme dans dix minutes ?
+restaurants-service-030|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si un employé te demandait de libérer la table avant le dessert ?|Qu’est-ce que tu dirais si le personnel annonçait que ta réservation n'existe pas ?
+restaurants-service-031|Bouffe & Restos|nouvelle|Que dirais-tu si le serveur t'annonçait la rupture du plat que tu avais choisi ?|Quels mots utiliserais-tu si un employé te demandait de refaire une longue file malgré ton ticket ?
+restaurants-service-032|Bouffe & Restos|nouvelle|Que répondrais-tu si un restaurateur refusait un remboursement après une erreur manifeste ?|Comment répondrais-tu si le restaurant t'offrait un dessert pour s'excuser d'un retard ?
+restaurants-service-033|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si le personnel oubliait l'allergie signalée avant la commande ?|Qu’est-ce que tu dirais si un serveur renversait un peu d'eau sur ton manteau ?
+restaurants-service-034|Bouffe & Restos|nouvelle|Que dirais-tu si un serveur te proposait un supplément non demandé ?|Quels mots utiliserais-tu si le restaurateur t'annonçait un menu différent de celui publié en ligne ?
+restaurants-service-035|Bouffe & Restos|nouvelle|Que répondrais-tu si un vendeur te demandait de payer deux fois le même article ?|Comment répondrais-tu si un vendeur affirmait qu'un produit défectueux est « normal » ?
+restaurants-service-036|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si le livreur déposait une commande devant la mauvaise porte ?|Qu’est-ce que tu dirais si un serveur te demandait un avis alors que tu n'as pas aimé le plat ?
+restaurants-service-037|Bouffe & Restos|nouvelle|Que dirais-tu si un commerçant refusait d'appliquer un prix affiché ?|Quels mots utiliserais-tu si le serveur apportait un plat différent de ta commande ?
+restaurants-service-038|Bouffe & Restos|nouvelle|Que répondrais-tu si un serveur te disait que la terrasse ferme dans dix minutes ?|Comment répondrais-tu si un restaurateur t'annonçait une attente d'une heure sans prévenir ?
+restaurants-service-039|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si le personnel annonçait que ta réservation n'existe pas ?|Qu’est-ce que tu dirais si le serveur te facturait un dessert que tu n'as pas pris ?
+restaurants-service-040|Bouffe & Restos|nouvelle|Que dirais-tu si un employé te demandait de refaire une longue file malgré ton ticket ?|Quels mots utiliserais-tu si le café servi était complètement froid ?
+restaurants-service-041|Bouffe & Restos|nouvelle|Que répondrais-tu si le restaurant t'offrait un dessert pour s'excuser d'un retard ?|Comment répondrais-tu si un employé te demandait de libérer la table avant le dessert ?
+restaurants-service-042|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si un serveur renversait un peu d'eau sur ton manteau ?|Qu’est-ce que tu dirais si le serveur t'annonçait la rupture du plat que tu avais choisi ?
+restaurants-service-043|Bouffe & Restos|nouvelle|Que dirais-tu si le restaurateur t'annonçait un menu différent de celui publié en ligne ?|Quels mots utiliserais-tu si un restaurateur refusait un remboursement après une erreur manifeste ?
+restaurants-service-044|Bouffe & Restos|nouvelle|Que répondrais-tu si un vendeur affirmait qu'un produit défectueux est « normal » ?|Comment répondrais-tu si le personnel oubliait l'allergie signalée avant la commande ?
+restaurants-service-045|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si un serveur te demandait un avis alors que tu n'as pas aimé le plat ?|Qu’est-ce que tu dirais si un serveur te proposait un supplément non demandé ?
+restaurants-service-046|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si le serveur apportait un plat différent de ta commande ?|Qu’est-ce que tu dirais si un vendeur te demandait de payer deux fois le même article ?
+restaurants-service-047|Bouffe & Restos|nouvelle|Que dirais-tu si un restaurateur t'annonçait une attente d'une heure sans prévenir ?|Quels mots utiliserais-tu si le livreur déposait une commande devant la mauvaise porte ?
+restaurants-service-048|Bouffe & Restos|nouvelle|Que répondrais-tu si le serveur te facturait un dessert que tu n'as pas pris ?|Comment répondrais-tu si un commerçant refusait d'appliquer un prix affiché ?
+restaurants-service-049|Bouffe & Restos|nouvelle|Quelle serait ta première phrase si le café servi était complètement froid ?|Qu’est-ce que tu dirais si un serveur te disait que la terrasse ferme dans dix minutes ?
+restaurants-service-050|Bouffe & Restos|nouvelle|Que dirais-tu si un employé te demandait de libérer la table avant le dessert ?|Quels mots utiliserais-tu si le personnel annonçait que ta réservation n'existe pas ?
+restaurants-service-051|Bouffe & Restos|nouvelle|Que ferais-tu en premier si tu découvrais un cheveu dans ton plat au restaurant ?|Que déciderais-tu de faire d’abord si tu remarquais une erreur de prix à la caisse du supermarché ?
+restaurants-service-052|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si ta commande livrée ne contenait pas le dessert payé ?|Comment agirais-tu en premier si ton repas commandé sans un ingrédient en contenait finalement ?
+restaurants-service-053|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si tu arrivais et le restaurant avait perdu ta réservation ?|Quelle serait ta première action si le restaurant était complet malgré une confirmation par e-mail ?
+restaurants-service-054|Bouffe & Restos|nouvelle|Que ferais-tu en premier si l'addition comprenait quatre boissons au lieu de deux ?|Que déciderais-tu de faire d’abord si un serveur apportait le plat principal avant l'entrée ?
+restaurants-service-055|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si ton plat arrivait froid après quarante minutes d'attente ?|Comment agirais-tu en premier si ton café à emporter se renversait à cause d'un couvercle mal fermé ?
+restaurants-service-056|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si un restaurant annonçait n'accepter que les espèces après le repas ?|Quelle serait ta première action si ton ticket de caisse révélait une réduction oubliée ?
+restaurants-service-057|Bouffe & Restos|nouvelle|Que ferais-tu en premier si tu recevais un produit cassé dans un colis neuf ?|Que déciderais-tu de faire d’abord si une livraison arrivait avec une heure de retard ?
+restaurants-service-058|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si ton colis était indiqué livré alors que tu n'as rien reçu ?|Comment agirais-tu en premier si tu constatais que la date limite d'un produit acheté est dépassée ?
+restaurants-service-059|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si le terminal de paiement affichait deux fois la transaction ?|Quelle serait ta première action si le serveur t'annonçait une mauvaise note de table sur l'addition ?
+restaurants-service-060|Bouffe & Restos|nouvelle|Que ferais-tu en premier si tu remarquais une erreur de prix à la caisse du supermarché ?|Que déciderais-tu de faire d’abord si un commerçant retrouvait ton portefeuille oublié la veille ?
+restaurants-service-061|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si ton repas commandé sans un ingrédient en contenait finalement ?|Comment agirais-tu en premier si la carte annonçait un plat qui n'est finalement plus disponible ?
+restaurants-service-062|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si le restaurant était complet malgré une confirmation par e-mail ?|Quelle serait ta première action si tu découvrais un cheveu dans ton plat au restaurant ?
+restaurants-service-063|Bouffe & Restos|nouvelle|Que ferais-tu en premier si un serveur apportait le plat principal avant l'entrée ?|Que déciderais-tu de faire d’abord si ta commande livrée ne contenait pas le dessert payé ?
+restaurants-service-064|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si ton café à emporter se renversait à cause d'un couvercle mal fermé ?|Comment agirais-tu en premier si tu arrivais et le restaurant avait perdu ta réservation ?
+restaurants-service-065|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si ton ticket de caisse révélait une réduction oubliée ?|Quelle serait ta première action si l'addition comprenait quatre boissons au lieu de deux ?
+restaurants-service-066|Bouffe & Restos|nouvelle|Que ferais-tu en premier si une livraison arrivait avec une heure de retard ?|Que déciderais-tu de faire d’abord si ton plat arrivait froid après quarante minutes d'attente ?
+restaurants-service-067|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si tu constatais que la date limite d'un produit acheté est dépassée ?|Comment agirais-tu en premier si un restaurant annonçait n'accepter que les espèces après le repas ?
+restaurants-service-068|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si le serveur t'annonçait une mauvaise note de table sur l'addition ?|Quelle serait ta première action si tu recevais un produit cassé dans un colis neuf ?
+restaurants-service-069|Bouffe & Restos|nouvelle|Que ferais-tu en premier si un commerçant retrouvait ton portefeuille oublié la veille ?|Que déciderais-tu de faire d’abord si ton colis était indiqué livré alors que tu n'as rien reçu ?
+restaurants-service-070|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si la carte annonçait un plat qui n'est finalement plus disponible ?|Comment agirais-tu en premier si le terminal de paiement affichait deux fois la transaction ?
+restaurants-service-071|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si tu découvrais un cheveu dans ton plat au restaurant ?|Comment agirais-tu en premier si tu remarquais une erreur de prix à la caisse du supermarché ?
+restaurants-service-072|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si ta commande livrée ne contenait pas le dessert payé ?|Quelle serait ta première action si ton repas commandé sans un ingrédient en contenait finalement ?
+restaurants-service-073|Bouffe & Restos|nouvelle|Que ferais-tu en premier si tu arrivais et le restaurant avait perdu ta réservation ?|Que déciderais-tu de faire d’abord si le restaurant était complet malgré une confirmation par e-mail ?
+restaurants-service-074|Bouffe & Restos|nouvelle|Quel serait ton premier réflexe si l'addition comprenait quatre boissons au lieu de deux ?|Comment agirais-tu en premier si un serveur apportait le plat principal avant l'entrée ?
+restaurants-service-075|Bouffe & Restos|nouvelle|Par quoi commencerais-tu si ton plat arrivait froid après quarante minutes d'attente ?|Quelle serait ta première action si ton café à emporter se renversait à cause d'un couvercle mal fermé ?
+restaurants-service-076|Bouffe & Restos|nouvelle|Tu choisirais plutôt un très bon petit restaurant bruyant ou un restaurant calme mais ordinaire ?|Si tu n’avais droit qu’à une option, tu prendrais un restaurant connu ou une petite adresse peu fréquentée ?
+restaurants-service-077|Bouffe & Restos|nouvelle|Entre une terrasse ensoleillée et une salle confortable climatisée, que préférerais-tu ?|Lequel des deux te tente le plus : un menu court qui change souvent ou une grande carte permanente ?
+restaurants-service-078|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait un menu du jour ou choisir à la carte ?|Tu privilégierais un serveur qui conseille beaucoup ou un serveur qui laisse choisir tranquillement ?
+restaurants-service-079|Bouffe & Restos|nouvelle|Tu choisirais plutôt un service très rapide ou un service plus attentionné ?|Si tu n’avais droit qu’à une option, tu prendrais une pizzeria traditionnelle ou un restaurant de pâtes fraîches ?
+restaurants-service-080|Bouffe & Restos|nouvelle|Entre manger sur place et prendre à emporter, que préférerais-tu ?|Lequel des deux te tente le plus : payer en caisse ou régler directement à table ?
+restaurants-service-081|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait une cuisine ouverte ou une cuisine cachée ?|Tu privilégierais une table près de la fenêtre ou une table au fond de la salle ?
+restaurants-service-082|Bouffe & Restos|nouvelle|Tu choisirais plutôt un brunch sucré ou un brunch salé ?|Si tu n’avais droit qu’à une option, tu prendrais une entrée et un plat ou un plat et un dessert ?
+restaurants-service-083|Bouffe & Restos|nouvelle|Entre des plats à partager et chacun son assiette, que préférerais-tu ?|Lequel des deux te tente le plus : une livraison rapide mais chère ou un retrait à pied gratuit ?
+restaurants-service-084|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait réserver plusieurs jours à l'avance ou décider du restaurant le soir même ?|Tu privilégierais un repas simple avec produits locaux ou un menu très élaboré ?
+restaurants-service-085|Bouffe & Restos|nouvelle|Tu choisirais plutôt un restaurant connu ou une petite adresse peu fréquentée ?|Si tu n’avais droit qu’à une option, tu prendrais un déjeuner tôt ou un dîner tard ?
+restaurants-service-086|Bouffe & Restos|nouvelle|Entre un menu court qui change souvent et une grande carte permanente, que préférerais-tu ?|Lequel des deux te tente le plus : un restaurant où l'on connaît le personnel ou une nouvelle adresse à découvrir ?
+restaurants-service-087|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait un serveur qui conseille beaucoup ou un serveur qui laisse choisir tranquillement ?|Tu privilégierais un très bon petit restaurant bruyant ou un restaurant calme mais ordinaire ?
+restaurants-service-088|Bouffe & Restos|nouvelle|Tu choisirais plutôt une pizzeria traditionnelle ou un restaurant de pâtes fraîches ?|Si tu n’avais droit qu’à une option, tu prendrais une terrasse ensoleillée ou une salle confortable climatisée ?
+restaurants-service-089|Bouffe & Restos|nouvelle|Entre payer en caisse et régler directement à table, que préférerais-tu ?|Lequel des deux te tente le plus : un menu du jour ou choisir à la carte ?
+restaurants-service-090|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait une table près de la fenêtre ou une table au fond de la salle ?|Tu privilégierais un service très rapide ou un service plus attentionné ?
+restaurants-service-091|Bouffe & Restos|nouvelle|Tu choisirais plutôt une entrée et un plat ou un plat et un dessert ?|Si tu n’avais droit qu’à une option, tu prendrais manger sur place ou prendre à emporter ?
+restaurants-service-092|Bouffe & Restos|nouvelle|Entre une livraison rapide mais chère et un retrait à pied gratuit, que préférerais-tu ?|Lequel des deux te tente le plus : une cuisine ouverte ou une cuisine cachée ?
+restaurants-service-093|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait un repas simple avec produits locaux ou un menu très élaboré ?|Tu privilégierais un brunch sucré ou un brunch salé ?
+restaurants-service-094|Bouffe & Restos|nouvelle|Tu choisirais plutôt un déjeuner tôt ou un dîner tard ?|Si tu n’avais droit qu’à une option, tu prendrais des plats à partager ou chacun son assiette ?
+restaurants-service-095|Bouffe & Restos|nouvelle|Entre un restaurant où l'on connaît le personnel et une nouvelle adresse à découvrir, que préférerais-tu ?|Lequel des deux te tente le plus : réserver plusieurs jours à l'avance ou décider du restaurant le soir même ?
+restaurants-service-096|Bouffe & Restos|nouvelle|Entre un très bon petit restaurant bruyant et un restaurant calme mais ordinaire, que préférerais-tu ?|Lequel des deux te tente le plus : un restaurant connu ou une petite adresse peu fréquentée ?
+restaurants-service-097|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait une terrasse ensoleillée ou une salle confortable climatisée ?|Tu privilégierais un menu court qui change souvent ou une grande carte permanente ?
+restaurants-service-098|Bouffe & Restos|nouvelle|Tu choisirais plutôt un menu du jour ou choisir à la carte ?|Si tu n’avais droit qu’à une option, tu prendrais un serveur qui conseille beaucoup ou un serveur qui laisse choisir tranquillement ?
+restaurants-service-099|Bouffe & Restos|nouvelle|Entre un service très rapide et un service plus attentionné, que préférerais-tu ?|Lequel des deux te tente le plus : une pizzeria traditionnelle ou un restaurant de pâtes fraîches ?
+restaurants-service-100|Bouffe & Restos|nouvelle|Si tu devais trancher, ce serait manger sur place ou prendre à emporter ?|Tu privilégierais payer en caisse ou régler directement à table ?
+restaurants-service-101|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour choisir un plat sur une carte de trente propositions ?|Quel temps, en minutes, prévoirais-tu pour décider d'une formule de déjeuner avant le travail ?
+restaurants-service-102|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à décider d'un restaurant pour dîner à quatre ?|Tu mettrais combien de minutes à choisir un plat adapté à une allergie déclarée ?
+restaurants-service-103|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à patienter avant de relancer un serveur pour l'addition ?|En général, combien de minutes prendrais-tu pour attendre un plat qui aurait dû arriver depuis trente minutes ?
+restaurants-service-104|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour vérifier l'addition d'un groupe de six personnes ?|Quel temps, en minutes, prévoirais-tu pour expliquer une erreur de livraison au service client ?
+restaurants-service-105|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à comparer deux cartes de restaurant sur Internet ?|Tu mettrais combien de minutes à vérifier un remboursement sur une application ?
+restaurants-service-106|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à choisir un dessert après un repas copieux ?|En général, combien de minutes prendrais-tu pour comparer les prix des plats à emporter autour de toi ?
+restaurants-service-107|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour faire une réclamation polie pour une commande incomplète ?|Quel temps, en minutes, prévoirais-tu pour préparer une commande de repas pour cinq personnes ?
+restaurants-service-108|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à passer commande dans un café avec beaucoup de monde ?|Tu mettrais combien de minutes à trouver le numéro d'une réservation perdue ?
+restaurants-service-109|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à consulter les avis avant de réserver un restaurant ?|En général, combien de minutes prendrais-tu pour rédiger un avis constructif après un mauvais service ?
+restaurants-service-110|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour décider d'une formule de déjeuner avant le travail ?|Quel temps, en minutes, prévoirais-tu pour attendre à l'entrée d'une brasserie sans réservation ?
+restaurants-service-111|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à choisir un plat adapté à une allergie déclarée ?|Tu mettrais combien de minutes à sélectionner une boisson pour accompagner un plat épicé ?
+restaurants-service-112|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à attendre un plat qui aurait dû arriver depuis trente minutes ?|En général, combien de minutes prendrais-tu pour choisir un plat sur une carte de trente propositions ?
+restaurants-service-113|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour expliquer une erreur de livraison au service client ?|Quel temps, en minutes, prévoirais-tu pour décider d'un restaurant pour dîner à quatre ?
+restaurants-service-114|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à vérifier un remboursement sur une application ?|Tu mettrais combien de minutes à patienter avant de relancer un serveur pour l'addition ?
+restaurants-service-115|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à comparer les prix des plats à emporter autour de toi ?|En général, combien de minutes prendrais-tu pour vérifier l'addition d'un groupe de six personnes ?
+restaurants-service-116|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour préparer une commande de repas pour cinq personnes ?|Quel temps, en minutes, prévoirais-tu pour comparer deux cartes de restaurant sur Internet ?
+restaurants-service-117|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à trouver le numéro d'une réservation perdue ?|Tu mettrais combien de minutes à choisir un dessert après un repas copieux ?
+restaurants-service-118|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à rédiger un avis constructif après un mauvais service ?|En général, combien de minutes prendrais-tu pour faire une réclamation polie pour une commande incomplète ?
+restaurants-service-119|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour attendre à l'entrée d'une brasserie sans réservation ?|Quel temps, en minutes, prévoirais-tu pour passer commande dans un café avec beaucoup de monde ?
+restaurants-service-120|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à sélectionner une boisson pour accompagner un plat épicé ?|Tu mettrais combien de minutes à consulter les avis avant de réserver un restaurant ?
+restaurants-service-121|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à choisir un plat sur une carte de trente propositions ?|Tu mettrais combien de minutes à décider d'une formule de déjeuner avant le travail ?
+restaurants-service-122|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à décider d'un restaurant pour dîner à quatre ?|En général, combien de minutes prendrais-tu pour choisir un plat adapté à une allergie déclarée ?
+restaurants-service-123|Bouffe & Restos|nouvelle|Combien de minutes te faudrait-il pour patienter avant de relancer un serveur pour l'addition ?|Quel temps, en minutes, prévoirais-tu pour attendre un plat qui aurait dû arriver depuis trente minutes ?
+restaurants-service-124|Bouffe & Restos|nouvelle|Tu passerais combien de minutes à vérifier l'addition d'un groupe de six personnes ?|Tu mettrais combien de minutes à expliquer une erreur de livraison au service client ?
+restaurants-service-125|Bouffe & Restos|nouvelle|Combien de minutes consacrerais-tu à comparer deux cartes de restaurant sur Internet ?|En général, combien de minutes prendrais-tu pour vérifier un remboursement sur une application ?
+restaurants-service-126|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour signaler une erreur sur l'addition au restaurant ?|Qui appellerais-tu pour savoir si un plat contient des noix ?
+restaurants-service-127|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour demander un plat sans un allergène précis ?|À qui demanderais-tu un avis pour obtenir une facture pour un repas professionnel ?
+restaurants-service-128|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour obtenir un remboursement après une livraison incomplète ?|À quelle personne parlerais-tu d’abord pour faire réparer un appareil encore sous garantie ?
+restaurants-service-129|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour trouver une bonne adresse pour un dîner de famille ?|Qui appellerais-tu pour organiser une table de douze personnes ?
+restaurants-service-130|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour connaître la composition exacte d'un dessert ?|À qui demanderais-tu un avis pour signaler un service particulièrement attentionné ?
+restaurants-service-131|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour résoudre un souci de réservation en ligne ?|À quelle personne parlerais-tu d’abord pour retrouver un objet oublié dans un café ?
+restaurants-service-132|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour demander un remplacement pour un produit abîmé ?|Qui appellerais-tu pour demander une modification de commande avant l'envoi ?
+restaurants-service-133|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour comprendre un supplément ajouté sans explication ?|À qui demanderais-tu un avis pour choisir un menu végétarien pour un invité ?
+restaurants-service-134|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour choisir un restaurant accessible en fauteuil roulant ?|À quelle personne parlerais-tu d’abord pour réclamer une réduction affichée mais non appliquée ?
+restaurants-service-135|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour savoir si un plat contient des noix ?|Qui appellerais-tu pour signaler qu'un plat est froid ?
+restaurants-service-136|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour obtenir une facture pour un repas professionnel ?|À qui demanderais-tu un avis pour réserver un gâteau d'anniversaire au restaurant ?
+restaurants-service-137|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour faire réparer un appareil encore sous garantie ?|À quelle personne parlerais-tu d’abord pour signaler une erreur sur l'addition au restaurant ?
+restaurants-service-138|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour organiser une table de douze personnes ?|Qui appellerais-tu pour demander un plat sans un allergène précis ?
+restaurants-service-139|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour signaler un service particulièrement attentionné ?|À qui demanderais-tu un avis pour obtenir un remboursement après une livraison incomplète ?
+restaurants-service-140|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour retrouver un objet oublié dans un café ?|À quelle personne parlerais-tu d’abord pour trouver une bonne adresse pour un dîner de famille ?
+restaurants-service-141|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour demander une modification de commande avant l'envoi ?|Qui appellerais-tu pour connaître la composition exacte d'un dessert ?
+restaurants-service-142|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour choisir un menu végétarien pour un invité ?|À qui demanderais-tu un avis pour résoudre un souci de réservation en ligne ?
+restaurants-service-143|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour réclamer une réduction affichée mais non appliquée ?|À quelle personne parlerais-tu d’abord pour demander un remplacement pour un produit abîmé ?
+restaurants-service-144|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour signaler qu'un plat est froid ?|Qui appellerais-tu pour comprendre un supplément ajouté sans explication ?
+restaurants-service-145|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour réserver un gâteau d'anniversaire au restaurant ?|À qui demanderais-tu un avis pour choisir un restaurant accessible en fauteuil roulant ?
+restaurants-service-146|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour signaler une erreur sur l'addition au restaurant ?|À qui demanderais-tu un avis pour savoir si un plat contient des noix ?
+restaurants-service-147|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour demander un plat sans un allergène précis ?|À quelle personne parlerais-tu d’abord pour obtenir une facture pour un repas professionnel ?
+restaurants-service-148|Bouffe & Restos|nouvelle|À qui demanderais-tu conseil pour obtenir un remboursement après une livraison incomplète ?|Qui appellerais-tu pour faire réparer un appareil encore sous garantie ?
+restaurants-service-149|Bouffe & Restos|nouvelle|Qui contacterais-tu en priorité pour trouver une bonne adresse pour un dîner de famille ?|À qui demanderais-tu un avis pour organiser une table de douze personnes ?
+restaurants-service-150|Bouffe & Restos|nouvelle|Vers qui te tournerais-tu pour connaître la composition exacte d'un dessert ?|À quelle personne parlerais-tu d’abord pour signaler un service particulièrement attentionné ?
+restaurants-service-151|Bouffe & Restos|nouvelle|Où irais-tu pour prendre un déjeuner rapide avant une réunion ?|Dans quel lieu voudrais-tu trouver un restaurant ouvert après vingt-trois heures ?
+restaurants-service-152|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu manger des pâtes fraîches un samedi soir ?|À quel endroit déciderais-tu de prendre un repas familial avec une poussette ?
+restaurants-service-153|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu inviter des amis dans un restaurant calme ?|Où choisirais-tu de manger dehors sans réservation un soir d'été ?
+restaurants-service-154|Bouffe & Restos|nouvelle|Où irais-tu pour déjeuner végétarien près d'une gare ?|Dans quel lieu voudrais-tu retrouver un ami autour d'un chocolat chaud ?
+restaurants-service-155|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu acheter un bon café à emporter le matin ?|À quel endroit déciderais-tu de prendre un repas adapté à une allergie alimentaire ?
+restaurants-service-156|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu déguster un dessert artisanal en fin d'après-midi ?|Où choisirais-tu de célébrer une promotion avec un dîner ?
+restaurants-service-157|Bouffe & Restos|nouvelle|Où irais-tu pour commander un plateau de sushis à partager ?|Dans quel lieu voudrais-tu trouver une boulangerie proposant un déjeuner sur place ?
+restaurants-service-158|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu prendre un brunch à deux le dimanche ?|À quel endroit déciderais-tu de commander un plat chaud avant de prendre le train ?
+restaurants-service-159|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu manger un poisson du jour dans un quartier touristique ?|Où choisirais-tu de boire un thé dans un endroit calme ?
+restaurants-service-160|Bouffe & Restos|nouvelle|Où irais-tu pour trouver un restaurant ouvert après vingt-trois heures ?|Dans quel lieu voudrais-tu dîner avec une personne qui ne mange pas de viande ?
+restaurants-service-161|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu prendre un repas familial avec une poussette ?|À quel endroit déciderais-tu de manger près d'un cinéma avant une séance ?
+restaurants-service-162|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu manger dehors sans réservation un soir d'été ?|Où choisirais-tu de prendre un déjeuner rapide avant une réunion ?
+restaurants-service-163|Bouffe & Restos|nouvelle|Où irais-tu pour retrouver un ami autour d'un chocolat chaud ?|Dans quel lieu voudrais-tu manger des pâtes fraîches un samedi soir ?
+restaurants-service-164|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu prendre un repas adapté à une allergie alimentaire ?|À quel endroit déciderais-tu d’inviter des amis dans un restaurant calme ?
+restaurants-service-165|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu célébrer une promotion avec un dîner ?|Où choisirais-tu de déjeuner végétarien près d'une gare ?
+restaurants-service-166|Bouffe & Restos|nouvelle|Où irais-tu pour trouver une boulangerie proposant un déjeuner sur place ?|Dans quel lieu voudrais-tu acheter un bon café à emporter le matin ?
+restaurants-service-167|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu commander un plat chaud avant de prendre le train ?|À quel endroit déciderais-tu de déguster un dessert artisanal en fin d'après-midi ?
+restaurants-service-168|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu boire un thé dans un endroit calme ?|Où choisirais-tu de commander un plateau de sushis à partager ?
+restaurants-service-169|Bouffe & Restos|nouvelle|Où irais-tu pour dîner avec une personne qui ne mange pas de viande ?|Dans quel lieu voudrais-tu prendre un brunch à deux le dimanche ?
+restaurants-service-170|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu manger près d'un cinéma avant une séance ?|À quel endroit déciderais-tu de manger un poisson du jour dans un quartier touristique ?
+restaurants-service-171|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu prendre un déjeuner rapide avant une réunion ?|À quel endroit déciderais-tu de trouver un restaurant ouvert après vingt-trois heures ?
+restaurants-service-172|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu manger des pâtes fraîches un samedi soir ?|Où choisirais-tu de prendre un repas familial avec une poussette ?
+restaurants-service-173|Bouffe & Restos|nouvelle|Où irais-tu pour inviter des amis dans un restaurant calme ?|Dans quel lieu voudrais-tu manger dehors sans réservation un soir d'été ?
+restaurants-service-174|Bouffe & Restos|nouvelle|Dans quel endroit préférerais-tu déjeuner végétarien près d'une gare ?|À quel endroit déciderais-tu de retrouver un ami autour d'un chocolat chaud ?
+restaurants-service-175|Bouffe & Restos|nouvelle|Dans quel lieu aimerais-tu acheter un bon café à emporter le matin ?|Où choisirais-tu de prendre un repas adapté à une allergie alimentaire ?
+restaurants-service-176|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu allais dans une brasserie un dimanche midi ?|Sur la carte, quel plat choisirais-tu si tu entrais dans un restaurant mexicain ?
+restaurants-service-177|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu déjeunais dans un restaurant italien traditionnel ?|Qu’est-ce que tu mangerais si tu allais dans une pizzeria au feu de bois ?
+restaurants-service-178|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu mangeais dans un bistrot de poissons ?|Quel plat privilégierais-tu si tu mangeais dans un restaurant thaïlandais ?
+restaurants-service-179|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu dînais dans un restaurant japonais ?|Sur la carte, quel plat choisirais-tu si tu commandais dans un restaurant vietnamien ?
+restaurants-service-180|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu découvrais un restaurant végétarien ?|Qu’est-ce que tu mangerais si tu déjeunais dans un restaurant grec ?
+restaurants-service-181|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu déjeunais au bord de la mer ?|Quel plat privilégierais-tu si tu allais dans une auberge de montagne ?
+restaurants-service-182|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu choisissais dans une cantine de bureau ?|Sur la carte, quel plat choisirais-tu si tu passais dans une sandwicherie artisanale ?
+restaurants-service-183|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu allais dans un restaurant libanais ?|Qu’est-ce que tu mangerais si tu choisissais un plat dans une cuisine coréenne ?
+restaurants-service-184|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu prenais un repas dans une crêperie bretonne ?|Quel plat privilégierais-tu si tu entrais dans un restaurant indien ?
+restaurants-service-185|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu entrais dans un restaurant mexicain ?|Sur la carte, quel plat choisirais-tu si tu allais dans une petite adresse de quartier ?
+restaurants-service-186|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu allais dans une pizzeria au feu de bois ?|Qu’est-ce que tu mangerais si tu dînais dans un restaurant méditerranéen ?
+restaurants-service-187|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu mangeais dans un restaurant thaïlandais ?|Quel plat privilégierais-tu si tu allais dans une brasserie un dimanche midi ?
+restaurants-service-188|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu commandais dans un restaurant vietnamien ?|Sur la carte, quel plat choisirais-tu si tu déjeunais dans un restaurant italien traditionnel ?
+restaurants-service-189|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu déjeunais dans un restaurant grec ?|Qu’est-ce que tu mangerais si tu mangeais dans un bistrot de poissons ?
+restaurants-service-190|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu allais dans une auberge de montagne ?|Quel plat privilégierais-tu si tu dînais dans un restaurant japonais ?
+restaurants-service-191|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu passais dans une sandwicherie artisanale ?|Sur la carte, quel plat choisirais-tu si tu découvrais un restaurant végétarien ?
+restaurants-service-192|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu choisissais un plat dans une cuisine coréenne ?|Qu’est-ce que tu mangerais si tu déjeunais au bord de la mer ?
+restaurants-service-193|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu entrais dans un restaurant indien ?|Quel plat privilégierais-tu si tu choisissais dans une cantine de bureau ?
+restaurants-service-194|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu allais dans une petite adresse de quartier ?|Sur la carte, quel plat choisirais-tu si tu allais dans un restaurant libanais ?
+restaurants-service-195|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu dînais dans un restaurant méditerranéen ?|Qu’est-ce que tu mangerais si tu prenais un repas dans une crêperie bretonne ?
+restaurants-service-196|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu allais dans une brasserie un dimanche midi ?|Qu’est-ce que tu mangerais si tu entrais dans un restaurant mexicain ?
+restaurants-service-197|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu déjeunais dans un restaurant italien traditionnel ?|Quel plat privilégierais-tu si tu allais dans une pizzeria au feu de bois ?
+restaurants-service-198|Bouffe & Restos|nouvelle|Quel plat commanderais-tu si tu mangeais dans un bistrot de poissons ?|Sur la carte, quel plat choisirais-tu si tu mangeais dans un restaurant thaïlandais ?
+restaurants-service-199|Bouffe & Restos|nouvelle|Que choisirais-tu comme plat si tu dînais dans un restaurant japonais ?|Qu’est-ce que tu mangerais si tu commandais dans un restaurant vietnamien ?
+restaurants-service-200|Bouffe & Restos|nouvelle|Quel plat te ferait plaisir si tu découvrais un restaurant végétarien ?|Quel plat privilégierais-tu si tu déjeunais dans un restaurant grec ?
+boulot-001|Boulot|ancienne|À quelle heure commences-tu ta journée de travail ou de cours ?|À quelle heure prends-tu ta première pause ?
+boulot-002|Boulot|ancienne|Combien de minutes dure ton trajet pour aller travailler ou étudier ?|Combien de minutes dure ta pause déjeuner ?
+boulot-004|Boulot|ancienne|À quelle heure envoies-tu ton dernier e-mail de la journée ?|À quelle heure quittes-tu le travail un vendredi ?
+boulot-007|Boulot|ancienne|Combien d’heures de sommeil te faut-il pour être efficace ?|Combien d’heures de travail par jour serait l’idéal ?
+boulot-008|Boulot|ancienne|Combien de minutes d’avance prends-tu pour un rendez-vous important ?|Combien de minutes de retard sont acceptables en réunion ?
+boulot-009|Boulot|ancienne|Combien d’e-mails reçois-tu par jour ?|Combien d’e-mails non lus as-tu en ce moment ?
+boulot-042|Boulot|ancienne|Combien de kilomètres fais-tu pour aller travailler ou étudier ?|Combien de kilomètres ferais-tu chaque jour pour un job de rêve ?
+boulot-046|Boulot|ancienne|Combien de personnes faut-il au maximum pour une bonne réunion ?|Combien de personnes y a-t-il en moyenne dans tes réunions ?
+boulot-047|Boulot|ancienne|Combien de minutes devrait durer une réunion idéale ?|Combien de minutes dure ta réunion la plus fréquente ?
+boulot-049|Boulot|ancienne|À quelle heure placerais-tu la réunion idéale ?|À quelle heure tombent toujours les réunions de dernière minute ?
+boulot-050|Boulot|ancienne|Qu’apportes-tu toujours en réunion ?|Qu’est-ce qu’on oublie toujours dans la salle de réunion ?
+boulot-051|Boulot|ancienne|Quelle phrase dis-tu pour couper la parole poliment ?|Quelle phrase dis-tu pour conclure une réunion ?
+boulot-052|Boulot|ancienne|Que dis-tu quand ton micro était coupé depuis le début ?|Que dis-tu quand ta connexion lâche en pleine visio ?
+boulot-058|Boulot|ancienne|Combien de personnes prennent vraiment la parole en réunion ?|Combien de personnes prennent des notes en réunion ?
+boulot-068|Boulot|ancienne|Combien de personnes mets-tu en copie d’un e-mail important ?|Combien de fois relis-tu un e-mail important avant de l’envoyer ?
+boulot-069|Boulot|ancienne|Quel objet d’e-mail te fait ouvrir le message tout de suite ?|Quel objet d’e-mail te donne envie de l’ignorer ?
+boulot-073|Boulot|ancienne|À quel moment de la journée tries-tu tes e-mails ?|À quel moment de la journée envoies-tu tes messages les plus importants ?
+boulot-081|Boulot|ancienne|Quelle phrase dis-tu en arrivant à la machine à café ?|Quelle phrase dis-tu en croisant un collègue dans l’ascenseur ?
+boulot-082|Boulot|ancienne|Combien de minutes dure une vraie pause café ?|Combien de minutes dure ta pause café quand personne ne te cherche ?
+boulot-083|Boulot|ancienne|Combien de gobelets utilises-tu dans une journée au bureau ?|Combien de touillettes prends-tu à la machine ?
+boulot-087|Boulot|ancienne|Où se racontent les meilleurs potins du bureau ?|Où vas-tu pour passer un appel au calme au bureau ?
+boulot-091|Boulot|ancienne|À quelle heure pars-tu déjeuner ?|À quelle heure commences-tu à avoir faim au travail ?
+boulot-092|Boulot|ancienne|Combien de minutes faut-il pour réchauffer ton plat au micro-ondes ?|Combien de minutes fais-tu la queue devant le micro-ondes ?
+boulot-093|Boulot|ancienne|Combien de collègues déjeunent avec toi en général ?|Combien de collègues faut-il pour un bon déjeuner d’équipe ?
+boulot-094|Boulot|ancienne|Quel plat laisse une odeur dans tout l’open space ?|Quel plat est le plus pratique à réchauffer au bureau ?
+boulot-098|Boulot|ancienne|Combien coûte ton déjeuner un jour normal ?|Combien coûte ton déjeuner quand tu te fais plaisir ?
+boulot-100|Boulot|ancienne|Que fais-tu de ta pause déjeuner quand tu as fini de manger ?|Que fais-tu de ta pause déjeuner quand tu n’as pas faim ?
+boulot-101|Boulot|ancienne|Quelle phrase lances-tu pour proposer d’aller déjeuner ?|Quelle phrase dis-tu pour décliner un déjeuner d’équipe ?
+boulot-104|Boulot|ancienne|Combien d’écrans te faut-il pour bien travailler ?|Combien d’écrans as-tu chez toi en tout ?
+boulot-117|Boulot|ancienne|Combien de mots de passe dois-tu retenir pour le travail ?|Combien de badges ou de cartes as-tu pour le travail ou les études ?
+boulot-120|Boulot|ancienne|Quel vêtement portes-tu en télétravail ?|Quel vêtement mets-tu pour une visio importante ?
+boulot-121|Boulot|ancienne|À quelle heure te connectes-tu les jours de télétravail ?|À quelle heure te lèves-tu les jours de télétravail ?
+boulot-129|Boulot|ancienne|Combien de minutes avant une visio te connectes-tu ?|Combien de minutes attends-tu seul dans une visio avant de la quitter ?
+boulot-131|Boulot|ancienne|Combien de jours de télétravail tiens-tu avant que le bureau te manque ?|Combien de jours de bureau tiens-tu avant que le télétravail te manque ?
+boulot-135|Boulot|ancienne|Combien de collègues connais-tu par leur prénom ?|Combien de collègues saluerais-tu en les croisant dans la rue ?
+boulot-138|Boulot|ancienne|Combien de collègues invites-tu à ton anniversaire ?|Combien de collègues te souhaitent ton anniversaire ?
+boulot-140|Boulot|ancienne|Quelle phrase dis-tu en arrivant le lundi matin ?|Quelle phrase dis-tu en partant le vendredi soir ?
+boulot-141|Boulot|ancienne|Combien de prénoms retiens-tu la première semaine dans une nouvelle boîte ?|Combien de nouvelles têtes croises-tu la première semaine dans une nouvelle boîte ?
+boulot-142|Boulot|ancienne|Quel cadeau offrirais-tu à un collègue qui part ?|Quel cadeau offrirais-tu à un collègue pour son anniversaire ?
+boulot-144|Boulot|ancienne|Quel compliment aimerais-tu recevoir d’un collègue ?|Quel compliment fais-tu le plus souvent à un collègue ?
+boulot-145|Boulot|ancienne|Combien de collègues te tutoient ?|Combien de collègues vouvoies-tu ?
+boulot-147|Boulot|ancienne|Quel sport ferais-tu volontiers avec tes collègues ?|Quel sport te verrais-tu pratiquer dans un tournoi inter-entreprises ?
+boulot-152|Boulot|ancienne|À quelle heure quittes-tu le bureau la veille d’une deadline ?|À quelle heure quittes-tu le bureau un jour calme ?
+boulot-163|Boulot|ancienne|Quelle excuse entends-tu le plus pour un retard de rendu ?|Quelle excuse as-tu déjà utilisée pour gagner un jour de plus ?
+boulot-168|Boulot|ancienne|Combien de minutes dure un bon entretien d’embauche ?|Combien de minutes faut-il à un recruteur pour se faire une idée ?
+boulot-200|Boulot|ancienne|Quelle matière as-tu le plus aimée pendant tes études ?|Quelle matière as-tu le plus vite oubliée après tes études ?
+boulot-201|Boulot|ancienne|Quelle matière aurais-tu aimé avoir pendant tes études ?|Quelle matière enseignerais-tu si tu devenais prof ?
+boulot-204|Boulot|ancienne|Combien de minutes de retard tolère un prof avant de fermer la porte ?|Combien de minutes avant la fin du cours commences-tu à ranger tes affaires ?
+boulot-224|Boulot|ancienne|Combien de personnes signent une carte de départ ?|Combien de personnes viennent vraiment au pot de départ ?
+boulot-231|Boulot|ancienne|Au bout de combien de minutes parle-t-on boulot à un pot d’équipe ?|Au bout de combien de minutes parle-t-on boulot à un dîner entre amis ?
+boulot-238|Boulot|ancienne|Combien de minutes avant la fin d’un examen rends-tu ta copie ?|Combien de minutes avant le début d’un examen arrives-tu ?
+boulot-241|Boulot|ancienne|Que dis-tu en sortant d’un examen difficile ?|Que dis-tu en découvrant le sujet d’un examen ?
+boulot-243|Boulot|ancienne|Combien de fois relis-tu ta copie avant de la rendre ?|Combien de fois relis-tu le sujet avant de commencer ?
+boulot-252|Boulot|ancienne|Combien coûtait un repas au resto universitaire ?|Combien coûte un sandwich près de ton lieu de travail ?
+boulot-270|Boulot|ancienne|À quel étage aimerais-tu travailler ?|Combien d’étages es-tu prêt à monter à pied ?
+boulot-277|Boulot|ancienne|Quel jour de la semaine places-tu tes rendez-vous importants ?|Quel jour de la semaine évites-tu de prendre des rendez-vous ?
+boulot-278|Boulot|ancienne|À quelle heure arrive le premier collègue au bureau ?|À quelle heure arrives-tu les jours où tu veux être tranquille ?
+boulot-290|Boulot|ancienne|Dans quel pays aimerais-tu travailler pendant un an ?|Dans quel pays aimerais-tu ouvrir une boutique ?
+boulot-308|Boulot|ancienne|Quel mois prends-tu tes plus longues vacances ?|Quel mois de l’année est le plus calme au travail ?
+boulot-315|Boulot|ancienne|Combien de personnes salues-tu en arrivant le matin ?|Combien de personnes salues-tu en partant le soir ?
+boulot-316|Boulot|ancienne|Que réponds-tu à « ça va » un lundi matin ?|Que réponds-tu à « ça va » un vendredi soir ?
+boulot-320|Boulot|ancienne|Combien de fois par semaine arrives-tu pile à l’heure ?|Combien de fois par semaine pars-tu pile à l’heure ?
+boulot-321|Boulot|ancienne|Quelle excuse donnes-tu quand tu arrives en retard ?|Quelle excuse donnes-tu quand tu pars plus tôt que prévu ?
+boulot-326|Boulot|ancienne|Que fais-tu en attendant que ton ordinateur démarre ?|Que fais-tu en attendant que l’ascenseur arrive ?
+boulot-327|Boulot|ancienne|Combien coûte un croissant près de ton travail ?|Combien coûte un café en terrasse près de ton travail ?
+boulot-328|Boulot|ancienne|Quel mois de l’année as-tu le plus de mal à te lever pour travailler ?|Quel mois de l’année arrives-tu le plus souvent en retard ?
+boulot-342|Boulot|ancienne|Combien de réunions as-tu déjà eues pour préparer une autre réunion ?|Combien de réunions as-tu déjà eues pour faire le bilan d’une réunion ?
+boulot-343|Boulot|ancienne|Quelle phrase entend-on toujours au début d’une réunion ?|Quelle phrase entend-on toujours à la fin d’une réunion ?
+boulot-345|Boulot|ancienne|Combien de minutes de retard ont tes réunions en moyenne ?|Combien de minutes de dépassement ont tes réunions en moyenne ?
+boulot-349|Boulot|ancienne|Quel moment d’une réunion préfères-tu ?|Quel moment d’une réunion te semble le plus long ?
+boulot-352|Boulot|ancienne|Combien de slides tolères-tu dans une présentation ?|Combien de slides prépares-tu pour une présentation de dix minutes ?
+boulot-353|Boulot|ancienne|À partir de quelle heure une réunion devient-elle insupportable ?|Vers quelle heure une réunion est-elle la plus productive ?
+boulot-354|Boulot|ancienne|Que dis-tu quand tu n’as pas écouté la question en réunion ?|Que dis-tu quand on te demande ton avis par surprise en réunion ?
+boulot-363|Boulot|ancienne|Combien de minutes passes-tu à écrire un e-mail délicat ?|Combien de minutes passes-tu à relire un e-mail délicat ?
+boulot-364|Boulot|ancienne|Combien de pièces jointes mets-tu dans un seul e-mail ?|Combien de destinataires mets-tu dans un seul e-mail ?
+boulot-393|Boulot|ancienne|À quelle heure finis-tu ta journée en télétravail ?|À quelle heure finis-tu ta journée au bureau ?
+boulot-401|Boulot|ancienne|Que dis-tu à un collègue qui parle trop fort au téléphone ?|Que dis-tu à un collègue qui chante sans s’en rendre compte ?
+boulot-408|Boulot|ancienne|Quel bruit d’open space t’agace le plus ?|Quel bruit d’open space ne remarques-tu même plus ?
+boulot-430|Boulot|ancienne|À quelle heure la cantine est-elle la plus pleine ?|À quelle heure la cantine est-elle la plus calme ?
+boulot-433|Boulot|ancienne|Combien coûte un plateau complet à la cantine ?|Combien coûte une formule sandwich, boisson et dessert ?
+boulot-445|Boulot|ancienne|Combien de prénoms de collègues confonds-tu encore ?|Combien de collègues t’appellent par un surnom ?
+boulot-452|Boulot|ancienne|Que dis-tu à un collègue qui fête son anniversaire au bureau ?|Que dis-tu à un collègue qui fête son départ à la retraite ?
+boulot-470|Boulot|ancienne|Quel mot dis-tu à ton chef pour demander un jour de congé ?|Quel mot dis-tu à ton chef pour annoncer un retard ?
+boulot-472|Boulot|ancienne|Quel film résume le mieux ta relation avec ton chef ?|Quel film résume le mieux ta semaine de travail ?
+boulot-487|Boulot|ancienne|Pendant combien de minutes peux-tu travailler sans regarder tes notifications ?|Pendant combien de minutes peux-tu travailler sans te lever ?
+boulot-506|Boulot|ancienne|Combien d’heures de cours avais-tu ta journée la plus chargée ?|Combien d’heures de cours avais-tu ta journée la plus légère ?
+boulot-507|Boulot|ancienne|Quel objet sortais-tu en premier de ton sac en cours ?|Quel objet rangeais-tu en dernier à la fin du cours ?
+boulot-510|Boulot|ancienne|Quelle phrase dit un prof quand la sonnerie retentit ?|Quelle phrase dit un prof avant un contrôle surprise ?
+boulot-511|Boulot|ancienne|Il y avait combien de minutes de pause entre deux cours ?|Il fallait combien de minutes pour changer de salle entre deux cours ?
+boulot-512|Boulot|ancienne|Combien de pages faisait ton plus long devoir ?|Combien de pages faisait ton plus long mémoire ou rapport ?
+boulot-527|Boulot|ancienne|Combien de minutes mets-tu à lire tout le sujet ?|Combien de minutes passes-tu sur la première question ?
+boulot-534|Boulot|ancienne|Un oral doit durer combien de minutes pour convaincre un jury ?|Un jury pose des questions pendant combien de minutes après un oral ?
+boulot-557|Boulot|ancienne|Qui relit ton CV avant que tu l’envoies ?|Qui te fait répéter avant un entretien ?
+boulot-561|Boulot|ancienne|Que dis-tu au recruteur en partant ?|Que dis-tu au recruteur en arrivant ?
+boulot-562|Boulot|ancienne|Quel métier demande le plus de patience ?|Quel métier demande le plus de précision ?
+boulot-564|Boulot|ancienne|Quel métier a les horaires les plus étranges ?|Quel métier a la tenue la plus reconnaissable ?
+boulot-578|Boulot|ancienne|Quelle tâche détestais-tu dans ton premier job ?|Quelle tâche faisais-tu le mieux dans ton premier job ?
+boulot-582|Boulot|ancienne|Quel personnage de film ferait un serveur catastrophique ?|Quel personnage de film ferait un vendeur redoutable ?
+boulot-583|Boulot|ancienne|Que dis-tu à un client qui arrive juste avant la fermeture ?|Que dis-tu à un client qui demande à parler au responsable ?
+boulot-605|Boulot|ancienne|Dans quelle ville rêverais-tu d’avoir un bureau avec vue ?|Dans quelle ville aimerais-tu passer une semaine en télétravail ?
+boulot-613|Boulot|ancienne|Combien d’étudiants y avait-il dans ton plus grand amphi ?|Combien d’étudiants comptait toute ta promo ?
+boulot-614|Boulot|ancienne|Combien coûte un bon sac pour aller travailler ?|Combien coûte une bonne chaise de bureau ?
+boulot-615|Boulot|ancienne|Combien de cafés un serveur porte-t-il sur un plateau ?|Combien d’assiettes un serveur porte-t-il sur un bras ?
+boulot-616|Boulot|nouvelle|Quelle serait ta première réaction si un camarade te demande tes notes la veille ?|Quelle serait ta première réaction si ton micro reste ouvert pendant une réunion ?
+boulot-617|Boulot|nouvelle|Comment répondrais-tu si un recruteur te pose une question étrange ?|Comment répondrais-tu si un camarade te demande tes notes la veille ?
+boulot-618|Boulot|nouvelle|Quelle serait ta principale difficulté pour rédiger un compte rendu ?|Quelle serait ta principale difficulté pour préparer un entretien d’embauche ?
+boulot-619|Boulot|nouvelle|À qui demanderais-tu de l’aide pour préparer ta prise de parole ?|À qui demanderais-tu de l’aide pour préparer une présentation de dix minutes ?
+boulot-620|Boulot|nouvelle|Pour quelle occasion voudrais-tu acheter un sac pour ordinateur portable ?|Pour quelle occasion voudrais-tu acheter un clavier sans fil ?
+boulot-621|Boulot|nouvelle|Quel budget maximal prévoirais-tu pour une bonne chaise ergonomique ?|Quel budget maximal prévoirais-tu pour un sac pour ordinateur portable ?
+boulot-622|Boulot|nouvelle|Quel serait le meilleur moment pour trouver une salle de réunion pour huit personnes à Paris ?|Quel serait le meilleur moment pour corriger un devoir compliqué ?
+boulot-623|Boulot|nouvelle|Que dirais-tu si ton micro reste ouvert pendant une réunion ?|Que dirais-tu si un dossier important a disparu ?
+boulot-624|Boulot|nouvelle|Quel serait le meilleur moment pour classer tes dossiers de travail ?|Quel serait le meilleur moment pour préparer ton planning de semaine ?
+boulot-625|Boulot|nouvelle|Quel serait le point le plus important pour organiser une réunion d’équipe ?|Quel serait le point le plus important pour relire une copie de ta pièce d’identité ?
+boulot-626|Boulot|nouvelle|Qu’est-ce qui te pousserait à acheter une batterie externe pour ordinateur ?|Qu’est-ce qui te pousserait à acheter une calculatrice de qualité ?
+boulot-627|Boulot|nouvelle|Combien penses-tu que vaut une imprimante domestique ?|Combien penses-tu que vaut une sacoche de travail ?
+boulot-628|Boulot|nouvelle|Pour quelle occasion voudrais-tu acheter une calculatrice de qualité ?|Pour quelle occasion voudrais-tu acheter un abonnement mensuel à un outil de productivité ?
+boulot-629|Boulot|nouvelle|Où chercherais-tu un clavier sans fil en premier ?|Où chercherais-tu un écran secondaire de 24 pouces pour travailler en premier ?
+boulot-630|Boulot|nouvelle|Si tu devais répondre à une boîte mail chargée, quelle serait ta priorité ?|Si tu devais organiser une réunion d’équipe, quelle serait ta priorité ?
+boulot-631|Boulot|nouvelle|Combien de temps prévoirais-tu pour installer un nouvel ordinateur ?|Combien de temps prévoirais-tu pour préparer un exposé en groupe ?
+boulot-632|Boulot|nouvelle|Où chercherais-tu un bureau compact en premier ?|Où chercherais-tu un stylo à bille de qualité pour le bureau en premier ?
+boulot-633|Boulot|nouvelle|Combien serais-tu prêt à dépenser pour une imprimante domestique ?|Combien serais-tu prêt à dépenser pour une sacoche de travail ?
+boulot-634|Boulot|nouvelle|Pour quelle occasion voudrais-tu acheter une souris ergonomique ?|Pour quelle occasion voudrais-tu acheter une imprimante domestique ?
+boulot-635|Boulot|nouvelle|Comment réagirais-tu si on te demande de travailler un jour prévu libre ?|Comment réagirais-tu si un client laisse un avis injuste ?
+boulot-636|Boulot|nouvelle|Quel prix imagines-tu pour un support pour ordinateur ?|Quel prix imagines-tu pour un casque à réduction active du bruit pour les trajets en train ?
+boulot-637|Boulot|nouvelle|Combien de temps te faudrait-il pour préparer une présentation de dix minutes ?|Combien de temps te faudrait-il pour répondre à une boîte mail chargée ?
+boulot-638|Boulot|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une tasse isotherme ?|Au-delà de quel prix hésiterais-tu à acheter un bureau compact ?
+boulot-639|Boulot|nouvelle|À quel moment de la semaine préférerais-tu apprendre une nouvelle procédure ?|À quel moment de la semaine préférerais-tu classer tes dossiers de travail ?
+boulot-640|Boulot|nouvelle|Jusqu’à combien paierais-tu pour un support pour ordinateur ?|Jusqu’à combien paierais-tu pour un casque à réduction active du bruit pour les trajets en train ?
+boulot-641|Boulot|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer ta prise de parole ?|Quel créneau de la journée serait le plus pratique pour préparer une présentation de dix minutes ?
+boulot-642|Boulot|nouvelle|Quelle personne de ton entourage pourrait t’aider à corriger un devoir compliqué ?|Quelle personne de ton entourage pourrait t’aider à mettre au propre des notes ?
+boulot-643|Boulot|nouvelle|À quel endroit irais-tu pour trouver une bonne chaise ergonomique ?|À quel endroit irais-tu pour trouver un sac pour ordinateur portable ?
+boulot-644|Boulot|nouvelle|Quel budget maximal prévoirais-tu pour un casque à réduction active du bruit pour les trajets en train ?|Quel budget maximal prévoirais-tu pour une tasse isotherme ?
+boulot-645|Boulot|nouvelle|Qu’est-ce que tu ferais en premier si un collègue te coupe la parole en réunion ?|Qu’est-ce que tu ferais en premier si ton responsable avance une échéance ?
+boulot-646|Boulot|nouvelle|Combien de temps te faudrait-il pour apprendre une nouvelle procédure ?|Combien de temps te faudrait-il pour classer tes dossiers de travail ?
+boulot-647|Boulot|nouvelle|Qui contacterais-tu pour t’aider à apprendre une nouvelle procédure ?|Qui contacterais-tu pour t’aider à classer tes dossiers de travail ?
+boulot-648|Boulot|nouvelle|Combien penses-tu que vaut un clavier sans fil ?|Combien penses-tu que vaut un écran secondaire de 24 pouces pour travailler ?
+boulot-649|Boulot|nouvelle|Qui pourrait te donner le meilleur conseil pour trouver une salle de réunion pour huit personnes à Paris ?|Qui pourrait te donner le meilleur conseil pour corriger un devoir compliqué ?
+boulot-650|Boulot|nouvelle|Combien de temps prévoirais-tu pour relire une copie de ta pièce d’identité ?|Combien de temps prévoirais-tu pour rédiger un compte rendu ?
+boulot-651|Boulot|nouvelle|Que dirais-tu si un collègue oublie une réunion importante ?|Que dirais-tu si on te propose une promotion inattendue ?
+boulot-652|Boulot|nouvelle|Comment répondrais-tu si tu arrives en retard à un entretien ?|Comment répondrais-tu si un collègue s’attribue ton idée ?
+boulot-653|Boulot|nouvelle|Comment répondrais-tu si un client te demande une réponse immédiate ?|Comment répondrais-tu si un camarade ne fait pas sa part du projet ?
+boulot-654|Boulot|nouvelle|Dans quelle situation déciderais-tu d’acheter un clavier sans fil ?|Dans quelle situation déciderais-tu d’acheter un écran secondaire de 24 pouces pour travailler ?
+boulot-655|Boulot|nouvelle|Comment réagirais-tu si un dossier important a disparu ?|Comment réagirais-tu si un collègue critique ta méthode ?
+boulot-656|Boulot|nouvelle|Combien penses-tu que vaut une lampe de bureau LED avec bras articulé réglable ?|Combien penses-tu que vaut un support pour ordinateur ?
+boulot-657|Boulot|nouvelle|Quel serait le meilleur moment pour préparer un entretien d’embauche ?|Quel serait le meilleur moment pour réviser avant un examen ?
+boulot-658|Boulot|nouvelle|Où irais-tu pour acheter une souris ergonomique ?|Où irais-tu pour acheter une imprimante domestique ?
+boulot-659|Boulot|nouvelle|Quel serait ton premier réflexe si tu arrives en retard à un entretien ?|Quel serait ton premier réflexe si un collègue s’attribue ton idée ?
+boulot-660|Boulot|nouvelle|En combien de temps pourrais-tu réviser avant un examen ?|En combien de temps pourrais-tu mettre à jour ton CV ?
+boulot-661|Boulot|nouvelle|Quel moment de la journée choisirais-tu pour préparer ton planning de semaine ?|Quel moment de la journée choisirais-tu pour installer un nouvel ordinateur ?
+boulot-662|Boulot|nouvelle|À qui demanderais-tu de l’aide pour mettre à jour ton CV ?|À qui demanderais-tu de l’aide pour apprendre une nouvelle procédure ?
+boulot-663|Boulot|nouvelle|Quelle serait ta principale difficulté pour apprendre une nouvelle procédure ?|Quelle serait ta principale difficulté pour classer tes dossiers de travail ?
+boulot-664|Boulot|nouvelle|Qui contacterais-tu pour t’aider à rédiger un compte rendu ?|Qui contacterais-tu pour t’aider à préparer un entretien d’embauche ?
+boulot-665|Boulot|nouvelle|Selon toi, quel est le prix d’une tasse isotherme ?|Selon toi, quel est le prix d’un bureau compact ?
+boulot-666|Boulot|nouvelle|Combien serais-tu prêt à dépenser pour un bureau compact ?|Combien serais-tu prêt à dépenser pour un stylo à bille de qualité pour le bureau ?
+boulot-667|Boulot|nouvelle|Si tu devais trouver une salle de réunion pour huit personnes à Paris, quelle serait ta priorité ?|Si tu devais corriger un devoir compliqué, quelle serait ta priorité ?
+boulot-668|Boulot|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un carnet de notes relié ?|Au-delà de quel prix hésiterais-tu à acheter une lampe de bureau LED avec bras articulé réglable ?
+boulot-669|Boulot|nouvelle|Qu’est-ce que tu ferais en premier si ton micro reste ouvert pendant une réunion ?|Qu’est-ce que tu ferais en premier si un dossier important a disparu ?
+boulot-670|Boulot|nouvelle|Comment répondrais-tu si un collègue critique ta méthode ?|Comment répondrais-tu si on te demande de présenter sans préparation ?
+boulot-671|Boulot|nouvelle|Quel prix imagines-tu pour une sacoche de travail ?|Quel prix imagines-tu pour une batterie externe pour ordinateur ?
+boulot-672|Boulot|nouvelle|Quel prix imagines-tu pour une mallette de rangement ?|Quel prix imagines-tu pour une bonne chaise ergonomique ?
+boulot-673|Boulot|nouvelle|Que dirais-tu si ton professeur change la date de rendu ?|Que dirais-tu si on te demande de travailler un jour prévu libre ?
+boulot-674|Boulot|nouvelle|Qui pourrait te donner le meilleur conseil pour répondre à une boîte mail chargée ?|Qui pourrait te donner le meilleur conseil pour organiser une réunion d’équipe ?
+boulot-675|Boulot|nouvelle|Selon toi, quel est le prix d’un carnet de notes relié ?|Selon toi, quel est le prix d’une lampe de bureau LED avec bras articulé réglable ?
+boulot-676|Boulot|nouvelle|À quel moment aurais-tu envie d’acheter un écran secondaire de 24 pouces pour travailler ?|À quel moment aurais-tu envie d’acheter un agenda professionnel ?
+boulot-677|Boulot|nouvelle|Si tu devais apprendre un nouveau logiciel, quelle serait ta priorité ?|Si tu devais organiser tes fichiers numériques, quelle serait ta priorité ?
+boulot-678|Boulot|nouvelle|Où chercherais-tu une imprimante domestique en premier ?|Où chercherais-tu une sacoche de travail en premier ?
+boulot-679|Boulot|nouvelle|À quel moment aurais-tu envie d’acheter un stylo à bille de qualité pour le bureau ?|À quel moment aurais-tu envie d’acheter un tableau blanc mural ?
+boulot-680|Boulot|nouvelle|Combien serais-tu prêt à dépenser pour un clavier sans fil ?|Combien serais-tu prêt à dépenser pour un écran secondaire de 24 pouces pour travailler ?
+boulot-681|Boulot|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une calculatrice de qualité ?|Au-delà de quel prix hésiterais-tu à acheter un abonnement mensuel à un outil de productivité ?
+boulot-682|Boulot|nouvelle|Quel détail vérifierais-tu avant de relire une copie de ta pièce d’identité ?|Quel détail vérifierais-tu avant de rédiger un compte rendu ?
+boulot-683|Boulot|nouvelle|Jusqu’à combien paierais-tu pour un écran secondaire de 24 pouces pour travailler ?|Jusqu’à combien paierais-tu pour un agenda professionnel ?
+boulot-684|Boulot|nouvelle|Quelle serait ta principale difficulté pour préparer une présentation de dix minutes ?|Quelle serait ta principale difficulté pour répondre à une boîte mail chargée ?
+boulot-685|Boulot|nouvelle|Qu’est-ce que tu ferais en premier si un collègue oublie une réunion importante ?|Qu’est-ce que tu ferais en premier si on te propose une promotion inattendue ?
+boulot-686|Boulot|nouvelle|Quel prix imagines-tu pour un écran secondaire de 24 pouces pour travailler ?|Quel prix imagines-tu pour un agenda professionnel ?
+boulot-687|Boulot|nouvelle|Où irais-tu pour acheter une tasse isotherme ?|Où irais-tu pour acheter un bureau compact ?
+boulot-688|Boulot|nouvelle|À qui demanderais-tu de l’aide pour relire une copie de ta pièce d’identité ?|À qui demanderais-tu de l’aide pour rédiger un compte rendu ?
+boulot-689|Boulot|nouvelle|Quel moment de la journée choisirais-tu pour organiser tes fichiers numériques ?|Quel moment de la journée choisirais-tu pour préparer ta prise de parole ?
+boulot-690|Boulot|nouvelle|Quel budget maximal prévoirais-tu pour un tableau blanc mural ?|Quel budget maximal prévoirais-tu pour une souris ergonomique ?
+boulot-691|Boulot|nouvelle|Dans quelle situation déciderais-tu d’acheter un abonnement mensuel à un outil de productivité ?|Dans quelle situation déciderais-tu d’acheter une mallette de rangement ?
+boulot-692|Boulot|nouvelle|À quel endroit irais-tu pour trouver un casque à réduction active du bruit pour les trajets en train ?|À quel endroit irais-tu pour trouver une tasse isotherme ?
+boulot-693|Boulot|nouvelle|Quel moment de la journée choisirais-tu pour réviser avant un examen ?|Quel moment de la journée choisirais-tu pour mettre à jour ton CV ?
+boulot-694|Boulot|nouvelle|Qu’est-ce qui te pousserait à acheter un tableau blanc mural ?|Qu’est-ce qui te pousserait à acheter une souris ergonomique ?
+boulot-695|Boulot|nouvelle|Quel prix imagines-tu pour un stylo à bille de qualité pour le bureau ?|Quel prix imagines-tu pour un tableau blanc mural ?
+boulot-696|Boulot|nouvelle|Pour quelle occasion voudrais-tu acheter une tasse isotherme ?|Pour quelle occasion voudrais-tu acheter un bureau compact ?
+boulot-697|Boulot|nouvelle|À quel moment aurais-tu envie d’acheter une sacoche de travail ?|À quel moment aurais-tu envie d’acheter une batterie externe pour ordinateur ?
+boulot-698|Boulot|nouvelle|À ton avis, combien de temps faut-il pour trouver une salle de réunion pour huit personnes à Paris ?|À ton avis, combien de temps faut-il pour corriger un devoir compliqué ?
+boulot-699|Boulot|nouvelle|En combien de temps pourrais-tu corriger un devoir compliqué ?|En combien de temps pourrais-tu mettre au propre des notes ?
+boulot-700|Boulot|nouvelle|Pour quelle occasion voudrais-tu acheter un carnet de notes relié ?|Pour quelle occasion voudrais-tu acheter une lampe de bureau LED avec bras articulé réglable ?
+boulot-701|Boulot|nouvelle|À ton avis, combien coûte un tableau blanc mural ?|À ton avis, combien coûte une souris ergonomique ?
+boulot-702|Boulot|nouvelle|Quelle personne de ton entourage pourrait t’aider à organiser tes fichiers numériques ?|Quelle personne de ton entourage pourrait t’aider à préparer ta prise de parole ?
+boulot-703|Boulot|nouvelle|Quel serait ton premier réflexe si un collègue critique ta méthode ?|Quel serait ton premier réflexe si on te demande de présenter sans préparation ?
+boulot-704|Boulot|nouvelle|À quel moment aurais-tu envie d’acheter une mallette de rangement ?|À quel moment aurais-tu envie d’acheter une bonne chaise ergonomique ?
+boulot-705|Boulot|nouvelle|À ton avis, combien coûte une bonne chaise ergonomique ?|À ton avis, combien coûte un sac pour ordinateur portable ?
+boulot-706|Boulot|nouvelle|Qu’est-ce que tu dirais sur le moment si un camarade ne fait pas sa part du projet ?|Qu’est-ce que tu dirais sur le moment si ton ordinateur plante avant une présentation ?
+boulot-707|Boulot|nouvelle|Quel serait ton premier réflexe si un client te demande une réponse immédiate ?|Quel serait ton premier réflexe si un camarade ne fait pas sa part du projet ?
+boulot-708|Boulot|nouvelle|À qui demanderais-tu de l’aide pour mettre au propre des notes ?|À qui demanderais-tu de l’aide pour préparer une candidature ?
+boulot-709|Boulot|nouvelle|Quel serait ton premier réflexe si un recruteur te pose une question étrange ?|Quel serait ton premier réflexe si un camarade te demande tes notes la veille ?
+boulot-710|Boulot|nouvelle|Comment réagirais-tu si on te propose une promotion inattendue ?|Comment réagirais-tu si un recruteur te pose une question étrange ?
+boulot-711|Boulot|nouvelle|Dans quelle situation déciderais-tu d’acheter un bureau compact ?|Dans quelle situation déciderais-tu d’acheter un stylo à bille de qualité pour le bureau ?
+boulot-712|Boulot|nouvelle|Qu’est-ce que tu ferais en premier si ton professeur change la date de rendu ?|Qu’est-ce que tu ferais en premier si on te demande de travailler un jour prévu libre ?
+boulot-713|Boulot|nouvelle|Qui pourrait te donner le meilleur conseil pour classer tes dossiers de travail ?|Qui pourrait te donner le meilleur conseil pour préparer ton planning de semaine ?
+boulot-714|Boulot|nouvelle|Quel budget maximal prévoirais-tu pour un agenda professionnel ?|Quel budget maximal prévoirais-tu pour un carnet de notes relié ?
+boulot-715|Boulot|nouvelle|Dans quelle situation déciderais-tu d’acheter une lampe de bureau LED avec bras articulé réglable ?|Dans quelle situation déciderais-tu d’acheter un support pour ordinateur ?
+boulot-716|Boulot|nouvelle|Quel créneau de la journée serait le plus pratique pour mettre au propre des notes ?|Quel créneau de la journée serait le plus pratique pour préparer une candidature ?
+boulot-717|Boulot|nouvelle|Quelle serait ta principale difficulté pour préparer une candidature ?|Quelle serait ta principale difficulté pour apprendre un nouveau logiciel ?
+boulot-718|Boulot|nouvelle|Qu’est-ce que tu dirais sur le moment si un collègue s’attribue ton idée ?|Qu’est-ce que tu dirais sur le moment si ton professeur change la date de rendu ?
+boulot-719|Boulot|nouvelle|Jusqu’à combien paierais-tu pour une sacoche de travail ?|Jusqu’à combien paierais-tu pour une batterie externe pour ordinateur ?
+boulot-720|Boulot|nouvelle|Combien de temps prévoirais-tu pour mettre à jour ton CV ?|Combien de temps prévoirais-tu pour apprendre une nouvelle procédure ?
+boulot-721|Boulot|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un sac pour ordinateur portable ?|Au-delà de quel prix hésiterais-tu à acheter un clavier sans fil ?
+boulot-722|Boulot|nouvelle|Selon toi, quel est le prix d’un sac pour ordinateur portable ?|Selon toi, quel est le prix d’un clavier sans fil ?
+boulot-723|Boulot|nouvelle|Qu’est-ce qui te pousserait à acheter une bonne chaise ergonomique ?|Qu’est-ce qui te pousserait à acheter un sac pour ordinateur portable ?
+boulot-724|Boulot|nouvelle|Quelle serait ta principale difficulté pour préparer un exposé en groupe ?|Quelle serait ta principale difficulté pour trouver une salle de réunion pour huit personnes à Paris ?
+boulot-725|Boulot|nouvelle|Quel détail vérifierais-tu avant de mettre à jour ton CV ?|Quel détail vérifierais-tu avant d’apprendre une nouvelle procédure ?
+boulot-726|Boulot|nouvelle|Si tu devais préparer un entretien d’embauche, quelle serait ta priorité ?|Si tu devais réviser avant un examen, quelle serait ta priorité ?
+boulot-727|Boulot|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un support pour ordinateur ?|Sur quel site ou dans quel magasin chercherais-tu un casque à réduction active du bruit pour les trajets en train ?
+boulot-728|Boulot|nouvelle|À quel moment de la semaine préférerais-tu préparer une présentation de dix minutes ?|À quel moment de la semaine préférerais-tu répondre à une boîte mail chargée ?
+boulot-729|Boulot|nouvelle|Quelle personne de ton entourage pourrait t’aider à réviser avant un examen ?|Quelle personne de ton entourage pourrait t’aider à mettre à jour ton CV ?
+boulot-730|Boulot|nouvelle|Combien penses-tu que vaut un bureau compact ?|Combien penses-tu que vaut un stylo à bille de qualité pour le bureau ?
+boulot-731|Boulot|nouvelle|Quelle serait ta première réaction si un camarade ne fait pas sa part du projet ?|Quelle serait ta première réaction si ton ordinateur plante avant une présentation ?
+boulot-732|Boulot|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un écran secondaire de 24 pouces pour travailler ?|Sur quel site ou dans quel magasin chercherais-tu un agenda professionnel ?
+boulot-733|Boulot|nouvelle|À quel endroit irais-tu pour trouver un tableau blanc mural ?|À quel endroit irais-tu pour trouver une souris ergonomique ?
+boulot-734|Boulot|nouvelle|Combien serais-tu prêt à dépenser pour un abonnement mensuel à un outil de productivité ?|Combien serais-tu prêt à dépenser pour une mallette de rangement ?
+boulot-735|Boulot|nouvelle|Si tu devais classer tes dossiers de travail, quelle serait ta priorité ?|Si tu devais préparer ton planning de semaine, quelle serait ta priorité ?
+boulot-736|Boulot|nouvelle|Comment répondrais-tu si un client laisse un avis injuste ?|Comment répondrais-tu si tu reçois un compliment sur ton travail ?
+boulot-737|Boulot|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une souris ergonomique ?|Au-delà de quel prix hésiterais-tu à acheter une imprimante domestique ?
+boulot-738|Boulot|nouvelle|Combien serais-tu prêt à dépenser pour une lampe de bureau LED avec bras articulé réglable ?|Combien serais-tu prêt à dépenser pour un support pour ordinateur ?
+boulot-739|Boulot|nouvelle|En combien de temps pourrais-tu préparer ton planning de semaine ?|En combien de temps pourrais-tu installer un nouvel ordinateur ?
+boulot-740|Boulot|nouvelle|Comment réagirais-tu si on te confie une tâche que tu ne comprends pas ?|Comment réagirais-tu si tu arrives en retard à un entretien ?
+boulot-741|Boulot|nouvelle|À qui demanderais-tu de l’aide pour installer un nouvel ordinateur ?|À qui demanderais-tu de l’aide pour préparer un exposé en groupe ?
+boulot-742|Boulot|nouvelle|Quel budget maximal prévoirais-tu pour une batterie externe pour ordinateur ?|Quel budget maximal prévoirais-tu pour une calculatrice de qualité ?
+boulot-743|Boulot|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une mallette de rangement ?|Sur quel site ou dans quel magasin chercherais-tu une bonne chaise ergonomique ?
+boulot-744|Boulot|nouvelle|Quel créneau de la journée serait le plus pratique pour mettre à jour ton CV ?|Quel créneau de la journée serait le plus pratique pour apprendre une nouvelle procédure ?
+boulot-745|Boulot|nouvelle|Qu’est-ce que tu dirais sur le moment si on te demande de présenter sans préparation ?|Qu’est-ce que tu dirais sur le moment si un collègue te coupe la parole en réunion ?
+boulot-746|Boulot|nouvelle|Combien de temps prévoirais-tu pour mettre au propre des notes ?|Combien de temps prévoirais-tu pour préparer une candidature ?
+boulot-747|Boulot|nouvelle|Quel serait le point le plus important pour préparer ton planning de semaine ?|Quel serait le point le plus important pour installer un nouvel ordinateur ?
+boulot-748|Boulot|nouvelle|Quelle serait ta première réaction si un collègue s’attribue ton idée ?|Quelle serait ta première réaction si ton professeur change la date de rendu ?
+boulot-749|Boulot|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un stylo à bille de qualité pour le bureau ?|Sur quel site ou dans quel magasin chercherais-tu un tableau blanc mural ?
+boulot-750|Boulot|nouvelle|À quel moment de la semaine préférerais-tu préparer une candidature ?|À quel moment de la semaine préférerais-tu apprendre un nouveau logiciel ?
+boulot-751|Boulot|nouvelle|Combien penses-tu que vaut un abonnement mensuel à un outil de productivité ?|Combien penses-tu que vaut une mallette de rangement ?
+boulot-752|Boulot|nouvelle|Qu’est-ce que tu ferais en premier si ton ordinateur plante avant une présentation ?|Qu’est-ce que tu ferais en premier si on te confie une tâche que tu ne comprends pas ?
+boulot-753|Boulot|nouvelle|À quel endroit irais-tu pour trouver une batterie externe pour ordinateur ?|À quel endroit irais-tu pour trouver une calculatrice de qualité ?
+boulot-754|Boulot|nouvelle|À ton avis, combien coûte un agenda professionnel ?|À ton avis, combien coûte un carnet de notes relié ?
+boulot-755|Boulot|nouvelle|Où chercherais-tu une lampe de bureau LED avec bras articulé réglable en premier ?|Où chercherais-tu un support pour ordinateur en premier ?
+boulot-756|Boulot|nouvelle|Où irais-tu pour acheter un carnet de notes relié ?|Où irais-tu pour acheter une lampe de bureau LED avec bras articulé réglable ?
+boulot-757|Boulot|nouvelle|En combien de temps pourrais-tu organiser une réunion d’équipe ?|En combien de temps pourrais-tu relire une copie de ta pièce d’identité ?
+boulot-758|Boulot|nouvelle|À quel endroit irais-tu pour trouver un agenda professionnel ?|À quel endroit irais-tu pour trouver un carnet de notes relié ?
+boulot-759|Boulot|nouvelle|Quel serait le meilleur moment pour répondre à une boîte mail chargée ?|Quel serait le meilleur moment pour organiser une réunion d’équipe ?
+boulot-760|Boulot|nouvelle|À ton avis, combien coûte une batterie externe pour ordinateur ?|À ton avis, combien coûte une calculatrice de qualité ?
+boulot-761|Boulot|nouvelle|Qu’est-ce que tu dirais sur le moment si un camarade te demande tes notes la veille ?|Qu’est-ce que tu dirais sur le moment si ton micro reste ouvert pendant une réunion ?
+boulot-762|Boulot|nouvelle|Quel créneau de la journée serait le plus pratique pour relire une copie de ta pièce d’identité ?|Quel créneau de la journée serait le plus pratique pour rédiger un compte rendu ?
+boulot-763|Boulot|nouvelle|Que dirais-tu si ton ordinateur plante avant une présentation ?|Que dirais-tu si on te confie une tâche que tu ne comprends pas ?
+boulot-764|Boulot|nouvelle|Combien de temps te faudrait-il pour préparer un exposé en groupe ?|Combien de temps te faudrait-il pour trouver une salle de réunion pour huit personnes à Paris ?
+boulot-765|Boulot|nouvelle|Où irais-tu pour acheter un sac pour ordinateur portable ?|Où irais-tu pour acheter un clavier sans fil ?
+boulot-766|Boulot|nouvelle|Comment réagirais-tu si ton responsable avance une échéance ?|Comment réagirais-tu si un client te demande une réponse immédiate ?
+boulot-767|Boulot|nouvelle|Quelle phrase sortirait de ta bouche si ton responsable avance une échéance ?|Quelle phrase sortirait de ta bouche si un client te demande une réponse immédiate ?
+boulot-768|Boulot|nouvelle|À ton avis, combien de temps faut-il pour préparer un entretien d’embauche ?|À ton avis, combien de temps faut-il pour réviser avant un examen ?
+boulot-769|Boulot|nouvelle|Selon toi, quel est le prix d’une souris ergonomique ?|Selon toi, quel est le prix d’une imprimante domestique ?
+boulot-770|Boulot|nouvelle|À ton avis, combien de temps faut-il pour répondre à une boîte mail chargée ?|À ton avis, combien de temps faut-il pour organiser une réunion d’équipe ?
+boulot-771|Boulot|nouvelle|Jusqu’à combien paierais-tu pour une mallette de rangement ?|Jusqu’à combien paierais-tu pour une bonne chaise ergonomique ?
+boulot-772|Boulot|nouvelle|Jusqu’à combien paierais-tu pour un stylo à bille de qualité pour le bureau ?|Jusqu’à combien paierais-tu pour un tableau blanc mural ?
+boulot-773|Boulot|nouvelle|Qu’est-ce que tu dirais sur le moment si tu reçois un compliment sur ton travail ?|Qu’est-ce que tu dirais sur le moment si un collègue oublie une réunion importante ?
+boulot-774|Boulot|nouvelle|À ton avis, combien de temps faut-il pour classer tes dossiers de travail ?|À ton avis, combien de temps faut-il pour préparer ton planning de semaine ?
+boulot-775|Boulot|nouvelle|Combien de temps prévoirais-tu pour préparer ta prise de parole ?|Combien de temps prévoirais-tu pour préparer une présentation de dix minutes ?
+boulot-776|Boulot|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une sacoche de travail ?|Sur quel site ou dans quel magasin chercherais-tu une batterie externe pour ordinateur ?
+boulot-777|Boulot|nouvelle|Qui contacterais-tu pour t’aider à préparer une candidature ?|Qui contacterais-tu pour t’aider à apprendre un nouveau logiciel ?
+boulot-778|Boulot|nouvelle|À quel moment de la semaine préférerais-tu rédiger un compte rendu ?|À quel moment de la semaine préférerais-tu préparer un entretien d’embauche ?
+boulot-779|Boulot|nouvelle|Qu’est-ce qui te pousserait à acheter un agenda professionnel ?|Qu’est-ce qui te pousserait à acheter un carnet de notes relié ?
+boulot-780|Boulot|nouvelle|Selon toi, quel est le prix d’une calculatrice de qualité ?|Selon toi, quel est le prix d’un abonnement mensuel à un outil de productivité ?
+boulot-781|Boulot|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer un entretien d’embauche ?|Qui pourrait te donner le meilleur conseil pour réviser avant un examen ?
+boulot-782|Boulot|nouvelle|Quelle phrase sortirait de ta bouche si on te confie une tâche que tu ne comprends pas ?|Quelle phrase sortirait de ta bouche si tu arrives en retard à un entretien ?
+boulot-783|Boulot|nouvelle|Où chercherais-tu un abonnement mensuel à un outil de productivité en premier ?|Où chercherais-tu une mallette de rangement en premier ?
+boulot-784|Boulot|nouvelle|Quel serait le meilleur moment pour apprendre un nouveau logiciel ?|Quel serait le meilleur moment pour organiser tes fichiers numériques ?
+boulot-785|Boulot|nouvelle|Quelle serait ta première réaction si tu reçois un compliment sur ton travail ?|Quelle serait ta première réaction si un collègue oublie une réunion importante ?
+boulot-786|Boulot|nouvelle|Quel serait le point le plus important pour réviser avant un examen ?|Quel serait le point le plus important pour mettre à jour ton CV ?
+boulot-787|Boulot|nouvelle|Qui contacterais-tu pour t’aider à préparer une présentation de dix minutes ?|Qui contacterais-tu pour t’aider à répondre à une boîte mail chargée ?
+boulot-788|Boulot|nouvelle|Que dirais-tu si un collègue te coupe la parole en réunion ?|Que dirais-tu si ton responsable avance une échéance ?
+boulot-789|Boulot|nouvelle|Combien de temps te faudrait-il pour rédiger un compte rendu ?|Combien de temps te faudrait-il pour préparer un entretien d’embauche ?
+boulot-790|Boulot|nouvelle|À ton avis, combien de temps faut-il pour apprendre un nouveau logiciel ?|À ton avis, combien de temps faut-il pour organiser tes fichiers numériques ?
+boulot-791|Boulot|nouvelle|À quel moment aurais-tu envie d’acheter un support pour ordinateur ?|À quel moment aurais-tu envie d’acheter un casque à réduction active du bruit pour les trajets en train ?
+boulot-792|Boulot|nouvelle|Dans quelle situation déciderais-tu d’acheter une imprimante domestique ?|Dans quelle situation déciderais-tu d’acheter une sacoche de travail ?
+boulot-793|Boulot|nouvelle|À ton avis, combien coûte un casque à réduction active du bruit pour les trajets en train ?|À ton avis, combien coûte une tasse isotherme ?
+boulot-794|Boulot|nouvelle|Qui pourrait te donner le meilleur conseil pour apprendre un nouveau logiciel ?|Qui pourrait te donner le meilleur conseil pour organiser tes fichiers numériques ?
+boulot-795|Boulot|nouvelle|Quelle personne de ton entourage pourrait t’aider à organiser une réunion d’équipe ?|Quelle personne de ton entourage pourrait t’aider à relire une copie de ta pièce d’identité ?
+boulot-796|Boulot|nouvelle|Qu’est-ce qui te pousserait à acheter un casque à réduction active du bruit pour les trajets en train ?|Qu’est-ce qui te pousserait à acheter une tasse isotherme ?
+boulot-797|Boulot|nouvelle|Où irais-tu pour acheter une calculatrice de qualité ?|Où irais-tu pour acheter un abonnement mensuel à un outil de productivité ?
+boulot-798|Boulot|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer ton planning de semaine ?|Quelle personne de ton entourage pourrait t’aider à installer un nouvel ordinateur ?
+boulot-799|Boulot|nouvelle|À quel moment de la semaine préférerais-tu préparer un exposé en groupe ?|À quel moment de la semaine préférerais-tu trouver une salle de réunion pour huit personnes à Paris ?
+boulot-800|Boulot|nouvelle|Combien de temps te faudrait-il pour préparer une candidature ?|Combien de temps te faudrait-il pour apprendre un nouveau logiciel ?
+boulot-801|Boulot|nouvelle|Qui contacterais-tu pour t’aider à préparer un exposé en groupe ?|Qui contacterais-tu pour t’aider à trouver une salle de réunion pour huit personnes à Paris ?
+boulot-802|Boulot|nouvelle|Quelle phrase sortirait de ta bouche si un dossier important a disparu ?|Quelle phrase sortirait de ta bouche si un collègue critique ta méthode ?
+boulot-803|Boulot|nouvelle|Quel serait le point le plus important pour organiser tes fichiers numériques ?|Quel serait le point le plus important pour préparer ta prise de parole ?
+boulot-804|Boulot|nouvelle|Quel serait le point le plus important pour corriger un devoir compliqué ?|Quel serait le point le plus important pour mettre au propre des notes ?
+boulot-805|Boulot|nouvelle|Quel détail vérifierais-tu avant de préparer ta prise de parole ?|Quel détail vérifierais-tu avant de préparer une présentation de dix minutes ?
+boulot-806|Boulot|nouvelle|Quel créneau de la journée serait le plus pratique pour installer un nouvel ordinateur ?|Quel créneau de la journée serait le plus pratique pour préparer un exposé en groupe ?
+boulot-807|Boulot|nouvelle|Quelle phrase sortirait de ta bouche si on te propose une promotion inattendue ?|Quelle phrase sortirait de ta bouche si un recruteur te pose une question étrange ?
+boulot-808|Boulot|nouvelle|Quel détail vérifierais-tu avant de mettre au propre des notes ?|Quel détail vérifierais-tu avant de préparer une candidature ?
+boulot-809|Boulot|nouvelle|Quelle phrase sortirait de ta bouche si on te demande de travailler un jour prévu libre ?|Quelle phrase sortirait de ta bouche si un client laisse un avis injuste ?
+boulot-810|Boulot|nouvelle|Quelle serait ta première réaction si on te demande de présenter sans préparation ?|Quelle serait ta première réaction si un collègue te coupe la parole en réunion ?
+boulot-811|Boulot|nouvelle|Quel détail vérifierais-tu avant d’installer un nouvel ordinateur ?|Quel détail vérifierais-tu avant de préparer un exposé en groupe ?
+boulot-812|Boulot|nouvelle|Quel moment de la journée choisirais-tu pour organiser une réunion d’équipe ?|Quel moment de la journée choisirais-tu pour relire une copie de ta pièce d’identité ?
+boulot-813|Boulot|nouvelle|Quel serait ton premier réflexe si un client laisse un avis injuste ?|Quel serait ton premier réflexe si tu reçois un compliment sur ton travail ?
+boulot-814|Boulot|nouvelle|Quel moment de la journée choisirais-tu pour corriger un devoir compliqué ?|Quel moment de la journée choisirais-tu pour mettre au propre des notes ?
+boulot-815|Boulot|nouvelle|En combien de temps pourrais-tu organiser tes fichiers numériques ?|En combien de temps pourrais-tu préparer ta prise de parole ?
+ecole-etudes-001|École & Études|nouvelle|Que répondrais-tu si un professeur t'accusait d'avoir bavardé alors que tu étais silencieux ?|Comment répondrais-tu si un ami te demandait de lui expliquer un chapitre entier en cinq minutes ?
+ecole-etudes-002|École & Études|nouvelle|Quelle serait ta première phrase si ton groupe t'annonçait qu'il n'a rien préparé pour l'exposé de demain ?|Qu’est-ce que tu dirais si un enseignant t'annonçait une erreur de correction sur ton travail ?
+ecole-etudes-003|École & Études|nouvelle|Que dirais-tu si un camarade te demandait de lui envoyer tout ton devoir ?|Quels mots utiliserais-tu si un camarade te demandait de lui garder une place en amphithéâtre ?
+ecole-etudes-004|École & Études|nouvelle|Que répondrais-tu si un professeur reportait un contrôle juste après tes révisions ?|Comment répondrais-tu si tes parents te demandaient pourquoi tu es rentré si tard de la bibliothèque ?
+ecole-etudes-005|École & Études|nouvelle|Quelle serait ta première phrase si un ami disait qu'il n'a pas besoin de réviser pour réussir ?|Qu’est-ce que tu dirais si un professeur refusait de décaler une date limite ?
+ecole-etudes-006|École & Études|nouvelle|Que dirais-tu si un enseignant te demandait de passer au tableau sans prévenir ?|Quels mots utiliserais-tu si un ami trouvait ton orientation étonnante ?
+ecole-etudes-007|École & Études|nouvelle|Que répondrais-tu si un camarade se moquait de ton exposé devant la classe ?|Comment répondrais-tu si ton groupe proposait une réunion de travail un dimanche matin ?
+ecole-etudes-008|École & Études|nouvelle|Quelle serait ta première phrase si un professeur remarquait que tu as oublié ton cahier ?|Qu’est-ce que tu dirais si un professeur te demandait un exemple sans te laisser réfléchir ?
+ecole-etudes-009|École & Études|nouvelle|Que dirais-tu si ton binôme voulait changer de sujet la veille du rendu ?|Quels mots utiliserais-tu si un camarade t'annonçait qu'il a perdu le dossier commun ?
+ecole-etudes-010|École & Études|nouvelle|Que répondrais-tu si un ami te demandait de lui expliquer un chapitre entier en cinq minutes ?|Comment répondrais-tu si un enseignant faisait une remarque sur ton écriture ?
+ecole-etudes-011|École & Études|nouvelle|Quelle serait ta première phrase si un enseignant t'annonçait une erreur de correction sur ton travail ?|Qu’est-ce que tu dirais si un ami te proposait de réviser toute la nuit avant l'examen ?
+ecole-etudes-012|École & Études|nouvelle|Que dirais-tu si un camarade te demandait de lui garder une place en amphithéâtre ?|Quels mots utiliserais-tu si un professeur t'accusait d'avoir bavardé alors que tu étais silencieux ?
+ecole-etudes-013|École & Études|nouvelle|Que répondrais-tu si tes parents te demandaient pourquoi tu es rentré si tard de la bibliothèque ?|Comment répondrais-tu si ton groupe t'annonçait qu'il n'a rien préparé pour l'exposé de demain ?
+ecole-etudes-014|École & Études|nouvelle|Quelle serait ta première phrase si un professeur refusait de décaler une date limite ?|Qu’est-ce que tu dirais si un camarade te demandait de lui envoyer tout ton devoir ?
+ecole-etudes-015|École & Études|nouvelle|Que dirais-tu si un ami trouvait ton orientation étonnante ?|Quels mots utiliserais-tu si un professeur reportait un contrôle juste après tes révisions ?
+ecole-etudes-016|École & Études|nouvelle|Que répondrais-tu si ton groupe proposait une réunion de travail un dimanche matin ?|Comment répondrais-tu si un ami disait qu'il n'a pas besoin de réviser pour réussir ?
+ecole-etudes-017|École & Études|nouvelle|Quelle serait ta première phrase si un professeur te demandait un exemple sans te laisser réfléchir ?|Qu’est-ce que tu dirais si un enseignant te demandait de passer au tableau sans prévenir ?
+ecole-etudes-018|École & Études|nouvelle|Que dirais-tu si un camarade t'annonçait qu'il a perdu le dossier commun ?|Quels mots utiliserais-tu si un camarade se moquait de ton exposé devant la classe ?
+ecole-etudes-019|École & Études|nouvelle|Que répondrais-tu si un enseignant faisait une remarque sur ton écriture ?|Comment répondrais-tu si un professeur remarquait que tu as oublié ton cahier ?
+ecole-etudes-020|École & Études|nouvelle|Quelle serait ta première phrase si un ami te proposait de réviser toute la nuit avant l'examen ?|Qu’est-ce que tu dirais si ton binôme voulait changer de sujet la veille du rendu ?
+ecole-etudes-021|École & Études|nouvelle|Quelle serait ta première phrase si un professeur t'accusait d'avoir bavardé alors que tu étais silencieux ?|Qu’est-ce que tu dirais si un ami te demandait de lui expliquer un chapitre entier en cinq minutes ?
+ecole-etudes-022|École & Études|nouvelle|Que dirais-tu si ton groupe t'annonçait qu'il n'a rien préparé pour l'exposé de demain ?|Quels mots utiliserais-tu si un enseignant t'annonçait une erreur de correction sur ton travail ?
+ecole-etudes-023|École & Études|nouvelle|Que répondrais-tu si un camarade te demandait de lui envoyer tout ton devoir ?|Comment répondrais-tu si un camarade te demandait de lui garder une place en amphithéâtre ?
+ecole-etudes-024|École & Études|nouvelle|Quelle serait ta première phrase si un professeur reportait un contrôle juste après tes révisions ?|Qu’est-ce que tu dirais si tes parents te demandaient pourquoi tu es rentré si tard de la bibliothèque ?
+ecole-etudes-025|École & Études|nouvelle|Que dirais-tu si un ami disait qu'il n'a pas besoin de réviser pour réussir ?|Quels mots utiliserais-tu si un professeur refusait de décaler une date limite ?
+ecole-etudes-026|École & Études|nouvelle|Que ferais-tu en premier si tu arrivais au lycée sans ta calculatrice le jour d'un contrôle ?|Que déciderais-tu de faire d’abord si ton professeur changeait la salle au dernier moment ?
+ecole-etudes-027|École & Études|nouvelle|Quel serait ton premier réflexe si ton ordinateur s'éteignait pendant un examen blanc en ligne ?|Comment agirais-tu en premier si tu recevais deux devoirs importants à rendre le même jour ?
+ecole-etudes-028|École & Études|nouvelle|Par quoi commencerais-tu si tu réalisais qu'un exposé est prévu dans une heure ?|Quelle serait ta première action si un camarade te donnait une information contradictoire sur le contrôle ?
+ecole-etudes-029|École & Études|nouvelle|Que ferais-tu en premier si un camarade était absent le jour de votre présentation ?|Que déciderais-tu de faire d’abord si la connexion Internet tombait pendant un rendu en ligne ?
+ecole-etudes-030|École & Études|nouvelle|Quel serait ton premier réflexe si tu perdais la clé USB contenant le travail de groupe ?|Comment agirais-tu en premier si tu retrouvais ton ancien carnet avec les coordonnées d'un professeur ?
+ecole-etudes-031|École & Études|nouvelle|Par quoi commencerais-tu si la bibliothèque fermait plus tôt que prévu en pleine révision ?|Quelle serait ta première action si ton groupe découvrait une faute dans la première diapositive ?
+ecole-etudes-032|École & Études|nouvelle|Que ferais-tu en premier si tu oubliais la date d'inscription à une option importante ?|Que déciderais-tu de faire d’abord si un livre obligatoire était emprunté dans toutes les bibliothèques ?
+ecole-etudes-033|École & Études|nouvelle|Quel serait ton premier réflexe si tu trouvais une erreur dans un document déjà remis ?|Comment agirais-tu en premier si un étudiant s'endormait pendant votre travail en binôme ?
+ecole-etudes-034|École & Études|nouvelle|Par quoi commencerais-tu si ton bus avait du retard le matin d'un examen ?|Quelle serait ta première action si tu constatais que ton réveil n'a pas sonné avant un oral ?
+ecole-etudes-035|École & Études|nouvelle|Que ferais-tu en premier si ton professeur changeait la salle au dernier moment ?|Que déciderais-tu de faire d’abord si tu ne comprenais aucune consigne d'un exercice distribué ?
+ecole-etudes-036|École & Études|nouvelle|Quel serait ton premier réflexe si tu recevais deux devoirs importants à rendre le même jour ?|Comment agirais-tu en premier si ta présentation ne s'ouvrait plus sur l'ordinateur de la classe ?
+ecole-etudes-037|École & Études|nouvelle|Par quoi commencerais-tu si un camarade te donnait une information contradictoire sur le contrôle ?|Quelle serait ta première action si tu arrivais au lycée sans ta calculatrice le jour d'un contrôle ?
+ecole-etudes-038|École & Études|nouvelle|Que ferais-tu en premier si la connexion Internet tombait pendant un rendu en ligne ?|Que déciderais-tu de faire d’abord si ton ordinateur s'éteignait pendant un examen blanc en ligne ?
+ecole-etudes-039|École & Études|nouvelle|Quel serait ton premier réflexe si tu retrouvais ton ancien carnet avec les coordonnées d'un professeur ?|Comment agirais-tu en premier si tu réalisais qu'un exposé est prévu dans une heure ?
+ecole-etudes-040|École & Études|nouvelle|Par quoi commencerais-tu si ton groupe découvrait une faute dans la première diapositive ?|Quelle serait ta première action si un camarade était absent le jour de votre présentation ?
+ecole-etudes-041|École & Études|nouvelle|Que ferais-tu en premier si un livre obligatoire était emprunté dans toutes les bibliothèques ?|Que déciderais-tu de faire d’abord si tu perdais la clé USB contenant le travail de groupe ?
+ecole-etudes-042|École & Études|nouvelle|Quel serait ton premier réflexe si un étudiant s'endormait pendant votre travail en binôme ?|Comment agirais-tu en premier si la bibliothèque fermait plus tôt que prévu en pleine révision ?
+ecole-etudes-043|École & Études|nouvelle|Par quoi commencerais-tu si tu constatais que ton réveil n'a pas sonné avant un oral ?|Quelle serait ta première action si tu oubliais la date d'inscription à une option importante ?
+ecole-etudes-044|École & Études|nouvelle|Que ferais-tu en premier si tu ne comprenais aucune consigne d'un exercice distribué ?|Que déciderais-tu de faire d’abord si tu trouvais une erreur dans un document déjà remis ?
+ecole-etudes-045|École & Études|nouvelle|Quel serait ton premier réflexe si ta présentation ne s'ouvrait plus sur l'ordinateur de la classe ?|Comment agirais-tu en premier si ton bus avait du retard le matin d'un examen ?
+ecole-etudes-046|École & Études|nouvelle|Quel serait ton premier réflexe si tu arrivais au lycée sans ta calculatrice le jour d'un contrôle ?|Comment agirais-tu en premier si ton professeur changeait la salle au dernier moment ?
+ecole-etudes-047|École & Études|nouvelle|Par quoi commencerais-tu si ton ordinateur s'éteignait pendant un examen blanc en ligne ?|Quelle serait ta première action si tu recevais deux devoirs importants à rendre le même jour ?
+ecole-etudes-048|École & Études|nouvelle|Que ferais-tu en premier si tu réalisais qu'un exposé est prévu dans une heure ?|Que déciderais-tu de faire d’abord si un camarade te donnait une information contradictoire sur le contrôle ?
+ecole-etudes-049|École & Études|nouvelle|Quel serait ton premier réflexe si un camarade était absent le jour de votre présentation ?|Comment agirais-tu en premier si la connexion Internet tombait pendant un rendu en ligne ?
+ecole-etudes-050|École & Études|nouvelle|Par quoi commencerais-tu si tu perdais la clé USB contenant le travail de groupe ?|Quelle serait ta première action si tu retrouvais ton ancien carnet avec les coordonnées d'un professeur ?
+ecole-etudes-051|École & Études|nouvelle|Tu choisirais plutôt réviser seul à la maison ou réviser avec deux amis ?|Si tu n’avais droit qu’à une option, tu prendrais faire un stage en entreprise ou participer à un projet associatif ?
+ecole-etudes-052|École & Études|nouvelle|Entre passer un oral et rendre un dossier écrit, que préférerais-tu ?|Lequel des deux te tente le plus : étudier tôt le matin ou étudier tard le soir ?
+ecole-etudes-053|École & Études|nouvelle|Si tu devais trancher, ce serait avoir cours à huit heures ou finir les cours à dix-neuf heures ?|Tu privilégierais avoir un professeur exigeant ou avoir un professeur très souple ?
+ecole-etudes-054|École & Études|nouvelle|Tu choisirais plutôt apprendre une langue supplémentaire ou suivre une option artistique ?|Si tu n’avais droit qu’à une option, tu prendrais lire un manuel papier ou consulter un manuel numérique ?
+ecole-etudes-055|École & Études|nouvelle|Entre travailler en bibliothèque et travailler dans un café calme, que préférerais-tu ?|Lequel des deux te tente le plus : préparer un projet collectif ou rendre un travail individuel ?
+ecole-etudes-056|École & Études|nouvelle|Si tu devais trancher, ce serait préparer un exposé sur un sujet libre ou répondre à un sujet imposé ?|Tu privilégierais choisir une formation très théorique ou une formation très pratique ?
+ecole-etudes-057|École & Études|nouvelle|Tu choisirais plutôt des évaluations régulières ou un grand examen final ?|Si tu n’avais droit qu’à une option, tu prendrais suivre des cours en présentiel ou suivre des cours hybrides ?
+ecole-etudes-058|École & Études|nouvelle|Entre prendre des notes sur tablette et écrire dans un cahier, que préférerais-tu ?|Lequel des deux te tente le plus : travailler à la dernière minute ou planifier sur plusieurs semaines ?
+ecole-etudes-059|École & Études|nouvelle|Si tu devais trancher, ce serait étudier dans une grande université ou étudier dans un petit établissement ?|Tu privilégierais passer un semestre à l'étranger ou faire deux stages en France ?
+ecole-etudes-060|École & Études|nouvelle|Tu choisirais plutôt faire un stage en entreprise ou participer à un projet associatif ?|Si tu n’avais droit qu’à une option, tu prendrais étudier les sciences ou étudier les lettres ?
+ecole-etudes-061|École & Études|nouvelle|Entre étudier tôt le matin et étudier tard le soir, que préférerais-tu ?|Lequel des deux te tente le plus : apprendre avec des exercices ou apprendre avec des vidéos ?
+ecole-etudes-062|École & Études|nouvelle|Si tu devais trancher, ce serait avoir un professeur exigeant ou avoir un professeur très souple ?|Tu privilégierais réviser seul à la maison ou réviser avec deux amis ?
+ecole-etudes-063|École & Études|nouvelle|Tu choisirais plutôt lire un manuel papier ou consulter un manuel numérique ?|Si tu n’avais droit qu’à une option, tu prendrais passer un oral ou rendre un dossier écrit ?
+ecole-etudes-064|École & Études|nouvelle|Entre préparer un projet collectif et rendre un travail individuel, que préférerais-tu ?|Lequel des deux te tente le plus : avoir cours à huit heures ou finir les cours à dix-neuf heures ?
+ecole-etudes-065|École & Études|nouvelle|Si tu devais trancher, ce serait choisir une formation très théorique ou une formation très pratique ?|Tu privilégierais apprendre une langue supplémentaire ou suivre une option artistique ?
+ecole-etudes-066|École & Études|nouvelle|Tu choisirais plutôt suivre des cours en présentiel ou suivre des cours hybrides ?|Si tu n’avais droit qu’à une option, tu prendrais travailler en bibliothèque ou travailler dans un café calme ?
+ecole-etudes-067|École & Études|nouvelle|Entre travailler à la dernière minute et planifier sur plusieurs semaines, que préférerais-tu ?|Lequel des deux te tente le plus : préparer un exposé sur un sujet libre ou répondre à un sujet imposé ?
+ecole-etudes-068|École & Études|nouvelle|Si tu devais trancher, ce serait passer un semestre à l'étranger ou faire deux stages en France ?|Tu privilégierais des évaluations régulières ou un grand examen final ?
+ecole-etudes-069|École & Études|nouvelle|Tu choisirais plutôt étudier les sciences ou étudier les lettres ?|Si tu n’avais droit qu’à une option, tu prendrais prendre des notes sur tablette ou écrire dans un cahier ?
+ecole-etudes-070|École & Études|nouvelle|Entre apprendre avec des exercices et apprendre avec des vidéos, que préférerais-tu ?|Lequel des deux te tente le plus : étudier dans une grande université ou étudier dans un petit établissement ?
+ecole-etudes-071|École & Études|nouvelle|Entre réviser seul à la maison et réviser avec deux amis, que préférerais-tu ?|Lequel des deux te tente le plus : faire un stage en entreprise ou participer à un projet associatif ?

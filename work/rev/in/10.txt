@@ -1,0 +1,605 @@
+nature-452|Nature & Animaux|nouvelle|Combien de temps te faudrait-il pour préparer une randonnée de deux heures ?|Combien de temps te faudrait-il pour repérer un oiseau dans un parc ?
+nature-453|Nature & Animaux|nouvelle|À qui demanderais-tu de l’aide pour ramasser des feuilles en automne ?|À qui demanderais-tu de l’aide pour repérer un lieu tranquille en pleine nature ?
+nature-454|Nature & Animaux|nouvelle|À quelle fréquence t’arrive-t-il de choisir un sentier de randonnée ?|À quelle fréquence t’arrive-t-il de préparer une sortie au bord d’un lac ?
+nature-455|Nature & Animaux|nouvelle|Dans quelle situation déciderais-tu d’acheter une entrée adulte dans une réserve naturelle payante ?|Dans quelle situation déciderais-tu d’acheter un guide des arbres communs ?
+nature-456|Nature & Animaux|nouvelle|Qui pourrait te donner le meilleur conseil pour choisir un sentier de randonnée ?|Qui pourrait te donner le meilleur conseil pour préparer une sortie au bord d’un lac ?
+nature-457|Nature & Animaux|nouvelle|À ton avis, combien de temps faut-il pour organiser une journée à la campagne ?|À ton avis, combien de temps faut-il pour observer les animaux sans les déranger ?
+nature-458|Nature & Animaux|nouvelle|Quelle serait ta première réaction si un chien inconnu vient vers toi dans un parc ?|Quelle serait ta première réaction si tu trouves un hérisson dans ton jardin ?
+nature-459|Nature & Animaux|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer une sortie à vélo en campagne ?|Qui pourrait te donner le meilleur conseil pour faire un parcours dans un jardin botanique ?
+nature-460|Nature & Animaux|nouvelle|Que dirais-tu si tu vois des déchets sur un chemin de promenade ?|Que dirais-tu si une guêpe tourne autour de ton pique-nique ?
+nature-461|Nature & Animaux|nouvelle|Qu’est-ce qui te pousserait à acheter un hamac de jardin ?|Qu’est-ce qui te pousserait à acheter une paire de bottes de marche ?
+nature-462|Nature & Animaux|nouvelle|Que dirais-tu si le ciel s’éclaircit après une longue pluie ?|Que dirais-tu si une balade prévue courte prend deux heures ?
+nature-463|Nature & Animaux|nouvelle|Quelle personne de ton entourage pourrait t’aider à observer les animaux sans les déranger ?|Quelle personne de ton entourage pourrait t’aider à faire une promenade sur la plage ?
+nature-464|Nature & Animaux|nouvelle|Combien de fois par an as-tu l’occasion de faire un parcours dans un jardin botanique ?|Combien de fois par an as-tu l’occasion de chercher un belvédère offrant une vue dégagée sur la ville ?
+nature-465|Nature & Animaux|nouvelle|Quelle personne de ton entourage pourrait t’aider à faire une promenade en forêt ?|Quelle personne de ton entourage pourrait t’aider à organiser un pique-nique dans la nature ?
+nature-466|Nature & Animaux|nouvelle|En combien de temps pourrais-tu faire une promenade en forêt ?|En combien de temps pourrais-tu organiser un pique-nique dans la nature ?
+nature-467|Nature & Animaux|nouvelle|Jusqu’à combien paierais-tu pour un bon sac de randonnée ?|Jusqu’à combien paierais-tu pour un coupe-vent imperméable ?
+nature-468|Nature & Animaux|nouvelle|Quel moment de la journée choisirais-tu pour observer les animaux sans les déranger ?|Quel moment de la journée choisirais-tu pour faire une promenade sur la plage ?
+nature-469|Nature & Animaux|nouvelle|Combien de temps te faudrait-il pour arroser les plantes de ton balcon ?|Combien de temps te faudrait-il pour choisir un sentier de randonnée ?
+nature-470|Nature & Animaux|nouvelle|Quel moment de la journée choisirais-tu pour observer les étoiles une nuit claire ?|Quel moment de la journée choisirais-tu pour ramasser des feuilles en automne ?
+nature-471|Nature & Animaux|nouvelle|Que dirais-tu si tu trouves un chat perdu dans la rue ?|Que dirais-tu si un ami veut nourrir un animal sauvage ?
+nature-472|Nature & Animaux|nouvelle|Qu’est-ce que tu ferais en premier si tu aperçois un renard pendant une balade ?|Qu’est-ce que tu ferais en premier si un oiseau entre par ta fenêtre ?
+nature-473|Nature & Animaux|nouvelle|Combien de fois par mois as-tu l’occasion d’arroser les plantes de ton balcon ?|Combien de fois par mois as-tu l’occasion de choisir un sentier de randonnée ?
+nature-474|Nature & Animaux|nouvelle|À quel moment aurais-tu envie d’acheter une plante verte d’intérieur ?|À quel moment aurais-tu envie d’acheter un hamac de jardin ?
+nature-475|Nature & Animaux|nouvelle|Qui contacterais-tu pour t’aider à installer une petite plante chez toi ?|Qui contacterais-tu pour t’aider à préparer une balade avec un chien ?
+nature-476|Nature & Animaux|nouvelle|Où chercherais-tu une entrée adulte dans une réserve naturelle payante en premier ?|Où chercherais-tu un guide des arbres communs en premier ?
+nature-477|Nature & Animaux|nouvelle|Quel prix imagines-tu pour une plante verte d’intérieur ?|Quel prix imagines-tu pour un hamac de jardin ?
+nature-478|Nature & Animaux|nouvelle|À quel moment de la semaine préférerais-tu repérer un lieu tranquille en pleine nature ?|À quel moment de la semaine préférerais-tu préparer une sortie à vélo en campagne ?
+nature-479|Nature & Animaux|nouvelle|Quel créneau de la journée serait le plus pratique pour faire une promenade sur la plage ?|Quel créneau de la journée serait le plus pratique pour préparer une randonnée de deux heures ?
+nature-480|Nature & Animaux|nouvelle|Qu’est-ce que tu ferais en premier si le ciel s’éclaircit après une longue pluie ?|Qu’est-ce que tu ferais en premier si une balade prévue courte prend deux heures ?
+nature-481|Nature & Animaux|nouvelle|Quelle phrase sortirait de ta bouche si un oiseau entre par ta fenêtre ?|Quelle phrase sortirait de ta bouche si la pluie commence au milieu d’une randonnée ?
+nature-482|Nature & Animaux|nouvelle|Comment répondrais-tu si une bourrasque emporte ta casquette ?|Comment répondrais-tu si tu découvres un arbre immense ?
+nature-483|Nature & Animaux|nouvelle|Jusqu’à combien paierais-tu pour un guide des arbres communs ?|Jusqu’à combien paierais-tu pour une paire de jumelles d’observation ?
+nature-484|Nature & Animaux|nouvelle|À quel endroit irais-tu pour trouver un hamac de jardin ?|À quel endroit irais-tu pour trouver une paire de bottes de marche ?
+nature-485|Nature & Animaux|nouvelle|Quelle phrase sortirait de ta bouche si une balade prévue courte prend deux heures ?|Quelle phrase sortirait de ta bouche si tu vois un animal blessé près d’un chemin ?
+nature-486|Nature & Animaux|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une couverture de pique-nique ?|Au-delà de quel prix hésiterais-tu à acheter une entrée adulte dans une réserve naturelle payante ?
+nature-487|Nature & Animaux|nouvelle|Pour quelle occasion voudrais-tu acheter une couverture de pique-nique ?|Pour quelle occasion voudrais-tu acheter une entrée adulte dans une réserve naturelle payante ?
+nature-488|Nature & Animaux|nouvelle|Quel moment de la journée choisirais-tu pour faire un parcours dans un jardin botanique ?|Quel moment de la journée choisirais-tu pour chercher un belvédère offrant une vue dégagée sur la ville ?
+nature-489|Nature & Animaux|nouvelle|Quelle serait ta première réaction si un sentier annoncé facile devient très raide ?|Quelle serait ta première réaction si tu vois des déchets sur un chemin de promenade ?
+nature-490|Nature & Animaux|nouvelle|Quel serait le meilleur moment pour préparer une sortie à vélo en campagne ?|Quel serait le meilleur moment pour faire un parcours dans un jardin botanique ?
+nature-491|Nature & Animaux|nouvelle|Qu’est-ce que tu dirais sur le moment si un écureuil s’approche très près de toi ?|Qu’est-ce que tu dirais sur le moment si tu trouves un chat perdu dans la rue ?
+nature-492|Nature & Animaux|nouvelle|Qu’est-ce qui te pousserait à acheter une paire de jumelles d’observation ?|Qu’est-ce qui te pousserait à acheter un guide illustré des oiseaux ?
+nature-493|Nature & Animaux|nouvelle|Quel créneau de la journée serait le plus pratique pour photographier un coucher de soleil ?|Quel créneau de la journée serait le plus pratique pour installer une petite plante chez toi ?
+nature-494|Nature & Animaux|nouvelle|Dans quelle situation déciderais-tu d’acheter un kit de plantation d’herbes aromatiques ?|Dans quelle situation déciderais-tu d’acheter une plante verte d’intérieur ?
+nature-495|Nature & Animaux|nouvelle|À ton avis, combien coûte un nichoir pour oiseaux ?|À ton avis, combien coûte un thermos pour la montagne ?
+nature-496|Nature & Animaux|nouvelle|À quel moment aurais-tu envie d’acheter un bon sac de randonnée ?|À quel moment aurais-tu envie d’acheter un coupe-vent imperméable ?
+nature-497|Nature & Animaux|nouvelle|À quelle fréquence aimerais-tu photographier un coucher de soleil ?|À quelle fréquence aimerais-tu installer une petite plante chez toi ?
+nature-498|Nature & Animaux|nouvelle|À ton avis, combien coûte une paire de jumelles d’observation ?|À ton avis, combien coûte un guide illustré des oiseaux ?
+nature-499|Nature & Animaux|nouvelle|À quel moment aurais-tu envie d’acheter un guide des arbres communs ?|À quel moment aurais-tu envie d’acheter une paire de jumelles d’observation ?
+nature-500|Nature & Animaux|nouvelle|Combien de fois par an as-tu l’occasion d’observer les étoiles une nuit claire ?|Combien de fois par an as-tu l’occasion de ramasser des feuilles en automne ?
+nature-501|Nature & Animaux|nouvelle|À quelle fréquence t’arrive-t-il de préparer une balade avec un chien ?|À quelle fréquence t’arrive-t-il d’observer les étoiles une nuit claire ?
+nature-502|Nature & Animaux|nouvelle|Combien serais-tu prêt à dépenser pour une lampe frontale de randonnée ?|Combien serais-tu prêt à dépenser pour un panier de pique-nique garni pour quatre personnes ?
+nature-503|Nature & Animaux|nouvelle|Qui contacterais-tu pour t’aider à préparer une randonnée de deux heures ?|Qui contacterais-tu pour t’aider à repérer un oiseau dans un parc ?
+nature-504|Nature & Animaux|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un panier de pique-nique garni pour quatre personnes ?|Sur quel site ou dans quel magasin chercherais-tu un nichoir pour oiseaux ?
+nature-505|Nature & Animaux|nouvelle|À qui demanderais-tu de l’aide pour chercher un belvédère offrant une vue dégagée sur la ville ?|À qui demanderais-tu de l’aide pour préparer un week-end à la montagne ?
+nature-506|Nature & Animaux|nouvelle|Combien de temps prévoirais-tu pour organiser un pique-nique dans la nature ?|Combien de temps prévoirais-tu pour arroser les plantes de ton balcon ?
+nature-507|Nature & Animaux|nouvelle|Quel budget maximal prévoirais-tu pour une paire de jumelles d’observation ?|Quel budget maximal prévoirais-tu pour un guide illustré des oiseaux ?
+nature-508|Nature & Animaux|nouvelle|Quel moment de la journée choisirais-tu pour préparer une sortie au bord d’un lac ?|Quel moment de la journée choisirais-tu pour photographier un coucher de soleil ?
+nature-509|Nature & Animaux|nouvelle|Qui contacterais-tu pour t’aider à arroser les plantes de ton balcon ?|Qui contacterais-tu pour t’aider à choisir un sentier de randonnée ?
+nature-510|Nature & Animaux|nouvelle|Quel budget maximal prévoirais-tu pour un hamac de jardin ?|Quel budget maximal prévoirais-tu pour une paire de bottes de marche ?
+nature-511|Nature & Animaux|nouvelle|À quelle fréquence t’arrive-t-il d’organiser une journée à la campagne ?|À quelle fréquence t’arrive-t-il d’observer les animaux sans les déranger ?
+nature-512|Nature & Animaux|nouvelle|À quel moment de la semaine préférerais-tu préparer un week-end à la montagne ?|À quel moment de la semaine préférerais-tu organiser une journée à la campagne ?
+nature-513|Nature & Animaux|nouvelle|Jusqu’à combien paierais-tu pour une plante verte d’intérieur ?|Jusqu’à combien paierais-tu pour un hamac de jardin ?
+nature-514|Nature & Animaux|nouvelle|Quel créneau de la journée serait le plus pratique pour ramasser des feuilles en automne ?|Quel créneau de la journée serait le plus pratique pour repérer un lieu tranquille en pleine nature ?
+nature-515|Nature & Animaux|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un bon sac de randonnée ?|Sur quel site ou dans quel magasin chercherais-tu un coupe-vent imperméable ?
+nature-516|Nature & Animaux|nouvelle|Quel serait ton premier réflexe si la pluie commence au milieu d’une randonnée ?|Quel serait ton premier réflexe si un chien inconnu vient vers toi dans un parc ?
+nature-517|Nature & Animaux|nouvelle|Où irais-tu pour acheter un thermos pour la montagne ?|Où irais-tu pour acheter un chapeau de randonnée ?
+nature-518|Nature & Animaux|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un guide des arbres communs ?|Sur quel site ou dans quel magasin chercherais-tu une paire de jumelles d’observation ?
+nature-519|Nature & Animaux|nouvelle|Quel serait le meilleur moment pour choisir un sentier de randonnée ?|Quel serait le meilleur moment pour préparer une sortie au bord d’un lac ?
+nature-520|Nature & Animaux|nouvelle|Où chercherais-tu un kit de plantation d’herbes aromatiques en premier ?|Où chercherais-tu une plante verte d’intérieur en premier ?
+nature-521|Nature & Animaux|nouvelle|À quelle fréquence t’arrive-t-il de préparer une sortie à vélo en campagne ?|À quelle fréquence t’arrive-t-il de faire un parcours dans un jardin botanique ?
+nature-522|Nature & Animaux|nouvelle|Selon toi, quel est le prix d’une paire de bottes de marche ?|Selon toi, quel est le prix d’une lampe frontale de randonnée ?
+nature-523|Nature & Animaux|nouvelle|Combien de temps prévoirais-tu pour faire une promenade sur la plage ?|Combien de temps prévoirais-tu pour préparer une randonnée de deux heures ?
+nature-524|Nature & Animaux|nouvelle|À quel endroit irais-tu pour trouver un appareil photo compact pour photographier des paysages ?|À quel endroit irais-tu pour trouver une couverture de pique-nique ?
+nature-525|Nature & Animaux|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un thermos pour la montagne ?|Au-delà de quel prix hésiterais-tu à acheter un chapeau de randonnée ?
+nature-526|Nature & Animaux|nouvelle|Où chercherais-tu un chapeau de randonnée en premier ?|Où chercherais-tu une carte de sentiers en premier ?
+nature-527|Nature & Animaux|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une entrée adulte dans un jardin botanique ?|Au-delà de quel prix hésiterais-tu à acheter un kit de plantation d’herbes aromatiques ?
+nature-528|Nature & Animaux|nouvelle|Combien de fois par an as-tu l’occasion de préparer une sortie au bord d’un lac ?|Combien de fois par an as-tu l’occasion de photographier un coucher de soleil ?
+nature-529|Nature & Animaux|nouvelle|Quel créneau de la journée serait le plus pratique pour chercher un belvédère offrant une vue dégagée sur la ville ?|Quel créneau de la journée serait le plus pratique pour préparer un week-end à la montagne ?
+nature-530|Nature & Animaux|nouvelle|À ton avis, combien coûte un hamac de jardin ?|À ton avis, combien coûte une paire de bottes de marche ?
+nature-531|Nature & Animaux|nouvelle|Combien de fois par mois as-tu l’occasion de préparer une randonnée de deux heures ?|Combien de fois par mois as-tu l’occasion de repérer un oiseau dans un parc ?
+nature-532|Nature & Animaux|nouvelle|Quelle serait ta première réaction si un écureuil s’approche très près de toi ?|Quelle serait ta première réaction si tu trouves un chat perdu dans la rue ?
+famille-153|Famille & Souvenirs|ancienne|Que construis-tu avec de la neige ?|Que construis-tu avec du sable mouillé ?
+famille-162|Famille & Souvenirs|ancienne|Que fais-tu quand tu vois un arc-en-ciel ?|Que fais-tu quand tu vois de la neige tomber ?
+famille-386|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si on te demande de prendre la photo de famille ?|Quelle serait ta première réaction si deux personnes veulent la dernière part de gâteau ?
+famille-387|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un cadre photo numérique ?|Quel budget maximal prévoirais-tu pour une boîte de biscuits artisanaux ?
+famille-388|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter un set de jeux de cartes ?|À quel moment aurais-tu envie d’acheter une place adulte pour un spectacle familial ?
+famille-389|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un jeu de société pour tous les âges ?|Quel budget maximal prévoirais-tu pour un album photo imprimé de quarante pages ?
+famille-390|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour répartir les tâches d’une fête ?|À ton avis, combien de temps faut-il pour trouver une date pour réunir dix personnes de la famille un dimanche ?
+famille-391|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si un cousin veut prolonger la soirée ?|Quel serait ton premier réflexe si tu retrouves un jouet de ton enfance ?
+famille-392|Famille & Souvenirs|nouvelle|Combien de fois par mois as-tu l’occasion d’appeler un grand-parent ?|Combien de fois par mois as-tu l’occasion de choisir un cadeau collectif ?
+famille-393|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un appareil à raclette ?|À quel endroit irais-tu pour trouver un livre de recettes de famille ?
+famille-394|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter une place adulte pour un spectacle familial ?|Qu’est-ce qui te pousserait à acheter une plante à offrir à un proche ?
+famille-395|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour organiser une sortie intergénérationnelle ?|Combien de temps prévoirais-tu pour préparer les affaires d’un week-end en famille ?
+famille-396|Famille & Souvenirs|nouvelle|Combien de fois par an as-tu l’occasion de retrouver de vieilles photos ?|Combien de fois par an as-tu l’occasion de choisir une activité en famille ?
+famille-397|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour préparer un repas avec plusieurs générations ?|Combien de temps prévoirais-tu pour organiser un repas de famille ?
+famille-398|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter une plante à offrir à un proche ?|Où irais-tu pour acheter un lot de mugs assortis ?
+famille-399|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour préparer un repas avec plusieurs générations ?|À qui demanderais-tu de l’aide pour organiser un repas de famille ?
+famille-400|Famille & Souvenirs|nouvelle|Que dirais-tu si deux personnes veulent la dernière part de gâteau ?|Que dirais-tu si un proche t’annonce une très bonne nouvelle ?
+famille-401|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour préparer une surprise pour un proche ?|Quel serait le meilleur moment pour retrouver de vieilles photos ?
+famille-402|Famille & Souvenirs|nouvelle|Combien de fois par an as-tu l’occasion d’organiser les places à table ?|Combien de fois par an as-tu l’occasion de préparer un gâteau d’anniversaire ?
+famille-403|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour préparer une soirée jeux à la maison ?|À qui demanderais-tu de l’aide pour organiser un pique-nique familial ?
+famille-404|Famille & Souvenirs|nouvelle|Que dirais-tu si tu oublies l’anniversaire d’un cousin ?|Que dirais-tu si un proche raconte pour la dixième fois la même histoire ?
+famille-405|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si on te demande ton avis sur un cadeau ?|Quelle phrase sortirait de ta bouche si un proche t’envoie une vieille photo de toi ?
+famille-406|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu organiser un pique-nique familial ?|À quel moment de la semaine préférerais-tu répartir les tâches d’une fête ?
+famille-407|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu appeler un grand-parent ?|À quel moment de la semaine préférerais-tu choisir un cadeau collectif ?
+famille-408|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu préparer un déjeuner du dimanche ?|À quel moment de la semaine préférerais-tu expliquer un jeu à des enfants ?
+famille-409|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer un repas avec plusieurs générations ?|Quel créneau de la journée serait le plus pratique pour organiser un repas de famille ?
+famille-410|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un lot de mugs assortis ?|Combien serais-tu prêt à dépenser pour un appareil photo instantané ?
+famille-411|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un gâteau pour huit personnes lors d’un repas de famille ?|Combien penses-tu que vaut une boîte de 500 g de chocolats assortis ?
+famille-412|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu réserver une sortie familiale au musée pour quatre personnes ?|Pour quelle occasion voudrais-tu acheter un puzzle de mille pièces ?
+famille-413|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour appeler un grand-parent ?|Combien de temps te faudrait-il pour choisir un cadeau collectif ?
+famille-414|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu trouver une date pour réunir dix personnes de la famille un dimanche ?|En combien de temps pourrais-tu préparer un repas avec plusieurs générations ?
+famille-415|Famille & Souvenirs|nouvelle|À ton avis, combien coûte une place adulte pour un spectacle familial ?|À ton avis, combien coûte une plante à offrir à un proche ?
+famille-416|Famille & Souvenirs|nouvelle|À quelle fréquence t’arrive-t-il d’expliquer un jeu à des enfants ?|À quelle fréquence t’arrive-t-il d’organiser les places à table ?
+famille-417|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si un grand-parent veut t’apprendre une recette ?|Quel serait ton premier réflexe si deux générations ne sont pas d’accord sur la musique ?
+famille-418|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si un proche t’envoie une vieille photo de toi ?|Quel serait ton premier réflexe si un repas de famille dure beaucoup plus longtemps que prévu ?
+famille-419|Famille & Souvenirs|nouvelle|Combien de fois par mois as-tu l’occasion d’organiser un repas de famille ?|Combien de fois par mois as-tu l’occasion de préparer une surprise pour un proche ?
+famille-420|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour retrouver de vieilles photos ?|Quel moment de la journée choisirais-tu pour choisir une activité en famille ?
+famille-421|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un panier de pique-nique garni pour quatre personnes ?|Dans quelle situation déciderais-tu d’acheter une grande couverture de canapé ?
+famille-422|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour organiser un pique-nique familial ?|Combien de temps te faudrait-il pour répartir les tâches d’une fête ?
+famille-423|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un gâteau pour huit personnes lors d’un repas de famille ?|Dans quelle situation déciderais-tu d’acheter une boîte de 500 g de chocolats assortis ?
+famille-424|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer une soirée jeux à la maison ?|Quel créneau de la journée serait le plus pratique pour organiser un pique-nique familial ?
+famille-425|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer une surprise pour un proche ?|Qui pourrait te donner le meilleur conseil pour retrouver de vieilles photos ?
+famille-426|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une boîte de biscuits artisanaux ?|Au-delà de quel prix hésiterais-tu à acheter un coffret de thé à partager ?
+famille-427|Famille & Souvenirs|nouvelle|Comment réagirais-tu si un proche raconte pour la dixième fois la même histoire ?|Comment réagirais-tu si un enfant renverse son jus à table ?
+famille-428|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour une grande couverture de canapé ?|Quel prix imagines-tu pour un cadre photo numérique ?
+famille-429|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour un appareil photo instantané ?|Quel prix imagines-tu pour un jeu de société pour tous les âges ?
+famille-430|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un puzzle de mille pièces ?|Combien penses-tu que vaut une petite enceinte pour le salon ?
+famille-431|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour préparer un gâteau d’anniversaire ?|À qui demanderais-tu de l’aide pour appeler un grand-parent ?
+famille-432|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter un livre de recettes de famille ?|Où irais-tu pour acheter un panier de pique-nique garni pour quatre personnes ?
+famille-433|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer un gâteau d’anniversaire ?|Quel créneau de la journée serait le plus pratique pour appeler un grand-parent ?
+famille-434|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter un album photo imprimé de quarante pages ?|Pour quelle occasion voudrais-tu acheter un gâteau pour huit personnes lors d’un repas de famille ?
+famille-435|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour un set de jeux de cartes ?|Jusqu’à combien paierais-tu pour une place adulte pour un spectacle familial ?
+famille-436|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un cadre photo numérique ?|À quel endroit irais-tu pour trouver une boîte de biscuits artisanaux ?
+famille-437|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un set de jeux de cartes ?|Sur quel site ou dans quel magasin chercherais-tu une place adulte pour un spectacle familial ?
+famille-438|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un puzzle de mille pièces ?|Dans quelle situation déciderais-tu d’acheter une petite enceinte pour le salon ?
+famille-439|Famille & Souvenirs|nouvelle|Comment réagirais-tu si une discussion de famille devient tendue ?|Comment réagirais-tu si un cousin veut prolonger la soirée ?
+famille-440|Famille & Souvenirs|nouvelle|Comment répondrais-tu si un enfant renverse son jus à table ?|Comment répondrais-tu si on te demande de prendre la photo de famille ?
+famille-441|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à raconter des souvenirs d’enfance ?|Quelle personne de ton entourage pourrait t’aider à organiser une sortie intergénérationnelle ?
+famille-442|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour choisir un cadeau collectif ?|Qui pourrait te donner le meilleur conseil pour raconter des souvenirs d’enfance ?
+famille-443|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’un album photo imprimé de quarante pages ?|Selon toi, quel est le prix d’un gâteau pour huit personnes lors d’un repas de famille ?
+famille-444|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter une grande couverture de canapé ?|À quel moment aurais-tu envie d’acheter un cadre photo numérique ?
+famille-445|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un appareil photo instantané ?|Sur quel site ou dans quel magasin chercherais-tu un jeu de société pour tous les âges ?
+famille-446|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’une sortie familiale au musée pour quatre personnes ?|Selon toi, quel est le prix d’un puzzle de mille pièces ?
+famille-447|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour aider un proche à déménager ?|Quel serait le meilleur moment pour faire un album photo commun ?
+famille-448|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour préparer une soirée jeux à la maison ?|Combien de temps prévoirais-tu pour organiser un pique-nique familial ?
+famille-449|Famille & Souvenirs|nouvelle|Que dirais-tu si on te demande de faire un petit discours ?|Que dirais-tu si un proche t’offre un cadeau fait main ?
+famille-450|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour préparer les affaires d’un week-end en famille ?|Combien de temps te faudrait-il pour aider un proche à déménager ?
+famille-451|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour raconter des souvenirs d’enfance ?|Quel moment de la journée choisirais-tu pour organiser une sortie intergénérationnelle ?
+famille-452|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour un appareil photo instantané ?|Jusqu’à combien paierais-tu pour un jeu de société pour tous les âges ?
+famille-453|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter une boîte de biscuits artisanaux ?|Où irais-tu pour acheter un coffret de thé à partager ?
+famille-454|Famille & Souvenirs|nouvelle|Où chercherais-tu un lot de mugs assortis en premier ?|Où chercherais-tu un appareil photo instantané en premier ?
+famille-455|Famille & Souvenirs|nouvelle|À quelle fréquence aimerais-tu choisir une activité en famille ?|À quelle fréquence aimerais-tu préparer un déjeuner du dimanche ?
+famille-456|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour choisir une activité en famille ?|À qui demanderais-tu de l’aide pour préparer un déjeuner du dimanche ?
+famille-457|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour organiser une sortie intergénérationnelle ?|À qui demanderais-tu de l’aide pour préparer les affaires d’un week-end en famille ?
+famille-458|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour une boîte de 500 g de chocolats assortis ?|Quel prix imagines-tu pour un bouquet pour un parent ?
+famille-459|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si un proche raconte pour la dixième fois la même histoire ?|Quelle phrase sortirait de ta bouche si un enfant renverse son jus à table ?
+famille-460|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour expliquer un jeu à des enfants ?|À ton avis, combien de temps faut-il pour organiser les places à table ?
+famille-461|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un gâteau pour huit personnes lors d’un repas de famille ?|Combien serais-tu prêt à dépenser pour une boîte de 500 g de chocolats assortis ?
+famille-462|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une grande couverture de canapé ?|Sur quel site ou dans quel magasin chercherais-tu un cadre photo numérique ?
+famille-463|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour organiser une sortie intergénérationnelle ?|Quel créneau de la journée serait le plus pratique pour préparer les affaires d’un week-end en famille ?
+famille-464|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si on te confie l’organisation du repas ?|Quelle serait ta première réaction si un enfant veut jouer alors que tu es fatigué ?
+famille-465|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à organiser les places à table ?|Quelle personne de ton entourage pourrait t’aider à préparer un gâteau d’anniversaire ?
+famille-466|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter un appareil photo instantané ?|À quel moment aurais-tu envie d’acheter un jeu de société pour tous les âges ?
+famille-467|Famille & Souvenirs|nouvelle|Comment répondrais-tu si un membre de la famille arrive très en retard ?|Comment répondrais-tu si on te confie l’organisation du repas ?
+famille-468|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si deux générations ne sont pas d’accord sur la musique ?|Quelle serait ta première réaction si tu oublies l’anniversaire d’un cousin ?
+famille-469|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour faire un album photo commun ?|Quel moment de la journée choisirais-tu pour préparer une soirée jeux à la maison ?
+famille-470|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à préparer les affaires d’un week-end en famille ?|Qui contacterais-tu pour t’aider à aider un proche à déménager ?
+famille-471|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un livre de recettes de famille ?|Au-delà de quel prix hésiterais-tu à acheter un panier de pique-nique garni pour quatre personnes ?
+famille-472|Famille & Souvenirs|nouvelle|Que dirais-tu si un parent te demande de l’aider avec son téléphone ?|Que dirais-tu si une discussion de famille devient tendue ?
+famille-473|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une petite enceinte pour le salon ?|Sur quel site ou dans quel magasin chercherais-tu un appareil à raclette ?
+famille-474|Famille & Souvenirs|nouvelle|Que dirais-tu si un enfant veut jouer alors que tu es fatigué ?|Que dirais-tu si on te demande ton avis sur un cadeau ?
+famille-475|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’une boîte de biscuits artisanaux ?|Selon toi, quel est le prix d’un coffret de thé à partager ?
+famille-476|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un cadre photo numérique ?|À ton avis, combien coûte une boîte de biscuits artisanaux ?
+famille-477|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour organiser les places à table ?|Quel moment de la journée choisirais-tu pour préparer un gâteau d’anniversaire ?
+famille-478|Famille & Souvenirs|nouvelle|Combien de fois par an as-tu l’occasion de trouver une date pour réunir dix personnes de la famille un dimanche ?|Combien de fois par an as-tu l’occasion de préparer un repas avec plusieurs générations ?
+famille-479|Famille & Souvenirs|nouvelle|À quelle fréquence aimerais-tu préparer un gâteau d’anniversaire ?|À quelle fréquence aimerais-tu appeler un grand-parent ?
+famille-480|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un bouquet pour un parent ?|Quel budget maximal prévoirais-tu pour une sortie familiale au musée pour quatre personnes ?
+famille-481|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour une boîte de 500 g de chocolats assortis ?|Jusqu’à combien paierais-tu pour un bouquet pour un parent ?
+famille-482|Famille & Souvenirs|nouvelle|À quelle fréquence t’arrive-t-il d’aider un proche à déménager ?|À quelle fréquence t’arrive-t-il de faire un album photo commun ?
+famille-483|Famille & Souvenirs|nouvelle|Où chercherais-tu un puzzle de mille pièces en premier ?|Où chercherais-tu une petite enceinte pour le salon en premier ?
+famille-484|Famille & Souvenirs|nouvelle|Combien de fois par an as-tu l’occasion de raconter des souvenirs d’enfance ?|Combien de fois par an as-tu l’occasion d’organiser une sortie intergénérationnelle ?
+famille-485|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu retrouver de vieilles photos ?|En combien de temps pourrais-tu choisir une activité en famille ?
+famille-486|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour aider un proche à déménager ?|Qui pourrait te donner le meilleur conseil pour faire un album photo commun ?
+famille-487|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour choisir un cadeau collectif ?|À ton avis, combien de temps faut-il pour raconter des souvenirs d’enfance ?
+famille-488|Famille & Souvenirs|nouvelle|Comment répondrais-tu si un cousin veut prolonger la soirée ?|Comment répondrais-tu si tu retrouves un jouet de ton enfance ?
+famille-489|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour préparer un gâteau d’anniversaire ?|Combien de temps prévoirais-tu pour appeler un grand-parent ?
+famille-490|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si on te demande de faire un petit discours ?|Qu’est-ce que tu ferais en premier si un proche t’offre un cadeau fait main ?
+famille-491|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si un proche t’offre un cadeau fait main ?|Quelle phrase sortirait de ta bouche si un grand-parent veut t’apprendre une recette ?
+famille-492|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si un repas de famille dure beaucoup plus longtemps que prévu ?|Quelle serait ta première réaction si un parent te demande de l’aider avec son téléphone ?
+famille-493|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à trouver une date pour réunir dix personnes de la famille un dimanche ?|Quelle personne de ton entourage pourrait t’aider à préparer un repas avec plusieurs générations ?
+famille-494|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour une place adulte pour un spectacle familial ?|Quel budget maximal prévoirais-tu pour une plante à offrir à un proche ?
+famille-495|Famille & Souvenirs|nouvelle|Comment réagirais-tu si un proche t’offre un cadeau fait main ?|Comment réagirais-tu si un grand-parent veut t’apprendre une recette ?
+famille-496|Famille & Souvenirs|nouvelle|Où chercherais-tu un gâteau pour huit personnes lors d’un repas de famille en premier ?|Où chercherais-tu une boîte de 500 g de chocolats assortis en premier ?
+famille-497|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour choisir un cadeau collectif ?|Quel serait le meilleur moment pour raconter des souvenirs d’enfance ?
+famille-498|Famille & Souvenirs|nouvelle|Où irais-tu pour réserver une sortie familiale au musée pour quatre personnes ?|Où irais-tu pour acheter un puzzle de mille pièces ?
+famille-499|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour préparer une surprise pour un proche ?|À ton avis, combien de temps faut-il pour retrouver de vieilles photos ?
+famille-500|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si une discussion de famille devient tendue ?|Quelle phrase sortirait de ta bouche si un cousin veut prolonger la soirée ?
+famille-501|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour choisir une activité en famille ?|Combien de temps prévoirais-tu pour préparer un déjeuner du dimanche ?
+famille-502|Famille & Souvenirs|nouvelle|Comment réagirais-tu si on te demande ton avis sur un cadeau ?|Comment réagirais-tu si un proche t’envoie une vieille photo de toi ?
+famille-503|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un panier de pique-nique garni pour quatre personnes ?|Combien penses-tu que vaut une grande couverture de canapé ?
+famille-504|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un lot de mugs assortis ?|Combien penses-tu que vaut un appareil photo instantané ?
+famille-505|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu organiser un repas de famille ?|À quel moment de la semaine préférerais-tu préparer une surprise pour un proche ?
+famille-506|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour une petite enceinte pour le salon ?|Jusqu’à combien paierais-tu pour un appareil à raclette ?
+famille-507|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter une petite enceinte pour le salon ?|À quel moment aurais-tu envie d’acheter un appareil à raclette ?
+famille-508|Famille & Souvenirs|nouvelle|À quelle fréquence t’arrive-t-il de répartir les tâches d’une fête ?|À quelle fréquence t’arrive-t-il de trouver une date pour réunir dix personnes de la famille un dimanche ?
+famille-509|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour expliquer un jeu à des enfants ?|Qui pourrait te donner le meilleur conseil pour organiser les places à table ?
+famille-510|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver une place adulte pour un spectacle familial ?|À quel endroit irais-tu pour trouver une plante à offrir à un proche ?
+famille-511|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à préparer un déjeuner du dimanche ?|Qui contacterais-tu pour t’aider à expliquer un jeu à des enfants ?
+famille-512|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un puzzle de mille pièces ?|Combien serais-tu prêt à dépenser pour une petite enceinte pour le salon ?
+famille-513|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à retrouver de vieilles photos ?|Quelle personne de ton entourage pourrait t’aider à choisir une activité en famille ?
+famille-514|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’une plante à offrir à un proche ?|Selon toi, quel est le prix d’un lot de mugs assortis ?
+famille-515|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un bouquet pour un parent ?|Qu’est-ce qui te pousserait à réserver une sortie familiale au musée pour quatre personnes ?
+famille-516|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu préparer les affaires d’un week-end en famille ?|À quel moment de la semaine préférerais-tu aider un proche à déménager ?
+famille-517|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un appareil à raclette ?|Qu’est-ce qui te pousserait à acheter un livre de recettes de famille ?
+famille-518|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si un enfant veut jouer alors que tu es fatigué ?|Qu’est-ce que tu ferais en premier si on te demande ton avis sur un cadeau ?
+famille-519|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour préparer un déjeuner du dimanche ?|Combien de temps te faudrait-il pour expliquer un jeu à des enfants ?
+famille-520|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour organiser un repas de famille ?|Combien de temps te faudrait-il pour préparer une surprise pour un proche ?
+famille-521|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un cadre photo numérique ?|Qu’est-ce qui te pousserait à acheter une boîte de biscuits artisanaux ?
+famille-522|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si un repas de famille dure beaucoup plus longtemps que prévu ?|Qu’est-ce que tu dirais sur le moment si un parent te demande de l’aider avec son téléphone ?
+famille-523|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour aider un proche à déménager ?|À ton avis, combien de temps faut-il pour faire un album photo commun ?
+famille-524|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un appareil à raclette ?|Quel budget maximal prévoirais-tu pour un livre de recettes de famille ?
+famille-525|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un jeu de société pour tous les âges ?|Qu’est-ce qui te pousserait à acheter un album photo imprimé de quarante pages ?
+famille-526|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un coffret de thé à partager ?|Combien serais-tu prêt à dépenser pour un set de jeux de cartes ?
+famille-527|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour répartir les tâches d’une fête ?|Quel serait le meilleur moment pour trouver une date pour réunir dix personnes de la famille un dimanche ?
+famille-528|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un coffret de thé à partager ?|Dans quelle situation déciderais-tu d’acheter un set de jeux de cartes ?
+famille-529|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’un livre de recettes de famille ?|Selon toi, quel est le prix d’un panier de pique-nique garni pour quatre personnes ?
+famille-530|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si tu retrouves un jouet de ton enfance ?|Quelle serait ta première réaction si on te demande de faire un petit discours ?
+famille-531|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un lot de mugs assortis ?|Dans quelle situation déciderais-tu d’acheter un appareil photo instantané ?
+famille-532|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un panier de pique-nique garni pour quatre personnes ?|Combien serais-tu prêt à dépenser pour une grande couverture de canapé ?
+famille-533|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour expliquer un jeu à des enfants ?|Quel serait le meilleur moment pour organiser les places à table ?
+famille-534|Famille & Souvenirs|nouvelle|Comment répondrais-tu si un proche t’envoie une vieille photo de toi ?|Comment répondrais-tu si un repas de famille dure beaucoup plus longtemps que prévu ?
+famille-535|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu raconter des souvenirs d’enfance ?|En combien de temps pourrais-tu organiser une sortie intergénérationnelle ?
+famille-536|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour une petite enceinte pour le salon ?|Quel prix imagines-tu pour un appareil à raclette ?
+famille-537|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un jeu de société pour tous les âges ?|À ton avis, combien coûte un album photo imprimé de quarante pages ?
+famille-538|Famille & Souvenirs|nouvelle|Où chercherais-tu un panier de pique-nique garni pour quatre personnes en premier ?|Où chercherais-tu une grande couverture de canapé en premier ?
+famille-539|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un appareil à raclette ?|À ton avis, combien coûte un livre de recettes de famille ?
+famille-540|Famille & Souvenirs|nouvelle|Combien de fois par an as-tu l’occasion de faire un album photo commun ?|Combien de fois par an as-tu l’occasion de préparer une soirée jeux à la maison ?
+famille-541|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une plante à offrir à un proche ?|Au-delà de quel prix hésiterais-tu à acheter un lot de mugs assortis ?
+famille-542|Famille & Souvenirs|nouvelle|Combien de fois par mois as-tu l’occasion de préparer un déjeuner du dimanche ?|Combien de fois par mois as-tu l’occasion d’expliquer un jeu à des enfants ?
+famille-543|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour trouver une date pour réunir dix personnes de la famille un dimanche ?|Quel moment de la journée choisirais-tu pour préparer un repas avec plusieurs générations ?
+famille-544|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter une boîte de biscuits artisanaux ?|Pour quelle occasion voudrais-tu acheter un coffret de thé à partager ?
+famille-545|Famille & Souvenirs|nouvelle|À quelle fréquence aimerais-tu préparer un repas avec plusieurs générations ?|À quelle fréquence aimerais-tu organiser un repas de famille ?
+famille-546|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à appeler un grand-parent ?|Qui contacterais-tu pour t’aider à choisir un cadeau collectif ?
+famille-547|Famille & Souvenirs|nouvelle|À quelle fréquence aimerais-tu organiser une sortie intergénérationnelle ?|À quelle fréquence aimerais-tu préparer les affaires d’un week-end en famille ?
+famille-548|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un coffret de thé à partager ?|Combien penses-tu que vaut un set de jeux de cartes ?
+famille-549|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour une grande couverture de canapé ?|Jusqu’à combien paierais-tu pour un cadre photo numérique ?
+famille-550|Famille & Souvenirs|nouvelle|Où chercherais-tu un coffret de thé à partager en premier ?|Où chercherais-tu un set de jeux de cartes en premier ?
+famille-551|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si tu retrouves un jouet de ton enfance ?|Qu’est-ce que tu dirais sur le moment si on te demande de faire un petit discours ?
+famille-552|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si tu oublies l’anniversaire d’un cousin ?|Qu’est-ce que tu ferais en premier si un proche raconte pour la dixième fois la même histoire ?
+famille-553|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une boîte de 500 g de chocolats assortis ?|Sur quel site ou dans quel magasin chercherais-tu un bouquet pour un parent ?
+famille-554|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un album photo imprimé de quarante pages ?|Au-delà de quel prix hésiterais-tu à acheter un gâteau pour huit personnes lors d’un repas de famille ?
+famille-555|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter un album photo imprimé de quarante pages ?|Où irais-tu pour acheter un gâteau pour huit personnes lors d’un repas de famille ?
+famille-556|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour répartir les tâches d’une fête ?|Qui pourrait te donner le meilleur conseil pour trouver une date pour réunir dix personnes de la famille un dimanche ?
+famille-557|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si un enfant renverse son jus à table ?|Quel serait ton premier réflexe si on te demande de prendre la photo de famille ?
+famille-558|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu faire un album photo commun ?|En combien de temps pourrais-tu préparer une soirée jeux à la maison ?
+famille-559|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si un proche t’annonce une très bonne nouvelle ?|Quelle phrase sortirait de ta bouche si un membre de la famille arrive très en retard ?
+famille-560|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter une plante à offrir à un proche ?|Pour quelle occasion voudrais-tu acheter un lot de mugs assortis ?
+famille-561|Famille & Souvenirs|nouvelle|Comment réagirais-tu si un proche t’annonce une très bonne nouvelle ?|Comment réagirais-tu si un membre de la famille arrive très en retard ?
+famille-562|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à faire un album photo commun ?|Quelle personne de ton entourage pourrait t’aider à préparer une soirée jeux à la maison ?
+famille-563|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à organiser un pique-nique familial ?|Qui contacterais-tu pour t’aider à répartir les tâches d’une fête ?
+famille-564|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un jeu de société pour tous les âges ?|À quel endroit irais-tu pour trouver un album photo imprimé de quarante pages ?
+famille-565|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si un membre de la famille arrive très en retard ?|Quel serait ton premier réflexe si on te confie l’organisation du repas ?
+famille-566|Famille & Souvenirs|nouvelle|Combien de fois par mois as-tu l’occasion de préparer les affaires d’un week-end en famille ?|Combien de fois par mois as-tu l’occasion d’aider un proche à déménager ?
+famille-567|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir une activité en famille ?|Quel créneau de la journée serait le plus pratique pour préparer un déjeuner du dimanche ?
+famille-568|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si un parent te demande de l’aider avec son téléphone ?|Qu’est-ce que tu ferais en premier si une discussion de famille devient tendue ?
+famille-569|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour un set de jeux de cartes ?|Quel prix imagines-tu pour une place adulte pour un spectacle familial ?
+famille-570|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à organiser un repas de famille ?|Qui contacterais-tu pour t’aider à préparer une surprise pour un proche ?
+famille-571|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un bouquet pour un parent ?|À ton avis, combien coûte une sortie familiale au musée pour quatre personnes ?
+famille-572|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si on te confie l’organisation du repas ?|Qu’est-ce que tu dirais sur le moment si un enfant veut jouer alors que tu es fatigué ?
+famille-573|Famille & Souvenirs|nouvelle|À quelle fréquence aimerais-tu préparer une soirée jeux à la maison ?|À quelle fréquence aimerais-tu organiser un pique-nique familial ?
+famille-574|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si deux générations ne sont pas d’accord sur la musique ?|Qu’est-ce que tu dirais sur le moment si tu oublies l’anniversaire d’un cousin ?
+famille-575|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter une boîte de 500 g de chocolats assortis ?|À quel moment aurais-tu envie d’acheter un bouquet pour un parent ?
+famille-576|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un bouquet pour un parent ?|À quel endroit irais-tu pour trouver une sortie familiale au musée pour quatre personnes ?
+famille-577|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter un livre de recettes de famille ?|Pour quelle occasion voudrais-tu acheter un panier de pique-nique garni pour quatre personnes ?
+famille-578|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si deux personnes veulent la dernière part de gâteau ?|Qu’est-ce que tu ferais en premier si un proche t’annonce une très bonne nouvelle ?
+famille-579|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si on te demande de prendre la photo de famille ?|Qu’est-ce que tu dirais sur le moment si deux personnes veulent la dernière part de gâteau ?
+famille-580|Famille & Souvenirs|nouvelle|Comment répondrais-tu si un grand-parent veut t’apprendre une recette ?|Comment répondrais-tu si deux générations ne sont pas d’accord sur la musique ?
+famille-581|Famille & Souvenirs|nouvelle|À quelle fréquence t’arrive-t-il de choisir un cadeau collectif ?|À quelle fréquence t’arrive-t-il de raconter des souvenirs d’enfance ?
+famille-582|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu organiser les places à table ?|En combien de temps pourrais-tu préparer un gâteau d’anniversaire ?
+famille-583|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à réserver une sortie familiale au musée pour quatre personnes ?|Au-delà de quel prix hésiterais-tu à acheter un puzzle de mille pièces ?
+famille-584|Famille & Souvenirs|nouvelle|Combien de fois par mois as-tu l’occasion d’organiser un pique-nique familial ?|Combien de fois par mois as-tu l’occasion de répartir les tâches d’une fête ?
+famille-585|Famille & Souvenirs|nouvelle|À quelle fréquence t’arrive-t-il de préparer une surprise pour un proche ?|À quelle fréquence t’arrive-t-il de retrouver de vieilles photos ?
+nostalgie-022|Famille & Souvenirs|ancienne|Combien coûtait une baguette quand tu étais petit ?|Combien coûtait un paquet de bonbons quand tu étais petit ?
+nostalgie-026|Famille & Souvenirs|ancienne|Que faisais-tu le mercredi après-midi ?|Quelle activité extra-scolaire as-tu abandonnée ?
+nostalgie-029|Famille & Souvenirs|ancienne|Quel moment de l’année attendais-tu le plus enfant ?|Quel moment de l’année redoutais-tu enfant ?
+nostalgie-049|Famille & Souvenirs|ancienne|À quel âge as-tu arrêté de regarder les dessins animés ?|À quel âge as-tu eu le droit de veiller pour un film ?
+nostalgie-083|Famille & Souvenirs|ancienne|Quelles céréales mangeais-tu le matin enfant ?|Quelles céréales mangeais-tu directement dans la boîte ?
+nostalgie-084|Famille & Souvenirs|ancienne|Quel gâteau sec trempais-tu dans ton lait ?|Quel gâteau sec mangeais-tu en cachette dans le placard ?
+nostalgie-087|Famille & Souvenirs|ancienne|Quel bonbon collait aux dents ?|Quel bonbon piquait la langue ?
+nostalgie-090|Famille & Souvenirs|ancienne|Combien d’argent de poche avais-tu par semaine ?|Combien dépensais-tu en bonbons par semaine ?
+nostalgie-175|Famille & Souvenirs|ancienne|Que faisait-on en famille le dimanche après-midi ?|Que faisait-on en famille les soirs d’été ?
+nostalgie-181|Famille & Souvenirs|ancienne|Quel gâteau faisait toujours la même personne de ta famille ?|Quel gâteau achetait-on toujours chez le même pâtissier ?
+nostalgie-225|Famille & Souvenirs|ancienne|Combien coûtait une place de cinéma quand tu étais ado ?|Combien coûtait un CD neuf quand tu étais ado ?
+nostalgie-226|Famille & Souvenirs|ancienne|Combien coûtait une glace à la plage quand tu étais petit ?|Combien coûtait un tour de manège quand tu étais petit ?
+nostalgie-227|Famille & Souvenirs|ancienne|Combien coûtait ton magazine préféré enfant ?|Combien coûtait une pochette d’images à coller enfant ?
+nostalgie-228|Famille & Souvenirs|ancienne|Combien coûtait un menu au fast-food quand tu étais ado ?|Combien coûtait une pizza à partager quand tu étais ado ?
+nostalgie-229|Famille & Souvenirs|ancienne|Combien coûtait une heure de cybercafé ?|Combien coûtait la location d’une cassette vidéo ?
+nostalgie-230|Famille & Souvenirs|ancienne|Combien coûtait un ticket de bus quand tu étais ado ?|Combien coûtait un timbre quand tu étais ado ?
+nostalgie-231|Famille & Souvenirs|ancienne|Combien coûtait un croissant quand tu étais petit ?|Combien coûtait une sucette à la boulangerie quand tu étais petit ?
+nostalgie-232|Famille & Souvenirs|ancienne|Combien coûtait une console de jeux quand tu étais petit ?|Combien coûtait un vélo neuf quand tu étais petit ?
+nostalgie-277|Famille & Souvenirs|ancienne|Quelle console avais-tu enfant ?|Sur quelle console as-tu joué pour la dernière fois ?
+nostalgie-332|Famille & Souvenirs|nouvelle|Quel détail vérifierais-tu avant de retrouver une série de ton enfance ?|Quel détail vérifierais-tu avant de ranger de vieilles affaires d’école ?
+nostalgie-333|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour faire un album de souvenirs ?|À qui demanderais-tu de l’aide pour reconnaître un générique de dessin animé ?
+nostalgie-334|Famille & Souvenirs|nouvelle|Que dirais-tu si un ami ne connaît pas une vieille émission ?|Que dirais-tu si tu entends un générique de dessin animé ?
+nostalgie-335|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si tu retrouves une ancienne liste de souhaits ?|Qu’est-ce que tu dirais sur le moment si tu revois une photo de classe datant de ton année de sixième oubliée ?
+nostalgie-336|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si tu récupères une ancienne console ?|Quel serait ton premier réflexe si un souvenir d’école te revient d’un coup ?
+nostalgie-337|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si tu revois une photo de classe datant de ton année de sixième oubliée ?|Qu’est-ce que tu ferais en premier si une vieille chanson te rappelle quelqu’un ?
+nostalgie-338|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour choisir une chanson des années 2000 ?|À qui demanderais-tu de l’aide pour faire une soirée jeux rétro ?
+nostalgie-339|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu retrouver une photo de classe datant de ton année de sixième ?|À quel moment de la semaine préférerais-tu rejouer à un jeu de ton enfance ?
+nostalgie-340|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un lecteur CD d’occasion ?|Quel budget maximal prévoirais-tu pour un jeu de société des années 1990 en bon état ?
+nostalgie-341|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’une figurine de dessin animé ancien ?|Selon toi, quel est le prix d’une montre digitale rétro ?
+nostalgie-342|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour raconter une mode de ton adolescence ?|Quel serait le meilleur moment pour retrouver un vieux jouet ?
+nostalgie-343|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu reconnaître un générique de dessin animé ?|À quel moment de la semaine préférerais-tu raconter une mode de ton adolescence ?
+nostalgie-344|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour expliquer un ancien jeu à un enfant ?|Quel moment de la journée choisirais-tu pour retrouver une série de ton enfance ?
+nostalgie-345|Famille & Souvenirs|nouvelle|Quel détail vérifierais-tu avant de préparer un goûter comme autrefois ?|Quel détail vérifierais-tu avant de retrouver un ancien camarade de collège perdu de vue depuis dix ans ?
+nostalgie-346|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un appareil photo jetable ?|Combien serais-tu prêt à dépenser pour un jeu vidéo rétro d’occasion pour une ancienne console ?
+nostalgie-347|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un téléphone à clapet d’occasion ?|Sur quel site ou dans quel magasin chercherais-tu un vélo d’enfant vintage ?
+nostalgie-348|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu faire une soirée jeux rétro ?|À quel moment de la semaine préférerais-tu préparer une fête sur le thème de ton enfance ?
+nostalgie-349|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour retrouver un vieux jouet ?|Quel moment de la journée choisirais-tu pour choisir une chanson des années 2000 ?
+nostalgie-350|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter une cassette audio d’occasion en bon état ?|Dans quelle situation déciderais-tu d’acheter un téléphone à clapet d’occasion ?
+nostalgie-351|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour une montre digitale rétro ?|Combien serais-tu prêt à dépenser pour une bande dessinée de ton enfance ?
+nostalgie-352|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter un baladeur MP3 d’occasion ?|Pour quelle occasion voudrais-tu acheter un coffret de dessins animés ?
+nostalgie-353|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour une cassette audio d’occasion en bon état ?|Combien serais-tu prêt à dépenser pour un téléphone à clapet d’occasion ?
+nostalgie-354|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour faire écouter une vieille chanson ?|Qui pourrait te donner le meilleur conseil pour expliquer un ancien jeu à un enfant ?
+nostalgie-355|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si une odeur te rappelle tes vacances d’enfance ?|Quel serait ton premier réflexe si tu revoyais un ami d’enfance après dix ans ?
+nostalgie-356|Famille & Souvenirs|nouvelle|Quelle serait ta principale difficulté pour ranger de vieilles affaires d’école ?|Quelle serait ta principale difficulté pour revoir un film d’animation ancien ?
+nostalgie-357|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour un téléphone à clapet d’occasion ?|Quel prix imagines-tu pour un vélo d’enfant vintage ?
+nostalgie-358|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si tu entends un générique de dessin animé ?|Quelle phrase sortirait de ta bouche si tu récupères une ancienne console ?
+nostalgie-359|Famille & Souvenirs|nouvelle|Où chercherais-tu un appareil photo jetable en premier ?|Où chercherais-tu un jeu vidéo rétro d’occasion pour une ancienne console en premier ?
+nostalgie-360|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour rejouer à un jeu de ton enfance ?|À ton avis, combien de temps faut-il pour raconter ton premier concert ?
+nostalgie-361|Famille & Souvenirs|nouvelle|Où chercherais-tu un coffret de dessins animés en premier ?|Où chercherais-tu un paquet de dix cartes à collectionner sous licence officielle en premier ?
+nostalgie-362|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si tu retrouves une lettre reçue à dix ans ?|Quelle phrase sortirait de ta bouche si quelqu’un remet une mode de ton adolescence ?
+nostalgie-363|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter une console de jeu rétro ?|Où irais-tu pour acheter une cassette audio d’occasion en bon état ?
+nostalgie-364|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un vélo d’enfant vintage ?|À quel endroit irais-tu pour trouver une affiche publicitaire ancienne ?
+nostalgie-365|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour faire un album de souvenirs ?|Quel créneau de la journée serait le plus pratique pour reconnaître un générique de dessin animé ?
+nostalgie-366|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un lecteur DVD d’occasion ?|À quel endroit irais-tu pour trouver une figurine de dessin animé ancien ?
+nostalgie-367|Famille & Souvenirs|nouvelle|Quelle serait ta principale difficulté pour retrouver un ancien camarade de collège perdu de vue depuis dix ans ?|Quelle serait ta principale difficulté pour faire écouter une vieille chanson ?
+nostalgie-368|Famille & Souvenirs|nouvelle|Où chercherais-tu un jeu de billes en premier ?|Où chercherais-tu une boîte de bonbons d’enfance en premier ?
+nostalgie-369|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour retrouver une vieille photo de famille ?|Quel créneau de la journée serait le plus pratique pour retrouver une photo de classe datant de ton année de sixième ?
+nostalgie-370|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à retrouver ton premier téléphone ?|Quelle personne de ton entourage pourrait t’aider à faire un album de souvenirs ?
+nostalgie-371|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour rejouer à un jeu de ton enfance ?|Quel serait le meilleur moment pour raconter ton premier concert ?
+nostalgie-372|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’un baladeur MP3 d’occasion ?|Selon toi, quel est le prix d’un coffret de dessins animés ?
+nostalgie-373|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si tu retrouves une ancienne liste de souhaits ?|Quelle serait ta première réaction si tu revois une photo de classe datant de ton année de sixième oubliée ?
+nostalgie-374|Famille & Souvenirs|nouvelle|Quelle serait ta principale difficulté pour reconnaître un générique de dessin animé ?|Quelle serait ta principale difficulté pour raconter une mode de ton adolescence ?
+nostalgie-375|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter une affiche publicitaire ancienne ?|Pour quelle occasion voudrais-tu acheter un jeu de billes ?
+nostalgie-376|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu retrouver un ancien camarade de collège perdu de vue depuis dix ans ?|À quel moment de la semaine préférerais-tu faire écouter une vieille chanson ?
+nostalgie-377|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un coffret de dessins animés ?|Combien serais-tu prêt à dépenser pour un paquet de dix cartes à collectionner sous licence officielle ?
+nostalgie-378|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un paquet de dix cartes à collectionner sous licence officielle ?|Sur quel site ou dans quel magasin chercherais-tu un magazine jeunesse ancien en bon état ?
+nostalgie-379|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un magazine jeunesse ancien en bon état ?|Quel budget maximal prévoirais-tu pour une console de jeu rétro ?
+nostalgie-380|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour revoir un film d’animation ancien ?|Qui pourrait te donner le meilleur conseil pour retrouver ton premier téléphone ?
+nostalgie-381|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour faire écouter une vieille chanson ?|Quel serait le meilleur moment pour expliquer un ancien jeu à un enfant ?
+nostalgie-382|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une figurine de dessin animé ancien ?|Au-delà de quel prix hésiterais-tu à acheter une montre digitale rétro ?
+nostalgie-383|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour choisir une chanson des années 2000 ?|Combien de temps prévoirais-tu pour faire une soirée jeux rétro ?
+nostalgie-384|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour retrouver une vieille photo de famille ?|À qui demanderais-tu de l’aide pour retrouver une photo de classe datant de ton année de sixième ?
+nostalgie-385|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour retrouver une série de ton enfance ?|Combien de temps prévoirais-tu pour ranger de vieilles affaires d’école ?
+nostalgie-386|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu retrouver ton premier téléphone ?|En combien de temps pourrais-tu faire un album de souvenirs ?
+nostalgie-387|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter une affiche publicitaire ancienne ?|Où irais-tu pour acheter un jeu de billes ?
+nostalgie-388|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une boîte de bonbons d’enfance ?|Sur quel site ou dans quel magasin chercherais-tu un lecteur DVD d’occasion ?
+nostalgie-389|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter une montre digitale rétro ?|Dans quelle situation déciderais-tu d’acheter une bande dessinée de ton enfance ?
+nostalgie-390|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour rejouer à un jeu de ton enfance ?|Qui pourrait te donner le meilleur conseil pour raconter ton premier concert ?
+nostalgie-391|Famille & Souvenirs|nouvelle|Que dirais-tu si tu revois une photo de classe datant de ton année de sixième oubliée ?|Que dirais-tu si une vieille chanson te rappelle quelqu’un ?
+nostalgie-392|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter un jeu de société des années 1990 en bon état ?|Où irais-tu pour acheter un appareil photo jetable ?
+nostalgie-393|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à ranger de vieilles affaires d’école ?|Qui contacterais-tu pour t’aider à revoir un film d’animation ancien ?
+nostalgie-394|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour une bande dessinée de ton enfance ?|Quel prix imagines-tu pour un lecteur CD d’occasion ?
+nostalgie-395|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une bande dessinée de ton enfance ?|Sur quel site ou dans quel magasin chercherais-tu un lecteur CD d’occasion ?
+nostalgie-396|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si tu retrouves un jeu auquel tu jouais enfant ?|Quelle serait ta première réaction si un ami ne connaît pas une vieille émission ?
+nostalgie-397|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un jeu de billes ?|Combien penses-tu que vaut une boîte de bonbons d’enfance ?
+nostalgie-398|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter une figurine de dessin animé ancien ?|Pour quelle occasion voudrais-tu acheter une montre digitale rétro ?
+nostalgie-399|Famille & Souvenirs|nouvelle|Quel serait le point le plus important pour expliquer un ancien jeu à un enfant ?|Quel serait le point le plus important pour retrouver une série de ton enfance ?
+nostalgie-400|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour préparer un goûter comme autrefois ?|Combien de temps prévoirais-tu pour retrouver un ancien camarade de collège perdu de vue depuis dix ans ?
+nostalgie-401|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour faire un album de souvenirs ?|Combien de temps prévoirais-tu pour reconnaître un générique de dessin animé ?
+nostalgie-402|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un vélo d’enfant vintage ?|Quel budget maximal prévoirais-tu pour une affiche publicitaire ancienne ?
+nostalgie-403|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si un ami ressort un carnet de correspondance ?|Qu’est-ce que tu ferais en premier si tu retrouves un ancien journal intime ?
+nostalgie-404|Famille & Souvenirs|nouvelle|Quel serait le point le plus important pour retrouver un vieux jouet ?|Quel serait le point le plus important pour choisir une chanson des années 2000 ?
+nostalgie-405|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un magazine jeunesse ancien en bon état ?|À quel endroit irais-tu pour trouver une console de jeu rétro ?
+nostalgie-406|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour un téléphone à clapet d’occasion ?|Jusqu’à combien paierais-tu pour un vélo d’enfant vintage ?
+nostalgie-407|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à faire une soirée jeux rétro ?|Qui contacterais-tu pour t’aider à préparer une fête sur le thème de ton enfance ?
+nostalgie-408|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à retrouver un vieux jouet ?|Quelle personne de ton entourage pourrait t’aider à choisir une chanson des années 2000 ?
+nostalgie-409|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un lecteur DVD d’occasion ?|Qu’est-ce qui te pousserait à acheter une figurine de dessin animé ancien ?
+nostalgie-410|Famille & Souvenirs|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un jeu vidéo rétro d’occasion pour une ancienne console ?|Sur quel site ou dans quel magasin chercherais-tu un album de photos imprimé ?
+nostalgie-411|Famille & Souvenirs|nouvelle|Où chercherais-tu une cassette audio d’occasion en bon état en premier ?|Où chercherais-tu un téléphone à clapet d’occasion en premier ?
+nostalgie-412|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un album de photos imprimé ?|Qu’est-ce qui te pousserait à acheter un baladeur MP3 d’occasion ?
+nostalgie-413|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si un souvenir d’école te revient d’un coup ?|Quelle serait ta première réaction si un ami ressort un carnet de correspondance ?
+nostalgie-414|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour un jeu vidéo rétro d’occasion pour une ancienne console ?|Jusqu’à combien paierais-tu pour un album de photos imprimé ?
+nostalgie-415|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un lecteur CD d’occasion ?|Qu’est-ce qui te pousserait à acheter un jeu de société des années 1990 en bon état ?
+nostalgie-416|Famille & Souvenirs|nouvelle|Si tu devais préparer une fête sur le thème de ton enfance, quelle serait ta priorité ?|Si tu devais relire de vieux messages, quelle serait ta priorité ?
+nostalgie-417|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si un proche ressort une vieille vidéo de famille ?|Qu’est-ce que tu ferais en premier si tu retrouves une lettre reçue à dix ans ?
+nostalgie-418|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour retrouver une série de ton enfance ?|Quel créneau de la journée serait le plus pratique pour ranger de vieilles affaires d’école ?
+nostalgie-419|Famille & Souvenirs|nouvelle|Que dirais-tu si un ami ressort un carnet de correspondance ?|Que dirais-tu si tu retrouves un ancien journal intime ?
+nostalgie-420|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si on te montre une photo de toi adolescent ?|Quel serait ton premier réflexe si tu retrouves un jeu auquel tu jouais enfant ?
+nostalgie-421|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter un baladeur MP3 d’occasion ?|Où irais-tu pour acheter un coffret de dessins animés ?
+nostalgie-422|Famille & Souvenirs|nouvelle|Comment répondrais-tu si une odeur te rappelle tes vacances d’enfance ?|Comment répondrais-tu si tu revoyais un ami d’enfance après dix ans ?
+nostalgie-423|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter une console de jeu rétro ?|Pour quelle occasion voudrais-tu acheter une cassette audio d’occasion en bon état ?
+nostalgie-424|Famille & Souvenirs|nouvelle|Que dirais-tu si un magasin revend ton goûter préféré d’enfant ?|Que dirais-tu si tu recroises un ancien professeur ?
+nostalgie-425|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’un jeu de société des années 1990 en bon état ?|Selon toi, quel est le prix d’un appareil photo jetable ?
+nostalgie-426|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si un ami ressort une blague de collège ?|Qu’est-ce que tu dirais sur le moment si un magasin revend ton goûter préféré d’enfant ?
+nostalgie-427|Famille & Souvenirs|nouvelle|À quel moment de la semaine préférerais-tu ranger de vieilles affaires d’école ?|À quel moment de la semaine préférerais-tu revoir un film d’animation ancien ?
+nostalgie-428|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un vélo d’enfant vintage ?|Qu’est-ce qui te pousserait à acheter une affiche publicitaire ancienne ?
+nostalgie-429|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si tu revoyais un ami d’enfance après dix ans ?|Qu’est-ce que tu dirais sur le moment si un proche ressort une vieille vidéo de famille ?
+nostalgie-430|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour un jeu vidéo rétro d’occasion pour une ancienne console ?|Quel prix imagines-tu pour un album de photos imprimé ?
+nostalgie-431|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si un ami ressort une blague de collège ?|Quelle serait ta première réaction si un magasin revend ton goûter préféré d’enfant ?
+nostalgie-432|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si tu retrouves un ancien journal intime ?|Quelle phrase sortirait de ta bouche si une odeur te rappelle tes vacances d’enfance ?
+nostalgie-433|Famille & Souvenirs|nouvelle|Quel détail vérifierais-tu avant de choisir une chanson des années 2000 ?|Quel détail vérifierais-tu avant de faire une soirée jeux rétro ?
+nostalgie-434|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à expliquer un ancien jeu à un enfant ?|Quelle personne de ton entourage pourrait t’aider à retrouver une série de ton enfance ?
+nostalgie-435|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut une cassette audio d’occasion en bon état ?|Combien penses-tu que vaut un téléphone à clapet d’occasion ?
+nostalgie-436|Famille & Souvenirs|nouvelle|Comment réagirais-tu si tu retrouves un ancien journal intime ?|Comment réagirais-tu si une odeur te rappelle tes vacances d’enfance ?
+nostalgie-437|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si tu recroises un ancien professeur ?|Quelle phrase sortirait de ta bouche si on te montre une photo de toi adolescent ?
+nostalgie-438|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si tu retrouves ton premier téléphone ?|Quel serait ton premier réflexe si un ami ressort une blague de collège ?
+nostalgie-439|Famille & Souvenirs|nouvelle|Quel serait le point le plus important pour raconter ton premier concert ?|Quel serait le point le plus important pour préparer un goûter comme autrefois ?
+nostalgie-440|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter un téléphone à clapet d’occasion ?|À quel moment aurais-tu envie d’acheter un vélo d’enfant vintage ?
+nostalgie-441|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour un paquet de dix cartes à collectionner sous licence officielle ?|Jusqu’à combien paierais-tu pour un magazine jeunesse ancien en bon état ?
+nostalgie-442|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à raconter ton premier concert ?|Quelle personne de ton entourage pourrait t’aider à préparer un goûter comme autrefois ?
+nostalgie-443|Famille & Souvenirs|nouvelle|Comment réagirais-tu si tu recroises un ancien professeur ?|Comment réagirais-tu si on te montre une photo de toi adolescent ?
+nostalgie-444|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un album de photos imprimé ?|Quel budget maximal prévoirais-tu pour un baladeur MP3 d’occasion ?
+nostalgie-445|Famille & Souvenirs|nouvelle|Quel détail vérifierais-tu avant de faire un album de souvenirs ?|Quel détail vérifierais-tu avant de reconnaître un générique de dessin animé ?
+nostalgie-446|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter une bande dessinée de ton enfance ?|À quel moment aurais-tu envie d’acheter un lecteur CD d’occasion ?
+nostalgie-447|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter un jeu vidéo rétro d’occasion pour une ancienne console ?|À quel moment aurais-tu envie d’acheter un album de photos imprimé ?
+nostalgie-448|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un magazine jeunesse ancien en bon état ?|À ton avis, combien coûte une console de jeu rétro ?
+nostalgie-449|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un jeu de billes ?|Dans quelle situation déciderais-tu d’acheter une boîte de bonbons d’enfance ?
+nostalgie-450|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu relire de vieux messages ?|En combien de temps pourrais-tu retrouver une vieille photo de famille ?
+nostalgie-451|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour ranger de vieilles affaires d’école ?|Combien de temps te faudrait-il pour revoir un film d’animation ancien ?
+nostalgie-452|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un jeu de société des années 1990 en bon état ?|Au-delà de quel prix hésiterais-tu à acheter un appareil photo jetable ?
+nostalgie-453|Famille & Souvenirs|nouvelle|Où irais-tu pour acheter une figurine de dessin animé ancien ?|Où irais-tu pour acheter une montre digitale rétro ?
+nostalgie-454|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter un paquet de dix cartes à collectionner sous licence officielle ?|À quel moment aurais-tu envie d’acheter un magazine jeunesse ancien en bon état ?
+nostalgie-455|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour revoir un film d’animation ancien ?|À ton avis, combien de temps faut-il pour retrouver ton premier téléphone ?
+nostalgie-456|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour une boîte de bonbons d’enfance ?|Jusqu’à combien paierais-tu pour un lecteur DVD d’occasion ?
+nostalgie-457|Famille & Souvenirs|nouvelle|Comment réagirais-tu si tu retrouves une lettre reçue à dix ans ?|Comment réagirais-tu si quelqu’un remet une mode de ton adolescence ?
+nostalgie-458|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un album de photos imprimé ?|À quel endroit irais-tu pour trouver un baladeur MP3 d’occasion ?
+nostalgie-459|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour retrouver une série de ton enfance ?|À qui demanderais-tu de l’aide pour ranger de vieilles affaires d’école ?
+nostalgie-460|Famille & Souvenirs|nouvelle|Combien serais-tu prêt à dépenser pour un jeu de billes ?|Combien serais-tu prêt à dépenser pour une boîte de bonbons d’enfance ?
+nostalgie-461|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un coffret de dessins animés ?|Dans quelle situation déciderais-tu d’acheter un paquet de dix cartes à collectionner sous licence officielle ?
+nostalgie-462|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un lecteur DVD d’occasion ?|À ton avis, combien coûte une figurine de dessin animé ancien ?
+nostalgie-463|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour revoir un film d’animation ancien ?|Quel serait le meilleur moment pour retrouver ton premier téléphone ?
+nostalgie-464|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un coffret de dessins animés ?|Combien penses-tu que vaut un paquet de dix cartes à collectionner sous licence officielle ?
+nostalgie-465|Famille & Souvenirs|nouvelle|Si tu devais raconter une mode de ton adolescence, quelle serait ta priorité ?|Si tu devais retrouver un vieux jouet, quelle serait ta priorité ?
+nostalgie-466|Famille & Souvenirs|nouvelle|Si tu devais revoir un film d’animation ancien, quelle serait ta priorité ?|Si tu devais retrouver ton premier téléphone, quelle serait ta priorité ?
+nostalgie-467|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour retrouver une photo de classe datant de ton année de sixième ?|Combien de temps te faudrait-il pour rejouer à un jeu de ton enfance ?
+nostalgie-468|Famille & Souvenirs|nouvelle|Qu’est-ce qui te pousserait à acheter un magazine jeunesse ancien en bon état ?|Qu’est-ce qui te pousserait à acheter une console de jeu rétro ?
+nostalgie-469|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un baladeur MP3 d’occasion ?|Au-delà de quel prix hésiterais-tu à acheter un coffret de dessins animés ?
+nostalgie-470|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un vélo d’enfant vintage ?|À ton avis, combien coûte une affiche publicitaire ancienne ?
+nostalgie-471|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour raconter ton premier concert ?|Quel moment de la journée choisirais-tu pour préparer un goûter comme autrefois ?
+nostalgie-472|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour reconnaître un générique de dessin animé ?|Combien de temps te faudrait-il pour raconter une mode de ton adolescence ?
+nostalgie-473|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour raconter une mode de ton adolescence ?|Qui pourrait te donner le meilleur conseil pour retrouver un vieux jouet ?
+nostalgie-474|Famille & Souvenirs|nouvelle|Quel serait le point le plus important pour relire de vieux messages ?|Quel serait le point le plus important pour retrouver une vieille photo de famille ?
+nostalgie-475|Famille & Souvenirs|nouvelle|Dans quelle situation déciderais-tu d’acheter un appareil photo jetable ?|Dans quelle situation déciderais-tu d’acheter un jeu vidéo rétro d’occasion pour une ancienne console ?
+nostalgie-476|Famille & Souvenirs|nouvelle|À quel moment aurais-tu envie d’acheter une boîte de bonbons d’enfance ?|À quel moment aurais-tu envie d’acheter un lecteur DVD d’occasion ?
+nostalgie-477|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si un magasin revend ton goûter préféré d’enfant ?|Qu’est-ce que tu ferais en premier si tu recroises un ancien professeur ?
+nostalgie-478|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’une console de jeu rétro ?|Selon toi, quel est le prix d’une cassette audio d’occasion en bon état ?
+nostalgie-479|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir une chanson des années 2000 ?|Quel créneau de la journée serait le plus pratique pour faire une soirée jeux rétro ?
+nostalgie-480|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu expliquer un ancien jeu à un enfant ?|En combien de temps pourrais-tu retrouver une série de ton enfance ?
+nostalgie-481|Famille & Souvenirs|nouvelle|À qui demanderais-tu de l’aide pour préparer un goûter comme autrefois ?|À qui demanderais-tu de l’aide pour retrouver un ancien camarade de collège perdu de vue depuis dix ans ?
+nostalgie-482|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu retrouver un vieux jouet ?|En combien de temps pourrais-tu choisir une chanson des années 2000 ?
+nostalgie-483|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour préparer une fête sur le thème de ton enfance ?|À ton avis, combien de temps faut-il pour relire de vieux messages ?
+nostalgie-484|Famille & Souvenirs|nouvelle|Quelle serait ta principale difficulté pour retrouver une photo de classe datant de ton année de sixième ?|Quelle serait ta principale difficulté pour rejouer à un jeu de ton enfance ?
+nostalgie-485|Famille & Souvenirs|nouvelle|Jusqu’à combien paierais-tu pour une bande dessinée de ton enfance ?|Jusqu’à combien paierais-tu pour un lecteur CD d’occasion ?
+nostalgie-486|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut un appareil photo jetable ?|Combien penses-tu que vaut un jeu vidéo rétro d’occasion pour une ancienne console ?
+nostalgie-487|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une console de jeu rétro ?|Au-delà de quel prix hésiterais-tu à acheter une cassette audio d’occasion en bon état ?
+nostalgie-488|Famille & Souvenirs|nouvelle|Comment répondrais-tu si quelqu’un remet une mode de ton adolescence ?|Comment répondrais-tu si tu retrouves une ancienne liste de souhaits ?
+nostalgie-489|Famille & Souvenirs|nouvelle|Où chercherais-tu une montre digitale rétro en premier ?|Où chercherais-tu une bande dessinée de ton enfance en premier ?
+nostalgie-490|Famille & Souvenirs|nouvelle|Comment réagirais-tu si une vieille chanson te rappelle quelqu’un ?|Comment réagirais-tu si tu retrouves ton premier téléphone ?
+nostalgie-491|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à retrouver un ancien camarade de collège perdu de vue depuis dix ans ?|Qui contacterais-tu pour t’aider à faire écouter une vieille chanson ?
+nostalgie-492|Famille & Souvenirs|nouvelle|Quel budget maximal prévoirais-tu pour un lecteur DVD d’occasion ?|Quel budget maximal prévoirais-tu pour une figurine de dessin animé ancien ?
+nostalgie-493|Famille & Souvenirs|nouvelle|Si tu devais rejouer à un jeu de ton enfance, quelle serait ta priorité ?|Si tu devais raconter ton premier concert, quelle serait ta priorité ?
+nostalgie-494|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour un paquet de dix cartes à collectionner sous licence officielle ?|Quel prix imagines-tu pour un magazine jeunesse ancien en bon état ?
+nostalgie-495|Famille & Souvenirs|nouvelle|Selon toi, quel est le prix d’une affiche publicitaire ancienne ?|Selon toi, quel est le prix d’un jeu de billes ?
+nostalgie-496|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si tu retrouves un jeu auquel tu jouais enfant ?|Qu’est-ce que tu dirais sur le moment si un ami ne connaît pas une vieille émission ?
+nostalgie-497|Famille & Souvenirs|nouvelle|Quel serait ton premier réflexe si quelqu’un remet une mode de ton adolescence ?|Quel serait ton premier réflexe si tu retrouves une ancienne liste de souhaits ?
+nostalgie-498|Famille & Souvenirs|nouvelle|Si tu devais faire écouter une vieille chanson, quelle serait ta priorité ?|Si tu devais expliquer un ancien jeu à un enfant, quelle serait ta priorité ?
+nostalgie-499|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un album de photos imprimé ?|À ton avis, combien coûte un baladeur MP3 d’occasion ?
+nostalgie-500|Famille & Souvenirs|nouvelle|Quelle personne de ton entourage pourrait t’aider à relire de vieux messages ?|Quelle personne de ton entourage pourrait t’aider à retrouver une vieille photo de famille ?
+nostalgie-501|Famille & Souvenirs|nouvelle|Quelle serait ta principale difficulté pour faire une soirée jeux rétro ?|Quelle serait ta principale difficulté pour préparer une fête sur le thème de ton enfance ?
+nostalgie-502|Famille & Souvenirs|nouvelle|Comment répondrais-tu si tu récupères une ancienne console ?|Comment répondrais-tu si un souvenir d’école te revient d’un coup ?
+nostalgie-503|Famille & Souvenirs|nouvelle|À quel endroit irais-tu pour trouver un lecteur CD d’occasion ?|À quel endroit irais-tu pour trouver un jeu de société des années 1990 en bon état ?
+nostalgie-504|Famille & Souvenirs|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer un goûter comme autrefois ?|Quel créneau de la journée serait le plus pratique pour retrouver un ancien camarade de collège perdu de vue depuis dix ans ?
+nostalgie-505|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour faire écouter une vieille chanson ?|À ton avis, combien de temps faut-il pour expliquer un ancien jeu à un enfant ?
+nostalgie-506|Famille & Souvenirs|nouvelle|En combien de temps pourrais-tu raconter ton premier concert ?|En combien de temps pourrais-tu préparer un goûter comme autrefois ?
+nostalgie-507|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour faire une soirée jeux rétro ?|Combien de temps te faudrait-il pour préparer une fête sur le thème de ton enfance ?
+nostalgie-508|Famille & Souvenirs|nouvelle|Quel serait le meilleur moment pour préparer une fête sur le thème de ton enfance ?|Quel serait le meilleur moment pour relire de vieux messages ?
+nostalgie-509|Famille & Souvenirs|nouvelle|Quelle serait ta première réaction si tu revoyais un ami d’enfance après dix ans ?|Quelle serait ta première réaction si un proche ressort une vieille vidéo de famille ?
+nostalgie-510|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à retrouver une photo de classe datant de ton année de sixième ?|Qui contacterais-tu pour t’aider à rejouer à un jeu de ton enfance ?
+nostalgie-511|Famille & Souvenirs|nouvelle|Qui contacterais-tu pour t’aider à reconnaître un générique de dessin animé ?|Qui contacterais-tu pour t’aider à raconter une mode de ton adolescence ?
+nostalgie-512|Famille & Souvenirs|nouvelle|Quelle phrase sortirait de ta bouche si une vieille chanson te rappelle quelqu’un ?|Quelle phrase sortirait de ta bouche si tu retrouves ton premier téléphone ?
+nostalgie-513|Famille & Souvenirs|nouvelle|Pour quelle occasion voudrais-tu acheter un jeu de société des années 1990 en bon état ?|Pour quelle occasion voudrais-tu acheter un appareil photo jetable ?
+nostalgie-514|Famille & Souvenirs|nouvelle|À ton avis, combien coûte un lecteur CD d’occasion ?|À ton avis, combien coûte un jeu de société des années 1990 en bon état ?
+nostalgie-515|Famille & Souvenirs|nouvelle|Quel prix imagines-tu pour une boîte de bonbons d’enfance ?|Quel prix imagines-tu pour un lecteur DVD d’occasion ?
+nostalgie-516|Famille & Souvenirs|nouvelle|Qu’est-ce que tu dirais sur le moment si un souvenir d’école te revient d’un coup ?|Qu’est-ce que tu dirais sur le moment si un ami ressort un carnet de correspondance ?
+nostalgie-517|Famille & Souvenirs|nouvelle|Comment réagirais-tu si tu entends un générique de dessin animé ?|Comment réagirais-tu si tu récupères une ancienne console ?
+nostalgie-518|Famille & Souvenirs|nouvelle|Quel serait le point le plus important pour retrouver ton premier téléphone ?|Quel serait le point le plus important pour faire un album de souvenirs ?
+nostalgie-519|Famille & Souvenirs|nouvelle|Combien de temps te faudrait-il pour retrouver un ancien camarade de collège perdu de vue depuis dix ans ?|Combien de temps te faudrait-il pour faire écouter une vieille chanson ?
+nostalgie-520|Famille & Souvenirs|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une affiche publicitaire ancienne ?|Au-delà de quel prix hésiterais-tu à acheter un jeu de billes ?
+nostalgie-521|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour relire de vieux messages ?|Quel moment de la journée choisirais-tu pour retrouver une vieille photo de famille ?
+nostalgie-522|Famille & Souvenirs|nouvelle|Quel moment de la journée choisirais-tu pour retrouver ton premier téléphone ?|Quel moment de la journée choisirais-tu pour faire un album de souvenirs ?
+nostalgie-523|Famille & Souvenirs|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer une fête sur le thème de ton enfance ?|Qui pourrait te donner le meilleur conseil pour relire de vieux messages ?
+nostalgie-524|Famille & Souvenirs|nouvelle|À ton avis, combien de temps faut-il pour raconter une mode de ton adolescence ?|À ton avis, combien de temps faut-il pour retrouver un vieux jouet ?
+nostalgie-525|Famille & Souvenirs|nouvelle|Que dirais-tu si un proche ressort une vieille vidéo de famille ?|Que dirais-tu si tu retrouves une lettre reçue à dix ans ?
+nostalgie-526|Famille & Souvenirs|nouvelle|Combien penses-tu que vaut une montre digitale rétro ?|Combien penses-tu que vaut une bande dessinée de ton enfance ?
+nostalgie-527|Famille & Souvenirs|nouvelle|Combien de temps prévoirais-tu pour retrouver une vieille photo de famille ?|Combien de temps prévoirais-tu pour retrouver une photo de classe datant de ton année de sixième ?
+nostalgie-528|Famille & Souvenirs|nouvelle|Quel détail vérifierais-tu avant de retrouver une vieille photo de famille ?|Quel détail vérifierais-tu avant de retrouver une photo de classe datant de ton année de sixième ?
+nostalgie-529|Famille & Souvenirs|nouvelle|Comment répondrais-tu si tu retrouves ton premier téléphone ?|Comment répondrais-tu si un ami ressort une blague de collège ?
+nostalgie-530|Famille & Souvenirs|nouvelle|Qu’est-ce que tu ferais en premier si un ami ne connaît pas une vieille émission ?|Qu’est-ce que tu ferais en premier si tu entends un générique de dessin animé ?
+nostalgie-531|Famille & Souvenirs|nouvelle|Comment répondrais-tu si on te montre une photo de toi adolescent ?|Comment répondrais-tu si tu retrouves un jeu auquel tu jouais enfant ?
+galeres-debrouille-001|Vie d'adulte|nouvelle|Que dirais-tu si ton train était supprimé alors que tu as un rendez-vous important ?|Quelle serait ta première phrase si une borne de parking avalait ton ticket juste avant de sortir ?
+galeres-debrouille-002|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si tu oubliais ton portefeuille à la maison en arrivant au restaurant ?|Que ferais-tu en premier si le pneu de ton vélo se dégonflait sur le trajet du travail ?
+galeres-debrouille-003|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si tu restais bloqué dehors sans tes clés ?|Qui appellerais-tu en priorité si une vitre de ton logement était cassée par le vent ?
+galeres-debrouille-004|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si tu tombais en panne de batterie de téléphone en randonnée ?|Quel accessoire voudrais-tu avoir sous la main si la fermeture de ta valise se bloquait ?
+galeres-debrouille-005|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si le bus annoncé dans cinq minutes n’arrivait pas ?|Au bout de combien de temps chercherais-tu une autre solution si un colis prioritaire restait bloqué en centre de tri ?
+galeres-debrouille-006|Vie d'adulte|nouvelle|Où irais-tu en premier si tu perdais ton chargeur dans une ville inconnue ?|Dans quel endroit chercherais-tu une solution si la batterie de ton téléphone était vide en gare ?
+galeres-debrouille-007|Vie d'adulte|nouvelle|Quelle option choisirais-tu si tu ratais le dernier train pour rentrer chez toi ?|Comment te débrouillerais-tu si le spectacle auquel tu assistais était reporté d’une semaine ?
+galeres-debrouille-008|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter d’oublier ton passeport avant un départ international ?|Comment t’organiserais-tu afin d’éviter de te retrouver sans parapluie pendant une visite ?
+galeres-debrouille-009|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour remplacer un téléphone cassé en voyage ?|Combien d’euros garderais-tu de côté afin de gérer réparer un lave-linge qui fuit ?
+galeres-debrouille-010|Vie d'adulte|nouvelle|Quelle serait ta réaction si tu trouvais un billet de train coincé sous un siège après l’avoir cherché partout ?|Comment réagirais-tu si un conducteur s’arrêtait pour t’aider avec un pneu crevé ?
+galeres-debrouille-011|Vie d'adulte|nouvelle|Que dirais-tu si un taxi t’emmenait à la mauvaise adresse ?|Quelle serait ta première phrase si le voisin du dessus faisait du bruit à trois heures du matin ?
+galeres-debrouille-012|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si la batterie de ta voiture tombait à plat dans un parking ?|Que ferais-tu en premier si la fermeture de ta valise cassait à l’aéroport ?
+galeres-debrouille-013|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si le moteur de ta voiture ne démarrait plus ?|Qui appellerais-tu en priorité si le chauffage cessait de fonctionner en décembre ?
+galeres-debrouille-014|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si une fermeture de sac cassait en pleine rue ?|Quel accessoire voudrais-tu avoir sous la main si la chambre d’hôtel avait trop peu de prises électriques ?
+galeres-debrouille-015|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si un restaurant tardait à préparer une commande à emporter ?|Au bout de combien de temps chercherais-tu une autre solution si la borne de recharge d’un véhicule électrique ne démarrait pas ?
+galeres-debrouille-016|Vie d'adulte|nouvelle|Où irais-tu en premier si tu avais besoin d’imprimer un document un dimanche ?|Dans quel endroit chercherais-tu une solution si tu avais besoin de faire scanner un document important ?
+galeres-debrouille-017|Vie d'adulte|nouvelle|Quelle option choisirais-tu si le restaurant prévu pour ton anniversaire était fermé ?|Comment te débrouillerais-tu si une grève interrompait ton trajet habituel jusqu’au bureau ?
+galeres-debrouille-018|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter de perdre tes clés pendant un festival ?|Comment t’organiserais-tu afin d’éviter que ta valise dépasse le poids autorisé ?
+galeres-debrouille-019|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour passer une nuit d’hôtel imprévue après un train annulé ?|Combien d’euros garderais-tu de côté afin de gérer faire remplacer l’écran d’un ordinateur portable ?
+galeres-debrouille-020|Vie d'adulte|nouvelle|Quelle serait ta réaction si un inconnu retrouvait ton portefeuille et te le rendait ?|Comment réagirais-tu si la SNCF te proposait un taxi après l’annulation du dernier train ?
+galeres-debrouille-021|Vie d'adulte|nouvelle|Que dirais-tu si la porte de ton appartement claquait avec les clés dedans ?|Quelle serait ta première phrase si un vendeur t’annonçait que la réparation prendra trois semaines ?
+galeres-debrouille-022|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si le tuyau sous ton évier commençait à fuir ?|Que ferais-tu en premier si le frigo tombait en panne en plein mois d’août ?
+galeres-debrouille-023|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si l’évier de ta cuisine se bouchait complètement ?|Qui appellerais-tu en priorité si un site marchand débitait ton compte deux fois ?
+galeres-debrouille-024|Vie d'adulte|nouvelle|Quel objet pourrait te sauver s’il pleuvait pendant une sortie sans abri ?|Quel accessoire voudrais-tu avoir sous la main si un meuble monté à moitié devait être démonté ?
+galeres-debrouille-025|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si un chauffeur VTC restait immobile sur l’application ?|Au bout de combien de temps chercherais-tu une autre solution si le lave-vaisselle restait bloqué sur le même programme ?
+galeres-debrouille-026|Vie d'adulte|nouvelle|Où irais-tu en premier si le pneu de ton vélo était crevé loin de chez toi ?|Dans quel endroit chercherais-tu une solution si tu cherchais une valise après avoir cassé la tienne ?
+galeres-debrouille-027|Vie d'adulte|nouvelle|Quelle option choisirais-tu si la voiture louée tombait en panne à cent kilomètres de l’hôtel ?|Comment te débrouillerais-tu si la plage où tu voulais aller était fermée ?
+galeres-debrouille-028|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter de te retrouver sans batterie en randonnée ?|Comment t’organiserais-tu afin d’éviter de tomber à court de carburant sur l’autoroute ?
+galeres-debrouille-029|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour faire dépanner une voiture sur l’autoroute ?|Combien d’euros garderais-tu de côté afin de gérer payer un trajet de retour après une grève ?
+galeres-debrouille-030|Vie d'adulte|nouvelle|Quelle serait ta réaction si un voisin réparait ta fuite d’eau avant l’arrivée du plombier ?|Comment réagirais-tu si un hôtel t’offrait le petit-déjeuner après un problème de chambre ?
+galeres-debrouille-031|Vie d'adulte|nouvelle|Que dirais-tu si tu découvrais un énorme embouteillage sur la route des vacances ?|Quelle serait ta première phrase si un ami oubliait ton sac dans un bus ?
+galeres-debrouille-032|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si une clé se cassait dans la serrure de ta porte ?|Que ferais-tu en premier si un colis fragile arrivait complètement écrasé ?
+galeres-debrouille-033|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si un voisin était absent pendant une fuite d’eau chez lui ?|Qui appellerais-tu en priorité si tu oubliais ton passeport à quelques jours d’un vol ?
+galeres-debrouille-034|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si la semelle de tes baskets commençait à se décoller ?|Quel accessoire voudrais-tu avoir sous la main si une pluie soudaine trempait ton sac en toile ?
+galeres-debrouille-035|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si un ami avait vingt minutes de retard sans répondre ?|Au bout de combien de temps chercherais-tu une autre solution si un train régional était annoncé en retard sans estimation ?
+galeres-debrouille-036|Vie d'adulte|nouvelle|Où irais-tu en premier si tu devais acheter un parapluie pendant une averse ?|Dans quel endroit chercherais-tu une solution si tu devais acheter une ampoule tard le soir ?
+galeres-debrouille-037|Vie d'adulte|nouvelle|Quelle option choisirais-tu si un orage annulait le pique-nique de ton groupe ?|Comment te débrouillerais-tu si le gâteau commandé pour une fête n’était pas prêt ?
+galeres-debrouille-038|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter de confondre deux réservations d’hôtel ?|Comment t’organiserais-tu afin d’éviter d’oublier de sauvegarder les photos de tes vacances ?
+galeres-debrouille-039|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour changer deux pneus abîmés sur ta voiture ?|Combien d’euros garderais-tu de côté afin de gérer acheter des vêtements de première nécessité sans bagage ?
+galeres-debrouille-040|Vie d'adulte|nouvelle|Quelle serait ta réaction si un serveur t’apportait gratuitement un plat après une erreur ?|Comment réagirais-tu si une caissière repérait une erreur en ta faveur et la corrigeait ?
+galeres-debrouille-041|Vie d'adulte|nouvelle|Que dirais-tu si le restaurant avait perdu ta réservation pour huit personnes ?|Quelle serait ta première phrase si la carte de ton hôtel ne fonctionnait plus en pleine nuit ?
+galeres-debrouille-042|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si tu ratais ta correspondance après un retard de train ?|Que ferais-tu en premier si un billet de concert disparaissait de ton application ?
+galeres-debrouille-043|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si tu avais perdu ta carte bancaire en vacances ?|Qui appellerais-tu en priorité si un colis important était livré à la mauvaise adresse ?
+galeres-debrouille-044|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si un bouton se détachait de ta chemise avant un entretien ?|Quel accessoire voudrais-tu avoir sous la main si une chaussure te faisait une ampoule pendant une visite ?
+galeres-debrouille-045|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si le service client te laissait en attente au téléphone ?|Au bout de combien de temps chercherais-tu une autre solution si un serveur ne venait pas prendre ta commande ?
+galeres-debrouille-046|Vie d'adulte|nouvelle|Où irais-tu en premier si tu cherchais des piles pour une télécommande le soir ?|Dans quel endroit chercherais-tu une solution si un tuyau de douche cassait en plein week-end ?
+galeres-debrouille-047|Vie d'adulte|nouvelle|Quelle option choisirais-tu si le logement réservé était inaccessible le jour de l’arrivée ?|Comment te débrouillerais-tu si un magasin n’avait plus le cadeau que tu cherchais ?
+galeres-debrouille-048|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter d’oublier un médicament indispensable pendant un voyage ?|Comment t’organiserais-tu afin d’éviter de te tromper d’adresse pour un rendez-vous important ?
+galeres-debrouille-049|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour réserver un taxi en urgence pour l’aéroport ?|Combien d’euros garderais-tu de côté afin de gérer remplacer une paire de lunettes cassée ?
+galeres-debrouille-050|Vie d'adulte|nouvelle|Quelle serait ta réaction si le service client remboursait immédiatement un colis perdu ?|Comment réagirais-tu si un inconnu te prêtait son chargeur à l’aéroport ?
+galeres-debrouille-051|Vie d'adulte|nouvelle|Que dirais-tu si un livreur marquait ton colis livré alors que tu n’as rien reçu ?|Quelle serait ta première phrase si le garagiste t’appelait pour annoncer une panne plus importante ?
+galeres-debrouille-052|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si tu perdais ton téléphone dans un centre commercial ?|Que ferais-tu en premier si le GPS cessait de fonctionner dans une ville inconnue ?
+galeres-debrouille-053|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si un gros meuble ne passait pas dans l’escalier ?|Qui appellerais-tu en priorité si la batterie de ton téléphone gonflait anormalement ?
+galeres-debrouille-054|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si la lumière s’éteignait dans une cave ?|Quel accessoire voudrais-tu avoir sous la main si une poignée de sac se détachait dans le métro ?
+galeres-debrouille-055|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si l’eau chaude ne revenait pas après une panne ?|Au bout de combien de temps chercherais-tu une autre solution si la file d’attente d’une attraction avançait très lentement ?
+galeres-debrouille-056|Vie d'adulte|nouvelle|Où irais-tu en premier si tu avais oublié ton nécessaire de toilette à l’hôtel ?|Dans quel endroit chercherais-tu une solution si tu cherchais un adaptateur de prise à l’étranger ?
+galeres-debrouille-057|Vie d'adulte|nouvelle|Quelle option choisirais-tu si ton ordinateur tombait en panne la veille d’un rendu ?|Comment te débrouillerais-tu si les billets pour un match étaient vendus au mauvais nom ?
+galeres-debrouille-058|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter de te retrouver sans espèces dans un marché local ?|Comment t’organiserais-tu afin d’éviter que ton vélo soit volé devant un magasin ?
+galeres-debrouille-059|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour faire ouvrir une porte claquée par un serrurier ?|Combien d’euros garderais-tu de côté afin de gérer faire réparer une fuite d’eau un dimanche ?
+galeres-debrouille-060|Vie d'adulte|nouvelle|Quelle serait ta réaction si un chauffeur faisait un détour pour te rendre ton téléphone oublié ?|Comment réagirais-tu si un livreur revenait spécialement pour te remettre un colis ?
+galeres-debrouille-061|Vie d'adulte|nouvelle|Que dirais-tu si l’hôtel annonçait ne pas retrouver ta réservation ?|Quelle serait ta première phrase si la caisse automatique comptait deux fois ton article ?
+galeres-debrouille-062|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si l’électricité sautait pendant que tu cuisinais ?|Que ferais-tu en premier si la semelle de ta chaussure se décollait avant une cérémonie ?
+galeres-debrouille-063|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si tu te retrouvais sans Internet la veille d’un examen ?|Qui appellerais-tu en priorité si un ascenseur s’arrêtait entre deux étages ?
+galeres-debrouille-064|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si un câble de chargement cessait de fonctionner en voyage ?|Quel accessoire voudrais-tu avoir sous la main si le soleil tapait très fort pendant une file d’attente ?
+galeres-debrouille-065|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si un hôtel tardait à préparer ta chambre après l’heure prévue ?|Au bout de combien de temps chercherais-tu une autre solution si le Wi-Fi d’un café ne fonctionnait pas ?
+galeres-debrouille-066|Vie d'adulte|nouvelle|Où irais-tu en premier si tu devais refaire une clé en urgence ?|Dans quel endroit chercherais-tu une solution si tu avais besoin d’une pharmacie de garde la nuit ?
+galeres-debrouille-067|Vie d'adulte|nouvelle|Quelle option choisirais-tu si les courses pour ton dîner étaient livrées avec deux heures de retard ?|Comment te débrouillerais-tu si une coupure de courant empêchait de cuisiner le dîner ?
+galeres-debrouille-068|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter de manquer une correspondance de train serrée ?|Comment t’organiserais-tu afin d’éviter de partir en camping sans matériel de pluie ?
+galeres-debrouille-069|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour acheter une valise de remplacement en déplacement ?|Combien d’euros garderais-tu de côté afin de gérer changer la batterie d’une voiture ancienne ?
+galeres-debrouille-070|Vie d'adulte|nouvelle|Quelle serait ta réaction si un ami arrivait avec des outils juste quand ton meuble cassait ?|Comment réagirais-tu si un ami retrouvait tes clés dans la poche de sa veste ?
+galeres-debrouille-071|Vie d'adulte|nouvelle|Que dirais-tu si une borne de parking avalait ton ticket juste avant de sortir ?|Quelle serait ta première phrase si la location de voiture n’avait plus de véhicule disponible ?
+galeres-debrouille-072|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si un ami se blessait légèrement pendant une randonnée ?|Que ferais-tu en premier si une tache de café apparaissait sur ta chemise juste avant une réunion ?
+galeres-debrouille-073|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si la serrure de ton vélo restait bloquée ?|Qui appellerais-tu en priorité si le plafond de ton salon présentait une infiltration d’eau ?
+galeres-debrouille-074|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si la batterie de ta voiture était à plat dans une zone isolée ?|Quel accessoire voudrais-tu avoir sous la main si les moustiques envahissaient ton logement de vacances ?
+galeres-debrouille-075|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si un colis prioritaire restait bloqué en centre de tri ?|Au bout de combien de temps chercherais-tu une autre solution si un artisan attendu pour une réparation ne se présentait pas ?
+galeres-debrouille-076|Vie d'adulte|nouvelle|Où irais-tu en premier si un vêtement se déchirait juste avant une soirée ?|Dans quel endroit chercherais-tu une solution si tu devais remplacer un câble HDMI avant une présentation ?
+galeres-debrouille-077|Vie d'adulte|nouvelle|Quelle option choisirais-tu si un ami annulait son covoiturage au dernier moment ?|Comment te débrouillerais-tu si la pluie rendait impossible une randonnée programmée ?
+galeres-debrouille-078|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter de laisser tes courses fraîches trop longtemps dans la voiture ?|Comment t’organiserais-tu afin d’éviter de te retrouver sans eau lors d’une longue randonnée ?
+galeres-debrouille-079|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour réparer un lave-linge qui fuit ?|Combien d’euros garderais-tu de côté afin de gérer réserver un hébergement de dernière minute ?
+galeres-debrouille-080|Vie d'adulte|nouvelle|Quelle serait ta réaction si une personne t’aidait spontanément à monter ta valise ?|Comment réagirais-tu si un garagiste t’annonçait que la réparation était beaucoup moins chère ?
+galeres-debrouille-081|Vie d'adulte|nouvelle|Que dirais-tu si le voisin du dessus faisait du bruit à trois heures du matin ?|Quelle serait ta première phrase si le serveur renversait de l’eau sur ta veste ?
+galeres-debrouille-082|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si le pneu de ton vélo se dégonflait sur le trajet du travail ?|Que ferais-tu en premier si tu retrouvais ton pare-brise fissuré le matin ?
+galeres-debrouille-083|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si un ami se faisait une entorse pendant une sortie ?|Qui appellerais-tu en priorité si le système de réservation d’un hôtel semblait bloqué ?
+galeres-debrouille-084|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si une petite coupure survenait pendant un pique-nique ?|Quel accessoire voudrais-tu avoir sous la main si le courant coupait pendant un camping en forêt ?
+galeres-debrouille-085|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si la borne de recharge d’un véhicule électrique ne démarrait pas ?|Au bout de combien de temps chercherais-tu une autre solution si une application de taxi cherchait indéfiniment un chauffeur ?
+galeres-debrouille-086|Vie d'adulte|nouvelle|Où irais-tu en premier si la batterie de ton téléphone était vide en gare ?|Dans quel endroit chercherais-tu une solution si tu cherchais un garage ouvert un samedi après-midi ?
+galeres-debrouille-087|Vie d'adulte|nouvelle|Quelle option choisirais-tu si le musée choisi affichait complet à ton arrivée ?|Comment te débrouillerais-tu si un colis avec ta tenue de soirée n’arrivait pas ?
+galeres-debrouille-088|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter de perdre tes documents sur un ordinateur en panne ?|Comment t’organiserais-tu afin d’éviter de confondre les horaires d’une séance de spectacle ?
+galeres-debrouille-089|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour faire remplacer l’écran d’un ordinateur portable ?|Combien d’euros garderais-tu de côté afin de gérer faire réparer un vélo utilisé quotidiennement ?
+galeres-debrouille-090|Vie d'adulte|nouvelle|Quelle serait ta réaction si un conducteur s’arrêtait pour t’aider avec un pneu crevé ?|Comment réagirais-tu si un passant t’indiquait une route alternative pendant des travaux ?
+galeres-debrouille-091|Vie d'adulte|nouvelle|Que dirais-tu si un vendeur t’annonçait que la réparation prendra trois semaines ?|Quelle serait ta première phrase si un colis cadeau arrivait après la date de l’anniversaire ?
+galeres-debrouille-092|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si la fermeture de ta valise cassait à l’aéroport ?|Que ferais-tu en premier si le train démarrait alors que ton sac était resté sur le quai ?
+galeres-debrouille-093|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si une vitre de ton logement était cassée par le vent ?|Qui appellerais-tu en priorité si une panne électrique touchait uniquement ton appartement ?
+galeres-debrouille-094|Vie d'adulte|nouvelle|Quel objet pourrait te sauver si tu devais ouvrir un carton sans ciseaux ?|Quel accessoire voudrais-tu avoir sous la main si une vis se desserrait sur ton vélo en promenade ?
+galeres-debrouille-095|Vie d'adulte|nouvelle|Combien de temps patienterais-tu avant d’agir si le lave-vaisselle restait bloqué sur le même programme ?|Au bout de combien de temps chercherais-tu une autre solution si une borne de péage refusait toutes les cartes ?
+galeres-debrouille-096|Vie d'adulte|nouvelle|Où irais-tu en premier si tu avais besoin de faire scanner un document important ?|Dans quel endroit chercherais-tu une solution si tu voulais faire nettoyer une tenue tachée en urgence ?
+galeres-debrouille-097|Vie d'adulte|nouvelle|Quelle option choisirais-tu si le spectacle auquel tu assistais était reporté d’une semaine ?|Comment te débrouillerais-tu si le seul cinéma près de chez toi annulait la séance ?
+galeres-debrouille-098|Vie d'adulte|nouvelle|Quelle précaution prendrais-tu pour éviter d’oublier la date limite de retour d’un article ?|Comment t’organiserais-tu afin d’éviter de laisser un colis important dehors pendant ton absence ?
+galeres-debrouille-099|Vie d'adulte|nouvelle|Quel budget d’urgence prévoirais-tu pour payer un trajet de retour après une grève ?|Combien d’euros garderais-tu de côté afin de gérer remplacer un réfrigérateur tombé en panne ?
+galeres-debrouille-100|Vie d'adulte|nouvelle|Quelle serait ta réaction si la SNCF te proposait un taxi après l’annulation du dernier train ?|Comment réagirais-tu si la compagnie aérienne retrouvait ta valise le lendemain ?
+galeres-debrouille-101|Vie d'adulte|nouvelle|Que dirais-tu si un ami oubliait ton sac dans un bus ?|Quelle serait ta première phrase si le dernier métro fermait plus tôt que prévu ?
+galeres-debrouille-102|Vie d'adulte|nouvelle|Quel serait ton premier réflexe si le frigo tombait en panne en plein mois d’août ?|Que ferais-tu en premier si l’alarme incendie sonnait dans ton hôtel ?
+galeres-debrouille-103|Vie d'adulte|nouvelle|À qui demanderais-tu de l’aide si le chauffage cessait de fonctionner en décembre ?|Qui appellerais-tu en priorité si un bagage enregistré n’arrivait pas à destination ?

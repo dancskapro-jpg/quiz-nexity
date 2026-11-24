@@ -1,0 +1,605 @@
+sport-200|Sport|ancienne|Que cries-tu en dévalant une piste ?|Que dis-tu en haut d’une piste trop raide ?
+sport-203|Sport|ancienne|Quel sport sur glace aimerais-tu essayer ?|Quel sport sur glace est le plus beau à regarder ?
+sport-221|Sport|ancienne|Quel sport de raquette préfères-tu ?|Quel sport de raquette n’as-tu jamais essayé ?
+sport-225|Sport|ancienne|Sur 10, quel est ton niveau au ping-pong ?|Sur 10, quel est ton niveau au tennis ?
+sport-228|Sport|ancienne|Que dis-tu quand tu rates une balle facile ?|Que dis-tu quand ton adversaire réussit un coup incroyable ?
+sport-237|Sport|ancienne|Quel sport fais-tu les pieds dans le sable ?|Quel sport regardes-tu les autres faire sur la plage ?
+sport-248|Sport|ancienne|Combien de jours tiennent tes résolutions sportives de janvier ?|Combien de jours faut-il pour prendre une habitude sportive ?
+sport-283|Sport|ancienne|Combien d’étages montes-tu à pied par jour ?|Combien de marches compte ton escalier ?
+sport-289|Sport|ancienne|Combien d’heures par semaine passes-tu à regarder du sport ?|Combien d’heures par semaine passes-tu à faire du sport ?
+sport-302|Sport|ancienne|À quelle heure t’installes-tu devant la télé un soir de finale ?|À quelle heure vas-tu te coucher un soir de finale ?
+sport-304|Sport|ancienne|Quel vêtement de supporter portes-tu les jours de match ?|Quel vêtement de supporter as-tu acheté sans jamais le porter ?
+sport-314|Sport|ancienne|Combien coûte la location d’un terrain de five pour une heure (en euros) ?|Combien coûte une paire de crampons correcte (en euros) ?
+sport-611|Sport|nouvelle|Jusqu’à combien paierais-tu pour un cours collectif de fitness d’une heure ?|Jusqu’à combien paierais-tu pour une entrée adulte à une piscine municipale en France ?
+sport-612|Sport|nouvelle|Quel moment de la journée choisirais-tu pour récupérer après une longue marche ?|Quel moment de la journée choisirais-tu pour organiser un match entre amis ?
+sport-613|Sport|nouvelle|À quel moment aurais-tu envie d’acheter un sac de sport solide ?|À quel moment aurais-tu envie d’acheter une paire de lunettes de natation ?
+sport-614|Sport|nouvelle|Quel prix imagines-tu pour une raquette de tennis débutant ?|Quel prix imagines-tu pour un abonnement mensuel à une salle de sport ?
+sport-615|Sport|nouvelle|Combien de temps te faudrait-il pour préparer une séance de course ?|Combien de temps te faudrait-il pour t’échauffer avant un match ?
+sport-616|Sport|nouvelle|À ton avis, combien de temps faut-il pour préparer ton sac de piscine ?|À ton avis, combien de temps faut-il pour faire une séance de mobilité ?
+sport-617|Sport|nouvelle|Qui contacterais-tu pour t’aider à apprendre les règles d’un nouveau sport ?|Qui contacterais-tu pour t’aider à préparer une randonnée sportive ?
+sport-618|Sport|nouvelle|À ton avis, combien de temps faut-il pour choisir une activité pour un dimanche ?|À ton avis, combien de temps faut-il pour tester un cours de danse sportive ?
+sport-619|Sport|nouvelle|Combien de temps te faudrait-il pour apprendre les règles d’un nouveau sport ?|Combien de temps te faudrait-il pour préparer une randonnée sportive ?
+sport-620|Sport|nouvelle|Quel créneau de la journée serait le plus pratique pour faire une balade à vélo ?|Quel créneau de la journée serait le plus pratique pour organiser un tournoi amateur ?
+sport-621|Sport|nouvelle|Comment réagirais-tu si tu te trompes de salle pour un cours ?|Comment réagirais-tu si le coach annule la séance au dernier moment ?
+sport-622|Sport|nouvelle|À quel endroit irais-tu pour trouver une entrée adulte à une piscine municipale en France ?|À quel endroit irais-tu pour trouver une place pour un match de Ligue 1 en tribune latérale ?
+sport-623|Sport|nouvelle|Combien serais-tu prêt à dépenser pour une montre de course simple ?|Combien serais-tu prêt à dépenser pour un cours collectif de fitness d’une heure ?
+sport-624|Sport|nouvelle|Combien de fois par an as-tu l’occasion de préparer une course de cinq kilomètres ?|Combien de fois par an as-tu l’occasion de faire une balade à vélo ?
+sport-625|Sport|nouvelle|Combien serais-tu prêt à dépenser pour un ballon de football de qualité ?|Combien serais-tu prêt à dépenser pour une raquette de tennis débutant ?
+sport-626|Sport|nouvelle|Jusqu’à combien paierais-tu pour un coupe-vent pour courir ?|Jusqu’à combien paierais-tu pour une paire de chaussures de running ?
+sport-627|Sport|nouvelle|À ton avis, combien de temps faut-il pour t’échauffer avant un match ?|À ton avis, combien de temps faut-il pour récupérer après une longue marche ?
+sport-628|Sport|nouvelle|Combien de fois par an as-tu l’occasion de trouver une séance de sport d’une heure à deux ?|Combien de fois par an as-tu l’occasion de choisir tes chaussures de sport ?
+sport-629|Sport|nouvelle|Que dirais-tu si tu rates un tir facile devant tes amis ?|Que dirais-tu si un ami te défie dans son sport favori ?
+sport-630|Sport|nouvelle|À quel endroit irais-tu pour trouver une paire de chaussures de running ?|À quel endroit irais-tu pour trouver un tapis de yoga antidérapant ?
+sport-631|Sport|nouvelle|À ton avis, combien coûte un panier de basket extérieur ?|À ton avis, combien coûte un tapis de gymnastique ?
+sport-632|Sport|nouvelle|Quel moment de la journée choisirais-tu pour préparer une course de cinq kilomètres ?|Quel moment de la journée choisirais-tu pour faire une balade à vélo ?
+sport-633|Sport|nouvelle|Qu’est-ce qui te pousserait à acheter une paire de chaussures de running ?|Qu’est-ce qui te pousserait à acheter un tapis de yoga antidérapant ?
+sport-634|Sport|nouvelle|Pour quelle occasion voudrais-tu acheter une place pour un match de Ligue 1 en tribune latérale ?|Pour quelle occasion voudrais-tu acheter un bon casque de vélo ?
+sport-635|Sport|nouvelle|Comment réagirais-tu si tu bats ton record personnel ?|Comment réagirais-tu si un ami veut arrêter le match à la mi-temps ?
+sport-636|Sport|nouvelle|Dans quelle situation déciderais-tu d’acheter une corde à sauter résistante ?|Dans quelle situation déciderais-tu d’acheter un coupe-vent pour courir ?
+sport-637|Sport|nouvelle|Quel budget maximal prévoirais-tu pour un abonnement mensuel à une salle de sport ?|Quel budget maximal prévoirais-tu pour un maillot de sport officiel ?
+sport-638|Sport|nouvelle|Où irais-tu pour acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Où irais-tu pour acheter une montre de course simple ?
+sport-639|Sport|nouvelle|À quel moment de la semaine préférerais-tu organiser un tournoi amateur ?|À quel moment de la semaine préférerais-tu choisir une activité pour un dimanche ?
+sport-640|Sport|nouvelle|À qui demanderais-tu de l’aide pour faire une séance d’étirements ?|À qui demanderais-tu de l’aide pour préparer une séance de course ?
+sport-641|Sport|nouvelle|Quelle phrase sortirait de ta bouche si un ami te défie dans son sport favori ?|Quelle phrase sortirait de ta bouche si la pluie commence juste avant un match ?
+sport-642|Sport|nouvelle|Qu’est-ce que tu ferais en premier si tu perds la balle dès le début du match ?|Qu’est-ce que tu ferais en premier si une salle de sport augmente son tarif ?
+sport-643|Sport|nouvelle|Qu’est-ce qui te pousserait à acheter un abonnement mensuel à une salle de sport ?|Qu’est-ce qui te pousserait à acheter un maillot de sport officiel ?
+sport-644|Sport|nouvelle|À quelle fréquence aimerais-tu apprendre un nouveau mouvement technique ?|À quelle fréquence aimerais-tu réserver un terrain de basket public près de chez toi ?
+sport-645|Sport|nouvelle|Combien de fois par mois as-tu l’occasion d’apprendre les règles d’un nouveau sport ?|Combien de fois par mois as-tu l’occasion de préparer une randonnée sportive ?
+sport-646|Sport|nouvelle|Combien de temps te faudrait-il pour réserver un terrain de basket public près de chez toi ?|Combien de temps te faudrait-il pour trouver un partenaire de tennis pour une partie d’une heure ?
+sport-647|Sport|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un coupe-vent pour courir ?|Sur quel site ou dans quel magasin chercherais-tu une paire de chaussures de running ?
+sport-648|Sport|nouvelle|À ton avis, combien coûte une paire de chaussures de running ?|À ton avis, combien coûte un tapis de yoga antidérapant ?
+sport-649|Sport|nouvelle|Dans quelle situation déciderais-tu d’acheter un ballon de football de qualité ?|Dans quelle situation déciderais-tu d’acheter une raquette de tennis débutant ?
+sport-650|Sport|nouvelle|Comment réagirais-tu si un ami te défie dans son sport favori ?|Comment réagirais-tu si la pluie commence juste avant un match ?
+sport-651|Sport|nouvelle|Combien de temps prévoirais-tu pour apprendre un nouveau mouvement technique ?|Combien de temps prévoirais-tu pour réserver un terrain de basket public près de chez toi ?
+sport-652|Sport|nouvelle|Quel créneau de la journée serait le plus pratique pour faire une séance d’étirements ?|Quel créneau de la journée serait le plus pratique pour préparer une séance de course ?
+sport-653|Sport|nouvelle|Quel prix imagines-tu pour un coupe-vent pour courir ?|Quel prix imagines-tu pour une paire de chaussures de running ?
+sport-654|Sport|nouvelle|Combien penses-tu que vaut une montre de course simple ?|Combien penses-tu que vaut un cours collectif de fitness d’une heure ?
+sport-655|Sport|nouvelle|Quel prix imagines-tu pour un sac de sport solide ?|Quel prix imagines-tu pour une paire de lunettes de natation ?
+sport-656|Sport|nouvelle|Où irais-tu pour acheter un maillot de sport officiel ?|Où irais-tu pour acheter une gourde de sport isolante ?
+sport-657|Sport|nouvelle|Combien de temps prévoirais-tu pour organiser un match entre amis ?|Combien de temps prévoirais-tu pour apprendre les règles d’un nouveau sport ?
+sport-658|Sport|nouvelle|À ton avis, combien coûte une paire de lunettes de natation ?|À ton avis, combien coûte un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+sport-659|Sport|nouvelle|En combien de temps pourrais-tu préparer une course de cinq kilomètres ?|En combien de temps pourrais-tu faire une balade à vélo ?
+sport-660|Sport|nouvelle|Combien penses-tu que vaut un bon casque de vélo ?|Combien penses-tu que vaut une paire d’haltères réglables ?
+sport-661|Sport|nouvelle|Quelle personne de ton entourage pourrait t’aider à préparer une course de cinq kilomètres ?|Quelle personne de ton entourage pourrait t’aider à faire une balade à vélo ?
+sport-662|Sport|nouvelle|À quel endroit irais-tu pour trouver un panier de basket extérieur ?|À quel endroit irais-tu pour trouver un tapis de gymnastique ?
+sport-663|Sport|nouvelle|À quel endroit irais-tu pour trouver une paire de lunettes de natation ?|À quel endroit irais-tu pour trouver un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+sport-664|Sport|nouvelle|Combien penses-tu que vaut un ballon de football de qualité ?|Combien penses-tu que vaut une raquette de tennis débutant ?
+sport-665|Sport|nouvelle|Quel serait le meilleur moment pour trouver un partenaire de tennis pour une partie d’une heure ?|Quel serait le meilleur moment pour préparer une course de cinq kilomètres ?
+sport-666|Sport|nouvelle|Selon toi, quel est le prix d’un tapis de yoga antidérapant ?|Selon toi, quel est le prix d’un ballon de football de qualité ?
+sport-667|Sport|nouvelle|Quel serait le meilleur moment pour préparer une randonnée sportive ?|Quel serait le meilleur moment pour trouver une séance de sport d’une heure à deux ?
+sport-668|Sport|nouvelle|Quelle serait ta première réaction si un ami te propose de courir à six heures ?|Quelle serait ta première réaction si tu perds la balle dès le début du match ?
+sport-669|Sport|nouvelle|Combien de temps prévoirais-tu pour faire une séance d’étirements ?|Combien de temps prévoirais-tu pour préparer une séance de course ?
+sport-670|Sport|nouvelle|Quelle phrase sortirait de ta bouche si une salle de sport augmente son tarif ?|Quelle phrase sortirait de ta bouche si tu as gagné mais ton adversaire est déçu ?
+sport-671|Sport|nouvelle|Combien de temps te faudrait-il pour planifier une semaine d’entraînement ?|Combien de temps te faudrait-il pour préparer ton sac de piscine ?
+sport-672|Sport|nouvelle|À quelle fréquence aimerais-tu faire une séance d’étirements ?|À quelle fréquence aimerais-tu préparer une séance de course ?
+sport-673|Sport|nouvelle|Combien de fois par mois as-tu l’occasion de préparer une séance de course ?|Combien de fois par mois as-tu l’occasion de t’échauffer avant un match ?
+sport-674|Sport|nouvelle|Où chercherais-tu un ballon de football de qualité en premier ?|Où chercherais-tu une raquette de tennis débutant en premier ?
+sport-675|Sport|nouvelle|Quelle serait ta première réaction si un ami refuse de faire les étirements ?|Quelle serait ta première réaction si tu rates un tir facile devant tes amis ?
+sport-676|Sport|nouvelle|Quel serait ton premier réflexe si un ami veut arrêter le match à la mi-temps ?|Quel serait ton premier réflexe si tu oublies tes chaussures de sport ?
+sport-677|Sport|nouvelle|Quel moment de la journée choisirais-tu pour trouver une séance de sport d’une heure à deux ?|Quel moment de la journée choisirais-tu pour choisir tes chaussures de sport ?
+sport-678|Sport|nouvelle|Dans quelle situation déciderais-tu d’acheter une montre de course simple ?|Dans quelle situation déciderais-tu d’acheter un cours collectif de fitness d’une heure ?
+sport-679|Sport|nouvelle|Combien serais-tu prêt à dépenser pour une gourde de sport isolante ?|Combien serais-tu prêt à dépenser pour un sac de sport solide ?
+sport-680|Sport|nouvelle|En combien de temps pourrais-tu récupérer après une longue marche ?|En combien de temps pourrais-tu organiser un match entre amis ?
+sport-681|Sport|nouvelle|Quel serait ton premier réflexe si tu as gagné mais ton adversaire est déçu ?|Quel serait ton premier réflexe si un ami refuse de faire les étirements ?
+sport-682|Sport|nouvelle|Quel moment de la journée choisirais-tu pour tester un cours de danse sportive ?|Quel moment de la journée choisirais-tu pour faire une séance d’étirements ?
+sport-683|Sport|nouvelle|Que dirais-tu si tu te retrouves dans l’équipe des débutants ?|Que dirais-tu si tu bats ton record personnel ?
+sport-684|Sport|nouvelle|Qu’est-ce que tu dirais sur le moment si un arbitre prend une décision contestée ?|Qu’est-ce que tu dirais sur le moment si tu te retrouves dans l’équipe des débutants ?
+sport-685|Sport|nouvelle|Quel budget maximal prévoirais-tu pour une paire de lunettes de natation ?|Quel budget maximal prévoirais-tu pour un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+sport-686|Sport|nouvelle|Qu’est-ce qui te pousserait à acheter un panier de basket extérieur ?|Qu’est-ce qui te pousserait à acheter un tapis de gymnastique ?
+sport-687|Sport|nouvelle|Dans quelle situation déciderais-tu d’acheter une gourde de sport isolante ?|Dans quelle situation déciderais-tu d’acheter un sac de sport solide ?
+sport-688|Sport|nouvelle|Quelle serait ta première réaction si tu oublies tes chaussures de sport ?|Quelle serait ta première réaction si le terrain réservé est déjà occupé ?
+sport-689|Sport|nouvelle|Combien de fois par an as-tu l’occasion de faire une séance de mobilité ?|Combien de fois par an as-tu l’occasion d’apprendre un nouveau mouvement technique ?
+sport-690|Sport|nouvelle|Selon toi, quel est le prix d’un tapis de gymnastique ?|Selon toi, quel est le prix d’une corde à sauter résistante ?
+sport-691|Sport|nouvelle|Quel serait le meilleur moment pour t’échauffer avant un match ?|Quel serait le meilleur moment pour récupérer après une longue marche ?
+sport-692|Sport|nouvelle|À qui demanderais-tu de l’aide pour apprendre un nouveau mouvement technique ?|À qui demanderais-tu de l’aide pour réserver un terrain de basket public près de chez toi ?
+sport-693|Sport|nouvelle|À quelle fréquence aimerais-tu organiser un match entre amis ?|À quelle fréquence aimerais-tu apprendre les règles d’un nouveau sport ?
+sport-694|Sport|nouvelle|À ton avis, combien coûte un abonnement mensuel à une salle de sport ?|À ton avis, combien coûte un maillot de sport officiel ?
+sport-695|Sport|nouvelle|Que dirais-tu si tu perds la balle dès le début du match ?|Que dirais-tu si une salle de sport augmente son tarif ?
+sport-696|Sport|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un tapis de yoga antidérapant ?|Au-delà de quel prix hésiterais-tu à acheter un ballon de football de qualité ?
+sport-697|Sport|nouvelle|À quelle fréquence t’arrive-t-il de préparer ton sac de piscine ?|À quelle fréquence t’arrive-t-il de faire une séance de mobilité ?
+sport-698|Sport|nouvelle|Quel budget maximal prévoirais-tu pour un panier de basket extérieur ?|Quel budget maximal prévoirais-tu pour un tapis de gymnastique ?
+sport-699|Sport|nouvelle|Où chercherais-tu une gourde de sport isolante en premier ?|Où chercherais-tu un sac de sport solide en premier ?
+sport-700|Sport|nouvelle|Quel moment de la journée choisirais-tu pour faire une séance de mobilité ?|Quel moment de la journée choisirais-tu pour apprendre un nouveau mouvement technique ?
+sport-701|Sport|nouvelle|Comment réagirais-tu si une salle de sport augmente son tarif ?|Comment réagirais-tu si tu as gagné mais ton adversaire est déçu ?
+sport-702|Sport|nouvelle|Pour quelle occasion voudrais-tu acheter un tapis de yoga antidérapant ?|Pour quelle occasion voudrais-tu acheter un ballon de football de qualité ?
+sport-703|Sport|nouvelle|Qu’est-ce que tu ferais en premier si tu te retrouves dans l’équipe des débutants ?|Qu’est-ce que tu ferais en premier si tu bats ton record personnel ?
+sport-704|Sport|nouvelle|Où irais-tu pour acheter un tapis de gymnastique ?|Où irais-tu pour acheter une corde à sauter résistante ?
+sport-705|Sport|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Au-delà de quel prix hésiterais-tu à acheter une montre de course simple ?
+sport-706|Sport|nouvelle|Combien penses-tu que vaut une corde à sauter résistante ?|Combien penses-tu que vaut un coupe-vent pour courir ?
+sport-707|Sport|nouvelle|Quelle serait ta première réaction si un arbitre prend une décision contestée ?|Quelle serait ta première réaction si tu te retrouves dans l’équipe des débutants ?
+sport-708|Sport|nouvelle|Qui contacterais-tu pour t’aider à organiser un tournoi amateur ?|Qui contacterais-tu pour t’aider à choisir une activité pour un dimanche ?
+sport-709|Sport|nouvelle|Comment répondrais-tu si le coach annule la séance au dernier moment ?|Comment répondrais-tu si un ami te propose de courir à six heures ?
+sport-710|Sport|nouvelle|Comment répondrais-tu si tu as gagné mais ton adversaire est déçu ?|Comment répondrais-tu si un ami refuse de faire les étirements ?
+sport-711|Sport|nouvelle|Qui contacterais-tu pour t’aider à planifier une semaine d’entraînement ?|Qui contacterais-tu pour t’aider à préparer ton sac de piscine ?
+sport-712|Sport|nouvelle|Que dirais-tu si un coéquipier critique ton niveau ?|Que dirais-tu si tu te trompes de salle pour un cours ?
+sport-713|Sport|nouvelle|Qu’est-ce que tu dirais sur le moment si un ami refuse de faire les étirements ?|Qu’est-ce que tu dirais sur le moment si tu rates un tir facile devant tes amis ?
+sport-714|Sport|nouvelle|À quelle fréquence t’arrive-t-il de choisir une activité pour un dimanche ?|À quelle fréquence t’arrive-t-il de tester un cours de danse sportive ?
+sport-715|Sport|nouvelle|Pour quelle occasion voudrais-tu acheter un tapis de gymnastique ?|Pour quelle occasion voudrais-tu acheter une corde à sauter résistante ?
+sport-716|Sport|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un sac de sport solide ?|Sur quel site ou dans quel magasin chercherais-tu une paire de lunettes de natation ?
+sport-717|Sport|nouvelle|Selon toi, quel est le prix d’un maillot de sport officiel ?|Selon toi, quel est le prix d’une gourde de sport isolante ?
+sport-718|Sport|nouvelle|À quel moment de la semaine préférerais-tu réserver un terrain de basket public près de chez toi ?|À quel moment de la semaine préférerais-tu trouver un partenaire de tennis pour une partie d’une heure ?
+sport-719|Sport|nouvelle|En combien de temps pourrais-tu tester un cours de danse sportive ?|En combien de temps pourrais-tu faire une séance d’étirements ?
+sport-720|Sport|nouvelle|Combien de fois par an as-tu l’occasion de tester un cours de danse sportive ?|Combien de fois par an as-tu l’occasion de faire une séance d’étirements ?
+sport-721|Sport|nouvelle|Qu’est-ce que tu ferais en premier si tu rates un tir facile devant tes amis ?|Qu’est-ce que tu ferais en premier si un ami te défie dans son sport favori ?
+sport-722|Sport|nouvelle|À quel moment aurais-tu envie d’acheter un cours collectif de fitness d’une heure ?|À quel moment aurais-tu envie d’acheter une entrée adulte à une piscine municipale en France ?
+sport-723|Sport|nouvelle|Combien de fois par mois as-tu l’occasion de réserver un terrain de basket public près de chez toi ?|Combien de fois par mois as-tu l’occasion de trouver un partenaire de tennis pour une partie d’une heure ?
+sport-724|Sport|nouvelle|Qu’est-ce que tu ferais en premier si un coéquipier critique ton niveau ?|Qu’est-ce que tu ferais en premier si tu te trompes de salle pour un cours ?
+sport-725|Sport|nouvelle|Quelle personne de ton entourage pourrait t’aider à trouver une séance de sport d’une heure à deux ?|Quelle personne de ton entourage pourrait t’aider à choisir tes chaussures de sport ?
+sport-726|Sport|nouvelle|Quel budget maximal prévoirais-tu pour une entrée adulte à une piscine municipale en France ?|Quel budget maximal prévoirais-tu pour une place pour un match de Ligue 1 en tribune latérale ?
+sport-727|Sport|nouvelle|À quel endroit irais-tu pour trouver un abonnement mensuel à une salle de sport ?|À quel endroit irais-tu pour trouver un maillot de sport officiel ?
+sport-728|Sport|nouvelle|Qu’est-ce que tu dirais sur le moment si ton équipe gagne à la dernière minute ?|Qu’est-ce que tu dirais sur le moment si un coéquipier critique ton niveau ?
+sport-729|Sport|nouvelle|Quelle phrase sortirait de ta bouche si un sportif célèbre s’entraîne près de toi ?|Quelle phrase sortirait de ta bouche si tu découvres un nouveau sport qui te plaît ?
+sport-730|Sport|nouvelle|Comment répondrais-tu si tu découvres un nouveau sport qui te plaît ?|Comment répondrais-tu si ton équipe gagne à la dernière minute ?
+sport-731|Sport|nouvelle|Combien de fois par mois as-tu l’occasion d’organiser un tournoi amateur ?|Combien de fois par mois as-tu l’occasion de choisir une activité pour un dimanche ?
+sport-732|Sport|nouvelle|Combien de temps prévoirais-tu pour choisir tes chaussures de sport ?|Combien de temps prévoirais-tu pour planifier une semaine d’entraînement ?
+sport-733|Sport|nouvelle|Quelle phrase sortirait de ta bouche si tu bats ton record personnel ?|Quelle phrase sortirait de ta bouche si un ami veut arrêter le match à la mi-temps ?
+sport-734|Sport|nouvelle|À quelle fréquence t’arrive-t-il de t’échauffer avant un match ?|À quelle fréquence t’arrive-t-il de récupérer après une longue marche ?
+sport-735|Sport|nouvelle|Quelle personne de ton entourage pourrait t’aider à tester un cours de danse sportive ?|Quelle personne de ton entourage pourrait t’aider à faire une séance d’étirements ?
+sport-736|Sport|nouvelle|À qui demanderais-tu de l’aide pour organiser un match entre amis ?|À qui demanderais-tu de l’aide pour apprendre les règles d’un nouveau sport ?
+sport-737|Sport|nouvelle|Qu’est-ce qui te pousserait à acheter une entrée adulte à une piscine municipale en France ?|Qu’est-ce qui te pousserait à acheter une place pour un match de Ligue 1 en tribune latérale ?
+sport-738|Sport|nouvelle|Combien penses-tu que vaut une gourde de sport isolante ?|Combien penses-tu que vaut un sac de sport solide ?
+sport-739|Sport|nouvelle|Selon toi, quel est le prix d’un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Selon toi, quel est le prix d’une montre de course simple ?
+sport-740|Sport|nouvelle|Qui pourrait te donner le meilleur conseil pour trouver un partenaire de tennis pour une partie d’une heure ?|Qui pourrait te donner le meilleur conseil pour préparer une course de cinq kilomètres ?
+sport-741|Sport|nouvelle|Quel serait ton premier réflexe si le coach annule la séance au dernier moment ?|Quel serait ton premier réflexe si un ami te propose de courir à six heures ?
+sport-742|Sport|nouvelle|À quel moment aurais-tu envie d’acheter une raquette de tennis débutant ?|À quel moment aurais-tu envie d’acheter un abonnement mensuel à une salle de sport ?
+sport-743|Sport|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un maillot de sport officiel ?|Au-delà de quel prix hésiterais-tu à acheter une gourde de sport isolante ?
+sport-744|Sport|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un tapis de gymnastique ?|Au-delà de quel prix hésiterais-tu à acheter une corde à sauter résistante ?
+sport-745|Sport|nouvelle|À quelle fréquence aimerais-tu choisir tes chaussures de sport ?|À quelle fréquence aimerais-tu planifier une semaine d’entraînement ?
+sport-746|Sport|nouvelle|Quel serait le meilleur moment pour préparer ton sac de piscine ?|Quel serait le meilleur moment pour faire une séance de mobilité ?
+sport-747|Sport|nouvelle|Combien de fois par an as-tu l’occasion de récupérer après une longue marche ?|Combien de fois par an as-tu l’occasion d’organiser un match entre amis ?
+sport-748|Sport|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une paire d’haltères réglables ?|Sur quel site ou dans quel magasin chercherais-tu un panier de basket extérieur ?
+sport-749|Sport|nouvelle|Où chercherais-tu une montre de course simple en premier ?|Où chercherais-tu un cours collectif de fitness d’une heure en premier ?
+sport-750|Sport|nouvelle|Quel créneau de la journée serait le plus pratique pour apprendre un nouveau mouvement technique ?|Quel créneau de la journée serait le plus pratique pour réserver un terrain de basket public près de chez toi ?
+sport-751|Sport|nouvelle|Combien serais-tu prêt à dépenser pour une corde à sauter résistante ?|Combien serais-tu prêt à dépenser pour un coupe-vent pour courir ?
+sport-752|Sport|nouvelle|Quel créneau de la journée serait le plus pratique pour organiser un match entre amis ?|Quel créneau de la journée serait le plus pratique pour apprendre les règles d’un nouveau sport ?
+sport-753|Sport|nouvelle|À ton avis, combien de temps faut-il pour trouver un partenaire de tennis pour une partie d’une heure ?|À ton avis, combien de temps faut-il pour préparer une course de cinq kilomètres ?
+sport-754|Sport|nouvelle|À qui demanderais-tu de l’aide pour choisir tes chaussures de sport ?|À qui demanderais-tu de l’aide pour planifier une semaine d’entraînement ?
+sport-755|Sport|nouvelle|Combien serais-tu prêt à dépenser pour un bon casque de vélo ?|Combien serais-tu prêt à dépenser pour une paire d’haltères réglables ?
+sport-756|Sport|nouvelle|À quelle fréquence t’arrive-t-il de préparer une randonnée sportive ?|À quelle fréquence t’arrive-t-il de trouver une séance de sport d’une heure à deux ?
+sport-757|Sport|nouvelle|Jusqu’à combien paierais-tu pour une raquette de tennis débutant ?|Jusqu’à combien paierais-tu pour un abonnement mensuel à une salle de sport ?
+sport-758|Sport|nouvelle|Comment répondrais-tu si la pluie commence juste avant un match ?|Comment répondrais-tu si un arbitre prend une décision contestée ?
+sport-759|Sport|nouvelle|Quelle serait ta première réaction si ton équipe gagne à la dernière minute ?|Quelle serait ta première réaction si un coéquipier critique ton niveau ?
+sport-760|Sport|nouvelle|Comment répondrais-tu si un ami veut arrêter le match à la mi-temps ?|Comment répondrais-tu si tu oublies tes chaussures de sport ?
+sport-761|Sport|nouvelle|Qui contacterais-tu pour t’aider à réserver un terrain de basket public près de chez toi ?|Qui contacterais-tu pour t’aider à trouver un partenaire de tennis pour une partie d’une heure ?
+sport-762|Sport|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer une randonnée sportive ?|Qui pourrait te donner le meilleur conseil pour trouver une séance de sport d’une heure à deux ?
+sport-763|Sport|nouvelle|À ton avis, combien de temps faut-il pour préparer une randonnée sportive ?|À ton avis, combien de temps faut-il pour trouver une séance de sport d’une heure à deux ?
+sport-764|Sport|nouvelle|À quel moment aurais-tu envie d’acheter une paire d’haltères réglables ?|À quel moment aurais-tu envie d’acheter un panier de basket extérieur ?
+sport-765|Sport|nouvelle|Où chercherais-tu un bon casque de vélo en premier ?|Où chercherais-tu une paire d’haltères réglables en premier ?
+sport-766|Sport|nouvelle|Quel budget maximal prévoirais-tu pour une paire de chaussures de running ?|Quel budget maximal prévoirais-tu pour un tapis de yoga antidérapant ?
+sport-767|Sport|nouvelle|Quelle personne de ton entourage pourrait t’aider à faire une séance de mobilité ?|Quelle personne de ton entourage pourrait t’aider à apprendre un nouveau mouvement technique ?
+sport-768|Sport|nouvelle|Jusqu’à combien paierais-tu pour une paire d’haltères réglables ?|Jusqu’à combien paierais-tu pour un panier de basket extérieur ?
+sport-769|Sport|nouvelle|À quel moment de la semaine préférerais-tu planifier une semaine d’entraînement ?|À quel moment de la semaine préférerais-tu préparer ton sac de piscine ?
+sport-770|Sport|nouvelle|Quel prix imagines-tu pour un cours collectif de fitness d’une heure ?|Quel prix imagines-tu pour une entrée adulte à une piscine municipale en France ?
+sport-771|Sport|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer ton sac de piscine ?|Qui pourrait te donner le meilleur conseil pour faire une séance de mobilité ?
+sport-772|Sport|nouvelle|À ton avis, combien coûte une entrée adulte à une piscine municipale en France ?|À ton avis, combien coûte une place pour un match de Ligue 1 en tribune latérale ?
+sport-773|Sport|nouvelle|Qui contacterais-tu pour t’aider à préparer une séance de course ?|Qui contacterais-tu pour t’aider à t’échauffer avant un match ?
+sport-774|Sport|nouvelle|Combien de fois par mois as-tu l’occasion de planifier une semaine d’entraînement ?|Combien de fois par mois as-tu l’occasion de préparer ton sac de piscine ?
+sport-775|Sport|nouvelle|Quel serait ton premier réflexe si la pluie commence juste avant un match ?|Quel serait ton premier réflexe si un arbitre prend une décision contestée ?
+sport-776|Sport|nouvelle|Quelle personne de ton entourage pourrait t’aider à récupérer après une longue marche ?|Quelle personne de ton entourage pourrait t’aider à organiser un match entre amis ?
+sport-777|Sport|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir tes chaussures de sport ?|Quel créneau de la journée serait le plus pratique pour planifier une semaine d’entraînement ?
+sport-778|Sport|nouvelle|Qu’est-ce que tu ferais en premier si le terrain réservé est déjà occupé ?|Qu’est-ce que tu ferais en premier si un sportif célèbre s’entraîne près de toi ?
+sport-779|Sport|nouvelle|Qu’est-ce qui te pousserait à acheter une paire de lunettes de natation ?|Qu’est-ce qui te pousserait à acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+sport-780|Sport|nouvelle|À quel moment de la semaine préférerais-tu préparer une séance de course ?|À quel moment de la semaine préférerais-tu t’échauffer avant un match ?
+sport-781|Sport|nouvelle|À quelle fréquence aimerais-tu faire une balade à vélo ?|À quelle fréquence aimerais-tu organiser un tournoi amateur ?
+sport-782|Sport|nouvelle|Quel serait ton premier réflexe si tu découvres un nouveau sport qui te plaît ?|Quel serait ton premier réflexe si ton équipe gagne à la dernière minute ?
+sport-783|Sport|nouvelle|À quel moment aurais-tu envie d’acheter un coupe-vent pour courir ?|À quel moment aurais-tu envie d’acheter une paire de chaussures de running ?
+sport-784|Sport|nouvelle|Quelle phrase sortirait de ta bouche si tu te trompes de salle pour un cours ?|Quelle phrase sortirait de ta bouche si le coach annule la séance au dernier moment ?
+sport-785|Sport|nouvelle|Selon toi, quel est le prix d’une place pour un match de Ligue 1 en tribune latérale ?|Selon toi, quel est le prix d’un bon casque de vélo ?
+sport-786|Sport|nouvelle|Où irais-tu pour acheter un tapis de yoga antidérapant ?|Où irais-tu pour acheter un ballon de football de qualité ?
+sport-787|Sport|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un cours collectif de fitness d’une heure ?|Sur quel site ou dans quel magasin chercherais-tu une entrée adulte à une piscine municipale en France ?
+sport-788|Sport|nouvelle|Pour quelle occasion voudrais-tu acheter un maillot de sport officiel ?|Pour quelle occasion voudrais-tu acheter une gourde de sport isolante ?
+sport-789|Sport|nouvelle|Que dirais-tu si le terrain réservé est déjà occupé ?|Que dirais-tu si un sportif célèbre s’entraîne près de toi ?
+sport-790|Sport|nouvelle|À qui demanderais-tu de l’aide pour faire une balade à vélo ?|À qui demanderais-tu de l’aide pour organiser un tournoi amateur ?
+sport-791|Sport|nouvelle|Qui pourrait te donner le meilleur conseil pour choisir une activité pour un dimanche ?|Qui pourrait te donner le meilleur conseil pour tester un cours de danse sportive ?
+sport-792|Sport|nouvelle|Qui pourrait te donner le meilleur conseil pour t’échauffer avant un match ?|Qui pourrait te donner le meilleur conseil pour récupérer après une longue marche ?
+sport-793|Sport|nouvelle|Qu’est-ce que tu dirais sur le moment si un ami te propose de courir à six heures ?|Qu’est-ce que tu dirais sur le moment si tu perds la balle dès le début du match ?
+sport-794|Sport|nouvelle|Sur quel site ou dans quel magasin chercherais-tu une raquette de tennis débutant ?|Sur quel site ou dans quel magasin chercherais-tu un abonnement mensuel à une salle de sport ?
+sport-795|Sport|nouvelle|Quel serait le meilleur moment pour choisir une activité pour un dimanche ?|Quel serait le meilleur moment pour tester un cours de danse sportive ?
+sport-796|Sport|nouvelle|Combien de temps te faudrait-il pour organiser un tournoi amateur ?|Combien de temps te faudrait-il pour choisir une activité pour un dimanche ?
+sport-797|Sport|nouvelle|Jusqu’à combien paierais-tu pour un sac de sport solide ?|Jusqu’à combien paierais-tu pour une paire de lunettes de natation ?
+sport-798|Sport|nouvelle|Pour quelle occasion voudrais-tu acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Pour quelle occasion voudrais-tu acheter une montre de course simple ?
+sport-799|Sport|nouvelle|Où irais-tu pour acheter une place pour un match de Ligue 1 en tribune latérale ?|Où irais-tu pour acheter un bon casque de vélo ?
+sport-800|Sport|nouvelle|Combien de temps prévoirais-tu pour faire une balade à vélo ?|Combien de temps prévoirais-tu pour organiser un tournoi amateur ?
+sport-801|Sport|nouvelle|En combien de temps pourrais-tu faire une séance de mobilité ?|En combien de temps pourrais-tu apprendre un nouveau mouvement technique ?
+sport-802|Sport|nouvelle|Dans quelle situation déciderais-tu d’acheter un bon casque de vélo ?|Dans quelle situation déciderais-tu d’acheter une paire d’haltères réglables ?
+sport-803|Sport|nouvelle|Quel prix imagines-tu pour une paire d’haltères réglables ?|Quel prix imagines-tu pour un panier de basket extérieur ?
+sport-804|Sport|nouvelle|Qu’est-ce que tu dirais sur le moment si tu oublies tes chaussures de sport ?|Qu’est-ce que tu dirais sur le moment si le terrain réservé est déjà occupé ?
+sport-805|Sport|nouvelle|En combien de temps pourrais-tu trouver une séance de sport d’une heure à deux ?|En combien de temps pourrais-tu choisir tes chaussures de sport ?
+sport-806|Sport|nouvelle|Où chercherais-tu une corde à sauter résistante en premier ?|Où chercherais-tu un coupe-vent pour courir en premier ?
+sport-807|Sport|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une place pour un match de Ligue 1 en tribune latérale ?|Au-delà de quel prix hésiterais-tu à acheter un bon casque de vélo ?
+sport-808|Sport|nouvelle|À quel moment de la semaine préférerais-tu apprendre les règles d’un nouveau sport ?|À quel moment de la semaine préférerais-tu préparer une randonnée sportive ?
+sport-809|Sport|nouvelle|À quelle fréquence t’arrive-t-il de trouver un partenaire de tennis pour une partie d’une heure ?|À quelle fréquence t’arrive-t-il de préparer une course de cinq kilomètres ?
+sport-810|Sport|nouvelle|Comment réagirais-tu si un sportif célèbre s’entraîne près de toi ?|Comment réagirais-tu si tu découvres un nouveau sport qui te plaît ?
+transports-deplacements-001|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour une course de taxi de vingt minutes après minuit ?|Quel prix te semblerait raisonnable pour une location de citadine pour un week-end ?
+transports-deplacements-002|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un billet de TGV Paris-Lyon réservé une semaine avant ?|En euros, quel serait ton plafond pour un parking sécurisé près d'un aéroport pendant trois jours ?
+transports-deplacements-003|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour un billet d'autocar de trois heures entre deux villes ?|À partir de quel prix trouverais-tu un billet de première classe pour un trajet de deux heures trop cher ?
+transports-deplacements-004|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour un trajet de dix kilomètres en VTC un samedi soir ?|Quel prix te semblerait raisonnable pour un siège avec bagage cabine sur un vol court ?
+transports-deplacements-005|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un abonnement mensuel de métro dans une grande ville ?|En euros, quel serait ton plafond pour une navette entre l'aéroport et le centre-ville ?
+transports-deplacements-006|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour une place de parking pour six heures près d'une gare ?|À partir de quel prix trouverais-tu un abonnement annuel de vélo en libre-service trop cher ?
+transports-deplacements-007|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour une location de vélo électrique pour une journée ?|Quel prix te semblerait raisonnable pour une place de stationnement résidentiel pendant un mois ?
+transports-deplacements-008|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un trajet de vingt minutes en trottinette électrique partagée ?|En euros, quel serait ton plafond pour un nettoyage intérieur complet d'une voiture ?
+transports-deplacements-009|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour un billet de train régional pour cinquante kilomètres ?|À partir de quel prix trouverais-tu un plein d'essence pour une petite citadine trop cher ?
+transports-deplacements-010|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour une location de citadine pour un week-end ?|Quel prix te semblerait raisonnable pour une livraison de bagages entre une gare et un hôtel ?
+transports-deplacements-011|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un parking sécurisé près d'un aéroport pendant trois jours ?|En euros, quel serait ton plafond pour un transfert privé de l'aéroport à un hôtel pour deux ?
+transports-deplacements-012|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour un billet de première classe pour un trajet de deux heures ?|À partir de quel prix trouverais-tu une course de taxi de vingt minutes après minuit trop cher ?
+transports-deplacements-013|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour un siège avec bagage cabine sur un vol court ?|Quel prix te semblerait raisonnable pour un billet de TGV Paris-Lyon réservé une semaine avant ?
+transports-deplacements-014|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour une navette entre l'aéroport et le centre-ville ?|En euros, quel serait ton plafond pour un billet d'autocar de trois heures entre deux villes ?
+transports-deplacements-015|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour un abonnement annuel de vélo en libre-service ?|À partir de quel prix trouverais-tu un trajet de dix kilomètres en VTC un samedi soir trop cher ?
+transports-deplacements-016|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour une place de stationnement résidentiel pendant un mois ?|Quel prix te semblerait raisonnable pour un abonnement mensuel de métro dans une grande ville ?
+transports-deplacements-017|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un nettoyage intérieur complet d'une voiture ?|En euros, quel serait ton plafond pour une place de parking pour six heures près d'une gare ?
+transports-deplacements-018|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour un plein d'essence pour une petite citadine ?|À partir de quel prix trouverais-tu une location de vélo électrique pour une journée trop cher ?
+transports-deplacements-019|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour une livraison de bagages entre une gare et un hôtel ?|Quel prix te semblerait raisonnable pour un trajet de vingt minutes en trottinette électrique partagée ?
+transports-deplacements-020|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un transfert privé de l'aéroport à un hôtel pour deux ?|En euros, quel serait ton plafond pour un billet de train régional pour cinquante kilomètres ?
+transports-deplacements-021|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour une course de taxi de vingt minutes après minuit ?|En euros, quel serait ton plafond pour une location de citadine pour un week-end ?
+transports-deplacements-022|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour un billet de TGV Paris-Lyon réservé une semaine avant ?|À partir de quel prix trouverais-tu un parking sécurisé près d'un aéroport pendant trois jours trop cher ?
+transports-deplacements-023|Voyage & Transports|nouvelle|Quel prix maximum paierais-tu pour un billet d'autocar de trois heures entre deux villes ?|Quel prix te semblerait raisonnable pour un billet de première classe pour un trajet de deux heures ?
+transports-deplacements-024|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un trajet de dix kilomètres en VTC un samedi soir ?|En euros, quel serait ton plafond pour un siège avec bagage cabine sur un vol court ?
+transports-deplacements-025|Voyage & Transports|nouvelle|Quel budget prévoirais-tu pour un abonnement mensuel de métro dans une grande ville ?|À partir de quel prix trouverais-tu une navette entre l'aéroport et le centre-ville trop cher ?
+transports-deplacements-026|Voyage & Transports|nouvelle|Que répondrais-tu si un conducteur de taxi refusait un trajet très court ?|Comment répondrais-tu si un agent de gare annonçait trente minutes de retard supplémentaires ?
+transports-deplacements-027|Voyage & Transports|nouvelle|Quelle serait ta première phrase si quelqu'un prenait ta place réservée dans le train ?|Qu’est-ce que tu dirais si un passager te demandait son chemin dans une ville inconnue ?
+transports-deplacements-028|Voyage & Transports|nouvelle|Que dirais-tu si un passager écoutait une vidéo à plein volume dans le bus ?|Quels mots utiliserais-tu si quelqu'un doublait toute la file d'attente du bus ?
+transports-deplacements-029|Voyage & Transports|nouvelle|Que répondrais-tu si le contrôleur te demandait un billet que tu ne retrouves plus ?|Comment répondrais-tu si un ami proposait de prendre sa voiture malgré sa fatigue ?
+transports-deplacements-030|Voyage & Transports|nouvelle|Quelle serait ta première phrase si un chauffeur VTC voulait annuler après être arrivé ?|Qu’est-ce que tu dirais si un voyageur se trompait de wagon et occupait ton siège ?
+transports-deplacements-031|Voyage & Transports|nouvelle|Que dirais-tu si un passager te demandait de lui céder ta place assise ?|Quels mots utiliserais-tu si le chauffeur de bus fermait les portes juste devant toi ?
+transports-deplacements-032|Voyage & Transports|nouvelle|Que répondrais-tu si un automobiliste te klaxonnait alors que le feu est rouge ?|Comment répondrais-tu si une personne te demandait de surveiller sa valise dans le train ?
+transports-deplacements-033|Voyage & Transports|nouvelle|Quelle serait ta première phrase si un passager mettait sa valise sur le siège voisin ?|Qu’est-ce que tu dirais si un conducteur te proposait un détour non prévu par l'application ?
+transports-deplacements-034|Voyage & Transports|nouvelle|Que dirais-tu si un conducteur refusait de fermer sa fenêtre pendant un trajet ?|Quels mots utiliserais-tu si un ami disait qu'il sera encore en retard au rendez-vous ?
+transports-deplacements-035|Voyage & Transports|nouvelle|Que répondrais-tu si un agent de gare annonçait trente minutes de retard supplémentaires ?|Comment répondrais-tu si un passager te demandait de descendre plus tôt pour le laisser passer ?
+transports-deplacements-036|Voyage & Transports|nouvelle|Quelle serait ta première phrase si un passager te demandait son chemin dans une ville inconnue ?|Qu’est-ce que tu dirais si un agent te disait que ton titre de transport n'est plus valable ?
+transports-deplacements-037|Voyage & Transports|nouvelle|Que dirais-tu si quelqu'un doublait toute la file d'attente du bus ?|Quels mots utiliserais-tu si un conducteur de taxi refusait un trajet très court ?
+transports-deplacements-038|Voyage & Transports|nouvelle|Que répondrais-tu si un ami proposait de prendre sa voiture malgré sa fatigue ?|Comment répondrais-tu si quelqu'un prenait ta place réservée dans le train ?
+transports-deplacements-039|Voyage & Transports|nouvelle|Quelle serait ta première phrase si un voyageur se trompait de wagon et occupait ton siège ?|Qu’est-ce que tu dirais si un passager écoutait une vidéo à plein volume dans le bus ?
+transports-deplacements-040|Voyage & Transports|nouvelle|Que dirais-tu si le chauffeur de bus fermait les portes juste devant toi ?|Quels mots utiliserais-tu si le contrôleur te demandait un billet que tu ne retrouves plus ?
+transports-deplacements-041|Voyage & Transports|nouvelle|Que répondrais-tu si une personne te demandait de surveiller sa valise dans le train ?|Comment répondrais-tu si un chauffeur VTC voulait annuler après être arrivé ?
+transports-deplacements-042|Voyage & Transports|nouvelle|Quelle serait ta première phrase si un conducteur te proposait un détour non prévu par l'application ?|Qu’est-ce que tu dirais si un passager te demandait de lui céder ta place assise ?
+transports-deplacements-043|Voyage & Transports|nouvelle|Que dirais-tu si un ami disait qu'il sera encore en retard au rendez-vous ?|Quels mots utiliserais-tu si un automobiliste te klaxonnait alors que le feu est rouge ?
+transports-deplacements-044|Voyage & Transports|nouvelle|Que répondrais-tu si un passager te demandait de descendre plus tôt pour le laisser passer ?|Comment répondrais-tu si un passager mettait sa valise sur le siège voisin ?
+transports-deplacements-045|Voyage & Transports|nouvelle|Quelle serait ta première phrase si un agent te disait que ton titre de transport n'est plus valable ?|Qu’est-ce que tu dirais si un conducteur refusait de fermer sa fenêtre pendant un trajet ?
+transports-deplacements-046|Voyage & Transports|nouvelle|Quelle serait ta première phrase si un conducteur de taxi refusait un trajet très court ?|Qu’est-ce que tu dirais si un agent de gare annonçait trente minutes de retard supplémentaires ?
+transports-deplacements-047|Voyage & Transports|nouvelle|Que dirais-tu si quelqu'un prenait ta place réservée dans le train ?|Quels mots utiliserais-tu si un passager te demandait son chemin dans une ville inconnue ?
+transports-deplacements-048|Voyage & Transports|nouvelle|Que répondrais-tu si un passager écoutait une vidéo à plein volume dans le bus ?|Comment répondrais-tu si quelqu'un doublait toute la file d'attente du bus ?
+transports-deplacements-049|Voyage & Transports|nouvelle|Quelle serait ta première phrase si le contrôleur te demandait un billet que tu ne retrouves plus ?|Qu’est-ce que tu dirais si un ami proposait de prendre sa voiture malgré sa fatigue ?
+transports-deplacements-050|Voyage & Transports|nouvelle|Que dirais-tu si un chauffeur VTC voulait annuler après être arrivé ?|Quels mots utiliserais-tu si un voyageur se trompait de wagon et occupait ton siège ?
+transports-deplacements-051|Voyage & Transports|nouvelle|Que ferais-tu en premier si ton train était supprimé trente minutes avant le départ ?|Que déciderais-tu de faire d’abord si le chauffeur VTC annulait après dix minutes d'attente ?
+transports-deplacements-052|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si tu oubliais ton sac dans un bus ?|Comment agirais-tu en premier si tu découvrais une rayure sur ta voiture en revenant du parking ?
+transports-deplacements-053|Voyage & Transports|nouvelle|Par quoi commencerais-tu si tu arrivais à la mauvaise gare pour un départ important ?|Quelle serait ta première action si ta carte de transport cessait de fonctionner à un portique ?
+transports-deplacements-054|Voyage & Transports|nouvelle|Que ferais-tu en premier si ta voiture ne démarrait pas sur un parking de supermarché ?|Que déciderais-tu de faire d’abord si tu avais raté la correspondance pour un entretien ?
+transports-deplacements-055|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si tu constatais que le dernier métro vient de partir ?|Comment agirais-tu en premier si la station de vélos partagés était complètement vide ?
+transports-deplacements-056|Voyage & Transports|nouvelle|Par quoi commencerais-tu si ton vélo crevait en allant au travail ?|Quelle serait ta première action si la voiture de location avait un voyant d'alerte allumé ?
+transports-deplacements-057|Voyage & Transports|nouvelle|Que ferais-tu en premier si ton téléphone se déchargeait avant d'afficher ton billet électronique ?|Que déciderais-tu de faire d’abord si un bouchon imprévu ajoutait une heure à ton trajet ?
+transports-deplacements-058|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si tu te retrouvais sur le mauvais quai à cinq minutes du départ ?|Comment agirais-tu en premier si tu oubliais le numéro de l'étage de ton parking ?
+transports-deplacements-059|Voyage & Transports|nouvelle|Par quoi commencerais-tu si un accident bloquait l'autoroute pendant ton trajet ?|Quelle serait ta première action si la borne de recharge de ta voiture était hors service ?
+transports-deplacements-060|Voyage & Transports|nouvelle|Que ferais-tu en premier si le chauffeur VTC annulait après dix minutes d'attente ?|Que déciderais-tu de faire d’abord si un passager renversait du café sur ton sac dans le train ?
+transports-deplacements-061|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si tu découvrais une rayure sur ta voiture en revenant du parking ?|Comment agirais-tu en premier si tu te rendais compte que tu es monté dans un train vers la mauvaise destination ?
+transports-deplacements-062|Voyage & Transports|nouvelle|Par quoi commencerais-tu si ta carte de transport cessait de fonctionner à un portique ?|Quelle serait ta première action si ton train était supprimé trente minutes avant le départ ?
+transports-deplacements-063|Voyage & Transports|nouvelle|Que ferais-tu en premier si tu avais raté la correspondance pour un entretien ?|Que déciderais-tu de faire d’abord si tu oubliais ton sac dans un bus ?
+transports-deplacements-064|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si la station de vélos partagés était complètement vide ?|Comment agirais-tu en premier si tu arrivais à la mauvaise gare pour un départ important ?
+transports-deplacements-065|Voyage & Transports|nouvelle|Par quoi commencerais-tu si la voiture de location avait un voyant d'alerte allumé ?|Quelle serait ta première action si ta voiture ne démarrait pas sur un parking de supermarché ?
+transports-deplacements-066|Voyage & Transports|nouvelle|Que ferais-tu en premier si un bouchon imprévu ajoutait une heure à ton trajet ?|Que déciderais-tu de faire d’abord si tu constatais que le dernier métro vient de partir ?
+transports-deplacements-067|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si tu oubliais le numéro de l'étage de ton parking ?|Comment agirais-tu en premier si ton vélo crevait en allant au travail ?
+transports-deplacements-068|Voyage & Transports|nouvelle|Par quoi commencerais-tu si la borne de recharge de ta voiture était hors service ?|Quelle serait ta première action si ton téléphone se déchargeait avant d'afficher ton billet électronique ?
+transports-deplacements-069|Voyage & Transports|nouvelle|Que ferais-tu en premier si un passager renversait du café sur ton sac dans le train ?|Que déciderais-tu de faire d’abord si tu te retrouvais sur le mauvais quai à cinq minutes du départ ?
+transports-deplacements-070|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si tu te rendais compte que tu es monté dans un train vers la mauvaise destination ?|Comment agirais-tu en premier si un accident bloquait l'autoroute pendant ton trajet ?
+transports-deplacements-071|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si ton train était supprimé trente minutes avant le départ ?|Comment agirais-tu en premier si le chauffeur VTC annulait après dix minutes d'attente ?
+transports-deplacements-072|Voyage & Transports|nouvelle|Par quoi commencerais-tu si tu oubliais ton sac dans un bus ?|Quelle serait ta première action si tu découvrais une rayure sur ta voiture en revenant du parking ?
+transports-deplacements-073|Voyage & Transports|nouvelle|Que ferais-tu en premier si tu arrivais à la mauvaise gare pour un départ important ?|Que déciderais-tu de faire d’abord si ta carte de transport cessait de fonctionner à un portique ?
+transports-deplacements-074|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si ta voiture ne démarrait pas sur un parking de supermarché ?|Comment agirais-tu en premier si tu avais raté la correspondance pour un entretien ?
+transports-deplacements-075|Voyage & Transports|nouvelle|Par quoi commencerais-tu si tu constatais que le dernier métro vient de partir ?|Quelle serait ta première action si la station de vélos partagés était complètement vide ?
+transports-deplacements-076|Voyage & Transports|nouvelle|Tu choisirais plutôt un train direct plus cher ou un train avec correspondance moins cher ?|Si tu n’avais droit qu’à une option, tu prendrais partir à six heures ou arriver tard dans la soirée ?
+transports-deplacements-077|Voyage & Transports|nouvelle|Entre marcher vingt-cinq minutes et prendre dix minutes de bus, que préférerais-tu ?|Lequel des deux te tente le plus : voyager léger avec un sac à dos ou prendre une valise cabine ?
+transports-deplacements-078|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait louer un vélo ou utiliser le métro pour une journée de visite ?|Tu privilégierais aller au travail à vélo ou prendre les transports en commun ?
+transports-deplacements-079|Voyage & Transports|nouvelle|Tu choisirais plutôt un siège côté fenêtre ou un siège côté couloir dans le train ?|Si tu n’avais droit qu’à une option, tu prendrais se garer près du centre ou marcher depuis un parking gratuit ?
+transports-deplacements-080|Voyage & Transports|nouvelle|Entre arriver très en avance à la gare et arriver juste à l'heure, que préférerais-tu ?|Lequel des deux te tente le plus : une voiture hybride ou une petite voiture électrique ?
+transports-deplacements-081|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait rouler sur autoroute payante ou passer par les routes nationales ?|Tu privilégierais un vol direct tôt le matin ou un vol avec escale plus tard ?
+transports-deplacements-082|Voyage & Transports|nouvelle|Tu choisirais plutôt prendre un VTC ou partager un taxi avec des amis ?|Si tu n’avais droit qu’à une option, tu prendrais un voyage en train de nuit ou une journée de train ?
+transports-deplacements-083|Voyage & Transports|nouvelle|Entre faire du covoiturage et prendre un autocar, que préférerais-tu ?|Lequel des deux te tente le plus : un scooter électrique ou un vélo à assistance électrique ?
+transports-deplacements-084|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait un billet flexible ou un billet non échangeable moins cher ?|Tu privilégierais écouter de la musique ou lire pendant un trajet ?
+transports-deplacements-085|Voyage & Transports|nouvelle|Tu choisirais plutôt partir à six heures ou arriver tard dans la soirée ?|Si tu n’avais droit qu’à une option, tu prendrais une carte de transport mensuelle ou des tickets à l'unité ?
+transports-deplacements-086|Voyage & Transports|nouvelle|Entre voyager léger avec un sac à dos et prendre une valise cabine, que préférerais-tu ?|Lequel des deux te tente le plus : partager le volant ou conduire seul sur tout le trajet ?
+transports-deplacements-087|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait aller au travail à vélo ou prendre les transports en commun ?|Tu privilégierais un train direct plus cher ou un train avec correspondance moins cher ?
+transports-deplacements-088|Voyage & Transports|nouvelle|Tu choisirais plutôt se garer près du centre ou marcher depuis un parking gratuit ?|Si tu n’avais droit qu’à une option, tu prendrais marcher vingt-cinq minutes ou prendre dix minutes de bus ?
+transports-deplacements-089|Voyage & Transports|nouvelle|Entre une voiture hybride et une petite voiture électrique, que préférerais-tu ?|Lequel des deux te tente le plus : louer un vélo ou utiliser le métro pour une journée de visite ?
+transports-deplacements-090|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait un vol direct tôt le matin ou un vol avec escale plus tard ?|Tu privilégierais un siège côté fenêtre ou un siège côté couloir dans le train ?
+transports-deplacements-091|Voyage & Transports|nouvelle|Tu choisirais plutôt un voyage en train de nuit ou une journée de train ?|Si tu n’avais droit qu’à une option, tu prendrais arriver très en avance à la gare ou arriver juste à l'heure ?
+transports-deplacements-092|Voyage & Transports|nouvelle|Entre un scooter électrique et un vélo à assistance électrique, que préférerais-tu ?|Lequel des deux te tente le plus : rouler sur autoroute payante ou passer par les routes nationales ?
+transports-deplacements-093|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait écouter de la musique ou lire pendant un trajet ?|Tu privilégierais prendre un VTC ou partager un taxi avec des amis ?
+transports-deplacements-094|Voyage & Transports|nouvelle|Tu choisirais plutôt une carte de transport mensuelle ou des tickets à l'unité ?|Si tu n’avais droit qu’à une option, tu prendrais faire du covoiturage ou prendre un autocar ?
+transports-deplacements-095|Voyage & Transports|nouvelle|Entre partager le volant et conduire seul sur tout le trajet, que préférerais-tu ?|Lequel des deux te tente le plus : un billet flexible ou un billet non échangeable moins cher ?
+transports-deplacements-096|Voyage & Transports|nouvelle|Entre un train direct plus cher et un train avec correspondance moins cher, que préférerais-tu ?|Lequel des deux te tente le plus : partir à six heures ou arriver tard dans la soirée ?
+transports-deplacements-097|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait marcher vingt-cinq minutes ou prendre dix minutes de bus ?|Tu privilégierais voyager léger avec un sac à dos ou prendre une valise cabine ?
+transports-deplacements-098|Voyage & Transports|nouvelle|Tu choisirais plutôt louer un vélo ou utiliser le métro pour une journée de visite ?|Si tu n’avais droit qu’à une option, tu prendrais aller au travail à vélo ou prendre les transports en commun ?
+transports-deplacements-099|Voyage & Transports|nouvelle|Entre un siège côté fenêtre et un siège côté couloir dans le train, que préférerais-tu ?|Lequel des deux te tente le plus : se garer près du centre ou marcher depuis un parking gratuit ?
+transports-deplacements-100|Voyage & Transports|nouvelle|Si tu devais trancher, ce serait arriver très en avance à la gare ou arriver juste à l'heure ?|Tu privilégierais une voiture hybride ou une petite voiture électrique ?
+transports-deplacements-101|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour chercher une place de stationnement dans une rue commerçante ?|Quel temps, en minutes, prévoirais-tu pour remplir un formulaire de réclamation pour un train annulé ?
+transports-deplacements-102|Voyage & Transports|nouvelle|Tu passerais combien de minutes à attendre un bus annoncé en retard ?|Tu mettrais combien de minutes à chercher un itinéraire accessible avec une poussette ?
+transports-deplacements-103|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à préparer ton sac pour un trajet de train de trois heures ?|En général, combien de minutes prendrais-tu pour installer un siège enfant dans une voiture ?
+transports-deplacements-104|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour vérifier les horaires d'une correspondance ferroviaire ?|Quel temps, en minutes, prévoirais-tu pour préparer une voiture avant un long voyage ?
+transports-deplacements-105|Voyage & Transports|nouvelle|Tu passerais combien de minutes à trouver une borne de recharge disponible sur ton trajet ?|Tu mettrais combien de minutes à patienter avant d'appeler un VTC annoncé en retard ?
+transports-deplacements-106|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à comparer deux itinéraires en voiture avant de partir ?|En général, combien de minutes prendrais-tu pour acheter un billet de train sur ton téléphone ?
+transports-deplacements-107|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour descendre du train avec une grande valise ?|Quel temps, en minutes, prévoirais-tu pour retrouver l'endroit où tu as garé ta voiture ?
+transports-deplacements-108|Voyage & Transports|nouvelle|Tu passerais combien de minutes à rejoindre ton quai dans une gare inconnue ?|Tu mettrais combien de minutes à vérifier la pression des pneus avant une autoroute ?
+transports-deplacements-109|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à trouver la sortie d'une grande station de métro ?|En général, combien de minutes prendrais-tu pour ranger les bagages dans un coffre avant de partir ?
+transports-deplacements-110|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour remplir un formulaire de réclamation pour un train annulé ?|Quel temps, en minutes, prévoirais-tu pour choisir une place dans un train longue distance ?
+transports-deplacements-111|Voyage & Transports|nouvelle|Tu passerais combien de minutes à chercher un itinéraire accessible avec une poussette ?|Tu mettrais combien de minutes à demander des renseignements après une suppression de train ?
+transports-deplacements-112|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à installer un siège enfant dans une voiture ?|En général, combien de minutes prendrais-tu pour chercher une place de stationnement dans une rue commerçante ?
+transports-deplacements-113|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour préparer une voiture avant un long voyage ?|Quel temps, en minutes, prévoirais-tu pour attendre un bus annoncé en retard ?
+transports-deplacements-114|Voyage & Transports|nouvelle|Tu passerais combien de minutes à patienter avant d'appeler un VTC annoncé en retard ?|Tu mettrais combien de minutes à préparer ton sac pour un trajet de train de trois heures ?
+transports-deplacements-115|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à acheter un billet de train sur ton téléphone ?|En général, combien de minutes prendrais-tu pour vérifier les horaires d'une correspondance ferroviaire ?
+transports-deplacements-116|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour retrouver l'endroit où tu as garé ta voiture ?|Quel temps, en minutes, prévoirais-tu pour trouver une borne de recharge disponible sur ton trajet ?
+transports-deplacements-117|Voyage & Transports|nouvelle|Tu passerais combien de minutes à vérifier la pression des pneus avant une autoroute ?|Tu mettrais combien de minutes à comparer deux itinéraires en voiture avant de partir ?
+transports-deplacements-118|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à ranger les bagages dans un coffre avant de partir ?|En général, combien de minutes prendrais-tu pour descendre du train avec une grande valise ?
+transports-deplacements-119|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour choisir une place dans un train longue distance ?|Quel temps, en minutes, prévoirais-tu pour rejoindre ton quai dans une gare inconnue ?
+transports-deplacements-120|Voyage & Transports|nouvelle|Tu passerais combien de minutes à demander des renseignements après une suppression de train ?|Tu mettrais combien de minutes à trouver la sortie d'une grande station de métro ?
+transports-deplacements-121|Voyage & Transports|nouvelle|Tu passerais combien de minutes à chercher une place de stationnement dans une rue commerçante ?|Tu mettrais combien de minutes à remplir un formulaire de réclamation pour un train annulé ?
+transports-deplacements-122|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à attendre un bus annoncé en retard ?|En général, combien de minutes prendrais-tu pour chercher un itinéraire accessible avec une poussette ?
+transports-deplacements-123|Voyage & Transports|nouvelle|Combien de minutes te faudrait-il pour préparer ton sac pour un trajet de train de trois heures ?|Quel temps, en minutes, prévoirais-tu pour installer un siège enfant dans une voiture ?
+transports-deplacements-124|Voyage & Transports|nouvelle|Tu passerais combien de minutes à vérifier les horaires d'une correspondance ferroviaire ?|Tu mettrais combien de minutes à préparer une voiture avant un long voyage ?
+transports-deplacements-125|Voyage & Transports|nouvelle|Combien de minutes consacrerais-tu à trouver une borne de recharge disponible sur ton trajet ?|En général, combien de minutes prendrais-tu pour patienter avant d'appeler un VTC annoncé en retard ?
+transports-deplacements-126|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour te renseigner sur un train annulé ?|Qui appellerais-tu pour demander de l'aide pour une voiture qui ne démarre pas ?
+transports-deplacements-127|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour récupérer un objet oublié dans un bus ?|À qui demanderais-tu un avis pour signaler un distributeur de billets en panne ?
+transports-deplacements-128|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour signaler une panne dans une rame de métro ?|À quelle personne parlerais-tu d’abord pour faire réparer un vélo après une crevaison ?
+transports-deplacements-129|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour obtenir une aide dans une gare sans ascenseur ?|Qui appellerais-tu pour vérifier un contrat de location de voiture ?
+transports-deplacements-130|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour te conseiller sur l'achat d'un vélo urbain ?|À qui demanderais-tu un avis pour trouver un service de navette pour l'aéroport ?
+transports-deplacements-131|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour résoudre un problème de billet électronique ?|À quelle personne parlerais-tu d’abord pour obtenir une information sur un abonnement de transport ?
+transports-deplacements-132|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour savoir comment contester une amende de stationnement ?|Qui appellerais-tu pour réclamer un remboursement de trajet annulé ?
+transports-deplacements-133|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour vérifier un itinéraire routier compliqué ?|À qui demanderais-tu un avis pour signaler un problème de sécurité dans une gare ?
+transports-deplacements-134|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour trouver une solution après un vol retardé ?|À quelle personne parlerais-tu d’abord pour planifier un trajet avec un fauteuil roulant ?
+transports-deplacements-135|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour demander de l'aide pour une voiture qui ne démarre pas ?|Qui appellerais-tu pour demander une assistance pour des bagages volumineux ?
+transports-deplacements-136|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour signaler un distributeur de billets en panne ?|À qui demanderais-tu un avis pour choisir un siège adapté dans un autocar ?
+transports-deplacements-137|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour faire réparer un vélo après une crevaison ?|À quelle personne parlerais-tu d’abord pour te renseigner sur un train annulé ?
+transports-deplacements-138|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour vérifier un contrat de location de voiture ?|Qui appellerais-tu pour récupérer un objet oublié dans un bus ?
+transports-deplacements-139|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour trouver un service de navette pour l'aéroport ?|À qui demanderais-tu un avis pour signaler une panne dans une rame de métro ?
+transports-deplacements-140|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour obtenir une information sur un abonnement de transport ?|À quelle personne parlerais-tu d’abord pour obtenir une aide dans une gare sans ascenseur ?
+transports-deplacements-141|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour réclamer un remboursement de trajet annulé ?|Qui appellerais-tu pour te conseiller sur l'achat d'un vélo urbain ?
+transports-deplacements-142|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour signaler un problème de sécurité dans une gare ?|À qui demanderais-tu un avis pour résoudre un problème de billet électronique ?
+transports-deplacements-143|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour planifier un trajet avec un fauteuil roulant ?|À quelle personne parlerais-tu d’abord pour savoir comment contester une amende de stationnement ?
+transports-deplacements-144|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour demander une assistance pour des bagages volumineux ?|Qui appellerais-tu pour vérifier un itinéraire routier compliqué ?
+transports-deplacements-145|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour choisir un siège adapté dans un autocar ?|À qui demanderais-tu un avis pour trouver une solution après un vol retardé ?
+transports-deplacements-146|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour te renseigner sur un train annulé ?|À qui demanderais-tu un avis pour demander de l'aide pour une voiture qui ne démarre pas ?
+transports-deplacements-147|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour récupérer un objet oublié dans un bus ?|À quelle personne parlerais-tu d’abord pour signaler un distributeur de billets en panne ?
+transports-deplacements-148|Voyage & Transports|nouvelle|À qui demanderais-tu conseil pour signaler une panne dans une rame de métro ?|Qui appellerais-tu pour faire réparer un vélo après une crevaison ?
+transports-deplacements-149|Voyage & Transports|nouvelle|Qui contacterais-tu en priorité pour obtenir une aide dans une gare sans ascenseur ?|À qui demanderais-tu un avis pour vérifier un contrat de location de voiture ?
+transports-deplacements-150|Voyage & Transports|nouvelle|Vers qui te tournerais-tu pour te conseiller sur l'achat d'un vélo urbain ?|À quelle personne parlerais-tu d’abord pour trouver un service de navette pour l'aéroport ?
+transports-deplacements-151|Voyage & Transports|nouvelle|Où irais-tu pour stationner une voiture deux heures près d'un centre-ville ?|Dans quel lieu voudrais-tu déposer quelqu'un avec une grosse valise ?
+transports-deplacements-152|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu attendre un covoiturage en sécurité le soir ?|À quel endroit déciderais-tu de changer un pneu de vélo en urgence ?
+transports-deplacements-153|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu acheter un billet de bus en dernière minute ?|Où choisirais-tu de faire une pause après deux heures de route ?
+transports-deplacements-154|Voyage & Transports|nouvelle|Où irais-tu pour prendre un taxi après un spectacle tardif ?|Dans quel lieu voudrais-tu acheter une carte de transports à l'arrivée ?
+transports-deplacements-155|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu louer un vélo pour visiter une ville ?|À quel endroit déciderais-tu de vérifier un vélo avant une longue balade ?
+transports-deplacements-156|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu recharger une voiture électrique pendant un déjeuner ?|Où choisirais-tu de déposer un bagage pour quelques heures ?
+transports-deplacements-157|Voyage & Transports|nouvelle|Où irais-tu pour garer un scooter près d'une gare ?|Dans quel lieu voudrais-tu retrouver un ami à la sortie d'un aéroport ?
+transports-deplacements-158|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu attendre un train retardé au chaud en hiver ?|À quel endroit déciderais-tu de prendre un petit-déjeuner avant un départ à six heures ?
+transports-deplacements-159|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu rencontrer un conducteur de covoiturage ?|Où choisirais-tu de faire une pause sans quitter l'autoroute ?
+transports-deplacements-160|Voyage & Transports|nouvelle|Où irais-tu pour déposer quelqu'un avec une grosse valise ?|Dans quel lieu voudrais-tu récupérer une voiture de location dans une ville ?
+transports-deplacements-161|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu changer un pneu de vélo en urgence ?|À quel endroit déciderais-tu d’attendre un bus de nuit en sécurité ?
+transports-deplacements-162|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu faire une pause après deux heures de route ?|Où choisirais-tu de stationner une voiture deux heures près d'un centre-ville ?
+transports-deplacements-163|Voyage & Transports|nouvelle|Où irais-tu pour acheter une carte de transports à l'arrivée ?|Dans quel lieu voudrais-tu attendre un covoiturage en sécurité le soir ?
+transports-deplacements-164|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu vérifier un vélo avant une longue balade ?|À quel endroit déciderais-tu d’acheter un billet de bus en dernière minute ?
+transports-deplacements-165|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu déposer un bagage pour quelques heures ?|Où choisirais-tu de prendre un taxi après un spectacle tardif ?
+transports-deplacements-166|Voyage & Transports|nouvelle|Où irais-tu pour retrouver un ami à la sortie d'un aéroport ?|Dans quel lieu voudrais-tu louer un vélo pour visiter une ville ?
+transports-deplacements-167|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu prendre un petit-déjeuner avant un départ à six heures ?|À quel endroit déciderais-tu de recharger une voiture électrique pendant un déjeuner ?
+transports-deplacements-168|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu faire une pause sans quitter l'autoroute ?|Où choisirais-tu de garer un scooter près d'une gare ?
+transports-deplacements-169|Voyage & Transports|nouvelle|Où irais-tu pour récupérer une voiture de location dans une ville ?|Dans quel lieu voudrais-tu attendre un train retardé au chaud en hiver ?
+transports-deplacements-170|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu attendre un bus de nuit en sécurité ?|À quel endroit déciderais-tu de rencontrer un conducteur de covoiturage ?
+transports-deplacements-171|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu stationner une voiture deux heures près d'un centre-ville ?|À quel endroit déciderais-tu de déposer quelqu'un avec une grosse valise ?
+transports-deplacements-172|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu attendre un covoiturage en sécurité le soir ?|Où choisirais-tu de changer un pneu de vélo en urgence ?
+transports-deplacements-173|Voyage & Transports|nouvelle|Où irais-tu pour acheter un billet de bus en dernière minute ?|Dans quel lieu voudrais-tu faire une pause après deux heures de route ?
+transports-deplacements-174|Voyage & Transports|nouvelle|Dans quel endroit préférerais-tu prendre un taxi après un spectacle tardif ?|À quel endroit déciderais-tu d’acheter une carte de transports à l'arrivée ?
+transports-deplacements-175|Voyage & Transports|nouvelle|Dans quel lieu aimerais-tu louer un vélo pour visiter une ville ?|Où choisirais-tu de vérifier un vélo avant une longue balade ?
+transports-deplacements-176|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour recharger ton téléphone pendant un long trajet en train ?|Quel accessoire utiliserais-tu pour rendre visible ton vélo stationné de nuit ?
+transports-deplacements-177|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour retrouver facilement tes bagages dans un autocar ?|Avec quel objet voudrais-tu identifier ta valise sur un tapis d'aéroport ?
+transports-deplacements-178|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour rester au sec pendant une attente de bus pluvieuse ?|Quel objet prendrais-tu en priorité pour transporter une petite valise sur plusieurs escaliers ?
+transports-deplacements-179|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour lire confortablement dans un train de nuit ?|Quel accessoire utiliserais-tu pour rester visible en vélo après la tombée du jour ?
+transports-deplacements-180|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour stabiliser ton téléphone comme GPS en voiture ?|Avec quel objet voudrais-tu caler un enfant endormi pendant un long trajet ?
+transports-deplacements-181|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour transporter une bouteille d'eau à vélo ?|Quel objet prendrais-tu en priorité pour ranger les tickets de péage de vacances ?
+transports-deplacements-182|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour garder ton billet accessible au contrôle ?|Quel accessoire utiliserais-tu pour avoir un peu de lumière dans une voiture en panne ?
+transports-deplacements-183|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour protéger ton sac pendant une averse à scooter ?|Avec quel objet voudrais-tu tenir des pièces de monnaie pour un parcmètre ?
+transports-deplacements-184|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour écouter un podcast sans déranger les voyageurs ?|Quel objet prendrais-tu en priorité pour attacher ton casque de vélo pendant une pause ?
+transports-deplacements-185|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour rendre visible ton vélo stationné de nuit ?|Quel accessoire utiliserais-tu pour réduire le mal des transports pendant une route sinueuse ?
+transports-deplacements-186|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour identifier ta valise sur un tapis d'aéroport ?|Avec quel objet voudrais-tu garder les mains libres en déplacement avec des bagages ?
+transports-deplacements-187|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour transporter une petite valise sur plusieurs escaliers ?|Quel objet prendrais-tu en priorité pour recharger ton téléphone pendant un long trajet en train ?
+transports-deplacements-188|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour rester visible en vélo après la tombée du jour ?|Quel accessoire utiliserais-tu pour retrouver facilement tes bagages dans un autocar ?
+transports-deplacements-189|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour caler un enfant endormi pendant un long trajet ?|Avec quel objet voudrais-tu rester au sec pendant une attente de bus pluvieuse ?
+transports-deplacements-190|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour ranger les tickets de péage de vacances ?|Quel objet prendrais-tu en priorité pour lire confortablement dans un train de nuit ?
+transports-deplacements-191|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour avoir un peu de lumière dans une voiture en panne ?|Quel accessoire utiliserais-tu pour stabiliser ton téléphone comme GPS en voiture ?
+transports-deplacements-192|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour tenir des pièces de monnaie pour un parcmètre ?|Avec quel objet voudrais-tu transporter une bouteille d'eau à vélo ?
+transports-deplacements-193|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour attacher ton casque de vélo pendant une pause ?|Quel objet prendrais-tu en priorité pour garder ton billet accessible au contrôle ?
+transports-deplacements-194|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour réduire le mal des transports pendant une route sinueuse ?|Quel accessoire utiliserais-tu pour protéger ton sac pendant une averse à scooter ?
+transports-deplacements-195|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour garder les mains libres en déplacement avec des bagages ?|Avec quel objet voudrais-tu écouter un podcast sans déranger les voyageurs ?
+transports-deplacements-196|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour recharger ton téléphone pendant un long trajet en train ?|Avec quel objet voudrais-tu rendre visible ton vélo stationné de nuit ?
+transports-deplacements-197|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour retrouver facilement tes bagages dans un autocar ?|Quel objet prendrais-tu en priorité pour identifier ta valise sur un tapis d'aéroport ?
+transports-deplacements-198|Voyage & Transports|nouvelle|Quel objet emporterais-tu pour rester au sec pendant une attente de bus pluvieuse ?|Quel accessoire utiliserais-tu pour transporter une petite valise sur plusieurs escaliers ?
+transports-deplacements-199|Voyage & Transports|nouvelle|Quel accessoire choisirais-tu pour lire confortablement dans un train de nuit ?|Avec quel objet voudrais-tu rester visible en vélo après la tombée du jour ?
+transports-deplacements-200|Voyage & Transports|nouvelle|Quel objet te semblerait indispensable pour stabiliser ton téléphone comme GPS en voiture ?|Quel objet prendrais-tu en priorité pour caler un enfant endormi pendant un long trajet ?
+ville-228|Voyage & Transports|ancienne|Combien de jours faut-il pour visiter une grande ville ?|Combien de jours pars-tu en vacances par an ?
+ville-231|Voyage & Transports|ancienne|Que dis-tu à un touriste perdu devant toi ?|Que dis-tu quand un touriste te demande de le prendre en photo ?
+ville-232|Voyage & Transports|ancienne|Combien de photos prends-tu en une journée de visite ?|Combien de photos de monuments gardes-tu vraiment ?
+ville-243|Voyage & Transports|ancienne|Combien coûte un ticket de métro dans ta ville ?|Combien coûte une amende quand tu fraudes dans les transports ?
+ville-259|Voyage & Transports|ancienne|Combien de minutes de transport acceptes-tu au maximum pour aller au travail ?|Combien de minutes de transport acceptes-tu au maximum pour voir tes amis ?
+ville-313|Voyage & Transports|ancienne|Combien de lignes de bus prends-tu dans un mois ?|Combien de stations de métro connais-tu par cœur ?
+ville-315|Voyage & Transports|ancienne|Combien coûte un ticket de métro selon toi ?|Combien coûte une heure de parking en centre-ville selon toi ?
+ville-327|Voyage & Transports|ancienne|Combien de minutes cherches-tu une place pour te garer ?|Combien de minutes attends-tu à un feu rouge dans ta journée ?
+ville-331|Voyage & Transports|ancienne|Que dis-tu quand une trottinette te frôle ?|Que dis-tu quand un vélo te sonne derrière toi ?
+ville-333|Voyage & Transports|nouvelle|Au-delà de quel prix hésiterais-tu à réserver une nuit pour deux personnes dans un hôtel en centre-ville ?|Au-delà de quel prix hésiterais-tu à acheter un pass touristique de deux jours ?
+ville-334|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un pass touristique de deux jours ?|Combien serais-tu prêt à dépenser pour un aller simple en TER pour un trajet de 50 km ?
+ville-335|Voyage & Transports|nouvelle|Quel serait le meilleur moment pour retrouver un ami dans la gare de Lyon à Paris ?|Quel serait le meilleur moment pour faire une course dans le centre-ville ?
+ville-336|Voyage & Transports|nouvelle|Où irais-tu pour acheter un abonnement mensuel aux transports en commun à Paris ?|Où irais-tu pour acheter un trajet de cinq kilomètres en taxi dans Paris ?
+ville-337|Voyage & Transports|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un aller simple en TER pour un trajet de 50 km ?|Sur quel site ou dans quel magasin chercherais-tu un ticket de métro à l’unité à Paris ?
+ville-338|Voyage & Transports|nouvelle|Où irais-tu pour acheter une carte de transport rechargeable ?|Où irais-tu pour acheter une séance de cinéma de quartier ?
+ville-339|Voyage & Transports|nouvelle|Quelle phrase sortirait de ta bouche si la machine à tickets est hors service ?|Quelle phrase sortirait de ta bouche si tu te retrouves dans le mauvais bus ?
+ville-340|Voyage & Transports|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un ticket pour un bateau-bus ?|Sur quel site ou dans quel magasin chercherais-tu une entrée à une exposition locale ?
+ville-341|Voyage & Transports|nouvelle|Qui contacterais-tu pour t’aider à choisir un café pour travailler ?|Qui contacterais-tu pour t’aider à retrouver un ami dans la gare de Lyon à Paris ?
+ville-342|Voyage & Transports|nouvelle|Où chercherais-tu un trajet de cinq kilomètres en taxi dans Paris en premier ?|Où chercherais-tu un billet adulte pour un bus touristique à Paris en premier ?
+ville-343|Voyage & Transports|nouvelle|Quelle personne de ton entourage pourrait t’aider à trouver une adresse sans GPS ?|Quelle personne de ton entourage pourrait t’aider à préparer un trajet de nuit ?
+ville-344|Voyage & Transports|nouvelle|Si tu devais trouver une place de stationnement payante pendant deux heures dans le centre-ville, quelle serait ta priorité ?|Si tu devais repérer un restaurant près d’une gare, quelle serait ta priorité ?
+ville-345|Voyage & Transports|nouvelle|À quel endroit irais-tu pour trouver un abonnement de vélos partagés ?|À quel endroit irais-tu pour trouver une carte de transport rechargeable ?
+ville-346|Voyage & Transports|nouvelle|En combien de temps pourrais-tu trouver une adresse sans GPS ?|En combien de temps pourrais-tu préparer un trajet de nuit ?
+ville-347|Voyage & Transports|nouvelle|Quelle serait ta première réaction si ton train change de quai au dernier moment ?|Quelle serait ta première réaction si un inconnu te demande de prendre une photo ?
+ville-348|Voyage & Transports|nouvelle|Quel détail vérifierais-tu avant de préparer un trajet de nuit ?|Quel détail vérifierais-tu avant de choisir un café pour travailler ?
+ville-349|Voyage & Transports|nouvelle|Quel moment de la journée choisirais-tu pour repérer un restaurant près d’une gare ?|Quel moment de la journée choisirais-tu pour organiser une visite de quartier ?
+ville-350|Voyage & Transports|nouvelle|Quel budget maximal prévoirais-tu pour un repas dans une brasserie de quartier ?|Quel budget maximal prévoirais-tu pour un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-351|Voyage & Transports|nouvelle|Quel créneau de la journée serait le plus pratique pour choisir un musée proche ?|Quel créneau de la journée serait le plus pratique pour trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-352|Voyage & Transports|nouvelle|Combien de temps prévoirais-tu pour visiter un marché de quartier ?|Combien de temps prévoirais-tu pour préparer un trajet à vélo en ville ?
+ville-353|Voyage & Transports|nouvelle|Si tu devais préparer un changement de ligne, quelle serait ta priorité ?|Si tu devais chercher un commerce ouvert le dimanche, quelle serait ta priorité ?
+ville-354|Voyage & Transports|nouvelle|Comment répondrais-tu si la rue que tu connais est barrée ?|Comment répondrais-tu si un taxi refuse une petite course ?
+ville-355|Voyage & Transports|nouvelle|Combien de temps te faudrait-il pour trouver un parcours de promenade accessible en fauteuil roulant ?|Combien de temps te faudrait-il pour préparer un changement de ligne ?
+ville-356|Voyage & Transports|nouvelle|À quel endroit irais-tu pour trouver un ticket de métro à l’unité à Paris ?|À quel endroit irais-tu pour trouver un abonnement mensuel aux transports en commun à Paris ?
+ville-357|Voyage & Transports|nouvelle|À qui demanderais-tu de l’aide pour découvrir un quartier inconnu ?|À qui demanderais-tu de l’aide pour préparer un trajet en transports ?
+ville-358|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si la rue que tu connais est barrée ?|Quel serait ton premier réflexe si un taxi refuse une petite course ?
+ville-359|Voyage & Transports|nouvelle|Que dirais-tu si tu arrives devant un commerce fermé ?|Que dirais-tu si une manifestation bloque ton itinéraire ?
+ville-360|Voyage & Transports|nouvelle|Quel prix imagines-tu pour un aller simple en TER pour un trajet de 50 km ?|Quel prix imagines-tu pour un ticket de métro à l’unité à Paris ?
+ville-361|Voyage & Transports|nouvelle|À quel endroit irais-tu pour trouver un repas dans une brasserie de quartier ?|À quel endroit irais-tu pour trouver un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-362|Voyage & Transports|nouvelle|Quelle serait ta principale difficulté pour préparer un trajet en transports ?|Quelle serait ta principale difficulté pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-363|Voyage & Transports|nouvelle|Quel serait le meilleur moment pour préparer un changement de ligne ?|Quel serait le meilleur moment pour chercher un commerce ouvert le dimanche ?
+ville-364|Voyage & Transports|nouvelle|Combien penses-tu que vaut une séance de cinéma de quartier ?|Combien penses-tu que vaut un ticket pour un bateau-bus ?
+ville-365|Voyage & Transports|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un abonnement mensuel aux transports en commun à Paris ?|Au-delà de quel prix hésiterais-tu à acheter un trajet de cinq kilomètres en taxi dans Paris ?
+ville-366|Voyage & Transports|nouvelle|Quel prix imagines-tu pour un billet adulte pour un bus touristique à Paris ?|Quel prix imagines-tu pour une entrée adulte dans un musée municipal payant ?
+ville-367|Voyage & Transports|nouvelle|Dans quelle situation déciderais-tu d’acheter une séance de cinéma de quartier ?|Dans quelle situation déciderais-tu d’acheter un ticket pour un bateau-bus ?
+ville-368|Voyage & Transports|nouvelle|Qu’est-ce que tu dirais sur le moment si un taxi refuse une petite course ?|Qu’est-ce que tu dirais sur le moment si tu arrives devant un commerce fermé ?
+ville-369|Voyage & Transports|nouvelle|Quelle serait ta première réaction si un passant t’indique un raccourci inattendu ?|Quelle serait ta première réaction si le métro s’arrête entre deux stations ?
+ville-370|Voyage & Transports|nouvelle|Quelle personne de ton entourage pourrait t’aider à chercher un commerce ouvert le dimanche ?|Quelle personne de ton entourage pourrait t’aider à découvrir un quartier inconnu ?
+ville-371|Voyage & Transports|nouvelle|En combien de temps pourrais-tu repérer un restaurant près d’une gare ?|En combien de temps pourrais-tu organiser une visite de quartier ?
+ville-372|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour une heure de stationnement dans un parking du centre de Paris ?|Combien serais-tu prêt à dépenser pour un café en terrasse ?
+ville-373|Voyage & Transports|nouvelle|À ton avis, combien coûte un repas dans une brasserie de quartier ?|À ton avis, combien coûte un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-374|Voyage & Transports|nouvelle|Quelle serait ta principale difficulté pour comparer deux itinéraires de métro ?|Quelle serait ta principale difficulté pour acheter un billet de train régional au distributeur en gare ?
+ville-375|Voyage & Transports|nouvelle|Que dirais-tu si un automobiliste te laisse passer ?|Que dirais-tu si la machine à tickets est hors service ?
+ville-376|Voyage & Transports|nouvelle|Quel prix imagines-tu pour un ticket de navette entre un aéroport et le centre-ville ?|Quel prix imagines-tu pour un abonnement de vélos partagés ?
+ville-377|Voyage & Transports|nouvelle|À ton avis, combien de temps faut-il pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?|À ton avis, combien de temps faut-il pour repérer un restaurant près d’une gare ?
+ville-378|Voyage & Transports|nouvelle|Combien de temps prévoirais-tu pour choisir un musée proche ?|Combien de temps prévoirais-tu pour trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-379|Voyage & Transports|nouvelle|Quelle phrase sortirait de ta bouche si un touriste te demande sa direction ?|Quelle phrase sortirait de ta bouche si un chauffeur manque ton arrêt ?
+ville-380|Voyage & Transports|nouvelle|Quelle serait ta première réaction si un taxi refuse une petite course ?|Quelle serait ta première réaction si tu arrives devant un commerce fermé ?
+ville-381|Voyage & Transports|nouvelle|Qu’est-ce qui te pousserait à réserver un repas dans une brasserie de quartier ?|Qu’est-ce qui te pousserait à acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?
+ville-382|Voyage & Transports|nouvelle|Quelle phrase sortirait de ta bouche si un cycliste sonne derrière toi ?|Quelle phrase sortirait de ta bouche si un piéton te demande l’heure ?
+ville-383|Voyage & Transports|nouvelle|Selon toi, quel est le prix d’une nuit pour deux personnes dans un hôtel en centre-ville ?|Selon toi, quel est le prix d’un pass touristique de deux jours ?
+ville-384|Voyage & Transports|nouvelle|Quel prix imagines-tu pour un ticket pour un bateau-bus ?|Quel prix imagines-tu pour une entrée à une exposition locale ?
+ville-385|Voyage & Transports|nouvelle|Qu’est-ce que tu ferais en premier si tu arrives devant un commerce fermé ?|Qu’est-ce que tu ferais en premier si une manifestation bloque ton itinéraire ?
+ville-386|Voyage & Transports|nouvelle|Comment répondrais-tu si tu te retrouves dans le mauvais bus ?|Comment répondrais-tu si un passant t’indique un raccourci inattendu ?
+ville-387|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si un chauffeur manque ton arrêt ?|Quel serait ton premier réflexe si tu te trompes de sortie de métro ?
+ville-388|Voyage & Transports|nouvelle|Qui pourrait te donner le meilleur conseil pour trouver une terrasse de café calme à moins de dix minutes à pied ?|Qui pourrait te donner le meilleur conseil pour organiser une journée de visites à Rome sans voiture ?
+ville-389|Voyage & Transports|nouvelle|À ton avis, combien de temps faut-il pour acheter un billet de train régional au distributeur en gare ?|À ton avis, combien de temps faut-il pour trouver une adresse sans GPS ?
+ville-390|Voyage & Transports|nouvelle|Que dirais-tu si le métro s’arrête entre deux stations ?|Que dirais-tu si un touriste te demande sa direction ?
+ville-391|Voyage & Transports|nouvelle|Où irais-tu pour acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Où irais-tu pour réserver une visite guidée de quartier ?
+ville-392|Voyage & Transports|nouvelle|En combien de temps pourrais-tu faire une course dans le centre-ville ?|En combien de temps pourrais-tu visiter un marché de quartier ?
+ville-393|Voyage & Transports|nouvelle|Combien de temps prévoirais-tu pour découvrir un quartier inconnu ?|Combien de temps prévoirais-tu pour préparer un trajet en transports ?
+ville-394|Voyage & Transports|nouvelle|Quelle serait ta principale difficulté pour préparer un trajet à vélo en ville ?|Quelle serait ta principale difficulté pour trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-395|Voyage & Transports|nouvelle|Quel moment de la journée choisirais-tu pour faire une course dans le centre-ville ?|Quel moment de la journée choisirais-tu pour visiter un marché de quartier ?
+ville-396|Voyage & Transports|nouvelle|Quel moment de la journée choisirais-tu pour organiser une journée de visites à Rome sans voiture ?|Quel moment de la journée choisirais-tu pour choisir un musée proche ?
+ville-397|Voyage & Transports|nouvelle|Quel serait le meilleur moment pour acheter un billet de train régional au distributeur en gare ?|Quel serait le meilleur moment pour trouver une adresse sans GPS ?
+ville-398|Voyage & Transports|nouvelle|Où irais-tu pour réserver une nuit pour deux personnes dans un hôtel en centre-ville ?|Où irais-tu pour acheter un pass touristique de deux jours ?
+ville-399|Voyage & Transports|nouvelle|Pour quelle occasion voudrais-tu acheter une carte de transport rechargeable ?|Pour quelle occasion voudrais-tu acheter une séance de cinéma de quartier ?
+ville-400|Voyage & Transports|nouvelle|Qui contacterais-tu pour t’aider à trouver un parcours de promenade accessible en fauteuil roulant ?|Qui contacterais-tu pour t’aider à préparer un changement de ligne ?
+ville-401|Voyage & Transports|nouvelle|Qui contacterais-tu pour t’aider à comparer deux itinéraires de métro ?|Qui contacterais-tu pour t’aider à acheter un billet de train régional au distributeur en gare ?
+ville-402|Voyage & Transports|nouvelle|Quel moment de la journée choisirais-tu pour chercher un commerce ouvert le dimanche ?|Quel moment de la journée choisirais-tu pour découvrir un quartier inconnu ?
+ville-403|Voyage & Transports|nouvelle|Quel serait le point le plus important pour organiser une journée de visites à Rome sans voiture ?|Quel serait le point le plus important pour choisir un musée proche ?
+ville-404|Voyage & Transports|nouvelle|Quel détail vérifierais-tu avant de choisir un musée proche ?|Quel détail vérifierais-tu avant de trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-405|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour une visite guidée de quartier ?|Combien serais-tu prêt à dépenser pour un ticket de navette entre un aéroport et le centre-ville ?
+ville-406|Voyage & Transports|nouvelle|Quel serait le point le plus important pour chercher un commerce ouvert le dimanche ?|Quel serait le point le plus important pour découvrir un quartier inconnu ?
+ville-407|Voyage & Transports|nouvelle|Qu’est-ce qui te pousserait à acheter une entrée à une exposition locale ?|Qu’est-ce qui te pousserait à réserver une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-408|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour un trajet de cinq kilomètres en taxi dans Paris ?|Combien serais-tu prêt à dépenser pour un billet adulte pour un bus touristique à Paris ?
+ville-409|Voyage & Transports|nouvelle|À qui demanderais-tu de l’aide pour choisir un musée proche ?|À qui demanderais-tu de l’aide pour trouver un parcours de promenade accessible en fauteuil roulant ?
+ville-410|Voyage & Transports|nouvelle|Combien penses-tu que vaut un pass touristique de deux jours ?|Combien penses-tu que vaut un aller simple en TER pour un trajet de 50 km ?
+ville-411|Voyage & Transports|nouvelle|Quel créneau de la journée serait le plus pratique pour découvrir un quartier inconnu ?|Quel créneau de la journée serait le plus pratique pour préparer un trajet en transports ?
+ville-412|Voyage & Transports|nouvelle|Selon toi, quel est le prix d’un abonnement mensuel aux transports en commun à Paris ?|Selon toi, quel est le prix d’un trajet de cinq kilomètres en taxi dans Paris ?
+ville-413|Voyage & Transports|nouvelle|Quelle phrase sortirait de ta bouche si une manifestation bloque ton itinéraire ?|Quelle phrase sortirait de ta bouche si le panneau d’arrêt n’affiche plus les horaires ?
+ville-414|Voyage & Transports|nouvelle|Quel créneau de la journée serait le plus pratique pour organiser une visite de quartier ?|Quel créneau de la journée serait le plus pratique pour comparer deux itinéraires de métro ?
+ville-415|Voyage & Transports|nouvelle|Combien penses-tu que vaut une visite guidée de quartier ?|Combien penses-tu que vaut un ticket de navette entre un aéroport et le centre-ville ?
+ville-416|Voyage & Transports|nouvelle|Combien serais-tu prêt à dépenser pour une séance de cinéma de quartier ?|Combien serais-tu prêt à dépenser pour un ticket pour un bateau-bus ?
+ville-417|Voyage & Transports|nouvelle|À quel moment de la semaine préférerais-tu comparer deux itinéraires de métro ?|À quel moment de la semaine préférerais-tu acheter un billet de train régional au distributeur en gare ?
+ville-418|Voyage & Transports|nouvelle|À qui demanderais-tu de l’aide pour organiser une visite de quartier ?|À qui demanderais-tu de l’aide pour comparer deux itinéraires de métro ?
+ville-419|Voyage & Transports|nouvelle|Quelle serait ta première réaction si tu te trompes de sortie de métro ?|Quelle serait ta première réaction si un bus passe devant toi sans s’arrêter ?
+ville-420|Voyage & Transports|nouvelle|Si tu devais trouver une terrasse de café calme à moins de dix minutes à pied, quelle serait ta priorité ?|Si tu devais organiser une journée de visites à Rome sans voiture, quelle serait ta priorité ?
+ville-421|Voyage & Transports|nouvelle|Qu’est-ce que tu dirais sur le moment si un passant t’indique un raccourci inattendu ?|Qu’est-ce que tu dirais sur le moment si le métro s’arrête entre deux stations ?
+ville-422|Voyage & Transports|nouvelle|Combien de temps prévoirais-tu pour organiser une visite de quartier ?|Combien de temps prévoirais-tu pour comparer deux itinéraires de métro ?
+ville-423|Voyage & Transports|nouvelle|À quel moment de la semaine préférerais-tu trouver un parcours de promenade accessible en fauteuil roulant ?|À quel moment de la semaine préférerais-tu préparer un changement de ligne ?
+ville-424|Voyage & Transports|nouvelle|Comment réagirais-tu si une manifestation bloque ton itinéraire ?|Comment réagirais-tu si le panneau d’arrêt n’affiche plus les horaires ?
+ville-425|Voyage & Transports|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un ticket de tramway à l’unité en France ?|Au-delà de quel prix hésiterais-tu à acheter une heure de stationnement dans un parking du centre de Paris ?
+ville-426|Voyage & Transports|nouvelle|Quel créneau de la journée serait le plus pratique pour préparer un trajet de nuit ?|Quel créneau de la journée serait le plus pratique pour choisir un café pour travailler ?
+ville-427|Voyage & Transports|nouvelle|Si tu devais retrouver un ami dans la gare de Lyon à Paris, quelle serait ta priorité ?|Si tu devais faire une course dans le centre-ville, quelle serait ta priorité ?
+ville-428|Voyage & Transports|nouvelle|À quel moment aurais-tu envie d’acheter un ticket pour un bateau-bus ?|À quel moment aurais-tu envie d’acheter une entrée à une exposition locale ?
+ville-429|Voyage & Transports|nouvelle|À ton avis, combien de temps faut-il pour retrouver un ami dans la gare de Lyon à Paris ?|À ton avis, combien de temps faut-il pour faire une course dans le centre-ville ?
+ville-430|Voyage & Transports|nouvelle|Au-delà de quel prix hésiterais-tu à acheter une carte de transport rechargeable ?|Au-delà de quel prix hésiterais-tu à acheter une séance de cinéma de quartier ?
+ville-431|Voyage & Transports|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un billet adulte pour un bus touristique à Paris ?|Sur quel site ou dans quel magasin chercherais-tu une entrée adulte dans un musée municipal payant ?
+ville-432|Voyage & Transports|nouvelle|Qu’est-ce que tu ferais en premier si le métro s’arrête entre deux stations ?|Qu’est-ce que tu ferais en premier si un touriste te demande sa direction ?
+ville-433|Voyage & Transports|nouvelle|Dans quelle situation déciderais-tu de réserver une visite guidée de quartier ?|Dans quelle situation déciderais-tu d’acheter un ticket de navette entre un aéroport et le centre-ville ?
+ville-434|Voyage & Transports|nouvelle|Qui pourrait te donner le meilleur conseil pour retrouver un ami dans la gare de Lyon à Paris ?|Qui pourrait te donner le meilleur conseil pour faire une course dans le centre-ville ?
+ville-435|Voyage & Transports|nouvelle|À quel moment aurais-tu envie d’acheter un billet adulte pour un bus touristique à Paris ?|À quel moment aurais-tu envie d’acheter une entrée adulte dans un musée municipal payant ?
+ville-436|Voyage & Transports|nouvelle|Pour quelle occasion voudrais-tu réserver une nuit pour deux personnes dans un hôtel en centre-ville ?|Pour quelle occasion voudrais-tu acheter un pass touristique de deux jours ?
+ville-437|Voyage & Transports|nouvelle|Comment réagirais-tu si tu trouves un portefeuille sur le trottoir ?|Comment réagirais-tu si la rue que tu connais est barrée ?
+ville-438|Voyage & Transports|nouvelle|Où chercherais-tu un pass touristique de deux jours en premier ?|Où chercherais-tu un aller simple en TER pour un trajet de 50 km en premier ?
+ville-439|Voyage & Transports|nouvelle|Où chercherais-tu une séance de cinéma de quartier en premier ?|Où chercherais-tu un ticket pour un bateau-bus en premier ?
+ville-440|Voyage & Transports|nouvelle|À ton avis, combien coûte une entrée adulte dans un musée municipal payant ?|À ton avis, combien coûte un ticket de tramway à l’unité en France ?
+ville-441|Voyage & Transports|nouvelle|À ton avis, combien coûte un ticket de métro à l’unité à Paris ?|À ton avis, combien coûte un abonnement mensuel aux transports en commun à Paris ?
+ville-442|Voyage & Transports|nouvelle|À quel moment de la semaine préférerais-tu choisir un café pour travailler ?|À quel moment de la semaine préférerais-tu retrouver un ami dans la gare de Lyon à Paris ?
+ville-443|Voyage & Transports|nouvelle|Si tu devais acheter un billet de train régional au distributeur en gare, quelle serait ta priorité ?|Si tu devais trouver une adresse sans GPS, quelle serait ta priorité ?
+ville-444|Voyage & Transports|nouvelle|Quel créneau de la journée serait le plus pratique pour visiter un marché de quartier ?|Quel créneau de la journée serait le plus pratique pour préparer un trajet à vélo en ville ?
+ville-445|Voyage & Transports|nouvelle|Quel budget maximal prévoirais-tu pour une entrée à une exposition locale ?|Quel budget maximal prévoirais-tu pour une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-446|Voyage & Transports|nouvelle|Jusqu’à combien paierais-tu pour un aller simple en TER pour un trajet de 50 km ?|Jusqu’à combien paierais-tu pour un ticket de métro à l’unité à Paris ?
+ville-447|Voyage & Transports|nouvelle|Qui contacterais-tu pour t’aider à préparer un trajet en transports ?|Qui contacterais-tu pour t’aider à trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-448|Voyage & Transports|nouvelle|Combien de temps te faudrait-il pour choisir un café pour travailler ?|Combien de temps te faudrait-il pour retrouver un ami dans la gare de Lyon à Paris ?
+ville-449|Voyage & Transports|nouvelle|Qu’est-ce que tu ferais en premier si un bus passe devant toi sans s’arrêter ?|Qu’est-ce que tu ferais en premier si un cycliste sonne derrière toi ?
+ville-450|Voyage & Transports|nouvelle|Qu’est-ce que tu ferais en premier si un automobiliste te laisse passer ?|Qu’est-ce que tu ferais en premier si la machine à tickets est hors service ?
+ville-451|Voyage & Transports|nouvelle|Combien penses-tu que vaut une heure de stationnement dans un parking du centre de Paris ?|Combien penses-tu que vaut un café en terrasse ?
+ville-452|Voyage & Transports|nouvelle|En combien de temps pourrais-tu chercher un commerce ouvert le dimanche ?|En combien de temps pourrais-tu découvrir un quartier inconnu ?
+ville-453|Voyage & Transports|nouvelle|Jusqu’à combien paierais-tu pour un ticket pour un bateau-bus ?|Jusqu’à combien paierais-tu pour une entrée à une exposition locale ?
+ville-454|Voyage & Transports|nouvelle|Pour quelle occasion voudrais-tu acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Pour quelle occasion voudrais-tu réserver une visite guidée de quartier ?
+ville-455|Voyage & Transports|nouvelle|À qui demanderais-tu de l’aide pour visiter un marché de quartier ?|À qui demanderais-tu de l’aide pour préparer un trajet à vélo en ville ?
+ville-456|Voyage & Transports|nouvelle|Qui pourrait te donner le meilleur conseil pour acheter un billet de train régional au distributeur en gare ?|Qui pourrait te donner le meilleur conseil pour trouver une adresse sans GPS ?
+ville-457|Voyage & Transports|nouvelle|À ton avis, combien de temps faut-il pour préparer un changement de ligne ?|À ton avis, combien de temps faut-il pour chercher un commerce ouvert le dimanche ?
+ville-458|Voyage & Transports|nouvelle|Quel serait ton premier réflexe si tu te retrouves dans le mauvais bus ?|Quel serait ton premier réflexe si un passant t’indique un raccourci inattendu ?
+ville-459|Voyage & Transports|nouvelle|Quelle personne de ton entourage pourrait t’aider à faire une course dans le centre-ville ?|Quelle personne de ton entourage pourrait t’aider à visiter un marché de quartier ?
+ville-460|Voyage & Transports|nouvelle|Quel serait le meilleur moment pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?|Quel serait le meilleur moment pour repérer un restaurant près d’une gare ?
+ville-461|Voyage & Transports|nouvelle|Quel détail vérifierais-tu avant de visiter un marché de quartier ?|Quel détail vérifierais-tu avant de préparer un trajet à vélo en ville ?
+ville-462|Voyage & Transports|nouvelle|Quel détail vérifierais-tu avant d’organiser une visite de quartier ?|Quel détail vérifierais-tu avant de comparer deux itinéraires de métro ?
+ville-463|Voyage & Transports|nouvelle|Sur quel site ou dans quel magasin chercherais-tu un ticket de navette entre un aéroport et le centre-ville ?|Sur quel site ou dans quel magasin chercherais-tu un abonnement de vélos partagés ?
+ville-464|Voyage & Transports|nouvelle|Combien penses-tu que vaut un trajet de cinq kilomètres en taxi dans Paris ?|Combien penses-tu que vaut un billet adulte pour un bus touristique à Paris ?
+ville-465|Voyage & Transports|nouvelle|Jusqu’à combien paierais-tu pour un billet adulte pour un bus touristique à Paris ?|Jusqu’à combien paierais-tu pour une entrée adulte dans un musée municipal payant ?
+ville-466|Voyage & Transports|nouvelle|Selon toi, quel est le prix d’un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Selon toi, quel est le prix d’une visite guidée de quartier ?
+ville-467|Voyage & Transports|nouvelle|Quel détail vérifierais-tu avant de découvrir un quartier inconnu ?|Quel détail vérifierais-tu avant de préparer un trajet en transports ?
+ville-468|Voyage & Transports|nouvelle|À ton avis, combien coûte un abonnement de vélos partagés ?|À ton avis, combien coûte une carte de transport rechargeable ?
+ville-469|Voyage & Transports|nouvelle|Jusqu’à combien paierais-tu pour un café en terrasse ?|Jusqu’à combien paierais-tu pour un repas dans une brasserie de quartier ?
+ville-470|Voyage & Transports|nouvelle|À quel endroit irais-tu pour trouver une entrée adulte dans un musée municipal payant ?|À quel endroit irais-tu pour trouver un ticket de tramway à l’unité en France ?
+ville-471|Voyage & Transports|nouvelle|À quel moment de la semaine préférerais-tu préparer un trajet en transports ?|À quel moment de la semaine préférerais-tu trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-472|Voyage & Transports|nouvelle|Dans quelle situation déciderais-tu d’acheter une heure de stationnement dans un parking du centre de Paris ?|Dans quelle situation déciderais-tu d’acheter un café en terrasse ?
+ville-473|Voyage & Transports|nouvelle|À qui demanderais-tu de l’aide pour préparer un trajet de nuit ?|À qui demanderais-tu de l’aide pour choisir un café pour travailler ?
+ville-474|Voyage & Transports|nouvelle|Où chercherais-tu une heure de stationnement dans un parking du centre de Paris en premier ?|Où chercherais-tu un café en terrasse en premier ?
+ville-475|Voyage & Transports|nouvelle|En combien de temps pourrais-tu organiser une journée de visites à Rome sans voiture ?|En combien de temps pourrais-tu choisir un musée proche ?
+ville-476|Voyage & Transports|nouvelle|Combien de temps te faudrait-il pour préparer un trajet à vélo en ville ?|Combien de temps te faudrait-il pour trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-477|Voyage & Transports|nouvelle|Selon toi, quel est le prix d’une carte de transport rechargeable ?|Selon toi, quel est le prix d’une séance de cinéma de quartier ?
+ville-478|Voyage & Transports|nouvelle|Selon toi, quel est le prix d’un ticket de tramway à l’unité en France ?|Selon toi, quel est le prix d’une heure de stationnement dans un parking du centre de Paris ?
+ville-479|Voyage & Transports|nouvelle|Combien de temps te faudrait-il pour comparer deux itinéraires de métro ?|Combien de temps te faudrait-il pour acheter un billet de train régional au distributeur en gare ?
+ville-480|Voyage & Transports|nouvelle|Qui pourrait te donner le meilleur conseil pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?|Qui pourrait te donner le meilleur conseil pour repérer un restaurant près d’une gare ?
+ville-481|Voyage & Transports|nouvelle|Qu’est-ce qui te pousserait à acheter une entrée adulte dans un musée municipal payant ?|Qu’est-ce qui te pousserait à acheter un ticket de tramway à l’unité en France ?
+ville-482|Voyage & Transports|nouvelle|À ton avis, combien coûte une entrée à une exposition locale ?|À ton avis, combien coûte une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-483|Voyage & Transports|nouvelle|À quel moment aurais-tu envie d’acheter un café en terrasse ?|À quel moment aurais-tu envie de réserver un repas dans une brasserie de quartier ?
+ville-484|Voyage & Transports|nouvelle|Qui contacterais-tu pour t’aider à préparer un trajet à vélo en ville ?|Qui contacterais-tu pour t’aider à trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-485|Voyage & Transports|nouvelle|Qu’est-ce qui te pousserait à acheter un ticket de métro à l’unité à Paris ?|Qu’est-ce qui te pousserait à acheter un abonnement mensuel aux transports en commun à Paris ?
+ville-486|Voyage & Transports|nouvelle|Quelle serait ta première réaction si un ami te donne le mauvais lieu de rendez-vous ?|Quelle serait ta première réaction si un automobiliste te laisse passer ?
+ville-487|Voyage & Transports|nouvelle|À quel endroit irais-tu pour trouver une entrée à une exposition locale ?|À quel endroit irais-tu pour trouver une nuit pour deux personnes dans un hôtel en centre-ville ?
+ville-488|Voyage & Transports|nouvelle|Quel prix imagines-tu pour un café en terrasse ?|Quel prix imagines-tu pour un repas dans une brasserie de quartier ?
+ville-489|Voyage & Transports|nouvelle|À quel moment de la semaine préférerais-tu préparer un trajet à vélo en ville ?|À quel moment de la semaine préférerais-tu trouver une terrasse de café calme à moins de dix minutes à pied ?
+ville-490|Voyage & Transports|nouvelle|Au-delà de quel prix hésiterais-tu à acheter un vélo de ville d’occasion en bon état, de moins de cinq ans ?|Au-delà de quel prix hésiterais-tu à réserver une visite guidée de quartier ?
+ville-491|Voyage & Transports|nouvelle|Quelle personne de ton entourage pourrait t’aider à organiser une journée de visites à Rome sans voiture ?|Quelle personne de ton entourage pourrait t’aider à choisir un musée proche ?
+ville-492|Voyage & Transports|nouvelle|Dans quelle situation déciderais-tu d’acheter un pass touristique de deux jours ?|Dans quelle situation déciderais-tu d’acheter un aller simple en TER pour un trajet de 50 km ?
+ville-493|Voyage & Transports|nouvelle|À quel moment aurais-tu envie d’acheter un aller simple en TER pour un trajet de 50 km ?|À quel moment aurais-tu envie d’acheter un ticket de métro à l’unité à Paris ?
+ville-494|Voyage & Transports|nouvelle|Qu’est-ce que tu dirais sur le moment si tu te trompes de sortie de métro ?|Qu’est-ce que tu dirais sur le moment si un bus passe devant toi sans s’arrêter ?
+ville-495|Voyage & Transports|nouvelle|Quel budget maximal prévoirais-tu pour un abonnement de vélos partagés ?|Quel budget maximal prévoirais-tu pour une carte de transport rechargeable ?
+ville-496|Voyage & Transports|nouvelle|Quelle serait ta principale difficulté pour choisir un café pour travailler ?|Quelle serait ta principale difficulté pour retrouver un ami dans la gare de Lyon à Paris ?
+ville-497|Voyage & Transports|nouvelle|Quel budget maximal prévoirais-tu pour un ticket de métro à l’unité à Paris ?|Quel budget maximal prévoirais-tu pour un abonnement mensuel aux transports en commun à Paris ?
+ville-498|Voyage & Transports|nouvelle|Comment réagirais-tu si la machine à tickets est hors service ?|Comment réagirais-tu si tu te retrouves dans le mauvais bus ?
+ville-499|Voyage & Transports|nouvelle|Qu’est-ce qui te pousserait à acheter un abonnement de vélos partagés ?|Qu’est-ce qui te pousserait à acheter une carte de transport rechargeable ?
+ville-500|Voyage & Transports|nouvelle|Comment réagirais-tu si un touriste te demande sa direction ?|Comment réagirais-tu si un chauffeur manque ton arrêt ?
+ville-501|Voyage & Transports|nouvelle|Quel serait le point le plus important pour repérer un restaurant près d’une gare ?|Quel serait le point le plus important pour organiser une visite de quartier ?
+ville-502|Voyage & Transports|nouvelle|Quelle serait ta principale difficulté pour trouver un parcours de promenade accessible en fauteuil roulant ?|Quelle serait ta principale difficulté pour préparer un changement de ligne ?
+ville-503|Voyage & Transports|nouvelle|Comment réagirais-tu si un cycliste sonne derrière toi ?|Comment réagirais-tu si un piéton te demande l’heure ?
+ville-504|Voyage & Transports|nouvelle|Combien de temps prévoirais-tu pour préparer un trajet de nuit ?|Combien de temps prévoirais-tu pour choisir un café pour travailler ?
+ville-505|Voyage & Transports|nouvelle|À quel moment aurais-tu envie d’acheter un ticket de navette entre un aéroport et le centre-ville ?|À quel moment aurais-tu envie d’acheter un abonnement de vélos partagés ?
+ville-506|Voyage & Transports|nouvelle|Pour quelle occasion voudrais-tu acheter un abonnement mensuel aux transports en commun à Paris ?|Pour quelle occasion voudrais-tu acheter un trajet de cinq kilomètres en taxi dans Paris ?
+ville-507|Voyage & Transports|nouvelle|Qui pourrait te donner le meilleur conseil pour préparer un changement de ligne ?|Qui pourrait te donner le meilleur conseil pour chercher un commerce ouvert le dimanche ?
+ville-508|Voyage & Transports|nouvelle|Jusqu’à combien paierais-tu pour un ticket de navette entre un aéroport et le centre-ville ?|Jusqu’à combien paierais-tu pour un abonnement de vélos partagés ?
+ville-509|Voyage & Transports|nouvelle|Qu’est-ce que tu dirais sur le moment si ton train change de quai au dernier moment ?|Qu’est-ce que tu dirais sur le moment si un inconnu te demande de prendre une photo ?
+ville-510|Voyage & Transports|nouvelle|Qu’est-ce que tu dirais sur le moment si un ami te donne le mauvais lieu de rendez-vous ?|Qu’est-ce que tu dirais sur le moment si un automobiliste te laisse passer ?
+ville-511|Voyage & Transports|nouvelle|Combien de temps te faudrait-il pour préparer un trajet en transports ?|Combien de temps te faudrait-il pour trouver une place de stationnement payante pendant deux heures dans le centre-ville ?
+ville-512|Voyage & Transports|nouvelle|Où irais-tu pour acheter un ticket de tramway à l’unité en France ?|Où irais-tu pour acheter une heure de stationnement dans un parking du centre de Paris ?
+ville-513|Voyage & Transports|nouvelle|À ton avis, combien de temps faut-il pour trouver une terrasse de café calme à moins de dix minutes à pied ?|À ton avis, combien de temps faut-il pour organiser une journée de visites à Rome sans voiture ?
+ville-514|Voyage & Transports|nouvelle|Dans quelle situation déciderais-tu d’acheter un trajet de cinq kilomètres en taxi dans Paris ?|Dans quelle situation déciderais-tu d’acheter un billet adulte pour un bus touristique à Paris ?
+ville-515|Voyage & Transports|nouvelle|Comment répondrais-tu si un chauffeur manque ton arrêt ?|Comment répondrais-tu si tu te trompes de sortie de métro ?
+ville-516|Voyage & Transports|nouvelle|Pour quelle occasion voudrais-tu acheter un ticket de tramway à l’unité en France ?|Pour quelle occasion voudrais-tu acheter une heure de stationnement dans un parking du centre de Paris ?
