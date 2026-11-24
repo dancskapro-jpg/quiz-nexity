@@ -1,0 +1,399 @@
+spicy-070|G|T|
+spicy-071|G|A|
+spicy-072|G|T|
+spicy-073|G|T|
+spicy-074|G|T|
+spicy-075|R|T|quasi identiques
+spicy-076|G|T|
+spicy-077|R|T|quasi identiques
+spicy-078|G|T|
+spicy-079|R|A|quasi identiques
+spicy-080|R|T|quasi identiques : même réponse
+spicy-081|G|T|
+spicy-082|G|T|
+spicy-083|G|T|
+spicy-084|G|T|
+spicy-085|G|T|
+spicy-086|G|T|
+spicy-087|G|T|
+spicy-088|G|T|
+spicy-089|G|T|
+spicy-090|G|T|
+spicy-091|G|A|
+spicy-092|G|A|
+spicy-093|G|A|
+spicy-094|G|A|
+spicy-095|G|A|
+spicy-096|G|A|
+spicy-097|G|A|
+spicy-098|G|A|
+spicy-099|G|T|
+spicy-100|G|A|
+spicy-101|G|T|
+spicy-102|G|T|
+spicy-103|G|T|
+spicy-104|G|A|
+spicy-105|R|T|quasi identiques : même réponse
+spicy-106|R|T|quasi identiques
+spicy-107|R|T|mal formulée
+spicy-108|G|T|
+spicy-109|G|T|
+spicy-110|G|T|
+spicy-111|G|T|
+spicy-112|G|T|
+spicy-113|G|T|
+spicy-114|G|T|
+spicy-115|G|T|
+spicy-116|G|T|
+spicy-117|G|A|
+spicy-118|G|T|
+spicy-119|G|T|
+spicy-120|G|T|
+spicy-121|G|T|
+spicy-122|G|T|
+spicy-123|G|A|
+spicy-124|G|T|
+spicy-125|G|T|
+spicy-126|G|T|
+spicy-127|G|T|
+spicy-128|G|T|
+spicy-129|G|A|
+spicy-130|G|T|
+spicy-131|G|T|
+spicy-132|G|T|
+spicy-133|G|T|
+spicy-134|G|T|
+spicy-135|G|A|
+spicy-136|G|T|
+spicy-137|G|T|
+spicy-138|G|T|
+spicy-139|G|T|
+spicy-140|G|T|
+spicy-141|G|A|
+spicy-142|G|T|
+spicy-143|G|T|
+spicy-144|G|T|
+spicy-145|G|T|
+spicy-146|G|T|
+spicy-147|G|T|
+spicy-148|G|T|
+spicy-149|G|T|
+spicy-150|G|T|
+spicy-151|G|T|
+spicy-152|G|T|
+spicy-153|G|T|
+spicy-154|G|T|
+spicy-155|G|T|
+spicy-156|G|T|
+spicy-157|G|T|
+spicy-158|G|T|
+spicy-159|G|A|
+spicy-160|G|T|
+spicy-161|R|T|intrus trop facile : options différentes
+spicy-162|R|T|intrus trop facile : options différentes
+spicy-163|R|T|intrus trop facile : options différentes
+spicy-164|R|T|intrus trop facile : options différentes
+spicy-165|R|T|intrus trop facile : options différentes
+spicy-166|R|T|intrus trop facile : options différentes
+spicy-167|R|T|intrus trop facile : options différentes
+spicy-168|R|T|intrus trop facile : options différentes
+spicy-169|R|T|intrus trop facile : options différentes
+spicy-170|R|T|intrus trop facile : options différentes
+spicy-171|G|A|
+spicy-172|G|T|
+spicy-173|G|T|
+spicy-174|G|T|
+spicy-175|G|T|
+spicy-176|G|T|
+spicy-177|G|T|
+spicy-178|R|T|doublon de spicy-084
+spicy-179|G|T|
+spicy-180|G|T|
+spicy-181|G|T|
+spicy-182|G|A|
+spicy-183|R|T|doublon de spicy-102
+spicy-184|G|A|
+spicy-185|G|A|
+spicy-186|G|A|
+spicy-187|G|A|
+spicy-188|R|T|doublon de spicy-115
+spicy-189|G|T|
+spicy-190|G|T|
+spicy-191|G|T|
+spicy-192|R|A|quasi identiques
+spicy-193|G|T|
+spicy-194|R|A|quasi identiques : même réponse
+spicy-195|G|A|
+spicy-196|G|T|
+spicy-197|G|A|
+spicy-198|G|A|
+spicy-199|R|A|doublon de spicy-104
+spicy-200|G|A|
+halloween-613|G|T|
+halloween-614|R|T|absurde : créneau de la journée sans intérêt
+halloween-615|R|T|trop vague
+halloween-616|R|T|ennuyeuse : même magasin pour les deux
+halloween-617|G|T|
+halloween-618|G|T|
+halloween-619|R|T|ennuyeuse : même magasin pour les deux
+halloween-620|G|T|
+halloween-621|R|T|ennuyeuse : même magasin pour les deux
+halloween-622|R|T|intrus trop facile : situations sans rapport
+halloween-623|R|T|absurde : créneau de la journée sans intérêt
+halloween-624|R|T|ennuyeuse : moment de la journée sans intérêt
+halloween-625|G|T|
+halloween-626|R|T|trop vague
+halloween-627|G|T|
+halloween-628|G|T|
+halloween-629|R|T|absurde : créneau de la journée sans intérêt
+halloween-630|R|T|intrus trop facile : situations sans rapport
+halloween-631|R|T|mal formulée (guirlande pour l'extérieur orange)
+halloween-632|G|T|
+halloween-633|R|T|trop vague
+halloween-634|G|T|
+halloween-635|G|T|
+halloween-636|R|T|intrus trop facile : situations sans rapport
+halloween-637|R|T|intrus trop facile : situations sans rapport
+halloween-638|R|T|mal formulée (guirlande pour l'extérieur orange)
+halloween-639|G|T|
+halloween-640|R|T|doublon de halloween-628
+halloween-641|R|T|doublon de halloween-613
+halloween-642|R|T|doublon de halloween-618
+halloween-643|R|T|mal formulée (guirlande pour l'extérieur orange)
+halloween-644|R|T|doublon de halloween-639
+halloween-645|G|T|
+halloween-646|R|T|doublon de halloween-613 et même magasin
+halloween-647|G|T|
+halloween-648|R|T|intrus trop facile : situations sans rapport
+halloween-649|G|T|
+halloween-650|G|T|
+halloween-651|G|T|
+halloween-652|R|T|doublon de halloween-648
+halloween-653|R|T|trop vague
+halloween-654|R|T|quasi identiques
+halloween-655|R|T|mal formulée (guirlande pour l'extérieur orange)
+halloween-656|G|T|
+halloween-657|R|T|trop vague
+halloween-658|G|T|
+halloween-659|R|T|intrus trop facile : situations sans rapport
+halloween-660|R|T|ennuyeuse
+halloween-661|R|T|absurde : moment de la semaine sans intérêt
+halloween-662|R|T|intrus trop facile : situations sans rapport
+halloween-663|R|T|trop vague
+halloween-664|R|T|trop vague
+halloween-665|R|T|doublon de halloween-627
+halloween-666|R|T|trop vague
+halloween-667|R|T|trop vague
+halloween-668|R|T|absurde et doublon de halloween-617
+halloween-669|G|T|
+halloween-670|R|T|trop vague
+halloween-671|G|T|
+halloween-672|R|T|trop vague
+halloween-673|R|T|trop vague et mal formulée
+halloween-674|R|T|ennuyeuse et mal formulée
+halloween-675|R|T|ennuyeuse : même magasin pour les deux
+halloween-676|R|T|doublon de halloween-645
+halloween-677|G|T|
+halloween-678|R|T|doublon de halloween-613
+halloween-679|G|T|
+halloween-680|R|T|trop vague
+halloween-681|G|T|
+halloween-682|R|T|trop vague
+halloween-683|R|T|trop vague
+halloween-684|R|T|trop vague
+halloween-685|R|T|intrus trop facile : situations sans rapport
+halloween-686|G|T|
+halloween-687|R|T|intrus trop facile : situations sans rapport
+halloween-688|R|T|trop vague
+halloween-689|R|T|doublon de halloween-632
+halloween-690|G|T|
+halloween-691|R|T|absurde : créneau de la journée sans intérêt
+halloween-692|R|T|trop vague
+halloween-693|R|T|absurde : moment de la semaine sans intérêt
+halloween-694|R|T|doublon de halloween-650
+halloween-695|R|T|ennuyeuse : même magasin pour les deux
+halloween-696|R|T|intrus trop facile : situations sans rapport
+halloween-697|G|T|
+halloween-698|R|T|trop vague
+halloween-699|R|T|ennuyeuse : même magasin pour les deux
+halloween-700|R|T|trop vague
+halloween-701|R|T|doublon de halloween-671
+halloween-702|R|T|intrus trop facile : situations sans rapport
+halloween-703|R|T|doublon de halloween-617
+halloween-704|G|T|
+halloween-705|G|T|
+halloween-706|R|T|ennuyeuse : moment de la journée sans intérêt
+halloween-707|G|T|
+halloween-708|R|T|absurde : réponse évidente (Halloween)
+halloween-709|G|T|
+halloween-710|R|T|absurde : réponse évidente
+halloween-711|G|T|
+halloween-712|R|T|doublon de halloween-704
+halloween-713|R|T|trop vague
+halloween-714|R|T|ennuyeuse : même magasin pour les deux
+halloween-715|G|T|
+halloween-716|R|T|ennuyeuse : même magasin pour les deux
+halloween-717|R|T|intrus trop facile : situations sans rapport
+halloween-718|G|T|
+halloween-719|R|T|ennuyeuse : même magasin pour les deux
+halloween-720|R|T|doublon de halloween-649
+halloween-721|R|T|ennuyeuse : moment de la journée sans intérêt
+halloween-722|R|T|doublon de halloween-622
+halloween-723|R|T|absurde (choisir un parcours de maisons décorées)
+halloween-724|R|T|absurde : réponse évidente (Halloween)
+halloween-725|R|T|intrus trop facile : situations sans rapport
+halloween-726|R|T|ennuyeuse
+halloween-727|R|T|ennuyeuse : même magasin pour les deux
+halloween-728|R|T|quasi identiques : même réponse
+halloween-729|R|T|ennuyeuse
+halloween-730|R|T|intrus trop facile : situations sans rapport
+halloween-731|R|T|ennuyeuse : moment de la journée sans intérêt
+halloween-732|R|T|intrus trop facile : situations sans rapport
+halloween-733|R|T|absurde : moment de la semaine sans intérêt
+halloween-734|R|T|intrus trop facile : situations sans rapport
+halloween-735|R|T|trop vague
+halloween-736|R|T|doublon de halloween-627
+halloween-737|R|T|doublon de halloween-696
+halloween-738|R|T|trop vague
+halloween-739|G|T|
+halloween-740|R|T|doublon de halloween-690
+halloween-741|G|T|
+halloween-742|R|T|doublon de halloween-630
+halloween-743|R|T|trop vague
+halloween-744|R|T|trop vague
+halloween-745|R|T|doublon de halloween-715
+halloween-746|R|T|doublon de halloween-656
+halloween-747|R|T|doublon de halloween-637
+halloween-748|G|T|
+halloween-749|R|T|doublon de halloween-681
+halloween-750|R|T|doublon de halloween-705
+halloween-751|R|T|doublon de halloween-625
+halloween-752|R|T|doublon de halloween-620
+halloween-753|R|T|doublon de halloween-697
+halloween-754|R|T|ennuyeuse
+halloween-755|R|T|trop vague
+halloween-756|R|T|doublon de halloween-625
+halloween-757|R|T|ennuyeuse : même magasin pour les deux
+halloween-758|G|T|
+halloween-759|R|T|doublon de halloween-635
+halloween-760|G|T|
+halloween-761|R|T|trop vague
+halloween-762|R|T|doublon de halloween-702
+halloween-763|R|T|absurde : moment de la semaine sans intérêt
+halloween-764|G|T|
+halloween-765|R|T|doublon de halloween-718
+halloween-766|R|T|absurde : réponse évidente
+halloween-767|R|T|ennuyeuse : même magasin pour les deux
+halloween-768|R|T|absurde (choisir un parcours de maisons décorées)
+halloween-769|G|T|
+halloween-770|R|T|doublon de halloween-634
+halloween-771|G|T|
+halloween-772|R|T|doublon de halloween-620
+halloween-773|R|T|doublon de halloween-734
+halloween-774|R|T|doublon de halloween-705
+halloween-775|R|T|trop vague
+halloween-776|G|T|
+halloween-777|R|T|ennuyeuse : même magasin pour les deux
+halloween-778|R|T|doublon de halloween-776
+halloween-779|R|T|ennuyeuse : même magasin pour les deux
+halloween-780|R|T|trop vague
+halloween-781|R|T|doublon de halloween-772
+halloween-782|R|T|doublon de halloween-771
+halloween-783|R|T|ennuyeuse : même magasin pour les deux
+halloween-784|R|T|doublon de halloween-636
+halloween-785|R|T|doublon de halloween-760
+halloween-786|R|T|doublon de halloween-628
+halloween-787|R|T|doublon de halloween-613
+halloween-788|G|T|
+halloween-789|R|T|doublon de halloween-748
+halloween-790|R|T|doublon de halloween-758
+halloween-791|R|T|doublon de halloween-617
+halloween-792|R|T|doublon de halloween-662
+halloween-793|R|T|trop vague
+halloween-794|R|T|trop vague
+halloween-795|R|T|mal formulée (guirlande pour l'extérieur orange)
+halloween-796|R|T|absurde : moment de la semaine sans intérêt
+halloween-797|R|T|ennuyeuse : même magasin pour les deux
+halloween-798|R|T|doublon de halloween-651
+halloween-799|R|T|doublon de halloween-764
+halloween-800|R|T|absurde : réponse évidente
+halloween-801|R|T|doublon de halloween-769
+halloween-802|R|T|doublon de halloween-687
+halloween-803|R|T|ennuyeuse
+halloween-804|R|T|doublon de halloween-788
+halloween-805|R|T|mal formulée (guirlande pour l'extérieur orange)
+halloween-806|R|T|ennuyeuse : même magasin pour les deux
+halloween-807|R|T|doublon de halloween-730
+halloween-808|R|T|doublon de halloween-658
+halloween-809|R|T|absurde : créneau de la journée sans intérêt
+halloween-810|R|T|doublon de halloween-685
+halloween-811|R|T|trop vague
+halloween-812|R|T|doublon de halloween-711
+noel-001|G|T|
+noel-002|G|T|
+noel-005|G|T|
+noel-006|G|T|
+noel-009|G|T|
+noel-011|G|T|
+noel-014|G|T|
+noel-028|G|T|
+noel-045|G|T|
+noel-063|G|T|
+noel-066|G|T|
+noel-070|G|T|
+noel-081|G|T|
+noel-318|R|T|mal formulée (guirlande pour l'extérieur pour sapin)
+noel-319|R|T|trop vague
+noel-320|R|T|ennuyeuse
+noel-321|R|T|absurde : créneau de la journée sans intérêt
+noel-322|R|T|trop vague
+noel-323|G|T|
+noel-324|R|T|ennuyeuse : même magasin pour les deux
+noel-325|R|T|intrus trop facile : situations sans rapport
+noel-326|R|T|trop vague
+noel-327|G|T|
+noel-328|R|T|mal formulée (guirlande pour l'extérieur pour sapin)
+noel-329|R|T|ennuyeuse : même magasin pour les deux
+noel-330|R|T|intrus trop facile : situations sans rapport
+noel-331|R|T|trop vague
+noel-332|R|T|doublon de noel-323
+noel-333|R|T|trop vague
+noel-334|G|T|
+noel-335|R|T|absurde (préparer une balade au marché)
+noel-336|R|T|absurde : moment de la semaine sans intérêt
+noel-337|G|T|
+noel-338|R|T|ennuyeuse
+noel-339|G|T|
+noel-340|G|T|
+noel-341|G|T|
+noel-342|G|T|
+noel-343|R|T|doublon de noel-340
+noel-344|R|T|doublon de noel-341
+noel-345|R|T|doublon de noel-337
+noel-346|R|T|intrus trop facile : situations sans rapport
+noel-347|R|T|intrus trop facile : situations sans rapport
+noel-348|R|T|ennuyeuse : même magasin pour les deux
+noel-349|R|T|trop vague
+noel-350|R|T|intrus trop facile : situations sans rapport
+noel-351|R|T|intrus trop facile : situations sans rapport
+noel-352|G|T|
+noel-353|R|T|doublon de noel-352
+noel-354|G|T|
+noel-355|R|T|ennuyeuse : même magasin pour les deux
+noel-356|G|T|
+noel-357|R|T|ennuyeuse : même magasin pour les deux
+noel-358|G|T|
+noel-359|R|T|absurde : réponse évidente
+noel-360|R|T|ennuyeuse : même magasin pour les deux
+noel-361|G|T|
+noel-362|R|T|intrus trop facile : situations sans rapport
+noel-363|R|T|absurde : réponse évidente
+noel-364|R|T|intrus trop facile : situations sans rapport
+noel-365|G|T|
+noel-366|R|T|absurde : moment de la semaine sans intérêt
+noel-367|R|T|doublon de noel-351
+noel-368|G|T|
+noel-369|R|T|doublon de noel-362
+noel-370|G|T|
+noel-371|R|T|intrus trop facile : situations sans rapport
+noel-372|R|T|trop vague

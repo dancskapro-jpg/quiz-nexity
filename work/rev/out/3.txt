@@ -1,0 +1,300 @@
+bouffe-851|G|T|
+bouffe-852|G|T|
+bouffe-853|G|T|
+bouffe-854|G|T|
+bouffe-855|G|T|
+bouffe-856|R|T|mal formulée : acheter au restaurant, réponse dans la question
+bouffe-857|G|T|
+bouffe-858|G|T|
+bouffe-859|G|T|
+bouffe-860|G|T|
+bouffe-861|R|T|absurde : chercher une crêpe sur un site
+bouffe-862|G|A|
+bouffe-863|G|T|
+bouffe-864|G|T|
+bouffe-865|G|T|
+bouffe-866|G|T|
+bouffe-867|G|T|
+bouffe-868|G|T|
+bouffe-869|G|T|
+bouffe-870|G|T|
+bouffe-871|G|A|
+bouffe-872|G|T|
+bouffe-873|G|T|
+bouffe-874|G|T|
+bouffe-875|G|T|
+bouffe-876|G|A|
+bouffe-877|G|T|
+bouffe-878|R|T|mal formulée et ennuyeuse (fréquence « aimerais-tu »)
+bouffe-879|G|T|
+bouffe-880|G|T|
+bouffe-881|G|T|
+restaurants-service-001|G|T|
+restaurants-service-002|G|T|
+restaurants-service-003|G|T|
+restaurants-service-004|R|T|intrus trop facile : écart de prix énorme (café / sushis)
+restaurants-service-005|G|T|
+restaurants-service-006|R|T|intrus trop facile : écart de prix énorme
+restaurants-service-007|R|T|intrus trop facile : écart de prix, livraison ambiguë
+restaurants-service-008|R|T|intrus trop facile : écart de prix, eau ennuyeuse
+restaurants-service-009|G|T|
+restaurants-service-010|G|T|
+restaurants-service-011|G|T|
+restaurants-service-012|G|T|
+restaurants-service-013|G|T|
+restaurants-service-014|G|T|
+restaurants-service-015|G|T|
+restaurants-service-016|R|T|intrus trop facile : écart de prix énorme
+restaurants-service-017|R|T|intrus trop facile : écart de prix énorme
+restaurants-service-018|R|T|intrus trop facile : écart de prix, livraison ambiguë
+restaurants-service-019|R|T|intrus trop facile : écart de prix, eau ennuyeuse
+restaurants-service-020|R|T|intrus trop facile : écart de prix
+restaurants-service-021|R|T|doublon de restaurants-service-001
+restaurants-service-022|R|T|doublon de restaurants-service-002
+restaurants-service-023|R|T|doublon de restaurants-service-003
+restaurants-service-024|R|T|doublon de restaurants-service-004
+restaurants-service-025|R|T|doublon de restaurants-service-005
+restaurants-service-026|G|T|
+restaurants-service-027|G|T|
+restaurants-service-028|G|T|
+restaurants-service-029|G|T|
+restaurants-service-030|G|T|
+restaurants-service-031|G|T|
+restaurants-service-032|R|T|intrus trop facile : situation négative / positive
+restaurants-service-033|G|T|
+restaurants-service-034|G|T|
+restaurants-service-035|G|T|
+restaurants-service-036|G|T|
+restaurants-service-037|G|T|
+restaurants-service-038|G|T|
+restaurants-service-039|G|T|
+restaurants-service-040|G|T|
+restaurants-service-041|R|T|intrus trop facile : situation positive / négative
+restaurants-service-042|G|T|
+restaurants-service-043|G|T|
+restaurants-service-044|G|T|
+restaurants-service-045|G|T|
+restaurants-service-046|R|T|doublon de restaurants-service-026
+restaurants-service-047|R|T|doublon de restaurants-service-027
+restaurants-service-048|R|T|doublon de restaurants-service-028
+restaurants-service-049|R|T|doublon de restaurants-service-029
+restaurants-service-050|R|T|doublon de restaurants-service-030
+restaurants-service-051|G|T|
+restaurants-service-052|G|T|
+restaurants-service-053|R|T|A et B quasi identiques (réservation perdue)
+restaurants-service-054|G|T|
+restaurants-service-055|G|T|
+restaurants-service-056|G|T|
+restaurants-service-057|G|T|
+restaurants-service-058|G|T|
+restaurants-service-059|R|T|mal formulée : « mauvaise note de table »
+restaurants-service-060|R|T|intrus trop facile : situation négative / positive
+restaurants-service-061|G|T|
+restaurants-service-062|G|T|
+restaurants-service-063|G|T|
+restaurants-service-064|G|T|
+restaurants-service-065|G|T|
+restaurants-service-066|G|T|
+restaurants-service-067|G|T|
+restaurants-service-068|R|T|mal formulée : « mauvaise note de table »
+restaurants-service-069|R|T|intrus trop facile : situation positive / négative
+restaurants-service-070|G|T|
+restaurants-service-071|R|T|doublon de restaurants-service-051
+restaurants-service-072|R|T|doublon de restaurants-service-052
+restaurants-service-073|R|T|doublon de restaurants-service-053, A et B quasi identiques
+restaurants-service-074|R|T|doublon de restaurants-service-054
+restaurants-service-075|R|T|doublon de restaurants-service-055
+restaurants-service-076|R|T|intrus trop facile : options différentes
+restaurants-service-077|R|T|intrus trop facile : options différentes
+restaurants-service-078|R|T|intrus trop facile : options différentes
+restaurants-service-079|R|T|intrus trop facile : options différentes
+restaurants-service-080|R|T|intrus trop facile : options différentes
+restaurants-service-081|R|T|intrus trop facile : options différentes
+restaurants-service-082|R|T|intrus trop facile : options différentes
+restaurants-service-083|R|T|intrus trop facile : options différentes
+restaurants-service-084|R|T|intrus trop facile : options différentes
+restaurants-service-085|R|T|intrus trop facile : options différentes
+restaurants-service-086|R|T|intrus trop facile : options différentes
+restaurants-service-087|R|T|intrus trop facile : options différentes
+restaurants-service-088|R|T|intrus trop facile : options différentes
+restaurants-service-089|R|T|intrus trop facile : options différentes
+restaurants-service-090|R|T|intrus trop facile : options différentes
+restaurants-service-091|R|T|intrus trop facile : options différentes
+restaurants-service-092|R|T|intrus trop facile : options différentes
+restaurants-service-093|R|T|intrus trop facile : options différentes
+restaurants-service-094|R|T|intrus trop facile : options différentes
+restaurants-service-095|R|T|intrus trop facile : options différentes
+restaurants-service-096|R|T|intrus trop facile : options différentes
+restaurants-service-097|R|T|intrus trop facile : options différentes
+restaurants-service-098|R|T|intrus trop facile : options différentes
+restaurants-service-099|R|T|intrus trop facile : options différentes
+restaurants-service-100|R|T|intrus trop facile : options différentes
+restaurants-service-101|G|A|
+restaurants-service-102|G|T|
+restaurants-service-103|R|T|mal formulée : attendre un plat en retard de trente minutes
+restaurants-service-104|R|T|ennuyeuse : service client
+restaurants-service-105|R|T|ennuyeuse : vérifier un remboursement
+restaurants-service-106|R|T|ennuyeuse : comparer des prix
+restaurants-service-107|R|T|ennuyeuse : réclamation
+restaurants-service-108|R|T|mal formulée (passerais/passer) et ennuyeuse
+restaurants-service-109|G|T|
+restaurants-service-110|G|A|
+restaurants-service-111|G|T|
+restaurants-service-112|R|T|mal formulée : attendre un plat en retard de trente minutes
+restaurants-service-113|R|T|ennuyeuse : service client
+restaurants-service-114|R|T|ennuyeuse : vérifier un remboursement
+restaurants-service-115|R|T|ennuyeuse : comparer des prix
+restaurants-service-116|G|T|
+restaurants-service-117|R|T|ennuyeuse : numéro de réservation perdue
+restaurants-service-118|R|T|ennuyeuse : réclamation et avis
+restaurants-service-119|G|T|
+restaurants-service-120|G|T|
+restaurants-service-121|R|A|doublon de restaurants-service-101
+restaurants-service-122|R|T|doublon de restaurants-service-102
+restaurants-service-123|R|T|doublon de restaurants-service-103, mal formulée
+restaurants-service-124|R|T|doublon de restaurants-service-104
+restaurants-service-125|R|T|doublon de restaurants-service-105
+restaurants-service-126|R|T|mal formulée et réponse évidente (le serveur)
+restaurants-service-127|R|A|mal formulée : demander un avis pour obtenir une facture
+restaurants-service-128|R|T|ennuyeuse : remboursement, garantie
+restaurants-service-129|G|T|
+restaurants-service-130|R|T|mal formulée : demander un avis pour signaler
+restaurants-service-131|R|T|ennuyeuse : réponse évidente (le restaurant)
+restaurants-service-132|R|T|mal formulée : demander conseil pour demander
+restaurants-service-133|R|T|ennuyeuse : réponse évidente (le serveur)
+restaurants-service-134|R|T|ennuyeuse et B sans rapport avec A
+restaurants-service-135|R|T|mal formulée et réponse évidente (le serveur)
+restaurants-service-136|R|A|ennuyeuse : facture de repas professionnel
+restaurants-service-137|R|T|ennuyeuse : appareil sous garantie
+restaurants-service-138|R|T|ennuyeuse : réponse évidente (le restaurant)
+restaurants-service-139|R|T|mal formulée : demander un avis pour obtenir un remboursement
+restaurants-service-140|R|T|ennuyeuse : objet oublié, B sans rapport
+restaurants-service-141|R|T|mal formulée : demander conseil pour demander
+restaurants-service-142|R|T|mal formulée : demander un avis pour résoudre un souci
+restaurants-service-143|R|T|ennuyeuse : réclamation
+restaurants-service-144|R|T|mal formulée : demander conseil pour signaler
+restaurants-service-145|R|T|ennuyeuse : réponse évidente (le restaurant)
+restaurants-service-146|R|T|mal formulée et réponse évidente (le serveur)
+restaurants-service-147|R|A|ennuyeuse : facture de repas professionnel
+restaurants-service-148|R|T|mal formulée et ennuyeuse (garantie)
+restaurants-service-149|R|T|doublon de restaurants-service-129
+restaurants-service-150|R|T|mal formulée : demander un avis pour signaler
+restaurants-service-151|G|A|
+restaurants-service-152|G|A|
+restaurants-service-153|R|T|mal formulée : « dans quel lieu… dans un restaurant »
+restaurants-service-154|G|T|
+restaurants-service-155|G|T|
+restaurants-service-156|G|A|
+restaurants-service-157|R|T|mal formulée : « dans quel lieu trouver une boulangerie »
+restaurants-service-158|G|T|
+restaurants-service-159|R|T|mal formulée : « où… dans un endroit calme »
+restaurants-service-160|G|T|
+restaurants-service-161|G|A|
+restaurants-service-162|G|A|
+restaurants-service-163|G|T|
+restaurants-service-164|R|T|mal formulée : « à quel endroit… dans un restaurant »
+restaurants-service-165|G|A|
+restaurants-service-166|R|T|mal formulée : « où trouver une boulangerie »
+restaurants-service-167|G|T|
+restaurants-service-168|R|T|mal formulée : « dans quel lieu… dans un endroit calme »
+restaurants-service-169|G|T|
+restaurants-service-170|R|T|bizarre : poisson du jour dans un quartier touristique
+restaurants-service-171|R|A|doublon de restaurants-service-151
+restaurants-service-172|R|A|doublon de restaurants-service-152
+restaurants-service-173|R|T|doublon de restaurants-service-153, mal formulée
+restaurants-service-174|R|T|doublon de restaurants-service-154
+restaurants-service-175|R|T|doublon de restaurants-service-155
+restaurants-service-176|R|T|intrus trop facile : cuisines trop différentes
+restaurants-service-177|G|T|
+restaurants-service-178|R|T|intrus trop facile : cuisines trop différentes
+restaurants-service-179|G|T|
+restaurants-service-180|G|T|
+restaurants-service-181|G|T|
+restaurants-service-182|R|A|mal formulée : « si tu choisissais dans une cantine »
+restaurants-service-183|R|T|mal formulée : « choisissais un plat dans une cuisine coréenne »
+restaurants-service-184|R|T|intrus trop facile : cuisines trop différentes
+restaurants-service-185|R|T|trop vague : petite adresse de quartier
+restaurants-service-186|G|T|
+restaurants-service-187|R|T|intrus trop facile : cuisines trop différentes
+restaurants-service-188|R|T|mal formulée : « commanderais-tu si tu commandais »
+restaurants-service-189|R|T|mal formulée : « mangerais si tu mangeais »
+restaurants-service-190|R|T|intrus trop facile : cuisines trop différentes
+restaurants-service-191|R|T|intrus trop facile : sandwicherie / végétarien
+restaurants-service-192|R|T|mal formulée : « choisirais comme plat si tu choisissais un plat »
+restaurants-service-193|R|A|intrus trop facile : cuisines trop différentes
+restaurants-service-194|R|T|trop vague : petite adresse de quartier
+restaurants-service-195|R|T|intrus trop facile : cuisines trop différentes
+restaurants-service-196|R|T|doublon de restaurants-service-176
+restaurants-service-197|R|T|doublon de restaurants-service-177
+restaurants-service-198|R|T|doublon de restaurants-service-178
+restaurants-service-199|R|T|doublon de restaurants-service-179
+restaurants-service-200|R|T|doublon de restaurants-service-180
+boulot-001|G|T|
+boulot-002|G|T|
+boulot-004|G|A|
+boulot-007|G|T|
+boulot-008|G|A|
+boulot-009|G|T|
+boulot-042|G|T|
+boulot-046|G|A|
+boulot-047|G|A|
+boulot-049|G|A|
+boulot-050|G|A|
+boulot-051|G|A|
+boulot-052|G|T|
+boulot-058|G|A|
+boulot-068|G|A|
+boulot-069|G|A|
+boulot-073|G|A|
+boulot-081|G|A|
+boulot-082|G|A|
+boulot-083|G|A|
+boulot-087|G|A|
+boulot-091|G|A|
+boulot-092|G|A|
+boulot-093|G|A|
+boulot-094|G|A|
+boulot-098|G|A|
+boulot-100|G|T|
+boulot-101|G|A|
+boulot-104|G|T|
+boulot-117|G|A|
+boulot-120|G|A|
+boulot-121|G|A|
+boulot-129|G|A|
+boulot-131|G|A|
+boulot-135|G|A|
+boulot-138|G|A|
+boulot-140|G|T|
+boulot-141|G|A|
+boulot-142|G|A|
+boulot-144|G|A|
+boulot-145|G|A|
+boulot-147|G|A|
+boulot-152|G|A|
+boulot-163|G|T|
+boulot-168|G|A|
+boulot-200|G|T|
+boulot-201|G|T|
+boulot-204|G|T|
+boulot-224|G|A|
+boulot-231|G|A|
+boulot-238|G|T|
+boulot-241|G|T|
+boulot-243|G|T|
+boulot-252|G|A|
+boulot-270|G|T|
+boulot-277|G|A|
+boulot-278|G|A|
+boulot-290|G|T|
+boulot-308|G|A|
+boulot-315|G|T|
+boulot-316|G|T|
+boulot-320|G|T|
+boulot-321|G|T|
+boulot-326|G|T|
+boulot-327|G|A|
+boulot-328|G|A|
+boulot-342|G|A|
+boulot-343|G|A|
+boulot-345|G|A|

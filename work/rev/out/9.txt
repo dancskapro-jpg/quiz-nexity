@@ -1,0 +1,400 @@
+ville-517|R|T|B sans rapport : moment pour organiser des visites à Rome
+ville-518|G|T|
+ville-519|G|T|
+ville-520|G|T|
+ville-521|R|T|trop vague
+ville-522|R|T|mal formulée (répondre à un panneau) ; doublon de ville-519
+ville-523|R|T|trop vague
+ville-524|R|T|absurde
+ville-525|G|T|
+ville-526|R|T|absurde
+ville-527|R|T|doublon de ville-520
+ville-528|G|T|
+ville-529|G|T|
+ville-530|G|T|
+ville-531|G|T|
+ville-532|R|T|mal formulée ; doublon de ville-525
+voyage-001|G|T|
+voyage-009|G|T|
+voyage-013|G|T|
+voyage-015|G|T|
+voyage-018|G|T|
+voyage-019|G|T|
+voyage-020|G|T|
+voyage-021|G|T|
+voyage-022|G|T|
+voyage-024|G|T|
+voyage-026|G|T|
+voyage-027|G|T|
+voyage-029|G|T|
+voyage-033|G|T|
+voyage-034|G|T|
+voyage-039|G|T|
+voyage-044|G|T|
+voyage-061|G|T|
+voyage-063|G|T|
+voyage-068|G|T|
+voyage-071|G|T|
+voyage-077|G|T|
+voyage-080|G|T|
+voyage-093|G|T|
+voyage-115|G|T|
+voyage-122|G|T|
+voyage-132|G|T|
+voyage-136|G|A|
+voyage-146|G|T|
+voyage-149|G|T|
+voyage-150|G|T|
+voyage-153|G|T|
+voyage-155|G|T|
+voyage-156|G|T|
+voyage-162|G|T|
+voyage-163|G|T|
+voyage-164|G|T|
+voyage-165|G|T|
+voyage-166|G|T|
+voyage-176|G|T|
+voyage-179|G|T|
+voyage-182|G|T|
+voyage-186|G|T|
+voyage-200|G|T|
+voyage-214|G|T|
+voyage-216|G|T|
+voyage-219|G|T|
+voyage-222|G|T|
+voyage-246|G|T|
+voyage-263|G|T|
+voyage-270|G|T|
+voyage-271|G|A|
+voyage-272|G|T|
+voyage-275|G|T|
+voyage-282|G|T|
+voyage-296|G|T|
+voyage-298|G|T|
+voyage-306|G|T|
+voyage-350|G|T|
+voyage-351|G|T|
+voyage-352|G|T|
+voyage-355|G|T|
+voyage-367|G|T|
+voyage-371|G|T|
+voyage-378|G|T|
+voyage-387|R|T|trop vague, B sans rapport
+voyage-388|G|T|
+voyage-389|G|T|
+voyage-390|R|T|trop vague
+voyage-391|G|T|
+voyage-392|R|T|trop vague, réponses identiques
+voyage-393|G|T|
+voyage-394|R|T|mal formulée (« d’réserver »)
+voyage-395|R|T|intrus trop facile ; phrase lourde
+voyage-396|G|T|
+voyage-397|R|T|absurde
+voyage-398|R|T|intrus trop facile : écart de prix énorme
+voyage-399|G|T|
+voyage-400|R|T|intrus trop facile : négatif vs positif
+voyage-401|R|T|ennuyeuse, réponses identiques
+voyage-402|G|T|
+voyage-403|R|T|A et B quasi identiques
+voyage-404|R|T|intrus trop facile : positif vs négatif
+voyage-405|R|T|absurde
+voyage-406|G|T|
+voyage-407|R|T|absurde
+voyage-408|R|T|intrus trop facile, B sans intérêt
+voyage-409|R|T|absurde
+voyage-410|R|A|ennuyeuse (assurance)
+voyage-411|R|T|absurde
+voyage-412|G|T|
+voyage-413|R|T|absurde
+voyage-414|R|T|ennuyeuse
+voyage-415|R|T|absurde
+voyage-416|G|T|
+voyage-417|R|T|A et B quasi identiques
+voyage-418|R|A|ennuyeuse (assurance), intrus trop facile
+voyage-419|R|T|trop vague
+voyage-420|R|T|absurde
+voyage-421|R|T|intrus trop facile : situations sans rapport
+voyage-422|R|T|mal formulée ; intrus trop facile
+voyage-423|R|T|absurde
+voyage-424|R|T|trop vague
+voyage-425|R|T|absurde
+voyage-426|R|T|intrus trop facile : positif vs négatif
+voyage-427|R|T|absurde
+voyage-428|R|T|absurde (visite de deux heures)
+voyage-429|R|T|trop vague
+voyage-430|R|T|absurde
+voyage-431|R|T|trop vague
+voyage-432|G|T|
+voyage-433|G|T|
+voyage-434|R|T|trop vague
+voyage-435|R|A|ennuyeuse (assurance)
+voyage-436|R|T|trop vague
+voyage-437|R|T|absurde
+voyage-438|R|T|intrus trop facile
+voyage-439|R|T|absurde
+voyage-440|R|T|trop vague
+voyage-441|G|T|
+voyage-442|R|T|doublon de voyage-391
+voyage-443|R|T|ennuyeuse
+voyage-444|R|T|absurde
+voyage-445|R|T|trop vague, ennuyeuse
+voyage-446|R|T|intrus trop facile
+voyage-447|R|T|trop vague
+voyage-448|R|T|trop vague
+voyage-449|R|T|doublon de voyage-396
+voyage-450|G|T|
+voyage-451|G|T|
+voyage-452|R|T|trop vague
+voyage-453|R|T|intrus trop facile
+voyage-454|R|T|ennuyeuse
+voyage-455|R|A|doublon de voyage-418
+voyage-456|R|T|trop vague
+voyage-457|R|T|absurde
+voyage-458|R|T|absurde
+voyage-459|R|T|mal formulée ; doublon de voyage-438
+voyage-460|G|T|
+voyage-461|R|T|absurde
+voyage-462|R|T|intrus trop facile : écart de prix ; doublon de voyage-395
+voyage-463|G|T|
+voyage-464|R|T|absurde
+voyage-465|R|T|absurde (visite de deux heures)
+voyage-466|R|A|doublon de voyage-418
+voyage-467|R|T|doublon de voyage-441
+voyage-468|R|T|trop vague
+voyage-469|R|T|absurde
+voyage-470|R|T|trop vague
+voyage-471|R|T|doublon de voyage-412
+voyage-472|R|T|intrus trop facile
+voyage-473|R|T|doublon de voyage-388
+voyage-474|R|T|mal formulée ; doublon de voyage-399
+voyage-475|R|T|mal formulée
+voyage-476|R|T|intrus trop facile
+voyage-477|R|T|trop vague
+voyage-478|G|T|
+voyage-479|R|T|trop vague
+voyage-480|R|A|ennuyeuse (assurance)
+voyage-481|R|T|trop vague
+voyage-482|G|T|
+voyage-483|R|T|absurde
+voyage-484|R|T|intrus trop facile
+voyage-485|G|T|
+voyage-486|R|T|trop vague
+voyage-487|R|T|ennuyeuse
+voyage-488|R|T|ennuyeuse
+voyage-489|G|T|
+voyage-490|R|T|doublon de voyage-389
+voyage-491|R|T|trop vague
+voyage-492|R|T|trop vague
+voyage-493|R|T|doublon de voyage-406
+voyage-494|R|T|trop vague
+voyage-495|R|T|doublon de voyage-400
+voyage-496|R|T|absurde
+voyage-497|G|T|
+voyage-498|R|T|ennuyeuse
+voyage-499|R|T|absurde
+voyage-500|R|T|absurde
+voyage-501|R|T|intrus trop facile : écart de prix énorme
+voyage-502|G|T|
+voyage-503|R|T|doublon de voyage-485
+voyage-504|R|T|ennuyeuse, réponses identiques
+voyage-505|R|T|ennuyeuse
+voyage-506|R|T|trop vague
+voyage-507|G|T|
+voyage-508|R|T|mal formulée ; doublon de voyage-478
+voyage-509|R|T|doublon de voyage-460
+voyage-510|R|T|absurde
+voyage-511|R|T|doublon de voyage-416
+voyage-512|R|T|trop vague
+voyage-513|R|T|trop vague
+voyage-514|R|A|ennuyeuse (assurance) ; doublon de voyage-466
+voyage-515|R|T|doublon de voyage-398
+voyage-516|R|T|doublon de voyage-529
+voyage-517|R|T|ennuyeuse
+voyage-518|R|T|doublon de voyage-463
+voyage-519|R|T|absurde
+voyage-520|R|T|trop vague
+voyage-521|R|T|trop vague
+voyage-522|R|T|absurde
+voyage-523|R|T|mal formulée
+voyage-524|R|T|mal formulée ; intrus trop facile
+voyage-525|R|T|intrus trop facile ; doublon de voyage-421
+voyage-526|G|T|
+voyage-527|R|T|trop vague
+voyage-528|R|T|trop vague
+voyage-529|G|T|
+voyage-530|R|T|absurde
+voyage-531|R|T|absurde
+voyage-532|R|T|intrus trop facile
+voyage-533|R|T|intrus trop facile
+voyage-534|R|T|absurde
+voyage-535|R|T|trop vague
+voyage-536|R|T|trop vague
+voyage-537|R|T|ennuyeuse
+voyage-538|R|T|trop vague
+voyage-539|R|T|trop vague
+voyage-540|R|T|doublon de voyage-482
+voyage-541|R|T|réponses identiques, ennuyeuse
+voyage-542|R|T|doublon de voyage-451
+voyage-543|R|T|intrus trop facile
+voyage-544|R|T|ennuyeuse
+voyage-545|R|T|doublon de voyage-507
+voyage-546|R|T|trop vague
+voyage-547|R|T|absurde
+voyage-548|G|T|
+voyage-549|R|T|doublon de voyage-402
+voyage-550|R|T|trop vague
+voyage-551|R|T|doublon de voyage-432
+voyage-552|R|T|doublon de voyage-548
+voyage-553|R|T|trop vague
+voyage-554|R|T|absurde
+voyage-555|R|A|mal formulée (« d’souscrire »)
+voyage-556|R|T|absurde
+voyage-557|R|T|trop vague
+voyage-558|R|T|intrus trop facile ; doublon de voyage-484
+voyage-559|G|T|
+voyage-560|R|T|ennuyeuse
+voyage-561|R|T|mal formulée
+voyage-562|R|T|trop vague
+voyage-563|R|T|ennuyeuse
+voyage-564|R|T|absurde
+voyage-565|R|T|trop vague
+voyage-566|R|T|absurde
+voyage-567|R|T|trop vague
+voyage-568|R|T|intrus trop facile : négatif vs positif
+voyage-569|R|T|doublon de voyage-526
+voyage-570|R|T|trop vague
+voyage-571|R|T|doublon de voyage-497
+voyage-572|R|T|doublon de voyage-450
+voyage-573|R|T|absurde
+voyage-574|R|T|absurde
+voyage-575|R|T|doublon de voyage-462
+voyage-576|R|T|absurde
+voyage-577|R|T|ennuyeuse
+voyage-578|R|T|trop vague
+voyage-579|R|T|trop vague
+voyage-580|R|T|intrus trop facile : écart de prix ; doublon de voyage-501
+voyage-581|R|T|doublon de voyage-433
+voyage-582|R|T|doublon de voyage-559
+voyage-583|R|T|intrus trop facile
+voyage-584|R|T|ennuyeuse
+voyage-585|R|T|trop vague
+voyage-586|R|T|intrus trop facile
+animaux-compagnie-001|G|T|
+animaux-compagnie-002|G|A|
+animaux-compagnie-003|G|T|
+animaux-compagnie-004|G|T|
+animaux-compagnie-005|R|T|intrus trop facile : écart de prix
+animaux-compagnie-006|G|T|
+animaux-compagnie-007|G|T|
+animaux-compagnie-008|G|T|
+animaux-compagnie-009|G|T|
+animaux-compagnie-010|G|T|
+animaux-compagnie-011|R|A|mal formulée (« chien vivant »)
+animaux-compagnie-012|G|T|
+animaux-compagnie-013|G|T|
+animaux-compagnie-014|G|T|
+animaux-compagnie-015|G|T|
+animaux-compagnie-016|G|T|
+animaux-compagnie-017|G|T|
+animaux-compagnie-018|R|T|intrus trop facile : écart de prix ; phrase lourde
+animaux-compagnie-019|G|T|
+animaux-compagnie-020|R|T|mal formulée (« chien vivant »)
+animaux-compagnie-021|R|T|doublon de animaux-compagnie-001
+animaux-compagnie-022|R|A|doublon de animaux-compagnie-002
+animaux-compagnie-023|R|T|doublon de animaux-compagnie-003
+animaux-compagnie-024|R|T|doublon de animaux-compagnie-004
+animaux-compagnie-025|R|T|doublon de animaux-compagnie-005
+animaux-compagnie-026|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-027|G|T|
+animaux-compagnie-028|G|T|
+animaux-compagnie-029|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-030|R|A|intrus trop facile : situations sans rapport
+animaux-compagnie-031|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-032|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-033|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-034|R|T|intrus trop facile
+animaux-compagnie-035|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-036|R|T|intrus trop facile
+animaux-compagnie-037|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-038|G|T|
+animaux-compagnie-039|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-040|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-041|R|A|intrus trop facile : situations sans rapport
+animaux-compagnie-042|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-043|G|T|
+animaux-compagnie-044|G|T|
+animaux-compagnie-045|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-046|R|T|doublon de animaux-compagnie-026
+animaux-compagnie-047|R|T|doublon de animaux-compagnie-027
+animaux-compagnie-048|R|T|doublon de animaux-compagnie-028
+animaux-compagnie-049|R|T|doublon de animaux-compagnie-029
+animaux-compagnie-050|R|A|doublon de animaux-compagnie-030
+animaux-compagnie-051|R|T|intrus trop facile : urgence vs visite
+animaux-compagnie-052|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-053|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-054|G|T|
+animaux-compagnie-055|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-056|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-057|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-058|G|T|
+animaux-compagnie-059|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-060|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-061|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-062|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-063|R|T|intrus trop facile
+animaux-compagnie-064|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-065|G|T|
+animaux-compagnie-066|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-067|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-068|G|T|
+animaux-compagnie-069|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-070|R|T|intrus trop facile : situations sans rapport
+animaux-compagnie-071|R|T|doublon de animaux-compagnie-051
+animaux-compagnie-072|R|T|doublon de animaux-compagnie-052
+animaux-compagnie-073|R|T|doublon de animaux-compagnie-053
+animaux-compagnie-074|R|T|doublon de animaux-compagnie-054
+animaux-compagnie-075|R|T|doublon de animaux-compagnie-055
+animaux-compagnie-076|R|T|intrus trop facile : options différentes
+animaux-compagnie-077|R|T|intrus trop facile : options différentes
+animaux-compagnie-078|R|T|intrus trop facile : options différentes
+animaux-compagnie-079|R|T|intrus trop facile : options différentes
+animaux-compagnie-080|R|T|intrus trop facile : options différentes
+animaux-compagnie-081|R|T|intrus trop facile : options différentes
+animaux-compagnie-082|R|T|intrus trop facile : options différentes
+animaux-compagnie-083|R|T|intrus trop facile : options différentes
+animaux-compagnie-084|R|T|intrus trop facile : options différentes
+animaux-compagnie-085|R|T|intrus trop facile : options différentes
+animaux-compagnie-086|R|T|intrus trop facile : options différentes
+animaux-compagnie-087|R|T|intrus trop facile : options différentes
+animaux-compagnie-088|R|T|intrus trop facile : options différentes
+animaux-compagnie-089|R|T|intrus trop facile : options différentes
+animaux-compagnie-090|R|T|intrus trop facile : options différentes
+animaux-compagnie-091|R|T|intrus trop facile : options différentes
+animaux-compagnie-092|R|T|intrus trop facile : options différentes
+animaux-compagnie-093|R|T|intrus trop facile : options différentes
+animaux-compagnie-094|R|T|intrus trop facile : options différentes
+animaux-compagnie-095|R|T|intrus trop facile : options différentes
+animaux-compagnie-096|R|T|intrus trop facile : options différentes
+animaux-compagnie-097|R|T|intrus trop facile : options différentes
+animaux-compagnie-098|R|T|intrus trop facile : options différentes
+animaux-compagnie-099|R|T|intrus trop facile : options différentes
+animaux-compagnie-100|R|T|intrus trop facile : options différentes
+animaux-compagnie-101|G|T|
+animaux-compagnie-102|R|A|ennuyeuse (assurances)
+animaux-compagnie-103|R|T|trop vague
+animaux-compagnie-104|G|T|
+animaux-compagnie-105|G|T|
+animaux-compagnie-106|G|T|
+animaux-compagnie-107|R|T|trop vague
+animaux-compagnie-108|R|T|ennuyeuse
+animaux-compagnie-109|G|T|
+animaux-compagnie-110|G|T|
+animaux-compagnie-111|R|A|ennuyeuse (assurances) ; doublon de animaux-compagnie-102
+animaux-compagnie-112|R|T|trop vague
+animaux-compagnie-113|G|T|
+animaux-compagnie-114|G|T|
+animaux-compagnie-115|G|T|
+animaux-compagnie-116|G|T|
+animaux-compagnie-117|R|T|ennuyeuse
+animaux-compagnie-118|R|T|trop vague
+animaux-compagnie-119|G|T|

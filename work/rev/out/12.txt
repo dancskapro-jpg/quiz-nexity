@@ -1,0 +1,200 @@
+voisins-societe-109|G|T|
+voisins-societe-110|G|T|
+voisins-societe-111|G|A|
+voisins-societe-112|G|A|
+voisins-societe-113|G|A|
+voisins-societe-114|G|T|
+voisins-societe-115|G|T|
+voisins-societe-116|G|T|
+voisins-societe-117|G|A|
+voisins-societe-118|G|T|
+voisins-societe-119|G|T|
+voisins-societe-120|R|A|doublon de voisins-societe-111 et 109
+voisins-societe-121|R|T|doublon de voisins-societe-112 et 110
+voisins-societe-122|R|A|doublon de voisins-societe-113 et 111
+voisins-societe-123|R|A|doublon de voisins-societe-114 et 112
+voisins-societe-124|R|T|doublon de voisins-societe-115 et 113
+voisins-societe-125|R|T|doublon de voisins-societe-116 et 114
+voisins-societe-126|G|A|
+voisins-societe-127|R|A|ennuyeuse : facture de charges collectives
+voisins-societe-128|G|T|
+voisins-societe-129|G|A|
+voisins-societe-130|G|A|
+voisins-societe-131|G|T|
+voisins-societe-132|G|A|
+voisins-societe-133|G|T|
+voisins-societe-134|G|T|
+voisins-societe-135|G|A|
+voisins-societe-136|R|A|ennuyeuse : facture de charges collectives
+voisins-societe-137|R|T|doublon de voisins-societe-128 et 126
+voisins-societe-138|R|A|doublon de voisins-societe-129 et 127, mal formulée (conseil pour des conseils)
+voisins-societe-139|R|A|doublon de voisins-societe-130 et 128
+voisins-societe-140|R|A|doublon de voisins-societe-131 et 129
+voisins-societe-141|R|A|doublon de voisins-societe-132 et 130
+voisins-societe-142|R|T|doublon de voisins-societe-133 et 131
+voisins-societe-143|R|A|doublon de voisins-societe-134 et 132
+voisins-societe-144|R|A|doublon de voisins-societe-135 et 133
+voisins-societe-145|R|A|doublon de voisins-societe-136 et 134
+voisins-societe-146|R|A|doublon de voisins-societe-126
+voisins-societe-147|R|A|doublon de voisins-societe-127
+voisins-societe-148|R|T|doublon de voisins-societe-128
+voisins-societe-149|R|A|doublon de voisins-societe-129
+voisins-societe-150|R|A|doublon de voisins-societe-130
+voisins-societe-151|G|T|
+voisins-societe-152|G|T|
+voisins-societe-153|G|T|
+voisins-societe-154|G|T|
+voisins-societe-155|R|A|mal formulée (« de se réunir »)
+voisins-societe-156|G|T|
+voisins-societe-157|G|T|
+voisins-societe-158|G|T|
+voisins-societe-159|R|T|absurde (recevoir un livreur pendant une absence, lieu pour signaler)
+voisins-societe-160|G|T|
+voisins-societe-161|G|T|
+voisins-societe-162|R|T|doublon de voisins-societe-153 et 151
+voisins-societe-163|R|T|doublon de voisins-societe-154 et 152
+voisins-societe-164|R|A|doublon de voisins-societe-155 et 153, mal formulée
+voisins-societe-165|R|T|doublon de voisins-societe-156 et 154
+voisins-societe-166|R|T|doublon de voisins-societe-157 et 155
+voisins-societe-167|R|T|doublon de voisins-societe-158 et 156
+voisins-societe-168|R|T|doublon de voisins-societe-159 et 157
+voisins-societe-169|R|T|doublon de voisins-societe-160 et 158
+voisins-societe-170|R|T|doublon de voisins-societe-161 et 159
+voisins-societe-171|R|T|doublon de voisins-societe-151
+voisins-societe-172|R|T|doublon de voisins-societe-152
+voisins-societe-173|R|T|doublon de voisins-societe-153
+voisins-societe-174|R|T|doublon de voisins-societe-154
+voisins-societe-175|R|A|doublon de voisins-societe-155, mal formulée
+voisins-societe-176|R|A|trop vague, sujets différents
+voisins-societe-177|R|A|trop vague, sujets différents
+voisins-societe-178|R|A|trop vague, ennuyeuse
+voisins-societe-179|R|A|trop vague, sujets différents
+voisins-societe-180|R|A|trop vague, ennuyeuse
+voisins-societe-181|R|A|trop vague, sujets différents
+voisins-societe-182|R|T|trop vague
+voisins-societe-183|R|A|trop vague, sujets différents
+voisins-societe-184|G|A|
+voisins-societe-185|R|A|trop vague, ennuyeuse
+voisins-societe-186|R|A|trop vague, sujets différents
+voisins-societe-187|R|A|trop vague, doublon de voisins-societe-178 et 176
+voisins-societe-188|R|A|trop vague, doublon
+voisins-societe-189|R|A|trop vague, doublon
+voisins-societe-190|R|A|trop vague, doublon
+voisins-societe-191|R|A|trop vague, doublon
+voisins-societe-192|R|T|trop vague, doublon
+voisins-societe-193|R|A|trop vague, doublon de voisins-societe-184
+voisins-societe-194|R|A|trop vague, doublon
+voisins-societe-195|R|A|trop vague, doublon
+voisins-societe-196|R|A|doublon de voisins-societe-176
+voisins-societe-197|R|A|doublon de voisins-societe-177
+voisins-societe-198|R|A|doublon de voisins-societe-178
+voisins-societe-199|R|A|doublon de voisins-societe-179
+voisins-societe-200|R|A|doublon de voisins-societe-180
+argent-shopping-001|G|T|
+argent-shopping-002|R|T|intrus trop facile : ordres de grandeur différents
+argent-shopping-003|G|A|
+argent-shopping-004|G|T|
+argent-shopping-005|G|T|
+argent-shopping-006|R|T|intrus trop facile : options différentes
+argent-shopping-007|G|T|
+argent-shopping-008|G|A|
+argent-shopping-009|G|A|
+argent-shopping-010|G|A|
+argent-shopping-011|G|T|
+argent-shopping-012|G|A|
+argent-shopping-013|G|A|
+argent-shopping-014|G|T|
+argent-shopping-015|R|T|intrus trop facile : produits sans rapport
+argent-shopping-016|R|T|intrus trop facile : options différentes
+argent-shopping-017|G|A|
+argent-shopping-018|R|T|mal formulée (choisir… avant de choisir)
+argent-shopping-019|G|A|
+argent-shopping-020|G|T|
+argent-shopping-021|G|T|
+argent-shopping-022|G|T|
+argent-shopping-023|G|T|
+argent-shopping-024|G|T|
+argent-shopping-025|R|A|intrus trop facile : produits sans rapport
+argent-shopping-026|R|T|intrus trop facile : options différentes
+argent-shopping-027|G|T|
+argent-shopping-028|R|T|mal formulée (avant… avant de te décider)
+argent-shopping-029|G|T|
+argent-shopping-030|G|T|
+argent-shopping-031|G|T|
+argent-shopping-032|R|T|intrus trop facile : ordres de grandeur différents
+argent-shopping-033|G|A|
+argent-shopping-034|G|T|
+argent-shopping-035|R|T|intrus trop facile : produits sans rapport
+argent-shopping-036|R|T|intrus trop facile : options différentes
+argent-shopping-037|G|T|
+argent-shopping-038|R|T|mal formulée (sélectionner… avant de choisir)
+argent-shopping-039|G|T|
+argent-shopping-040|G|T|
+argent-shopping-041|G|T|
+argent-shopping-042|G|T|
+argent-shopping-043|G|A|
+argent-shopping-044|G|T|
+argent-shopping-045|G|T|
+argent-shopping-046|R|A|intrus trop facile : types de réponse différents
+argent-shopping-047|G|T|
+argent-shopping-048|G|A|
+argent-shopping-049|G|A|
+argent-shopping-050|G|T|
+argent-shopping-051|G|T|
+argent-shopping-052|R|T|intrus trop facile : ordres de grandeur différents
+argent-shopping-053|G|T|
+argent-shopping-054|G|T|
+argent-shopping-055|R|T|intrus trop facile : produits sans rapport
+argent-shopping-056|R|T|intrus trop facile : options différentes
+argent-shopping-057|G|T|
+argent-shopping-058|G|T|
+argent-shopping-059|G|T|
+argent-shopping-060|G|A|
+argent-shopping-061|G|A|
+argent-shopping-062|G|T|
+argent-shopping-063|G|T|
+argent-shopping-064|G|T|
+argent-shopping-065|R|T|intrus trop facile : produits sans rapport
+argent-shopping-066|R|T|intrus trop facile : options différentes
+argent-shopping-067|G|T|
+argent-shopping-068|G|T|
+argent-shopping-069|G|T|
+argent-shopping-070|G|A|
+argent-shopping-071|G|T|
+argent-shopping-072|G|A|
+argent-shopping-073|R|T|mal formulée (« de le remplacement »)
+argent-shopping-074|G|T|
+argent-shopping-075|R|T|intrus trop facile : produits sans rapport
+argent-shopping-076|R|A|intrus trop facile : options différentes
+argent-shopping-077|G|T|
+argent-shopping-078|R|T|mal formulée (choisir… avant de choisir)
+argent-shopping-079|R|A|intrus trop facile : ordres de grandeur différents
+argent-shopping-080|G|T|
+argent-shopping-081|G|T|
+argent-shopping-082|R|T|intrus trop facile : ordres de grandeur différents
+argent-shopping-083|G|A|
+argent-shopping-084|G|T|
+argent-shopping-085|R|T|intrus trop facile : produits sans rapport
+argent-shopping-086|R|T|intrus trop facile : options différentes
+argent-shopping-087|G|A|
+argent-shopping-088|G|A|
+argent-shopping-089|G|T|
+argent-shopping-090|G|A|
+argent-shopping-091|G|T|
+argent-shopping-092|R|T|intrus trop facile : ordres de grandeur différents
+argent-shopping-093|G|A|
+argent-shopping-094|G|T|
+argent-shopping-095|R|A|intrus trop facile : produits sans rapport
+argent-shopping-096|R|T|intrus trop facile : options différentes
+argent-shopping-097|G|T|
+argent-shopping-098|G|T|
+argent-shopping-099|R|T|mal formulée (« pour s'équiper »)
+argent-shopping-100|G|T|
+argent-shopping-101|G|T|
+argent-shopping-102|G|A|
+argent-shopping-103|G|A|
+argent-shopping-104|R|T|doublon de argent-shopping-004
+argent-shopping-105|R|T|intrus trop facile : produits sans rapport
+argent-shopping-106|R|T|intrus trop facile : options différentes
+argent-shopping-107|G|T|
+argent-shopping-108|R|A|doublon de argent-shopping-008

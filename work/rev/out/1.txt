@@ -1,0 +1,528 @@
+classique-001|G|T|
+classique-002|G|T|
+classique-004|G|T|
+classique-005|G|T|
+classique-006|G|T|
+classique-009|G|T|
+classique-010|G|T|
+classique-011|G|T|
+classique-012|G|A|
+classique-013|G|T|
+classique-014|G|T|
+classique-016|G|T|
+classique-017|G|T|
+classique-018|G|T|
+classique-019|G|T|
+classique-020|G|T|
+classique-021|G|T|
+classique-022|G|T|
+classique-024|G|T|
+classique-025|G|T|
+classique-027|G|T|
+classique-030|G|T|
+classique-032|G|T|
+classique-033|G|T|
+classique-034|G|T|
+classique-035|G|T|
+classique-036|G|T|
+classique-037|G|T|
+classique-038|G|T|
+classique-040|G|T|
+classique-042|G|T|
+classique-043|G|T|
+classique-046|G|T|
+classique-048|G|T|
+classique-051|G|T|
+classique-053|G|T|
+classique-057|G|T|
+classique-058|G|T|
+classique-061|G|T|
+classique-062|G|T|
+classique-063|G|T|
+classique-064|G|T|
+classique-065|G|T|
+classique-067|G|T|
+classique-070|G|T|
+classique-071|G|T|
+classique-073|G|T|
+classique-074|G|T|
+classique-075|G|T|
+classique-076|G|T|
+classique-077|G|T|
+classique-079|G|T|
+classique-080|G|T|
+classique-081|G|T|
+classique-083|G|T|
+classique-084|G|T|
+classique-085|G|T|
+classique-086|G|T|
+classique-087|G|T|
+classique-088|G|T|
+classique-089|G|T|
+classique-091|G|T|
+classique-092|G|T|
+classique-094|G|T|
+classique-096|G|T|
+classique-097|G|T|
+classique-101|G|T|
+classique-102|G|T|
+classique-104|G|T|
+classique-105|G|T|
+classique-106|G|T|
+classique-109|G|T|
+classique-110|G|T|
+classique-114|G|T|
+classique-115|G|T|
+classique-116|G|T|
+classique-118|G|A|
+classique-119|G|T|
+classique-122|G|T|
+classique-123|G|T|
+classique-126|G|T|
+classique-129|G|T|
+classique-132|G|T|
+classique-133|G|T|
+classique-135|G|T|
+classique-140|G|T|
+classique-141|G|T|
+classique-142|G|T|
+classique-146|G|T|
+classique-148|G|T|
+classique-150|G|T|
+classique-151|G|T|
+classique-153|G|T|
+classique-154|G|T|
+classique-158|G|T|
+classique-159|G|T|
+classique-160|G|T|
+classique-165|G|T|
+classique-166|G|T|
+classique-167|G|T|
+classique-168|G|T|
+classique-169|G|A|
+classique-170|G|T|
+classique-173|G|T|
+classique-176|G|T|
+classique-177|G|T|
+classique-178|G|T|
+classique-180|G|T|
+classique-181|G|T|
+classique-182|G|T|
+classique-184|G|T|
+classique-186|G|T|
+classique-190|G|T|
+classique-193|G|T|
+classique-194|G|T|
+classique-196|G|T|
+classique-197|G|T|
+classique-198|G|T|
+classique-199|G|T|
+classique-200|G|T|
+classique-201|G|T|
+classique-204|G|T|
+classique-205|G|T|
+classique-206|G|T|
+classique-207|G|T|
+classique-208|G|T|
+classique-210|G|T|
+classique-211|G|T|
+classique-215|G|T|
+classique-216|G|T|
+classique-217|G|T|
+classique-221|G|T|
+classique-222|G|T|
+classique-223|G|T|
+classique-239|G|T|
+classique-240|G|T|
+classique-241|G|T|
+classique-242|G|T|
+classique-243|G|T|
+classique-244|G|T|
+classique-245|G|T|
+classique-246|G|T|
+classique-248|G|T|
+classique-249|G|T|
+classique-250|G|T|
+classique-251|G|T|
+classique-253|G|T|
+classique-254|G|T|
+classique-255|G|T|
+classique-256|G|T|
+classique-258|G|T|
+classique-259|G|T|
+classique-260|G|T|
+classique-261|G|T|
+classique-262|G|T|
+classique-263|G|T|
+classique-265|G|T|
+classique-266|G|T|
+classique-271|G|T|
+classique-274|G|T|
+classique-275|G|T|
+classique-278|G|T|
+classique-283|G|T|
+classique-284|G|T|
+classique-286|G|T|
+classique-294|G|T|
+classique-295|G|T|
+classique-296|G|T|
+classique-297|G|T|
+classique-298|G|T|
+classique-299|G|T|
+classique-300|G|T|
+classique-301|G|T|
+classique-302|G|T|
+classique-304|G|T|
+classique-305|G|T|
+classique-306|G|T|
+classique-307|G|T|
+classique-309|G|T|
+classique-310|G|T|
+classique-312|G|T|
+classique-314|G|T|
+classique-317|G|T|
+classique-323|G|T|
+classique-325|G|T|
+classique-329|G|T|
+classique-330|G|T|
+classique-333|G|T|
+classique-334|G|T|
+classique-335|G|T|
+classique-355|G|T|
+classique-358|G|T|
+classique-360|G|T|
+classique-365|G|T|
+classique-373|G|T|
+classique-394|G|T|
+classique-407|G|T|
+classique-414|G|T|
+classique-416|G|T|
+classique-417|G|T|
+classique-419|G|T|
+classique-422|G|T|
+classique-424|G|T|
+classique-426|G|T|
+classique-427|G|A|
+classique-428|G|T|
+classique-435|G|T|
+classique-445|G|T|
+classique-452|G|T|
+classique-458|G|T|
+classique-482|G|T|
+classique-493|G|T|
+classique-494|G|T|
+classique-495|G|T|
+classique-505|G|T|
+classique-517|G|T|
+classique-520|G|T|
+classique-534|G|T|
+classique-539|G|T|
+classique-548|G|T|
+classique-551|G|T|
+classique-556|G|T|
+classique-569|G|T|
+classique-573|G|T|
+classique-579|G|T|
+classique-600|G|A|
+classique-606|G|A|
+classique-607|G|A|
+classique-611|R|T|trop vague : organiser une journée libre
+classique-612|R|T|trop vague
+classique-613|R|T|formulation bizarre
+classique-614|R|T|absurde
+classique-615|R|T|bizarre : nettoyer son téléphone
+classique-616|R|A|ennuyeuse : démarche administrative
+classique-617|G|T|
+classique-618|G|T|
+classique-619|R|T|mal formulée : phrase lourde
+classique-620|R|T|absurde
+classique-621|R|T|trop technique, quasi identiques
+classique-622|R|T|intrus trop facile : durées très différentes
+classique-623|R|T|absurde
+classique-624|R|T|quasi identiques, trop technique
+classique-625|G|T|
+classique-626|R|T|absurde
+classique-627|G|T|
+classique-628|R|T|trop vague
+classique-629|R|T|absurde
+classique-630|G|T|
+classique-631|R|T|absurde, doublon de classique-623
+classique-632|G|T|
+classique-633|R|T|trop vague
+classique-634|R|T|absurde
+classique-635|R|T|trop vague
+classique-636|R|T|doublon de classique-632
+classique-637|R|T|intrus trop facile : prix très différents
+classique-638|R|A|absurde, démarche administrative
+classique-639|R|T|doublon de classique-627
+classique-640|R|T|absurde
+classique-641|G|T|
+classique-642|R|T|mal formulée : phrase lourde
+classique-643|G|T|
+classique-644|G|T|
+classique-645|G|T|
+classique-646|R|T|absurde
+classique-647|R|T|mal formulée : « répondrais » ne colle pas
+classique-648|R|T|doublon de classique-630
+classique-649|R|T|trop vague
+classique-650|R|T|intrus trop facile : magasins différents
+classique-651|R|T|absurde
+classique-652|R|T|trop vague
+classique-653|R|T|doublon de classique-618
+classique-654|G|T|
+classique-655|R|T|doublon de classique-201
+classique-656|R|T|absurde
+classique-657|G|T|
+classique-658|R|T|absurde
+classique-659|R|T|doublon de classique-618
+classique-660|R|T|doublon de classique-263
+classique-661|R|T|doublon de classique-630
+classique-662|R|T|absurde, doublon de classique-623
+classique-663|R|T|mal formulée : « répondrais » ne colle pas
+classique-664|R|T|doublon de classique-618
+classique-665|R|T|doublon de classique-630
+classique-666|R|A|ennuyeuse : démarche administrative
+classique-667|R|T|mal formulée : phrase lourde
+classique-668|R|T|intrus trop facile : magasins différents
+classique-669|R|T|absurde
+classique-670|R|T|intrus trop facile : durées très différentes
+classique-671|R|T|doublon de classique-657
+classique-672|R|T|absurde
+classique-673|R|A|absurde
+classique-674|R|T|trop vague
+classique-675|R|T|doublon de classique-641, phrase lourde
+classique-676|R|T|absurde
+classique-677|G|T|
+classique-678|R|A|ennuyeuse : démarche administrative
+classique-679|R|T|mal formulée : phrase lourde
+classique-680|R|T|doublon de classique-627
+classique-681|R|T|absurde
+classique-682|R|T|trop vague
+classique-683|R|T|doublon de classique-630
+classique-684|R|T|trop vague
+classique-685|R|T|doublon de classique-201
+classique-686|R|T|trop technique
+classique-687|R|T|trop vague
+classique-688|R|T|trop vague
+classique-689|R|T|intrus trop facile : produits sans rapport
+classique-690|R|T|trop vague
+classique-691|R|T|doublon de classique-641, phrase lourde
+classique-692|R|T|doublon de classique-644
+classique-693|R|T|trop vague
+classique-694|R|T|absurde
+classique-695|R|T|mal formulée
+classique-696|R|T|mal formulée : répétition « choisirais-tu pour choisir »
+classique-697|R|T|absurde
+classique-698|R|T|intrus trop facile : durées très différentes
+classique-699|R|A|absurde
+classique-700|R|T|doublon de classique-643
+classique-701|R|T|absurde
+classique-702|R|T|doublon de classique-657
+classique-703|R|T|intrus trop facile : prix très différents
+classique-704|R|T|absurde
+classique-705|R|T|intrus trop facile : magasins différents
+classique-706|R|T|trop vague
+classique-707|R|T|mal formulée
+classique-708|G|T|
+classique-709|R|T|doublon de classique-708
+classique-710|R|T|trop technique
+classique-711|R|T|mal formulée : phrase lourde
+classique-712|R|T|absurde
+classique-713|R|T|mal formulée
+classique-714|R|T|trop vague
+classique-715|R|T|absurde
+classique-716|R|T|absurde
+classique-717|R|T|intrus trop facile : magasins différents
+classique-718|R|T|absurde
+classique-719|R|T|absurde
+classique-720|R|T|doublon de classique-630
+classique-721|G|T|
+classique-722|R|T|doublon de classique-641
+classique-723|R|T|absurde
+classique-724|R|T|trop vague, phrase lourde
+classique-725|R|A|absurde
+classique-726|R|T|intrus trop facile : prix très différents
+classique-727|R|T|absurde
+classique-728|R|T|quasi identiques
+classique-729|R|T|doublon de classique-630
+classique-730|R|T|trop technique
+classique-731|R|T|mal formulée : phrase lourde
+classique-732|R|T|doublon de classique-641
+classique-733|R|T|absurde
+classique-734|R|T|intrus trop facile : magasins différents
+classique-735|R|T|absurde
+classique-736|R|T|mal formulée : phrase lourde
+classique-737|R|T|absurde
+classique-738|R|T|absurde
+classique-739|R|T|mal formulée : phrase lourde
+classique-740|R|T|mal formulée : phrase lourde
+classique-741|R|A|absurde
+classique-742|R|T|quasi identiques
+classique-743|R|T|mal formulée : phrase lourde
+classique-744|R|T|intrus trop facile : magasins différents
+classique-745|R|T|doublon de classique-641
+classique-746|G|T|
+classique-747|R|T|absurde
+classique-748|R|T|mal formulée : phrase lourde
+classique-749|R|T|doublon de classique-645
+classique-750|R|T|doublon de classique-685
+classique-751|R|T|mal formulée : phrase lourde
+classique-752|R|T|doublon de classique-645
+classique-753|R|T|trop vague
+classique-754|R|T|absurde
+classique-755|R|T|doublon de classique-627
+classique-756|R|T|mal formulée : phrase lourde
+classique-757|R|T|doublon de classique-677
+classique-758|R|T|trop vague
+classique-759|R|T|intrus trop facile : produits sans rapport
+classique-760|R|T|absurde
+classique-761|R|T|intrus trop facile : magasins différents
+classique-762|R|T|absurde
+classique-763|R|T|absurde
+classique-764|R|T|mal formulée : phrase lourde
+classique-765|R|T|doublon de classique-201
+classique-766|R|T|intrus trop facile : situations sans rapport
+classique-767|R|T|trop vague
+classique-768|R|T|mal formulée
+classique-769|R|T|mal formulée : phrase lourde
+classique-770|R|T|intrus trop facile : magasins différents
+classique-771|R|T|intrus trop facile : magasins différents
+classique-772|R|T|absurde
+classique-773|R|T|doublon de classique-630
+classique-774|R|T|intrus trop facile : situations sans rapport
+classique-775|R|T|absurde
+classique-776|R|T|absurde
+classique-777|R|A|intrus trop facile : durées très différentes
+classique-778|R|A|ennuyeuse : démarche administrative
+classique-779|R|T|trop vague
+classique-780|R|T|doublon de classique-618
+classique-781|R|T|intrus trop facile : durées très différentes
+classique-782|R|T|doublon de classique-637
+classique-783|R|A|ennuyeuse : démarche administrative
+classique-784|R|T|intrus trop facile : prix très différents
+classique-785|R|A|ennuyeuse : démarche administrative
+classique-786|R|A|absurde
+classique-787|R|T|mal formulée : phrase lourde
+classique-788|R|T|absurde
+classique-789|R|T|absurde
+classique-790|R|T|doublon de classique-627
+classique-791|R|T|doublon de classique-627
+classique-792|R|A|absurde
+classique-793|R|T|absurde
+classique-794|R|T|doublon de classique-644
+classique-795|R|T|mal formulée : phrase lourde
+classique-796|R|T|absurde
+classique-797|R|T|absurde
+classique-798|R|T|absurde
+classique-799|R|T|mal formulée : répétition « choisirais-tu pour choisir »
+classique-800|R|T|doublon de classique-746
+classique-801|R|T|doublon de classique-721
+classique-802|R|A|ennuyeuse : démarche administrative
+classique-803|R|T|absurde
+classique-804|R|T|doublon de classique-643
+classique-805|R|A|absurde
+classique-806|R|T|mal formulée : phrase lourde
+classique-807|R|T|trop vague
+classique-808|R|T|doublon de classique-632
+classique-809|R|T|mal formulée : phrase lourde
+classique-810|R|T|intrus trop facile : produits sans rapport
+amitie-confidences-001|G|T|
+amitie-confidences-002|G|T|
+amitie-confidences-003|G|T|
+amitie-confidences-004|G|T|
+amitie-confidences-005|R|T|mal formulée : phrase bancale
+amitie-confidences-006|G|T|
+amitie-confidences-007|R|T|intrus trop facile : thèmes différents, phrase lourde
+amitie-confidences-008|G|T|
+amitie-confidences-009|R|T|trop vague : question circulaire
+amitie-confidences-010|R|T|trop abstraite
+amitie-confidences-011|G|T|
+amitie-confidences-012|G|T|
+amitie-confidences-013|G|T|
+amitie-confidences-014|G|T|
+amitie-confidences-015|R|A|mal formulée : phrase bancale
+amitie-confidences-016|G|T|
+amitie-confidences-017|R|T|intrus trop facile : thèmes différents
+amitie-confidences-018|R|T|intrus trop facile : situations sans rapport
+amitie-confidences-019|R|T|trop vague : question circulaire
+amitie-confidences-020|R|T|trop abstraite
+amitie-confidences-021|G|T|
+amitie-confidences-022|R|T|absurde
+amitie-confidences-023|G|A|
+amitie-confidences-024|R|T|mal formulée : répétition « organiser pour organiser »
+amitie-confidences-025|R|T|mal formulée : phrase bancale
+amitie-confidences-026|R|T|bizarre
+amitie-confidences-027|G|T|
+amitie-confidences-028|G|T|
+amitie-confidences-029|R|T|trop vague : question circulaire
+amitie-confidences-030|R|A|trop abstraite
+amitie-confidences-031|G|T|
+amitie-confidences-032|G|T|
+amitie-confidences-033|G|T|
+amitie-confidences-034|R|T|bizarre
+amitie-confidences-035|R|A|mal formulée : phrase bancale
+amitie-confidences-036|G|T|
+amitie-confidences-037|R|T|intrus trop facile : thèmes différents
+amitie-confidences-038|R|T|intrus trop facile : situations sans rapport
+amitie-confidences-039|R|T|trop vague : question circulaire
+amitie-confidences-040|R|A|trop abstraite
+amitie-confidences-041|G|T|
+amitie-confidences-042|G|T|
+amitie-confidences-043|G|T|
+amitie-confidences-044|G|T|
+amitie-confidences-045|R|T|mal formulée : phrase bancale
+amitie-confidences-046|G|T|
+amitie-confidences-047|R|T|intrus trop facile : thèmes différents
+amitie-confidences-048|R|T|intrus trop facile : situations sans rapport
+amitie-confidences-049|R|T|trop vague : question circulaire
+amitie-confidences-050|R|T|trop abstraite
+amitie-confidences-051|G|T|
+amitie-confidences-052|G|T|
+amitie-confidences-053|G|A|
+amitie-confidences-054|R|T|mal formulée
+amitie-confidences-055|R|T|mal formulée : phrase bancale
+amitie-confidences-056|G|T|
+amitie-confidences-057|R|T|intrus trop facile : thèmes différents
+amitie-confidences-058|R|T|intrus trop facile : situations sans rapport
+amitie-confidences-059|R|T|trop vague, A et B quasi identiques
+amitie-confidences-060|R|T|trop abstraite
+amitie-confidences-061|G|T|
+amitie-confidences-062|G|T|
+amitie-confidences-063|G|T|
+amitie-confidences-064|G|T|
+amitie-confidences-065|R|T|mal formulée : phrase bancale
+amitie-confidences-066|G|T|
+amitie-confidences-067|R|T|intrus trop facile : thèmes différents
+amitie-confidences-068|G|T|
+amitie-confidences-069|R|T|trop vague : question circulaire
+amitie-confidences-070|R|T|trop abstraite
+amitie-confidences-071|R|T|doublon de amitie-confidences-001
+amitie-confidences-072|G|T|
+amitie-confidences-073|G|A|
+amitie-confidences-074|R|A|mal formulée
+amitie-confidences-075|R|T|mal formulée : phrase bancale
+amitie-confidences-076|G|T|
+amitie-confidences-077|R|T|intrus trop facile : thèmes différents
+amitie-confidences-078|R|A|intrus trop facile : situations sans rapport
+amitie-confidences-079|R|T|doublon de amitie-confidences-009
+amitie-confidences-080|R|A|trop abstraite
+amitie-confidences-081|R|T|doublon de amitie-confidences-011
+amitie-confidences-082|R|T|doublon de amitie-confidences-002
+amitie-confidences-083|G|T|
+amitie-confidences-084|G|T|
+amitie-confidences-085|R|A|mal formulée : phrase bancale
+amitie-confidences-086|R|T|doublon de amitie-confidences-006
+amitie-confidences-087|R|T|intrus trop facile : thèmes différents
+amitie-confidences-088|R|T|intrus trop facile : situations sans rapport
+amitie-confidences-089|R|T|trop vague : question circulaire
+amitie-confidences-090|R|T|trop abstraite
+amitie-confidences-091|R|T|doublon de amitie-confidences-021
+amitie-confidences-092|R|T|doublon de amitie-confidences-012
+amitie-confidences-093|R|T|doublon de amitie-confidences-003
+amitie-confidences-094|G|T|
+amitie-confidences-095|R|T|mal formulée : phrase bancale
+amitie-confidences-096|R|T|doublon de amitie-confidences-016
+amitie-confidences-097|R|T|doublon de amitie-confidences-007
+amitie-confidences-098|G|T|
+amitie-confidences-099|R|T|trop vague : question circulaire
+amitie-confidences-100|R|T|trop abstraite

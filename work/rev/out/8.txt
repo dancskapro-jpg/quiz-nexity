@@ -1,0 +1,300 @@
+sport-200|G|T|
+sport-203|G|T|
+sport-221|G|T|
+sport-225|G|T|
+sport-228|G|T|
+sport-237|G|T|
+sport-248|G|T|
+sport-283|G|T|
+sport-289|G|T|
+sport-302|G|T|
+sport-304|G|T|
+sport-314|G|T|
+sport-611|G|T|
+sport-612|R|T|bizarre : moment pour récupérer
+sport-613|R|T|absurde : à quel moment acheter
+sport-614|G|T|
+sport-615|R|T|trop vague : préparer une séance
+sport-616|R|T|ennuyeuse : séance de mobilité
+sport-617|G|T|
+sport-618|R|T|absurde
+sport-619|G|T|
+sport-620|R|T|trop vague
+sport-621|G|T|
+sport-622|R|T|bizarre : trouver une entrée de piscine
+sport-623|G|T|
+sport-624|R|T|mal formulée : occasion de préparer une course
+sport-625|G|T|
+sport-626|G|T|
+sport-627|G|T|
+sport-628|R|T|absurde
+sport-629|G|T|
+sport-630|R|T|A et B quasi identiques : même magasin
+sport-631|G|T|
+sport-632|R|T|bizarre : moment pour préparer une course
+sport-633|R|T|trop vague
+sport-634|R|T|intrus trop facile : options différentes
+sport-635|R|T|intrus trop facile : réactions opposées
+sport-636|R|T|trop vague
+sport-637|G|T|
+sport-638|R|T|mal formulée : phrase lourde
+sport-639|R|T|absurde
+sport-640|R|T|trop vague
+sport-641|G|T|
+sport-642|R|T|intrus trop facile : situations sans rapport
+sport-643|R|T|trop vague
+sport-644|R|T|absurde : réserver un terrain public
+sport-645|R|T|absurde
+sport-646|R|T|absurde
+sport-647|R|T|A et B quasi identiques : même magasin
+sport-648|G|T|
+sport-649|R|T|trop vague
+sport-650|R|T|doublon de sport-641
+sport-651|R|T|absurde
+sport-652|R|T|trop vague
+sport-653|R|T|doublon de sport-626
+sport-654|R|T|doublon de sport-623
+sport-655|G|T|
+sport-656|R|T|intrus trop facile : lieux différents
+sport-657|R|T|trop vague
+sport-658|R|T|intrus trop facile : prix sans rapport
+sport-659|R|T|mal formulée : sens ambigu
+sport-660|G|T|
+sport-661|R|T|trop vague
+sport-662|R|T|A et B quasi identiques : même magasin
+sport-663|R|T|mal formulée : phrase lourde
+sport-664|R|T|doublon de sport-625
+sport-665|R|T|absurde
+sport-666|G|T|
+sport-667|R|T|absurde
+sport-668|R|T|intrus trop facile : situations sans rapport
+sport-669|R|T|trop vague
+sport-670|R|T|intrus trop facile : situations sans rapport
+sport-671|R|T|ennuyeuse
+sport-672|R|T|trop vague
+sport-673|R|T|absurde
+sport-674|R|T|A et B quasi identiques : même magasin
+sport-675|R|T|intrus trop facile : situations sans rapport
+sport-676|R|T|intrus trop facile : situations sans rapport
+sport-677|R|T|absurde
+sport-678|R|T|mal formulée : acheter un cours
+sport-679|G|T|
+sport-680|R|T|absurde
+sport-681|R|T|intrus trop facile : situations sans rapport
+sport-682|R|T|trop vague
+sport-683|R|T|intrus trop facile : réactions opposées
+sport-684|G|T|
+sport-685|R|T|intrus trop facile : prix sans rapport
+sport-686|R|T|trop vague
+sport-687|R|T|trop vague
+sport-688|G|T|
+sport-689|R|T|absurde
+sport-690|G|T|
+sport-691|R|T|absurde : réponse évidente
+sport-692|R|T|absurde
+sport-693|R|T|trop vague
+sport-694|R|T|doublon de sport-637
+sport-695|R|T|doublon de sport-642
+sport-696|R|T|doublon de sport-666
+sport-697|R|T|ennuyeuse
+sport-698|R|T|doublon de sport-631
+sport-699|R|T|A et B quasi identiques : même magasin
+sport-700|R|T|trop vague
+sport-701|R|T|doublon de sport-670
+sport-702|R|T|absurde : occasion pour acheter un tapis
+sport-703|R|T|doublon de sport-683
+sport-704|R|T|A et B quasi identiques : même magasin
+sport-705|R|T|mal formulée : phrase lourde
+sport-706|G|T|
+sport-707|R|T|doublon de sport-684
+sport-708|R|T|trop vague
+sport-709|R|T|intrus trop facile : situations sans rapport
+sport-710|R|T|doublon de sport-681
+sport-711|R|T|absurde : aide pour un sac de piscine
+sport-712|R|T|intrus trop facile : situations sans rapport
+sport-713|R|T|doublon de sport-675
+sport-714|R|T|absurde
+sport-715|R|T|absurde
+sport-716|R|T|A et B quasi identiques : même magasin
+sport-717|R|T|intrus trop facile : prix sans rapport
+sport-718|R|T|absurde
+sport-719|R|T|absurde
+sport-720|R|T|absurde
+sport-721|R|T|doublon de sport-629
+sport-722|R|T|absurde : à quel moment acheter
+sport-723|R|T|absurde
+sport-724|R|T|intrus trop facile : situations sans rapport
+sport-725|R|T|absurde
+sport-726|R|T|intrus trop facile : prix sans rapport
+sport-727|R|T|absurde : trouver un abonnement
+sport-728|R|T|intrus trop facile : réactions opposées
+sport-729|G|T|
+sport-730|R|T|doublon de sport-729
+sport-731|R|T|absurde
+sport-732|R|T|trop vague
+sport-733|R|T|doublon de sport-635
+sport-734|R|T|absurde
+sport-735|R|T|absurde
+sport-736|R|T|trop vague
+sport-737|R|T|trop vague
+sport-738|R|T|doublon de sport-679
+sport-739|R|T|mal formulée : phrase lourde
+sport-740|R|T|mal formulée : phrase lourde
+sport-741|R|T|doublon de sport-709
+sport-742|R|T|absurde : à quel moment acheter
+sport-743|R|T|doublon de sport-717
+sport-744|R|T|doublon de sport-690
+sport-745|R|T|absurde
+sport-746|R|T|absurde
+sport-747|R|T|absurde
+sport-748|R|T|A et B quasi identiques : même magasin
+sport-749|R|T|absurde : chercher un cours en magasin
+sport-750|R|T|absurde
+sport-751|R|T|doublon de sport-706
+sport-752|R|T|trop vague
+sport-753|R|T|absurde
+sport-754|R|T|trop vague
+sport-755|R|T|doublon de sport-660
+sport-756|R|T|absurde
+sport-757|R|T|doublon de sport-614
+sport-758|R|T|intrus trop facile : situations sans rapport
+sport-759|R|T|doublon de sport-728
+sport-760|R|T|doublon de sport-676
+sport-761|R|T|absurde
+sport-762|R|T|absurde
+sport-763|R|T|absurde
+sport-764|R|T|absurde : à quel moment acheter
+sport-765|R|T|A et B quasi identiques : même magasin
+sport-766|R|T|doublon de sport-648
+sport-767|R|T|ennuyeuse
+sport-768|G|T|
+sport-769|R|T|absurde
+sport-770|R|T|doublon de sport-611
+sport-771|R|T|absurde
+sport-772|R|T|doublon de sport-726
+sport-773|R|T|trop vague
+sport-774|R|T|absurde
+sport-775|R|T|doublon de sport-758
+sport-776|R|T|absurde
+sport-777|R|T|absurde
+sport-778|R|T|intrus trop facile : situations sans rapport
+sport-779|R|T|trop vague
+sport-780|R|T|absurde
+sport-781|R|T|absurde
+sport-782|R|T|doublon de sport-729
+sport-783|R|T|absurde : à quel moment acheter
+sport-784|R|T|doublon de sport-621
+sport-785|R|T|intrus trop facile : prix sans rapport
+sport-786|R|T|A et B quasi identiques : même magasin
+sport-787|R|T|absurde
+sport-788|R|T|absurde
+sport-789|R|T|doublon de sport-778
+sport-790|R|T|absurde
+sport-791|R|T|absurde
+sport-792|R|T|absurde
+sport-793|R|T|doublon de sport-668
+sport-794|R|T|absurde
+sport-795|R|T|absurde
+sport-796|R|T|absurde
+sport-797|R|T|doublon de sport-655
+sport-798|R|T|absurde : occasion pour acheter
+sport-799|R|T|intrus trop facile : lieux différents
+sport-800|R|T|absurde
+sport-801|R|T|ennuyeuse
+sport-802|R|T|trop vague
+sport-803|R|T|doublon de sport-768
+sport-804|R|T|doublon de sport-688
+sport-805|R|T|absurde
+sport-806|R|T|A et B quasi identiques : même magasin
+sport-807|R|T|intrus trop facile : prix sans rapport
+sport-808|R|T|absurde
+sport-809|R|T|absurde
+sport-810|R|T|doublon de sport-729
+transports-deplacements-001|R|A|intrus trop facile : prix sans rapport
+transports-deplacements-002|G|A|
+transports-deplacements-003|R|T|intrus trop facile : prix sans rapport
+transports-deplacements-004|R|T|intrus trop facile : prix sans rapport
+transports-deplacements-005|R|T|intrus trop facile : prix sans rapport
+transports-deplacements-006|R|A|intrus trop facile : prix sans rapport
+transports-deplacements-007|R|A|ennuyeuse : stationnement résidentiel
+transports-deplacements-008|R|A|intrus trop facile : prix sans rapport
+transports-deplacements-009|R|A|intrus trop facile : prix sans rapport
+transports-deplacements-010|R|A|intrus trop facile : prix sans rapport
+transports-deplacements-011|G|A|
+transports-deplacements-012|R|T|mal formulée : phrase lourde
+transports-deplacements-013|G|T|
+transports-deplacements-014|G|T|
+transports-deplacements-015|R|T|mal formulée : phrase lourde
+transports-deplacements-016|R|A|ennuyeuse : stationnement résidentiel
+transports-deplacements-017|R|A|intrus trop facile : prix sans rapport
+transports-deplacements-018|R|A|intrus trop facile : prix sans rapport
+transports-deplacements-019|R|T|intrus trop facile : prix sans rapport
+transports-deplacements-020|R|T|intrus trop facile : prix sans rapport
+transports-deplacements-021|R|A|doublon de transports-deplacements-001
+transports-deplacements-022|R|A|doublon de transports-deplacements-002
+transports-deplacements-023|R|T|doublon de transports-deplacements-003
+transports-deplacements-024|R|T|doublon de transports-deplacements-004
+transports-deplacements-025|R|T|doublon de transports-deplacements-005
+transports-deplacements-026|G|T|
+transports-deplacements-027|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-028|G|T|
+transports-deplacements-029|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-030|G|T|
+transports-deplacements-031|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-032|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-033|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-034|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-035|R|T|absurde : descendre plus tôt
+transports-deplacements-036|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-037|R|T|doublon de transports-deplacements-028
+transports-deplacements-038|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-039|R|T|doublon de transports-deplacements-030
+transports-deplacements-040|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-041|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-042|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-043|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-044|R|T|absurde : descendre plus tôt
+transports-deplacements-045|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-046|R|T|doublon de transports-deplacements-026
+transports-deplacements-047|R|T|doublon de transports-deplacements-027
+transports-deplacements-048|R|T|doublon de transports-deplacements-028
+transports-deplacements-049|R|A|doublon de transports-deplacements-029
+transports-deplacements-050|R|T|doublon de transports-deplacements-030
+transports-deplacements-051|G|T|
+transports-deplacements-052|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-053|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-054|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-055|G|T|
+transports-deplacements-056|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-057|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-058|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-059|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-060|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-061|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-062|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-063|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-064|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-065|G|A|
+transports-deplacements-066|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-067|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-068|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-069|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-070|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-071|R|T|doublon de transports-deplacements-051
+transports-deplacements-072|R|A|doublon de transports-deplacements-052
+transports-deplacements-073|R|T|doublon de transports-deplacements-053
+transports-deplacements-074|R|A|doublon de transports-deplacements-054
+transports-deplacements-075|R|T|doublon de transports-deplacements-055
+transports-deplacements-076|R|T|intrus trop facile : options différentes
+transports-deplacements-077|R|T|intrus trop facile : options différentes
+transports-deplacements-078|G|A|
+transports-deplacements-079|R|A|intrus trop facile : options différentes
+transports-deplacements-080|R|A|intrus trop facile : options différentes
+transports-deplacements-081|R|A|intrus trop facile : options différentes
+transports-deplacements-082|R|T|intrus trop facile : options différentes
+transports-deplacements-083|R|T|intrus trop facile : options différentes
+transports-deplacements-084|R|T|intrus trop facile : options différentes
+transports-deplacements-085|R|T|intrus trop facile : options différentes
+transports-deplacements-086|R|A|intrus trop facile : options différentes
+transports-deplacements-087|R|A|intrus trop facile : options différentes
+transports-deplacements-088|R|A|intrus trop facile : options différentes

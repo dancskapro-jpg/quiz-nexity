@@ -1,0 +1,300 @@
+reflexe-472|G|T|
+reflexe-473|G|T|
+reflexe-474|G|T|
+reflexe-475|G|T|
+reflexe-476|G|T|
+reflexe-477|R|T|types de réponse différents : moment / activité
+reflexe-478|G|T|
+reflexe-479|G|T|
+reflexe-480|G|T|
+reflexe-481|R|T|doublon de reflexe-472
+reflexe-482|G|T|
+reflexe-483|G|T|
+reflexe-484|G|T|
+reflexe-485|G|T|
+reflexe-486|G|T|
+reflexe-487|G|T|
+reflexe-488|R|T|types de réponse différents : activité / chose préparée
+reflexe-489|R|T|doublon de reflexe-480
+reflexe-490|G|T|
+reflexe-491|G|T|
+reflexe-492|R|T|doublon de reflexe-474
+reflexe-493|G|T|
+reflexe-494|R|T|types de réponse différents : objet / moment
+reflexe-495|G|T|
+reflexe-496|G|T|
+reflexe-497|R|T|doublon de reflexe-487
+reflexe-498|G|T|
+reflexe-499|R|T|doublon de reflexe-473
+reflexe-500|G|T|
+reflexe-501|R|T|intrus trop facile : catégories sans rapport
+reflexe-502|G|T|
+reflexe-503|R|T|types de réponse différents : action / lieu
+reflexe-504|R|T|types de réponse différents : activité / habitude
+reflexe-505|R|T|doublon de reflexe-491
+reflexe-506|G|T|
+reflexe-507|G|T|
+reflexe-508|G|T|
+reflexe-509|G|T|
+reflexe-510|G|T|
+reflexe-511|G|T|
+reflexe-512|G|T|
+reflexe-513|G|T|
+reflexe-514|G|T|
+reflexe-515|G|T|
+reflexe-516|G|T|
+reflexe-517|G|T|
+reflexe-518|R|T|doublon de reflexe-509
+reflexe-519|R|T|doublon de reflexe-512
+reflexe-520|R|T|doublon de reflexe-516
+reflexe-521|R|T|doublon de reflexe-503
+reflexe-522|G|T|
+reflexe-523|G|T|
+reflexe-524|R|T|types de réponse différents : lieu / objet
+reflexe-525|G|T|
+reflexe-526|R|T|doublon de reflexe-493
+reflexe-527|R|T|doublon de reflexe-476
+reflexe-528|R|T|doublon de reflexe-514
+reflexe-529|R|T|doublon de reflexe-510
+reflexe-530|R|T|doublon de reflexe-473
+reflexe-531|G|T|
+reflexe-532|G|T|
+reflexe-533|R|T|doublon de reflexe-496
+reflexe-534|G|T|
+reflexe-535|G|T|
+reflexe-536|R|T|doublon de reflexe-475
+reflexe-537|R|T|doublon de reflexe-482
+reflexe-538|R|T|doublon de reflexe-491
+reflexe-539|R|T|doublon de reflexe-494
+reflexe-540|R|T|doublon de reflexe-513
+reflexe-541|R|T|doublon de reflexe-479
+reflexe-542|R|T|doublon de reflexe-487
+reflexe-543|G|T|
+reflexe-544|G|T|
+ecrans-007|G|T|
+ecrans-035|G|T|
+ecrans-037|G|T|
+ecrans-038|G|T|
+ecrans-039|G|T|
+ecrans-041|G|T|
+ecrans-042|G|T|
+ecrans-043|G|T|
+ecrans-046|G|T|
+ecrans-048|G|T|
+ecrans-049|G|T|
+ecrans-051|G|T|
+ecrans-052|G|T|
+ecrans-053|G|T|
+ecrans-054|G|T|
+ecrans-060|G|T|
+ecrans-063|G|T|
+ecrans-070|G|T|
+ecrans-082|G|T|
+ecrans-085|G|T|
+ecrans-091|G|T|
+ecrans-092|G|T|
+ecrans-100|G|T|
+ecrans-102|G|T|
+ecrans-103|G|T|
+ecrans-137|G|T|
+ecrans-139|G|T|
+ecrans-164|G|T|
+ecrans-176|G|T|
+ecrans-200|G|T|
+ecrans-209|G|T|
+ecrans-217|G|T|
+ecrans-226|G|T|
+ecrans-236|G|T|
+ecrans-273|G|T|
+ecrans-280|G|T|
+ecrans-286|G|T|
+ecrans-319|G|T|
+ecrans-324|G|T|
+ecrans-325|G|T|
+ecrans-335|G|T|
+ecrans-339|G|T|
+ecrans-342|G|T|
+ecrans-359|G|T|
+ecrans-437|G|T|
+ecrans-465|G|T|
+ecrans-468|G|T|
+ecrans-475|G|T|
+ecrans-584|G|T|
+ecrans-613|G|T|
+ecrans-646|R|T|bizarre : formulation lourde, situations sans rapport
+ecrans-647|R|T|intrus trop facile : situations sans rapport
+ecrans-648|G|T|
+ecrans-649|R|T|absurde
+ecrans-650|R|T|ennuyeuse : achat technique
+ecrans-651|R|T|intrus trop facile et B absurde (réserver une télé)
+ecrans-652|G|T|
+ecrans-653|R|T|intrus trop facile : prix sans commune mesure
+ecrans-654|R|T|intrus trop facile : situations sans rapport
+ecrans-655|R|T|mal formulée
+ecrans-656|R|T|mal formulée et trop vague
+ecrans-657|R|T|bizarre
+ecrans-658|G|T|
+ecrans-659|R|T|absurde
+ecrans-660|R|T|absurde
+ecrans-661|G|T|
+ecrans-662|R|T|absurde
+ecrans-663|R|T|intrus trop facile : situations sans rapport
+ecrans-664|R|T|intrus trop facile : prix sans commune mesure
+ecrans-665|R|T|trop vague
+ecrans-666|G|T|
+ecrans-667|R|T|doublon de ecrans-654
+ecrans-668|R|T|absurde
+ecrans-669|R|T|ennuyeuse et quasi identiques
+ecrans-670|R|T|absurde
+ecrans-671|G|T|
+ecrans-672|R|T|bizarre
+ecrans-673|R|T|absurde
+ecrans-674|R|T|absurde
+ecrans-675|R|T|mal formulée
+ecrans-676|R|T|intrus trop facile : situations sans rapport
+ecrans-677|R|T|absurde
+ecrans-678|R|T|absurde
+ecrans-679|R|T|absurde
+ecrans-680|R|T|absurde
+ecrans-681|R|T|trop vague
+ecrans-682|R|T|intrus trop facile et ennuyeuse
+ecrans-683|R|T|bizarre
+ecrans-684|R|T|doublon de ecrans-051 / ecrans-102
+ecrans-685|R|T|doublon de ecrans-666
+ecrans-686|R|T|trop vague
+ecrans-687|R|T|ennuyeuse : achat technique
+ecrans-688|R|T|intrus trop facile : lieux sans rapport
+ecrans-689|R|T|trop vague
+ecrans-690|R|T|mal formulée, prix sans commune mesure
+ecrans-691|R|T|absurde
+ecrans-692|R|T|absurde
+ecrans-693|R|T|absurde
+ecrans-694|R|T|absurde
+ecrans-695|R|T|mal formulée
+ecrans-696|R|T|trop vague
+ecrans-697|R|T|intrus trop facile : situations sans rapport
+ecrans-698|R|T|bizarre
+ecrans-699|R|T|absurde
+ecrans-700|R|T|doublon de ecrans-035 / ecrans-102
+ecrans-701|R|T|ennuyeuse et quasi identiques
+ecrans-702|R|T|bizarre
+ecrans-703|R|T|intrus trop facile : prix sans commune mesure
+ecrans-704|R|T|trop vague
+ecrans-705|R|T|ennuyeuse et quasi identiques
+ecrans-706|R|T|absurde
+ecrans-707|R|T|intrus trop facile : prix sans commune mesure
+ecrans-708|R|T|absurde
+ecrans-709|R|T|intrus trop facile : situations sans rapport
+ecrans-710|R|T|absurde
+ecrans-711|R|T|bizarre
+ecrans-712|R|T|quasi identiques et lourde
+ecrans-713|G|T|
+ecrans-714|R|T|ennuyeuse et quasi identiques
+ecrans-715|R|T|mal formulée, prix sans commune mesure
+ecrans-716|R|T|bizarre
+ecrans-717|R|T|intrus trop facile : prix sans commune mesure
+ecrans-718|R|T|doublon de ecrans-035
+ecrans-719|R|T|absurde
+ecrans-720|R|T|absurde
+ecrans-721|R|T|intrus trop facile : situations sans rapport
+ecrans-722|R|T|intrus trop facile : prix sans commune mesure
+ecrans-723|R|T|intrus trop facile : prix sans commune mesure
+ecrans-724|R|T|doublon de ecrans-648
+ecrans-725|R|T|doublon de ecrans-718 / ecrans-035
+ecrans-726|R|T|absurde
+ecrans-727|R|T|intrus trop facile : situations sans rapport
+ecrans-728|R|T|absurde
+ecrans-729|R|T|mal formulée
+ecrans-730|R|T|trop vague
+ecrans-731|R|T|trop vague
+ecrans-732|R|T|doublon de ecrans-658
+ecrans-733|G|T|
+ecrans-734|R|T|intrus trop facile, mal formulée
+ecrans-735|R|T|bizarre
+ecrans-736|R|T|intrus trop facile : prix éloignés
+ecrans-737|R|T|absurde
+ecrans-738|R|T|absurde
+ecrans-739|R|T|absurde
+ecrans-740|G|T|
+ecrans-741|R|T|doublon de ecrans-740
+ecrans-742|R|T|absurde
+ecrans-743|R|T|intrus trop facile : objets sans rapport
+ecrans-744|R|T|trop vague
+ecrans-745|R|T|trop vague
+ecrans-746|R|T|bizarre
+ecrans-747|R|T|intrus trop facile : situations sans rapport
+ecrans-748|R|T|trop vague
+ecrans-749|R|T|bizarre
+ecrans-750|R|T|intrus trop facile : situations sans rapport
+ecrans-751|R|T|absurde
+ecrans-752|R|T|absurde
+ecrans-753|R|T|ennuyeuse
+ecrans-754|R|T|doublon de ecrans-707
+ecrans-755|R|T|absurde
+ecrans-756|R|T|absurde
+ecrans-757|R|T|doublon de ecrans-647
+ecrans-758|R|T|absurde
+ecrans-759|R|T|lourde, intrus trop facile
+ecrans-760|R|T|bizarre
+ecrans-761|R|T|mal formulée
+ecrans-762|R|T|mal formulée
+ecrans-763|R|T|intrus trop facile : durées sans commune mesure
+ecrans-764|R|T|doublon de ecrans-753
+ecrans-765|R|T|absurde
+ecrans-766|R|T|bizarre
+ecrans-767|R|T|absurde
+ecrans-768|R|T|doublon de ecrans-653
+ecrans-769|R|T|absurde
+ecrans-770|R|T|doublon de ecrans-734
+ecrans-771|R|T|absurde
+ecrans-772|G|T|
+ecrans-773|R|T|intrus trop facile : durées sans commune mesure
+ecrans-774|R|T|absurde
+ecrans-775|R|T|doublon de ecrans-712
+ecrans-776|R|T|doublon de ecrans-727
+ecrans-777|R|T|doublon de ecrans-684
+ecrans-778|R|T|trop vague
+ecrans-779|R|T|intrus trop facile : situations sans rapport
+ecrans-780|R|T|doublon de ecrans-747
+ecrans-781|R|T|ennuyeuse
+ecrans-782|R|T|doublon de ecrans-676
+ecrans-783|R|T|doublon de ecrans-733
+ecrans-784|R|T|mal formulée
+ecrans-785|R|T|trop vague
+ecrans-786|R|T|doublon de ecrans-772
+ecrans-787|R|T|absurde
+ecrans-788|R|T|doublon de ecrans-664
+ecrans-789|R|T|ennuyeuse et quasi identiques
+ecrans-790|R|T|doublon de ecrans-687
+ecrans-791|R|T|intrus trop facile : objets sans rapport
+ecrans-792|R|T|absurde
+ecrans-793|R|T|absurde
+ecrans-794|R|T|absurde
+ecrans-795|R|T|mal formulée
+ecrans-796|R|T|absurde
+ecrans-797|R|T|trop vague
+ecrans-798|R|T|doublon de ecrans-709
+ecrans-799|R|T|bizarre
+ecrans-800|R|T|doublon de ecrans-721
+ecrans-801|R|T|doublon de ecrans-723
+ecrans-802|R|T|doublon de ecrans-650
+ecrans-803|R|T|bizarre
+ecrans-804|R|T|absurde
+ecrans-805|R|T|trop vague
+ecrans-806|R|T|bizarre
+ecrans-807|R|T|doublon de ecrans-717
+ecrans-808|R|T|absurde
+ecrans-809|R|T|absurde
+ecrans-810|R|T|bizarre
+ecrans-811|R|T|doublon de ecrans-690
+ecrans-812|R|T|doublon de ecrans-736
+ecrans-813|R|T|doublon de ecrans-671
+ecrans-814|R|T|absurde
+ecrans-815|R|T|bizarre
+ecrans-816|R|T|absurde
+ecrans-817|R|T|doublon de ecrans-651
+ecrans-818|R|T|bizarre
+ecrans-819|R|T|absurde
+ecrans-820|R|T|absurde
+ecrans-821|R|T|trop vague
+ecrans-822|R|T|intrus trop facile : durées sans commune mesure

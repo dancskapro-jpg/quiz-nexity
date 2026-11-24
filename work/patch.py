@@ -57,6 +57,20 @@ for r in bank_new:
 NEW_PACKS = json.load(open(f'{W}/new_packs.json', encoding='utf8'))
 MERGE = json.load(open(f'{W}/merge.json', encoding='utf8'))
 final_pack = lambda pk: MERGE['map'].get(pk, pk)
+# Relecture : paires retirées et paires « adultes » (seulement les parties qui passent rev-check)
+REMOVED, ADULT, REMOVED_WHY = set(), set(), {}
+for _n in range(1, 18):
+    _f = f'{W}/rev/out/{_n}.txt'
+    if not os.path.exists(_f) or subprocess.run(['node', f'{W}/rev-check.mjs', str(_n)], capture_output=True).returncode:
+        continue
+    for _line in open(_f, encoding='utf8'):
+        _p = [x.strip() for x in _line.rstrip('\n').split('|')]
+        if len(_p) == 4:
+            if _p[1] == 'R':
+                REMOVED.add(_p[0]); REMOVED_WHY[_p[0]] = _p[3]
+            if _p[2] == 'A':
+                ADULT.add(_p[0])
+print('relecture : retirées', len(REMOVED), 'adultes', len(ADULT))
 
 src = open(f'{W}/v64/index.html', encoding='utf8').read()
 
@@ -77,10 +91,29 @@ data = ('var HS_KEEP=new Set(' + json.dumps(keep, ensure_ascii=False) + '),HS_FR
         + ',HS_MERGE=' + json.dumps(MERGE['map'], separators=(',', ':'))
         + ',HS_ORDER=' + json.dumps(MERGE['order'], separators=(',', ':'))
         + ',HS_ESS=' + json.dumps(MERGE['essentiels'], separators=(',', ':'))
-        + ',HS_RENAME=' + json.dumps({k: v['fr'] for k, v in MERGE['titles'].items()}, ensure_ascii=False, separators=(',', ':')) + ';')
+        + ',HS_RENAME=' + json.dumps({k: v['fr'] for k, v in MERGE['titles'].items()}, ensure_ascii=False, separators=(',', ':'))
+        + ',HS_CAT=' + json.dumps(MERGE['cats'], separators=(',', ':'))
+        + ',HS_LOTS=' + json.dumps([{'id': o['id'], 'cat': o['cat'], 'price': o['price'], 'title': o['fr'][0], 'description': o['fr'][1]} for o in MERGE['lots']], ensure_ascii=False, separators=(',', ':'))
+        + ',HS_REMOVED=new Set(' + json.dumps(sorted(REMOVED), separators=(',', ':')) + ')'
+        + ',HS_ADULT=new Set(' + json.dumps(sorted(ADULT), separators=(',', ':')) + ');')
 sub('"use strict";(()=>{', '"use strict";(()=>{' + data)
 sub('return u?{...e,answersA:u[0],answersB:u[1]}:e});function nu(',
-    'return u?{...e,answersA:u[0],answersB:u[1]}:e}).filter(e=>HS_KEEP.has(e.id)).map(e=>{let o=HS_FR[e.id];return o?{...e,a:Ga(o[0]),b:Ga(o[1])}:e}).concat(HS_NEW.map(e=>({...e,a:Ga(e.a),b:Ga(e.b)}))).concat(hsBank()).map(hsRemap);hsAddPacks();hsPrune();function nu(')
+    'return u?{...e,answersA:u[0],answersB:u[1]}:e}).filter(e=>HS_KEEP.has(e.id)).map(e=>{let o=HS_FR[e.id];return o?{...e,a:Ga(o[0]),b:Ga(o[1])}:e}).concat(HS_NEW.map(e=>({...e,a:Ga(e.a),b:Ga(e.b)}))).concat(hsBank()).filter(e=>!HS_REMOVED.has(e.id)).map(hsRemap);hsAddPacks();hsPrune();function nu(')
+# Moins de 18 ans : packs adultes et questions adultes masqués
+sub('function Lu(e){return e==="perso"?wn():Ke(e)?nu().filter(u=>u.pack===e):[]}function Dn(e){return e==="perso"?wn().length:nu().filter(u=>u.pack===e).length}',
+    'function Lu(e){return e==="perso"?wn():Ke(e)&&!hsBlocked(e)?nu().filter(u=>u.pack===e&&hsOkPair(u)):[]}function Dn(e){return e==="perso"?wn().length:nu().filter(u=>u.pack===e&&hsOkPair(u)).length}')
+sub('function Jr(e){let u=pa([...nu(),...wn()],{packs:e.packs,unlocked:n=>ye(n)&&Ke(n),',
+    'function Jr(e){let u=pa([...nu().filter(hsOkPair),...wn()],{packs:e.packs,unlocked:n=>ye(n)&&Ke(n)&&!hsBlocked(n),')
+sub('o=b=>{let f=ye(b.id),h=Ke(b.id),C=Lu(b.id).length', 'o=b=>{let f=ye(b.id),h=Ke(b.id)&&!hsBlocked(b.id),C=Lu(b.id).length')
+sub('t("Bient\\xF4t dans cette langue"):t("Verrouill\\xE9")', '(hsBlocked(b.id)?t("R\\xE9serv\\xE9 aux adultes"):t("Bient\\xF4t dans cette langue")):t("Verrouill\\xE9")')
+sub('d=b=>ye(b)&&Ke(b),l=s.filter', 'd=b=>ye(b)&&Ke(b)&&!hsBlocked(b),l=s.filter')
+sub('<p class="muted small">${t("Touchez un pack pour le cocher. Les questions sont tir\\xE9es dans les packs coch\\xE9s.")}</p>',
+    '${hsAgeToggle()}<p class="muted small">${t("Touchez un pack pour le cocher. Les questions sont tir\\xE9es dans les packs coch\\xE9s.")}</p>')
+# Catégories par public dans le choix des packs et dans la boutique
+sub('[["essentiels",r("Essentiels")],["thematiques",r("Th\\xE9matiques")],["saisons",r("Collections saisonni\\xE8res")],["perso",r("Personnel")]]',
+    '[["famille",r("En famille")],["potes",r("Entre potes")],["adultes",r("Adultes (18+)")],["saisons",r("Collections saisonni\\xE8res")],["perso",r("Personnel")]]')
+sub('<h2 class="h-sec">${t("Packs essentiels")}</h2>\n      <div class="shop-list">${Se.filter(a=>{var i;return!a.free&&((i=a.category)!=null?i:"essentiels")==="essentiels"}).map(a=>n(a.productId)).join("")}</div>\n      <h2 class="h-sec">${t("Packs th\\xE9matiques")}</h2>\n      <div class="shop-list">${Se.filter(a=>a.category==="thematiques").map(a=>n(a.productId)).join("")}</div>',
+    '${hsShop(n)}')
 # Visuels des nouveaux packs
 sub('return s+((o=i[e])!=null?o:i.classique)+"</svg>"}', 'return s+((o=hsArt(e,u,a))!=null?o:(o=i[e])!=null?o:i.classique)+"</svg>"}')
 # Nouveau type de réponse générique (« une réponse courte »)
@@ -100,23 +133,29 @@ sub("""<main class="page home-page">""", """<main class="page home-page">${hsLan
 
 helpers = r'''
 function hsBank(){let out=[];for(let[pk,rows]of Object.entries(HS_BANK))for(let[id,ty,a,b]of rows){let m=pk==="miroir";out.push({id,a:Ga(a),b:Ga(b),pack:pk,difficulty:m?3:2,theme:pk,answerType:ty,mirror:m,tags:[ty,pk,...m?["miroir"]:[]],compat:4})}return out}
+function hsMinors(){return!!(Q.data.settings&&Q.data.settings.hsMinors)}
+function hsBlocked(pk){return hsMinors()&&HS_CAT[pk]==="adultes"}
+function hsOkPair(p){return!hsMinors()||!(HS_ADULT.has(p.id)||HS_CAT[p.pack]==="adultes")}
+function hsAgeToggle(){let m=hsMinors();return`<div class="hs-age"><span class="hs-age-q">${t("Des moins de 18 ans jouent ?")}</span><span class="hs-seg" role="group"><button class="${m?"on":""}" data-hs="minors" data-arg="1" aria-pressed="${m}">${t("Oui")}</button><button class="${m?"":"on"}" data-hs="minors" data-arg="0" aria-pressed="${!m}">${t("Non")}</button></span><span class="muted small hs-age-hint">${m?t("Packs et questions pour adultes masqu\xE9s."):t("Toutes les questions sont disponibles.")}</span></div>`}
+function hsShop(n){let cats=[["famille",r("En famille")],["potes",r("Entre potes")],["adultes",r("Adultes (18+)")]];return`<h2 class="h-sec">${t("Lots par public")}</h2><p class="muted small">${t("Tous les packs d’un m\xEAme public, moins cher qu’\xE0 l’unit\xE9.")}</p><div class="shop-list">${HS_LOTS.filter(L=>su.some(x=>x.id===L.id)).map(L=>n(L.id)).join("")}</div>`+cats.map(([k,lab])=>{let ps=Se.filter(a=>!a.free&&a.category===k);return ps.length?`<h2 class="h-sec">${t(lab)}</h2><div class="shop-list">${ps.map(a=>n(a.productId)).join("")}</div>`:""}).join("")}
 function hsRemap(e){let m=HS_MERGE[e.pack];return m?{...e,pack:m,theme:e.theme===e.pack?m:e.theme}:e}
 function hsHeart(x,y,s){return`M${x} ${y+s*.9} C${x-s*1.4} ${y+s*.1} ${x-s*.9} ${y-s*.9} ${x} ${y-s*.25} C${x+s*.9} ${y-s*.9} ${x+s*1.4} ${y+s*.1} ${x} ${y+s*.9} Z`}
 function hsArt(e,u,a){switch(e){
 case"argent-shopping":return`<path d="M28 34 L76 34 L80 72 L24 72 Z" fill="#fff"/><path d="M40 36 C40 16 64 16 64 36" stroke="${a}" stroke-width="3.6" fill="none" stroke-linecap="round"/><circle cx="40" cy="38" r="2.6" fill="${a}"/><circle cx="64" cy="38" r="2.6" fill="${a}"/><text x="52" y="61" text-anchor="middle" font-family="Unbounded,sans-serif" font-weight="800" font-size="16" fill="${a}">€</text><g stroke="${a}" stroke-width="2"><ellipse cx="98" cy="68" rx="13" ry="4.6" fill="${v.gold}"/><ellipse cx="98" cy="61" rx="13" ry="4.6" fill="${v.gold}"/><ellipse cx="98" cy="54" rx="13" ry="4.6" fill="${v.gold}"/></g><g transform="rotate(-14 98 24)"><rect x="83" y="15" width="30" height="17" rx="3" fill="#fff" stroke="${a}" stroke-width="2"/><circle cx="98" cy="23.5" r="4.2" fill="none" stroke="${a}" stroke-width="2"/></g>`+oe(16,20,4,"#fff")+oe(14,58,3,"#fff",.8)
 case"amour-couple":return`<path d="${hsHeart(48,38,22)}" fill="#fff"/><path d="${hsHeart(76,46,18)}" fill="${a}"/><path d="${hsHeart(100,18,7)}" fill="${v.rose}" stroke="#fff" stroke-width="1.6"/>`+oe(20,20,4,"#fff")+oe(104,62,3.5,"#fff",.8)
 case"psychologie-personnalite":return`<path d="M38 76 L38 63 C26 57 23 41 29 28 C37 11 65 9 76 23 C80 29 80 35 82 40 L89 49 L82 51 L82 58 C82 62 78 64 72 63 L66 62 L66 76 Z" fill="${a}"/><path d="M54 36 m-2 0 a2 2 0 1 1 4 0 a5 5 0 1 1 -10 0 a8 8 0 1 1 16 0 a11 11 0 1 1 -22 0" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round"/><text x="101" y="32" text-anchor="middle" font-family="Unbounded,sans-serif" font-weight="800" font-size="22" fill="#fff">?</text><text x="106" y="64" text-anchor="middle" font-family="Unbounded,sans-serif" font-weight="800" font-size="16" fill="${v.gold}">!</text>`+oe(14,18,3.5,"#fff",.8)
+case"beaute-apparence":return`<ellipse cx="48" cy="36" rx="20" ry="25" fill="#fff" stroke="${a}" stroke-width="3"/><ellipse cx="48" cy="36" rx="14" ry="19" fill="${v.lilac}" opacity=".45"/><path d="M41 23 Q45 19 50 21" stroke="#fff" stroke-width="2.6" fill="none" stroke-linecap="round"/><rect x="45" y="60" width="6" height="16" rx="3" fill="${a}"/><rect x="84" y="46" width="15" height="26" rx="3" fill="${a}"/><rect x="84" y="42" width="15" height="6" rx="1.5" fill="${v.gold}"/><path d="M86 42 L86 30 Q91 24 97 28 L97 42 Z" fill="${v.rose}" stroke="${a}" stroke-width="2"/>`+oe(18,18,4,"#fff")+oe(104,18,3,"#fff",.8)
 case"spicy":return`<path d="M30 30 C46 25 70 33 84 51 C92 61 93 72 86 72 C76 60 54 48 34 44 C25 42 23 32 30 30 Z" fill="#B0102C" stroke="${a}" stroke-width="2.4"/><path d="M31 31 C27 24 29 17 36 14" stroke="${v.mint}" stroke-width="4" fill="none" stroke-linecap="round"/><ellipse cx="31" cy="34" rx="6" ry="4.4" fill="${v.mint}" stroke="${a}" stroke-width="2"/><path d="M38 34 C52 33 66 40 76 50" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round" opacity=".55"/><path d="M100 10 C109 21 111 30 105 38 C101 42 92 42 90 36 C88 30 94 28 94 21 C98 25 99 28 99 31 C103 24 103 17 100 10 Z" fill="${v.gold}" stroke="${a}" stroke-width="2"/><circle cx="99" cy="59" r="13" fill="${a}"/><text x="99" y="62.5" text-anchor="middle" font-family="Unbounded,sans-serif" font-weight="800" font-size="9" fill="#fff">18+</text>`+oe(16,62,3.5,"#fff",.8)
 }return null}
 function hsFlag(c){let F={fr:'<rect width="10" height="20" fill="#0055A4"/><rect x="10" width="10" height="20" fill="#fff"/><rect x="20" width="10" height="20" fill="#EF4135"/>',en:'<rect width="30" height="20" fill="#012169"/><path d="M0 0 L30 20 M30 0 L0 20" stroke="#fff" stroke-width="4"/><path d="M0 0 L30 20 M30 0 L0 20" stroke="#C8102E" stroke-width="1.4"/><path d="M15 0 V20 M0 10 H30" stroke="#fff" stroke-width="6.4"/><path d="M15 0 V20 M0 10 H30" stroke="#C8102E" stroke-width="3.6"/>',es:'<rect width="30" height="20" fill="#AA151B"/><rect y="5" width="30" height="10" fill="#F1BF00"/>',it:'<rect width="10" height="20" fill="#009246"/><rect x="10" width="10" height="20" fill="#fff"/><rect x="20" width="10" height="20" fill="#CE2B37"/>',de:'<rect width="30" height="7" fill="#000"/><rect y="6.6" width="30" height="7" fill="#DD0000"/><rect y="13.3" width="30" height="6.7" fill="#FFCE00"/>',pt:'<rect width="30" height="20" fill="#009C3B"/><path d="M15 2.6 L27.4 10 L15 17.4 L2.6 10 Z" fill="#FFDF00"/><circle cx="15" cy="10" r="4.7" fill="#002776"/><path d="M10.5 9.2 Q15 7.9 19.6 10.8" stroke="#fff" stroke-width="1" fill="none"/>',nl:'<rect width="30" height="7" fill="#AE1C28"/><rect y="6.6" width="30" height="7" fill="#fff"/><rect y="13.3" width="30" height="6.7" fill="#21468B"/>'};return`<span class="hs-flag" aria-hidden="true"><svg viewBox="0 0 30 20" preserveAspectRatio="none">${F[c]||F.fr}</svg></span>`}
-function hsAddPacks(){for(let p of HS_PACKS){Se.some(x=>x.id===p.id)||Se.push({id:p.id,title:r(p.title),description:r(p.description),free:!1,productId:"pack:"+p.id,accent:p.accent,category:"thematiques"});if(typeof su!="undefined"&&su&&!su.some(x=>x.id==="pack:"+p.id)){let i=su.findIndex(x=>x.id==="tout");su.splice(i<0?su.length:i,0,{id:"pack:"+p.id,title:r(p.title),description:"",referencePrice:"2,99 \u20AC",grants:["pack:"+p.id]})}}for(let x of Se){let n=HS_RENAME[x.id];n&&(x.title=r(n[0]),x.description=r(n[1]));HS_ORDER.includes(x.id)&&(x.category=HS_ESS.includes(x.id)?void 0:"thematiques")}if(typeof su!="undefined"&&su)for(let x of su){let n=x.grants&&x.grants.length===1&&HS_RENAME[x.grants[0].slice(5)];n&&(x.title=r(n[0]))}let rk=new Map(Se.map((x,i)=>[x.id,HS_ORDER.includes(x.id)?HS_ORDER.indexOf(x.id):100+i]));Se.sort((x,y)=>rk.get(x.id)-rk.get(y.id))}
+function hsAddPacks(){for(let p of HS_PACKS){Se.some(x=>x.id===p.id)||Se.push({id:p.id,title:r(p.title),description:r(p.description),free:!1,productId:"pack:"+p.id,accent:p.accent,category:"thematiques"});if(typeof su!="undefined"&&su&&!su.some(x=>x.id==="pack:"+p.id)){let i=su.findIndex(x=>x.id==="tout");su.splice(i<0?su.length:i,0,{id:"pack:"+p.id,title:r(p.title),description:"",referencePrice:"2,99 \u20AC",grants:["pack:"+p.id]})}}for(let x of Se){let n=HS_RENAME[x.id];n&&(x.title=r(n[0]),x.description=r(n[1]));HS_CAT[x.id]&&(x.category=HS_CAT[x.id])}if(typeof su!="undefined"&&su)for(let L of HS_LOTS)if(!su.some(x=>x.id===L.id)){let i=su.findIndex(x=>x.id==="tout");su.splice(i<0?su.length:i,0,{id:L.id,title:r(L.title),description:r(L.description),referencePrice:L.price.replace(" \u20AC","\xA0\u20AC"),grants:Object.keys(HS_CAT).filter(k=>HS_CAT[k]===L.cat&&k!=="classique").map(k=>"pack:"+k)})}if(typeof su!="undefined"&&su)for(let x of su){let n=x.grants&&x.grants.length===1&&HS_RENAME[x.grants[0].slice(5)];n&&(x.title=r(n[0]))}let rk=new Map(Se.map((x,i)=>[x.id,HS_ORDER.includes(x.id)?HS_ORDER.indexOf(x.id):100+i]));Se.sort((x,y)=>rk.get(x.id)-rk.get(y.id))}
 function hsPrune(){let has=p=>Ss.some(x=>x.pack===p);for(let i=Se.length-1;i>=0;i--)has(Se[i].id)||Se.splice(i,1);for(let i=qu.length-1;i>=0;i--)has(qu[i].id)||qu.splice(i,1);if(typeof su!="undefined"&&su)for(let i=su.length-1;i>=0;i--){let g=su[i].grants||[];if(g.length===1&&g[0].startsWith("pack:")){if(!has(g[0].slice(5)))su.splice(i,1);else su[i].description=""}}}
 function hsCanReroll(){let g=_();return!!g&&g.config&&g.config.mode!=="survie"&&["DISTRIBUTION","REPONSES","DEBAT","VOTE"].includes(g.phase)}
 function hsLeft(e){return e.right&&String(e.right).includes('data-act="quit"')&&hsCanReroll()?`<button class="icon-btn hs-reroll" data-hs="reroll" aria-label="${t("Changer de question")}" title="${t("Changer de question")}"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 0 0-14.3-4.9L4 8"/><path d="M4 3.5V8h4.5"/><path d="M4 13a8 8 0 0 0 14.3 4.9L20 16"/><path d="M20 20.5V16h-4.5"/></svg></button>`:'<span class="icon-spacer"></span>'}
 function hsLangPill(){let cur=Q.data.settings.lang||"fr",L=pt.find(x=>x.id===cur)||pt[0];return`<details class="hs-lang"><summary aria-label="${t("Changer de langue")}">${hsFlag(cur)}<span class="hs-lang-code">${cur.toUpperCase()}</span><svg class="hs-chev" viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg></summary><div class="hs-lang-menu" role="menu">${pt.map(x=>`<button role="menuitemradio" aria-checked="${x.id===cur}" class="hs-lang-item ${x.id===cur?"on":""}" data-hs="lang" data-arg="${x.id}" lang="${x.id}">${hsFlag(x.id)}<span class="hs-lang-name">${x.name}</span>${x.id===cur?'<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>':""}</button>`).join("")}</div></details>`}
 async function hsSetLang(s){let cur=Q.data.settings.lang||"fr";if(s===cur||!pt.some(x=>x.id===s))return;try{ut()}catch{}if(s!=="fr"&&!await Nt(s)){P(t("Impossible de charger cette langue pour le moment."),"error");return}ct(s),Q.data.settings.lang=s,T(),zu(),j()}
 async function hsReroll(){if(!hsCanReroll())return;let g=_();if(!await te({title:t("Changer de question ?"),text:t("Tout le monde re\xE7oit une nouvelle question. M\xEAmes joueurs, m\xEAmes r\xE8gles : on repasse juste le t\xE9l\xE9phone."),ok:t("Nouvelle question")}))return;try{ut()}catch{}try{ie==null||ie.stop()}catch{}let cfg=JSON.parse(JSON.stringify(g.config));try{Q.data.game=null,Ku(cfg)}catch(err){Q.data.game=g,T(!0),P(err instanceof Error?err.message:String(err),"error");return}T(!0),ru(),x(lu,{replace:!0,anim:"fade"}),P(t("Nouvelle question ! Repassez le t\xE9l\xE9phone."),"success")}
-document.addEventListener("click",ev=>{let b=ev.target.closest&&ev.target.closest("[data-hs]");document.querySelectorAll("details.hs-lang[open]").forEach(d=>{d.contains(ev.target)||d.removeAttribute("open")});if(!b)return;ev.preventDefault(),ev.stopPropagation();b.dataset.hs==="reroll"?hsReroll():b.dataset.hs==="lang"&&(b.closest("details")&&b.closest("details").removeAttribute("open"),hsSetLang(b.dataset.arg))},!0);
+document.addEventListener("click",ev=>{let b=ev.target.closest&&ev.target.closest("[data-hs]");document.querySelectorAll("details.hs-lang[open]").forEach(d=>{d.contains(ev.target)||d.removeAttribute("open")});if(!b)return;ev.preventDefault(),ev.stopPropagation();b.dataset.hs==="minors"?(Q.data.settings.hsMinors=b.dataset.arg==="1",T(),j()):b.dataset.hs==="reroll"?hsReroll():b.dataset.hs==="lang"&&(b.closest("details")&&b.closest("details").removeAttribute("open"),hsSetLang(b.dataset.arg))},!0);
 '''
 sub('function lr(){var s,a;let e=document.getElementById("app");', 'function lr(){var s,a;hsAddPacks();hsPrune();let e=document.getElementById("app");')
 sub('document.readyState==="loading"?document.addEventListener("DOMContentLoaded",lr):lr();})();',
@@ -142,6 +181,12 @@ css = '''
 .hs-flag svg { display: block; width: 100%; height: 100%; }
 .hs-lang-item .hs-flag { width: 30px; height: 20px; border-radius: 5px; }
 .hs-lang-item .hs-flag svg { margin: 0; color: inherit; }
+.hs-age { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; padding: 12px 14px; border-radius: 16px; background: color-mix(in srgb, var(--text) 6%, transparent); }
+.hs-age-q { font-weight: 700; }
+.hs-seg { display: inline-flex; padding: 3px; border-radius: 999px; background: color-mix(in srgb, var(--text) 10%, transparent); }
+.hs-seg button { min-width: 58px; padding: 7px 14px; border-radius: 999px; color: var(--text); font: 700 .9rem/1 var(--f-body, inherit); background: transparent; }
+.hs-seg button.on { background: var(--accent, #A78BFA); color: #fff; }
+.hs-age-hint { flex-basis: 100%; }
 .hs-reroll { color: var(--accent, #A78BFA); }
 .hs-reroll svg { transition: transform .35s; }
 .hs-reroll:active svg { transform: rotate(-180deg); }
@@ -156,7 +201,7 @@ sub('viewBox="0 -125 ${s} 135"', 'viewBox="0 -152 ${s} 162"')
 # 4. Version et textes chiffrés
 NCLASS = sum(1 for o in fr if o['pack'] == 'classique') + len(BANK.get('classique', []))
 sub('les 610 paires du pack Classique', f'les {NCLASS} paires du pack Classique')
-sub('sl="6.3"', 'sl="6.9"')
+sub('sl="6.3"', 'sl="7.0"')
 src = src.replace("version {v} (web, test)", "version {v} (web, test)")
 os.makedirs(f'{OUT}/lang', exist_ok=True)
 open(f'{OUT}/index.html', 'w', encoding='utf8').write(src)
@@ -230,6 +275,10 @@ for l in LANGS:
         j['ui'][o['title']], j['ui'][o['description']] = o[l]
     for k, v in MERGE['titles'].items():
         j['ui'][v['fr'][0]], j['ui'][v['fr'][1]] = v[l]
+    for o in MERGE['lots']:
+        j['ui'][o['fr'][0]], j['ui'][o['fr'][1]] = o[l]
+    for k, v in MERGE['ui'].items():
+        j['ui'][k] = v[l]
     for k in list(j['ui']):
         if '610 paires du pack Classique' in k:
             j['ui'][k.replace('610', str(NCLASS))] = j['ui'].pop(k).replace('610', str(NCLASS))
