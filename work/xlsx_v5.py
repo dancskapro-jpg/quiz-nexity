@@ -105,7 +105,7 @@ ws.column_dimensions['A'].width = 120
 N = len(fr)
 rows = [
     ('HORS SUJET — Questions du jeu (version 7.0)', 'title'),
-    (f'{NA} paires en français dans le jeu, réparties en {len(packs)} packs (22 packs rangés par public + 5 de saison) : les {N} que tu avais déjà choisies + {NA - N} nouvelles de la banque du 12/11/2026.', None),
+    (f'{NA} paires en français dans le jeu, réparties en {len(packs)} packs ({len(MERGE['order'])} packs rangés par public + 5 de saison) : les {N} que tu avais déjà choisies + {NA - N} nouvelles de la banque du 12/11/2026.', None),
     ('Onglet FR : les paires déjà choisies sont en VERT. Les nouvelles n’ont pas de couleur : colorie en vert celles que tu gardes, comme la dernière fois.', None),
     ('Traductions : toutes les paires sont traduites dans les 6 langues. Ce qui est propre à la France (prix et monnaie, villes, enseignes, démarches, école, fêtes…) est adapté au pays.', None),
     (f'Relecture : {len(removed)} paires jugées ratées ont été retirées du jeu (onglet « Retirées », avec la raison) ; pour en remettre une, dis-le-moi avec son ID.', None),

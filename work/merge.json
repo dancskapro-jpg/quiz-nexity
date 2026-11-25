@@ -7,11 +7,10 @@
   "famille",
   "enfance",
   "fetes",
-  "imaginaire",
   "reflexe",
   "soiree",
   "psychologie-personnalite",
-  "dilemmes",
+  "imaginaire",
   "ecrans",
   "gaming",
   "sport",
@@ -42,7 +41,8 @@
   "mariages-occasions": "amour-couple",
   "peurs-courage": "psychologie-personnalite",
   "mensonges-excuses": "psychologie-personnalite",
-  "cadeaux-surprises": "fetes"
+  "cadeaux-surprises": "fetes",
+  "dilemmes": "imaginaire"
  },
  "titles": {
   "soiree": {
@@ -434,6 +434,36 @@
     "School & studie",
     "Speelkwartier, lessen, examens en studentenleven."
    ]
+  },
+  "imaginaire": {
+   "fr": [
+    "Et si… & Dilemmes",
+    "Super-pouvoirs, vies rêvées et choix impossibles."
+   ],
+   "en": [
+    "What if… & Dilemmas",
+    "Superpowers, dream lives and impossible choices."
+   ],
+   "es": [
+    "¿Y si…? y dilemas",
+    "Superpoderes, vidas soñadas y decisiones imposibles."
+   ],
+   "it": [
+    "E se… e dilemmi",
+    "Superpoteri, vite da sogno e scelte impossibili."
+   ],
+   "de": [
+    "Was wäre, wenn… & Dilemmas",
+    "Superkräfte, Traumleben und unmögliche Entscheidungen."
+   ],
+   "pt": [
+    "E se… e dilemas",
+    "Superpoderes, vidas dos sonhos e escolhas impossíveis."
+   ],
+   "nl": [
+    "Wat als… & dilemma's",
+    "Superkrachten, droomlevens en onmogelijke keuzes."
+   ]
   }
  },
  "cats": {
@@ -444,11 +474,10 @@
   "famille": "famille",
   "enfance": "famille",
   "fetes": "famille",
-  "imaginaire": "famille",
+  "imaginaire": "potes",
   "reflexe": "famille",
   "soiree": "potes",
   "psychologie-personnalite": "potes",
-  "dilemmes": "potes",
   "ecrans": "potes",
   "gaming": "potes",
   "sport": "potes",
@@ -467,31 +496,31 @@
    "price": "4,99 €",
    "fr": [
     "Lot En famille",
-    "Les 8 packs à jouer en famille, ados compris."
+    "Les 7 packs à jouer en famille, ados compris."
    ],
    "en": [
     "Family Bundle",
-    "The 8 packs to play as a family, teens included."
+    "The 7 packs to play as a family, teens included."
    ],
    "es": [
     "Lote En familia",
-    "Los 8 packs para jugar en familia, adolescentes incluidos."
+    "Los 7 packs para jugar en familia, adolescentes incluidos."
    ],
    "it": [
     "Pacchetto In famiglia",
-    "Gli 8 pack da giocare in famiglia, ragazzi compresi."
+    "I 7 pack da giocare in famiglia, ragazzi compresi."
    ],
    "de": [
     "Familien-Paket",
-    "Die 8 Packs für die ganze Familie, Teenager inklusive."
+    "Die 7 Packs für die ganze Familie, Teenager inklusive."
    ],
    "pt": [
     "Pacote Em família",
-    "Os 8 pacotes para jogar em família, adolescentes incluídos."
+    "Os 7 pacotes para jogar em família, adolescentes incluídos."
    ],
    "nl": [
     "Gezinsbundel",
-    "De 8 packs om met het gezin te spelen, tieners inbegrepen."
+    "De 7 packs om met het gezin te spelen, tieners inbegrepen."
    ]
   },
   {

@@ -199,7 +199,7 @@ sub('viewBox="0 -100 ${a} 215"', 'viewBox="0 -132 ${a} 247"')
 sub('viewBox="0 -125 ${s} 135"', 'viewBox="0 -152 ${s} 162"')
 
 # 4. Version et textes chiffrés
-NCLASS = sum(1 for o in fr if o['pack'] == 'classique') + len(BANK.get('classique', []))
+NCLASS = sum(1 for o in fr if o['pack'] == 'classique' and o['id'] not in REMOVED) + sum(1 for r in BANK.get('classique', []) if r[0] not in REMOVED)
 sub('les 610 paires du pack Classique', f'les {NCLASS} paires du pack Classique')
 sub('sl="6.3"', 'sl="7.0"')
 src = src.replace("version {v} (web, test)", "version {v} (web, test)")
