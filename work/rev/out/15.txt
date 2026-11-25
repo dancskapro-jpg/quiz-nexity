@@ -197,3 +197,409 @@ cadeaux-surprises-118|R|T|absurde : cacher les décorations
 cadeaux-surprises-119|R|T|ennuyeuse : décider d'un budget
 cadeaux-surprises-120|G|T|
 cadeaux-surprises-121|R|T|doublon de cadeaux-surprises-101
+cadeaux-surprises-122|R|T|doublon de cadeaux-surprises-102
+cadeaux-surprises-123|R|T|doublon de cadeaux-surprises-103
+cadeaux-surprises-124|R|A|doublon de cadeaux-surprises-104
+cadeaux-surprises-125|R|T|doublon de cadeaux-surprises-105
+cadeaux-surprises-126|G|T|
+cadeaux-surprises-127|R|T|intrus trop facile : B appelle un professionnel
+cadeaux-surprises-128|G|T|
+cadeaux-surprises-129|G|T|
+cadeaux-surprises-130|G|T|
+cadeaux-surprises-131|G|T|
+cadeaux-surprises-132|G|T|
+cadeaux-surprises-133|R|T|trop vague : avis pour personnaliser un carnet
+cadeaux-surprises-134|G|T|
+cadeaux-surprises-135|G|T|
+cadeaux-surprises-136|G|T|
+cadeaux-surprises-137|G|T|
+cadeaux-surprises-138|G|T|
+cadeaux-surprises-139|G|T|
+cadeaux-surprises-140|G|T|
+cadeaux-surprises-141|G|T|
+cadeaux-surprises-142|R|T|trop vague : personnaliser un carnet
+cadeaux-surprises-143|G|T|
+cadeaux-surprises-144|G|T|
+cadeaux-surprises-145|G|T|
+cadeaux-surprises-146|R|T|doublon de cadeaux-surprises-126
+cadeaux-surprises-147|R|T|doublon de cadeaux-surprises-127
+cadeaux-surprises-148|R|T|doublon de cadeaux-surprises-128
+cadeaux-surprises-149|R|T|doublon de cadeaux-surprises-129
+cadeaux-surprises-150|R|T|doublon de cadeaux-surprises-130
+cadeaux-surprises-151|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-152|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-153|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-154|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-155|G|T|
+cadeaux-surprises-156|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-157|R|T|mal formulée : acheter des chocolats dans une boutique, dans quel lieu
+cadeaux-surprises-158|G|T|
+cadeaux-surprises-159|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-160|G|T|
+cadeaux-surprises-161|G|T|
+cadeaux-surprises-162|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-163|G|T|
+cadeaux-surprises-164|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-165|G|T|
+cadeaux-surprises-166|R|T|mal formulée : acheter des chocolats dans une boutique, où
+cadeaux-surprises-167|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-168|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-169|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-170|R|T|intrus trop facile : lieux de réponse différents
+cadeaux-surprises-171|R|T|doublon de cadeaux-surprises-151
+cadeaux-surprises-172|R|T|doublon de cadeaux-surprises-152
+cadeaux-surprises-173|R|T|doublon de cadeaux-surprises-153
+cadeaux-surprises-174|R|T|doublon de cadeaux-surprises-154
+cadeaux-surprises-175|R|T|doublon de cadeaux-surprises-155
+cadeaux-surprises-176|G|T|
+cadeaux-surprises-177|R|T|mal formulée : moment important de ta vie pour offrir un abonnement
+cadeaux-surprises-178|G|T|
+cadeaux-surprises-179|G|T|
+cadeaux-surprises-180|R|A|mal formulée : moment important de ta vie pour une fête en appartement
+cadeaux-surprises-181|G|T|
+cadeaux-surprises-182|G|T|
+cadeaux-surprises-183|G|T|
+cadeaux-surprises-184|G|T|
+cadeaux-surprises-185|G|T|
+cadeaux-surprises-186|R|T|mal formulée : moment important de ta vie pour un objet gravé
+cadeaux-surprises-187|G|T|
+cadeaux-surprises-188|G|T|
+cadeaux-surprises-189|G|T|
+cadeaux-surprises-190|G|T|
+cadeaux-surprises-191|G|A|
+cadeaux-surprises-192|R|T|mal formulée : moment important de ta vie pour un bouquet
+cadeaux-surprises-193|G|T|
+cadeaux-surprises-194|G|T|
+cadeaux-surprises-195|G|T|
+cadeaux-surprises-196|R|T|doublon de cadeaux-surprises-176
+cadeaux-surprises-197|R|T|doublon de cadeaux-surprises-177
+cadeaux-surprises-198|R|T|doublon de cadeaux-surprises-178
+cadeaux-surprises-199|R|T|doublon de cadeaux-surprises-179
+cadeaux-surprises-200|R|A|doublon de cadeaux-surprises-180
+fetes-003|G|T|
+fetes-005|G|T|
+fetes-009|G|T|
+fetes-011|G|T|
+fetes-014|G|T|
+fetes-019|G|T|
+fetes-026|G|T|
+fetes-040|G|T|
+fetes-042|G|T|
+fetes-043|G|T|
+fetes-048|G|T|
+fetes-050|G|T|
+fetes-052|G|T|
+fetes-055|G|T|
+fetes-057|G|T|
+fetes-063|G|T|
+fetes-064|G|T|
+fetes-065|G|T|
+fetes-066|G|T|
+fetes-137|G|T|
+fetes-164|G|T|
+fetes-171|G|T|
+fetes-196|G|T|
+fetes-198|G|T|
+fetes-222|G|T|
+fetes-223|G|T|
+fetes-227|G|T|
+fetes-243|G|T|
+fetes-263|G|T|
+fetes-275|G|T|
+fetes-279|G|T|
+fetes-280|G|T|
+fetes-289|G|T|
+fetes-290|G|T|
+fetes-300|G|T|
+fetes-302|G|T|
+fetes-303|G|T|
+fetes-305|G|T|
+fetes-308|G|T|
+fetes-309|G|T|
+fetes-311|G|T|
+fetes-313|G|T|
+fetes-316|G|T|
+fetes-332|G|T|
+fetes-333|G|T|
+fetes-335|G|T|
+fetes-341|G|T|
+fetes-345|G|T|
+fetes-346|G|T|
+fetes-347|G|T|
+fetes-353|G|T|
+fetes-354|G|T|
+fetes-365|G|T|
+fetes-371|G|T|
+fetes-390|G|T|
+fetes-399|G|T|
+fetes-410|G|T|
+fetes-431|G|T|
+fetes-530|G|T|
+fetes-531|G|T|
+fetes-532|R|T|trop vague
+fetes-533|R|T|trop vague
+fetes-534|G|T|
+fetes-535|R|T|intrus trop facile : situations sans rapport
+fetes-536|R|T|absurde : créneau de la journée sans intérêt
+fetes-537|G|T|
+fetes-538|G|T|
+fetes-539|R|T|intrus trop facile : situations sans rapport
+fetes-540|G|T|
+fetes-541|G|T|
+fetes-542|G|T|
+fetes-543|G|T|
+fetes-544|R|T|trop vague
+fetes-545|R|T|trop vague
+fetes-546|G|T|
+fetes-547|R|T|absurde : moment de la semaine sans intérêt
+fetes-548|R|T|absurde : meilleur moment sans intérêt
+fetes-549|G|T|
+fetes-550|R|T|trop vague
+fetes-551|R|T|intrus trop facile : situations sans rapport
+fetes-552|R|T|intrus trop facile : magasins différents
+fetes-553|G|T|
+fetes-554|R|T|intrus trop facile : durées très différentes
+fetes-555|G|T|
+fetes-556|G|T|
+fetes-557|G|T|
+fetes-558|R|T|intrus trop facile : magasins différents
+fetes-559|R|T|intrus trop facile : situations différentes
+fetes-560|R|T|trop vague
+fetes-561|G|T|
+fetes-562|R|T|intrus trop facile : situations sans rapport
+fetes-563|R|T|intrus trop facile : ordres de prix différents
+fetes-564|G|T|
+fetes-565|R|T|intrus trop facile : occasions différentes
+fetes-566|R|T|intrus trop facile : situations sans rapport
+fetes-567|R|T|absurde : meilleur moment sans intérêt
+fetes-568|R|T|trop vague
+fetes-569|R|T|intrus trop facile : durées très différentes
+fetes-570|R|T|trop vague
+fetes-571|R|T|trop vague
+fetes-572|R|T|intrus trop facile : situations sans rapport
+fetes-573|R|T|intrus trop facile : occasions différentes
+fetes-574|R|T|intrus trop facile : magasins différents
+fetes-575|R|T|intrus trop facile : situations sans rapport
+fetes-576|R|T|trop vague
+fetes-577|G|T|
+fetes-578|G|T|
+fetes-579|G|T|
+fetes-580|R|T|intrus trop facile : moments différents
+fetes-581|R|T|intrus trop facile : magasins différents
+fetes-582|R|T|trop vague
+fetes-583|R|T|doublon de fetes-562
+fetes-584|R|T|intrus trop facile : priorités sans rapport
+fetes-585|R|T|trop vague
+fetes-586|R|T|trop vague
+fetes-587|G|T|
+fetes-588|R|T|doublon de fetes-575
+fetes-589|R|T|trop vague
+fetes-590|R|T|trop vague
+fetes-591|R|T|doublon de fetes-538
+fetes-592|R|T|intrus trop facile : magasins différents
+fetes-593|G|T|
+fetes-594|G|T|
+fetes-595|R|T|mal formulée : répondre à souffler les bougies
+fetes-596|R|T|trop vague
+fetes-597|G|T|
+fetes-598|R|T|intrus trop facile : situations sans rapport
+fetes-599|G|T|
+fetes-600|G|T|
+fetes-601|G|T|
+fetes-602|R|T|doublon de fetes-572
+fetes-603|R|T|doublon de fetes-555
+fetes-604|R|T|doublon de fetes-540
+fetes-605|R|T|intrus trop facile : ordres de prix différents
+fetes-606|R|T|absurde : meilleur moment sans intérêt
+fetes-607|G|T|
+fetes-608|G|T|
+fetes-609|G|T|
+fetes-610|R|T|intrus trop facile : magasins différents
+fetes-611|R|T|absurde : moment de la journée sans intérêt
+fetes-612|R|T|intrus trop facile : ordres de prix différents
+fetes-613|R|T|A et B quasi identiques : Noël dans les deux cas
+fetes-614|R|T|absurde : créneau de la journée sans intérêt
+fetes-615|G|T|
+fetes-616|G|T|
+fetes-617|R|T|intrus trop facile : situations sans rapport
+fetes-618|G|T|
+fetes-619|R|T|intrus trop facile : durées très différentes
+fetes-620|R|T|intrus trop facile : magasins différents
+fetes-621|R|T|absurde : moment de la journée sans intérêt
+fetes-622|R|T|doublon de fetes-546
+fetes-623|R|T|intrus trop facile : situations sans rapport
+fetes-624|G|T|
+fetes-625|G|T|
+fetes-626|R|T|doublon de fetes-624
+fetes-627|R|T|intrus trop facile : ordres de prix différents
+fetes-628|R|T|doublon de fetes-556
+fetes-629|R|T|intrus trop facile : situations sans rapport
+fetes-630|R|T|trop vague
+fetes-631|R|T|doublon de fetes-623
+fetes-632|R|T|intrus trop facile : durées très différentes
+fetes-633|G|T|
+fetes-634|R|T|intrus trop facile : situations différentes
+fetes-635|R|T|intrus trop facile : situations sans rapport
+fetes-636|R|T|intrus trop facile : situations sans rapport
+fetes-637|R|T|doublon de fetes-607
+fetes-638|G|T|
+fetes-639|G|T|
+fetes-640|R|T|intrus trop facile : magasins différents
+fetes-641|G|T|
+fetes-642|R|T|intrus trop facile : magasins différents
+fetes-643|R|T|doublon de fetes-539
+fetes-644|R|T|intrus trop facile : magasins différents
+fetes-645|R|T|absurde : moment de la semaine sans intérêt
+fetes-646|R|T|intrus trop facile : magasins différents
+fetes-647|R|T|trop vague
+fetes-648|R|T|trop vague
+fetes-649|G|T|
+fetes-650|G|T|
+fetes-651|R|T|intrus trop facile : occasions différentes
+fetes-652|R|T|doublon de fetes-593
+fetes-653|R|T|intrus trop facile : situations sans rapport
+fetes-654|R|T|trop vague
+fetes-655|R|T|absurde : moment de la semaine sans intérêt
+fetes-656|R|T|doublon de fetes-612
+fetes-657|R|T|absurde : moment de la journée sans intérêt
+fetes-658|G|T|
+fetes-659|R|T|absurde : moment de la semaine sans intérêt
+fetes-660|G|T|
+fetes-661|R|T|absurde : meilleur moment sans intérêt
+fetes-662|G|T|
+fetes-663|R|T|doublon de fetes-636
+fetes-664|G|T|
+fetes-665|G|T|
+fetes-666|R|T|intrus trop facile : situations sans rapport
+fetes-667|R|T|trop vague
+fetes-668|R|T|absurde : moment de la journée sans intérêt
+fetes-669|R|T|intrus trop facile : situations sans rapport
+fetes-670|R|T|doublon de fetes-600
+fetes-671|G|T|
+fetes-672|R|T|doublon de fetes-564
+fetes-673|R|T|intrus trop facile : situations différentes
+fetes-674|G|T|
+fetes-675|G|T|
+fetes-676|R|T|intrus trop facile : magasins différents
+fetes-677|G|T|
+fetes-678|R|T|doublon de fetes-669
+fetes-679|R|T|doublon de fetes-666
+fetes-680|R|T|doublon de fetes-595
+fetes-681|R|T|trop vague
+fetes-682|G|T|
+fetes-683|R|T|doublon de fetes-618
+fetes-684|G|T|
+fetes-685|R|T|doublon de fetes-579
+fetes-686|R|T|absurde : moment de la semaine sans intérêt
+fetes-687|R|T|intrus trop facile : moments différents
+fetes-688|R|T|doublon de fetes-653
+fetes-689|G|T|
+fetes-690|R|T|doublon de fetes-599
+fetes-691|R|T|trop vague
+fetes-692|R|T|trop vague
+fetes-693|R|T|doublon de fetes-537
+fetes-694|G|T|
+fetes-695|R|T|trop vague
+fetes-696|R|T|absurde : créneau de la journée sans intérêt
+fetes-697|G|T|
+fetes-698|R|T|trop vague
+fetes-699|R|T|doublon de fetes-627
+fetes-700|R|T|doublon de fetes-662
+fetes-701|R|T|doublon de fetes-594
+fetes-702|R|T|absurde : créneau de la journée sans intérêt
+fetes-703|R|T|intrus trop facile : durées très différentes
+fetes-704|R|T|trop vague
+fetes-705|R|T|doublon de fetes-660
+fetes-706|R|T|absurde : moment de la journée sans intérêt
+fetes-707|R|T|doublon de fetes-633
+fetes-708|R|T|absurde : meilleur moment sans intérêt
+fetes-709|G|T|
+fetes-710|R|T|intrus trop facile : situations différentes
+fetes-711|R|T|intrus trop facile : situations sans rapport
+fetes-712|R|T|intrus trop facile : situations sans rapport
+fetes-713|R|T|doublon de fetes-605
+fetes-714|R|T|trop vague
+fetes-715|R|T|intrus trop facile : durées très différentes
+fetes-716|R|T|doublon de fetes-639
+fetes-717|R|T|trop vague
+fetes-718|R|T|intrus trop facile : situations différentes
+fetes-719|R|T|trop vague
+fetes-720|R|T|doublon de fetes-598
+fetes-721|R|T|intrus trop facile : magasins différents
+fetes-722|R|T|absurde : créneau de la journée sans intérêt
+fetes-723|R|T|intrus trop facile : durées très différentes
+fetes-724|G|T|
+fetes-725|R|T|doublon de fetes-724
+fetes-726|R|T|doublon de fetes-563
+fetes-727|R|T|doublon de fetes-635
+fetes-728|R|T|trop vague
+fetes-729|R|T|doublon de fetes-629
+spicy-001|G|T|
+spicy-002|R|A|intrus trop facile : positif contre négatif
+spicy-003|G|T|
+spicy-004|G|T|
+spicy-005|G|T|
+spicy-006|G|A|
+spicy-007|G|T|
+spicy-008|G|A|
+spicy-009|G|T|
+spicy-010|G|T|
+spicy-011|G|A|
+spicy-012|G|T|
+spicy-013|G|T|
+spicy-014|G|A|
+spicy-015|G|A|
+spicy-016|G|A|
+spicy-017|G|A|
+spicy-018|G|A|
+spicy-019|G|A|
+spicy-020|R|A|intrus trop facile : positif contre négatif
+spicy-021|G|T|
+spicy-022|G|T|
+spicy-023|G|T|
+spicy-024|R|A|intrus trop facile : proposer contre refuser
+spicy-025|G|T|
+spicy-026|G|T|
+spicy-027|G|A|
+spicy-028|R|A|intrus trop facile : positif contre négatif
+spicy-029|G|T|
+spicy-030|G|T|
+spicy-031|R|A|intrus trop facile : A propose des options, pas B
+spicy-032|G|A|
+spicy-033|R|T|intrus trop facile : positif contre négatif
+spicy-034|G|T|
+spicy-035|G|A|
+spicy-036|G|T|
+spicy-037|G|T|
+spicy-038|G|A|
+spicy-039|G|T|
+spicy-040|G|A|
+spicy-041|R|A|intrus trop facile : positif contre négatif
+spicy-042|G|T|
+spicy-043|R|A|trop vague : décrire un regard
+spicy-044|G|T|
+spicy-045|G|A|
+spicy-046|G|T|
+spicy-047|G|T|
+spicy-048|G|T|
+spicy-049|G|A|
+spicy-050|G|A|
+spicy-051|G|T|
+spicy-052|G|A|
+spicy-053|G|T|
+spicy-054|G|T|
+spicy-055|G|T|
+spicy-056|G|A|
+spicy-057|R|T|mal formulée : changer un sujet
+spicy-058|G|T|
+spicy-059|G|T|
+spicy-060|G|A|
+spicy-061|G|T|
+spicy-062|G|T|
+spicy-063|G|T|
+spicy-064|G|T|
+spicy-065|G|T|
+spicy-066|G|T|
+spicy-067|G|T|
+spicy-068|G|T|
+spicy-069|R|T|intrus trop facile : positif contre négatif

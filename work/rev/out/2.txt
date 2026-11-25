@@ -398,3 +398,208 @@ bouffe-398|G|T|
 bouffe-403|G|T|
 bouffe-409|G|T|
 bouffe-416|G|T|
+bouffe-417|G|T|
+bouffe-419|G|T|
+bouffe-425|G|T|
+bouffe-431|G|T|
+bouffe-434|G|T|
+bouffe-435|G|T|
+bouffe-441|G|T|
+bouffe-455|G|T|
+bouffe-456|G|T|
+bouffe-457|G|T|
+bouffe-460|G|T|
+bouffe-473|G|T|
+bouffe-476|G|T|
+bouffe-477|G|T|
+bouffe-486|G|T|
+bouffe-489|G|T|
+bouffe-519|G|T|
+bouffe-520|G|T|
+bouffe-544|G|T|
+bouffe-552|G|T|
+bouffe-560|G|T|
+bouffe-563|G|T|
+bouffe-572|G|T|
+bouffe-612|G|T|
+bouffe-618|G|T|
+bouffe-620|G|T|
+bouffe-623|G|T|
+bouffe-624|G|T|
+bouffe-626|G|T|
+bouffe-629|G|T|
+bouffe-633|G|T|
+bouffe-638|G|T|
+bouffe-640|G|T|
+bouffe-647|G|T|
+bouffe-656|G|T|
+bouffe-681|G|T|
+bouffe-682|G|T|
+bouffe-683|G|T|
+bouffe-684|G|T|
+bouffe-685|G|T|
+bouffe-686|R|T|mal formulée : phrase lourde
+bouffe-687|G|T|
+bouffe-688|R|T|trop vague
+bouffe-689|G|T|
+bouffe-690|R|T|intrus trop facile : situations sans rapport
+bouffe-691|R|T|absurde : moment de la journée pour une vinaigrette
+bouffe-692|R|T|intrus trop facile : situations sans rapport
+bouffe-693|G|T|
+bouffe-694|G|T|
+bouffe-695|R|T|mal formulée : acheter une salade au restaurant
+bouffe-696|R|T|absurde : aide pour réchauffer un plat
+bouffe-697|R|T|doublon de bouffe-689
+bouffe-698|R|T|mal formulée : « en premier » mal placé
+bouffe-699|R|T|doublon de bouffe-693
+bouffe-700|R|A|intrus trop facile : situations sans rapport
+bouffe-701|G|T|
+bouffe-702|G|T|
+bouffe-703|R|T|trop vague
+bouffe-704|R|T|trop vague
+bouffe-705|G|T|
+bouffe-706|R|T|doublon de bouffe-690
+bouffe-707|R|T|intrus trop facile : prix très différents
+bouffe-708|R|T|intrus trop facile : situations sans rapport
+bouffe-709|R|T|ennuyeuse : liste de courses
+bouffe-710|G|T|
+bouffe-711|R|T|intrus trop facile : situations sans rapport
+bouffe-712|R|T|absurde : chercher un brunch sur un site
+bouffe-713|G|T|
+bouffe-714|R|T|absurde
+bouffe-715|G|T|
+bouffe-716|R|T|absurde : conseil pour dresser une table
+bouffe-717|R|T|intrus trop facile : situations sans rapport
+bouffe-718|R|T|doublon de bouffe-689
+bouffe-719|R|T|intrus trop facile : situations sans rapport
+bouffe-720|R|T|doublon de bouffe-685
+bouffe-721|R|T|doublon de bouffe-694
+bouffe-722|R|T|intrus trop facile : durées très différentes
+bouffe-723|R|T|doublon de bouffe-684
+bouffe-724|R|T|intrus trop facile : lieux sans rapport, phrase lourde
+bouffe-725|R|T|absurde : aide pour une vinaigrette
+bouffe-726|R|T|doublon de bouffe-693
+bouffe-727|R|T|intrus trop facile : situations sans rapport
+bouffe-728|R|T|doublon de bouffe-705
+bouffe-729|R|T|intrus trop facile : situations sans rapport
+bouffe-730|R|T|absurde
+bouffe-731|R|T|doublon de bouffe-701
+bouffe-732|R|T|trop vague : « à quel moment aurais-tu envie d'acheter »
+bouffe-733|R|T|intrus trop facile : situations sans rapport
+bouffe-734|R|T|doublon de bouffe-713
+bouffe-735|R|T|trop vague
+bouffe-736|R|T|ennuyeuse : liste de courses
+bouffe-737|R|T|intrus trop facile : situations sans rapport
+bouffe-738|R|T|doublon de bouffe-702
+bouffe-739|R|T|intrus trop facile : situations sans rapport
+bouffe-740|R|T|ennuyeuse : liste de courses
+bouffe-741|R|T|intrus trop facile : prix très différents
+bouffe-742|R|T|ennuyeuse : liste de courses
+bouffe-743|R|T|intrus trop facile : situations sans rapport
+bouffe-744|R|T|absurde : aide pour dresser une table
+bouffe-745|R|T|intrus trop facile : situations sans rapport
+bouffe-746|R|T|doublon de bouffe-715
+bouffe-747|R|T|absurde
+bouffe-748|R|T|intrus trop facile : lieux sans rapport, phrase lourde
+bouffe-749|G|T|
+bouffe-750|R|T|absurde : moment de la journée pour tester une recette
+bouffe-751|R|T|intrus trop facile : situations sans rapport
+bouffe-752|R|T|absurde : frites maison sur un site
+bouffe-753|R|T|absurde
+bouffe-754|R|T|absurde : créneau pour découper des légumes
+bouffe-755|R|T|doublon de bouffe-715
+bouffe-756|R|T|intrus trop facile : situations sans rapport
+bouffe-757|R|T|doublon de bouffe-701
+bouffe-758|R|T|intrus trop facile : prix très différents
+bouffe-759|R|T|intrus trop facile : situations sans rapport
+bouffe-760|R|T|doublon de bouffe-693
+bouffe-761|R|T|doublon de bouffe-749
+bouffe-762|R|T|intrus trop facile : situations sans rapport
+bouffe-763|R|T|intrus trop facile : lieux sans rapport
+bouffe-764|R|T|absurde
+bouffe-765|R|T|trop vague
+bouffe-766|R|A|intrus trop facile : situations sans rapport
+bouffe-767|R|T|intrus trop facile : situations sans rapport
+bouffe-768|R|T|doublon de bouffe-713
+bouffe-769|R|T|intrus trop facile : situations sans rapport
+bouffe-770|R|T|absurde : créneau pour cuisiner des pâtes
+bouffe-771|G|T|
+bouffe-772|R|T|intrus trop facile : durées très différentes
+bouffe-773|R|T|absurde
+bouffe-774|R|T|intrus trop facile : situations sans rapport
+bouffe-775|G|T|
+bouffe-776|R|T|mal formulée : phrase lourde
+bouffe-777|R|T|absurde
+bouffe-778|R|T|mal formulée : chercher un plat de pâtes au restaurant
+bouffe-779|R|T|absurde
+bouffe-780|R|T|intrus trop facile : situations sans rapport
+bouffe-781|G|T|
+bouffe-782|R|T|trop vague
+bouffe-783|R|T|absurde
+bouffe-784|R|T|intrus trop facile : situations sans rapport
+bouffe-785|R|T|mal formulée : « en premier » mal placé
+bouffe-786|R|T|intrus trop facile : durées très différentes
+bouffe-787|R|T|absurde
+bouffe-788|R|T|absurde
+bouffe-789|R|T|doublon de bouffe-702
+bouffe-790|R|T|doublon de bouffe-684
+bouffe-791|R|T|absurde
+bouffe-792|R|T|doublon de bouffe-710
+bouffe-793|R|T|intrus trop facile : situations sans rapport
+bouffe-794|R|T|mal formulée : « choisirais-tu pour choisir »
+bouffe-795|R|T|trop vague : « à quel moment aurais-tu envie d'acheter »
+bouffe-796|R|T|trop vague : « à quel moment aurais-tu envie d'acheter »
+bouffe-797|R|T|doublon de bouffe-775
+bouffe-798|R|T|mal formulée : « choisirais-tu pour choisir »
+bouffe-799|R|T|intrus trop facile : lieux sans rapport
+bouffe-800|R|T|trop vague
+bouffe-801|R|T|doublon de bouffe-771
+bouffe-802|R|T|absurde
+bouffe-803|R|T|intrus trop facile : situations sans rapport
+bouffe-804|R|T|trop vague
+bouffe-805|R|T|doublon de bouffe-702
+bouffe-806|R|T|intrus trop facile : situations sans rapport
+bouffe-807|R|T|trop vague
+bouffe-808|R|T|absurde
+bouffe-809|R|T|intrus trop facile : prix très différents
+bouffe-810|R|T|intrus trop facile : situations sans rapport
+bouffe-811|R|T|doublon de bouffe-694
+bouffe-812|R|T|doublon de bouffe-771
+bouffe-813|R|T|intrus trop facile : durées très différentes
+bouffe-814|R|T|intrus trop facile : durées très différentes
+bouffe-815|R|T|intrus trop facile : situations sans rapport
+bouffe-816|R|T|mal formulée
+bouffe-817|R|T|doublon de bouffe-705
+bouffe-818|R|T|mal formulée
+bouffe-819|R|T|doublon de bouffe-715
+bouffe-820|R|T|intrus trop facile : situations sans rapport
+bouffe-821|R|T|mal formulée : phrase lourde
+bouffe-822|R|T|intrus trop facile : lieux sans rapport
+bouffe-823|R|T|intrus trop facile : lieux sans rapport
+bouffe-824|R|T|doublon de bouffe-771
+bouffe-825|R|T|doublon de bouffe-749
+bouffe-826|R|T|mal formulée : « en premier » mal placé
+bouffe-827|R|T|ennuyeuse : liste de courses
+bouffe-828|R|T|doublon de bouffe-775
+bouffe-829|R|T|doublon de bouffe-705
+bouffe-830|R|T|intrus trop facile : situations sans rapport
+bouffe-831|R|T|trop vague
+bouffe-832|R|T|trop vague
+bouffe-833|R|T|intrus trop facile : situations sans rapport
+bouffe-834|R|T|intrus trop facile : durées très différentes
+bouffe-835|R|T|doublon de bouffe-694
+bouffe-836|R|T|trop vague : « à quel moment aurais-tu envie d'acheter »
+bouffe-837|R|T|doublon de bouffe-693
+bouffe-838|R|T|absurde
+bouffe-839|R|T|mal formulée
+bouffe-840|R|T|doublon de bouffe-684
+bouffe-841|R|T|absurde : conseil pour réchauffer un plat
+bouffe-842|R|T|absurde : acheter un repas livré
+bouffe-843|R|T|intrus trop facile : situations sans rapport
+bouffe-844|R|T|intrus trop facile : durées très différentes
+bouffe-845|R|T|absurde
+bouffe-846|R|T|mal formulée : phrase lourde
+bouffe-847|R|T|trop vague
+bouffe-848|R|T|intrus trop facile : prix très différents
+bouffe-849|R|T|intrus trop facile : situations sans rapport
+bouffe-850|R|T|absurde

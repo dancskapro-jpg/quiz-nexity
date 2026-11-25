@@ -398,3 +398,208 @@ animaux-compagnie-116|G|T|
 animaux-compagnie-117|R|T|ennuyeuse
 animaux-compagnie-118|R|T|trop vague
 animaux-compagnie-119|G|T|
+animaux-compagnie-120|R|T|trop vague
+animaux-compagnie-121|R|T|doublon de animaux-compagnie-101
+animaux-compagnie-122|R|A|doublon de animaux-compagnie-102
+animaux-compagnie-123|R|T|doublon de animaux-compagnie-103
+animaux-compagnie-124|R|T|doublon de animaux-compagnie-104
+animaux-compagnie-125|R|T|doublon de animaux-compagnie-105
+animaux-compagnie-126|G|T|
+animaux-compagnie-127|G|A|
+animaux-compagnie-128|G|T|
+animaux-compagnie-129|G|T|
+animaux-compagnie-130|G|T|
+animaux-compagnie-131|G|T|
+animaux-compagnie-132|G|T|
+animaux-compagnie-133|G|T|
+animaux-compagnie-134|G|T|
+animaux-compagnie-135|G|T|
+animaux-compagnie-136|G|T|
+animaux-compagnie-137|G|T|
+animaux-compagnie-138|G|A|
+animaux-compagnie-139|R|T|mal formulée : « demanderais un avis pour obtenir un avis »
+animaux-compagnie-140|G|T|
+animaux-compagnie-141|G|T|
+animaux-compagnie-142|R|T|mal formulée : « demanderais un avis pour demander conseil »
+animaux-compagnie-143|G|T|
+animaux-compagnie-144|G|T|
+animaux-compagnie-145|G|T|
+animaux-compagnie-146|R|T|doublon de animaux-compagnie-126
+animaux-compagnie-147|R|A|doublon de animaux-compagnie-127
+animaux-compagnie-148|R|T|doublon de animaux-compagnie-128
+animaux-compagnie-149|R|T|doublon de animaux-compagnie-129
+animaux-compagnie-150|R|T|doublon de animaux-compagnie-130
+animaux-compagnie-151|R|T|intrus trop facile : balade vs magasin
+animaux-compagnie-152|R|T|intrus trop facile : magasin vs balade
+animaux-compagnie-153|R|T|trop vague
+animaux-compagnie-154|R|T|faute (« gard’un »)
+animaux-compagnie-155|R|T|mal formulée
+animaux-compagnie-156|R|T|intrus trop facile
+animaux-compagnie-157|R|T|intrus trop facile : magasin vs pièce de la maison
+animaux-compagnie-158|R|T|mal formulée
+animaux-compagnie-159|R|T|intrus trop facile
+animaux-compagnie-160|R|T|intrus trop facile : magasin vs balade
+animaux-compagnie-161|R|T|intrus trop facile
+animaux-compagnie-162|R|T|intrus trop facile
+animaux-compagnie-163|G|T|
+animaux-compagnie-164|R|T|mal formulée
+animaux-compagnie-165|R|T|faute (« gard’un »)
+animaux-compagnie-166|R|T|absurde
+animaux-compagnie-167|R|T|mal formulée
+animaux-compagnie-168|R|T|intrus trop facile
+animaux-compagnie-169|R|T|intrus trop facile
+animaux-compagnie-170|R|T|mal formulée
+animaux-compagnie-171|R|T|doublon de animaux-compagnie-151
+animaux-compagnie-172|R|T|doublon de animaux-compagnie-152
+animaux-compagnie-173|R|T|doublon de animaux-compagnie-153
+animaux-compagnie-174|R|T|faute (« gard’un ») ; doublon de animaux-compagnie-154
+animaux-compagnie-175|R|T|doublon de animaux-compagnie-155
+animaux-compagnie-176|G|T|
+animaux-compagnie-177|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-178|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-179|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-180|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-181|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-182|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-183|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-184|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-185|G|T|
+animaux-compagnie-186|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-187|G|T|
+animaux-compagnie-188|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-189|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-190|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-191|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-192|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-193|G|T|
+animaux-compagnie-194|R|T|intrus trop facile : objets sans rapport
+animaux-compagnie-195|R|T|intrus trop facile
+animaux-compagnie-196|R|T|doublon de animaux-compagnie-176
+animaux-compagnie-197|R|T|doublon de animaux-compagnie-177
+animaux-compagnie-198|R|T|doublon de animaux-compagnie-178
+animaux-compagnie-199|R|T|doublon de animaux-compagnie-179
+animaux-compagnie-200|R|T|doublon de animaux-compagnie-180
+nature-058|G|T|
+nature-059|G|T|
+nature-066|G|T|
+nature-287|G|T|
+nature-291|G|T|
+nature-333|R|T|ennuyeuse
+nature-334|G|T|
+nature-335|R|T|intrus trop facile : écart de prix
+nature-336|R|T|trop vague
+nature-337|R|T|intrus trop facile : situations sans rapport
+nature-338|R|T|ennuyeuse, réponses identiques
+nature-339|R|T|mal formulée
+nature-340|R|T|intrus trop facile
+nature-341|G|T|
+nature-342|R|T|trop vague
+nature-343|R|T|absurde
+nature-344|R|T|trop vague
+nature-345|G|T|
+nature-346|G|T|
+nature-347|R|T|trop vague
+nature-348|R|T|trop vague, réponses identiques
+nature-349|R|T|intrus trop facile ; doublon de nature-337
+nature-350|R|T|absurde
+nature-351|G|T|
+nature-352|R|T|intrus trop facile : écart de prix
+nature-353|R|T|intrus trop facile : négatif vs positif
+nature-354|R|T|doublon de nature-352
+nature-355|R|T|intrus trop facile
+nature-356|R|T|intrus trop facile : écart de prix
+nature-357|R|T|absurde
+nature-358|R|T|mal formulée ; doublon de nature-340
+nature-359|G|T|
+nature-360|R|T|trop vague
+nature-361|R|T|doublon de nature-341
+nature-362|R|T|ennuyeuse
+nature-363|R|T|mal formulée
+nature-364|R|T|intrus trop facile : positif vs négatif
+nature-365|G|T|
+nature-366|R|T|doublon de nature-359
+nature-367|G|T|
+nature-368|R|T|intrus trop facile : négatif vs positif
+nature-369|R|T|ennuyeuse
+nature-370|R|T|trop vague
+nature-371|R|T|intrus trop facile
+nature-372|G|T|
+nature-373|R|T|réponses identiques, ennuyeuse
+nature-374|R|T|trop vague
+nature-375|R|T|ennuyeuse
+nature-376|G|T|
+nature-377|R|T|trop vague
+nature-378|R|T|trop vague
+nature-379|R|T|absurde
+nature-380|G|T|
+nature-381|R|T|ennuyeuse
+nature-382|R|T|trop vague
+nature-383|R|T|doublon de nature-365
+nature-384|G|T|
+nature-385|R|T|intrus trop facile
+nature-386|R|T|intrus trop facile : écart de prix
+nature-387|G|T|
+nature-388|R|T|trop vague
+nature-389|R|T|intrus trop facile
+nature-390|G|T|
+nature-391|R|T|ennuyeuse
+nature-392|R|T|mal formulée
+nature-393|R|T|mal formulée
+nature-394|R|T|intrus trop facile
+nature-395|R|T|absurde
+nature-396|R|T|absurde
+nature-397|R|T|absurde
+nature-398|R|T|mal formulée ; doublon de nature-364
+nature-399|R|T|absurde
+nature-400|R|T|trop vague
+nature-401|R|T|doublon de nature-335
+nature-402|R|T|ennuyeuse
+nature-403|R|T|absurde
+nature-404|R|T|absurde
+nature-405|R|T|trop vague
+nature-406|R|T|doublon de nature-367
+nature-407|R|T|trop vague
+nature-408|R|T|mal formulée
+nature-409|G|T|
+nature-410|R|T|ennuyeuse
+nature-411|R|T|ennuyeuse
+nature-412|R|T|réponses identiques, ennuyeuse
+nature-413|R|T|intrus trop facile
+nature-414|R|T|absurde
+nature-415|R|T|intrus trop facile : écart de prix
+nature-416|R|T|intrus trop facile
+nature-417|R|T|trop vague
+nature-418|R|T|absurde
+nature-419|R|T|doublon de nature-356
+nature-420|R|T|mal formulée
+nature-421|R|T|trop vague
+nature-422|G|T|
+nature-423|G|T|
+nature-424|R|T|trop vague
+nature-425|R|T|mal formulée ; doublon de nature-422
+nature-426|R|T|absurde
+nature-427|R|T|doublon de nature-355
+nature-428|R|T|trop vague
+nature-429|R|T|réponses identiques
+nature-430|R|T|trop vague
+nature-431|R|T|doublon de nature-380
+nature-432|R|T|absurde
+nature-433|R|T|intrus trop facile
+nature-434|R|T|trop vague
+nature-435|R|T|ennuyeuse
+nature-436|R|T|trop vague
+nature-437|R|T|absurde
+nature-438|G|T|
+nature-439|R|T|doublon de nature-415
+nature-440|R|T|intrus trop facile
+nature-441|R|T|absurde
+nature-442|R|T|absurde
+nature-443|G|T|
+nature-444|R|T|doublon de nature-438
+nature-445|R|T|absurde
+nature-446|R|T|trop vague
+nature-447|G|T|
+nature-448|G|T|
+nature-449|R|T|trop vague, réponses identiques
+nature-450|G|T|
+nature-451|R|T|doublon de nature-390

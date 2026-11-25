@@ -198,3 +198,408 @@ maison-680|R|T|mal formulée : concordance des temps
 maison-681|R|T|mal formulée : concordance des temps
 maison-682|R|A|absurde : trier les papiers chaque mois
 maison-683|G|T|
+maison-684|G|T|
+maison-685|R|T|ennuyeuse : réponses identiques
+maison-686|R|T|trop vague
+maison-687|G|T|
+maison-688|R|T|doublon de maison-659
+maison-689|G|T|
+maison-690|G|T|
+maison-691|G|T|
+maison-692|R|T|ennuyeuse : réponses identiques
+maison-693|G|T|
+maison-694|G|A|
+maison-695|R|T|mal formulée : concordance des temps
+maison-696|R|T|mal formulée : concordance des temps
+maison-697|G|T|
+maison-698|R|T|absurde : choisir une peinture chaque mois
+maison-699|G|T|
+maison-700|R|T|doublon de maison-592
+maison-701|G|T|
+maison-702|R|T|mal formulée : concordance des temps
+maison-703|G|T|
+maison-704|G|T|
+maison-705|R|T|trop vague
+maison-706|R|T|trop vague
+maison-707|R|T|mal formulée : concordance des temps
+maison-708|G|T|
+maison-709|R|T|mal formulée : concordance des temps
+maison-710|R|T|trop vague
+maison-711|R|T|doublon de maison-631
+maison-712|R|T|doublon de maison-621
+maison-713|R|T|mal formulée : concordance des temps
+maison-714|R|T|mal formulée : concordance des temps
+maison-715|R|T|absurde : occasion pour acheter un meuble
+maison-716|G|T|
+maison-717|R|T|doublon de maison-581
+maison-718|R|T|mal formulée : concordance des temps
+maison-719|G|T|
+maison-720|R|T|doublon de maison-620
+maison-721|G|T|
+maison-722|R|T|mal formulée : concordance des temps
+maison-723|R|T|doublon de maison-701
+maison-724|G|T|
+maison-725|G|T|
+maison-726|R|T|mal formulée : concordance des temps
+maison-727|G|T|
+maison-728|G|T|
+maison-729|G|T|
+maison-730|R|T|mal formulée : concordance des temps
+maison-731|R|T|mal formulée : concordance des temps
+maison-732|R|T|trop vague
+maison-733|R|T|absurde : fréquence souhaitée pour remplacer une ampoule
+maison-734|R|T|mal formulée : concordance des temps
+maison-735|G|T|
+maison-736|G|T|
+maison-737|R|T|doublon de maison-716
+maison-738|R|T|mal formulée : concordance des temps
+maison-739|G|T|
+maison-740|G|T|
+maison-741|G|T|
+maison-742|G|T|
+maison-743|G|T|
+maison-744|R|T|mal formulée : concordance des temps
+maison-745|R|T|doublon de maison-671
+maison-746|R|T|mal formulée : concordance des temps
+maison-747|R|T|doublon de maison-657
+maison-748|R|T|absurde : moment de la semaine pour une ampoule
+maison-749|R|T|absurde : occasion pour acheter un meuble
+maison-750|G|T|
+maison-751|G|T|
+maison-752|G|T|
+maison-753|G|T|
+maison-754|R|T|ennuyeuse : réponses identiques
+maison-755|G|T|
+maison-756|R|T|doublon de maison-625
+maison-757|G|T|
+maison-758|G|T|
+maison-759|R|T|trop vague
+maison-760|G|T|
+maison-761|R|T|ennuyeuse : réponses identiques
+maison-762|R|T|mal formulée : concordance des temps
+maison-763|R|T|trop vague
+maison-764|R|T|ennuyeuse : réponses identiques
+maison-765|G|T|
+maison-766|R|T|absurde : fréquence souhaitée pour organiser un bureau
+maison-767|G|T|
+maison-768|G|T|
+maison-769|R|T|doublon de maison-735
+maison-770|R|T|ennuyeuse : réponses identiques
+maison-771|R|T|ennuyeuse : réponses identiques
+maison-772|R|T|doublon de maison-725
+maison-773|G|T|
+maison-774|G|T|
+maison-775|R|T|mal formulée : concordance des temps
+maison-776|R|T|trop vague
+maison-777|R|T|mal formulée : concordance des temps
+maison-778|G|T|
+maison-779|G|T|
+maison-780|R|T|doublon de maison-739
+vie-adulte-admin-001|G|A|
+vie-adulte-admin-002|R|A|ennuyeuse : diagnostic énergétique
+vie-adulte-admin-003|G|A|
+vie-adulte-admin-004|R|A|doublon de vie-adulte-admin-013 (camion)
+vie-adulte-admin-005|R|A|ennuyeuse : consultation de comptable
+vie-adulte-admin-006|R|A|ennuyeuse : impression de documents administratifs
+vie-adulte-admin-007|R|A|ennuyeuse : garde-meuble, assurance RC
+vie-adulte-admin-008|R|A|doublon de vie-adulte-admin-019 (serrurier)
+vie-adulte-admin-009|R|A|ennuyeuse : réexpédition de courrier
+vie-adulte-admin-010|R|A|doublon de vie-adulte-admin-001
+vie-adulte-admin-011|R|A|ennuyeuse : diagnostic énergétique
+vie-adulte-admin-012|R|A|doublon de vie-adulte-admin-003 et 001
+vie-adulte-admin-013|G|A|
+vie-adulte-admin-014|R|A|doublon de vie-adulte-admin-003
+vie-adulte-admin-015|R|A|ennuyeuse : impression de documents administratifs
+vie-adulte-admin-016|R|A|ennuyeuse : assurance RC, comptable
+vie-adulte-admin-017|R|A|doublon de vie-adulte-admin-008, ennuyeuse
+vie-adulte-admin-018|R|A|ennuyeuse : réexpédition de courrier
+vie-adulte-admin-019|G|A|
+vie-adulte-admin-020|R|A|ennuyeuse : box de rangement, abonnement Internet
+vie-adulte-admin-021|R|A|doublon de vie-adulte-admin-001
+vie-adulte-admin-022|R|A|doublon de vie-adulte-admin-002
+vie-adulte-admin-023|R|A|doublon de vie-adulte-admin-003
+vie-adulte-admin-024|R|A|doublon de vie-adulte-admin-004
+vie-adulte-admin-025|R|A|doublon de vie-adulte-admin-005
+vie-adulte-admin-026|G|A|
+vie-adulte-admin-027|G|A|
+vie-adulte-admin-028|G|A|
+vie-adulte-admin-029|G|A|
+vie-adulte-admin-030|G|A|
+vie-adulte-admin-031|G|A|
+vie-adulte-admin-032|G|A|
+vie-adulte-admin-033|G|A|
+vie-adulte-admin-034|G|A|
+vie-adulte-admin-035|R|A|doublon de vie-adulte-admin-026
+vie-adulte-admin-036|R|A|doublon de vie-adulte-admin-027
+vie-adulte-admin-037|R|A|doublon de vie-adulte-admin-028
+vie-adulte-admin-038|R|A|doublon de vie-adulte-admin-029
+vie-adulte-admin-039|R|A|doublon de vie-adulte-admin-030
+vie-adulte-admin-040|R|A|doublon de vie-adulte-admin-031
+vie-adulte-admin-041|R|A|doublon de vie-adulte-admin-032
+vie-adulte-admin-042|R|A|doublon de vie-adulte-admin-033
+vie-adulte-admin-043|R|A|doublon de vie-adulte-admin-034
+vie-adulte-admin-044|R|A|doublon de vie-adulte-admin-033
+vie-adulte-admin-045|R|A|doublon de vie-adulte-admin-034
+vie-adulte-admin-046|R|A|doublon de vie-adulte-admin-026
+vie-adulte-admin-047|R|A|doublon de vie-adulte-admin-027
+vie-adulte-admin-048|R|A|doublon de vie-adulte-admin-028
+vie-adulte-admin-049|R|A|doublon de vie-adulte-admin-029
+vie-adulte-admin-050|R|A|doublon de vie-adulte-admin-030
+vie-adulte-admin-051|G|A|
+vie-adulte-admin-052|G|A|
+vie-adulte-admin-053|G|A|
+vie-adulte-admin-054|R|A|ennuyeuse : adresse incorrecte sur un contrat
+vie-adulte-admin-055|G|A|
+vie-adulte-admin-056|G|A|
+vie-adulte-admin-057|G|A|
+vie-adulte-admin-058|G|A|
+vie-adulte-admin-059|G|A|
+vie-adulte-admin-060|R|A|doublon de vie-adulte-admin-051
+vie-adulte-admin-061|R|A|doublon de vie-adulte-admin-052
+vie-adulte-admin-062|R|A|doublon de vie-adulte-admin-053
+vie-adulte-admin-063|R|A|doublon de vie-adulte-admin-052
+vie-adulte-admin-064|R|A|doublon de vie-adulte-admin-055
+vie-adulte-admin-065|R|A|doublon de vie-adulte-admin-056
+vie-adulte-admin-066|R|A|doublon de vie-adulte-admin-057
+vie-adulte-admin-067|R|A|doublon de vie-adulte-admin-058
+vie-adulte-admin-068|R|A|doublon de vie-adulte-admin-059
+vie-adulte-admin-069|R|A|doublon de vie-adulte-admin-058
+vie-adulte-admin-070|R|A|doublon de vie-adulte-admin-059
+vie-adulte-admin-071|R|A|doublon de vie-adulte-admin-051
+vie-adulte-admin-072|R|A|doublon de vie-adulte-admin-052
+vie-adulte-admin-073|R|A|doublon de vie-adulte-admin-053
+vie-adulte-admin-074|R|A|doublon de vie-adulte-admin-054
+vie-adulte-admin-075|R|A|doublon de vie-adulte-admin-055
+vie-adulte-admin-076|R|A|intrus trop facile : options différentes
+vie-adulte-admin-077|R|A|intrus trop facile : options différentes
+vie-adulte-admin-078|R|A|intrus trop facile : options différentes
+vie-adulte-admin-079|R|A|intrus trop facile : options différentes
+vie-adulte-admin-080|R|A|intrus trop facile : options différentes
+vie-adulte-admin-081|R|A|intrus trop facile : options différentes
+vie-adulte-admin-082|R|A|intrus trop facile : options différentes
+vie-adulte-admin-083|R|A|intrus trop facile : options différentes
+vie-adulte-admin-084|R|A|intrus trop facile : options différentes
+vie-adulte-admin-085|R|A|intrus trop facile : options différentes
+vie-adulte-admin-086|R|A|intrus trop facile : options différentes
+vie-adulte-admin-087|R|A|intrus trop facile : options différentes
+vie-adulte-admin-088|R|A|intrus trop facile : options différentes
+vie-adulte-admin-089|R|A|intrus trop facile : options différentes
+vie-adulte-admin-090|R|A|intrus trop facile : options différentes
+vie-adulte-admin-091|R|A|intrus trop facile : options différentes
+vie-adulte-admin-092|R|A|intrus trop facile : options différentes
+vie-adulte-admin-093|R|A|intrus trop facile : options différentes
+vie-adulte-admin-094|R|A|intrus trop facile : options différentes
+vie-adulte-admin-095|R|A|intrus trop facile : options différentes
+vie-adulte-admin-096|R|A|intrus trop facile : options différentes
+vie-adulte-admin-097|R|A|intrus trop facile : options différentes
+vie-adulte-admin-098|R|A|intrus trop facile : options différentes
+vie-adulte-admin-099|R|A|intrus trop facile : options différentes
+vie-adulte-admin-100|R|A|intrus trop facile : options différentes
+vie-adulte-admin-101|R|A|ennuyeuse : démarches administratives
+vie-adulte-admin-102|R|A|ennuyeuse, mal formulée (« ses coordonnées »)
+vie-adulte-admin-103|R|A|ennuyeuse : devis, service client
+vie-adulte-admin-104|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-105|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-106|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-107|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-108|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-109|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-110|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-111|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-112|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-113|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-114|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-115|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-116|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-117|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-118|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-119|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-120|R|A|ennuyeuse : tâche administrative
+vie-adulte-admin-121|R|A|doublon de vie-adulte-admin-101
+vie-adulte-admin-122|R|A|doublon de vie-adulte-admin-102
+vie-adulte-admin-123|R|A|doublon de vie-adulte-admin-103
+vie-adulte-admin-124|R|A|doublon de vie-adulte-admin-104
+vie-adulte-admin-125|R|A|doublon de vie-adulte-admin-105
+vie-adulte-admin-126|G|A|
+vie-adulte-admin-127|R|A|ennuyeuse : assurance, dépôt de garantie
+vie-adulte-admin-128|G|A|
+vie-adulte-admin-129|R|A|mal formulée (« conseil pour demander un devis »), ennuyeuse
+vie-adulte-admin-130|R|A|ennuyeuse : clause de contrat
+vie-adulte-admin-131|G|A|
+vie-adulte-admin-132|R|A|ennuyeuse : devis, aides au logement
+vie-adulte-admin-133|R|A|ennuyeuse : démarches, résiliation
+vie-adulte-admin-134|R|A|ennuyeuse : impôts, crédit
+vie-adulte-admin-135|R|A|doublon de vie-adulte-admin-126
+vie-adulte-admin-136|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-137|R|A|doublon de vie-adulte-admin-128 et 126
+vie-adulte-admin-138|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-139|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-140|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-141|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-142|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-143|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-144|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-145|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-146|R|A|doublon de vie-adulte-admin-126
+vie-adulte-admin-147|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-148|R|A|doublon de vie-adulte-admin-128
+vie-adulte-admin-149|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-150|R|A|doublon de questions déjà vues (126-134), ennuyeuse
+vie-adulte-admin-151|R|A|ennuyeuse : photocopies, déclaration de revenus
+vie-adulte-admin-152|R|A|ennuyeuse : cartons, conseiller bancaire
+vie-adulte-admin-153|G|T|
+vie-adulte-admin-154|R|T|A et B quasi identiques (la Poste), ennuyeuse
+vie-adulte-admin-155|R|A|ennuyeuse : assurance auto, conseils logement
+vie-adulte-admin-156|R|A|ennuyeuse : document administratif
+vie-adulte-admin-157|G|T|
+vie-adulte-admin-158|R|A|absurde : lieu pour faire vérifier une chaudière
+vie-adulte-admin-159|R|A|absurde : lieu pour vérifier une installation électrique
+vie-adulte-admin-160|R|A|ennuyeuse : déclaration de revenus, recyclage
+vie-adulte-admin-161|R|A|ennuyeuse : conseiller bancaire, stockage
+vie-adulte-admin-162|R|A|doublon de vie-adulte-admin-153
+vie-adulte-admin-163|R|A|ennuyeuse : enveloppes recommandées, cartons
+vie-adulte-admin-164|R|A|doublon de vie-adulte-admin-153
+vie-adulte-admin-165|R|A|ennuyeuse : rangement de papiers, colis
+vie-adulte-admin-166|R|A|doublon de vie-adulte-admin-157
+vie-adulte-admin-167|R|A|ennuyeuse : chaudière, document administratif
+vie-adulte-admin-168|R|A|doublon de vie-adulte-admin-157
+vie-adulte-admin-169|R|A|ennuyeuse : recyclage, camionnette
+vie-adulte-admin-170|R|A|ennuyeuse : stockage, installation électrique
+vie-adulte-admin-171|R|A|doublon de vie-adulte-admin-151
+vie-adulte-admin-172|R|A|doublon de vie-adulte-admin-152
+vie-adulte-admin-173|R|A|doublon de vie-adulte-admin-153
+vie-adulte-admin-174|R|A|doublon de vie-adulte-admin-154
+vie-adulte-admin-175|R|A|doublon de vie-adulte-admin-155
+vie-adulte-admin-176|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-177|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-178|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-179|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-180|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-181|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-182|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-183|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-184|G|A|
+vie-adulte-admin-185|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-186|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-187|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-188|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-189|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-190|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-191|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-192|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-193|R|A|doublon de vie-adulte-admin-184, trop vague
+vie-adulte-admin-194|R|A|trop vague : « quel critère », sujet administratif
+vie-adulte-admin-195|R|A|doublon de vie-adulte-admin-184, trop vague
+vie-adulte-admin-196|R|A|trop vague : « quel critère », doublon
+vie-adulte-admin-197|R|A|trop vague : « quel critère », doublon
+vie-adulte-admin-198|R|A|trop vague : « quel critère », doublon
+vie-adulte-admin-199|R|A|trop vague : « quel critère », doublon
+vie-adulte-admin-200|R|A|trop vague : « quel critère », doublon
+voisins-societe-001|R|A|ennuyeuse : charges de copropriété
+voisins-societe-002|G|T|
+voisins-societe-003|G|T|
+voisins-societe-004|G|A|
+voisins-societe-005|G|T|
+voisins-societe-006|G|T|
+voisins-societe-007|G|A|
+voisins-societe-008|R|T|ennuyeuse : nettoyage de balcon, porte-vélos
+voisins-societe-009|R|A|doublon de voisins-societe-004 (stationnement)
+voisins-societe-010|R|T|ennuyeuse : éclairage d'immeuble, médiation
+voisins-societe-011|R|T|doublon de voisins-societe-002
+voisins-societe-012|R|A|doublon de voisins-societe-003, ennuyeuse
+voisins-societe-013|R|A|doublon de voisins-societe-004
+voisins-societe-014|R|T|doublon de voisins-societe-005
+voisins-societe-015|R|T|doublon de voisins-societe-006
+voisins-societe-016|R|T|doublon de voisins-societe-007
+voisins-societe-017|R|T|doublon de voisins-societe-006
+voisins-societe-018|R|A|doublon de voisins-societe-007
+voisins-societe-019|R|T|ennuyeuse : médiation, nettoyage de balcon
+voisins-societe-020|R|A|ennuyeuse : réception de colis, parking
+voisins-societe-021|R|A|doublon de voisins-societe-001
+voisins-societe-022|R|T|doublon de voisins-societe-002
+voisins-societe-023|R|T|doublon de voisins-societe-003
+voisins-societe-024|R|A|doublon de voisins-societe-004
+voisins-societe-025|R|T|doublon de voisins-societe-005
+voisins-societe-026|G|T|
+voisins-societe-027|G|T|
+voisins-societe-028|G|T|
+voisins-societe-029|G|A|
+voisins-societe-030|R|T|ennuyeuse : horaires du portail
+voisins-societe-031|G|T|
+voisins-societe-032|G|T|
+voisins-societe-033|G|T|
+voisins-societe-034|G|T|
+voisins-societe-035|R|A|doublon de voisins-societe-026
+voisins-societe-036|R|T|doublon de voisins-societe-027
+voisins-societe-037|R|T|doublon de voisins-societe-028
+voisins-societe-038|R|T|doublon de voisins-societe-029
+voisins-societe-039|R|T|doublon de voisins-societe-030
+voisins-societe-040|R|A|doublon de voisins-societe-031
+voisins-societe-041|R|T|doublon de voisins-societe-032
+voisins-societe-042|R|T|doublon de voisins-societe-033
+voisins-societe-043|R|T|doublon de voisins-societe-034
+voisins-societe-044|R|A|doublon de voisins-societe-033
+voisins-societe-045|R|T|doublon de voisins-societe-034
+voisins-societe-046|R|T|doublon de voisins-societe-026
+voisins-societe-047|R|T|doublon de voisins-societe-027
+voisins-societe-048|R|T|doublon de voisins-societe-028
+voisins-societe-049|R|A|doublon de voisins-societe-029
+voisins-societe-050|R|T|doublon de voisins-societe-030
+voisins-societe-051|G|T|
+voisins-societe-052|G|T|
+voisins-societe-053|G|T|
+voisins-societe-054|G|T|
+voisins-societe-055|G|T|
+voisins-societe-056|G|T|
+voisins-societe-057|G|T|
+voisins-societe-058|G|T|
+voisins-societe-059|G|T|
+voisins-societe-060|R|T|doublon de voisins-societe-051
+voisins-societe-061|R|T|doublon de voisins-societe-052
+voisins-societe-062|R|T|doublon de voisins-societe-053
+voisins-societe-063|R|T|doublon de voisins-societe-054
+voisins-societe-064|R|T|doublon de voisins-societe-055
+voisins-societe-065|R|T|doublon de voisins-societe-056
+voisins-societe-066|R|T|doublon de voisins-societe-057
+voisins-societe-067|R|T|doublon de voisins-societe-058
+voisins-societe-068|R|T|doublon de voisins-societe-059
+voisins-societe-069|R|T|doublon de voisins-societe-058
+voisins-societe-070|R|T|doublon de voisins-societe-059
+voisins-societe-071|R|T|doublon de voisins-societe-051
+voisins-societe-072|R|T|doublon de voisins-societe-052
+voisins-societe-073|R|T|doublon de voisins-societe-053
+voisins-societe-074|R|T|doublon de voisins-societe-054
+voisins-societe-075|R|T|doublon de voisins-societe-055
+voisins-societe-076|R|T|intrus trop facile : options différentes
+voisins-societe-077|R|T|intrus trop facile : options différentes
+voisins-societe-078|R|T|intrus trop facile : options différentes
+voisins-societe-079|R|T|intrus trop facile : options différentes
+voisins-societe-080|R|T|intrus trop facile : options différentes
+voisins-societe-081|R|A|intrus trop facile : options différentes
+voisins-societe-082|R|T|intrus trop facile : options différentes
+voisins-societe-083|R|A|intrus trop facile : options différentes
+voisins-societe-084|R|T|intrus trop facile : options différentes
+voisins-societe-085|R|T|intrus trop facile : options différentes
+voisins-societe-086|R|A|intrus trop facile : options différentes
+voisins-societe-087|R|T|intrus trop facile : options différentes
+voisins-societe-088|R|T|intrus trop facile : options différentes
+voisins-societe-089|R|T|intrus trop facile : options différentes
+voisins-societe-090|R|A|intrus trop facile : options différentes
+voisins-societe-091|R|T|intrus trop facile : options différentes
+voisins-societe-092|R|T|intrus trop facile : options différentes
+voisins-societe-093|R|T|intrus trop facile : options différentes
+voisins-societe-094|R|A|intrus trop facile : options différentes
+voisins-societe-095|R|A|intrus trop facile : options différentes
+voisins-societe-096|R|T|intrus trop facile : options différentes
+voisins-societe-097|R|T|intrus trop facile : options différentes
+voisins-societe-098|R|T|intrus trop facile : options différentes
+voisins-societe-099|R|T|intrus trop facile : options différentes
+voisins-societe-100|R|T|intrus trop facile : options différentes
+voisins-societe-101|R|T|ennuyeuse, intrus trop facile
+voisins-societe-102|R|A|ennuyeuse : signalement au syndic
+voisins-societe-103|R|A|ennuyeuse : réunion de copropriété
+voisins-societe-104|G|T|
+voisins-societe-105|G|T|
+voisins-societe-106|R|T|ennuyeuse
+voisins-societe-107|R|T|ennuyeuse : tri des déchets
+voisins-societe-108|R|A|intrus trop facile, ennuyeuse

@@ -298,3 +298,308 @@ ecrans-819|R|T|absurde
 ecrans-820|R|T|absurde
 ecrans-821|R|T|trop vague
 ecrans-822|R|T|intrus trop facile : durées sans commune mesure
+ecrans-823|G|T|
+ecrans-824|R|T|doublon de ecrans-209
+ecrans-825|R|T|mal formulée
+ecrans-826|R|T|doublon de ecrans-824
+ecrans-827|R|T|doublon de ecrans-823
+ecrans-828|R|T|absurde
+ecrans-829|R|T|intrus trop facile : situations sans rapport
+ecrans-830|R|T|ennuyeuse, intrus trop facile
+ecrans-831|R|T|doublon de ecrans-779
+ecrans-832|R|T|ennuyeuse
+ecrans-833|R|T|absurde
+ecrans-834|R|T|doublon de ecrans-722
+ecrans-835|R|T|doublon de ecrans-750
+ecrans-836|R|T|trop vague
+ecrans-837|R|T|bizarre
+ecrans-838|R|T|doublon de ecrans-829
+ecrans-839|R|T|mal formulée
+ecrans-840|R|T|doublon de ecrans-700
+ecrans-841|R|T|doublon de ecrans-759
+ecrans-842|R|T|doublon de ecrans-661
+ecrans-843|R|T|absurde
+ecrans-844|R|T|doublon de ecrans-697
+ecrans-845|R|T|doublon de ecrans-713
+musique-025|G|T|
+musique-057|G|T|
+musique-063|G|T|
+musique-097|G|T|
+musique-099|G|T|
+musique-101|G|T|
+musique-158|G|A|
+musique-165|G|T|
+musique-223|G|T|
+musique-249|G|T|
+musique-294|G|T|
+musique-334|R|T|trop vague
+musique-335|R|T|intrus trop facile : situations sans rapport
+musique-336|R|T|trop vague
+musique-337|R|T|intrus trop facile : durées sans commune mesure
+musique-338|R|T|intrus trop facile : situations sans rapport
+musique-339|R|T|ennuyeuse
+musique-340|R|T|intrus trop facile : prix sans commune mesure
+musique-341|R|T|trop vague
+musique-342|R|T|intrus trop facile : situations sans rapport
+musique-343|R|T|doublon de musique-099
+musique-344|R|T|mal formulée
+musique-345|R|T|quasi identiques
+musique-346|R|T|absurde
+musique-347|R|T|quasi identiques
+musique-348|R|T|intrus trop facile : prix sans commune mesure
+musique-349|R|T|intrus trop facile : situations sans rapport
+musique-350|R|T|intrus trop facile : situations sans rapport
+musique-351|R|T|absurde
+musique-352|R|T|mal formulée
+musique-353|R|T|mal formulée
+musique-354|R|T|intrus trop facile : situations sans rapport
+musique-355|R|T|doublon de musique-348
+musique-356|R|T|intrus trop facile : situations sans rapport
+musique-357|R|T|absurde
+musique-358|R|T|ennuyeuse
+musique-359|R|T|absurde
+musique-360|R|T|mal formulée
+musique-361|R|T|bizarre
+musique-362|R|T|ennuyeuse
+musique-363|R|T|bizarre
+musique-364|R|T|doublon de musique-294
+musique-365|R|T|trop vague
+musique-366|R|T|intrus trop facile : prix sans commune mesure
+musique-367|R|T|mal formulée
+musique-368|R|T|doublon de musique-356
+musique-369|R|T|doublon de musique-342
+musique-370|R|T|bizarre
+musique-371|R|T|intrus trop facile : situations sans rapport
+musique-372|R|T|absurde
+musique-373|R|T|intrus trop facile : prix sans commune mesure
+musique-374|R|T|ennuyeuse
+musique-375|G|T|
+musique-376|R|T|intrus trop facile : objets sans rapport
+musique-377|R|T|bizarre
+musique-378|R|T|bizarre
+musique-379|R|T|intrus trop facile : situations sans rapport
+musique-380|R|T|intrus trop facile : durées sans commune mesure
+musique-381|R|T|intrus trop facile : situations sans rapport
+musique-382|R|T|absurde
+musique-383|R|T|intrus trop facile : durées sans commune mesure
+musique-384|G|T|
+musique-385|R|T|intrus trop facile : situations sans rapport
+musique-386|R|T|intrus trop facile : prix éloignés
+musique-387|R|T|absurde
+musique-388|R|T|trop vague
+musique-389|R|T|ennuyeuse et quasi identiques
+musique-390|G|T|
+musique-391|R|T|doublon de musique-336
+musique-392|R|T|doublon de musique-384
+musique-393|R|T|absurde
+musique-394|R|T|intrus trop facile : situations sans rapport
+musique-395|R|T|trop vague
+musique-396|R|T|doublon de musique-385
+musique-397|R|T|trop vague
+musique-398|R|T|intrus trop facile : durées sans commune mesure
+musique-399|R|T|ennuyeuse
+musique-400|R|T|intrus trop facile : prix sans commune mesure
+musique-401|R|T|absurde
+musique-402|R|T|ennuyeuse
+musique-403|R|T|doublon de musique-336
+musique-404|R|T|trop vague
+musique-405|R|T|doublon de musique-394
+musique-406|R|T|doublon de musique-379
+musique-407|R|T|absurde
+musique-408|R|T|intrus trop facile : situations sans rapport
+musique-409|R|T|doublon de musique-381
+musique-410|R|T|mal formulée
+musique-411|R|T|intrus trop facile : durées sans commune mesure
+musique-412|R|T|absurde
+musique-413|R|T|trop vague
+musique-414|R|T|intrus trop facile : situations sans rapport
+musique-415|R|T|trop vague
+musique-416|R|T|absurde
+musique-417|G|T|
+musique-418|R|T|bizarre
+musique-419|R|T|absurde
+musique-420|R|T|mal formulée
+musique-421|R|T|absurde
+musique-422|R|T|absurde
+musique-423|R|T|ennuyeuse
+musique-424|R|T|absurde
+musique-425|R|T|intrus trop facile : durées sans commune mesure
+musique-426|R|T|intrus trop facile : prix éloignés
+musique-427|R|T|intrus trop facile : objets sans rapport
+musique-428|R|T|bizarre
+musique-429|R|T|bizarre
+musique-430|R|T|intrus trop facile : objets sans rapport
+musique-431|G|T|
+musique-432|R|T|doublon de musique-338
+musique-433|R|T|intrus trop facile : objets sans rapport
+musique-434|R|T|ennuyeuse
+musique-435|R|T|doublon de musique-340
+musique-436|R|T|intrus trop facile : objets sans rapport
+musique-437|R|T|absurde
+musique-438|R|T|bizarre
+musique-439|R|T|bizarre
+musique-440|R|T|intrus trop facile, mal formulée
+musique-441|R|T|intrus trop facile : durées sans commune mesure
+musique-442|G|T|
+musique-443|G|T|
+musique-444|R|T|absurde
+musique-445|R|T|doublon de musique-426
+musique-446|R|T|trop vague
+musique-447|R|T|doublon de musique-440
+musique-448|R|T|mal formulée
+musique-449|R|T|trop vague
+musique-450|R|T|bizarre
+musique-451|R|T|doublon de musique-371
+musique-452|R|T|bizarre
+musique-453|R|T|doublon de musique-373
+musique-454|R|T|bizarre
+musique-455|R|T|bizarre
+musique-456|R|T|intrus trop facile : situations sans rapport
+musique-457|R|T|doublon de musique-442
+musique-458|R|T|absurde
+musique-459|R|T|intrus trop facile : situations sans rapport
+musique-460|R|T|bizarre
+musique-461|R|T|absurde
+musique-462|R|T|trop vague
+musique-463|R|T|intrus trop facile : durées sans commune mesure
+musique-464|R|T|quasi identiques
+musique-465|R|T|absurde
+musique-466|R|T|doublon de musique-339
+musique-467|R|T|absurde
+musique-468|R|T|absurde
+musique-469|R|T|absurde
+musique-470|R|T|absurde
+musique-471|R|T|intrus trop facile : situations sans rapport
+musique-472|R|T|absurde
+musique-473|R|T|absurde
+musique-474|R|T|mal formulée
+musique-475|R|T|doublon de musique-471
+musique-476|R|T|absurde
+musique-477|R|T|doublon de musique-431
+musique-478|R|T|trop vague
+musique-479|R|T|absurde
+musique-480|R|T|intrus trop facile : situations sans rapport
+musique-481|R|T|ennuyeuse
+musique-482|R|T|doublon de musique-358
+musique-483|R|T|doublon de musique-408
+musique-484|R|T|absurde
+musique-485|R|T|trop vague
+musique-486|R|T|absurde
+musique-487|R|T|trop vague
+musique-488|R|T|doublon de musique-374
+musique-489|R|T|doublon de musique-400
+musique-490|R|T|intrus trop facile : situations sans rapport
+musique-491|R|T|doublon de musique-386
+musique-492|R|T|intrus trop facile : durées sans commune mesure
+musique-493|R|T|trop vague
+musique-494|R|T|absurde
+musique-495|R|T|doublon de musique-480
+musique-496|R|T|absurde
+musique-497|R|T|doublon de musique-414
+musique-498|R|T|trop vague
+musique-499|R|T|bizarre
+musique-500|R|T|absurde
+musique-501|R|T|doublon de musique-459
+musique-502|R|T|doublon de musique-366
+musique-503|R|T|doublon de musique-417
+musique-504|R|T|absurde
+musique-505|R|T|mal formulée
+musique-506|R|T|doublon de musique-349
+musique-507|R|T|trop vague
+musique-508|R|T|absurde
+musique-509|R|T|doublon de musique-490
+musique-510|R|T|intrus trop facile : durées sans commune mesure
+musique-511|R|T|trop vague
+musique-512|R|T|absurde
+musique-513|R|T|doublon de musique-456
+musique-514|R|T|intrus trop facile : durées sans commune mesure
+musique-515|R|T|absurde
+musique-516|R|T|absurde
+musique-517|R|T|absurde
+musique-518|R|T|ennuyeuse
+musique-519|R|T|doublon de musique-294
+musique-520|R|T|doublon de musique-436
+musique-521|R|T|bizarre
+musique-522|R|T|bizarre
+musique-523|R|T|doublon de musique-518
+musique-524|R|T|bizarre
+musique-525|R|T|doublon de musique-390
+musique-526|R|T|doublon de musique-354
+musique-527|R|T|absurde
+musique-528|R|T|absurde
+musique-529|R|T|absurde
+musique-530|R|T|doublon de musique-443
+musique-531|R|T|trop vague
+musique-532|R|T|doublon de musique-376
+musique-533|R|T|doublon de musique-350
+popculture-004|G|T|
+popculture-008|G|T|
+popculture-012|G|T|
+popculture-017|G|T|
+popculture-110|G|T|
+popculture-114|G|T|
+popculture-128|G|A|
+popculture-240|G|T|
+popculture-333|R|T|intrus trop facile : situations sans rapport
+popculture-334|R|T|trop vague
+popculture-335|R|T|intrus trop facile : prix éloignés
+popculture-336|R|T|trop vague
+popculture-337|R|T|intrus trop facile : situations sans rapport
+popculture-338|R|T|trop vague
+popculture-339|R|T|absurde
+popculture-340|R|T|bizarre
+popculture-341|R|T|intrus trop facile, doublon partiel de ecrans-035
+popculture-342|R|T|intrus trop facile : situations sans rapport
+popculture-343|R|T|trop vague
+popculture-344|R|T|absurde
+popculture-345|R|T|bizarre
+popculture-346|R|T|absurde
+popculture-347|R|T|ennuyeuse
+popculture-348|R|T|bizarre
+popculture-349|R|T|trop vague
+popculture-350|R|T|bizarre
+popculture-351|G|T|
+popculture-352|R|T|intrus trop facile : situations sans rapport
+popculture-353|G|T|
+popculture-354|G|T|
+popculture-355|R|T|trop vague
+popculture-356|R|T|trop vague
+popculture-357|R|T|trop vague
+popculture-358|R|T|intrus trop facile : situations sans rapport
+popculture-359|R|T|intrus trop facile : prix sans commune mesure
+popculture-360|R|T|absurde
+popculture-361|R|T|bizarre
+popculture-362|R|T|absurde
+popculture-363|R|T|bizarre
+popculture-364|G|T|
+popculture-365|R|T|trop vague
+popculture-366|R|T|ennuyeuse
+popculture-367|R|T|trop vague
+popculture-368|R|T|absurde
+popculture-369|R|T|trop vague
+popculture-370|G|T|
+popculture-371|R|T|absurde
+popculture-372|R|T|trop vague
+popculture-373|G|T|
+popculture-374|R|T|absurde
+popculture-375|G|T|
+popculture-376|R|T|ennuyeuse
+popculture-377|R|T|trop vague
+popculture-378|R|T|bizarre
+popculture-379|G|T|
+popculture-380|R|T|intrus trop facile : situations sans rapport
+popculture-381|R|T|trop vague
+popculture-382|R|T|intrus trop facile, ennuyeuse
+popculture-383|R|T|absurde
+popculture-384|R|T|intrus trop facile : situations sans rapport
+popculture-385|R|T|doublon de popculture-354
+popculture-386|G|T|
+popculture-387|R|T|trop vague
+popculture-388|R|T|intrus trop facile : situations sans rapport
+popculture-389|R|T|absurde
+popculture-390|R|T|trop vague
+popculture-391|R|T|doublon de popculture-361
+popculture-392|R|T|doublon de popculture-364
+popculture-393|R|T|ennuyeuse
+popculture-394|R|T|intrus trop facile : situations sans rapport
+popculture-395|R|T|doublon de popculture-386

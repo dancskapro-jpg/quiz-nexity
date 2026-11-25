@@ -198,3 +198,408 @@ argent-shopping-105|R|T|intrus trop facile : produits sans rapport
 argent-shopping-106|R|T|intrus trop facile : options différentes
 argent-shopping-107|G|T|
 argent-shopping-108|R|A|doublon de argent-shopping-008
+argent-shopping-109|G|T|
+argent-shopping-110|G|T|
+argent-shopping-111|G|T|
+argent-shopping-112|G|T|
+argent-shopping-113|R|T|doublon de argent-shopping-023 et 003
+argent-shopping-114|R|T|doublon de argent-shopping-014
+argent-shopping-115|R|T|intrus trop facile : produits sans rapport
+argent-shopping-116|R|T|intrus trop facile : options différentes
+argent-shopping-117|R|T|doublon de argent-shopping-027 et 007
+argent-shopping-118|R|T|doublon de argent-shopping-018
+argent-shopping-119|R|A|intrus trop facile : ordres de grandeur différents
+argent-shopping-120|G|T|
+argent-shopping-121|G|T|
+argent-shopping-122|R|T|doublon de argent-shopping-042 et 002
+argent-shopping-123|R|A|doublon de argent-shopping-033 et 013
+argent-shopping-124|R|T|doublon de argent-shopping-024
+argent-shopping-125|R|A|intrus trop facile : produits sans rapport
+argent-shopping-126|R|T|doublon de argent-shopping-046 et 006
+argent-shopping-127|R|A|doublon de argent-shopping-037 et 017
+argent-shopping-128|R|T|doublon de argent-shopping-028
+argent-shopping-129|G|T|
+argent-shopping-130|R|A|doublon de argent-shopping-050 et 010
+argent-shopping-131|R|T|doublon de argent-shopping-061 et 001
+argent-shopping-132|R|A|doublon de argent-shopping-052 et 012
+argent-shopping-133|R|A|doublon de argent-shopping-043 et 023
+argent-shopping-134|R|T|doublon de argent-shopping-034
+argent-shopping-135|R|T|doublon de argent-shopping-065 et 005
+argent-shopping-136|R|T|doublon de argent-shopping-056 et 016
+argent-shopping-137|R|T|doublon de argent-shopping-047 et 027
+argent-shopping-138|R|T|doublon de argent-shopping-038
+argent-shopping-139|R|T|doublon de argent-shopping-069 et 009
+argent-shopping-140|R|T|doublon de argent-shopping-060 et 020
+argent-shopping-141|R|T|doublon de argent-shopping-071 et 011
+argent-shopping-142|R|T|doublon de argent-shopping-062 et 022
+argent-shopping-143|R|T|doublon de argent-shopping-053 et 033
+argent-shopping-144|R|T|doublon de argent-shopping-044
+argent-shopping-145|R|T|doublon de argent-shopping-075 et 015
+argent-shopping-146|R|T|doublon de argent-shopping-066 et 026
+argent-shopping-147|R|T|doublon de argent-shopping-057 et 037
+argent-shopping-148|R|A|doublon de argent-shopping-048
+argent-shopping-149|R|A|doublon de argent-shopping-079 et 019
+argent-shopping-150|R|A|doublon de argent-shopping-070 et 030
+argent-shopping-151|R|T|doublon de argent-shopping-081 et 021
+argent-shopping-152|R|T|doublon de argent-shopping-072 et 032
+argent-shopping-153|R|T|mal formulée (« de le permis »), doublon de argent-shopping-063 et 043
+argent-shopping-154|R|T|doublon de argent-shopping-054
+argent-shopping-155|R|T|doublon de argent-shopping-085 et 025
+argent-shopping-156|R|T|doublon de argent-shopping-076 et 036
+argent-shopping-157|R|T|doublon de argent-shopping-067 et 047
+argent-shopping-158|R|T|doublon de argent-shopping-058
+argent-shopping-159|R|T|doublon de argent-shopping-089 et 029
+argent-shopping-160|R|T|doublon de argent-shopping-080 et 040
+argent-shopping-161|R|T|doublon de argent-shopping-091 et 031
+argent-shopping-162|R|T|doublon de argent-shopping-082 et 042
+argent-shopping-163|G|A|
+argent-shopping-164|R|T|doublon de argent-shopping-064
+argent-shopping-165|R|T|doublon de argent-shopping-095 et 035
+argent-shopping-166|R|A|doublon de argent-shopping-086 et 046
+argent-shopping-167|R|T|doublon de argent-shopping-077 et 057
+argent-shopping-168|R|T|doublon de argent-shopping-068
+argent-shopping-169|R|T|mal formulée (« pour s'équiper »), doublon de argent-shopping-099
+argent-shopping-170|R|A|doublon de argent-shopping-090 et 050
+argent-shopping-171|R|T|doublon de argent-shopping-101 et 041
+argent-shopping-172|R|T|doublon de argent-shopping-092 et 052
+argent-shopping-173|R|A|doublon de argent-shopping-083 et 063
+argent-shopping-174|R|T|doublon de argent-shopping-074
+argent-shopping-175|R|T|doublon de argent-shopping-105 et 045
+argent-shopping-176|R|T|doublon de argent-shopping-096 et 056
+argent-shopping-177|R|T|doublon de argent-shopping-087 et 067
+argent-shopping-178|G|T|
+argent-shopping-179|R|T|mal formulée (prévoirais-tu pour prévoir)
+argent-shopping-180|R|A|doublon de argent-shopping-100 et 060
+argent-shopping-181|R|T|doublon de argent-shopping-111 et 051
+argent-shopping-182|R|A|doublon de argent-shopping-102 et 062
+argent-shopping-183|R|T|doublon de argent-shopping-093 et 073
+argent-shopping-184|R|T|doublon de argent-shopping-084
+argent-shopping-185|R|T|doublon de argent-shopping-115 et 055
+argent-shopping-186|R|T|doublon de argent-shopping-106 et 066
+argent-shopping-187|R|T|doublon de argent-shopping-097 et 077
+argent-shopping-188|R|A|doublon de argent-shopping-088
+argent-shopping-189|R|T|doublon de argent-shopping-119 et 059
+argent-shopping-190|R|A|doublon de argent-shopping-110 et 070
+argent-shopping-191|R|A|doublon de argent-shopping-121 et 061
+argent-shopping-192|R|A|doublon de argent-shopping-112 et 072
+argent-shopping-193|R|A|doublon de argent-shopping-103 et 083
+argent-shopping-194|R|T|doublon de argent-shopping-094
+argent-shopping-195|R|A|doublon de argent-shopping-125 et 065
+argent-shopping-196|R|A|doublon de argent-shopping-116 et 076
+argent-shopping-197|R|A|doublon de argent-shopping-107 et 087
+argent-shopping-198|R|T|doublon de argent-shopping-098
+argent-shopping-199|R|T|doublon de argent-shopping-129 et 069
+argent-shopping-200|R|T|doublon de argent-shopping-120 et 080
+luxe-reve-001|G|T|
+luxe-reve-002|R|T|intrus trop facile : options différentes
+luxe-reve-003|G|T|
+luxe-reve-004|G|T|
+luxe-reve-005|G|T|
+luxe-reve-006|G|T|
+luxe-reve-007|G|T|
+luxe-reve-008|G|A|
+luxe-reve-009|G|T|
+luxe-reve-010|G|T|
+luxe-reve-011|G|T|
+luxe-reve-012|R|T|intrus trop facile : options différentes
+luxe-reve-013|G|T|
+luxe-reve-014|G|T|
+luxe-reve-015|G|A|
+luxe-reve-016|G|T|
+luxe-reve-017|G|T|
+luxe-reve-018|G|T|
+luxe-reve-019|R|T|intrus trop facile : ordres de grandeur différents
+luxe-reve-020|G|T|
+luxe-reve-021|R|T|intrus trop facile : ordres de grandeur différents
+luxe-reve-022|R|T|intrus trop facile : options différentes
+luxe-reve-023|G|T|
+luxe-reve-024|G|T|
+luxe-reve-025|G|T|
+luxe-reve-026|G|T|
+luxe-reve-027|G|T|
+luxe-reve-028|G|A|
+luxe-reve-029|G|A|
+luxe-reve-030|G|T|
+luxe-reve-031|R|T|intrus trop facile : ordres de grandeur différents
+luxe-reve-032|R|T|intrus trop facile : options différentes
+luxe-reve-033|G|T|
+luxe-reve-034|G|T|
+luxe-reve-035|G|T|
+luxe-reve-036|G|T|
+luxe-reve-037|G|T|
+luxe-reve-038|G|T|
+luxe-reve-039|G|A|
+luxe-reve-040|G|T|
+luxe-reve-041|G|T|
+luxe-reve-042|R|T|intrus trop facile : options différentes
+luxe-reve-043|G|T|
+luxe-reve-044|R|T|mal formulée (sac qui « attend depuis deux ans »)
+luxe-reve-045|G|T|
+luxe-reve-046|G|T|
+luxe-reve-047|G|T|
+luxe-reve-048|G|T|
+luxe-reve-049|G|T|
+luxe-reve-050|G|A|
+luxe-reve-051|R|T|intrus trop facile : ordres de grandeur différents
+luxe-reve-052|R|T|intrus trop facile : options différentes
+luxe-reve-053|R|T|mal formulée (ville… dans une ville chic)
+luxe-reve-054|G|T|
+luxe-reve-055|G|T|
+luxe-reve-056|G|T|
+luxe-reve-057|G|T|
+luxe-reve-058|G|T|
+luxe-reve-059|R|T|intrus trop facile : ordres de grandeur différents
+luxe-reve-060|G|T|
+luxe-reve-061|G|A|
+luxe-reve-062|R|T|intrus trop facile : options différentes
+luxe-reve-063|G|T|
+luxe-reve-064|G|T|
+luxe-reve-065|G|T|
+luxe-reve-066|G|T|
+luxe-reve-067|G|T|
+luxe-reve-068|G|T|
+luxe-reve-069|G|T|
+luxe-reve-070|G|T|
+luxe-reve-071|G|T|
+luxe-reve-072|R|T|intrus trop facile : options différentes
+luxe-reve-073|G|T|
+luxe-reve-074|G|T|
+luxe-reve-075|G|T|
+luxe-reve-076|G|A|
+luxe-reve-077|G|T|
+luxe-reve-078|G|A|
+luxe-reve-079|G|T|
+luxe-reve-080|G|A|
+luxe-reve-081|G|T|
+luxe-reve-082|R|T|intrus trop facile : options différentes
+luxe-reve-083|G|T|
+luxe-reve-084|G|A|
+luxe-reve-085|G|T|
+luxe-reve-086|G|T|
+luxe-reve-087|G|T|
+luxe-reve-088|G|A|
+luxe-reve-089|G|T|
+luxe-reve-090|G|T|
+luxe-reve-091|R|T|intrus trop facile : ordres de grandeur différents
+luxe-reve-092|R|T|intrus trop facile : options différentes
+luxe-reve-093|G|T|
+luxe-reve-094|G|T|
+luxe-reve-095|G|T|
+luxe-reve-096|G|T|
+luxe-reve-097|G|T|
+luxe-reve-098|G|T|
+luxe-reve-099|G|A|
+luxe-reve-100|G|T|
+luxe-reve-101|R|T|intrus trop facile : ordres de grandeur différents
+luxe-reve-102|R|T|intrus trop facile : options différentes
+luxe-reve-103|G|T|
+luxe-reve-104|R|T|doublon de luxe-reve-004
+luxe-reve-105|G|T|
+luxe-reve-106|G|T|
+luxe-reve-107|G|T|
+luxe-reve-108|R|A|doublon de luxe-reve-008
+luxe-reve-109|G|A|
+luxe-reve-110|G|T|
+luxe-reve-111|G|T|
+luxe-reve-112|R|T|intrus trop facile : options différentes
+luxe-reve-113|R|T|doublon de luxe-reve-023 et 003
+luxe-reve-114|R|T|doublon de luxe-reve-014
+luxe-reve-115|G|T|
+luxe-reve-116|G|T|
+luxe-reve-117|R|T|doublon de luxe-reve-027 et 007
+luxe-reve-118|R|T|doublon de luxe-reve-018
+luxe-reve-119|G|T|
+luxe-reve-120|G|T|
+luxe-reve-121|G|T|
+luxe-reve-122|R|T|intrus trop facile : options différentes
+luxe-reve-123|R|T|doublon de luxe-reve-033 et 013
+luxe-reve-124|R|T|doublon de luxe-reve-024
+luxe-reve-125|G|T|
+luxe-reve-126|R|T|doublon de luxe-reve-046 et 006, mal formulée
+luxe-reve-127|R|T|doublon de luxe-reve-037 et 017
+luxe-reve-128|R|A|doublon de luxe-reve-028
+luxe-reve-129|G|T|
+luxe-reve-130|R|T|doublon de luxe-reve-050 et 010
+luxe-reve-131|R|A|doublon de luxe-reve-061 et 001
+luxe-reve-132|R|T|intrus trop facile : options différentes
+luxe-reve-133|R|T|doublon de luxe-reve-043 et 023
+luxe-reve-134|R|T|doublon de luxe-reve-034
+luxe-reve-135|R|T|doublon de luxe-reve-065 et 005
+luxe-reve-136|R|T|doublon de luxe-reve-056 et 016
+luxe-reve-137|R|T|doublon de luxe-reve-047 et 027
+luxe-reve-138|R|T|doublon de luxe-reve-038
+luxe-reve-139|R|T|doublon de luxe-reve-069 et 009
+luxe-reve-140|R|T|doublon de luxe-reve-060 et 020
+luxe-reve-141|R|T|doublon de luxe-reve-071 et 011
+luxe-reve-142|R|T|intrus trop facile : options différentes
+luxe-reve-143|R|T|mal formulée (ville… dans une ville chic), doublon de luxe-reve-053 et 033
+luxe-reve-144|R|T|doublon de luxe-reve-044
+luxe-reve-145|R|T|doublon de luxe-reve-075 et 015
+luxe-reve-146|R|T|doublon de luxe-reve-066 et 026
+luxe-reve-147|R|T|doublon de luxe-reve-057 et 037
+luxe-reve-148|R|T|doublon de luxe-reve-048
+luxe-reve-149|R|T|doublon de luxe-reve-079 et 019
+luxe-reve-150|R|T|doublon de luxe-reve-070 et 030
+luxe-reve-151|R|T|doublon de luxe-reve-081 et 021
+luxe-reve-152|R|T|intrus trop facile : options différentes
+luxe-reve-153|R|T|doublon de luxe-reve-063 et 043
+luxe-reve-154|R|T|doublon de luxe-reve-054
+luxe-reve-155|R|T|doublon de luxe-reve-085 et 025
+luxe-reve-156|R|A|doublon de luxe-reve-076 et 036, mal formulée
+luxe-reve-157|R|T|doublon de luxe-reve-067 et 047
+luxe-reve-158|R|T|doublon de luxe-reve-058
+luxe-reve-159|R|A|doublon de luxe-reve-089 et 029
+luxe-reve-160|R|A|doublon de luxe-reve-080 et 040
+luxe-reve-161|R|T|doublon de luxe-reve-091 et 031
+luxe-reve-162|R|T|intrus trop facile : options différentes
+luxe-reve-163|R|T|doublon de luxe-reve-073 et 053
+luxe-reve-164|R|T|doublon de luxe-reve-064
+luxe-reve-165|R|T|doublon de luxe-reve-095 et 035
+luxe-reve-166|R|T|doublon de luxe-reve-086 et 046
+luxe-reve-167|R|T|doublon de luxe-reve-077 et 057
+luxe-reve-168|R|T|doublon de luxe-reve-068
+luxe-reve-169|R|A|doublon de luxe-reve-099 et 039
+luxe-reve-170|R|A|doublon de luxe-reve-090 et 050
+luxe-reve-171|R|T|doublon de luxe-reve-101 et 041
+luxe-reve-172|R|T|intrus trop facile : options différentes
+luxe-reve-173|R|T|doublon de luxe-reve-083 et 063
+luxe-reve-174|R|T|doublon de luxe-reve-074
+luxe-reve-175|R|T|doublon de luxe-reve-105 et 045
+luxe-reve-176|R|T|doublon de luxe-reve-096 et 056
+luxe-reve-177|R|T|doublon de luxe-reve-087 et 067
+luxe-reve-178|R|A|doublon de luxe-reve-078
+luxe-reve-179|R|A|doublon de luxe-reve-109 et 049
+luxe-reve-180|R|T|doublon de luxe-reve-100 et 060
+luxe-reve-181|R|T|doublon de luxe-reve-111 et 051
+luxe-reve-182|R|T|intrus trop facile : options différentes
+luxe-reve-183|R|T|doublon de luxe-reve-093 et 073
+luxe-reve-184|R|T|doublon de luxe-reve-084
+luxe-reve-185|R|T|doublon de luxe-reve-115 et 055
+luxe-reve-186|R|T|doublon de luxe-reve-106 et 066
+luxe-reve-187|R|T|doublon de luxe-reve-097 et 077
+luxe-reve-188|R|A|doublon de luxe-reve-088
+luxe-reve-189|R|T|doublon de luxe-reve-119 et 059
+luxe-reve-190|R|T|doublon de luxe-reve-110 et 070
+luxe-reve-191|R|T|doublon de luxe-reve-121 et 061
+luxe-reve-192|R|T|intrus trop facile : options différentes
+luxe-reve-193|R|T|doublon de luxe-reve-103 et 083
+luxe-reve-194|R|T|doublon de luxe-reve-094
+luxe-reve-195|R|T|doublon de luxe-reve-125 et 065
+luxe-reve-196|R|A|doublon de luxe-reve-116 et 076
+luxe-reve-197|R|T|doublon de luxe-reve-107 et 087
+luxe-reve-198|R|T|doublon de luxe-reve-098
+luxe-reve-199|R|T|doublon de luxe-reve-129 et 069
+luxe-reve-200|R|T|doublon de luxe-reve-120 et 080
+beaute-apparence-001|R|T|intrus trop facile : ordres de grandeur différents
+beaute-apparence-002|G|T|
+beaute-apparence-003|R|T|intrus trop facile : ordres de grandeur différents
+beaute-apparence-004|G|T|
+beaute-apparence-005|G|T|
+beaute-apparence-006|G|T|
+beaute-apparence-007|G|T|
+beaute-apparence-008|G|T|
+beaute-apparence-009|G|T|
+beaute-apparence-010|G|T|
+beaute-apparence-011|G|T|
+beaute-apparence-012|R|T|doublon de beaute-apparence-003 et 001
+beaute-apparence-013|R|T|doublon de beaute-apparence-004 et 002
+beaute-apparence-014|R|T|doublon de beaute-apparence-005 et 003
+beaute-apparence-015|R|T|doublon de beaute-apparence-006 et 004
+beaute-apparence-016|R|T|doublon de beaute-apparence-007 et 005
+beaute-apparence-017|R|T|doublon de beaute-apparence-008 et 006
+beaute-apparence-018|R|T|doublon de beaute-apparence-009 et 007
+beaute-apparence-019|R|T|doublon de beaute-apparence-010 et 008
+beaute-apparence-020|R|T|doublon de beaute-apparence-011 et 009
+beaute-apparence-021|R|T|doublon de beaute-apparence-001
+beaute-apparence-022|R|T|doublon de beaute-apparence-002
+beaute-apparence-023|R|T|doublon de beaute-apparence-003
+beaute-apparence-024|R|T|doublon de beaute-apparence-004
+beaute-apparence-025|R|T|doublon de beaute-apparence-005
+beaute-apparence-026|G|T|
+beaute-apparence-027|G|T|
+beaute-apparence-028|G|T|
+beaute-apparence-029|G|T|
+beaute-apparence-030|G|T|
+beaute-apparence-031|G|T|
+beaute-apparence-032|G|T|
+beaute-apparence-033|G|T|
+beaute-apparence-034|G|T|
+beaute-apparence-035|G|T|
+beaute-apparence-036|G|T|
+beaute-apparence-037|R|T|doublon de beaute-apparence-028 et 026
+beaute-apparence-038|R|T|doublon de beaute-apparence-029 et 027
+beaute-apparence-039|R|T|doublon de beaute-apparence-030 et 028
+beaute-apparence-040|R|T|doublon de beaute-apparence-031 et 029
+beaute-apparence-041|R|T|doublon de beaute-apparence-032 et 030
+beaute-apparence-042|R|T|doublon de beaute-apparence-033 et 031
+beaute-apparence-043|R|T|doublon de beaute-apparence-034 et 032
+beaute-apparence-044|R|T|doublon de beaute-apparence-035 et 033
+beaute-apparence-045|R|T|doublon de beaute-apparence-036 et 034
+beaute-apparence-046|R|T|doublon de beaute-apparence-026
+beaute-apparence-047|R|T|doublon de beaute-apparence-027
+beaute-apparence-048|R|T|doublon de beaute-apparence-028
+beaute-apparence-049|R|T|doublon de beaute-apparence-029
+beaute-apparence-050|R|T|doublon de beaute-apparence-030
+beaute-apparence-051|G|A|
+beaute-apparence-052|G|T|
+beaute-apparence-053|G|T|
+beaute-apparence-054|G|T|
+beaute-apparence-055|G|T|
+beaute-apparence-056|G|T|
+beaute-apparence-057|G|T|
+beaute-apparence-058|G|T|
+beaute-apparence-059|G|A|
+beaute-apparence-060|G|T|
+beaute-apparence-061|G|T|
+beaute-apparence-062|R|A|doublon de beaute-apparence-053 et 051
+beaute-apparence-063|R|T|doublon de beaute-apparence-054 et 052
+beaute-apparence-064|R|T|doublon de beaute-apparence-055 et 053
+beaute-apparence-065|R|T|doublon de beaute-apparence-056 et 054
+beaute-apparence-066|R|T|doublon de beaute-apparence-057 et 055
+beaute-apparence-067|R|T|doublon de beaute-apparence-058 et 056
+beaute-apparence-068|R|T|doublon de beaute-apparence-059 et 057
+beaute-apparence-069|R|T|doublon de beaute-apparence-060 et 058
+beaute-apparence-070|R|A|doublon de beaute-apparence-061 et 059
+beaute-apparence-071|R|A|doublon de beaute-apparence-051
+beaute-apparence-072|R|T|doublon de beaute-apparence-052
+beaute-apparence-073|R|T|doublon de beaute-apparence-053
+beaute-apparence-074|R|T|doublon de beaute-apparence-054
+beaute-apparence-075|R|T|doublon de beaute-apparence-055
+beaute-apparence-076|R|T|intrus trop facile : options différentes
+beaute-apparence-077|R|T|intrus trop facile : options différentes
+beaute-apparence-078|R|T|intrus trop facile : options différentes
+beaute-apparence-079|R|T|intrus trop facile : options différentes
+beaute-apparence-080|R|T|intrus trop facile : options différentes
+beaute-apparence-081|R|T|intrus trop facile : options différentes
+beaute-apparence-082|R|T|intrus trop facile : options différentes
+beaute-apparence-083|R|T|intrus trop facile : options différentes
+beaute-apparence-084|R|T|intrus trop facile : options différentes
+beaute-apparence-085|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-086|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-087|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-088|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-089|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-090|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-091|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-092|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-093|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-094|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-095|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-096|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-097|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-098|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-099|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-100|R|T|intrus trop facile : options différentes, doublon
+beaute-apparence-101|G|T|
+beaute-apparence-102|G|T|
+beaute-apparence-103|G|A|
+beaute-apparence-104|G|T|
+beaute-apparence-105|G|T|
+beaute-apparence-106|G|T|
+beaute-apparence-107|G|T|
+beaute-apparence-108|G|A|
+beaute-apparence-109|G|T|
+beaute-apparence-110|G|T|
+beaute-apparence-111|G|T|
+beaute-apparence-112|R|A|doublon de beaute-apparence-103 et 101
+beaute-apparence-113|R|T|doublon de beaute-apparence-104 et 102

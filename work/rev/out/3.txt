@@ -298,3 +298,308 @@ boulot-328|G|A|
 boulot-342|G|A|
 boulot-343|G|A|
 boulot-345|G|A|
+boulot-349|G|A|
+boulot-352|G|T|
+boulot-353|G|A|
+boulot-354|G|A|
+boulot-363|G|A|
+boulot-364|G|A|
+boulot-393|G|A|
+boulot-401|G|A|
+boulot-408|G|A|
+boulot-430|G|T|
+boulot-433|G|T|
+boulot-445|G|A|
+boulot-452|G|A|
+boulot-470|G|A|
+boulot-472|G|A|
+boulot-487|G|T|
+boulot-506|G|T|
+boulot-507|G|T|
+boulot-510|G|T|
+boulot-511|G|T|
+boulot-512|G|T|
+boulot-527|G|T|
+boulot-534|G|T|
+boulot-557|G|A|
+boulot-561|G|A|
+boulot-562|G|T|
+boulot-564|G|T|
+boulot-578|G|A|
+boulot-582|G|T|
+boulot-583|G|A|
+boulot-605|G|A|
+boulot-613|G|T|
+boulot-614|G|A|
+boulot-615|G|T|
+boulot-616|G|A|
+boulot-617|G|A|
+boulot-618|G|A|
+boulot-619|R|T|A et B quasi identiques (prise de parole / présentation)
+boulot-620|R|T|ennuyeuse : occasion d'acheter du matériel informatique
+boulot-621|G|T|
+boulot-622|R|A|absurde : B sans rapport avec A
+boulot-623|G|A|
+boulot-624|R|A|ennuyeuse : classer ses dossiers
+boulot-625|R|A|absurde : relire une copie de pièce d'identité
+boulot-626|R|T|ennuyeuse : achat de matériel
+boulot-627|G|A|
+boulot-628|R|T|ennuyeuse : abonnement à un outil de productivité
+boulot-629|R|T|ennuyeuse et mal formulée (« en premier » en fin de phrase)
+boulot-630|R|A|trop vague : quelle serait ta priorité
+boulot-631|G|T|
+boulot-632|R|T|ennuyeuse et mal formulée (« en premier » en fin de phrase)
+boulot-633|R|A|doublon de boulot-627
+boulot-634|R|T|ennuyeuse : occasion d'acheter du matériel
+boulot-635|G|A|
+boulot-636|R|T|intrus trop facile : écart de prix énorme
+boulot-637|G|A|
+boulot-638|R|T|intrus trop facile : écart de prix énorme
+boulot-639|R|A|ennuyeuse : procédure, classement de dossiers
+boulot-640|R|T|doublon de boulot-636
+boulot-641|R|T|A et B quasi identiques (prise de parole / présentation)
+boulot-642|G|T|
+boulot-643|R|T|ennuyeuse : où trouver du matériel
+boulot-644|R|T|intrus trop facile : écart de prix énorme
+boulot-645|G|A|
+boulot-646|R|A|ennuyeuse : procédure, classement de dossiers
+boulot-647|R|A|ennuyeuse : procédure, classement de dossiers
+boulot-648|G|T|
+boulot-649|R|A|absurde : B sans rapport avec A
+boulot-650|R|A|absurde : relire une copie de pièce d'identité
+boulot-651|R|A|intrus trop facile : situation négative / positive
+boulot-652|G|A|
+boulot-653|G|A|
+boulot-654|R|T|ennuyeuse : achat de matériel
+boulot-655|G|A|
+boulot-656|R|T|mal formulée : phrase lourde (lampe LED à bras articulé réglable)
+boulot-657|G|A|
+boulot-658|R|T|ennuyeuse : où acheter du matériel
+boulot-659|R|A|doublon de boulot-652
+boulot-660|G|A|
+boulot-661|R|T|ennuyeuse : planning, installation d'ordinateur
+boulot-662|R|A|ennuyeuse : nouvelle procédure
+boulot-663|R|A|ennuyeuse : procédure, classement de dossiers
+boulot-664|G|A|
+boulot-665|R|T|doublon de boulot-638
+boulot-666|R|T|intrus trop facile : écart de prix énorme
+boulot-667|R|A|doublon de boulot-622, B sans rapport
+boulot-668|R|T|mal formulée : phrase lourde (lampe LED à bras articulé réglable)
+boulot-669|R|A|doublon de boulot-623
+boulot-670|G|A|
+boulot-671|G|A|
+boulot-672|R|T|trop vague : mallette de rangement
+boulot-673|G|A|
+boulot-674|R|A|ennuyeuse : boîte mail, réunion d'équipe
+boulot-675|R|T|mal formulée : phrase lourde (lampe LED à bras articulé réglable)
+boulot-676|R|A|ennuyeuse : achat d'écran ou d'agenda
+boulot-677|R|T|trop vague : quelle serait ta priorité
+boulot-678|R|A|ennuyeuse et mal formulée (« en premier » en fin de phrase)
+boulot-679|R|T|ennuyeuse : achat de fournitures
+boulot-680|R|T|doublon de boulot-648
+boulot-681|R|T|ennuyeuse : abonnement à un outil de productivité
+boulot-682|R|A|absurde : relire une copie de pièce d'identité
+boulot-683|R|T|intrus trop facile : écart de prix énorme
+boulot-684|R|A|trop vague : principale difficulté
+boulot-685|R|A|doublon de boulot-651, situation négative / positive
+boulot-686|R|T|doublon de boulot-683
+boulot-687|R|T|ennuyeuse : où acheter du matériel
+boulot-688|R|A|absurde : relire une copie de pièce d'identité
+boulot-689|R|T|ennuyeuse : organiser ses fichiers
+boulot-690|G|T|
+boulot-691|R|T|ennuyeuse : abonnement, mallette de rangement
+boulot-692|R|T|ennuyeuse et lourde
+boulot-693|R|A|doublon de boulot-657
+boulot-694|R|T|ennuyeuse : achat de matériel
+boulot-695|R|T|intrus trop facile : écart de prix énorme
+boulot-696|R|T|ennuyeuse : occasion d'acheter du matériel
+boulot-697|R|A|ennuyeuse : achat de matériel
+boulot-698|R|A|absurde : B sans rapport avec A
+boulot-699|G|T|
+boulot-700|R|T|ennuyeuse et lourde
+boulot-701|R|T|doublon de boulot-690
+boulot-702|R|T|ennuyeuse : organiser ses fichiers
+boulot-703|R|A|doublon de boulot-670
+boulot-704|R|T|ennuyeuse : achat de matériel
+boulot-705|R|T|doublon de boulot-621
+boulot-706|G|T|
+boulot-707|R|A|doublon de boulot-653
+boulot-708|R|T|ennuyeuse : mettre au propre des notes
+boulot-709|R|A|doublon de boulot-617
+boulot-710|R|A|intrus trop facile : situation positive / négative
+boulot-711|R|T|ennuyeuse : achat de matériel
+boulot-712|R|A|doublon de boulot-673
+boulot-713|R|A|ennuyeuse : classement de dossiers
+boulot-714|G|T|
+boulot-715|R|T|ennuyeuse et lourde
+boulot-716|R|T|ennuyeuse : créneau pour des tâches administratives
+boulot-717|R|T|trop vague : principale difficulté
+boulot-718|G|A|
+boulot-719|R|A|doublon de boulot-671
+boulot-720|R|A|ennuyeuse : nouvelle procédure
+boulot-721|G|T|
+boulot-722|R|T|doublon de boulot-721
+boulot-723|R|T|ennuyeuse : achat de matériel
+boulot-724|R|A|absurde : B sans rapport avec A
+boulot-725|R|A|absurde : détail à vérifier avant d'apprendre une procédure
+boulot-726|R|A|trop vague : quelle serait ta priorité
+boulot-727|R|T|ennuyeuse et lourde
+boulot-728|R|A|ennuyeuse : boîte mail chargée
+boulot-729|G|A|
+boulot-730|R|T|doublon de boulot-666
+boulot-731|R|T|doublon de boulot-706
+boulot-732|R|T|ennuyeuse : où chercher du matériel
+boulot-733|R|T|ennuyeuse : où trouver du matériel
+boulot-734|R|T|ennuyeuse : abonnement, mallette de rangement
+boulot-735|R|A|trop vague : quelle serait ta priorité
+boulot-736|R|A|intrus trop facile : situation négative / positive
+boulot-737|G|T|
+boulot-738|R|T|ennuyeuse et lourde
+boulot-739|R|T|ennuyeuse : planning, installation d'ordinateur
+boulot-740|G|A|
+boulot-741|G|T|
+boulot-742|G|T|
+boulot-743|R|T|ennuyeuse : où chercher du matériel
+boulot-744|R|A|ennuyeuse : CV, procédure
+boulot-745|G|A|
+boulot-746|R|T|ennuyeuse : mettre au propre des notes
+boulot-747|R|T|trop vague : point le plus important
+boulot-748|R|A|doublon de boulot-718
+boulot-749|R|T|ennuyeuse : où chercher des fournitures
+boulot-750|R|T|ennuyeuse : candidature, logiciel
+boulot-751|R|T|ennuyeuse : abonnement, mallette de rangement
+boulot-752|G|T|
+boulot-753|R|T|ennuyeuse : où trouver du matériel
+boulot-754|R|T|doublon de boulot-714
+boulot-755|R|T|ennuyeuse et lourde
+boulot-756|R|T|ennuyeuse et lourde
+boulot-757|R|A|absurde : relire une copie de pièce d'identité
+boulot-758|R|T|ennuyeuse : où trouver des fournitures
+boulot-759|R|A|ennuyeuse : boîte mail, réunion d'équipe
+boulot-760|R|T|doublon de boulot-742
+boulot-761|R|A|doublon de boulot-616
+boulot-762|R|A|absurde : relire une copie de pièce d'identité
+boulot-763|R|T|doublon de boulot-752
+boulot-764|R|A|absurde : B sans rapport avec A
+boulot-765|R|T|ennuyeuse : où acheter du matériel
+boulot-766|G|A|
+boulot-767|R|A|doublon de boulot-766
+boulot-768|G|A|
+boulot-769|R|T|doublon de boulot-737
+boulot-770|R|A|ennuyeuse : boîte mail, réunion d'équipe
+boulot-771|R|T|trop vague : mallette de rangement
+boulot-772|R|T|doublon de boulot-695
+boulot-773|R|A|intrus trop facile : situation positive / négative
+boulot-774|R|A|ennuyeuse : classement de dossiers, planning
+boulot-775|R|T|A et B quasi identiques (prise de parole / présentation)
+boulot-776|R|A|ennuyeuse : où chercher du matériel
+boulot-777|R|A|ennuyeuse : candidature, logiciel
+boulot-778|R|A|ennuyeuse : compte rendu
+boulot-779|R|T|ennuyeuse : achat de fournitures
+boulot-780|R|T|ennuyeuse : abonnement à un outil de productivité
+boulot-781|R|A|doublon de boulot-729
+boulot-782|R|A|doublon de boulot-740
+boulot-783|R|T|absurde : chercher un abonnement, ennuyeuse
+boulot-784|R|T|ennuyeuse : logiciel, fichiers numériques
+boulot-785|R|A|intrus trop facile : situation positive / négative
+boulot-786|R|A|trop vague : point le plus important
+boulot-787|R|A|ennuyeuse : boîte mail chargée
+boulot-788|R|A|doublon de boulot-645
+boulot-789|R|A|ennuyeuse : compte rendu
+boulot-790|R|T|ennuyeuse : logiciel, fichiers numériques
+boulot-791|R|T|ennuyeuse et lourde
+boulot-792|R|A|ennuyeuse : achat de matériel
+boulot-793|R|T|doublon de boulot-644
+boulot-794|R|T|ennuyeuse : logiciel, fichiers numériques
+boulot-795|R|A|absurde : relire une copie de pièce d'identité
+boulot-796|R|T|ennuyeuse et lourde
+boulot-797|R|T|absurde : où acheter un abonnement
+boulot-798|R|T|ennuyeuse : planning, installation d'ordinateur
+boulot-799|R|A|absurde : B sans rapport avec A
+boulot-800|R|A|ennuyeuse : candidature, logiciel
+boulot-801|R|A|absurde : B sans rapport avec A
+boulot-802|R|A|doublon de boulot-655
+boulot-803|R|T|trop vague : point le plus important
+boulot-804|R|T|trop vague : point le plus important
+boulot-805|R|T|A et B quasi identiques, trop vague
+boulot-806|R|T|ennuyeuse : créneau pour installer un ordinateur
+boulot-807|R|A|doublon de boulot-710, situation positive / négative
+boulot-808|R|A|trop vague : détail à vérifier
+boulot-809|R|A|doublon de boulot-635
+boulot-810|R|A|doublon de boulot-745
+boulot-811|R|T|trop vague : détail à vérifier
+boulot-812|R|A|absurde : relire une copie de pièce d'identité
+boulot-813|R|A|doublon de boulot-736, situation négative / positive
+boulot-814|R|T|ennuyeuse, presque doublon de boulot-699
+boulot-815|R|T|ennuyeuse : fichiers numériques
+ecole-etudes-001|G|T|
+ecole-etudes-002|G|T|
+ecole-etudes-003|G|T|
+ecole-etudes-004|G|T|
+ecole-etudes-005|G|T|
+ecole-etudes-006|G|T|
+ecole-etudes-007|G|T|
+ecole-etudes-008|G|T|
+ecole-etudes-009|G|T|
+ecole-etudes-010|G|T|
+ecole-etudes-011|G|T|
+ecole-etudes-012|G|T|
+ecole-etudes-013|G|T|
+ecole-etudes-014|G|T|
+ecole-etudes-015|G|T|
+ecole-etudes-016|G|T|
+ecole-etudes-017|G|T|
+ecole-etudes-018|G|T|
+ecole-etudes-019|G|T|
+ecole-etudes-020|G|T|
+ecole-etudes-021|R|T|doublon de ecole-etudes-001
+ecole-etudes-022|R|T|doublon de ecole-etudes-002
+ecole-etudes-023|R|T|doublon de ecole-etudes-003
+ecole-etudes-024|R|T|doublon de ecole-etudes-004
+ecole-etudes-025|R|T|doublon de ecole-etudes-005
+ecole-etudes-026|G|T|
+ecole-etudes-027|G|T|
+ecole-etudes-028|G|T|
+ecole-etudes-029|G|T|
+ecole-etudes-030|R|T|bizarre : retrouver un carnet avec les coordonnées d'un professeur
+ecole-etudes-031|G|T|
+ecole-etudes-032|G|T|
+ecole-etudes-033|G|T|
+ecole-etudes-034|G|T|
+ecole-etudes-035|G|T|
+ecole-etudes-036|G|T|
+ecole-etudes-037|G|T|
+ecole-etudes-038|G|T|
+ecole-etudes-039|R|T|bizarre : retrouver un carnet avec les coordonnées d'un professeur
+ecole-etudes-040|G|T|
+ecole-etudes-041|G|T|
+ecole-etudes-042|G|T|
+ecole-etudes-043|G|T|
+ecole-etudes-044|G|T|
+ecole-etudes-045|G|T|
+ecole-etudes-046|R|T|doublon de ecole-etudes-026
+ecole-etudes-047|R|T|doublon de ecole-etudes-027
+ecole-etudes-048|R|T|doublon de ecole-etudes-028
+ecole-etudes-049|R|T|doublon de ecole-etudes-029
+ecole-etudes-050|R|T|doublon de ecole-etudes-030
+ecole-etudes-051|R|T|intrus trop facile : options différentes
+ecole-etudes-052|R|T|intrus trop facile : options différentes
+ecole-etudes-053|R|T|intrus trop facile : options différentes
+ecole-etudes-054|R|T|intrus trop facile : options différentes
+ecole-etudes-055|R|T|intrus trop facile : options différentes
+ecole-etudes-056|R|T|intrus trop facile : options différentes
+ecole-etudes-057|R|T|intrus trop facile : options différentes
+ecole-etudes-058|R|T|intrus trop facile : options différentes
+ecole-etudes-059|R|T|intrus trop facile : options différentes
+ecole-etudes-060|R|T|intrus trop facile : options différentes
+ecole-etudes-061|R|T|intrus trop facile : options différentes
+ecole-etudes-062|R|T|intrus trop facile : options différentes
+ecole-etudes-063|R|T|intrus trop facile : options différentes
+ecole-etudes-064|R|T|intrus trop facile : options différentes
+ecole-etudes-065|R|T|intrus trop facile : options différentes
+ecole-etudes-066|R|T|intrus trop facile : options différentes
+ecole-etudes-067|R|T|intrus trop facile : options différentes
+ecole-etudes-068|R|T|intrus trop facile : options différentes
+ecole-etudes-069|R|T|intrus trop facile : options différentes
+ecole-etudes-070|R|T|intrus trop facile : options différentes
+ecole-etudes-071|R|T|intrus trop facile : options différentes

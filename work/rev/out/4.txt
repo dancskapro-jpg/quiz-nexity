@@ -197,3 +197,409 @@ enfance-762|R|T|intrus trop facile : situations sans rapport
 enfance-763|R|T|doublon de enfance-706
 enfance-764|R|T|absurde : moment évident
 enfance-765|R|T|doublon de enfance-713
+enfance-766|R|T|trop vague
+enfance-767|R|T|intrus trop facile : magasins différents
+enfance-768|R|T|doublon de enfance-710
+enfance-769|R|T|trop vague : même réponse (anniversaire)
+enfance-770|R|T|intrus trop facile : situations sans rapport
+enfance-771|R|T|bizarre : préparer une sortie de classe
+enfance-772|R|T|intrus trop facile : durées très différentes
+enfance-773|R|T|bizarre
+enfance-774|R|T|intrus trop facile : réactions opposées
+enfance-775|R|T|intrus trop facile : prix très différents
+enfance-776|R|T|trop vague
+enfance-777|R|T|doublon de enfance-715
+enfance-778|R|T|absurde
+enfance-779|R|T|intrus trop facile : réactions opposées
+enfance-780|R|T|intrus trop facile : situations sans rapport
+enfance-781|R|T|intrus trop facile : réactions opposées
+enfance-782|R|T|trop vague, doublon de enfance-718
+enfance-783|R|T|doublon de enfance-759
+enfance-784|R|T|bizarre
+enfance-785|R|T|bizarre
+enfance-786|R|T|intrus trop facile : prix très différents
+enfance-787|R|T|trop vague
+enfance-788|R|T|intrus trop facile : durées très différentes
+enfance-789|R|T|intrus trop facile : prix très différents
+enfance-790|R|T|intrus trop facile : situations sans rapport
+enfance-791|R|T|intrus trop facile : réactions opposées
+enfance-792|R|T|intrus trop facile : durées très différentes
+enfance-793|R|T|intrus trop facile : réactions opposées
+enfance-794|G|T|
+enfance-795|R|T|ennuyeuse
+enfance-796|R|T|quasi identiques : même réponse (la rentrée)
+enfance-797|R|T|intrus trop facile : prix très différents
+enfance-798|R|T|intrus trop facile : réactions opposées
+enfance-799|R|T|doublon de enfance-718
+enfance-800|R|T|doublon de enfance-710 / 708
+enfance-801|R|T|trop vague
+enfance-802|R|T|bizarre
+enfance-803|R|T|absurde
+enfance-804|R|T|intrus trop facile : réactions opposées
+enfance-805|R|T|trop vague
+enfance-806|G|T|
+enfance-807|R|T|intrus trop facile : prix très différents
+enfance-808|R|T|trop vague
+enfance-809|R|T|absurde
+enfance-810|R|T|trop vague
+enfance-811|R|T|absurde
+enfance-812|R|T|trop vague
+enfance-813|R|T|trop vague
+enfance-814|G|T|
+enfance-815|R|T|intrus trop facile : magasins différents
+enfance-816|R|T|intrus trop facile : situations sans rapport
+enfance-817|R|T|trop vague
+enfance-818|G|T|
+enfance-819|R|T|intrus trop facile : durées très différentes
+enfance-820|R|T|intrus trop facile : prix très différents
+enfance-821|R|T|bizarre
+enfance-822|G|T|
+enfance-823|R|T|trop vague
+enfance-824|R|T|intrus trop facile : situations sans rapport
+enfance-825|R|T|trop vague
+enfance-826|R|T|bizarre
+enfance-827|R|T|doublon de enfance-726
+enfance-828|R|T|intrus trop facile : magasins différents
+enfance-829|R|T|doublon de enfance-718 / 735
+enfance-830|R|T|bizarre
+enfance-831|R|T|bizarre
+enfance-832|R|T|bizarre : dessin caché
+enfance-833|R|T|doublon de enfance-759
+enfance-834|R|T|intrus trop facile : durées très différentes
+enfance-835|R|T|intrus trop facile : durées très différentes
+enfance-836|R|T|bizarre : dessin caché
+enfance-837|R|T|bizarre : dessin caché
+enfance-838|R|T|doublon de enfance-714
+enfance-839|R|T|intrus trop facile : réactions opposées
+enfance-840|R|T|intrus trop facile : magasins différents
+enfance-841|R|T|intrus trop facile : durées très différentes
+enfance-842|R|T|trop vague
+enfance-843|R|T|intrus trop facile : prix très différents
+enfance-844|R|T|bizarre
+enfance-845|G|T|
+enfance-846|R|T|intrus trop facile : réactions opposées
+enfance-847|R|T|intrus trop facile : réactions opposées
+enfance-848|R|T|doublon de enfance-820
+enfance-849|R|T|doublon de enfance-710
+enfance-850|R|T|bizarre
+enfance-851|R|T|bizarre
+enfance-852|R|T|doublon de enfance-757
+enfance-853|G|T|
+enfance-854|R|T|intrus trop facile : prix très différents
+enfance-855|R|T|bizarre
+enfance-856|R|T|bizarre
+enfance-857|R|T|intrus trop facile : moment évident pour le cartable
+enfance-858|R|T|doublon de enfance-716
+enfance-859|R|T|intrus trop facile : prix très différents
+enfance-860|R|T|bizarre : dessin caché
+enfance-861|R|T|doublon de enfance-729
+enfance-862|R|T|intrus trop facile : durées très différentes
+enfance-863|R|T|trop vague
+enfance-864|R|T|bizarre
+enfance-865|R|T|intrus trop facile : prix très différents
+enfance-866|R|T|trop vague
+enfance-867|R|T|intrus trop facile : magasins différents
+enfance-868|R|T|trop vague
+enfance-869|R|T|bizarre
+enfance-870|R|T|doublon de enfance-707
+enfance-871|R|T|trop vague
+enfance-872|R|T|absurde : tâches quotidiennes
+enfance-873|G|T|
+enfance-874|R|T|doublon de enfance-712
+enfance-875|R|T|trop vague
+enfance-876|R|T|intrus trop facile : situations sans rapport
+enfance-877|R|T|intrus trop facile : prix très différents
+enfance-878|R|T|bizarre
+enfance-879|R|T|intrus trop facile : durées très différentes
+enfance-880|R|T|doublon de enfance-853
+enfance-881|R|T|intrus trop facile : prix très différents
+enfance-882|R|T|intrus trop facile : magasins différents
+enfance-883|R|T|trop vague
+enfance-884|R|T|trop vague
+enfance-885|R|T|doublon de enfance-712
+enfance-886|R|T|intrus trop facile : situations sans rapport
+enfance-887|R|T|intrus trop facile : durées très différentes
+enfance-888|R|T|intrus trop facile : prix très différents
+enfance-889|R|T|intrus trop facile : prix très différents
+enfance-890|R|T|doublon de enfance-708
+enfance-891|R|T|doublon de enfance-718
+enfance-892|R|T|bizarre
+enfance-893|R|T|trop vague
+enfance-894|R|T|bizarre
+enfance-895|R|T|intrus trop facile : prix très différents
+enfance-896|R|T|intrus trop facile : situations sans rapport
+enfance-897|R|T|intrus trop facile : situations sans rapport
+enfance-898|R|T|doublon de enfance-822
+enfance-899|R|T|intrus trop facile : durées très différentes
+enfance-900|R|T|intrus trop facile : magasins différents
+enfance-901|R|T|trop vague
+enfance-902|R|T|trop vague
+enfance-903|R|T|doublon de enfance-873
+enfance-904|R|T|doublon de enfance-709
+enfance-905|R|T|bizarre
+dilemmes-703|G|T|
+dilemmes-704|R|A|intrus trop facile : options sans rapport
+dilemmes-705|R|T|trop vague
+dilemmes-706|R|T|bizarre
+dilemmes-707|R|T|trop vague
+dilemmes-708|R|T|bizarre
+dilemmes-709|R|T|ennuyeuse, options sans rapport
+dilemmes-710|R|T|intrus trop facile : situations sans rapport
+dilemmes-711|G|T|
+dilemmes-712|R|A|intrus trop facile : options sans rapport
+dilemmes-713|R|T|bizarre
+dilemmes-714|R|T|intrus trop facile : situations sans rapport
+dilemmes-715|R|T|trop vague
+dilemmes-716|R|T|intrus trop facile : situations sans rapport
+dilemmes-717|G|A|
+dilemmes-718|R|A|bizarre : options sans rapport
+dilemmes-719|R|T|trop vague
+dilemmes-720|R|T|trop vague
+dilemmes-721|G|T|
+dilemmes-722|R|T|trop vague
+dilemmes-723|R|T|intrus trop facile : options sans rapport
+dilemmes-724|R|T|intrus trop facile : situations sans rapport
+dilemmes-725|R|T|trop vague
+dilemmes-726|G|T|
+dilemmes-727|R|A|trop vague, options sans rapport
+dilemmes-728|R|T|intrus trop facile : lieux différents
+dilemmes-729|R|T|intrus trop facile : situations sans rapport
+dilemmes-730|R|T|intrus trop facile : situations sans rapport
+dilemmes-731|R|T|trop vague
+dilemmes-732|R|T|bizarre
+dilemmes-733|R|T|intrus trop facile : options sans rapport
+dilemmes-734|R|T|absurde
+dilemmes-735|R|T|trop vague
+dilemmes-736|G|T|
+dilemmes-737|R|T|trop vague
+dilemmes-738|R|T|trop vague
+dilemmes-739|R|T|trop vague
+dilemmes-740|R|T|bizarre
+dilemmes-741|G|T|
+dilemmes-742|R|T|intrus trop facile : sites différents
+dilemmes-743|R|T|bizarre
+dilemmes-744|R|T|intrus trop facile : prix très différents
+dilemmes-745|R|T|doublon de dilemmes-736
+dilemmes-746|R|T|trop vague
+dilemmes-747|R|A|intrus trop facile : options sans rapport
+dilemmes-748|R|T|bizarre
+dilemmes-749|R|T|trop vague
+dilemmes-750|R|T|trop vague
+dilemmes-751|R|T|trop vague
+dilemmes-752|R|T|trop vague
+dilemmes-753|R|T|intrus trop facile : prix très différents
+dilemmes-754|R|T|intrus trop facile : situations sans rapport
+dilemmes-755|R|T|intrus trop facile : prix très différents
+dilemmes-756|R|T|trop vague
+dilemmes-757|R|A|absurde
+dilemmes-758|R|T|intrus trop facile : prix très différents
+dilemmes-759|R|T|intrus trop facile : situations sans rapport
+dilemmes-760|R|A|trop vague
+dilemmes-761|R|A|doublon de dilemmes-718
+dilemmes-762|R|A|trop vague, options sans rapport
+dilemmes-763|R|T|intrus trop facile : situations sans rapport
+dilemmes-764|G|T|
+dilemmes-765|R|T|trop vague
+dilemmes-766|R|T|intrus trop facile : prix très différents
+dilemmes-767|R|T|bizarre
+dilemmes-768|R|T|trop vague
+dilemmes-769|R|T|trop vague
+dilemmes-770|R|T|intrus trop facile : situations sans rapport
+dilemmes-771|R|T|doublon de dilemmes-736
+dilemmes-772|R|T|trop vague
+dilemmes-773|R|A|intrus trop facile : options sans rapport
+dilemmes-774|R|T|mal formulée : « d’réserver »
+dilemmes-775|R|A|intrus trop facile : situations sans rapport
+dilemmes-776|R|T|intrus trop facile : durées très différentes
+dilemmes-777|R|A|intrus trop facile : situations sans rapport
+dilemmes-778|R|A|intrus trop facile : options sans rapport
+dilemmes-779|R|T|trop vague
+dilemmes-780|R|T|trop vague
+dilemmes-781|R|T|trop vague
+dilemmes-782|R|T|intrus trop facile : options sans rapport
+dilemmes-783|R|T|trop vague
+dilemmes-784|R|T|trop vague
+dilemmes-785|R|T|trop vague
+dilemmes-786|R|T|intrus trop facile : options sans rapport
+dilemmes-787|R|T|doublon de dilemmes-703
+dilemmes-788|R|T|trop vague
+dilemmes-789|R|T|trop vague, doublon de dilemmes-741
+dilemmes-790|R|T|intrus trop facile : options sans rapport
+dilemmes-791|R|T|doublon de dilemmes-764
+dilemmes-792|R|T|trop vague
+dilemmes-793|R|T|intrus trop facile : prix très différents
+dilemmes-794|R|T|intrus trop facile : situations sans rapport
+dilemmes-795|R|T|trop vague
+dilemmes-796|R|T|trop vague
+dilemmes-797|R|T|trop vague
+dilemmes-798|R|T|trop vague
+dilemmes-799|R|T|trop vague
+dilemmes-800|R|T|bizarre
+dilemmes-801|R|T|trop vague
+dilemmes-802|R|A|intrus trop facile : durées très différentes
+dilemmes-803|R|T|intrus trop facile : situations sans rapport
+dilemmes-804|R|T|intrus trop facile : prix très différents
+dilemmes-805|R|T|doublon de dilemmes-710
+dilemmes-806|R|T|intrus trop facile : prix très différents, ennuyeuse
+dilemmes-807|R|T|bizarre
+dilemmes-808|R|T|doublon de dilemmes-741
+dilemmes-809|R|T|doublon de dilemmes-741
+dilemmes-810|R|T|trop vague
+dilemmes-811|R|T|bizarre
+dilemmes-812|R|T|doublon de dilemmes-721
+dilemmes-813|R|A|absurde
+dilemmes-814|R|T|doublon de dilemmes-764
+dilemmes-815|R|T|doublon de dilemmes-764
+dilemmes-816|R|T|bizarre
+dilemmes-817|R|T|doublon de dilemmes-714
+dilemmes-818|R|T|bizarre
+dilemmes-819|R|A|intrus trop facile : prix très différents
+dilemmes-820|R|T|trop vague
+dilemmes-821|R|T|trop vague
+dilemmes-822|R|T|doublon de dilemmes-744
+dilemmes-823|R|T|trop vague
+dilemmes-824|R|T|trop vague
+dilemmes-825|R|T|intrus trop facile : options sans rapport
+dilemmes-826|R|T|bizarre
+dilemmes-827|R|A|intrus trop facile : situations sans rapport
+dilemmes-828|R|T|intrus trop facile : situations sans rapport
+dilemmes-829|G|T|
+dilemmes-830|R|T|trop vague
+dilemmes-831|R|T|trop vague
+dilemmes-832|R|T|doublon de dilemmes-726
+dilemmes-833|R|T|trop vague
+dilemmes-834|R|T|intrus trop facile : prix très différents
+dilemmes-835|R|T|intrus trop facile : situations sans rapport
+dilemmes-836|R|T|intrus trop facile : situations sans rapport
+dilemmes-837|R|T|intrus trop facile : situations sans rapport
+dilemmes-838|R|T|doublon de dilemmes-717
+dilemmes-839|R|T|intrus trop facile : prix très différents
+dilemmes-840|R|T|bizarre
+dilemmes-841|R|T|trop vague
+dilemmes-842|R|T|bizarre
+dilemmes-843|R|T|doublon de dilemmes-829
+dilemmes-844|R|T|bizarre
+dilemmes-845|R|T|trop vague
+dilemmes-846|R|T|intrus trop facile : situations sans rapport
+dilemmes-847|R|T|intrus trop facile : options sans rapport
+dilemmes-848|R|A|intrus trop facile : situations sans rapport
+dilemmes-849|R|T|bizarre
+dilemmes-850|R|T|trop vague
+dilemmes-851|R|A|trop vague, options sans rapport
+dilemmes-852|R|T|trop vague
+dilemmes-853|R|T|intrus trop facile : situations sans rapport
+dilemmes-854|R|T|doublon de dilemmes-806
+dilemmes-855|R|T|intrus trop facile : prix très différents
+dilemmes-856|R|A|intrus trop facile : options sans rapport
+dilemmes-857|R|A|doublon de dilemmes-717
+dilemmes-858|R|T|intrus trop facile : options sans rapport
+dilemmes-859|R|T|doublon de dilemmes-717
+dilemmes-860|R|A|intrus trop facile : prix très différents
+dilemmes-861|R|T|intrus trop facile : options sans rapport
+dilemmes-862|R|T|trop vague
+dilemmes-863|R|T|trop vague
+dilemmes-864|R|T|doublon de dilemmes-736
+dilemmes-865|R|T|intrus trop facile : options sans rapport
+dilemmes-866|R|T|doublon de dilemmes-764
+dilemmes-867|R|T|trop vague
+dilemmes-868|R|T|bizarre
+dilemmes-869|R|T|trop vague
+dilemmes-870|R|A|intrus trop facile : situations sans rapport
+dilemmes-871|R|A|doublon de dilemmes-717
+dilemmes-872|R|T|trop vague
+dilemmes-873|R|T|trop vague
+dilemmes-874|R|T|trop vague
+dilemmes-875|R|T|intrus trop facile : options sans rapport
+dilemmes-876|R|T|intrus trop facile : options sans rapport
+dilemmes-877|R|T|intrus trop facile : prix très différents
+dilemmes-878|R|T|intrus trop facile : situations sans rapport
+dilemmes-879|R|T|trop vague
+dilemmes-880|R|T|bizarre
+dilemmes-881|R|T|intrus trop facile : situations sans rapport
+dilemmes-882|R|A|absurde
+dilemmes-883|R|T|trop vague
+dilemmes-884|G|T|
+dilemmes-885|R|T|intrus trop facile : situations sans rapport
+dilemmes-886|R|T|doublon de dilemmes-884
+dilemmes-887|R|T|trop vague
+dilemmes-888|R|A|intrus trop facile : options sans rapport
+dilemmes-889|R|T|intrus trop facile : prix très différents
+dilemmes-890|R|T|trop vague
+dilemmes-891|R|T|intrus trop facile : situations sans rapport
+dilemmes-892|R|T|trop vague
+dilemmes-893|R|A|mal formulée : « d’souscrire »
+dilemmes-894|R|T|intrus trop facile : options sans rapport
+dilemmes-895|R|T|trop vague
+dilemmes-896|R|T|trop vague
+dilemmes-897|R|T|intrus trop facile : situations sans rapport
+dilemmes-898|R|T|trop vague
+dilemmes-899|R|T|intrus trop facile : situations sans rapport
+dilemmes-900|R|T|intrus trop facile : options sans rapport
+dilemmes-901|R|A|trop vague, options sans rapport
+dilemmes-902|R|A|intrus trop facile : options sans rapport
+miroir-597|G|T|
+miroir-598|R|T|quasi identiques
+miroir-599|G|T|
+miroir-600|R|T|trop vague, quasi identiques
+miroir-601|R|T|quasi identiques
+miroir-602|R|T|quasi identiques, ennuyeuse
+miroir-603|G|T|
+miroir-604|R|T|trop vague
+miroir-605|G|T|
+miroir-606|G|T|
+miroir-607|G|T|
+miroir-608|G|T|
+miroir-609|G|T|
+miroir-610|G|T|
+miroir-611|G|T|
+miroir-612|R|T|quasi identiques
+miroir-613|G|T|
+miroir-614|R|T|doublon de miroir-597
+miroir-615|R|T|absurde
+miroir-616|R|T|quasi identiques, doublon de miroir-610
+miroir-617|R|T|quasi identiques
+miroir-618|R|T|doublon de miroir-602
+miroir-619|G|T|
+miroir-620|R|T|trop vague, doublon de miroir-597
+miroir-621|G|T|
+miroir-622|R|T|quasi identiques
+miroir-623|R|T|doublon de miroir-621
+miroir-624|R|T|doublon de miroir-601
+miroir-625|R|T|doublon de miroir-610
+miroir-626|R|T|trop vague
+miroir-627|R|T|trop vague
+miroir-628|R|T|quasi identiques
+miroir-629|R|T|absurde
+miroir-630|G|A|
+miroir-631|R|T|doublon de miroir-610
+miroir-632|G|T|
+miroir-633|R|T|absurde
+miroir-634|R|T|quasi identiques
+miroir-635|R|T|trop vague, quasi identiques
+miroir-636|G|T|
+miroir-637|R|A|doublon de miroir-630
+miroir-638|R|T|trop vague, quasi identiques
+miroir-639|R|T|absurde
+miroir-640|R|T|doublon de miroir-601
+miroir-641|G|T|
+miroir-642|R|T|trop vague
+miroir-643|R|T|trop vague
+miroir-644|G|T|
+miroir-645|R|T|quasi identiques
+miroir-646|R|T|doublon de miroir-644
+miroir-647|R|T|absurde
+miroir-648|R|T|doublon de miroir-611
+miroir-649|R|T|trop vague
+miroir-650|G|T|
+miroir-651|R|T|trop vague
+miroir-652|R|T|doublon de miroir-613
+miroir-653|R|T|doublon de miroir-641
+miroir-654|R|T|absurde
+miroir-655|R|T|doublon de miroir-598
+miroir-656|R|T|absurde
+miroir-657|R|T|quasi identiques
+miroir-658|R|T|doublon de miroir-645
+miroir-659|R|T|doublon de miroir-644
+miroir-660|R|T|doublon de miroir-608
+miroir-661|R|T|quasi identiques
+miroir-662|G|T|

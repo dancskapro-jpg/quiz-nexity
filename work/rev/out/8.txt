@@ -298,3 +298,308 @@ transports-deplacements-085|R|T|intrus trop facile : options différentes
 transports-deplacements-086|R|A|intrus trop facile : options différentes
 transports-deplacements-087|R|A|intrus trop facile : options différentes
 transports-deplacements-088|R|A|intrus trop facile : options différentes
+transports-deplacements-089|R|A|intrus trop facile : options différentes
+transports-deplacements-090|R|T|intrus trop facile : options différentes
+transports-deplacements-091|R|T|intrus trop facile : options différentes
+transports-deplacements-092|R|A|intrus trop facile : options différentes
+transports-deplacements-093|R|T|intrus trop facile : options différentes
+transports-deplacements-094|R|T|intrus trop facile : options différentes
+transports-deplacements-095|R|A|intrus trop facile : options différentes
+transports-deplacements-096|R|T|intrus trop facile : options différentes
+transports-deplacements-097|R|T|intrus trop facile : options différentes
+transports-deplacements-098|R|A|doublon de transports-deplacements-078
+transports-deplacements-099|R|A|intrus trop facile : options différentes
+transports-deplacements-100|R|A|intrus trop facile : options différentes
+transports-deplacements-101|R|A|ennuyeuse : formulaire de réclamation
+transports-deplacements-102|R|A|bizarre : itinéraire avec poussette
+transports-deplacements-103|R|A|ennuyeuse : siège enfant
+transports-deplacements-104|R|A|intrus trop facile : durées sans rapport
+transports-deplacements-105|R|A|mal formulée : phrase confuse
+transports-deplacements-106|G|A|
+transports-deplacements-107|R|A|intrus trop facile : durées sans rapport
+transports-deplacements-108|R|A|ennuyeuse : pression des pneus
+transports-deplacements-109|G|T|
+transports-deplacements-110|R|T|ennuyeuse : formulaire de réclamation
+transports-deplacements-111|R|A|bizarre : itinéraire avec poussette
+transports-deplacements-112|R|A|ennuyeuse : siège enfant
+transports-deplacements-113|R|A|intrus trop facile : durées sans rapport
+transports-deplacements-114|R|T|mal formulée : phrase confuse
+transports-deplacements-115|R|T|ennuyeuse
+transports-deplacements-116|R|A|intrus trop facile : durées sans rapport
+transports-deplacements-117|R|A|ennuyeuse : pression des pneus
+transports-deplacements-118|R|T|doublon de transports-deplacements-109
+transports-deplacements-119|R|T|intrus trop facile : durées sans rapport
+transports-deplacements-120|R|T|intrus trop facile : durées sans rapport
+transports-deplacements-121|R|A|doublon de transports-deplacements-101
+transports-deplacements-122|R|A|doublon de transports-deplacements-102
+transports-deplacements-123|R|A|doublon de transports-deplacements-103
+transports-deplacements-124|R|A|doublon de transports-deplacements-104
+transports-deplacements-125|R|A|doublon de transports-deplacements-105
+transports-deplacements-126|R|A|mal formulée : conseil pour se renseigner
+transports-deplacements-127|R|T|mal formulée : avis pour signaler
+transports-deplacements-128|R|T|ennuyeuse
+transports-deplacements-129|R|A|mal formulée : conseil pour obtenir une aide
+transports-deplacements-130|R|T|trop vague
+transports-deplacements-131|R|T|ennuyeuse : service client
+transports-deplacements-132|R|A|ennuyeuse : démarche administrative
+transports-deplacements-133|R|A|mal formulée : avis pour signaler
+transports-deplacements-134|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-135|R|A|mal formulée : conseil pour demander de l'aide
+transports-deplacements-136|R|T|mal formulée : avis pour choisir un siège
+transports-deplacements-137|R|T|intrus trop facile : situations sans rapport
+transports-deplacements-138|R|A|mal formulée : conseil pour vérifier un contrat
+transports-deplacements-139|R|T|mal formulée : avis pour signaler
+transports-deplacements-140|R|T|ennuyeuse
+transports-deplacements-141|R|T|ennuyeuse : démarche administrative
+transports-deplacements-142|R|T|mal formulée : avis pour résoudre
+transports-deplacements-143|R|A|intrus trop facile : situations sans rapport
+transports-deplacements-144|R|A|mal formulée : conseil pour demander une assistance
+transports-deplacements-145|R|T|mal formulée : phrase lourde
+transports-deplacements-146|R|A|doublon de transports-deplacements-126
+transports-deplacements-147|R|T|doublon de transports-deplacements-127
+transports-deplacements-148|R|T|doublon de transports-deplacements-128
+transports-deplacements-149|R|A|doublon de transports-deplacements-129
+transports-deplacements-150|R|T|doublon de transports-deplacements-130
+transports-deplacements-151|R|A|intrus trop facile : lieux différents
+transports-deplacements-152|R|T|intrus trop facile : lieux différents
+transports-deplacements-153|R|A|intrus trop facile : lieux différents
+transports-deplacements-154|R|T|intrus trop facile : lieux différents
+transports-deplacements-155|R|T|bizarre : lieu pour vérifier un vélo
+transports-deplacements-156|R|A|intrus trop facile : lieux différents
+transports-deplacements-157|R|T|intrus trop facile : lieux différents
+transports-deplacements-158|G|T|
+transports-deplacements-159|R|A|intrus trop facile : lieux différents
+transports-deplacements-160|R|A|intrus trop facile : lieux différents
+transports-deplacements-161|R|T|intrus trop facile : lieux différents
+transports-deplacements-162|R|A|intrus trop facile : lieux différents
+transports-deplacements-163|R|T|intrus trop facile : lieux différents
+transports-deplacements-164|R|T|bizarre : lieu pour vérifier un vélo
+transports-deplacements-165|R|T|intrus trop facile : lieux différents
+transports-deplacements-166|R|T|intrus trop facile : lieux différents
+transports-deplacements-167|R|A|intrus trop facile : lieux différents
+transports-deplacements-168|R|A|intrus trop facile : lieux différents
+transports-deplacements-169|R|A|intrus trop facile : lieux différents
+transports-deplacements-170|R|T|intrus trop facile : lieux différents
+transports-deplacements-171|R|A|doublon de transports-deplacements-151
+transports-deplacements-172|R|T|doublon de transports-deplacements-152
+transports-deplacements-173|R|A|doublon de transports-deplacements-153
+transports-deplacements-174|R|T|doublon de transports-deplacements-154
+transports-deplacements-175|R|T|doublon de transports-deplacements-155
+transports-deplacements-176|R|T|intrus trop facile : objets différents
+transports-deplacements-177|R|T|A et B quasi identiques
+transports-deplacements-178|R|T|intrus trop facile : objets différents
+transports-deplacements-179|G|T|
+transports-deplacements-180|R|A|intrus trop facile : objets différents
+transports-deplacements-181|R|A|intrus trop facile : objets différents
+transports-deplacements-182|R|A|intrus trop facile : objets différents
+transports-deplacements-183|R|A|intrus trop facile : objets différents
+transports-deplacements-184|R|T|intrus trop facile : objets différents
+transports-deplacements-185|R|T|intrus trop facile : objets différents
+transports-deplacements-186|R|T|doublon de transports-deplacements-177
+transports-deplacements-187|R|T|intrus trop facile : objets différents
+transports-deplacements-188|R|T|doublon de transports-deplacements-179
+transports-deplacements-189|R|A|intrus trop facile : objets différents
+transports-deplacements-190|R|A|intrus trop facile : objets différents
+transports-deplacements-191|R|A|intrus trop facile : objets différents
+transports-deplacements-192|R|A|intrus trop facile : objets différents
+transports-deplacements-193|R|T|intrus trop facile : objets différents
+transports-deplacements-194|R|T|intrus trop facile : objets différents
+transports-deplacements-195|R|T|intrus trop facile : objets différents
+transports-deplacements-196|R|T|doublon de transports-deplacements-176
+transports-deplacements-197|R|T|doublon de transports-deplacements-177
+transports-deplacements-198|R|T|doublon de transports-deplacements-178
+transports-deplacements-199|R|T|doublon de transports-deplacements-179
+transports-deplacements-200|R|A|doublon de transports-deplacements-180
+ville-228|G|T|
+ville-231|G|T|
+ville-232|G|T|
+ville-243|G|T|
+ville-259|G|A|
+ville-313|G|T|
+ville-315|G|T|
+ville-327|G|A|
+ville-331|G|T|
+ville-333|R|T|intrus trop facile : prix sans rapport
+ville-334|R|T|intrus trop facile : prix sans rapport
+ville-335|R|T|absurde
+ville-336|R|T|absurde : acheter un trajet en taxi
+ville-337|R|T|A et B quasi identiques
+ville-338|R|T|intrus trop facile : lieux différents
+ville-339|G|T|
+ville-340|R|T|mal formulée
+ville-341|R|T|absurde
+ville-342|R|T|absurde
+ville-343|R|T|trop vague
+ville-344|R|A|trop vague
+ville-345|R|T|A et B quasi identiques
+ville-346|R|T|trop vague
+ville-347|R|T|intrus trop facile : situations sans rapport
+ville-348|R|T|trop vague
+ville-349|R|T|absurde
+ville-350|R|T|intrus trop facile : prix sans rapport
+ville-351|R|T|absurde
+ville-352|R|T|intrus trop facile : durées sans rapport
+ville-353|R|T|trop vague
+ville-354|R|T|doublon de transports-deplacements-026
+ville-355|R|T|absurde
+ville-356|R|T|A et B quasi identiques
+ville-357|R|T|trop vague
+ville-358|R|T|doublon de ville-354
+ville-359|G|T|
+ville-360|R|T|intrus trop facile : prix sans rapport
+ville-361|R|T|absurde
+ville-362|R|A|trop vague
+ville-363|R|T|absurde
+ville-364|G|T|
+ville-365|R|T|intrus trop facile : prix sans rapport
+ville-366|R|T|intrus trop facile : prix sans rapport
+ville-367|R|T|trop vague
+ville-368|R|T|doublon de ville-354
+ville-369|R|T|intrus trop facile : situations sans rapport
+ville-370|R|T|trop vague
+ville-371|R|T|absurde
+ville-372|G|A|
+ville-373|R|T|intrus trop facile : prix sans rapport
+ville-374|R|T|trop vague
+ville-375|R|T|intrus trop facile : réactions opposées
+ville-376|R|T|intrus trop facile : prix sans rapport
+ville-377|R|A|mal formulée : phrase lourde
+ville-378|R|T|absurde
+ville-379|R|T|intrus trop facile : situations sans rapport
+ville-380|R|T|doublon de ville-354
+ville-381|R|T|trop vague
+ville-382|R|T|doublon de ville-331
+ville-383|R|T|doublon de ville-333
+ville-384|R|T|doublon de ville-364
+ville-385|R|T|doublon de ville-359
+ville-386|R|T|intrus trop facile : réactions opposées
+ville-387|G|T|
+ville-388|R|T|mal formulée : phrase lourde
+ville-389|R|T|absurde
+ville-390|R|T|intrus trop facile : situations sans rapport
+ville-391|R|T|mal formulée : phrase lourde
+ville-392|R|T|absurde
+ville-393|R|T|trop vague
+ville-394|R|T|trop vague
+ville-395|G|T|
+ville-396|R|T|absurde
+ville-397|R|T|absurde
+ville-398|R|T|A et B quasi identiques
+ville-399|R|T|absurde
+ville-400|R|T|absurde
+ville-401|R|T|absurde
+ville-402|R|T|absurde
+ville-403|R|T|trop vague
+ville-404|R|T|trop vague
+ville-405|G|T|
+ville-406|R|T|trop vague
+ville-407|R|T|trop vague
+ville-408|R|T|intrus trop facile : prix sans rapport
+ville-409|R|T|absurde
+ville-410|R|T|doublon de ville-334
+ville-411|R|T|absurde
+ville-412|R|T|doublon de ville-365
+ville-413|G|T|
+ville-414|R|T|absurde
+ville-415|R|T|doublon de ville-405
+ville-416|R|T|doublon de ville-364
+ville-417|R|T|absurde
+ville-418|R|T|trop vague
+ville-419|G|T|
+ville-420|R|T|trop vague
+ville-421|R|T|intrus trop facile : situations sans rapport
+ville-422|R|T|trop vague
+ville-423|R|T|absurde
+ville-424|R|T|doublon de ville-413
+ville-425|R|A|mal formulée : phrase lourde
+ville-426|R|T|absurde
+ville-427|R|T|trop vague
+ville-428|R|T|absurde : à quel moment acheter
+ville-429|R|T|trop vague
+ville-430|R|T|intrus trop facile : prix sans rapport
+ville-431|R|T|A et B quasi identiques
+ville-432|R|T|intrus trop facile : situations sans rapport
+ville-433|R|T|trop vague
+ville-434|R|T|absurde
+ville-435|R|T|absurde : à quel moment acheter
+ville-436|R|T|trop vague
+ville-437|R|T|intrus trop facile : situations sans rapport
+ville-438|R|T|A et B quasi identiques
+ville-439|R|T|absurde
+ville-440|R|T|intrus trop facile : prix sans rapport
+ville-441|R|T|intrus trop facile : prix sans rapport
+ville-442|R|T|absurde
+ville-443|R|T|trop vague
+ville-444|R|T|absurde
+ville-445|R|T|intrus trop facile : prix sans rapport
+ville-446|R|T|doublon de ville-360
+ville-447|R|A|absurde
+ville-448|R|T|absurde
+ville-449|R|T|intrus trop facile : situations sans rapport
+ville-450|R|T|absurde
+ville-451|R|A|doublon de ville-372
+ville-452|R|T|absurde
+ville-453|R|T|doublon de ville-364
+ville-454|R|T|trop vague
+ville-455|R|T|absurde
+ville-456|R|T|mal formulée : phrase lourde
+ville-457|R|T|absurde
+ville-458|R|T|doublon de ville-386
+ville-459|R|T|absurde
+ville-460|R|A|absurde
+ville-461|R|T|trop vague
+ville-462|R|T|trop vague
+ville-463|R|T|A et B quasi identiques
+ville-464|R|T|doublon de ville-408
+ville-465|R|T|doublon de ville-366
+ville-466|R|T|intrus trop facile : prix sans rapport
+ville-467|R|T|trop vague
+ville-468|R|T|intrus trop facile : prix sans rapport
+ville-469|R|T|intrus trop facile : prix sans rapport
+ville-470|R|T|absurde
+ville-471|R|A|absurde
+ville-472|R|A|absurde
+ville-473|R|T|absurde
+ville-474|R|A|absurde
+ville-475|R|T|absurde
+ville-476|R|T|absurde
+ville-477|R|T|intrus trop facile : prix sans rapport
+ville-478|R|A|doublon de ville-425
+ville-479|R|T|ennuyeuse
+ville-480|R|A|absurde
+ville-481|R|T|trop vague
+ville-482|R|T|intrus trop facile : prix sans rapport
+ville-483|R|T|trop vague
+ville-484|R|T|absurde
+ville-485|R|T|trop vague
+ville-486|R|T|intrus trop facile : réactions opposées
+ville-487|R|T|absurde
+ville-488|R|T|doublon de ville-469
+ville-489|R|T|absurde
+ville-490|R|T|doublon de ville-466
+ville-491|R|T|absurde
+ville-492|R|T|trop vague
+ville-493|R|T|absurde : à quel moment acheter
+ville-494|R|T|doublon de ville-419
+ville-495|R|T|ennuyeuse
+ville-496|R|T|trop vague
+ville-497|R|T|doublon de ville-441
+ville-498|R|T|doublon de ville-339
+ville-499|R|T|trop vague
+ville-500|R|T|doublon de ville-379
+ville-501|R|T|trop vague
+ville-502|R|T|trop vague
+ville-503|R|T|doublon de ville-382
+ville-504|R|T|absurde
+ville-505|R|T|absurde : à quel moment acheter
+ville-506|R|T|absurde
+ville-507|R|T|absurde
+ville-508|R|T|ennuyeuse
+ville-509|R|T|doublon de ville-347
+ville-510|R|T|doublon de ville-486
+ville-511|R|A|absurde
+ville-512|R|A|absurde
+ville-513|R|T|absurde
+ville-514|R|T|trop vague
+ville-515|R|T|doublon de ville-387
+ville-516|R|A|absurde

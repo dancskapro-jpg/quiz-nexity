@@ -198,3 +198,408 @@ peurs-courage-115|R|T|doublon de peurs-courage-104
 peurs-courage-116|R|T|trop vague
 peurs-courage-117|R|T|trop vague
 peurs-courage-118|R|T|doublon de peurs-courage-109
+peurs-courage-119|R|T|absurde : envisager de traverser une passerelle
+peurs-courage-120|R|T|doublon de peurs-courage-109
+peurs-courage-121|R|T|doublon de peurs-courage-101
+peurs-courage-122|R|T|doublon de peurs-courage-102
+peurs-courage-123|R|T|doublon de peurs-courage-103
+peurs-courage-124|R|T|doublon de peurs-courage-104
+peurs-courage-125|R|T|doublon de peurs-courage-105
+peurs-courage-126|G|T|
+peurs-courage-127|G|T|
+peurs-courage-128|R|A|mal formulée, intrus trop facile
+peurs-courage-129|R|A|mal formulée : conseil pour avoir un conseil
+peurs-courage-130|G|T|
+peurs-courage-131|R|T|mal formulée
+peurs-courage-132|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-133|R|T|mal formulée : un avis pour demander des informations
+peurs-courage-134|R|A|intrus trop facile : sujets sans rapport
+peurs-courage-135|R|T|doublon de peurs-courage-126
+peurs-courage-136|R|T|doublon de peurs-courage-127
+peurs-courage-137|R|A|doublon de peurs-courage-126
+peurs-courage-138|R|T|doublon de peurs-courage-127
+peurs-courage-139|R|T|doublon de peurs-courage-130
+peurs-courage-140|R|A|mal formulée
+peurs-courage-141|R|T|doublon de peurs-courage-130
+peurs-courage-142|R|T|mal formulée : un avis pour obtenir un avis
+peurs-courage-143|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-144|G|T|
+peurs-courage-145|R|A|intrus trop facile : sujets sans rapport
+peurs-courage-146|R|T|doublon de peurs-courage-126
+peurs-courage-147|R|T|doublon de peurs-courage-127
+peurs-courage-148|R|A|doublon de peurs-courage-128
+peurs-courage-149|R|A|doublon de peurs-courage-129
+peurs-courage-150|R|T|doublon de peurs-courage-130
+peurs-courage-151|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-152|R|A|intrus trop facile : sujets sans rapport
+peurs-courage-153|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-154|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-155|R|T|A et B quasi identiques
+peurs-courage-156|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-157|G|T|
+peurs-courage-158|R|A|intrus trop facile : sujets sans rapport
+peurs-courage-159|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-160|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-161|R|A|intrus trop facile : sujets sans rapport
+peurs-courage-162|R|T|intrus trop facile : piscine contre salle d'escalade
+peurs-courage-163|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-164|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-165|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-166|R|T|doublon de peurs-courage-157
+peurs-courage-167|R|T|intrus trop facile : sujets sans rapport
+peurs-courage-168|R|T|doublon de peurs-courage-157
+peurs-courage-169|R|A|intrus trop facile : sujets sans rapport
+peurs-courage-170|R|T|trop vague
+peurs-courage-171|R|T|doublon de peurs-courage-151
+peurs-courage-172|R|A|doublon de peurs-courage-152
+peurs-courage-173|R|T|doublon de peurs-courage-153
+peurs-courage-174|R|T|doublon de peurs-courage-154
+peurs-courage-175|R|T|doublon de peurs-courage-155
+peurs-courage-176|R|T|intrus trop facile : situations sans rapport
+peurs-courage-177|R|T|intrus trop facile : situations sans rapport
+peurs-courage-178|G|T|
+peurs-courage-179|R|A|mal formulée : accords « angoissé », « intimidé »
+peurs-courage-180|R|T|intrus trop facile : situations sans rapport
+peurs-courage-181|R|T|intrus trop facile : situations sans rapport
+peurs-courage-182|R|T|mal formulée : « appréhend’une »
+peurs-courage-183|R|T|mal formulée : répétition « ami »
+peurs-courage-184|R|A|intrus trop facile : situations sans rapport
+peurs-courage-185|R|T|intrus trop facile : situations sans rapport
+peurs-courage-186|R|T|intrus trop facile : situations sans rapport
+peurs-courage-187|R|T|doublon de peurs-courage-178
+peurs-courage-188|R|A|mal formulée : accord « intimidé »
+peurs-courage-189|R|T|doublon de peurs-courage-178
+peurs-courage-190|G|T|
+peurs-courage-191|R|T|intrus trop facile : situations sans rapport
+peurs-courage-192|R|T|intrus trop facile : situations sans rapport
+peurs-courage-193|R|T|mal formulée : « appréhend’une »
+peurs-courage-194|R|T|intrus trop facile : situations sans rapport
+peurs-courage-195|R|A|intrus trop facile : situations sans rapport
+peurs-courage-196|R|T|doublon de peurs-courage-176
+peurs-courage-197|R|T|doublon de peurs-courage-177
+peurs-courage-198|R|T|doublon de peurs-courage-178
+peurs-courage-199|R|A|doublon de peurs-courage-190
+peurs-courage-200|R|T|doublon de peurs-courage-180
+psychologie-personnalite-001|R|A|intrus trop facile : situations sans rapport
+psychologie-personnalite-002|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-003|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-004|G|T|
+psychologie-personnalite-005|G|A|
+psychologie-personnalite-006|G|A|
+psychologie-personnalite-007|G|T|
+psychologie-personnalite-008|G|T|
+psychologie-personnalite-009|G|T|
+psychologie-personnalite-010|R|A|intrus trop facile : situations sans rapport
+psychologie-personnalite-011|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-012|R|A|intrus trop facile : situations sans rapport
+psychologie-personnalite-013|R|A|intrus trop facile : options différentes
+psychologie-personnalite-014|G|T|
+psychologie-personnalite-015|G|T|
+psychologie-personnalite-016|G|T|
+psychologie-personnalite-017|G|T|
+psychologie-personnalite-018|G|T|
+psychologie-personnalite-019|R|T|mal formulée : « que une »
+psychologie-personnalite-020|G|T|
+psychologie-personnalite-021|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-022|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-023|R|A|intrus trop facile : options différentes
+psychologie-personnalite-024|G|A|
+psychologie-personnalite-025|R|A|intrus trop facile : minutes contre semaines
+psychologie-personnalite-026|G|A|
+psychologie-personnalite-027|R|T|mal formulée : « quelqu’un… elle »
+psychologie-personnalite-028|G|T|
+psychologie-personnalite-029|R|T|mal formulée : « que une »
+psychologie-personnalite-030|G|T|
+psychologie-personnalite-031|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-032|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-033|R|T|intrus trop facile : options différentes
+psychologie-personnalite-034|G|T|
+psychologie-personnalite-035|R|A|intrus trop facile : minutes contre semaines
+psychologie-personnalite-036|G|T|
+psychologie-personnalite-037|G|T|
+psychologie-personnalite-038|R|A|intrus trop facile : situations sans rapport
+psychologie-personnalite-039|R|T|trop vague
+psychologie-personnalite-040|G|A|
+psychologie-personnalite-041|R|A|intrus trop facile : situations sans rapport
+psychologie-personnalite-042|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-043|R|T|intrus trop facile : options différentes
+psychologie-personnalite-044|G|T|
+psychologie-personnalite-045|G|T|
+psychologie-personnalite-046|G|T|
+psychologie-personnalite-047|G|T|
+psychologie-personnalite-048|G|T|
+psychologie-personnalite-049|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-050|G|T|
+psychologie-personnalite-051|R|A|intrus trop facile : situations sans rapport
+psychologie-personnalite-052|R|A|intrus trop facile : situations opposées
+psychologie-personnalite-053|R|T|intrus trop facile : options différentes
+psychologie-personnalite-054|G|T|
+psychologie-personnalite-055|G|T|
+psychologie-personnalite-056|G|T|
+psychologie-personnalite-057|R|T|mal formulée : phrase lourde
+psychologie-personnalite-058|G|T|
+psychologie-personnalite-059|R|T|mal formulée : « que un »
+psychologie-personnalite-060|G|A|
+psychologie-personnalite-061|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-062|G|T|
+psychologie-personnalite-063|R|A|intrus trop facile : options différentes
+psychologie-personnalite-064|G|T|
+psychologie-personnalite-065|G|T|
+psychologie-personnalite-066|G|A|
+psychologie-personnalite-067|G|T|
+psychologie-personnalite-068|G|T|
+psychologie-personnalite-069|R|A|mal formulée : « que un »
+psychologie-personnalite-070|G|T|
+psychologie-personnalite-071|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-072|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-073|R|T|intrus trop facile : options différentes
+psychologie-personnalite-074|G|T|
+psychologie-personnalite-075|R|A|doublon de psychologie-personnalite-005
+psychologie-personnalite-076|G|T|
+psychologie-personnalite-077|G|T|
+psychologie-personnalite-078|G|A|
+psychologie-personnalite-079|R|T|doublon de psychologie-personnalite-009
+psychologie-personnalite-080|G|T|
+psychologie-personnalite-081|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-082|G|T|
+psychologie-personnalite-083|R|T|intrus trop facile : options différentes
+psychologie-personnalite-084|G|T|
+psychologie-personnalite-085|R|T|doublon de psychologie-personnalite-015
+psychologie-personnalite-086|R|T|doublon de psychologie-personnalite-006
+psychologie-personnalite-087|G|T|
+psychologie-personnalite-088|G|T|
+psychologie-personnalite-089|R|T|mal formulée : « que une »
+psychologie-personnalite-090|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-091|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-092|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-093|R|T|intrus trop facile : options différentes
+psychologie-personnalite-094|G|A|
+psychologie-personnalite-095|G|A|
+psychologie-personnalite-096|R|T|doublon de psychologie-personnalite-016
+psychologie-personnalite-097|R|T|doublon de psychologie-personnalite-007
+psychologie-personnalite-098|G|T|
+psychologie-personnalite-099|R|T|mal formulée : « que une »
+psychologie-personnalite-100|R|A|doublon de psychologie-personnalite-020
+psychologie-personnalite-101|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-102|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-103|R|T|intrus trop facile : options différentes
+psychologie-personnalite-104|R|T|doublon de psychologie-personnalite-004
+psychologie-personnalite-105|R|A|intrus trop facile : durées d'échelles différentes
+psychologie-personnalite-106|R|A|doublon de psychologie-personnalite-026
+psychologie-personnalite-107|R|T|doublon de psychologie-personnalite-017
+psychologie-personnalite-108|R|T|doublon de psychologie-personnalite-008
+psychologie-personnalite-109|R|T|mal formulée : « que une »
+psychologie-personnalite-110|R|T|doublon de psychologie-personnalite-030
+psychologie-personnalite-111|R|A|intrus trop facile : types de réponse différents
+psychologie-personnalite-112|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-113|R|T|intrus trop facile : options différentes
+psychologie-personnalite-114|R|T|doublon de psychologie-personnalite-014
+psychologie-personnalite-115|R|T|doublon de psychologie-personnalite-045
+psychologie-personnalite-116|R|T|doublon de psychologie-personnalite-036
+psychologie-personnalite-117|R|T|doublon de psychologie-personnalite-007
+psychologie-personnalite-118|R|T|doublon de psychologie-personnalite-018
+psychologie-personnalite-119|R|T|trop vague
+psychologie-personnalite-120|R|A|doublon de psychologie-personnalite-040
+psychologie-personnalite-121|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-122|R|T|intrus trop facile : situations opposées
+psychologie-personnalite-123|R|T|intrus trop facile : options différentes
+psychologie-personnalite-124|R|A|doublon de psychologie-personnalite-024
+psychologie-personnalite-125|R|A|doublon de psychologie-personnalite-055
+psychologie-personnalite-126|R|A|doublon de psychologie-personnalite-046
+psychologie-personnalite-127|R|T|doublon de psychologie-personnalite-037
+psychologie-personnalite-128|R|T|doublon de psychologie-personnalite-028
+psychologie-personnalite-129|R|T|mal formulée : « que une »
+psychologie-personnalite-130|R|A|doublon de psychologie-personnalite-050
+psychologie-personnalite-131|R|A|intrus trop facile : types de réponse différents
+psychologie-personnalite-132|R|A|intrus trop facile : situations opposées
+psychologie-personnalite-133|R|A|intrus trop facile : options différentes
+psychologie-personnalite-134|R|T|doublon de psychologie-personnalite-034
+psychologie-personnalite-135|R|A|doublon de psychologie-personnalite-065
+psychologie-personnalite-136|R|T|doublon de psychologie-personnalite-056
+psychologie-personnalite-137|R|T|mal formulée (« heureuse »), doublon de psychologie-personnalite-047
+psychologie-personnalite-138|R|A|intrus trop facile : situations sans rapport
+psychologie-personnalite-139|R|A|mal formulée : « que un »
+psychologie-personnalite-140|R|T|doublon de psychologie-personnalite-060
+psychologie-personnalite-141|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-142|R|T|doublon de psychologie-personnalite-062
+psychologie-personnalite-143|R|T|intrus trop facile : options différentes
+psychologie-personnalite-144|R|T|doublon de psychologie-personnalite-044
+psychologie-personnalite-145|R|T|doublon de psychologie-personnalite-015
+psychologie-personnalite-146|R|A|doublon de psychologie-personnalite-066
+psychologie-personnalite-147|R|T|mal formulée : « attentive à une personne »
+psychologie-personnalite-148|R|T|doublon de psychologie-personnalite-048
+psychologie-personnalite-149|R|T|mal formulée : « que une »
+psychologie-personnalite-150|R|T|doublon de psychologie-personnalite-070
+psychologie-personnalite-151|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-152|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-153|R|A|intrus trop facile : options différentes
+psychologie-personnalite-154|R|T|doublon de psychologie-personnalite-054
+psychologie-personnalite-155|R|T|intrus trop facile : mois contre minutes
+psychologie-personnalite-156|R|T|doublon de psychologie-personnalite-076
+psychologie-personnalite-157|R|T|mal formulée (« impatiente »), doublon de psychologie-personnalite-067
+psychologie-personnalite-158|R|T|doublon de psychologie-personnalite-058
+psychologie-personnalite-159|R|T|mal formulée : « que une »
+psychologie-personnalite-160|R|T|doublon de psychologie-personnalite-080
+psychologie-personnalite-161|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-162|R|T|doublon de psychologie-personnalite-082
+psychologie-personnalite-163|R|T|intrus trop facile : options différentes
+psychologie-personnalite-164|R|T|doublon de psychologie-personnalite-064
+psychologie-personnalite-165|R|A|doublon de psychologie-personnalite-095
+psychologie-personnalite-166|R|T|doublon de psychologie-personnalite-046
+psychologie-personnalite-167|R|T|mal formulée (« polie »), doublon de psychologie-personnalite-077
+psychologie-personnalite-168|R|T|doublon de psychologie-personnalite-068
+psychologie-personnalite-169|R|T|trop vague
+psychologie-personnalite-170|R|T|doublon de psychologie-personnalite-050
+psychologie-personnalite-171|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-172|R|A|intrus trop facile : situations opposées
+psychologie-personnalite-173|R|T|intrus trop facile : options différentes
+psychologie-personnalite-174|R|T|doublon de psychologie-personnalite-074
+psychologie-personnalite-175|R|T|doublon de psychologie-personnalite-045
+psychologie-personnalite-176|R|T|doublon de psychologie-personnalite-056
+psychologie-personnalite-177|R|T|doublon de psychologie-personnalite-087
+psychologie-personnalite-178|R|A|doublon de psychologie-personnalite-078
+psychologie-personnalite-179|R|T|mal formulée : « que une »
+psychologie-personnalite-180|R|A|doublon de psychologie-personnalite-060
+psychologie-personnalite-181|R|A|intrus trop facile : types de réponse différents
+psychologie-personnalite-182|R|T|intrus trop facile : situations sans rapport
+psychologie-personnalite-183|R|T|intrus trop facile : options différentes
+psychologie-personnalite-184|R|T|doublon de psychologie-personnalite-084
+psychologie-personnalite-185|R|T|doublon de psychologie-personnalite-055
+psychologie-personnalite-186|R|T|doublon de psychologie-personnalite-066
+psychologie-personnalite-187|R|T|mal formulée (« fatiguée »), doublon de psychologie-personnalite-077
+psychologie-personnalite-188|R|T|doublon de psychologie-personnalite-088
+psychologie-personnalite-189|R|T|mal formulée : « que un »
+psychologie-personnalite-190|R|T|doublon de psychologie-personnalite-070
+psychologie-personnalite-191|R|T|intrus trop facile : types de réponse différents
+psychologie-personnalite-192|R|T|intrus trop facile : situations opposées
+psychologie-personnalite-193|R|T|intrus trop facile : options différentes
+psychologie-personnalite-194|R|A|doublon de psychologie-personnalite-094
+psychologie-personnalite-195|R|A|doublon de psychologie-personnalite-065
+psychologie-personnalite-196|R|T|doublon de psychologie-personnalite-076
+psychologie-personnalite-197|R|T|doublon de psychologie-personnalite-087
+psychologie-personnalite-198|R|T|doublon de psychologie-personnalite-098
+psychologie-personnalite-199|R|T|mal formulée : « que une »
+psychologie-personnalite-200|R|T|doublon de psychologie-personnalite-080
+imaginaire-029|G|T|
+imaginaire-332|R|T|trop vague
+imaginaire-333|R|T|intrus trop facile : prix d'échelles différentes
+imaginaire-334|R|T|absurde : aide pour une journée libre
+imaginaire-335|R|T|trop vague
+imaginaire-336|R|T|intrus trop facile : prix d'échelles différentes
+imaginaire-337|R|T|trop vague
+imaginaire-338|R|T|mal formulée : concordance des temps
+imaginaire-339|R|T|trop vague
+imaginaire-340|R|T|trop vague
+imaginaire-341|R|T|intrus trop facile : situations différentes
+imaginaire-342|G|T|
+imaginaire-343|R|T|intrus trop facile : prix d'échelles différentes
+imaginaire-344|R|T|intrus trop facile : prix d'échelles différentes
+imaginaire-345|G|T|
+imaginaire-346|R|T|doublon de imaginaire-342
+imaginaire-347|R|T|trop vague
+imaginaire-348|R|T|absurde : acheter une bibliothèque sur mesure
+imaginaire-349|R|T|trop vague
+imaginaire-350|R|T|absurde : trouver un jardin aménagé pour lire
+imaginaire-351|R|A|intrus trop facile : sujets d'échelles différentes
+imaginaire-352|R|T|intrus trop facile : prix d'échelles différentes
+imaginaire-353|R|T|trop vague
+imaginaire-354|R|T|trop vague
+imaginaire-355|R|T|trop vague
+imaginaire-356|R|T|absurde : budget pour un jardin aménagé pour lire
+imaginaire-357|R|T|mal formulée : concordance des temps
+imaginaire-358|R|T|mal formulée : concordance des temps
+imaginaire-359|G|T|
+imaginaire-360|R|T|doublon de imaginaire-359
+imaginaire-361|R|T|intrus trop facile : sujets sans rapport
+imaginaire-362|R|T|trop vague
+imaginaire-363|R|T|trop vague
+imaginaire-364|R|T|trop vague
+imaginaire-365|R|T|mal formulée : concordance des temps
+imaginaire-366|R|T|trop vague
+imaginaire-367|R|T|absurde : trouver un dîner à un endroit
+imaginaire-368|R|T|intrus trop facile : prix d'échelles différentes
+imaginaire-369|R|T|absurde : prix d'un jardin pour lire
+imaginaire-370|R|A|mal formulée : concordance des temps
+imaginaire-371|R|T|mal formulée : concordance des temps
+imaginaire-372|R|T|trop vague
+imaginaire-373|R|T|absurde
+imaginaire-374|R|T|absurde : acheter un jardin aménagé pour lire
+imaginaire-375|R|T|trop vague
+imaginaire-376|R|T|doublon de imaginaire-359
+imaginaire-377|R|T|doublon de imaginaire-345
+imaginaire-378|R|T|mal formulée : concordance des temps
+imaginaire-379|R|T|absurde : occasion pour un abonnement cinéma
+imaginaire-380|R|T|trop vague
+imaginaire-381|R|A|trop vague
+imaginaire-382|G|T|
+imaginaire-383|R|T|absurde
+imaginaire-384|R|T|absurde
+imaginaire-385|R|T|absurde
+imaginaire-386|R|T|trop vague
+imaginaire-387|R|T|doublon de imaginaire-342
+imaginaire-388|R|T|doublon de imaginaire-382
+imaginaire-389|R|T|mal formulée : concordance des temps
+imaginaire-390|R|T|absurde
+imaginaire-391|R|T|doublon de imaginaire-342
+imaginaire-392|R|T|doublon de imaginaire-359
+imaginaire-393|R|T|trop vague
+imaginaire-394|R|A|mal formulée : concordance des temps
+imaginaire-395|R|T|absurde : acheter un concert privé
+imaginaire-396|G|T|
+imaginaire-397|R|T|doublon de imaginaire-359
+imaginaire-398|R|T|absurde : acheter un concert privé
+imaginaire-399|R|T|mal formulée : concordance des temps
+imaginaire-400|R|T|trop vague
+imaginaire-401|R|T|trop vague
+imaginaire-402|R|T|mal formulée : concordance des temps
+imaginaire-403|R|T|absurde
+imaginaire-404|R|T|absurde
+imaginaire-405|R|T|mal formulée : concordance des temps
+imaginaire-406|R|T|trop vague
+imaginaire-407|R|T|doublon de imaginaire-433
+imaginaire-408|R|T|mal formulée : concordance des temps
+imaginaire-409|R|T|mal formulée : concordance des temps
+imaginaire-410|R|T|absurde : prix d'un jardin pour lire
+imaginaire-411|R|T|absurde
+imaginaire-412|R|T|doublon de imaginaire-433
+imaginaire-413|R|T|trop vague
+imaginaire-414|R|T|absurde : acheter un concert privé
+imaginaire-415|R|T|mal formulée : concordance des temps
+imaginaire-416|R|T|mal formulée : concordance des temps
+imaginaire-417|R|T|doublon de imaginaire-345
+imaginaire-418|R|T|trop vague
+imaginaire-419|R|A|absurde : réponse donnée dans la question
+imaginaire-420|R|T|doublon de imaginaire-396
+imaginaire-421|R|T|trop vague
+imaginaire-422|R|T|absurde : acheter un concert privé
+imaginaire-423|R|T|doublon de imaginaire-342
+imaginaire-424|R|T|intrus trop facile : prix d'échelles différentes
+imaginaire-425|R|A|trop vague
+imaginaire-426|R|A|trop vague
+imaginaire-427|R|T|absurde
+imaginaire-428|R|T|mal formulée : concordance des temps
+imaginaire-429|R|T|trop vague
+imaginaire-430|R|T|doublon de imaginaire-433
+imaginaire-431|R|T|absurde
+imaginaire-432|R|T|mal formulée : concordance des temps
+imaginaire-433|G|T|
+imaginaire-434|R|T|mal formulée : concordance des temps
+imaginaire-435|R|A|trop vague
+imaginaire-436|R|T|trop vague
+imaginaire-437|R|A|mal formulée : concordance des temps
+imaginaire-438|R|T|mal formulée : concordance des temps
+imaginaire-439|R|T|mal formulée : concordance des temps
+imaginaire-440|R|T|mal formulée : concordance des temps
+imaginaire-441|R|T|trop vague
+imaginaire-442|R|T|mal formulée : concordance des temps
+imaginaire-443|R|T|absurde
+imaginaire-444|R|T|trop vague
+imaginaire-445|R|T|trop vague
+imaginaire-446|R|T|doublon de imaginaire-433
+imaginaire-447|R|T|doublon de imaginaire-359
+imaginaire-448|R|T|mal formulée : concordance des temps
+imaginaire-449|R|A|intrus trop facile : prix d'échelles différentes
+imaginaire-450|R|A|trop vague
+imaginaire-451|R|A|absurde : occasion pour acheter une maison
+imaginaire-452|R|T|absurde
+imaginaire-453|R|T|absurde
