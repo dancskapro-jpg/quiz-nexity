@@ -36,13 +36,13 @@
   "nostalgie": "famille",
   "vie-adulte-admin": "maison",
   "galeres-debrouille": "maison",
-  "voisins-societe": "maison",
+  "voisins-societe": "quotidien",
   "luxe-reve": "argent-shopping",
   "mariages-occasions": "amour-couple",
   "peurs-courage": "psychologie-personnalite",
-  "mensonges-excuses": "psychologie-personnalite",
   "cadeaux-surprises": "fetes",
-  "dilemmes": "imaginaire"
+  "dilemmes": "imaginaire",
+  "maison": "quotidien"
  },
  "titles": {
   "soiree": {
@@ -258,31 +258,31 @@
   "maison": {
    "fr": [
     "Vie d’adulte",
-    "Maison, papiers, voisins et galères du quotidien."
+    "Papiers, démarches et galères du quotidien."
    ],
    "en": [
     "Grown-up Life",
-    "Home, paperwork, neighbours and everyday hassles."
+    "Paperwork, admin and everyday hassles."
    ],
    "es": [
     "Vida adulta",
-    "Casa, papeleo, vecinos y apuros del día a día."
+    "Papeleo, trámites y apuros del día a día."
    ],
    "it": [
     "Vita da adulti",
-    "Casa, burocrazia, vicini e guai quotidiani."
+    "Burocrazia, pratiche e guai quotidiani."
    ],
    "de": [
     "Erwachsenenleben",
-    "Zuhause, Papierkram, Nachbarn und Alltagspannen."
+    "Papierkram, Behördengänge und Alltagspannen."
    ],
    "pt": [
     "Vida adulta",
-    "Casa, burocracia, vizinhos e perrengues do dia a dia."
+    "Burocracia, papelada e perrengues do dia a dia."
    ],
    "nl": [
     "Volwassen leven",
-    "Huis, papierwerk, buren en dagelijkse pech."
+    "Papierwerk, regelzaken en dagelijkse pech."
    ]
   },
   "argent-shopping": {
@@ -348,31 +348,31 @@
   "psychologie-personnalite": {
    "fr": [
     "Psycho & Personnalité",
-    "Manies, peurs et petits mensonges."
+    "Manies, peurs et traits de caractère."
    ],
    "en": [
     "Psychology & Personality",
-    "Quirks, fears and little white lies."
+    "Quirks, fears and personality traits."
    ],
    "es": [
     "Psicología y personalidad",
-    "Manías, miedos y mentirijillas."
+    "Manías, miedos y rasgos de carácter."
    ],
    "it": [
     "Psicologia e personalità",
-    "Manie, paure e piccole bugie."
+    "Manie, paure e tratti del carattere."
    ],
    "de": [
     "Psyche & Persönlichkeit",
-    "Macken, Ängste und kleine Notlügen."
+    "Macken, Ängste und Charakterzüge."
    ],
    "pt": [
     "Psicologia e personalidade",
-    "Manias, medos e mentirinhas."
+    "Manias, medos e traços de personalidade."
    ],
    "nl": [
     "Psyche & persoonlijkheid",
-    "Eigenaardigheden, angsten en leugentjes."
+    "Eigenaardigheden, angsten en karaktertrekken."
    ]
   },
   "fetes": {
@@ -487,7 +487,8 @@
   "boulot": "adultes",
   "maison": "adultes",
   "amour-couple": "adultes",
-  "spicy": "adultes"
+  "spicy": "adultes",
+  "mensonges-excuses": "potes"
  },
  "lots": [
   {
@@ -496,31 +497,31 @@
    "price": "4,99 €",
    "fr": [
     "Lot En famille",
-    "Les 7 packs à jouer en famille, ados compris."
+    "Tous les packs à jouer en famille, ados compris, et les thèmes à venir."
    ],
    "en": [
     "Family Bundle",
-    "The 7 packs to play as a family, teens included."
+    "All the packs to play as a family, teens included, plus the themes to come."
    ],
    "es": [
     "Lote En familia",
-    "Los 7 packs para jugar en familia, adolescentes incluidos."
+    "Todos los packs para jugar en familia, adolescentes incluidos, y los próximos temas."
    ],
    "it": [
     "Pacchetto In famiglia",
-    "I 7 pack da giocare in famiglia, ragazzi compresi."
+    "Tutti i pack da giocare in famiglia, ragazzi compresi, e i temi in arrivo."
    ],
    "de": [
     "Familien-Paket",
-    "Die 7 Packs für die ganze Familie, Teenager inklusive."
+    "Alle Packs für die ganze Familie, Teenager inklusive, plus die kommenden Themen."
    ],
    "pt": [
     "Pacote Em família",
-    "Os 7 pacotes para jogar em família, adolescentes incluídos."
+    "Todos os pacotes para jogar em família, adolescentes incluídos, e os próximos temas."
    ],
    "nl": [
     "Gezinsbundel",
-    "De 7 packs om met het gezin te spelen, tieners inbegrepen."
+    "Alle packs om met het gezin te spelen, tieners inbegrepen, plus de komende thema's."
    ]
   },
   {
@@ -529,31 +530,31 @@
    "price": "4,99 €",
    "fr": [
     "Lot Entre potes",
-    "Les 9 packs pour les soirées entre potes."
+    "Tous les packs pour les soirées entre potes, et les thèmes à venir."
    ],
    "en": [
     "Friends Bundle",
-    "The 9 packs for nights in with friends."
+    "All the packs for nights in with friends, plus the themes to come."
    ],
    "es": [
     "Lote Entre amigos",
-    "Los 9 packs para las noches entre amigos."
+    "Todos los packs para las noches entre amigos y los próximos temas."
    ],
    "it": [
     "Pacchetto Tra amici",
-    "I 9 pack per le serate tra amici."
+    "Tutti i pack per le serate tra amici e i temi in arrivo."
    ],
    "de": [
     "Freunde-Paket",
-    "Die 9 Packs für Abende mit Freunden."
+    "Alle Packs für Abende mit Freunden, plus die kommenden Themen."
    ],
    "pt": [
     "Pacote Entre amigos",
-    "Os 9 pacotes para as noites entre amigos."
+    "Todos os pacotes para as noites entre amigos e os próximos temas."
    ],
    "nl": [
     "Vriendenbundel",
-    "De 9 packs voor avonden met vrienden."
+    "Alle packs voor avonden met vrienden, plus de komende thema's."
    ]
   },
   {

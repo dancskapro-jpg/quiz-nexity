@@ -895,6 +895,262 @@
     "Cancelcultuur",
     "Antwoorden die eindeloze discussies starten."
    ]
+  },
+  {
+   "id": "quotidien",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#0F9D8A",
+   "title": "Maison & Quotidien",
+   "description": "Déco, ménage, objets, habitudes et voisinage.",
+   "en": [
+    "Home & Everyday Life",
+    "Decor, chores, objects, habits and neighbours."
+   ],
+   "es": [
+    "Casa y día a día",
+    "Decoración, limpieza, objetos, hábitos y vecinos."
+   ],
+   "it": [
+    "Casa e quotidiano",
+    "Arredamento, pulizie, oggetti, abitudini e vicinato."
+   ],
+   "de": [
+    "Zuhause & Alltag",
+    "Deko, Haushalt, Gegenstände, Gewohnheiten und Nachbarschaft."
+   ],
+   "pt": [
+    "Casa e dia a dia",
+    "Decoração, faxina, objetos, hábitos e vizinhança."
+   ],
+   "nl": [
+    "Huis & dagelijks leven",
+    "Inrichting, huishouden, spullen, gewoontes en buren."
+   ]
+  },
+  {
+   "id": "marques",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#E8590C",
+   "title": "Marques & Consommation",
+   "description": "Produits, magasins, pubs et achats.",
+   "en": [
+    "Brands & Shopping",
+    "Products, shops, ads and purchases."
+   ],
+   "es": [
+    "Marcas y consumo",
+    "Productos, tiendas, anuncios y compras."
+   ],
+   "it": [
+    "Marchi e consumi",
+    "Prodotti, negozi, pubblicità e acquisti."
+   ],
+   "de": [
+    "Marken & Konsum",
+    "Produkte, Läden, Werbung und Einkäufe."
+   ],
+   "pt": [
+    "Marcas e consumo",
+    "Produtos, lojas, propagandas e compras."
+   ],
+   "nl": [
+    "Merken & consumptie",
+    "Producten, winkels, reclames en aankopen."
+   ]
+  },
+  {
+   "id": "sorties",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#7C3AED",
+   "title": "Sorties & Divertissements",
+   "description": "Parcs d’attractions, spectacles, festivals et activités.",
+   "en": [
+    "Outings & Entertainment",
+    "Theme parks, shows, festivals and activities."
+   ],
+   "es": [
+    "Salidas y ocio",
+    "Parques de atracciones, espectáculos, festivales y actividades."
+   ],
+   "it": [
+    "Uscite e divertimenti",
+    "Parchi divertimento, spettacoli, festival e attività."
+   ],
+   "de": [
+    "Ausflüge & Unterhaltung",
+    "Freizeitparks, Shows, Festivals und Aktivitäten."
+   ],
+   "pt": [
+    "Passeios e diversão",
+    "Parques de diversão, shows, festivais e atividades."
+   ],
+   "nl": [
+    "Uitjes & vermaak",
+    "Pretparken, shows, festivals en activiteiten."
+   ]
+  },
+  {
+   "id": "qui-piece",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#E11D74",
+   "title": "Qui dans la pièce ?",
+   "description": "Les réponses sont les joueurs autour de la table.",
+   "en": [
+    "Who in the Room?",
+    "The answers are the players around the table."
+   ],
+   "es": [
+    "¿Quién de la sala?",
+    "Las respuestas son los jugadores de la mesa."
+   ],
+   "it": [
+    "Chi nella stanza?",
+    "Le risposte sono i giocatori attorno al tavolo."
+   ],
+   "de": [
+    "Wer im Raum?",
+    "Die Antworten sind die Leute am Tisch."
+   ],
+   "pt": [
+    "Quem na sala?",
+    "As respostas são os jogadores em volta da mesa."
+   ],
+   "nl": [
+    "Wie in de kamer?",
+    "De antwoorden zijn de spelers rond de tafel."
+   ]
+  },
+  {
+   "id": "mauvaise-reponse",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#DC2626",
+   "title": "Mauvaise réponse uniquement",
+   "description": "Interdit de bien répondre : on répond volontairement à côté.",
+   "en": [
+    "Wrong Answers Only",
+    "No right answers allowed: answer badly on purpose."
+   ],
+   "es": [
+    "Solo respuestas malas",
+    "Prohibido acertar: se responde mal a propósito."
+   ],
+   "it": [
+    "Solo risposte sbagliate",
+    "Vietato rispondere bene: si sbaglia apposta."
+   ],
+   "de": [
+    "Nur falsche Antworten",
+    "Richtig antworten verboten: absichtlich daneben."
+   ],
+   "pt": [
+    "Só respostas erradas",
+    "Proibido acertar: responda errado de propósito."
+   ],
+   "nl": [
+    "Alleen foute antwoorden",
+    "Goed antwoorden is verboden: antwoord expres verkeerd."
+   ]
+  },
+  {
+   "id": "hors-contexte",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#0B7285",
+   "title": "Hors contexte",
+   "description": "Des phrases normales qui deviennent hilarantes ailleurs.",
+   "en": [
+    "Out of Context",
+    "Normal sentences that become hilarious somewhere else."
+   ],
+   "es": [
+    "Fuera de contexto",
+    "Frases normales que se vuelven graciosísimas en otro sitio."
+   ],
+   "it": [
+    "Fuori contesto",
+    "Frasi normali che altrove diventano esilaranti."
+   ],
+   "de": [
+    "Aus dem Zusammenhang",
+    "Normale Sätze, die anderswo urkomisch werden."
+   ],
+   "pt": [
+    "Fora de contexto",
+    "Frases normais que ficam hilárias em outro lugar."
+   ],
+   "nl": [
+    "Uit de context",
+    "Gewone zinnen die ergens anders hilarisch worden."
+   ]
+  },
+  {
+   "id": "experiences",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#B45309",
+   "title": "Expériences",
+   "description": "Avis, commentaires et expériences ratées.",
+   "en": [
+    "Experiences",
+    "Reviews, comments and experiences gone wrong."
+   ],
+   "es": [
+    "Experiencias",
+    "Opiniones, comentarios y experiencias fallidas."
+   ],
+   "it": [
+    "Esperienze",
+    "Recensioni, commenti ed esperienze andate male."
+   ],
+   "de": [
+    "Erlebnisse",
+    "Bewertungen, Kommentare und missglückte Erlebnisse."
+   ],
+   "pt": [
+    "Experiências",
+    "Avaliações, comentários e experiências que deram errado."
+   ],
+   "nl": [
+    "Ervaringen",
+    "Reviews, opmerkingen en mislukte ervaringen."
+   ]
+  },
+  {
+   "id": "societe",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#334E68",
+   "title": "Société & Opinions",
+   "description": "Débats, controverses, comportements et valeurs.",
+   "en": [
+    "Society & Opinions",
+    "Debates, controversies, behaviour and values."
+   ],
+   "es": [
+    "Sociedad y opiniones",
+    "Debates, polémicas, comportamientos y valores."
+   ],
+   "it": [
+    "Società e opinioni",
+    "Dibattiti, polemiche, comportamenti e valori."
+   ],
+   "de": [
+    "Gesellschaft & Meinungen",
+    "Debatten, Kontroversen, Verhalten und Werte."
+   ],
+   "pt": [
+    "Sociedade e opiniões",
+    "Debates, polêmicas, comportamentos e valores."
+   ],
+   "nl": [
+    "Samenleving & meningen",
+    "Debatten, controverses, gedrag en waarden."
+   ]
   }
  ],
  "order": [
@@ -906,6 +1162,9 @@
   "enfance",
   "fetes",
   "reflexe",
+  "quotidien",
+  "marques",
+  "sorties",
   "culture",
   "histoire",
   "science",
@@ -920,6 +1179,7 @@
   "politesse",
   "soiree",
   "psychologie-personnalite",
+  "mensonges-excuses",
   "imaginaire",
   "ecrans",
   "mangas",
@@ -942,6 +1202,11 @@
   "inacceptable",
   "quel-prix",
   "annulation",
+  "qui-piece",
+  "mauvaise-reponse",
+  "hors-contexte",
+  "experiences",
+  "societe",
   "infractions",
   "boulot",
   "maison",

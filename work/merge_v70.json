@@ -1,0 +1,667 @@
+{
+ "order": [
+  "classique",
+  "bouffe",
+  "voyage",
+  "nature",
+  "famille",
+  "enfance",
+  "fetes",
+  "reflexe",
+  "soiree",
+  "psychologie-personnalite",
+  "imaginaire",
+  "ecrans",
+  "gaming",
+  "sport",
+  "miroir",
+  "argent-shopping",
+  "beaute-apparence",
+  "boulot",
+  "maison",
+  "amour-couple",
+  "spicy"
+ ],
+ "essentiels": [],
+ "map": {
+  "amitie-confidences": "soiree",
+  "restaurants-service": "bouffe",
+  "ecole-etudes": "enfance",
+  "popculture": "ecrans",
+  "musique": "ecrans",
+  "tech": "gaming",
+  "transports-deplacements": "voyage",
+  "ville": "voyage",
+  "animaux-compagnie": "nature",
+  "nostalgie": "famille",
+  "vie-adulte-admin": "maison",
+  "galeres-debrouille": "maison",
+  "voisins-societe": "maison",
+  "luxe-reve": "argent-shopping",
+  "mariages-occasions": "amour-couple",
+  "peurs-courage": "psychologie-personnalite",
+  "mensonges-excuses": "psychologie-personnalite",
+  "cadeaux-surprises": "fetes",
+  "dilemmes": "imaginaire"
+ },
+ "titles": {
+  "soiree": {
+   "fr": [
+    "Soirée & Amitié",
+    "Soirées, potes et confidences."
+   ],
+   "en": [
+    "Nights Out & Friends",
+    "Parties, mates and secrets."
+   ],
+   "es": [
+    "Fiesta y amistad",
+    "Fiestas, amigos y confidencias."
+   ],
+   "it": [
+    "Serate e amicizia",
+    "Feste, amici e confidenze."
+   ],
+   "de": [
+    "Party & Freundschaft",
+    "Partys, Freunde und Geheimnisse."
+   ],
+   "pt": [
+    "Festa e amizade",
+    "Festas, amigos e confidências."
+   ],
+   "nl": [
+    "Feestjes & vriendschap",
+    "Feestjes, vrienden en geheimen."
+   ]
+  },
+  "bouffe": {
+   "fr": [
+    "Bouffe & Restos",
+    "Cuisine, grignotage, restos et serveurs."
+   ],
+   "en": [
+    "Food & Restaurants",
+    "Cooking, snacking, restaurants and waiters."
+   ],
+   "es": [
+    "Comida y restaurantes",
+    "Cocina, picoteo, restaurantes y camareros."
+   ],
+   "it": [
+    "Cibo e ristoranti",
+    "Cucina, spuntini, ristoranti e camerieri."
+   ],
+   "de": [
+    "Essen & Restaurants",
+    "Kochen, Snacks, Restaurants und Kellner."
+   ],
+   "pt": [
+    "Comida e restaurantes",
+    "Cozinha, beliscos, restaurantes e garçons."
+   ],
+   "nl": [
+    "Eten & restaurants",
+    "Koken, snacken, restaurants en obers."
+   ]
+  },
+  "ecrans": {
+   "fr": [
+    "Écrans & Musique",
+    "Films, séries, pop culture et playlists."
+   ],
+   "en": [
+    "Screens & Music",
+    "Films, series, pop culture and playlists."
+   ],
+   "es": [
+    "Pantallas y música",
+    "Películas, series, cultura pop y playlists."
+   ],
+   "it": [
+    "Schermi e musica",
+    "Film, serie, cultura pop e playlist."
+   ],
+   "de": [
+    "Bildschirm & Musik",
+    "Filme, Serien, Popkultur und Playlists."
+   ],
+   "pt": [
+    "Telas e música",
+    "Filmes, séries, cultura pop e playlists."
+   ],
+   "nl": [
+    "Schermen & muziek",
+    "Films, series, popcultuur en playlists."
+   ]
+  },
+  "gaming": {
+   "fr": [
+    "Jeux vidéo & Tech",
+    "Consoles, applis, batterie et notifications."
+   ],
+   "en": [
+    "Gaming & Tech",
+    "Consoles, apps, battery life and notifications."
+   ],
+   "es": [
+    "Videojuegos y tecnología",
+    "Consolas, apps, batería y notificaciones."
+   ],
+   "it": [
+    "Videogiochi e tech",
+    "Console, app, batteria e notifiche."
+   ],
+   "de": [
+    "Games & Technik",
+    "Konsolen, Apps, Akku und Benachrichtigungen."
+   ],
+   "pt": [
+    "Games e tecnologia",
+    "Consoles, apps, bateria e notificações."
+   ],
+   "nl": [
+    "Games & tech",
+    "Consoles, apps, batterij en meldingen."
+   ]
+  },
+  "voyage": {
+   "fr": [
+    "Voyage & Transports",
+    "Valises, trains, métro et grandes villes."
+   ],
+   "en": [
+    "Travel & Transport",
+    "Suitcases, trains, the Tube and big cities."
+   ],
+   "es": [
+    "Viajes y transporte",
+    "Maletas, trenes, metro y grandes ciudades."
+   ],
+   "it": [
+    "Viaggi e trasporti",
+    "Valigie, treni, metro e grandi città."
+   ],
+   "de": [
+    "Reisen & Verkehr",
+    "Koffer, Züge, U-Bahn und Großstädte."
+   ],
+   "pt": [
+    "Viagens e transporte",
+    "Malas, trens, metrô e cidades grandes."
+   ],
+   "nl": [
+    "Reizen & vervoer",
+    "Koffers, treinen, metro en grote steden."
+   ]
+  },
+  "nature": {
+   "fr": [
+    "Nature & Animaux",
+    "Grand air, jardins et animaux de compagnie."
+   ],
+   "en": [
+    "Nature & Animals",
+    "Fresh air, gardens and pets."
+   ],
+   "es": [
+    "Naturaleza y animales",
+    "Aire libre, jardines y mascotas."
+   ],
+   "it": [
+    "Natura e animali",
+    "Aria aperta, giardini e animali domestici."
+   ],
+   "de": [
+    "Natur & Tiere",
+    "Frische Luft, Gärten und Haustiere."
+   ],
+   "pt": [
+    "Natureza e animais",
+    "Ar livre, jardins e bichos de estimação."
+   ],
+   "nl": [
+    "Natuur & dieren",
+    "Buitenlucht, tuinen en huisdieren."
+   ]
+  },
+  "famille": {
+   "fr": [
+    "Famille & Souvenirs",
+    "Repas de famille, souvenirs d’enfance et nostalgie."
+   ],
+   "en": [
+    "Family & Memories",
+    "Family meals, childhood memories and nostalgia."
+   ],
+   "es": [
+    "Familia y recuerdos",
+    "Comidas familiares, recuerdos de infancia y nostalgia."
+   ],
+   "it": [
+    "Famiglia e ricordi",
+    "Pranzi in famiglia, ricordi d'infanzia e nostalgia."
+   ],
+   "de": [
+    "Familie & Erinnerungen",
+    "Familienessen, Kindheitserinnerungen und Nostalgie."
+   ],
+   "pt": [
+    "Família e lembranças",
+    "Almoços de família, lembranças de infância e nostalgia."
+   ],
+   "nl": [
+    "Familie & herinneringen",
+    "Familiediners, jeugdherinneringen en nostalgie."
+   ]
+  },
+  "maison": {
+   "fr": [
+    "Vie d’adulte",
+    "Maison, papiers, voisins et galères du quotidien."
+   ],
+   "en": [
+    "Grown-up Life",
+    "Home, paperwork, neighbours and everyday hassles."
+   ],
+   "es": [
+    "Vida adulta",
+    "Casa, papeleo, vecinos y apuros del día a día."
+   ],
+   "it": [
+    "Vita da adulti",
+    "Casa, burocrazia, vicini e guai quotidiani."
+   ],
+   "de": [
+    "Erwachsenenleben",
+    "Zuhause, Papierkram, Nachbarn und Alltagspannen."
+   ],
+   "pt": [
+    "Vida adulta",
+    "Casa, burocracia, vizinhos e perrengues do dia a dia."
+   ],
+   "nl": [
+    "Volwassen leven",
+    "Huis, papierwerk, buren en dagelijkse pech."
+   ]
+  },
+  "argent-shopping": {
+   "fr": [
+    "Argent & Luxe",
+    "Soldes, budgets, palaces et vie de rêve."
+   ],
+   "en": [
+    "Money & Luxury",
+    "Sales, budgets, palaces and the dream life."
+   ],
+   "es": [
+    "Dinero y lujo",
+    "Rebajas, presupuestos, hoteles de lujo y vida de ensueño."
+   ],
+   "it": [
+    "Soldi e lusso",
+    "Saldi, budget, grand hotel e vita da sogno."
+   ],
+   "de": [
+    "Geld & Luxus",
+    "Schnäppchen, Budgets, Luxushotels und Traumleben."
+   ],
+   "pt": [
+    "Dinheiro e luxo",
+    "Promoções, orçamentos, hotéis de luxo e vida dos sonhos."
+   ],
+   "nl": [
+    "Geld & luxe",
+    "Uitverkoop, budgetten, luxehotels en het droomleven."
+   ]
+  },
+  "amour-couple": {
+   "fr": [
+    "Amour & Couple",
+    "La vie à deux, les rendez-vous et les mariages."
+   ],
+   "en": [
+    "Love & Couples",
+    "Life as a couple, dates and weddings."
+   ],
+   "es": [
+    "Amor y pareja",
+    "La vida en pareja, las citas y las bodas."
+   ],
+   "it": [
+    "Amore e coppia",
+    "La vita a due, gli appuntamenti e i matrimoni."
+   ],
+   "de": [
+    "Liebe & Beziehung",
+    "Das Leben zu zweit, Dates und Hochzeiten."
+   ],
+   "pt": [
+    "Amor e casal",
+    "A vida a dois, os encontros e os casamentos."
+   ],
+   "nl": [
+    "Liefde & relaties",
+    "Samenleven, dates en bruiloften."
+   ]
+  },
+  "psychologie-personnalite": {
+   "fr": [
+    "Psycho & Personnalité",
+    "Manies, peurs et petits mensonges."
+   ],
+   "en": [
+    "Psychology & Personality",
+    "Quirks, fears and little white lies."
+   ],
+   "es": [
+    "Psicología y personalidad",
+    "Manías, miedos y mentirijillas."
+   ],
+   "it": [
+    "Psicologia e personalità",
+    "Manie, paure e piccole bugie."
+   ],
+   "de": [
+    "Psyche & Persönlichkeit",
+    "Macken, Ängste und kleine Notlügen."
+   ],
+   "pt": [
+    "Psicologia e personalidade",
+    "Manias, medos e mentirinhas."
+   ],
+   "nl": [
+    "Psyche & persoonlijkheid",
+    "Eigenaardigheden, angsten en leugentjes."
+   ]
+  },
+  "fetes": {
+   "fr": [
+    "Fêtes & Cadeaux",
+    "Anniversaires, fêtes et surprises."
+   ],
+   "en": [
+    "Celebrations & Gifts",
+    "Birthdays, celebrations and surprises."
+   ],
+   "es": [
+    "Fiestas y regalos",
+    "Cumpleaños, fiestas y sorpresas."
+   ],
+   "it": [
+    "Feste e regali",
+    "Compleanni, feste e sorprese."
+   ],
+   "de": [
+    "Feste & Geschenke",
+    "Geburtstage, Feste und Überraschungen."
+   ],
+   "pt": [
+    "Festas e presentes",
+    "Aniversários, festas e surpresas."
+   ],
+   "nl": [
+    "Feesten & cadeaus",
+    "Verjaardagen, feesten en verrassingen."
+   ]
+  },
+  "enfance": {
+   "fr": [
+    "École & Études",
+    "Récré, cours, examens et vie étudiante."
+   ],
+   "en": [
+    "School & Studies",
+    "Break time, lessons, exams and student life."
+   ],
+   "es": [
+    "Escuela y estudios",
+    "Recreo, clases, exámenes y vida de estudiante."
+   ],
+   "it": [
+    "Scuola e studi",
+    "Ricreazione, lezioni, esami e vita da studente."
+   ],
+   "de": [
+    "Schule & Studium",
+    "Pausenhof, Unterricht, Prüfungen und Studentenleben."
+   ],
+   "pt": [
+    "Escola e estudos",
+    "Recreio, aulas, provas e vida de estudante."
+   ],
+   "nl": [
+    "School & studie",
+    "Speelkwartier, lessen, examens en studentenleven."
+   ]
+  },
+  "imaginaire": {
+   "fr": [
+    "Et si… & Dilemmes",
+    "Super-pouvoirs, vies rêvées et choix impossibles."
+   ],
+   "en": [
+    "What if… & Dilemmas",
+    "Superpowers, dream lives and impossible choices."
+   ],
+   "es": [
+    "¿Y si…? y dilemas",
+    "Superpoderes, vidas soñadas y decisiones imposibles."
+   ],
+   "it": [
+    "E se… e dilemmi",
+    "Superpoteri, vite da sogno e scelte impossibili."
+   ],
+   "de": [
+    "Was wäre, wenn… & Dilemmas",
+    "Superkräfte, Traumleben und unmögliche Entscheidungen."
+   ],
+   "pt": [
+    "E se… e dilemas",
+    "Superpoderes, vidas dos sonhos e escolhas impossíveis."
+   ],
+   "nl": [
+    "Wat als… & dilemma's",
+    "Superkrachten, droomlevens en onmogelijke keuzes."
+   ]
+  }
+ },
+ "cats": {
+  "classique": "famille",
+  "bouffe": "famille",
+  "voyage": "famille",
+  "nature": "famille",
+  "famille": "famille",
+  "enfance": "famille",
+  "fetes": "famille",
+  "imaginaire": "potes",
+  "reflexe": "famille",
+  "soiree": "potes",
+  "psychologie-personnalite": "potes",
+  "ecrans": "potes",
+  "gaming": "potes",
+  "sport": "potes",
+  "miroir": "potes",
+  "argent-shopping": "potes",
+  "beaute-apparence": "potes",
+  "boulot": "adultes",
+  "maison": "adultes",
+  "amour-couple": "adultes",
+  "spicy": "adultes"
+ },
+ "lots": [
+  {
+   "id": "lot:famille",
+   "cat": "famille",
+   "price": "4,99 €",
+   "fr": [
+    "Lot En famille",
+    "Les 7 packs à jouer en famille, ados compris."
+   ],
+   "en": [
+    "Family Bundle",
+    "The 7 packs to play as a family, teens included."
+   ],
+   "es": [
+    "Lote En familia",
+    "Los 7 packs para jugar en familia, adolescentes incluidos."
+   ],
+   "it": [
+    "Pacchetto In famiglia",
+    "I 7 pack da giocare in famiglia, ragazzi compresi."
+   ],
+   "de": [
+    "Familien-Paket",
+    "Die 7 Packs für die ganze Familie, Teenager inklusive."
+   ],
+   "pt": [
+    "Pacote Em família",
+    "Os 7 pacotes para jogar em família, adolescentes incluídos."
+   ],
+   "nl": [
+    "Gezinsbundel",
+    "De 7 packs om met het gezin te spelen, tieners inbegrepen."
+   ]
+  },
+  {
+   "id": "lot:potes",
+   "cat": "potes",
+   "price": "4,99 €",
+   "fr": [
+    "Lot Entre potes",
+    "Les 9 packs pour les soirées entre potes."
+   ],
+   "en": [
+    "Friends Bundle",
+    "The 9 packs for nights in with friends."
+   ],
+   "es": [
+    "Lote Entre amigos",
+    "Los 9 packs para las noches entre amigos."
+   ],
+   "it": [
+    "Pacchetto Tra amici",
+    "I 9 pack per le serate tra amici."
+   ],
+   "de": [
+    "Freunde-Paket",
+    "Die 9 Packs für Abende mit Freunden."
+   ],
+   "pt": [
+    "Pacote Entre amigos",
+    "Os 9 pacotes para as noites entre amigos."
+   ],
+   "nl": [
+    "Vriendenbundel",
+    "De 9 packs voor avonden met vrienden."
+   ]
+  },
+  {
+   "id": "lot:adultes",
+   "cat": "adultes",
+   "price": "3,99 €",
+   "fr": [
+    "Lot Adultes (18+)",
+    "Les 4 packs réservés aux adultes : boulot, vie d’adulte, couple et Spicy."
+   ],
+   "en": [
+    "Adults Bundle (18+)",
+    "The 4 adults-only packs: work, grown-up life, couples and Spicy."
+   ],
+   "es": [
+    "Lote Adultos (+18)",
+    "Los 4 packs solo para adultos: trabajo, vida adulta, pareja y Picante."
+   ],
+   "it": [
+    "Pacchetto Adulti (18+)",
+    "I 4 pack solo per adulti: lavoro, vita da adulti, coppia e Piccante."
+   ],
+   "de": [
+    "Erwachsenen-Paket (18+)",
+    "Die 4 Packs nur für Erwachsene: Arbeit, Erwachsenenleben, Beziehung und Pikant."
+   ],
+   "pt": [
+    "Pacote Adultos (18+)",
+    "Os 4 pacotes só para adultos: trabalho, vida adulta, casal e Picante."
+   ],
+   "nl": [
+    "Volwassenenbundel (18+)",
+    "De 4 packs alleen voor volwassenen: werk, volwassen leven, relaties en Pittig."
+   ]
+  }
+ ],
+ "ui": {
+  "En famille": {
+   "en": "Family",
+   "es": "En familia",
+   "it": "In famiglia",
+   "de": "Mit der Familie",
+   "pt": "Em família",
+   "nl": "Met het gezin"
+  },
+  "Entre potes": {
+   "en": "With friends",
+   "es": "Entre amigos",
+   "it": "Tra amici",
+   "de": "Unter Freunden",
+   "pt": "Entre amigos",
+   "nl": "Met vrienden"
+  },
+  "Adultes (18+)": {
+   "en": "Adults (18+)",
+   "es": "Adultos (+18)",
+   "it": "Adulti (18+)",
+   "de": "Erwachsene (18+)",
+   "pt": "Adultos (18+)",
+   "nl": "Volwassenen (18+)"
+  },
+  "Lots par public": {
+   "en": "Bundles by audience",
+   "es": "Lotes por público",
+   "it": "Pacchetti per pubblico",
+   "de": "Pakete nach Zielgruppe",
+   "pt": "Pacotes por público",
+   "nl": "Bundels per publiek"
+  },
+  "Tous les packs d’un même public, moins cher qu’à l’unité.": {
+   "en": "All the packs for one audience, cheaper than buying them one by one.",
+   "es": "Todos los packs de un mismo público, más baratos que por separado.",
+   "it": "Tutti i pack per lo stesso pubblico, a meno che singolarmente.",
+   "de": "Alle Packs für eine Zielgruppe, günstiger als einzeln.",
+   "pt": "Todos os pacotes de um mesmo público, mais barato que separado.",
+   "nl": "Alle packs voor één publiek, goedkoper dan los."
+  },
+  "Des moins de 18 ans jouent ?": {
+   "en": "Anyone under 18 playing?",
+   "es": "¿Juega algún menor de 18?",
+   "it": "Gioca qualcuno sotto i 18 anni?",
+   "de": "Spielen Personen unter 18 mit?",
+   "pt": "Alguém com menos de 18 anos vai jogar?",
+   "nl": "Spelen er mensen onder de 18 mee?"
+  },
+  "Packs et questions pour adultes masqués.": {
+   "en": "Adult packs and questions are hidden.",
+   "es": "Los packs y preguntas para adultos están ocultos.",
+   "it": "Pack e domande per adulti nascosti.",
+   "de": "Packs und Fragen für Erwachsene sind ausgeblendet.",
+   "pt": "Pacotes e perguntas para adultos ocultos.",
+   "nl": "Packs en vragen voor volwassenen zijn verborgen."
+  },
+  "Toutes les questions sont disponibles.": {
+   "en": "All questions are available.",
+   "es": "Todas las preguntas están disponibles.",
+   "it": "Tutte le domande sono disponibili.",
+   "de": "Alle Fragen sind verfügbar.",
+   "pt": "Todas as perguntas estão disponíveis.",
+   "nl": "Alle vragen zijn beschikbaar."
+  },
+  "Réservé aux adultes": {
+   "en": "Adults only",
+   "es": "Solo adultos",
+   "it": "Solo adulti",
+   "de": "Nur für Erwachsene",
+   "pt": "Só para adultos",
+   "nl": "Alleen voor volwassenen"
+  }
+ }
+}
