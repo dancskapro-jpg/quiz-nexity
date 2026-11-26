@@ -71,6 +71,10 @@ for _n in range(1, 18):
             if _p[2] == 'A':
                 ADULT.add(_p[0])
 print('relecture : retirées', len(REMOVED), 'adultes', len(ADULT))
+# Les paires retirées ne sont plus du tout embarquées (page plus légère)
+for _pk in BANK:
+    BANK[_pk] = [r for r in BANK[_pk] if r[0] not in REMOVED]
+ADULT = {i for i in ADULT if i not in REMOVED}
 
 src = open(f'{W}/v64/index.html', encoding='utf8').read()
 
@@ -94,7 +98,7 @@ data = ('var HS_KEEP=new Set(' + json.dumps(keep, ensure_ascii=False) + '),HS_FR
         + ',HS_RENAME=' + json.dumps({k: v['fr'] for k, v in MERGE['titles'].items()}, ensure_ascii=False, separators=(',', ':'))
         + ',HS_CAT=' + json.dumps(MERGE['cats'], separators=(',', ':'))
         + ',HS_LOTS=' + json.dumps([{'id': o['id'], 'cat': o['cat'], 'price': o['price'], 'title': o['fr'][0], 'description': o['fr'][1]} for o in MERGE['lots']], ensure_ascii=False, separators=(',', ':'))
-        + ',HS_REMOVED=new Set(' + json.dumps(sorted(REMOVED), separators=(',', ':')) + ')'
+        + ',HS_REMOVED=new Set(' + json.dumps(sorted(i for i in REMOVED if i in set(keep)), separators=(',', ':')) + ')'
         + ',HS_ADULT=new Set(' + json.dumps(sorted(ADULT), separators=(',', ':')) + ');')
 sub('"use strict";(()=>{', '"use strict";(()=>{' + data)
 sub('return u?{...e,answersA:u[0],answersB:u[1]}:e});function nu(',
@@ -262,7 +266,7 @@ for l in LANGS:
             continue
         for line in open(f, encoding='utf8'):
             p = line.rstrip('\n').split('|')
-            if len(p) == 4:
+            if len(p) == 4 and p[0] not in REMOVED:
                 packs.setdefault(final_pack(p[0].rsplit('-', 1)[0]), []).append(f'{p[0]}|{p[1].strip()}|{p[2].strip()}')
                 nnew += 1
     print(l, 'nouvelles traduites :', nnew)
