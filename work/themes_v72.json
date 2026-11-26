@@ -1,0 +1,1263 @@
+{
+ "packs": [
+  {
+   "id": "football",
+   "parent": "sport",
+   "cat": "potes",
+   "accent": "#2F9E44",
+   "title": "Football",
+   "description": "Matchs, clubs, maillots et soirées foot.",
+   "en": [
+    "Football",
+    "Matches, clubs, jerseys and football nights."
+   ],
+   "es": [
+    "Fútbol",
+    "Partidos, clubes, camisetas y noches de fútbol."
+   ],
+   "it": [
+    "Calcio",
+    "Partite, squadre, maglie e serate di calcio."
+   ],
+   "de": [
+    "Fußball",
+    "Spiele, Vereine, Trikots und Fußballabende."
+   ],
+   "pt": [
+    "Futebol",
+    "Jogos, clubes, camisas e noites de futebol."
+   ],
+   "nl": [
+    "Voetbal",
+    "Wedstrijden, clubs, shirts en voetbalavonden."
+   ]
+  },
+  {
+   "id": "basket",
+   "parent": "sport",
+   "cat": "potes",
+   "accent": "#2B3A67",
+   "title": "Basket",
+   "description": "Paniers, NBA, sneakers et playgrounds.",
+   "en": [
+    "Basketball",
+    "Hoops, the NBA, sneakers and playgrounds."
+   ],
+   "es": [
+    "Baloncesto",
+    "Canastas, la NBA, zapatillas y canchas."
+   ],
+   "it": [
+    "Basket",
+    "Canestri, NBA, sneakers e playground."
+   ],
+   "de": [
+    "Basketball",
+    "Körbe, NBA, Sneaker und Freiplätze."
+   ],
+   "pt": [
+    "Basquete",
+    "Cestas, NBA, tênis e quadras."
+   ],
+   "nl": [
+    "Basketbal",
+    "Baskets, de NBA, sneakers en pleintjes."
+   ]
+  },
+  {
+   "id": "tennis",
+   "parent": "sport",
+   "cat": "potes",
+   "accent": "#D9480F",
+   "title": "Tennis",
+   "description": "Raquettes, tournois et échanges interminables.",
+   "en": [
+    "Tennis",
+    "Rackets, tournaments and endless rallies."
+   ],
+   "es": [
+    "Tenis",
+    "Raquetas, torneos e intercambios interminables."
+   ],
+   "it": [
+    "Tennis",
+    "Racchette, tornei e scambi infiniti."
+   ],
+   "de": [
+    "Tennis",
+    "Schläger, Turniere und endlose Ballwechsel."
+   ],
+   "pt": [
+    "Tênis",
+    "Raquetes, torneios e trocas de bola sem fim."
+   ],
+   "nl": [
+    "Tennis",
+    "Rackets, toernooien en eindeloze rally's."
+   ]
+  },
+  {
+   "id": "formule1",
+   "parent": "sport",
+   "cat": "potes",
+   "accent": "#E03131",
+   "title": "Formule 1",
+   "description": "Grands Prix, écuries et arrêts au stand.",
+   "en": [
+    "Formula 1",
+    "Grands Prix, teams and pit stops."
+   ],
+   "es": [
+    "Fórmula 1",
+    "Grandes Premios, escuderías y paradas en boxes."
+   ],
+   "it": [
+    "Formula 1",
+    "Gran Premi, scuderie e pit stop."
+   ],
+   "de": [
+    "Formel 1",
+    "Grand Prix, Rennställe und Boxenstopps."
+   ],
+   "pt": [
+    "Fórmula 1",
+    "Grandes Prêmios, equipes e pit stops."
+   ],
+   "nl": [
+    "Formule 1",
+    "Grands Prix, teams en pitstops."
+   ]
+  },
+  {
+   "id": "musculation",
+   "parent": "sport",
+   "cat": "potes",
+   "accent": "#5C5F66",
+   "title": "Musculation",
+   "description": "Salle, séances, protéines et records perso.",
+   "en": [
+    "Gym & Lifting",
+    "The gym, workouts, protein and personal bests."
+   ],
+   "es": [
+    "Musculación",
+    "Gimnasio, entrenos, proteínas y récords personales."
+   ],
+   "it": [
+    "Palestra",
+    "Palestra, allenamenti, proteine e record personali."
+   ],
+   "de": [
+    "Krafttraining",
+    "Studio, Trainingseinheiten, Proteine und persönliche Bestleistungen."
+   ],
+   "pt": [
+    "Musculação",
+    "Academia, treinos, proteína e recordes pessoais."
+   ],
+   "nl": [
+    "Krachttraining",
+    "De sportschool, trainingen, eiwitten en persoonlijke records."
+   ]
+  },
+  {
+   "id": "technologie",
+   "parent": "gaming",
+   "cat": "potes",
+   "accent": "#1C7ED6",
+   "title": "Technologie",
+   "description": "Innovations, gadgets et appareils.",
+   "en": [
+    "Technology",
+    "Innovations, gadgets and devices."
+   ],
+   "es": [
+    "Tecnología",
+    "Innovaciones, gadgets y aparatos."
+   ],
+   "it": [
+    "Tecnologia",
+    "Innovazioni, gadget e dispositivi."
+   ],
+   "de": [
+    "Technik",
+    "Innovationen, Gadgets und Geräte."
+   ],
+   "pt": [
+    "Tecnologia",
+    "Inovações, gadgets e aparelhos."
+   ],
+   "nl": [
+    "Technologie",
+    "Innovaties, gadgets en apparaten."
+   ]
+  },
+  {
+   "id": "ia",
+   "parent": "gaming",
+   "cat": "potes",
+   "accent": "#4C6EF5",
+   "title": "Intelligence artificielle",
+   "description": "Robots, IA et nouvelles technologies.",
+   "en": [
+    "Artificial Intelligence",
+    "Robots, AI and new technologies."
+   ],
+   "es": [
+    "Inteligencia artificial",
+    "Robots, IA y nuevas tecnologías."
+   ],
+   "it": [
+    "Intelligenza artificiale",
+    "Robot, IA e nuove tecnologie."
+   ],
+   "de": [
+    "Künstliche Intelligenz",
+    "Roboter, KI und neue Technologien."
+   ],
+   "pt": [
+    "Inteligência artificial",
+    "Robôs, IA e novas tecnologias."
+   ],
+   "nl": [
+    "Kunstmatige intelligentie",
+    "Robots, AI en nieuwe technologieën."
+   ]
+  },
+  {
+   "id": "luxe",
+   "parent": "argent-shopping",
+   "cat": "potes",
+   "accent": "#A47E3B",
+   "title": "Luxe",
+   "description": "Marques et objets prestigieux.",
+   "en": [
+    "Luxury",
+    "Prestigious brands and objects."
+   ],
+   "es": [
+    "Lujo",
+    "Marcas y objetos de prestigio."
+   ],
+   "it": [
+    "Lusso",
+    "Marchi e oggetti di prestigio."
+   ],
+   "de": [
+    "Luxus",
+    "Edle Marken und prestigeträchtige Dinge."
+   ],
+   "pt": [
+    "Luxo",
+    "Marcas e objetos de prestígio."
+   ],
+   "nl": [
+    "Luxe",
+    "Prestigieuze merken en spullen."
+   ]
+  },
+  {
+   "id": "millionnaire",
+   "parent": "argent-shopping",
+   "cat": "potes",
+   "accent": "#087F5B",
+   "title": "Millionnaire",
+   "description": "Richesse, dépenses absurdes et vie de rêve.",
+   "en": [
+    "Millionaire",
+    "Wealth, absurd spending and the dream life."
+   ],
+   "es": [
+    "Millonario",
+    "Riqueza, gastos absurdos y vida de ensueño."
+   ],
+   "it": [
+    "Milionario",
+    "Ricchezza, spese assurde e vita da sogno."
+   ],
+   "de": [
+    "Millionär",
+    "Reichtum, absurde Ausgaben und das Traumleben."
+   ],
+   "pt": [
+    "Milionário",
+    "Riqueza, gastos absurdos e vida dos sonhos."
+   ],
+   "nl": [
+    "Miljonair",
+    "Rijkdom, absurde uitgaven en het droomleven."
+   ]
+  },
+  {
+   "id": "mode",
+   "parent": "beaute-apparence",
+   "cat": "potes",
+   "accent": "#E64980",
+   "title": "Mode",
+   "description": "Vêtements et tendances.",
+   "en": [
+    "Fashion",
+    "Clothes and trends."
+   ],
+   "es": [
+    "Moda",
+    "Ropa y tendencias."
+   ],
+   "it": [
+    "Moda",
+    "Abiti e tendenze."
+   ],
+   "de": [
+    "Mode",
+    "Kleidung und Trends."
+   ],
+   "pt": [
+    "Moda",
+    "Roupas e tendências."
+   ],
+   "nl": [
+    "Mode",
+    "Kleding en trends."
+   ]
+  },
+  {
+   "id": "culture",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#5F3DC4",
+   "title": "Culture & Savoirs",
+   "description": "Histoire, sciences et espace.",
+   "en": [
+    "Culture & Knowledge",
+    "History, science and space."
+   ],
+   "es": [
+    "Cultura y saber",
+    "Historia, ciencia y espacio."
+   ],
+   "it": [
+    "Cultura e sapere",
+    "Storia, scienza e spazio."
+   ],
+   "de": [
+    "Kultur & Wissen",
+    "Geschichte, Wissenschaft und Weltraum."
+   ],
+   "pt": [
+    "Cultura e saber",
+    "História, ciência e espaço."
+   ],
+   "nl": [
+    "Cultuur & kennis",
+    "Geschiedenis, wetenschap en de ruimte."
+   ]
+  },
+  {
+   "id": "histoire",
+   "parent": "culture",
+   "cat": "famille",
+   "accent": "#B4532A",
+   "title": "Histoire",
+   "description": "Époques et événements.",
+   "en": [
+    "History",
+    "Eras and events."
+   ],
+   "es": [
+    "Historia",
+    "Épocas y acontecimientos."
+   ],
+   "it": [
+    "Storia",
+    "Epoche ed eventi."
+   ],
+   "de": [
+    "Geschichte",
+    "Epochen und Ereignisse."
+   ],
+   "pt": [
+    "História",
+    "Épocas e acontecimentos."
+   ],
+   "nl": [
+    "Geschiedenis",
+    "Tijdperken en gebeurtenissen."
+   ]
+  },
+  {
+   "id": "science",
+   "parent": "culture",
+   "cat": "famille",
+   "accent": "#1098AD",
+   "title": "Science",
+   "description": "Découvertes et phénomènes.",
+   "en": [
+    "Science",
+    "Discoveries and phenomena."
+   ],
+   "es": [
+    "Ciencia",
+    "Descubrimientos y fenómenos."
+   ],
+   "it": [
+    "Scienza",
+    "Scoperte e fenomeni."
+   ],
+   "de": [
+    "Wissenschaft",
+    "Entdeckungen und Phänomene."
+   ],
+   "pt": [
+    "Ciência",
+    "Descobertas e fenômenos."
+   ],
+   "nl": [
+    "Wetenschap",
+    "Ontdekkingen en verschijnselen."
+   ]
+  },
+  {
+   "id": "espace",
+   "parent": "culture",
+   "cat": "famille",
+   "accent": "#232457",
+   "title": "Espace",
+   "description": "Planètes, fusées et astronautes.",
+   "en": [
+    "Space",
+    "Planets, rockets and astronauts."
+   ],
+   "es": [
+    "Espacio",
+    "Planetas, cohetes y astronautas."
+   ],
+   "it": [
+    "Spazio",
+    "Pianeti, razzi e astronauti."
+   ],
+   "de": [
+    "Weltraum",
+    "Planeten, Raketen und Astronauten."
+   ],
+   "pt": [
+    "Espaço",
+    "Planetas, foguetes e astronautas."
+   ],
+   "nl": [
+    "Ruimte",
+    "Planeten, raketten en astronauten."
+   ]
+  },
+  {
+   "id": "generations",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#F76707",
+   "title": "Générations",
+   "description": "Des années 80 à la génération Z.",
+   "en": [
+    "Generations",
+    "From the 80s to Gen Z."
+   ],
+   "es": [
+    "Generaciones",
+    "De los 80 a la generación Z."
+   ],
+   "it": [
+    "Generazioni",
+    "Dagli anni '80 alla generazione Z."
+   ],
+   "de": [
+    "Generationen",
+    "Von den 80ern bis zur Generation Z."
+   ],
+   "pt": [
+    "Gerações",
+    "Dos anos 80 à geração Z."
+   ],
+   "nl": [
+    "Generaties",
+    "Van de jaren 80 tot generatie Z."
+   ]
+  },
+  {
+   "id": "annees80",
+   "parent": "generations",
+   "cat": "famille",
+   "accent": "#D6336C",
+   "title": "Années 80",
+   "description": "La nostalgie des années 80.",
+   "en": [
+    "The 80s",
+    "80s nostalgia."
+   ],
+   "es": [
+    "Los 80",
+    "Nostalgia de los 80."
+   ],
+   "it": [
+    "Anni '80",
+    "Nostalgia degli anni '80."
+   ],
+   "de": [
+    "Die 80er",
+    "80er-Nostalgie."
+   ],
+   "pt": [
+    "Anos 80",
+    "Nostalgia dos anos 80."
+   ],
+   "nl": [
+    "Jaren 80",
+    "Nostalgie uit de jaren 80."
+   ]
+  },
+  {
+   "id": "annees90",
+   "parent": "generations",
+   "cat": "famille",
+   "accent": "#7950F2",
+   "title": "Années 90",
+   "description": "La culture des années 90.",
+   "en": [
+    "The 90s",
+    "90s culture."
+   ],
+   "es": [
+    "Los 90",
+    "La cultura de los 90."
+   ],
+   "it": [
+    "Anni '90",
+    "La cultura degli anni '90."
+   ],
+   "de": [
+    "Die 90er",
+    "Die Kultur der 90er."
+   ],
+   "pt": [
+    "Anos 90",
+    "A cultura dos anos 90."
+   ],
+   "nl": [
+    "Jaren 90",
+    "De cultuur van de jaren 90."
+   ]
+  },
+  {
+   "id": "annees2000",
+   "parent": "generations",
+   "cat": "famille",
+   "accent": "#15AABF",
+   "title": "Années 2000",
+   "description": "Enfance et références des années 2000.",
+   "en": [
+    "The 2000s",
+    "Childhood and 2000s references."
+   ],
+   "es": [
+    "Los 2000",
+    "Infancia y referencias de los 2000."
+   ],
+   "it": [
+    "Anni 2000",
+    "Infanzia e riferimenti degli anni 2000."
+   ],
+   "de": [
+    "Die 2000er",
+    "Kindheit und Bezüge der 2000er."
+   ],
+   "pt": [
+    "Anos 2000",
+    "Infância e referências dos anos 2000."
+   ],
+   "nl": [
+    "Jaren 2000",
+    "Jeugd en verwijzingen uit de jaren 2000."
+   ]
+  },
+  {
+   "id": "annees2010",
+   "parent": "generations",
+   "cat": "famille",
+   "accent": "#F59F00",
+   "title": "Années 2010",
+   "description": "Musique et tendances des années 2010.",
+   "en": [
+    "The 2010s",
+    "2010s music and trends."
+   ],
+   "es": [
+    "Los 2010",
+    "Música y tendencias de los 2010."
+   ],
+   "it": [
+    "Anni 2010",
+    "Musica e tendenze degli anni 2010."
+   ],
+   "de": [
+    "Die 2010er",
+    "Musik und Trends der 2010er."
+   ],
+   "pt": [
+    "Anos 2010",
+    "Música e tendências dos anos 2010."
+   ],
+   "nl": [
+    "Jaren 2010",
+    "Muziek en trends uit de jaren 2010."
+   ]
+  },
+  {
+   "id": "genz",
+   "parent": "generations",
+   "cat": "famille",
+   "accent": "#0CA678",
+   "title": "Génération Z",
+   "description": "Références générationnelles.",
+   "en": [
+    "Gen Z",
+    "Generational references."
+   ],
+   "es": [
+    "Generación Z",
+    "Referencias generacionales."
+   ],
+   "it": [
+    "Generazione Z",
+    "Riferimenti generazionali."
+   ],
+   "de": [
+    "Generation Z",
+    "Generationstypische Bezüge."
+   ],
+   "pt": [
+    "Geração Z",
+    "Referências geracionais."
+   ],
+   "nl": [
+    "Generatie Z",
+    "Generatiegebonden verwijzingen."
+   ]
+  },
+  {
+   "id": "gen-enfance",
+   "parent": "generations",
+   "cat": "famille",
+   "accent": "#4DABF7",
+   "title": "Enfance",
+   "description": "Jeux, goûters et souvenirs d’enfance.",
+   "en": [
+    "Childhood",
+    "Games, after-school snacks and childhood memories."
+   ],
+   "es": [
+    "Infancia",
+    "Juegos, meriendas y recuerdos de infancia."
+   ],
+   "it": [
+    "Infanzia",
+    "Giochi, merende e ricordi d’infanzia."
+   ],
+   "de": [
+    "Kindheit",
+    "Spiele, Nachmittagssnacks und Kindheitserinnerungen."
+   ],
+   "pt": [
+    "Infância",
+    "Brincadeiras, lanchinhos e lembranças de infância."
+   ],
+   "nl": [
+    "Jeugd",
+    "Spelletjes, vieruurtjes en jeugdherinneringen."
+   ]
+  },
+  {
+   "id": "politesse",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#9C36B5",
+   "title": "Politesse & Codes sociaux",
+   "description": "Bises, pourboires, retards et savoir-vivre.",
+   "en": [
+    "Manners & Social Codes",
+    "Greetings, tipping, being late and etiquette."
+   ],
+   "es": [
+    "Cortesía y códigos sociales",
+    "Saludos, propinas, retrasos y buenos modales."
+   ],
+   "it": [
+    "Buone maniere e codici sociali",
+    "Saluti, mance, ritardi e galateo."
+   ],
+   "de": [
+    "Höflichkeit & Umgangsformen",
+    "Begrüßungen, Trinkgeld, Verspätungen und Benimm."
+   ],
+   "pt": [
+    "Educação e códigos sociais",
+    "Cumprimentos, gorjetas, atrasos e boas maneiras."
+   ],
+   "nl": [
+    "Beleefdheid & omgangsvormen",
+    "Begroetingen, fooien, te laat komen en etiquette."
+   ]
+  },
+  {
+   "id": "mangas",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#F783AC",
+   "title": "Mangas & Anime",
+   "description": "Séries animées, mangas et conventions.",
+   "en": [
+    "Manga & Anime",
+    "Anime series, manga and conventions."
+   ],
+   "es": [
+    "Manga y anime",
+    "Series de anime, mangas y salones."
+   ],
+   "it": [
+    "Manga e anime",
+    "Serie anime, manga e fiere."
+   ],
+   "de": [
+    "Manga & Anime",
+    "Anime-Serien, Mangas und Conventions."
+   ],
+   "pt": [
+    "Mangás e animes",
+    "Séries de anime, mangás e convenções."
+   ],
+   "nl": [
+    "Manga & anime",
+    "Animeseries, manga en conventies."
+   ]
+  },
+  {
+   "id": "business",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#1864AB",
+   "title": "Business",
+   "description": "Entrepreneuriat et entreprises.",
+   "en": [
+    "Business",
+    "Entrepreneurship and companies."
+   ],
+   "es": [
+    "Negocios",
+    "Emprendimiento y empresas."
+   ],
+   "it": [
+    "Business",
+    "Imprenditoria e aziende."
+   ],
+   "de": [
+    "Business",
+    "Unternehmertum und Firmen."
+   ],
+   "pt": [
+    "Negócios",
+    "Empreendedorismo e empresas."
+   ],
+   "nl": [
+    "Business",
+    "Ondernemerschap en bedrijven."
+   ]
+  },
+  {
+   "id": "infractions",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#FD7E14",
+   "title": "Règles & Petites infractions",
+   "description": "Feux rouges, amendes et petits écarts.",
+   "en": [
+    "Rules & Small Offences",
+    "Red lights, fines and little slip-ups."
+   ],
+   "es": [
+    "Normas y pequeñas infracciones",
+    "Semáforos en rojo, multas y pequeños deslices."
+   ],
+   "it": [
+    "Regole e piccole infrazioni",
+    "Semafori rossi, multe e piccole trasgressioni."
+   ],
+   "de": [
+    "Regeln & kleine Verstöße",
+    "Rote Ampeln, Bußgelder und kleine Ausrutscher."
+   ],
+   "pt": [
+    "Regras e pequenas infrações",
+    "Sinal vermelho, multas e pequenos deslizes."
+   ],
+   "nl": [
+    "Regels & kleine overtredingen",
+    "Rode stoplichten, boetes en kleine misstapjes."
+   ]
+  },
+  {
+   "id": "inacceptable",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#6741D9",
+   "title": "Socialement inacceptable",
+   "description": "Comportements étranges, gênants ou mal vus.",
+   "en": [
+    "Socially Unacceptable",
+    "Weird, awkward or frowned-upon behaviour."
+   ],
+   "es": [
+    "Socialmente inaceptable",
+    "Comportamientos raros, incómodos o mal vistos."
+   ],
+   "it": [
+    "Socialmente inaccettabile",
+    "Comportamenti strani, imbarazzanti o malvisti."
+   ],
+   "de": [
+    "Gesellschaftlich daneben",
+    "Seltsames, peinliches oder verpöntes Verhalten."
+   ],
+   "pt": [
+    "Socialmente inaceitável",
+    "Comportamentos estranhos, constrangedores ou malvistos."
+   ],
+   "nl": [
+    "Sociaal onaanvaardbaar",
+    "Raar, gênant of afgekeurd gedrag."
+   ]
+  },
+  {
+   "id": "quel-prix",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#2B8A3E",
+   "title": "À quel prix ?",
+   "description": "Des questions qui se répondent avec une somme d’argent.",
+   "en": [
+    "At What Price?",
+    "Questions you answer with an amount of money."
+   ],
+   "es": [
+    "¿A qué precio?",
+    "Preguntas que se responden con una cantidad de dinero."
+   ],
+   "it": [
+    "A che prezzo?",
+    "Domande a cui si risponde con una somma di denaro."
+   ],
+   "de": [
+    "Zu welchem Preis?",
+    "Fragen, die man mit einem Geldbetrag beantwortet."
+   ],
+   "pt": [
+    "A que preço?",
+    "Perguntas respondidas com uma quantia em dinheiro."
+   ],
+   "nl": [
+    "Voor welke prijs?",
+    "Vragen die je beantwoordt met een geldbedrag."
+   ]
+  },
+  {
+   "id": "annulation",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#C2255C",
+   "title": "Annulation sociale",
+   "description": "Des réponses qui lancent des débats sans fin.",
+   "en": [
+    "Cancel Culture",
+    "Answers that start endless debates."
+   ],
+   "es": [
+    "Cultura de la cancelación",
+    "Respuestas que desatan debates sin fin."
+   ],
+   "it": [
+    "Cancel culture",
+    "Risposte che scatenano dibattiti infiniti."
+   ],
+   "de": [
+    "Cancel Culture",
+    "Antworten, die endlose Debatten auslösen."
+   ],
+   "pt": [
+    "Cultura do cancelamento",
+    "Respostas que geram debates sem fim."
+   ],
+   "nl": [
+    "Cancelcultuur",
+    "Antwoorden die eindeloze discussies starten."
+   ]
+  },
+  {
+   "id": "quotidien",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#0F9D8A",
+   "title": "Maison & Quotidien",
+   "description": "Déco, ménage, objets, habitudes et voisinage.",
+   "en": [
+    "Home & Everyday Life",
+    "Decor, chores, objects, habits and neighbours."
+   ],
+   "es": [
+    "Casa y día a día",
+    "Decoración, limpieza, objetos, hábitos y vecinos."
+   ],
+   "it": [
+    "Casa e quotidiano",
+    "Arredamento, pulizie, oggetti, abitudini e vicinato."
+   ],
+   "de": [
+    "Zuhause & Alltag",
+    "Deko, Haushalt, Gegenstände, Gewohnheiten und Nachbarschaft."
+   ],
+   "pt": [
+    "Casa e dia a dia",
+    "Decoração, faxina, objetos, hábitos e vizinhança."
+   ],
+   "nl": [
+    "Huis & dagelijks leven",
+    "Inrichting, huishouden, spullen, gewoontes en buren."
+   ]
+  },
+  {
+   "id": "marques",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#E8590C",
+   "title": "Marques & Consommation",
+   "description": "Produits, magasins, pubs et achats.",
+   "en": [
+    "Brands & Shopping",
+    "Products, shops, ads and purchases."
+   ],
+   "es": [
+    "Marcas y consumo",
+    "Productos, tiendas, anuncios y compras."
+   ],
+   "it": [
+    "Marchi e consumi",
+    "Prodotti, negozi, pubblicità e acquisti."
+   ],
+   "de": [
+    "Marken & Konsum",
+    "Produkte, Läden, Werbung und Einkäufe."
+   ],
+   "pt": [
+    "Marcas e consumo",
+    "Produtos, lojas, propagandas e compras."
+   ],
+   "nl": [
+    "Merken & consumptie",
+    "Producten, winkels, reclames en aankopen."
+   ]
+  },
+  {
+   "id": "sorties",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#7C3AED",
+   "title": "Sorties & Divertissements",
+   "description": "Parcs d’attractions, spectacles, festivals et activités.",
+   "en": [
+    "Outings & Entertainment",
+    "Theme parks, shows, festivals and activities."
+   ],
+   "es": [
+    "Salidas y ocio",
+    "Parques de atracciones, espectáculos, festivales y actividades."
+   ],
+   "it": [
+    "Uscite e divertimenti",
+    "Parchi divertimento, spettacoli, festival e attività."
+   ],
+   "de": [
+    "Ausflüge & Unterhaltung",
+    "Freizeitparks, Shows, Festivals und Aktivitäten."
+   ],
+   "pt": [
+    "Passeios e diversão",
+    "Parques de diversão, shows, festivais e atividades."
+   ],
+   "nl": [
+    "Uitjes & vermaak",
+    "Pretparken, shows, festivals en activiteiten."
+   ]
+  },
+  {
+   "id": "qui-piece",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#E11D74",
+   "title": "Qui dans la pièce ?",
+   "description": "Les réponses sont les joueurs autour de la table.",
+   "en": [
+    "Who in the Room?",
+    "The answers are the players around the table."
+   ],
+   "es": [
+    "¿Quién de la sala?",
+    "Las respuestas son los jugadores de la mesa."
+   ],
+   "it": [
+    "Chi nella stanza?",
+    "Le risposte sono i giocatori attorno al tavolo."
+   ],
+   "de": [
+    "Wer im Raum?",
+    "Die Antworten sind die Leute am Tisch."
+   ],
+   "pt": [
+    "Quem na sala?",
+    "As respostas são os jogadores em volta da mesa."
+   ],
+   "nl": [
+    "Wie in de kamer?",
+    "De antwoorden zijn de spelers rond de tafel."
+   ]
+  },
+  {
+   "id": "mauvaise-reponse",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#DC2626",
+   "title": "Mauvaise réponse uniquement",
+   "description": "Interdit de bien répondre : on répond volontairement à côté.",
+   "en": [
+    "Wrong Answers Only",
+    "No right answers allowed: answer badly on purpose."
+   ],
+   "es": [
+    "Solo respuestas malas",
+    "Prohibido acertar: se responde mal a propósito."
+   ],
+   "it": [
+    "Solo risposte sbagliate",
+    "Vietato rispondere bene: si sbaglia apposta."
+   ],
+   "de": [
+    "Nur falsche Antworten",
+    "Richtig antworten verboten: absichtlich daneben."
+   ],
+   "pt": [
+    "Só respostas erradas",
+    "Proibido acertar: responda errado de propósito."
+   ],
+   "nl": [
+    "Alleen foute antwoorden",
+    "Goed antwoorden is verboden: antwoord expres verkeerd."
+   ]
+  },
+  {
+   "id": "hors-contexte",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#0B7285",
+   "title": "Hors contexte",
+   "description": "Des phrases normales qui deviennent hilarantes ailleurs.",
+   "en": [
+    "Out of Context",
+    "Normal sentences that become hilarious somewhere else."
+   ],
+   "es": [
+    "Fuera de contexto",
+    "Frases normales que se vuelven graciosísimas en otro sitio."
+   ],
+   "it": [
+    "Fuori contesto",
+    "Frasi normali che altrove diventano esilaranti."
+   ],
+   "de": [
+    "Aus dem Zusammenhang",
+    "Normale Sätze, die anderswo urkomisch werden."
+   ],
+   "pt": [
+    "Fora de contexto",
+    "Frases normais que ficam hilárias em outro lugar."
+   ],
+   "nl": [
+    "Uit de context",
+    "Gewone zinnen die ergens anders hilarisch worden."
+   ]
+  },
+  {
+   "id": "experiences",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#B45309",
+   "title": "Expériences",
+   "description": "Avis, commentaires et expériences ratées.",
+   "en": [
+    "Experiences",
+    "Reviews, comments and experiences gone wrong."
+   ],
+   "es": [
+    "Experiencias",
+    "Opiniones, comentarios y experiencias fallidas."
+   ],
+   "it": [
+    "Esperienze",
+    "Recensioni, commenti ed esperienze andate male."
+   ],
+   "de": [
+    "Erlebnisse",
+    "Bewertungen, Kommentare und missglückte Erlebnisse."
+   ],
+   "pt": [
+    "Experiências",
+    "Avaliações, comentários e experiências que deram errado."
+   ],
+   "nl": [
+    "Ervaringen",
+    "Reviews, opmerkingen en mislukte ervaringen."
+   ]
+  },
+  {
+   "id": "societe",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#334E68",
+   "title": "Société & Opinions",
+   "description": "Débats, controverses, comportements et valeurs.",
+   "en": [
+    "Society & Opinions",
+    "Debates, controversies, behaviour and values."
+   ],
+   "es": [
+    "Sociedad y opiniones",
+    "Debates, polémicas, comportamientos y valores."
+   ],
+   "it": [
+    "Società e opinioni",
+    "Dibattiti, polemiche, comportamenti e valori."
+   ],
+   "de": [
+    "Gesellschaft & Meinungen",
+    "Debatten, Kontroversen, Verhalten und Werte."
+   ],
+   "pt": [
+    "Sociedade e opiniões",
+    "Debates, polêmicas, comportamentos e valores."
+   ],
+   "nl": [
+    "Samenleving & meningen",
+    "Debatten, controverses, gedrag en waarden."
+   ]
+  }
+ ],
+ "order": [
+  "classique",
+  "bouffe",
+  "voyage",
+  "nature",
+  "famille",
+  "enfance",
+  "fetes",
+  "reflexe",
+  "quotidien",
+  "marques",
+  "sorties",
+  "culture",
+  "histoire",
+  "science",
+  "espace",
+  "generations",
+  "annees80",
+  "annees90",
+  "annees2000",
+  "annees2010",
+  "genz",
+  "gen-enfance",
+  "politesse",
+  "soiree",
+  "psychologie-personnalite",
+  "mensonges-excuses",
+  "imaginaire",
+  "ecrans",
+  "mangas",
+  "gaming",
+  "technologie",
+  "ia",
+  "sport",
+  "football",
+  "basket",
+  "tennis",
+  "formule1",
+  "musculation",
+  "miroir",
+  "argent-shopping",
+  "luxe",
+  "millionnaire",
+  "business",
+  "beaute-apparence",
+  "mode",
+  "inacceptable",
+  "quel-prix",
+  "annulation",
+  "qui-piece",
+  "mauvaise-reponse",
+  "hors-contexte",
+  "experiences",
+  "societe",
+  "infractions",
+  "boulot",
+  "maison",
+  "amour-couple",
+  "spicy"
+ ],
+ "lot_accent": {
+  "lot:famille": "#20C997",
+  "lot:potes": "#7548EF",
+  "lot:adultes": "#E03159"
+ },
+ "ui": {
+  "Questions bientôt": {
+   "en": "Questions coming soon",
+   "es": "Preguntas muy pronto",
+   "it": "Domande in arrivo",
+   "de": "Fragen folgen bald",
+   "pt": "Perguntas em breve",
+   "nl": "Vragen volgen binnenkort"
+  },
+  "Les questions de ce thème arrivent bientôt.": {
+   "en": "Questions for this theme are coming soon.",
+   "es": "Las preguntas de este tema llegarán pronto.",
+   "it": "Le domande di questo tema arrivano presto.",
+   "de": "Die Fragen zu diesem Thema kommen bald.",
+   "pt": "As perguntas deste tema chegam em breve.",
+   "nl": "De vragen voor dit thema komen binnenkort."
+  },
+  "Inclus avec le pack {p}": {
+   "en": "Included with the {p} pack",
+   "es": "Incluido con el pack {p}",
+   "it": "Incluso nel pack {p}",
+   "de": "Im Pack {p} enthalten",
+   "pt": "Incluído no pacote {p}",
+   "nl": "Inbegrepen bij het pack {p}"
+  },
+  "Thèmes à venir": {
+   "en": "Coming soon",
+   "es": "Próximos temas",
+   "it": "Temi in arrivo",
+   "de": "Demnächst",
+   "pt": "Próximos temas",
+   "nl": "Binnenkort"
+  },
+  "Bientôt": {
+   "en": "Soon",
+   "es": "Pronto",
+   "it": "Presto",
+   "de": "Bald",
+   "pt": "Em breve",
+   "nl": "Binnenkort"
+  }
+ }
+}

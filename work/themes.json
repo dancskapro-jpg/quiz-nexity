@@ -1151,6 +1151,70 @@
     "Samenleving & meningen",
     "Debatten, controverses, gedrag en waarden."
    ]
+  },
+  {
+   "id": "commerce",
+   "parent": null,
+   "cat": "famille",
+   "accent": "#C2410C",
+   "title": "Commerce & Shopping",
+   "description": "Magasins, promos, achats compulsifs, vendeurs et clients.",
+   "en": [
+    "Retail & Shopping",
+    "Shops, sales, impulse buys, sellers and customers."
+   ],
+   "es": [
+    "Comercio y compras",
+    "Tiendas, rebajas, compras compulsivas, vendedores y clientes."
+   ],
+   "it": [
+    "Commercio e shopping",
+    "Negozi, saldi, acquisti compulsivi, commessi e clienti."
+   ],
+   "de": [
+    "Handel & Shopping",
+    "Läden, Rabatte, Frustkäufe, Verkäufer und Kunden."
+   ],
+   "pt": [
+    "Comércio e compras",
+    "Lojas, promoções, compras por impulso, vendedores e clientes."
+   ],
+   "nl": [
+    "Winkels & shoppen",
+    "Winkels, kortingen, impulsaankopen, verkopers en klanten."
+   ]
+  },
+  {
+   "id": "rencontres",
+   "parent": null,
+   "cat": "potes",
+   "accent": "#0E7490",
+   "title": "Rencontres & Interactions",
+   "description": "Inconnus, conversations et premières impressions.",
+   "en": [
+    "Meetings & Interactions",
+    "Strangers, conversations and first impressions."
+   ],
+   "es": [
+    "Encuentros e interacciones",
+    "Desconocidos, conversaciones y primeras impresiones."
+   ],
+   "it": [
+    "Incontri e interazioni",
+    "Sconosciuti, conversazioni e prime impressioni."
+   ],
+   "de": [
+    "Begegnungen & Kontakte",
+    "Fremde, Gespräche und erste Eindrücke."
+   ],
+   "pt": [
+    "Encontros e interações",
+    "Desconhecidos, conversas e primeiras impressões."
+   ],
+   "nl": [
+    "Ontmoetingen & contact",
+    "Onbekenden, gesprekken en eerste indrukken."
+   ]
   }
  ],
  "order": [
@@ -1164,6 +1228,7 @@
   "reflexe",
   "quotidien",
   "marques",
+  "commerce",
   "sorties",
   "culture",
   "histoire",
@@ -1207,6 +1272,7 @@
   "hors-contexte",
   "experiences",
   "societe",
+  "rencontres",
   "infractions",
   "boulot",
   "maison",
